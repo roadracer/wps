@@ -297,10 +297,7 @@ Proszę sprawdź ustawienia systemowe i upewnij się, że katalog tymczasowy akt
     <message>
         <source>No Item In Collection</source>
         <comment>_ksoErr_Basic_NoItemInCollection</comment>
-        <translation variants="yes">
-            <lengthvariant>Brak elementu w kolekcji</lengthvariant>
-            <lengthvariant>Brak elementów w kolekcji</lengthvariant>
-        </translation>
+        <translation>Brak elementu w kolekcji</translation>
     </message>
     <message>
         <source>Object Deleted</source>
@@ -320,10 +317,7 @@ Proszę sprawdź ustawienia systemowe i upewnij się, że katalog tymczasowy akt
     <message>
         <source>Command Failed</source>
         <comment>_ksoErr_Basic_CommandFailed</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można wykonać polecenia</lengthvariant>
-            <lengthvariant>Wykonanie polecenia nie powiodło się</lengthvariant>
-        </translation>
+        <translation>Nie można wykonać polecenia</translation>
     </message>
     <message>
         <source>Unknown Error</source>
@@ -361,14 +355,16 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
     <message>
         <source>Value Out of Range</source>
         <comment>_ksoErr_Basic_ValueOutOfRange</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wartość spoza zakresu</translation>
     </message>
     <message>
         <source>The current user does not have the permission to write to the temporary directory.
 
 Please check your system settings and ensure that the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bieżący użytkownik nie ma uprawnień do zapisu w katalogu tymczasowym.
+
+Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczasowego katalogu dla bieżącego użytkownika, a następnie ponownie uruchom program WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -381,10 +377,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>The contents of the clipboard will be inserted as text without any formatting.</source>
         <comment>TX_KSO_CF_TEXT_RESULTNAME</comment>
-        <translation variants="yes">
-            <lengthvariant>Zawartość schowka zostanie wstawiona jako tekst niesformatowany.</lengthvariant>
-            <lengthvariant>Zawartość schowka zostanie wstawiona jako tekst bez żadnego formatu.</lengthvariant>
-        </translation>
+        <translation>Zawartość schowka zostanie wstawiona jako tekst bez żadnego formatu.</translation>
     </message>
     <message>
         <source>Data of WPS Writer</source>
@@ -464,10 +457,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>The contents of the clipboard will be inserted as an Enhanced Metafile.</source>
         <comment>TX_KSO_CF_PIC_ENHMETAFILEPICT_RESULTNAME</comment>
-        <translation variants="yes">
-            <lengthvariant>Zawartość schowka zostanie wstawiona jako rozszerzony metaplik.</lengthvariant>
-            <lengthvariant>Zawartość schowka zostanie wstawiona jako obraz (rozszerzony metaplik).</lengthvariant>
-        </translation>
+        <translation>Zawartość schowka zostanie wstawiona jako rozszerzony metaplik.</translation>
     </message>
     <message>
         <source>Picture (PNG)</source>
@@ -507,7 +497,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>The contents of the clipboard will be inserted as a Bitmap picture.</source>
         <comment>TX_KSO_CF_PIC_BITMAP_RESULTNAME</comment>
-        <translation>Zawartość schowka zostanie wstawiona jako obraz mapa bitowa.</translation>
+        <translation>Zawartość schowka zostanie wstawiona jako mapa bitowa.</translation>
     </message>
     <message>
         <source>Device Independent Bitmap</source>
@@ -537,10 +527,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>The contents of the clipboard will be inserted as Text with Font and Table Formatting.</source>
         <comment>TX_KSO_CF_RTF_RESULTNAME</comment>
-        <translation variants="yes">
-            <lengthvariant>Zawartość schowka zostanie wstawiona jako tekst, w którym tabele i czcionka zostały sformatowane.</lengthvariant>
-            <lengthvariant>Zawartość schowka zostanie wstawiona jako tekst z parametrami czcionki i tabelami.</lengthvariant>
-        </translation>
+        <translation>Zawartość schowka zostanie wstawiona jako tekst, w którym tabele i czcionka zostały sformatowane.</translation>
     </message>
     <message>
         <source>HTML Format</source>
@@ -565,10 +552,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>FILES</source>
         <comment>TX_KSO_CF_HDROP_DISPNAME</comment>
-        <translation variants="yes">
-            <lengthvariant>PLIKI</lengthvariant>
-            <lengthvariant>Pliki</lengthvariant>
-        </translation>
+        <translation>PLIKI</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as FILES Format.</source>
@@ -578,7 +562,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>%s Object</source>
         <comment>TX_KSO_CF_EMBEDSOURCE_DISPNAME</comment>
-        <translation>%s Obiekt</translation>
+        <translation>Obiekt %s</translation>
     </message>
     <message>
         <source>Picture(JPEG)</source>
@@ -646,10 +630,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_DlgPictureTitle</comment>
-        <translation variants="yes">
-            <lengthvariant>Wstaw obraz</lengthvariant>
-            <lengthvariant>Wstawianie obrazu</lengthvariant>
-        </translation>
+        <translation>Wstaw obraz</translation>
     </message>
     <message>
         <source>Insert AutoShape</source>
@@ -899,10 +880,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Recent Fill Color</source>
         <comment>DgUil_KSO_Cmd_RecentFillColor</comment>
-        <translation variants="yes">
-            <lengthvariant>Kolor ostatniego wypełnienia</lengthvariant>
-            <lengthvariant>Ostatni kolor wypełnienia</lengthvariant>
-        </translation>
+        <translation>Ostatni kolor wypełnienia</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -942,26 +920,17 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Format Shape</source>
         <comment>DgUil_KSO_Cmd_DashStylePalette</comment>
-        <translation variants="yes">
-            <lengthvariant>Formatuj kształt</lengthvariant>
-            <lengthvariant>Formatowanie kształtu</lengthvariant>
-        </translation>
+        <translation>Formatuj kształt</translation>
     </message>
     <message>
         <source>Format Shape</source>
         <comment>DgUil_KSO_Cmd_ArrowStylePalette</comment>
-        <translation variants="yes">
-            <lengthvariant>Formatuj kształt</lengthvariant>
-            <lengthvariant>Formatowanie kształtu</lengthvariant>
-        </translation>
+        <translation>Formatuj kształt</translation>
     </message>
     <message>
         <source>Format Shape</source>
         <comment>DgUil_KSO_Cmd_MoreArrows</comment>
-        <translation variants="yes">
-            <lengthvariant>Formatuj kształt</lengthvariant>
-            <lengthvariant>Formatowanie kształtu</lengthvariant>
-        </translation>
+        <translation>Formatuj kształt</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -1011,10 +980,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>No 3-D</source>
         <comment>DgUil_KSO_Cmd_No3DStyle</comment>
-        <translation variants="yes">
-            <lengthvariant>Bez efektu 3-D</lengthvariant>
-            <lengthvariant>Bez 3-D</lengthvariant>
-        </translation>
+        <translation>Bez efektu 3-D</translation>
     </message>
     <message>
         <source>3-D</source>
@@ -1164,10 +1130,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Delete Segment</source>
         <comment>DgUil_KSO_Cmd_DeleteSegment</comment>
-        <translation variants="yes">
-            <lengthvariant>Usuń segment</lengthvariant>
-            <lengthvariant>Usuń odcinek</lengthvariant>
-        </translation>
+        <translation>Usuń segment</translation>
     </message>
     <message>
         <source>Straight Segment</source>
@@ -1197,10 +1160,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Smooth Point</source>
         <comment>DgUil_KSO_Cmd_PointType_Value1</comment>
-        <translation variants="yes">
-            <lengthvariant>Punkt gładki</lengthvariant>
-            <lengthvariant>Gładki punkt</lengthvariant>
-        </translation>
+        <translation>Punkt gładki</translation>
     </message>
     <message>
         <source>Straight Point</source>
@@ -1230,10 +1190,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Edit Hyperlink</source>
         <comment>DgUil_KSO_Cmd_EditHyperlink</comment>
-        <translation variants="yes">
-            <lengthvariant>Edytowanie hiperłącza</lengthvariant>
-            <lengthvariant>Edytuj hiperłącze</lengthvariant>
-        </translation>
+        <translation>Edytuj hiperłącze</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
@@ -1258,10 +1215,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Insert WordArt</source>
         <comment>DgUil_KSO_Cmd_InsertWordArt</comment>
-        <translation variants="yes">
-            <lengthvariant>Wstaw WordArt</lengthvariant>
-            <lengthvariant>Wstaw obiekt WordArt</lengthvariant>
-        </translation>
+        <translation>Wstaw WordArt</translation>
     </message>
     <message>
         <source>Edit Text...</source>
@@ -1276,26 +1230,17 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Format WordArt</source>
         <comment>DgUil_KSO_Cmd_FormatWordArt</comment>
-        <translation variants="yes">
-            <lengthvariant>Formatuj WordArt</lengthvariant>
-            <lengthvariant>Formatuj obiekt WordArt</lengthvariant>
-        </translation>
+        <translation>Formatuj WordArt</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
         <comment>DgUil_KSO_Cmd_WordArtShapePalette</comment>
-        <translation variants="yes">
-            <lengthvariant>Wstaw WordArt</lengthvariant>
-            <lengthvariant>Wstaw obiekt WordArt</lengthvariant>
-        </translation>
+        <translation>Wstaw WordArt</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
         <comment>DgUil_KSO_Cmd_WordArtSameLetterHeights</comment>
-        <translation variants="yes">
-            <lengthvariant>Jednakowa wysokość liter tekstu WordArt</lengthvariant>
-            <lengthvariant>Jednakowa wysokość liter WordArt</lengthvariant>
-        </translation>
+        <translation>Jednakowa wysokość liter tekstu WordArt</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
@@ -1310,10 +1255,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Center</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value1</comment>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkuj</lengthvariant>
-            <lengthvariant>Środek</lengthvariant>
-        </translation>
+        <translation>Wyśrodkuj</translation>
     </message>
     <message>
         <source>Right Align</source>
@@ -1338,10 +1280,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Very Tight</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value0</comment>
-        <translation variants="yes">
-            <lengthvariant>Bardzo przyległe</lengthvariant>
-            <lengthvariant>Zwarte</lengthvariant>
-        </translation>
+        <translation>Bardzo przyległe</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -1396,10 +1335,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Insert Oval</source>
         <comment>DgUil_KSO_Cmd_InsertOval</comment>
-        <translation variants="yes">
-            <lengthvariant>Wstaw owal</lengthvariant>
-            <lengthvariant>Wstaw elipsę</lengthvariant>
-        </translation>
+        <translation>Wstaw owal</translation>
     </message>
     <message>
         <source>Insert Text Box</source>
@@ -1424,10 +1360,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_KSO_Cmd_InsertPictureFromFile</comment>
-        <translation variants="yes">
-            <lengthvariant>Wstaw obraz</lengthvariant>
-            <lengthvariant>Wstawianie obrazu</lengthvariant>
-        </translation>
+        <translation>Wstaw obraz</translation>
     </message>
     <message>
         <source>Insert OLE Object</source>
@@ -1467,10 +1400,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Format Object</source>
         <comment>DgUil_KSO_Cmd_FormatObject</comment>
-        <translation variants="yes">
-            <lengthvariant>Formatuj obiekt</lengthvariant>
-            <lengthvariant>Formatowanie obiektu</lengthvariant>
-        </translation>
+        <translation>Formatuj obiekt</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -1570,10 +1500,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Compress Pictures</source>
         <comment>DgUil_KSO_Cmd_CompressPictures</comment>
-        <translation variants="yes">
-            <lengthvariant>Kompresuj obrazy</lengthvariant>
-            <lengthvariant>Kompresowanie obrazów</lengthvariant>
-        </translation>
+        <translation>Kompresuj obrazy</translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
@@ -1585,10 +1512,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Your Text Here</source>
         <comment>DgUil_KSO_WordArtText</comment>
-        <translation variants="yes">
-            <lengthvariant>Wpisz tutaj własny tekst</lengthvariant>
-            <lengthvariant>Tutaj Twój tekst</lengthvariant>
-        </translation>
+        <translation>Wpisz tutaj własny tekst</translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -1608,10 +1532,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Unidentifiable picture format.</source>
         <comment>DgUil_KSO_Invalid_Picture</comment>
-        <translation variants="yes">
-            <lengthvariant>Niezidentyfikowany format obrazu.</lengthvariant>
-            <lengthvariant>Nieidentyfikowalny format obrazu.</lengthvariant>
-        </translation>
+        <translation>Niezidentyfikowany format obrazu.</translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -1646,10 +1567,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Failed to save as a picture, because the file format is unsupported.</source>
         <comment>DgUil_Cmd_SaveAsPictureFailure</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie udało się zapisać jako obraz, ponieważ format pliku nie jest obsługiwany.</lengthvariant>
-            <lengthvariant>Nie można zapisać jako obraz, ponieważ format pliku nie jest obsługiwany.</lengthvariant>
-        </translation>
+        <translation>Nie można zapisać jako obraz, ponieważ format pliku nie jest obsługiwany.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1689,12 +1607,12 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>WPS Office cannot start the source application of the object.</source>
         <comment>DgUil_KSO_NotStartUpProcess</comment>
-        <translation>WPS Office nie możne uruchomić aplikacji źródłowej obiektu.</translation>
+        <translation>WPS Office nie może uruchomić aplikacji źródłowej obiektu.</translation>
     </message>
     <message>
         <source>Cannot play the specified file on the specified device. The file may be damaged, or not in the correct format, or no file handler available for this format.</source>
         <comment>DgUil_KSO_MediaFileDamaged</comment>
-        <translation>Nie można odtworzyć podanego pliku na określonym urządzeniu. Plik może być uszkodzony, mieć zły format lub może nie być dostępna obsługa tego formatu.</translation>
+        <translation type="unfinished">Nie można odtworzyć podanego pliku na określonym urządzeniu. Plik może być uszkodzony, mieć niepoprawny format lub może nie być dostępna obsługa tego formatu.</translation>
     </message>
     <message>
         <source>Cannot find the specified file, please verify that the path and file name are correct.</source>
@@ -1717,10 +1635,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Oval</source>
         <comment>DRAWINGSTR_ELLIPSE</comment>
-        <translation variants="yes">
-            <lengthvariant>Owal</lengthvariant>
-            <lengthvariant>Elipsa</lengthvariant>
-        </translation>
+        <translation>Owal</translation>
     </message>
     <message>
         <source>Diamond</source>
@@ -2045,10 +1960,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Heart</source>
         <comment>DRAWINGSTR_HEART</comment>
-        <translation variants="yes">
-            <lengthvariant>Serce</lengthvariant>
-            <lengthvariant>Kier</lengthvariant>
-        </translation>
+        <translation>Serce</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -2103,34 +2015,22 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Left Bracket</source>
         <comment>DRAWINGSTR_LEFTBRACKET</comment>
-        <translation variants="yes">
-            <lengthvariant>Nawias otwierający</lengthvariant>
-            <lengthvariant>Lewy nawias kwadratowy</lengthvariant>
-        </translation>
+        <translation>Nawias otwierający</translation>
     </message>
     <message>
         <source>Right Bracket</source>
         <comment>DRAWINGSTR_RIGHTBRACKET</comment>
-        <translation variants="yes">
-            <lengthvariant>Nawias zamykający</lengthvariant>
-            <lengthvariant>Prawy nawias kwadratowy</lengthvariant>
-        </translation>
+        <translation>Nawias zamykający</translation>
     </message>
     <message>
         <source>Left Brace</source>
         <comment>DRAWINGSTR_LEFTBRACE</comment>
-        <translation variants="yes">
-            <lengthvariant>Nawias klamrowy otwierający</lengthvariant>
-            <lengthvariant>Lewy nawias klamrowy</lengthvariant>
-        </translation>
+        <translation>Nawias klamrowy otwierający</translation>
     </message>
     <message>
         <source>Right Brace</source>
         <comment>DRAWINGSTR_RIGHTBRACE</comment>
-        <translation variants="yes">
-            <lengthvariant>Nawias klamrowy zamykający</lengthvariant>
-            <lengthvariant>Prawy nawias klamrowy</lengthvariant>
-        </translation>
+        <translation>Nawias klamrowy zamykający</translation>
     </message>
     <message>
         <source>Left-Up Arrow</source>
@@ -2170,10 +2070,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Smiling Face</source>
         <comment>DRAWINGSTR_SMILEYFACE</comment>
-        <translation variants="yes">
-            <lengthvariant>Uśmiechnięta buźka</lengthvariant>
-            <lengthvariant>Uśmiechnięta twarz</lengthvariant>
-        </translation>
+        <translation>Uśmiechnięta buźka</translation>
     </message>
     <message>
         <source>Vertical Scroll</source>
@@ -2338,10 +2235,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>FlowChart: Offline Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTOFFLINESTORAGE</comment>
-        <translation variants="yes">
-            <lengthvariant>Schemat blokowy: magazyn w trybie offline</lengthvariant>
-            <lengthvariant>Schemat blokowy: pamięć w trybie offline</lengthvariant>
-        </translation>
+        <translation>Schemat blokowy: magazyn w trybie offline</translation>
     </message>
     <message>
         <source>Flowchart: Stored Data</source>
@@ -2401,18 +2295,12 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>WordArt: Ring Inside</source>
         <comment>DRAWINGSTR_TEXTRINGINSIDE</comment>
-        <translation variants="yes">
-            <lengthvariant>WordArt: wnętrze pierścienia</lengthvariant>
-            <lengthvariant>WordArt: pierścień-strona wewnętrzna</lengthvariant>
-        </translation>
+        <translation>WordArt: wnętrze pierścienia</translation>
     </message>
     <message>
         <source>WordArt: Ring Outside</source>
         <comment>DRAWINGSTR_TEXTRINGOUTSIDE</comment>
-        <translation variants="yes">
-            <lengthvariant>WordArt: zewnętrze pierścienia</lengthvariant>
-            <lengthvariant>WordArt: pierścień-strona zewnętrzna</lengthvariant>
-        </translation>
+        <translation>WordArt: zewnętrze pierścienia</translation>
     </message>
     <message>
         <source>WordArt: Arch Up Curve</source>
@@ -2762,18 +2650,12 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Two-seater</source>
         <comment>DRAWINGSTR_COUCH1</comment>
-        <translation variants="yes">
-            <lengthvariant>Dwuosobowa</lengthvariant>
-            <lengthvariant>Dwumiejscowa</lengthvariant>
-        </translation>
+        <translation>Dwuosobowa</translation>
     </message>
     <message>
         <source>Three-seater</source>
         <comment>DRAWINGSTR_COUCH2</comment>
-        <translation variants="yes">
-            <lengthvariant>Trzyosobowa</lengthvariant>
-            <lengthvariant>Trzymiejscowa</lengthvariant>
-        </translation>
+        <translation>Trzyosobowa</translation>
     </message>
     <message>
         <source>Curved Ribbon3</source>
@@ -2828,10 +2710,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>File Cab (horizontal)</source>
         <comment>DRAWINGSTR_FILECAB3</comment>
-        <translation variants="yes">
-            <lengthvariant>Plik Cab (poziomo)</lengthvariant>
-            <lengthvariant>Plik Cab (poziomy)</lengthvariant>
-        </translation>
+        <translation>Plik Cab (poziomo)</translation>
     </message>
     <message>
         <source>Film</source>
@@ -2846,18 +2725,12 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Floor Lamp</source>
         <comment>DRAWINGSTR_FLOORLAMP</comment>
-        <translation variants="yes">
-            <lengthvariant>Lampa podłogowa</lengthvariant>
-            <lengthvariant>Lampa na podłogę</lengthvariant>
-        </translation>
+        <translation>Lampa podłogowa</translation>
     </message>
     <message>
         <source>Feedback form/order form</source>
         <comment>DRAWINGSTR_FORM</comment>
-        <translation variants="yes">
-            <lengthvariant>Formularz opinii/formularz zamówienia</lengthvariant>
-            <lengthvariant>Formularz zwrotny/formularz zamówienia</lengthvariant>
-        </translation>
+        <translation>Formularz opinii/formularz zamówienia</translation>
     </message>
     <message>
         <source>Gear</source>
@@ -2877,10 +2750,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Laptop</source>
         <comment>DRAWINGSTR_LAPTOP</comment>
-        <translation variants="yes">
-            <lengthvariant>Komputer przenośny</lengthvariant>
-            <lengthvariant>Laptop</lengthvariant>
-        </translation>
+        <translation>Komputer przenośny</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -2925,10 +2795,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>PC</source>
         <comment>DRAWINGSTR_PC</comment>
-        <translation variants="yes">
-            <lengthvariant>Komputer PC</lengthvariant>
-            <lengthvariant>Komputer</lengthvariant>
-        </translation>
+        <translation>Komputer PC</translation>
     </message>
     <message>
         <source>Phone</source>
@@ -3253,10 +3120,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Insert Picture</source>
         <comment>DRAWINGSTR_INSERT_PICTURE</comment>
-        <translation variants="yes">
-            <lengthvariant>Wstaw obraz</lengthvariant>
-            <lengthvariant>Wstawianie obrazu</lengthvariant>
-        </translation>
+        <translation>Wstaw obraz</translation>
     </message>
     <message>
         <source>Invalid index</source>
@@ -3266,10 +3130,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Invalid request. To select a shape, its view must be activated.</source>
         <comment>DRAWINGSTR_ERR_NOACTIVEVIEW</comment>
-        <translation variants="yes">
-            <lengthvariant>Nieprawidłowe żądanie. Aby zaznaczyć kształt, jego widok musi być aktywowany.</lengthvariant>
-            <lengthvariant>Nieprawidłowe żądanie. Aby wybrać kształt, jego widok musi być aktywowany.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowe żądanie. Aby zaznaczyć kształt, jego widok musi być aktywowany.</translation>
     </message>
     <message>
         <source>The value specified is beyond the range.</source>
@@ -3294,10 +3155,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Default</source>
         <comment>DRAWINGSTR_DGMSTYLE_DEFAULT</comment>
-        <translation variants="yes">
-            <lengthvariant>Domyślny</lengthvariant>
-            <lengthvariant>Domyślnie</lengthvariant>
-        </translation>
+        <translation>Domyślnie</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -3560,7 +3418,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
         <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
-        <translation type="unfinished"></translation>
+        <translation>Według autora ten element powinien zostać otwarty w trybie tylko do odczytu, o ile nie musisz wprowadzać w nim zmian. Czy otworzyć go tylko do odczytu?</translation>
     </message>
 </context>
 <context>
@@ -3583,7 +3441,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>You have no permission to save files. Please check your permission information.</source>
         <comment>TxKRM_Msg_SaveFileDenied</comment>
-        <translation>Nie uprawnień do zapisywania plików. Proszę sprawdź swoje informacje o uprawnieniach.</translation>
+        <translation>Nie masz uprawnień do zapisywania plików. Proszę sprawdź informacje o uprawnieniach.</translation>
     </message>
 </context>
 <context>
@@ -3768,18 +3626,12 @@ Plik: %s</translation>
     <message>
         <source>Send out successfully</source>
         <comment>_kso_ErrorRep_MessageBox_CompleteSend_Title</comment>
-        <translation variants="yes">
-            <lengthvariant>Wysyłanie powiodło się</lengthvariant>
-            <lengthvariant>Wysłano pomyślnie</lengthvariant>
-        </translation>
+        <translation>Wysyłanie powiodło się</translation>
     </message>
     <message>
         <source>Data transfer completed, thanks for your support.</source>
         <comment>_kso_ErrorRep_MessageBox_CompleteSend_Content</comment>
-        <translation variants="yes">
-            <lengthvariant>Zakończono transfer danych, dziękujemy za wsparcie.</lengthvariant>
-            <lengthvariant>Ukończono transfer danych, dziękujemy za wsparcie.</lengthvariant>
-        </translation>
+        <translation>Ukończono transfer danych, dziękujemy za wsparcie.</translation>
     </message>
     <message>
         <source>Terminate sending</source>
@@ -3789,10 +3641,7 @@ Plik: %s</translation>
     <message>
         <source>Sending report is not completed yet. Are you sure to terminate sending?</source>
         <comment>_kso_ErrorRep_MessageBox_TerminateSend_Content</comment>
-        <translation variants="yes">
-            <lengthvariant>Wysyłanie raportu nie zostało jeszcze ukończone. Czy na pewno chcesz przerwać wysyłanie?</lengthvariant>
-            <lengthvariant>Wysyłanie raportu jeszcze się nie zakończyło. Czy na pewno chcesz przerwać wysyłanie?</lengthvariant>
-        </translation>
+        <translation>Wysyłanie raportu nie zostało jeszcze ukończone. Czy na pewno chcesz przerwać wysyłanie?</translation>
     </message>
     <message>
         <source>The password is incorrect, please reenter.
@@ -3874,10 +3723,7 @@ Możesz wybrać przycisk Tylko do odczytu, aby otworzyć go w trybie tylko do od
     <message>
         <source> Development</source>
         <comment>_kso_versionType_DEV</comment>
-        <translation variants="yes">
-            <lengthvariant> Dla programistów</lengthvariant>
-            <lengthvariant> Rozwojowa</lengthvariant>
-        </translation>
+        <translation> Rozwojowa</translation>
     </message>
     <message>
         <source> OEM</source>
@@ -4273,12 +4119,8 @@ Możesz wybrać przycisk Tylko do odczytu, aby otworzyć go w trybie tylko do od
         <source>Sorry, WPS Office crashes.
 You can click the button to recover files you work on.</source>
         <comment>_kso_crashdlg_warmtext</comment>
-        <translation variants="yes">
-            <lengthvariant>Przepraszamy, wystąpiła awaria WPS Office.
-Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</lengthvariant>
-            <lengthvariant>Przepraszamy, WPS Office uległ awarii.
-Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</lengthvariant>
-        </translation>
+        <translation>Przepraszamy, WPS Office uległ awarii.
+Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</translation>
     </message>
     <message>
         <source>&lt;a normal=&apos;cbsend&apos;&gt;Send &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;the error report&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt; to help us improve our products.&lt;/a&gt;</source>
@@ -4423,10 +4265,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</length
     <message>
         <source>WebPages</source>
         <comment>_kso_filesearch_WebPages</comment>
-        <translation variants="yes">
-            <lengthvariant>Strony sieci Web</lengthvariant>
-            <lengthvariant>Strony Web</lengthvariant>
-        </translation>
+        <translation>Strony sieci Web</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -4461,10 +4300,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</length
     <message>
         <source>Custom</source>
         <comment>_kso_filesearch_DesignerFiles</comment>
-        <translation variants="yes">
-            <lengthvariant>Niestandardowy</lengthvariant>
-            <lengthvariant>Niestandardowe</lengthvariant>
-        </translation>
+        <translation>Niestandardowe</translation>
     </message>
     <message>
         <source>Your system is missing the required codec that supports this media format</source>
@@ -4673,7 +4509,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</length
     <message>
         <source>Information Rights Management cannot operate in the presence of a debugger. Please close your debugger and try again.</source>
         <comment>_kso_irmio_Error_Debugging</comment>
-        <translation>Usługa Zarządzanie prawami dostępu do informacji (IRM) nie może działać w obecności debugera. Zamknij debugera i próbuj ponownie.</translation>
+        <translation>Usługa Zarządzanie prawami dostępu do informacji (IRM) nie może działać w obecności debugera. Zamknij debugera i spróbuj ponownie.</translation>
     </message>
     <message>
         <source>This service is temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
@@ -4779,7 +4615,13 @@ Aby korzystać z tej funkcji, musisz najpierw zainstalować klienta usług zarz�
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
+•Sprawdź czy katalog kopii zapasowych ma uprawnienia do zapisywania lub spróbuj zmienić katalog kopii zapasowych. 
+•[Cofnij] poprzednie operacje i [Zapisz] go; 
+•[Zapisz jako...] pliki tekstowe（*.txt）; 
+•[Kopiuj/Wklej] zawartość do nowego pliku; 
+•Zrezygnuj ze zmiany pliku. 
+(%s)</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the  following operations: 
@@ -4789,54 +4631,61 @@ Aby korzystać z tej funkcji, musisz najpierw zainstalować klienta usług zarz�
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
+•Sprawdź czy katalog kopii zapasowych ma uprawnienia do zapisywania lub spróbuj zmienić katalog kopii zapasowych. 
+•[Cofnij] poprzednie operacje i [Zapisz] go; 
+•[Kopiuj/Wklej] zawartość do nowego pliku; 
+•Zrezygnuj ze zmiany pliku. 
+(%s)</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO</comment>
-        <translation type="unfinished">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation>Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software is for personal use based on personal purpose only. It is strictly forbidden to use this software on production, business operation and other commercial purposes. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER</comment>
-        <translation type="unfinished"></translation>
+        <translation>To oprogramowanie jest przeznaczone na użytek własny w celu wykorzystania wyłącznie dla celów osobistych. Zabrania się korzystania z tego oprogramowania do produkcji, działalności gospodarczej i innych celów komercyjnych. ||Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>Request additional permissions...</source>
         <comment>_kso_krim_Permission_RequestPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zażądaj dodatkowych uprawnień...</translation>
     </message>
     <message>
         <source>R&amp;equest permissions</source>
         <comment>_kso_irmio_Button_RequestPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>Z&amp;ażądaj uprawnień</translation>
     </message>
     <message>
         <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within the Control Panel.</source>
         <comment>_kso_irmio_Error_Configuration</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS wykrył problem z konfiguracją zarządzania prawami do informacji. Jeśli ten problem będzie się powtarzać, napraw produkt za pomocą Panelu sterowania.</translation>
     </message>
     <message>
         <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
         <comment>_kso_irmio_Error_Connection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ta usługa jest tymczasowo niedostępna. Upewnij się, że masz łączność z tym serwerem. Ten błąd może być spowodowany pracą w trybie offline, ustawieniami serwera proxy uniemożliwiającymi połączenie lub sporadycznymi problemami z siecią.</translation>
     </message>
     <message>
         <source>The service at %1 is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
         <comment>_kso_irmio_Error_Location</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usługa %1 jest tymczasowo niedostępna. Upewnij się, że masz łączność z tym serwerem. Ten błąd może być spowodowany pracą w trybie offline, ustawieniami serwera proxy uniemożliwiającymi połączenie lub sporadycznymi problemami z siecią.</translation>
     </message>
     <message>
         <source>Cannot use feature without credentials</source>
         <comment>_kso_irmio_Error_Credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie można używać tej funkcji bez poświadczeń</translation>
     </message>
     <message>
         <source>Permission for this document is currently restricted. You do not have credentials that allow you to open this document. You can: 
 1. Try changing to another user account to open the document;
 2. Request permission update from %1.</source>
         <comment>_kso_irmio_Error_No_Permission</comment>
-        <translation type="unfinished"></translation>
+        <translation>Uprawnienia do tego dokumentu są obecnie ograniczone. Nie masz poświadczeń umożliwiających otwarcie tego dokumentu. Możesz: 
+1. Spróbuj zmienić konto użytkownika na inne, aby otworzyć dokument;
+2. Zażądaj aktualizacji uprawnienia od %1.</translation>
     </message>
 </context>
 <context>
@@ -4854,10 +4703,7 @@ Aby korzystać z tej funkcji, musisz najpierw zainstalować klienta usług zarz�
     <message>
         <source>Please remove the paper with one side printed from output tray and place it back in the input bin, then press OK to continue printing.</source>
         <comment>_kso_Print_Msg</comment>
-        <translation variants="yes">
-            <lengthvariant>Proszę wyjmij z zasobnika drukarki kartki z jednostronnym nadrukiem i włóż je ponownie do podajnika, a następnie naciśnij przycisk OK, aby kontynuować drukowanie.</lengthvariant>
-            <lengthvariant>Proszę wyjmij z zasobnika drukarki kartki z wydrukowaną stroną przednią i włóż je ponownie do podajnika, a następnie naciśnij przycisk OK, aby kontynuować drukowanie.</lengthvariant>
-        </translation>
+        <translation>Proszę wyjmij z zasobnika drukarki kartki z jednostronnym nadrukiem i włóż je ponownie do podajnika, a następnie naciśnij przycisk OK, aby kontynuować drukowanie.</translation>
     </message>
     <message>
         <source>Use printer settings</source>
@@ -4874,10 +4720,7 @@ Jeśli problem nadal występuje, można wydrukować stronę testową, klikając 
     <message>
         <source>Save Print Output As</source>
         <comment>_kso_Print_OutputFileDialog_Title</comment>
-        <translation variants="yes">
-            <lengthvariant>Zapisz wydruk jako</lengthvariant>
-            <lengthvariant>Zapisywanie wydruku jako</lengthvariant>
-        </translation>
+        <translation>Zapisz wydruk jako</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|Printer Files(*.prn)|*.prn</source>
@@ -4903,7 +4746,9 @@ Czy chcesz kontynuować?</translation>
 You can add the customized paper %dmm x %dmm in printer properties and print again.
 Continue printing?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation type="unfinished"></translation>
+        <translation>Drukarka nie obsługuje bieżącego rozmiaru papieru. Kontynuowanie drukowania, może spowodować, że jakość wydruku może być niezadowalająca.
+Możesz dodać niestandardowy papier%dmm x% dmm w właściwościach drukarki i wydrukować to ponownie.
+Kontynuować drukowanie?</translation>
     </message>
 </context>
 <context>
@@ -4986,18 +4831,12 @@ Continue printing?</source>
     <message>
         <source>Recent presentations</source>
         <comment>kso_Recent_Present</comment>
-        <translation variants="yes">
-            <lengthvariant>Ostatnio używane prezentacje</lengthvariant>
-            <lengthvariant>Niedawno używane prezentacje</lengthvariant>
-        </translation>
+        <translation>Ostatnio używane prezentacje</translation>
     </message>
     <message>
         <source>Recent workbooks</source>
         <comment>kso_Recent_WorkBook</comment>
-        <translation variants="yes">
-            <lengthvariant>Ostatnio używane skoroszyty</lengthvariant>
-            <lengthvariant>Niedawno używane skoroszyty</lengthvariant>
-        </translation>
+        <translation>Ostatnio używane skoroszyty</translation>
     </message>
     <message>
         <source>10%</source>
@@ -5147,10 +4986,7 @@ Continue printing?</source>
     <message>
         <source>(Build %s)</source>
         <comment>kso_sBuildNumber</comment>
-        <translation variants="yes">
-            <lengthvariant>(Kompilacja %s)</lengthvariant>
-            <lengthvariant>(Wersja %s)</lengthvariant>
-        </translation>
+        <translation>(Kompilacja %s)</translation>
     </message>
     <message>
         <source>Byte</source>
@@ -5180,10 +5016,7 @@ Continue printing?</source>
     <message>
         <source>CAPS</source>
         <comment>kso_sCaps</comment>
-        <translation variants="yes">
-            <lengthvariant>CAPS</lengthvariant>
-            <lengthvariant>Wielkie litery</lengthvariant>
-        </translation>
+        <translation>CAPS</translation>
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
@@ -5203,10 +5036,7 @@ Continue printing?</source>
     <message>
         <source>Cell Reference</source>
         <comment>kso_sCellReference</comment>
-        <translation variants="yes">
-            <lengthvariant>Odwołanie do komórki</lengthvariant>
-            <lengthvariant>Adres komórki</lengthvariant>
-        </translation>
+        <translation>Odwołanie do komórki</translation>
     </message>
     <message>
         <source>Clear backup files automatically before closing application.</source>
@@ -5221,10 +5051,7 @@ Continue printing?</source>
     <message>
         <source>Clear Recent File Lists automatically before closing application.</source>
         <comment>kso_sClearRecents</comment>
-        <translation variants="yes">
-            <lengthvariant>Automatycznie wyczyść listy niedawno używanych plików przed zamknięciem aplikacji.</lengthvariant>
-            <lengthvariant>Automatycznie wyczyść listy ostatnio używanych plików przed zamknięciem aplikacji.</lengthvariant>
-        </translation>
+        <translation>Automatycznie wyczyść listy niedawno używanych plików przed zamknięciem aplikacji.</translation>
     </message>
     <message>
         <source>Clear temporary files automatically before closing application.</source>
@@ -5234,18 +5061,12 @@ Continue printing?</source>
     <message>
         <source>Clip Art</source>
         <comment>kso_sClipArt_Caption</comment>
-        <translation variants="yes">
-            <lengthvariant>ClipArt</lengthvariant>
-            <lengthvariant>Obiekt ClipArt</lengthvariant>
-        </translation>
+        <translation>ClipArt</translation>
     </message>
     <message>
         <source>Clip Art</source>
         <comment>kso_sClipArt_DisplayName</comment>
-        <translation variants="yes">
-            <lengthvariant>ClipArt</lengthvariant>
-            <lengthvariant>Obiekt ClipArt</lengthvariant>
-        </translation>
+        <translation>ClipArt</translation>
     </message>
     <message>
         <source>Close</source>
@@ -5285,10 +5106,7 @@ Continue printing?</source>
     <message>
         <source>Customize</source>
         <comment>kso_sCustomCommandbarName</comment>
-        <translation variants="yes">
-            <lengthvariant>Dostosuj</lengthvariant>
-            <lengthvariant>Dostosowywanie</lengthvariant>
-        </translation>
+        <translation>Dostosuj</translation>
     </message>
     <message>
         <source>Checked by;Client;Date completed;Department;Destination;Disposition;Division;Document number;Editor;Forward to;Group;Language</source>
@@ -5298,10 +5116,7 @@ Continue printing?</source>
     <message>
         <source>Mailstop;Matter;Office;Owner;Project;Publisher;Purpose;Received from;Recorded by;Recorded date;Reference;Source;Status;Telephone number;Typist</source>
         <comment>kso_sCustomItemNames2</comment>
-        <translation variants="yes">
-            <lengthvariant>Poczta e-mail; Temat; Biuro; Właściciel; Projekt; Wydawca; Cel; Odebrane od; Nagrane przez; Data nagrywania; Odwołanie; Źródło; Stan; Numer telefonu; Piszący</lengthvariant>
-            <lengthvariant>Poczta e-mail; Temat; Biuro; Właściciel; Projekt; Wydawca; Cel; Odebrane od; Zarejestrowane przez; Data rejestracji; Odwołanie; Źródło; Stan; Numer telefonu; Piszący</lengthvariant>
-        </translation>
+        <translation>Poczta e-mail; Temat; Biuro; Właściciel; Projekt; Wydawca; Cel; Odebrane od; Nagrane przez; Data nagrywania; Odwołanie; Źródło; Stan; Numer telefonu; Piszący</translation>
     </message>
     <message>
         <source>&amp;Modify</source>
@@ -5406,10 +5221,7 @@ Continue printing?</source>
     <message>
         <source>Dotted diamond</source>
         <comment>kso_sDottedDiamond</comment>
-        <translation variants="yes">
-            <lengthvariant>Kropkowane karo</lengthvariant>
-            <lengthvariant>Kropkowany romb</lengthvariant>
-        </translation>
+        <translation>Kropkowane karo</translation>
     </message>
     <message>
         <source>Dotted grid</source>
@@ -5419,10 +5231,7 @@ Continue printing?</source>
     <message>
         <source>Edit Hyperlink</source>
         <comment>kso_sEditHyperlink</comment>
-        <translation variants="yes">
-            <lengthvariant>Edytuj hiperłącze</lengthvariant>
-            <lengthvariant>Edytowanie hiperłącza</lengthvariant>
-        </translation>
+        <translation>Edytuj hiperłącze</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
@@ -5468,12 +5277,8 @@ Continue printing?</source>
         <source>The position you chose to place the PivotTable is not valid. 
 Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
         <comment>kso_sErrorWhenCreateTable_SheetPosErr</comment>
-        <translation variants="yes">
-            <lengthvariant>Pozycja, którą wybrałeś, aby umieścić tabelę przestawną jest nieprawidłowa. 
-Proszę upewnij się, że zakres odwołania jest prawidłowy i nie znajduje się w ukrytym arkuszu.</lengthvariant>
-            <lengthvariant>Położenie, które wybrałeś, aby umieścić tabelę przestawną jest nieprawidłowe. 
-Proszę upewnij się, że zakres odwołania jest prawidłowy i nie znajduje się w ukrytym arkuszu.</lengthvariant>
-        </translation>
+        <translation>Położenie, które wybrałeś, aby umieścić tabelę przestawną jest nieprawidłowe. 
+Proszę upewnij się, że zakres odwołania jest prawidłowy i nie znajduje się w ukrytym arkuszu.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
@@ -5569,10 +5374,7 @@ Proszę sprawdź swoje dane i upewnij się, że odwołanie jest prawidłowe oraz
     <message>
         <source>File not found</source>
         <comment>kso_SFileNotFound</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można odnaleźć pliku</lengthvariant>
-            <lengthvariant>Nie odnaleziono pliku</lengthvariant>
-        </translation>
+        <translation>Nie można odnaleźć pliku</translation>
     </message>
     <message>
         <source>First Slide</source>
@@ -5642,10 +5444,7 @@ Proszę sprawdź swoje dane i upewnij się, że odwołanie jest prawidłowe oraz
     <message>
         <source>Invalid</source>
         <comment>kso_sInvalid</comment>
-        <translation variants="yes">
-            <lengthvariant>Nieprawidłowe</lengthvariant>
-            <lengthvariant>Nieprawidłowy</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowe</translation>
     </message>
     <message>
         <source>The PivotTable field name is not valid. 
@@ -5684,10 +5483,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Aqua</source>
         <comment>kso_sKclAqua</comment>
-        <translation variants="yes">
-            <lengthvariant>Akwamaryna</lengthvariant>
-            <lengthvariant>Niebieskozielony</lengthvariant>
-        </translation>
+        <translation>Akwamaryna</translation>
     </message>
     <message>
         <source>Black</source>
@@ -5887,18 +5683,12 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Ivory</source>
         <comment>kso_sKclIvory</comment>
-        <translation variants="yes">
-            <lengthvariant>Jasnobeżowy</lengthvariant>
-            <lengthvariant>Kość słoniowa</lengthvariant>
-        </translation>
+        <translation>Jasnobeżowy</translation>
     </message>
     <message>
         <source>Lavender</source>
         <comment>kso_sKclLavender</comment>
-        <translation variants="yes">
-            <lengthvariant>Liliowy</lengthvariant>
-            <lengthvariant>Lawendowy</lengthvariant>
-        </translation>
+        <translation>Liliowy</translation>
     </message>
     <message>
         <source>Light Blue</source>
@@ -5918,10 +5708,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Light Turquoise</source>
         <comment>kso_sKclLightTurquoise</comment>
-        <translation variants="yes">
-            <lengthvariant>Jasnoturkusowy</lengthvariant>
-            <lengthvariant>Pastelowobłękitny</lengthvariant>
-        </translation>
+        <translation>Jasnoturkusowy</translation>
     </message>
     <message>
         <source>Light Yellow</source>
@@ -6086,10 +5873,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Long Dash</source>
         <comment>kso_sLineLongDash</comment>
-        <translation variants="yes">
-            <lengthvariant>Długa kreska</lengthvariant>
-            <lengthvariant>Myślnik</lengthvariant>
-        </translation>
+        <translation>Długa kreska</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -6114,10 +5898,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Loading DLL failed</source>
         <comment>kso_sLoadLibFailAndFatal_Caption</comment>
-        <translation variants="yes">
-            <lengthvariant>Ładowanie biblioteki DLL nie powiodło się</lengthvariant>
-            <lengthvariant>Nie można załadować biblioteki DLL</lengthvariant>
-        </translation>
+        <translation>Ładowanie biblioteki DLL nie powiodło się</translation>
     </message>
     <message>
         <source>Loading %s failed. Application will terminate. Please check and try again.</source>
@@ -6282,10 +6063,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>The key length of the file encryption must not be longer than %d characters.</source>
         <comment>kso_sPasswordTooLong</comment>
-        <translation variants="yes">
-            <lengthvariant>Długość klucza szyfrowania pliku nie może być większa niż %d znaków.</lengthvariant>
-            <lengthvariant>Długość klucza szyfrowania pliku nie może być dłuższa niż %d znaków.</lengthvariant>
-        </translation>
+        <translation>Długość klucza szyfrowania pliku nie może być większa niż %d znaków.</translation>
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
@@ -6330,10 +6108,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Product ID: %s</source>
         <comment>kso_sProductID</comment>
-        <translation variants="yes">
-            <lengthvariant>Identyfikator produktu: %s</lengthvariant>
-            <lengthvariant>ID produktu: %s</lengthvariant>
-        </translation>
+        <translation>Identyfikator produktu: %s</translation>
     </message>
     <message>
         <source>&amp;Red:</source>
@@ -6348,10 +6123,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Are you sure you have saved these files you need?</source>
         <comment>kso_sRemoveAllWarning</comment>
-        <translation variants="yes">
-            <lengthvariant>Czy na pewno potrzebne pliki zostały już zapisane?</lengthvariant>
-            <lengthvariant>Czy na pewno masz zapisane potrzebne pliki?</lengthvariant>
-        </translation>
+        <translation>Czy na pewno masz zapisane potrzebne pliki?</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
@@ -6426,10 +6198,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>[Restricted]</source>
         <comment>kso_sSheildedFunction</comment>
-        <translation variants="yes">
-            <lengthvariant>[Ograniczony]</lengthvariant>
-            <lengthvariant>[Ograniczone]</lengthvariant>
-        </translation>
+        <translation>[Ograniczone]</translation>
     </message>
     <message>
         <source>Shingle</source>
@@ -6479,10 +6248,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>DoorOpen</source>
         <comment>kso_sStatusDoorOpen</comment>
-        <translation variants="yes">
-            <lengthvariant>Otwarte drzwiczki</lengthvariant>
-            <lengthvariant>Drzwiczki otwarte</lengthvariant>
-        </translation>
+        <translation>Otwarte drzwiczki</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -6502,10 +6268,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Ready</source>
         <comment>kso_sStatusReady</comment>
-        <translation variants="yes">
-            <lengthvariant>Gotowy</lengthvariant>
-            <lengthvariant>Gotowe</lengthvariant>
-        </translation>
+        <translation>Gotowe</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -6560,10 +6323,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Registered</source>
         <comment>kso_sSymbolRegistered</comment>
-        <translation variants="yes">
-            <lengthvariant>Zarejestrowany</lengthvariant>
-            <lengthvariant>Zarejestrowane</lengthvariant>
-        </translation>
+        <translation>Zarejestrowane</translation>
     </message>
     <message>
         <source>Section</source>
@@ -6638,10 +6398,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Trellis</source>
         <comment>kso_sTrellis</comment>
-        <translation variants="yes">
-            <lengthvariant>Pergola</lengthvariant>
-            <lengthvariant>Krata</lengthvariant>
-        </translation>
+        <translation>Pergola</translation>
     </message>
     <message>
         <source>Thank you for choosing WPS Office series product.
@@ -6661,10 +6418,7 @@ Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard 
     <message>
         <source>(Trial)</source>
         <comment>kso_sTrialVersion</comment>
-        <translation variants="yes">
-            <lengthvariant>(Wersja próbna)</lengthvariant>
-            <lengthvariant>(Trial)</lengthvariant>
-        </translation>
+        <translation>(Wersja próbna)</translation>
     </message>
     <message>
         <source>&lt;List of Toolbars&gt;</source>
@@ -6719,7 +6473,7 @@ Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard 
     <message>
         <source>Small Form Variants;Arabic Presentation Forms-B;Halfwidth and Fullwidth Forms;Specials;Tibetan;Syriac;Thaana;Sinhala;Myanmar;Ethiopic;Cherokee;Canadian Aboriginal Syllabics;Ogham;Runic;Khmer;</source>
         <comment>kso_sUnicodeSubsetList7</comment>
-        <translation>Warianty małych form; Formy prezentacji arabskiej-A; Formy o szerokości pełnej i połówkowej; Specjalne; Tybetański; Syryjski; Thaana; Sinhala; Myanmar; Etiopski; Irokeski; Sylabariusz rdzennych mieszkańców Kanady; Ogam; Runy; Khmerski;</translation>
+        <translation>Warianty małych form; Formy prezentacji arabskiej-A; Formy o szerokości pełnej i połówkowej; Specjalne; Tybetański; Syryjski; Thaana; Syngaleski; Myanmar; Etiopski; Irokeski; Sylabariusz rdzennych mieszkańców Kanady; Ogam; Runy; Khmerski;</translation>
     </message>
     <message>
         <source>Mongolian;Braille;Yi Radicals</source>
@@ -6929,18 +6683,12 @@ Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard 
     <message>
         <source>Ring Inside</source>
         <comment>kso_sWASRingInside</comment>
-        <translation variants="yes">
-            <lengthvariant>Wnętrze pierścienia</lengthvariant>
-            <lengthvariant>Pierścień-strona wewnętrzna</lengthvariant>
-        </translation>
+        <translation>Wnętrze pierścienia</translation>
     </message>
     <message>
         <source>Ring Outside</source>
         <comment>kso_sWASRingOutside</comment>
-        <translation variants="yes">
-            <lengthvariant>Zewnętrze pierścienia</lengthvariant>
-            <lengthvariant>Pierścień-strona zewnętrzna</lengthvariant>
-        </translation>
+        <translation>Zewnętrze pierścienia</translation>
     </message>
     <message>
         <source>Slant Down</source>
@@ -6960,18 +6708,12 @@ Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard 
     <message>
         <source>Triangle Up</source>
         <comment>kso_sWASTriangle</comment>
-        <translation variants="yes">
-            <lengthvariant>Trójkąt skierowany w górę</lengthvariant>
-            <lengthvariant>Trójkąt w górę</lengthvariant>
-        </translation>
+        <translation>Trójkąt skierowany w górę</translation>
     </message>
     <message>
         <source>Triangle Down</source>
         <comment>kso_sWASTriangleDown</comment>
-        <translation variants="yes">
-            <lengthvariant>Trójkąt skierowany w dół</lengthvariant>
-            <lengthvariant>Trójkąt w dół</lengthvariant>
-        </translation>
+        <translation>Trójkąt skierowany w dół</translation>
     </message>
     <message>
         <source>Wave 1</source>
@@ -7239,10 +6981,7 @@ Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard 
     <message>
         <source>The picture is too big to be used as a pattern.</source>
         <comment>kso_sPictureToLargeAndCannotUseasTexture</comment>
-        <translation variants="yes">
-            <lengthvariant>Obraz jest zbyt duży, aby można było go użyć jako deseń.</lengthvariant>
-            <lengthvariant>Obraz jest zbyt duży, aby można było go użyć jako wzorzec.</lengthvariant>
-        </translation>
+        <translation>Obraz jest zbyt duży, aby można było go użyć jako deseń.</translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
@@ -7417,12 +7156,12 @@ Służy do pokazywania kroków zmierzających do celu</translation>
     <message>
         <source>Error happens when application tries to register. Error code: 0x%8.8x.</source>
         <comment>kso_sAppRegisterError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Występuje błąd podczas próby zarejestrowania aplikacji. Kod błędu: 0x%8.8X.</translation>
     </message>
     <message>
         <source>Error happens when application tries to logout. Error code: 0x%8.8x.</source>
         <comment>kso_sAppUnRegisterError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Występuje błąd podczas próby wylogowania aplikacji. Kod błędu: 0x%8.8x.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyze meet the following conditions:
@@ -7430,72 +7169,75 @@ Służy do pokazywania kroków zmierzających do celu</translation>
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
         <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie można utworzyć tabeli przestawnej z tych danych. Proszę sprawdzić, czy dane, które chcesz analizować spełniają następujące warunki:
+1.Upewnij się, że istnieje odwołanie. Jeżeli jest to nazwa, to musi być prawidłowym zakresem;
+2.Upewnij się, że odwołanie jest pojedynczym zakresem i musi zawierać co najmniej dwa wiersze;
+3.Upewnij się, że pierwszy wiersz zakresu odwołania nie zawiera żadnych pustych komórek, nie ma wartości błędu, a każda komórka zawiera nie więcej niż 255 znaków.</translation>
     </message>
     <message>
         <source>Unknown Format Source.</source>
         <comment>kso_sErrPasteLink</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nieznany format źródłowy.</translation>
     </message>
     <message>
         <source>Help file does not exist or encounters an error.</source>
         <comment>kso_sHelpNotFound</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plik pomocy nie istnieje lub napotkał błąd.</translation>
     </message>
     <message>
         <source>Dash Dot</source>
         <comment>kso_sLineDashDot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kreska-kropka</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
         <comment>kso_sLineDashDotDot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
         <comment>kso_sLineLongDashDot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kreska</translation>
     </message>
     <message>
         <source>Solid</source>
         <comment>kso_sLineSolid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ciągła</translation>
     </message>
     <message>
         <source>You have reached the maximum number of retries. Program will terminate.</source>
         <comment>kso_sMaxStep</comment>
-        <translation type="unfinished"></translation>
+        <translation>Osiągnięto maksymalną liczbę ponownych prób. Program zostanie zakończony.</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
         <comment>kso_sRefIsNotValid</comment>
-        <translation type="unfinished">Nieprawidłowe odwołanie.</translation>
+        <translation>Nieprawidłowe odwołanie.</translation>
     </message>
     <message>
         <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sWpsLinkAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wstawia do dokumentu ikonę reprezentującą zawartość pliku. Zmiany w pliku źródłowym będą uwzględniane w dokumencie.</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an existing sheet or unprotect this book.</source>
         <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie można utworzyć tabeli przestawnej w nowym arkuszu, ponieważ ten skoroszyt jest chroniony. Proszę wybierz istniejący arkusz lub wyłącz ochronę tego skoroszytu.</translation>
     </message>
     <message>
         <source>Forward</source>
         <comment>kso_Nav_Forword</comment>
-        <translation type="unfinished"></translation>
+        <translation>Do przodu</translation>
     </message>
     <message>
         <source>The file cannot be deleted. It may be occupied.</source>
         <comment>kso_sCannotRemoveBackupFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie można usunąć pliku. Może on być zajęty.</translation>
     </message>
     <message>
         <source>Some files cannot be deleted. They may be occupied.</source>
         <comment>kso_sCannotRemoveAllBackupFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Niektóre pliki nie mogą być usunięte. Mogą one być zajęte.</translation>
     </message>
 </context>
 <context>

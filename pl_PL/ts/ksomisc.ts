@@ -31,10 +31,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <message>
         <source>Clearing backup files completed, but some files cannot be deleted for being occupied.</source>
         <extracomment>ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such as, one of file locked)</extracomment>
-        <translation variants="yes">
-            <lengthvariant>Ukończono czyszczenie kopii zapasowej plików, ale niektóre zajęte pliki nie mogą być usunięte.</lengthvariant>
-            <lengthvariant>Ukończono czyszczenie kopii zapasowej plików, ale niektóre pliki nie mogą być usunięte, ponieważ są zajęte.</lengthvariant>
-        </translation>
+        <translation>Ukończono czyszczenie kopii zapasowych plików, ale niektóre pliki nie mogą być usunięte, ponieważ są one zajęte.</translation>
     </message>
 </context>
 <context>
@@ -116,10 +113,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Cloud.lnk</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>WPS Chmura.lnk</lengthvariant>
-            <lengthvariant>WPS Cloud.lnk</lengthvariant>
-        </translation>
+        <translation>WPS Cloud.lnk</translation>
     </message>
 </context>
 <context>
@@ -133,17 +127,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <name>KInputSNDlg</name>
     <message>
         <source>Serial Number Entry</source>
-        <translation variants="yes">
-            <lengthvariant>Wprowadzanie numeru seryjnego</lengthvariant>
-            <lengthvariant>Wprowadź numer seryjny</lengthvariant>
-        </translation>
+        <translation>Wprowadzanie numeru seryjnego</translation>
     </message>
     <message>
         <source>Please enter the serial number:</source>
-        <translation variants="yes">
-            <lengthvariant>Wprowadź numer seryjny:</lengthvariant>
-            <lengthvariant>Proszę podać numer seryjny:</lengthvariant>
-        </translation>
+        <translation>Wprowadź numer seryjny:</translation>
     </message>
     <message>
         <source>The serial number you entered already exists.</source>
@@ -153,7 +141,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <message>
         <source>The serial number is invalid. Please confirm it.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Product Management Center -&gt; add -&gt; add an invalid SN.</extracomment>
-        <translation>Numer seryjny jest nieprawidłowy. Proszę potwierdź to.</translation>
+        <translation>Numer seryjny jest nieprawidłowy. Proszę potwierdź go.</translation>
     </message>
 </context>
 <context>
@@ -164,10 +152,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Use WPS Writer to write reports and make up articles.</source>
-        <translation variants="yes">
-            <lengthvariant>Użyj WPS Writer do pisania raportów i tworzenia artykułów.</lengthvariant>
-            <lengthvariant>Użyj WPS Writer, aby pisać raporty i tworzyć artykuły.</lengthvariant>
-        </translation>
+        <translation>Użyj WPS Writer do pisania raportów i tworzenia artykułów.</translation>
     </message>
     <message>
         <source>WPS Presentation.lnk</source>
@@ -175,10 +160,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Use WPS Presentation to edit and play presentations.</source>
-        <translation variants="yes">
-            <lengthvariant>Użyj WPS Presentation do edycji i odtwarzania prezentacji.</lengthvariant>
-            <lengthvariant>Użyj WPS Presentation, aby edytować i odtwarzać prezentacje.</lengthvariant>
-        </translation>
+        <translation>Użyj WPS Presentation do edycji i odtwarzania prezentacji.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets.lnk</source>
@@ -186,10 +168,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Use WPS Spreadsheets to analyze and manage data.</source>
-        <translation variants="yes">
-            <lengthvariant>Użyj WPS Spreadsheets do analizy i zarządzania danymi.</lengthvariant>
-            <lengthvariant>Użyj WPS Spreadsheets, aby analizować i zarządzać danymi.</lengthvariant>
-        </translation>
+        <translation>Użyj WPS Spreadsheets do analizy i zarządzania danymi.</translation>
     </message>
     <message>
         <source>Configuration Tools.lnk</source>
@@ -197,10 +176,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Configure WPS Office</source>
-        <translation variants="yes">
-            <lengthvariant>Konfiguracja WPS Office</lengthvariant>
-            <lengthvariant>Skonfiguruj WPS Office</lengthvariant>
-        </translation>
+        <translation>Konfiguracja WPS Office</translation>
     </message>
     <message>
         <source>Product Management Center.lnk</source>
@@ -216,10 +192,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Link to network to update WPS Office</source>
-        <translation variants="yes">
-            <lengthvariant>Połącz z siecią, aby aktualizować WPS Office</lengthvariant>
-            <lengthvariant>Podłącz do sieci, aby aktualizować WPS Office</lengthvariant>
-        </translation>
+        <translation>Połącz z siecią, aby aktualizować WPS Office</translation>
     </message>
     <message>
         <source>Repair.lnk</source>
@@ -326,15 +299,12 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
-        <translation variants="yes">
-            <lengthvariant>Nie używasz konta administratora. Niektóre funkcje są niedostępne.</lengthvariant>
-            <lengthvariant>Nie używasz konta administratora. Niektóre funkcje nie są dostępne.</lengthvariant>
-        </translation>
+        <translation>Nie używasz konta administratora. Niektóre funkcje są niedostępne.</translation>
     </message>
     <message>
         <source>An error occurred when repairing, please retry.</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd podczas naprawiania, spróbuj ponownie.</translation>
     </message>
 </context>
 <context>
@@ -368,17 +338,11 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Compatible with WPS Office 2012 and earlier version of API</source>
-        <translation variants="yes">
-            <lengthvariant>Zgodny z WPS Office 2012 i wcześniejszą wersją interfejsu API</lengthvariant>
-            <lengthvariant>Kompatybilny z WPS Office 2012 i wcześniejszą wersją interfejsu API</lengthvariant>
-        </translation>
+        <translation>Zgodny z WPS Office 2012 i wcześniejszą wersją interfejsu API</translation>
     </message>
     <message>
         <source>Compatible with WPS Office 2013 of API</source>
-        <translation variants="yes">
-            <lengthvariant>Zgodny z interfejsem API WPS Office 2013</lengthvariant>
-            <lengthvariant>Kompatybilny z interfejsem API WPS Office 2013</lengthvariant>
-        </translation>
+        <translation>Zgodny z interfejsem API WPS Office 2013</translation>
     </message>
 </context>
 <context>
@@ -397,10 +361,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>WPS &amp;Writer Backup Files</source>
-        <translation variants="yes">
-            <lengthvariant>Pliki kopii zapasowych WPS &amp;Writer</lengthvariant>
-            <lengthvariant>Kopia zapasowa plików WPS &amp;Writer</lengthvariant>
-        </translation>
+        <translation>Pliki kopii zapasowych WPS &amp;Writer</translation>
     </message>
     <message>
         <source>Click here to browse backup files</source>
@@ -412,10 +373,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>WPS &amp;Spreadsheets Backup Files</source>
-        <translation variants="yes">
-            <lengthvariant>Pliki kopii zapasowych WPS &amp;Spreadsheets</lengthvariant>
-            <lengthvariant>Kopia zapasowa plików WPS &amp;Spreadsheets</lengthvariant>
-        </translation>
+        <translation>Pliki kopii zapasowych WPS &amp;Spreadsheets</translation>
     </message>
     <message>
         <source>Start &amp;Clearing</source>
@@ -424,28 +382,19 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>No backup files to be cleared.</source>
         <extracomment>ksomisc -&gt; Clear Backup Files -&gt; Start Clearing(Twice)</extracomment>
-        <translation variants="yes">
-            <lengthvariant>Brak kopii zapasowych plików do wyczyszczenia.</lengthvariant>
-            <lengthvariant>Brak kopii zapasowych plików do usunięcia.</lengthvariant>
-        </translation>
+        <translation>Brak kopii zapasowych plików do wyczyszczenia.</translation>
     </message>
     <message>
         <source>Please choose the type of backup files to be cleared.</source>
         <extracomment>ksomisc -&gt; Clear Backup Files -&gt; uncheck all options -&gt; Start Clearing</extracomment>
-        <translation variants="yes">
-            <lengthvariant>Proszę wybierz typ kopii zapasowej plików do wyczyszczenia.</lengthvariant>
-            <lengthvariant>Proszę wybierz typ kopii zapasowej plików do usunięcia.</lengthvariant>
-        </translation>
+        <translation>Proszę wybierz typ plików kopii zapasowej do wyczyszczenia.</translation>
     </message>
 </context>
 <context>
     <name>KPageChangeVersion</name>
     <message>
         <source>Switch Version</source>
-        <translation variants="yes">
-            <lengthvariant>Przełączanie wersji</lengthvariant>
-            <lengthvariant>Przełącz wersję</lengthvariant>
-        </translation>
+        <translation>Przełącz wersję</translation>
     </message>
     <message>
         <source>You are using the latest version of WPS Office which has greatly improved and enhanced in functionality and performance. We recommend that you use the new version. However, you can according to your need to return to the pre-upgrade version.</source>
@@ -562,7 +511,7 @@ wymaga ponownego uruchomienia systemu Windows, aby została uwzględniona.</tran
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2010</source>
-        <translation type="unfinished">&amp;Zgodny z pakietem Microsoft Office 2010</translation>
+        <translation>&amp;Zgodny z pakietem Microsoft Office 2010</translation>
     </message>
 </context>
 <context>
@@ -589,21 +538,19 @@ wymaga ponownego uruchomienia systemu Windows, aby została uwzględniona.</tran
     <message>
         <source>You can change the IE homepage anytime.
 Notice that doing so exposes you to risks of virus infection and hacking.</source>
-        <translation type="unfinished"></translation>
+        <translation>Możesz w każdej chwili zmienić stronę główną IE.
+Zauważ, że w ten sposób narażasz się na ryzyko zainfekowania wirusem i włamania.</translation>
     </message>
     <message>
         <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office jest darmowym oprogramowaniem. Twoje wsparcie jest niezbędne do jego poprawy.</translation>
     </message>
 </context>
 <context>
     <name>KPageRebuild</name>
     <message>
         <source>Reset Repair</source>
-        <translation variants="yes">
-            <lengthvariant>Resetowanie naprawy</lengthvariant>
-            <lengthvariant>Resetuj naprawę</lengthvariant>
-        </translation>
+        <translation>Resetuj naprawę</translation>
     </message>
     <message>
         <source>The loss of components in the system registry may cause errors to occur when using WPS Office, such as not being able to start other applications, etc. Please click the button below to try repairing, and the repairing will take effect after restart.</source>
@@ -1104,10 +1051,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>WPS Equation 3.0</source>
-        <translation variants="yes">
-            <lengthvariant>Równanie WPS 3.0</lengthvariant>
-            <lengthvariant>WPS Equation 3.0</lengthvariant>
-        </translation>
+        <translation>Równanie WPS 3.0</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -1163,7 +1107,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>Microsoft Excel Backup File</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik kopii zapasowej programu Microsoft Excel</translation>
     </message>
 </context>
 <context>
@@ -1198,7 +1142,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>Programs that can be activated</source>
-        <translation type="unfinished"></translation>
+        <translation>Programy, które mogą być aktywowane</translation>
     </message>
 </context>
 <context>
@@ -1294,29 +1238,26 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>Do not check for updates automatically (not recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie sprawdzaj aktualizacji automatycznie (niezalecane)</translation>
     </message>
     <message>
         <source>Update Items:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacja elementów:</translation>
     </message>
     <message>
         <source>All new releases</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie nowe wydania</translation>
     </message>
     <message>
         <source>Recommended new releases</source>
-        <translation type="unfinished"></translation>
+        <translation>Zalecane nowe wydania</translation>
     </message>
 </context>
 <context>
     <name>Ksomisc_Funcs</name>
     <message>
         <source>Configuration Tool Information</source>
-        <translation variants="yes">
-            <lengthvariant>Informacje narzędzi konfiguracji</lengthvariant>
-            <lengthvariant>Informacje o narzędziach konfiguracji</lengthvariant>
-        </translation>
+        <translation>Informacje narzędzi konfiguracji</translation>
     </message>
     <message>
         <source>Failed to scan procedure. </source>

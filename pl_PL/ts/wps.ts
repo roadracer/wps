@@ -122,10 +122,7 @@
     </message>
     <message>
         <source>Aqua</source>
-        <translation variants="yes">
-            <lengthvariant>Akwamaryna</lengthvariant>
-            <lengthvariant>Niebieskozielony</lengthvariant>
-        </translation>
+        <translation>Akwamaryna</translation>
     </message>
     <message>
         <source>Pink</source>
@@ -193,10 +190,7 @@
     </message>
     <message>
         <source>Lavender</source>
-        <translation variants="yes">
-            <lengthvariant>Liliowy</lengthvariant>
-            <lengthvariant>Lawendowy</lengthvariant>
-        </translation>
+        <translation>Liliowy</translation>
     </message>
     <message>
         <source>Sky Blue</source>
@@ -204,10 +198,7 @@
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation variants="yes">
-            <lengthvariant>Jasnoturkusowy</lengthvariant>
-            <lengthvariant>Pastelowobłękitny</lengthvariant>
-        </translation>
+        <translation>Jasnoturkusowy</translation>
     </message>
     <message>
         <source>Rose</source>
@@ -302,10 +293,7 @@
     </message>
     <message>
         <source>Change Case</source>
-        <translation variants="yes">
-            <lengthvariant>Zmień wielkość liter</lengthvariant>
-            <lengthvariant>Zmienianie wielkości liter</lengthvariant>
-        </translation>
+        <translation>Zmienianie wielkości liter</translation>
     </message>
 </context>
 <context>
@@ -453,7 +441,6 @@
     </message>
     <message>
         <source>Outside</source>
-        <translatorcomment>Zewnętrzny</translatorcomment>
         <translation>Na zewnątrz</translation>
     </message>
     <message>
@@ -812,10 +799,7 @@
     </message>
     <message>
         <source>Words only</source>
-        <translation variants="yes">
-            <lengthvariant>Tylko wyrazy</lengthvariant>
-            <lengthvariant>Tylko słowa</lengthvariant>
-        </translation>
+        <translation>Tylko wyrazy</translation>
     </message>
 </context>
 <context>
@@ -948,7 +932,7 @@
     </message>
     <message>
         <source>Cannot check spelling on original revision status</source>
-        <translation>Nie można sprawdzić stanu pisowni oryginalnej poprawki</translation>
+        <translation>Nie można sprawdzić stanu pisowni oryginalnego przeglądu</translation>
     </message>
 </context>
 <context>
@@ -1279,7 +1263,7 @@
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation>Wszystkie pliki(*.*)</translation>
+        <translation>Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
@@ -1872,7 +1856,7 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>Sprawdzanie pisowni</translation>
+        <translation>Sprawdź pisownię</translation>
     </message>
     <message>
         <source>&amp;Set Language</source>
@@ -2132,10 +2116,7 @@ lub użyj odpowiedniego przycisku</translation>
     <name>KxDlgConvertNotes</name>
     <message>
         <source>Convert Notes</source>
-        <translation variants="yes">
-            <lengthvariant>Konwertowanie przypisów</lengthvariant>
-            <lengthvariant>Konwertuj przypisy</lengthvariant>
-        </translation>
+        <translation>Konwertowanie przypisów</translation>
     </message>
     <message>
         <source>Convert all &amp;footnotes to endnotes</source>
@@ -2178,8 +2159,7 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translatorcomment>Konwertowanie tabeli na tekst</translatorcomment>
-        <translation>Konwertuj tabelę na tekst</translation>
+        <translation>Konwertowanie tabeli na tekst</translation>
     </message>
     <message>
         <source>&amp;Paragraphs</source>
@@ -2719,10 +2699,7 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation variants="yes">
-            <lengthvariant>Położenie</lengthvariant>
-            <lengthvariant>Pozycja</lengthvariant>
-        </translation>
+        <translation>Położenie</translation>
     </message>
     <message>
         <source>&amp;None</source>
@@ -2858,7 +2835,7 @@ lub użyj odpowiedniego przycisku</translation>
     <name>KxDlgEditDictionary</name>
     <message>
         <source>Edit Dictionary</source>
-        <translation>Edytuj słownik</translation>
+        <translation>Edytowanie słownika</translation>
     </message>
     <message>
         <source>&amp;Word</source>
@@ -3265,7 +3242,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>find options</source>
-        <translation>opcje szukania</translation>
+        <translation>opcje znajdowania</translation>
     </message>
     <message>
         <source>replace options</source>
@@ -3301,10 +3278,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Ignore white-sp&amp;ace characters</source>
-        <translation variants="yes">
-            <lengthvariant>Ig&amp;noruj białe znaki</lengthvariant>
-            <lengthvariant>Ig&amp;noruj znaki odstępu</lengthvariant>
-        </translation>
+        <translation>Ig&amp;noruj białe znaki</translation>
     </message>
     <message>
         <source>Sounds Like(&amp;Japanese)</source>
@@ -3442,7 +3416,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Replace options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcje zamiany</translation>
     </message>
 </context>
 <context>
@@ -3798,7 +3772,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgGenkoSetting</name>
     <message>
         <source>Genko Setting</source>
-        <translation>Ustawienia Genko</translation>
+        <translation>Ustawienie Genko</translation>
     </message>
     <message>
         <source>En&amp;able Genko Grid Lines</source>
@@ -4024,7 +3998,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgInsertMergeField</name>
     <message>
         <source>Insert Merge Field</source>
-        <translation>Wstaw pole korespondencji seryjnej</translation>
+        <translation>Wstaw pola korespondencji seryjnej</translation>
     </message>
     <message>
         <source>Insert:</source>
@@ -4048,7 +4022,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Match Fields</source>
-        <translation>Dopasuj pola</translation>
+        <translation>Dopasowywanie pól</translation>
     </message>
     <message>
         <source>&amp;Match Fields...</source>
@@ -4207,11 +4181,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Select All</source>
-        <translation>&amp;Wybierz wszystkie</translation>
+        <translation>&amp;Zaznacz wszystko</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>Wyczyść w&amp;szystkie</translation>
+        <translation>Wyczyść w&amp;szystko</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
@@ -4222,8 +4196,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgMailMergeTable</name>
     <message>
         <source>Select Table</source>
-        <translatorcomment>Zaznacz tabelę</translatorcomment>
-        <translation>Wybierz tabelę</translation>
+        <translation>Zaznacz tabelę</translation>
     </message>
     <message>
         <source>dialog</source>
@@ -4242,7 +4215,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgMatchFields</name>
     <message>
         <source>Match Fields</source>
-        <translation>Dopasuj pola</translation>
+        <translation>Dopasowywanie pól</translation>
     </message>
     <message>
         <source>Use the drop-down lists to choose the field from your database that corresponds to the address information Mail Merge expects (listed on the left.)</source>
@@ -4471,7 +4444,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgMergeToDiffNewDoc</name>
     <message>
         <source>Merge to Different New Document</source>
-        <translation>Scal z innym nowym dokumentem</translation>
+        <translation>Scalanie z innym nowym dokumentem</translation>
     </message>
     <message>
         <source>Merge options</source>
@@ -4961,7 +4934,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Document ma&amp;p:</source>
-        <translation>&amp;Plan dokumentu:</translation>
+        <translation>Ma&amp;pa dokumentu:</translation>
     </message>
     <message>
         <source>Stat&amp;us bar</source>
@@ -5536,7 +5509,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Macro security</source>
-        <translation>Zabezpieczenia makr</translation>
+        <translation>Bezpieczeństwo makr</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -5986,47 +5959,47 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Font Preview Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etykieta podglądu &amp;czcionki</translation>
     </message>
     <message>
         <source>Show Mini Toolbar on rig&amp;ht click</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż minipasek narzędzi przy kliknięciu &amp;prawym przyciskiem myszy</translation>
     </message>
     <message>
         <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż minipasek narzędzi przy zaznaczaniu (&amp;M)</translation>
     </message>
     <message>
         <source>Subscribe WPS Minisite</source>
-        <translation type="unfinished"></translation>
+        <translation>Subskrybuj Mini-stronę WPS</translation>
     </message>
     <message>
         <source>Show E&amp;veryday</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż c&amp;odziennie</translation>
     </message>
     <message>
         <source>Show After One Week (&amp;Y)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż po jednym tygodniu (&amp;T)</translation>
     </message>
     <message>
         <source>Never Show &amp;Again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nigdy nie pokazuj &amp;ponownie</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Zbyt dużo reklam? Sprawdź nowe zmiany&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Discern &amp;person(only effective in Chinese)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozpoznaj &amp;osobę (działa tylko w języku chińskim)</translation>
     </message>
     <message>
         <source>Discern &amp;location(only effective in Chinese)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozpoznaj &amp;lokalizację (działa tylko w języku chińskim)</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Opinia</translation>
     </message>
 </context>
 <context>
@@ -7059,10 +7032,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxDlgSpiltCells</name>
     <message>
         <source>Split Cells</source>
-        <translation variants="yes">
-            <lengthvariant>Podziel komórki</lengthvariant>
-            <lengthvariant>Dzielenie komórek</lengthvariant>
-        </translation>
+        <translation>Dzielenie komórek</translation>
     </message>
     <message>
         <source>Number of &amp;columns:</source>
@@ -7523,7 +7493,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>Wyczyść w&amp;szystkie</translation>
+        <translation>Wyczyść w&amp;szystko</translation>
     </message>
 </context>
 <context>
@@ -7657,8 +7627,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Update Table of Contents</source>
-        <translatorcomment>Aktualizowanie spisu treści</translatorcomment>
-        <translation>Aktualizuj spis treści</translation>
+        <translation>Aktualizowanie spisu treści</translation>
     </message>
     <message>
         <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
@@ -7887,8 +7856,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxDlgWpsRecordMacro</name>
     <message>
         <source>Record Macro</source>
-        <translatorcomment>Rejestrowanie makra</translatorcomment>
-        <translation>Zarejestruj makro</translation>
+        <translation>Rejestrowanie makra</translation>
     </message>
     <message>
         <source>&amp;Macro name:</source>
@@ -7911,10 +7879,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Zoom to</source>
-        <translation variants="yes">
-            <lengthvariant>Powiększenie do</lengthvariant>
-            <lengthvariant>Powiększ do</lengthvariant>
-        </translation>
+        <translation>Powiększenie do</translation>
     </message>
     <message>
         <source>&amp;100%</source>
@@ -8111,10 +8076,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation variants="yes">
-            <lengthvariant>Hasło potwierdzające nie pasuje.</lengthvariant>
-            <lengthvariant>Hasło potwierdzające nie jest zgodne.</lengthvariant>
-        </translation>
+        <translation>Potwierdzenie hasła jest niezgodne.</translation>
     </message>
     <message>
         <source>Permission Password and Document Open Password must be different.</source>
@@ -8634,10 +8596,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>The search item was not found.</source>
-        <translation variants="yes">
-            <lengthvariant>Poszukiwany obiekt nie został znaleziony.</lengthvariant>
-            <lengthvariant>Szukany element nie został znaleziony.</lengthvariant>
-        </translation>
+        <translation>Poszukiwany obiekt nie został znaleziony.</translation>
     </message>
     <message>
         <source>Match Prefix</source>
@@ -8709,25 +8668,19 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Any Reviewer</source>
-        <translation>Każdy recenzent</translation>
+        <translation>Dowolny recenzent</translation>
     </message>
     <message>
         <source>Any Field</source>
-        <translation variants="yes">
-            <lengthvariant>Dowolne pole</lengthvariant>
-            <lengthvariant>Każde pole</lengthvariant>
-        </translation>
+        <translation>Dowolne pole</translation>
     </message>
     <message>
         <source>Any Object</source>
-        <translation variants="yes">
-            <lengthvariant>Dowolny obiekt</lengthvariant>
-            <lengthvariant>Każdy obiekt</lengthvariant>
-        </translation>
+        <translation>Dowolny obiekt</translation>
     </message>
     <message>
         <source>WPS Writer could not determine the destination.</source>
-        <translation>Program WPS Writer nie może odnaleźć miejsca.</translation>
+        <translation>Program WPS Writer nie może określić miejsca docelowego.</translation>
     </message>
     <message>
         <source>The bookmark does not exist or is hidden.</source>
@@ -8787,17 +8740,11 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Ignore white-space characters</source>
-        <translation variants="yes">
-            <lengthvariant>Ignoruj białe znaki</lengthvariant>
-            <lengthvariant>Ignoruj znaki odstępu</lengthvariant>
-        </translation>
+        <translation>Ignoruj białe znaki</translation>
     </message>
     <message>
         <source>, Ignore white-space characters</source>
-        <translation variants="yes">
-            <lengthvariant>, Ignoruj białe znaki</lengthvariant>
-            <lengthvariant>, Ignoruj znaki odstępu</lengthvariant>
-        </translation>
+        <translation>, Ignoruj białe znaki</translation>
     </message>
     <message>
         <source>Style:%1</source>
@@ -9291,7 +9238,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     <name>KxInsertNumberDlg</name>
     <message>
         <source>Input a correct number.</source>
-        <translation>Wprowadź prawidłowy numer.</translation>
+        <translation>Wprowadź prawidłową liczbę.</translation>
     </message>
     <message>
         <source>Use Default Numbering</source>
@@ -9470,14 +9417,11 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     <name>KxMergeToNewDocOrPrinterDlg</name>
     <message>
         <source>Merge to New Document</source>
-        <translation variants="yes">
-            <lengthvariant>Scal z nowym dokumentem</lengthvariant>
-            <lengthvariant>Scalanie z nowym dokumentem</lengthvariant>
-        </translation>
+        <translation>Scalanie z nowym dokumentem</translation>
     </message>
     <message>
         <source>Merge to Printer</source>
-        <translation>Scal na drukarkę</translation>
+        <translation>Scalanie na drukarkę</translation>
     </message>
     <message>
         <source>The number must not be nil</source>
@@ -9990,7 +9934,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed. Please contact your support technician.</source>
-        <translation>Program WPS Writer napotkał błąd podczas dostosowywania zabezpieczeń makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane. Proszę skontaktować się z pomocą techniczną.</translation>
+        <translation>Program WPS Writer napotkał błąd podczas dostosowywania bezpieczeństwa makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane. Proszę skontaktować się z pomocą techniczną.</translation>
     </message>
     <message>
         <source>The password of the file encryption must be no longer than 15 characters.</source>
@@ -9998,14 +9942,11 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation variants="yes">
-            <lengthvariant>Hasło potwierdzające nie pasuje.</lengthvariant>
-            <lengthvariant>Hasło potwierdzające nie jest zgodne.</lengthvariant>
-        </translation>
+        <translation>Potwierdzenie hasła jest niezgodne.</translation>
     </message>
     <message>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
-        <translation>Maksymalna liczba kroków Cofnij/Powtórz musi się zawierać w przedziale między %1 i %2.</translation>
+        <translation>Maksymalna liczba kroków Cofnij/Ponów musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
@@ -10020,7 +9961,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -10335,10 +10276,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <name>KxProtectDocumentDlg</name>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation variants="yes">
-            <lengthvariant>Hasło potwierdzające nie pasuje.</lengthvariant>
-            <lengthvariant>Hasło potwierdzające nie jest zgodne.</lengthvariant>
-        </translation>
+        <translation>Potwierdzenie hasła jest niezgodne.</translation>
     </message>
 </context>
 <context>
@@ -11493,10 +11431,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Please input the text of the watermark.</source>
-        <translation variants="yes">
-            <lengthvariant>Proszę wprowadzić tekst znaku wodnego.</lengthvariant>
-            <lengthvariant>Proszę wpisać tekst znaku wodnego.</lengthvariant>
-        </translation>
+        <translation>Proszę wprowadzić tekst znaku wodnego.</translation>
     </message>
     <message>
         <source>Picture Tooltip</source>
@@ -11790,10 +11725,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsHFLinkToPreviousCommand</name>
     <message>
         <source>Header and Footer Link to Previous</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze do poprzedniego nagłówka i stopki</lengthvariant>
-            <lengthvariant>Nagłówek i stopka - łącze do poprzedniego</lengthvariant>
-        </translation>
+        <translation>Łącze do poprzedniego nagłówka i stopki</translation>
     </message>
 </context>
 <context>
@@ -12305,15 +12237,15 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa użytkownika</translation>
     </message>
     <message>
         <source>Permission expires on:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uprawnienie wygaśnie:</translation>
     </message>
     <message>
         <source>Request additional permissions…</source>
-        <translation type="unfinished"></translation>
+        <translation>Zażądaj dodatkowych uprawnień...</translation>
     </message>
 </context>
 <context>
@@ -12378,10 +12310,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Macro &quot;%1&quot; already exists. Do you want to replace the existing macro?</source>
-        <translation variants="yes">
-            <lengthvariant>Makro &quot;%1&quot; już istnieje. Czy zamienić istniejące makro?</lengthvariant>
-            <lengthvariant>Makro &quot;%1&quot; już istnieje. Czy chcesz zastąpić istniejące makro?</lengthvariant>
-        </translation>
+        <translation>Makro &quot;%1&quot; już istnieje. Czy zamienić istniejące makro?</translation>
     </message>
     <message>
         <source>You cannot record a macro to a locked file</source>
@@ -12963,7 +12892,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>No macro is currently recording. Click to begin recording a new macro.</source>
-        <translation type="unfinished"></translation>
+        <translation>W tej chwili nie są rejestrowane żadne makra. Kliknij, aby rozpocząć rejestrowanie nowego makra.</translation>
     </message>
 </context>
 <context>
@@ -13109,10 +13038,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation variants="yes">
-            <lengthvariant>Zamknij po zakończeniu e&amp;ksportowania</lengthvariant>
-            <lengthvariant>Zamknij po zakończeniu e&amp;ksportu</lengthvariant>
-        </translation>
+        <translation>Zamknij po zakończeniu e&amp;ksportowania</translation>
     </message>
     <message>
         <source>Export options</source>
@@ -13164,11 +13090,11 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Password to prot&amp;ect permission settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Hasło ochrony ustawi&amp;eń uprawnień</translation>
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwaga: tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
 </context>
 <context>
@@ -13284,7 +13210,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsStatusZoomOptionGalleryModel</name>
     <message>
         <source>Zoom Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziom powiększenia</translation>
     </message>
     <message>
         <source>P&amp;ercent:</source>
@@ -13296,7 +13222,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>&amp;Page Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Szerokość &amp;strony</translation>
     </message>
     <message>
         <source>&amp;Text Width</source>

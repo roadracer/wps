@@ -21,10 +21,7 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation variants="yes">
-            <lengthvariant>Wyróżnienie</lengthvariant>
-            <lengthvariant>Uwydatnienie</lengthvariant>
-        </translation>
+        <translation>Wyróżnienie</translation>
     </message>
     <message>
         <source>1-</source>
@@ -92,24 +89,15 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation variants="yes">
-            <lengthvariant>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 6</lengthvariant>
-            <lengthvariant>Styl ciemny 2-Uwydatnienie 5/Uwydatnienie 6</lengthvariant>
-        </translation>
+        <translation>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 6</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 2</lengthvariant>
-            <lengthvariant>Styl ciemny 2-Uwydatnienie 5/Uwydatnienie 2 {2-?} {1/?}</lengthvariant>
-        </translation>
+        <translation>Styl ciemny 2-Wyróżnienie 1/Wyróżnienie 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 4</lengthvariant>
-            <lengthvariant>Styl ciemny 2-Uwydatnienie 5/Uwydatnienie 4 {2-?} {3/?}</lengthvariant>
-        </translation>
+        <translation>Styl ciemny 2-Wyróżnienie 3/Wyróżnienie 4</translation>
     </message>
 </context>
 <context>
@@ -909,10 +897,7 @@
     <name>KxCheckSpellingDlg</name>
     <message>
         <source>(No Suggestions)</source>
-        <translation variants="yes">
-            <lengthvariant>(Brak sugestii)</lengthvariant>
-            <lengthvariant>(Brak propozycji)</lengthvariant>
-        </translation>
+        <translation>(Brak sugestii)</translation>
     </message>
     <message>
         <source>Check spelling is complete.</source>
@@ -997,7 +982,7 @@
     </message>
     <message>
         <source>Copy %1 of </source>
-        <translation>Kopiuj %1 z</translation>
+        <translation>Kopiuj %1 z </translation>
     </message>
     <message>
         <source>%1%2</source>
@@ -1219,7 +1204,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>Sprawdzanie pisowni</translation>
+        <translation>Sprawdź pisownię</translation>
     </message>
     <message>
         <source>&amp;Set Language</source>
@@ -1667,10 +1652,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>&amp;Rewind movie after playing</source>
-        <translation variants="yes">
-            <lengthvariant>P&amp;rzewiń film do tyłu po odtworzeniu</lengthvariant>
-            <lengthvariant>P&amp;rzewiń film po odtworzeniu</lengthvariant>
-        </translation>
+        <translation>P&amp;rzewiń film do tyłu po odtworzeniu</translation>
     </message>
     <message>
         <source>Display options</source>
@@ -1709,10 +1691,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Show</source>
-        <translation variants="yes">
-            <lengthvariant>Pokaz</lengthvariant>
-            <lengthvariant>Pokaż</lengthvariant>
-        </translation>
+        <translation>Pokaż</translation>
     </message>
     <message>
         <source>Slide &amp;layout task pane while insert new slides</source>
@@ -1724,14 +1703,11 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>&amp;Vertical ruler</source>
-        <translation>Linijka &amp;pionowa</translation>
+        <translation>Linijkę &amp;pionową</translation>
     </message>
     <message>
         <source>Thumbnail and outline position</source>
-        <translation variants="yes">
-            <lengthvariant>Pozycja miniatury i konspektu</lengthvariant>
-            <lengthvariant>Miniatura i pozycja konspektu</lengthvariant>
-        </translation>
+        <translation>Położenie miniatury i konspektu</translation>
     </message>
     <message>
         <source>Le&amp;ft of slide</source>
@@ -1862,10 +1838,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Fra&amp;me slides</source>
-        <translation variants="yes">
-            <lengthvariant>Obra&amp;mowania slajdów</lengthvariant>
-            <lengthvariant>Obra&amp;mowania wokół slajdów</lengthvariant>
-        </translation>
+        <translation>Obra&amp;mowania slajdów</translation>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
@@ -2053,31 +2026,31 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż minipasek narzędzi przy zaznaczaniu (&amp;M)</translation>
     </message>
     <message>
         <source>Show Mini Toolbar on rig&amp;ht click</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż minipasek narzędzi przy kliknięciu &amp;prawym przyciskiem myszy</translation>
     </message>
     <message>
         <source>Subscribe WPS Minisite</source>
-        <translation type="unfinished"></translation>
+        <translation>Subskrybuj Mini-stronę WPS</translation>
     </message>
     <message>
         <source>Show E&amp;veryday</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż c&amp;odziennie</translation>
     </message>
     <message>
         <source>Show After One Week (&amp;Y)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż po jednym tygodniu (&amp;T)</translation>
     </message>
     <message>
         <source>Never Show &amp;Again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nigdy nie pokazuj &amp;ponownie</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Zbyt dużo reklam? Sprawdź nowe zmiany&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>General options</source>
@@ -2089,7 +2062,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Opinia</translation>
     </message>
 </context>
 <context>
@@ -2419,10 +2392,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Zoom to</source>
-        <translation variants="yes">
-            <lengthvariant>Powiększenie do</lengthvariant>
-            <lengthvariant>Powiększ do</lengthvariant>
-        </translation>
+        <translation>Powiększenie do</translation>
     </message>
     <message>
         <source>&amp;400%</source>
@@ -2778,10 +2748,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>&amp;Frame slides</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Obramowania slajdów</lengthvariant>
-            <lengthvariant>&amp;Obramowania wokół slajdów</lengthvariant>
-        </translation>
+        <translation>&amp;Obramowania slajdów</translation>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
@@ -2863,7 +2830,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation>Hasło potwierdzające nie pasuje.</translation>
+        <translation>Potwierdzenie hasła jest niezgodne.</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
@@ -2875,10 +2842,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>The slide you selected to export does not exist. Please select another one.</source>
-        <translation variants="yes">
-            <lengthvariant>Slajd wybrany do eksportowania nie istnieje. Proszę wybrać inny.</lengthvariant>
-            <lengthvariant>Slajd wybrany do eksportu nie istnieje. Proszę wybrać inny.</lengthvariant>
-        </translation>
+        <translation>Slajd wybrany do eksportowania nie istnieje. Proszę wybrać inny.</translation>
     </message>
     <message>
         <source>All slides in this custom show are hidden.</source>
@@ -2894,10 +2858,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Current slide has marked as hidden.</source>
-        <translation variants="yes">
-            <lengthvariant>Bieżący slajd został oznaczony jako ukryty.</lengthvariant>
-            <lengthvariant>Aktualny slajd został oznaczony jako ukryty.</lengthvariant>
-        </translation>
+        <translation>Bieżący slajd został oznaczony jako ukryty.</translation>
     </message>
     <message>
         <source>All slides in current presentation are hidden.</source>
@@ -2905,10 +2866,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
-        <translation variants="yes">
-            <lengthvariant>Albo spraw, aby slajdy przestały być ukryte, albo wybierz eksportowanie ukrytych slajdów.</lengthvariant>
-            <lengthvariant>Wszystkie slajdy w tym zakresie są oznaczone jako ukryte. Albo spraw, aby slajdy przestały być ukryte, albo wybierz eksportowanie ukrytych slajdów.</lengthvariant>
-        </translation>
+        <translation>Wszystkie slajdy w tym zakresie są oznaczone jako ukryte. Albo spraw, aby slajdy przestały być ukryte, albo wybierz eksportowanie ukrytych slajdów.</translation>
     </message>
     <message>
         <source>Save PDF File</source>
@@ -3222,11 +3180,11 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished">Hasło potwierdzające nie pasuje.</translation>
+        <translation>Potwierdzenie hasła jest niezgodne.</translation>
     </message>
 </context>
 <context>
@@ -3241,7 +3199,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified
  folder, in order to play this file on another computer.</source>
-        <translation>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
+        <translation>Kopiuj plik prezentacji i związane z nim elementy multimediów, takie jak wideo, audio, itp., do określonego
 folderu, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
 </context>
@@ -3257,10 +3215,7 @@ folderu, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Specified directory does not exist. Please specify another directory.</source>
-        <translation variants="yes">
-            <lengthvariant>Określony katalog nie istnieje. Proszę określ inny katalog.</lengthvariant>
-            <lengthvariant>Podany katalog nie istnieje. Proszę podać inny katalog.</lengthvariant>
-        </translation>
+        <translation>Określony katalog nie istnieje. Proszę podać inny katalog.</translation>
     </message>
     <message>
         <source>Location</source>
@@ -3283,7 +3238,7 @@ folderu, aby odtworzyć ten plik na innym komputerze.</translation>
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified
  Zip folder, in order to play this file on another computer.</source>
-        <translation>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
+        <translation>Kopiuj plik prezentacji i związane z nim elementy multimediów, takie jak wideo, audio, itp., do określonego
 folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
 </context>
@@ -3361,17 +3316,11 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxSetupShowDlg</name>
     <message>
         <source>Define</source>
-        <translation variants="yes">
-            <lengthvariant>Definiuj</lengthvariant>
-            <lengthvariant>Zdefiniuj</lengthvariant>
-        </translation>
+        <translation>Definiuj</translation>
     </message>
     <message>
         <source>[Restricted]</source>
-        <translation variants="yes">
-            <lengthvariant>[Ograniczony]</lengthvariant>
-            <lengthvariant>[Ograniczone]</lengthvariant>
-        </translation>
+        <translation>[Ograniczone]</translation>
     </message>
     <message>
         <source>Primary Monitor</source>
@@ -3704,10 +3653,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkuj</lengthvariant>
-            <lengthvariant>Środek</lengthvariant>
-        </translation>
+        <translation>Wyśrodkuj</translation>
     </message>
     <message>
         <source>F&amp;rom:</source>
@@ -3761,10 +3707,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppAnimationOptionsDlg</name>
     <message>
         <source>&amp;Don&apos;t Dim</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Nie przygaszaj</lengthvariant>
-            <lengthvariant>&amp;Nie przygaszone</lengthvariant>
-        </translation>
+        <translation>&amp;Nie przygaszaj</translation>
     </message>
     <message>
         <source>Hide &amp;After Animation</source>
@@ -3966,11 +3909,11 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
-        <translation>Pow&amp;iększenie</translation>
+        <translation>Pow&amp;iększanie</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation>P&amp;omniejszenie</translation>
+        <translation>P&amp;omniejszanie</translation>
     </message>
     <message>
         <source>&amp;Hide Advanced Timeline</source>
@@ -4066,10 +4009,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Input is invalid.</source>
-        <translation variants="yes">
-            <lengthvariant>Wejście jest nieprawidłowe.</lengthvariant>
-            <lengthvariant>Dane wejściowe są nieprawidłowe.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowe dane wejściowe.</translation>
     </message>
     <message>
         <source>An error occurred on printer %1 !</source>
@@ -4564,82 +4504,79 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyrównaj do lewej</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Wyśrodkuj</lengthvariant>
-            <lengthvariant>Środek</lengthvariant>
-        </translation>
+        <translation>Wyśrodkuj</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyrównaj do prawej</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyjustuj</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozłożone</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished">(Brak)</translation>
+        <translation>(Brak)</translation>
     </message>
     <message>
         <source>First line</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwszy wiersz</translation>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysunięcie</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished">cm</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>Please input value between 0cm and 21.35cm</source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę wprowadź wartość wejściową z przedziału między 0cm i 21,35cm</translation>
     </message>
     <message>
         <source>Please input value between 0 and 9.99</source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę wprowadź wartość wejściową z przedziału między 0 i 9,99</translation>
     </message>
     <message>
         <source>Please input value between 0pt and 1584pt</source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę wprowadź wartość wejściową z przedziału między 0pkt i 1584pkt</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojedyncze</translation>
     </message>
     <message>
         <source>1.5 times</source>
-        <translation type="unfinished"></translation>
+        <translation>1,5 razy</translation>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Podwójne</translation>
     </message>
     <message>
         <source>Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Stały</translation>
     </message>
     <message>
         <source>Multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>Wielokrotne</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pkt</translation>
     </message>
     <message>
         <source>按文本和线条配色方案</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kolor tekstu i linii</translation>
     </message>
 </context>
 <context>
@@ -4871,10 +4808,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Fra&amp;me slides</source>
-        <translation variants="yes">
-            <lengthvariant>Obra&amp;mowania slajdów</lengthvariant>
-            <lengthvariant>Obra&amp;mowania wokół slajdów</lengthvariant>
-        </translation>
+        <translation>Obra&amp;mowania slajdów</translation>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
@@ -4918,17 +4852,11 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation variants="yes">
-            <lengthvariant>Zamknij po zakończeniu e&amp;ksportowania</lengthvariant>
-            <lengthvariant>Zamknij po zakończeniu e&amp;ksportu</lengthvariant>
-        </translation>
+        <translation>Zamknij po zakończeniu e&amp;ksportowania</translation>
     </message>
     <message>
         <source>Export range</source>
-        <translation variants="yes">
-            <lengthvariant>Zakres eksportowania</lengthvariant>
-            <lengthvariant>Zakres eksportu</lengthvariant>
-        </translation>
+        <translation>Zakres eksportowania</translation>
     </message>
     <message>
         <source>&amp;Current slide</source>
@@ -4964,7 +4892,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Passw&amp;ord to protect permission settings</source>
-        <translation>Hasł&amp;o do ochrony ustawienia uprawnień</translation>
+        <translation>Hasł&amp;o ochrony ustawień uprawnień</translation>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
@@ -4992,7 +4920,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwaga: tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
 </context>
 <context>
@@ -5018,10 +4946,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>kdlgFormatTable</name>
     <message>
         <source>Borders</source>
-        <translation variants="yes">
-            <lengthvariant>Obramowania</lengthvariant>
-            <lengthvariant>Krawędzie</lengthvariant>
-        </translation>
+        <translation>Obramowania</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
@@ -5345,11 +5270,11 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>&amp;Special:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Specjalne:</translation>
     </message>
     <message>
         <source>B&amp;y:</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;o:</translation>
     </message>
     <message>
         <source>&amp;Layout</source>
@@ -5431,23 +5356,23 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Cover</source>
-        <translation type="unfinished"></translation>
+        <translation>Okładka</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykaz</translation>
     </message>
     <message>
         <source>Body</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst podstawowy</translation>
     </message>
     <message>
         <source>Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Przejście</translation>
     </message>
     <message>
         <source>Ending</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakończenie</translation>
     </message>
     <message>
         <source>More</source>
@@ -5489,15 +5414,15 @@ Sure to close?</source>
     <name>KxWppStatusZoomOptionGalleryModel</name>
     <message>
         <source>Zoom Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziom powiększenia</translation>
     </message>
     <message>
         <source>P&amp;ercent:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Procent:</translation>
     </message>
     <message>
         <source>&amp;Fit Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dopasuj do zaznaczenia</translation>
     </message>
 </context>
 </TS>

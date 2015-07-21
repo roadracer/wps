@@ -10,7 +10,8 @@
     </message>
     <message>
         <source>Disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>aaa</translatorcomment>
+        <translation>Odłączono.</translation>
     </message>
 </context>
 <context>
@@ -55,11 +56,13 @@
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>aaa</translatorcomment>
+        <translation>Ponów próbę</translation>
     </message>
     <message>
         <source>Network error...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>aaa</translatorcomment>
+        <translation>Błąd sieciowy...</translation>
     </message>
 </context>
 <context>
@@ -89,7 +92,8 @@
     </message>
     <message>
         <source>Network error...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>aaa</translatorcomment>
+        <translation>Błąd sieciowy...</translation>
     </message>
 </context>
 </TS>
