@@ -168,10 +168,7 @@
     <name>KxInsertPicturesToMultiSlide</name>
     <message>
         <source>Unidentifiable picture format.</source>
-        <translation variants="yes">
-            <lengthvariant>Niezidentyfikowany format obrazu.</lengthvariant>
-            <lengthvariant>Nieidentyfikowalny format obrazu.</lengthvariant>
-        </translation>
+        <translation>Niezidentyfikowany format obrazu.</translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
@@ -224,10 +221,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <name>QObject</name>
     <message>
         <source>There is no %1 font on your system,the text will be shown in a substitute font, do you want to use it anyway?</source>
-        <translation variants="yes">
-            <lengthvariant>W tym systemie czcionka %1 jest niedostępna. Tekst zostanie wyświetlony w czcionce zastępczej. Czy chcesz mimo tego zastosować tę czcionkę?</lengthvariant>
-            <lengthvariant>W tym systemie czcionka %1 jest niedostępna. Tekst zostanie wyświetlony w czcionce podstawianej. Czy chcesz mimo tego zastosować tę czcionkę?</lengthvariant>
-        </translation>
+        <translation>W tym systemie czcionka %1 jest niedostępna. Tekst zostanie wyświetlony w czcionce zastępczej. Czy chcesz mimo tego zastosować tę czcionkę?</translation>
     </message>
     <message>
         <source>All Fonts</source>

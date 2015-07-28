@@ -281,10 +281,7 @@ Wartość:</translation>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>TX_DESC_APP_NAME</comment>
-        <translation variants="yes">
-            <lengthvariant>WPS Spreadsheets</lengthvariant>
-            <lengthvariant>WPS Arkusze</lengthvariant>
-        </translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>VBAProject</source>
@@ -342,7 +339,7 @@ Please try one of the following.
 •Ask its creator to change the permissions control level of this file.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure_Insufficient_KRM_Right</comment>
-        <translation>Program WPS Spreadsheets nie może otworzyć tego pliku, ponieważ bieżący użytkownik nie ma wystarczających uprawnień dostępu. 
+        <translation>Program WPS Spreadsheets nie może otworzyć tego pliku, ponieważ bieżący użytkownik nie ma wystarczających uprawnień dostępu.
 Proszę wypróbuj jedną z następujących czynności:
 •Przełącz się do konta innego użytkownika.
 •Poproś jego twórcę, aby zmienił uprawnienia poziomu kontroli tego pliku.
@@ -379,12 +376,8 @@ Wypróbuj jedną z następujących czynności.
         <source>WPS Spreadsheets cannot save or create this file. Please make sure the target disk is not full or undamaged.
 (%s)</source>
         <comment>TX_Workbook_SaveFailure</comment>
-        <translation variants="yes">
-            <lengthvariant>Program WPS Spreadsheets nie może zapisać lub utworzyć tego pliku. Proszę upewnij się, że docelowy dysk, na którym chcesz zapisać plik, nie jest pełny lub uszkodzony.
-(%s)</lengthvariant>
-            <lengthvariant>Program WPS Spreadsheets nie może zapisać lub utworzyć tego pliku. Proszę upewnij się, że docelowy dysk, na którym chcesz zapisać plik, nie jest zapełniony lub uszkodzony.
-(%s)</lengthvariant>
-        </translation>
+        <translation>Program WPS Spreadsheets nie może zapisać lub utworzyć tego pliku. Proszę upewnij się, że docelowy dysk, na którym chcesz zapisać plik, nie jest pełny lub uszkodzony.
+(%s)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot save this file due to a file permission error.
@@ -397,18 +390,14 @@ Wypróbuj jedną z następujących czynności.
         <source>Try to save again?
 (%s)</source>
         <comment>TX_Workbook_SaveRetry</comment>
-        <translation variants="yes">
-            <lengthvariant>Ponowić próbę zapisania? 
-(%s)</lengthvariant>
-            <lengthvariant>Spróbować ponownie zapisać? 
-(%s)</lengthvariant>
-        </translation>
+        <translation>Ponowić próbę zapisania? 
+(%s)</translation>
     </message>
     <message>
         <source>This file has been opened as read-only before. Do you still want to open it as read-only ?
 (%s)</source>
         <comment>TX_Workbook_SaveReadOnlyAgain</comment>
-        <translation>Ten plik został wcześniej otwarty w trybie tylko do odczytu. Czy nadal chcesz otworzyć go w trybie tylko do odczytu ?
+        <translation>Ten plik został wcześniej otwarty w trybie tylko do odczytu. Czy nadal chcesz otworzyć go w trybie tylko do odczytu?
 (%s)</translation>
     </message>
     <message>
@@ -434,10 +423,7 @@ Wypróbuj jedną z następujących czynności.
     <message>
         <source>Do you want to save the changes you made to &quot;%s&quot;?</source>
         <comment>TX_Save_Modified_Book</comment>
-        <translation variants="yes">
-            <lengthvariant>Czy chcesz zapisać zmiany dokonane w &quot;%s&quot;?</lengthvariant>
-            <lengthvariant>Czy chcesz zapisać zmiany wprowadzone do &quot;%s&quot;?</lengthvariant>
-        </translation>
+        <translation>Czy chcesz zapisać zmiany wprowadzone do &quot;%s&quot;?</translation>
     </message>
     <message>
         <source>(Read-only)</source>
@@ -480,10 +466,7 @@ Wypróbuj jedną z następujących czynności.
     <message>
         <source>Cannot save the file due to the full disk.</source>
         <comment>TX_Medium_Full</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można zapisać pliku z powodu zapełnionego dysku.</lengthvariant>
-            <lengthvariant>Nie można zapisać pliku z powodu pełnego dysku.</lengthvariant>
-        </translation>
+        <translation>Nie można zapisać pliku z powodu zapełnionego dysku.</translation>
     </message>
     <message>
         <source>Cannot save the file, because the file location you want to save is write protected.</source>
@@ -526,10 +509,7 @@ Lub, możesz przenieść ostatnią niepustą komórkę do nowej lokalizacji i sp
     <message>
         <source>Book</source>
         <comment>TX_New_Book_Name</comment>
-        <translation variants="yes">
-            <lengthvariant>Zeszyt</lengthvariant>
-            <lengthvariant>Książka</lengthvariant>
-        </translation>
+        <translation>Zeszyt</translation>
     </message>
     <message>
         <source>Sheet</source>
@@ -583,10 +563,7 @@ Aby ukryć, usunąć lub przenieść zaznaczone arkusze, musisz najpierw wstawi�
     <message>
         <source>The selection contains multiple data values. Only the data in the upper-left corner will be kept when merging into one cell.</source>
         <comment>TX_MergeCells_LoseData</comment>
-        <translation variants="yes">
-            <lengthvariant>Zaznaczony obszar zawiera wielokrotne wartości danych. Scalanie do jednej komórki spowoduje, że zostaną zachowane wyłącznie dane z górnego lewego rogu.</lengthvariant>
-            <lengthvariant>Zaznaczony obszar zawiera wielokrotne wartości danych. Tylko dane w górnym lewym narożniku będą zachowane podczas scalania do jednej komórki.</lengthvariant>
-        </translation>
+        <translation>Zaznaczony obszar zawiera wielokrotne wartości danych. Scalanie do jednej komórki spowoduje, że zostaną zachowane wyłącznie dane z górnego lewego rogu.</translation>
     </message>
     <message>
         <source>Cannot merge overlapping ranges.</source>
@@ -615,10 +592,7 @@ Aby otworzyć drugi dokument albo zamknij dokument, który masz obecnie otwarty,
     <message>
         <source>WPS Spreadsheets finds nothing to print.</source>
         <comment>TX_PrintPreview_No_data</comment>
-        <translation variants="yes">
-            <lengthvariant>Program WPS Spreadsheets nie znalazł żadnych danych do wydrukowania.</lengthvariant>
-            <lengthvariant>Program WPS Spreadsheets nie znalazł żadnych danych do drukowania.</lengthvariant>
-        </translation>
+        <translation>Program WPS Spreadsheets nie znalazł żadnych danych do wydrukowania.</translation>
     </message>
     <message>
         <source>Subtotal failed. Cannot insert information due to an array.</source>
@@ -628,15 +602,12 @@ Aby otworzyć drugi dokument albo zamknij dokument, który masz obecnie otwarty,
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_Corrupt_FormulaArray</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można zmienić części tablicy.</lengthvariant>
-            <lengthvariant>Część tablicy nie może być zmieniona.</lengthvariant>
-        </translation>
+        <translation>Nie można zmienić części tablicy.</translation>
     </message>
     <message>
         <source>The name you entered is invalid. When renaming a sheet, try one of the following:</source>
         <comment>TX_RenameSheet_Error</comment>
-        <translation>Wprowadzona nazwa jest nieprawidłowa. Podczas zmiany nazwy arkusza, wypróbuj jedną z następujacych czynności:</translation>
+        <translation>Wprowadzona nazwa jest nieprawidłowa. Podczas zmiany nazwy arkusza, spróbuj wykonać jedną z następujących czynności:</translation>
     </message>
     <message>
         <source>• Make sure the name you entered does not exceed 31 characters.</source>
@@ -658,10 +629,7 @@ Aby otworzyć drugi dokument albo zamknij dokument, który masz obecnie otwarty,
     <message>
         <source>Cannot rename a sheet to the same name as another sheet, a referenced object library or a workbook referenced by Visual Basic.</source>
         <comment>TX_RenameSheet_Error2</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można nadać arkuszowi nazwy, którą posiada już inny arkusz, obiekt biblioteki lub skoroszyt, do którego występuje odwołanie w języku Visual Basic.</lengthvariant>
-            <lengthvariant>Nie można zmienić nazwy arkusza na taką samą nazwę jak inny arkusz, obiekt biblioteki lub skoroszyt, do którego występuje odwołanie w języku Visual Basic.</lengthvariant>
-        </translation>
+        <translation>Nie można nadać arkuszowi nazwy, którą posiada już inny arkusz, obiekt biblioteki lub skoroszyt, do którego występuje odwołanie w języku Visual Basic.</translation>
     </message>
     <message>
         <source>• Make sure the name you entered does not exceed 218 characters.</source>
@@ -686,10 +654,7 @@ Aby otworzyć drugi dokument albo zamknij dokument, który masz obecnie otwarty,
     <message>
         <source>Cannot open the specified file.</source>
         <comment>TX_Hyperlink_Cannot_OpenFile</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można otworzyć wskazanego pliku.</lengthvariant>
-            <lengthvariant>Nie można otworzyć określonego pliku.</lengthvariant>
-        </translation>
+        <translation>Nie można otworzyć wskazanego pliku.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot finish this operation due to insufficient memory.</source>
@@ -709,18 +674,12 @@ Aby otworzyć drugi dokument albo zamknij dokument, który masz obecnie otwarty,
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_ERROR_ArrayFormula</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można zmienić części tablicy.</lengthvariant>
-            <lengthvariant>Część tablicy nie może być zmieniona.</lengthvariant>
-        </translation>
+        <translation>Nie można zmienić części tablicy.</translation>
     </message>
     <message>
         <source>Part of merged cell cannot be changed.</source>
         <comment>TX_ERROR_MergeCell</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można zmienić części scalonej komórki.</lengthvariant>
-            <lengthvariant>Część scalonej komórki nie może być zmieniona.</lengthvariant>
-        </translation>
+        <translation>Nie można zmienić części scalonej komórki.</translation>
     </message>
     <message>
         <source>Array formulas in merged cells are not valid.</source>
@@ -740,10 +699,7 @@ Aby otworzyć drugi dokument albo zamknij dokument, który masz obecnie otwarty,
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_ERROR_Array_PartChange</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można zmienić części tablicy.</lengthvariant>
-            <lengthvariant>Część tablicy nie może być zmieniona.</lengthvariant>
-        </translation>
+        <translation>Nie można zmienić części tablicy.</translation>
     </message>
     <message>
         <source>Source reference area overlaps with target area.</source>
@@ -788,18 +744,12 @@ Aby otworzyć drugi dokument albo zamknij dokument, który masz obecnie otwarty,
     <message>
         <source>Formula is too long.</source>
         <comment>TX_ERROR_FOUMULA_TOO_LONG</comment>
-        <translation variants="yes">
-            <lengthvariant>Formuła jest za długa.</lengthvariant>
-            <lengthvariant>Formuła jest zbyt długa.</lengthvariant>
-        </translation>
+        <translation>Formuła jest za długa.</translation>
     </message>
     <message>
         <source>Content in cell is too long.</source>
         <comment>TX_ERROR_CELLTEXT_TOO_LONG</comment>
-        <translation variants="yes">
-            <lengthvariant>Zawartość w komórce jest za długa.</lengthvariant>
-            <lengthvariant>Zawartość w komórce jest zbyt długa.</lengthvariant>
-        </translation>
+        <translation>Zawartość w komórce jest za długa.</translation>
     </message>
     <message>
         <source>No source references specified for consolidation.</source>
@@ -816,7 +766,7 @@ Aby otworzyć drugi dokument albo zamknij dokument, który masz obecnie otwarty,
 • Click a single cell, and then paste.
 • Select a rectangle that&apos;s the same size and shape, and then paste.</source>
         <comment>TX_ERROR_INVALIDPASTERG</comment>
-        <translation>Wklejenie informacji nie jest możliwe, ponieważ obszar kopiowania oraz obszar wklejania nie mają tego samego rozmiaru lub kształtu. Wypróbuj jedną z następujących czynności:
+        <translation>Wklejenie informacji nie jest możliwe, ponieważ obszar kopiowania oraz obszar wklejania nie mają tego samego rozmiaru lub kształtu. Spróbuj wykonać jedną z następujących czynności: 
 • Kliknij pojedynczą komórkę, a następnie wklej.
 • Zaznacz prostokąt o tym samym rozmiarze i kształcie, a następnie wklej.</translation>
     </message>
@@ -828,11 +778,11 @@ There are several possible reasons:
 •If you select Name on the Insert menu and then click the Create command, the rows or columns containing the names will not be included in the named range.
 •If the specified names is in a row or column, you must select more than one rows or columns.</source>
         <comment>TX_ERROR_OVERLAPPASTERG</comment>
-        <translation>Zaznaczony obszar jest nieprawidłowy.
+        <translation>Zaznaczenie jest nieprawidłowe.
 Istnieje kilka możliwych przyczyn:
 
 •Obszary kopiowania i wklejania nie mogą się pokrywać, o ile nie są tego samego rozmiaru i kształtu.
-•Jeśli wybierzesz opcję Nazwa w menu Wstaw, a następnie klikniesz polecenie Utwórz, wiersze lub kolumny zawierające nazwy nie będą dołączone w nazwanym zakresie. 
+•Jeśli wybierzesz opcję Nazwa w menu Wstaw, a następnie klikniesz polecenie Utwórz, wiersze lub kolumny zawierające nazwy nie będą dołączone w nazwanym zakresie.
 •Jeśli określone nazwy są umieszczone w wierszu lub kolumnie, musisz zaznaczyć więcej niż jeden wiersz lub więcej niż jedną kolumnę.</translation>
     </message>
     <message>
@@ -853,10 +803,7 @@ Istnieje kilka możliwych przyczyn:
     <message>
         <source>Cannot create a name according to selected regions and specified conditions.</source>
         <comment>TX_ERROR_CreateNameFailed</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można utworzyć nazwy według wybranych regionów i określonych warunków.</lengthvariant>
-            <lengthvariant>Nie można utworzyć nazwy zgodnie z wybranymi regionami i określonymi warunkami.</lengthvariant>
-        </translation>
+        <translation>Nie można utworzyć nazwy według wybranych regionów i określonych warunków.</translation>
     </message>
     <message>
         <source>Do you want to replace the existing definition of &quot;%s&quot;?</source>
@@ -1023,10 +970,7 @@ Jeśli próbujesz otworzyć plik z listy ostatnio używanych plików w menu Plik
     <message>
         <source>Some worksheets&apos; names in this book contain invalid characters, and they have been replaced with &apos;_&apos; automatically.</source>
         <comment>TX_Open_File_SheetName_Validated</comment>
-        <translation variants="yes">
-            <lengthvariant>Niektóre nazwy arkuszy w tej książce zawierają nieprawidłowe znaki i zostały one automatycznie zastąpione &apos;_&apos;.</lengthvariant>
-            <lengthvariant>Nazwy niektórych arkuszy w tej książce zawierają nieprawidłowe znaki i zostały one automatycznie zastąpione &apos;_&apos;.</lengthvariant>
-        </translation>
+        <translation>Niektóre nazwy arkuszy w tym zeszycie zawierają nieprawidłowe znaki i zostały one automatycznie zastąpione &apos;_&apos;.</translation>
     </message>
     <message>
         <source>Due to the following reasons, macros codes in this file will be lost. Do you still want to save it?
@@ -1042,50 +986,32 @@ Jeśli próbujesz otworzyć plik z listy ostatnio używanych plików w menu Plik
     <message>
         <source>DefaultChart</source>
         <comment>TX_DefaultChart_List</comment>
-        <translation variants="yes">
-            <lengthvariant>DefaultChart</lengthvariant>
-            <lengthvariant>Wykres_domyślny</lengthvariant>
-        </translation>
+        <translation>Wykres_domyślny</translation>
     </message>
     <message>
         <source>DefaultChartStandard</source>
         <comment>TX_DefaultChart_Standard</comment>
-        <translation variants="yes">
-            <lengthvariant>DefaultChartStandard</lengthvariant>
-            <lengthvariant>Standardowy_wykres_domyślny</lengthvariant>
-        </translation>
+        <translation>Standardowy_wykres_domyślny</translation>
     </message>
     <message>
         <source>DefaultChartCustom</source>
         <comment>TX_DefaultChart_Custom</comment>
-        <translation variants="yes">
-            <lengthvariant>Wykres domyślny</lengthvariant>
-            <lengthvariant>Niestandardowy_wykres_domyślny</lengthvariant>
-        </translation>
+        <translation>Niestandardowy_wykres_domyślny</translation>
     </message>
     <message>
         <source>CustomList</source>
         <comment>TX_CUSTOMLIST</comment>
-        <translation variants="yes">
-            <lengthvariant>CustomList</lengthvariant>
-            <lengthvariant>Lista_niestandardowa</lengthvariant>
-        </translation>
+        <translation>Lista_niestandardowa</translation>
     </message>
     <message>
         <source>ListCount</source>
         <comment>TX_CUSTOMLIST_COUNT</comment>
-        <translation variants="yes">
-            <lengthvariant>ListCount</lengthvariant>
-            <lengthvariant>Liczba_wpisów</lengthvariant>
-        </translation>
+        <translation>Liczba_wpisów</translation>
     </message>
     <message>
         <source>ItemCount</source>
         <comment>TX_LISTITEM_COUNT</comment>
-        <translation variants="yes">
-            <lengthvariant>ItemCount</lengthvariant>
-            <lengthvariant>Licznik_elementów</lengthvariant>
-        </translation>
+        <translation>Licznik_elementów</translation>
     </message>
     <message>
         <source>Cannot complete this operation. The workbook referenced by the chart is not open yet.</source>
@@ -1149,10 +1075,7 @@ Proszę podać właściwe pliki.</translation>
     <message>
         <source>Unidentifiable picture format.</source>
         <comment>TX_INVALID_PICTURE</comment>
-        <translation variants="yes">
-            <lengthvariant>Niezidentyfikowany format obrazu.</lengthvariant>
-            <lengthvariant>Nieidentyfikowalny format obrazu.</lengthvariant>
-        </translation>
+        <translation>Niezidentyfikowany format obrazu.</translation>
     </message>
     <message>
         <source>Chart in %s</source>
@@ -1187,10 +1110,7 @@ Proszę podać właściwe pliki.</translation>
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_TextToColumns_Tip3</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można zmienić części tablicy.</lengthvariant>
-            <lengthvariant>Część tablicy nie może być zmieniona.</lengthvariant>
-        </translation>
+        <translation>Nie można zmienić części tablicy.</translation>
     </message>
     <message>
         <source>The destination region is invalid for reference.</source>
@@ -1200,10 +1120,7 @@ Proszę podać właściwe pliki.</translation>
     <message>
         <source>Part of a merged cell cannot be changed.</source>
         <comment>TX_TextToColumns_Tip5</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można zmienić części scalonej komórki.</lengthvariant>
-            <lengthvariant>Część scalonej komórki nie może być zmieniona.</lengthvariant>
-        </translation>
+        <translation>Nie można zmienić części scalonej komórki.</translation>
     </message>
     <message>
         <source>? (Press F8 to confirm.)</source>
@@ -1245,18 +1162,12 @@ Proszę podać właściwe pliki.</translation>
     <message>
         <source>Command not available: The workbook has started revision.</source>
         <comment>TX_ERROR_Revision_CommandNotAvailable</comment>
-        <translation variants="yes">
-            <lengthvariant>Polecenie jest niedostępne. Skoroszyt rozpoczął poprawkę.</lengthvariant>
-            <lengthvariant>Polecenie jest niedostępne. Skoroszyt rozpoczął zmianę.</lengthvariant>
-        </translation>
+        <translation>Polecenie jest niedostępne. Skoroszyt rozpoczął poprawkę.</translation>
     </message>
     <message>
         <source>The formula is too long to finish all the replacements.</source>
         <comment>TX_ERROR_Replace_TooLong</comment>
-        <translation variants="yes">
-            <lengthvariant>Formuła jest za długa, aby zakończyć wszystkie zamiany.</lengthvariant>
-            <lengthvariant>Formuła jest zbyt długa, aby zakończyć wszystkie zamiany.</lengthvariant>
-        </translation>
+        <translation>Formuła jest za długa, aby zakończyć wszystkie zamiany.</translation>
     </message>
     <message>
         <source>Label</source>
@@ -1321,10 +1232,7 @@ Proszę podać właściwe pliki.</translation>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
         <comment>TX_ShareWorkbook_MsgInvalidRef</comment>
-        <translation variants="yes">
-            <lengthvariant>Podany tekst nie jest prawidłowym odwołaniem ani zdefiniowaną nazwą.</lengthvariant>
-            <lengthvariant>Wprowadzony tekst nie jest prawidłowym odwołaniem lub zdefiniowaną nazwą.</lengthvariant>
-        </translation>
+        <translation>Wprowadzony tekst nie jest prawidłowym odwołaniem lub zdefiniowaną nazwą.</translation>
     </message>
     <message>
         <source>This command is not available in a shared workbook.</source>
@@ -1457,10 +1365,7 @@ Proszę otworzyć go w programie Microsoft Excel, potem uruchomić &quot;Zapisz&
     <message>
         <source>BAK_</source>
         <comment>TX_ShareWorkbook_ExcelSharedDocBakPrefix</comment>
-        <translation variants="yes">
-            <lengthvariant>Kopia zapasowa_</lengthvariant>
-            <lengthvariant>BAK_</lengthvariant>
-        </translation>
+        <translation>BAK_</translation>
     </message>
     <message>
         <source>The file is locked by %s. You can change the file lock, or continue with ignoring it. If you continue without changing the file lock, you cannot save this file, but you can use Save As to save to a different file. Do you want to change the file lock?</source>
@@ -1573,10 +1478,7 @@ Proszę otworzyć go w programie Microsoft Excel, potem uruchomić &quot;Zapisz&
     <message>
         <source>Processor(s)</source>
         <comment>TX_ETCalculateInfo_Processors</comment>
-        <translation variants="yes">
-            <lengthvariant>Procesor(y)</lengthvariant>
-            <lengthvariant>Wątek</lengthvariant>
-        </translation>
+        <translation>Procesor(y)</translation>
     </message>
     <message>
         <source>The calculation is not complete</source>
@@ -1695,15 +1597,12 @@ Aby naprawić łącza, zaznacz pojedynczy arkusz, a następnie kliknij przycisk 
     <message>
         <source>Binding</source>
         <comment>TX_SOLVER_BINDING</comment>
-        <translation variants="yes">
-            <lengthvariant>Wiążące</lengthvariant>
-            <lengthvariant>Powiązanie</lengthvariant>
-        </translation>
+        <translation>Wiążące</translation>
     </message>
     <message>
         <source>Final</source>
         <comment>TX_SOLVER_FINAL</comment>
-        <translation>Końcowy</translation>
+        <translation>Końcowe</translation>
     </message>
     <message>
         <source>Value</source>
@@ -1738,10 +1637,7 @@ Aby naprawić łącza, zaznacz pojedynczy arkusz, a następnie kliknij przycisk 
     <message>
         <source>Objective</source>
         <comment>TX_SOLVER_OBJECTIVE</comment>
-        <translation variants="yes">
-            <lengthvariant>Cel</lengthvariant>
-            <lengthvariant>Współczynnik</lengthvariant>
-        </translation>
+        <translation>Cel</translation>
     </message>
     <message>
         <source>Max Time</source>
@@ -1756,10 +1652,7 @@ Aby naprawić łącza, zaznacz pojedynczy arkusz, a następnie kliknij przycisk 
     <message>
         <source>Precision</source>
         <comment>TX_SOLVER_PRECISION</comment>
-        <translation variants="yes">
-            <lengthvariant>Dokładność</lengthvariant>
-            <lengthvariant>Precyzja</lengthvariant>
-        </translation>
+        <translation>Precyzja</translation>
     </message>
     <message>
         <source>Use Automatic Scaling</source>
@@ -1974,11 +1867,7 @@ Aby naprawić łącza, zaznacz pojedynczy arkusz, a następnie kliknij przycisk 
     <message>
         <source>Trail Solution</source>
         <comment>TX_SOLVER_TRIAL_SOLUTION</comment>
-        <translation variants="yes">
-            <lengthvariant>Rozwiązanie pomocnicze</lengthvariant>
-            <lengthvariant>Rozwiązanie pośrednie</lengthvariant>
-            <lengthvariant>Rozwiązanie próbne</lengthvariant>
-        </translation>
+        <translation>Rozwiązanie pomocnicze</translation>
     </message>
     <message>
         <source>Setting Up Problem...</source>
@@ -2337,10 +2226,7 @@ Kontynuować bez możliwości cofnięcia?</translation>
     <message>
         <source>%s on %s</source>
         <comment>TX_ACTIVE_PRINTER</comment>
-        <translation variants="yes">
-            <lengthvariant>%s w %s</lengthvariant>
-            <lengthvariant>%s na %s</lengthvariant>
-        </translation>
+        <translation>%s w %s</translation>
     </message>
     <message>
         <source>unknown printer (check your Control Panel)</source>
@@ -2612,12 +2498,8 @@ Jeśli chcesz kontynuować importowanie, dane mogą być zamieszczone, kliknij p
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
-        <translation variants="yes">
-            <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog dla kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog dla kopii zapasowych.
-Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
-            <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowych.
-Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
-        </translation>
+        <translation>Występują błędy podczas tworzenia kopii zapasowej! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowej, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowej.
+Ta kopia zapasowa zostanie zapisana do(%s)</translation>
     </message>
     <message>
         <source>Too much data returned by the query, can not be contained in a worksheet.
@@ -2642,7 +2524,7 @@ Aby anulować kwerendę, kliknij przycisk &quot;Anuluj&quot;.</translation>
     <message>
         <source>Since the last one column contains data, WPS Spreadsheets can not insert columns. You will not get any data.</source>
         <comment>TX_No_Available_Sheet_Columns</comment>
-        <translation>Ponieważ ostatnia kolumna zawiera dane, program WPS Spreadsheet nie może wstawić kolumn. Nie otrzymasz żadnych danych.</translation>
+        <translation>Ponieważ ostatnia kolumna zawiera dane, program WPS Spreadsheet nie może wstawić kolumn. Nie uzyskasz żadnych danych.</translation>
     </message>
     <message>
         <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
@@ -2900,10 +2782,7 @@ Aby anulować kwerendę, kliknij przycisk &quot;Anuluj&quot;.</translation>
     <message>
         <source>&lt;blank&gt;</source>
         <comment>TX_Revision_Desc_Blank</comment>
-        <translation variants="yes">
-            <lengthvariant>&lt;pusty&gt;</lengthvariant>
-            <lengthvariant>&lt;puste&gt;</lengthvariant>
-        </translation>
+        <translation>&lt;pusty&gt;</translation>
     </message>
     <message>
         <source>Changed name &apos;%s&apos; from &apos;%s&apos; to &apos;%s&apos;</source>
@@ -2938,18 +2817,12 @@ Aby anulować kwerendę, kliknij przycisk &quot;Anuluj&quot;.</translation>
     <message>
         <source>Or</source>
         <comment>TX_AutoFilter_Or</comment>
-        <translation variants="yes">
-            <lengthvariant>Lub</lengthvariant>
-            <lengthvariant>Or</lengthvariant>
-        </translation>
+        <translation>Lub</translation>
     </message>
     <message>
         <source>And</source>
         <comment>TX_AutoFilter_And</comment>
-        <translation variants="yes">
-            <lengthvariant>Oraz</lengthvariant>
-            <lengthvariant>And</lengthvariant>
-        </translation>
+        <translation>Oraz</translation>
     </message>
     <message>
         <source>（Blank）</source>
@@ -2974,10 +2847,7 @@ Aby anulować kwerendę, kliknij przycisk &quot;Anuluj&quot;.</translation>
     <message>
         <source>Please select multirow range to operate.</source>
         <comment>TX_RepeatWord_Single_Row</comment>
-        <translation variants="yes">
-            <lengthvariant>Proszę wybrać zakres wielu wierszy do działania.</lengthvariant>
-            <lengthvariant>Proszę wybrać zakres wielu wierszy do operacji.</lengthvariant>
-        </translation>
+        <translation>Proszę wybrać zakres wielu wierszy do działania.</translation>
     </message>
     <message>
         <source>Duplicates do not support reference to name.</source>
@@ -3127,7 +2997,7 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>No RETURN() or HALT() function fount on macro sheet.</source>
         <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
-        <translation>W arkuszu makr nie napotkano funkcji POWRÓT() lub ZAKOŃCZ().</translation>
+        <translation>W arkuszu makr nie znaleziono funkcji POWRÓT() lub ZAKOŃCZ().</translation>
     </message>
     <message>
         <source>Invalid reference argument at:</source>
@@ -3270,10 +3140,7 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>Call Fail</source>
         <comment>TX_DAP_FunctionCallFail</comment>
-        <translation variants="yes">
-            <lengthvariant>Niepowodzenie wywołania funkcji</lengthvariant>
-            <lengthvariant>Wywołanie funkcji nie powiodło się</lengthvariant>
-        </translation>
+        <translation>Niepowodzenie wywołania funkcji</translation>
     </message>
     <message>
         <source>The PivotTable will not fit on the sheet. Do you want to show as much as possible?</source>
@@ -3329,7 +3196,7 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
   If you&apos;re using advanced filter, select a range of cells that contains at least two rows of data. Then click the Advanced Filter command again.
   If you&apos;re creating a PivotTable report, type a cell reference or select a range that includes at least two rows of data.</source>
         <comment>TX_DAP_DlgInfo_CannotCreatePivotTableInOneRow</comment>
-        <translation>To polecenie wymaga co najmniej dwóch wierszy danych źródłowych. Nie można użyć polecenia dla zaznaczenia tylko w jednym wierszu. Spróbuj następujących sposobów:
+        <translation>To polecenie wymaga co najmniej dwóch wierszy danych źródłowych. Nie można użyć polecenia dla zaznaczenia tylko w jednym wierszu. Spróbuj wykonać jedną z następujących czynności:
 
   Jeśli używasz filtru zaawansowanego, zaznacz zakres komórek zawierający co najmniej dwa wiersze danych. Następnie kliknij ponownie polecenie Filtr zaawansowany.
   Jeśli tworzysz raport w formie tabeli przestawnej lub raport w formie wykresu przestawnego, wpisz odwołanie do komórki lub zaznacz zakres obejmujący co najmniej dwa wiersze danych.</translation>
@@ -3395,11 +3262,7 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>You cannot perform next operation due to one of the following reasons: You have not selected a valid data source.The connection string is blank.The string you typed is not corret.The generated connection failed.</source>
         <comment>TX_ETDBE_ERR_CONNECTFAIL</comment>
-        <translation>Nie można wykonać następnej operacji z powodu jednej z następujących przyczyn:
- Nie wybrano poprawnego źródła danych.
- Ciąg połączenia jest pusty.
- Wpisany ciąg nie jest poprawny.
- Wygenerowane połączenie nie powiodło się.</translation>
+        <translation>Nie można wykonać następnej operacji z powodu jednej z następujących przyczyn: Nie wybrano poprawnego źródła danych. Ciąg połączenia jest pusty. Wpisany ciąg nie jest poprawny. Wygenerowane połączenie nie powiodło się.</translation>
     </message>
     <message>
         <source>You cannot perform next operation due to one of the following reasons:
@@ -3580,18 +3443,12 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source> LIKE,</source>
         <comment>TX_ETDBE_STR_OPR_LIKE</comment>
-        <translation variants="yes">
-            <lengthvariant> PODOBNE DO,</lengthvariant>
-            <lengthvariant> LIKE,</lengthvariant>
-        </translation>
+        <translation> PODOBNE DO,</translation>
     </message>
     <message>
         <source> NOT LIKE,</source>
         <comment>TX_ETDBE_STR_OPR_NOTLIKE</comment>
-        <translation variants="yes">
-            <lengthvariant> NIEPODOBNE DO,</lengthvariant>
-            <lengthvariant> NOT LIKE,</lengthvariant>
-        </translation>
+        <translation> NIEPODOBNE DO,</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -3626,18 +3483,12 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source> AND,</source>
         <comment>TX_ETDBE_STR_RELATION_AND</comment>
-        <translation variants="yes">
-            <lengthvariant> ORAZ,</lengthvariant>
-            <lengthvariant> AND,</lengthvariant>
-        </translation>
+        <translation> ORAZ,</translation>
     </message>
     <message>
         <source> OR,</source>
         <comment>TX_ETDBE_STR_RELATION_OR</comment>
-        <translation variants="yes">
-            <lengthvariant> LUB,</lengthvariant>
-            <lengthvariant> OR,</lengthvariant>
-        </translation>
+        <translation> LUB,</translation>
     </message>
     <message>
         <source>Query failed!</source>
@@ -3672,10 +3523,7 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>You cannot query next due to no selected fields.</source>
         <comment>TX_ETDBE_STR_ERR_NOFIELD</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można przejść do następnego kroku kwerendy z powodu braku zaznaczonych pól.</lengthvariant>
-            <lengthvariant>Nie można wykonać kwerendy z powodu braku zaznaczonych pól.</lengthvariant>
-        </translation>
+        <translation>Nie można wykonać kwerendy z powodu braku zaznaczonych pól.</translation>
     </message>
     <message>
         <source>Connections:</source>
@@ -3712,10 +3560,7 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>Import Data</source>
         <comment>TX_ETDBE_STR_MSGBOX_TITLE</comment>
-        <translation variants="yes">
-            <lengthvariant>Importuj dane</lengthvariant>
-            <lengthvariant>Importowanie danych</lengthvariant>
-        </translation>
+        <translation>Importuj dane</translation>
     </message>
     <message>
         <source>Initialization Error!</source>
@@ -3799,10 +3644,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
         <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation variants="yes">
-            <lengthvariant>Wszystkie pliki (*.*)|*.*|Wszystkie źródła danych (*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Bazy danych programu Access (*.mdb,*.accdb)|*.mdb;*.accdb|Baza danych FoxPro (*.dbc)|*.dbc|Pliki programu dBASE (*.dbf)|*.dbf|Pliki programu Excel (*.xls)|*.xls|Pliki programu WPS Spreadsheets (*.et)|*.et|Pliki tekstowe CSV (*.csv)|*.csv|Pliki tekstowe PRN (*.prn)|*.prn|Pliki tekstowe (*.txt)|*.txt|Połączenia baz danych pakietu Office (*.odc)|*.odc|Łącza Microsoft Data (*.udl)|*.udl|Nazwy DSN plików ODBC (*.dsn)|*.dsn|Plik kwerendy (*.dqy)|*.dqy||</lengthvariant>
-            <lengthvariant>Wszystkie pliki (*.*)|*.*|Wszystkie źródła danych (*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Bazy danych programu Access (*.mdb,*.accdb)|*.mdb;*.accdb|Baza danych FoxPro (*.dbc)|*.dbc|Pliki programu dBASE (*.dbf)|*.dbf|Pliki programu Excel (*.xls)|*.xls|Pliki programu WPS Spreadsheets (*.et)|*.et|Pliki tekstowe CSV (*.csv)|*.csv|Pliki tekstowe PRN (*.prn)|*.prn|Pliki tekstowe (*.txt)|*.txt|Połączenia baz danych pakietu Office (*.odc)|*.odc|Łącza Microsoft Data (*.udl)|*.udl|Nazwy DSN plików ODBC (*.dsn)|*.dsn|Plik zapytania (*.dqy)|*.dqy||</lengthvariant>
-        </translation>
+        <translation>Wszystkie pliki (*.*)|*.*|Wszystkie źródła danych (*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Bazy danych programu Access (*.mdb,*.accdb)|*.mdb;*.accdb|Baza danych FoxPro (*.dbc)|*.dbc|Pliki programu dBASE (*.dbf)|*.dbf|Pliki programu Excel (*.xls)|*.xls|Pliki programu WPS Spreadsheets (*.et)|*.et|Pliki tekstowe CSV (*.csv)|*.csv|Pliki tekstowe PRN (*.prn)|*.prn|Pliki tekstowe (*.txt)|*.txt|Połączenia baz danych pakietu Office (*.odc)|*.odc|Łącza Microsoft Data (*.udl)|*.udl|Nazwy DSN plików ODBC (*.dsn)|*.dsn|Plik kwerendy (*.dqy)|*.dqy||</translation>
     </message>
     <message>
         <source>Running background query...(Click here to cancel)</source>
@@ -3880,10 +3722,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>User Defined</source>
         <comment>FuncCatName12</comment>
-        <translation variants="yes">
-            <lengthvariant>Użytkownika</lengthvariant>
-            <lengthvariant>Definiowane przez użytkownika</lengthvariant>
-        </translation>
+        <translation>Zdefiniowane przez użytkownika</translation>
     </message>
     <message>
         <source>Engineering</source>
@@ -4128,18 +3967,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>DIV(dividend,divisor)</source>
         <comment>DIV_GRAMMER</comment>
-        <translation variants="yes">
-            <lengthvariant>ILORAZ(dzielna; dzielnik)</lengthvariant>
-            <lengthvariant>DIV(dzielna; dzielnik)</lengthvariant>
-        </translation>
+        <translation>ILORAZ(dzielna; dzielnik)</translation>
     </message>
     <message>
         <source>Div.</source>
         <comment>DIV_REMARK</comment>
-        <translation variants="yes">
-            <lengthvariant>Iloraz.</lengthvariant>
-            <lengthvariant>Div.</lengthvariant>
-        </translation>
+        <translation>Iloraz.</translation>
     </message>
     <message>
         <source>EVEN(number)</source>
@@ -4529,7 +4362,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the sum of the squares of all the arguments. The arguments may be varied as numbers, arrays, names or references to cells which contian numbers.</source>
         <comment>SUMSQ_REMARK</comment>
-        <translation>Zwraca sumę kwadratów argumentów. Argumenty mogą być różne, jak: liczby, tablice, nazwy lub odwołania do komórek, które zawierają liczby.</translation>
+        <translation>Zwraca sumę kwadratów argumentów. Argumenty mogą być liczbami, tablicami, nazwami lub odwołaniami do komórek zawierających liczby.</translation>
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
@@ -5039,7 +4872,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the standard normal cumulative distribution function with a mean of zero and a standard deviation of one.</source>
         <comment>NORMSDIST_DESCRIPTION</comment>
-        <translation>Zwraca funkcję skumulowanego rozkładu normalnego. Rozkład ten ma średnią zero i odchylenie standardowe równe jeden.</translation>
+        <translation>Zwraca standardowy skumulowany rozkład normalny o średniej zero i odchyleniu standardowym jeden.</translation>
     </message>
     <message>
         <source>NORMSINV(probability)</source>
@@ -5049,7 +4882,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the inverse of the standard normal cumulative distribution fuction with a mean of zero and a standard deviation of one.</source>
         <comment>NORMSINV_DESCRIPTION</comment>
-        <translation>Zwraca funkcję odwrotną skumulowanego, standardowego rozkładu normalnego. Rozkład ten ma średnią równą zero i standardowe odchylenie równe jeden.</translation>
+        <translation>Zwraca odwrotność standardowego skumulowanego rozkładu normalnego o średniej zero i odchyleniu standardowym jeden.</translation>
     </message>
     <message>
         <source>PERCENTRANK(array,x,significance)</source>
@@ -5284,10 +5117,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the inverse of the F probability distribution.</source>
         <comment>FINV_DESCRIPTION</comment>
-        <translation variants="yes">
-            <lengthvariant>Zwraca wartość funkcji odwrotnej rozkładu prawdopodobieństwa F.</lengthvariant>
-            <lengthvariant>Zwraca wartość funkcji odwrotnej rozkładu (prawostronnego) prawdopodobieństwa F-Snedecora.</lengthvariant>
-        </translation>
+        <translation>Zwraca wartość funkcji odwrotnej rozkładu (prawostronnego) prawdopodobieństwa F-Snedecora.</translation>
     </message>
     <message>
         <source>FORECAST(x,known_y&apos;s,known_x&apos;s)</source>
@@ -5622,10 +5452,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation variants="yes">
-            <lengthvariant>USUŃ.ZBĘDNE.ODSTĘPY.Z.LEWEJ(tekst)</lengthvariant>
-            <lengthvariant>LTRIM(tekst)</lengthvariant>
-        </translation>
+        <translation>USUŃ.ZBĘDNE.ODSTĘPY.Z.LEWEJ(tekst)</translation>
     </message>
     <message>
         <source>Removes left spaces of the specified text string.</source>
@@ -5675,10 +5502,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation variants="yes">
-            <lengthvariant>USUŃ.ZBĘDNE.ODSTĘPY.Z.PRAWEJ(tekst)</lengthvariant>
-            <lengthvariant>RTRIM(tekst)</lengthvariant>
-        </translation>
+        <translation>USUŃ.ZBĘDNE.ODSTĘPY.Z.PRAWEJ(tekst)</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
@@ -5703,10 +5527,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Replaces part of the old text with new text in a string.</source>
         <comment>SUBSTITUTE_REMARK</comment>
-        <translation variants="yes">
-            <lengthvariant>Podstawia w ciągu tekstowym w miejsce argumentu stary_tekst argument nowy_tekst.</lengthvariant>
-            <lengthvariant>Podstawia nowy tekst w miejsce starego tekstu w ciągu tekstowym.</lengthvariant>
-        </translation>
+        <translation>Podstawia w ciągu tekstowym w miejsce argumentu stary_tekst argument nowy_tekst.</translation>
     </message>
     <message>
         <source>TEXT(value,format_text)</source>
@@ -5886,10 +5707,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns TRUE if the number is even and FALSE otherwise.</source>
         <comment>ISEVEN_REMARK</comment>
-        <translation variants="yes">
-            <lengthvariant>Zwraca wartość PRAWDA, jeśli argument liczba to liczba parzysta, lub FAŁSZ, jeśli argument liczba jest liczbą nieparzystą.</lengthvariant>
-            <lengthvariant>Zwraca wartość PRAWDA, jeśli liczba jest parzysta, lub FAŁSZ, jeśli liczba jest nieparzysta.</lengthvariant>
-        </translation>
+        <translation>Zwraca wartość PRAWDA, jeśli argument liczba to liczba parzysta, lub FAŁSZ, jeśli argument liczba jest liczbą nieparzystą.</translation>
     </message>
     <message>
         <source>ISLOGICAL(value)</source>
@@ -6599,7 +6417,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the number of charcters in the text. Use with double-byte characters(DBCS).</source>
         <comment>LENB_REMARK</comment>
-        <translation>Zwraca liczbę bajtów reprezentujących znaki w ciągu tekstowym. Do używania z językami o zestawach znaków dwubajtowych (DBCS).</translation>
+        <translation>Zwraca liczbę bajtów reprezentujących znaki w ciągu tekstowym. Funkcji należy używać z zestawami znaków dwubajtowych (DBCS).</translation>
     </message>
     <message>
         <source>FINDB(find_text,within_text,start_num)</source>
@@ -6659,7 +6477,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the first-found location of the specified charcter or string within a text string, reading from left to right (not case-sensitive). Use with double-byte character set(DBCS).</source>
         <comment>SEARCHB_REMARK</comment>
-        <translation>Zwraca numer pozycji, w której po raz pierwszy znaleziono dany znak lub ciąg tekstowy, począwszy od wartości argumentu liczba_początkowa. Odczyt w kierunku od lewej do prawej (nie jest rozróżniana wielkość liter). Do używania z językami o zestawach znaków dwubajtowych (DBCS).</translation>
+        <translation>Zwraca numer pozycji, w której po raz pierwszy znaleziono dany znak lub ciąg tekstowy, począwszy od wartości argumentu liczba_początkowa. Odczyt w kierunku od lewej do prawej (nie jest rozróżniana wielkość liter). Funkcji należy używać z zestawami znaków dwubajtowych (DBCS).</translation>
     </message>
     <message>
         <source>WIDECHAR(text)</source>
@@ -7159,10 +6977,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>User Defined</source>
         <comment>FuncCatName18</comment>
-        <translation variants="yes">
-            <lengthvariant>Użytkownika</lengthvariant>
-            <lengthvariant>Definiowane przez użytkownika</lengthvariant>
-        </translation>
+        <translation>Zdefiniowane przez użytkownika</translation>
     </message>
     <message>
         <source>Cube</source>
@@ -7879,10 +7694,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
         <source> · Import Data
 </source>
         <comment>TX_Save_Html_Warning_QueryTable</comment>
-        <translation variants="yes">
-            <lengthvariant> · Importuj dane</lengthvariant>
-            <lengthvariant> · Importowanie danych</lengthvariant>
-        </translation>
+        <translation> · Importuj dane</translation>
     </message>
     <message>
         <source> · Multiple Windows
@@ -8037,7 +7849,8 @@ Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne s
         <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
 To continue saving as a macro-disabled workbook, click Yes.</source>
         <comment>TX_Save_Xlsx_Warning_2</comment>
-        <translation>W celu zapisania pliku z tymi funkcjami kliknij przycisk Nie, a następnie wybierz typ pliku z obsługą makr z listy typów plików.Aby kontynuować zapisywanie skoroszytu jako pliku z wyłączoną obsługą makr, kliknij przycisk Tak.</translation>
+        <translation>W celu zapisania pliku z tymi funkcjami kliknij przycisk Nie, a następnie wybierz typ pliku z obsługą makr z listy typów plików.
+Aby kontynuować zapisywanie skoroszytu jako pliku bez obsługi makr, kliknij przycisk Tak.</translation>
     </message>
     <message>
         <source> · VB project
@@ -8066,12 +7879,8 @@ To continue saving as a macro-disabled workbook, click Yes.</source>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>TX_Persist_MsgBackupToDef</comment>
-        <translation variants="yes">
-            <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog dla kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog dla kopii zapasowych.
-Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
-            <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowych.
-Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
-        </translation>
+        <translation>Występują błędy podczas tworzenia kopii zapasowej! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowej, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowej.
+Ta kopia zapasowa zostanie zapisana do(%s)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format 2.0(*.uos)</source>
@@ -8303,7 +8112,7 @@ Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
 .Click a single cell, and then paste. 
 .Select a rectangle that&apos;s the same size and shape, and then paste.</source>
         <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
-        <translation>Wklejenie informacji nie jest możliwe, ponieważ obszar kopiowania oraz obszar wklejania nie mają tego samego rozmiaru lub kształtu. Wypróbuj jedną z następujących czynności: 
+        <translation>Wklejenie informacji nie jest możliwe, ponieważ obszar kopiowania oraz obszar wklejania nie mają tego samego rozmiaru lub kształtu. Spróbuj wykonać jedną z następujących czynności: 
 
 .Kliknij pojedynczą komórkę, a następnie wklej. 
 .Zaznacz prostokąt o tym samym rozmiarze i kształcie, a następnie wklej.</translation>
@@ -8317,11 +8126,11 @@ There are several possible reasons:
 •If the specified name is in a row or column, you must select more than one rows or columns.
 •If you click the Table command on Data menu, the selected range must be a single rectangle, and the number of rows or columns must be greater than one.</source>
         <comment>TX_DESC_Paste_OverlapRange_ET</comment>
-        <translation>Zaznaczony obszar jest nieprawidłowy.
+        <translation>Zaznaczenie jest nieprawidłowe.
 Istnieje kilka możliwych przyczyn:
 
 •Obszary kopiowania i wklejania nie mogą się pokrywać, o ile nie są tego samego rozmiaru i kształtu.
-•Jeśli wybierzesz opcję Nazwa w menu Wstaw, a następnie klikniesz polecenie Utwórz, wiersze lub kolumny zawierające nazwy nie będą dołączone w nazwanym zakresie. 
+•Jeśli wybierzesz opcję Nazwa w menu Wstaw, a następnie klikniesz polecenie Utwórz, wiersze lub kolumny zawierające nazwy nie będą dołączone w nazwanym zakresie.
 •Jeśli określone nazwy są umieszczone w wierszu lub kolumnie, musisz zaznaczyć więcej niż jeden wiersz lub więcej niż jedną kolumnę.
 •Jeśli klikniesz polecenie Tabela w menu Dane, wybrany zakres musi być pojedynczym prostokątem, a liczba wierszy lub kolumn musi być większa niż jeden.</translation>
     </message>
@@ -8377,7 +8186,7 @@ Istnieje kilka możliwych przyczyn:
 •If you want to close this message and correct the formula by yourself, click Cancel.
 • If you are not typing a formula, please avoid using a equal sign(=), plus sign(+) or minus sign(-) at the beginning.</source>
         <comment>TX_InputFormula_Error</comment>
-        <translation>Formuła, którą wpisałeś zawiera błędy. Program WPS Spreadsheets automatycznie poprawił ją jako: 
+        <translation>Wpisana formuła zawiera błędy. Program WPS Spreadsheets automatycznie poprawił ją jako: 
 &apos;%s
 •Jeśli chcesz zaakceptować poprawienie, kliknij przycisk OK.
 •Jeśli chcesz zamknąć ten komunikat i samodzielnie poprawić formułę, kliknij przycisk Anuluj.
@@ -8448,7 +8257,7 @@ Proszę upewnij się, że wybrane regiony są ciągłymi komórkami.</translatio
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
         <comment>TX_Help_NoHelpFile</comment>
-        <translation>Nie znaleziono plików Pomocy lub pliki pomocy napotkały błąd.</translation>
+        <translation>Nie znaleziono plików pomocy lub w plikach pomocy wystąpił błąd.</translation>
     </message>
     <message>
         <source>Enter</source>
@@ -8726,50 +8535,32 @@ Czy kontynuować?</translation>
     <message>
         <source>The Time contains an error now. Do you want to continue?</source>
         <comment>TX_DV_TimeErr</comment>
-        <translation variants="yes">
-            <lengthvariant>Godzina zawiera błąd. Czy chcesz kontynuować?</lengthvariant>
-            <lengthvariant>Czas zawiera błąd. Czy chcesz kontynuować?</lengthvariant>
-        </translation>
+        <translation>Godzina zawiera błąd. Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <source>The Start Time contains an error now. Do you want to continue?</source>
         <comment>TX_DV_TimeErr1</comment>
-        <translation variants="yes">
-            <lengthvariant>Godzina rozpoczęcia zawiera błąd. Czy chcesz kontynuować?</lengthvariant>
-            <lengthvariant>Czas rozpoczęcia zawiera błąd. Czy chcesz kontynuować?</lengthvariant>
-        </translation>
+        <translation>Godzina rozpoczęcia zawiera błąd. Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <source>The End Time contains an error now. Do you want to continue?</source>
         <comment>TX_DV_TimeErr2</comment>
-        <translation variants="yes">
-            <lengthvariant>Godzina zakończenia zawiera błąd. Czy chcesz kontynuować?</lengthvariant>
-            <lengthvariant>Czas zakończenia zawiera błąd. Czy chcesz kontynuować?</lengthvariant>
-        </translation>
+        <translation>Godzina zakończenia zawiera błąd. Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <source>The date you specified in Time is invalid.</source>
         <comment>TX_DV_Time</comment>
-        <translation variants="yes">
-            <lengthvariant>Data określona w Godzina jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Data określona w Czas jest nieprawidłowa.</lengthvariant>
-        </translation>
+        <translation>Data określona w Godzina jest nieprawidłowa.</translation>
     </message>
     <message>
         <source>The date you specified in Start Time is invalid.</source>
         <comment>TX_DV_Time1</comment>
-        <translation variants="yes">
-            <lengthvariant>Data określona w Godzina rozpoczęcia jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Data określona w Czas rozpoczęcia jest nieprawidłowa.</lengthvariant>
-        </translation>
+        <translation>Data określona w Godzina rozpoczęcia jest nieprawidłowa.</translation>
     </message>
     <message>
         <source>The date you specified in End Time is invalid.</source>
         <comment>TX_DV_Time2</comment>
-        <translation variants="yes">
-            <lengthvariant>Data określona w Godzina zakończenia jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Data określona w Czas zakończenia jest nieprawidłowa.</lengthvariant>
-        </translation>
+        <translation>Data określona w Godzina zakończenia jest nieprawidłowa.</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
@@ -8794,10 +8585,7 @@ Czy kontynuować?</translation>
     <message>
         <source>The End Time must be greater than or equal to the Start Time.</source>
         <comment>TX_DV_TimeValueErr</comment>
-        <translation variants="yes">
-            <lengthvariant>Godzina zakończenia musi być większa lub równa Godzinie rozpoczęcia.</lengthvariant>
-            <lengthvariant>Czas zakończenia musi być większy lub równy Czasowi rozpoczęcia.</lengthvariant>
-        </translation>
+        <translation>Godzina zakończenia musi być większa lub równa Godzinie rozpoczęcia.</translation>
     </message>
     <message>
         <source>The Text length contains an error now. Do you want to continue?</source>
@@ -8852,10 +8640,7 @@ Czy kontynuować?</translation>
     <message>
         <source>Format Text box</source>
         <comment>TX_SETEDITTEXTBOXCAPTION</comment>
-        <translation variants="yes">
-            <lengthvariant>Formatowanie pola tekstowego</lengthvariant>
-            <lengthvariant>Formatuj pole tekstowe</lengthvariant>
-        </translation>
+        <translation>Formatowanie pola tekstowego</translation>
     </message>
     <message>
         <source>Format Cells</source>
@@ -8873,10 +8658,10 @@ Czy kontynuować?</translation>
 •If you do not want to  create the circular reference, click OK, and correct the formula.
 •If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
         <comment>TX_FORMULA_RECURSION</comment>
-        <translation>Program WPS Spreadsheets nie może obliczyć formuły. Odwołanie do komórki w formule jest tą samą komórką, która zawiera formułę, co powoduje powstanie odwołania cyklicznego. Wypróbuj jedną z następujących akcji:
+        <translation>Program WPS Spreadsheets nie może obliczyć formuły. Odwołania do komórek w formule odwołują się do wyniku formuły, tworząc odwołanie cykliczne. Spróbuj wykonać jedną z następujących czynności:
 
 •Jeżeli nie chcesz utworzyć odwołania cyklicznego, kliknij przycisk OK i popraw formułę.
-•Jeśli chcesz użyć odwołania cyklicznego do obliczania prawidłowego wyniku, proszę kliknij pole wyboru iteracja w ustawieniach menu Narzędzia.</translation>
+•Jeśli chcesz użyć odwołania cyklicznego do obliczania prawidłowego wyniku, proszę kliknij pole wyboru Iteracja w ustawieniach menu Narzędzia.</translation>
     </message>
     <message>
         <source>Enter</source>
@@ -9956,10 +9741,7 @@ Czy kontynuować?</translation>
     <message>
         <source>You have not selected the data to be parsed.</source>
         <comment>TX_DS_NODATA</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie wybrano danych, które mają być analizowane.</lengthvariant>
-            <lengthvariant>Nie wybrano danych do przeanalizowania.</lengthvariant>
-        </translation>
+        <translation>Nie wybrano danych, które mają być analizowane.</translation>
     </message>
     <message>
         <source>This command cannot be used on multiple selections. Select a single region and then perform this command again.</source>
@@ -10085,12 +9867,8 @@ Czy kontynuować?</translation>
         <source>Import 
 Data</source>
         <comment>TXShell_ImportData_Caption</comment>
-        <translation variants="yes">
-            <lengthvariant>Importuj 
-dane</lengthvariant>
-            <lengthvariant>Importowanie 
-danych</lengthvariant>
-        </translation>
+        <translation>Importuj 
+dane</translation>
     </message>
     <message>
         <source>Validation</source>
@@ -10157,10 +9935,7 @@ pisowni</translation>
     <message>
         <source>Comparison Unit</source>
         <comment>TX_ParaInfo_189</comment>
-        <translation variants="yes">
-            <lengthvariant>Jednostka porównawcza</lengthvariant>
-            <lengthvariant>Porównanie jednostek</lengthvariant>
-        </translation>
+        <translation>Jednostka porównawcza</translation>
     </message>
     <message>
         <source>Label</source>
@@ -10250,10 +10025,7 @@ pisowni</translation>
     <message>
         <source>Number of paying interest annually</source>
         <comment>TX_ParaInfo_194</comment>
-        <translation variants="yes">
-            <lengthvariant>Liczba płaconych odsetek rocznie</lengthvariant>
-            <lengthvariant>Ilość płaconych odsetek rocznie</lengthvariant>
-        </translation>
+        <translation>Liczba płaconych odsetek rocznie</translation>
     </message>
     <message>
         <source>Cross-book reference cannot refer to this file.</source>
@@ -10273,10 +10045,7 @@ pisowni</translation>
     <message>
         <source>Not force the coefficient to be 0</source>
         <comment>TX_ParaInfo_196</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie wymuszaj funkcji celu równej 0</lengthvariant>
-            <lengthvariant>Nie wymuszaj współczynnika równego 0</lengthvariant>
-        </translation>
+        <translation>Nie wymuszaj funkcji celu równej 0</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
@@ -10301,10 +10070,7 @@ pisowni</translation>
     <message>
         <source>Draw Grid</source>
         <comment>TX_DrawBorderGrid</comment>
-        <translation variants="yes">
-            <lengthvariant>Rysuj siatkę</lengthvariant>
-            <lengthvariant>Rysowanie siatki</lengthvariant>
-        </translation>
+        <translation>Rysuj siatkę</translation>
     </message>
     <message>
         <source>Draw Border</source>
@@ -11874,12 +11640,12 @@ pisowni</translation>
     <message>
         <source>is an array, a reference to a cell with numbers, a formula which can import numbers.</source>
         <comment>TX_ParaDesc_336</comment>
-        <translation></translation>
+        <translation>tablica, adres komórki z liczbami, formuła, która możne importować liczby.</translation>
     </message>
     <message>
         <source>is a number, a reference to a cell containing a number, or a formula that evalueates to a number, 2 if omitted.</source>
         <comment>TX_ParaDesc_337</comment>
-        <translation>liczba, adres komórki zawierającej liczbę lub formuła zwracająca liczbę, jeśli jest pominięta wynosi 2.</translation>
+        <translation>liczba, odwołanie do komórki zawierającej liczbę lub formuła dająca w wyniku liczbę, jeśli jest pominięta wynosi 2.</translation>
     </message>
     <message>
         <source>is the Arabic numeral you want to convert.</source>
@@ -14084,7 +13850,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>is the interest rate per period. For example, use 6%4 for quarterly payment at 6% APR.</source>
         <comment>TX_ParaDesc_139</comment>
-        <translation>stopa procentowa dla okresu. Na przykład użyj stopy 6%/4 dla płatności kwartalnych w przypadku stopy 6% w stosunku rocznym.</translation>
+        <translation>stopa oprocentowania dla okresu. Na przykład użyj stopy 6%/4 dla kwartalnych płatności w przypadku stopy 6% w stosunku rocznym.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 values.</source>
@@ -14234,7 +14000,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Value 1,value 2,...1 to 30 of plural numbers, used to calculate the product.</source>
         <comment>TX_ParaDesc_522</comment>
-        <translation>wartość 1, wartość 2,... od 1 do 30 liczb zespolonych, używane do obliczania iloczynu.</translation>
+        <translation>wartość 1,wartość 2,... od 1 do 30 liczb zespolonych, używanych do obliczania iloczynu.</translation>
     </message>
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
@@ -14312,10 +14078,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Series</source>
         <comment>TX_Undo_FillSeries</comment>
-        <translation variants="yes">
-            <lengthvariant>Serie</lengthvariant>
-            <lengthvariant>Seria</lengthvariant>
-        </translation>
+        <translation>Seria</translation>
     </message>
     <message>
         <source>Down</source>
@@ -14415,10 +14178,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Change Chart Type</source>
         <comment>TX_Undo_ChartChgType</comment>
-        <translation variants="yes">
-            <lengthvariant>Zmień typ wykresu</lengthvariant>
-            <lengthvariant>Zmienianie typu wykresu</lengthvariant>
-        </translation>
+        <translation>Zmień typ wykresu</translation>
     </message>
     <message>
         <source>Set Chart Format</source>
@@ -14488,10 +14248,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Format Cells</source>
         <comment>TX_Undo_FormatCells</comment>
-        <translation variants="yes">
-            <lengthvariant>Formatuj komórki</lengthvariant>
-            <lengthvariant>Formatowanie komórek</lengthvariant>
-        </translation>
+        <translation>Formatuj komórki</translation>
     </message>
     <message>
         <source>Height</source>
@@ -14521,10 +14278,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Rename Sheet</source>
         <comment>TX_Undo_RenameSheet</comment>
-        <translation variants="yes">
-            <lengthvariant>Zmień nazwę arkusza</lengthvariant>
-            <lengthvariant>Zmienianie nazwy arkusza</lengthvariant>
-        </translation>
+        <translation>Zmień nazwę arkusza</translation>
     </message>
     <message>
         <source>Background</source>
@@ -14569,18 +14323,12 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>AutoFit Selection</source>
         <comment>TX_Undo_AutoFitSelection</comment>
-        <translation variants="yes">
-            <lengthvariant>Autodopasowanie zaznaczenia</lengthvariant>
-            <lengthvariant>Autodopasowanie obszaru</lengthvariant>
-        </translation>
+        <translation>Autodopasowanie zaznaczenia</translation>
     </message>
     <message>
         <source>Sort</source>
         <comment>TX_Undo_DataSort</comment>
-        <translation variants="yes">
-            <lengthvariant>Sortuj</lengthvariant>
-            <lengthvariant>Sortowanie</lengthvariant>
-        </translation>
+        <translation>Sortuj</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -14730,12 +14478,12 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Percent Style</source>
         <comment>TX_Undo_PercentStyle</comment>
-        <translation>Styl procentowy</translation>
+        <translation>Zapis procentowy</translation>
     </message>
     <message>
         <source>Comma Style</source>
         <comment>TX_Undo_CommaStyle</comment>
-        <translation>Styl dziesiętny</translation>
+        <translation>Zapis dziesiętny</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
@@ -14750,10 +14498,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Format Cells</source>
         <comment>TX_Undo_IncreaseIndent</comment>
-        <translation variants="yes">
-            <lengthvariant>Formatuj komórki</lengthvariant>
-            <lengthvariant>Formatowanie komórek</lengthvariant>
-        </translation>
+        <translation>Formatuj komórki</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -14783,10 +14528,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Recent Fill Color</source>
         <comment>TX_Undo_RecentFillColor</comment>
-        <translation variants="yes">
-            <lengthvariant>Kolor ostatniego wypełnienia</lengthvariant>
-            <lengthvariant>Ostatni kolor wypełnienia</lengthvariant>
-        </translation>
+        <translation>Ostatni kolor wypełnienia</translation>
     </message>
     <message>
         <source>Cell Fill Color</source>
@@ -14831,18 +14573,12 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Borders</source>
         <comment>TX_Undo_BordersPalette</comment>
-        <translation variants="yes">
-            <lengthvariant>Obramowania</lengthvariant>
-            <lengthvariant>Krawędzie</lengthvariant>
-        </translation>
+        <translation>Obramowania</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
         <comment>TX_Undo_InsertSymbol</comment>
-        <translation variants="yes">
-            <lengthvariant>Wstaw symbol</lengthvariant>
-            <lengthvariant>Wstawienie symbolu</lengthvariant>
-        </translation>
+        <translation>Wstaw symbol</translation>
     </message>
     <message>
         <source>Auto Fill</source>
@@ -14897,10 +14633,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Import Data</source>
         <comment>TX_Undo_DBE_ImportData</comment>
-        <translation variants="yes">
-            <lengthvariant>Importuj dane</lengthvariant>
-            <lengthvariant>Importowanie danych</lengthvariant>
-        </translation>
+        <translation>Importuj dane</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -14985,10 +14718,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Insert Picture</source>
         <comment>TX_Undo_DlgPictureTitle</comment>
-        <translation variants="yes">
-            <lengthvariant>Wstaw obraz</lengthvariant>
-            <lengthvariant>Wstawianie obrazu</lengthvariant>
-        </translation>
+        <translation>Wstaw obraz</translation>
     </message>
     <message>
         <source>Add Trendline</source>
@@ -15161,10 +14891,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Cannot show the properties dialog box because the printer encountered an error.</source>
         <comment>et_sCannotOpenPrintPropertiesDialog</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można wyświetlić okna dialogowego właściwości, ponieważ drukarka napotkała błąd.</lengthvariant>
-            <lengthvariant>Nie można pokazać okna dialogowego właściwości, ponieważ drukarka napotkała błąd.</lengthvariant>
-        </translation>
+        <translation>Nie można wyświetlić okna dialogowego właściwości, ponieważ drukarka napotkała błąd.</translation>
     </message>
     <message>
         <source>Cannot modify the cell, perhaps:
@@ -15215,10 +14942,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Center</source>
         <comment>et_sCenter</comment>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkuj</lengthvariant>
-            <lengthvariant>Do środka</lengthvariant>
-        </translation>
+        <translation>Wyśrodkuj</translation>
     </message>
     <message>
         <source>Across Center</source>
@@ -15228,10 +14952,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Vertical Center Aligned</source>
         <comment>et_sCenterAligned</comment>
-        <translation variants="yes">
-            <lengthvariant>Wyrówanie wyśrodkowania w pionie</lengthvariant>
-            <lengthvariant>Wyśrodkowanie w pionie</lengthvariant>
-        </translation>
+        <translation>Wyśrodkowanie w pionie wyrównane</translation>
     </message>
     <message>
         <source>A required minimum or maximum value is missing.</source>
@@ -15321,10 +15042,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Context Reading Order</source>
         <comment>et_sContextReadOrdering</comment>
-        <translation variants="yes">
-            <lengthvariant>Kolejność czytania kontekstu</lengthvariant>
-            <lengthvariant>Kolejność odczytywania kontekstu</lengthvariant>
-        </translation>
+        <translation>Kolejność czytania kontekstu</translation>
     </message>
     <message>
         <source>New Custom Dictionary</source>
@@ -15384,10 +15102,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Default book name &quot;%s&quot; is not valid, can&apos;t include &quot;%s&quot;.</source>
         <comment>et_sDefaultBookNameNotValid</comment>
-        <translation variants="yes">
-            <lengthvariant>Domyślna nazwa książki &quot;%s&quot; jest nieprawidłowa, nie może zawierać &quot;%s&quot;.</lengthvariant>
-            <lengthvariant>Domyślna nazwa &quot;%s&quot; książki jest nieprawidłowa, nie może zawierać &quot;%s&quot;.</lengthvariant>
-        </translation>
+        <translation>Domyślna nazwa zeszytu &quot;%s&quot; jest nieprawidłowa, nie może zawierać &quot;%s&quot;.</translation>
     </message>
     <message>
         <source>Color Scheme</source>
@@ -15502,11 +15217,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Double</source>
         <comment>et_sDouble</comment>
-        <translation variants="yes">
-            <lengthvariant>Podwójny</lengthvariant>
-            <lengthvariant>Podwójna</lengthvariant>
-            <lengthvariant>Podwójne</lengthvariant>
-        </translation>
+        <translation>Podwójne</translation>
     </message>
     <message>
         <source>Double Accounting</source>
@@ -15676,18 +15387,12 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Fill</source>
         <comment>et_sFill</comment>
-        <translation variants="yes">
-            <lengthvariant>Wypełnienie</lengthvariant>
-            <lengthvariant>Wypełnij</lengthvariant>
-        </translation>
+        <translation>Wypełnienie</translation>
     </message>
     <message>
         <source>&amp;Find/Replace...</source>
         <comment>et_sFindMenuCaption</comment>
-        <translation variants="yes">
-            <lengthvariant>&amp;Znajdowanie/Zamienianie...</lengthvariant>
-            <lengthvariant>&amp;Znajdź/Zamień...</lengthvariant>
-        </translation>
+        <translation>&amp;Znajdź/Zamień...</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find any data to replace. Check if your search formatting and criteria are defined correctly. If you are sure that matching data exists in this workbook, it may be on a protected sheet. WPS Spreadsheets cannot replace data on a protected worksheet.</source>
@@ -15752,10 +15457,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>WPS Spreadsheets has completed its search and has made %d replacements.</source>
         <comment>et_sFound</comment>
-        <translation variants="yes">
-            <lengthvariant>Program WPS Spreadsheets ukończył wyszukiwanie i dokonał %d zamian.</lengthvariant>
-            <lengthvariant>Program WPS Spreadsheets ukończył wyszukiwanie i dokonał zamian w liczbie %d.</lengthvariant>
-        </translation>
+        <translation>Program WPS Spreadsheets ukończył wyszukiwanie i dokonał %d zamian.</translation>
     </message>
     <message>
         <source>General</source>
@@ -15820,10 +15522,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
         <comment>et_sInvalidName</comment>
-        <translation variants="yes">
-            <lengthvariant>Podany tekst nie jest prawidłowym odwołaniem ani zdefiniowaną nazwą.</lengthvariant>
-            <lengthvariant>Wprowadzony tekst nie jest prawidłowym odwołaniem lub zdefiniowaną nazwą.</lengthvariant>
-        </translation>
+        <translation>Wprowadzony tekst nie jest prawidłowym odwołaniem lub zdefiniowaną nazwą.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot use the number format you entered.
@@ -15851,10 +15550,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Vertical Justify Aligned</source>
         <comment>et_sJustifyAligned</comment>
-        <translation variants="yes">
-            <lengthvariant>Wyrównanie justowania w pionie</lengthvariant>
-            <lengthvariant>Wyrównanie w pionie</lengthvariant>
-        </translation>
+        <translation>Justowanie w pionie wyrównane</translation>
     </message>
     <message>
         <source>Unit: Centimeters</source>
@@ -15884,11 +15580,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Locked</source>
         <comment>et_sLocked</comment>
-        <translation variants="yes">
-            <lengthvariant>Zablokowany</lengthvariant>
-            <lengthvariant>Zablokowana</lengthvariant>
-            <lengthvariant>Zablokowane</lengthvariant>
-        </translation>
+        <translation>Zablokowany</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -16078,10 +15770,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>(No Suggestions)</source>
         <comment>et_sNoSuggestion</comment>
-        <translation variants="yes">
-            <lengthvariant>(Brak sugestii)</lengthvariant>
-            <lengthvariant>(Brak propozycji)</lengthvariant>
-        </translation>
+        <translation>(Brak sugestii)</translation>
     </message>
     <message>
         <source>not between</source>
@@ -16096,10 +15785,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Confirmation password does not match.</source>
         <comment>et_sNotMatchPassword</comment>
-        <translation variants="yes">
-            <lengthvariant>Hasło potwierdzające nie pasuje.</lengthvariant>
-            <lengthvariant>Hasło potwierdzające nie jest zgodne.</lengthvariant>
-        </translation>
+        <translation>Potwierdzenie hasła jest niezgodne.</translation>
     </message>
     <message>
         <source>Number is not valid.</source>
@@ -16249,10 +15935,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Redo %d Action(s)</source>
         <comment>et_sRedoListCaption</comment>
-        <translation variants="yes">
-            <lengthvariant>Wykonaj ponownie %d akcję(e)</lengthvariant>
-            <lengthvariant>Wykonaj ponownie %d czynność(ci)</lengthvariant>
-        </translation>
+        <translation>Wykonaj ponownie %d akcję(e)</translation>
     </message>
     <message>
         <source>Rejected changes</source>
@@ -16307,18 +15990,12 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Rotated down %d Degrees</source>
         <comment>et_sRotatedDown</comment>
-        <translation variants="yes">
-            <lengthvariant>Obrócony w dół %d stopnie</lengthvariant>
-            <lengthvariant>Obrócony w dół o %d stopni</lengthvariant>
-        </translation>
+        <translation>Obrócony w dół %d stopni</translation>
     </message>
     <message>
         <source>Rotated up %d Degrees</source>
         <comment>et_sRotatedUp</comment>
-        <translation variants="yes">
-            <lengthvariant>Obrócony w górę %d stopnie</lengthvariant>
-            <lengthvariant>Obrócony w górę o %d stopni</lengthvariant>
-        </translation>
+        <translation>Obrócony w górę %d stopni</translation>
     </message>
     <message>
         <source>Row %s</source>
@@ -16353,7 +16030,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Please specify a file name first.</source>
         <comment>et_sSelectFile</comment>
-        <translation>Proszę określić najpierw nazwę pliku.</translation>
+        <translation>Proszę najpierw określić nazwę pliku.</translation>
     </message>
     <message>
         <source>Select an Item of %s:</source>
@@ -16496,10 +16173,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
         <comment>et_sTooLong</comment>
-        <translation variants="yes">
-            <lengthvariant>Nagłówek lub stopka (łącznie z lewej, środkowej i prawej sekcji) nie może zawierać więcej niż 255 znaków. Skróć tekst lub uprość format.</lengthvariant>
-            <lengthvariant>Nagłówek lub stopka (łącznie z lewej, środkowej i prawej sekcji) nie może być dłuższy niż 255 znaków. Usuń tekst lub dokonaj formatowania mniej skomplikowanego.</lengthvariant>
-        </translation>
+        <translation>Nagłówek lub stopka (łącznie z lewej, środkowej i prawej sekcji) nie może zawierać więcej niż 255 znaków. Skróć tekst lub uprość format.</translation>
     </message>
     <message>
         <source>Top</source>
@@ -16529,10 +16203,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Undo %d Action(s)</source>
         <comment>et_sUndoListCaption</comment>
-        <translation variants="yes">
-            <lengthvariant>Cofnij %d akcję(e)</lengthvariant>
-            <lengthvariant>Cofnij %d czynność(ci)</lengthvariant>
-        </translation>
+        <translation>Cofnij %d akcję(e)</translation>
     </message>
     <message>
         <source>Style Name Not Valid</source>
@@ -16597,10 +16268,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>WPS Spreadsheets cannot use Go To command. It may be on a protected sheet.</source>
         <comment>et_sCannotGoto</comment>
-        <translation variants="yes">
-            <lengthvariant>Program WPS Spreadsheets nie może użyć polecenia Przejdź do. Może tak być, gdy arkusz jest chroniony.</lengthvariant>
-            <lengthvariant>Program WPS Spreadsheets nie może użyć polecenia Przejdź do. Prawdopodobnie arkusz jest chroniony.</lengthvariant>
-        </translation>
+        <translation>Program WPS Spreadsheets nie może użyć polecenia Przejdź do. Może to być w chronionym arkuszu.</translation>
     </message>
     <message>
         <source>Data will permanently lose accuracy.</source>
@@ -16610,10 +16278,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>The function you described is not found. Please enter the function information again.</source>
         <comment>et_sFunctionNotFound</comment>
-        <translation variants="yes">
-            <lengthvariant>Funkcja, którą opisałeś nie została znaleziona. Proszę ponownie wprowadzić informacje o funkcji.</lengthvariant>
-            <lengthvariant>Nie odnaleziono funkcji, którą opisałeś. Proszę ponownie wprowadzić informacje o funkcji.</lengthvariant>
-        </translation>
+        <translation>Funkcja, którą opisałeś nie została znaleziona. Proszę ponownie wprowadzić informacje o funkcji.</translation>
     </message>
     <message>
         <source>Recommend</source>
@@ -16638,10 +16303,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
         <comment>et_sIllegalInput</comment>
-        <translation variants="yes">
-            <lengthvariant>Podany tekst nie jest prawidłowym odwołaniem ani zdefiniowaną nazwą.</lengthvariant>
-            <lengthvariant>Wprowadzony tekst nie jest prawidłowym odwołaniem lub zdefiniowaną nazwą.</lengthvariant>
-        </translation>
+        <translation>Wprowadzony tekst nie jest prawidłowym odwołaniem lub zdefiniowaną nazwą.</translation>
     </message>
     <message>
         <source>Data range is not valid.</source>
@@ -16681,10 +16343,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Generate pictures in the currently selected area.</source>
         <comment>et_sOleSelectionHint</comment>
-        <translation variants="yes">
-            <lengthvariant>Generuj obrazy w aktualnie zaznaczonym obszarze.</lengthvariant>
-            <lengthvariant>Generuj obrazy w aktualnie wybranym obszarze.</lengthvariant>
-        </translation>
+        <translation>Generuj obrazy w aktualnie zaznaczonym obszarze.</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -16752,10 +16411,7 @@ Podany sposób jest prawidłowy zarówno dla samej komórki roboczej oraz komór
     <message>
         <source>Connection string or SQL is error. WPS Spreadsheets cannot import the data.</source>
         <comment>et_sConnectionStrError</comment>
-        <translation variants="yes">
-            <lengthvariant>Ciąg połączenia lub SQL ma błędy. Program WPS Spreadsheets nie może zaimportować danych.</lengthvariant>
-            <lengthvariant>Ciąg połączenia lub kod SQL ma błędy. Program WPS Spreadsheets nie może zaimportować danych.</lengthvariant>
-        </translation>
+        <translation>Ciąg połączenia lub SQL ma błędy. Program WPS Spreadsheets nie może zaimportować danych.</translation>
     </message>
     <message>
         <source>The range is not in active sheet. WPS Spreadsheets cannot import data.</source>
@@ -16785,10 +16441,7 @@ Podany sposób jest prawidłowy zarówno dla samej komórki roboczej oraz komór
     <message>
         <source>The cells with overly complex strings will be ignored.</source>
         <comment>et_sIgnoreComplexCell</comment>
-        <translation variants="yes">
-            <lengthvariant>Komórki z nadmiernie skomplikowanych ciągów zostaną zignorowane.</lengthvariant>
-            <lengthvariant>Komórki z nadmiernie skomplikowanych ciągów będą zignorowane.</lengthvariant>
-        </translation>
+        <translation>Komórki z nadmiernie skomplikowanych ciągów zostaną zignorowane.</translation>
     </message>
     <message>
         <source>Print</source>

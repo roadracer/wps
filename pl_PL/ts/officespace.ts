@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>Etykieta tekstu</translation>
+        <translation>Etykieta tekstowa</translation>
     </message>
     <message>
         <source>webHomeLink</source>
@@ -28,7 +28,7 @@
     </message>
     <message>
         <source>Introduction</source>
-        <translation>Wstęp</translation>
+        <translation>Wprowadzenie</translation>
     </message>
     <message>
         <source>Homepage link of WPS Office Cloud</source>
@@ -55,24 +55,15 @@
     <name>KCloudFileStateItem</name>
     <message>
         <source>Check failed because account was logged off. Please login again</source>
-        <translation variants="yes">
-            <lengthvariant>Sprawdzanie nie powiodło się, ponieważ konto zostało wylogowane. Proszę zalogować się ponownie</lengthvariant>
-            <lengthvariant>Sprawdzanie nie powiodło się, ponieważ konto zostało wylogowane. Proszę zaloguj się ponownie</lengthvariant>
-        </translation>
+        <translation>Sprawdzanie nie powiodło się, ponieważ konto zostało wylogowane. Proszę zaloguj się ponownie</translation>
     </message>
     <message>
         <source>Upload failed because the account was logged off. Please login again.</source>
-        <translation variants="yes">
-            <lengthvariant>Przekazywanie nie powiodło się, ponieważ konto zostało wylogowane. Proszę zalogować się ponownie.</lengthvariant>
-            <lengthvariant>Przekazywanie nie powiodło się, ponieważ konto zostało wylogowane. Proszę zaloguj się ponownie.</lengthvariant>
-        </translation>
+        <translation>Przekazywanie nie powiodło się, ponieważ konto zostało wylogowane. Proszę zaloguj się ponownie.</translation>
     </message>
     <message>
         <source>This file does not belong to the current user. Please change the account</source>
-        <translation variants="yes">
-            <lengthvariant>Ten plik nie należy do bieżącego użytkownika. Proszę zmienić konto</lengthvariant>
-            <lengthvariant>Plik nie należy do bieżącego użytkownika. Proszę zmień konto</lengthvariant>
-        </translation>
+        <translation>Ten plik nie należy do bieżącego użytkownika. Proszę zmień konto</translation>
     </message>
 </context>
 <context>
@@ -127,10 +118,7 @@
     </message>
     <message>
         <source>Failed to connect to server</source>
-        <translation variants="yes">
-            <lengthvariant>Nie można połączyć się z serwerem</lengthvariant>
-            <lengthvariant>Podłączenie do serwera nie powiodło się</lengthvariant>
-        </translation>
+        <translation>Nie można połączyć się z serwerem</translation>
     </message>
     <message>
         <source>Uploading to cloud</source>
@@ -138,10 +126,7 @@
     </message>
     <message>
         <source>This is a historical version</source>
-        <translation variants="yes">
-            <lengthvariant>To jest wersja historyczna</lengthvariant>
-            <lengthvariant>Jest to wersja historyczna</lengthvariant>
-        </translation>
+        <translation>To jest wersja historyczna</translation>
     </message>
     <message>
         <source>Checked %1 minutes ago</source>
@@ -169,10 +154,7 @@
     </message>
     <message>
         <source>Share Link</source>
-        <translation variants="yes">
-            <lengthvariant>Udostępnij łącze</lengthvariant>
-            <lengthvariant>Udostępnij link</lengthvariant>
-        </translation>
+        <translation>Udostępnij łącze</translation>
     </message>
     <message>
         <source>View</source>
@@ -184,17 +166,11 @@
     </message>
     <message>
         <source>New version is available, Please Refresh</source>
-        <translation variants="yes">
-            <lengthvariant>Nowa wersja jest dostępna, proszę odśwież</lengthvariant>
-            <lengthvariant>Dostępna jest nowa wersja, proszę odśwież</lengthvariant>
-        </translation>
+        <translation>Dostępna jest nowa wersja. Proszę odśwież.</translation>
     </message>
     <message>
         <source>New version is available, Please Check</source>
-        <translation variants="yes">
-            <lengthvariant>Nowa wersja jest dostępna, proszę sprawdź</lengthvariant>
-            <lengthvariant>Dostępna jest nowa wersja, proszę sprawdź</lengthvariant>
-        </translation>
+        <translation>Dostępna jest nowa wersja. Proszę sprawdź.</translation>
     </message>
 </context>
 <context>
@@ -207,10 +183,7 @@
     <message>
         <source>This document is updated. Click Refresh and check.</source>
         <comment>allow with %1 for modifier</comment>
-        <translation variants="yes">
-            <lengthvariant>Ten dokument jest zaktualizowany. Kliknij Odśwież i sprawdź.</lengthvariant>
-            <lengthvariant>Ten dokument jest zaktualizowany. Kliknij przycisk Odśwież i sprawdź.</lengthvariant>
-        </translation>
+        <translation>Ten dokument jest zaktualizowany. Kliknij Odśwież i sprawdź.</translation>
     </message>
     <message>
         <source>View</source>
@@ -225,10 +198,7 @@
     <name>KCommand</name>
     <message>
         <source>link</source>
-        <translation variants="yes">
-            <lengthvariant>łącze</lengthvariant>
-            <lengthvariant>link</lengthvariant>
-        </translation>
+        <translation>łącze</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -248,24 +218,15 @@
     </message>
     <message>
         <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation variants="yes">
-            <lengthvariant>\Kingsoft Office\Pulpit.ini nazwa.</lengthvariant>
-            <lengthvariant>\Kingsoft Office\Desktop.ini name.</lengthvariant>
-        </translation>
+        <translation>\Kingsoft Office\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
-        <translation variants="yes">
-            <lengthvariant>\Kingsoft Office\AppData\Pulpit.ini nazwa.</lengthvariant>
-            <lengthvariant>\Kingsoft Office\AppData\Desktop.ini name.</lengthvariant>
-        </translation>
+        <translation>\Kingsoft Office\AppData\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</source>
-        <translation variants="yes">
-            <lengthvariant>\Kingsoft Office\AppData\Automatyczna kopia zapasowa\Pulpit.ini nazwa.</lengthvariant>
-            <lengthvariant>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</lengthvariant>
-        </translation>
+        <translation>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -277,64 +238,43 @@
     </message>
     <message>
         <source>Login klive before auto backup.</source>
-        <translation variants="yes">
-            <lengthvariant>Logowanie klive przed automatycznym tworzeniem kopii zapasowej.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed automatycznym tworzeniem kopii zapasowej.</lengthvariant>
-        </translation>
+        <translation>Zaloguj klive przed automatycznym tworzeniem kopii zapasowej.</translation>
     </message>
     <message>
         <source>Login klive before activating auto backup.</source>
-        <translation variants="yes">
-            <lengthvariant>Logowanie klive przed uaktywnieniem automatycznego tworzenia kopii zapasowych.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed uaktywnieniem automatycznego tworzenia kopii zapasowych.</lengthvariant>
-        </translation>
+        <translation>Zaloguj klive przed uaktywnieniem automatycznego tworzenia kopii zapasowych.</translation>
     </message>
     <message>
         <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation>Dokument ma teraz włączone automatyczne tworzenie kopii zapasowych!&lt;br /&gt;Plik kopii zapasowej zostanie utworzony w przestrzeni biurowej za każdym razem, gdy dokument zostanie zamknięty.</translation>
+        <translation>Dokument ma teraz włączone automatyczne tworzenie kopii zapasowych!&lt;br /&gt;Plik kopii zapasowej zostanie utworzony w Przestrzeni biurowej za każdym razem, gdy dokument zostanie zamknięty.</translation>
     </message>
     <message>
         <source>Login File Safe before manual backup.</source>
-        <translation variants="yes">
-            <lengthvariant>Logowanie pliku w trybie awaryjnym przed ręcznym tworzeniem kopii zapasowej.</lengthvariant>
-            <lengthvariant>Zaloguj plik w trybie awaryjnym przed ręcznym tworzeniem kopii zapasowej.</lengthvariant>
-        </translation>
+        <translation>Zaloguj Plik bezpieczeństwa przed ręcznym tworzeniem kopii zapasowej.</translation>
     </message>
     <message>
         <source>Login klive before explore versions.</source>
-        <translation variants="yes">
-            <lengthvariant>Logowanie klive przed przeglądaniem wersji.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed przeglądaniem wersji.</lengthvariant>
-        </translation>
+        <translation>Zaloguj klive przed eksploracją wersji.</translation>
     </message>
     <message>
         <source>This document has&apos;t activated auto backup, so backup file is not available.</source>
-        <translation variants="yes">
-            <lengthvariant>Ten dokument nie ma aktywowanego automatycznego tworzenia kopii zapasowej, więc plik kopii zapasowej nie jest dostępny.</lengthvariant>
-            <lengthvariant>Ten dokument nie ma włączonej automatycznej kopii zapasowej, więc plik kopii zapasowej nie jest dostępny.</lengthvariant>
-        </translation>
+        <translation>Ten dokument nie ma aktywowanego automatycznego tworzenia kopii zapasowej, więc plik kopii zapasowej nie jest dostępny.</translation>
     </message>
     <message>
         <source>There is no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup is created for this file in the current computer.&lt;br /&gt;2. Backup file is manually cleared.</source>
-        <translation>Nie istnieje kopia zapasowa dla tego pliku w katalogu kopii zapasowych.&lt;br /&gt;Może to być spowodowane tym, że:&lt;br /&gt;1. Nie utworzono dla tego pliku kopii zapasowej w bieżącym komputerze.&lt;br /&gt;2. Plik kopii zapasowej został ręcznie wyczyszczony.</translation>
+        <translation>Nie istnieje kopia zapasowa dla tego pliku w katalogu kopii zapasowych.&lt;br /&gt;Może to być spowodowane tym, że:&lt;br /&gt;1. Nie zostały utworzone pliki kopii zapasowych dla tego pliku na bieżącym komputerze.&lt;br /&gt;2. Pliki kopii zapasowych zostały ręcznie wyczyszczone.</translation>
     </message>
     <message>
         <source>Login klive before canceling auto backup.</source>
-        <translation variants="yes">
-            <lengthvariant>Logowanie klive przed anulowaniem automatycznego tworzenia kopii zapasowych.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed anulowaniem automatycznego tworzenia kopii zapasowych.</lengthvariant>
-        </translation>
+        <translation>Zaloguj klive przed anulowaniem automatycznego tworzenia kopii zapasowych.</translation>
     </message>
     <message>
         <source>Login klive before explor backup dir.</source>
-        <translation variants="yes">
-            <lengthvariant>Logowanie klive przed przeglądaniem katalogu kopii zapasowej.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed przeglądaniem katalogu kopii zapasowej.</lengthvariant>
-        </translation>
+        <translation>Zaloguj klive przed eksploracją katalogu kopii zapasowych.</translation>
     </message>
     <message>
         <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files is created in the current computer.&lt;br /&gt;2. Backup files are manually cleared.</source>
-        <translation>Nie istnieją kopie zapasowe plików w katalogu kopii zapasowych.&lt;br /&gt;Może to być spowodowane tym, że:&lt;br /&gt;1. Nie utworzono kopii zapasowych plików w bieżącym komputerze.&lt;br /&gt;2. Pliki kopii zapasowych zostały ręcznie wyczyszczone.</translation>
+        <translation>Nie istnieje kopia zapasowa plików w katalogu kopii zapasowych.&lt;br /&gt;Może to być spowodowane tym, że:&lt;br /&gt;1. Nie zostały utworzone pliki kopii zapasowych na bieżącym komputerze.&lt;br /&gt;2. Pliki kopii zapasowych zostały ręcznie wyczyszczone.</translation>
     </message>
     <message>
         <source>Important! Don&apos;t delete this directory.txt</source>
@@ -345,17 +285,11 @@
     </message>
     <message>
         <source>Login klive before opening files.</source>
-        <translation variants="yes">
-            <lengthvariant>Logowanie klive przed otwarciem plików.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed otwarciem plików.</lengthvariant>
-        </translation>
+        <translation>Zaloguj klive przed otwarciem plików.</translation>
     </message>
     <message>
         <source>Login klive before deleting files.</source>
-        <translation variants="yes">
-            <lengthvariant>Logowanie klive przed usunięciem plików.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed usunięciem plików.</lengthvariant>
-        </translation>
+        <translation>Zaloguj klive przed usunięciem plików.</translation>
     </message>
     <message>
         <source>netbackup recover file</source>
@@ -381,12 +315,7 @@
     <name>KCreateCloudLinkDlg</name>
     <message>
         <source>Sure you want to cancel the generation of share link?</source>
-        <translation variants="yes">
-            <lengthvariant>Czy na pewno chcesz anulować generowanie udostępniania łącza?</lengthvariant>
-            <lengthvariant>Czy na pewno chcesz anulować operację generowania udostępniania łącza?</lengthvariant>
-            <lengthvariant>Czy na pewno chcesz anulować generowanie udostępniania linku?</lengthvariant>
-            <lengthvariant>Czy na pewno chcesz anulować operację generowania udostępniania linku?</lengthvariant>
-        </translation>
+        <translation>Czy na pewno chcesz anulować generowanie udostępniania łącza?</translation>
     </message>
 </context>
 <context>
@@ -423,10 +352,7 @@
     <message>
         <source>Create new folder</source>
         <comment>create new folder</comment>
-        <translation variants="yes">
-            <lengthvariant>Utwórz nowy folder</lengthvariant>
-            <lengthvariant>Tworzenie nowego folderu</lengthvariant>
-        </translation>
+        <translation>Utwórz nowy folder</translation>
     </message>
 </context>
 <context>
@@ -437,10 +363,7 @@
     </message>
     <message>
         <source>Are you sure you want to delete the file &apos;%1&apos;?</source>
-        <translation variants="yes">
-            <lengthvariant>Czy na pewno chcesz usunąć plik o nazwie &apos;%1&apos;?</lengthvariant>
-            <lengthvariant>Czy na pewno chcesz usunąć plik &apos;%1&apos;?</lengthvariant>
-        </translation>
+        <translation>Czy na pewno chcesz usunąć plik &apos;%1&apos;?</translation>
     </message>
     <message>
         <source>Delete multiple items</source>
@@ -451,10 +374,7 @@
     <name>KFileModeDelegate</name>
     <message>
         <source>The file path cannot be longer than 255 characters.</source>
-        <translation variants="yes">
-            <lengthvariant>Ścieżka pliku nie może mieć więcej niż 255 znaków długości.</lengthvariant>
-            <lengthvariant>Ścieżka nie może być dłuższa niż 255 znaków.</lengthvariant>
-        </translation>
+        <translation>Ścieżka nie może być dłuższa niż 255 znaków.</translation>
     </message>
     <message>
         <source>File names cannot contain any of the following characters:
@@ -556,7 +476,7 @@
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation>Wybierz w&amp;szystkie</translation>
+        <translation>Zaznacz w&amp;szystko</translation>
     </message>
     <message>
         <source>Select all the files!</source>
@@ -580,18 +500,11 @@
     </message>
     <message>
         <source>&amp;Forward</source>
-        <translation variants="yes">
-            <lengthvariant>Do &amp;przodu</lengthvariant>
-            <lengthvariant>&amp;Dalej</lengthvariant>
-            <lengthvariant>&amp;Prześlij dalej</lengthvariant>
-        </translation>
+        <translation>&amp;Prześlij dalej</translation>
     </message>
     <message>
         <source>&amp;Up</source>
-        <translation variants="yes">
-            <lengthvariant>W &amp;górę</lengthvariant>
-            <lengthvariant>Do &amp;góry</lengthvariant>
-        </translation>
+        <translation>W &amp;górę</translation>
     </message>
     <message>
         <source>Alt+Up</source>
@@ -619,14 +532,11 @@
     </message>
     <message>
         <source>File name error, please enter a correct format file name.</source>
-        <translation variants="yes">
-            <lengthvariant>Błąd nazwy pliku, wprowadź nazwę pliku w odpowiednim formacie.</lengthvariant>
-            <lengthvariant>Błąd nazwy pliku, wprowadź nazwę pliku w poprawnym formacie.</lengthvariant>
-        </translation>
+        <translation>Błąd nazwy pliku, wprowadź nazwę pliku w poprawnym formacie.</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Zapisz do dokumentów usługi Cloud</translation>
+        <translation>Zapisz do Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Go to the previous folder</source>
@@ -635,11 +545,7 @@
     </message>
     <message>
         <source>Forward</source>
-        <translation variants="yes">
-            <lengthvariant>Do przodu</lengthvariant>
-            <lengthvariant>Dalej</lengthvariant>
-            <lengthvariant>Prześlij dalej</lengthvariant>
-        </translation>
+        <translation>Prześlij dalej</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -647,10 +553,7 @@
     </message>
     <message>
         <source>Go up</source>
-        <translation variants="yes">
-            <lengthvariant>Przejdź w górę</lengthvariant>
-            <lengthvariant>Przejdź do góry</lengthvariant>
-        </translation>
+        <translation>Przejdź w górę</translation>
     </message>
     <message>
         <source>New Folder</source>
@@ -678,33 +581,23 @@
     </message>
     <message>
         <source>&amp;Detail</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Szczegół</lengthvariant>
-            <lengthvariant>&amp;Szczegóły</lengthvariant>
-            <lengthvariant>&amp;Detal</lengthvariant>
-        </translation>
+        <translation>&amp;Szczegóły</translation>
     </message>
     <message>
         <source>rena&amp;me</source>
-        <translation>z&amp;mień nazwę</translation>
+        <translation>Z&amp;mień nazwę</translation>
     </message>
     <message>
         <source>r&amp;efresh</source>
-        <translation>&amp;odśwież</translation>
+        <translation>O&amp;dśwież</translation>
     </message>
     <message>
         <source>Cut and paste currently selected content to clipboard</source>
-        <translation variants="yes">
-            <lengthvariant>Wytnij i wklej aktualnie zaznaczoną zawartość do schowka</lengthvariant>
-            <lengthvariant>Wytnij i wklej aktualnie wybraną zawartość do schowka</lengthvariant>
-        </translation>
+        <translation>Wytnij i wklej aktualnie zaznaczoną zawartość do schowka</translation>
     </message>
     <message>
         <source>Copy selected content to clipboard</source>
-        <translation variants="yes">
-            <lengthvariant>Kopiuj zaznaczoną zawartość do schowka</lengthvariant>
-            <lengthvariant>Kopiuj wybraną zawartość do schowka</lengthvariant>
-        </translation>
+        <translation>Kopiuj zaznaczoną zawartość do schowka</translation>
     </message>
     <message>
         <source>Paste the clipboard&apos;s contents into the current directory</source>
@@ -712,17 +605,11 @@
     </message>
     <message>
         <source>Delete selected content</source>
-        <translation variants="yes">
-            <lengthvariant>Usuń wybraną zawartość</lengthvariant>
-            <lengthvariant>Usuń zaznaczoną zawartość</lengthvariant>
-        </translation>
+        <translation>Usuń zaznaczoną zawartość</translation>
     </message>
     <message>
         <source>D&amp;irecDelete</source>
-        <translation variants="yes">
-            <lengthvariant>K&amp;ierunek usuwania</lengthvariant>
-            <lengthvariant>K&amp;ierunekUsuwania</lengthvariant>
-        </translation>
+        <translation>K&amp;ierunek usuwania</translation>
     </message>
     <message>
         <source>Close dialog window</source>
@@ -730,7 +617,7 @@
     </message>
     <message>
         <source>Create Shortcut(&amp;L)</source>
-        <translation>Utwórz skrót(&amp;L)</translation>
+        <translation>Utwórz skrót (&amp;L)</translation>
     </message>
     <message>
         <source>Create shortcut</source>
@@ -738,10 +625,7 @@
     </message>
     <message>
         <source>Ba&amp;ckward</source>
-        <translation variants="yes">
-            <lengthvariant>Ws&amp;tecz</lengthvariant>
-            <lengthvariant>Do &amp;tyłu</lengthvariant>
-        </translation>
+        <translation>Ws&amp;tecz</translation>
     </message>
     <message>
         <source>Go back dir</source>
@@ -753,14 +637,11 @@
     </message>
     <message>
         <source>Go up dir</source>
-        <translation variants="yes">
-            <lengthvariant>Przejdź w górę katalogu</lengthvariant>
-            <lengthvariant>Przejdź do góry katalogu</lengthvariant>
-        </translation>
+        <translation>Przejdź w górę katalogu</translation>
     </message>
     <message>
         <source>new &amp;folder</source>
-        <translation>nowy &amp;folder</translation>
+        <translation>Nowy &amp;folder</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -788,10 +669,7 @@
     </message>
     <message>
         <source>Error saving the new folder, you can only make replacements in the current view.</source>
-        <translation variants="yes">
-            <lengthvariant>Wystąpił błąd podczas zapisywania nowego folderu, możesz tylko dokonać zamian w bieżącym widoku.</lengthvariant>
-            <lengthvariant>Wystąpił błąd podczas zapisywania nowego folderu, możesz tylko dokonać zmian w bieżącym widoku.</lengthvariant>
-        </translation>
+        <translation>Wystąpił błąd podczas zapisywania nowego folderu, możesz tylko dokonać zamian w bieżącym widoku.</translation>
     </message>
     <message>
         <source>Files loading, please wait...</source>
@@ -811,10 +689,7 @@
     </message>
     <message>
         <source>Time:</source>
-        <translation variants="yes">
-            <lengthvariant>Godzina:</lengthvariant>
-            <lengthvariant>Czas:</lengthvariant>
-        </translation>
+        <translation>Godzina:</translation>
     </message>
     <message>
         <source>Not file found</source>
@@ -881,69 +756,42 @@
     <name>KLoginButtonTipWidget</name>
     <message>
         <source>UC_Feature1</source>
-        <translation variants="yes">
-            <lengthvariant>Funkcja_UC1</lengthvariant>
-            <lengthvariant>UC_Funkcja1</lengthvariant>
-        </translation>
+        <translation>UC_Funkcja1</translation>
     </message>
     <message>
         <source>UC_Feature2</source>
-        <translation variants="yes">
-            <lengthvariant>Funkcja_UC2</lengthvariant>
-            <lengthvariant>UC_Funkcja2</lengthvariant>
-        </translation>
+        <translation>UC_Funkcja2</translation>
     </message>
     <message>
         <source>UC_Feature3</source>
-        <translation variants="yes">
-            <lengthvariant>Funkcja_UC3</lengthvariant>
-            <lengthvariant>UC_Funkcja3</lengthvariant>
-        </translation>
+        <translation>UC_Funkcja3</translation>
     </message>
     <message>
         <source>UC_Feature4</source>
-        <translation variants="yes">
-            <lengthvariant>Funkcja_UC4</lengthvariant>
-            <lengthvariant>UC_Funkcja4</lengthvariant>
-        </translation>
+        <translation>UC_Funkcja4</translation>
     </message>
     <message>
         <source>UC_Feature5</source>
-        <translation variants="yes">
-            <lengthvariant>Funkcja_UC5</lengthvariant>
-            <lengthvariant>UC_Funkcja5</lengthvariant>
-        </translation>
+        <translation>UC_Funkcja5</translation>
     </message>
     <message>
         <source>UC_Feature6</source>
-        <translation variants="yes">
-            <lengthvariant>Funkcja_UC6</lengthvariant>
-            <lengthvariant>UC_Funkcja6</lengthvariant>
-        </translation>
+        <translation>UC_Funkcja6</translation>
     </message>
     <message>
         <source>Login gifts</source>
-        <translation variants="yes">
-            <lengthvariant>Zaloguj prezenty</lengthvariant>
-            <lengthvariant>Logowanie prezentów</lengthvariant>
-        </translation>
+        <translation>Logowanie prezentów</translation>
     </message>
     <message>
         <source>UC_Feature_More</source>
-        <translation variants="yes">
-            <lengthvariant>Więcej_funkcji_UC</lengthvariant>
-            <lengthvariant>UC_Więcej_funkcji</lengthvariant>
-        </translation>
+        <translation>Więcej_funkcji_UC</translation>
     </message>
 </context>
 <context>
     <name>KLoginUserCenterCommand</name>
     <message>
         <source>You have signed in WPS Office. Click here for more information.</source>
-        <translation variants="yes">
-            <lengthvariant>Zostały podpisane w WPS Office. Kliknij tutaj, aby uzyskać więcej informacji.</lengthvariant>
-            <lengthvariant>Masz podpisane w WPS Office. Kliknij tutaj, aby uzyskać więcej informacji.</lengthvariant>
-        </translation>
+        <translation>Jesteś zalogowany w WPS Office. Kliknij tutaj, aby uzyskać więcej informacji.</translation>
     </message>
 </context>
 <context>
@@ -988,17 +836,11 @@
     </message>
     <message>
         <source>Parent folder has been deleted</source>
-        <translation variants="yes">
-            <lengthvariant>Folder nadrzędny został usunięty</lengthvariant>
-            <lengthvariant>Folder główny został usunięty</lengthvariant>
-        </translation>
+        <translation>Folder nadrzędny został usunięty</translation>
     </message>
     <message>
         <source>Folder cannot be created in the current location</source>
-        <translation variants="yes">
-            <lengthvariant>Folder nie może zostać utworzony w bieżącej lokalizacji</lengthvariant>
-            <lengthvariant>Folder nie może być utworzony w bieżącej lokalizacji</lengthvariant>
-        </translation>
+        <translation>Folder nie może zostać utworzony w bieżącej lokalizacji</translation>
     </message>
     <message>
         <source>A file with this name already exists</source>
@@ -1065,7 +907,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Wyczyść wszystkie</translation>
+        <translation>Wyczyść wszystko</translation>
     </message>
     <message>
         <source>Remove From List</source>
@@ -1099,7 +941,7 @@ rozmiar:%2
     <name>KRoamingFloatingWidget</name>
     <message>
         <source>document be deleted</source>
-        <translation>dokument zostaje usunięty</translation>
+        <translation>dokument można usunąć</translation>
     </message>
     <message>
         <source>Cacel</source>
@@ -1110,10 +952,7 @@ rozmiar:%2
     <name>KRoamingGuidFilePage</name>
     <message>
         <source>All</source>
-        <translation variants="yes">
-            <lengthvariant>Wszystkie</lengthvariant>
-            <lengthvariant>Wszystko</lengthvariant>
-        </translation>
+        <translation>Wszystko</translation>
     </message>
     <message>
         <source>Star</source>
@@ -1145,7 +984,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Wyczyść wszystkie</translation>
+        <translation>Wyczyść wszystko</translation>
     </message>
     <message>
         <source>Remove From List</source>
@@ -1187,11 +1026,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Operating</source>
-        <translation variants="yes">
-            <lengthvariant>Operacyjne</lengthvariant>
-            <lengthvariant>Operacyjna</lengthvariant>
-            <lengthvariant>Bieżąca operacja</lengthvariant>
-        </translation>
+        <translation>Operacyjne</translation>
     </message>
 </context>
 <context>
@@ -1202,17 +1037,11 @@ rozmiar:%2
     </message>
     <message>
         <source>On</source>
-        <translation variants="yes">
-            <lengthvariant>Otwarte</lengthvariant>
-            <lengthvariant>Włączone</lengthvariant>
-        </translation>
+        <translation>Włączone</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation variants="yes">
-            <lengthvariant>Zamknięte</lengthvariant>
-            <lengthvariant>Wyłączone</lengthvariant>
-        </translation>
+        <translation>Wyłączone</translation>
     </message>
     <message>
         <source>More roaming documents</source>
@@ -1265,24 +1094,18 @@ rozmiar:%2
     </message>
     <message>
         <source>Do not prompt again</source>
-        <translation variants="yes">
-            <lengthvariant>Nie pytaj ponownie</lengthvariant>
-            <lengthvariant>Nie monituj ponownie</lengthvariant>
-        </translation>
+        <translation>Nie monituj ponownie</translation>
     </message>
     <message>
         <source>View my Share Link</source>
-        <translation>Wyświetl moje Udostępnione łącze</translation>
+        <translation>Wyświetl moje Udostępniane łącze</translation>
     </message>
 </context>
 <context>
     <name>KTooltipBase</name>
     <message>
         <source>UpdateNewVersionView</source>
-        <translation variants="yes">
-            <lengthvariant>Aktualizuj nową wersję widoku</lengthvariant>
-            <lengthvariant>Aktualizacja nowej wersji widoku</lengthvariant>
-        </translation>
+        <translation>Aktualizuj nową wersję widoku</translation>
     </message>
     <message>
         <source>textLabel</source>
@@ -1301,14 +1124,14 @@ rozmiar:%2
     <message>
         <source>button1Label</source>
         <translation variants="yes">
-            <lengthvariant>Przycisk etykieta 1</lengthvariant>
+            <lengthvariant>Przycisk1 etykieta</lengthvariant>
             <lengthvariant>button1Label</lengthvariant>
         </translation>
     </message>
     <message>
         <source>button2Label</source>
         <translation variants="yes">
-            <lengthvariant>Przycisk etykieta 2</lengthvariant>
+            <lengthvariant>Przycisk2 etykieta</lengthvariant>
             <lengthvariant>button2Label</lengthvariant>
         </translation>
     </message>
@@ -1329,10 +1152,7 @@ rozmiar:%2
     <message>
         <source>Upgrade Hint</source>
         <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
-        <translation variants="yes">
-            <lengthvariant>Uaktualnij wskazówkę</lengthvariant>
-            <lengthvariant>Uaktualnienie wskazówki</lengthvariant>
-        </translation>
+        <translation>Uaktualnienie wskazówki</translation>
     </message>
     <message>
         <source>&quot;%1&quot; contains macros.</source>
@@ -1341,10 +1161,7 @@ rozmiar:%2
     </message>
     <message>
         <source>If you want to use marcos, please upgrade to professional or commercial version</source>
-        <translation variants="yes">
-            <lengthvariant>Jeżeli chcesz użyć makr, proszę uaktualnij do wersji Profesjonalnej lub Komercyjnej</lengthvariant>
-            <lengthvariant>Jeżeli chcesz użyć makr, uaktualnij do wersji Profesjonalnej lub Komercyjnej</lengthvariant>
-        </translation>
+        <translation>Jeżeli chcesz użyć makr, uaktualnij do wersji Professional lub Komercyjnej</translation>
     </message>
     <message>
         <source>Learn Professional</source>
@@ -1420,7 +1237,7 @@ rozmiar:%2
     <name>KxDlgCheckUpload</name>
     <message>
         <source>retry</source>
-        <translation>ponów</translation>
+        <translation>Ponów</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -1443,10 +1260,7 @@ rozmiar:%2
     </message>
     <message>
         <source>List of limited features in free version</source>
-        <translation variants="yes">
-            <lengthvariant>Lista ograniczonych funkcji w wersji darmowej</lengthvariant>
-            <lengthvariant>Lista ograniczonych funkcji w darmowej wersji</lengthvariant>
-        </translation>
+        <translation>Lista ograniczonych funkcji w wersji darmowej</translation>
     </message>
     <message>
         <source>Your subscription for WPS Office or %1-day trial expries now.</source>
@@ -1454,10 +1268,7 @@ rozmiar:%2
     </message>
     <message>
         <source>The program will switch to a free version. Some features cannot work properly. We recommend you purchase WPS Office or renew now.</source>
-        <translation variants="yes">
-            <lengthvariant>Program przełączy się do wersji darmowej. Niektóre funkcje mogą nie działać poprawnie. Zalecamy zakup WPS Office lub odnowienie licencji teraz.</lengthvariant>
-            <lengthvariant>Program przełączy się do wersji darmowej. Niektóre funkcje mogą nie działać prawidłowo. Zalecamy zakup WPS Office lub odnowienie licencji teraz.</lengthvariant>
-        </translation>
+        <translation>Program przełączy się do wersji darmowej. Niektóre funkcje mogą nie działać poprawnie. Zalecamy zakup WPS Office lub odnowienie licencji teraz.</translation>
     </message>
     <message>
         <source>Buy/Renew Now</source>
@@ -1480,7 +1291,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Enter a new name(&amp;I):</source>
-        <translation>Wprowadź nową nazwę(&amp;I):</translation>
+        <translation>Wprowadź nową nazwę (&amp;I):</translation>
     </message>
     <message>
         <source>Creating a new folder. Please wait...</source>
@@ -1499,10 +1310,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Syncing, please wait…</source>
-        <translation variants="yes">
-            <lengthvariant>Synchronizowanie, proszę czekać...</lengthvariant>
-            <lengthvariant>Synchronizacja, proszę czekać...</lengthvariant>
-        </translation>
+        <translation>Synchronizowanie, proszę czekać...</translation>
     </message>
 </context>
 <context>
@@ -1517,14 +1325,11 @@ rozmiar:%2
     </message>
     <message>
         <source>Macros depend on VBA support to function correctly. </source>
-        <translation variants="yes">
-            <lengthvariant>Makra do poprawnego działania wymagają programu VBA. </lengthvariant>
-            <lengthvariant>Makra do poprawnego działania wymagają usługi VBA. </lengthvariant>
-        </translation>
+        <translation>Makra do poprawnego działania wymagają wsparcia języka VBA. </translation>
     </message>
     <message>
         <source>Please download and install VBA to allow all macros to run if you need. If you have installed VBA, please restart WPS Office.</source>
-        <translation>Proszę pobrać i zainstalować VBA, aby umożliwić uruchamianie wszystkiich makr, jeżeli potrzebujesz. Jeśli masz zainstalowany język VBA, należy ponownie uruchomić WPS Office.</translation>
+        <translation>Proszę pobrać i zainstalować VBA, aby umożliwić w razie potrzeby uruchomienie wszystkich makr. Jeśli masz zainstalowany język VBA, należy ponownie uruchomić WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -1543,7 +1348,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Presentation:</source>
-        <translation>Prezentacja:</translation>
+        <translation>Presentation:</translation>
     </message>
     <message>
         <source>Spreadsheets:</source>
@@ -1551,10 +1356,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Track Changes</source>
-        <translation variants="yes">
-            <lengthvariant>Śledź zmiany</lengthvariant>
-            <lengthvariant>Śledzenie zmian</lengthvariant>
-        </translation>
+        <translation>Śledź zmiany</translation>
     </message>
     <message>
         <source>Choose revision markups and comment formatting, or to change reviewer information.</source>
@@ -1562,17 +1364,11 @@ rozmiar:%2
     </message>
     <message>
         <source>Fields Protection</source>
-        <translation variants="yes">
-            <lengthvariant>Ochrona pola</lengthvariant>
-            <lengthvariant>Ochrona pól</lengthvariant>
-        </translation>
+        <translation>Ochrona pól</translation>
     </message>
     <message>
         <source>Insert ghosted text and picture behind the content on the page.</source>
-        <translation variants="yes">
-            <lengthvariant>Wstaw półprzezroczysty tekst i obraz pod zawartością strony.</lengthvariant>
-            <lengthvariant>Umożliwia wstawienie półprzezroczystego tekstu i obrazu pod zawartością strony.</lengthvariant>
-        </translation>
+        <translation>Umożliwia wstawienie półprzezroczystego tekstu i obrazu pod zawartością strony.</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
@@ -1588,24 +1384,15 @@ rozmiar:%2
     </message>
     <message>
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
-        <translation variants="yes">
-            <lengthvariant>Wyświetl listę makr, za pomocą której można uruchomić, utworzyć lub usunąć makro.</lengthvariant>
-            <lengthvariant>Umożliwia wyświetlenie listy makr, za pomocą której można uruchomić, utworzyć lub usunąć makro.</lengthvariant>
-        </translation>
+        <translation>Umożliwia wyświetlenie listy makr, za pomocą której można uruchomić, utworzyć lub usunąć makro.</translation>
     </message>
     <message>
         <source>Developer tools</source>
-        <translation variants="yes">
-            <lengthvariant>Narzędzia deweloperskie</lengthvariant>
-            <lengthvariant>Narzędzia programistyczne</lengthvariant>
-        </translation>
+        <translation>Narzędzia deweloperów</translation>
     </message>
     <message>
         <source>Insert the Option Button, Check Box and more.</source>
-        <translation variants="yes">
-            <lengthvariant>Wstaw przycisk opcji, pole wyboru i więcej.</lengthvariant>
-            <lengthvariant>Umożliwia wstawienie przycisku opcji, pola wyboru i więcej.</lengthvariant>
-        </translation>
+        <translation>Umożliwia wstawienie Przycisku opcji, Pola wyboru i inne.</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -1613,7 +1400,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified folder, in order to play this file on another computer.</source>
-        <translation>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego folderu, aby odtworzyć ten plik na innym komputerze.</translation>
+        <translation>Kopiuj plik prezentacji i związane z nim elementy multimediów, takie jak wideo, audio, itp., do określonego folderu, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -1621,10 +1408,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Make it easy to arrange and summarize complicated data and drill down on details.</source>
-        <translation variants="yes">
-            <lengthvariant>Ułatwiają organizowanie i podsumowywanie skomplikowanych danych oraz przechodzenie do kolejnych poziomów szczegółów.</lengthvariant>
-            <lengthvariant>Tabele przestawne ułatwiają organizowanie i podsumowywanie skomplikowanych danych oraz przechodzenie do kolejnych poziomów szczegółów.</lengthvariant>
-        </translation>
+        <translation>Ułatwiają organizowanie i podsumowywanie skomplikowanych danych oraz przechodzenie do kolejnych poziomów szczegółów.</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -1632,25 +1416,15 @@ rozmiar:%2
     </message>
     <message>
         <source>Combine values from multiple ranges into one new range.</source>
-        <translation variants="yes">
-            <lengthvariant>Połącz wartości z wielu zakresów w jeden nowy zakres.</lengthvariant>
-            <lengthvariant>Umożliwia połączenie wartości z wielu zakresów w jeden nowy zakres.</lengthvariant>
-        </translation>
+        <translation>Umożliwia połączenie wartości z wielu zakresów w jeden nowy zakres.</translation>
     </message>
     <message>
         <source>Text to Columns</source>
-        <translation variants="yes">
-            <lengthvariant>Tekst do kolumny</lengthvariant>
-            <lengthvariant>Tekst w kolumny</lengthvariant>
-        </translation>
+        <translation>Tekst jako kolumny</translation>
     </message>
     <message>
         <source>Separate the contents of one Spreadsheets cell into separate columns.</source>
-        <translation variants="yes">
-            <lengthvariant>Rozdziel zawartość jednej komórki programu Spreadsheets na osobne kolumny.</lengthvariant>
-            <lengthvariant>Podziel zawartość jednej komórki programu Spreadsheets na osobne kolumny.</lengthvariant>
-            <lengthvariant>Umożliwia podzielenie zawartości jednej komórki programu Spreadsheets na osobne kolumny.</lengthvariant>
-        </translation>
+        <translation>Umożliwia podzielenie zawartości jednej komórki programu Spreadsheets na osobne kolumny.</translation>
     </message>
     <message>
         <source>Solver</source>
@@ -1658,33 +1432,19 @@ rozmiar:%2
     </message>
     <message>
         <source>Find the optimal value of a target cell by changing values in cells used to calculate the target cell.</source>
-        <translation variants="yes">
-            <lengthvariant>Znajdź optymalną wartość komórki celu, zmieniając wartości w komórkach użytych do obliczania wartości tej komórki.</lengthvariant>
-            <lengthvariant>Znajduje optymalną wartość komórki celu, zmieniając wartości w komórkach użytych do obliczania wartości tej komórki.</lengthvariant>
-            <lengthvariant>Znajdowanie optymalnej wartość komórki celu, zmieniając wartości w komórkach użytych do obliczania wartości tej komórki.</lengthvariant>
-        </translation>
+        <translation>Znajduje optymalną wartość komórki celu, zmieniając wartości w komórkach użytych do obliczania wartości tej komórki.</translation>
     </message>
     <message>
         <source>Find the right input when you know the result you want.</source>
-        <translation variants="yes">
-            <lengthvariant>Znajdź odpowiednie dane wejściowe dla żądanych wyników.</lengthvariant>
-            <lengthvariant>Znajdowanie odpowiednich danych wejściowych dla żądanych wyników.</lengthvariant>
-        </translation>
+        <translation>Znajdowanie odpowiednich danych wejściowych dla żądanych wyników.</translation>
     </message>
     <message>
         <source>Share Workbook</source>
-        <translation variants="yes">
-            <lengthvariant>Udostępnij skoroszyt</lengthvariant>
-            <lengthvariant>Udostępnianie skoroszytu</lengthvariant>
-        </translation>
+        <translation>Udostępnianie skoroszytu</translation>
     </message>
     <message>
         <source>Allow multiple people to work in a workbook at the same time.</source>
-        <translation variants="yes">
-            <lengthvariant>Zezwalaj kilku osobom na jednoczesną pracę nad skoroszytem.</lengthvariant>
-            <lengthvariant>Zezwól kilku osobom na jednoczesną pracę nad skoroszytem.</lengthvariant>
-            <lengthvariant>Umożliwia kilku osobom jednoczesną pracę nad skoroszytem.</lengthvariant>
-        </translation>
+        <translation>Umożliwia kilku osobom jednoczesną pracę nad skoroszytem.</translation>
     </message>
     <message>
         <source>Save as docx format</source>
@@ -1717,10 +1477,7 @@ rozmiar:%2
     <message>
         <source>Save backup file to File Safe.</source>
         <comment>saveToKLive checkbox tab in filedialog</comment>
-        <translation variants="yes">
-            <lengthvariant>Zapisz plik kopii zapasowej do pliku trybu awaryjnego.</lengthvariant>
-            <lengthvariant>Zapisz plik kopii zapasowej do File Safe.</lengthvariant>
-        </translation>
+        <translation>Zapisz plik kopii zapasowej do Pliku bezpieczeństwa.</translation>
     </message>
     <message>
         <source>Drive</source>
@@ -1857,10 +1614,7 @@ rozmiar:%2
     <name>KxLiveStateUpdateCache</name>
     <message>
         <source>You can view or send collaborative information.</source>
-        <translation variants="yes">
-            <lengthvariant>Możesz wyświetlić lub wysłać informacje współpracy.</lengthvariant>
-            <lengthvariant>Możesz wyświetlić lub wysłać informacje o współpracy.</lengthvariant>
-        </translation>
+        <translation>Możesz wyświetlić lub wysłać informacje współpracy.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1880,28 +1634,15 @@ rozmiar:%2
     </message>
     <message>
         <source>You have been offline for a long time, in order to update your business authorization, please login to your account.</source>
-        <translation variants="yes">
-            <lengthvariant>Byłeś nieaktywny przez długi czas, w celu aktualizacji autoryzacji biznesowej, proszę zaloguj się do swojego konta.</lengthvariant>
-            <lengthvariant>Byłeś nieaktywny przez długi czas, w celu aktualizacji autoryzacji biznes, proszę zaloguj się do swojego konta.</lengthvariant>
-            <lengthvariant>Byłeś nieaktywny przez długi czas, w celu aktualizacji autoryzacji firmy, proszę zaloguj się do swojego konta.</lengthvariant>
-            <lengthvariant>Byłeś nieaktywny przez długi czas, w celu aktualizacji autoryzacji działalności, proszę zaloguj się do swojego konta.</lengthvariant>
-        </translation>
+        <translation>Byłeś nieaktywny przez długi czas, w celu aktualizacji autoryzacji biznesowej, proszę zaloguj się do swojego konta.</translation>
     </message>
     <message>
         <source>The number of equipments you are authorizing has reached its limit and the current equipment no longer gets a business authorization. You can offline other equipments in order to make the current equipment authorized.</source>
-        <translation variants="yes">
-            <lengthvariant>Liczba urządzeń, które mają autoryzację osiągnęła limit i bieżący sprzęt nie otrzyma już autoryzacji biznesowej. Możesz odłączyć kolejno inny sprzęt, aby umożliwić autoryzację bieżącemu sprzętowi.</lengthvariant>
-            <lengthvariant>Liczba urządzeń, które mają autoryzację osiągnęła limit i bieżący sprzęt nie otrzyma już autoryzacji biznes. Możesz odłączyć kolejno inny sprzęt, aby umożliwić autoryzację bieżącemu sprzętowi.</lengthvariant>
-            <lengthvariant>Liczba urządzeń, które mają autoryzację osiągnęła limit i bieżący sprzęt nie otrzyma już autoryzacji firmy. Możesz odłączyć kolejno inny sprzęt, aby umożliwić autoryzację bieżącemu sprzętowi.</lengthvariant>
-            <lengthvariant>Liczba urządzeń, które mają autoryzację osiągnęła limit i bieżący sprzęt nie otrzyma już autoryzacji działalności. Możesz odłączyć kolejno inny sprzęt, aby umożliwić autoryzację bieżącemu sprzętowi.</lengthvariant>
-        </translation>
+        <translation>Liczba urządzeń, które mają autoryzację osiągnęła limit i bieżący sprzęt nie otrzyma już autoryzacji biznesowej. Możesz odłączyć kolejno inny sprzęt, aby umożliwić autoryzację bieżącemu sprzętowi.</translation>
     </message>
     <message>
         <source>Equipment Management</source>
-        <translation variants="yes">
-            <lengthvariant>Zarządzanie sprzętem</lengthvariant>
-            <lengthvariant>Zarządzanie wyposażeniem</lengthvariant>
-        </translation>
+        <translation>Zarządzanie sprzętem</translation>
     </message>
     <message>
         <source>Click Icon</source>
@@ -1948,10 +1689,7 @@ rozmiar:%2
     </message>
     <message>
         <source>The file path cannot be longer than 255 characters.</source>
-        <translation variants="yes">
-            <lengthvariant>Ścieżka pliku nie może mieć więcej niż 255 znaków długości.</lengthvariant>
-            <lengthvariant>Ścieżka nie może być dłuższa niż 255 znaków.</lengthvariant>
-        </translation>
+        <translation>Ścieżka nie może być dłuższa niż 255 znaków.</translation>
     </message>
     <message>
         <source>The same file or folder already exists!</source>
@@ -2012,17 +1750,14 @@ rozmiar:%2
     </message>
     <message>
         <source>The server is busy. Please %1try again%2 later.</source>
-        <translation>Serwer jest zajęty. Proszę spróbuj %1, a później ponownie %2.</translation>
+        <translation>Serwer jest zajęty. Proszę %1spróbuj ponownie%2 później.</translation>
     </message>
 </context>
 <context>
     <name>KxQingActiveSucceedDialog</name>
     <message>
         <source>WPS Office activation is successful</source>
-        <translation variants="yes">
-            <lengthvariant>Aktywacja WPS Office powiodła się</lengthvariant>
-            <lengthvariant>Aktywacja pakietu WPS Office powiodła się</lengthvariant>
-        </translation>
+        <translation>Aktywacja WPS Office powiodła się</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2033,10 +1768,7 @@ rozmiar:%2
     <name>KxQingAuthorize</name>
     <message>
         <source>Trial</source>
-        <translation variants="yes">
-            <lengthvariant>Wersja próbna</lengthvariant>
-            <lengthvariant>Trial</lengthvariant>
-        </translation>
+        <translation>Wersja próbna</translation>
     </message>
     <message>
         <source>Free</source>
@@ -2052,18 +1784,14 @@ rozmiar:%2
     <message>
         <source>To purchase WPS Office, click here to visit the purchase page for more information. 
 You need to sign in before you buy. </source>
-        <translation>Aby zakupić WPS Office, kliknij tutaj, aby odwiedzić stronę zakupu i uzyskać więcej informacji.
+        <translation>Aby zakupić WPS Office, kliknij tutaj, aby odwiedzić stronę zakupu i uzyskać więcej informacji. 
 Musisz się zalogować przed zakupem. </translation>
     </message>
     <message>
         <source>After the trial expires, some features will not work properly. 
 Please purchase to continue using WPS Office.</source>
-        <translation variants="yes">
-            <lengthvariant>Po zakończeniu okresu próbnego, niektóre funkcje nie będą działać prawidłowo.
-Proszę zakupić aby kontynuować korzystanie z WPS Office.</lengthvariant>
-            <lengthvariant>Po zakończeniu okresu próbnego, niektóre funkcje nie będą działać prawidłowo.
-Proszę kupić aby kontynuować korzystanie z WPS Office.</lengthvariant>
-        </translation>
+        <translation>Po upływie okresu próbnego, niektóre funkcje nie będą działać prawidłowo. 
+Proszę zakupić, aby kontynuować korzystanie z WPS Office.</translation>
     </message>
     <message>
         <source>Click here to visit the purchase page for more information. You need to sign in before you buy. </source>
@@ -2072,39 +1800,20 @@ Proszę kupić aby kontynuować korzystanie z WPS Office.</lengthvariant>
     <message>
         <source>Your WPS Office is about to expire. 
 After expiration, some features will not work properly. Renew now and you can get a discount. </source>
-        <translation variants="yes">
-            <lengthvariant>Twój WPS Office wkrótce wygaśnie. 
-Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Odnów teraz i otrzymaj rabat. </lengthvariant>
-            <lengthvariant>Twój WPS Office wkrótce wygaśnie. 
-Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Odnów teraz i otrzymaj zniżkę. </lengthvariant>
-        </translation>
+        <translation>Twój WPS Office wkrótce wygasa. 
+Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Odnów teraz i otrzymaj rabat. </translation>
     </message>
     <message>
         <source>Your %1-day trial expires</source>
-        <translation variants="yes">
-            <lengthvariant>Twój %1-dniowy okres próbny wygaśnie</lengthvariant>
-            <lengthvariant>Twój %1-dniowy okres próbny wygasa</lengthvariant>
-            <lengthvariant>Twój %1-dniowy okres próbny upływa</lengthvariant>
-            <lengthvariant>Twój %1-dniowy okres próbny traci ważność</lengthvariant>
-        </translation>
+        <translation>Twój %1-dniowy okres próbny wygasa</translation>
     </message>
     <message>
         <source>Your %1-day trial expires after 1 day</source>
-        <translation variants="yes">
-            <lengthvariant>Twój %1-dniowy okres próbny wygaśnie za 1 dzień</lengthvariant>
-            <lengthvariant>Twój %1-dniowy okres próbny wygasa za 1 dzień</lengthvariant>
-            <lengthvariant>Twój %1-dniowy okres próbny upływa za 1 dzień</lengthvariant>
-            <lengthvariant>Twój %1-dniowy okres próbny traci ważność za 1 dzień</lengthvariant>
-        </translation>
+        <translation>Twój %1-dniowy okres próbny wygasa za 1 dzień</translation>
     </message>
     <message>
         <source>Your %1-day trial expires after %2 days</source>
-        <translation variants="yes">
-            <lengthvariant>Twój %1-dniowy okres próbny wygaśnie za %2 dni</lengthvariant>
-            <lengthvariant>Twój %1-dniowy okres próbny wygasa za %2 dni</lengthvariant>
-            <lengthvariant>Twój %1-dniowy okres próbny upływa za %2 dni</lengthvariant>
-            <lengthvariant>Twój %1-dniowy okres próbny traci ważność za %2 dni</lengthvariant>
-        </translation>
+        <translation>Twój %1-dniowy okres próbny wygasa za %2 dni</translation>
     </message>
     <message>
         <source>Buy Now &gt;&gt;</source>
@@ -2116,12 +1825,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Odnów tera
     </message>
     <message>
         <source>Subscription will expire after %1 days</source>
-        <translation variants="yes">
-            <lengthvariant>Subskrypcja wygaśnie za %1 dni</lengthvariant>
-            <lengthvariant>Subskrypcja wygaśnie po %1 dniach</lengthvariant>
-            <lengthvariant>Subskrypcja upływa za %1 dni</lengthvariant>
-            <lengthvariant>Subskrypcja traci ważność za %1 dni</lengthvariant>
-        </translation>
+        <translation>Subskrypcja wygasa za %1 dni</translation>
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
@@ -2133,42 +1837,29 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Odnów tera
     </message>
     <message>
         <source>Verify Again &gt;&gt;</source>
-        <translation variants="yes">
-            <lengthvariant>Weryfikuj ponownie &gt;&gt;</lengthvariant>
-            <lengthvariant>Sprawdź ponownie &gt;&gt;</lengthvariant>
-            <lengthvariant>Sprawdź jeszcze raz &gt;&gt;</lengthvariant>
-        </translation>
+        <translation>Weryfikuj ponownie &gt;&gt;</translation>
     </message>
     <message>
         <source>Subscription will expire today</source>
-        <translation>Subskrypcja wygaśnie dzisiaj</translation>
+        <translation>Subskrypcja wygasa dzisiaj</translation>
     </message>
     <message>
         <source>Your WPS Office is about to expire. 
 After expiration, some features will not work properly. Please renew now. </source>
-        <translation>Twój WPS Office wkrótce wygaśnie. 
+        <translation>Twój WPS Office wkrótce wygasa. 
 Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odnów teraz. </translation>
     </message>
     <message>
         <source>Some features will not work properly. &lt;br/&gt;Please renew now.  %1View details%2</source>
-        <translation variants="yes">
-            <lengthvariant>Niektóre funkcje nie będą działać prawidłowo. Proszę odnów teraz.  %1 Wyświetl szczegóły %2</lengthvariant>
-            <lengthvariant>Niektóre funkcje nie będą działać prawidłowo. Proszę odnów teraz. Wyświetl szczegóły %1 %2</lengthvariant>
-        </translation>
+        <translation>Niektóre funkcje nie będą działać prawidłowo. &lt;br/&gt;Proszę odnów teraz.  %1Wyświetl szczegóły%2</translation>
     </message>
     <message>
         <source>Verification Failure</source>
-        <translation variants="yes">
-            <lengthvariant>Błąd weryfikacji</lengthvariant>
-            <lengthvariant>Niepowodzenie weryfikacji</lengthvariant>
-        </translation>
+        <translation>Niepowodzenie weryfikacji</translation>
     </message>
     <message>
         <source>Cannot connect to the server so that activation fails. Please check your network connection and try again.</source>
-        <translation variants="yes">
-            <lengthvariant>Nie można połączyć się z serwerem, także aktywacja nie powiodła się. Sprawdź połączenie sieciowe i spróbuj ponownie.</lengthvariant>
-            <lengthvariant>Nie można połączyć się z serwerem, także aktywacja nie powiedzie się. Sprawdź połączenie sieciowe i spróbuj ponownie.</lengthvariant>
-        </translation>
+        <translation>Nie można połączyć się z serwerem, także aktywacja nie powiodła się. Sprawdź połączenie sieciowe i spróbuj ponownie.</translation>
     </message>
 </context>
 <context>
@@ -2179,10 +1870,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>WPS Office Disable Features</source>
-        <translation variants="yes">
-            <lengthvariant>Wyłączone funkcje WPS Office</lengthvariant>
-            <lengthvariant>Wyłącz funkcje WPS Office</lengthvariant>
-        </translation>
+        <translation>Wyłączone funkcje WPS Office</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -2190,10 +1878,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>If you have purchased subscription for individuals,  sign in to enjoy the service.</source>
-        <translation variants="yes">
-            <lengthvariant>Jeżeli zakupiłeś subskrypcję dla osób fizycznych, zaloguj się, aby korzystać z usługi.</lengthvariant>
-            <lengthvariant>Jeżeli zakupiłeś subskrypcję dla osób fizycznych, zaloguj się do korzystania z usługi.</lengthvariant>
-        </translation>
+        <translation>Jeżeli zakupiłeś subskrypcję dla osób fizycznych, zaloguj się, aby korzystać z usługi.</translation>
     </message>
     <message>
         <source>Enter your activation code</source>
@@ -2201,24 +1886,15 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
-        <translation variants="yes">
-            <lengthvariant>Jeżeli masz już kod aktywacji, użyj go, aby aktywować WPS Office.</lengthvariant>
-            <lengthvariant>Jeżeli masz już kod aktywacji, użyj go do aktywacji WPS Office.</lengthvariant>
-        </translation>
+        <translation>Jeżeli masz już kod aktywacji, użyj go, aby aktywować WPS Office.</translation>
     </message>
     <message>
         <source>The feature is not available in free version</source>
-        <translation variants="yes">
-            <lengthvariant>Funkcja nie jest dostępna w wersji bezpłatnej</lengthvariant>
-            <lengthvariant>Funkcja nie jest dostępna w wersji darmowej</lengthvariant>
-        </translation>
+        <translation>Funkcja nie jest dostępna w wersji darmowej</translation>
     </message>
     <message>
         <source>If you are a paid subscriber, you can use this feature in either way:</source>
-        <translation variants="yes">
-            <lengthvariant>Jeżeli jesteś abonentem subskrypcji, możesz użyć tej funkcji w następujący sposób:</lengthvariant>
-            <lengthvariant>Jeżeli jesteś subskrybentem, możesz użyć tej funkcji w następujący sposób:</lengthvariant>
-        </translation>
+        <translation>Jeżeli jesteś abonentem subskrypcji, możesz użyć tej funkcji w następujący sposób:</translation>
     </message>
     <message>
         <source>Buy/Renew Now</source>
@@ -2229,17 +1905,11 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     <name>KxQingWelcomeDlg</name>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation variants="yes">
-            <lengthvariant>Zapraszamy do WPS Office</lengthvariant>
-            <lengthvariant>Witamy w WPS Office</lengthvariant>
-        </translation>
+        <translation>Zapraszamy do WPS Office</translation>
     </message>
     <message>
         <source>Trial</source>
-        <translation variants="yes">
-            <lengthvariant>Wersja próbna</lengthvariant>
-            <lengthvariant>Trial</lengthvariant>
-        </translation>
+        <translation>Wersja próbna</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -2247,25 +1917,15 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
-        <translation variants="yes">
-            <lengthvariant>Jeżeli masz już kod aktywacji, użyj go, aby aktywować WPS Office.</lengthvariant>
-            <lengthvariant>Jeżeli masz już kod aktywacji, użyj go do aktywacji WPS Office.</lengthvariant>
-        </translation>
+        <translation>Jeżeli masz już kod aktywacji, użyj go, aby aktywować WPS Office.</translation>
     </message>
     <message>
         <source>Start your free %1-day trial.</source>
-        <translation variants="yes">
-            <lengthvariant>Rozpoczynanie korzystania z %1-dniowej bezpłatnej wersji próbnej.</lengthvariant>
-            <lengthvariant>Rozpocznij swój %1-dniowy okres próbny.</lengthvariant>
-            <lengthvariant>Zacznij bezpłatną%1-dniową wersję próbną.</lengthvariant>
-        </translation>
+        <translation>Rozpoczynanie korzystanie z %1-dniowej bezpłatnej wersji próbnej.</translation>
     </message>
     <message>
         <source>If you have purchased subscription for individuals, sign in to enjoy the service.</source>
-        <translation variants="yes">
-            <lengthvariant>Jeżeli zakupiłeś subskrypcję dla osób fizycznych, zaloguj się, aby korzystać z usługi.</lengthvariant>
-            <lengthvariant>Jeżeli zakupiłeś subskrypcję dla osób fizycznych, zaloguj się do korzystania z usługi.</lengthvariant>
-        </translation>
+        <translation>Jeżeli zakupiłeś subskrypcję dla osób fizycznych, zaloguj się, aby korzystać z usługi.</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
@@ -2276,10 +1936,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     <name>KxTpCloudLinkWidget</name>
     <message>
         <source>Transmitting share link failed. Please check the network or operation authorization.</source>
-        <translation variants="yes">
-            <lengthvariant>Transmitowanie udostępniania łącza nie powiodło się. Proszę sprawdź sieć lub autoryzację operacji.</lengthvariant>
-            <lengthvariant>Transmitowanie udostępniania linku nie powiodło się. Proszę sprawdź sieć lub autoryzację operacji.</lengthvariant>
-        </translation>
+        <translation>Transmitowanie udostępniania łącza nie powiodło się. Proszę sprawdź sieć lub autoryzację operacji.</translation>
     </message>
 </context>
 <context>
@@ -2294,24 +1951,15 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>Macros depend on VBA support to function correctly. </source>
-        <translation variants="yes">
-            <lengthvariant>Makra do poprawnego działania wymagają programu VBA. </lengthvariant>
-            <lengthvariant>Makra do poprawnego działania wymagają usługi VBA. </lengthvariant>
-        </translation>
+        <translation>Makra do poprawnego działania wymagają wsparcia języka VBA. </translation>
     </message>
     <message>
         <source>Your subscription does not include VBA. Macro in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
-        <translation variants="yes">
-            <lengthvariant>Twoja subskrypcja nie uwzględnia VBA. Makro w dokumencie nie może działać poprawnie. Proszę zakupić oddzielnie, aby włączyć makro, jeżeli potrzebujesz.</lengthvariant>
-            <lengthvariant>Twoja subskrypcja nie obejmuje VBA. Makro w dokumencie nie może działać poprawnie. Proszę zakupić oddzielnie, aby włączyć makro, jeżeli potrzebujesz.</lengthvariant>
-        </translation>
+        <translation>Twoja subskrypcja nie zawiera VBA. Makro w dokumencie nie może działać poprawnie. Proszę zakupić osobno, aby włączyć makro w razie potrzeby.</translation>
     </message>
     <message>
         <source>Macros depend on VBA support to function correctly.</source>
-        <translation variants="yes">
-            <lengthvariant>Makra do poprawnego działania wymagają programu VBA.</lengthvariant>
-            <lengthvariant>Makra do poprawnego działania wymagają usługi VBA.</lengthvariant>
-        </translation>
+        <translation>Makra do poprawnego działania wymagają wsparcia języka VBA.</translation>
     </message>
     <message>
         <source>This document contains macros.</source>
@@ -2319,28 +1967,22 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>Trial version does not support VBA so that macros in the document cannot work properly. Please purchase WPS Office to enable macro if you need.</source>
-        <translation>Wersja próbna nie obsługuje języka VBA, dlatego makra w dokumencie nie mogą działać poprawnie. Proszę zakupić program WPS Office, aby włączyć makro, jeżeli potrzebujesz.</translation>
+        <translation>Wersja próbna nie obsługuje języka VBA, dlatego makra w dokumencie nie mogą działać poprawnie. Proszę zakupić WPS Office, aby włączyć makro w razie potrzeby.</translation>
     </message>
     <message>
         <source>WPS Office Free cannot support VBA so that macros in the document cannot work properly. Please purchase WPS Office to enable macro if you need.</source>
-        <translation variants="yes">
-            <lengthvariant>Program WPS Office Free nie obsługuje języka VBA, dlatego makra w dokumencie nie mogą działać poprawnie. Proszę zakupić program WPS Office, aby włączyć makro, jeżeli potrzebujesz.</lengthvariant>
-            <lengthvariant>Wersja bezpłatna programu WPS Office nie obsługuje języka VBA, dlatego makra w dokumencie nie mogą działać poprawnie. Proszę zakupić program WPS Office, aby włączyć makro, jeżeli potrzebujesz.</lengthvariant>
-        </translation>
+        <translation>Program WPS Office Free nie obsługuje języka VBA, dlatego makra w dokumencie nie mogą działać poprawnie. Proszę zakupić program WPS Office, aby włączyć makro w razie potrzeby.</translation>
     </message>
     <message>
         <source>Your subscription does not include VBA so that macros in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
-        <translation>Twoja subskrypcja nie obejmuje VBA, dlatego makra w dokumencie nie mogą działać poprawnie. Proszę zakupić oddzielnie, aby włączyć makro, jeżeli potrzebujesz.</translation>
+        <translation>Twoja subskrypcja nie zawiera języka VBA, dlatego makra w dokumencie nie mogą działać poprawnie. Proszę zakupić osobno, aby włączyć makro w razie potrzeby.</translation>
     </message>
 </context>
 <context>
     <name>KxVbaInstallationDlg</name>
     <message>
         <source>This document contains macros. Macros depend on VBA support to function correctly.</source>
-        <translation variants="yes">
-            <lengthvariant>Ten dokument zawiera makra. Makra do poprawnego działania wymagają programu VBA.</lengthvariant>
-            <lengthvariant>Ten dokument zawiera makra. Makra do poprawnego działania wymagają usługi VBA.</lengthvariant>
-        </translation>
+        <translation>Ten dokument zawiera makra. Makra do poprawnego działania wymagają wsparcia języka VBA.</translation>
     </message>
 </context>
 <context>
@@ -2351,17 +1993,11 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>Macros depend on VBA support to function correctly. </source>
-        <translation variants="yes">
-            <lengthvariant>Makra do poprawnego działania wymagają programu VBA. </lengthvariant>
-            <lengthvariant>Makra do poprawnego działania wymagają usługi VBA. </lengthvariant>
-        </translation>
+        <translation> Makra do poprawnego działania wymagają wsparcia języka VBA. </translation>
     </message>
     <message>
         <source>Currently the trial, free and home versions of WPS Office cannot support VBA so that macros in the document cannot work properly.</source>
-        <translation variants="yes">
-            <lengthvariant>Aktualnie trial, wersja free i home WPS Office nie obsługuje języka VBA, dlatego makra w dokumencie nie mogą działać poprawnie.</lengthvariant>
-            <lengthvariant>Aktualnie trial, wersja bezpłatna i domowa WPS Office nie obsługuje języka VBA, dlatego makra w dokumencie nie mogą działać poprawnie.</lengthvariant>
-        </translation>
+        <translation>Aktualnie trial, wersje free i home WPS Office nie obsługują języka VBA, dlatego makra w dokumencie nie mogą działać poprawnie.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2429,11 +2065,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>Business authorization</source>
-        <translation variants="yes">
-            <lengthvariant>Autoryzacja biznesowa</lengthvariant>
-            <lengthvariant>Autoryzacja biznes</lengthvariant>
-            <lengthvariant>Autoryzacja firmy</lengthvariant>
-        </translation>
+        <translation>Autoryzacja biznesowa</translation>
     </message>
 </context>
 <context>
@@ -2469,11 +2101,11 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     <name>tips.DataRecover</name>
     <message>
         <source>Data Recovery Title</source>
-        <translation>Tytuł odzyskiwania danych</translation>
+        <translation>Tytuł odzyskiwanych danych</translation>
     </message>
     <message>
         <source>Data Recovery Content</source>
-        <translation>Zawartość odzyskiwania danych</translation>
+        <translation>Zawartość odzyskiwanych danych</translation>
     </message>
 </context>
 </TS>

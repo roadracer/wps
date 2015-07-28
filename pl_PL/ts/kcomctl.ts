@@ -124,10 +124,7 @@
     </message>
     <message>
         <source>Aqua</source>
-        <translation variants="yes">
-            <lengthvariant>Akwamaryna</lengthvariant>
-            <lengthvariant>Niebieskozielony</lengthvariant>
-        </translation>
+        <translation>Akwamaryna</translation>
     </message>
     <message>
         <source>Light Blue</source>
@@ -191,10 +188,7 @@
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation variants="yes">
-            <lengthvariant>Jasnoturkusowy</lengthvariant>
-            <lengthvariant>Pastelowobłękitny</lengthvariant>
-        </translation>
+        <translation>Jasnoturkusowy</translation>
     </message>
     <message>
         <source>Pale Blue</source>
@@ -202,10 +196,7 @@
     </message>
     <message>
         <source>Lavender</source>
-        <translation variants="yes">
-            <lengthvariant>Liliowy</lengthvariant>
-            <lengthvariant>Lawendowy</lengthvariant>
-        </translation>
+        <translation>Liliowy</translation>
     </message>
     <message>
         <source>White</source>
@@ -275,11 +266,11 @@
     <name>KFilePageFixedButton</name>
     <message>
         <source>unfixed from list</source>
-        <translation>odłączone z listy</translation>
+        <translation>odłączony z listy</translation>
     </message>
     <message>
         <source>fixed to list</source>
-        <translation>dołączone do listy</translation>
+        <translation>dołączony do listy</translation>
     </message>
 </context>
 <context>
@@ -468,7 +459,7 @@
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Wyczyść wszystkie</translation>
+        <translation>Wyczyść wszystko</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -488,14 +479,9 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
         <source>
 
 modify time: </source>
-        <translation variants="yes">
-            <lengthvariant>
+        <translation>
 
-czas ostatniej modyfikacji: </lengthvariant>
-            <lengthvariant>
-
-zmieniony: </lengthvariant>
-        </translation>
+Godzina modyfikacji: </translation>
     </message>
     <message>
         <source>
@@ -535,10 +521,7 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     </message>
     <message>
         <source>Words Only</source>
-        <translation variants="yes">
-            <lengthvariant>Tylko wyrazy</lengthvariant>
-            <lengthvariant>Tylko słowa</lengthvariant>
-        </translation>
+        <translation>Tylko wyrazy</translation>
     </message>
 </context>
 <context>
@@ -734,10 +717,7 @@ proszę ponownie zainstalować WPS Office!</translation>
     </message>
     <message>
         <source>Overtype</source>
-        <translation variants="yes">
-            <lengthvariant>Zastępowanie</lengthvariant>
-            <lengthvariant>Zastąp</lengthvariant>
-        </translation>
+        <translation>Zastępowanie</translation>
     </message>
     <message>
         <source>Delete from List</source>

@@ -185,10 +185,7 @@
     <message>
         <source>Borders and Fill</source>
         <comment>ObjTable_BordersFill</comment>
-        <translation variants="yes">
-            <lengthvariant>Obramowanie i wypełnienie</lengthvariant>
-            <lengthvariant>Krawędzie i wypełnienie</lengthvariant>
-        </translation>
+        <translation>Obramowanie i wypełnienie</translation>
     </message>
     <message>
         <source>Split Cell</source>
@@ -213,18 +210,12 @@
     <message>
         <source>Insert Columns to the Left</source>
         <comment>ObjTable_InsertColumnsLeft</comment>
-        <translation variants="yes">
-            <lengthvariant>Wstaw kolumny po lewej</lengthvariant>
-            <lengthvariant>Wstawienie kolumn po lewej</lengthvariant>
-        </translation>
+        <translation>Wstaw kolumny po lewej</translation>
     </message>
     <message>
         <source>Insert Columns to the Right</source>
         <comment>ObjTable_InsertColumnsRight</comment>
-        <translation variants="yes">
-            <lengthvariant>Wstaw kolumny po prawej</lengthvariant>
-            <lengthvariant>Wstawienie kolumn po prawej</lengthvariant>
-        </translation>
+        <translation>Wstaw kolumny po prawej</translation>
     </message>
     <message>
         <source>Delete Columns</source>
@@ -249,10 +240,7 @@
     <message>
         <source>Center Vertically</source>
         <comment>ObjTable_CenterVertically</comment>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkuj w pionie</lengthvariant>
-            <lengthvariant>Wyśrodkuj pionowo</lengthvariant>
-        </translation>
+        <translation>Wyśrodkuj w pionie</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -309,10 +297,7 @@ Esc					Zakończ bieżący pokaz slajdów</translation>
     <message>
         <source>The file you specified cannot be open.</source>
         <comment>WpHyperlink_InvalidateAddress</comment>
-        <translation variants="yes">
-            <lengthvariant>Określony plik nie może być otwarty.</lengthvariant>
-            <lengthvariant>Podany plik nie może być otwarty.</lengthvariant>
-        </translation>
+        <translation>Określony plik nie może być otwarty.</translation>
     </message>
     <message>
         <source>WPS Presentation cannot be found or start %s. </source>
@@ -495,10 +480,7 @@ Czy chcesz otworzyć ten plik?</translation>
     <message>
         <source>Center</source>
         <comment>TXTRANS_PARA_ALIGNMENT_CENTER</comment>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkuj</lengthvariant>
-            <lengthvariant>Środek</lengthvariant>
-        </translation>
+        <translation>Wyśrodkuj</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -541,10 +523,7 @@ Czy chcesz otworzyć ten plik?</translation>
     <message>
         <source>Format Object</source>
         <comment>TXTRANS_FORMAT_OBJECT</comment>
-        <translation variants="yes">
-            <lengthvariant>Formatuj obiekt</lengthvariant>
-            <lengthvariant>Formatowanie obiektu</lengthvariant>
-        </translation>
+        <translation>Formatuj obiekt</translation>
     </message>
     <message>
         <source>Insert Slide Number</source>
@@ -559,10 +538,7 @@ Czy chcesz otworzyć ten plik?</translation>
     <message>
         <source>Insert Symbol</source>
         <comment>TXTRANS_SYMBOL</comment>
-        <translation variants="yes">
-            <lengthvariant>Wstaw symbol</lengthvariant>
-            <lengthvariant>Wstawienie symbolu</lengthvariant>
-        </translation>
+        <translation>Wstaw symbol</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -577,18 +553,12 @@ Czy chcesz otworzyć ten plik?</translation>
     <message>
         <source>Demote</source>
         <comment>TXTRANS_DEMOTE</comment>
-        <translation variants="yes">
-            <lengthvariant>Obniż</lengthvariant>
-            <lengthvariant>Obniż poziom</lengthvariant>
-        </translation>
+        <translation>Obniż poziom</translation>
     </message>
     <message>
         <source>Promote</source>
         <comment>TXTRANS_PROMOTE</comment>
-        <translation variants="yes">
-            <lengthvariant>Podwyższ</lengthvariant>
-            <lengthvariant>Podwyższ poziom</lengthvariant>
-        </translation>
+        <translation>Podwyższ poziom</translation>
     </message>
     <message>
         <source>Action Settings</source>
@@ -1387,10 +1357,7 @@ Czy chcesz otworzyć ten plik?</translation>
     <message>
         <source>Float</source>
         <comment>WP_ANIMATIONTYPE_FLOAT</comment>
-        <translation variants="yes">
-            <lengthvariant>Unoszenie</lengthvariant>
-            <lengthvariant>Przestaw</lengthvariant>
-        </translation>
+        <translation>Unoszenie</translation>
     </message>
     <message>
         <source>Neutron</source>
@@ -1812,10 +1779,7 @@ Piąty poziom</translation>
     <message>
         <source>Borders and Fill</source>
         <comment>WpFormatTable_BordersFill</comment>
-        <translation variants="yes">
-            <lengthvariant>Obramowanie i wypełnienie</lengthvariant>
-            <lengthvariant>Krawędzie i wypełnienie</lengthvariant>
-        </translation>
+        <translation>Obramowanie i wypełnienie</translation>
     </message>
     <message>
         <source>Action Settings</source>
@@ -2156,10 +2120,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Object Out Of Slide</source>
         <comment>WP_SECURITY_OutOfSlideObj</comment>
-        <translation variants="yes">
-            <lengthvariant>Obiekt poza slajdem</lengthvariant>
-            <lengthvariant>Obiekt na zewnątrz slajdu</lengthvariant>
-        </translation>
+        <translation>Obiekt poza slajdem</translation>
     </message>
     <message>
         <source>Set Hidden Object</source>
@@ -2898,10 +2859,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Don&apos;t Dim</source>
         <comment>wpp_sAnimAfterEffectNone</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie przygaszaj</lengthvariant>
-            <lengthvariant>Nie przygaszone</lengthvariant>
-        </translation>
+        <translation>Nie przygaszaj</translation>
     </message>
     <message>
         <source>Gradual</source>
@@ -3711,18 +3669,12 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Heart</source>
         <comment>wpp_sAnimEffectPathHeart</comment>
-        <translation variants="yes">
-            <lengthvariant>Serce</lengthvariant>
-            <lengthvariant>Kier</lengthvariant>
-        </translation>
+        <translation>Serce</translation>
     </message>
     <message>
         <source>Heartbeat</source>
         <comment>wpp_sAnimEffectPathHeartbeat</comment>
-        <translation variants="yes">
-            <lengthvariant>Kardiogram</lengthvariant>
-            <lengthvariant>Puls</lengthvariant>
-        </translation>
+        <translation>Kardiogram</translation>
     </message>
     <message>
         <source>Hexagon</source>
@@ -4028,10 +3980,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Expand</source>
         <comment>wpp_sAnimEnterEffectTextExpand</comment>
-        <translation variants="yes">
-            <lengthvariant>Rozwiń</lengthvariant>
-            <lengthvariant>Rozwijanie</lengthvariant>
-        </translation>
+        <translation>Rozwiń</translation>
     </message>
     <message>
         <source>Fade</source>
@@ -4064,10 +4013,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Float</source>
         <comment>wpp_sAnimEnterEffectTextFloat</comment>
-        <translation variants="yes">
-            <lengthvariant>Unoszenie</lengthvariant>
-            <lengthvariant>Przestaw</lengthvariant>
-        </translation>
+        <translation>Unoszenie</translation>
     </message>
     <message>
         <source>Fly In</source>
@@ -4373,10 +4319,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Float</source>
         <comment>wpp_sAnimExitEffectTextFloat</comment>
-        <translation variants="yes">
-            <lengthvariant>Unoszenie</lengthvariant>
-            <lengthvariant>Przestaw</lengthvariant>
-        </translation>
+        <translation>Unoszenie</translation>
     </message>
     <message>
         <source>Fly Out</source>
@@ -4460,10 +4403,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Spiral Out</source>
         <comment>wpp_sAnimExitEffectTextSpiral</comment>
-        <translation variants="yes">
-            <lengthvariant>Spirala na zewnątrz</lengthvariant>
-            <lengthvariant>Zewnętrzna spirala</lengthvariant>
-        </translation>
+        <translation>Spirala na zewnątrz</translation>
     </message>
     <message>
         <source>Split</source>
@@ -5022,10 +4962,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Input permission password.</source>
         <comment>wpp_sInputMasterPassword</comment>
-        <translation variants="yes">
-            <lengthvariant>Wprowadź hasło uprawnienia.</lengthvariant>
-            <lengthvariant>Wprowadź hasło dla autoryzacji.</lengthvariant>
-        </translation>
+        <translation>Wprowadź hasło uprawnienia.</translation>
     </message>
     <message>
         <source>This font size is not available. </source>
@@ -5285,10 +5222,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>(No Suggestions)</source>
         <comment>wpp_sNoSuggestion</comment>
-        <translation variants="yes">
-            <lengthvariant>(Brak sugestii)</lengthvariant>
-            <lengthvariant>(Brak propozycji)</lengthvariant>
-        </translation>
+        <translation>(Brak sugestii)</translation>
     </message>
     <message>
         <source>Notes</source>
@@ -5336,10 +5270,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Special</source>
         <comment>wpp_sPathSpecialEffect</comment>
-        <translation variants="yes">
-            <lengthvariant>Specjalne</lengthvariant>
-            <lengthvariant>Specjalny</lengthvariant>
-        </translation>
+        <translation>Specjalne</translation>
     </message>
     <message>
         <source>Exporting PDF file is completing...</source>
@@ -5407,10 +5338,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Redo %d Action(s)</source>
         <comment>wpp_sRedoListCaption</comment>
-        <translation variants="yes">
-            <lengthvariant>Wykonaj ponownie %d akcję(e)</lengthvariant>
-            <lengthvariant>Wykonaj ponownie %d czynność(ci)</lengthvariant>
-        </translation>
+        <translation>Wykonaj ponownie %d akcję(e)</translation>
     </message>
     <message>
         <source>Subtle</source>
@@ -5736,10 +5664,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Undo %d Action(s)</source>
         <comment>wpp_sUndoListCaption</comment>
-        <translation variants="yes">
-            <lengthvariant>Cofnij %d akcję(e)</lengthvariant>
-            <lengthvariant>Cofnij %d czynność(ci)</lengthvariant>
-        </translation>
+        <translation>Cofnij %d akcję(e)</translation>
     </message>
     <message>
         <source>UnLock</source>
@@ -5794,19 +5719,12 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>The slide you selected to export does not exist. Please select another one.</source>
         <comment>wpp_sExportSlideNotExisted</comment>
-        <translation variants="yes">
-            <lengthvariant>Slajd wybrany do eksportowania nie istnieje. Proszę wybrać inny.</lengthvariant>
-            <lengthvariant>Slajd wybrany do eksportu nie istnieje. Proszę wybrać inny.</lengthvariant>
-        </translation>
+        <translation>Slajd wybrany do eksportowania nie istnieje. Proszę wybrać inny.</translation>
     </message>
     <message>
         <source>Cannot locate the path. Please input a full path.</source>
         <comment>wpp_sInvalidPath</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można znaleźć ścieżki. Proszę wprowadzić pełną ścieżkę.</lengthvariant>
-            <lengthvariant>Nie można znaleźć ścieżki. Proszę wpisać pełną ścieżkę.</lengthvariant>
-            <lengthvariant>Nie można znaleźć ścieżki. Proszę podać pełną ścieżkę.</lengthvariant>
-        </translation>
+        <translation>Nie można znaleźć ścieżki. Proszę wprowadzić pełną ścieżkę.</translation>
     </message>
     <message>
         <source>Folder name cannot be empty. Please input.</source>
@@ -5821,10 +5739,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>%s is already in the list. Do you want to replace it?</source>
         <comment>wpp_sFileExistInList</comment>
-        <translation variants="yes">
-            <lengthvariant>%s jest już na liście. Czy chcesz go zamienić?</lengthvariant>
-            <lengthvariant>%s już istnieje na liście. Czy chcesz go zamienić?</lengthvariant>
-        </translation>
+        <translation>%s jest już na liście. Czy chcesz go zamienić?</translation>
     </message>
     <message>
         <source>The file %s has not been saved, so you cannot restore it back to the list. Are you sure to remove it from the list?</source>
@@ -6248,10 +6163,7 @@ slajdu</translation>
     <message>
         <source>Change Case</source>
         <comment>WpCHANGECASE</comment>
-        <translation variants="yes">
-            <lengthvariant>Zmień wielkość liter</lengthvariant>
-            <lengthvariant>Zmienianie wielkości liter</lengthvariant>
-        </translation>
+        <translation>Zmień wielkość liter</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -6302,15 +6214,12 @@ układ</lengthvariant>
     <message>
         <source>Format Object</source>
         <comment>WpFORMATOBJECT</comment>
-        <translation variants="yes">
-            <lengthvariant>Formatuj obiekt</lengthvariant>
-            <lengthvariant>Formatowanie obiektu</lengthvariant>
-        </translation>
+        <translation>Formatuj obiekt</translation>
     </message>
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
         <comment>WpNoHelpFile</comment>
-        <translation>Nie znaleziono plików pomocy lub w plikach pomocy występuje błąd.</translation>
+        <translation>Nie znaleziono plików pomocy lub w plikach pomocy wystąpił błąd.</translation>
     </message>
     <message>
         <source>Set Up Show</source>
@@ -6468,10 +6377,7 @@ układ</lengthvariant>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
         <comment>WpPROMPTTOSAVE</comment>
-        <translation variants="yes">
-            <lengthvariant>Czy chcesz zapisać zmiany dokonane w %s?</lengthvariant>
-            <lengthvariant>Czy chcesz zapisać zmiany wprowadzone do %s?</lengthvariant>
-        </translation>
+        <translation>Czy chcesz zapisać zmiany wprowadzone do %s?</translation>
     </message>
     <message>
         <source>Failed to save. Please try one of the following: 
@@ -6479,7 +6385,7 @@ układ</lengthvariant>
 •Please copy the contents and paste them into a new file.
 •Give up the changes to this file.</source>
         <comment>WpSAVEFILEFAIL</comment>
-        <translation>Nie można zapisać. Spróbuj jednej z następujących czynności: 
+        <translation>Nie można zapisać. Spróbuj wykonać jedną z następujących czynności: 
 •[Cofnij] poprzednie operacje, a następnie [Zapisz] ponownie.
 •Proszę skopiować zawartość i wkleić ją do nowego pliku.
 •Odstąp od zmian w tym pliku.</translation>
@@ -6519,10 +6425,7 @@ układ</lengthvariant>
     <message>
         <source>Insert Media</source>
         <comment>WpMEDIA</comment>
-        <translation variants="yes">
-            <lengthvariant>Wstaw multimedia</lengthvariant>
-            <lengthvariant>Wstaw media</lengthvariant>
-        </translation>
+        <translation>Wstaw multimedia</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -6640,10 +6543,7 @@ układ</lengthvariant>
     <message>
         <source>Insert Movie</source>
         <comment>DgDesc_InsertMovie</comment>
-        <translation variants="yes">
-            <lengthvariant>Wstaw film</lengthvariant>
-            <lengthvariant>Wstawianie filmu</lengthvariant>
-        </translation>
+        <translation>Wstaw film</translation>
     </message>
     <message>
         <source>All Files</source>
@@ -6818,10 +6718,7 @@ układ</lengthvariant>
     <message>
         <source>Failed to save as a picture, because the file format is unsupported.</source>
         <comment>WP_SaveAsPictureFailure</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie udało się zapisać jako obraz, ponieważ format pliku nie jest obsługiwany.</lengthvariant>
-            <lengthvariant>Nie można zapisać jako obraz, ponieważ format pliku nie jest obsługiwany.</lengthvariant>
-        </translation>
+        <translation>Nie można zapisać jako obraz, ponieważ format pliku nie jest obsługiwany.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -6872,10 +6769,7 @@ układ</lengthvariant>
     <message>
         <source>This slide has background music already. Do you want to replace it?</source>
         <comment>WpReplaceCurrentBkMusic</comment>
-        <translation variants="yes">
-            <lengthvariant>Ten slajd ma już muzykę w tle. Czy chcesz go zamienić?</lengthvariant>
-            <lengthvariant>Ten slajd ma już muzykę w tle. Czy chcesz go zastąpić?</lengthvariant>
-        </translation>
+        <translation>Ten slajd ma już muzykę w tle. Czy chcesz go zamienić?</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
@@ -7016,12 +6910,8 @@ pisowni</translation>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>WpMsgBackupToDef</comment>
-        <translation variants="yes">
-            <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog dla kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog dla kopii zapasowych.
-Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
-            <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowych.
-Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
-        </translation>
+        <translation>Występują błędy podczas tworzenia kopii zapasowej! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowej, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowej.
+Ta kopia zapasowa zostanie zapisana do(%s)</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>

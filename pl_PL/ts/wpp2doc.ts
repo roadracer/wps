@@ -208,14 +208,9 @@
         <source>This is a valid number.
 Please input slide number or slide range. 
 For example, 1,3,5-9.</source>
-        <translation variants="yes">
-            <lengthvariant>To jest prawidłowa liczba.
+        <translation>To jest prawidłowa liczba.
 Proszę wprowadź numer slajdu lub zakres slajdów. 
-Na przykład, 1,3,5-9.</lengthvariant>
-            <lengthvariant>To jest prawidłową liczbą.
-Proszę wprowadź numer slajdu lub zakres slajdów. 
-Na przykład, 1,3,5-9.</lengthvariant>
-        </translation>
+Na przykład, 1,3,5-9.</translation>
     </message>
     <message>
         <source>The number must be 1 or 2.</source>

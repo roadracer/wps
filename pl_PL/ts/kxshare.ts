@@ -64,7 +64,6 @@
     </message>
     <message>
         <source>Newline/Enter</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Nowy wiersz/Wprowadź</translation>
     </message>
     <message>
@@ -410,7 +409,7 @@
     <name>KLanguageChooseDialog</name>
     <message>
         <source>Choose Language</source>
-        <translation>Wybierz język</translation>
+        <translation>Wybieranie języka</translation>
     </message>
     <message>
         <source>&amp;Follow system locale</source>
@@ -438,7 +437,7 @@
     </message>
     <message>
         <source>Click to open the credits page.</source>
-        <translation>Kliknij, aby otworzyć stronę Autorów.</translation>
+        <translation>Kliknij, aby otworzyć stronę autorów.</translation>
     </message>
     <message>
         <source>Local Language Packs</source>
@@ -514,7 +513,7 @@
     </message>
     <message>
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
-        <translation>Zapisywanie numeru seryjnego nie powiodło się. Proszę sprawdź, czy masz uprawnienia administratora, czy też nie.</translation>
+        <translation>Zapisywanie numeru seryjnego nie powiodło się. Proszę sprawdź, czy masz uprawnienia administratora.</translation>
     </message>
     <message>
         <source>The items with &quot;*&quot; must be entered.</source>
@@ -561,7 +560,7 @@
     </message>
     <message>
         <source>Password error, try again</source>
-        <translation>Błąd hasła, spróbuj ponownie</translation>
+        <translation>Nieprawidłowe hasło, spróbuj ponownie</translation>
     </message>
 </context>
 <context>
@@ -623,10 +622,7 @@
     </message>
     <message>
         <source>Registered</source>
-        <translation variants="yes">
-            <lengthvariant>Zarejestrowany</lengthvariant>
-            <lengthvariant>Zarejestrowane</lengthvariant>
-        </translation>
+        <translation>Zarejestrowane</translation>
     </message>
     <message>
         <source>Trademark</source>
@@ -983,7 +979,7 @@
     </message>
     <message>
         <source>Sinhala</source>
-        <translation>Sinhala</translation>
+        <translation>Syngaleski</translation>
     </message>
     <message>
         <source>Myanmar</source>
@@ -1038,10 +1034,7 @@
     </message>
     <message>
         <source>Product ID: </source>
-        <translation variants="yes">
-            <lengthvariant>Identyfikator produktu: </lengthvariant>
-            <lengthvariant>ID produktu: </lengthvariant>
-        </translation>
+        <translation>Identyfikator produktu: </translation>
     </message>
     <message>
         <source>Part of %1</source>
@@ -1057,7 +1050,7 @@
     </message>
     <message>
         <source>Part of %1 activation version</source>
-        <translation>Część%1 aktywacji wersji</translation>
+        <translation>Część%1 wersji aktywowanej</translation>
     </message>
     <message>
         <source>About WPS Writer</source>
@@ -1104,7 +1097,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
-        <translation>Użytkownicy z uprawnieniem do odczytu mogą odczytywać ten dokument, ale nie mogą zmieniać, drukować ani kopiować zawartości.</translation>
+        <translation>Użytkownicy z uprawnieniem do odczytu mogą odczytywać ten dokument, ale nie mogą zmieniać, drukować lub kopiować zawartości.</translation>
     </message>
     <message>
         <source>Give all users Read Access</source>
@@ -1112,7 +1105,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>PI</source>
-        <translatorcomment>Personal Identity</translatorcomment>
+        <translatorcomment>Personal identity</translatorcomment>
         <translation>Tożsamość osobista</translation>
     </message>
     <message>
@@ -1252,10 +1245,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>There is no icon in &quot;%1&quot;.</source>
-        <translation variants="yes">
-            <lengthvariant>Nie ma ikony w &quot;%1&quot;.</lengthvariant>
-            <lengthvariant>Brak ikony w &quot;% 1&quot;.</lengthvariant>
-        </translation>
+        <translation>Nie ma ikony w &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1356,7 +1346,6 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <name>KxCroppingScalesGalleryModelItem</name>
     <message>
         <source>CroppingScale_Free</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Przycinanie skali-dowolne</translation>
     </message>
 </context>
@@ -1415,7 +1404,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <name>KxCustomListModel</name>
     <message>
         <source>  Option Tab</source>
-        <translation>  Karta Opcje</translation>
+        <translation>  Karta opcji</translation>
     </message>
 </context>
 <context>
@@ -1491,10 +1480,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Begin &amp;Group</source>
-        <translation variants="yes">
-            <lengthvariant>Początek &amp;grupy</lengthvariant>
-            <lengthvariant>Początek &amp;grupowania</lengthvariant>
-        </translation>
+        <translation>Początek &amp;grupowania</translation>
     </message>
     <message>
         <source>Copy P&amp;icture</source>
@@ -1784,7 +1770,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <name>KxDlgEditDictionary</name>
     <message>
         <source>Edit Dictionary</source>
-        <translation>Edytuj słownik</translation>
+        <translation>Edytowanie słownika</translation>
     </message>
     <message>
         <source>&amp;Word:</source>
@@ -2146,7 +2132,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Try the Professional version now to enjoy a greater number of services and features</source>
-        <translation>Wypróbuj teraz wersję Professional, aby korzystać z większej ilości usług i funkcji</translation>
+        <translation>Wypróbuj wersję Professional teraz, aby korzystać z większej ilości usług i funkcji</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -2188,10 +2174,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgInputBox</name>
     <message>
         <source>Input:</source>
-        <translation variants="yes">
-            <lengthvariant>Wejście:</lengthvariant>
-            <lengthvariant>Wprowadź:</lengthvariant>
-        </translation>
+        <translation>Dane wejściowe:</translation>
     </message>
 </context>
 <context>
@@ -2379,10 +2362,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Suggestions</source>
-        <translation variants="yes">
-            <lengthvariant>Sugestie</lengthvariant>
-            <lengthvariant>Propozycje</lengthvariant>
-        </translation>
+        <translation>Sugestie</translation>
     </message>
     <message>
         <source>Files to reproduce the problem (Files will be properly kept.) </source>
@@ -2413,7 +2393,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>pushButton</source>
-        <translation>z przyciskiem</translation>
+        <translation>Przycisk</translation>
     </message>
 </context>
 <context>
@@ -2428,10 +2408,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Using printer:</source>
-        <translation variants="yes">
-            <lengthvariant>Użyta drukarka:</lengthvariant>
-            <lengthvariant>Przy użyciu drukarki:</lengthvariant>
-        </translation>
+        <translation>Używając drukarki:</translation>
     </message>
     <message>
         <source>Printing progress:</source>
@@ -2492,17 +2469,11 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgRecentFileManage</name>
     <message>
         <source>Recent File Management</source>
-        <translation variants="yes">
-            <lengthvariant>Zarządzanie niedawno używanych plików</lengthvariant>
-            <lengthvariant>Zarządzanie ostatnio używanych plików</lengthvariant>
-        </translation>
+        <translation>Zarządzanie niedawno używanymi plikami</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation variants="yes">
-            <lengthvariant>Identyfikator</lengthvariant>
-            <lengthvariant>ID</lengthvariant>
-        </translation>
+        <translation>Identyfikator</translation>
     </message>
     <message>
         <source>Name</source>
@@ -2515,7 +2486,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This will not delete the files but only remove the records.
 Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
-        <translation>Wybierz rekordy, które chcesz usunąć z listy niedawno używanych plików, a następnie naciśnij przycisk Usuń, aby to zatwierdzić. Nie spowoduje to usunięcia plików, ale tylko usunie rekordy.
+        <translation>Wybierz rekordy, które chcesz usunąć z listy niedawno używanych plików, a następnie naciśnij przycisk Usuń, aby to zatwierdzić. Nie spowoduje to usunięcia plików, tylko usunie rekordy.
 Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to usunięcie zaznaczenia elementów.</translation>
     </message>
 </context>
@@ -2565,7 +2536,7 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     </message>
     <message>
         <source>Enter Viewer Mode</source>
-        <translation>Przejdź do trybu przeglądarki</translation>
+        <translation>Przejdź w tryb przeglądarki</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -2577,7 +2548,7 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     </message>
     <message>
         <source>The trial period of your WPS Office Beta has expired. You can enter Viewer mode, in which keyboard entry will be disabled, to continue or update to the latest Personal version of WPS Office.</source>
-        <translation>Wygasł okres próbny WPS Office Beta. Możesz przejść do trybu przeglądarki, w którym wprowadzanie z klawiatury zostanie wyłączone, aby kontynuować lub zaktualizować do najnowszej wersji WPS Office Personal.</translation>
+        <translation>Wygasł okres próbny WPS Office Beta. Możesz przejść w tryb przeglądarki, w którym wprowadzanie z klawiatury zostanie wyłączone, aby kontynuować lub zaktualizować do najnowszej wersji WPS Office Personal.</translation>
     </message>
     <message>
         <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
@@ -2621,10 +2592,7 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     </message>
     <message>
         <source>Standard Encryption</source>
-        <translation variants="yes">
-            <lengthvariant>Szyfrowanie standardowe</lengthvariant>
-            <lengthvariant>Standard szyfrowania</lengthvariant>
-        </translation>
+        <translation>Szyfrowanie standardowe</translation>
     </message>
     <message>
         <source>, </source>
@@ -2706,14 +2674,9 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
         <source>
 
 modify time: </source>
-        <translation variants="yes">
-            <lengthvariant>
+        <translation>
 
-czas ostatniej modyfikacji: </lengthvariant>
-            <lengthvariant>
-
-zmieniony: </lengthvariant>
-        </translation>
+Godzina modyfikacji: </translation>
     </message>
     <message>
         <source>
@@ -2832,10 +2795,7 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     </message>
     <message>
         <source>Dotted diamond</source>
-        <translation variants="yes">
-            <lengthvariant>Kropkowane karo</lengthvariant>
-            <lengthvariant>Kropkowany romb</lengthvariant>
-        </translation>
+        <translation>Kropkowane karo</translation>
     </message>
     <message>
         <source>Shingle</source>
@@ -2955,10 +2915,7 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     </message>
     <message>
         <source>The picture is too big to be used as a pattern.</source>
-        <translation variants="yes">
-            <lengthvariant>Obraz jest zbyt duży, aby można było go użyć jako deseń.</lengthvariant>
-            <lengthvariant>Obraz jest zbyt duży, aby można było go użyć jako wzorzec.</lengthvariant>
-        </translation>
+        <translation>Obraz jest zbyt duży, aby można było go użyć jako deseń.</translation>
     </message>
     <message>
         <source>Select Picture</source>
@@ -2984,19 +2941,19 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation>Ten dokument wykorzystuje czcionki chmury &quot;%1&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
+        <translation>Ten dokument używa czcionek chmury &quot;%1&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation>Ten dokument wykorzystuje czcionki chmury &quot;%1&quot; i &quot;%2&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
+        <translation>Ten dokument używa czcionek chmury &quot;%1&quot; i &quot;%2&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation>Ten dokument wykorzystuje czcionki chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
+        <translation>Ten dokument używa czcionek chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
-        <translation>Ten dokument wykorzystuje czcionki chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;, itp. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
+        <translation>Ten dokument używa czcionek chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;, itp. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
 </context>
 <context>
@@ -3007,10 +2964,7 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     </message>
     <message>
         <source>Position</source>
-        <translation variants="yes">
-            <lengthvariant>Położenie</lengthvariant>
-            <lengthvariant>Pozycja</lengthvariant>
-        </translation>
+        <translation>Położenie</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -3089,10 +3043,7 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     <name>KxInsertFileObjectCommand</name>
     <message>
         <source>Insert File Object</source>
-        <translation variants="yes">
-            <lengthvariant>Wstaw obiekt pliku</lengthvariant>
-            <lengthvariant>Wstaw załącznik</lengthvariant>
-        </translation>
+        <translation>Wstaw obiekt pliku</translation>
     </message>
 </context>
 <context>
@@ -3127,10 +3078,7 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     </message>
     <message>
         <source>Inserts the contents of the file into your document and creates a shortcut to the source file. Changes to the source file will be reflected in your document.</source>
-        <translation variants="yes">
-            <lengthvariant>Wstawia zawartość pliku do dokumentu i tworzy skrót do pliku źródłowego. Zmiany w pliku źródłowym będą uwzględniane w dokumencie.</lengthvariant>
-            <lengthvariant>Wstawia zawartość pliku do dokumentu i tworzy skrót do pliku źródłowego. Zmiany w pliku źródłowym będą odzwierciedlane w dokumencie.</lengthvariant>
-        </translation>
+        <translation>Wstawia zawartość pliku do dokumentu i tworzy skrót do pliku źródłowego. Zmiany w pliku źródłowym będą uwzględniane w dokumencie.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document and creates a link to the source file. Changes to the source file will be reflected in your document.</source>
@@ -3246,7 +3194,7 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     <name>KxMailFeedBackDlg</name>
     <message>
         <source>----please choose the type of your problem-----</source>
-        <translation>----proszę wybrać rodzaj problemu-----</translation>
+        <translation>----proszę wybrać typ problemu-----</translation>
     </message>
     <message>
         <source>(Details of problems)</source>
@@ -3454,7 +3402,7 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>Bitmap file(*.bmp)</source>
-        <translation>Plik bitmapy (.bmp)</translation>
+        <translation>Plik bitmapy (*.bmp)</translation>
     </message>
     <message>
         <source>Select picture</source>
@@ -3466,10 +3414,7 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>&amp;Insert Picture...</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Wstaw obraz...</lengthvariant>
-            <lengthvariant>&amp;Wstawianie obrazu...</lengthvariant>
-        </translation>
+        <translation>&amp;Wstaw obraz...</translation>
     </message>
     <message>
         <source>All files(*.*)</source>
@@ -3567,7 +3512,7 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     <name>KxOnlineFontController</name>
     <message>
         <source>Cloud font reserves to the upper (%1), please go to the &quot;management of cloud font&quot; page for details.</source>
-        <translation>Rezerwa czcionki chmury osiągnie górny limit (%1), proszę przejdź do &quot;Zarządzanie czcionkami chmury&quot;. Szczegóły na stronie.</translation>
+        <translation>Rezerwa czcionki chmury osiągnie górny limit (%1), proszę przejdź do &quot;Zarządzanie czcionkami chmury&quot;, aby zobaczyć szczegóły.</translation>
     </message>
     <message>
         <source>View Now</source>
@@ -3617,7 +3562,7 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>Vip %1 has expired, please renew</source>
-        <translation>Vip %1 wygasł, proszę odnów</translation>
+        <translation>Vip %1 wygasło, proszę odnów</translation>
     </message>
     <message>
         <source>WPS members enjoy more than 300 cloud font, monthly not regularly updated new font, let your document colorful!</source>
@@ -3632,7 +3577,7 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     <name>KxOnlineFonts</name>
     <message>
         <source>It&apos;s downloading, please wait...</source>
-        <translation>Trwa pobieranie, proszę czekać...</translation>
+        <translation>Pobieranie, proszę czekać...</translation>
     </message>
     <message>
         <source>Pause. Click to continue</source>
@@ -3700,7 +3645,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Click to keep cloud fonts on top</source>
-        <translation>Kliknij, aby zachować czcionki chmury na górze</translation>
+        <translation>Kliknij, aby zachować czcionki chmury na wierzchu</translation>
     </message>
     <message>
         <source>Click to shuffle cloud fonts</source>
@@ -3720,7 +3665,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Downloading fonts, please wait?</source>
-        <translation>Pobieranie czcionek, proszę czekać?</translation>
+        <translation>Pobieranie czcionek, proszę czekać...</translation>
     </message>
 </context>
 <context>
@@ -3731,7 +3676,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Enter Viewer</source>
-        <translation>Przejdź do trybu przeglądarki</translation>
+        <translation>Przejdź w tryb przeglądarki</translation>
     </message>
     <message>
         <source>Disable Print</source>
@@ -3751,7 +3696,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation>Twój okres próbny WPS Office wygasł i masz zamiar wejść w Tryb przeglądarki. Proszę wprowadzić prawidłowy numer seryjny, aby dalej korzystać z aplikacji. Jeśli nie masz prawidłowego numeru seryjnego, proszę zakupić jeden w</translation>
+        <translation>Twój okres próbny WPS Office wygasł i masz zamiar przejść w Tryb przeglądarki. Proszę wprowadzić prawidłowy numer seryjny, aby dalej korzystać z aplikacji. Jeśli nie masz prawidłowego numeru seryjnego, proszę zakupić jeden w</translation>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one at the</source>
@@ -3867,7 +3812,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     <name>KxPrintRestrictDlg</name>
     <message>
         <source>You are using a free version. </source>
-        <translation>Korzystasz z wersji darmowej. </translation>
+        <translation>Używasz wersji darmowej. </translation>
     </message>
     <message>
         <source>A watermark will be added to your document when printing. We recommend that you click Print Preview to see effects before printing.</source>
@@ -3890,7 +3835,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     <name>KxPrintWatermarkDlg</name>
     <message>
         <source>You are using a free version. </source>
-        <translation>Korzystasz z wersji darmowej. </translation>
+        <translation>Używasz wersji darmowej. </translation>
     </message>
     <message>
         <source>A watermark will be added to your document when printing. </source>
@@ -3957,10 +3902,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation variants="yes">
-            <lengthvariant>Offline</lengthvariant>
-            <lengthvariant>W trybie offline</lengthvariant>
-        </translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Busy</source>
@@ -3995,10 +3937,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Editor</source>
-        <translation variants="yes">
-            <lengthvariant>Redaktor</lengthvariant>
-            <lengthvariant>Edytor</lengthvariant>
-        </translation>
+        <translation>Redaktor</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -4038,10 +3977,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Checker</source>
-        <translation variants="yes">
-            <lengthvariant>Kontroler</lengthvariant>
-            <lengthvariant>Weryfikator</lengthvariant>
-        </translation>
+        <translation>Weryfikator</translation>
     </message>
     <message>
         <source>From</source>
@@ -4211,7 +4147,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>A key to clear</source>
-        <translation>Klucz do wyczyszczenia</translation>
+        <translation>Klawisz do wyczyszczenia</translation>
     </message>
     <message>
         <source>Clear this recor&amp;d</source>
@@ -4233,14 +4169,9 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
         <source>
 
 modify time: </source>
-        <translation variants="yes">
-            <lengthvariant>
+        <translation>
 
-czas ostatniej modyfikacji: </lengthvariant>
-            <lengthvariant>
-
-zmieniony: </lengthvariant>
-        </translation>
+Godzina modyfikacji: </translation>
     </message>
     <message>
         <source>
@@ -4262,7 +4193,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     </message>
     <message>
         <source>open file folder</source>
-        <translation>Otwórz folder plików</translation>
+        <translation>Otwórz folder pliku</translation>
     </message>
 </context>
 <context>
@@ -4308,7 +4239,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>PI</source>
-        <translatorcomment>Personal Identity</translatorcomment>
+        <translatorcomment>Personal identity</translatorcomment>
         <translation>Tożsamość osobista</translation>
     </message>
     <message>
@@ -4387,11 +4318,11 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     <name>KxSkinSwitchHtmlBridge</name>
     <message>
         <source>upload</source>
-        <translation>przekazywanie</translation>
+        <translation>Przekaż</translation>
     </message>
     <message>
         <source>(custom)</source>
-        <translation>(niestandardowe)</translation>
+        <translation>(Niestandardowe)</translation>
     </message>
 </context>
 <context>
@@ -4447,7 +4378,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>I already know</source>
-        <translation>Już wiem</translation>
+        <translation>Już to wiem</translation>
     </message>
     <message>
         <source>The layout will take effect after restart or logoff computer</source>
@@ -4507,7 +4438,8 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Resolution</source>
-        <translation>Rozdzielczość</translation>
+        <translatorcomment>Tutaj na 100% jest &quot;Rozwiązanie&quot;, a nie &quot;Rozdzielczość&quot; - błąd w angielskim tłumaczeniu, który jest poprawiony w wersji dla windows</translatorcomment>
+        <translation>Rozwiązanie</translation>
     </message>
     <message>
         <source>Do not report again</source>
@@ -4515,7 +4447,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Checking completed!</source>
-        <translation>Sprawdzanie zakończone!</translation>
+        <translation>Sprawdzanie ukończone!</translation>
     </message>
     <message>
         <source>System Check</source>
@@ -4558,11 +4490,11 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Hide Custom Button in Task Window</source>
-        <translation>Ukryj przycisk niestandardowy w oknie zadania</translation>
+        <translation>Ukryj przycisk niestandardowy w oknie zadań</translation>
     </message>
     <message>
         <source>Show Custom Button in Task Window</source>
-        <translation>Pokaż przycisk niestandardowy w oknie zadania</translation>
+        <translation>Pokaż przycisk niestandardowy w oknie zadań</translation>
     </message>
 </context>
 <context>
@@ -4610,7 +4542,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>browse templates location</source>
-        <translation>przeglądaj lokalizację szablonów</translation>
+        <translation>Przeglądaj lokalizację szablonów</translation>
     </message>
 </context>
 <context>
@@ -4658,7 +4590,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
-        <translation>Używając następującej listy plików można odzyskać poprzedni stan pracy przed nieoczekiwanym zakończeniem.</translation>
+        <translation>Używając następującej listy plików można odzyskać poprzedni stan pracy sprzed nieoczekiwanego zakończenia.</translation>
     </message>
     <message>
         <source>Open Backup Folder</source>
@@ -4674,7 +4606,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translation>Przycisk polecenia</translation>
+        <translation>Przycisk</translation>
     </message>
 </context>
 <context>
@@ -4685,7 +4617,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Some files cannot be deleted. They may be occupied.</source>
-        <translation>Niektóre pliki nie mogą być usunięte. Mogą być zajęte.</translation>
+        <translation>Niektóre pliki nie mogą być usunięte. Mogą one być zajęte.</translation>
     </message>
 </context>
 <context>
@@ -4696,10 +4628,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation variants="yes">
-            <lengthvariant>ClipArt</lengthvariant>
-            <lengthvariant>Obiekt ClipArt</lengthvariant>
-        </translation>
+        <translation>ClipArt</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -4729,7 +4658,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Open...(Ctrl + O)</source>
-        <translation>Otwórz...(Ctrl + )</translation>
+        <translation>Otwórz...(Ctrl + O)</translation>
     </message>
     <message>
         <source>Open...</source>
@@ -4757,10 +4686,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Open Recent File Management dialog box,and remove some or all of the recent file.</source>
-        <translation variants="yes">
-            <lengthvariant>Otwórz okno dialogowe Zarządzanie niedawno używanych plików i usuń niektóre lub wszystkie ostatnio używane pliki.</lengthvariant>
-            <lengthvariant>Otwórz okno dialogowe Zarządzanie ostatnio używanych plików i usuń niektóre lub wszystkie ostatnio używane pliki.</lengthvariant>
-        </translation>
+        <translation>Otwórz okno dialogowe Zarządzanie niedawno używanymi plikami i usuń niektóre lub wszystkie ostatnio używane pliki.</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -4770,14 +4696,9 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
         <source>
 
 modify time: </source>
-        <translation variants="yes">
-            <lengthvariant>
+        <translation>
 
-czas ostatniej modyfikacji: </lengthvariant>
-            <lengthvariant>
-
-zmieniony: </lengthvariant>
-        </translation>
+Godzina modyfikacji: </translation>
     </message>
     <message>
         <source>
@@ -4810,7 +4731,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     </message>
     <message>
         <source>Open...(Ctrl + O)</source>
-        <translation>Otwórz...(Ctrl + )</translation>
+        <translation>Otwórz...(Ctrl + O)</translation>
     </message>
     <message>
         <source>Open...</source>
@@ -4838,10 +4759,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     </message>
     <message>
         <source>Open the recent file management dialog box,and remove some or all of the recent file records.</source>
-        <translation variants="yes">
-            <lengthvariant>Otwórz okno dialogowe zarządzania niedawno używanych plików i usuń niektóre lub wszystkie rekordy ostatnio używanych plików.</lengthvariant>
-            <lengthvariant>Otwórz okno dialogowe zarządzania ostatnio używanych plików i usuń niektóre lub wszystkie rekordy ostatnio używanych plików.</lengthvariant>
-        </translation>
+        <translation>Otwórz okno dialogowe Zarządzanie niedawno używanymi plikami i usuń niektóre lub wszystkie rekordy ostatnio używanych plików.</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -4900,10 +4818,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     <name>KxWidgetColorAndLines</name>
     <message>
         <source>Format AutoShape</source>
-        <translation variants="yes">
-            <lengthvariant>Formatowanie Autokształtu</lengthvariant>
-            <lengthvariant>Formatuj Autokształt</lengthvariant>
-        </translation>
+        <translation>Formatowanie Autokształtu</translation>
     </message>
     <message>
         <source>C&amp;olor:</source>
@@ -5126,10 +5041,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     </message>
     <message>
         <source>Lock &amp;aspect ratio</source>
-        <translation variants="yes">
-            <lengthvariant>Zablokuj &amp;współczynnik proporcji</lengthvariant>
-            <lengthvariant>Blokuj &amp;współczynnik proporcji</lengthvariant>
-        </translation>
+        <translation>Zablokuj &amp;współczynnik proporcji</translation>
     </message>
     <message>
         <source>Res&amp;olution:</source>
@@ -5197,10 +5109,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     </message>
     <message>
         <source>degree, 0, -3600, 3600, 1</source>
-        <translation variants="yes">
-            <lengthvariant>stopni, 0, -3600, 3600, 1</lengthvariant>
-            <lengthvariant>stopień, 0, -3600, 3600, 1</lengthvariant>
-        </translation>
+        <translation>stopień, 0, -3600, 3600, 1</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -5297,7 +5206,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     </message>
     <message>
         <source>PushButton</source>
-        <translation>Przycisk polecenia</translation>
+        <translation>Przycisk</translation>
     </message>
 </context>
 <context>
@@ -5434,10 +5343,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     </message>
     <message>
         <source>Thumb Blue</source>
-        <translation variants="yes">
-            <lengthvariant>Błękit indygowy</lengthvariant>
-            <lengthvariant>Indygo</lengthvariant>
-        </translation>
+        <translation>Błękit indygowy</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -5788,7 +5694,7 @@ Możesz pobrać WPS Office Professional, aby korzystać ze stylu interfejsu 2012
         <source>
 The settings will take effect after restarting WPS Office.</source>
         <translation>
-Ustawienia zaczną obowiązywać po ponownym uruchomieniu WPS Office.</translation>
+Ustawienia zostaną wprowadzone po ponownym uruchomieniu WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -5813,10 +5719,7 @@ Ustawienia zaczną obowiązywać po ponownym uruchomieniu WPS Office.</translati
     <name>aboutDlg</name>
     <message>
         <source>!NO_TRANS!</source>
-        <translation variants="yes">
-            <lengthvariant>WPS</lengthvariant>
-            <lengthvariant>!NO_TRANS!</lengthvariant>
-        </translation>
+        <translation>WPS</translation>
     </message>
     <message>
         <source>Copyright </source>
@@ -5832,10 +5735,7 @@ Ustawienia zaczną obowiązywać po ponownym uruchomieniu WPS Office.</translati
     </message>
     <message>
         <source>Product ID:</source>
-        <translation variants="yes">
-            <lengthvariant>Identyfikator produktu:</lengthvariant>
-            <lengthvariant>ID produktu:</lengthvariant>
-        </translation>
+        <translation>Identyfikator produktu:</translation>
     </message>
     <message>
         <source>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -5866,10 +5766,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     <name>apidefaultDlg</name>
     <message>
         <source>!NO_TRANS!</source>
-        <translation variants="yes">
-            <lengthvariant>WPS</lengthvariant>
-            <lengthvariant>!NO_TRANS!</lengthvariant>
-        </translation>
+        <translation>WPS</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -5884,10 +5781,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     <name>compressPictures</name>
     <message>
         <source>Compress Pictures</source>
-        <translation variants="yes">
-            <lengthvariant>Kompresowanie obrazów</lengthvariant>
-            <lengthvariant>Kompresuj obrazy</lengthvariant>
-        </translation>
+        <translation>Kompresowanie obrazów</translation>
     </message>
     <message>
         <source>Apply to</source>
@@ -5899,14 +5793,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>Change resolution</source>
-        <translation variants="yes">
-            <lengthvariant>Zmienianie rozdzielczości</lengthvariant>
-            <lengthvariant>Zmień rozdzielczość</lengthvariant>
-        </translation>
+        <translation>Zmień rozdzielczość</translation>
     </message>
     <message>
         <source>&amp;Web/Screen</source>
-        <translation>&amp;Sieć Web/ekran</translation>
+        <translation>&amp;Sieć Web/Ekran</translation>
     </message>
     <message>
         <source>&amp;Print</source>
@@ -5922,17 +5813,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>&amp;Compress pictures</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Kompresuj obrazy</lengthvariant>
-            <lengthvariant>&amp;Kompresowanie obrazów</lengthvariant>
-        </translation>
+        <translation>&amp;Kompresuj obrazy</translation>
     </message>
     <message>
         <source>D&amp;elete cropped areas of pictures</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Usuń przycięte części obrazu</lengthvariant>
-            <lengthvariant>&amp;Usuń przycięte części obrazów</lengthvariant>
-        </translation>
+        <translation>&amp;Usuń przycięte części obrazów</translation>
     </message>
     <message>
         <source>&amp;Selected pictures</source>
@@ -6074,7 +5959,7 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Set Spell Check Language</source>
-        <translation>Ustaw język Sprawdzania pisowni</translation>
+        <translation>Ustawianie języka sprawdzania pisowni</translation>
     </message>
     <message>
         <source>Available Languages:</source>
@@ -6082,10 +5967,7 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Spell Check engine will use the chosen language for checking automatically.</source>
-        <translation variants="yes">
-            <lengthvariant>Silnik Sprawdzania pisowni będzie używać wybranego języka do automatycznego sprawdzania.</lengthvariant>
-            <lengthvariant>Mechanizm Sprawdzania pisowni będzie używać wybranego języka do automatycznego sprawdzania.</lengthvariant>
-        </translation>
+        <translation>Aparat Sprawdzania pisowni będzie używać wybranego języka do automatycznego sprawdzania.</translation>
     </message>
     <message>
         <source>Uninstall</source>
@@ -6108,10 +5990,7 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation variants="yes">
-            <lengthvariant>Nieznany</lengthvariant>
-            <lengthvariant>Nieznane</lengthvariant>
-        </translation>
+        <translation>Nieznane</translation>
     </message>
     <message>
         <source>&amp;As:</source>
@@ -6230,10 +6109,7 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>&amp;Manager:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Menedżer:</lengthvariant>
-            <lengthvariant>&amp;Kierownik:</lengthvariant>
-        </translation>
+        <translation>&amp;Menedżer:</translation>
     </message>
     <message>
         <source>&amp;Author:</source>
@@ -6265,10 +6141,7 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Editor</source>
-        <translation variants="yes">
-            <lengthvariant>Redaktor</lengthvariant>
-            <lengthvariant>Edytor</lengthvariant>
-        </translation>
+        <translation>Redaktor</translation>
     </message>
     <message>
         <source>Group</source>
@@ -6368,10 +6241,7 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Checker</source>
-        <translation variants="yes">
-            <lengthvariant>Kontroler</lengthvariant>
-            <lengthvariant>Weryfikator</lengthvariant>
-        </translation>
+        <translation>Weryfikator</translation>
     </message>
     <message>
         <source>Completion date</source>
@@ -6386,10 +6256,7 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>A new version is detected. Do you want to download the updated one?</source>
-        <translation variants="yes">
-            <lengthvariant>Wykryto nową wersję. Czy chcesz pobrać zaktualizowaną wersję?</lengthvariant>
-            <lengthvariant>Wykryto nową wersję. Czy chcesz pobrać aktualizację?</lengthvariant>
-        </translation>
+        <translation>Wykryto nową wersję. Czy chcesz pobrać zaktualizowaną wersję?</translation>
     </message>
     <message>
         <source>Ignore it</source>

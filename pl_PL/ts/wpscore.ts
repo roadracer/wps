@@ -511,10 +511,7 @@
     <message>
         <source>Insert WordArt</source>
         <comment>TxVersion_InsertTextEffect</comment>
-        <translation variants="yes">
-            <lengthvariant>Wstaw WordArt</lengthvariant>
-            <lengthvariant>Wstaw obiekt WordArt</lengthvariant>
-        </translation>
+        <translation>Wstaw WordArt</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -1341,12 +1338,8 @@ Spróbuj wykonać jedną lub więcej z następujących czynności:
         <source>%s already exists.
 Do you want to replace it?</source>
         <comment>_TxMailMerge_FileExist</comment>
-        <translation variants="yes">
-            <lengthvariant>%s istnieje.
-Czy chcesz go zastąpić?</lengthvariant>
-            <lengthvariant>%s już istnieje.
-Czy chcesz go zamienić?</lengthvariant>
-        </translation>
+        <translation>%s już istnieje.
+Czy chcesz go zamienić?</translation>
     </message>
     <message>
         <source>The data source does not contain any visible table.</source>
@@ -2979,10 +2972,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Do you want to save the changes you made to %s?</source>
         <comment>_TxDocument_SaveChangeMsg</comment>
-        <translation variants="yes">
-            <lengthvariant>Czy chcesz zapisać zmiany dokonane w %s?</lengthvariant>
-            <lengthvariant>Czy chcesz zapisać zmiany wprowadzone do %s?</lengthvariant>
-        </translation>
+        <translation>Czy chcesz zapisać zmiany wprowadzone do %s?</translation>
     </message>
     <message>
         <source>These changes you made will affect the common template %s. Do you want to save them?</source>
@@ -3057,12 +3047,8 @@ Please make sure the file is not locked by another user, or the target disk is n
         <source>Try to save again? 
 (%s)</source>
         <comment>_TxDocument_SaveRetry</comment>
-        <translation variants="yes">
-            <lengthvariant>Ponowić próbę zapisania? 
-(%s)</lengthvariant>
-            <lengthvariant>Spróbować ponownie zapisać? 
-(%s)</lengthvariant>
-        </translation>
+        <translation>Ponowić próbę zapisania? 
+(%s)</translation>
     </message>
     <message>
         <source>The document will be save as &quot;%s&quot; format. Do you want to continue?
@@ -3086,7 +3072,7 @@ Please make sure the file is not locked by another user, or the target disk is n
         <source>This file has been opened as read-only before. Do you still want to open it as read-only ?
 (%s)</source>
         <comment>_TxDocument_SaveReadOnlyAgain</comment>
-        <translation>Ten plik został wcześniej otwarty w trybie tylko do odczytu. Czy nadal chcesz otworzyć go w trybie tylko do odczytu ?
+        <translation>Ten plik został wcześniej otwarty w trybie tylko do odczytu. Czy nadal chcesz otworzyć go w trybie tylko do odczytu?
 (%s)</translation>
     </message>
     <message>
@@ -3253,10 +3239,10 @@ To save a file with these features, click No, and then choose a macro-enabled fi
 To continue saving as a macro-free workbook, click Yes.
 </source>
         <comment>_TxDocument_SaveMacroWarning</comment>
-        <translation>W skoroszytach bez obsługi makr nie można zapisać następujących funkcji:
+        <translation>W skoroszytach bez obsługi makr nie można zapisywać następujących funkcji:
  · projekt VB
 Aby zapisać plik z tymi funkcjami, kliknij przycisk Nie, a następnie wybierz typ pliku z włączoną obsługą makr na liście Typ pliku.
-Aby kontynuować zapisywanie w skoroszycie bez obsługi makr, kliknij przycisk Tak.</translation>
+Aby kontynuować zapisywanie skoroszytu jako pliku bez obsługi makr, kliknij przycisk Tak.</translation>
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.wpsx; *.doc; *.dot; *.rtf; *.docx)</source>
@@ -3293,12 +3279,8 @@ Proszę wypróbuj jedną z następujących czynności:
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
-        <translation variants="yes">
-            <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog dla kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog dla kopii zapasowych.
-Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
-            <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowych.
-Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
-        </translation>
+        <translation>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowych.
+Ta kopia zapasowa zostanie zapisana do(%s)</translation>
     </message>
 </context>
 <context>
@@ -3441,10 +3423,7 @@ Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
     <message>
         <source>Cannot check spelling in the Original review.</source>
         <comment>wps_sCannotCheckSpellingOnOrgRevision</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można sprawdzić pisowni w oryginalnym przeglądzie.</lengthvariant>
-            <lengthvariant>Nie można sprawdzić pisowni oryginalnej poprawki.</lengthvariant>
-        </translation>
+        <translation>Nie można sprawdzić pisowni w oryginalnym przeglądzie.</translation>
     </message>
     <message>
         <source>WPS Writer cannot replace the found item with text containing a break.</source>
@@ -3629,7 +3608,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>The font &apos;%s&apos; is not available in your system. Do you want to use it anyway?</source>
         <comment>wps_sErrorFont</comment>
-        <translation>Czcionka &apos;%s&apos; jest niedostępna w tym systemie. Czy chcesz mimo tego zastosować tę czcionkę?</translation>
+        <translation>Czcionka &apos;%s&apos; nie jest dostępna w systemie. Czy chcesz mimo tego zastosować tę czcionkę?</translation>
     </message>
     <message>
         <source>%s is not a valid special character for the Find What box.</source>
@@ -3799,10 +3778,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Input Permission Password.</source>
         <comment>wps_sInputMasterPassword</comment>
-        <translation variants="yes">
-            <lengthvariant>Wprowadź hasło uprawnienia.</lengthvariant>
-            <lengthvariant>Wprowadź hasło dla autoryzacji.</lengthvariant>
-        </translation>
+        <translation>Wprowadź hasło uprawnienia.</translation>
     </message>
     <message>
         <source>Integer is not valid.</source>
@@ -4586,7 +4562,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
         <comment>wps_sVBAMacroSecurityError</comment>
-        <translation>Program WPS Writer napotkał błąd podczas dostosowywania zabezpieczeń makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane.</translation>
+        <translation>Program WPS Writer napotkał błąd podczas dostosowywania bezpieczeństwa makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane.</translation>
     </message>
     <message>
         <source>Web Page</source>
@@ -4641,10 +4617,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>&amp;Outside</source>
         <comment>wps_sOutside</comment>
-        <translation variants="yes">
-            <lengthvariant>&amp;Zewnętrzny</lengthvariant>
-            <lengthvariant>Na &amp;zewnątrz</lengthvariant>
-        </translation>
+        <translation>Na &amp;zewnątrz</translation>
     </message>
     <message>
         <source>Section %d</source>
@@ -4674,10 +4647,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>The maximum length value must be equal to or greater than the length of the default text,%d characters.</source>
         <comment>wps_sMaxLenError</comment>
-        <translation variants="yes">
-            <lengthvariant>Maksymalna długość musi być równa lub większa od długości tekstu domyślnego,%d znaków.</lengthvariant>
-            <lengthvariant>Maksymalna długość musi być równa lub większa od długości tekstu domyślnego. Liczba znaków: %d.</lengthvariant>
-        </translation>
+        <translation>Maksymalna długość musi być równa lub większa od długości tekstu domyślnego,%d znaków.</translation>
     </message>
     <message>
         <source>The bookmark name is not valid.</source>
@@ -4965,10 +4935,7 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>Input a correct number.</source>
         <comment>wps_sInsertNumberWarning</comment>
-        <translation variants="yes">
-            <lengthvariant>Wprowadź prawidłowy numer.</lengthvariant>
-            <lengthvariant>Wprowadź prawidłową liczbę.</lengthvariant>
-        </translation>
+        <translation>Wprowadź prawidłową liczbę.</translation>
     </message>
     <message>
         <source>The Find What text contains a Pattern Match expression which is not valid.</source>
@@ -5161,10 +5128,7 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>The form tip cannot be longer than 40 characters.</source>
         <comment>wps_sTextInputTip_Erro</comment>
-        <translation variants="yes">
-            <lengthvariant>Podpowiedź formularza nie może być dłuższa niż 40 znaków.</lengthvariant>
-            <lengthvariant>Porada formularza nie może być dłuższa niż 40 znaków.</lengthvariant>
-        </translation>
+        <translation>Porada formularza nie może być dłuższa niż 40 znaków.</translation>
     </message>
     <message>
         <source>(none)
@@ -5758,8 +5722,7 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>Set Tabs Formatting</source>
         <comment>TxVersion_Tabs</comment>
-        <translatorcomment>Ustaw formatowanie tabulatorów</translatorcomment>
-        <translation>Ustaw formatowanie kart</translation>
+        <translation>Ustaw formatowanie tabulatorów</translation>
     </message>
     <message>
         <source>Drop Cap</source>
@@ -5789,10 +5752,7 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>Change Case</source>
         <comment>TxVersion_ChangeCase</comment>
-        <translation variants="yes">
-            <lengthvariant>Zmień wielkość liter</lengthvariant>
-            <lengthvariant>Zmienianie wielkości liter</lengthvariant>
-        </translation>
+        <translation>Zmień wielkość liter</translation>
     </message>
     <message>
         <source>Bullets/Numbering</source>
@@ -5812,7 +5772,7 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>Genko Setting</source>
         <comment>TxVersion_SetGenkoSetting</comment>
-        <translation>Ustawienia Genko</translation>
+        <translation>Ustawienie Genko</translation>
     </message>
     <message>
         <source>Insert Break</source>
@@ -5908,10 +5868,7 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>AutoFit to Window</source>
         <comment>TxVersion_AutoFitWindow</comment>
-        <translation variants="yes">
-            <lengthvariant>Automatycznie dopasuj do okna</lengthvariant>
-            <lengthvariant>Autodopasowanie do okna</lengthvariant>
-        </translation>
+        <translation>Autodopasowanie do okna</translation>
     </message>
     <message>
         <source>Fixed Column Width</source>
@@ -6104,7 +6061,7 @@ Aby dodać nowe pole tekstowe do dokumentu, kliknij pozycję Pole tekstowe w men
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
         <comment>TxMessage_NoHelp</comment>
-        <translation>Nie znaleziono plików pomocy lub w plikach pomocy występuje błąd.</translation>
+        <translation>Nie znaleziono plików pomocy lub w plikach pomocy wystąpił błąd.</translation>
     </message>
     <message>
         <source>New Style</source>
@@ -6334,58 +6291,37 @@ dokumentu</translation>
     <message>
         <source>Mail Merge Insert Fields</source>
         <comment>TxVersion_InsertMergeFields</comment>
-        <translation variants="yes">
-            <lengthvariant>Korespondencja seryjna, Wstaw pola</lengthvariant>
-            <lengthvariant>Wstaw pola korespondencji seryjnej</lengthvariant>
-        </translation>
+        <translation>Wstaw pola korespondencji seryjnej</translation>
     </message>
     <message>
         <source>Mail Merge View Data</source>
         <comment>TxVersion_ViewMergedData</comment>
-        <translation variants="yes">
-            <lengthvariant>Korespondencja seryjna, Wyświetl dane</lengthvariant>
-            <lengthvariant>Wyświetl dane korespondencji seryjnej</lengthvariant>
-        </translation>
+        <translation>Wyświetl dane korespondencji seryjnej</translation>
     </message>
     <message>
         <source>Mail Merge Next Record</source>
         <comment>TxVersion_NextRecord</comment>
-        <translation variants="yes">
-            <lengthvariant>Korespondencja seryjna, Następny rekord</lengthvariant>
-            <lengthvariant>Następny rekord korespondencji seryjnej</lengthvariant>
-        </translation>
+        <translation>Następny rekord korespondencji seryjnej</translation>
     </message>
     <message>
         <source>Mail Merge Previous Record</source>
         <comment>TxVersion_PreviousRecord</comment>
-        <translation variants="yes">
-            <lengthvariant>Korespondencja seryjna, Poprzedni rekord</lengthvariant>
-            <lengthvariant>Poprzedni rekord korespondencji seryjnej</lengthvariant>
-        </translation>
+        <translation>Poprzedni rekord korespondencji seryjnej</translation>
     </message>
     <message>
         <source>Mail Merge First Record</source>
         <comment>TxVersion_FirstRecord</comment>
-        <translation variants="yes">
-            <lengthvariant>Korespondencja seryjna, Pierwszy rekord</lengthvariant>
-            <lengthvariant>Pierwszy rekord korespondencji seryjnej</lengthvariant>
-        </translation>
+        <translation>Pierwszy rekord korespondencji seryjnej</translation>
     </message>
     <message>
         <source>Mail Merge Last Record</source>
         <comment>TxVersion_LastRecord</comment>
-        <translation variants="yes">
-            <lengthvariant>Korespondencja seryjna, Ostatni rekord</lengthvariant>
-            <lengthvariant>Ostatni rekord korespondencji seryjnej</lengthvariant>
-        </translation>
+        <translation>Ostatni rekord korespondencji seryjnej</translation>
     </message>
     <message>
         <source>Mail Merge Goto Record</source>
         <comment>TxVersion_GotoRecord</comment>
-        <translation variants="yes">
-            <lengthvariant>Korespondencja seryjna, Przejdź do rekordu</lengthvariant>
-            <lengthvariant>Przejdź do rekordu korespondencji seryjnej</lengthvariant>
-        </translation>
+        <translation>Przejdź do rekordu korespondencji seryjnej</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -6842,10 +6778,7 @@ pisowni</translation>
     <message>
         <source>AutoFit to Content</source>
         <comment>TxVersion_AutoFitContent</comment>
-        <translation variants="yes">
-            <lengthvariant>Autodopasowanie do zawartości</lengthvariant>
-            <lengthvariant>Automatycznie dopasuj do zawartości</lengthvariant>
-        </translation>
+        <translation>Autodopasowanie do zawartości</translation>
     </message>
     <message>
         <source>WPS Writer 2007/2010 Template(*.wptx)</source>

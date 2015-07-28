@@ -76,7 +76,7 @@
     <name>ColumnWidthSelector</name>
     <message>
         <source>Column Width Selector</source>
-        <translation>Selektor szerokości kolumn</translation>
+        <translation>Wybór szerokości kolumny</translation>
     </message>
 </context>
 <context>
@@ -130,7 +130,7 @@
     </message>
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
-        <translation>Możesz wybrać jeden z trzech sposobów, aby połączyć się z wybranym źródłem danych.</translation>
+        <translation>Możesz wybrać z trzech różnych sposobów, aby podłączyć się do wybranego źródła danych.</translation>
     </message>
 </context>
 <context>
@@ -505,7 +505,7 @@ condition is true:</source>
     </message>
     <message>
         <source>(Select all)</source>
-        <translation>(Wybierz wszystkie)</translation>
+        <translation>(Zaznacz wszystko)</translation>
     </message>
     <message>
         <source>Add current selection to filter</source>
@@ -764,10 +764,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Color Sort</source>
-        <translation variants="yes">
-            <lengthvariant>Kolor sortowania</lengthvariant>
-            <lengthvariant>Sortuj według koloru</lengthvariant>
-        </translation>
+        <translation>Sortuj według koloru</translation>
     </message>
     <message>
         <source>Filter by values</source>
@@ -779,11 +776,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Number Filter</source>
-        <translation>Filtr numeru</translation>
+        <translation>Filtr liczb</translation>
     </message>
     <message>
         <source>Number Filter(F)</source>
-        <translation>Filtr numeru(F)</translation>
+        <translation>Filtr numeru (&amp;F)</translation>
     </message>
     <message>
         <source>Date Filter</source>
@@ -791,7 +788,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Date Filter(F)</source>
-        <translation>Filtr daty(F)</translation>
+        <translation>Filtr daty (&amp;F)</translation>
     </message>
     <message>
         <source>Text Filter</source>
@@ -799,7 +796,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Text Filter(F)</source>
-        <translation>Filtr tekstu(F)</translation>
+        <translation>Filtr tekstu (&amp;F)</translation>
     </message>
     <message>
         <source>Not Equal To</source>
@@ -823,11 +820,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Begin With</source>
-        <translation>Zaczyna się</translation>
+        <translation>Zaczyna się od</translation>
     </message>
     <message>
         <source>End With</source>
-        <translation>Kończy się</translation>
+        <translation>Kończy się na</translation>
     </message>
     <message>
         <source>Does Not Contain</source>
@@ -839,15 +836,15 @@ condition is true:</source>
     </message>
     <message>
         <source>Ascending(S)</source>
-        <translation>Rosnąco(S)</translation>
+        <translation>Rosnąco (&amp;R)</translation>
     </message>
     <message>
         <source>Descending(O)</source>
-        <translation>Malejąco(O)</translation>
+        <translation>Malejąco (&amp;M)</translation>
     </message>
     <message>
         <source>Clear(C)</source>
-        <translation>Wyczyść(C)</translation>
+        <translation>Wyczyść (&amp;W)</translation>
     </message>
     <message>
         <source>Filter by Value</source>
@@ -898,10 +895,7 @@ condition is true:</source>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
-        <translation variants="yes">
-            <lengthvariant>Podany tekst nie jest prawidłowym odwołaniem ani zdefiniowaną nazwą.</lengthvariant>
-            <lengthvariant>Wprowadzony tekst nie jest prawidłowym odwołaniem lub zdefiniowaną nazwą.</lengthvariant>
-        </translation>
+        <translation>Wprowadzony tekst nie jest prawidłowym odwołaniem lub zdefiniowaną nazwą.</translation>
     </message>
     <message>
         <source>Data range is not valid.</source>
@@ -1025,7 +1019,7 @@ condition is true:</source>
     <name>KxAlignWidget</name>
     <message>
         <source>Illegal integer text.</source>
-        <translation>Niedozwolony tekst wartości całkowitych.</translation>
+        <translation>Niedozwolona wartość całkowita tekstu.</translation>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
@@ -1416,7 +1410,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Highlight-Value</source>
-        <translation>Wyróżnienie - wartość</translation>
+        <translation>Wyróżnienie - Wartość</translation>
     </message>
     <message>
         <source>Equal to</source>
@@ -1484,7 +1478,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Highlight-Text</source>
-        <translation>Wyróżnienie - tekst</translation>
+        <translation>Wyróżnienie - Tekst</translation>
     </message>
     <message>
         <source>Contain</source>
@@ -1496,15 +1490,15 @@ condition is true:</source>
     </message>
     <message>
         <source>Begin with</source>
-        <translation>Zaczyna się</translation>
+        <translation>Zaczyna się od</translation>
     </message>
     <message>
         <source>End with</source>
-        <translation>Kończy się</translation>
+        <translation>Kończy się na</translation>
     </message>
     <message>
         <source>Highlight-Date</source>
-        <translation>Wyróżnienie - data</translation>
+        <translation>Wyróżnienie - Data</translation>
     </message>
     <message>
         <source>A Date Occurring</source>
@@ -1556,7 +1550,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Highlight-Special Value</source>
-        <translation>Wyróżnienie - wartość specjalna</translation>
+        <translation>Wyróżnienie - Wartość specjalna</translation>
     </message>
     <message>
         <source>Empty Cell</source>
@@ -1689,10 +1683,7 @@ condition is true:</source>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
-        <translation variants="yes">
-            <lengthvariant>Podany tekst nie jest prawidłowym odwołaniem ani zdefiniowaną nazwą.</lengthvariant>
-            <lengthvariant>Wprowadzony tekst nie jest prawidłowym odwołaniem lub zdefiniowaną nazwą.</lengthvariant>
-        </translation>
+        <translation>Wprowadzony tekst nie jest prawidłowym odwołaniem lub zdefiniowaną nazwą.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -1737,10 +1728,7 @@ condition is true:</source>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range and not in a hidden sheet.</source>
-        <translation variants="yes">
-            <lengthvariant>Pozycja, którą wybrałeś, aby umieścić tabelę przestawną jest nieprawidłowa. Proszę upewnij się, że zakres odwołania jest prawidłowy i nie znajduje się w ukrytym arkuszu.</lengthvariant>
-            <lengthvariant>Położenie, które wybrałeś, aby umieścić tabelę przestawną jest nieprawidłowe. Proszę upewnij się, że zakres odwołania jest prawidłowy i nie znajduje się w ukrytym arkuszu.</lengthvariant>
-        </translation>
+        <translation>Położenie, które wybrałeś, aby umieścić tabelę przestawną jest nieprawidłowe. Proszę upewnij się, że zakres odwołania jest prawidłowy i nie znajduje się w ukrytym arkuszu.</translation>
     </message>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
@@ -2367,11 +2355,11 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     <name>KxDlgCreateNames</name>
     <message>
         <source>Create Names</source>
-        <translation>Tworzenie nazw</translation>
+        <translation>Utwórz nazwę</translation>
     </message>
     <message>
         <source>Create names in</source>
-        <translation>Utwórz nazwy w</translation>
+        <translation>Utwórz nazwę w</translation>
     </message>
     <message>
         <source>&amp;Top row</source>
@@ -2418,7 +2406,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Use another &amp;pivotTable:</source>
-        <translation>Użyj innej &amp;tabeli przestawnej:</translation>
+        <translation>Użyj innej &amp;Tabeli przestawnej:</translation>
     </message>
     <message>
         <source>Choose where you want the pivotTable to be placed</source>
@@ -2732,7 +2720,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Option...</source>
-        <translation>&amp;Opcja...</translation>
+        <translation>&amp;Opcje...</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -3397,10 +3385,7 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgHeaderFooterWidget</name>
     <message>
         <source>input</source>
-        <translation variants="yes">
-            <lengthvariant>dane wejściowe</lengthvariant>
-            <lengthvariant>wejście</lengthvariant>
-        </translation>
+        <translation>dane wejściowe</translation>
     </message>
     <message>
         <source>To format text: select the text, then click the font button.</source>
@@ -4263,10 +4248,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>GroupBox</source>
-        <translation variants="yes">
-            <lengthvariant>Pole grupy</lengthvariant>
-            <lengthvariant>groupBox</lengthvariant>
-        </translation>
+        <translation>Pole grupy</translation>
     </message>
     <message>
         <source>Ne&amp;w word:</source>
@@ -4863,10 +4845,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Insert blank line after each item</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Wstaw pusty wiersz po każdym elemencie</lengthvariant>
-            <lengthvariant>&amp;Wstaw pustą linię po każdym elemencie</lengthvariant>
-        </translation>
+        <translation>&amp;Wstaw pusty wiersz po każdym elemencie</translation>
     </message>
     <message>
         <source>Insert &amp;page break after each item</source>
@@ -5248,10 +5227,7 @@ przed udostępnianiem skoroszytu.</translation>
     <name>KxDlgRemoveDuplicates</name>
     <message>
         <source>Remove Duplicates</source>
-        <translation variants="yes">
-            <lengthvariant>Usuwanie duplikatów</lengthvariant>
-            <lengthvariant>Usuń duplikaty</lengthvariant>
-        </translation>
+        <translation>Usuwanie duplikatów</translation>
     </message>
     <message>
         <source>Please select one or more columns that contain duplicates.</source>
@@ -5269,7 +5245,7 @@ przed udostępnianiem skoroszytu.</translation>
         <source>%d duplicates are found;
 Only %d unique value can be keep after delete.</source>
         <translation>znaleziono %d duplikatów;
-Tylko unikatowa wartość %d może być zachowana po usunięciu.</translation>
+Tylko wartość unikatowa %d może być zachowana po usunięciu.</translation>
     </message>
     <message>
         <source>&amp;Remove Duplicates</source>
@@ -5307,10 +5283,7 @@ Tylko unikatowa wartość %d może być zachowana po usunięciu.</translation>
     <name>KxDlgRepeatWord</name>
     <message>
         <source>input</source>
-        <translation variants="yes">
-            <lengthvariant>dane wejściowe</lengthvariant>
-            <lengthvariant>wejście</lengthvariant>
-        </translation>
+        <translation>dane wejściowe</translation>
     </message>
     <message>
         <source>It compares the contents by rows after clicking OK.</source>
@@ -5321,11 +5294,7 @@ Tylko unikatowa wartość %d może być zachowana po usunięciu.</translation>
     <name>KxDlgResolveConflicts</name>
     <message>
         <source>Resolve Conflicts</source>
-        <translation variants="yes">
-            <lengthvariant>Rozwiązywanie konfliktów</lengthvariant>
-            <lengthvariant>Rozwiąż konflikty</lengthvariant>
-            <lengthvariant>Usuń konflikty</lengthvariant>
-        </translation>
+        <translation>Rozwiązywanie konfliktów</translation>
     </message>
     <message>
         <source>YourChange</source>
@@ -5349,11 +5318,11 @@ Tylko unikatowa wartość %d może być zachowana po usunięciu.</translation>
     </message>
     <message>
         <source>Accept All for Current User</source>
-        <translation>Zaakceptuj wszystkie dla bieżącego użytkownika</translation>
+        <translation>Zaakceptuj wszystkie bieżącego użytkownika</translation>
     </message>
     <message>
         <source>Accept All Other Users</source>
-        <translation>Zaakceptuj wszystkich innych użytkowników</translation>
+        <translation>Zaakceptuj wszystkie innych użytkowników</translation>
     </message>
 </context>
 <context>
@@ -5376,17 +5345,14 @@ Tylko unikatowa wartość %d może być zachowana po usunięciu.</translation>
     </message>
     <message>
         <source>Other users may have committed some changes which cannot be identified by WPS Spreadsheets. Click Continue will save the file and discard the changes, while click Save As will save a copy of the current file.</source>
-        <translation>Inni użytkownicy mogli zatwierdzić kilka zmian, które nie mogą być zidentyfikowane przez program WPS Spreadsheets. Kliknięcie &quot;Kontynuuj&quot; pozwoli zapisać plik i odrzuć zmiany, natomiast kliknięcie &quot;Zapisz jako&quot; spowoduje zapisanie kopii bieżącego pliku.</translation>
+        <translation>Inni użytkownicy mogli dodać kilku zmian, które nie mogą być zidentyfikowane przez program WPS Spreadsheets. Kliknięcie przycisku Kontynuuj pozwoli zapisać plik i odrzuć zmiany, natomiast kliknięcie przycisku Zapisz jako spowoduje zapisanie kopii bieżącego pliku.</translation>
     </message>
 </context>
 <context>
     <name>KxDlgRevisionHighlightChanges</name>
     <message>
         <source>Highlight Changes</source>
-        <translation variants="yes">
-            <lengthvariant>Wyróżnianie zmian</lengthvariant>
-            <lengthvariant>Wyróżnij zmiany</lengthvariant>
-        </translation>
+        <translation>Wyróżnianie zmian</translation>
     </message>
     <message>
         <source>&amp;Show track changes description.</source>
@@ -5398,10 +5364,7 @@ Tylko unikatowa wartość %d może być zachowana po usunięciu.</translation>
     </message>
     <message>
         <source>When:</source>
-        <translation variants="yes">
-            <lengthvariant>Kiedy:</lengthvariant>
-            <lengthvariant>Czas:</lengthvariant>
-        </translation>
+        <translation>Kiedy:</translation>
     </message>
     <message>
         <source>Since I last saved</source>
@@ -5421,10 +5384,7 @@ Tylko unikatowa wartość %d może być zachowana po usunięciu.</translation>
     </message>
     <message>
         <source>Who:</source>
-        <translation variants="yes">
-            <lengthvariant>Kto:</lengthvariant>
-            <lengthvariant>Przez kogo:</lengthvariant>
-        </translation>
+        <translation>Kto:</translation>
     </message>
     <message>
         <source>Where:</source>
@@ -5435,10 +5395,7 @@ Tylko unikatowa wartość %d może być zachowana po usunięciu.</translation>
     <name>KxDlgScreenTip</name>
     <message>
         <source>Hyperlink ScreenTip</source>
-        <translation variants="yes">
-            <lengthvariant>Etykietka ekranowa hiperłącza</lengthvariant>
-            <lengthvariant>Etykietka ekranowa dla hiperłącza</lengthvariant>
-        </translation>
+        <translation>Etykietka ekranowa hiperłącza</translation>
     </message>
     <message>
         <source>Screen&amp;Tip text:</source>
@@ -5453,17 +5410,11 @@ Tylko unikatowa wartość %d może być zachowana po usunięciu.</translation>
     <name>KxDlgSeries</name>
     <message>
         <source>Series</source>
-        <translation variants="yes">
-            <lengthvariant>Serie</lengthvariant>
-            <lengthvariant>Seria</lengthvariant>
-        </translation>
+        <translation>Seria</translation>
     </message>
     <message>
         <source>Series in</source>
-        <translation variants="yes">
-            <lengthvariant>Serie w</lengthvariant>
-            <lengthvariant>Seria w</lengthvariant>
-        </translation>
+        <translation>Seria w</translation>
     </message>
     <message>
         <source>&amp;Rows</source>
@@ -5507,10 +5458,7 @@ Tylko unikatowa wartość %d może być zachowana po usunięciu.</translation>
     </message>
     <message>
         <source>&amp;Weekday</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Dzień roboczy</lengthvariant>
-            <lengthvariant>&amp;Dzień tygodnia</lengthvariant>
-        </translation>
+        <translation>&amp;Dzień tygodnia</translation>
     </message>
     <message>
         <source>&amp;Month</source>
@@ -5559,10 +5507,7 @@ Tylko unikatowa wartość %d może być zachowana po usunięciu.</translation>
     <name>KxDlgShareWorkbook</name>
     <message>
         <source>Share Workbook</source>
-        <translation variants="yes">
-            <lengthvariant>Udostępnianie skoroszytu</lengthvariant>
-            <lengthvariant>Udostępnij skoroszyt</lengthvariant>
-        </translation>
+        <translation>Udostępnianie skoroszytu</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -5587,10 +5532,7 @@ Pozwala to również scalać skoroszyty.</translation>
     <name>KxDlgSort</name>
     <message>
         <source>Sort</source>
-        <translation variants="yes">
-            <lengthvariant>Sortowanie</lengthvariant>
-            <lengthvariant>Sortuj</lengthvariant>
-        </translation>
+        <translation>Sortowanie</translation>
     </message>
     <message>
         <source>Sort by</source>
@@ -5606,10 +5548,7 @@ Pozwala to również scalać skoroszyty.</translation>
     </message>
     <message>
         <source>Then by</source>
-        <translation variants="yes">
-            <lengthvariant>Następnie według</lengthvariant>
-            <lengthvariant>Następnie przez</lengthvariant>
-        </translation>
+        <translation>Następnie według</translation>
     </message>
     <message>
         <source>As&amp;cending</source>
@@ -5621,10 +5560,7 @@ Pozwala to również scalać skoroszyty.</translation>
     </message>
     <message>
         <source>Then by </source>
-        <translation variants="yes">
-            <lengthvariant>Następnie według </lengthvariant>
-            <lengthvariant>Następnie przez </lengthvariant>
-        </translation>
+        <translation>Następnie według </translation>
     </message>
     <message>
         <source>Ascend&amp;ing</source>
@@ -5640,7 +5576,7 @@ Pozwala to również scalać skoroszyty.</translation>
     </message>
     <message>
         <source>Header &amp;row</source>
-        <translation>Ma &amp;wiersz nagłówka</translation>
+        <translation>&amp;Wiersz nagłówka</translation>
     </message>
     <message>
         <source>No header ro&amp;w</source>
@@ -5663,7 +5599,7 @@ Pozwala to również scalać skoroszyty.</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation>Uwzględnij wielkość &amp;liter</translation>
+        <translation>&amp;Uwzględnij wielkość liter</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -5746,7 +5682,7 @@ Pozwala to również scalać skoroszyty.</translation>
     </message>
     <message>
         <source>&amp;Set Spell Check Language</source>
-        <translation>&amp;Ustaw język Sprawdzania pisowni</translation>
+        <translation>&amp;Ustaw język sprawdzania pisowni</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
@@ -5781,10 +5717,7 @@ Pozwala to również scalać skoroszyty.</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation variants="yes">
-            <lengthvariant>Obramowanie:</lengthvariant>
-            <lengthvariant>Krawędź:</lengthvariant>
-        </translation>
+        <translation>Obramowanie:</translation>
     </message>
     <message>
         <source>Patterns:</source>
@@ -5816,10 +5749,7 @@ Pozwala to również scalać skoroszyty.</translation>
     </message>
     <message>
         <source>M&amp;erge...</source>
-        <translation variants="yes">
-            <lengthvariant>S&amp;cal...</lengthvariant>
-            <lengthvariant>S&amp;calanie...</lengthvariant>
-        </translation>
+        <translation>S&amp;cal...</translation>
     </message>
 </context>
 <context>
@@ -6175,10 +6105,7 @@ Jeśli tak jest, wybierz przycisk Dalej lub wybierz typ najlepiej opisujący Two
     <name>KxDlgUnhide</name>
     <message>
         <source>Unhide</source>
-        <translation variants="yes">
-            <lengthvariant>Odkryj</lengthvariant>
-            <lengthvariant>Odkrywanie</lengthvariant>
-        </translation>
+        <translation>Odkrywanie</translation>
     </message>
     <message>
         <source>&amp;Unhide sheet:</source>
@@ -6204,7 +6131,7 @@ Jeśli tak jest, wybierz przycisk Dalej lub wybierz typ najlepiej opisujący Two
     <name>KxDlgUnprotectSheet</name>
     <message>
         <source>Unprotect Sheet</source>
-        <translation>Nie chroń arkusza</translation>
+        <translation>Niechronienie arkusza</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
@@ -6227,7 +6154,7 @@ Jeśli tak jest, wybierz przycisk Dalej lub wybierz typ najlepiej opisujący Two
     </message>
     <message>
         <source>&amp;Allow:</source>
-        <translation>&amp;Zezwalaj:</translation>
+        <translation>&amp;Dozwolone:</translation>
     </message>
     <message>
         <source>Any value</source>
@@ -6263,7 +6190,7 @@ Jeśli tak jest, wybierz przycisk Dalej lub wybierz typ najlepiej opisujący Two
     </message>
     <message>
         <source>&amp;Data:</source>
-        <translation>&amp;Dane:</translation>
+        <translation>Wartość &amp;danych:</translation>
     </message>
     <message>
         <source>between</source>
@@ -6381,28 +6308,18 @@ Jeśli tak jest, wybierz przycisk Dalej lub wybierz typ najlepiej opisujący Two
     </message>
     <message>
         <source>Custom</source>
-        <translation variants="yes">
-            <lengthvariant>Niestandardowe</lengthvariant>
-            <lengthvariant>Niestandardowy</lengthvariant>
-        </translation>
+        <translation>Niestandardowe</translation>
     </message>
     <message>
         <source>&amp;Input:</source>
-        <translation variants="yes">
-            <lengthvariant>Dane &amp;wejściowe:</lengthvariant>
-            <lengthvariant>&amp;Wprowadź:</lengthvariant>
-            <lengthvariant>&amp;Wejście:</lengthvariant>
-        </translation>
+        <translation>Dane &amp;wejściowe:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgZoomView</name>
     <message>
         <source>Zoom</source>
-        <translation variants="yes">
-            <lengthvariant>Powiększenie</lengthvariant>
-            <lengthvariant>Powiększ</lengthvariant>
-        </translation>
+        <translation>Powiększenie</translation>
     </message>
     <message>
         <source>Magnification</source>
@@ -6484,10 +6401,7 @@ Jeśli tak jest, wybierz przycisk Dalej lub wybierz typ najlepiej opisujący Two
     </message>
     <message>
         <source>Error: Status indeterminate</source>
-        <translation variants="yes">
-            <lengthvariant>Błąd: Nieokreślony stan</lengthvariant>
-            <lengthvariant>Błąd: Nieokreślony status</lengthvariant>
-        </translation>
+        <translation>Błąd: Nieokreślony stan</translation>
     </message>
     <message>
         <source>Warning: Values not updated</source>
@@ -6698,10 +6612,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <name>KxEtDlgFormatShape</name>
     <message>
         <source>Format AutoShape</source>
-        <translation variants="yes">
-            <lengthvariant>Formatowanie Autokształtu</lengthvariant>
-            <lengthvariant>Formatuj Autokształt</lengthvariant>
-        </translation>
+        <translation>Formatowanie Autokształtu</translation>
     </message>
 </context>
 <context>
@@ -6720,10 +6631,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>input</source>
-        <translation variants="yes">
-            <lengthvariant>dane wejściowe</lengthvariant>
-            <lengthvariant>wejście</lengthvariant>
-        </translation>
+        <translation>dane wejściowe</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -6943,10 +6851,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <name>KxEtPrintPreviewZoomCommand</name>
     <message>
         <source>Zoom:</source>
-        <translation variants="yes">
-            <lengthvariant>Powiększenie:</lengthvariant>
-            <lengthvariant>Powiększ:</lengthvariant>
-        </translation>
+        <translation>Powiększenie:</translation>
     </message>
 </context>
 <context>
@@ -6980,17 +6885,11 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>This command cannot be applied in shared workbook and you cannot record.</source>
-        <translation variants="yes">
-            <lengthvariant>To polecenie nie może być zastosowane w udostępnionym skoroszycie i nie możesz nagrywać.</lengthvariant>
-            <lengthvariant>To polecenie nie może być zastosowane w udostępnionym skoroszycie i nie możesz rejestrować.</lengthvariant>
-        </translation>
+        <translation>To polecenie nie może być zastosowane w udostępnionym skoroszycie i nie możesz zarejestrować.</translation>
     </message>
     <message>
         <source>Macro &quot;%1&quot; already exists. Do you want to replace the existing macro?</source>
-        <translation variants="yes">
-            <lengthvariant>Makro &quot;%1&quot; już istnieje. Czy zamienić istniejące makro?</lengthvariant>
-            <lengthvariant>Makro &quot;%1&quot; już istnieje. Czy chcesz zastąpić istniejące makro?</lengthvariant>
-        </translation>
+        <translation>Makro &quot;%1&quot; już istnieje. Czy zamienić istniejące makro?</translation>
     </message>
 </context>
 <context>
@@ -7154,10 +7053,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>The specified path does not exist, enter a valid one please.</source>
-        <translation variants="yes">
-            <lengthvariant>Określona ścieżka nie istnieje, proszę wprowadzić prawidłową.</lengthvariant>
-            <lengthvariant>Podana ścieżka nie istnieje, proszę wprowadzić prawidłową.</lengthvariant>
-        </translation>
+        <translation>Określona ścieżka nie istnieje, proszę wprowadzić prawidłową.</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
@@ -7318,24 +7214,15 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>WPS Spreadsheets has completed its search and has made %1 replacements.</source>
-        <translation variants="yes">
-            <lengthvariant>Program WPS Spreadsheets ukończył wyszukiwanie i dokonał %1 zamian.</lengthvariant>
-            <lengthvariant>Program WPS Spreadsheets ukończył wyszukiwanie i dokonał zamian w liczbie %1.</lengthvariant>
-        </translation>
+        <translation>Program WPS Spreadsheets ukończył wyszukiwanie i dokonał %1 zamian.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot use Go To command. It may be on a protected sheet.</source>
-        <translation variants="yes">
-            <lengthvariant>Program WPS Spreadsheets nie może użyć polecenia Przejdź do. Może tak być, gdy arkusz jest chroniony.</lengthvariant>
-            <lengthvariant>Program WPS Spreadsheets nie może użyć polecenia Przejdź do. Prawdopodobnie arkusz jest chroniony.</lengthvariant>
-        </translation>
+        <translation>Program WPS Spreadsheets nie może użyć polecenia Przejdź do. Może to być w chronionym arkuszu.</translation>
     </message>
     <message>
         <source>No objects found.</source>
-        <translation variants="yes">
-            <lengthvariant>Nie znaleziono żadnych obiektów.</lengthvariant>
-            <lengthvariant>Nie znaleziono obiektów.</lengthvariant>
-        </translation>
+        <translation>Nie znaleziono obiektów.</translation>
     </message>
     <message>
         <source>Go &amp;To</source>
@@ -7413,10 +7300,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
-        <translation variants="yes">
-            <lengthvariant>Ten styl czcionki jest imitowany dla wyświetlania. Do drukowania zostanie użyty najbliższy jemu styl.</lengthvariant>
-            <lengthvariant>Ten styl czcionki jest imitowany na ekranie. Do wydruku zostanie użyty najbardziej zbliżony styl.</lengthvariant>
-        </translation>
+        <translation>Ten styl czcionki jest imitowany dla wyświetlania. Do drukowania zostanie użyty najbliższy jemu styl.</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
@@ -7467,10 +7351,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
-        <translation variants="yes">
-            <lengthvariant>Ten styl czcionki jest imitowany dla wyświetlania. Do drukowania zostanie użyty najbliższy jemu styl.</lengthvariant>
-            <lengthvariant>Ten styl czcionki jest imitowany na ekranie. Do wydruku zostanie użyty najbardziej zbliżony styl.</lengthvariant>
-        </translation>
+        <translation>Ten styl czcionki jest imitowany dla wyświetlania. Do drukowania zostanie użyty najbliższy jemu styl.</translation>
     </message>
     <message>
         <source>The font is designed for plotter.</source>
@@ -7544,10 +7425,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
-        <translation variants="yes">
-            <lengthvariant>Ten styl czcionki jest imitowany dla wyświetlania. Do drukowania zostanie użyty najbliższy jemu styl.</lengthvariant>
-            <lengthvariant>Ten styl czcionki jest imitowany na ekranie. Do wydruku zostanie użyty najbardziej zbliżony styl.</lengthvariant>
-        </translation>
+        <translation>Ten styl czcionki jest imitowany dla wyświetlania. Do drukowania zostanie użyty najbliższy jemu styl.</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
@@ -7807,10 +7685,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Cell Reference</source>
-        <translation variants="yes">
-            <lengthvariant>Odwołanie do komórki</lengthvariant>
-            <lengthvariant>Adres komórki</lengthvariant>
-        </translation>
+        <translation>Odwołanie do komórki</translation>
     </message>
     <message>
         <source>Defined Names</source>
@@ -7864,10 +7739,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
-        <translation variants="yes">
-            <lengthvariant>Podany tekst nie jest prawidłowym odwołaniem ani zdefiniowaną nazwą.</lengthvariant>
-            <lengthvariant>Wprowadzony tekst nie jest prawidłowym odwołaniem lub zdefiniowaną nazwą.</lengthvariant>
-        </translation>
+        <translation>Wprowadzony tekst nie jest prawidłowym odwołaniem lub zdefiniowaną nazwą.</translation>
     </message>
 </context>
 <context>
@@ -7889,10 +7761,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>The function you described is not found. Please enter the function information again.</source>
-        <translation variants="yes">
-            <lengthvariant>Funkcja, którą opisałeś nie została znaleziona. Proszę ponownie wprowadzić informacje o funkcji.</lengthvariant>
-            <lengthvariant>Nie odnaleziono funkcji, którą opisałeś. Proszę ponownie wprowadzić informacje o funkcji.</lengthvariant>
-        </translation>
+        <translation>Funkcja, którą opisałeś nie została znaleziona. Proszę ponownie wprowadzić informacje o funkcji.</translation>
     </message>
     <message>
         <source>Enter the name or the description of the function you want to look up.</source>
@@ -7900,10 +7769,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Undefined.</source>
-        <translation variants="yes">
-            <lengthvariant>Niezdefiniowane.</lengthvariant>
-            <lengthvariant>Niezdefiniowany.</lengthvariant>
-        </translation>
+        <translation>Niezdefiniowane.</translation>
     </message>
     <message>
         <source>No help available.</source>
@@ -7911,10 +7777,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>The search information is required.</source>
-        <translation variants="yes">
-            <lengthvariant>Informacje wyszukiwania są wymagane.</lengthvariant>
-            <lengthvariant>Wymagane są informacje wyszukiwania.</lengthvariant>
-        </translation>
+        <translation>Informacje o funkcji wyszukiwania są wymagane.</translation>
     </message>
 </context>
 <context>
@@ -7951,10 +7814,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     <name>KxNameOptionsDlg</name>
     <message>
         <source>The default Workbook name %1 is not valid, can&apos;t include %2.</source>
-        <translation variants="yes">
-            <lengthvariant>Domyślna nazwa skoroszytu %1 jest nieprawidłowa, nie może zawierać %2.</lengthvariant>
-            <lengthvariant>Domyślna nazwa %1 skoroszytu jest nieprawidłowa, nie może zawierać %2.</lengthvariant>
-        </translation>
+        <translation>Domyślna nazwa skoroszytu %1 jest nieprawidłowa, nie może zawierać %2.</translation>
     </message>
 </context>
 <context>
@@ -8027,7 +7887,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>%1 If you need to edit this file in WPS Spreadsheets, please make sure that others is no longer editing, and transform the file %2 to a shared workbook %3 of WPS Spreadsheets.</source>
-        <translation>%1 Jeśli potrzebujesz edytować ten plik w programie WPS Spreadsheets, proszę upewnij się, że inni zakończyli edycję tego pliku, a następnie przekształć plik%2 do skoroszytu udostępnionego%3 programu WPS Spreadsheets.</translation>
+        <translation>%1 Jeśli potrzebujesz edytować ten plik w programie WPS Spreadsheets, proszę upewnij się, że inni użytkownicy zakończyli edycję tego pliku, a następnie przekształć plik%2 do skoroszytu udostępnionego%3 programu WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>%1 If you only need to view content, please select %2 Read-only %3.</source>
@@ -8142,7 +8002,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Delete from &amp;Disk</source>
-        <translation>Usuń z &amp;Dysku</translation>
+        <translation>Usuń z &amp;dysku</translation>
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
@@ -8162,17 +8022,11 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation variants="yes">
-            <lengthvariant>Hasło potwierdzające nie pasuje.</lengthvariant>
-            <lengthvariant>Hasło potwierdzające nie jest zgodne.</lengthvariant>
-        </translation>
+        <translation>Potwierdzenie hasła jest niezgodne.</translation>
     </message>
     <message>
         <source>The encryption algorithm you selected requires the password within 15 characters.</source>
-        <translation variants="yes">
-            <lengthvariant>Wybrany algorytm szyfrowania wymaga hasła, które nie zawiera więcej niż 15 znaków.</lengthvariant>
-            <lengthvariant>Wybrany algorytm szyfrowania wymaga hasła, które nie przekracza 15 znaków.</lengthvariant>
-        </translation>
+        <translation>Wybrany algorytm szyfrowania wymaga hasła, które nie zawiera więcej niż 15 znaków.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 32767. Try again by entering a number in this range.</source>
@@ -8204,10 +8058,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation variants="yes">
-            <lengthvariant>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</lengthvariant>
-            <lengthvariant>Nie masz uprawnień do zapisu plików kopii zapasowej w &quot;%1&quot;.</lengthvariant>
-        </translation>
+        <translation>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
@@ -8282,10 +8133,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>The input is not a valid number.</source>
-        <translation variants="yes">
-            <lengthvariant>Wprowadzony numer jest nieprawidłowy.</lengthvariant>
-            <lengthvariant>Wpis jest nieprawidłową liczbą.</lengthvariant>
-        </translation>
+        <translation>Wprowadzony numer jest nieprawidłową liczbą.</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -8317,10 +8165,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Cannot show the properties dialog box because the printer encountered an error.</source>
-        <translation variants="yes">
-            <lengthvariant>Nie można wyświetlić okna dialogowego właściwości, ponieważ drukarka napotkała błąd.</lengthvariant>
-            <lengthvariant>Nie można pokazać okna dialogowego właściwości, ponieważ drukarka napotkała błąd.</lengthvariant>
-        </translation>
+        <translation>Nie można wyświetlić okna dialogowego właściwości, ponieważ drukarka napotkała błąd.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
@@ -8673,7 +8518,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <name>KxRemoveDuplicatesDlg</name>
     <message>
         <source>( Select All )</source>
-        <translation>( Wybierz wszystkie )</translation>
+        <translation>( Zaznacz wszystko )</translation>
     </message>
     <message>
         <source>column </source>
@@ -8687,14 +8532,11 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
         <source>%1 duplicates are found;
 Only %2 unique value can be keep after delete.</source>
         <translation>znaleziono %1 duplikatów;
-Tylko unikatowa wartość %2 może być zachowana po usunięciu.</translation>
+Tylko wartość unikatowa %2 może być zachowana po usunięciu.</translation>
     </message>
     <message>
         <source>%1 duplicates are found, which have been deleted; Only keep %2 unique value.</source>
-        <translation variants="yes">
-            <lengthvariant>%1 znalezionych duplikatów, które zostały usunięte; Zachowano tylko %2 o unikatowej wartości.</lengthvariant>
-            <lengthvariant>Znaleziono %1 duplikatów, które zostały usunięte; Zachowano tylko %2 o unikatowej wartości.</lengthvariant>
-        </translation>
+        <translation>znaleziono %1 duplikatów, które zostały usunięte; Zachowano tylko %2 o wartości unikatowej.</translation>
     </message>
 </context>
 <context>
@@ -8736,8 +8578,8 @@ komórki te będą miały ustawiony pomarańczowy kolor tła.
 system will remind checking the correctness of the contents.
 
 (Note: The function only supports single range)</source>
-        <translation>Kiedy zostaną wprowadzone zduplikowane zawartości w nastepującym zakresie,
- system będzie przypominał o sprawdzaniu poprawności zawartości.
+        <translation>Kiedy zduplikowane zawartości są wprowadzone w nastepującym zakresie,
+system będzie przypominał o sprawdzaniu poprawności zawartości.
 
 (Uwaga: Funkcja obsługuje tylko pojedynczy zakres)</translation>
     </message>
@@ -8772,7 +8614,7 @@ system will remind checking the correctness of the contents.
     <name>KxSelectTableFromDbDlg</name>
     <message>
         <source>Select Table</source>
-        <translation>Wybierz tabelę</translation>
+        <translation>Zaznacz tabelę</translation>
     </message>
     <message>
         <source>Name</source>
@@ -8818,10 +8660,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Your entry is not valid.</source>
-        <translation variants="yes">
-            <lengthvariant>Nieprawidłowy wpis.</lengthvariant>
-            <lengthvariant>Twój wpis nie jest prawidłowy.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowy wpis.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -8856,10 +8695,7 @@ system will remind checking the correctness of the contents.
     <name>KxSetRowHeightDlg</name>
     <message>
         <source>Your entry is not valid.</source>
-        <translation variants="yes">
-            <lengthvariant>Nieprawidłowy wpis.</lengthvariant>
-            <lengthvariant>Twój wpis nie jest prawidłowy.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowy wpis.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -9074,10 +8910,7 @@ system will remind checking the correctness of the contents.
     <name>KxSortOptionsDlg</name>
     <message>
         <source>Normal</source>
-        <translation variants="yes">
-            <lengthvariant>Normalne</lengthvariant>
-            <lengthvariant>Normalny</lengthvariant>
-        </translation>
+        <translation>Normalne</translation>
     </message>
 </context>
 <context>
@@ -9092,10 +8925,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>(No Suggestions)</source>
-        <translation variants="yes">
-            <lengthvariant>(Brak sugestii)</lengthvariant>
-            <lengthvariant>(Brak propozycji)</lengthvariant>
-        </translation>
+        <translation>(Brak sugestii)</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
@@ -9178,7 +9008,7 @@ system will remind checking the correctness of the contents.
     <name>KxTpEtPivotTable</name>
     <message>
         <source>Drag items to the pivotTable areas</source>
-        <translation>Przeciągnij elementy do obszarów tabeli przestawnej</translation>
+        <translation>Przeciągnij elementy do obszaru tabeli przestawnej</translation>
     </message>
     <message>
         <source>Drag fields between areas below</source>
@@ -9323,10 +9153,7 @@ Zauważ, że łączy danych można używać do uzyskiwania dostępu i udostępni
     <name>KxUrlParameterPrompt</name>
     <message>
         <source>Enter Parameter Value</source>
-        <translation variants="yes">
-            <lengthvariant>Wprowadzanie wartości parametru</lengthvariant>
-            <lengthvariant>Wprowadź wartość parametru</lengthvariant>
-        </translation>
+        <translation>Wprowadź wartość parametru</translation>
     </message>
     <message>
         <source>To Prompt</source>
@@ -9360,7 +9187,6 @@ Zauważ, że łączy danych można używać do uzyskiwania dostępu i udostępni
         <source>To refresh an external data range automatically when the parameter value changes, you must select a single cell to supply the parameter.
 Click OK, and then select a single cell in the Get The Value From The Following Cell box.</source>
         <translation>Aby zewnętrzny zakres danych był odświeżany automatycznie, gdy ulega zmianie wartość parametru, musisz wybrać pojedynczą komórkę dostarczającą tego parametru.
-
 Kliknij przycisk &apos;OK&apos;, a następnie zaznacz pojedynczą komórkę w polu &apos;Pobieraj wartość z następującej komórki&apos;.</translation>
     </message>
 </context>
@@ -9735,10 +9561,7 @@ t</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation variants="yes">
-            <lengthvariant>Obramowanie</lengthvariant>
-            <lengthvariant>Krawędź</lengthvariant>
-        </translation>
+        <translation>Obramowanie</translation>
     </message>
     <message>
         <source>The selected border style can be applied by clicking the presets, preview diagram or the buttons above.</source>
@@ -10030,14 +9853,11 @@ t</translation>
     </message>
     <message>
         <source>Import data &amp;preview:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Podgląd importowania danych:</lengthvariant>
-            <lengthvariant>&amp;Podgląd importu danych:</lengthvariant>
-        </translation>
+        <translation>&amp;Podgląd importowania danych:</translation>
     </message>
     <message>
         <source>Display only top 50(&amp;H)</source>
-        <translation>Wyświetl tylko 50 pierwszych(&amp;H)</translation>
+        <translation>Wyświetl tylko 50 pierwszych (&amp;H)</translation>
     </message>
 </context>
 <context>
@@ -10048,10 +9868,7 @@ t</translation>
     </message>
     <message>
         <source>&amp;Pause</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Wstrzymaj</lengthvariant>
-            <lengthvariant>&amp;Pauza</lengthvariant>
-        </translation>
+        <translation>&amp;Wstrzymaj</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
@@ -10079,17 +9896,11 @@ t</translation>
     </message>
     <message>
         <source>Context Reading Order</source>
-        <translation variants="yes">
-            <lengthvariant>Kolejność czytania kontekstu</lengthvariant>
-            <lengthvariant>Kolejność odczytywania kontekstu</lengthvariant>
-        </translation>
+        <translation>Kolejność czytania kontekstu</translation>
     </message>
     <message>
         <source>Rotated down %1 Degrees</source>
-        <translation variants="yes">
-            <lengthvariant>Obrócony w dół %1 stopnie</lengthvariant>
-            <lengthvariant>Obrócony w dół o %1 stopni</lengthvariant>
-        </translation>
+        <translation>Obrócony w dół %1 stopni</translation>
     </message>
     <message>
         <source>Degrees</source>
@@ -10097,10 +9908,7 @@ t</translation>
     </message>
     <message>
         <source>Rotated up %1 Degrees</source>
-        <translation variants="yes">
-            <lengthvariant>Obrócony w górę %1 stopnie</lengthvariant>
-            <lengthvariant>Obrócony w górę o %1 stopni</lengthvariant>
-        </translation>
+        <translation>Obrócony w górę %1 stopni</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -10128,24 +9936,15 @@ t</translation>
     </message>
     <message>
         <source>Vertical Justify Aligned</source>
-        <translation variants="yes">
-            <lengthvariant>Wyrównanie justowania w pionie</lengthvariant>
-            <lengthvariant>Wyrównanie w pionie</lengthvariant>
-        </translation>
+        <translation>Justowanie w pionie wyrównane</translation>
     </message>
     <message>
         <source>Vertical Distributed Aligned</source>
-        <translation variants="yes">
-            <lengthvariant>Wyrównanie rozłożone pionowo</lengthvariant>
-            <lengthvariant>Rozłożone pionowo</lengthvariant>
-        </translation>
+        <translation>Rozłożone pionowo wyrównane</translation>
     </message>
     <message>
         <source>Vertical Center Aligned</source>
-        <translation variants="yes">
-            <lengthvariant>Wyrówanie wyśrodkowania w pionie</lengthvariant>
-            <lengthvariant>Wyśrodkowanie w pionie</lengthvariant>
-        </translation>
+        <translation>Wyśrodkowanie w pionie wyrównane</translation>
     </message>
     <message>
         <source>Bottom Aligned</source>
@@ -10169,10 +9968,7 @@ t</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation variants="yes">
-            <lengthvariant>Wypełnij</lengthvariant>
-            <lengthvariant>Wypełnienie</lengthvariant>
-        </translation>
+        <translation>Wypełnienie</translation>
     </message>
     <message>
         <source>Horizontal Distributed</source>
@@ -10348,17 +10144,11 @@ t</translation>
     </message>
     <message>
         <source>Ivory</source>
-        <translation variants="yes">
-            <lengthvariant>Jasnobeżowy</lengthvariant>
-            <lengthvariant>Kość słoniowa</lengthvariant>
-        </translation>
+        <translation>Jasnobeżowy</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation variants="yes">
-            <lengthvariant>Jasnoturkusowy</lengthvariant>
-            <lengthvariant>Pastelowobłękitny</lengthvariant>
-        </translation>
+        <translation>Jasnoturkusowy</translation>
     </message>
     <message>
         <source>Dark Purple</source>
@@ -10399,10 +10189,7 @@ t</translation>
     </message>
     <message>
         <source>Lavender</source>
-        <translation variants="yes">
-            <lengthvariant>Liliowy</lengthvariant>
-            <lengthvariant>Lawendowy</lengthvariant>
-        </translation>
+        <translation>Liliowy</translation>
     </message>
     <message>
         <source>Tan</source>
@@ -10414,10 +10201,7 @@ t</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation variants="yes">
-            <lengthvariant>Akwamaryna</lengthvariant>
-            <lengthvariant>Niebieskozielony</lengthvariant>
-        </translation>
+        <translation>Akwamaryna</translation>
     </message>
     <message>
         <source>Lime</source>
@@ -10685,17 +10469,11 @@ t</translation>
     </message>
     <message>
         <source>Add Constraint</source>
-        <translation variants="yes">
-            <lengthvariant>Dodaj ograniczenie</lengthvariant>
-            <lengthvariant>Dodawanie ograniczenia</lengthvariant>
-        </translation>
+        <translation>Dodaj ograniczenie</translation>
     </message>
     <message>
         <source>Change Constraint</source>
-        <translation variants="yes">
-            <lengthvariant>Zmień ograniczenie</lengthvariant>
-            <lengthvariant>Zmienianie ograniczenia</lengthvariant>
-        </translation>
+        <translation>Zmień ograniczenie</translation>
     </message>
     <message>
         <source>Answer</source>
@@ -10902,10 +10680,7 @@ t</translation>
     </message>
     <message>
         <source>&amp;Notify</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Powiadom</lengthvariant>
-            <lengthvariant>&amp;Powiadamianie</lengthvariant>
-        </translation>
+        <translation>&amp;Powiadom</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10952,14 +10727,14 @@ t</translation>
     </message>
     <message>
         <source>Please select the target table to be imported from the combo box, all fieldss will be listed in the left list box, select the fields needed to be imported there, the selected fields will be listed in the right list box.</source>
-        <translation>Wybierz tabelę docelową do zaimportowania z pola kombi, wszystkie pola zostaną wyświetlone w polu listy po lewej stronie, wybierz pola potrzebne do zaimportowania tam, wybrane pola zostaną wyświetlone w polu listy po prawej stronie.</translation>
+        <translation>Wybierz tabelę docelową do zaimportowania z pola kombi. Wszystkie pola zostaną wyświetlone w polu listy po lewej stronie. Wybierz pola używane do zaimportowania, które zostaną wyświetlone w polu listy po prawej stronie.</translation>
     </message>
 </context>
 <context>
     <name>SelectTableFromDbUI</name>
     <message>
         <source>Select Table</source>
-        <translation>Wybierz tabelę</translation>
+        <translation>Zaznacz tabelę</translation>
     </message>
 </context>
 <context>
@@ -11250,10 +11025,7 @@ t</translation>
     <name>editCrossBookLinksDlg</name>
     <message>
         <source>Edit Links</source>
-        <translation variants="yes">
-            <lengthvariant>Edytowanie łączy</lengthvariant>
-            <lengthvariant>Edytuj łącza</lengthvariant>
-        </translation>
+        <translation>Edytuj łącza</translation>
     </message>
     <message>
         <source>Source</source>
@@ -11324,10 +11096,7 @@ t</translation>
     </message>
     <message>
         <source>&amp;Reference:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Odwołanie:</lengthvariant>
-            <lengthvariant>&amp;Odniesienie:</lengthvariant>
-        </translation>
+        <translation>&amp;Odwołanie:</translation>
     </message>
     <message>
         <source>E&amp;valuation:</source>
@@ -11393,10 +11162,7 @@ t</translation>
     </message>
     <message>
         <source>&amp;Pause</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Wstrzymaj</lengthvariant>
-            <lengthvariant>&amp;Pauza</lengthvariant>
-        </translation>
+        <translation>&amp;Wstrzymaj</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -11423,10 +11189,7 @@ t</translation>
     </message>
     <message>
         <source>Export range</source>
-        <translation variants="yes">
-            <lengthvariant>Zakres eksportowania</lengthvariant>
-            <lengthvariant>Zakres eksportu</lengthvariant>
-        </translation>
+        <translation>Zakres eksportowania</translation>
     </message>
     <message>
         <source>Active &amp;Sheet</source>
@@ -11486,10 +11249,7 @@ t</translation>
     </message>
     <message>
         <source>Close w&amp;hen export completes</source>
-        <translation variants="yes">
-            <lengthvariant>Zamknij &amp;po zakończeniu eksportowania</lengthvariant>
-            <lengthvariant>Zamknij &amp;po zakończeniu eksportu</lengthvariant>
-        </translation>
+        <translation>Zamknij &amp;po zakończeniu eksportowania</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
@@ -11501,11 +11261,11 @@ t</translation>
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation>Hasło do ochrony ustawienia uprawnień</translation>
+        <translation>Hasło ochrony ustawień uprawnień</translation>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
-        <translation>Uwaga: Tylko ustawienie hasła pozwala oddziaływać na następujące ustawienia efektu i uniknąć zmieniania przez innych.</translation>
+        <translation>Uwaga: tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>&amp;Printing permission:</source>
@@ -11689,17 +11449,11 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Step s&amp;ize:</source>
-        <translation variants="yes">
-            <lengthvariant>W&amp;ielkość kroku:</lengthvariant>
-            <lengthvariant>Rozm&amp;iar kroku:</lengthvariant>
-        </translation>
+        <translation>W&amp;ielkość kroku:</translation>
     </message>
     <message>
         <source>&amp;Page step size:</source>
-        <translation variants="yes">
-            <lengthvariant>Wielkość kroku &amp;strony:</lengthvariant>
-            <lengthvariant>Rozmiar kroku &amp;strony:</lengthvariant>
-        </translation>
+        <translation>Wielkość kroku &amp;strony:</translation>
     </message>
     <message>
         <source>&amp;3-D shading</source>
@@ -11917,7 +11671,7 @@ Do you want to change to Manual Recalculation?</source>
     <message>
         <source>The file you are opening changes the option of Automatic to Manual, which would cause the current file and other files cannot get the correct results in time during the editing process.
 Do you want to change to Manual?</source>
-        <translation>Plik który otwierasz zmienia opcję z Automatycznie na Ręcznie, co mogłoby spowodować, że bieżący plik oraz inne pliki nie mogą uzyskać poprawnych wyników w trakcie procesu edycji.
+        <translation>Otwierany plik zmienia opcje Automatycznie na Ręcznie, co uniemożliwia uzyskanie poprawnych wyników w trakcie procesu edycji bieżącego pliku oraz innych plików.
 Czy chcesz zmienić na Ręcznie?</translation>
     </message>
     <message>
