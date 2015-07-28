@@ -5,301 +5,301 @@
     <name>AdvQueryDlgUi</name>
     <message>
         <source>&amp;Add to the list</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aggiungi alla lista</translation>
     </message>
     <message>
         <source>&amp;Delete from the list</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovi &amp;dalla lista</translation>
     </message>
     <message>
         <source>Advanced Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricerca Avanzata</translation>
     </message>
     <message>
         <source>D&amp;elete from the list</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina &amp;dalla lista</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtra</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordina</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo:</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>Infotip</translation>
     </message>
     <message>
         <source>Add to the list(&amp;R)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi alla lista (&amp;R)</translation>
     </message>
 </context>
 <context>
     <name>ChangeFileAccess</name>
     <message>
         <source>&amp;Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Scarta (&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Salva come</translation>
     </message>
     <message>
         <source>Another user has also made changes. What would you like to do?</source>
-        <translation type="unfinished"></translation>
+        <translation>Un Altro utente ha apportato delle modifiche, Come desideri procedere? </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Click Discard to discard your changes and edit the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clicca Scarta per scartare le tue modifiche e modificare l'ultima versione.</translation>
     </message>
     <message>
         <source>You have made changes to &quot;%s&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hai apportato modifiche a &quot;%s&quot;</translation>
     </message>
     <message>
         <source>Click Save as to save your changes to a different file and open the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clicca Salva come per salvare le tue modifiche in un file differente e aprire la ultima versione</translation>
     </message>
 </context>
 <context>
     <name>ColumnWidthSelector</name>
     <message>
         <source>Column Width Selector</source>
-        <translation type="unfinished"></translation>
+        <translation>Selettore larghezza colonna</translation>
     </message>
 </context>
 <context>
     <name>ConnectPage</name>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>Alt+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+W</translation>
     </message>
     <message>
         <source>Ctrl+W</source>
-        <translation type="unfinished"></translation>
+        <translation>>Ctrl+W</translation>
     </message>
 </context>
 <context>
     <name>ConnectPageUi</name>
     <message>
         <source>&amp;Open data file directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri file di dati direttamente (&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Select Data Source...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Seleziona Origine Dati</translation>
     </message>
     <message>
         <source>Explanation</source>
-        <translation type="unfinished"></translation>
+        <translation>Spiegazione</translation>
     </message>
     <message>
         <source>Input &amp;connection string manually</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci stringa di &amp;connessione manualmente</translation>
     </message>
     <message>
         <source>Select data source</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona origina dati</translation>
     </message>
     <message>
         <source>Step 1 : Select data source</source>
-        <translation type="unfinished"></translation>
+        <translation>Fase 1 : Seleziona origine dati</translation>
     </message>
     <message>
         <source>Use ODBC data source connection guide(W)</source>
-        <translation type="unfinished"></translation>
+        <translatio>Usa Connessione guidata ODBC come origine dati</translation>
     </message>
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puoi scegliere tra tre differenti metodi di connessione </translation>
     </message>
 </context>
 <context>
     <name>Constraint</name>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aggiungi</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cancella</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&lt;=</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;=</translation>
     </message>
     <message>
         <source>=</source>
-        <translation type="unfinished"></translation>
+        <translation>=</translation>
     </message>
     <message>
         <source>&gt;=</source>
-        <translation type="unfinished"></translation>
+        <translation>&gt;=<</translation>
     </message>
     <message>
         <source>C&amp;ell Reference:</source>
-        <translation type="unfinished"></translation>
+        <translation>Riferimento C&amp;ella</translation>
     </message>
     <message>
         <source>Co&amp;nstraint:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi&amp;ncoli:</translation>
     </message>
     <message>
         <source>Constraint</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincoli</translation>
     </message>
     <message>
         <source>bin</source>
-        <translation type="unfinished"></translation>
+        <translation>bin</translation>
     </message>
     <message>
         <source>int</source>
-        <translation type="unfinished"></translation>
+        <translation>int</translation>
     </message>
 </context>
 <context>
     <name>DisplayResult</name>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Continua</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stop</translation>
     </message>
     <message>
         <source>Show Trial Solution</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra Prova Soluzione</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>Infotip</translation>
     </message>
 </context>
 <context>
     <name>ExitEditOpenFile</name>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri (&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Return</source>
-        <translation type="unfinished"></translation>
+        <translation>To&amp;rna</translation>
     </message>
     <message>
         <source>Do you still want to open it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vuoi ancora aprirlo?</translation>
     </message>
     <message>
         <source>If you open a new file, your edits in current file will be eliminated:</source>
-        <translation type="unfinished"></translation>
+        <translation>Se tu apri un nuovo file, le tue modifiche al file corrente verranno eliminate:</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>Infotip</translation>
     </message>
 </context>
 <context>
     <name>FileNowAvialable</name>
     <message>
         <source>&quot;%s&quot; is now available for editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%s&quot; adesso è disponibile per l'editazione.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Click Read-Write to open it for editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clicca Read-Write per aprirlo in esitazione.</translation>
     </message>
     <message>
         <source>Read-&amp;Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Read-&amp;Write</translation>
     </message>
 </context>
 <context>
     <name>FilterPageUi</name>
     <message>
         <source>&amp;Advanced Query...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricerca >&amp;Avanzata</translation>
     </message>
     <message>
         <source>By</source>
-        <translation type="unfinished"></translation>
+        <translation>Da</translation>
     </message>
     <message>
         <source>Explanation</source>
-        <translation type="unfinished"></translation>
+        <translation>Spiegazione</translation>
     </message>
     <message>
         <source>Field type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo Campo:</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtra</translation>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>In</translation>
     </message>
     <message>
         <source>Input query &amp;statement directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Inseri&amp;sci query direttamente query</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordina</translation>
     </message>
     <message>
         <source>The third step: Data filtering and sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Il terzo passo: Filtro e ordinamento dati</translation>
     </message>
     <message>
         <source>You can click Advanced Query to sort and filter more complicated data, if it still cannot satisfy your requirement, you can input the query statement directly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puoi Cliccare Query Avanzate per ordinare e filtrare dati complessi, Se non soddisfa le tue richieste, puoi inserire la query direttamente.</translation>
     </message>
 </context>
 <context>
     <name>GrpboxCondition</name>
     <message>
         <source>Cell value is</source>
-        <translation type="unfinished"></translation>
+        <translation>Valore cella è</translation>
     </message>
     <message>
         <source>Formula is</source>
-        <translation type="unfinished"></translation>
+        <translation>Formula è</translation>
     </message>
     <message>
         <source>Grpbox Condition</source>
-        <translation type="unfinished"></translation>
+        <translation>Condizioni Grpbox</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>Infotip</translation>
     </message>
     <message>
         <source>Preview of format to use when
