@@ -3,6 +3,13 @@
 <TS version="2.0" language="ro_RO" sourcelanguage="ro">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
+    <name>DownloadBubbleWidget</name>
+    <message>
+        <source>Download failed due to possible network problems. Please try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KApplication</name>
     <message>
         <source>Trial Version</source>
@@ -343,6 +350,11 @@
         <comment>Member user type</comment>
         <translation>Platină</translation>
     </message>
+    <message>
+        <source>Registered user</source>
+        <comment>Member User type</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KMenuWidget</name>
@@ -356,6 +368,65 @@
     <message>
         <source>Text </source>
         <translation>Text </translation>
+    </message>
+</context>
+<context>
+    <name>KPluginDownloadingTipWidget</name>
+    <message>
+        <source>Initializing </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>, </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KPluginFailureTipWidget</name>
+    <message>
+        <source>Download failed due to possible network problems. Please try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KProgressBar</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multiple Tasks:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show In Progress Tasks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press &apos;Multiple Task&apos; button to display tasks</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KProgressListGalleryModelItem</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KProxyCommandButton</name>
+    <message>
+        <source>(Download required)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Initializing...)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -421,7 +492,7 @@
     <message>
         <source>Can not find the file &quot;%1&quot;.
 the file may be renamed,deleted or moved the location.</source>
-        <translation>Nu se poate găsi fișierul &quot;%1&quot;.
+        <translation type="obsolete">Nu se poate găsi fișierul &quot;%1&quot;.
 fișierul este posibil să fie redenumit, șters sau mutat.</translation>
     </message>
     <message>
@@ -444,7 +515,7 @@ fișierul este posibil să fie redenumit, șters sau mutat.</translation>
         <source>
 
 modify time: </source>
-        <translation>
+        <translation type="obsolete">
 
 timp modificare: </translation>
     </message>
@@ -452,9 +523,27 @@ timp modificare: </translation>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation>
+        <translation type="obsolete">
 
 Această înregistrare nu este validă, fișierul poate a fost redenumit,șters sau mutat</translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Modified time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -513,7 +602,7 @@ auto=auto
 [Multiple]
 multiple=multiple
 </source>
-        <translation>[Dispozitiv]
+        <translation type="obsolete">[Dispozitiv]
 pt=pt;p
 in=inch;i
 cm=cm;c
@@ -538,6 +627,36 @@ auto=auto
 multiplu=multiplu
 </translation>
     </message>
+    <message>
+        <source>[Device]
+pt=pt;p
+in=inch;i
+cm=cm;c
+mm=mm;m
+
+[Percentage]
+%=%
+
+[Character]
+ch=char
+
+[Degree]
+degree=degree
+
+[Row]
+line=line
+
+[Auto]
+auto=auto
+
+[Multiple]
+multiple=multiple
+
+[Point]
+point=pt
+</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KWPSCloudSetup</name>
@@ -548,8 +667,13 @@ multiplu=multiplu
     <message>
         <source>Some components are not installed correctly,
 please reinstall WPS Office!</source>
-        <translation>Unele componente nu sunt instalate corect,
+        <translation type="obsolete">Unele componente nu sunt instalate corect,
 reinstalați WPS Office!</translation>
+    </message>
+    <message>
+        <source>Some components are not installed correctly.
+Please reinstall WPS Office!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

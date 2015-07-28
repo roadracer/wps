@@ -3,7 +3,7 @@
 <TS version="2.0" language="ja_JP">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
-    <name>AsyncConmunicator</name>
+    <name>AsyncCommunicator</name>
     <message>
         <source>Cannot Listen.</source>
         <translation type="unfinished"></translation>
@@ -30,7 +30,28 @@
     </message>
 </context>
 <context>
-    <name>KxWpsSpeakListCommand</name>
+    <name>KxSpeakAbstractListCommand</name>
+    <message>
+        <source>Is PC&apos;s speaker on?
+Check the horn icon at the bottom-right corner of Desktop.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is no content to read.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not prompt me again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected content cannot be transferred to speech. Please reselect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click here to open the Text Reading tool box.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Your </source>
         <translation type="unfinished"></translation>
@@ -44,6 +65,10 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>More about VIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Reading</source>
         <translation type="unfinished"></translation>
     </message>
@@ -52,12 +77,122 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Exporting Audio </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A sound file of this document is currently being exported. 
+Are you sure to close?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSpeakAbstractOutputCommand</name>
+    <message>
+        <source>WPS Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waveform Audio Files (*.wav)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSpeakAbstractToolBarCommand</name>
+    <message>
         <source>Is PC&apos;s speaker on?
 Check the horn icon at the bottom-right corner of Desktop.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>There is no content to read.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not prompt me again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected content cannot be transferred to speech. Please reselect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSpeakToolbar</name>
+    <message>
+        <source>Reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Pitch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Return</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press Enter to Start Reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>High speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low pitch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium pitch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>High pitch</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -131,10 +266,6 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Failed connetion with TCP Client: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Connection Denied.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -164,6 +295,50 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Invalid Port Number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to connect with speech service client.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to acquire certification from speech server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to request reading content again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local speech engine has been closed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close connection with speech server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File export is interrupted: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed connection with TCP Client: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to request next reading content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -231,6 +406,69 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>IVTTS - failed to set voice speed: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IVTTS - failed to prepare file export.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IVTTS - failed to create speech for the text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IVTTS - failed to add text to the export file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IVTTS - failed to set preferences for number pronunciation: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SpeakerSettingDlg</name>
+    <message>
+        <source>speaker setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pitch:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Role:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Female Chinese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read Digits as Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export sound file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

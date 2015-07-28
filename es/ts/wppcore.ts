@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es_MX">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>aeobean</name>
     <message>
@@ -606,7 +607,7 @@ Esc					Finalizar la presentación</translation>
         <translation type="unfinished">Objeto</translation>
     </message>
     <message>
-        <source>This function is offered in WPS Office 2009 Prefessional.</source>
+        <source>This function is offered in WPS Office 2009 Professional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -748,12 +749,12 @@ Esc					Finalizar la presentación</translation>
         <comment>WpInvalidateProgram</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Custom Shows“</source>
         <comment>WpInvalidateNameSlideShowBegin</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>”does not exist.</source>
         <comment>WpInvalidateNameSlideShowEnd</comment>
         <translation type="unfinished"></translation>
@@ -793,7 +794,7 @@ Esc					Finalizar la presentación</translation>
         <comment>WpRehearseNewTimings</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
         <comment>WpWPSOffice2007</comment>
         <translation type="unfinished"></translation>
@@ -1050,6 +1051,16 @@ Would you like to open this file?
     <message>
         <source>Apply Text Format</source>
         <comment>TXTRANS_FORMATPAINTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Indent</source>
+        <comment>TXTRANS_PARA_TEXTINDENT_LEFT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Line Indent</source>
+        <comment>TXTRANS_PARA_TEXTINDENT_FIRSTLINE</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1986,7 +1997,7 @@ Body: Thread</source>
         <comment>WP_SaveFailureLocked</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Errors occur when WPS Presentation is opening this file.
 Please try one of the following.
 •Make sure you are permitted to access this file or drive.
@@ -2127,7 +2138,7 @@ Quinto nivel</translation>
         <comment>WP_START_PLAYING</comment>
         <translation type="unfinished">Iniciar presentación...</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Your virus scanning program encounters errors when scanning this file (Error code: 0x%08X). Please contact the anti-virus software agent. 
 Do you still want to open this file?
 
@@ -2159,7 +2170,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
         <comment>WPPKRMSAVEPROMPT</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>WPS Presentation cannot open this file, because the current user does not have enough permission to access.
 Please try one of the following.
 •Switch to another user account.
@@ -2370,7 +2381,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished">La imagen que ha insertado es demasiado grande. Por favor, comprímala para ahorrar espacio en disco.
 Tenga en cuenta que comprimir imágenes puede reducir la calidad de sus imágenes. ¿Desea comprimirla/s?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The file contains some special properties as following. If you save it as other file types, they may be lost.
 • Background Music
 • Paper Size
@@ -2440,7 +2451,7 @@ Tenga en cuenta que comprimir imágenes puede reducir la calidad de sus imágene
         <comment>WP_SECURITY_VBACode</comment>
         <translation type="unfinished">Código VBA</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>%s cannot play audio file “%s. Please make sure that the audio file is formatted with .wav, and that there is a normal audio system in your computer.</source>
         <comment>WP_CannotPlaySoundFile</comment>
         <translation type="unfinished"></translation>
@@ -2845,7 +2856,7 @@ Tenga en cuenta que comprimir imágenes puede reducir la calidad de sus imágene
         <comment>WP_TCSCS2TConvert</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The specified file “%s” is not the supported file type. Please click OK and then respecify a file type for saving  in the Save As dialogue box.</source>
         <comment>WP_SAVE_PPT12_FAILURE</comment>
         <translation type="unfinished"></translation>
@@ -2866,20 +2877,6 @@ Tenga en cuenta que comprimir imágenes puede reducir la calidad de sus imágene
         <translation type="unfinished">Título %d</translation>
     </message>
     <message>
-        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
-        <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
-        <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Presentation Caption</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2889,6 +2886,20 @@ Please make sure the file is not locked by another user, or the target disk is n
 (%s)</source>
         <comment>WP_SAVE_PPT_FAILURE</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <comment>WP_ReadOnlyOpenOoxml</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot save.</source>
+        <comment>WP_OpenOoxmlLostEffect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presentation</source>
+        <translation type="unfinished">Presentación</translation>
     </message>
 </context>
 <context>
@@ -3104,7 +3115,7 @@ Please make sure the file is not locked by another user, or the target disk is n
         <comment>wpp_sAddOperation</comment>
         <translation type="unfinished">Añadir</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Cannot add word“%s”.</source>
         <comment>wpp_sAddWordFailed</comment>
         <translation type="unfinished"></translation>
@@ -3402,11 +3413,6 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Out From Screen &amp;Center</source>
         <comment>wpp_sAnimDirectionInFromScreenCenter2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Out Slightlly</source>
-        <comment>wpp_sAnimDirectionInSlightly</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4795,11 +4801,6 @@ Please make sure the file is not locked by another user, or the target disk is n
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancelled by user.</source>
-        <comment>wpp_sCancelByUser</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The last color scheme cannot be deleted. A presentation must always contain at least one standard color scheme.</source>
         <comment>wpp_sCannotBeDelete</comment>
         <translation type="unfinished"></translation>
@@ -5870,11 +5871,6 @@ Please make sure the file is not locked by another user, or the target disk is n
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cannot open the folder %s. It might be in a unavailable path, or proteced by password, or the folder path does not exist or the folder path is too long.</source>
-        <comment>wpp_sCanNotOpenFolder</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Folder name cannot contain the characters bellow:
     \ / : * ? | &lt; &gt;
 
@@ -5937,6 +5933,21 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Modify Motion Paths</source>
         <comment>wpp_sModifyMotionPathEffect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Out Slightly</source>
+        <comment>wpp_sAnimDirectionInSlightly</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canceled by user.</source>
+        <comment>wpp_sCancelByUser</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
+        <comment>wpp_sCanNotOpenFolder</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6439,7 +6450,7 @@ Layout</source>
         <comment>WpPROMPTTOSAVE</comment>
         <translation type="unfinished">¿Desea guardar los cambios realizados en %s?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Failed to save. Please try one of the following: 
 •[Undo] the previous operations, then [Save] again.
 •Please copy the contents and paste them into a new file.
@@ -6905,11 +6916,6 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Each slide in your presentation has been saved as a separate file in the folder %s .</source>
-        <comment>WpSAVEIMAGEHINT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Translate to Simplified Chinese</source>
         <comment>WP_TranslateToSimplifiedChinese</comment>
         <translation type="unfinished">Traducir a chino simplificado</translation>
@@ -6950,84 +6956,70 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All Files(*.*)</source>
-        <comment>WpDescAll</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</source>
-        <comment>WpDescCommon</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation Files(*.dps)</source>
-        <comment>WpDescWPP</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation Templates(*.dpt)</source>
-        <comment>WpDescWPPTemp</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
-        <comment>WpDescPptPps</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
-        <comment>WpDescPpt</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
-        <comment>WpDescPps</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
-        <comment>WpDescPptTemp</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)</source>
-        <comment>WpDescPptx</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chinese Office Document Format(*.uof)</source>
-        <comment>WpDescUOF</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chinese Office Document Format 2.0(*.uop)</source>
-        <comment>WpDescUOF2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>JPEG File Interchange Format(*.jpg)</source>
-        <comment>WpDescJPEG</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PNG Portable Network Graphics Format(*.png)</source>
-        <comment>WpDescPNG</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TIFF Tag Image File Format(*.tif)</source>
-        <comment>WpDescTIFF</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device Independent Bitmap(*.bmp)</source>
-        <comment>WpDescBMP</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>WpMsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paragraphs</source>
+        <comment>WpPARAGRAPHS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
+        <comment>WP_OPENFILE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps</source>
+        <comment>WP_SAVEFILE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
+        <comment>WP_SAVEFILE_IMAGES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG-4 Video(*.mp4)|*.mp4</source>
+        <comment>WP_SAVEFILE_VIDEO_MP4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Media Video(*.wmv)|*.wmv</source>
+        <comment>WP_SAVEFILE_VIDEO_WMV</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Video Interleave(*.avi)|*.avi</source>
+        <comment>WP_SAVEFILE_VIDEO_AVI</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Web Media Video(*.webm)|*.webm</source>
+        <comment>WP_SAVEFILE_VIDEO_WEBM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Each slide in your presentation has been saved as a separate file in the folder
+%s .</source>
+        <comment>WpSAVEIMAGEHINT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>|</source>
+        <comment>WpOpenSaveFilterSeperator</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\WPS Video\WPS Video</source>
+        <comment>WpVideoSaveRelativePath</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\WPS Image\WPS Image</source>
+        <comment>WpImageSaveRelativePath</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7545,7 +7537,7 @@ This backup will be saved to(%s)</source>
         <source>Start slide show...</source>
         <translation type="obsolete">Iniciar presentación...</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X), Please contact the anti-virus software agent. 
 Do you still want to open this file?
 
@@ -7579,7 +7571,7 @@ Tenga en cuenta que algunos archivos pueden contener virus macro y posiblemente 
         <source>Permission for this file is currently restricted. Only Kingsoft Presentation file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
         <translation type="obsolete">Los permisos de este archivo está actualmente restringidos. Sólo el formato de archivo de Kingsoft Presentation puede mantener esa configuración. Si lo guarda en el formato actual, toda la configuración de permisos se perderá. ¿Desea continuar?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Kingsoft Presentation cannot open this file, because the current user doesn&apos;t have enough permission to access.
 Please try one of the following.
 •Switch to another user account.
@@ -7753,7 +7745,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="obsolete">La imagen que ha insertado es demasiado grande. Por favor, comprímala para ahorrar espacio en disco.
 Tenga en cuenta que comprimir imágenes puede reducir la calidad de sus imágenes. ¿Desea comprimirla/s?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The file contains some special properties as following. If you save it as other file types, they may be lost.
 • Background Music
 • Paper Size
@@ -7810,7 +7802,7 @@ Tenga en cuenta que comprimir imágenes puede reducir la calidad de sus imágene
         <source>VBA Code</source>
         <translation type="obsolete">Código VBA</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>%s can&apos;t play audio file “%s. Please make sure that the audio file is fromatted with .wav, and that there is a normal audio system in your computer.</source>
         <translation type="obsolete">%s no puede reproducir el archivo de audio &quot;%s. Por favor, asegúrese de que el archivo de audio tiene formato .wav, y que hay un sistema de audio normal en su equipo.</translation>
     </message>
@@ -8130,7 +8122,7 @@ Tenga en cuenta que comprimir imágenes puede reducir la calidad de sus imágene
         <source>Convertint from Simplified to Traditional...</source>
         <translation type="obsolete">Convirtiendo de Simplificado a Tradicional...</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The specified file “%s” is not the supported file type, please click OK and then respecify a file type for saving  in the Save As dialogue.</source>
         <translation type="obsolete">El archivo especificado &quot;%s&quot; no es un tipo de archivo soportado, por favor haga clic en Aceptar y vuelva a especificar un tipo de archivo para guardar en el diálogo Guardar como.</translation>
     </message>

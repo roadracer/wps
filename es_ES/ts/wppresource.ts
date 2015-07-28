@@ -2978,8 +2978,12 @@ activado</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>Nuevo de otras plantillas...</translation>
+        <translation type="obsolete">Nuevo de otras plantillas...</translation>
     </message>
     <message>
         <source>Open</source>
@@ -5210,6 +5214,10 @@ de imprimir</translation>
     <message>
         <source>Chinese Conversion</source>
         <translation>Conversión al chino</translation>
+    </message>
+    <message>
+        <source>Conversion</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -7515,6 +7523,10 @@ Size</translation>
         <translation type="obsolete">Herramientas especiales</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Translate to Document</source>
         <translation>Traducir en documento</translation>
     </message>
@@ -7547,6 +7559,26 @@ Size</translation>
     <name>ongmani.proxycommands</name>
     <message>
         <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Slide Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10013,8 +10045,12 @@ del control</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>Nuevo de otras plantillas...</translation>
+        <translation type="obsolete">Nuevo de otras plantillas...</translation>
     </message>
     <message>
         <source>Open</source>
@@ -13518,6 +13554,10 @@ WordArt</translation>
         <translation type="obsolete">Herramientas especiales</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Translate to Document</source>
         <translation>Traducir en documento</translation>
     </message>
@@ -13546,6 +13586,26 @@ WordArt</translation>
     <name>rainbow.proxycommands</name>
     <message>
         <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Slide Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13965,8 +14025,12 @@ When you click a pixel in the current graphic, all pixels of that specific color
         <translation>Cerrar sesión</translation>
     </message>
     <message>
+        <source>Slide Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>SlideLibrary</source>
-        <translation>Bibliteca de diapositiva</translation>
+        <translation type="obsolete">Bibliteca de diapositiva</translation>
     </message>
     <message>
         <source>Translate to Document</source>
@@ -15038,6 +15102,10 @@ de diapositiva</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Office Space</source>
         <translation type="obsolete">Espacio de oficina</translation>
     </message>
@@ -15144,6 +15212,10 @@ de diapositiva</translation>
     <message>
         <source>Table Tools</source>
         <translation>Herramientas de tabla</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Sign In</source>
@@ -15337,6 +15409,10 @@ de diapositiva</translation>
     <message>
         <source>New from Other Templates</source>
         <translation type="obsolete">Nuevo de otras plantillas</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Tab Page</source>

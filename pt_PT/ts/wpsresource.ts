@@ -2722,6 +2722,22 @@ Editor</source>
         <source>Visual Basic Editor</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Editor de Visual Basic</translation>
     </message>
+    <message>
+        <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlExpansionPacksWord</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlStructure</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_drawingtools</name>
@@ -3623,6 +3639,10 @@ Direction</source>
     <message>
         <source>WPS Office Product Center</source>
         <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007-2010 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -6360,6 +6380,10 @@ Separator</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Verificação Ortográfica</translation>
     </message>
     <message>
+        <source>Chinese Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Comments</source>
         <translation>Comentários</translation>
     </message>
@@ -6560,6 +6584,10 @@ Changes</source>
     <message>
         <source>Tracking</source>
         <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -9147,10 +9175,6 @@ Shape</source>
         <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
-        <source>PDF To Word</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Save File to Cloud</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Gravar Ficheiro na Núvem</translation>
     </message>
@@ -9226,6 +9250,10 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Output Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>PDF To Word</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9234,7 +9262,15 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11071,6 +11107,10 @@ Painter</source>
         <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
         <translation>&quot;Duas Linhas Numa&quot;</translation>
     </message>
@@ -11513,6 +11553,22 @@ Diagonal Line in Cell</source>
     <message>
         <source>Visual Basic Editor</source>
         <translation>Editor de Visual Basic</translation>
+    </message>
+    <message>
+        <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlExpansionPacksWord</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlStructure</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12276,6 +12332,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>WPS Office Product Center</source>
         <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007-2010 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -14756,6 +14816,10 @@ Text</source>
         <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Use Balloons</source>
         <translation>Utilizar Balões</translation>
     </message>
@@ -16835,10 +16899,6 @@ Effects</source>
         <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
-        <source>PDF To Word</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Save File to Cloud</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Gravar Ficheiro na Núvem</translation>
     </message>
@@ -16910,6 +16970,10 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Output Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>PDF To Word</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16918,7 +16982,15 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -19179,6 +19251,14 @@ Effects</source>
         <translation>Abrir</translation>
     </message>
     <message>
+        <source>Operation Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opr</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19520,6 +19600,10 @@ Directly</source>
         <translation>&quot;Contar Palavras. Seleccione para abrir o diálogo &quot;Contar Palavras&quot;.&quot;</translation>
     </message>
     <message>
+        <source>XMLStructure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Zoom</source>
         <translation>Ampliar</translation>
     </message>
@@ -19529,6 +19613,10 @@ Directly</source>
     </message>
     <message>
         <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>structure</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -19657,6 +19745,10 @@ Directly</source>
         <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not Logged in</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Sem sessão Iniciada</translation>
     </message>
@@ -19679,6 +19771,10 @@ Directly</source>
     <message>
         <source>Outline</source>
         <translation>Realçe</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -19768,6 +19864,10 @@ Directly</source>
     <message>
         <source>Table Tools</source>
         <translation>Ferramentas da Tabela</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Login</source>
@@ -19950,6 +20050,10 @@ Directly</source>
         <translation>&quot;Painel de Navegação&quot;</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not Logged in</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Sem Sessão Iniciada</translation>
     </message>
@@ -19968,6 +20072,10 @@ Directly</source>
     <message>
         <source>Outline</source>
         <translation>Realçe</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Layout</source>

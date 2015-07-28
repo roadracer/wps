@@ -264,7 +264,7 @@
     </message>
     <message>
         <source>http://www.kingsoftstore.com/support/pc-office</source>
-        <translation type="unfinished">オフィス・スペースの改善要望リンク</translation>
+        <translation type="obsolete">オフィス・スペースの改善要望リンク</translation>
     </message>
     <message>
         <source>link</source>

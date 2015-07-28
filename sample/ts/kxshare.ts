@@ -210,10 +210,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Downloading online font &quot;%1&quot;. Click the font list to see more detail. (Restart to take effect)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Download cloud font &quot;%1&quot; successful</source>
         <translation type="unfinished"></translation>
     </message>
@@ -223,6 +219,10 @@
     </message>
     <message>
         <source>Downloading cloud font, click the font list to see more detail.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DownLoad cloud font &quot;%1&quot; Successful. (Restart to take effect)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -256,6 +256,25 @@
     <name>KCrashUploadDlg</name>
     <message>
         <source>(The file %1 seems to be damaged.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCustomCtrl</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Control</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -342,6 +361,25 @@
     </message>
 </context>
 <context>
+    <name>KDrawBrowserWnd</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse for folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KDrawButton</name>
     <message>
         <source>Microsoft Yahei</source>
@@ -386,6 +424,48 @@
     </message>
 </context>
 <context>
+    <name>KDrawMsgBox</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Instant Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDrawSearchListCtrl</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UAC Fail Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Result Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KDrawTreeCtrl</name>
     <message>
         <source>Microsoft Yahei</source>
@@ -426,19 +506,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Encrypt...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -450,31 +518,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Maximize</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Folder Last Visited</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Up One Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>New Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Local Document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recent Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -494,83 +542,170 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Cloud</source>
+        <source>Search Title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Personal Space</source>
+        <source>Open</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>My Group</source>
+        <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Help you resume lost files due to disk corruption or accidental delete</source>
+        <source>Encrypt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Look &amp;In</source>
+        <source>Maximum</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save to (&amp;I)</source>
+        <source>Forward Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File &amp;Name</source>
+        <source>Forward</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File &amp;Type</source>
+        <source>Open Local Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>E&amp;xtra Large Icons</source>
+        <source>Recent Visit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Big Icons (&amp;R)</source>
+        <source>WPS Remote</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Medium Icons</source>
+        <source>Private Space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Small Ico&amp;ns</source>
+        <source>My Circle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;List</source>
+        <source>DataMaster Button Title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tile (&amp;S)</source>
+        <source>Kingsoft PDFToWord</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>T&amp;humbnail</source>
+        <source>PDFToWord Button Title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ico&amp;n</source>
+        <source>CustomLocation Button Title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>View &amp;Details</source>
+        <source>Folder Select</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Kingsoft Disk</source>
+        <source>Save At</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Invalid file name. Please enter a correct file name.</source>
+        <source>File Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save As</source>
+        <source>File Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Super Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Big Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Small Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detail View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quick Disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid file name, please enter the correct file name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Control Max Count Tip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Modify Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search Waiting Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search Fail Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFileDlgAssitantTool</name>
+    <message>
+        <source>Microsoft Yahei</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -582,6 +717,21 @@
     </message>
     <message>
         <source>FileName or PathName is longger than 218 characters!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KImagePlayDlg</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -658,10 +808,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Network error...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>A network error occurred.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -727,6 +873,17 @@
     </message>
 </context>
 <context>
+    <name>KSearchCtrl</name>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KShowMoreWindowDlg</name>
     <message>
         <source>Active Window:</source>
@@ -734,10 +891,6 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Compare Side by Side</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -754,6 +907,10 @@
     </message>
     <message>
         <source>Please select the window to compare:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch Windows</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -843,6 +1000,17 @@
     </message>
     <message>
         <source>Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KTooltipCtrl</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1186,6 +1354,13 @@
     </message>
 </context>
 <context>
+    <name>KWpsHostHelper</name>
+    <message>
+        <source>WPS Office system files encountered a problem. %1 cannot be 		started unless an automatic repair is performed. When prompted, click &quot;Yes&quot; to finish the repair.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxAboutDlg</name>
     <message>
         <source>%1%2</source>
@@ -1443,8 +1618,7 @@ To select names from the Address book, click the Read or Change button.</source>
 <context>
     <name>KxControlToolboxToolBarViewCommand</name>
     <message>
-        <source>To work with Control Toolbox, please purchase WPS Office Professional.
-</source>
+        <source>若要使用控件工具箱，请购买 WPS Office 专业版。</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1458,19 +1632,19 @@ To select names from the Address book, click the Read or Change button.</source>
 <context>
     <name>KxCroppingScalesGalleryModel</name>
     <message>
-        <source>CroppingScale_Free</source>
+        <source>Free</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>CroppingScale_Square</source>
+        <source>Square</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>CroppingScale_Horizontal</source>
+        <source>Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>CroppingScale_Vertical</source>
+        <source>Vertical</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1736,6 +1910,24 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
 </context>
 <context>
+    <name>KxDetectFileAssoDlg</name>
+    <message>
+        <source>WPS Office is not your default office software, set to the default software that allows you to work more convenient</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDetectFileAssoDlgBottom</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow automatically help you check the format has been tampered with</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDiagramGalleryDlg</name>
     <message>
         <source>Organization Chart</source>
@@ -1921,7 +2113,7 @@ To select names from the Address book, click the Read or Change button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Edit Dictionary</source>
+        <source>编辑字典</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2593,7 +2785,9 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please select the files you wish to remove from the recent document list, then press Delete. This will not permanently delete your file, but only remove them from your recent records.</source>
+        <source>Please select the files you wish to remove from the recent document list, then press Delete. 
+This will not permanently delete your file, but only remove them from your recent records.
+Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2690,14 +2884,6 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>KxEulaDlg</name>
     <message>
-        <source>WPS Office</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>End-User License Agreement</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>I &amp;Decline</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2707,6 +2893,25 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Missing EULA, this means you are using an incomplete product.&lt;br/&gt;Please get a new one from &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;offical website&lt;/a&gt;, and don&apos;t modify it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office End-User License Agreement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>about:blank</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the experience improvement plan</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxExternalPushService</name>
+    <message>
+        <source>Cannot load components for the printer solver.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3397,6 +3602,10 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <source>Undo</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxModifyCommandDlg</name>
@@ -3750,6 +3959,10 @@ Click the icon to sign in now.</source>
         <source>WPS Writer</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The specified data type is unavailable.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPermissionOptionDlg</name>
@@ -3811,6 +4024,21 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>&amp;Set defaults...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPicksolutionDlg</name>
+    <message>
+        <source>Choose XML Expansion Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One or more XML expansion packs are available for this file. Choose one from the list below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No XML expansion pack</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4739,6 +4967,20 @@ Modified time: </source>
         <source>
 
 Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpOprDoc</name>
+    <message>
+        <source>Cancle the XML Extend Packet</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpOprDocCommand</name>
+    <message>
+        <source>Are you sure cancel the XML extend pack?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

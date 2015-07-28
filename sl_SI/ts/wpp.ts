@@ -145,11 +145,11 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
-        <translation>Temen slog - poudari 1/poudari 2</translation>
+        <translation type="obsolete">Temen slog - poudari 1/poudari 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
-        <translation>Temen slog - poudari 3/poudari 4</translation>
+        <translation type="obsolete">Temen slog - poudari 3/poudari 4</translation>
     </message>
     <message>
         <source>Dark Styl 2-Emphasize 5/Emphasize 6</source>
@@ -187,6 +187,14 @@
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DesignLayoutPanel</name>
@@ -212,11 +220,15 @@
     </message>
     <message>
         <source>Add Design</source>
-        <translation type="unfinished">Dodaj Načrt</translation>
+        <translation type="obsolete">Dodaj Načrt</translation>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
         <translation>Pokaži ve&amp;like predoglede</translation>
+    </message>
+    <message>
+        <source>Add &amp;Design</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -536,7 +548,7 @@
     </message>
     <message>
         <source>UnLocked</source>
-        <translation>Odklenjeno</translation>
+        <translation type="obsolete">Odklenjeno</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -758,6 +770,10 @@
         <source>Sound &amp;volume:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Unlocked</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Dlgtypography</name>
@@ -889,11 +905,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>bgMagic tooltip</source>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
+        <source>Try for magic!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1109,11 +1125,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Magic Backgroud</source>
+        <source>Template Background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Template Background</source>
+        <source>Magic Background</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1315,17 +1331,16 @@ the presentation file directly.You can put it with the presentation file in the 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TextLabel</source>
+        <source>Text Label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Application documents online font, if your document needs circulated others, 
-we recommend that you saved earlier document fonts. 
-If necessary, click Cancel</source>
+        <source>The document contains cloud fonts. For the convenience of your readers, 
+we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remember this operation, do not remind anymore</source>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1785,7 +1800,7 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>Gerneral options</source>
-        <translation>Splošne možnosti</translation>
+        <translation type="obsolete">Splošne možnosti</translation>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
@@ -2056,14 +2071,6 @@ If necessary, click Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Privacy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Help us to improve WPS Office</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Preserve &amp;fidelity when sharing this document:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2096,11 +2103,59 @@ If necessary, click Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Password protect</source>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password protection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2279,6 +2334,113 @@ If necessary, click Cancel</source>
     </message>
 </context>
 <context>
+    <name>KxDlgParagraph</name>
+    <message>
+        <source>Paragraph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Indents and Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>point, 2, 0, 1584, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>line, 2, 0, 9.99, 0.1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;fter:</source>
+        <translation type="unfinished">P&amp;o:</translation>
+    </message>
+    <message>
+        <source>&amp;At:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Before:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Li&amp;ne spacing:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ali&amp;gnment:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Indentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Befo&amp;re text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Special:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>B&amp;y:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Break</source>
+        <translation type="unfinished">Prelom vrstice</translation>
+    </message>
+    <message>
+        <source>&amp;Use Asian rules for controlling first and last characters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
+        <translation type="unfinished">Do&amp;voli prelom latiničnega besedila na sredini besede</translation>
+    </message>
+    <message>
+        <source>Allow hanging punctuatio&amp;n</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First and last characters</source>
+        <translation type="unfinished">Prvi in zadnji znaki</translation>
+    </message>
+    <message>
+        <source>&amp;Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custo&amp;m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot st&amp;art line:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cann&amp;ot end line:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line-breaking characters currently customized for:</source>
+        <translation type="unfinished">Znaki za prelom vrstice so trenutno prilagojeni za:</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgProgress</name>
     <message>
         <source>Copying file to folder</source>
@@ -2448,6 +2610,10 @@ If necessary, click Cancel</source>
         <source>Total Playing Time:</source>
         <translation type="unfinished">Skupni čas predvajanja:</translation>
     </message>
+    <message>
+        <source>&amp;Hide icon on play</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgSplitCells</name>
@@ -2522,10 +2688,6 @@ If necessary, click Cancel</source>
 <context>
     <name>KxDlgVolumeRedress</name>
     <message>
-        <source>Volume Redress</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Volume</source>
         <translation>Gl&amp;asnost</translation>
     </message>
@@ -2540,6 +2702,10 @@ If necessary, click Cancel</source>
     <message>
         <source>&amp;Mute</source>
         <translation>&amp;Nemo</translation>
+    </message>
+    <message>
+        <source>Volume Adjustment</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2833,6 +2999,10 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>Enter slide numbers or slide ranges. For example, 1,3,5-12</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3251,19 +3421,19 @@ If necessary, click Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Comfirmation password does not match.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Folder:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3579,7 +3749,7 @@ If necessary, click Cancel</source>
     <name>KxTpSlideTransition</name>
     <message>
         <source>Zoom</source>
-        <translation type="obsolete">Povečava</translation>
+        <translation type="unfinished">Povečava</translation>
     </message>
     <message>
         <source>Apply to selected slides:</source>
@@ -3636,10 +3806,6 @@ If necessary, click Cancel</source>
     <message>
         <source>Loop until next sound</source>
         <translation type="unfinished">Ponavljaj do naslednjega zvoka</translation>
-    </message>
-    <message>
-        <source>Slide Transition</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4046,10 +4212,68 @@ If necessary, click Cancel</source>
     </message>
 </context>
 <context>
+    <name>KxWppFormatRangeSaveAsCommand</name>
+    <message>
+        <source>Preparing for Video Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to setup Supporter of Video Export.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line</source>
         <translation>Brez črte</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppNewSlidesGalleryModel</name>
+    <message>
+        <source>Blank Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blank</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4096,6 +4320,52 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>All slides in current presentation are marked as hidden. Either ensure that the slides are no longer hidden, or choose to print hidden slides.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppShowOffscreen</name>
+    <message>
+        <source>An Offscreen Show of this presentation is already running.
+Sure to close?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppSoundBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Fit Selection</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4472,10 +4742,6 @@ If necessary, click Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Follow Text and Lines Sheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Follow Shadows Scheme Color</source>
         <translation type="unfinished">Sledi barvni shemi senc</translation>
     </message>
@@ -4553,6 +4819,82 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>Double Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">Sredina</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation type="unfinished">(Brez)</translation>
+    </message>
+    <message>
+        <source>First line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hanging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished">cm</translation>
+    </message>
+    <message>
+        <source>Please input value between 0cm and 21.35cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input value between 0 and 9.99</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input value between 0pt and 1584pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5 times</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multiple</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>按文本和线条配色方案</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4884,10 +5226,6 @@ If necessary, click Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Printing permission:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4905,6 +5243,10 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>Export PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

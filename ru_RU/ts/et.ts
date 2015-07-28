@@ -777,11 +777,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Ascending(S)</source>
-        <translation type="obsolete">По возрастанию(S)</translation>
+        <translation type="unfinished">По возрастанию(S)</translation>
     </message>
     <message>
         <source>Descending(O)</source>
-        <translation type="obsolete">По убыванию(O)</translation>
+        <translation type="unfinished">По убыванию(O)</translation>
     </message>
     <message>
         <source>Clear(C)</source>
@@ -820,16 +820,28 @@ condition is true:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A&amp;scending</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Descending (&amp;O)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Clear</source>
         <translation type="unfinished">&amp;Очистить</translation>
+    </message>
+    <message>
+        <source>Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Begin With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not End With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Between</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1057,6 +1069,45 @@ condition is true:</source>
     <message>
         <source>Workbook</source>
         <translation>Книга</translation>
+    </message>
+</context>
+<context>
+    <name>KxColumnWidthFieldInfo</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Общий</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MDY</source>
+        <translation type="unfinished">МДГ</translation>
+    </message>
+    <message>
+        <source>DMY</source>
+        <translation type="unfinished">ДМГ</translation>
+    </message>
+    <message>
+        <source>YMD</source>
+        <translation type="unfinished">ГМД</translation>
+    </message>
+    <message>
+        <source>MYD</source>
+        <translation type="unfinished">МГД</translation>
+    </message>
+    <message>
+        <source>DYM</source>
+        <translation type="unfinished">ДГМ</translation>
+    </message>
+    <message>
+        <source>YDM</source>
+        <translation type="unfinished">ГДМ</translation>
+    </message>
+    <message>
+        <source>Skip</source>
+        <translation type="unfinished">Пропустить</translation>
     </message>
 </context>
 <context>
@@ -2338,6 +2389,10 @@ cursor in the edit box and press the Format Picture button.</source>
         <source>Command t&amp;ext:</source>
         <translation>Те&amp;кст команды:</translation>
     </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished">Список</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgErrorCheck</name>
@@ -2640,6 +2695,14 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>Find Pre&amp;vious</source>
         <translation>Найти &amp;ранее</translation>
+    </message>
+    <message>
+        <source>Ro&amp;w differences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colu&amp;mn differences</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4010,7 +4073,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>Помогите нам улучшить WPS Office</translation>
+        <translation type="obsolete">Помогите нам улучшить WPS Office</translation>
     </message>
     <message>
         <source>Display the tab bar at the bottom of doc&amp;ument</source>
@@ -4030,7 +4093,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
-        <translation type="obsolete">&amp;Показывать окна на панели задач</translation>
+        <translation type="unfinished">&amp;Показывать окна на панели задач</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
@@ -4090,6 +4153,38 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save As Create Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always create &amp;backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only &amp;recommended Option</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only &amp;recommended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4501,6 +4596,10 @@ p, li { white-space: pre-wrap; }
         <source>Num&amp;ber Format</source>
         <translation>Формат чи&amp;сла</translation>
     </message>
+    <message>
+        <source>&amp;Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPivotTableOptions</name>
@@ -4678,6 +4777,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Entire Wor&amp;kbook</source>
         <translation>Вся к&amp;нига</translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5580,7 +5683,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Data preview: </source>
-        <translation>Предварительный просмотр данных:</translation>
+        <translation type="obsolete">Предварительный просмотр данных:</translation>
     </message>
     <message>
         <source>This screen lets you set field widths (column breaks).</source>
@@ -8712,6 +8815,14 @@ system will remind you to check the correctness of the contents.
     <message>
         <source>Skip</source>
         <translation>Пропустить</translation>
+    </message>
+    <message>
+        <source>Preview selected data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data preview:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

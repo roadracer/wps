@@ -3192,8 +3192,12 @@ On</source>
         <translation type="unfinished">オンラインテンプレート</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>このコンピュータ上のテンプレート</translation>
+        <translation type="obsolete">このコンピュータ上のテンプレート</translation>
     </message>
     <message>
         <source>Open</source>
@@ -5588,7 +5592,7 @@ Order</source>
     </message>
     <message>
         <source>Conversion</source>
-        <translation type="obsolete">中国語の簡体字と繁体字の切り替え</translation>
+        <translation type="unfinished">中国語の簡体字と繁体字の切り替え</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -7982,6 +7986,10 @@ Shape</source>
         <translation type="obsolete">自動バックアップの停止</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Translate to Document</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8034,6 +8042,26 @@ Shape</source>
     <name>ongmani.proxycommands</name>
     <message>
         <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Slide Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10715,8 +10743,12 @@ AddIns</source>
         <translation type="unfinished">オンラインテンプレート</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>このコンピュータ上のテンプレート</translation>
+        <translation type="obsolete">このコンピュータ上のテンプレート</translation>
     </message>
     <message>
         <source>Open</source>
@@ -14585,6 +14617,10 @@ Effects</source>
         <translation type="obsolete">自動バックアップの停止</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Translate to Document</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14633,6 +14669,26 @@ Effects</source>
     <name>rainbow.proxycommands</name>
     <message>
         <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Slide Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17688,7 +17744,7 @@ Click the arrow to choose more outline styles.</source>
         <translation>ログアウト</translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
+        <source>Slide Library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18818,6 +18874,10 @@ Slide</source>
         <translation>Kingsoft情報パネル</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Office Space</source>
         <translation type="obsolete">オフィススペース</translation>
     </message>
@@ -18928,6 +18988,10 @@ Slide</source>
     <message>
         <source>Table Tools</source>
         <translation>表のツール</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Sign In</source>
@@ -19133,6 +19197,10 @@ Slide</source>
     <message>
         <source>New from Other Templates</source>
         <translation type="obsolete">既定のテンプレート</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Tab Page</source>

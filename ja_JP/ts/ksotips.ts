@@ -928,5 +928,13 @@ Click the arrow to select detailed settings for the outline.</source>
         <extracomment>Protect_Eyes_Night.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
+    <message id="TouchUiMode.title">
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TouchUiMode.content">
+        <source>More space between commands. Optimized for use with touch.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

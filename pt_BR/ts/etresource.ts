@@ -1277,6 +1277,14 @@ Centralizar</translation>
         <source>Protect and Share Workbook</source>
         <translation>Proteger e Compartilhar Pasta de Trabalho</translation>
     </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.record_macro</name>
@@ -1622,6 +1630,13 @@ de Formatação</translation>
     <message>
         <source>Zoom</source>
         <translation>Zoom</translation>
+    </message>
+</context>
+<context>
+    <name>classics.standard.Help</name>
+    <message>
+        <source>WPS Spreadsheets Help</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2618,6 +2633,10 @@ Tarefas</translation>
         <translation>Desfazer</translation>
     </message>
     <message>
+        <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up Bars</source>
         <translation>Up Bars</translation>
     </message>
@@ -2663,6 +2682,13 @@ Tarefas</translation>
     </message>
     <message>
         <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>etcommon.mainwindow.commands.DataGroup</name>
+    <message>
+        <source>Group</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2762,6 +2788,10 @@ Tarefas</translation>
         <translation>Mini Site</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Office Space</source>
         <translation type="obsolete">Office Space</translation>
     </message>
@@ -2856,6 +2886,10 @@ Tarefas</translation>
     <message>
         <source>Table Style</source>
         <translation>Estilo da Tabela</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Sign in</source>
@@ -2986,6 +3020,10 @@ Tarefas</translation>
     <message>
         <source>Minisite</source>
         <translation>Mini Site</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Office Space</source>
@@ -3413,7 +3451,7 @@ Colunas</translation>
     <name>ongmani.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>Agrupar</translation>
+        <translation type="obsolete">Agrupar</translation>
     </message>
 </context>
 <context>
@@ -4078,8 +4116,12 @@ Ligar/Desligar</translation>
         <translation>Novos Modelos Online</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>Novos baseados em  outros Modelos ...</translation>
+        <translation type="obsolete">Novos baseados em  outros Modelos ...</translation>
     </message>
     <message>
         <source>Open</source>
@@ -4180,6 +4222,10 @@ Ligar/Desligar</translation>
     <message>
         <source>WPS Office Product Center</source>
         <translation>Wps Office Product Center</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
@@ -5074,6 +5120,10 @@ Colunas</translation>
     </message>
     <message>
         <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6006,6 +6056,11 @@ On /Off</translation>
         <translation>Excluir</translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field
 Settings</source>
         <translation type="unfinished"></translation>
@@ -6101,6 +6156,11 @@ opções</translation>
 Data</source>
         <translation type="obsolete">Atualizar
 dados</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show
@@ -6387,6 +6447,16 @@ Alterações</translation>
     <message>
         <source>Translation</source>
         <translation>Tradução</translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7618,6 +7688,10 @@ Forma</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>Comentário Do Usuário</translation>
     </message>
@@ -7637,11 +7711,31 @@ Forma</translation>
 <context>
     <name>ongmani.proxycommands</name>
     <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Goal Seek</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Press Enter to Start Reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9038,7 +9132,7 @@ Cheia</translation>
     </message>
     <message>
         <source>Solver</source>
-        <translation type="obsolete">Solver</translation>
+        <translation type="unfinished">Solver</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -9174,6 +9268,14 @@ Cheia</translation>
     </message>
     <message>
         <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9524,7 +9626,7 @@ OLE DB Query</translation>
     <name>rainbow.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>Agrupar</translation>
+        <translation type="obsolete">Agrupar</translation>
     </message>
 </context>
 <context>
@@ -10107,8 +10209,12 @@ Add-Ins</source>
         <translation>Novos Modelos Online</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>Novos baseados em  outros Modelos ...</translation>
+        <translation type="obsolete">Novos baseados em  outros Modelos ...</translation>
     </message>
     <message>
         <source>Open</source>
@@ -10209,6 +10315,10 @@ Add-Ins</source>
     <message>
         <source>WPS Office Product Center</source>
         <translation>Centro de Produtos WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
@@ -11041,6 +11151,10 @@ centro</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>Para Cima</translation>
     </message>
@@ -11854,6 +11968,11 @@ centro</translation>
         <translation>Excluir</translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field Settings</source>
         <translation>Configurações do Campo</translation>
     </message>
@@ -11912,6 +12031,11 @@ centro</translation>
     <message>
         <source>Refresh Data</source>
         <translation type="obsolete">Atualizar dados</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -12098,6 +12222,14 @@ centro</translation>
     <message>
         <source>Translation</source>
         <translation>Tradução</translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13162,6 +13294,10 @@ Sombra
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>Comentário Do Usuário</translation>
     </message>
@@ -13185,11 +13321,31 @@ Sombra
 <context>
     <name>rainbow.proxycommands</name>
     <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Goal Seek</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Press Enter to Start Reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -557,10 +557,10 @@
     <message>
         <source>WPS Writer encountered an error when trying to update source file.
 Try one or more of the following:
-1、Check whether the source file has been opened or occupied by other programs.
-2、Check whether the source file is protected.
-3、Ensure that the source file is in the appropriate directory.
-4、Ensure that the source file can be supported by WPS.</source>
+1. Check whether the source file has been opened or occupied by other programs.
+2. Check whether the source file is protected.
+3. Make sure that the source file is in the appropriate directory.
+4. Make sure that the source file&apos;s format is supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2691,11 +2691,6 @@ Ali želite zamenjati?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
-        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Recorded %d too much data fields.</source>
         <comment>_TxMailMerge_FieldsTooMuch</comment>
         <translation type="unfinished"></translation>
@@ -2711,8 +2706,26 @@ Ali želite zamenjati?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer cannot open %s as Data or Header Source, because it is active mail merge main document.</source>
+        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
+        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
         <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot compare these documents because the document contain XML Nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer AaBbCc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <comment>TxUserInfo_DefaultUserName</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2736,7 +2749,7 @@ Ali želite zamenjati?</translation>
     <message>
         <source>The mesurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation type="unfinished">Mera mora biti med -1584 in 1584 pikami.</translation>
+        <translation type="obsolete">Mera mora biti med -1584 in 1584 pikami.</translation>
     </message>
     <message>
         <source>This style name is already in use or reserved for a built-in style.</source>
@@ -2756,7 +2769,7 @@ Ali želite zamenjati?</translation>
     <message>
         <source>The mesurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation type="unfinished">Mera mora biti med 0,5 in 600.</translation>
+        <translation type="obsolete">Mera mora biti med 0,5 in 600.</translation>
     </message>
     <message>
         <source>This style has a circulatory Based On styles list.</source>
@@ -2829,6 +2842,16 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <comment>_TxErr_InvalidAnchorPosition</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The measurement must be between -1584 pt and 1584 pt.</source>
+        <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The measurement must be between 0.5 and 600.</source>
+        <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_persist</name>
@@ -2841,16 +2864,6 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <source>Template</source>
         <comment>_TxDocument_DefaultTemplateName</comment>
         <translation type="unfinished">Predloga</translation>
-    </message>
-    <message>
-        <source>Normal.wpt</source>
-        <comment>_TxDocument_NormalTemplate</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>builtin.wpt</source>
-        <comment>_TxDocument_BuiltInTemplate</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>templates</source>
@@ -3139,8 +3152,13 @@ Please try one of the following.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
-This backup will be saved to(%s)</source>
+        <source>WPSV6-TEXT</source>
+        <comment>_TxFilter_ConfigKey</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -4414,11 +4432,6 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished">Število mora biti med 1 in %d.</translation>
     </message>
     <message>
-        <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
-        <comment>wps_sVBAMacroSecurityError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Web Page</source>
         <comment>wps_sWebPage</comment>
         <translation type="unfinished">Spletna stran</translation>
@@ -4556,11 +4569,6 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>The %d Drop-down item is not allow to be empty.</source>
         <comment>wps_sValidItem</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This shortcut key already exists. Please set aonther key.</source>
-        <comment>wps_sAppShortcutExisted</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4991,6 +4999,16 @@ Cancel:	Return to the dialog.</source>
         <comment>wps_sValidValue</comment>
         <translation type="unfinished">Število mora biti med %d in %d.</translation>
     </message>
+    <message>
+        <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed.</source>
+        <comment>wps_sVBAMacroSecurityError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This shortcut key already exists. Please set another key.</source>
+        <comment>wps_sAppShortcutExisted</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpsuil</name>
@@ -5078,11 +5096,6 @@ Cancel:	Return to the dialog.</source>
         <source>Microsoft Works Databases(*.wdb) | *.wdb; |</source>
         <comment>TxDesc_DataSource_wdb</comment>
         <translation type="unfinished">Microsoft Worksove zbirke podatkov(*.wdb) | *.wdb; |</translation>
-    </message>
-    <message>
-        <source>Outlook Personal Adress Books(*.pab) | *.pab; |</source>
-        <comment>TxDesc_DataSource_pab</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Lotus 1-2-3 Files(*.wk?; *.wj?) | *.wk?; *.wj?; |</source>
@@ -7281,8 +7294,8 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert DocumentField</source>
-        <comment>TxVersion_InsDocumentField</comment>
+        <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
+        <comment>TxDesc_DataSource_pab</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

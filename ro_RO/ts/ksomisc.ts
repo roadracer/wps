@@ -111,6 +111,10 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>KS Biaoge.lnk</source>
         <translation>KS Biaoge.lnk</translation>
     </message>
+    <message>
+        <source>WPS Cloud.lnk</source>
+        <translation type="unfinished">WPS Cloud.lnk</translation>
+    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -234,6 +238,18 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>Launch WPS Office.</source>
         <translation>Lansează WPS Office.</translation>
     </message>
+    <message>
+        <source>WPS Office Configuration Tools.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check for WPS Office Updates.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uninstall WPS Office.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KMainDlg</name>
@@ -286,7 +302,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>An error occured when repairing, please retry.</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
-        <translation>A intervenit o eroare când se repara, reâncercați.</translation>
+        <translation type="obsolete">A intervenit o eroare când se repara, reâncercați.</translation>
     </message>
     <message>
         <source>Repair completed!</source>
@@ -296,6 +312,11 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
         <translation>Nu utilizați un cont de administrator. Unele funcții nu sunt disponibile.</translation>
+    </message>
+    <message>
+        <source>An error occurred when repairing, please retry.</source>
+        <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -499,6 +520,10 @@ needs restarting Windows to take effect.</source>
         <translation>Opțiunea&quot;Compatibil cu aplicații de la terți&quot;
 are nevoie să reporniți Windows pentru a avea efect.</translation>
     </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2010</source>
+        <translation type="unfinished">&amp;Compatibil cu Microsoft Office 2010</translation>
+    </message>
 </context>
 <context>
     <name>KPageHomePage</name>
@@ -508,7 +533,7 @@ are nevoie să reporniți Windows pentru a avea efect.</translation>
     </message>
     <message>
         <source>You can unlock the IE homepage if you don&apos;t like. Note: unlock the homepage may have virus infection and your accounts hacked.</source>
-        <translation>Puteți debloca pagina implicită IE dacă nu vă place. Notificare: deblocarea paginii implicite poate să vă infecteze cu viruși iar conturile dumneavoastră piratate.</translation>
+        <translation type="obsolete">Puteți debloca pagina implicită IE dacă nu vă place. Notificare: deblocarea paginii implicite poate să vă infecteze cu viruși iar conturile dumneavoastră piratate.</translation>
     </message>
     <message>
         <source>Unlock the website navigation page(&amp;R)</source>
@@ -516,7 +541,16 @@ are nevoie să reporniți Windows pentru a avea efect.</translation>
     </message>
     <message>
         <source>Unlock completed</source>
-        <translation>Deblocare finalizată</translation>
+        <translation type="obsolete">Deblocare finalizată</translation>
+    </message>
+    <message>
+        <source>You can change the IE homepage anytime.
+Notice that doing so exposes you to risks of virus infection and hacking.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -580,60 +614,108 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
         <source>·Registering kso.dll failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> A eșuat înregistrarea kso.dll
+        <translation type="obsolete"> A eșuat înregistrarea kso.dll
 </translation>
     </message>
     <message>
         <source>·Failed to register WPS Writer
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> A eșuat înregistrarea WPS Writer</translation>
+        <translation type="obsolete"> A eșuat înregistrarea WPS Writer</translation>
     </message>
     <message>
         <source>·Failed to register WPS Presentation
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> A eșuat înregistrarea WPS Presentation
+        <translation type="obsolete"> A eșuat înregistrarea WPS Presentation
 </translation>
     </message>
     <message>
         <source>·Failed to register WPS Spreadsheets
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> A eșuat înregistrarea WPS Spreadsheets
+        <translation type="obsolete"> A eșuat înregistrarea WPS Spreadsheets
 </translation>
     </message>
     <message>
         <source>·Registering WPS Equation Editor failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> A eșuat înregistrarea WPS Equation Editor
+        <translation type="obsolete"> A eșuat înregistrarea WPS Equation Editor
 </translation>
     </message>
     <message>
         <source>·WPS Writer not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·WPS Writer nu a fost găsit</translation>
+        <translation type="obsolete">·WPS Writer nu a fost găsit</translation>
     </message>
     <message>
         <source>·WPS Presentation not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·WPS Presentation nu a fost găsit
+        <translation type="obsolete">·WPS Presentation nu a fost găsit
 </translation>
     </message>
     <message>
         <source>·WPS Spreadsheets not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·WPS Spreadsheets nu a fost găsit</translation>
+        <translation type="obsolete">·WPS Spreadsheets nu a fost găsit</translation>
     </message>
     <message>
         <source>To solve the above problems, you need to reinstall WPS Office. 
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
         <translation>Pentru a rezolva problema de mai sus, trebuie să reinstalați WPS Office. </translation>
+    </message>
+    <message>
+        <source> Registering kso.dll failed
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Writer
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Presentation
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Spreadsheets
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Registering WPS Equation Editor failed
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> WPS Writer not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> WPS Presentation not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> WPS Spreadsheets not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1084,6 +1166,22 @@ Pictograma butonului, comanda grupează și poziția ferestrei de sarcini ale fi
         <source>Microsoft PowerPoint Macro-Enabled Slide</source>
         <translation>Microsoft PowerPoint Macro-Enabled Slide</translation>
     </message>
+    <message>
+        <source>Microsoft Excel Backup File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer Preview Handler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Preview Handler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Preview Handler</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KSNManagerDlg</name>
@@ -1105,7 +1203,7 @@ Pictograma butonului, comanda grupează și poziția ferestrei de sarcini ale fi
     </message>
     <message>
         <source>Programs that can be actiavted</source>
-        <translation>Programe care se pot activa</translation>
+        <translation type="obsolete">Programe care se pot activa</translation>
     </message>
     <message>
         <source>Subtotal:</source>
@@ -1114,6 +1212,10 @@ Pictograma butonului, comanda grupează și poziția ferestrei de sarcini ale fi
     <message>
         <source>Are you sure to delete the serial number?</source>
         <translation>Sigur ștergeți numărul serial?</translation>
+    </message>
+    <message>
+        <source>Programs that can be activated</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1140,7 +1242,7 @@ Pictograma butonului, comanda grupează și poziția ferestrei de sarcini ale fi
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>
-        <translation>Nu verifica după actualizări automat (nu este recomandat)</translation>
+        <translation type="obsolete">Nu verifica după actualizări automat (nu este recomandat)</translation>
     </message>
     <message>
         <source>Get the latest product news during updates(&amp;K)</source>
@@ -1206,6 +1308,22 @@ Pictograma butonului, comanda grupează și poziția ferestrei de sarcini ale fi
     <message>
         <source>The port must be a number between 1 and 65535.</source>
         <translation>Portul nu poate fi un număr între 1 și 65535.</translation>
+    </message>
+    <message>
+        <source>Do not &amp;check for updates automatically (not recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update Items:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All new releases</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommended new releases</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

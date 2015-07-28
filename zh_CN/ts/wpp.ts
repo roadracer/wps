@@ -2679,7 +2679,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>帮助我们改进WPS Office</translation>
+        <translation type="obsolete">帮助我们改进WPS Office</translation>
     </message>
     <message>
         <source>&amp;Entries</source>
@@ -2755,6 +2755,18 @@ be recovered.</source>
     </message>
     <message>
         <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3771,6 +3783,10 @@ be recovered.</source>
     <message>
         <source>Enter slide numbers or slide ranges. For example, 1,3,5-12</source>
         <translation>请输入幻灯片编号或幻灯片范围。例如，1,3,5-12</translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

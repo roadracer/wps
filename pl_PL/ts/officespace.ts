@@ -269,7 +269,7 @@
     </message>
     <message>
         <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation>Dokument ma teraz włączone automatyczne tworzenie kopii zapasowych!&lt;br /&gt;Plik kopii zapasowej zostanie utworzony w Przestrzeni biurowej za każdym razem, gdy dokument zostanie zamknięty.</translation>
+        <translation type="obsolete">Dokument ma teraz włączone automatyczne tworzenie kopii zapasowych!&lt;br /&gt;Plik kopii zapasowej zostanie utworzony w Przestrzeni biurowej za każdym razem, gdy dokument zostanie zamknięty.</translation>
     </message>
     <message>
         <source>Login File Safe before manual backup.</source>
@@ -330,7 +330,7 @@
     </message>
     <message>
         <source>http://www.kingsoftstore.com/support/pc-office</source>
-        <translation>http://www.kingsoftstore.com/support/pc-office</translation>
+        <translation type="obsolete">http://www.kingsoftstore.com/support/pc-office</translation>
     </message>
     <message>
         <source>Modify Time:</source>
@@ -1356,7 +1356,7 @@ rozmiar:%2
     <name>KxCheckUploadDlg</name>
     <message>
         <source>Documents saving to the cloud failed. Please check the internet and retry</source>
-        <translation>Zapisywanie dokumentów do usługi Cloud nie powiodło się. Proszę sprawdź połączenie internetowe i spróbuj ponownie</translation>
+        <translation type="obsolete">Zapisywanie dokumentów do usługi Cloud nie powiodło się. Proszę sprawdź połączenie internetowe i spróbuj ponownie</translation>
     </message>
     <message>
         <source>Checking completed and will upload it at background</source>
@@ -2268,7 +2268,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>Your subscription does not include VBA so that macros in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
-        <translation>Twoja subskrypcja nie zawiera VBA, dlatego makra w dokumencie nie mogą działać poprawnie. Proszę zakupić osobno, aby włączyć makro w razie potrzeby.</translation>
+        <translation type="obsolete">Twoja subskrypcja nie zawiera VBA, dlatego makra w dokumencie nie mogą działać poprawnie. Proszę zakupić osobno, aby włączyć makro w razie potrzeby.</translation>
     </message>
 </context>
 <context>

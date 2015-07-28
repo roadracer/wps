@@ -963,11 +963,11 @@ condition is true: </source>
     </message>
     <message>
         <source>Ascending(S)</source>
-        <translation type="obsolete">遞增排序</translation>
+        <translation type="unfinished">遞增排序</translation>
     </message>
     <message>
         <source>Descending(O)</source>
-        <translation type="obsolete">遞減排序</translation>
+        <translation type="unfinished">遞減排序</translation>
     </message>
     <message>
         <source>Filter by Value</source>
@@ -1082,16 +1082,28 @@ condition is true: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A&amp;scending</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Descending (&amp;O)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Clear</source>
         <translation type="unfinished">清除(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Begin With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not End With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Between</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1398,6 +1410,45 @@ condition is true: </source>
     <message>
         <source>Workbook</source>
         <translation>活頁簿</translation>
+    </message>
+</context>
+<context>
+    <name>KxColumnWidthFieldInfo</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">文字</translation>
+    </message>
+    <message>
+        <source>MDY</source>
+        <translation type="unfinished">MDY</translation>
+    </message>
+    <message>
+        <source>DMY</source>
+        <translation type="unfinished">DMY</translation>
+    </message>
+    <message>
+        <source>YMD</source>
+        <translation type="unfinished">YMD</translation>
+    </message>
+    <message>
+        <source>MYD</source>
+        <translation type="unfinished">MYD</translation>
+    </message>
+    <message>
+        <source>DYM</source>
+        <translation type="unfinished">DYM</translation>
+    </message>
+    <message>
+        <source>YDM</source>
+        <translation type="unfinished">YDM</translation>
+    </message>
+    <message>
+        <source>Skip</source>
+        <translation type="unfinished">不匯入此欄</translation>
     </message>
 </context>
 <context>
@@ -2891,6 +2942,10 @@ cursor in the edit box and press the Format Picture button.</source>
         <source>Command T&amp;ext:</source>
         <translation type="obsolete">命令文字(&amp;E):</translation>
     </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished">清單</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgErrorCheck</name>
@@ -3261,6 +3316,14 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>Visible Cells Onl&amp;y</source>
         <translation type="obsolete">可見儲存格(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>Ro&amp;w differences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colu&amp;mn differences</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4756,7 +4819,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>幫助我們改進產品。</translation>
+        <translation type="obsolete">幫助我們改進產品。</translation>
     </message>
     <message>
         <source>Double-click in the space to create a &amp;new document</source>
@@ -4912,6 +4975,42 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save As Create Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always create &amp;backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only &amp;recommended Option</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only &amp;recommended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5383,6 +5482,10 @@ p, li { white-space: pre-wrap; }
         <source>Summarize by</source>
         <translation type="obsolete">小計</translation>
     </message>
+    <message>
+        <source>&amp;Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPivotTableOptions</name>
@@ -5615,6 +5718,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Entire Wor&amp;kbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6594,7 +6701,7 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>Data preview: </source>
-        <translation>預覽分欄結果:</translation>
+        <translation type="obsolete">預覽分欄結果:</translation>
     </message>
     <message>
         <source>Delimiters </source>
@@ -10506,6 +10613,14 @@ system will remind you to check the correctness of the contents.
     <message>
         <source>Text Import Wizard - Step %d of 3</source>
         <translation type="obsolete">匯入字串精靈 - 3 步骤之 %1</translation>
+    </message>
+    <message>
+        <source>Preview selected data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data preview:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

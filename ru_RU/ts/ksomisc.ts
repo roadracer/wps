@@ -238,6 +238,18 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>Launch WPS Office.</source>
         <translation>Запуск WPS Office.</translation>
     </message>
+    <message>
+        <source>WPS Office Configuration Tools.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check for WPS Office Updates.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uninstall WPS Office.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KMainDlg</name>
@@ -603,55 +615,103 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
         <source>·Registering kso.dll failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·Ошибка регистрации kso.dll</translation>
+        <translation type="obsolete">·Ошибка регистрации kso.dll</translation>
     </message>
     <message>
         <source>·Failed to register WPS Writer
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> Ошибка регистрации WPS Writer</translation>
+        <translation type="obsolete"> Ошибка регистрации WPS Writer</translation>
     </message>
     <message>
         <source>·Failed to register WPS Presentation
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> Ошибка регистрации WPS Presentation</translation>
+        <translation type="obsolete"> Ошибка регистрации WPS Presentation</translation>
     </message>
     <message>
         <source>·Failed to register WPS Spreadsheets
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> Ошибка регистрации WPS Spreadsheets</translation>
+        <translation type="obsolete"> Ошибка регистрации WPS Spreadsheets</translation>
     </message>
     <message>
         <source>·Registering WPS Equation Editor failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> Ошибка регистрации редактора формул WPS</translation>
+        <translation type="obsolete"> Ошибка регистрации редактора формул WPS</translation>
     </message>
     <message>
         <source>·WPS Writer not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> WPS Writer не найден</translation>
+        <translation type="obsolete"> WPS Writer не найден</translation>
     </message>
     <message>
         <source>·WPS Presentation not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> WPS Presentation не найден</translation>
+        <translation type="obsolete"> WPS Presentation не найден</translation>
     </message>
     <message>
         <source>·WPS Spreadsheets not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> WPS Spreadsheets не найден</translation>
+        <translation type="obsolete"> WPS Spreadsheets не найден</translation>
     </message>
     <message>
         <source>To solve the above problems, you need to reinstall WPS Office. 
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
         <translation>Для устранения вышеуказанных проблем необходимо переустановить WPS Office.</translation>
+    </message>
+    <message>
+        <source> Registering kso.dll failed
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Writer
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Presentation
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Spreadsheets
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Registering WPS Equation Editor failed
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> WPS Writer not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> WPS Presentation not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> WPS Spreadsheets not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1105,6 +1165,18 @@ The button icon, command group and task window position of each scheme are diffe
         <source>Microsoft Excel Backup File</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>WPS Writer Preview Handler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Preview Handler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Preview Handler</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KSNManagerDlg</name>
@@ -1233,10 +1305,6 @@ The button icon, command group and task window position of each scheme are diffe
         <translation>Номер порта должен быть числом от 0 до 65535.</translation>
     </message>
     <message>
-        <source>Do not check for updates automatically (not recommended)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Update Items:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1246,6 +1314,10 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Recommended new releases</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not &amp;check for updates automatically (not recommended)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

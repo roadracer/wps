@@ -169,12 +169,22 @@ Try one or more of the following:
 3、Ensure that the source file is in the appropriate directory.
 4、Ensure that the source file can be supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation>WPS Writer a întâmpinat o eroare la încercarea de actualizare a fișierului sursă.
+        <translation type="obsolete">WPS Writer a întâmpinat o eroare la încercarea de actualizare a fișierului sursă.
 Încercați una sau mai multe dintre următoarele:
 1、Verificați dacă fișierul sursă a fost deschis sau ocupat de alte programe.
 2、Verificați dacă fișierul sursă este protejat.
 3、Asigurați-vă că fișierul sursă este în directorul corespunzător.
 4、Asigurați-vă că fișierul sursă poate fi suportat de WPS.</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1. Check whether the source file has been opened or occupied by other programs.
+2. Check whether the source file is protected.
+3. Make sure that the source file is in the appropriate directory.
+4. Make sure that the source file&apos;s format is supported by WPS.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2300,7 +2310,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
         <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation>WPS Writer nu poate combina documentul principal cu sursa datei fiindcă datele înregistrate sunt goale sau nu sunt înregistrări de date care se potrivesc opțiunilor de interogare.</translation>
+        <translation type="obsolete">WPS Writer nu poate combina documentul principal cu sursa datei fiindcă datele înregistrate sunt goale sau nu sunt înregistrări de date care se potrivesc opțiunilor de interogare.</translation>
     </message>
     <message>
         <source>Recorded %d too much data fields.</source>
@@ -2318,8 +2328,26 @@ Doriți să-l înlocuiți?</translation>
         <translation>Înregistrarea %d este goală.</translation>
     </message>
     <message>
-        <source>WPS Writer cannot open %s as Data or Header Source, because it is active mail merge main document.</source>
+        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
+        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
+        <translation type="unfinished">WPS Writer nu poate combina documentul principal cu sursa datei fiindcă datele înregistrate sunt goale sau nu sunt înregistrări de date care se potrivesc opțiunilor de interogare.</translation>
+    </message>
+    <message>
+        <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
         <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot compare these documents because the document contain XML Nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer AaBbCc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <comment>TxUserInfo_DefaultUserName</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2343,7 +2371,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>The mesurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation>Măsurătoarea trebuie să fie între 1584 pct și 1584 pct.</translation>
+        <translation type="obsolete">Măsurătoarea trebuie să fie între 1584 pct și 1584 pct.</translation>
     </message>
     <message>
         <source>This style name is already in use or reserved for a built-in style.</source>
@@ -2363,7 +2391,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>The mesurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation>Măsurătoarea trebuie să fie între 0.5 și 600.</translation>
+        <translation type="obsolete">Măsurătoarea trebuie să fie între 0.5 și 600.</translation>
     </message>
     <message>
         <source>This style has a circulatory Based On styles list.</source>
@@ -2436,6 +2464,16 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <comment>_TxErr_InvalidAnchorPosition</comment>
         <translation>Nu puteți pune obiecte desenate într-o casetă text, legendă, comentariu, notă de subsol, sau notă de final.</translation>
     </message>
+    <message>
+        <source>The measurement must be between -1584 pt and 1584 pt.</source>
+        <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The measurement must be between 0.5 and 600.</source>
+        <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_persist</name>
@@ -2452,12 +2490,12 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Normal.wpt</source>
         <comment>_TxDocument_NormalTemplate</comment>
-        <translation>Normal.wpt</translation>
+        <translation type="obsolete">Normal.wpt</translation>
     </message>
     <message>
         <source>builtin.wpt</source>
         <comment>_TxDocument_BuiltInTemplate</comment>
-        <translation>builtin.wpt</translation>
+        <translation type="obsolete">builtin.wpt</translation>
     </message>
     <message>
         <source>templates</source>
@@ -2659,7 +2697,7 @@ Rețineți că unele fișiere pot conține macro-viruși și pot efectua alte ac
     <message>
         <source>WPSV6-TEXT</source>
         <comment>_TxFilter_ConfigKey</comment>
-        <translation type="obsolete">WPSV6-TEXT</translation>
+        <translation type="unfinished">WPSV6-TEXT</translation>
     </message>
     <message>
         <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
@@ -2780,8 +2818,8 @@ To continue saving as a macro-free workbook, click Yes.
         <translation>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</translation>
     </message>
     <message>
-        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
-This backup will be saved to(%s)</source>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -4058,7 +4096,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %s.</tra
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
         <comment>wps_sVBAMacroSecurityError</comment>
-        <translation>WPS Writer a întâmpinat o eroare când ajusta securitatea macrocomenzii. Aceasta se poate datora faptului că mediul VBA nu este instalat.</translation>
+        <translation type="obsolete">WPS Writer a întâmpinat o eroare când ajusta securitatea macrocomenzii. Aceasta se poate datora faptului că mediul VBA nu este instalat.</translation>
     </message>
     <message>
         <source>Web Page</source>
@@ -4198,7 +4236,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %s.</tra
     <message>
         <source>This shortcut key already exists. Please set aonther key.</source>
         <comment>wps_sAppShortcutExisted</comment>
-        <translation>Tasta scurtătură deja există. Configurați o altă tastă.</translation>
+        <translation type="obsolete">Tasta scurtătură deja există. Configurați o altă tastă.</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
@@ -4633,6 +4671,16 @@ Anulare:	Revine la diagol.</translation>
         <comment>wps_sValidValue</comment>
         <translation>Numărul trebuie să fie între %d și %d.</translation>
     </message>
+    <message>
+        <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed.</source>
+        <comment>wps_sVBAMacroSecurityError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This shortcut key already exists. Please set another key.</source>
+        <comment>wps_sAppShortcutExisted</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpsuil</name>
@@ -4714,7 +4762,7 @@ Anulare:	Revine la diagol.</translation>
     <message>
         <source>Outlook Personal Adress Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
-        <translation>Outlook Personal Adress Books(*.pab) | *.pab; |</translation>
+        <translation type="obsolete">Outlook Personal Adress Books(*.pab) | *.pab; |</translation>
     </message>
     <message>
         <source>Lotus 1-2-3 Files(*.wk?; *.wj?) | *.wk?; *.wj?; |</source>
@@ -6918,7 +6966,12 @@ ortografică</translation>
     <message>
         <source>Insert DocumentField</source>
         <comment>TxVersion_InsDocumentField</comment>
-        <translation>Introdu câmp document</translation>
+        <translation type="obsolete">Introdu câmp document</translation>
+    </message>
+    <message>
+        <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
+        <comment>TxDesc_DataSource_pab</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

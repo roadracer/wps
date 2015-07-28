@@ -219,7 +219,7 @@
     </message>
     <message>
         <source>http://www.kingsoftstore.com/support/pc-office</source>
-        <translation type="unfinished">http://www.kingsoftstore.com/support/pc-office</translation>
+        <translation type="obsolete">http://www.kingsoftstore.com/support/pc-office</translation>
     </message>
     <message>
         <source>Kingsoft Office auto backup</source>

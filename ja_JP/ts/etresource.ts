@@ -1387,6 +1387,14 @@ Center</source>
         <source>Protect and Share Workbook</source>
         <translation>ブックの保護と共有</translation>
     </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.record_macro</name>
@@ -1779,6 +1787,13 @@ Center</source>
     <message>
         <source>Zoom</source>
         <translation>ズーム</translation>
+    </message>
+</context>
+<context>
+    <name>classics.standard.Help</name>
+    <message>
+        <source>WPS Spreadsheets Help</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3033,6 +3048,10 @@ Window</source>
         <translation>元に戻す</translation>
     </message>
     <message>
+        <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up Bars</source>
         <translation>ローソクポップアップ メニュー</translation>
     </message>
@@ -3082,6 +3101,13 @@ Window</source>
     </message>
     <message>
         <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>etcommon.mainwindow.commands.DataGroup</name>
+    <message>
+        <source>Group</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3233,6 +3259,10 @@ Window</source>
         <translation>Kingsoft情報パネル</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not Logged in</source>
         <translation type="obsolete">ログイン</translation>
     </message>
@@ -3355,6 +3385,10 @@ Window</source>
     <message>
         <source>Table Style</source>
         <translation>表のスタイル</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Login</source>
@@ -3525,6 +3559,10 @@ Window</source>
     <message>
         <source>Minisite</source>
         <translation>Kingsoft情報パネル</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Not logged in</source>
@@ -4067,7 +4105,7 @@ Columns</source>
     <name>ongmani.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
 </context>
 <context>
@@ -4881,8 +4919,12 @@ On/Off</source>
         <translation>オンラインテンプレート</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>このコンピュータ上のテンプレート</translation>
+        <translation type="obsolete">このコンピュータ上のテンプレート</translation>
     </message>
     <message>
         <source>Open</source>
@@ -5015,6 +5057,10 @@ On/Off</source>
     <message>
         <source>WPS Online</source>
         <translation type="obsolete">キングソフト オンライン</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
@@ -6041,6 +6087,10 @@ Columns</source>
     </message>
     <message>
         <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7363,6 +7413,11 @@ On/Off</source>
         <translation type="obsolete">削除</translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field
 Settings</source>
         <translation type="unfinished"></translation>
@@ -7484,6 +7539,11 @@ Data</source>
     <message>
         <source>Refresh Data</source>
         <translation type="obsolete">データの更新</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show
@@ -7851,6 +7911,16 @@ Changes</source>
     <message>
         <source>Translation</source>
         <translation>翻訳</translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9367,6 +9437,10 @@ Shape</source>
         <translation type="obsolete">自動バージョンの停止</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>ヘルプ</translation>
     </message>
@@ -9390,11 +9464,31 @@ Shape</source>
 <context>
     <name>ongmani.proxycommands</name>
     <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Goal Seek</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Press Enter to Start Reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11024,7 +11118,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Solver</source>
-        <translation type="obsolete">ソルバー</translation>
+        <translation type="unfinished">ソルバー</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -11172,6 +11266,14 @@ Add-Ins</source>
     </message>
     <message>
         <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11590,7 +11692,7 @@ DB クエリの編集</translation>
     <name>rainbow.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
 </context>
 <context>
@@ -12283,8 +12385,12 @@ AddIns</source>
         <translation>オンラインテンプレート</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>このコンピュータ上のテンプレート</translation>
+        <translation type="obsolete">このコンピュータ上のテンプレート</translation>
     </message>
     <message>
         <source>Open</source>
@@ -12417,6 +12523,10 @@ AddIns</source>
     <message>
         <source>WPS Online</source>
         <translation type="obsolete">キングソフト オンライン</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
@@ -13330,6 +13440,10 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>上方向へコピー</translation>
     </message>
@@ -14238,6 +14352,11 @@ Center</source>
         <translation type="obsolete">削除</translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field Settings</source>
         <translation>フィールド設定</translation>
     </message>
@@ -14300,6 +14419,11 @@ Center</source>
     <message>
         <source>Refresh Data</source>
         <translation type="obsolete">データの更新</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -14519,6 +14643,14 @@ Center</source>
     <message>
         <source>Translation</source>
         <translation>翻訳</translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15783,6 +15915,10 @@ Color</source>
         <translation type="obsolete">自動バックアップの停止</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>ヘルプ</translation>
     </message>
@@ -15810,11 +15946,31 @@ Color</source>
 <context>
     <name>rainbow.proxycommands</name>
     <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Goal Seek</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Press Enter to Start Reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

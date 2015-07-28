@@ -3399,13 +3399,35 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
         <translation type="unfinished"></translation>
     </message>
     <message id="Compare.title">
-        <source></source>
-        <extracomment>Compare.title</extracomment>
+        <source>Compare</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="Compare.content">
-        <source></source>
-        <extracomment>Compare.content</extracomment>
+        <source>Compare two documents to see the differences between them.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="XmlStructure.title">
+        <source>Structure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="XmlStructure.content">
+        <source>Open the XML Structure task pane.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="XmlSchema.title">
+        <source>Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="XmlSchema.content">
+        <source>Manage the XML schema attached to this document or add a new schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="XmlExpansionPacksWord.title">
+        <source>Expansion Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="XmlExpansionPacksWord.content">
+        <source>Manage the XML expansion packs attached to this document, or attach a new expansion pack.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -1815,10 +1815,6 @@ The Advanced button allows you to choose from different encryption types.</trans
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Help us to improve WPS Office</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ignore words in &amp;UPPERCASE</source>
         <translation type="obsolete">Ignore words in &amp;uppercase</translation>
     </message>
@@ -2060,6 +2056,18 @@ The Advanced button allows you to choose from different encryption types.</trans
     </message>
     <message>
         <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2939,6 +2947,10 @@ The Advanced button allows you to choose from different encryption types.</trans
     </message>
     <message>
         <source>Slides per pa&amp;ge:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

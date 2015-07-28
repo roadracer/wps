@@ -2456,6 +2456,22 @@ Editor</source>
 Editor</source>
         <translation type="obsolete">Editor do Visual Basic</translation>
     </message>
+    <message>
+        <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlExpansionPacksWord</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlStructure</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_drawingtools</name>
@@ -3210,6 +3226,10 @@ Texto</translation>
     <message>
         <source>WPS Office Product Center</source>
         <translation>Centro de Produtos do WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007-2010 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -5578,6 +5598,10 @@ de Notas de Fim
         <translation>Mudar Nome de Utilizador</translation>
     </message>
     <message>
+        <source>Chinese Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Comments</source>
         <translation>Comentários</translation>
     </message>
@@ -5753,6 +5777,10 @@ Alterações</translation>
     <message>
         <source>Tracking</source>
         <translation>Registrar</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -7975,10 +8003,6 @@ Shape</source>
         <translation>Abrir dos Documentos na Nuvem</translation>
     </message>
     <message>
-        <source>PDF To Word</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Save to Cloud Docs</source>
         <translation>Salve Documentos na Nuvem</translation>
     </message>
@@ -8034,6 +8058,10 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Output Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>PDF To Word</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8042,7 +8070,15 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9740,6 +9776,10 @@ Painter</source>
         <translation>Faixa</translation>
     </message>
     <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
         <translation>&quot;Duas Linhas Numa&quot;</translation>
     </message>
@@ -10160,6 +10200,22 @@ Design</translation>
     <message>
         <source>Visual Basic Editor</source>
         <translation>Editor de Visual Basic</translation>
+    </message>
+    <message>
+        <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlExpansionPacksWord</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlStructure</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10835,6 +10891,10 @@ Design</translation>
     <message>
         <source>WPS Office Product Center</source>
         <translation>Central de produtos do WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007-2010 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -13170,6 +13230,10 @@ Texto</translation>
         <translation>Rastreamento</translation>
     </message>
     <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Use Balloons</source>
         <translation>Utilizar Balões</translation>
     </message>
@@ -15027,10 +15091,6 @@ Sombra</translation>
         <translation>Abrir do Cloud Docs</translation>
     </message>
     <message>
-        <source>PDF To Word</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Save to Cloud Docs</source>
         <translation>Salvar para Cloud Docs</translation>
     </message>
@@ -15090,6 +15150,10 @@ Sombra</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Output Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>PDF To Word</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15098,7 +15162,15 @@ Sombra</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16852,6 +16924,14 @@ Sombra</translation>
         <translation>Abrir</translation>
     </message>
     <message>
+        <source>Operation Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opr</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17174,6 +17254,10 @@ Diretamente</translation>
         <translation>&quot;Contar Palavras. Seleccione para abrir o diálogo &quot;Contar Palavras&quot;.&quot;</translation>
     </message>
     <message>
+        <source>XMLStructure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Zoom</source>
         <translation>Ampliar</translation>
     </message>
@@ -17183,6 +17267,10 @@ Diretamente</translation>
     </message>
     <message>
         <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>structure</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17283,6 +17371,10 @@ Diretamente</translation>
         <translation>Novo de Outros Modelos...</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Office Space</source>
         <translation type="obsolete">Espaço Office</translation>
     </message>
@@ -17301,6 +17393,10 @@ Diretamente</translation>
     <message>
         <source>Outline</source>
         <translation>Realçe</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -17389,6 +17485,10 @@ Diretamente</translation>
     <message>
         <source>Table Tools</source>
         <translation>Ferramentas da Tabela</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Sign in</source>
@@ -17525,6 +17625,10 @@ Diretamente</translation>
         <translation>&quot;Painel de Navegação&quot;</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Office Space</source>
         <translation type="obsolete">Espaço Office</translation>
     </message>
@@ -17539,6 +17643,10 @@ Diretamente</translation>
     <message>
         <source>Outline</source>
         <translation>Realçe</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Layout</source>

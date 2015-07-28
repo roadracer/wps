@@ -844,11 +844,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Ascending(S)</source>
-        <translation type="obsolete">Rosnąco(S)</translation>
+        <translation type="unfinished">Rosnąco(S)</translation>
     </message>
     <message>
         <source>Descending(O)</source>
-        <translation type="obsolete">Malejąco(O)</translation>
+        <translation type="unfinished">Malejąco(O)</translation>
     </message>
     <message>
         <source>Clear(C)</source>
@@ -884,15 +884,35 @@ condition is true:</source>
     </message>
     <message>
         <source>A&amp;scending</source>
-        <translation>&amp;Rosnąco</translation>
+        <translation type="obsolete">&amp;Rosnąco</translation>
     </message>
     <message>
         <source>Descending (&amp;O)</source>
-        <translation>Malejąco (&amp;M)</translation>
+        <translation type="obsolete">Malejąco (&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
         <translation>&amp;Wyczyść</translation>
+    </message>
+    <message>
+        <source>Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Begin With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not End With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Between</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1168,6 +1188,45 @@ condition is true:</source>
     <message>
         <source>Workbook</source>
         <translation>Skoroszyt</translation>
+    </message>
+</context>
+<context>
+    <name>KxColumnWidthFieldInfo</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Ogólne</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MDY</source>
+        <translation type="unfinished">MDR</translation>
+    </message>
+    <message>
+        <source>DMY</source>
+        <translation type="unfinished">DMR</translation>
+    </message>
+    <message>
+        <source>YMD</source>
+        <translation type="unfinished">RMD</translation>
+    </message>
+    <message>
+        <source>MYD</source>
+        <translation type="unfinished">MRD</translation>
+    </message>
+    <message>
+        <source>DYM</source>
+        <translation type="unfinished">DRM</translation>
+    </message>
+    <message>
+        <source>YDM</source>
+        <translation type="unfinished">RDM</translation>
+    </message>
+    <message>
+        <source>Skip</source>
+        <translation type="unfinished">Pomiń</translation>
     </message>
 </context>
 <context>
@@ -1462,7 +1521,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Greater than or equal</source>
-        <translation>Większa lub równa</translation>
+        <translation type="obsolete">Większa lub równa</translation>
     </message>
     <message>
         <source>Less than</source>
@@ -1470,7 +1529,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Less than or equal</source>
-        <translation>Mniejsza lub równa</translation>
+        <translation type="obsolete">Mniejsza lub równa</translation>
     </message>
     <message>
         <source>and</source>
@@ -1781,7 +1840,7 @@ condition is true:</source>
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation>Nie można utworzyć tabeli przestawnej z tych danych. Proszę sprawdzić, czy dane, które chcesz analizować spełniają następujące warunki:
+        <translation type="obsolete">Nie można utworzyć tabeli przestawnej z tych danych. Proszę sprawdzić, czy dane, które chcesz analizować spełniają następujące warunki:
 1.Upewnij się, że istnieje odwołanie. Jeżeli jest to nazwa, to musi być prawidłowym zakresem;
 2.Upewnij się, że odwołanie jest pojedynczym zakresem i musi zawierać co najmniej dwa wiersze;
 3.Upewnij się, że pierwszy wiersz zakresu odwołania nie zawiera żadnych pustych komórek, nie ma wartości błędu, a każda komórka nie zawiera więcej niż 255 znaków.</translation>
@@ -2496,7 +2555,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Choose where you want the pivotTable to be placed</source>
-        <translation>Wybierz, gdzie chcesz umieścić tabelę przestawną</translation>
+        <translation type="obsolete">Wybierz, gdzie chcesz umieścić tabelę przestawną</translation>
     </message>
     <message>
         <source>&amp;New worksheet</source>
@@ -2774,6 +2833,10 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>Command t&amp;ext:</source>
         <translation>T&amp;ekst polecenia:</translation>
+    </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished">Lista</translation>
     </message>
 </context>
 <context>
@@ -3087,6 +3150,14 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>Find Pre&amp;vious</source>
         <translation>Znajdź pop&amp;rzedni</translation>
+    </message>
+    <message>
+        <source>Ro&amp;w differences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colu&amp;mn differences</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4534,7 +4605,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>Pomóż nam ulepszyć WPS Office</translation>
+        <translation type="obsolete">Pomóż nam ulepszyć WPS Office</translation>
     </message>
     <message>
         <source>Display the tab bar at the bottom of doc&amp;ument</source>
@@ -4615,6 +4686,38 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Feedback</source>
         <translation>Opinia</translation>
+    </message>
+    <message>
+        <source>Save As Create Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always create &amp;backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only &amp;recommended Option</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only &amp;recommended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5031,6 +5134,10 @@ p, li { white-space: pre-wrap; }
         <source>Num&amp;ber Format</source>
         <translation>Format licz&amp;bowy</translation>
     </message>
+    <message>
+        <source>&amp;Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPivotTableOptions</name>
@@ -5204,6 +5311,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Entire Wor&amp;kbook</source>
         <translation>Cały skoroszy&amp;t</translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6106,7 +6217,7 @@ Pozwala to również scalać skoroszyty.</translation>
     </message>
     <message>
         <source>Data preview: </source>
-        <translation>Podgląd danych: </translation>
+        <translation type="obsolete">Podgląd danych: </translation>
     </message>
     <message>
         <source>This screen lets you set field widths (column breaks).</source>
@@ -7142,6 +7253,21 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Fill &amp;Years</source>
         <translation>Wypełnij &amp;latami</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation>Poziom powiększenia</translation>
+    </message>
+    <message>
+        <source>&amp;Custom:</source>
+        <translation>&amp;Niestandardowe:</translation>
+    </message>
+    <message>
+        <source>&amp;Fit Selection</source>
+        <translation>&amp;Dopasuj do zaznaczenia</translation>
     </message>
 </context>
 <context>
@@ -9251,6 +9377,14 @@ system będzie przypominał o sprawdzaniu poprawności zawartości.
         <source>Skip</source>
         <translation>Pomiń</translation>
     </message>
+    <message>
+        <source>Preview selected data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data preview:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpEtPivotTable</name>
@@ -11135,7 +11269,7 @@ t</translation>
     </message>
     <message>
         <source>S&amp;ubject to the Constraint:</source>
-        <translation>P&amp;odlegających ograniczeniom:</translation>
+        <translation type="obsolete">P&amp;odlegających ograniczeniom:</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -11988,21 +12122,6 @@ Czy chcesz zmienić na Ręcznie?</translation>
 Do you want to change to Manual?</source>
         <translation>Otwierany plik zmienia opcje Automatycznie na Ręcznie, co uniemożliwia uzyskanie poprawnych wyników w trakcie procesu edycji bieżącego pliku oraz innych plików.
 Czy chcesz zmienić na Ręcznie?</translation>
-    </message>
-</context>
-<context>
-    <name>KxEtStatusZoomOptionGalleryModel</name>
-    <message>
-        <source>Zoom Level</source>
-        <translation>Poziom powiększenia</translation>
-    </message>
-    <message>
-        <source>&amp;Custom:</source>
-        <translation>&amp;Niestandardowe:</translation>
-    </message>
-    <message>
-        <source>&amp;Fit Selection</source>
-        <translation>&amp;Dopasuj do zaznaczenia</translation>
     </message>
 </context>
 </TS>

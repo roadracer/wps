@@ -661,7 +661,7 @@ a condição é verdadeira:</translation>
     </message>
     <message>
         <source>Ascending(S)</source>
-        <translation type="obsolete">Crescente(S)</translation>
+        <translation type="unfinished">Crescente(S)</translation>
     </message>
     <message>
         <source>Descending</source>
@@ -669,7 +669,7 @@ a condição é verdadeira:</translation>
     </message>
     <message>
         <source>Descending(O)</source>
-        <translation type="obsolete">Descendente(O)</translation>
+        <translation type="unfinished">Descendente(O)</translation>
     </message>
     <message>
         <source>Color Sort</source>
@@ -820,16 +820,28 @@ a condição é verdadeira:</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A&amp;scending</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Descending (&amp;O)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Clear</source>
         <translation type="unfinished">Limpar</translation>
+    </message>
+    <message>
+        <source>Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Begin With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not End With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Between</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1076,6 +1088,45 @@ a condição é verdadeira:</translation>
     <message>
         <source>Cell</source>
         <translation>Célula</translation>
+    </message>
+</context>
+<context>
+    <name>KxColumnWidthFieldInfo</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Geral</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">Texto</translation>
+    </message>
+    <message>
+        <source>MDY</source>
+        <translation type="unfinished">MDY</translation>
+    </message>
+    <message>
+        <source>DMY</source>
+        <translation type="unfinished">DMY</translation>
+    </message>
+    <message>
+        <source>YMD</source>
+        <translation type="unfinished">AMD</translation>
+    </message>
+    <message>
+        <source>MYD</source>
+        <translation type="unfinished">MYD</translation>
+    </message>
+    <message>
+        <source>DYM</source>
+        <translation type="unfinished">FUMO</translation>
+    </message>
+    <message>
+        <source>YDM</source>
+        <translation type="unfinished">postos de gasolina</translation>
+    </message>
+    <message>
+        <source>Skip</source>
+        <translation type="unfinished">Ir</translation>
     </message>
 </context>
 <context>
@@ -2328,6 +2379,10 @@ cursor na caixa de edição e pressione o botão Formatar imagem.</translation>
         <source>Command t&amp;ext:</source>
         <translation>Texto do comando:</translation>
     </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished">lista</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgErrorCheck</name>
@@ -2630,6 +2685,14 @@ cursor na caixa de edição e pressione o botão Formatar imagem.</translation>
     <message>
         <source>Cell</source>
         <translation>Célula</translation>
+    </message>
+    <message>
+        <source>Ro&amp;w differences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colu&amp;mn differences</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3967,7 +4030,7 @@ e Minúscula</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>Ajude-nos a melhorar o WPS Office</translation>
+        <translation type="obsolete">Ajude-nos a melhorar o WPS Office</translation>
     </message>
     <message>
         <source>Tab style</source>
@@ -4067,6 +4130,42 @@ e Minúscula</translation>
     </message>
     <message>
         <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save As Create Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always create &amp;backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only &amp;recommended Option</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only &amp;recommended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4478,6 +4577,10 @@ e Minúscula</translation>
         <source>Num&amp;ber Format</source>
         <translation>Formato de número</translation>
     </message>
+    <message>
+        <source>&amp;Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPivotTableOptions</name>
@@ -4654,6 +4757,10 @@ e Minúscula</translation>
     </message>
     <message>
         <source>Entire Wor&amp;kbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5561,7 +5668,7 @@ Se isto estiver correto , selecione Avançar , ou escolher o tipo de dados que m
     </message>
     <message>
         <source>Data preview: </source>
-        <translation>Visualização de Dados:</translation>
+        <translation type="obsolete">Visualização de Dados:</translation>
     </message>
     <message>
         <source>This screen lets you set field widths (column breaks).</source>
@@ -8656,6 +8763,14 @@ system will remind you to check the correctness of the contents.
     <message>
         <source>Text Import Wizard - Step %1 of 3</source>
         <translation>Texto Import Wizard - Step %1 de 3</translation>
+    </message>
+    <message>
+        <source>Preview selected data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data preview:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -2939,6 +2939,22 @@ Editor</source>
         <source>Visual Basic Editor</source>
         <translation type="obsolete">VB 编辑器</translation>
     </message>
+    <message>
+        <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlExpansionPacksWord</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlStructure</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_drawingtools</name>
@@ -3892,6 +3908,10 @@ Direction</source>
     <message>
         <source>WPS Online</source>
         <translation type="obsolete">金山在线</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007-2010 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -6882,7 +6902,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation type="obsolete">简繁转换</translation>
+        <translation type="unfinished">简繁转换</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -7101,6 +7121,10 @@ Changes</source>
     <message>
         <source>Tracking</source>
         <translation>修订</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -9784,10 +9808,6 @@ Shape</source>
         <translation>打开云文档</translation>
     </message>
     <message>
-        <source>PDF To Word</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Protect Eyes Mode</source>
         <translation type="obsolete">护眼模式</translation>
     </message>
@@ -9911,6 +9931,10 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Output Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>PDF To Word</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9919,7 +9943,15 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11971,6 +12003,10 @@ Painter</source>
         <translation>修订</translation>
     </message>
     <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
         <translation>双行合一</translation>
     </message>
@@ -12553,6 +12589,22 @@ Diagonal Line in Cell</source>
     <message>
         <source>Visual Basic Editor</source>
         <translation>Visual Basic 编辑器</translation>
+    </message>
+    <message>
+        <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlExpansionPacksWord</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlStructure</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13412,6 +13464,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>WPS Online</source>
         <translation type="obsolete">金山在线</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007-2010 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -16264,6 +16320,10 @@ and Endnote</source>
         <translation>修订</translation>
     </message>
     <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Use Balloons</source>
         <translation>使用批注框</translation>
     </message>
@@ -18424,10 +18484,6 @@ Effects</source>
         <translation>打开云文档</translation>
     </message>
     <message>
-        <source>PDF To Word</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Protect Eyes Mode</source>
         <translation type="obsolete">护眼模式</translation>
     </message>
@@ -18547,6 +18603,10 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Output Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>PDF To Word</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18555,7 +18615,15 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -24129,6 +24197,14 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>打开</translation>
     </message>
     <message>
+        <source>Operation Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opr</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -24526,6 +24602,10 @@ Directly</source>
         <translation>字数统计。单击可打开“字数统计”对话框。</translation>
     </message>
     <message>
+        <source>XMLStructure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Zoom</source>
         <translation>显示比例</translation>
     </message>
@@ -24535,6 +24615,10 @@ Directly</source>
     </message>
     <message>
         <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>structure</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -24699,6 +24783,10 @@ Directly</source>
         <translation>从更多模板新建</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not Logged in</source>
         <translation type="obsolete">未登录</translation>
     </message>
@@ -24721,6 +24809,10 @@ Directly</source>
     <message>
         <source>Outline</source>
         <translation>大纲</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -24813,6 +24905,10 @@ Directly</source>
     <message>
         <source>Table Tools</source>
         <translation>表格工具</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Login</source>
@@ -25041,6 +25137,10 @@ Directly</source>
         <translation>导航窗格</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not Logged in</source>
         <translation type="obsolete">未登录</translation>
     </message>
@@ -25059,6 +25159,10 @@ Directly</source>
     <message>
         <source>Outline</source>
         <translation>大纲</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Layout</source>

@@ -545,7 +545,7 @@ condition est vraie :</translation>
     <message>
         <source>Ascending(S)</source>
         <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
-        <translation type="obsolete">Croissant(S)</translation>
+        <translation type="unfinished">Croissant(S)</translation>
     </message>
     <message>
         <source>Before</source>
@@ -640,7 +640,7 @@ condition est vraie :</translation>
     <message>
         <source>Descending(O)</source>
         <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
-        <translation type="obsolete">Décroissant(O)</translation>
+        <translation type="unfinished">Décroissant(O)</translation>
     </message>
     <message>
         <source>Does Not Contain</source>
@@ -908,16 +908,28 @@ condition est vraie :</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A&amp;scending</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Descending (&amp;O)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Clear</source>
         <translation type="unfinished">Effa&amp;cer</translation>
+    </message>
+    <message>
+        <source>Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Begin With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not End With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Between</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1164,6 +1176,45 @@ condition est vraie :</translation>
     <message>
         <source>Workbook</source>
         <translation>Classeur</translation>
+    </message>
+</context>
+<context>
+    <name>KxColumnWidthFieldInfo</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Général</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">Texte</translation>
+    </message>
+    <message>
+        <source>MDY</source>
+        <translation type="unfinished">MJA</translation>
+    </message>
+    <message>
+        <source>DMY</source>
+        <translation type="unfinished">JMA</translation>
+    </message>
+    <message>
+        <source>YMD</source>
+        <translation type="unfinished">AMJ</translation>
+    </message>
+    <message>
+        <source>MYD</source>
+        <translation type="unfinished">MAJ</translation>
+    </message>
+    <message>
+        <source>DYM</source>
+        <translation type="unfinished">JAM</translation>
+    </message>
+    <message>
+        <source>YDM</source>
+        <translation type="unfinished">AJM</translation>
+    </message>
+    <message>
+        <source>Skip</source>
+        <translation type="unfinished">Ignorer</translation>
     </message>
 </context>
 <context>
@@ -2532,6 +2583,10 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
         <source>Table</source>
         <translation>Table</translation>
     </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished">Liste</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgErrorCheck</name>
@@ -2876,6 +2931,14 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
         <source>Workbook</source>
         <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box-&gt;Options</translatorcomment>
         <translation>Classeur</translation>
+    </message>
+    <message>
+        <source>Ro&amp;w differences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colu&amp;mn differences</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4126,7 +4189,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Help us to improve WPS Office</source>
         <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Privacy</translatorcomment>
-        <translation>Aidez-nous à améliorer WPS Office</translation>
+        <translation type="obsolete">Aidez-nous à améliorer WPS Office</translation>
     </message>
     <message>
         <source>Home Pa&amp;ge</source>
@@ -4483,6 +4546,42 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save As Create Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always create &amp;backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only &amp;recommended Option</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only &amp;recommended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4947,6 +5046,10 @@ p, li { white-space: pre-wrap; }
         <source>buttonGroup_2</source>
         <translation type="unfinished">buttonGroup_2</translation>
     </message>
+    <message>
+        <source>&amp;Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPivotTableOptions</name>
@@ -5153,6 +5256,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Entire Wor&amp;kbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6183,7 +6290,7 @@ Ceci permet également de fusionner des classeurs.</translation>
     </message>
     <message>
         <source>Data preview: </source>
-        <translation>Aperçu de données : </translation>
+        <translation type="obsolete">Aperçu de données : </translation>
     </message>
     <message>
         <source>Delimiters </source>
@@ -9410,6 +9517,14 @@ system will remind you to check the correctness of the contents.
     <message>
         <source>YMD</source>
         <translation>AMJ</translation>
+    </message>
+    <message>
+        <source>Preview selected data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data preview:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -4564,12 +4564,12 @@ Aby korzystać z tej funkcji, musisz najpierw zainstalować klienta usług zarz�
     <message>
         <source>Restricted Access</source>
         <comment>_kso_kirm_Permission_RestrictedAccess</comment>
-        <translation>Dostęp ograniczony</translation>
+        <translation type="obsolete">Dostęp ograniczony</translation>
     </message>
     <message>
         <source>Permission is currently restricted. Only specified users can access this content. </source>
         <comment>_kso_krim_Permission_PermissionHint</comment>
-        <translation>Uprawnienie jest obecnie ograniczone. Tylko określeni użytkownicy mogą uzyskiwać dostęp do tej zawartości. </translation>
+        <translation type="obsolete">Uprawnienie jest obecnie ograniczone. Tylko określeni użytkownicy mogą uzyskiwać dostęp do tej zawartości. </translation>
     </message>
     <message>
         <source>Change Permission...</source>
@@ -4615,7 +4615,7 @@ Aby korzystać z tej funkcji, musisz najpierw zainstalować klienta usług zarz�
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation>Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
+        <translation type="obsolete">Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
 •Sprawdź czy katalog kopii zapasowych ma uprawnienia do zapisywania lub spróbuj zmienić katalog kopii zapasowych. 
 •[Cofnij] poprzednie operacje i [Zapisz] go; 
 •[Zapisz jako...] pliki tekstowe（*.txt）; 
@@ -4686,6 +4686,47 @@ Aby korzystać z tej funkcji, musisz najpierw zainstalować klienta usług zarz�
         <translation>Uprawnienia do tego dokumentu są obecnie ograniczone. Nie masz poświadczeń umożliwiających otwarcie tego dokumentu. Możesz: 
 1. Spróbuj zmienić konto użytkownika na inne, aby otworzyć dokument;
 2. Zażądaj aktualizacji uprawnienia od %1.</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <comment>_kso_kirm_Policy_Name</comment>
+        <translation type="unfinished">Dostęp ograniczony</translation>
+    </message>
+    <message>
+        <source>Permission is currently restricted. Only specified users can access this content. </source>
+        <comment>_kso_kirm_Policy_Description</comment>
+        <translation type="unfinished">Uprawnienie jest obecnie ograniczone. Tylko określeni użytkownicy mogą uzyskiwać dostęp do tej zawartości. </translation>
+    </message>
+    <message>
+        <source>Opening</source>
+        <comment>_kso_io_Progress_Opening</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saving</source>
+        <comment>_kso_io_Progress_Saving</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backing up</source>
+        <comment>_kso_io_Progress_AutoSaving</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Press ESC to cancel)</source>
+        <comment>_kso_io_Progress_Discontinue_ByEsc</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7238,6 +7279,43 @@ Służy do pokazywania kroków zmierzających do celu</translation>
         <source>Some files cannot be deleted. They may be occupied.</source>
         <comment>kso_sCannotRemoveAllBackupFiles</comment>
         <translation>Niektóre pliki nie mogą być usunięte. Mogą one być zajęte.</translation>
+    </message>
+    <message>
+        <source>Dowload XML expansion</source>
+        <comment>kso_Smartdoc_DowloadXmlExpasionCaption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Using the latest XML expansion pack from the following locations, the effect of this document will be the best:
+ %1 
+Download the XML expansion pack?</source>
+        <comment>kso_Smartdoc_DowloadXmlExpasion</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The XML expansion pack or smart document program has been lost or invalid.Please contact the system administrator or the personnel who provide this document</source>
+        <comment>kso_Smartdoc_XMLExpansionLost</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently viewing this document in multiple windows. If you wanna attach XML expansion, you must close all other windows first to ensure that you view this document only in one window.</source>
+        <comment>kso_Smartdoc_XmlExpansionRefuse</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document has attached a XML expansion. If You wanna view this document in multiple windows, you must delete the XML expansion first.</source>
+        <comment>kso_Smartdoc_NewWindowRefuse</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot install this file, because the security certificate has some problems. This XML expansion pack may won&apos;t run as expecte.For more information, please contact your administrator.</source>
+        <comment>kso_Smartdoc_XMLCertificateError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install this XML expansion pack failed.</source>
+        <comment>kso_Smartdoc_installManifestError</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

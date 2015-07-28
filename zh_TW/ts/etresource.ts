@@ -1540,6 +1540,14 @@ Center</source>
         <source>Protect and Share Workbook</source>
         <translation>保護且共用活頁簿</translation>
     </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.record_macro</name>
@@ -1960,6 +1968,13 @@ Center</source>
     <message>
         <source>Zoom</source>
         <translation>顯示比例</translation>
+    </message>
+</context>
+<context>
+    <name>classics.standard.Help</name>
+    <message>
+        <source>WPS Spreadsheets Help</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3321,6 +3336,10 @@ Window</source>
         <translation>復原</translation>
     </message>
     <message>
+        <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up Bars</source>
         <translation>長柱線彈出選單</translation>
     </message>
@@ -3383,6 +3402,13 @@ Window</source>
     <message>
         <source>statusbar</source>
         <translation type="obsolete">狀態列</translation>
+    </message>
+</context>
+<context>
+    <name>etcommon.mainwindow.commands.DataGroup</name>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3533,6 +3559,10 @@ Window</source>
         <translation type="obsolete">新消息</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Office Space</source>
         <translation type="obsolete">檔保險箱</translation>
     </message>
@@ -3651,6 +3681,10 @@ Window</source>
     <message>
         <source>Table Style</source>
         <translation>表格樣式</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Sign in</source>
@@ -3857,6 +3891,10 @@ Window</source>
     <message>
         <source>New Message</source>
         <translation type="obsolete">新消息</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Office Space</source>
@@ -4432,7 +4470,7 @@ Columns</source>
     <name>ongmani.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>群組</translation>
+        <translation type="obsolete">群組</translation>
     </message>
 </context>
 <context>
@@ -5342,8 +5380,12 @@ On/Off</source>
         <translation>新建線上範本</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>範本管理...</translation>
+        <translation type="obsolete">範本管理...</translation>
     </message>
     <message>
         <source>Open</source>
@@ -5520,6 +5562,10 @@ On/Off</source>
     <message>
         <source>WPS Online</source>
         <translation type="obsolete">WPS Online</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
@@ -6649,6 +6695,10 @@ Columns</source>
     </message>
     <message>
         <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7864,6 +7914,11 @@ On/Off</source>
         <translation type="obsolete">刪除樞紐分析表</translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field
 Settings</source>
         <translation type="unfinished"></translation>
@@ -7985,6 +8040,11 @@ Data</source>
     <message>
         <source>Refresh Data</source>
         <translation type="obsolete">重新整理資料</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show
@@ -8354,6 +8414,16 @@ Changes</source>
     <message>
         <source>Translation</source>
         <translation>繁簡轉換</translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10057,6 +10127,10 @@ Shape</source>
         <translation type="obsolete">關閉自動備份</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>使用者意見反應</translation>
     </message>
@@ -10084,11 +10158,31 @@ Shape</source>
 <context>
     <name>ongmani.proxycommands</name>
     <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Goal Seek</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Press Enter to Start Reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11830,7 +11924,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Solver</source>
-        <translation type="obsolete">規劃求解</translation>
+        <translation type="unfinished">規劃求解</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -11982,6 +12076,14 @@ Add-Ins</source>
     </message>
     <message>
         <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12455,7 +12557,7 @@ OLE DB Query</source>
     <name>rainbow.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>群組</translation>
+        <translation type="obsolete">群組</translation>
     </message>
 </context>
 <context>
@@ -13264,8 +13366,12 @@ AddIns</source>
         <translation>新建線上範本</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>範本管理...</translation>
+        <translation type="obsolete">範本管理...</translation>
     </message>
     <message>
         <source>Open</source>
@@ -13446,6 +13552,10 @@ AddIns</source>
     <message>
         <source>WPS Online</source>
         <translation type="obsolete">WPS Online</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
@@ -14500,6 +14610,10 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>向上填滿</translation>
     </message>
@@ -15505,6 +15619,11 @@ Center</source>
         <translation type="obsolete">刪除樞紐分析表</translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field Settings</source>
         <translation>欄位設定</translation>
     </message>
@@ -15571,6 +15690,11 @@ Center</source>
     <message>
         <source>Refresh Data</source>
         <translation type="obsolete">重新整理</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -15797,6 +15921,14 @@ Center</source>
     <message>
         <source>Translation</source>
         <translation>繁簡轉換</translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17256,6 +17388,10 @@ Color</source>
         <translation type="obsolete">關閉自動備份</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>使用者意見反應</translation>
     </message>
@@ -17291,11 +17427,31 @@ Color</source>
 <context>
     <name>rainbow.proxycommands</name>
     <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Goal Seek</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Press Enter to Start Reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

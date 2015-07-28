@@ -371,6 +371,28 @@
     </message>
 </context>
 <context>
+    <name>KPluginDownloadingTipWidget</name>
+    <message>
+        <source>Initializing </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>, </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KPluginFailureTipWidget</name>
+    <message>
+        <source>Download failed due to possible network problems. Please try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KProgressBar</name>
     <message>
         <source>Cancel</source>
@@ -491,11 +513,12 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>
 
-Modified time: </source>
+Modified time:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>
+
 
 Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>

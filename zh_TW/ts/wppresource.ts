@@ -3624,8 +3624,12 @@ On</source>
         <translation type="unfinished">新建線上範本</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>範本管理...</translation>
+        <translation type="obsolete">範本管理...</translation>
     </message>
     <message>
         <source>Open</source>
@@ -6337,7 +6341,7 @@ Order</source>
     </message>
     <message>
         <source>Conversion</source>
-        <translation type="obsolete">簡繁轉換</translation>
+        <translation type="unfinished">簡繁轉換</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -8996,6 +9000,10 @@ Shape</source>
         <translation type="obsolete">關閉自動備份</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Translate to Document</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9052,6 +9060,26 @@ Shape</source>
     <name>ongmani.proxycommands</name>
     <message>
         <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Slide Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12002,8 +12030,12 @@ AddIns</source>
         <translation type="unfinished">新建線上範本</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>範本管理...</translation>
+        <translation type="obsolete">範本管理...</translation>
     </message>
     <message>
         <source>Open</source>
@@ -16444,6 +16476,10 @@ Effects</source>
         <translation type="obsolete">關閉自動備份</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Translate to Document</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16496,6 +16532,26 @@ Effects</source>
     <name>rainbow.proxycommands</name>
     <message>
         <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Slide Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -21890,7 +21946,7 @@ Click the arrow to choose more outline styles.</source>
         <translation>登出</translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
+        <source>Slide Library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23114,6 +23170,10 @@ Slide</source>
         <translation type="unfinished">WPS 熱點</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Office Space</source>
         <translation type="obsolete">檔保險箱</translation>
     </message>
@@ -23240,6 +23300,10 @@ Slide</source>
     <message>
         <source>Table Tools</source>
         <translation>表格工具</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Sign In</source>
@@ -23501,6 +23565,10 @@ Slide</source>
     <message>
         <source>New from Other Templates</source>
         <translation type="obsolete">新增其他範本</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Tab Page</source>

@@ -2798,6 +2798,22 @@ Editor</source>
         <source>Visual Basic Editor</source>
         <translation type="obsolete">Редактор Visual Basic</translation>
     </message>
+    <message>
+        <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlExpansionPacksWord</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlStructure</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_drawingtools</name>
@@ -3715,6 +3731,10 @@ Direction</source>
     <message>
         <source>WPS Office Product Center</source>
         <translation>Центр управления продукцией WPS</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007-2010 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -6574,6 +6594,10 @@ Footnote/Endnote</source>
         <translation type="obsolete">Проверка правописания</translation>
     </message>
     <message>
+        <source>Chinese Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Comments</source>
         <translation>Примечания</translation>
     </message>
@@ -6782,6 +6806,10 @@ Changes</source>
     <message>
         <source>Tracking</source>
         <translation>Отслеживание</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -9434,10 +9462,6 @@ Shape</source>
         <translation>Открыть из облачного сервиса</translation>
     </message>
     <message>
-        <source>PDF To Word</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Recharge</source>
         <translation type="obsolete">Перезарядка</translation>
     </message>
@@ -9533,6 +9557,10 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Output Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>PDF To Word</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9541,7 +9569,15 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11518,6 +11554,10 @@ Painter</source>
         <translation>Отслеживание</translation>
     </message>
     <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
         <translation>Две линии в одной</translation>
     </message>
@@ -12067,6 +12107,22 @@ Diagonal Line in Cell</source>
     <message>
         <source>Visual Basic Editor</source>
         <translation>Редактор Visual Basic</translation>
+    </message>
+    <message>
+        <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlExpansionPacksWord</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlStructure</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12886,6 +12942,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>WPS Office Product Center</source>
         <translation>Центр управления продукцией</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007-2010 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -15622,6 +15682,10 @@ and Endnote</source>
         <translation>Отслеживание</translation>
     </message>
     <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Use Balloons</source>
         <translation>Использовать выноски</translation>
     </message>
@@ -17745,10 +17809,6 @@ Effects</source>
         <translation>Открыть из облачного сервиса</translation>
     </message>
     <message>
-        <source>PDF To Word</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Recharge</source>
         <translation type="obsolete">Перезарядка</translation>
     </message>
@@ -17844,6 +17904,10 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Output Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>PDF To Word</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17852,7 +17916,15 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -23264,6 +23336,14 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>Открыть</translation>
     </message>
     <message>
+        <source>Operation Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opr</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23618,6 +23698,10 @@ Directly</source>
         <translation>Статистика. Щёлкните курсор для открытия диалогового окна &quot;Статистика&quot;.</translation>
     </message>
     <message>
+        <source>XMLStructure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Zoom</source>
         <translation>Масштаб</translation>
     </message>
@@ -23627,6 +23711,10 @@ Directly</source>
     </message>
     <message>
         <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>structure</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -23775,6 +23863,10 @@ Directly</source>
         <translation>Новый на шаблоне из Интернета</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not Logged in</source>
         <translation type="obsolete">Не зарегистрирован</translation>
     </message>
@@ -23797,6 +23889,10 @@ Directly</source>
     <message>
         <source>Outline</source>
         <translation>Структура</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -23885,6 +23981,10 @@ Directly</source>
     <message>
         <source>Table Tools</source>
         <translation>Работа с таблицами</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Login</source>
@@ -24077,6 +24177,10 @@ Directly</source>
         <translation>Панель навигации</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not Logged in</source>
         <translation type="obsolete">Не зарегистрирован</translation>
     </message>
@@ -24095,6 +24199,10 @@ Directly</source>
     <message>
         <source>Outline</source>
         <translation>Структура</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Layout</source>

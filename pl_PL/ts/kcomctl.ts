@@ -386,6 +386,28 @@
     </message>
 </context>
 <context>
+    <name>KPluginDownloadingTipWidget</name>
+    <message>
+        <source>Initializing </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>, </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KPluginFailureTipWidget</name>
+    <message>
+        <source>Download failed due to possible network problems. Please try again later.</source>
+        <translation type="unfinished">Pobieranie nie powiodło się z powodu możliwych problemów z siecią. Proszę spróbuj ponownie później.</translation>
+    </message>
+</context>
+<context>
     <name>KProgressBar</name>
     <message>
         <source>Cancel</source>
@@ -555,7 +577,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translatio
         <source>
 
 Modified time: </source>
-        <translation>
+        <translation type="obsolete">
 
 Godzina modyfikacji: </translation>
     </message>
@@ -563,9 +585,22 @@ Godzina modyfikacji: </translation>
         <source>
 
 Invalid record. This file may have been renamed, deleted or moved.</source>
-        <translation>
+        <translation type="obsolete">
 
 Nieprawidłowy rekord. Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translation>
+    </message>
+    <message>
+        <source>
+
+Modified time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

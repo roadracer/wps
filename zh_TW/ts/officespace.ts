@@ -247,10 +247,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>http://www.kingsoftstore.com/support/pc-office</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Modify Time:</source>
         <translation type="unfinished"></translation>
     </message>

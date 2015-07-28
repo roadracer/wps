@@ -2903,6 +2903,22 @@ Editor</source>
         <source>Visual Basic Editor</source>
         <translation type="obsolete">Visual Basicエディター</translation>
     </message>
+    <message>
+        <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlExpansionPacksWord</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlStructure</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_drawingtools</name>
@@ -3787,6 +3803,10 @@ Direction</source>
     <message>
         <source>WPS Online</source>
         <translation type="obsolete">キングソフトオンライン</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007-2010 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -6736,7 +6756,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation type="obsolete">中国語の簡体字と繁体字の切り替え</translation>
+        <translation type="unfinished">中国語の簡体字と繁体字の切り替え</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -6954,6 +6974,10 @@ Changes</source>
     <message>
         <source>Tracking</source>
         <translation>変更箇所/コメント</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -9571,10 +9595,6 @@ Shape</source>
         <translation>クラウドファイルを開く</translation>
     </message>
     <message>
-        <source>PDF To Word</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Save File to Cloud</source>
         <translation type="obsolete"> ファイルをクラウドへ保存</translation>
     </message>
@@ -9662,6 +9682,10 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Output Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>PDF To Word</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9670,7 +9694,15 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11573,6 +11605,10 @@ Painter</source>
         <translation>変更履歴</translation>
     </message>
     <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
         <translation>割注</translation>
     </message>
@@ -12065,6 +12101,22 @@ Diagonal Line in Cell</source>
     <message>
         <source>Visual Basic Editor</source>
         <translation>Visual Basicエディター</translation>
+    </message>
+    <message>
+        <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlExpansionPacksWord</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlStructure</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12866,6 +12918,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>WPS Online</source>
         <translation type="obsolete">キングソフトオンライン</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007-2010 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -15677,6 +15733,10 @@ and Endnote</source>
         <translation>変更箇所/コメント</translation>
     </message>
     <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Use Balloons</source>
         <translation>コメントボックスの使用</translation>
     </message>
@@ -17762,10 +17822,6 @@ Effects</source>
         <translation>クラウドファイルを開く</translation>
     </message>
     <message>
-        <source>PDF To Word</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Save File to Cloud</source>
         <translation type="obsolete">ファイルをクラウドへ保存</translation>
     </message>
@@ -17853,6 +17909,10 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Output Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>PDF To Word</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17861,7 +17921,15 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -22962,6 +23030,14 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>開く</translation>
     </message>
     <message>
+        <source>Operation Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opr</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23297,6 +23373,10 @@ Directly</source>
         <translation>文字カウント</translation>
     </message>
     <message>
+        <source>XMLStructure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Zoom</source>
         <translation>ズーム</translation>
     </message>
@@ -23306,6 +23386,10 @@ Directly</source>
     </message>
     <message>
         <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>structure</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -23442,6 +23526,10 @@ Directly</source>
         <translation>既定のテンプレート</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not Logged in</source>
         <translation type="obsolete">ログイン</translation>
     </message>
@@ -23464,6 +23552,10 @@ Directly</source>
     <message>
         <source>Outline</source>
         <translation>アウトライン</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -23556,6 +23648,10 @@ Directly</source>
     <message>
         <source>Table Tools</source>
         <translation>表のツール</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Login</source>
@@ -23728,6 +23824,10 @@ Directly</source>
         <translation>ナビゲーションのウィンドウ</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not Logged in</source>
         <translation type="obsolete"> ログイン</translation>
     </message>
@@ -23746,6 +23846,10 @@ Directly</source>
     <message>
         <source>Outline</source>
         <translation>アウトライン</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Layout</source>

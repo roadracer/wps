@@ -314,10 +314,6 @@
         <translation type="obsolete">Ошибка возврата к предыдущему состоянию netbackup.</translation>
     </message>
     <message>
-        <source>http://www.kingsoftstore.com/support/pc-office</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Modify Time:</source>
         <translation type="unfinished"></translation>
     </message>

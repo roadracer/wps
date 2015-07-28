@@ -2747,7 +2747,7 @@ Czy chcesz go zamienić?</translation>
     <message>
         <source>Recorded %d too much data fields.</source>
         <comment>_TxMailMerge_FieldsTooMuch</comment>
-        <translation type="obsolete" variants="yes">
+        <translation type="unfinished" variants="yes">
             <lengthvariant>Nagrano %d zbyt wiele pól danych.</lengthvariant>
             <lengthvariant>Zarejestrowano %d zbyt wiele pól danych.</lengthvariant>
         </translation>
@@ -2755,7 +2755,7 @@ Czy chcesz go zamienić?</translation>
     <message>
         <source>Recorded %d too few data fields.</source>
         <comment>_TxMailMerge_FieldsTooFew</comment>
-        <translation type="obsolete" variants="yes">
+        <translation type="unfinished" variants="yes">
             <lengthvariant>Nagrano %d zbyt mało pól danych.</lengthvariant>
             <lengthvariant>Zarejestrowano %d zbyt mało pól danych.</lengthvariant>
         </translation>
@@ -2763,7 +2763,7 @@ Czy chcesz go zamienić?</translation>
     <message>
         <source>Recorded %d is empty.</source>
         <comment>_TxMailMerge_FieldsEmpty</comment>
-        <translation type="obsolete">Nagranie %d jest puste.</translation>
+        <translation type="unfinished">Nagranie %d jest puste.</translation>
     </message>
     <message>
         <source>WPS Writer cannot open %s as Data or Header Source, because it is active mail merge main document.</source>
@@ -2803,21 +2803,6 @@ Czy chcesz go zamienić?</translation>
         <translation type="unfinished">Program WPS Writer nie może scalić źródła danych z dokumentem głównym korespondencji seryjnej, ponieważ wszystkie rekordy są puste, albo żaden z rekordów nie spełnia warunków kwerendy.</translation>
     </message>
     <message>
-        <source>Record %d contained too many data fields.</source>
-        <comment>_TxMailMerge_FieldsTooMuch</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Record %d contained too few data fields.</source>
-        <comment>_TxMailMerge_FieldsTooFew</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Record %d is empty.</source>
-        <comment>_TxMailMerge_FieldsEmpty</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
         <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
         <translation type="unfinished"></translation>
@@ -2829,6 +2814,10 @@ Czy chcesz go zamienić?</translation>
     <message>
         <source>unknown</source>
         <comment>TxUserInfo_DefaultUserName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot compare these documents because the document contain XML Nodes</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

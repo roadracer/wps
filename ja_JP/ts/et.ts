@@ -964,11 +964,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Ascending(S)</source>
-        <translation type="obsolete">昇順(S)</translation>
+        <translation type="unfinished">昇順(S)</translation>
     </message>
     <message>
         <source>Descending(O)</source>
-        <translation type="obsolete">降順(O)</translation>
+        <translation type="unfinished">降順(O)</translation>
     </message>
     <message>
         <source>Filter by Value</source>
@@ -1003,15 +1003,27 @@ condition is true:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A&amp;scending</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Descending (&amp;O)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Begin With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not End With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Between</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1315,6 +1327,45 @@ condition is true:</source>
     <message>
         <source>Workbook</source>
         <translation>ブック</translation>
+    </message>
+</context>
+<context>
+    <name>KxColumnWidthFieldInfo</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MDY</source>
+        <translation type="unfinished">MDY</translation>
+    </message>
+    <message>
+        <source>DMY</source>
+        <translation type="unfinished">DMY</translation>
+    </message>
+    <message>
+        <source>YMD</source>
+        <translation type="unfinished">YMD</translation>
+    </message>
+    <message>
+        <source>MYD</source>
+        <translation type="unfinished">MYD</translation>
+    </message>
+    <message>
+        <source>DYM</source>
+        <translation type="unfinished">DYM</translation>
+    </message>
+    <message>
+        <source>YDM</source>
+        <translation type="unfinished">YDM</translation>
+    </message>
+    <message>
+        <source>Skip</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2726,6 +2777,10 @@ cursor in the edit box and press the Format Picture button.</source>
         <source>Command t&amp;ext:</source>
         <translation>コマンドの文字列(&amp;E):</translation>
     </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished">リスト</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgErrorCheck</name>
@@ -3052,6 +3107,14 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>O&amp;bjects</source>
         <translation>オブジェクト(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Ro&amp;w differences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colu&amp;mn differences</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4606,7 +4669,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>Kingsoft Officeを改良するために支援して下さい。</translation>
+        <translation type="obsolete">Kingsoft Officeを改良するために支援して下さい。</translation>
     </message>
     <message>
         <source>Double-click in the space to create a &amp;new document</source>
@@ -4679,6 +4742,42 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save As Create Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always create &amp;backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only &amp;recommended Option</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only &amp;recommended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5106,6 +5205,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Num&amp;ber Format</source>
         <translation>表示形式(&amp;B)...</translation>
     </message>
+    <message>
+        <source>&amp;Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPivotTableOptions</name>
@@ -5294,6 +5397,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Entire Wor&amp;kbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6300,7 +6407,7 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>Data preview: </source>
-        <translation>データのプレビュー:</translation>
+        <translation type="obsolete">データのプレビュー:</translation>
     </message>
     <message>
         <source>Delimiters </source>
@@ -10362,6 +10469,14 @@ system will remind you to check the correctness of the contents.
     <message>
         <source>YMD</source>
         <translation>YMD</translation>
+    </message>
+    <message>
+        <source>Preview selected data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data preview:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

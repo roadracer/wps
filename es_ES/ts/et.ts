@@ -969,11 +969,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Ascending(S)</source>
-        <translation type="obsolete">Ascendente</translation>
+        <translation type="unfinished">Ascendente</translation>
     </message>
     <message>
         <source>Descending(O)</source>
-        <translation type="obsolete">Descendente</translation>
+        <translation type="unfinished">Descendente</translation>
     </message>
     <message>
         <source>Filter by Value</source>
@@ -1008,16 +1008,28 @@ condition is true:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A&amp;scending</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Descending (&amp;O)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Clear</source>
         <translation type="unfinished">Borrar</translation>
+    </message>
+    <message>
+        <source>Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Begin With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not End With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Between</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1367,6 +1379,45 @@ condition is true:</source>
     <message>
         <source>Workbook</source>
         <translation>Libro </translation>
+    </message>
+</context>
+<context>
+    <name>KxColumnWidthFieldInfo</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">General</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">Texto</translation>
+    </message>
+    <message>
+        <source>MDY</source>
+        <translation type="unfinished">MDA</translation>
+    </message>
+    <message>
+        <source>DMY</source>
+        <translation type="unfinished">DMA</translation>
+    </message>
+    <message>
+        <source>YMD</source>
+        <translation type="unfinished">AMD</translation>
+    </message>
+    <message>
+        <source>MYD</source>
+        <translation type="unfinished">MAD</translation>
+    </message>
+    <message>
+        <source>DYM</source>
+        <translation type="unfinished">DAM</translation>
+    </message>
+    <message>
+        <source>YDM</source>
+        <translation type="unfinished">ADM</translation>
+    </message>
+    <message>
+        <source>Skip</source>
+        <translation type="unfinished">Omitir</translation>
     </message>
 </context>
 <context>
@@ -2757,6 +2808,10 @@ Para mantener la imagen existente, presione Cancelar.</translation>
         <source>Command t&amp;ext:</source>
         <translation>Texto de comando</translation>
     </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished">Lista</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgErrorCheck</name>
@@ -3083,6 +3138,14 @@ Para mantener la imagen existente, presione Cancelar.</translation>
     <message>
         <source>O&amp;bjects</source>
         <translation>Objetos</translation>
+    </message>
+    <message>
+        <source>Ro&amp;w differences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colu&amp;mn differences</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4576,7 +4639,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>Ayudarnos a mejorar WPS Office </translation>
+        <translation type="obsolete">Ayudarnos a mejorar WPS Office </translation>
     </message>
     <message>
         <source>Double-click in the space to create a &amp;new document</source>
@@ -4636,6 +4699,42 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save As Create Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always create &amp;backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only &amp;recommended Option</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only &amp;recommended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5084,6 +5183,10 @@ p, li { white-space: pre-wrap; }
         <source>Num&amp;ber Format</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPivotTableOptions</name>
@@ -5280,6 +5383,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Entire Wor&amp;kbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6241,10 +6348,6 @@ This also allows workbook merging.</source>
     <message>
         <source>DYM</source>
         <translation>DAM</translation>
-    </message>
-    <message>
-        <source>Data preview: </source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delimiters </source>
@@ -9826,6 +9929,14 @@ system will remind you to check the correctness of the contents.
     <message>
         <source>YMD</source>
         <translation>AMD</translation>
+    </message>
+    <message>
+        <source>Preview selected data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data preview:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

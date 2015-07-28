@@ -3121,8 +3121,12 @@ On</source>
         <translation type="unfinished">Создание на шаблоне из Интернета</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>Создание на других шаблонах...</translation>
+        <translation type="obsolete">Создание на других шаблонах...</translation>
     </message>
     <message>
         <source>New from Templates</source>
@@ -5485,6 +5489,10 @@ Order</source>
     <message>
         <source>Chinese Conversion</source>
         <translation>Преобразование китайского письма</translation>
+    </message>
+    <message>
+        <source>Conversion</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -7928,6 +7936,10 @@ Shape</source>
         <translation type="obsolete">Остановить автоверсию</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Translate to Document</source>
         <translation>Преобразовать в документ</translation>
     </message>
@@ -7960,6 +7972,26 @@ Shape</source>
     <name>ongmani.proxycommands</name>
     <message>
         <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Slide Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10690,8 +10722,12 @@ AddIns</source>
         <translation type="unfinished">Создание на шаблоне из Интернета</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>Создание на других шаблонах...</translation>
+        <translation type="obsolete">Создание на других шаблонах...</translation>
     </message>
     <message>
         <source>Open</source>
@@ -14541,6 +14577,10 @@ Effects</source>
         <translation type="obsolete">Остановить автоверсию</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Translate to Document</source>
         <translation>Преобразовать в документ</translation>
     </message>
@@ -14569,6 +14609,26 @@ Effects</source>
     <name>rainbow.proxycommands</name>
     <message>
         <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Slide Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17507,8 +17567,12 @@ Click the arrow to choose more outline styles.</source>
         <translation>Выйти</translation>
     </message>
     <message>
+        <source>Slide Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>SlideLibrary</source>
-        <translation>Библиотека слайдов</translation>
+        <translation type="obsolete">Библиотека слайдов</translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
@@ -18641,6 +18705,10 @@ Slide</source>
         <translation>Маркетинговая веб-страница</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Office Space</source>
         <translation type="obsolete">Пространство офиса</translation>
     </message>
@@ -18755,6 +18823,10 @@ Slide</source>
     <message>
         <source>Table Tools</source>
         <translation>Инструменты таблицы</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Sign In</source>
@@ -18980,6 +19052,10 @@ Slide</source>
     <message>
         <source>New from Other Templates</source>
         <translation type="obsolete">Создание на других шаблонах</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Tab Page</source>

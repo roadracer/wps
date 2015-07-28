@@ -6,7 +6,7 @@
     <name>KActiveDialogAtStartup</name>
     <message>
         <source>https://vip.wps.cn/api/card/activate</source>
-        <translation>https://vip.wps.cn/api/card/activate</translation>
+        <translation type="obsolete">https://vip.wps.cn/api/card/activate</translation>
     </message>
 </context>
 <context>
@@ -163,11 +163,19 @@
     </message>
     <message>
         <source>New version is available, Please Refresh</source>
-        <translation>O nouă versiune este disponibilă, Reâmprospătați</translation>
+        <translation type="obsolete">O nouă versiune este disponibilă, Reâmprospătați</translation>
     </message>
     <message>
         <source>New version is available, Please Check</source>
-        <translation>O nouă versiune este disponibilă, Verificați</translation>
+        <translation type="obsolete">O nouă versiune este disponibilă, Verificați</translation>
+    </message>
+    <message>
+        <source>New version is available. Please refresh.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is available. Please check.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -207,23 +215,23 @@
     </message>
     <message>
         <source>modifyTime:</source>
-        <translation>timpmodificare:</translation>
+        <translation type="obsolete">timpmodificare:</translation>
     </message>
     <message>
         <source>Kingsoft Office auto backup</source>
-        <translation>Backup automat Kingsoft Office</translation>
+        <translation type="obsolete">Backup automat Kingsoft Office</translation>
     </message>
     <message>
         <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\Desktop.ini name.</translation>
+        <translation type="obsolete">\Kingsoft Office\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\AppData\Desktop.ini name.</translation>
+        <translation type="obsolete">\Kingsoft Office\AppData\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</translation>
+        <translation type="obsolete">\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -243,7 +251,7 @@
     </message>
     <message>
         <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation>Documentul dumneavoastră are activat acum backup-ul automat!&lt;br /&gt;Fișierul de rezervă va fi creat în spațiul de birou ori de câte ori documentul este închis.</translation>
+        <translation type="obsolete">Documentul dumneavoastră are activat acum backup-ul automat!&lt;br /&gt;Fișierul de rezervă va fi creat în spațiul de birou ori de câte ori documentul este închis.</translation>
     </message>
     <message>
         <source>Login File Safe before manual backup.</source>
@@ -255,11 +263,11 @@
     </message>
     <message>
         <source>This document has&apos;t activated auto backup, so backup file is not available.</source>
-        <translation>Documentul nu are activat backup automat, astfel fișierul de rezervă nu este disponibil.</translation>
+        <translation type="obsolete">Documentul nu are activat backup automat, astfel fișierul de rezervă nu este disponibil.</translation>
     </message>
     <message>
         <source>There is no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup is created for this file in the current computer.&lt;br /&gt;2. Backup file is manually cleared.</source>
-        <translation>Nu sunt fișiere de rezervă pentru acest fișier în directorul de backup.&lt;br /&gt;Aceasta se datorează:&lt;br /&gt;1. Nu s-au creat fișiere de rezervă pentru acest fișier în computerul curent.&lt;br /&gt;2. Fișierele de rezervă sunt curățate manual.</translation>
+        <translation type="obsolete">Nu sunt fișiere de rezervă pentru acest fișier în directorul de backup.&lt;br /&gt;Aceasta se datorează:&lt;br /&gt;1. Nu s-au creat fișiere de rezervă pentru acest fișier în computerul curent.&lt;br /&gt;2. Fișierele de rezervă sunt curățate manual.</translation>
     </message>
     <message>
         <source>Login klive before canceling auto backup.</source>
@@ -267,11 +275,11 @@
     </message>
     <message>
         <source>Login klive before explor backup dir.</source>
-        <translation>Autentificați klive înaintea explorării directorului de backup.</translation>
+        <translation type="obsolete">Autentificați klive înaintea explorării directorului de backup.</translation>
     </message>
     <message>
         <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files is created in the current computer.&lt;br /&gt;2. Backup files are manually cleared.</source>
-        <translation>Nu sunt fișiere de rezervă în directorul de backup.&lt;br /&gt;Aceasta se datorează:&lt;br /&gt;1. Nu s-au creat fișiere de rezervă în computerul curent.&lt;br /&gt;2. Fișierele de rezervă sunt curățate manual.</translation>
+        <translation type="obsolete">Nu sunt fișiere de rezervă în directorul de backup.&lt;br /&gt;Aceasta se datorează:&lt;br /&gt;1. Nu s-au creat fișiere de rezervă în computerul curent.&lt;br /&gt;2. Fișierele de rezervă sunt curățate manual.</translation>
     </message>
     <message>
         <source>Important! Don&apos;t delete this directory.txt</source>
@@ -287,15 +295,62 @@
     </message>
     <message>
         <source>netbackup recover file</source>
-        <translation>recuperare fișier backup rețea</translation>
-    </message>
-    <message>
-        <source>netbackup rollback failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">recuperare fișier backup rețea</translation>
     </message>
     <message>
         <source>http://www.kingsoftstore.com/support/pc-office</source>
-        <translation>http://www.kingsoftstore.com/support/pc-office</translation>
+        <translation type="obsolete">http://www.kingsoftstore.com/support/pc-office</translation>
+    </message>
+    <message>
+        <source>Modify Time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Auto Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto bakcup has been enabled for the document now.&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto backup has not been activated for this document. So there is no backup file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files has been created for this file on the current computer.&lt;br /&gt;2. Backup files were manually cleared.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login klive before exploring backup directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files has been created on the current computer.&lt;br /&gt;2. Backup files were manually cleared.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to recover the file. The source file will be opened instead.
+This may because:
+1. The source file has been occupied by another program;
+2. Permission restricted in source file directory.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -559,7 +614,7 @@
     </message>
     <message>
         <source>&amp;Encrypt</source>
-        <translation>Cript&amp;ează</translation>
+        <translation type="obsolete">Cript&amp;ează</translation>
     </message>
     <message>
         <source> - replica</source>
@@ -575,11 +630,11 @@
     </message>
     <message>
         <source>rena&amp;me</source>
-        <translation>redenu&amp;mește</translation>
+        <translation type="obsolete">redenu&amp;mește</translation>
     </message>
     <message>
         <source>r&amp;efresh</source>
-        <translation>r&amp;eâmprospătează</translation>
+        <translation type="obsolete">r&amp;eâmprospătează</translation>
     </message>
     <message>
         <source>Cut and paste currently selected content to clipboard</source>
@@ -631,7 +686,7 @@
     </message>
     <message>
         <source>new &amp;folder</source>
-        <translation>&amp;dosar nou</translation>
+        <translation type="obsolete">&amp;dosar nou</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -700,6 +755,22 @@
     <message>
         <source>Cloud Docs</source>
         <translation>Cloud Docs</translation>
+    </message>
+    <message>
+        <source>&amp;Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rena&amp;me</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R&amp;efresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New &amp;Folder</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -785,7 +856,7 @@
     <name>KLoginUserCenterCommand</name>
     <message>
         <source>You have signed in WPS Office. Click here for more information.</source>
-        <translation>Sunteți autentificat în WPS Office.Apăsați aici pentru mai multe informații.</translation>
+        <translation type="obsolete">Sunteți autentificat în WPS Office.Apăsați aici pentru mai multe informații.</translation>
     </message>
 </context>
 <context>
@@ -905,19 +976,31 @@ cale:%3</translation>
     </message>
     <message>
         <source>Remove From List</source>
-        <translation>Elimină din listă</translation>
+        <translation type="obsolete">Elimină din listă</translation>
     </message>
     <message>
         <source>Open File Location</source>
-        <translation>Deschide locația fișierului</translation>
+        <translation type="obsolete">Deschide locația fișierului</translation>
     </message>
     <message>
         <source>Clear Invalid Records</source>
-        <translation>Curăță înregistrările nevalide</translation>
+        <translation type="obsolete">Curăță înregistrările nevalide</translation>
     </message>
     <message>
         <source>File Roaming</source>
         <translation>Roaming fișier</translation>
+    </message>
+    <message>
+        <source>Delete from the List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Invalid File</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -939,7 +1022,11 @@ cale:%3</translation>
     </message>
     <message>
         <source>Cacel</source>
-        <translation>Anulează</translation>
+        <translation type="obsolete">Anulează</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anulează</translation>
     </message>
 </context>
 <context>
@@ -982,15 +1069,27 @@ cale:%3</translation>
     </message>
     <message>
         <source>Remove From List</source>
-        <translation>Elimină din listă</translation>
+        <translation type="obsolete">Elimină din listă</translation>
     </message>
     <message>
         <source>Open File Location</source>
-        <translation>Deschide locația fișierului</translation>
+        <translation type="obsolete">Deschide locația fișierului</translation>
     </message>
     <message>
         <source>Clear Invalid Records</source>
-        <translation>Curăță înregistrările nevalide</translation>
+        <translation type="obsolete">Curăță înregistrările nevalide</translation>
+    </message>
+    <message>
+        <source>Delete from the List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Invalid File</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1122,10 +1221,14 @@ cale:%3</translation>
     <name>KTpRoamingPage</name>
     <message>
         <source>You have opened File Roaming:</source>
-        <translation>Ați deschis roaming fișier:</translation>
+        <translation type="obsolete">Ați deschis roaming fișier:</translation>
     </message>
     <message>
         <source>Look up my File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have enabled File Roaming:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1143,7 +1246,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>If you want to use marcos, please upgrade to professional or commercial version</source>
-        <translation>Dacă doriți să utilizați macrocomenzi, actualizați la versiunea comercială sau profesională</translation>
+        <translation type="obsolete">Dacă doriți să utilizați macrocomenzi, actualizați la versiunea comercială sau profesională</translation>
     </message>
     <message>
         <source>Learn Professional</source>
@@ -1162,6 +1265,10 @@ cale:%3</translation>
     <message>
         <source>The file you would like to open contains macros.</source>
         <translation>Fișierul pe care doriți să-l deschideți conține macrocomenzi.</translation>
+    </message>
+    <message>
+        <source>If you want to use macros, please upgrade to professional or commercial version</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1197,7 +1304,7 @@ cale:%3</translation>
     <name>KxCheckUploadDlg</name>
     <message>
         <source>Documents saving to the cloud failed. Please check the internet and retry</source>
-        <translation>A eșuat salvarea documentelor în nor. Verificați internetul și încercați din nou</translation>
+        <translation type="obsolete">A eșuat salvarea documentelor în nor. Verificați internetul și încercați din nou</translation>
     </message>
     <message>
         <source>Checking completed and will upload it at background</source>
@@ -1207,12 +1314,16 @@ cale:%3</translation>
         <source>Checking cloud saving permissions. Please wait...</source>
         <translation>Se verifică permisiunile de salvare ale norului. Așteptați...</translation>
     </message>
+    <message>
+        <source>Documents saving to the cloud failed. Please check the Internet and retry</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDaysRemainWidget</name>
     <message>
         <source>Days Remaining</source>
-        <translation>Zile rămase</translation>
+        <translation type="obsolete">Zile rămase</translation>
     </message>
 </context>
 <context>
@@ -1238,23 +1349,23 @@ cale:%3</translation>
     <name>KxDlgExpirationReminder</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
-        <translation>Reamintire expirare WPS Office</translation>
+        <translation type="obsolete">Reamintire expirare WPS Office</translation>
     </message>
     <message>
         <source>List of limited features in free version</source>
-        <translation>Lista funcțiilor limitate în versiunea gratuită</translation>
+        <translation type="obsolete">Lista funcțiilor limitate în versiunea gratuită</translation>
     </message>
     <message>
         <source>Your subscription for WPS Office or %1-day trial expries now.</source>
-        <translation>Abonamentul pentru WPS Office sau %1-zile încercare expiră acum.</translation>
+        <translation type="obsolete">Abonamentul pentru WPS Office sau %1-zile încercare expiră acum.</translation>
     </message>
     <message>
         <source>The program will switch to a free version. Some features cannot work properly. We recommend you purchase WPS Office or renew now.</source>
-        <translation>Programul se va comuta la versiunea gratuită. Unele funcții nu pot funcționa corespunzător. Vă recomandăm să achiziționați WPS Office sau să reânnoiți acum.</translation>
+        <translation type="obsolete">Programul se va comuta la versiunea gratuită. Unele funcții nu pot funcționa corespunzător. Vă recomandăm să achiziționați WPS Office sau să reânnoiți acum.</translation>
     </message>
     <message>
         <source>Buy/Renew Now</source>
-        <translation>Cumpără/Reânnoiește acum</translation>
+        <translation type="obsolete">Cumpără/Reânnoiește acum</translation>
     </message>
 </context>
 <context>
@@ -1299,154 +1410,138 @@ cale:%3</translation>
     <name>KxDlgVbaInstallation</name>
     <message>
         <source>Macro</source>
-        <translation>Macrocomandă</translation>
+        <translation type="obsolete">Macrocomandă</translation>
     </message>
     <message>
         <source>&amp;Download</source>
-        <translation>&amp;Descărcare</translation>
+        <translation type="obsolete">&amp;Descărcare</translation>
     </message>
     <message>
         <source>Macros depend on VBA support to function correctly. </source>
-        <translation>Macrocomenzile depind de suportul VBA pentru a funcționa corect. </translation>
+        <translation type="obsolete">Macrocomenzile depind de suportul VBA pentru a funcționa corect. </translation>
     </message>
     <message>
         <source>Please download and install VBA to allow all macros to run if you need. If you have installed VBA, please restart WPS Office.</source>
-        <translation>Descărcați și instalați VBA pentru a permite tuturor macrocomenzilor să ruleze la nevoie. Dacă ați instalat VBA, reporniți WPS Office.</translation>
+        <translation type="obsolete">Descărcați și instalați VBA pentru a permite tuturor macrocomenzilor să ruleze la nevoie. Dacă ați instalat VBA, reporniți WPS Office.</translation>
     </message>
 </context>
 <context>
     <name>KxExpirationReminderDlg</name>
     <message>
         <source>Writer:</source>
-        <translation>Writer:</translation>
+        <translation type="obsolete">Writer:</translation>
     </message>
     <message>
         <source>Mail Merge</source>
-        <translation>Combinare poștă</translation>
+        <translation type="obsolete">Combinare poștă</translation>
     </message>
     <message>
         <source>Watermark</source>
-        <translation>Logo</translation>
+        <translation type="obsolete">Logo</translation>
     </message>
     <message>
         <source>Presentation:</source>
-        <translation>Prezentare:</translation>
+        <translation type="obsolete">Prezentare:</translation>
     </message>
     <message>
         <source>Spreadsheets:</source>
-        <translation>Foi de calcul:</translation>
+        <translation type="obsolete">Foi de calcul:</translation>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation>Urmărește modificările</translation>
-    </message>
-    <message>
-        <source>Choose revision markups and comment formatting, or to change reviewer information.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Urmărește modificările</translation>
     </message>
     <message>
         <source>Fields Protection</source>
-        <translation>Protecție câmpuri</translation>
+        <translation type="obsolete">Protecție câmpuri</translation>
     </message>
     <message>
         <source>Insert ghosted text and picture behind the content on the page.</source>
-        <translation>Introduceți poza și textul invizibil în spatele conținutului de pe pagină.</translation>
+        <translation type="obsolete">Introduceți poza și textul invizibil în spatele conținutului de pe pagină.</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation>Restricționează editarea</translation>
+        <translation type="obsolete">Restricționează editarea</translation>
     </message>
     <message>
         <source>Restrict Editing Content.</source>
-        <translation>Restricționare editare conținut.</translation>
+        <translation type="obsolete">Restricționare editare conținut.</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation>Macrocomenzi</translation>
+        <translation type="obsolete">Macrocomenzi</translation>
     </message>
     <message>
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
-        <translation>Vizualizați lista macrocomenzilor, pe care le puteți rula, crea, sau șterge o macrocomandă.</translation>
+        <translation type="obsolete">Vizualizați lista macrocomenzilor, pe care le puteți rula, crea, sau șterge o macrocomandă.</translation>
     </message>
     <message>
         <source>Developer tools</source>
-        <translation>Unelte dezvoltator</translation>
+        <translation type="obsolete">Unelte dezvoltator</translation>
     </message>
     <message>
         <source>Insert the Option Button, Check Box and more.</source>
-        <translation>Introduceți Butonul opțiune, Caseta validare și mai multe.</translation>
+        <translation type="obsolete">Introduceți Butonul opțiune, Caseta validare și mai multe.</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>Comentariu</translation>
+        <translation type="obsolete">Comentariu</translation>
     </message>
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified folder, in order to play this file on another computer.</source>
-        <translation>Copiază fișierul prezentare și elementele media aferente, cum ar fi video, audio, etc. într-un dosar specificat, pentru a reda acest fișier pe alt computer.</translation>
+        <translation type="obsolete">Copiază fișierul prezentare și elementele media aferente, cum ar fi video, audio, etc. într-un dosar specificat, pentru a reda acest fișier pe alt computer.</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>Tabel pivot</translation>
-    </message>
-    <message>
-        <source>Make it easy to arrange and summarize complicated data and drill down on details.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Tabel pivot</translation>
     </message>
     <message>
         <source>Consolidate</source>
-        <translation>Consolidare</translation>
+        <translation type="obsolete">Consolidare</translation>
     </message>
     <message>
         <source>Combine values from multiple ranges into one new range.</source>
-        <translation>Combină valorile pentru intervale multiple într-un interval nou.</translation>
+        <translation type="obsolete">Combină valorile pentru intervale multiple într-un interval nou.</translation>
     </message>
     <message>
         <source>Text to Columns</source>
-        <translation>Text la coloane</translation>
+        <translation type="obsolete">Text la coloane</translation>
     </message>
     <message>
         <source>Separate the contents of one Spreadsheets cell into separate columns.</source>
-        <translation>Separă conținutul al unei celule foaie de calcul într-o coloană separată.</translation>
-    </message>
-    <message>
-        <source>Solver</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Separă conținutul al unei celule foaie de calcul într-o coloană separată.</translation>
     </message>
     <message>
         <source>Find the optimal value of a target cell by changing values in cells used to calculate the target cell.</source>
-        <translation>Găsește valoarea optimă a unei ținte celule modificând valorile în celulele utilizate la calcularea celulei țintă.</translation>
+        <translation type="obsolete">Găsește valoarea optimă a unei ținte celule modificând valorile în celulele utilizate la calcularea celulei țintă.</translation>
     </message>
     <message>
         <source>Find the right input when you know the result you want.</source>
-        <translation>Găsește intrarea corectă când cunoașteți rezultatul dorit.</translation>
+        <translation type="obsolete">Găsește intrarea corectă când cunoașteți rezultatul dorit.</translation>
     </message>
     <message>
         <source>Share Workbook</source>
-        <translation>Partajează registrul de lucru</translation>
+        <translation type="obsolete">Partajează registrul de lucru</translation>
     </message>
     <message>
         <source>Allow multiple people to work in a workbook at the same time.</source>
-        <translation>Permite mai multor oameni să lucreze într-un registru de lucru în același timp.</translation>
+        <translation type="obsolete">Permite mai multor oameni să lucreze într-un registru de lucru în același timp.</translation>
     </message>
     <message>
         <source>Save as docx format</source>
-        <translation>Salvează în format docx</translation>
+        <translation type="obsolete">Salvează în format docx</translation>
     </message>
     <message>
         <source>Enable/Disable Online Template</source>
-        <translation>Activează/Dezactivează șabloanele online</translation>
+        <translation type="obsolete">Activează/Dezactivează șabloanele online</translation>
     </message>
     <message>
         <source>Package to Folder/Compressed File</source>
-        <translation>Împachetare în Dosar/Fișier comprimat</translation>
+        <translation type="obsolete">Împachetare în Dosar/Fișier comprimat</translation>
     </message>
     <message>
         <source>Save as xlsx/xlsm format</source>
-        <translation>Salvează în format xlsx/xlsm</translation>
-    </message>
-    <message>
-        <source>Goal Seek</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Salvează în format xlsx/xlsm</translation>
     </message>
 </context>
 <context>
@@ -1632,7 +1727,11 @@ cale:%3</translation>
     </message>
     <message>
         <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
-        <translation>Dacă ați achiziționat abonamentul,  autentificați-vă pentru a vă bucura de serviciu.</translation>
+        <translation type="obsolete">Dacă ați achiziționat abonamentul,  autentificați-vă pentru a vă bucura de serviciu.</translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription, please sign in to use WPS Office.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1686,226 +1785,226 @@ cale:%3</translation>
     <name>KxQingActiveCodeDialog</name>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
     <message>
         <source>WPS Office Activation Code</source>
-        <translation>Cod de activare WPS Office</translation>
+        <translation type="obsolete">Cod de activare WPS Office</translation>
     </message>
     <message>
         <source>Enter your activation code here:</source>
-        <translation>Introduceți aici codul de activare:</translation>
+        <translation type="obsolete">Introduceți aici codul de activare:</translation>
     </message>
     <message>
         <source>Invalid activation code.</source>
-        <translation>Cod activare nevalid.</translation>
+        <translation type="obsolete">Cod activare nevalid.</translation>
     </message>
     <message>
         <source>The activation code does not exist.</source>
-        <translation>Codul de activare nu există.</translation>
+        <translation type="obsolete">Codul de activare nu există.</translation>
     </message>
     <message>
         <source>The activation code has expired.</source>
-        <translation>Codul de activare a expirat.</translation>
+        <translation type="obsolete">Codul de activare a expirat.</translation>
     </message>
     <message>
         <source>The activation code has exceeded the maximum number of activations.</source>
-        <translation>Codul de activare a depășit numărul maxim de activări.</translation>
+        <translation type="obsolete">Codul de activare a depășit numărul maxim de activări.</translation>
     </message>
     <message>
         <source>Please update your system time to connect to server.</source>
-        <translation>Actualizați ora sistemului pentru a vă conecta la server.</translation>
+        <translation type="obsolete">Actualizați ora sistemului pentru a vă conecta la server.</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Eroare necunoscută</translation>
+        <translation type="obsolete">Eroare necunoscută</translation>
     </message>
     <message>
         <source>Please check your network connection and %1try again%2.</source>
-        <translation>Verificați conexiunea la rețea și %1încercați din nou%2.</translation>
+        <translation type="obsolete">Verificați conexiunea la rețea și %1încercați din nou%2.</translation>
     </message>
     <message>
         <source>The server is busy. Please %1try again%2 later.</source>
-        <translation>Serverul este ocupat. %1 încercați din nou%2 mai târziu.</translation>
+        <translation type="obsolete">Serverul este ocupat. %1 încercați din nou%2 mai târziu.</translation>
     </message>
 </context>
 <context>
     <name>KxQingActiveSucceedDialog</name>
     <message>
         <source>WPS Office activation is successful</source>
-        <translation>WPS Office s-a activat cu succes</translation>
+        <translation type="obsolete">WPS Office s-a activat cu succes</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
 </context>
 <context>
     <name>KxQingAuthorize</name>
     <message>
         <source>Trial</source>
-        <translation>Încercare</translation>
+        <translation type="obsolete">Încercare</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation>Gratuit</translation>
+        <translation type="obsolete">Gratuit</translation>
     </message>
 </context>
 <context>
     <name>KxQingBuyTooltip</name>
     <message>
         <source>Form</source>
-        <translation>Formular</translation>
+        <translation type="obsolete">Formular</translation>
     </message>
     <message>
         <source>To purchase WPS Office, click here to visit the purchase page for more information. 
 You need to sign in before you buy. </source>
-        <translation>Pentru a achiziționa WPS Office, apăsați aici pentru a vizita pagina de achiziționare pentru mai multe informații. 
+        <translation type="obsolete">Pentru a achiziționa WPS Office, apăsați aici pentru a vizita pagina de achiziționare pentru mai multe informații. 
 Trebuie să fiți autentificat înaintea cumpărării. </translation>
     </message>
     <message>
         <source>After the trial expires, some features will not work properly. 
 Please purchase to continue using WPS Office.</source>
-        <translation>După ce perioada de încercare expiră, unele funcții nu vor funcționa corespunzător. 
+        <translation type="obsolete">După ce perioada de încercare expiră, unele funcții nu vor funcționa corespunzător. 
 Achiziționați pentru a continua utilizarea WPS Office.</translation>
     </message>
     <message>
         <source>Click here to visit the purchase page for more information. You need to sign in before you buy. </source>
-        <translation>Apăsați aici pentru a vizita pagina de achiziționare pentru mai multe informații. Trebuie să vă autentificați înainte să cumpărați. </translation>
+        <translation type="obsolete">Apăsați aici pentru a vizita pagina de achiziționare pentru mai multe informații. Trebuie să vă autentificați înainte să cumpărați. </translation>
     </message>
     <message>
         <source>Your WPS Office is about to expire. 
 After expiration, some features will not work properly. Renew now and you can get a discount. </source>
-        <translation>WPS Office este pe cale să expire. 
+        <translation type="obsolete">WPS Office este pe cale să expire. 
 După expirare, unele funcții nu vor funcționa coresunzător. Reânnoiți acum și puteți obține o reducere. </translation>
     </message>
     <message>
         <source>Your %1-day trial expires</source>
-        <translation>Perioada de încercare %1 zi expiră</translation>
+        <translation type="obsolete">Perioada de încercare %1 zi expiră</translation>
     </message>
     <message>
         <source>Your %1-day trial expires after 1 day</source>
-        <translation>Perioada de încercare %1 zi expiră după 1 zi</translation>
+        <translation type="obsolete">Perioada de încercare %1 zi expiră după 1 zi</translation>
     </message>
     <message>
         <source>Your %1-day trial expires after %2 days</source>
-        <translation>Perioada de încercare %1 zi expiră după %2 zile</translation>
+        <translation type="obsolete">Perioada de încercare %1 zi expiră după %2 zile</translation>
     </message>
     <message>
         <source>Buy Now &gt;&gt;</source>
-        <translation>Cumpără acum &gt;&gt;</translation>
+        <translation type="obsolete">Cumpără acum &gt;&gt;</translation>
     </message>
     <message>
         <source>Buy Now</source>
-        <translation>Cumpără acum</translation>
+        <translation type="obsolete">Cumpără acum</translation>
     </message>
     <message>
         <source>Subscription will expire after %1 days</source>
-        <translation>Abonamentul va expira după %1 zile</translation>
+        <translation type="obsolete">Abonamentul va expira după %1 zile</translation>
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
-        <translation>Reânnoiește acum &gt;&gt;</translation>
+        <translation type="obsolete">Reânnoiește acum &gt;&gt;</translation>
     </message>
     <message>
         <source>Your subscription has expired</source>
-        <translation>Abonamentul dumneavoastră a expirat</translation>
+        <translation type="obsolete">Abonamentul dumneavoastră a expirat</translation>
     </message>
     <message>
         <source>Verify Again &gt;&gt;</source>
-        <translation>Verifică din nou &gt;&gt;</translation>
+        <translation type="obsolete">Verifică din nou &gt;&gt;</translation>
     </message>
     <message>
         <source>Subscription will expire today</source>
-        <translation>Abonamentul va expira azi</translation>
+        <translation type="obsolete">Abonamentul va expira azi</translation>
     </message>
     <message>
         <source>Your WPS Office is about to expire. 
 After expiration, some features will not work properly. Please renew now. </source>
-        <translation>WPS Office este pe cale să expire. 
+        <translation type="obsolete">WPS Office este pe cale să expire. 
 După expirare, unele funcții nu vor funcționa corespunzător. Reânnoiți acum. </translation>
     </message>
     <message>
         <source>Some features will not work properly. &lt;br/&gt;Please renew now.  %1View details%2</source>
-        <translation>Unele funcții nu vor funcționa corespunzător. &lt;br/&gt;Reânnoiți acum.  %1Vizualizați detalii%2</translation>
+        <translation type="obsolete">Unele funcții nu vor funcționa corespunzător. &lt;br/&gt;Reânnoiți acum.  %1Vizualizați detalii%2</translation>
     </message>
     <message>
         <source>Verification Failure</source>
-        <translation>A eșuat verificarea</translation>
+        <translation type="obsolete">A eșuat verificarea</translation>
     </message>
     <message>
         <source>Cannot connect to the server so that activation fails. Please check your network connection and try again.</source>
-        <translation>Nu se poate conecta la server astfel activarea a eșuat. Verificați conexiunea la rețea și încercați din nou.</translation>
+        <translation type="obsolete">Nu se poate conecta la server astfel activarea a eșuat. Verificați conexiunea la rețea și încercați din nou.</translation>
     </message>
 </context>
 <context>
     <name>KxQingRestrictDlg</name>
     <message>
         <source>WPS Office Limited Features</source>
-        <translation>Funcții restrânse WPS Office</translation>
+        <translation type="obsolete">Funcții restrânse WPS Office</translation>
     </message>
     <message>
         <source>WPS Office Disable Features</source>
-        <translation>Funcții dezactivate WPS Office</translation>
+        <translation type="obsolete">Funcții dezactivate WPS Office</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Autentificare</translation>
+        <translation type="obsolete">Autentificare</translation>
     </message>
     <message>
         <source>If you have purchased subscription for individuals,  sign in to enjoy the service.</source>
-        <translation>Dacă ați achiziționat abonamentul pentru persoane fizice,  autentificați-vă pentru a vă bucura de serviciu.</translation>
+        <translation type="obsolete">Dacă ați achiziționat abonamentul pentru persoane fizice,  autentificați-vă pentru a vă bucura de serviciu.</translation>
     </message>
     <message>
         <source>Enter your activation code</source>
-        <translation>Introduceți codul de activare</translation>
+        <translation type="obsolete">Introduceți codul de activare</translation>
     </message>
     <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
-        <translation>Dacă aveți deja un cod de activare, utilizați-l pentru activarea WPS Office.</translation>
+        <translation type="obsolete">Dacă aveți deja un cod de activare, utilizați-l pentru activarea WPS Office.</translation>
     </message>
     <message>
         <source>The feature is not available in free version</source>
-        <translation>Funcția nu este disponibilă în versiunea gratuită</translation>
+        <translation type="obsolete">Funcția nu este disponibilă în versiunea gratuită</translation>
     </message>
     <message>
         <source>If you are a paid subscriber, you can use this feature in either way:</source>
-        <translation>Dacă sunteți un abonat plătitor, puteți utiliza această funcție în orice fel:</translation>
+        <translation type="obsolete">Dacă sunteți un abonat plătitor, puteți utiliza această funcție în orice fel:</translation>
     </message>
     <message>
         <source>Buy/Renew Now</source>
-        <translation>Cumpără/Reânnoiește acum</translation>
+        <translation type="obsolete">Cumpără/Reânnoiește acum</translation>
     </message>
 </context>
 <context>
     <name>KxQingWelcomeDlg</name>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation>Bine ați venit la WPS Office</translation>
+        <translation type="obsolete">Bine ați venit la WPS Office</translation>
     </message>
     <message>
         <source>Trial</source>
-        <translation>Încercare</translation>
+        <translation type="obsolete">Încercare</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Autentificare</translation>
+        <translation type="obsolete">Autentificare</translation>
     </message>
     <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
-        <translation>Dacă aveți deja un cod de activare, utilizați-l pentru activarea WPS Office.</translation>
+        <translation type="obsolete">Dacă aveți deja un cod de activare, utilizați-l pentru activarea WPS Office.</translation>
     </message>
     <message>
         <source>Start your free %1-day trial.</source>
-        <translation>Porniți perioada gratuită de încercare de %1 zi.</translation>
+        <translation type="obsolete">Porniți perioada gratuită de încercare de %1 zi.</translation>
     </message>
     <message>
         <source>If you have purchased subscription for individuals, sign in to enjoy the service.</source>
-        <translation>Dacă ați achiziționat abonamentul pentru persoane fizice, autentificați-vă pentru a vă bucura de serviciu.</translation>
+        <translation type="obsolete">Dacă ați achiziționat abonamentul pentru persoane fizice, autentificați-vă pentru a vă bucura de serviciu.</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation>Introduceți codul de activare</translation>
+        <translation type="obsolete">Introduceți codul de activare</translation>
     </message>
 </context>
 <context>
@@ -1919,65 +2018,65 @@ După expirare, unele funcții nu vor funcționa corespunzător. Reânnoiți acu
     <name>KxVbaBuyDlg</name>
     <message>
         <source>Macro</source>
-        <translation>Macrocomandă</translation>
+        <translation type="obsolete">Macrocomandă</translation>
     </message>
     <message>
         <source>&amp;Buy Now</source>
-        <translation>&amp;Cumpără acum</translation>
+        <translation type="obsolete">&amp;Cumpără acum</translation>
     </message>
     <message>
         <source>Macros depend on VBA support to function correctly. </source>
-        <translation>Macrocomenzile depind de suportul VBA pentru a funcționa corect. </translation>
+        <translation type="obsolete">Macrocomenzile depind de suportul VBA pentru a funcționa corect. </translation>
     </message>
     <message>
         <source>Your subscription does not include VBA. Macro in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
-        <translation>Abonamentul dumneavoastră nu include VBA. Macrocomanda din document nu poate funcționa corespunzător. Achiziționați suplimentar pentru a activa macrocomanda dacă aveți nevoie.</translation>
+        <translation type="obsolete">Abonamentul dumneavoastră nu include VBA. Macrocomanda din document nu poate funcționa corespunzător. Achiziționați suplimentar pentru a activa macrocomanda dacă aveți nevoie.</translation>
     </message>
     <message>
         <source>Macros depend on VBA support to function correctly.</source>
-        <translation>Macrocomenzile depind de suportul VBA ca să funcționeze corect.</translation>
+        <translation type="obsolete">Macrocomenzile depind de suportul VBA ca să funcționeze corect.</translation>
     </message>
     <message>
         <source>This document contains macros.</source>
-        <translation>Acest document conține macrocomenzi.</translation>
+        <translation type="obsolete">Acest document conține macrocomenzi.</translation>
     </message>
     <message>
         <source>Trial version does not support VBA so that macros in the document cannot work properly. Please purchase WPS Office to enable macro if you need.</source>
-        <translation>Perioada de încercare nu suportă VBA astfel încât macrocomenzile din document nu pot funcționa corespunzător. Achiziționați WPS Office pentru activarea macrocomenzile dacă vă trebuie.</translation>
+        <translation type="obsolete">Perioada de încercare nu suportă VBA astfel încât macrocomenzile din document nu pot funcționa corespunzător. Achiziționați WPS Office pentru activarea macrocomenzile dacă vă trebuie.</translation>
     </message>
     <message>
         <source>WPS Office Free cannot support VBA so that macros in the document cannot work properly. Please purchase WPS Office to enable macro if you need.</source>
-        <translation>WPS Office gratuit nu suportă VBA astfel încât macrocomenzile din document nu pot funcționa corespunzător. Achiziționați WPS Office pentru a activa macrocomenzile dacă vă trebuie.</translation>
+        <translation type="obsolete">WPS Office gratuit nu suportă VBA astfel încât macrocomenzile din document nu pot funcționa corespunzător. Achiziționați WPS Office pentru a activa macrocomenzile dacă vă trebuie.</translation>
     </message>
     <message>
         <source>Your subscription does not include VBA so that macros in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
-        <translation>Abonamentul dumneavoastră nu include VBA astfel încât macrocomenzile din document nu pot funcționa corect. Achiziționați suplimentar pentru a activa macrocomenzile dacă vă trebuie.</translation>
+        <translation type="obsolete">Abonamentul dumneavoastră nu include VBA astfel încât macrocomenzile din document nu pot funcționa corect. Achiziționați suplimentar pentru a activa macrocomenzile dacă vă trebuie.</translation>
     </message>
 </context>
 <context>
     <name>KxVbaInstallationDlg</name>
     <message>
         <source>This document contains macros. Macros depend on VBA support to function correctly.</source>
-        <translation>Acest document conține macrocomenzi. Macrocomenzile depind de suportul VBA pentru a funcționa corect.</translation>
+        <translation type="obsolete">Acest document conține macrocomenzi. Macrocomenzile depind de suportul VBA pentru a funcționa corect.</translation>
     </message>
 </context>
 <context>
     <name>KxVbaReminderDlg</name>
     <message>
         <source>Macro</source>
-        <translation>Macrocomandă</translation>
+        <translation type="obsolete">Macrocomandă</translation>
     </message>
     <message>
         <source>Macros depend on VBA support to function correctly. </source>
-        <translation>Macrocomenzile depind de suportul VBA să funcționeze corect. </translation>
+        <translation type="obsolete">Macrocomenzile depind de suportul VBA să funcționeze corect. </translation>
     </message>
     <message>
         <source>Currently the trial, free and home versions of WPS Office cannot support VBA so that macros in the document cannot work properly.</source>
-        <translation>Versiunile curentă de încercare, gratuită și homea WPS Office nu poate suporta VBA astfel încât macrocomenzile din document nu pot funcționa corespunzător.</translation>
+        <translation type="obsolete">Versiunile curentă de încercare, gratuită și homea WPS Office nu poate suporta VBA astfel încât macrocomenzile din document nu pot funcționa corespunzător.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
 </context>
 <context>
@@ -2037,18 +2136,23 @@ După expirare, unele funcții nu vor funcționa corespunzător. Reânnoiți acu
     <name>kxKOSHireCommand</name>
     <message>
         <source>Authorization update</source>
-        <translation>Actualizare autorizare</translation>
+        <translation type="obsolete">Actualizare autorizare</translation>
     </message>
     <message>
         <source>Business authorization</source>
-        <translation>Autorizare Afacere</translation>
+        <translation type="obsolete">Autorizare Afacere</translation>
     </message>
 </context>
 <context>
     <name>kxKOSLoginCommand</name>
     <message>
         <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
-        <translation>Dacă ați achiziționat abonamentul,  autentificați-vă pentru a vă bucura de serviciu.</translation>
+        <translation type="obsolete">Dacă ați achiziționat abonamentul,  autentificați-vă pentru a vă bucura de serviciu.</translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription, 
+please sign in to use WPS Office.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2077,11 +2181,19 @@ După expirare, unele funcții nu vor funcționa corespunzător. Reânnoiți acu
     <name>tips.DataRecover</name>
     <message>
         <source>Data Recovery Title</source>
-        <translation>Titlu recuperare date</translation>
+        <translation type="obsolete">Titlu recuperare date</translation>
     </message>
     <message>
         <source>Data Recovery Content</source>
-        <translation>Conținut recuperare date</translation>
+        <translation type="obsolete">Conținut recuperare date</translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished">WPS recuperare date Master</translation>
+    </message>
+    <message>
+        <source>Help you resume lost files due to disk corruption or accidental delete</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

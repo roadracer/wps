@@ -2195,7 +2195,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>Kingsoft Officeを改善するため、皆様のご意見をお待ちしております。</translation>
+        <translation type="obsolete">Kingsoft Officeを改善するため、皆様のご意見をお待ちしております。</translation>
     </message>
     <message>
         <source>&amp;Entries</source>
@@ -2279,6 +2279,18 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3175,6 +3187,10 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>Enter slide numbers or slide ranges. For example, 1,3,5-12</source>
         <translation>印刷するスライドの範囲または番号を入力して下さい　例）1,3 5-12</translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

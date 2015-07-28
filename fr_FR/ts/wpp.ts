@@ -2003,7 +2003,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Help us to improve WPS Office</source>
         <translatorcomment>Drop-down menu-&gt;Tools-&gt;Options-&gt;Options dialog box-&gt;Privacy</translatorcomment>
-        <translation>Aidez-nous à améliorer WPS Office</translation>
+        <translation type="obsolete">Aidez-nous à améliorer WPS Office</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
@@ -2295,6 +2295,18 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3227,6 +3239,10 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <source>Slides per pa&amp;ge:</source>
         <translatorcomment>Presentation Button-&gt;Print-&gt;dialog box</translatorcomment>
         <translation>Diapositives par pa&amp;ge :</translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

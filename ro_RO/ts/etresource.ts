@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ro_RO" sourcelanguage="ro">
 <defaultcodec>UTF-8</defaultcodec>
@@ -462,7 +462,7 @@
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Linie-punct-punct</translation>
+        <translation type="obsolete">Linie-punct-punct</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -555,6 +555,10 @@
     <message>
         <source>Long Dash Dot</source>
         <translation>Linie lungă punct</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -814,7 +818,7 @@ interogare OLE DB</translation>
     <name>classics.formatting</name>
     <message>
         <source>Across Center</source>
-        <translation>Peste centru</translation>
+        <translation type="obsolete">Peste centru</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -835,6 +839,10 @@ interogare OLE DB</translation>
     <message>
         <source>Center</source>
         <translation>Centru</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Columns Center</source>
@@ -1064,8 +1072,12 @@ Center</source>
         <translation>Mai puțin contrast</translation>
     </message>
     <message>
+        <source>Line Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Sytle</source>
-        <translation>Stil linie</translation>
+        <translation type="obsolete">Stil linie</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -1255,6 +1267,14 @@ Center</source>
         <source>Protect and Share Workbook</source>
         <translation>Protejează și partajează registrul de lucru</translation>
     </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.record_macro</name>
@@ -1269,6 +1289,10 @@ Center</source>
 </context>
 <context>
     <name>classics.shadow_settings</name>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>More Shadow Colors</source>
         <translation>Mai multe culori umbră</translation>
@@ -1303,7 +1327,7 @@ Center</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Snapper</translation>
+        <translation type="obsolete">Snapper</translation>
     </message>
 </context>
 <context>
@@ -1602,10 +1626,23 @@ Center</source>
     </message>
 </context>
 <context>
+    <name>classics.standard.Help</name>
+    <message>
+        <source>WPS Spreadsheets Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation></translation>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -1905,7 +1942,7 @@ Center</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>Spațiu birou</translation>
+        <translation type="obsolete">Spațiu birou</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -1926,6 +1963,10 @@ Center</source>
     <message>
         <source>Shadow Settings</source>
         <translation>Configurări umbră</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Standard</source>
@@ -2007,11 +2048,11 @@ Center</source>
         <translation>Verifică backup automat</translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
+        <source>Clear</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear Reject Insert Repeat Items</source>
+        <source>Click to adjust Zoom level</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2025,6 +2066,10 @@ Center</source>
     <message>
         <source>Close</source>
         <translation>Închide</translation>
+    </message>
+    <message>
+        <source>Cloud Link</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Column</source>
@@ -2049,6 +2094,10 @@ Center</source>
     <message>
         <source>Copy</source>
         <translation>Copiază</translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Curve</source>
@@ -2104,7 +2153,11 @@ Center</source>
     </message>
     <message>
         <source>Down Bars</source>
-        <translation>Bări de jos</translation>
+        <translation type="obsolete">Bări de jos</translation>
+    </message>
+    <message>
+        <source>Down-Bars</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Drop Line</source>
@@ -2135,8 +2188,20 @@ Center</source>
         <translation>Mod protejare vedere</translation>
     </message>
     <message>
+        <source>Eye Protection Night Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation>Opinie</translation>
+    </message>
+    <message>
+        <source>Feedback and Advice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -2199,12 +2264,16 @@ Center</source>
         <translation>Ascunde fereastra curentă când se face captura de ecran</translation>
     </message>
     <message>
-        <source>High-Low Line</source>
+        <source>High-Low Lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
         <translation>Evidențiază duplicatele</translation>
+    </message>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -2237,10 +2306,6 @@ Center</source>
     <message>
         <source>Macros</source>
         <translation>Macrocomenzi</translation>
-    </message>
-    <message>
-        <source>MailFeedBack</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Colors</source>
@@ -2276,7 +2341,11 @@ Center</source>
     </message>
     <message>
         <source>New from More Template</source>
-        <translation>Nou din mai multe șabloane</translation>
+        <translation type="obsolete">Nou din mai multe șabloane</translation>
+    </message>
+    <message>
+        <source>New from More Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -2291,6 +2360,10 @@ Center</source>
         <translation>Următor</translation>
     </message>
     <message>
+        <source>Night Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No Tab Page</source>
         <translation>Fără filă pagină</translation>
     </message>
@@ -2303,16 +2376,25 @@ Center</source>
         <translation>Notificare</translation>
     </message>
     <message>
+        <source>Note</source>
+        <comment>shortHint</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>OLE Object</source>
         <translation>Obiect OLE</translation>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>Spațiu birou</translation>
+        <translation type="obsolete">Spațiu birou</translation>
     </message>
     <message>
         <source>Open</source>
         <translation>Deschide</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -2380,8 +2462,12 @@ Directly</source>
         <translation>Recalculează registrul de lucru</translation>
     </message>
     <message>
+        <source>Recent File Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Recently File Management</source>
-        <translation>Administrare fișiere recente</translation>
+        <translation type="obsolete">Administrare fișiere recente</translation>
     </message>
     <message>
         <source>Record Macro Statusbar</source>
@@ -2443,20 +2529,16 @@ data</translation>
         <translation>Panoul de selecție</translation>
     </message>
     <message>
-        <source>Series Line Popup Menu</source>
+        <source>Series Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set Highlight Repeat Items</source>
+        <source>Set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Language</source>
         <translation>Configurează limba</translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -2516,9 +2598,17 @@ Window</source>
         <translation>Anulează</translation>
     </message>
     <message>
+        <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up Bars</source>
         <translatorcomment>Bări de sus</translatorcomment>
         <translation></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View</source>
@@ -2541,8 +2631,31 @@ Window</source>
         <translation>Fereastră</translation>
     </message>
     <message>
+        <source>WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt Popup Menu</source>
-        <translation>Meniu desfășurat cuvânt stilizat</translation>
+        <translation type="obsolete">Meniu desfășurat cuvânt stilizat</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>etcommon.mainwindow.commands.DataGroup</name>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2574,7 +2687,7 @@ Window</source>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>Schimbă contul</translation>
+        <translation type="obsolete">Schimbă contul</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -2637,8 +2750,12 @@ Window</source>
         <translation>Minisite</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Office Space</source>
-        <translation>Spațiu birou</translation>
+        <translation type="obsolete">Spațiu birou</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -2653,6 +2770,10 @@ Window</source>
         <translation>Aspect pagină</translation>
     </message>
     <message>
+        <source>Personal Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Picture Tools</source>
         <translation>Unelte poză</translation>
     </message>
@@ -2665,12 +2786,16 @@ Window</source>
         <translation>Unelte tabel pivot</translation>
     </message>
     <message>
+        <source>Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Print Preview</source>
         <translation>Previzualizare tipărire</translation>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation>Meniu rapid</translation>
+        <translation type="obsolete">Meniu rapid</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -2713,12 +2838,20 @@ Window</source>
         <translation>Deautentificare</translation>
     </message>
     <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table Style</source>
         <translation>Stil tabel</translation>
     </message>
     <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Sign in</source>
-        <translation>Autentificare utilizator</translation>
+        <translation type="obsolete">Autentificare utilizator</translation>
     </message>
     <message>
         <source>View</source>
@@ -2730,7 +2863,7 @@ Window</source>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Versiunea WPS pentru afaceri</translation>
+        <translation type="obsolete">Versiunea WPS pentru afaceri</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -2843,8 +2976,12 @@ Window</source>
         <translation>Minisite</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Office Space</source>
-        <translation>Spațiu birou</translation>
+        <translation type="obsolete">Spațiu birou</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -2859,6 +2996,10 @@ Window</source>
         <translation>Aspect pagină</translation>
     </message>
     <message>
+        <source>Personal Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Picture Tools</source>
         <translation>Unelte poză</translation>
     </message>
@@ -2871,12 +3012,16 @@ Window</source>
         <translation>Unelte tabel pivot</translation>
     </message>
     <message>
+        <source>Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Print Preview</source>
         <translation>Previzualizare tipărire</translation>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation>Meniu rapid</translation>
+        <translation type="obsolete">Meniu rapid</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -2915,8 +3060,12 @@ Window</source>
         <translation>Deautentificare</translation>
     </message>
     <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Switch account</source>
-        <translation>Comutare cont</translation>
+        <translation type="obsolete">Comutare cont</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -2924,7 +3073,7 @@ Window</source>
     </message>
     <message>
         <source>User Sign in</source>
-        <translation>Autentificare utilizator</translation>
+        <translation type="obsolete">Autentificare utilizator</translation>
     </message>
     <message>
         <source>View</source>
@@ -2936,7 +3085,7 @@ Window</source>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Versiunea WPS pentru afaceri</translation>
+        <translation type="obsolete">Versiunea WPS pentru afaceri</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -2955,7 +3104,7 @@ Window</source>
     <name>etrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Comutare UI</translation>
+        <translation type="obsolete">Comutare UI</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -3109,10 +3258,6 @@ interogare OLE DB</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Goal Seek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide Detail</source>
         <translation>Ascunde detaliul</translation>
     </message>
@@ -3173,10 +3318,6 @@ tot</translation>
         <translation>Arată detaliul</translation>
     </message>
     <message>
-        <source>Solver</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Sort</source>
         <translation>Sortează</translation>
     </message>
@@ -3210,7 +3351,7 @@ Columns</source>
     <name>ongmani.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>Grupează</translation>
+        <translation type="obsolete">Grupează</translation>
     </message>
 </context>
 <context>
@@ -3264,7 +3405,7 @@ control</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Descriere</translation>
+        <translation type="obsolete">Descriere</translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -3517,7 +3658,7 @@ pornit</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Linie punct punct</translation>
+        <translation type="obsolete">Linie punct punct</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -3602,6 +3743,10 @@ pornit</translation>
     <message>
         <source>Long Dash Dot</source>
         <translation>Linie lungă punct</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -3745,8 +3890,12 @@ pornit/oprit</translation>
         <translation>Administrare backup și recuperare date</translation>
     </message>
     <message>
+        <source>Backup and Recover</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
-        <translation>Schimbă versiunea</translation>
+        <translation type="obsolete">Schimbă versiunea</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -3774,7 +3923,7 @@ pornit/oprit</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation>Exportă ca OFD</translation>
+        <translation type="obsolete">Exportă ca OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -3795,6 +3944,10 @@ pornit/oprit</translation>
     <message>
         <source>Help</source>
         <translation>Ajutor</translation>
+    </message>
+    <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Files</source>
@@ -3833,8 +3986,12 @@ pornit/oprit</translation>
         <translation>Nou din șabloane online</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>Nou din alte șabloane...</translation>
+        <translation type="obsolete">Nou din alte șabloane...</translation>
     </message>
     <message>
         <source>Open</source>
@@ -3869,6 +4026,14 @@ pornit/oprit</translation>
         <translation>Reâncarcă</translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>Salvează</translation>
     </message>
@@ -3891,6 +4056,14 @@ pornit/oprit</translation>
     <message>
         <source>Study Online</source>
         <translation>Studiu online</translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -3919,6 +4092,10 @@ pornit/oprit</translation>
     <message>
         <source>WPS Office Product Center</source>
         <translation>Centrul de producție WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
@@ -4096,8 +4273,12 @@ recent</translation>
         <translation>Peste medie</translation>
     </message>
     <message>
+        <source>Accounting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Across Center</source>
-        <translation>Peste centru</translation>
+        <translation type="obsolete">Peste centru</translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -4137,7 +4318,11 @@ recent</translation>
     </message>
     <message>
         <source>Angle Countclockwise</source>
-        <translation>Unghi antiorar</translation>
+        <translation type="obsolete">Unghi antiorar</translation>
+    </message>
+    <message>
+        <source>Angle Counterclockwise</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ascending</source>
@@ -4206,6 +4391,10 @@ recent</translation>
     <message>
         <source>Center</source>
         <translation>Centru</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
@@ -4627,7 +4816,7 @@ coloane</translation>
     </message>
     <message>
         <source>Rows and Columns</source>
-        <translation>Rânduri și coloane</translation>
+        <translation type="obsolete">Rânduri și coloane</translation>
     </message>
     <message>
         <source>RowsColumn</source>
@@ -4752,6 +4941,10 @@ coloane</translation>
     <message>
         <source>Unmerge Cells</source>
         <translation>Anulează combinare celule</translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Up</source>
@@ -4896,7 +5089,11 @@ subsol</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>Introdu clip artistic</translation>
+        <translation type="obsolete">Introdu clip artistic</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -5320,7 +5517,7 @@ pozele</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Linie punct punct</translation>
+        <translation type="obsolete">Linie punct punct</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -5380,11 +5577,19 @@ pozele</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>Introdu clip artistic</translation>
+        <translation type="obsolete">Introdu clip artistic</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Introduceți poză online</translation>
+        <translation type="obsolete">Introduceți poză online</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -5401,6 +5606,10 @@ pozele</translation>
     <message>
         <source>Long Dash Dot</source>
         <translation>Linie lungă punct</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -5603,6 +5812,11 @@ pornit/oprit</translation>
         <translation>Șterge</translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field
 Settings</source>
         <translation>Configurări
@@ -5671,6 +5885,11 @@ tabel pivot</translation>
         <source>Refresh
 Data</source>
         <translation type="obsolete">Reâmprospătează data</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show
@@ -5882,6 +6101,16 @@ modificările</translation>
     <message>
         <source>Translation</source>
         <translation>Traducere</translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6148,6 +6377,10 @@ Layout</source>
 aspectul</translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Security</source>
         <translation>Securitate</translation>
     </message>
@@ -6165,7 +6398,7 @@ aspectul</translation>
     </message>
     <message>
         <source>Unsplit</source>
-        <translation>Anulează desparte</translation>
+        <translation type="obsolete">Anulează desparte</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -6571,7 +6804,7 @@ caractere</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Linie punct punct</translation>
+        <translation type="obsolete">Linie punct punct</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -6700,6 +6933,10 @@ caractere</translation>
     <message>
         <source>Long Dash Dot</source>
         <translation>Linie lungă punct</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loose</source>
@@ -6917,6 +7154,10 @@ Cuvânt stilizat</translation>
         <translation>Dezactivează backup automat</translation>
     </message>
     <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Duplicates</source>
         <translation type="obsolete">Duplicate</translation>
     </message>
@@ -6930,7 +7171,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -6955,14 +7196,6 @@ Cuvânt stilizat</translation>
     <message>
         <source>Highlight Duplicates</source>
         <translation type="obsolete">Evidențiază duplicatele</translation>
-    </message>
-    <message>
-        <source>KOS User Data Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS User PDF</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -7001,6 +7234,14 @@ Cuvânt stilizat</translation>
         <translation>Salvează în norul documentelor</translation>
     </message>
     <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>Opinie utilizator</translation>
     </message>
@@ -7014,42 +7255,113 @@ Cuvânt stilizat</translation>
     </message>
 </context>
 <context>
+    <name>ongmani.proxycommands</name>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goal Seek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press Enter to Start Reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What-If Analysis</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>popupmenu</name>
     <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>0.25 pt.</source>
-        <translation>0.25 pct.</translation>
+        <translation type="obsolete">0.25 pct.</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation>0.5 pct.</translation>
+        <translation type="obsolete">0.5 pct.</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation>0.75 pct.</translation>
+        <translation type="obsolete">0.75 pct.</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation>1 pct.</translation>
+        <translation type="obsolete">1 pct.</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation>1.5 pct.</translation>
+        <translation type="obsolete">1.5 pct.</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation>2.25 pct.</translation>
+        <translation type="obsolete">2.25 pct.</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation>3 pct.</translation>
+        <translation type="obsolete">3 pct.</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation>4.5 pct.</translation>
+        <translation type="obsolete">4.5 pct.</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation>6 pct.</translation>
+        <translation type="obsolete">6 pct.</translation>
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
@@ -7060,8 +7372,12 @@ Cuvânt stilizat</translation>
         <translation>Accept modificările</translation>
     </message>
     <message>
+        <source>Accounting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Across Center</source>
-        <translation>Peste centru</translation>
+        <translation type="obsolete">Peste centru</translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -7258,8 +7574,12 @@ Add-Ins</translation>
         <translation>Centru</translation>
     </message>
     <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Account</source>
-        <translation>Schimbă contul</translation>
+        <translation type="obsolete">Schimbă contul</translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -7442,16 +7762,20 @@ Add-Ins</translation>
         <translation>Linie</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>Stil linie</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Linie punct</translation>
+        <translation type="obsolete">Linie punct</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>Linie punct punct</translation>
+        <translation type="obsolete">Linie punct punct</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -7579,7 +7903,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation>Exportă ca OFD</translation>
+        <translation type="obsolete">Exportă ca OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -7588,6 +7912,10 @@ Add-Ins</translation>
     <message>
         <source>Eye Protection Mode</source>
         <translation>Mod protejare vedere</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feedback by Email</source>
@@ -7643,12 +7971,20 @@ Add-Ins</translation>
         <translation>Filtru</translation>
     </message>
     <message>
+        <source>Flip Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Flip Horizontally</source>
-        <translation>Întoarce orizontal</translation>
+        <translation type="obsolete">Întoarce orizontal</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Vertically</source>
-        <translation>Întoarce vertical</translation>
+        <translation type="obsolete">Întoarce vertical</translation>
     </message>
     <message>
         <source>Font</source>
@@ -7779,6 +8115,10 @@ Add-Ins</translation>
         <translation>Bara formulei</translation>
     </message>
     <message>
+        <source>Formulas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Free Rotate</source>
         <translation>Rotește liber</translation>
     </message>
@@ -7872,7 +8212,11 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>Introdu clip artistic</translation>
+        <translation type="obsolete">Introdu clip artistic</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Comment</source>
@@ -7912,11 +8256,15 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Model linie</translation>
+        <translation type="obsolete">Model linie</translation>
+    </message>
+    <message>
+        <source>Line Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation>Paletă stil linie</translation>
+        <translation type="obsolete">Paletă stil linie</translation>
     </message>
     <message>
         <source>Linear Trend</source>
@@ -7927,15 +8275,23 @@ Add-Ins</translation>
         <translation>Linie lungă</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>Linie lungă punct</translation>
+        <translation type="obsolete">Linie lungă punct</translation>
     </message>
     <message>
         <source>Macro</source>
         <translation>Macrocomandă</translation>
     </message>
     <message>
-        <source>Manage Credential</source>
+        <source>Manage Credentials</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8083,6 +8439,10 @@ Add-Ins</translation>
         <translation>Lipește</translation>
     </message>
     <message>
+        <source>Paste Special</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Paste as Picture</source>
         <translation>Lipește ca poză</translation>
     </message>
@@ -8095,8 +8455,16 @@ Add-Ins</translation>
         <translation>Model</translation>
     </message>
     <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Percent Style</source>
         <translation>Stil procent</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pick from Drop-down List</source>
@@ -8193,12 +8561,24 @@ registrul de lucru</translation>
         <translation>Elimină Hyperlink</translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rename</source>
         <translation>Redenumește</translation>
     </message>
     <message>
         <source>Reset All Page Break</source>
-        <translation>Resetează toate întreruperile de pagină</translation>
+        <translation type="obsolete">Resetează toate întreruperile de pagină</translation>
+    </message>
+    <message>
+        <source>Reset All Page Breaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restricted Access</source>
@@ -8363,7 +8743,7 @@ registrul de lucru</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Snapper</translation>
+        <translation type="obsolete">Snapper</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -8482,12 +8862,16 @@ registrul de lucru</translation>
         <translation>Urmărește modificările</translation>
     </message>
     <message>
+        <source>Transpose</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>UnSplit</source>
-        <translation>Anulează desparte</translation>
+        <translation type="obsolete">Anulează desparte</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Subliniat</translation>
+        <translation type="obsolete">Subliniat</translation>
     </message>
     <message>
         <source>Unfreeze</source>
@@ -8510,6 +8894,14 @@ registrul de lucru</translation>
         <translation>Anulează combinare celule</translation>
     </message>
     <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unrestricted Access</source>
         <translation>Acces nerestricționat</translation>
     </message>
@@ -8524,6 +8916,10 @@ registrul de lucru</translation>
     <message>
         <source>Validation</source>
         <translation>Validare</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -8542,8 +8938,12 @@ registrul de lucru</translation>
         <translation>Vizualizare istoric backup</translation>
     </message>
     <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Business Version</source>
-        <translation>Versiunea WPS pentru afaceri</translation>
+        <translation type="obsolete">Versiunea WPS pentru afaceri</translation>
     </message>
     <message>
         <source>WPS Office BBS</source>
@@ -8590,7 +8990,17 @@ registrul de lucru</translation>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Comutare UI</translation>
+        <translation type="obsolete">Comutare UI</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -8732,10 +9142,6 @@ OLE DB Query</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Goal Seek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide Detail</source>
         <translation>Ascunde detaliul</translation>
     </message>
@@ -8788,10 +9194,6 @@ OLE DB Query</source>
         <translation>Arată detaliul</translation>
     </message>
     <message>
-        <source>Solver</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Sort</source>
         <translation>Sortează</translation>
     </message>
@@ -8828,7 +9230,7 @@ OLE DB Query</source>
     <name>rainbow.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>Grupează</translation>
+        <translation type="obsolete">Grupează</translation>
     </message>
 </context>
 <context>
@@ -8878,7 +9280,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Description</source>
-        <translation>Descriere</translation>
+        <translation type="obsolete">Descriere</translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -9109,7 +9511,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Linie punct punct</translation>
+        <translation type="obsolete">Linie punct punct</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -9182,6 +9584,10 @@ Add-Ins</translation>
     <message>
         <source>Long Dash Dot</source>
         <translation>Linie lungă punct</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -9311,8 +9717,12 @@ Add-Ins</translation>
         <translation>Administrare backup și recuperare date</translation>
     </message>
     <message>
+        <source>Backup and Recover</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
-        <translation>Schimbă versiunea</translation>
+        <translation type="obsolete">Schimbă versiunea</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -9340,7 +9750,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation>Exportă ca OFD</translation>
+        <translation type="obsolete">Exportă ca OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -9361,6 +9771,10 @@ Add-Ins</translation>
     <message>
         <source>Help</source>
         <translation>Ajutor</translation>
+    </message>
+    <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Excel 2007-2010 Files</source>
@@ -9399,8 +9813,12 @@ Add-Ins</translation>
         <translation>Nou din șabloane online</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>Nou din alte șabloane...</translation>
+        <translation type="obsolete">Nou din alte șabloane...</translation>
     </message>
     <message>
         <source>Open</source>
@@ -9435,6 +9853,14 @@ Add-Ins</translation>
         <translation>Reâncarcă</translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>Salvează</translation>
     </message>
@@ -9457,6 +9883,14 @@ Add-Ins</translation>
     <message>
         <source>Study Online</source>
         <translation>Studiu online</translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -9485,6 +9919,10 @@ Add-Ins</translation>
     <message>
         <source>WPS Office Product Center</source>
         <translation>Centrul de producție WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
@@ -9656,8 +10094,12 @@ Trig</source>
         <translation>Peste medie</translation>
     </message>
     <message>
+        <source>Accounting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Across Center</source>
-        <translation>Peste centru</translation>
+        <translation type="obsolete">Peste centru</translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -9766,6 +10208,10 @@ Trig</source>
     <message>
         <source>Center</source>
         <translation>Centru</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
@@ -10286,6 +10732,10 @@ centrează</translation>
         <translation>Anulează combinare celule</translation>
     </message>
     <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>Sus</translation>
     </message>
@@ -10412,11 +10862,19 @@ centrează</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>Introdu clip artistic</translation>
+        <translation type="obsolete">Introdu clip artistic</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Introduceți poză online</translation>
+        <translation type="obsolete">Introduceți poză online</translation>
     </message>
     <message>
         <source>Label</source>
@@ -10802,7 +11260,7 @@ centrează</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Linie-punct-punct</translation>
+        <translation type="obsolete">Linie-punct-punct</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -10862,7 +11320,11 @@ centrează</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>Introdu clip artistic</translation>
+        <translation type="obsolete">Introdu clip artistic</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -10883,6 +11345,10 @@ centrează</translation>
     <message>
         <source>Long Dash Dot</source>
         <translation>Linie lungă punct</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -11079,6 +11545,11 @@ centrează</translation>
         <translation>Șterge</translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field Settings</source>
         <translation>Configurări câmp</translation>
     </message>
@@ -11137,6 +11608,11 @@ centrează</translation>
     <message>
         <source>Refresh Data</source>
         <translation type="obsolete">Reâmprospătează data</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -11323,6 +11799,14 @@ centrează</translation>
     <message>
         <source>Translation</source>
         <translation>Traducere</translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11580,6 +12064,10 @@ Other Windows</source>
         <translation>Se citește aspectul</translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Security</source>
         <translation>Securitate</translation>
     </message>
@@ -11601,7 +12089,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Unsplit</source>
-        <translation>Anulează desparte</translation>
+        <translation type="obsolete">Anulează desparte</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -11961,7 +12449,7 @@ umbră</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Linie punct punct</translation>
+        <translation type="obsolete">Linie punct punct</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -12086,6 +12574,10 @@ umbră</translation>
     <message>
         <source>Long Dash Dot</source>
         <translation>Linie lungă punct</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loose</source>
@@ -12303,6 +12795,10 @@ umbră</translation>
         <translation>Dezactivează backup automat</translation>
     </message>
     <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Duplicates</source>
         <translation type="obsolete">Duplicate</translation>
     </message>
@@ -12316,7 +12812,7 @@ umbră</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -12337,10 +12833,6 @@ umbră</translation>
     <message>
         <source>Highlight Duplicates</source>
         <translation type="obsolete">Evidențiază duplicatele</translation>
-    </message>
-    <message>
-        <source>KOS User Data Tools</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Laboratory</source>
@@ -12383,6 +12875,14 @@ umbră</translation>
         <translation>Salvează în norul documentelor</translation>
     </message>
     <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>Opinie utilizator</translation>
     </message>
@@ -12400,10 +12900,45 @@ umbră</translation>
     </message>
 </context>
 <context>
+    <name>rainbow.proxycommands</name>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goal Seek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press Enter to Start Reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What-If Analysis</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>workspacemenu</name>
     <message>
         <source>Change Account</source>
-        <translation>Schimbă contul</translation>
+        <translation type="obsolete">Schimbă contul</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -12412,6 +12947,10 @@ umbră</translation>
     <message>
         <source>Disable AutoBackup</source>
         <translation>Dezactivează backup automat</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -12427,7 +12966,7 @@ umbră</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -12438,16 +12977,20 @@ umbră</translation>
         <translation type="obsolete">Evidențiază duplicatele</translation>
     </message>
     <message>
-        <source>KOS Open Cloud File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Manual Backup</source>
         <translation>Backup manual</translation>
     </message>
     <message>
         <source>More Colors</source>
         <translation>Mai multe culori</translation>
+    </message>
+    <message>
+        <source>Open from Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
@@ -12507,7 +13050,7 @@ umbră</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Versiunea WPS pentru afaceri</translation>
+        <translation type="obsolete">Versiunea WPS pentru afaceri</translation>
     </message>
 </context>
 </TS>

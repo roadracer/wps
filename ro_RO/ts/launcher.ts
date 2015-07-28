@@ -34,16 +34,16 @@
     <message>
         <source>Usage: %1 
 </source>
-        <translation>Utilizare: %1 </translation>
+        <translation type="obsolete">Utilizare: %1 </translation>
     </message>
     <message>
         <source>    or %1 &lt;wps|wpp|et&gt; [document_path]
 </source>
-        <translation>    sau %1&lt;wps|wpp|et&gt; [cale_document]</translation>
+        <translation type="obsolete">    sau %1&lt;wps|wpp|et&gt; [cale_document]</translation>
     </message>
     <message>
         <source>:/qm/%1.qm</source>
-        <translation>:/qm/%1.qm</translation>
+        <translation type="obsolete">:/qm/%1.qm</translation>
     </message>
 </context>
 </TS>

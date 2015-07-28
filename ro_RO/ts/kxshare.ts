@@ -207,11 +207,11 @@
     </message>
     <message>
         <source>DownLoad Online Fonts &quot;%1&quot; Successful</source>
-        <translation>A reușit descărcarea fonturilor online &quot;%1&quot;</translation>
+        <translation type="obsolete">A reușit descărcarea fonturilor online &quot;%1&quot;</translation>
     </message>
     <message>
         <source>DownLoad Online Fonts &quot;%1&quot; Failed</source>
-        <translation>A eșuat descărcarea fonturilor online &quot;%1&quot;</translation>
+        <translation type="obsolete">A eșuat descărcarea fonturilor online &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Click here to change your interface style.</source>
@@ -219,15 +219,31 @@
     </message>
     <message>
         <source>DownLoad Online Fonts &quot;%1&quot; Successful(Restart to take effect)</source>
-        <translation>A reușit descărcarea fonturilor online &quot;%1&quot;(Reporniți pentru a avea efect)</translation>
+        <translation type="obsolete">A reușit descărcarea fonturilor online &quot;%1&quot;(Reporniți pentru a avea efect)</translation>
     </message>
     <message>
         <source>Online font downloading,click font list see more detail.</source>
-        <translation>Se descarcă font online,apăsați pe lista fontului pentru a vedea mai multe detalii.</translation>
+        <translation type="obsolete">Se descarcă font online,apăsați pe lista fontului pentru a vedea mai multe detalii.</translation>
     </message>
     <message>
         <source>The layout will take effect after restart or logoff computer</source>
-        <translation>Aspectul va avea efect după ce reporniți computerul sau vă sau deautentificați</translation>
+        <translation type="obsolete">Aspectul va avea efect după ce reporniți computerul sau vă sau deautentificați</translation>
+    </message>
+    <message>
+        <source>DownLoad cloud font &quot;%1&quot; Successful. (Restart to take effect)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download cloud font &quot;%1&quot; successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download cloud font &quot;%1&quot; failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading cloud font, click the font list to see more detail.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -261,6 +277,25 @@
     <message>
         <source>(The file %1 seems to be damaged.)</source>
         <translation>(Fișierul %1 pare a fi deteriorat.)</translation>
+    </message>
+</context>
+<context>
+    <name>KCustomCtrl</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Control</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -326,7 +361,7 @@
     </message>
     <message>
         <source>about:blank</source>
-        <translation type="obsolete">about:blank</translation>
+        <translation type="unfinished">about:blank</translation>
     </message>
     <message>
         <source>applying...</source>
@@ -343,6 +378,122 @@
     <message>
         <source>Restart WPS Office for layout setting to take effect</source>
         <translation>Reporniți WPS Office pentru ca să aibă efect configurarea aspectului</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawBrowserWnd</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse for folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Închide</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawButton</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDrawCheckBox</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDrawComboBox</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDrawMenu</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDrawMsgBox</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Instant Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anulează</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawSearchListCtrl</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UAC Fail Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Result Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDrawTreeCtrl</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -365,6 +516,220 @@
     </message>
 </context>
 <context>
+    <name>KFileDialogEx</name>
+    <message>
+        <source>Search Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anulează</translation>
+    </message>
+    <message>
+        <source>Encrypt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Închide</translation>
+    </message>
+    <message>
+        <source>Restore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Local Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent Visit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop</source>
+        <translation type="unfinished">Birou</translation>
+    </message>
+    <message>
+        <source>My Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Remote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Private Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My Circle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DataMaster Button Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft PDFToWord</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDFToWord Button Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CustomLocation Button Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Folder Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save At</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Super Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Big Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Small Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon</source>
+        <translation type="unfinished">Pictogramă</translation>
+    </message>
+    <message>
+        <source>Detail View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quick Disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid file name, please enter the correct file name</source>
+        <translation type="unfinished">Nume fișier nevalid, introduceți numele de fișier corect</translation>
+    </message>
+    <message>
+        <source>Title Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Control Max Count Tip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nume</translation>
+    </message>
+    <message>
+        <source>Path</source>
+        <translation type="unfinished">Cale</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">Tip</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Dimensiune</translation>
+    </message>
+    <message>
+        <source>Last Modify Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search Waiting Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search Fail Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFileDlgAssitantTool</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KFileSaveDialog</name>
     <message>
         <source>&amp;Encryption</source>
@@ -372,7 +737,26 @@
     </message>
     <message>
         <source>FileName or PathName is longger than 218 chars!</source>
-        <translation>Nume fișier sau nume căle este mai lung decât 218 caractere!</translation>
+        <translation type="obsolete">Nume fișier sau nume căle este mai lung decât 218 caractere!</translation>
+    </message>
+    <message>
+        <source>FileName or PathName is longger than 218 characters!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KImagePlayDlg</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anulează</translation>
     </message>
 </context>
 <context>
@@ -449,7 +833,7 @@
     </message>
     <message>
         <source>Network error...</source>
-        <translation>Eroare rețea...</translation>
+        <translation type="obsolete">Eroare rețea...</translation>
     </message>
     <message>
         <source>A network error occurred.</source>
@@ -464,7 +848,11 @@
     <name>KLanguageDownloadDialog</name>
     <message>
         <source>Are you sure to cancel the download?</source>
-        <translation>Sigur anulați descărcarea?</translation>
+        <translation type="obsolete">Sigur anulați descărcarea?</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to cancel the download?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -505,47 +893,47 @@
     <name>KRegisterDlg</name>
     <message>
         <source>Documents&apos; Author</source>
-        <translation>Autorul documentului</translation>
+        <translation type="obsolete">Autorul documentului</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Ok</translation>
+        <translation type="obsolete">Ok</translation>
     </message>
     <message>
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
-        <translation>Salvarea numărului serial a eșuat. Verificați dacă aveți permisiuni de administrator sau nu.</translation>
+        <translation type="obsolete">Salvarea numărului serial a eșuat. Verificați dacă aveți permisiuni de administrator sau nu.</translation>
     </message>
     <message>
         <source>The items with &quot;*&quot; must be entered.</source>
-        <translation>Elementele cu &quot;*&quot; trebuie să fie introduse.</translation>
+        <translation type="obsolete">Elementele cu &quot;*&quot; trebuie să fie introduse.</translation>
     </message>
     <message>
         <source>* Name:</source>
-        <translation>* Nume:</translation>
+        <translation type="obsolete">* Nume:</translation>
     </message>
     <message>
         <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
-        <translation>(&quot;Nume&quot; este numele autorului documentului și examinatorului)</translation>
+        <translation type="obsolete">(&quot;Nume&quot; este numele autorului documentului și examinatorului)</translation>
     </message>
     <message>
         <source>Initials:</source>
-        <translation>Inițiale:</translation>
+        <translation type="obsolete">Inițiale:</translation>
     </message>
     <message>
         <source>Organization:</source>
-        <translation>Organizație:</translation>
+        <translation type="obsolete">Organizație:</translation>
     </message>
     <message>
         <source>* Serial No.:</source>
-        <translation>* Nr Serial.:</translation>
+        <translation type="obsolete">* Nr Serial.:</translation>
     </message>
     <message>
         <source>The serial number you entered is invalid. Please check the input format, its supported version and the valid date.</source>
-        <translation>Numărul serial pe care l-ați introdus este nevalid. Verificați formatul de intrare, versiunea suportată și valabilitatea datei.</translation>
+        <translation type="obsolete">Numărul serial pe care l-ați introdus este nevalid. Verificați formatul de intrare, versiunea suportată și valabilitatea datei.</translation>
     </message>
     <message>
         <source>Your input is incorrect and the program will exit.</source>
-        <translation>Intrarea dumneavoastră este incorectă iar programul va ieși.</translation>
+        <translation type="obsolete">Intrarea dumneavoastră este incorectă iar programul va ieși.</translation>
     </message>
 </context>
 <context>
@@ -560,7 +948,22 @@
     </message>
     <message>
         <source>Password error, try again</source>
-        <translation>Eroare parolă, încercați din nou</translation>
+        <translation type="obsolete">Eroare parolă, încercați din nou</translation>
+    </message>
+    <message>
+        <source>Incorrect password. Please re-enter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KSearchCtrl</name>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -583,7 +986,7 @@
     </message>
     <message>
         <source>Compare Side by Side</source>
-        <translation>Compară una lângă alta</translation>
+        <translation type="obsolete">Compară una lângă alta</translation>
     </message>
     <message>
         <source>Switch window to:</source>
@@ -592,6 +995,10 @@
     <message>
         <source>Please select the window to compare:</source>
         <translation>Selectați fereastra de comparat:</translation>
+    </message>
+    <message>
+        <source>Switch Windows</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -681,6 +1088,17 @@
     <message>
         <source>Never modify</source>
         <translation>Nu modifica niciodată</translation>
+    </message>
+</context>
+<context>
+    <name>KTooltipCtrl</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1023,10 +1441,17 @@
     </message>
 </context>
 <context>
+    <name>KWpsHostHelper</name>
+    <message>
+        <source>WPS Office system files encountered a problem. %1 cannot be 		started unless an automatic repair is performed. When prompted, click &quot;Yes&quot; to finish the repair.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxAboutDlg</name>
     <message>
         <source>%1%2</source>
-        <translation type="obsolete">%1%2</translation>
+        <translation type="unfinished">%1%2</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1095,11 +1520,11 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
-        <translation>Utilizatorii cu permisiuni de citire pot citi acest document,   dar nu pot modifica, tipări sau copia conținutul.</translation>
+        <translation type="obsolete">Utilizatorii cu permisiuni de citire pot citi acest document,   dar nu pot modifica, tipări sau copia conținutul.</translation>
     </message>
     <message>
         <source>Give all users Read Access</source>
-        <translation>Dă tuturor utilizatorilor acces de citire</translation>
+        <translation type="obsolete">Dă tuturor utilizatorilor acces de citire</translation>
     </message>
     <message>
         <source>PI</source>
@@ -1115,7 +1540,19 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Give all users Change Access</source>
-        <translation>Dă tuturor utilizatorilor acces de modificare</translation>
+        <translation type="obsolete">Dă tuturor utilizatorilor acces de modificare</translation>
+    </message>
+    <message>
+        <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Read access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Change access</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1145,38 +1582,49 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
 </context>
 <context>
+    <name>KxAutoShapeInputBoxToShapes</name>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxAutoShapePanel</name>
     <message>
         <source>Lines</source>
-        <translation>Linii</translation>
+        <translation type="obsolete">Linii</translation>
     </message>
     <message>
         <source>Connectors</source>
-        <translation>Conectori</translation>
+        <translation type="obsolete">Conectori</translation>
     </message>
     <message>
         <source>Block Arrows</source>
-        <translation>Săgeți bloc</translation>
+        <translation type="obsolete">Săgeți bloc</translation>
     </message>
     <message>
         <source>Flowchart</source>
-        <translation>Organigramă</translation>
+        <translation type="obsolete">Organigramă</translation>
     </message>
     <message>
         <source>Stars and Banners</source>
-        <translation>Stele și bannere</translation>
+        <translation type="obsolete">Stele și bannere</translation>
     </message>
     <message>
         <source>Callouts</source>
-        <translation>Legende</translation>
+        <translation type="obsolete">Legende</translation>
     </message>
     <message>
         <source>Action Buttons</source>
-        <translation>Butoane de acțiune</translation>
+        <translation type="obsolete">Butoane de acțiune</translation>
     </message>
     <message>
         <source>Basic Shapes</source>
-        <translation>Forme de bază</translation>
+        <translation type="obsolete">Forme de bază</translation>
     </message>
 </context>
 <context>
@@ -1310,7 +1758,11 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>To work with Control Toolbox, please purchase WPS Office Professional.
 </source>
-        <translation>Pentru a lucra cu caseta de unelte Control, achiziționați WPS Office Professional.</translation>
+        <translation type="obsolete">Pentru a lucra cu caseta de unelte Control, achiziționați WPS Office Professional.</translation>
+    </message>
+    <message>
+        <source>若要使用控件工具箱，请购买 WPS Office 专业版。</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1324,19 +1776,35 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxCroppingScalesGalleryModel</name>
     <message>
         <source>CroppingScale_Free</source>
-        <translation>CroppingScale_liber</translation>
+        <translation type="obsolete">CroppingScale_liber</translation>
     </message>
     <message>
         <source>CroppingScale_Square</source>
-        <translation>CroppingScale_Pătrat</translation>
+        <translation type="obsolete">CroppingScale_Pătrat</translation>
     </message>
     <message>
         <source>CroppingScale_Horizontal</source>
-        <translation>CroppingScale_Orizontal</translation>
+        <translation type="obsolete">CroppingScale_Orizontal</translation>
     </message>
     <message>
         <source>CroppingScale_Vertical</source>
-        <translation>CroppingScale_Vertical</translation>
+        <translation type="obsolete">CroppingScale_Vertical</translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1601,6 +2069,24 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
 </context>
 <context>
+    <name>KxDetectFileAssoDlg</name>
+    <message>
+        <source>WPS Office is not your default office software, set to the default software that allows you to work more convenient</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDetectFileAssoDlgBottom</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">Ok</translation>
+    </message>
+    <message>
+        <source>Allow automatically help you check the format has been tampered with</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDiagramGalleryDlg</name>
     <message>
         <source>Cycle Diagram</source>
@@ -1612,11 +2098,11 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Pyramid diagram</source>
-        <translation>Diagramă piramidă</translation>
+        <translation type="obsolete">Diagramă piramidă</translation>
     </message>
     <message>
         <source>Venn diagram</source>
-        <translation>Diagrama Venn</translation>
+        <translation type="obsolete">Diagrama Venn</translation>
     </message>
     <message>
         <source>Target Diagram</source>
@@ -1649,6 +2135,14 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>Organization Chart</source>
         <translation>Grafic organizație</translation>
+    </message>
+    <message>
+        <source>Pyramid Diagram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Venn Diagram</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1767,7 +2261,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxDlgEditDictionary</name>
     <message>
         <source>Edit Dictionary</source>
-        <translation>Editare dicționar</translation>
+        <translation type="obsolete">Editare dicționar</translation>
     </message>
     <message>
         <source>&amp;Word:</source>
@@ -1788,6 +2282,10 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>Close</source>
         <translation>Închide</translation>
+    </message>
+    <message>
+        <source>编辑字典</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2148,7 +2646,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgHttpAuthentication</name>
     <message>
         <source>Http authentication required</source>
-        <translation>Este necesară autentificarea Http</translation>
+        <translation type="obsolete">Este necesară autentificarea Http</translation>
     </message>
     <message>
         <source>Connect to:</source>
@@ -2156,7 +2654,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please supply a Username and a Password!</source>
-        <translation>Furnizați un nume utilizator și o parolă!</translation>
+        <translation type="obsolete">Furnizați un nume utilizator și o parolă!</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -2165,6 +2663,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Password:</source>
         <translation>Parolă:</translation>
+    </message>
+    <message>
+        <source>Require Http authentication</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter your username and password to sign in.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2308,15 +2814,15 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgLicense</name>
     <message>
         <source>License</source>
-        <translation>Licență</translation>
+        <translation type="obsolete">Licență</translation>
     </message>
     <message>
         <source>Agree</source>
-        <translation>De acord</translation>
+        <translation type="obsolete">De acord</translation>
     </message>
     <message>
         <source>Disagree</source>
-        <translation>Nu sunt de acord</translation>
+        <translation type="obsolete">Nu sunt de acord</translation>
     </message>
 </context>
 <context>
@@ -2331,19 +2837,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Problem types:</source>
-        <translation>Tipuri de probleme:</translation>
+        <translation type="obsolete">Tipuri de probleme:</translation>
     </message>
     <message>
         <source>Cannot find functions</source>
-        <translation>Nu se pot găsi funcțiile</translation>
+        <translation type="obsolete">Nu se pot găsi funcțiile</translation>
     </message>
     <message>
         <source>Do not know how to use the function</source>
-        <translation>Nu se știe cum să se utilizeze funcția</translation>
+        <translation type="obsolete">Nu se știe cum să se utilizeze funcția</translation>
     </message>
     <message>
         <source>Compatible problems with other software</source>
-        <translation>Probleme de compatibilitate cu alte applicații</translation>
+        <translation type="obsolete">Probleme de compatibilitate cu alte applicații</translation>
     </message>
     <message>
         <source>WPS Office operating process not smoothly</source>
@@ -2377,6 +2883,22 @@ p, li { white-space: pre-wrap; }
         <source>Cancel</source>
         <translation>Anulează</translation>
     </message>
+    <message>
+        <source>Issue type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not find feature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not know how to use the feature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Software compatibility issues</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgNewTemplate</name>
@@ -2390,7 +2912,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>pushButton</source>
-        <translation>Buton apăsare</translation>
+        <translation type="obsolete">Buton apăsare</translation>
     </message>
 </context>
 <context>
@@ -2466,7 +2988,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgRecentFileManage</name>
     <message>
         <source>Recent File Management</source>
-        <translation>Administrare fișiere recente</translation>
+        <translation type="obsolete">Administrare fișiere recente</translation>
     </message>
     <message>
         <source>ID</source>
@@ -2483,8 +3005,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This will not delete the files but only remove the records.
 Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
-        <translation>Selectați înregistrările pe care doriți să le eliminați din lista de fișiere recente, apoi apăsați butonul Șterge pentru executare. Aceasta nu va șterge fișierele doar va elimina înregistrările.
+        <translation type="obsolete">Selectați înregistrările pe care doriți să le eliminați din lista de fișiere recente, apoi apăsați butonul Șterge pentru executare. Aceasta nu va șterge fișierele doar va elimina înregistrările.
 Click-dublu sau utilizați meniul desfășurător pentru a deschide fișierul. Aceasta va curăța elementele selectate.</translation>
+    </message>
+    <message>
+        <source>File Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the files you wish to remove from the recent document list, then press Delete. 
+This will not permanently delete your file, but only remove them from your recent records.
+Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2505,10 +3037,6 @@ Click-dublu sau utilizați meniul desfășurător pentru a deschide fișierul. A
         <translation>Selectare utilizator</translation>
     </message>
     <message>
-        <source>&amp;Select one of the following user accounts to create or open content with restricted permission.To use an account not listed below,click Add.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Add...</source>
         <translation>&amp;Adaugă...</translation>
     </message>
@@ -2520,36 +3048,36 @@ Click-dublu sau utilizați meniul desfășurător pentru a deschide fișierul. A
         <source>A&amp;lways use this account</source>
         <translation>Utilizează m&amp;ereu acest cont</translation>
     </message>
+    <message>
+        <source>&amp;Select one of the following user accounts to create or open content with restricted permission. To use an account not listed below, click Add.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgTrialExpire</name>
     <message>
         <source>Dialog</source>
-        <translation>Dialog</translation>
+        <translation type="obsolete">Dialog</translation>
     </message>
     <message>
         <source>Update Now</source>
-        <translation>Actualizează acum</translation>
+        <translation type="obsolete">Actualizează acum</translation>
     </message>
     <message>
         <source>Enter Viewer Mode</source>
-        <translation>Intrare mod vizualizator</translation>
+        <translation type="obsolete">Intrare mod vizualizator</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation>Infotip</translation>
+        <translation type="obsolete">Infotip</translation>
     </message>
     <message>
         <source>Thanks for using WPS Office 2012 Beta2.</source>
-        <translation>Vă mulțumim că utilizați WPS Office 2012 Beta2.</translation>
-    </message>
-    <message>
-        <source>The trial period of your WPS Office Beta has expired. You can enter Viewer mode, in which keyboard entry will be disabled, to continue or update to the latest Personal version of WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Vă mulțumim că utilizați WPS Office 2012 Beta2.</translation>
     </message>
     <message>
         <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
-        <translation>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</translation>
+        <translation type="obsolete">&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -2612,11 +3140,11 @@ Click-dublu sau utilizați meniul desfășurător pentru a deschide fișierul. A
     <name>KxEulaDlg</name>
     <message>
         <source>WPS Office</source>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>End-User License Agreement</source>
-        <translation>Înțelegere licență utilizator final</translation>
+        <translation type="obsolete">Înțelegere licență utilizator final</translation>
     </message>
     <message>
         <source>I &amp;Decline</source>
@@ -2629,6 +3157,25 @@ Click-dublu sau utilizați meniul desfășurător pentru a deschide fișierul. A
     <message>
         <source>Missing EULA, this means you are using an incomplete product.&lt;br/&gt;Please get a new one from &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;offical website&lt;/a&gt;, and don&apos;t modify it.</source>
         <translation>Lisește EULA, aceasta înseamnă că utilizați un produs incomplet.&lt;br/&gt;Obțineți unul nou de la &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;wbsite oficial&lt;/a&gt;, și nu îl modificați.</translation>
+    </message>
+    <message>
+        <source>WPS Office End-User License Agreement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>about:blank</source>
+        <translation type="unfinished">about:blank</translation>
+    </message>
+    <message>
+        <source>Join the experience improvement plan</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxExternalPushService</name>
+    <message>
+        <source>Cannot load components for the printer solver.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2664,6 +3211,16 @@ Click-dublu sau utilizați meniul desfășurător pentru a deschide fișierul. A
         <comment>Encrypt button tab in filedialog</comment>
         <translation>&amp;Criptare...</translation>
     </message>
+    <message>
+        <source>&amp;Open Image after Export</source>
+        <comment>OpenSaved checkbox in filedialog</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open Video after Export</source>
+        <comment>OpenSaved checkbox in filedialog</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxFileItemWidget</name>
@@ -2671,7 +3228,7 @@ Click-dublu sau utilizați meniul desfășurător pentru a deschide fișierul. A
         <source>
 
 modify time: </source>
-        <translation>
+        <translation type="obsolete">
 
 timp modificare: </translation>
     </message>
@@ -2679,9 +3236,21 @@ timp modificare: </translation>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation>
+        <translation type="obsolete">
 
 Această înregistrare nu este validă, fișierul poate a fost redenumit,șters sau mutat</translation>
+    </message>
+    <message>
+        <source>
+
+Modified time: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2937,19 +3506,19 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
         <translation>Vedeți detaliile</translation>
     </message>
     <message>
-        <source>This document has used cloud fonts &quot;%1&quot;. For your convenience, please download these cloud fonts.</source>
+        <source>This document uses cloud font &quot;%1&quot;. For your convenience, please download this cloud font.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This document has used cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
+        <source>This document uses cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
+        <source>This document uses cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
+        <source>This document uses cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2992,6 +3561,13 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     <message>
         <source>Hide Task Window</source>
         <translation>Ascunde fereastra sarcini</translation>
+    </message>
+</context>
+<context>
+    <name>KxHintWidget</name>
+    <message>
+        <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3308,19 +3884,23 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Close all tabs or current tab</source>
-        <translation>Închide toate filele sau fila curentă</translation>
+        <translation type="obsolete">Închide toate filele sau fila curentă</translation>
     </message>
     <message>
         <source>Close all</source>
-        <translation>Închide tot</translation>
+        <translation type="obsolete">Închide tot</translation>
     </message>
     <message>
         <source>Close current</source>
-        <translation>Închide curenta</translation>
+        <translation type="obsolete">Închide curenta</translation>
     </message>
     <message>
         <source>cancel Close</source>
-        <translation>anulează Închide</translation>
+        <translation type="obsolete">anulează Închide</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3482,38 +4062,45 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>import templates</source>
-        <translation>importă șabloane</translation>
+        <translation type="obsolete">importă șabloane</translation>
     </message>
     <message>
         <source>template file</source>
-        <translation>fișier șablon</translation>
+        <translation type="obsolete">fișier șablon</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Template</source>
-        <translation>Șablon Kingsoft Presentation</translation>
+        <translation type="obsolete">Șablon Kingsoft Presentation</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Template</source>
-        <translation>Șablon Microsoft PowerPoint 97/2000/XP/2003</translation>
+        <translation type="obsolete">Șablon Microsoft PowerPoint 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets Templates</source>
-        <translation>Șablon Kingsoft Spreadsheets</translation>
+        <translation type="obsolete">Șablon Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>Microsoft Excel 97/2000/XP/2003 Template</source>
-        <translation>Șablon Microsoft Excel 97/2000/XP/2003</translation>
+        <translation type="obsolete">Șablon Microsoft Excel 97/2000/XP/2003</translation>
     </message>
 </context>
 <context>
     <name>KxOnlineFontController</name>
     <message>
-        <source>Cloud font reserves to the upper (%1), please go to the &quot;management of cloud font&quot; page for details.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>View Now</source>
         <translation>Vizualizează acum</translation>
+    </message>
+    <message>
+        <source>Cloud has reached its limit for cloud fonts (%1). Please go to the &apos;Management of Cloud Font&apos; page for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOnlineFontDownloadReminder</name>
+    <message>
+        <source>%1 online fonts downloaded,click to see.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3533,6 +4120,10 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <message>
         <source>Complete</source>
         <translation>Complet</translation>
+    </message>
+    <message>
+        <source>You have chosen %1 paid cloud fonts which require a VIP membership to download.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3559,22 +4150,26 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Vip %1 has expired, please renew</source>
-        <translation>Vip %1 a expirat, vă rugăm să reânnoiți</translation>
-    </message>
-    <message>
-        <source>WPS members enjoy more than 300 cloud font, monthly not regularly updated new font, let your document colorful!</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Vip %1 a expirat, vă rugăm să reânnoiți</translation>
     </message>
     <message>
         <source>Unable to connect to server, please check your network connection.</source>
         <translation>Nu se poate conecta la server, verificați conexiunea la rețea.</translation>
+    </message>
+    <message>
+        <source>%1 membership has expired, please renew.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS members can access to more than 300 cloud fonts, updated monthly. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxOnlineFonts</name>
     <message>
         <source>It&apos;s downloading, please wait...</source>
-        <translation>Se descarcă, așteptați...</translation>
+        <translation type="obsolete">Se descarcă, așteptați...</translation>
     </message>
     <message>
         <source>Pause. Click to continue</source>
@@ -3582,7 +4177,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Fold online fonts</source>
-        <translation>Extinde fonturile online</translation>
+        <translation type="obsolete">Extinde fonturile online</translation>
     </message>
     <message>
         <source>Show Online Fonts</source>
@@ -3595,7 +4190,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <message>
         <source>Upgrade to VIP to enjoy VIP fonts.
 Click here to sign in now.</source>
-        <translation>Actualizați la VIP pentru a vă bucura de fonturile VIP.
+        <translation type="obsolete">Actualizați la VIP pentru a vă bucura de fonturile VIP.
 Apăsați aici pentru a vă autentifica acum.</translation>
     </message>
     <message>
@@ -3603,18 +4198,6 @@ Apăsați aici pentru a vă autentifica acum.</translation>
 Click the icon to sign in now.</source>
         <translation>Autentificați-vă pentru a utiliza fonturile din nor.
 Apăsați pictograma pentru a vă autentifica acum.</translation>
-    </message>
-    <message>
-        <source>Allow senior member to enjoy VIP fonts. Click to sign in.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow member to enjoy free cloud fonts. Click to sign in.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your membership %1 expires now. Please renew.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>VIP cloud fonts installed</source>
@@ -3626,23 +4209,19 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     </message>
     <message>
         <source>Upgrade to VIP to enjoy VIP fonts.</source>
-        <translation>Actualizați la VIP pentru a vă bucura de fonturile VIP.</translation>
+        <translation type="obsolete">Actualizați la VIP pentru a vă bucura de fonturile VIP.</translation>
     </message>
     <message>
         <source>Click to install free cloud fonts</source>
         <translation>Apăsați să instalați fonturi gratuite de pe nor</translation>
     </message>
     <message>
-        <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>All cloud fonts installed.  Please looking forward to more.</source>
-        <translation>Toate fonturile nor sunt instalate. Așteptați pentru mai multe. </translation>
+        <translation type="obsolete">Toate fonturile nor sunt instalate. Așteptați pentru mai multe. </translation>
     </message>
     <message>
         <source>Click to keep cloud fonts on top</source>
-        <translation>Apăsați ca să păstrați fonturile nor în partea de sus</translation>
+        <translation type="obsolete">Apăsați ca să păstrați fonturile nor în partea de sus</translation>
     </message>
     <message>
         <source>Click to shuffle cloud fonts</source>
@@ -3662,54 +4241,102 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     </message>
     <message>
         <source>Downloading fonts, please wait?</source>
-        <translation>Se descarcă fonturi, așteptați?</translation>
+        <translation type="obsolete">Se descarcă fonturi, așteptați?</translation>
+    </message>
+    <message>
+        <source>Upgrade to use VIP-only fonts.
+Click here to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Senior members can access to free cloud fonts. Click to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Members can access to free cloud fonts. Click to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1 membership expires now. Please renew.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade to use VIP-only fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1 membership expires now. Please renew to use cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading font, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All currently available cloud fonts have been installed.  More are coming soon!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide cloud fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to keep a cloud font on top</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOnlineShapesGalleryModel</name>
+    <message>
+        <source>Recommendation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxOverdueDlg</name>
     <message>
         <source>Thank you for using the trial version of our product.</source>
-        <translation>Vă mulțumim că utilizați versiunea de încercare a produsului nostru.</translation>
+        <translation type="obsolete">Vă mulțumim că utilizați versiunea de încercare a produsului nostru.</translation>
     </message>
     <message>
         <source>Enter Viewer</source>
-        <translation>Intrare vizualizator</translation>
+        <translation type="obsolete">Intrare vizualizator</translation>
     </message>
     <message>
         <source>Disable Print</source>
-        <translation>Dezactivează tipărirea</translation>
+        <translation type="obsolete">Dezactivează tipărirea</translation>
     </message>
     <message>
         <source>Update to Personal</source>
-        <translation>Actualizați la personal</translation>
-    </message>
-    <message>
-        <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one at the</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Actualizați la personal</translation>
     </message>
     <message>
         <source>You also can download</source>
-        <translation>De asemenea puteți descărca</translation>
+        <translation type="obsolete">De asemenea puteți descărca</translation>
     </message>
     <message>
         <source>WPS Office Free.</source>
-        <translation>WPS Office gratuit.</translation>
+        <translation type="obsolete">WPS Office gratuit.</translation>
     </message>
     <message>
         <source>WPS Online Store.</source>
-        <translation>WPS Online Store.</translation>
+        <translation type="obsolete">WPS Online Store.</translation>
     </message>
     <message>
         <source>Input Serial Number</source>
-        <translation>Introduceți numărul serial</translation>
+        <translation type="obsolete">Introduceți numărul serial</translation>
     </message>
     <message>
         <source>Purchase Now</source>
-        <translation>Achiziționați acum</translation>
+        <translation type="obsolete">Achiziționați acum</translation>
     </message>
 </context>
 <context>
@@ -3728,6 +4355,10 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The specified data type is unavailable.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3783,7 +4414,7 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     </message>
     <message>
         <source>Users can request additonal per&amp;missions from:</source>
-        <translation>Utilizatorii pot solicita per&amp;misiuni suplimentare de la:</translation>
+        <translation type="obsolete">Utilizatorii pot solicita per&amp;misiuni suplimentare de la:</translation>
     </message>
     <message>
         <source>Re&amp;quire a connection to verify a user&apos;s permission</source>
@@ -3792,6 +4423,25 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     <message>
         <source>&amp;Set defaults...</source>
         <translation>&amp;Configurează implicite...</translation>
+    </message>
+    <message>
+        <source>Users can request additional per&amp;missions from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPicksolutionDlg</name>
+    <message>
+        <source>Choose XML Expansion Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One or more XML expansion packs are available for this file. Choose one from the list below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No XML expansion pack</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3809,23 +4459,23 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     <name>KxPrintRestrictDlg</name>
     <message>
         <source>You are using a free version. </source>
-        <translation>Utilizați o versiune gratuită. </translation>
+        <translation type="obsolete">Utilizați o versiune gratuită. </translation>
     </message>
     <message>
         <source>A watermark will be added to your document when printing. We recommend that you click Print Preview to see effects before printing.</source>
-        <translation>Un logo va fi adăugat documentului când se tipărește. Vă recomandăm să apăsați previzualizare tipărire pentru a vedea efectele înaintea tipăririi.</translation>
+        <translation type="obsolete">Un logo va fi adăugat documentului când se tipărește. Vă recomandăm să apăsați previzualizare tipărire pentru a vedea efectele înaintea tipăririi.</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation>&amp;Tipărește</translation>
+        <translation type="obsolete">&amp;Tipărește</translation>
     </message>
     <message>
         <source>Print Pre&amp;view</source>
-        <translation>Pre&amp;vizualizare tipărire</translation>
+        <translation type="obsolete">Pre&amp;vizualizare tipărire</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Anulează</translation>
+        <translation type="obsolete">&amp;Anulează</translation>
     </message>
 </context>
 <context>
@@ -4140,7 +4790,7 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     </message>
     <message>
         <source>A key to clear</source>
-        <translation>O cheie de curățat</translation>
+        <translation type="obsolete">O cheie de curățat</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -4152,11 +4802,11 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     </message>
     <message>
         <source>Clear &amp;all selected record</source>
-        <translation>Curăță &amp;toate înregistrările selectate</translation>
+        <translation type="obsolete">Curăță &amp;toate înregistrările selectate</translation>
     </message>
     <message>
         <source>Clear &amp;all invalid record</source>
-        <translation>Curăță &amp;toate înregistrările nevalide</translation>
+        <translation type="obsolete">Curăță &amp;toate înregistrările nevalide</translation>
     </message>
     <message>
         <source>Open the file in &amp;folder</source>
@@ -4166,7 +4816,7 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
         <source>
 
 modify time: </source>
-        <translation>
+        <translation type="obsolete">
 
 timp modificare: </translation>
     </message>
@@ -4174,7 +4824,7 @@ timp modificare: </translation>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation>
+        <translation type="obsolete">
 
 Această înregistrare nu este validă, fișierul este posibil să fie redenumit,șters sau mutat</translation>
     </message>
@@ -4185,12 +4835,44 @@ Această înregistrare nu este validă, fișierul este posibil să fie redenumit
     <message>
         <source>cannot open the file &quot;%1&quot;. 
 the file may be renamed,deleted or moved the location.</source>
-        <translation>nu se poate deschide fișierul &quot;%1&quot;. 
+        <translation type="obsolete">nu se poate deschide fișierul &quot;%1&quot;. 
 fișierul este posibil să fie redenumit,șters sau mutat.</translation>
     </message>
     <message>
         <source>open file folder</source>
-        <translation>deschide fișier dosar</translation>
+        <translation type="obsolete">deschide fișier dosar</translation>
+    </message>
+    <message>
+        <source>Clear in one click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear &amp;all selected records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear &amp;all invalid records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Modified time: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;%1&quot; cannot be opened. It has been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open folder containing the file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4226,11 +4908,11 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
-        <translation>Utilizatorii cu permisiuni de citire pot citi acest document,   dar nu pot modifica, tipări sau copia conținutul.</translation>
+        <translation type="obsolete">Utilizatorii cu permisiuni de citire pot citi acest document,   dar nu pot modifica, tipări sau copia conținutul.</translation>
     </message>
     <message>
         <source>Give all users Read Access</source>
-        <translation>Dă tuturor utilizatorilor acces de citire</translation>
+        <translation type="obsolete">Dă tuturor utilizatorilor acces de citire</translation>
     </message>
     <message>
         <source>PI</source>
@@ -4246,7 +4928,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Give all users Change Access</source>
-        <translation>Dă tuturor utilizatorilor acces de modificare</translation>
+        <translation type="obsolete">Dă tuturor utilizatorilor acces de modificare</translation>
     </message>
     <message>
         <source>Displays advanced settings dialog</source>
@@ -4255,6 +4937,18 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source> More &amp;Options...</source>
         <translation> Mai multe &amp;opțiuni...</translation>
+    </message>
+    <message>
+        <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Read access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Change access</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4309,14 +5003,29 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
 </context>
 <context>
+    <name>KxShapesGalleryModel</name>
+    <message>
+        <source>Recently Used Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxSkinSwitchHtmlBridge</name>
     <message>
         <source>upload</source>
-        <translation>încărcat</translation>
+        <translation type="obsolete">încărcat</translation>
     </message>
     <message>
         <source>(custom)</source>
-        <translation>(personalizat)</translation>
+        <translation type="obsolete">(personalizat)</translation>
+    </message>
+    <message>
+        <source>(Custom)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4376,7 +5085,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>The layout will take effect after restart or logoff computer</source>
-        <translation>Aspectul va avea efect după ce reporniți computerul sau vă sau deautentificați</translation>
+        <translation type="obsolete">Aspectul va avea efect după ce reporniți computerul sau vă sau deautentificați</translation>
     </message>
 </context>
 <context>
@@ -4432,7 +5141,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>Resolution</source>
-        <translation>Rezoluție</translation>
+        <translation type="obsolete">Rezoluție</translation>
     </message>
     <message>
         <source>Do not report again</source>
@@ -4449,6 +5158,10 @@ dar pachetul de sistem instalat este rezervat.</translation>
     <message>
         <source>Problems below are detected in the system.</source>
         <translation>Problemele de mai jos au fost detectate în sistem.</translation>
+    </message>
+    <message>
+        <source>Solution</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4512,7 +5225,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
     <name>KxTemplateOnLineCommand</name>
     <message>
         <source>http://www.kingsoftstore.com</source>
-        <translation>http://www.kingsoftstore.com</translation>
+        <translation type="obsolete">http://www.kingsoftstore.com</translation>
     </message>
 </context>
 <context>
@@ -4535,7 +5248,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>browse templates location</source>
-        <translation>navighează amplasarea șabloanelor</translation>
+        <translation type="obsolete">navighează amplasarea șabloanelor</translation>
     </message>
 </context>
 <context>
@@ -4553,7 +5266,15 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>Sorry! An error occured just now. After making efforts to repair, it has now been restored.</source>
-        <translation>Regretăm! O eroare a intervenit chiar acum. După eforturile de reparare făcute, a fost acum restaurat.</translation>
+        <translation type="obsolete">Regretăm! O eroare a intervenit chiar acum. După eforturile de reparare făcute, a fost acum restaurat.</translation>
+    </message>
+    <message>
+        <source>Sorry! An error occurred just now. Now it has been fixed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>test</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4568,11 +5289,44 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>Show Large Preview</source>
-        <translation>Arată previzualizare largă</translation>
+        <translation type="obsolete">Arată previzualizare largă</translation>
     </message>
     <message>
         <source>AutoShapes:</source>
         <translation>Forme automate:</translation>
+    </message>
+    <message>
+        <source>All Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpAutoShapePersonalPanelModel</name>
+    <message>
+        <source>Online Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recently Used</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpAutoShapesDownloadFailedItem</name>
+    <message>
+        <source>Unable to connect to the server. Please check your network connection.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Try refresh again</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpAutoShapesDownloadingItem</name>
+    <message>
+        <source>Loading online shapes...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4583,7 +5337,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
-        <translation>Se utilizează lista de fișiere următoare pentru recuperarea stării de lucru înaintea ieșirii neașteptate.</translation>
+        <translation type="obsolete">Se utilizează lista de fișiere următoare pentru recuperarea stării de lucru înaintea ieșirii neașteptate.</translation>
     </message>
     <message>
         <source>Open Backup Folder</source>
@@ -4601,6 +5355,14 @@ dar pachetul de sistem instalat este rezervat.</translation>
         <source>PushButton</source>
         <translation>Buton apăsare</translation>
     </message>
+    <message>
+        <source>Recently edited documents recovered from unexpected exit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpBackup</name>
@@ -4611,6 +5373,22 @@ dar pachetul de sistem instalat este rezervat.</translation>
     <message>
         <source>Some files cannot be deleted. They may be occupied.</source>
         <translation>Unele fișiere nu pot fi șterse. Acestea pot fi ocupate.</translation>
+    </message>
+    <message>
+        <source>Tips to prevent document loss:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1. WPS has created backup for each of your documents. You can specify more %1 options %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2. Use WPS %1 Cloud %2 services, your most convenient and secure cloud.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3. %1 Kingsoft Data Recovery Master %2 helps you to recover accidentally deleted documents.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4679,7 +5457,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>Open Recent File Management dialog box,and remove some or all of the recent file.</source>
-        <translation>Deschideți caseta de dialog administrare fișiere recente și eliminați unele sau toate fișierele recente.</translation>
+        <translation type="obsolete">Deschideți caseta de dialog administrare fișiere recente și eliminați unele sau toate fișierele recente.</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -4689,7 +5467,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
         <source>
 
 modify time: </source>
-        <translation>
+        <translation type="obsolete">
 
 timp modificare: </translation>
     </message>
@@ -4697,19 +5475,54 @@ timp modificare: </translation>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation>
+        <translation type="obsolete">
 
 Această înregistrare nu este validă, fișierul poate a fost redenumit,șters sau mutat</translation>
     </message>
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may be renamed , deleted or moved the location.</source>
-        <translation>Nu se poate deschide &quot;%1&quot;.
+        <translation type="obsolete">Nu se poate deschide &quot;%1&quot;.
 Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Open file location</source>
         <translation>Deschide locația fișierului</translation>
+    </message>
+    <message>
+        <source>Open Recent File Management dialog box, and remove some or all of the recent files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Modified time: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpOprDoc</name>
+    <message>
+        <source>Cancle the XML Extend Packet</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpOprDocCommand</name>
+    <message>
+        <source>Are you sure cancel the XML extend pack?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4752,7 +5565,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Open the recent file management dialog box,and remove some or all of the recent file records.</source>
-        <translation>Deschideți caseta de dialog administrare fișiere recente și eliminați unele sau toate fișierele recente.</translation>
+        <translation type="obsolete">Deschideți caseta de dialog administrare fișiere recente și eliminați unele sau toate fișierele recente.</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -4761,12 +5574,21 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may be renamed , deleted or moved the location.</source>
-        <translation>Nu se poate deschide &quot;%1&quot;.
+        <translation type="obsolete">Nu se poate deschide &quot;%1&quot;.
 Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Open file location</source>
         <translation>Deschide locația fișierului</translation>
+    </message>
+    <message>
+        <source>Open File Management to remove some or all of your recent documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4804,7 +5626,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     <name>KxTrialExpireDlg</name>
     <message>
         <source>Quit</source>
-        <translation>Termină</translation>
+        <translation type="obsolete">Termină</translation>
     </message>
 </context>
 <context>
@@ -5148,7 +5970,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translation>Buton apăsare</translation>
+        <translation type="obsolete">Buton apăsare</translation>
     </message>
 </context>
 <context>
@@ -5605,7 +6427,7 @@ Configurările vor avea efect după repornirea WPS Office.</translation>
     <name>aboutDlg</name>
     <message>
         <source>!NO_TRANS!</source>
-        <translation>!NO_TRANS!</translation>
+        <translation type="obsolete">!NO_TRANS!</translation>
     </message>
     <message>
         <source>Copyright </source>
@@ -5647,12 +6469,16 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
         <source>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
         <translation>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
     </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished">WPS</translation>
+    </message>
 </context>
 <context>
     <name>apidefaultDlg</name>
     <message>
         <source>!NO_TRANS!</source>
-        <translation>!NO_TRANS!</translation>
+        <translation type="obsolete">!NO_TRANS!</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -5661,6 +6487,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     <message>
         <source>Don&apos;t show again</source>
         <translation>Nu arăta din nou</translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished">WPS</translation>
     </message>
 </context>
 <context>

@@ -4201,16 +4201,6 @@ To use IRM you need to install the Windows Rights Management client. If you have
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Restricted Access</source>
-        <comment>_kso_kirm_Permission_RestrictedAccess</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permission is currently restricted. Only specified users can access this content. </source>
-        <comment>_kso_krim_Permission_PermissionHint</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Change Permission...</source>
         <comment>_kso_krim_Permission_ChangePermission</comment>
         <translation type="unfinished"></translation>
@@ -4243,17 +4233,6 @@ To use IRM you need to install the Windows Rights Management client. If you have
     <message>
         <source>Restricted Access(Full Control)</source>
         <comment>_kso_krim_RestrictedAccess_FullControl</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%s Errors occur when regular backup is running! Please try the following operations: 
-•Please check the backup directory has write permission, or try to change the backup directory.
-•[Undo] the previous operations and [Save] it; 
-•[Save As...] text files (*.txt); 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4311,6 +4290,47 @@ To use IRM you need to install the Windows Rights Management client. If you have
 1. Try changing to another user account to open the document;
 2. Request permission update from %1.</source>
         <comment>_kso_irmio_Error_No_Permission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <comment>_kso_kirm_Policy_Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission is currently restricted. Only specified users can access this content. </source>
+        <comment>_kso_kirm_Policy_Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opening</source>
+        <comment>_kso_io_Progress_Opening</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saving</source>
+        <comment>_kso_io_Progress_Saving</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backing up</source>
+        <comment>_kso_io_Progress_AutoSaving</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Press ESC to cancel)</source>
+        <comment>_kso_io_Progress_Discontinue_ByEsc</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6847,6 +6867,43 @@ Revise sus datos y asegure que la referencia es válida y el libro existe.</tran
     <message>
         <source>Some files cannot be deleted. They may be occupied.</source>
         <comment>kso_sCannotRemoveAllBackupFiles</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dowload XML expansion</source>
+        <comment>kso_Smartdoc_DowloadXmlExpasionCaption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Using the latest XML expansion pack from the following locations, the effect of this document will be the best:
+ %1 
+Download the XML expansion pack?</source>
+        <comment>kso_Smartdoc_DowloadXmlExpasion</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The XML expansion pack or smart document program has been lost or invalid.Please contact the system administrator or the personnel who provide this document</source>
+        <comment>kso_Smartdoc_XMLExpansionLost</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently viewing this document in multiple windows. If you wanna attach XML expansion, you must close all other windows first to ensure that you view this document only in one window.</source>
+        <comment>kso_Smartdoc_XmlExpansionRefuse</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document has attached a XML expansion. If You wanna view this document in multiple windows, you must delete the XML expansion first.</source>
+        <comment>kso_Smartdoc_NewWindowRefuse</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot install this file, because the security certificate has some problems. This XML expansion pack may won&apos;t run as expecte.For more information, please contact your administrator.</source>
+        <comment>kso_Smartdoc_XMLCertificateError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install this XML expansion pack failed.</source>
+        <comment>kso_Smartdoc_installManifestError</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

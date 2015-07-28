@@ -1887,7 +1887,7 @@ o botão advanced permite-lhe escolher entre diferentes tipos de criptografia .<
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>Ajude-nos a melhorar wps office</translation>
+        <translation type="obsolete">Ajude-nos a melhorar wps office</translation>
     </message>
     <message>
         <source>Preserve &amp;fidelity when sharing this document:</source>
@@ -1963,6 +1963,18 @@ o botão advanced permite-lhe escolher entre diferentes tipos de criptografia .<
     </message>
     <message>
         <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2755,6 +2767,10 @@ o botão advanced permite-lhe escolher entre diferentes tipos de criptografia .<
     <message>
         <source>Enter slide numbers or slide ranges. For example, 1,3,5-12</source>
         <translation>Digite os números de slides ou intervalos de slides. por exemplo , 1,3,5-12</translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

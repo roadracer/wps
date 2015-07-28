@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -557,6 +557,10 @@
         <translation>Długa kreska-kropka-kreska</translation>
     </message>
     <message>
+        <source>Long Dash Dot Dot</source>
+        <translation>Długa kreska-kropka-kropka</translation>
+    </message>
+    <message>
         <source>More Arrows</source>
         <translation>Więcej strzałek</translation>
     </message>
@@ -756,10 +760,6 @@
         <source>WordArt</source>
         <translation>WordArt</translation>
     </message>
-    <message>
-        <source>Long Dash Dot Dot</source>
-        <translation>Długa kreska-kropka-kropka</translation>
-    </message>
 </context>
 <context>
     <name>classics.drawing.NudgeDown</name>
@@ -839,6 +839,10 @@ kwerendy bazy danych OLE</translation>
     <message>
         <source>Center</source>
         <translation>Wyśrodkuj</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation>Wyśrodkuj w poprzek</translation>
     </message>
     <message>
         <source>Columns Center</source>
@@ -923,10 +927,6 @@ wyśrodkuj</translation>
     <message>
         <source>Wrap Text</source>
         <translation>Zawijaj tekst</translation>
-    </message>
-    <message>
-        <source>Center Across</source>
-        <translation>Wyśrodkuj w poprzek</translation>
     </message>
 </context>
 <context>
@@ -1073,6 +1073,10 @@ wyśrodkuj</translation>
         <translation>Zmniejsz kontrast</translation>
     </message>
     <message>
+        <source>Line Style</source>
+        <translation>Styl linii</translation>
+    </message>
+    <message>
         <source>Line Sytle</source>
         <translation type="obsolete">Styl linii</translation>
     </message>
@@ -1103,10 +1107,6 @@ wyśrodkuj</translation>
     <message>
         <source>Washout</source>
         <translation>Rozmycie</translation>
-    </message>
-    <message>
-        <source>Line Style</source>
-        <translation>Styl linii</translation>
     </message>
 </context>
 <context>
@@ -1268,6 +1268,14 @@ wyśrodkuj</translation>
         <source>Protect and Share Workbook</source>
         <translation>Chroń i udostępnij skoroszyt</translation>
     </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.record_macro</name>
@@ -1282,6 +1290,10 @@ wyśrodkuj</translation>
 </context>
 <context>
     <name>classics.shadow_settings</name>
+    <message>
+        <source>Eyedropper</source>
+        <translation>Kroplomierz</translation>
+    </message>
     <message>
         <source>More Shadow Colors</source>
         <translation>Więcej kolorów cienia</translation>
@@ -1320,10 +1332,6 @@ wyśrodkuj</translation>
             <lengthvariant>Kroplomierz</lengthvariant>
             <lengthvariant>Wybór koloru</lengthvariant>
         </translation>
-    </message>
-    <message>
-        <source>Eyedropper</source>
-        <translation>Kroplomierz</translation>
     </message>
 </context>
 <context>
@@ -1803,14 +1811,17 @@ wyśrodkuj</translation>
     </message>
 </context>
 <context>
+    <name>classics.standard.Help</name>
+    <message>
+        <source>WPS Spreadsheets Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
         <translation type="obsolete">Przełącz interfejs użytkownika</translation>
-    </message>
-    <message>
-        <source>true</source>
-        <translation>ustal</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -1821,6 +1832,10 @@ wyśrodkuj</translation>
         <source>Switch UI</source>
         <comment>Professional Version</comment>
         <translation>Przełącz interfejs użytkownika</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation>ustal</translation>
     </message>
 </context>
 <context>
@@ -2139,6 +2154,10 @@ wyśrodkuj</translation>
         <translation>Ustawienia cienia</translation>
     </message>
     <message>
+        <source>Special Features</source>
+        <translation>Funkcje specjalne</translation>
+    </message>
+    <message>
         <source>Standard</source>
         <translation>Standardowe</translation>
     </message>
@@ -2153,10 +2172,6 @@ wyśrodkuj</translation>
     <message>
         <source>Worksheet Menu Bar</source>
         <translation>Pasek menu arkusza kalkulacyjnego</translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation>Funkcje specjalne</translation>
     </message>
 </context>
 <context>
@@ -2222,12 +2237,20 @@ wyśrodkuj</translation>
         <translation>Sprawdź automatyczne tworzenie kopii zapasowej</translation>
     </message>
     <message>
+        <source>Clear</source>
+        <translation>Wyczyść</translation>
+    </message>
+    <message>
         <source>Clear Highlight Repeat Items</source>
         <translation type="obsolete">Wyczyść wyróżnienie powtarzanych elementów</translation>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
-        <translation>Wyczyść odrzucenie wstawiania powtarzanych elementów</translation>
+        <translation type="obsolete">Wyczyść odrzucenie wstawiania powtarzanych elementów</translation>
+    </message>
+    <message>
+        <source>Click to adjust Zoom level</source>
+        <translation>Kliknij, aby dopasować Poziom powiększenia</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -2240,6 +2263,10 @@ wyśrodkuj</translation>
     <message>
         <source>Close</source>
         <translation>Zamknij</translation>
+    </message>
+    <message>
+        <source>Cloud Link</source>
+        <translation>Łącze usługi Cloud</translation>
     </message>
     <message>
         <source>Column</source>
@@ -2264,6 +2291,10 @@ wyśrodkuj</translation>
     <message>
         <source>Copy</source>
         <translation>Kopiuj</translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation>Utwórz</translation>
     </message>
     <message>
         <source>Curve</source>
@@ -2322,6 +2353,10 @@ wyśrodkuj</translation>
         <translation type="obsolete">Słupki spadku</translation>
     </message>
     <message>
+        <source>Down-Bars</source>
+        <translation>Słupki spadku</translation>
+    </message>
+    <message>
         <source>Drop Line</source>
         <translation>Pionowa linia</translation>
     </message>
@@ -2350,8 +2385,20 @@ wyśrodkuj</translation>
         <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
+        <source>Eye Protection Night Mode</source>
+        <translation type="unfinished">Tryb ochrony oczu i Tryb nocny!</translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation>Opinia</translation>
+    </message>
+    <message>
+        <source>Feedback and Advice</source>
+        <translation>Opinie i porady</translation>
+    </message>
+    <message>
+        <source>Feedback by Email</source>
+        <translation>Wyślij opinię przez e-mail</translation>
     </message>
     <message>
         <source>File</source>
@@ -2418,8 +2465,16 @@ wyśrodkuj</translation>
         <translation type="obsolete">Linia maks-min</translation>
     </message>
     <message>
+        <source>High-Low Lines</source>
+        <translation>Linie maks-min</translation>
+    </message>
+    <message>
         <source>Highlight Duplicates</source>
         <translation>Wyróżnij duplikaty</translation>
+    </message>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation>Poziome pole tekstowe</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -2497,6 +2552,10 @@ wyśrodkuj</translation>
         <translation type="obsolete">Nowy z innych szablonów</translation>
     </message>
     <message>
+        <source>New from More Templates</source>
+        <translation>Nowy z innych szablonów</translation>
+    </message>
+    <message>
         <source>New from Online Templates</source>
         <translation>Nowy z szablonów online</translation>
     </message>
@@ -2507,6 +2566,10 @@ wyśrodkuj</translation>
     <message>
         <source>Next</source>
         <translation>Następny</translation>
+    </message>
+    <message>
+        <source>Night Mode</source>
+        <translation>Tryb nocny</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -2521,6 +2584,11 @@ wyśrodkuj</translation>
         <translation>Notatka</translation>
     </message>
     <message>
+        <source>Note</source>
+        <comment>shortHint</comment>
+        <translation>Notatka</translation>
+    </message>
+    <message>
         <source>OLE Object</source>
         <translation>Obiekt OLE</translation>
     </message>
@@ -2531,6 +2599,10 @@ wyśrodkuj</translation>
     <message>
         <source>Open</source>
         <translation>Otwórz</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>Opcje</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -2599,6 +2671,10 @@ bezpośrednio</translation>
         <translation>Oblicz ponownie skoroszyt</translation>
     </message>
     <message>
+        <source>Recent File Management</source>
+        <translation>Zarządzanie niedawno używanymi plikami</translation>
+    </message>
+    <message>
         <source>Recently File Management</source>
         <translation type="obsolete">Ostatnie zarządzanie plikami</translation>
     </message>
@@ -2662,8 +2738,16 @@ dane</translation>
         <translation>Okienko zaznaczenia</translation>
     </message>
     <message>
+        <source>Series Line</source>
+        <translation>Liniia serii</translation>
+    </message>
+    <message>
         <source>Series Line Popup Menu</source>
         <translation type="obsolete">Menu podręczne linii serii</translation>
+    </message>
+    <message>
+        <source>Set</source>
+        <translation>Ustaw</translation>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
@@ -2675,7 +2759,7 @@ dane</translation>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation>Ustaw odrzucenie wstawiania powtarzanych elementów</translation>
+        <translation type="obsolete">Ustaw odrzucenie wstawiania powtarzanych elementów</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -2737,8 +2821,16 @@ zadań</translation>
         <translation>Cofnij</translation>
     </message>
     <message>
+        <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up Bars</source>
         <translation>Słupki wzrostu</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>Pionowo</translation>
     </message>
     <message>
         <source>View</source>
@@ -2761,85 +2853,12 @@ zadań</translation>
         <translation>Okno</translation>
     </message>
     <message>
-        <source>WordArt Popup Menu</source>
-        <translation type="obsolete">Menu podręczne WordArt</translation>
-    </message>
-    <message>
-        <source>Clear</source>
-        <translation>Wyczyść</translation>
-    </message>
-    <message>
-        <source>Click to adjust Zoom level</source>
-        <translation>Kliknij, aby dopasować Poziom powiększenia</translation>
-    </message>
-    <message>
-        <source>Cloud Link</source>
-        <translation>Łącze usługi Cloud</translation>
-    </message>
-    <message>
-        <source>Create</source>
-        <translation>Utwórz</translation>
-    </message>
-    <message>
-        <source>Down-Bars</source>
-        <translation>Słupki spadku</translation>
-    </message>
-    <message>
-        <source>Eye Protection Night Mode</source>
-        <translation type="unfinished">Tryb ochrony oczu i Tryb nocny!</translation>
-    </message>
-    <message>
-        <source>Feedback and Advice</source>
-        <translation>Opinie i porady</translation>
-    </message>
-    <message>
-        <source>Feedback by Email</source>
-        <translation>Wyślij opinię przez e-mail</translation>
-    </message>
-    <message>
-        <source>High-Low Lines</source>
-        <translation>Linie maks-min</translation>
-    </message>
-    <message>
-        <source>Horizontal Text Box</source>
-        <translation>Poziome pole tekstowe</translation>
-    </message>
-    <message>
-        <source>New from More Templates</source>
-        <translation>Nowy z innych szablonów</translation>
-    </message>
-    <message>
-        <source>Night Mode</source>
-        <translation>Tryb nocny</translation>
-    </message>
-    <message>
-        <source>Note</source>
-        <comment>shortHint</comment>
-        <translation>Notatka</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation>Opcje</translation>
-    </message>
-    <message>
-        <source>Recent File Management</source>
-        <translation>Zarządzanie niedawno używanymi plikami</translation>
-    </message>
-    <message>
-        <source>Series Line</source>
-        <translation>Liniia serii</translation>
-    </message>
-    <message>
-        <source>Set</source>
-        <translation>Ustaw</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation>Pionowo</translation>
-    </message>
-    <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
+    </message>
+    <message>
+        <source>WordArt Popup Menu</source>
+        <translation type="obsolete">Menu podręczne WordArt</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -2852,6 +2871,13 @@ zadań</translation>
     <message>
         <source>Zoom Out</source>
         <translation>Pomniejszanie</translation>
+    </message>
+</context>
+<context>
+    <name>etcommon.mainwindow.commands.DataGroup</name>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2946,6 +2972,10 @@ zadań</translation>
         <translation>Mini-strona</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Office Space</source>
         <translation type="obsolete">Przestrzeń biurowa</translation>
     </message>
@@ -2962,6 +2992,10 @@ zadań</translation>
         <translation>Układ strony</translation>
     </message>
     <message>
+        <source>Personal Center</source>
+        <translation>Centrum osobiste</translation>
+    </message>
+    <message>
         <source>Picture Tools</source>
         <translation>Narzędzia obrazów</translation>
     </message>
@@ -2972,6 +3006,10 @@ zadań</translation>
     <message>
         <source>PivotTable Tools</source>
         <translation>Narzędzia tabel przestawnych</translation>
+    </message>
+    <message>
+        <source>Popup Menu</source>
+        <translation>Menu podręczne</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -3022,8 +3060,16 @@ zadań</translation>
         <translation>Wyloguj</translation>
     </message>
     <message>
+        <source>Special Features</source>
+        <translation>Funkcje specjalne</translation>
+    </message>
+    <message>
         <source>Table Style</source>
         <translation>Styl tabeli</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Sign in</source>
@@ -3055,18 +3101,6 @@ zadań</translation>
     <message>
         <source>test Rb Tab Widget</source>
         <translation>test Rb Tab Widget</translation>
-    </message>
-    <message>
-        <source>Personal Center</source>
-        <translation>Centrum osobiste</translation>
-    </message>
-    <message>
-        <source>Popup Menu</source>
-        <translation>Menu podręczne</translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation>Funkcje specjalne</translation>
     </message>
 </context>
 <context>
@@ -3170,6 +3204,10 @@ zadań</translation>
         <translation>Mini-strona</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Office Space</source>
         <translation type="obsolete">Przestrzeń biurowa</translation>
     </message>
@@ -3186,6 +3224,10 @@ zadań</translation>
         <translation>Układ strony</translation>
     </message>
     <message>
+        <source>Personal Center</source>
+        <translation>Centrum osobiste</translation>
+    </message>
+    <message>
         <source>Picture Tools</source>
         <translation>Narzędzia obrazów</translation>
     </message>
@@ -3196,6 +3238,10 @@ zadań</translation>
     <message>
         <source>PivotTable Tools</source>
         <translation>Narzędzia tabel przestawnych</translation>
+    </message>
+    <message>
+        <source>Popup Menu</source>
+        <translation>Menu podręczne</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -3242,6 +3288,10 @@ zadań</translation>
         <translation>Wyloguj</translation>
     </message>
     <message>
+        <source>Special Features</source>
+        <translation>Funkcje specjalne</translation>
+    </message>
+    <message>
         <source>Switch account</source>
         <translation type="obsolete">Przełącz konto</translation>
     </message>
@@ -3279,18 +3329,6 @@ zadań</translation>
     <message>
         <source>test Rb Tab Widget</source>
         <translation>test Rb Tab Widget</translation>
-    </message>
-    <message>
-        <source>Personal Center</source>
-        <translation>Centrum osobiste</translation>
-    </message>
-    <message>
-        <source>Popup Menu</source>
-        <translation>Menu podręczne</translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation>Funkcje specjalne</translation>
     </message>
 </context>
 <context>
@@ -3570,7 +3608,7 @@ kolumny</translation>
     <name>ongmani.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>Grupuj</translation>
+        <translation type="obsolete">Grupuj</translation>
     </message>
 </context>
 <context>
@@ -3964,6 +4002,10 @@ Włącz</translation>
         <translation>Długa kreska-kropka-kreska</translation>
     </message>
     <message>
+        <source>Long Dash Dot Dot</source>
+        <translation>Długa kreska-kropka-kropka</translation>
+    </message>
+    <message>
         <source>More Arrows</source>
         <translation>Więcej strzałek</translation>
     </message>
@@ -4089,10 +4131,6 @@ Włącz/Wyłącz</translation>
         <source>Weight</source>
         <translation>Grubość</translation>
     </message>
-    <message>
-        <source>Long Dash Dot Dot</source>
-        <translation>Długa kreska-kropka-kropka</translation>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
@@ -4107,6 +4145,10 @@ Włącz/Wyłącz</translation>
     <message>
         <source>Backup Management and Data Recovery</source>
         <translation>Zarządzanie kopią zapasową i odzyskiwanie danych</translation>
+    </message>
+    <message>
+        <source>Backup and Recover</source>
+        <translation>Kopia zapasowa i odzyskiwanie</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -4161,6 +4203,10 @@ Włącz/Wyłącz</translation>
         <translation>Pomoc</translation>
     </message>
     <message>
+        <source>Manage Credentials</source>
+        <translation>Zarządzaj poświadczeniami</translation>
+    </message>
+    <message>
         <source>Microsoft Excel 2007/2010 Files</source>
         <translation>Pliki programu Microsoft Excel 2007/2010</translation>
     </message>
@@ -4197,8 +4243,12 @@ Włącz/Wyłącz</translation>
         <translation>Nowy z szablonów online</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>Nowy z innych szablonów...</translation>
+        <translation type="obsolete">Nowy z innych szablonów...</translation>
     </message>
     <message>
         <source>Open</source>
@@ -4233,6 +4283,14 @@ Włącz/Wyłącz</translation>
         <translation>Załaduj ponownie</translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation>Ogranicz uprawnienia według osób</translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation>Dostęp ograniczony</translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>Zapisz</translation>
     </message>
@@ -4255,6 +4313,14 @@ Włącz/Wyłącz</translation>
     <message>
         <source>Study Online</source>
         <translation>Badania online</translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation>Dostęp nieograniczony</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation>Wyświetl uprawnienia</translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -4285,36 +4351,16 @@ Włącz/Wyłącz</translation>
         <translation>Centrum produktów WPS Office</translation>
     </message>
     <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Spreadsheets Files</source>
         <translation>Pliki programu WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Templates</source>
         <translation>Szablony programu WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>Backup and Recover</source>
-        <translation>Kopia zapasowa i odzyskiwanie</translation>
-    </message>
-    <message>
-        <source>Manage Credentials</source>
-        <translation>Zarządzaj poświadczeniami</translation>
-    </message>
-    <message>
-        <source>Restrict Permission by People</source>
-        <translation>Ogranicz uprawnienia według osób</translation>
-    </message>
-    <message>
-        <source>Restricted Access</source>
-        <translation>Dostęp ograniczony</translation>
-    </message>
-    <message>
-        <source>Unrestricted Access</source>
-        <translation>Dostęp nieograniczony</translation>
-    </message>
-    <message>
-        <source>View Permissions</source>
-        <translation>Wyświetl uprawnienia</translation>
     </message>
 </context>
 <context>
@@ -4486,6 +4532,10 @@ używane</translation>
         <translation>Powyżej średniej</translation>
     </message>
     <message>
+        <source>Accounting</source>
+        <translation>Księgowe</translation>
+    </message>
+    <message>
         <source>Across Center</source>
         <translation type="obsolete">W poprzek środka</translation>
     </message>
@@ -4528,6 +4578,10 @@ używane</translation>
     <message>
         <source>Angle Countclockwise</source>
         <translation type="obsolete">Obróć przeciwnie do ruchu wskazówek zegara</translation>
+    </message>
+    <message>
+        <source>Angle Counterclockwise</source>
+        <translation>Obróć przeciwnie do ruchu wskazówek zegara</translation>
     </message>
     <message>
         <source>Ascending</source>
@@ -4596,6 +4650,10 @@ używane</translation>
     <message>
         <source>Center</source>
         <translation>Wyśrodkuj</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation>Wyśrodkuj w poprzek</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -5313,6 +5371,10 @@ kolumny</translation>
         <translation>Rozdziel komórki</translation>
     </message>
     <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>W górę</translation>
     </message>
@@ -5347,18 +5409,6 @@ kolumny</translation>
     <message>
         <source>Yesterday</source>
         <translation>Wczoraj</translation>
-    </message>
-    <message>
-        <source>Accounting</source>
-        <translation>Księgowe</translation>
-    </message>
-    <message>
-        <source>Angle Counterclockwise</source>
-        <translation>Obróć przeciwnie do ruchu wskazówek zegara</translation>
-    </message>
-    <message>
-        <source>Center Across</source>
-        <translation>Wyśrodkuj w poprzek</translation>
     </message>
 </context>
 <context>
@@ -5470,6 +5520,10 @@ stopka</translation>
         <translation type="obsolete">Wstaw klip artystyczny</translation>
     </message>
     <message>
+        <source>Insert Clip Art</source>
+        <translation>Wstaw ClipArt</translation>
+    </message>
+    <message>
         <source>Insert Online Pictures</source>
         <translation>Wstaw obrazy w trybie online</translation>
     </message>
@@ -5570,10 +5624,6 @@ zaznaczenia</translation>
     <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
-    </message>
-    <message>
-        <source>Insert Clip Art</source>
-        <translation>Wstaw ClipArt</translation>
     </message>
 </context>
 <context>
@@ -5958,6 +6008,14 @@ obrazy</translation>
         <translation type="obsolete">Wstaw klip artystyczny</translation>
     </message>
     <message>
+        <source>Insert Clip Art</source>
+        <translation>Wstaw ClipArt</translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation>Wstaw obraz w trybie online</translation>
+    </message>
+    <message>
         <source>Insert online Picture</source>
         <translation type="obsolete" variants="yes">
             <lengthvariant>Wstaw obrazy w trybie online</lengthvariant>
@@ -5979,6 +6037,10 @@ obrazy</translation>
     <message>
         <source>Long Dash Dot</source>
         <translation>Długa kreska-kropka-kreska</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation>Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -6142,18 +6204,6 @@ Włącz/Wyłącz</translation>
         <source>Weight</source>
         <translation>Grubość</translation>
     </message>
-    <message>
-        <source>Insert Clip Art</source>
-        <translation>Wstaw ClipArt</translation>
-    </message>
-    <message>
-        <source>Insert Online Picture</source>
-        <translation>Wstaw obraz w trybie online</translation>
-    </message>
-    <message>
-        <source>Long Dash Dot Dot</source>
-        <translation>Długa kreska-kropka-kropka</translation>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_picturetool.PictureColor</name>
@@ -6191,6 +6241,11 @@ Włącz/Wyłącz</translation>
     <message>
         <source>Delete</source>
         <translation>Usuń</translation>
+    </message>
+    <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Field
@@ -6263,6 +6318,11 @@ tabeli przestawnej</translation>
 Data</source>
         <translation type="obsolete">Odśwież
 dane</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show
@@ -6475,6 +6535,16 @@ zmiany</translation>
     <message>
         <source>Translation</source>
         <translation>Tłumaczenie</translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6746,6 +6816,10 @@ Layout</source>
 do czytania</translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation>Usuń podział</translation>
+    </message>
+    <message>
         <source>Security</source>
         <translation>Zabezpieczenia</translation>
     </message>
@@ -6796,10 +6870,6 @@ do czytania</translation>
     <message>
         <source>Zoom</source>
         <translation>Powiększenie</translation>
-    </message>
-    <message>
-        <source>Remove Split</source>
-        <translation>Usuń podział</translation>
     </message>
 </context>
 <context>
@@ -7304,6 +7374,10 @@ znakami</translation>
         <translation>Długa kreska-kropka-kreska</translation>
     </message>
     <message>
+        <source>Long Dash Dot Dot</source>
+        <translation>Długa kreska-kropka-kropka</translation>
+    </message>
+    <message>
         <source>Loose</source>
         <translation>Luźne</translation>
     </message>
@@ -7496,10 +7570,6 @@ WordArt</translation>
         <source>WordArt Styles</source>
         <translation>Style tekstu WordArt</translation>
     </message>
-    <message>
-        <source>Long Dash Dot Dot</source>
-        <translation>Długa kreska-kropka-kropka</translation>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_wordart.WordArtCharacterSpacing</name>
@@ -7529,6 +7599,10 @@ WordArt</translation>
     <message>
         <source>Disable AutoBackup</source>
         <translation>Wyłącz automatyczne tworzenie kopii zapasowej</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation>Wejście Docer</translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -7626,6 +7700,14 @@ WordArt</translation>
         <translation type="obsolete">Ustaw odrzucone wstawienia powtarzanych elementów</translation>
     </message>
     <message>
+        <source>Special Features</source>
+        <translation>Funkcje specjalne</translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>Opinie użytkowników</translation>
     </message>
@@ -7637,48 +7719,111 @@ WordArt</translation>
         <source>View Historical Backup</source>
         <translation>Wyświetl historię tworzenia kopii zapasowej</translation>
     </message>
+</context>
+<context>
+    <name>ongmani.proxycommands</name>
     <message>
-        <source>Docer Entrance</source>
-        <translation>Wejście Docer</translation>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special Features</source>
-        <translation>Funkcje specjalne</translation>
+        <source>Goal Seek</source>
+        <translation>Szukanie wyniku</translation>
+    </message>
+    <message>
+        <source>Press Enter to Start Reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver</source>
+        <translation>Solver</translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What-If Analysis</source>
+        <translation>Analiza warunkowa</translation>
     </message>
 </context>
 <context>
     <name>popupmenu</name>
     <message>
+        <source>0.25 pt</source>
+        <translation>0,25 pkt</translation>
+    </message>
+    <message>
         <source>0.25 pt.</source>
         <translation type="obsolete">0,25 pkt</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation>0,5 pkt</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
         <translation type="obsolete">0,5 pkt</translation>
     </message>
     <message>
+        <source>0.75 pt</source>
+        <translation>0,75 pkt</translation>
+    </message>
+    <message>
         <source>0.75 pt.</source>
         <translation type="obsolete">0,75 pkt</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation>1 pkt</translation>
     </message>
     <message>
         <source>1 pt.</source>
         <translation type="obsolete">1 pkt</translation>
     </message>
     <message>
+        <source>1.5 pt</source>
+        <translation>1,5 pkt</translation>
+    </message>
+    <message>
         <source>1.5 pt.</source>
         <translation type="obsolete">1,5 pkt</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation>2,25 pkt</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
         <translation type="obsolete">2,25 pkt</translation>
     </message>
     <message>
+        <source>3 pt</source>
+        <translation>3 pkt</translation>
+    </message>
+    <message>
         <source>3 pt.</source>
         <translation type="obsolete">3 pkt</translation>
     </message>
     <message>
+        <source>4.5 pt</source>
+        <translation>4,5 pkt</translation>
+    </message>
+    <message>
         <source>4.5 pt.</source>
         <translation type="obsolete">4,5 pkt</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation>6 pkt</translation>
     </message>
     <message>
         <source>6 pt.</source>
@@ -7691,6 +7836,10 @@ WordArt</translation>
     <message>
         <source>Accept Changes</source>
         <translation>Zaakceptuj zmiany</translation>
+    </message>
+    <message>
+        <source>Accounting</source>
+        <translation>Księgowe</translation>
     </message>
     <message>
         <source>Across Center</source>
@@ -7891,6 +8040,10 @@ COM</translation>
         <translation>Wyśrodkuj</translation>
     </message>
     <message>
+        <source>Center Across</source>
+        <translation>Wyśrodkuj w poprzek</translation>
+    </message>
+    <message>
         <source>Change Account</source>
         <translation type="obsolete">Zmień konto</translation>
     </message>
@@ -8083,6 +8236,10 @@ COM</translation>
         <translation>Kreska</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation>Kreska-kropka</translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>Styl kreskowany</translation>
     </message>
@@ -8235,6 +8392,10 @@ COM</translation>
         <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation>Kroplomierz</translation>
+    </message>
+    <message>
         <source>Feedback by Email</source>
         <translation>Wyślij opinię przez e-mail</translation>
     </message>
@@ -8288,8 +8449,16 @@ COM</translation>
         <translation>Filtr</translation>
     </message>
     <message>
+        <source>Flip Horizontal</source>
+        <translation>Przerzuć w poziomie</translation>
+    </message>
+    <message>
         <source>Flip Horizontally</source>
         <translation type="obsolete">Przerzuć w poziomie</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation>Przerzuć w pionie</translation>
     </message>
     <message>
         <source>Flip Vertically</source>
@@ -8424,6 +8593,10 @@ COM</translation>
         <translation>Pasek formuły</translation>
     </message>
     <message>
+        <source>Formulas</source>
+        <translation>Formuły</translation>
+    </message>
+    <message>
         <source>Free Rotate</source>
         <translation>Obrót dowolny</translation>
     </message>
@@ -8520,6 +8693,10 @@ COM</translation>
         <translation type="obsolete">Wstaw klip artystyczny</translation>
     </message>
     <message>
+        <source>Insert Clip Art</source>
+        <translation>Wstaw ClipArt</translation>
+    </message>
+    <message>
         <source>Insert Comment</source>
         <translation>Wstaw komentarz</translation>
     </message>
@@ -8574,6 +8751,10 @@ wyśrodkuj</translation>
         <translation type="obsolete">Deseń linii</translation>
     </message>
     <message>
+        <source>Line Style</source>
+        <translation>Styl linii</translation>
+    </message>
+    <message>
         <source>Line Sytle Palette</source>
         <translation type="obsolete">Paleta stylu linii</translation>
     </message>
@@ -8586,6 +8767,14 @@ wyśrodkuj</translation>
         <translation>Długa kreska</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation>Długa kreska-kropka-kreska</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation>Długa kreska-kropka-kropka</translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
         <translation type="obsolete">Długa kreska-kropka-kreska</translation>
     </message>
@@ -8596,6 +8785,10 @@ wyśrodkuj</translation>
     <message>
         <source>Manage Credential</source>
         <translation type="obsolete">Zarządzaj poświadczeniami</translation>
+    </message>
+    <message>
+        <source>Manage Credentials</source>
+        <translation>Zarządzaj poświadczeniami</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -8742,6 +8935,10 @@ wyśrodkuj</translation>
         <translation>Wklej</translation>
     </message>
     <message>
+        <source>Paste Special</source>
+        <translation>Wklej specjalnie</translation>
+    </message>
+    <message>
         <source>Paste as Picture</source>
         <translation>Wklej jako obraz</translation>
     </message>
@@ -8754,8 +8951,16 @@ wyśrodkuj</translation>
         <translation>Deseń</translation>
     </message>
     <message>
+        <source>Patterned Lines</source>
+        <translation>Linie z deseniem</translation>
+    </message>
+    <message>
         <source>Percent Style</source>
         <translation>Zapis procentowy</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation>Centrum osobiste</translation>
     </message>
     <message>
         <source>Pick from Drop-down List</source>
@@ -8856,12 +9061,24 @@ wyśrodkuj</translation>
         <translation>Usuń hiperłącze</translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation>Usuń podział</translation>
+    </message>
+    <message>
         <source>Rename</source>
         <translation>Zmień nazwę</translation>
     </message>
     <message>
         <source>Reset All Page Break</source>
         <translation type="obsolete">Resetuj wszystkie podziały strony</translation>
+    </message>
+    <message>
+        <source>Reset All Page Breaks</source>
+        <translation>Resetuj wszystkie podziały stron</translation>
+    </message>
+    <message>
+        <source>Restrict Permission by People</source>
+        <translation>Ogranicz uprawnienia według osób</translation>
     </message>
     <message>
         <source>Restricted Access</source>
@@ -9045,7 +9262,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Solver</source>
-        <translation type="obsolete">Solver</translation>
+        <translation type="unfinished">Solver</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -9156,6 +9373,10 @@ wyśrodkuj</translation>
         <translation>Śledź zmiany</translation>
     </message>
     <message>
+        <source>Transpose</source>
+        <translation>Transponuj</translation>
+    </message>
+    <message>
         <source>UnSplit</source>
         <translation type="obsolete" variants="yes">
             <lengthvariant>Cofnij podział</lengthvariant>
@@ -9187,6 +9408,14 @@ wyśrodkuj</translation>
         <translation>Rozdziel komórki</translation>
     </message>
     <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unrestricted Access</source>
         <translation>Dostęp nieograniczony</translation>
     </message>
@@ -9203,6 +9432,10 @@ wyśrodkuj</translation>
         <translation>Sprawdzanie poprawności</translation>
     </message>
     <message>
+        <source>Values</source>
+        <translation>Wartości</translation>
+    </message>
+    <message>
         <source>Vertical</source>
         <translation>Pionowo</translation>
     </message>
@@ -9217,6 +9450,10 @@ wyśrodkuj</translation>
     <message>
         <source>View Historical Backup</source>
         <translation>Wyświetl historię tworzenia kopii zapasowej</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation>Wyświetl uprawnienia</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
@@ -9265,136 +9502,12 @@ wyśrodkuj</translation>
         <source>Zoom</source>
         <translation>Powiększenie</translation>
     </message>
-    <message>
-        <source>0.25 pt</source>
-        <translation>0,25 pkt</translation>
-    </message>
-    <message>
-        <source>0.5 pt</source>
-        <translation>0,5 pkt</translation>
-    </message>
-    <message>
-        <source>0.75 pt</source>
-        <translation>0,75 pkt</translation>
-    </message>
-    <message>
-        <source>1 pt</source>
-        <translation>1 pkt</translation>
-    </message>
-    <message>
-        <source>1.5 pt</source>
-        <translation>1,5 pkt</translation>
-    </message>
-    <message>
-        <source>2.25 pt</source>
-        <translation>2,25 pkt</translation>
-    </message>
-    <message>
-        <source>3 pt</source>
-        <translation>3 pkt</translation>
-    </message>
-    <message>
-        <source>4.5 pt</source>
-        <translation>4,5 pkt</translation>
-    </message>
-    <message>
-        <source>6 pt</source>
-        <translation>6 pkt</translation>
-    </message>
-    <message>
-        <source>Accounting</source>
-        <translation>Księgowe</translation>
-    </message>
-    <message>
-        <source>Center Across</source>
-        <translation>Wyśrodkuj w poprzek</translation>
-    </message>
-    <message>
-        <source>Dash Dot</source>
-        <translation>Kreska-kropka</translation>
-    </message>
-    <message>
-        <source>Eyedropper</source>
-        <translation>Kroplomierz</translation>
-    </message>
-    <message>
-        <source>Flip Horizontal</source>
-        <translation>Przerzuć w poziomie</translation>
-    </message>
-    <message>
-        <source>Flip Vertical</source>
-        <translation>Przerzuć w pionie</translation>
-    </message>
-    <message>
-        <source>Formulas</source>
-        <translation>Formuły</translation>
-    </message>
-    <message>
-        <source>Insert Clip Art</source>
-        <translation>Wstaw ClipArt</translation>
-    </message>
-    <message>
-        <source>Line Style</source>
-        <translation>Styl linii</translation>
-    </message>
-    <message>
-        <source>Long Dash Dot</source>
-        <translation>Długa kreska-kropka-kreska</translation>
-    </message>
-    <message>
-        <source>Long Dash Dot Dot</source>
-        <translation>Długa kreska-kropka-kropka</translation>
-    </message>
-    <message>
-        <source>Manage Credentials</source>
-        <translation>Zarządzaj poświadczeniami</translation>
-    </message>
-    <message>
-        <source>Paste Special</source>
-        <translation>Wklej specjalnie</translation>
-    </message>
-    <message>
-        <source>Patterned Lines</source>
-        <translation>Linie z deseniem</translation>
-    </message>
-    <message>
-        <source>Personal Center</source>
-        <translation>Centrum osobiste</translation>
-    </message>
-    <message>
-        <source>Remove Split</source>
-        <translation>Usuń podział</translation>
-    </message>
-    <message>
-        <source>Reset All Page Breaks</source>
-        <translation>Resetuj wszystkie podziały stron</translation>
-    </message>
-    <message>
-        <source>Restrict Permission by People</source>
-        <translation>Ogranicz uprawnienia według osób</translation>
-    </message>
-    <message>
-        <source>Transpose</source>
-        <translation>Transponuj</translation>
-    </message>
-    <message>
-        <source>Values</source>
-        <translation>Wartości</translation>
-    </message>
-    <message>
-        <source>View Permissions</source>
-        <translation>Wyświetl uprawnienia</translation>
-    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
         <translation type="obsolete">Przełącz interfejs użytkownika</translation>
-    </message>
-    <message>
-        <source>true</source>
-        <translation>ustal</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -9405,6 +9518,10 @@ wyśrodkuj</translation>
         <source>Switch UI</source>
         <comment>Professional Version</comment>
         <translation>Przełącz interfejs użytkownika</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation>ustal</translation>
     </message>
 </context>
 <context>
@@ -9655,7 +9772,7 @@ kwerendy bazy danych OLE</translation>
     <name>rainbow.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>Grupuj</translation>
+        <translation type="obsolete">Grupuj</translation>
     </message>
 </context>
 <context>
@@ -10011,6 +10128,10 @@ COM</translation>
         <translation>Długa kreska-kropka-kreska</translation>
     </message>
     <message>
+        <source>Long Dash Dot Dot</source>
+        <translation>Długa kreska-kropka-kropka</translation>
+    </message>
+    <message>
         <source>More Arrows</source>
         <translation>Więcej strzałek</translation>
     </message>
@@ -10122,10 +10243,6 @@ COM</translation>
         <source>Weight</source>
         <translation>Grubość</translation>
     </message>
-    <message>
-        <source>Long Dash Dot Dot</source>
-        <translation>Długa kreska-kropka-kropka</translation>
-    </message>
 </context>
 <context>
     <name>rainbow.ct_file</name>
@@ -10140,6 +10257,10 @@ COM</translation>
     <message>
         <source>Backup Management and Data Recovery</source>
         <translation>Zarządzanie kopią zapasową i odzyskiwanie danych</translation>
+    </message>
+    <message>
+        <source>Backup and Recover</source>
+        <translation>Kopia zapasowa i odzyskiwanie</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -10194,6 +10315,10 @@ COM</translation>
         <translation>Pomoc</translation>
     </message>
     <message>
+        <source>Manage Credentials</source>
+        <translation>Zarządzaj poświadczeniami</translation>
+    </message>
+    <message>
         <source>Microsoft Excel 2007-2010 Files</source>
         <translation>Pliki programu Microsoft Excel 2007–2010</translation>
     </message>
@@ -10230,8 +10355,12 @@ COM</translation>
         <translation>Nowy z szablonów online</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>Nowy z innych szablonów...</translation>
+        <translation type="obsolete">Nowy z innych szablonów...</translation>
     </message>
     <message>
         <source>Open</source>
@@ -10266,6 +10395,14 @@ COM</translation>
         <translation>Załaduj ponownie</translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation>Ogranicz uprawnienia według osób</translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation>Dostęp ograniczony</translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>Zapisz</translation>
     </message>
@@ -10288,6 +10425,14 @@ COM</translation>
     <message>
         <source>Study Online</source>
         <translation>Badania online</translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation>Dostęp nieograniczony</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation>Wyświetl uprawnienia</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -10318,6 +10463,10 @@ COM</translation>
         <translation>Centrum produktów WPS Office</translation>
     </message>
     <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Spreadsheets Files</source>
         <translation>Pliki programu WPS Spreadsheets</translation>
     </message>
@@ -10328,30 +10477,6 @@ COM</translation>
     <message>
         <source>WPS Spreadsheets Templates</source>
         <translation>Szablony programu WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>Backup and Recover</source>
-        <translation>Kopia zapasowa i odzyskiwanie</translation>
-    </message>
-    <message>
-        <source>Manage Credentials</source>
-        <translation>Zarządzaj poświadczeniami</translation>
-    </message>
-    <message>
-        <source>Restrict Permission by People</source>
-        <translation>Ogranicz uprawnienia według osób</translation>
-    </message>
-    <message>
-        <source>Restricted Access</source>
-        <translation>Dostęp ograniczony</translation>
-    </message>
-    <message>
-        <source>Unrestricted Access</source>
-        <translation>Dostęp nieograniczony</translation>
-    </message>
-    <message>
-        <source>View Permissions</source>
-        <translation>Wyświetl uprawnienia</translation>
     </message>
 </context>
 <context>
@@ -10513,6 +10638,10 @@ trygonometryczne</translation>
         <translation>Powyżej średniej</translation>
     </message>
     <message>
+        <source>Accounting</source>
+        <translation>Księgowe</translation>
+    </message>
+    <message>
         <source>Across Center</source>
         <translation type="obsolete">W poprzek środka</translation>
     </message>
@@ -10623,6 +10752,10 @@ trygonometryczne</translation>
     <message>
         <source>Center</source>
         <translation>Wyśrodkuj</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation>Wyśrodkuj w poprzek</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -11305,6 +11438,10 @@ wyśrodkuj</translation>
         <translation>Rozdziel komórki</translation>
     </message>
     <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>W górę</translation>
     </message>
@@ -11339,14 +11476,6 @@ wyśrodkuj</translation>
     <message>
         <source>Yesterday</source>
         <translation>Wczoraj</translation>
-    </message>
-    <message>
-        <source>Accounting</source>
-        <translation>Księgowe</translation>
-    </message>
-    <message>
-        <source>Center Across</source>
-        <translation>Wyśrodkuj w poprzek</translation>
     </message>
 </context>
 <context>
@@ -11442,6 +11571,14 @@ wyśrodkuj</translation>
         <translation type="obsolete">Wstaw klip artystyczny</translation>
     </message>
     <message>
+        <source>Insert Clip Art</source>
+        <translation>Wstaw ClipArt</translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation>Wstaw obraz w trybie online</translation>
+    </message>
+    <message>
         <source>Insert online Picture</source>
         <translation type="obsolete" variants="yes">
             <lengthvariant>Wstaw obraz w trybie online</lengthvariant>
@@ -11523,14 +11660,6 @@ wyśrodkuj</translation>
     <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
-    </message>
-    <message>
-        <source>Insert Clip Art</source>
-        <translation>Wstaw ClipArt</translation>
-    </message>
-    <message>
-        <source>Insert Online Picture</source>
-        <translation>Wstaw obraz w trybie online</translation>
     </message>
 </context>
 <context>
@@ -11903,6 +12032,10 @@ wyśrodkuj</translation>
         <translation type="obsolete">Wstaw klip artystyczny</translation>
     </message>
     <message>
+        <source>Insert Clip Art</source>
+        <translation>Wstaw ClipArt</translation>
+    </message>
+    <message>
         <source>Insert Online Pictures</source>
         <translation>Wstaw obrazy w trybie online</translation>
     </message>
@@ -11921,6 +12054,10 @@ wyśrodkuj</translation>
     <message>
         <source>Long Dash Dot</source>
         <translation>Długa kreska-kropka-kreska</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation>Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -12078,14 +12215,6 @@ wyśrodkuj</translation>
         <source>Weight</source>
         <translation>Grubość</translation>
     </message>
-    <message>
-        <source>Insert Clip Art</source>
-        <translation>Wstaw ClipArt</translation>
-    </message>
-    <message>
-        <source>Long Dash Dot Dot</source>
-        <translation>Długa kreska-kropka-kropka</translation>
-    </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool.PictureColor</name>
@@ -12123,6 +12252,11 @@ wyśrodkuj</translation>
     <message>
         <source>Delete</source>
         <translation>Usuń</translation>
+    </message>
+    <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Field Settings</source>
@@ -12183,6 +12317,11 @@ wyśrodkuj</translation>
     <message>
         <source>Refresh Data</source>
         <translation type="obsolete">Odśwież dane</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -12369,6 +12508,14 @@ wyśrodkuj</translation>
     <message>
         <source>Translation</source>
         <translation>Tłumaczenie</translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12630,6 +12777,10 @@ inne okna</translation>
         <translation>Układ do czytania</translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation>Usuń podział</translation>
+    </message>
+    <message>
         <source>Security</source>
         <translation>Zabezpieczenia</translation>
     </message>
@@ -12684,10 +12835,6 @@ inne okna</translation>
     <message>
         <source>Zoom</source>
         <translation>Powiększenie</translation>
-    </message>
-    <message>
-        <source>Remove Split</source>
-        <translation>Usuń podział</translation>
     </message>
 </context>
 <context>
@@ -13142,6 +13289,10 @@ cienia</translation>
         <translation>Długa kreska-kropka-kreska</translation>
     </message>
     <message>
+        <source>Long Dash Dot Dot</source>
+        <translation>Długa kreska-kropka-kropka</translation>
+    </message>
+    <message>
         <source>Loose</source>
         <translation>Luźne</translation>
     </message>
@@ -13334,10 +13485,6 @@ cienia</translation>
         <source>WordArt Vertical Text</source>
         <translation>Tekst pionowy WordArt</translation>
     </message>
-    <message>
-        <source>Long Dash Dot Dot</source>
-        <translation>Długa kreska-kropka-kropka</translation>
-    </message>
 </context>
 <context>
     <name>rainbow.ct_wordart.WordArtCharacterSpacing</name>
@@ -13367,6 +13514,10 @@ cienia</translation>
     <message>
         <source>Disable AutoBackup</source>
         <translation>Wyłącz automatyczne tworzenie kopii zapasowej</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation>Wejście Docer</translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -13472,6 +13623,10 @@ cienia</translation>
         <translation>Funkcje specjalne</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>Opinie użytkowników</translation>
     </message>
@@ -13487,9 +13642,40 @@ cienia</translation>
         <source>View Historical Backup</source>
         <translation>Wyświetl historię tworzenia kopii zapasowej</translation>
     </message>
+</context>
+<context>
+    <name>rainbow.proxycommands</name>
     <message>
-        <source>Docer Entrance</source>
-        <translation>Wejście Docer</translation>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goal Seek</source>
+        <translation>Szukanie wyniku</translation>
+    </message>
+    <message>
+        <source>Press Enter to Start Reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver</source>
+        <translation>Solver</translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What-If Analysis</source>
+        <translation>Analiza warunkowa</translation>
     </message>
 </context>
 <context>
@@ -13513,6 +13699,10 @@ cienia</translation>
     <message>
         <source>Disable AutoBackup</source>
         <translation>Wyłącz automatyczne tworzenie kopii zapasowej</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation>Wejście Docer</translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -13540,7 +13730,7 @@ cienia</translation>
     </message>
     <message>
         <source>KOS Open Cloud File</source>
-        <translation>Otwórz plik w usłudze Cloud</translation>
+        <translation type="obsolete">Otwórz plik w usłudze Cloud</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -13549,6 +13739,14 @@ cienia</translation>
     <message>
         <source>More Colors</source>
         <translation>Więcej kolorów</translation>
+    </message>
+    <message>
+        <source>Open from Cloud</source>
+        <translation>Otwórz z usługi Cloud</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation>Centrum osobiste</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
@@ -13623,48 +13821,6 @@ cienia</translation>
             <lengthvariant>Wersja biznesowa WPS</lengthvariant>
             <lengthvariant>WPS dla firm</lengthvariant>
         </translation>
-    </message>
-    <message>
-        <source>Docer Entrance</source>
-        <translation>Wejście Docer</translation>
-    </message>
-    <message>
-        <source>Open from Cloud</source>
-        <translation>Otwórz z usługi Cloud</translation>
-    </message>
-    <message>
-        <source>Personal Center</source>
-        <translation>Centrum osobiste</translation>
-    </message>
-</context>
-<context>
-    <name>ongmani.proxycommands</name>
-    <message>
-        <source>Goal Seek</source>
-        <translation>Szukanie wyniku</translation>
-    </message>
-    <message>
-        <source>Solver</source>
-        <translation>Solver</translation>
-    </message>
-    <message>
-        <source>What-If Analysis</source>
-        <translation>Analiza warunkowa</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.proxycommands</name>
-    <message>
-        <source>Goal Seek</source>
-        <translation>Szukanie wyniku</translation>
-    </message>
-    <message>
-        <source>Solver</source>
-        <translation>Solver</translation>
-    </message>
-    <message>
-        <source>What-If Analysis</source>
-        <translation>Analiza warunkowa</translation>
     </message>
 </context>
 </TS>

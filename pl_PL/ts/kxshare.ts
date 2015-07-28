@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>Downloading online font &quot;%1&quot;. Click the font list to see more detail. (Restart to take effect)</source>
-        <translation>Pobieranie czcionki online &quot;%1&quot;. Kliknij na listę czcionek, aby zobaczyć więcej szczegółów. (Uruchom ponownie, aby zostały uwzględnione)</translation>
+        <translation type="obsolete">Pobieranie czcionki online &quot;%1&quot;. Kliknij na listę czcionek, aby zobaczyć więcej szczegółów. (Uruchom ponownie, aby zostały uwzględnione)</translation>
     </message>
     <message>
         <source>Download cloud font &quot;%1&quot; successful</source>
@@ -244,6 +244,10 @@
     <message>
         <source>Downloading cloud font, click the font list to see more detail.</source>
         <translation>Pobieranie czcionki chmury, kliknij na listę czcionek, aby zobaczyć więcej szczegółów.</translation>
+    </message>
+    <message>
+        <source>DownLoad cloud font &quot;%1&quot; Successful. (Restart to take effect)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -277,6 +281,25 @@
     <message>
         <source>(The file %1 seems to be damaged.)</source>
         <translation>(Plik %1 wydaje się być uszkodzony.)</translation>
+    </message>
+</context>
+<context>
+    <name>KCustomCtrl</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished">Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished">Czcionka domyślna</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Control</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -362,6 +385,122 @@
     </message>
 </context>
 <context>
+    <name>KDrawBrowserWnd</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished">Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished">Czcionka domyślna</translation>
+    </message>
+    <message>
+        <source>Browse for folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Zamknij</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawButton</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Czcionka domyślna</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawCheckBox</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Czcionka domyślna</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawComboBox</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Czcionka domyślna</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawMenu</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Czcionka domyślna</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawMsgBox</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished">Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished">Czcionka domyślna</translation>
+    </message>
+    <message>
+        <source>Instant Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anuluj</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawSearchListCtrl</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished">Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished">Czcionka domyślna</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UAC Fail Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Result Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDrawTreeCtrl</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Czcionka domyślna</translation>
+    </message>
+</context>
+<context>
     <name>KEmbbedContainer</name>
     <message>
         <source>Tab,Enter,Num Enter,Left,Up,Right,Down,Esc,Delete,C,X,V,Z,Y</source>
@@ -381,6 +520,332 @@
     </message>
 </context>
 <context>
+    <name>KFileDialogEx</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Czcionka domyślna</translation>
+    </message>
+    <message>
+        <source>&amp;Open</source>
+        <translation type="obsolete">&amp;Otwórz</translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation type="obsolete">&amp;Zapisz</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Anuluj</translation>
+    </message>
+    <message>
+        <source>&amp;Encrypt...</source>
+        <translation type="obsolete">&amp;Szyfrowanie...</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Zamknij</translation>
+    </message>
+    <message>
+        <source>Restore</source>
+        <translation>Przywróć</translation>
+    </message>
+    <message>
+        <source>Maximize</source>
+        <translation type="obsolete">Maksymalizuj</translation>
+    </message>
+    <message>
+        <source>Folder Last Visited</source>
+        <translation type="obsolete">Ostatnio odwiedzony folder</translation>
+    </message>
+    <message>
+        <source>Up One Folder</source>
+        <translation type="obsolete">Jeden folder w górę</translation>
+    </message>
+    <message>
+        <source>New Folder</source>
+        <translation>Nowy folder</translation>
+    </message>
+    <message>
+        <source>View Menu</source>
+        <translation>Menu Widok</translation>
+    </message>
+    <message>
+        <source>Local Document</source>
+        <translation type="obsolete">Dokument lokalny</translation>
+    </message>
+    <message>
+        <source>Recent Folder</source>
+        <translation type="obsolete">Ostatnio używany folder</translation>
+    </message>
+    <message>
+        <source>Desktop</source>
+        <translation>Pulpit</translation>
+    </message>
+    <message>
+        <source>My Documents</source>
+        <translation>Moje dokumenty</translation>
+    </message>
+    <message>
+        <source>Computer</source>
+        <translation>Komputer</translation>
+    </message>
+    <message>
+        <source>Network</source>
+        <translation>Sieć</translation>
+    </message>
+    <message>
+        <source>WPS Cloud</source>
+        <translation type="obsolete">WPS Cloud</translation>
+    </message>
+    <message>
+        <source>Personal Space</source>
+        <translation type="obsolete">Przestrzeń osobista</translation>
+    </message>
+    <message>
+        <source>My Group</source>
+        <translation type="obsolete">Moja grupa</translation>
+    </message>
+    <message>
+        <source>Help you resume lost files due to disk corruption or accidental delete</source>
+        <translation type="obsolete">Pomaga przywrócić utracone pliki z powodu uszkodzenia dysku lub przypadkowego usunięcia</translation>
+    </message>
+    <message>
+        <source>Look &amp;In</source>
+        <translation type="obsolete">Szukaj &amp;w</translation>
+    </message>
+    <message>
+        <source>Save to (&amp;I)</source>
+        <translation type="obsolete">Zapisz do (&amp;I)</translation>
+    </message>
+    <message>
+        <source>File &amp;Name</source>
+        <translation type="obsolete">&amp;Nazwa pliku</translation>
+    </message>
+    <message>
+        <source>File &amp;Type</source>
+        <translation type="obsolete">&amp;Typ pliku</translation>
+    </message>
+    <message>
+        <source>E&amp;xtra Large Icons</source>
+        <translation type="obsolete">&amp;Bardzo duże ikony</translation>
+    </message>
+    <message>
+        <source>Big Icons (&amp;R)</source>
+        <translation type="obsolete">Duże ikony (&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Medium Icons</source>
+        <translation type="obsolete">Śre&amp;dnie ikony</translation>
+    </message>
+    <message>
+        <source>Small Ico&amp;ns</source>
+        <translation type="obsolete">Małe iko&amp;ny</translation>
+    </message>
+    <message>
+        <source>&amp;List</source>
+        <translation type="obsolete">&amp;Lista</translation>
+    </message>
+    <message>
+        <source>Tile (&amp;S)</source>
+        <translation type="obsolete">Sąsiadująco (&amp;S)</translation>
+    </message>
+    <message>
+        <source>T&amp;humbnail</source>
+        <translation type="obsolete">Minia&amp;tura</translation>
+    </message>
+    <message>
+        <source>Ico&amp;n</source>
+        <translation type="obsolete">&amp;Ikona</translation>
+    </message>
+    <message>
+        <source>View &amp;Details</source>
+        <translation type="obsolete">Wyświetl s&amp;zczegóły</translation>
+    </message>
+    <message>
+        <source>Kingsoft Disk</source>
+        <translation type="obsolete">Dysk Kingsoft</translation>
+    </message>
+    <message>
+        <source>Invalid file name. Please enter a correct file name.</source>
+        <translation type="obsolete">Nieprawidłowa nazwa pliku. Proszę wprowadź poprawną nazwę pliku.</translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation type="obsolete">Zapisz jako</translation>
+    </message>
+    <message>
+        <source>Search Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Local Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent Visit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Remote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Private Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My Circle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DataMaster Button Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft PDFToWord</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDFToWord Button Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CustomLocation Button Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Folder Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save At</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Super Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Big Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Small Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon</source>
+        <translation type="unfinished">Ikona</translation>
+    </message>
+    <message>
+        <source>Detail View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quick Disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid file name, please enter the correct file name</source>
+        <translation type="unfinished">Nieprawidłowa nazwa pliku, proszę wprowadzić poprawną nazwę pliku</translation>
+    </message>
+    <message>
+        <source>Title Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Control Max Count Tip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nazwa</translation>
+    </message>
+    <message>
+        <source>Path</source>
+        <translation type="unfinished">Ścieżka</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">Typ</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Rozmiar</translation>
+    </message>
+    <message>
+        <source>Last Modify Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search Waiting Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search Fail Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFileDlgAssitantTool</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished">Microsoft YaHei</translation>
+    </message>
+</context>
+<context>
     <name>KFileSaveDialog</name>
     <message>
         <source>&amp;Encryption</source>
@@ -393,6 +858,21 @@
     <message>
         <source>FileName or PathName is longger than 218 characters!</source>
         <translation>Nazwa pliku lub ścieżki jest dłuższa niż 218 znaków!</translation>
+    </message>
+</context>
+<context>
+    <name>KImagePlayDlg</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished">Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished">Czcionka domyślna</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anuluj</translation>
     </message>
 </context>
 <context>
@@ -469,7 +949,7 @@
     </message>
     <message>
         <source>Network error...</source>
-        <translation>Błąd sieciowy...</translation>
+        <translation type="obsolete">Błąd sieciowy...</translation>
     </message>
     <message>
         <source>A network error occurred.</source>
@@ -592,6 +1072,17 @@
     </message>
 </context>
 <context>
+    <name>KSearchCtrl</name>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KShowMoreWindowDlg</name>
     <message>
         <source>OK</source>
@@ -611,7 +1102,7 @@
     </message>
     <message>
         <source>Compare Side by Side</source>
-        <translation>Porównaj obok siebie</translation>
+        <translation type="obsolete">Porównaj obok siebie</translation>
     </message>
     <message>
         <source>Switch window to:</source>
@@ -620,6 +1111,10 @@
     <message>
         <source>Please select the window to compare:</source>
         <translation>Proszę wybrać okno do porównania:</translation>
+    </message>
+    <message>
+        <source>Switch Windows</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -709,6 +1204,17 @@
     <message>
         <source>Never modify</source>
         <translation>Nigdy nie modyfikuj</translation>
+    </message>
+</context>
+<context>
+    <name>KTooltipCtrl</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished">Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished">Czcionka domyślna</translation>
     </message>
 </context>
 <context>
@@ -1051,6 +1557,13 @@
     </message>
 </context>
 <context>
+    <name>KWpsHostHelper</name>
+    <message>
+        <source>WPS Office system files encountered a problem. %1 cannot be 		started unless an automatic repair is performed. When prompted, click &quot;Yes&quot; to finish the repair.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxAboutDlg</name>
     <message>
         <source>%1%2</source>
@@ -1185,6 +1698,17 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <message>
         <source>Loading UI XML file failed. For more information, please use KDebugConsole or read logs.</source>
         <translation>Ładowanie pliku XML interfejsu użytkownika nie powiodło się. Aby uzyskać więcej informacji proszę użyj KDebugConsole lub odczytaj logi.</translation>
+    </message>
+</context>
+<context>
+    <name>KxAutoShapeInputBoxToShapes</name>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation>Poziome pole tekstowe</translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation>Pionowe pole tekstowe</translation>
     </message>
 </context>
 <context>
@@ -1353,7 +1877,11 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <message>
         <source>To work with Control Toolbox, please purchase WPS Office Professional.
 </source>
-        <translation>Aby korzystać z Przybornika formantów, należy zakupić WPS Office Professional.</translation>
+        <translation type="obsolete">Aby korzystać z Przybornika formantów, należy zakupić WPS Office Professional.</translation>
+    </message>
+    <message>
+        <source>若要使用控件工具箱，请购买 WPS Office 专业版。</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1367,19 +1895,35 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <name>KxCroppingScalesGalleryModel</name>
     <message>
         <source>CroppingScale_Free</source>
-        <translation>Przycinanie skali-dowolne</translation>
+        <translation type="obsolete">Przycinanie skali-dowolne</translation>
     </message>
     <message>
         <source>CroppingScale_Square</source>
-        <translation>Przycinanie skali-prostokątne</translation>
+        <translation type="obsolete">Przycinanie skali-prostokątne</translation>
     </message>
     <message>
         <source>CroppingScale_Horizontal</source>
-        <translation>Przycinanie skali-poziomo</translation>
+        <translation type="obsolete">Przycinanie skali-poziomo</translation>
     </message>
     <message>
         <source>CroppingScale_Vertical</source>
-        <translation>Przycinanie skali-pionowo</translation>
+        <translation type="obsolete">Przycinanie skali-pionowo</translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1644,6 +2188,24 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
 </context>
 <context>
+    <name>KxDetectFileAssoDlg</name>
+    <message>
+        <source>WPS Office is not your default office software, set to the default software that allows you to work more convenient</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDetectFileAssoDlgBottom</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Allow automatically help you check the format has been tampered with</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDiagramGalleryDlg</name>
     <message>
         <source>Cycle Diagram</source>
@@ -1818,7 +2380,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <name>KxDlgEditDictionary</name>
     <message>
         <source>Edit Dictionary</source>
-        <translation>Edytowanie słownika</translation>
+        <translation type="obsolete">Edytowanie słownika</translation>
     </message>
     <message>
         <source>&amp;Word:</source>
@@ -1839,6 +2401,10 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <message>
         <source>Close</source>
         <translation>Zamknij</translation>
+    </message>
+    <message>
+        <source>编辑字典</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2570,7 +3136,13 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     </message>
     <message>
         <source>Please select the files you wish to remove from the recent document list, then press Delete. This will not permanently delete your file, but only remove them from your recent records.</source>
-        <translation>Wybierz pliki, które chcesz usunąć z listy ostatnio używanych dokumentów, a następnie naciśnij przycisk Usuń. Nie spowoduje to trwałego usunięcia plików, tylko usunie je z ostatnich rekordów.</translation>
+        <translation type="obsolete">Wybierz pliki, które chcesz usunąć z listy ostatnio używanych dokumentów, a następnie naciśnij przycisk Usuń. Nie spowoduje to trwałego usunięcia plików, tylko usunie je z ostatnich rekordów.</translation>
+    </message>
+    <message>
+        <source>Please select the files you wish to remove from the recent document list, then press Delete. 
+This will not permanently delete your file, but only remove them from your recent records.
+Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2702,11 +3274,11 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     <name>KxEulaDlg</name>
     <message>
         <source>WPS Office</source>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>End-User License Agreement</source>
-        <translation>Umowa Licencyjna Użytkownika Oprogramowania</translation>
+        <translation type="obsolete">Umowa Licencyjna Użytkownika Oprogramowania</translation>
     </message>
     <message>
         <source>I &amp;Decline</source>
@@ -2719,6 +3291,25 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     <message>
         <source>Missing EULA, this means you are using an incomplete product.&lt;br/&gt;Please get a new one from &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;offical website&lt;/a&gt;, and don&apos;t modify it.</source>
         <translation>Brak pliku umowy licencyjnej, oznacza, że korzystasz z produktu niekompletnego. &lt;br/&gt; Proszę uzyskaj jeden nowy z &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt; oficjalnej strony internetowej&lt;/a&gt; i nie modyfikuj go.</translation>
+    </message>
+    <message>
+        <source>WPS Office End-User License Agreement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>about:blank</source>
+        <translation type="unfinished">temat: pusty</translation>
+    </message>
+    <message>
+        <source>Join the experience improvement plan</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxExternalPushService</name>
+    <message>
+        <source>Cannot load components for the printer solver.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3132,6 +3723,13 @@ Nieprawidłowy rekord. Plik może mieć zmienioną nazwę, być usunięty lub pr
     </message>
 </context>
 <context>
+    <name>KxHintWidget</name>
+    <message>
+        <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
+        <translation>%1 Nie możesz odnaleźć pliku? Spróbuj %2 %3 Wzorca do odzyskiwania danych Kingsoft %4</translation>
+    </message>
+</context>
+<context>
     <name>KxHyperlinkDlg</name>
     <message>
         <source>Backspace</source>
@@ -3459,6 +4057,10 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
         <source>cancel Close</source>
         <translation type="obsolete">anuluj Zamknij</translation>
     </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxModifyCommandDlg</name>
@@ -3646,7 +4248,7 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     <name>KxOnlineFontController</name>
     <message>
         <source>Cloud font reserves to the upper (%1), please go to the &quot;management of cloud font&quot; page for details.</source>
-        <translation>Rezerwa czcionki chmury osiągnie górny limit (%1), proszę przejdź do &quot;Zarządzanie czcionkami chmury&quot;, aby zobaczyć szczegóły.</translation>
+        <translation type="obsolete">Rezerwa czcionki chmury osiągnie górny limit (%1), proszę przejdź do &quot;Zarządzanie czcionkami chmury&quot;, aby zobaczyć szczegóły.</translation>
     </message>
     <message>
         <source>View Now</source>
@@ -3655,6 +4257,13 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     <message>
         <source>Cloud has reached its limit for cloud fonts (%1). Please go to the &apos;Management of Cloud Font&apos; page for details.</source>
         <translation>Usługa Cloud osiągnęła limit dla czcionek chmury (%1). Proszę przejdź do &apos;Zarządzanie czcionkami chmury&apos;, aby zobaczyć szczegóły.</translation>
+    </message>
+</context>
+<context>
+    <name>KxOnlineFontDownloadReminder</name>
+    <message>
+        <source>%1 online fonts downloaded,click to see.</source>
+        <translation>Pobrano %1 czcionek online, kliknij, aby zobaczyć.</translation>
     </message>
 </context>
 <context>
@@ -3865,6 +4474,17 @@ Kliknij tutaj, aby się zalogować.</translation>
     </message>
 </context>
 <context>
+    <name>KxOnlineShapesGalleryModel</name>
+    <message>
+        <source>Recommendation</source>
+        <translation>Rekomendacja</translation>
+    </message>
+    <message>
+        <source>More...</source>
+        <translation>Więcej...</translation>
+    </message>
+</context>
+<context>
     <name>KxOverdueDlg</name>
     <message>
         <source>Thank you for using the trial version of our product.</source>
@@ -3928,6 +4548,10 @@ Kliknij tutaj, aby się zalogować.</translation>
     <message>
         <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
         <translation>Zostanie utworzony skrót do pliku źródłowego podczas wklejania jako hiperłącze. Zmiany w pliku źródłowym będą uwzględniane w dokumencie.</translation>
+    </message>
+    <message>
+        <source>The specified data type is unavailable.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3995,6 +4619,21 @@ Kliknij tutaj, aby się zalogować.</translation>
     <message>
         <source>Users can request additional per&amp;missions from:</source>
         <translation>Użytkownicy mogą żądać dodatkowych &amp;uprawnień od:</translation>
+    </message>
+</context>
+<context>
+    <name>KxPicksolutionDlg</name>
+    <message>
+        <source>Choose XML Expansion Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One or more XML expansion packs are available for this file. Choose one from the list below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No XML expansion pack</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4568,6 +5207,13 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
 </context>
 <context>
+    <name>KxShapesGalleryModel</name>
+    <message>
+        <source>Recently Used Shapes</source>
+        <translation>Niedawno używane kształty</translation>
+    </message>
+</context>
+<context>
     <name>KxSkinSwitchHtmlBridge</name>
     <message>
         <source>upload</source>
@@ -4859,6 +5505,36 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
 </context>
 <context>
+    <name>KxTpAutoShapePersonalPanelModel</name>
+    <message>
+        <source>Online Shapes</source>
+        <translation>Kształty online</translation>
+    </message>
+    <message>
+        <source>Recently Used</source>
+        <translation>Ostatnio używane</translation>
+    </message>
+</context>
+<context>
+    <name>KxTpAutoShapesDownloadFailedItem</name>
+    <message>
+        <source>Unable to connect to the server. Please check your network connection.</source>
+        <translatorcomment> </translatorcomment>
+        <translation>Nie można nawiązać połączenia z serwerem. Proszę sprawdź swoje połączenie sieciowe.</translation>
+    </message>
+    <message>
+        <source>Try refresh again</source>
+        <translation>Spróbuj ponowić operację odświeżania</translation>
+    </message>
+</context>
+<context>
+    <name>KxTpAutoShapesDownloadingItem</name>
+    <message>
+        <source>Loading online shapes...</source>
+        <translation>Ładowanie kształtów online...</translation>
+    </message>
+</context>
+<context>
     <name>KxTpBackUp</name>
     <message>
         <source>Form</source>
@@ -5051,6 +5727,20 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation>
 
 Nieprawidłowy rekord. Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translation>
+    </message>
+</context>
+<context>
+    <name>KxTpOprDoc</name>
+    <message>
+        <source>Cancle the XML Extend Packet</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpOprDocCommand</name>
+    <message>
+        <source>Are you sure cancel the XML extend pack?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6637,293 +7327,6 @@ lub strona sieci Web</translation>
     <message>
         <source>&amp;Preview</source>
         <translation>&amp;Podgląd</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawButton</name>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-    <message>
-        <source>Default Font</source>
-        <translation>Czcionka domyślna</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawCheckBox</name>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-    <message>
-        <source>Default Font</source>
-        <translation>Czcionka domyślna</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawComboBox</name>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-    <message>
-        <source>Default Font</source>
-        <translation>Czcionka domyślna</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawMenu</name>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-    <message>
-        <source>Default Font</source>
-        <translation>Czcionka domyślna</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawTreeCtrl</name>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-    <message>
-        <source>Default Font</source>
-        <translation>Czcionka domyślna</translation>
-    </message>
-</context>
-<context>
-    <name>KFileDialogEx</name>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-    <message>
-        <source>Default Font</source>
-        <translation>Czcionka domyślna</translation>
-    </message>
-    <message>
-        <source>&amp;Open</source>
-        <translation>&amp;Otwórz</translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation>&amp;Zapisz</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Anuluj</translation>
-    </message>
-    <message>
-        <source>&amp;Encrypt...</source>
-        <translation>&amp;Szyfrowanie...</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Zamknij</translation>
-    </message>
-    <message>
-        <source>Restore</source>
-        <translation>Przywróć</translation>
-    </message>
-    <message>
-        <source>Maximize</source>
-        <translation>Maksymalizuj</translation>
-    </message>
-    <message>
-        <source>Folder Last Visited</source>
-        <translation>Ostatnio odwiedzony folder</translation>
-    </message>
-    <message>
-        <source>Up One Folder</source>
-        <translation>Jeden folder w górę</translation>
-    </message>
-    <message>
-        <source>New Folder</source>
-        <translation>Nowy folder</translation>
-    </message>
-    <message>
-        <source>View Menu</source>
-        <translation>Menu Widok</translation>
-    </message>
-    <message>
-        <source>Local Document</source>
-        <translation>Dokument lokalny</translation>
-    </message>
-    <message>
-        <source>Recent Folder</source>
-        <translation>Ostatnio używany folder</translation>
-    </message>
-    <message>
-        <source>Desktop</source>
-        <translation>Pulpit</translation>
-    </message>
-    <message>
-        <source>My Documents</source>
-        <translation>Moje dokumenty</translation>
-    </message>
-    <message>
-        <source>Computer</source>
-        <translation>Komputer</translation>
-    </message>
-    <message>
-        <source>Network</source>
-        <translation>Sieć</translation>
-    </message>
-    <message>
-        <source>WPS Cloud</source>
-        <translation>WPS Cloud</translation>
-    </message>
-    <message>
-        <source>Personal Space</source>
-        <translation>Przestrzeń osobista</translation>
-    </message>
-    <message>
-        <source>My Group</source>
-        <translation>Moja grupa</translation>
-    </message>
-    <message>
-        <source>Help you resume lost files due to disk corruption or accidental delete</source>
-        <translation>Pomaga przywrócić utracone pliki z powodu uszkodzenia dysku lub przypadkowego usunięcia</translation>
-    </message>
-    <message>
-        <source>Look &amp;In</source>
-        <translation>Szukaj &amp;w</translation>
-    </message>
-    <message>
-        <source>Save to (&amp;I)</source>
-        <translation>Zapisz do (&amp;I)</translation>
-    </message>
-    <message>
-        <source>File &amp;Name</source>
-        <translation>&amp;Nazwa pliku</translation>
-    </message>
-    <message>
-        <source>File &amp;Type</source>
-        <translation>&amp;Typ pliku</translation>
-    </message>
-    <message>
-        <source>E&amp;xtra Large Icons</source>
-        <translation>&amp;Bardzo duże ikony</translation>
-    </message>
-    <message>
-        <source>Big Icons (&amp;R)</source>
-        <translation>Duże ikony (&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Medium Icons</source>
-        <translation>Śre&amp;dnie ikony</translation>
-    </message>
-    <message>
-        <source>Small Ico&amp;ns</source>
-        <translation>Małe iko&amp;ny</translation>
-    </message>
-    <message>
-        <source>&amp;List</source>
-        <translation>&amp;Lista</translation>
-    </message>
-    <message>
-        <source>Tile (&amp;S)</source>
-        <translation>Sąsiadująco (&amp;S)</translation>
-    </message>
-    <message>
-        <source>T&amp;humbnail</source>
-        <translation>Minia&amp;tura</translation>
-    </message>
-    <message>
-        <source>Ico&amp;n</source>
-        <translation>&amp;Ikona</translation>
-    </message>
-    <message>
-        <source>View &amp;Details</source>
-        <translation>Wyświetl s&amp;zczegóły</translation>
-    </message>
-    <message>
-        <source>Kingsoft Disk</source>
-        <translation>Dysk Kingsoft</translation>
-    </message>
-    <message>
-        <source>Invalid file name. Please enter a correct file name.</source>
-        <translation>Nieprawidłowa nazwa pliku. Proszę wprowadź poprawną nazwę pliku.</translation>
-    </message>
-    <message>
-        <source>Save As</source>
-        <translation>Zapisz jako</translation>
-    </message>
-</context>
-<context>
-    <name>KxAutoShapeInputBoxToShapes</name>
-    <message>
-        <source>Horizontal Text Box</source>
-        <translation>Poziome pole tekstowe</translation>
-    </message>
-    <message>
-        <source>Vertical Text Box</source>
-        <translation>Pionowe pole tekstowe</translation>
-    </message>
-</context>
-<context>
-    <name>KxHintWidget</name>
-    <message>
-        <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
-        <translation>%1 Nie możesz odnaleźć pliku? Spróbuj %2 %3 Wzorca do odzyskiwania danych Kingsoft %4</translation>
-    </message>
-</context>
-<context>
-    <name>KxOnlineFontDownloadReminder</name>
-    <message>
-        <source>%1 online fonts downloaded,click to see.</source>
-        <translation>Pobrano %1 czcionek online, kliknij, aby zobaczyć.</translation>
-    </message>
-</context>
-<context>
-    <name>KxOnlineShapesGalleryModel</name>
-    <message>
-        <source>Recommendation</source>
-        <translation>Rekomendacja</translation>
-    </message>
-    <message>
-        <source>More...</source>
-        <translation>Więcej...</translation>
-    </message>
-</context>
-<context>
-    <name>KxShapesGalleryModel</name>
-    <message>
-        <source>Recently Used Shapes</source>
-        <translation>Niedawno używane kształty</translation>
-    </message>
-</context>
-<context>
-    <name>KxTpAutoShapePersonalPanelModel</name>
-    <message>
-        <source>Online Shapes</source>
-        <translation>Kształty online</translation>
-    </message>
-    <message>
-        <source>Recently Used</source>
-        <translation>Ostatnio używane</translation>
-    </message>
-</context>
-<context>
-    <name>KxTpAutoShapesDownloadFailedItem</name>
-    <message>
-        <source>Unable to connect to the server. Please check your network connection.</source>
-        <translatorcomment> </translatorcomment>
-        <translation>Nie można nawiązać połączenia z serwerem. Proszę sprawdź swoje połączenie sieciowe.</translation>
-    </message>
-    <message>
-        <source>Try refresh again</source>
-        <translation>Spróbuj ponowić operację odświeżania</translation>
-    </message>
-</context>
-<context>
-    <name>KxTpAutoShapesDownloadingItem</name>
-    <message>
-        <source>Loading online shapes...</source>
-        <translation>Ładowanie kształtów online...</translation>
     </message>
 </context>
 </TS>

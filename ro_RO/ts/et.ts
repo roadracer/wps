@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Use ODBC data source connection guide(W)</source>
-        <translation>Utilizați ghidul de conectare sursă de date ODBC(W)</translation>
+        <translation type="obsolete">Utilizați ghidul de conectare sursă de date ODBC(W)</translation>
     </message>
     <message>
         <source>&amp;Select Data Source...</source>
@@ -131,6 +131,10 @@
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
         <translation>Puteți alege dintre trei moduri diferite de conectare la sursa de date aleasă.</translation>
+    </message>
+    <message>
+        <source>Use ODBC data source connection guide (&amp;W)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -353,7 +357,11 @@ condiția este adevărată:</translation>
     <name>InsertFunctionLabel</name>
     <message>
         <source>I want to comment function</source>
-        <translation>Doresc să comentez funcția</translation>
+        <translation type="obsolete">Doresc să comentez funcția</translation>
+    </message>
+    <message>
+        <source>Comment function</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -691,7 +699,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Number Filter(F)</source>
-        <translation>Număr filtru(F)</translation>
+        <translation type="obsolete">Număr filtru(F)</translation>
     </message>
     <message>
         <source>Date Filter</source>
@@ -699,7 +707,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Date Filter(F)</source>
-        <translation>Date filtru(F)</translation>
+        <translation type="obsolete">Date filtru(F)</translation>
     </message>
     <message>
         <source>Text Filter</source>
@@ -707,7 +715,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Text Filter(F)</source>
-        <translation>Text filtru(F)</translation>
+        <translation type="obsolete">Text filtru(F)</translation>
     </message>
     <message>
         <source>Not Equal To</source>
@@ -775,7 +783,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Clear(C)</source>
-        <translation>Curăță(C)</translation>
+        <translation type="obsolete">Curăță(C)</translation>
     </message>
     <message>
         <source>Filter by Value</source>
@@ -792,6 +800,42 @@ condiția este adevărată:</translation>
     <message>
         <source>Top 10</source>
         <translation>Primele 10</translation>
+    </message>
+    <message>
+        <source>Number &amp;Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date &amp;Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text &amp;Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Begin With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not End With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Clear</source>
+        <translation type="unfinished">&amp;Curăță</translation>
     </message>
 </context>
 <context>
@@ -925,7 +969,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>You need to have the right to access the database:</source>
-        <translation>Trebuie să aveți permisiuni pentru a accesa baza de date:</translation>
+        <translation type="obsolete">Trebuie să aveți permisiuni pentru a accesa baza de date:</translation>
     </message>
     <message>
         <source>&amp;Username:</source>
@@ -934,6 +978,10 @@ condiția este adevărată:</translation>
     <message>
         <source>&amp;Password:</source>
         <translation>&amp;Parolă:</translation>
+    </message>
+    <message>
+        <source>Valid username and password required to access the database:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1012,6 +1060,45 @@ condiția este adevărată:</translation>
     <message>
         <source>Workbook</source>
         <translation>Registru de lucru</translation>
+    </message>
+</context>
+<context>
+    <name>KxColumnWidthFieldInfo</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">General</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">Text</translation>
+    </message>
+    <message>
+        <source>MDY</source>
+        <translation type="unfinished">LZA</translation>
+    </message>
+    <message>
+        <source>DMY</source>
+        <translation type="unfinished">ZLA</translation>
+    </message>
+    <message>
+        <source>YMD</source>
+        <translation type="unfinished">ALZ</translation>
+    </message>
+    <message>
+        <source>MYD</source>
+        <translation type="unfinished">LAZ</translation>
+    </message>
+    <message>
+        <source>DYM</source>
+        <translation type="unfinished">ZAL</translation>
+    </message>
+    <message>
+        <source>YDM</source>
+        <translation type="unfinished">AZL</translation>
+    </message>
+    <message>
+        <source>Skip</source>
+        <translation type="unfinished">Omite</translation>
     </message>
 </context>
 <context>
@@ -1185,7 +1272,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Highlight-Value</source>
-        <translation>Evidențiat-Valoare</translation>
+        <translation type="obsolete">Evidențiat-Valoare</translation>
     </message>
     <message>
         <source>Equal to</source>
@@ -1201,7 +1288,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Greater than or equal</source>
-        <translation>Mai mare decât sau egal cu</translation>
+        <translation type="obsolete">Mai mare decât sau egal cu</translation>
     </message>
     <message>
         <source>Less than</source>
@@ -1209,7 +1296,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Less than or equal</source>
-        <translation>Mai mic decât sau egal cu</translation>
+        <translation type="obsolete">Mai mic decât sau egal cu</translation>
     </message>
     <message>
         <source>and</source>
@@ -1253,11 +1340,11 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Highlight-Text</source>
-        <translation>Evidențiat-Text</translation>
+        <translation type="obsolete">Evidențiat-Text</translation>
     </message>
     <message>
         <source>Contain</source>
-        <translation>Conține</translation>
+        <translation type="obsolete">Conține</translation>
     </message>
     <message>
         <source>Does not contain</source>
@@ -1265,15 +1352,15 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Begin with</source>
-        <translation>Începe cu</translation>
+        <translation type="obsolete">Începe cu</translation>
     </message>
     <message>
         <source>End with</source>
-        <translation>Se termină cu</translation>
+        <translation type="obsolete">Se termină cu</translation>
     </message>
     <message>
         <source>Highlight-Date</source>
-        <translation>Evidențiat-Dată</translation>
+        <translation type="obsolete">Evidențiat-Dată</translation>
     </message>
     <message>
         <source>A Date Occurring</source>
@@ -1325,7 +1412,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Highlight-Special Value</source>
-        <translation>Evidențiat-Valoare specială</translation>
+        <translation type="obsolete">Evidențiat-Valoare specială</translation>
     </message>
     <message>
         <source>Empty Cell</source>
@@ -1342,6 +1429,42 @@ condiția este adevărată:</translation>
     <message>
         <source>The required range value is insufficient</source>
         <translation>Intervalul de valoare solicitat este insuficient</translation>
+    </message>
+    <message>
+        <source>Highlight - Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater than or equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less than or equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight - Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contains</source>
+        <translation type="unfinished">Conține</translation>
+    </message>
+    <message>
+        <source>Begins with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ends with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight - Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight - Special Value</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1472,7 +1595,7 @@ condiția este adevărată:</translation>
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation>Nu puteți crea un tabel pivot cu aceste date. Verificați dacă datele pe care doriți să le analizați îndeplinesc următoarele condiții:
+        <translation type="obsolete">Nu puteți crea un tabel pivot cu aceste date. Verificați dacă datele pe care doriți să le analizați îndeplinesc următoarele condiții:
 1.Asigurați-vă că referința există. dacă este un nume, trebuie să fie un interval valid;
 2.Asigurați-vă că referința este un singur interval și că trebuie să conțină cel puțin două rânduri;
 3.Asigurați-vă că primul rând al intervalului de referință nu conține nici o celulă goală, erori valoare,iar fiecare celulă nu conține mai mult de 255 caractere.</translation>
@@ -1504,6 +1627,13 @@ condiția este adevărată:</translation>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
         <translation>Tipul conexiunii selectate nu poate fi utilizat pentru crearea unui tabel pivot.</translation>
+    </message>
+    <message>
+        <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyze meet the following conditions:
+1.Make sure that the reference exists. If it is a name, it must be a valid range;
+2.Make sure that the reference is a single range, and it must contain two rows at least;
+3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1630,7 +1760,11 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>An error occurred when deleted.</source>
-        <translation>A intervenit o eroare la ștergere.</translation>
+        <translation type="obsolete">A intervenit o eroare la ștergere.</translation>
+    </message>
+    <message>
+        <source>An error occurred when delete.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2147,11 +2281,11 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>Use another &amp;pivotTable:</source>
-        <translation>Utilizați un alt tabel &amp;pivot:</translation>
+        <translation type="obsolete">Utilizați un alt tabel &amp;pivot:</translation>
     </message>
     <message>
         <source>Choose where you want the pivotTable to be placed</source>
-        <translation>Alegeți unde doriți să fie plasat tabelul pivot</translation>
+        <translation type="obsolete">Alegeți unde doriți să fie plasat tabelul pivot</translation>
     </message>
     <message>
         <source>&amp;New worksheet</source>
@@ -2160,6 +2294,14 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     <message>
         <source>&amp;Existing worksheet:</source>
         <translation>Foi de lucru &amp;existente:</translation>
+    </message>
+    <message>
+        <source>Use another &amp;PivotTable:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose where you want the PivotTable report to be placed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2234,7 +2376,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>headerfooter</source>
-        <translation>antetsubsol</translation>
+        <translation type="obsolete">antetsubsol</translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished">Antet și subsol</translation>
     </message>
 </context>
 <context>
@@ -2402,6 +2548,10 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>Command t&amp;ext:</source>
         <translation>T&amp;ext comandă:</translation>
+    </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished">Listă</translation>
     </message>
 </context>
 <context>
@@ -2705,6 +2855,14 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>Find Pre&amp;vious</source>
         <translation>Găsește ant&amp;eriorul</translation>
+    </message>
+    <message>
+        <source>Ro&amp;w differences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colu&amp;mn differences</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3145,7 +3303,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Custom lists from</source>
-        <translation>Liste personalizate de la</translation>
+        <translation type="obsolete">Liste personalizate de la</translation>
     </message>
     <message>
         <source>&amp;Row</source>
@@ -3154,6 +3312,10 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>&amp;Column</source>
         <translation>&amp;Coloană</translation>
+    </message>
+    <message>
+        <source>Import lists from</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4067,11 +4229,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Privacy</source>
-        <translation>Intimitate</translation>
+        <translation type="obsolete">Intimitate</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>Ajutați-ne să îmbunătățim WPS Office</translation>
+        <translation type="obsolete">Ajutați-ne să îmbunătățim WPS Office</translation>
     </message>
     <message>
         <source>Display the tab bar at the bottom of doc&amp;ument</source>
@@ -4106,20 +4268,80 @@ p, li { white-space: pre-wrap; }
         <translation>Butonul avansat vă permite să alegeți dintre tipuri diferite de criptare.</translation>
     </message>
     <message>
-        <source>SaveAsCreateBackup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Create&amp;Backup</source>
-        <translation>Creează&amp;Backup</translation>
+        <translation type="obsolete">Creează&amp;Backup</translation>
     </message>
     <message>
         <source>RecommendedReadOnlyOption</source>
-        <translation>Opțiune recomandată doar citire</translation>
+        <translation type="obsolete">Opțiune recomandată doar citire</translation>
     </message>
     <message>
         <source>&amp;RecommendedReadOnly</source>
-        <translation>&amp;Recomandat doar citire</translation>
+        <translation type="obsolete">&amp;Recomandat doar citire</translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save As Create Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always create &amp;backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only &amp;recommended Option</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-only &amp;recommended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4530,6 +4752,10 @@ p, li { white-space: pre-wrap; }
         <source>Num&amp;ber Format</source>
         <translation>Format num&amp;ăr</translation>
     </message>
+    <message>
+        <source>&amp;Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPivotTableOptions</name>
@@ -4703,6 +4929,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Entire Wor&amp;kbook</source>
         <translation>Întreg regis&amp;trul de lucru</translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4878,12 +5108,17 @@ prior to sharing the workbook.</source>
     <message>
         <source>%d duplicates are found;
 Only %d unique value can be keep after delete.</source>
-        <translation>%d duplicate au fost găsite;
+        <translation type="obsolete">%d duplicate au fost găsite;
 Numai %d valori unice pot fi păstrate după ștergere.</translation>
     </message>
     <message>
         <source>&amp;Remove Duplicates</source>
         <translation>&amp;Elimină duplicatele</translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found;
+Only %2 unique values will be left after delete.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4932,7 +5167,7 @@ Numai %d valori unice pot fi păstrate după ștergere.</translation>
     </message>
     <message>
         <source>YourChange</source>
-        <translation>Modificările dumneavoastră</translation>
+        <translation type="obsolete">Modificările dumneavoastră</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4952,11 +5187,23 @@ Numai %d valori unice pot fi păstrate după ștergere.</translation>
     </message>
     <message>
         <source>Accept All for Current User</source>
-        <translation>Accept tot pentru utilizatorul curent</translation>
+        <translation type="obsolete">Accept tot pentru utilizatorul curent</translation>
     </message>
     <message>
         <source>Accept All Other Users</source>
-        <translation>Accept toți ceilalți utilizatori</translation>
+        <translation type="obsolete">Accept toți ceilalți utilizatori</translation>
+    </message>
+    <message>
+        <source>Your Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Accept All of Current User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accept All of Other U&amp;sers</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4971,7 +5218,7 @@ Numai %d valori unice pot fi păstrate după ștergere.</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Salvează ca</translation>
+        <translation type="obsolete">Salvează ca</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4979,7 +5226,15 @@ Numai %d valori unice pot fi păstrate după ștergere.</translation>
     </message>
     <message>
         <source>Other users may have committed some changes which cannot be identified by WPS Spreadsheets. Click Continue will save the file and discard the changes, while click Save As will save a copy of the current file.</source>
-        <translation>Alți utilizatori poate au comis unele modificări care nu pot fi identificate de WPS Spreadsheets. Apăsând continuă se va salva fișierul și renunțați la modificări, iar dacă apăsați Salvează ca se va salva o copie a fișierului curent.</translation>
+        <translation type="obsolete">Alți utilizatori poate au comis unele modificări care nu pot fi identificate de WPS Spreadsheets. Apăsând continuă se va salva fișierul și renunțați la modificări, iar dacă apăsați Salvează ca se va salva o copie a fișierului curent.</translation>
+    </message>
+    <message>
+        <source>&amp;Save As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other users may have submmitted some changes which cannot be identified by WPS Spreadsheets. To save the file and discard the changes, click Continue; to save a copy of the current file, click Save As.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5580,7 +5835,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>Data preview: </source>
-        <translation>Previzualizare dată: </translation>
+        <translation type="obsolete">Previzualizare dată: </translation>
     </message>
     <message>
         <source>This screen lets you set field widths (column breaks).</source>
@@ -5671,13 +5926,13 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
         <translation>&amp;Final</translation>
     </message>
     <message>
-        <source>The Text Wizard has determined that your data is Delimited. 
-If this is correct, choose Next, or choose the data type that best describes your data.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>{None}</source>
         <translation>{Nimic}</translation>
+    </message>
+    <message>
+        <source>The Text Wizard has determined that your data is Delimited. 
+If this is correct, choose Next. If not, choose the data type that best describes your data.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5993,7 +6248,11 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>A query with this name already exist on this worksheet.</source>
-        <translation>O interogare cu acest nume deja există pe această foaie de lucru.</translation>
+        <translation type="obsolete">O interogare cu acest nume deja există pe această foaie de lucru.</translation>
+    </message>
+    <message>
+        <source>A query with this name already exists on this worksheet.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6406,7 +6665,7 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>userName</source>
-        <translation>Nume utilizator</translation>
+        <translation type="obsolete">Nume utilizator</translation>
     </message>
     <message>
         <source>Change user...</source>
@@ -6450,7 +6709,7 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>Permission expiration date:</source>
-        <translation>Dată expirare permisiune:</translation>
+        <translation type="obsolete">Dată expirare permisiune:</translation>
     </message>
     <message>
         <source>(N/A)</source>
@@ -6458,7 +6717,19 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>Resquest additional permissions... </source>
-        <translation>Solicită permisiuni suplimentare... </translation>
+        <translation type="obsolete">Solicită permisiuni suplimentare... </translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6520,6 +6791,22 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
         <source>Switch Sheet</source>
         <translation>Comută foaia</translation>
     </message>
+    <message>
+        <source>To Start</source>
+        <translation type="unfinished">La început</translation>
+    </message>
+    <message>
+        <source>To End</source>
+        <translation type="unfinished">La sfârșit</translation>
+    </message>
+    <message>
+        <source>Backward</source>
+        <translation type="unfinished">Înapoi</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished">Înainte</translation>
+    </message>
 </context>
 <context>
     <name>KxEtSmartLabelAutoFill</name>
@@ -6558,6 +6845,21 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     <message>
         <source>Fill &amp;Years</source>
         <translation>Umple &amp;anii</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Custom:</source>
+        <translation type="unfinished">&amp;Personalizat:</translation>
+    </message>
+    <message>
+        <source>&amp;Fit Selection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7104,11 +7406,19 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>Help about this Function</source>
-        <translation>Ajutor despre această funcție</translation>
+        <translation type="obsolete">Ajutor despre această funcție</translation>
     </message>
     <message>
         <source>No futher information.</source>
-        <translation>Fără alte informații.</translation>
+        <translation type="obsolete">Fără alte informații.</translation>
+    </message>
+    <message>
+        <source>&amp;Help about this Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No further information.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7177,7 +7487,7 @@ on iteration #%2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Goal Seeking with Cell %1 still can not find a solution.</source>
+        <source>Goal Seeking with Cell %1 may not have found a solution.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7444,12 +7754,12 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>To enter a reference using the mouse,click in the edit box, and then click the cell in the sheet you want to refer to,or drag through the range you want to select.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>A range with the title  &quot;%1&quot; already exists. Please enter a new title for the range.</source>
         <translation>Un interval cu titlul  &quot;%1&quot; deja există. Introduceți un titlu nou pentru interval.</translation>
+    </message>
+    <message>
+        <source>To enter a reference using the mouse, click in the edit box, and then click the cell in the sheet you want to refer to, or drag through the range you want to select.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7499,7 +7809,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>%1 If you need to edit this file in WPS Spreadsheets, please make sure that others is no longer editing, and transform the file %2 to a shared workbook %3 of WPS Spreadsheets.</source>
-        <translation>%1 Dacă aveți nevoie să editați acest fișier în WPS Spreadsheets, asigutați-vă că numeni nu îl editează, și transformați fișierul %2 într-un registru de lucru partajat %3 al WPS Spreadsheets.</translation>
+        <translation type="obsolete">%1 Dacă aveți nevoie să editați acest fișier în WPS Spreadsheets, asigutați-vă că numeni nu îl editează, și transformați fișierul %2 într-un registru de lucru partajat %3 al WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>%1 If you only need to view content, please select %2 Read-only %3.</source>
@@ -7516,6 +7826,10 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     <message>
         <source>This file is currently being edited by %1 users:</source>
         <translation>Acest fișier este actualmente editat de %1 utilizatori:</translation>
+    </message>
+    <message>
+        <source>%1 If you need to edit this file in WPS Spreadsheets, please make sure that others are no longer editing, and transform the file %2 to a shared workbook %3 of WPS Spreadsheets.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7670,7 +7984,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation>Nu aveți permisiunea să scrieți fișierul de rezervă în &quot;%1&quot;.</translation>
+        <translation type="obsolete">Nu aveți permisiunea să scrieți fișierul de rezervă în &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
@@ -7679,6 +7993,10 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     <message>
         <source>Select Folder:</source>
         <translation>Selectare dosar:</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8143,12 +8461,21 @@ Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un 
     <message>
         <source>%1 duplicates are found;
 Only %2 unique value can be keep after delete.</source>
-        <translation>S-au găsit %1 duplicate;
+        <translation type="obsolete">S-au găsit %1 duplicate;
 Numai %2 valori unice pot fi păstrate după ștergere.</translation>
     </message>
     <message>
         <source>%1 duplicates are found, which have been deleted; Only keep %2 unique value.</source>
-        <translation>S-au găsit %1 duplicate, care au fost șterse; Numai %2 valori unice se păstrează.</translation>
+        <translation type="obsolete">S-au găsit %1 duplicate, care au fost șterse; Numai %2 valori unice se păstrează.</translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found;
+%2 unique values will be left after delete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found and have been deleted, %2 unique values are remained.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8182,8 +8509,8 @@ the cells will be set in orange background.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>When enter duplicate contents in the following range, the
-system will remind checking the correctness of the contents.
+        <source>When duplicate content is entered in the following range, the
+system will remind you to check the correctness of the contents.
 
 (Note: The function only supports single range)</source>
         <translation type="unfinished"></translation>
@@ -8604,12 +8931,20 @@ system will remind checking the correctness of the contents.
         <source>Text Import Wizard - Step %1 of 3</source>
         <translation>Asistent importare text - Pas %1 din 3</translation>
     </message>
+    <message>
+        <source>Preview selected data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data preview:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpEtPivotTable</name>
     <message>
         <source>Drag items to the pivotTable areas</source>
-        <translation>Trageți elemente în zona tabelului pivot</translation>
+        <translation type="obsolete">Trageți elemente în zona tabelului pivot</translation>
     </message>
     <message>
         <source>Drag fields between areas below</source>
@@ -8712,6 +9047,10 @@ system will remind checking the correctness of the contents.
 If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
         <translation>Cel puțin un element trebuie afișat. 
 Dacă nu doriți să arătați câmpul deloc, anulați operația curentă, iar apoi trageți câmpul afară din raport.</translation>
+    </message>
+    <message>
+        <source>Drag fields onto PivotTable area</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9484,11 +9823,7 @@ t</translation>
     </message>
     <message>
         <source>Shrink To fit</source>
-        <translation>Micșorează pentru a se potrivi</translation>
-    </message>
-    <message>
-        <source>Context Reading Order</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Micșorează pentru a se potrivi</translation>
     </message>
     <message>
         <source>Rotated down %1 Degrees</source>
@@ -10024,19 +10359,19 @@ t</translation>
     </message>
     <message>
         <source>To Start</source>
-        <translation>La început</translation>
+        <translation type="obsolete">La început</translation>
     </message>
     <message>
         <source>To End</source>
-        <translation>La sfârșit</translation>
+        <translation type="obsolete">La sfârșit</translation>
     </message>
     <message>
         <source>Backward</source>
-        <translation>Înapoi</translation>
+        <translation type="obsolete">Înapoi</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Înainte</translation>
+        <translation type="obsolete">Înainte</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot complete this task with available resources. Choose less data or close other applications.</source>
@@ -10228,7 +10563,7 @@ t</translation>
     </message>
     <message>
         <source>Switch Sheet</source>
-        <translation>Comută foaia</translation>
+        <translation type="obsolete">Comută foaia</translation>
     </message>
     <message>
         <source>A macro is currently recording. Click to stop recording.</source>
@@ -10236,11 +10571,23 @@ t</translation>
     </message>
     <message>
         <source>No macros is currently recording. Click to begin recording a new macro.</source>
-        <translation>Nici o macrocomandă nu se înregistrează acum. Apăsați pentru a începe înregistrarea unei noi macrocomenzi.</translation>
+        <translation type="obsolete">Nici o macrocomandă nu se înregistrează acum. Apăsați pentru a începe înregistrarea unei noi macrocomenzi.</translation>
     </message>
     <message>
         <source>&amp;Minimum:</source>
         <translation type="obsolete">&amp;Minim:</translation>
+    </message>
+    <message>
+        <source>Shrink to Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Context</source>
+        <translation type="unfinished">Context</translation>
+    </message>
+    <message>
+        <source>No macro is currently recording. Click to begin recording a new macro.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10310,7 +10657,11 @@ t</translation>
     </message>
     <message>
         <source>Please select the target table to be imported from the combo box, all fieldss will be listed in the left list box, select the fields needed to be imported there, the selected fields will be listed in the right list box.</source>
-        <translation>Selectați tabelul țintă pentru a fi importat din caseta derulantă, toate câmpurile vor fi listate în caseta listei din stânga, selectați câmpurile necesare pentru import, câmpurile selectate vor fi listate în caseta listă din dreapta.</translation>
+        <translation type="obsolete">Selectați tabelul țintă pentru a fi importat din caseta derulantă, toate câmpurile vor fi listate în caseta listei din stânga, selectați câmpurile necesare pentru import, câmpurile selectate vor fi listate în caseta listă din dreapta.</translation>
+    </message>
+    <message>
+        <source>Please select the target table to be imported from the combo box. All fields will be listed in the left list box. Select the fields needed to be imported there, and the selected fields will be listed in the right list box.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10450,10 +10801,6 @@ t</translation>
         <translation>&amp;Prin modificarea celulelor variabile:</translation>
     </message>
     <message>
-        <source>S&amp;ubject to the Constraint:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Add</source>
         <translation>&amp;Adaugă</translation>
     </message>
@@ -10496,6 +10843,10 @@ t</translation>
     <message>
         <source>Cl&amp;ose</source>
         <translation>În&amp;chide</translation>
+    </message>
+    <message>
+        <source>S&amp;ubject to the Constraints:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10837,7 +11188,7 @@ t</translation>
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation>Parolă pentru protejarea configurărilor permisiunilor</translation>
+        <translation type="obsolete">Parolă pentru protejarea configurărilor permisiunilor</translation>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
@@ -10858,6 +11209,10 @@ t</translation>
     <message>
         <source>Low-quality printing</source>
         <translation>Tipărire calitate redusă</translation>
+    </message>
+    <message>
+        <source>Password to protect pe&amp;rmission settings</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10905,7 +11260,7 @@ document</translation>
     </message>
     <message>
         <source>Email Buttion</source>
-        <translation>Buton email</translation>
+        <translation type="obsolete">Buton email</translation>
     </message>
     <message>
         <source>E-&amp;mail Address</source>
@@ -10949,6 +11304,10 @@ sau pagină web</translation>
         <source>Re&amp;cently used E-mail addresses:</source>
         <translation>Adresele de email re&amp;cent utilizate:</translation>
     </message>
+    <message>
+        <source>Email Button</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kxUiHyperlinket</name>
@@ -10977,7 +11336,7 @@ sau pagină web</translation>
     </message>
     <message>
         <source>&amp;UnChecked</source>
-        <translation>&amp;Neverificat</translation>
+        <translation type="obsolete">&amp;Neverificat</translation>
     </message>
     <message>
         <source>&amp;Checked</source>
@@ -11017,11 +11376,11 @@ sau pagină web</translation>
     </message>
     <message>
         <source>Step s&amp;ize:</source>
-        <translation>D&amp;imensiune pas:</translation>
+        <translation type="obsolete">D&amp;imensiune pas:</translation>
     </message>
     <message>
         <source>&amp;Page step size:</source>
-        <translation>Dimensiune pas &amp;pagină:</translation>
+        <translation type="obsolete">Dimensiune pas &amp;pagină:</translation>
     </message>
     <message>
         <source>&amp;3-D shading</source>
@@ -11046,6 +11405,18 @@ sau pagină web</translation>
     <message>
         <source>Ma&amp;ximum value:</source>
         <translation>Valoare &amp;Maximă:</translation>
+    </message>
+    <message>
+        <source>&amp;Unchecked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By (&amp;I):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Page change:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11222,7 +11593,7 @@ sau pagină web</translation>
     <message>
         <source>The file you are opening changes the option of Automatic to Manual, which would cause the current file and other files cannot get the correct results in time during the editing process.
 Do you want to change to Manual?</source>
-        <translation>Fișierul pe care l-ați deschis schimbă opțiunea de la automat la manual, ceea ce va afecta fișierul curent și alte fișiere să nu obțină rezultate corecte în timp datorită procesului de editare.Doriți să schimbați la manual?</translation>
+        <translation type="obsolete">Fișierul pe care l-ați deschis schimbă opțiunea de la automat la manual, ceea ce va afecta fișierul curent și alte fișiere să nu obțină rezultate corecte în timp datorită procesului de editare.Doriți să schimbați la manual?</translation>
     </message>
     <message>
         <source>Manual</source>
@@ -11231,6 +11602,11 @@ Do you want to change to Manual?</source>
     <message>
         <source>Automatic(Recommend)</source>
         <translation>Automat(Recomandat)</translation>
+    </message>
+    <message>
+        <source>The file you are opening changes the option of Automatic to Manual, which will prevent the current file and other files from getting the correct results in time during the editing process.
+Do you want to change to Manual?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -221,12 +221,12 @@ Kliknij strzałkę, aby wybrać inne kolory trójwymiarowe.</translation>
     <message id="DescriptionDevelopmentTools.title">
         <source></source>
         <extracomment>DescriptionDevelopmentTools.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="DescriptionDevelopmentTools.content">
         <source></source>
         <extracomment>DescriptionDevelopmentTools.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="CloseOtherWindow.title">
         <source>Close Other Windows</source>
@@ -451,12 +451,12 @@ Kliknij strzałkę, aby wybrać inne kolory trójwymiarowe.</translation>
     <message id="KOSUserLoginCloudTextBtnTip.title">
         <source></source>
         <extracomment>KOSUserLoginCloudTextBtnTip.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="KOSUserLoginCloudTextBtnTip.content">
         <source></source>
         <extracomment>KOSUserLoginCloudTextBtnTip.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="KOSUserLoginCloudTip.title">
         <source>Sign In</source>
@@ -855,57 +855,57 @@ Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translati
     <message id="InsertOnlinePictureFromFile.title">
         <source></source>
         <extracomment>InsertOnlinePictureFromFile.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="InsertOnlinePictureFromFile.content">
         <source></source>
         <extracomment>InsertOnlinePictureFromFile.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="ChangeAutoShape.title">
         <source></source>
         <extracomment>ChangeAutoShape.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="ChangeAutoShape.content">
         <source></source>
         <extracomment>ChangeAutoShape.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="DataRecover.title">
         <source></source>
         <extracomment>DataRecover.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="DataRecover.content">
         <source></source>
         <extracomment>DataRecover.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="ScreenGrab.title">
         <source></source>
         <extracomment>ScreenGrab.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="ScreenGrab.content">
         <source></source>
         <extracomment>ScreenGrab.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="ExportToPDF.title">
         <source></source>
         <extracomment>ExportToPDF.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="ExportToPDF.content">
         <source></source>
         <extracomment>ExportToPDF.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="DocerURLEntranceTip.title">
         <source></source>
         <extracomment>DocerURLEntranceTip.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="DocerURLEntranceTip.content">
         <source></source>
@@ -941,6 +941,14 @@ Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translati
         <source>Open/Close Eye Protection Mode or Night Mode.</source>
         <extracomment>Protect_Eyes_Night.content</extracomment>
         <translation>Umożliwia Otwarcie/Zamknięcie Trybu ochrony oczu lub Trybu nocnego.</translation>
+    </message>
+    <message id="TouchUiMode.title">
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TouchUiMode.content">
+        <source>More space between commands. Optimized for use with touch.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

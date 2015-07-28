@@ -2003,7 +2003,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>Helfen Sie bitte uns dabei, WPS-Office zu verbessern</translation>
+        <translation type="obsolete">Helfen Sie bitte uns dabei, WPS-Office zu verbessern</translation>
     </message>
     <message>
         <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
@@ -2075,6 +2075,18 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2860,6 +2872,10 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <message>
         <source>Enter slide numbers or slide ranges. For example, 1,3,5-12</source>
         <translation>Geben Sie die Foliennummern und/oder den Folienbereich an. Zum Beispiel: 1,3,5-12</translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

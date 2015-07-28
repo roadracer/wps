@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es_MX">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>comment</name>
     <message>
@@ -541,13 +542,13 @@
         <comment>TX_FIELD_ERR_EQ_PARSE</comment>
         <translation type="unfinished">¡Error!</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>WPS Writer encountered an error when trying to update source file.
 Try one or more of the following:
-1、Check whether the source file has been opened or occupied by other programs.
-2、Check whether the source file is protected.
-3、Ensure that the source file is in the appropriate directory.
-4、Ensure that the source file can be supported by WPS.</source>
+1. Check whether the source file has been opened or occupied by other programs.
+2. Check whether the source file is protected.
+3. Make sure that the source file is in the appropriate directory.
+4. Make sure that the source file&apos;s format is supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -1366,12 +1367,12 @@ Do you want to replace it?</source>
         <comment>TxRevision_Chp_FontColor</comment>
         <translation type="unfinished">Color de fuente</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>（Default）</source>
         <comment>TxRevision_Chp_Default</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>（Asian）</source>
         <comment>TxRevision_Chp_Asian</comment>
         <translation type="unfinished"></translation>
@@ -2678,11 +2679,6 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
-        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Recorded %d too much data fields.</source>
         <comment>_TxMailMerge_FieldsTooMuch</comment>
         <translation type="unfinished"></translation>
@@ -2698,8 +2694,26 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer cannot open %s as Data or Header Source, because it is active mail merge main document.</source>
+        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
+        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
         <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot compare these documents because the document contain XML Nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer AaBbCc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <comment>TxUserInfo_DefaultUserName</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2723,7 +2737,7 @@ Do you want to replace it?</source>
     <message>
         <source>The mesurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation type="unfinished">La medida debe estar entre -1584 pto. y 1584 pto.</translation>
+        <translation type="obsolete">La medida debe estar entre -1584 pto. y 1584 pto.</translation>
     </message>
     <message>
         <source>This style name is already in use or reserved for a built-in style.</source>
@@ -2743,7 +2757,7 @@ Do you want to replace it?</source>
     <message>
         <source>The mesurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation type="unfinished">La medida debe estar entre 0.5 y 600.</translation>
+        <translation type="obsolete">La medida debe estar entre 0.5 y 600.</translation>
     </message>
     <message>
         <source>This style has a circulatory Based On styles list.</source>
@@ -2816,6 +2830,16 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <comment>_TxErr_InvalidAnchorPosition</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The measurement must be between -1584 pt and 1584 pt.</source>
+        <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The measurement must be between 0.5 and 600.</source>
+        <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_persist</name>
@@ -2830,14 +2854,9 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation type="unfinished">Plantilla</translation>
     </message>
     <message>
-        <source>Normal.wpt</source>
-        <comment>_TxDocument_NormalTemplate</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>builtin.wpt</source>
         <comment>_TxDocument_BuiltInTemplate</comment>
-        <translation type="unfinished">incorporado.wpt</translation>
+        <translation type="obsolete">incorporado.wpt</translation>
     </message>
     <message>
         <source>templates</source>
@@ -2901,7 +2920,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation type="unfinished">El archivo que ha abierto es de solo-lectura o está bloqueado por otra aplicación.
 (%s)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Errors occur when WPS Writer is opening this file.
 Please try one of the following.
 •Make sure you are permitted to access this file or drive.
@@ -2983,7 +3002,7 @@ Please make sure the file is not locked by another user, or the target disk is n
         <comment>_TxDocument_TitleReadOnly</comment>
         <translation type="unfinished">%s (Solo-lectura)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>%s may contain some features that are not compatible with %s format. Do you want to keep the document in this format?
 
 •If you want to keep this format, click Yes.
@@ -2991,7 +3010,7 @@ Please make sure the file is not locked by another user, or the target disk is n
         <comment>_TxDocument_FormatNotCompatible</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X). Please contact the anti-virus software agent. 
 Do you still want to open this file?
 
@@ -3049,25 +3068,25 @@ Do you want to continue?</source>
         <comment>_TxDocument_FormatNotCompatible_Word97</comment>
         <translation type="unfinished">Este archivo contiene algunos de los siguientes caracteres especiales. Guardarlo en otro formato puede causar su pérdida:</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>
 • Multi-Diagonal cell</source>
         <comment>_TxDocument_FormatNotCompatible_MultiDiagonalCell</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>
 • Genko</source>
         <comment>_TxDocument_FormatNotCompatible_Genko</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>
 • Extended text box properties</source>
         <comment>_TxDocument_FormatNotCompatible_TextBoxEx</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>
 • Extended orientation</source>
         <comment>_TxDocument_FormatNotCompatible_TextOrientationEx</comment>
@@ -3091,7 +3110,7 @@ Type a different name for the document you want to save.
         <comment>_TxDocument_OnSetHostNames</comment>
         <translation type="unfinished">Documento WPS en %s</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The specified file “%s” is not the supported file type, please click OK and then specify a type in the Save As dialogue box.</source>
         <comment>_TxDocument_FormatNotCompatible_OOXML</comment>
         <translation type="unfinished"></translation>
@@ -3101,7 +3120,7 @@ Type a different name for the document you want to save.
         <comment>_TxDocument_PlaceDrawingWarning</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The following features cannot be saved in macro-free workbooks:
  · VB project
 To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
@@ -3110,7 +3129,7 @@ To continue saving as a macro-free workbook, click Yes.
         <comment>_TxDocument_SaveMacroWarning</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>WPS Writer cannot open this file, because the current user does not have enough permission to access.
 Please try one of the following.
 •Switch to another user account.
@@ -3129,8 +3148,13 @@ Please try one of the following.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
-This backup will be saved to(%s)</source>
+        <source>WPSV6-TEXT</source>
+        <comment>_TxFilter_ConfigKey</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -4404,11 +4428,6 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
-        <comment>wps_sVBAMacroSecurityError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Web Page</source>
         <comment>wps_sWebPage</comment>
         <translation type="unfinished"></translation>
@@ -4541,11 +4560,6 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>The %d Drop-down item is not allow to be empty.</source>
         <comment>wps_sValidItem</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This shortcut key already exists. Please set aonther key.</source>
-        <comment>wps_sAppShortcutExisted</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4972,6 +4986,16 @@ Cancel:	Return to the dialog.</source>
         <comment>wps_sValidValue</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed.</source>
+        <comment>wps_sVBAMacroSecurityError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This shortcut key already exists. Please set another key.</source>
+        <comment>wps_sAppShortcutExisted</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpsuil</name>
@@ -5048,11 +5072,6 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Microsoft Works Databases(*.wdb) | *.wdb; |</source>
         <comment>TxDesc_DataSource_wdb</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Outlook Personal Adress Books(*.pab) | *.pab; |</source>
-        <comment>TxDesc_DataSource_pab</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6761,11 +6780,6 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert DocumentField</source>
-        <comment>TxVersion_InsDocumentField</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Light Shading</source>
         <comment>TxTableStyle_LightShading</comment>
         <translation type="unfinished"></translation>
@@ -7255,6 +7269,11 @@ Check</source>
         <comment>TxTableStyle_ColorfulGridAccent6</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
+        <comment>TxDesc_DataSource_pab</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpscore</name>
@@ -7440,7 +7459,7 @@ Do you want to replace it?</source>
         <source>This operation will delete all the elements in the table, do you want to continue?</source>
         <translation type="obsolete">Esta operación eliminará todos los elementos de la tabla, ¿desea continuar?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Some browsers may not be able to display single file Web pages where the path includes those characters &quot;!”, “#”, “%20”, “%23” or “%25”, etc.. Do you want to continue?</source>
         <translation type="obsolete">Algunos navegadores pueden no ser capaces de mostrar archivos individuales de páginas web donde la ruta incluya los caracteres &quot;!”, “#”, “%20”, “%23” or “%25”, etc.. ¿Desea continuar?</translation>
     </message>
@@ -8076,7 +8095,7 @@ Do you want to replace it?</source>
         <translation type="obsolete">El archivo que ha abierto es de solo-lectura o está bloqueado por otra aplicación.
 (%s)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Errors occur when Kingsoft Writer is opening this file.
 Please try one of the following.
 •Make sure you are permitted to access this file or drive.
@@ -8152,7 +8171,7 @@ Por favor, intente alguna de las siguientes opciones:
         <source>%s (Read-Only)</source>
         <translation type="obsolete">%s (Solo-lectura)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>%s may contain some features that are not compatible with %s format. Do you want to keep the document in this format?
 
 •If you want to keep this format, click Yes.
@@ -8162,7 +8181,7 @@ Por favor, intente alguna de las siguientes opciones:
 •Si desea mantener este formato, haga clic en Sí..
 •Si desea conservar estas características, haga clic en No. Luego guarde una copia en el último formato de Kingsoft Writer.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X), Please contact the anti-virus software agent. 
 Do you still want to open this file?
 
@@ -8192,7 +8211,7 @@ Tenga en cuenta que algunos archivos pueden contener virus macro y posiblemente 
         <source>Permission for this file is currently restricted. Only Kingsoft Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
         <translation type="obsolete">El permiso de este archivo está actualmente restringido. Sólo el formato de archivo de Kingsoft Writer puede mantener esta configuración. Si desea guardarlo en el tipo de archivo actual, toda la configuración de permisos se perderá. ¿Desea continuar?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Kingsoft Writer cannot open this file, because the current user doesn&apos;t have enough permission to access.
 Please try one of the following.
 •Switch to another user account.
@@ -8238,7 +8257,7 @@ Escriba un nombre diferente para el archivo que desea guardar.
         <source>WPS document in %s</source>
         <translation type="obsolete">Documento WPS en %s</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The specified file “%s” is not the supported file typle, please click OK and then specify a type in the Save as dialogue.</source>
         <translation type="obsolete">El archivo especificado &quot;%s&quot; no es un tipo de archivo soportado. Por favor, pulse Aceptar y luego especifique un tipo en el diálogo Guardar como.</translation>
     </message>

@@ -120,7 +120,7 @@
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pogrubienie</translation>
     </message>
     <message>
         <source>Don&apos;t Change</source>
@@ -132,7 +132,7 @@
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podkreślenie</translation>
     </message>
     <message>
         <source>Un-underline</source>
@@ -140,7 +140,7 @@
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kursywa</translation>
     </message>
     <message>
         <source>Unitalicize</source>

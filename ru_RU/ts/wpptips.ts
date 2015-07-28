@@ -2200,5 +2200,25 @@ Click the arrow to select a different text color.</source>
         <extracomment>modelessay.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
+    <message id="TextSpeech.title">
+        <source>Read Text</source>
+        <extracomment>TextSpeech.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TextSpeech.content">
+        <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
+        <extracomment>TextSpeech.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TextSpeech2.title">
+        <source>Reading</source>
+        <extracomment>TextSpeech2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TextSpeech2.content">
+        <source>Click here to stop reading.</source>
+        <extracomment>TextSpeech2.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

@@ -515,7 +515,7 @@
     <message>
         <source>http://www.kingsoftstore.com/support/pc-office</source>
         <translatorcomment>办公空间用户反馈链接</translatorcomment>
-        <translation>http://bbs.wps.cn/forum-wpswindows-1.html</translation>
+        <translation type="obsolete">http://bbs.wps.cn/forum-wpswindows-1.html</translation>
     </message>
     <message>
         <source>link</source>

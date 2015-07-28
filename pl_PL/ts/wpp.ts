@@ -1982,7 +1982,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>Pomóż nam ulepszyć WPS Office</translation>
+        <translation type="obsolete">Pomóż nam ulepszyć WPS Office</translation>
     </message>
     <message>
         <source>Preserve &amp;fidelity when sharing this document:</source>
@@ -2018,7 +2018,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Password protect</source>
-        <translation>Chroń hasłem</translation>
+        <translation type="obsolete">Chroń hasłem</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
@@ -2063,6 +2063,18 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <message>
         <source>Feedback</source>
         <translation>Opinia</translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2216,6 +2228,113 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <message>
         <source>Widescreen</source>
         <translation>Panoramiczny</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgParagraph</name>
+    <message>
+        <source>Paragraph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Indents and Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>point, 2, 0, 1584, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>line, 2, 0, 9.99, 0.1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;fter:</source>
+        <translation type="unfinished">P&amp;o:</translation>
+    </message>
+    <message>
+        <source>&amp;At:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Before:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Li&amp;ne spacing:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ali&amp;gnment:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Indentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Befo&amp;re text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Special:</source>
+        <translation>&amp;Specjalne:</translation>
+    </message>
+    <message>
+        <source>B&amp;y:</source>
+        <translation>C&amp;o:</translation>
+    </message>
+    <message>
+        <source>&amp;Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Break</source>
+        <translation type="unfinished">Podział wiersza</translation>
+    </message>
+    <message>
+        <source>&amp;Use Asian rules for controlling first and last characters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
+        <translation type="unfinished">Zezwalaj na &amp;zawijanie tekstu łacińskiego w środku wyrazu</translation>
+    </message>
+    <message>
+        <source>Allow hanging punctuatio&amp;n</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First and last characters</source>
+        <translation type="unfinished">Pierwsze i ostatnie znaki</translation>
+    </message>
+    <message>
+        <source>&amp;Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custo&amp;m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot st&amp;art line:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cann&amp;ot end line:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line-breaking characters currently customized for:</source>
+        <translation type="unfinished">Znaki podziału wierszy są aktualnie dostosowane dla języka:</translation>
     </message>
 </context>
 <context>
@@ -2761,6 +2880,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <message>
         <source>Enter slide numbers or slide ranges. For example, 1,3,5-12</source>
         <translation>Wprowadź numery lub zakresy slajdów. Na przykład: 1,3,5-12</translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3987,10 +4110,68 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
 </context>
 <context>
+    <name>KxWppFormatRangeSaveAsCommand</name>
+    <message>
+        <source>Preparing for Video Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to setup Supporter of Video Export.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line</source>
         <translation>Bez linii</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppNewSlidesGalleryModel</name>
+    <message>
+        <source>Blank Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blank</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover</source>
+        <translation>Okładka</translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation>Wykaz</translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <translation>Tekst podstawowy</translation>
+    </message>
+    <message>
+        <source>Transition</source>
+        <translation>Przejście</translation>
+    </message>
+    <message>
+        <source>Ending</source>
+        <translation>Zakończenie</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4041,6 +4222,52 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <message>
         <source>All slides in current presentation are marked as hidden. Either ensure that the slides are no longer hidden, or choose to print hidden slides.</source>
         <translation>Wszystkie slajdy w bieżącej prezentacji są oznaczane jako ukryte. Albo spraw, aby slajdy przestały być ukryte, albo wybierz drukowanie ukrytych slajdów.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppShowOffscreen</name>
+    <message>
+        <source>An Offscreen Show of this presentation is already running.
+Sure to close?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppSoundBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation>Poziom powiększenia</translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation>&amp;Procent:</translation>
+    </message>
+    <message>
+        <source>&amp;Fit Selection</source>
+        <translation>&amp;Dopasuj do zaznaczenia</translation>
     </message>
 </context>
 <context>
@@ -5212,217 +5439,6 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <message>
         <source>WPS Presentation</source>
         <translation>WPS Presentation</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgParagraph</name>
-    <message>
-        <source>Paragraph</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Indents and Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>point, 2, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>line, 2, 0, 9.99, 0.1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A&amp;fter:</source>
-        <translation type="unfinished">P&amp;o:</translation>
-    </message>
-    <message>
-        <source>&amp;At:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Before:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Li&amp;ne spacing:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ali&amp;gnment:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Indentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Befo&amp;re text:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Special:</source>
-        <translation>&amp;Specjalne:</translation>
-    </message>
-    <message>
-        <source>B&amp;y:</source>
-        <translation>C&amp;o:</translation>
-    </message>
-    <message>
-        <source>&amp;Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line Break</source>
-        <translation type="unfinished">Podział wiersza</translation>
-    </message>
-    <message>
-        <source>&amp;Use Asian rules for controlling first and last characters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
-        <translation type="unfinished">Zezwalaj na &amp;zawijanie tekstu łacińskiego w środku wyrazu</translation>
-    </message>
-    <message>
-        <source>Allow hanging punctuatio&amp;n</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First and last characters</source>
-        <translation type="unfinished">Pierwsze i ostatnie znaki</translation>
-    </message>
-    <message>
-        <source>&amp;Standard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custo&amp;m</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot st&amp;art line:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cann&amp;ot end line:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line-breaking characters currently customized for:</source>
-        <translation type="unfinished">Znaki podziału wierszy są aktualnie dostosowane dla języka:</translation>
-    </message>
-</context>
-<context>
-    <name>KxWppFormatRangeSaveAsCommand</name>
-    <message>
-        <source>Preparing for Video Export</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to setup Supporter of Video Export.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppNewSlidesGalleryModel</name>
-    <message>
-        <source>Blank Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Content Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Title and Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Title Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blank</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cover</source>
-        <translation>Okładka</translation>
-    </message>
-    <message>
-        <source>Catalog</source>
-        <translation>Wykaz</translation>
-    </message>
-    <message>
-        <source>Body</source>
-        <translation>Tekst podstawowy</translation>
-    </message>
-    <message>
-        <source>Transition</source>
-        <translation>Przejście</translation>
-    </message>
-    <message>
-        <source>Ending</source>
-        <translation>Zakończenie</translation>
-    </message>
-    <message>
-        <source>More</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppShowOffscreen</name>
-    <message>
-        <source>An Offscreen Show of this presentation is already running.
-Sure to close?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppSoundBarWidget</name>
-    <message>
-        <source>Move forward 0.25 seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Move back 0.25 seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play/Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Volume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppStatusZoomOptionGalleryModel</name>
-    <message>
-        <source>Zoom Level</source>
-        <translation>Poziom powiększenia</translation>
-    </message>
-    <message>
-        <source>P&amp;ercent:</source>
-        <translation>&amp;Procent:</translation>
-    </message>
-    <message>
-        <source>&amp;Fit Selection</source>
-        <translation>&amp;Dopasuj do zaznaczenia</translation>
     </message>
 </context>
 </TS>

@@ -257,7 +257,11 @@
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="obsolete">OK</translation>
+    </message>
+    <message>
+        <source>LEARN MORE</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -540,6 +544,26 @@
     <message>
         <source>Please check your network connection and try again.</source>
         <translation>Sprawdź połączenie z siecią i spróbuj ponownie później.</translation>
+    </message>
+    <message>
+        <source>Activated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activation code expires on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>yyyy-mm-dd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;u&gt;Use other activation codes&lt;/u&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use other activation codes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

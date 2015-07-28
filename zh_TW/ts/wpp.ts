@@ -2410,7 +2410,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>幫助我們改進產品。</translation>
+        <translation type="obsolete">幫助我們改進產品。</translation>
     </message>
     <message>
         <source>  You can use a higher level of encryption for your document by choosing a password below, this will encrypt the document using the credentials you entered into the password box.</source>
@@ -2566,6 +2566,18 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3536,6 +3548,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Pure Black and White</source>
         <translation type="obsolete">純粹黑白</translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -321,7 +321,7 @@ Kliknij strzałkę, aby wybrać inne style punktorów.</translation>
     <message id="DetailedSettings_DrawingTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_DrawingTools.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ustawienia</translation>
     </message>
     <message id="DetailedSettings_DrawingTools.content">
         <source>Change the settings of shape formatting.</source>
@@ -331,7 +331,7 @@ Kliknij strzałkę, aby wybrać inne style punktorów.</translation>
     <message id="DetailedSettings_Home.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Home.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ustawienia</translation>
     </message>
     <message id="DetailedSettings_Home.content">
         <source>Change the settings of font.</source>
@@ -341,7 +341,7 @@ Kliknij strzałkę, aby wybrać inne style punktorów.</translation>
     <message id="DetailedSettings_PictureTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_PictureTools.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ustawienia</translation>
     </message>
     <message id="DetailedSettings_PictureTools.content">
         <source>Change the settings of picture formatting.</source>
@@ -569,32 +569,32 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="FormatAlignCenter.title">
         <source>Center</source>
         <extracomment>FormatAlignCenter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyśrodkuj</translation>
     </message>
     <message id="FormatAlignCenter.content">
         <source>Center text.</source>
         <extracomment>FormatAlignCenter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Umożliwia wyśrodkowywanie tekstu.</translation>
     </message>
     <message id="FormatAlignLeft.title">
         <source>Align Text Left</source>
         <extracomment>FormatAlignLeft.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj tekst do lewej</translation>
     </message>
     <message id="FormatAlignLeft.content">
         <source>Align text to the left.</source>
         <extracomment>FormatAlignLeft.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Umożliwia wyrównanie tekstu do lewej.</translation>
     </message>
     <message id="FormatAlignRight.title">
         <source>Align Text Right</source>
         <extracomment>FormatAlignRight.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj tekst do prawej</translation>
     </message>
     <message id="FormatAlignRight.content">
         <source>Align text to the right.</source>
         <extracomment>FormatAlignRight.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Umożliwia wyrównanie tekstu do prawej.</translation>
     </message>
     <message id="FormatObject.title">
         <source>Format Object</source>
@@ -1075,7 +1075,7 @@ Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     <message id="Paragraph1.title">
         <source>Alignment</source>
         <extracomment>Paragraph1.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównanie</translation>
     </message>
     <message id="Paragraph1.content">
         <source>Click the arrow to select a different alignment.</source>
@@ -1095,7 +1095,7 @@ Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     <message id="Paste.title">
         <source>Paste</source>
         <extracomment>Paste.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wklej</translation>
     </message>
     <message id="Paste.content">
         <source>Paste the contents of the Clipboard.</source>
@@ -1373,7 +1373,7 @@ Czas wyświetlania każdego slajdu jest rejestrowany. Można zapisać te chronom
     <message id="RunMacro.title">
         <source>View Macros</source>
         <extracomment>RunMacro.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyświetl makra</translation>
     </message>
     <message id="RunMacro.content">
         <source>Show the Macros dialog box. View the list of macros, from which you can run, create, or delete a macro.</source>
@@ -1453,7 +1453,7 @@ Czas wyświetlania każdego slajdu jest rejestrowany. Można zapisać te chronom
     <message id="ShapeFill.title">
         <source>Shape Fill</source>
         <extracomment>ShapeFill.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wypełnienie kształtu</translation>
     </message>
     <message id="ShapeFill.content">
         <source>Fill the selected shape with a solid color, gradient, picture, or texture.
@@ -1477,7 +1477,7 @@ Kliknij strzałkę, aby wybrać inne efekty wypełnienia.</translation>
     <message id="ShapeLine.title">
         <source>Shape Outline</source>
         <extracomment>ShapeLine.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontur kształtu</translation>
     </message>
     <message id="ShapeLine.content">
         <source>Set the color, width and line style for the outline of the selected object.
@@ -1835,7 +1835,7 @@ Jeśli chcesz robić notatki bez wychodzenia z pokazu slajdów, kliknij prawym p
     <message id="TextFontColor.title">
         <source>Text Color</source>
         <extracomment>TextFontColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kolor tekstu</translation>
     </message>
     <message id="TextFontColor.content">
         <source>Set the text color.
@@ -2039,7 +2039,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="Zoom.title">
         <source>Zoom</source>
         <extracomment>Zoom.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Powiększenie</translation>
     </message>
     <message id="Zoom.content">
         <source>Show the Zoom dialog box to specify the zoom level of the document.</source>
@@ -2069,7 +2069,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="sp_Macros.title">
         <source>View Macros</source>
         <extracomment>sp_Macros.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyświetl makra</translation>
     </message>
     <message id="sp_Macros.content">
         <source>Show Macros dialog box. View the list of macros, from which you can run, create, or delete a macro.</source>
@@ -2099,22 +2099,22 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="SlideLibrary.title">
         <source></source>
         <extracomment>SlideLibrary.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="SlideLibrary.content">
         <source></source>
         <extracomment>SlideLibrary.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="InsertOnlinePicture.title">
         <source></source>
         <extracomment>InsertOnlinePicture.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="InsertOnlinePicture.content">
         <source></source>
         <extracomment>InsertOnlinePicture.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="cellphoneControl.title">
         <source>Cellphone Control</source>
@@ -2129,57 +2129,57 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="SlideSize.title">
         <source></source>
         <extracomment>SlideSize.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="SlideSize.content">
         <source></source>
         <extracomment>SlideSize.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="WpsAssistOnlineTemplate.title">
         <source></source>
         <extracomment>WpsAssistOnlineTemplate.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="WpsAssistOnlineTemplate.content">
         <source></source>
         <extracomment>WpsAssistOnlineTemplate.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="WpsAssistMagic.title">
         <source></source>
         <extracomment>WpsAssistMagic.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="WpsAssistMagic.content">
         <source></source>
         <extracomment>WpsAssistMagic.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="importtemplates.title">
         <source></source>
         <extracomment>importtemplates.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="importtemplates.content">
         <source></source>
         <extracomment>importtemplates.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="InvolvedTemplate.title">
         <source></source>
         <extracomment>InvolvedTemplate.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="InvolvedTemplate.content">
         <source></source>
         <extracomment>InvolvedTemplate.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="wpp2doc.title">
         <source></source>
         <extracomment>wpp2doc.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
     </message>
     <message id="wpp2doc.content">
         <source></source>
@@ -2225,6 +2225,26 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
         <source>Choose among a resourceful model essay reservoir.</source>
         <extracomment>modelessay.content</extracomment>
         <translation>Umożliwia wybranie spośród źródła zasobów modelu eseju.</translation>
+    </message>
+    <message id="TextSpeech.title">
+        <source>Read Text</source>
+        <extracomment>TextSpeech.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TextSpeech.content">
+        <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
+        <extracomment>TextSpeech.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TextSpeech2.title">
+        <source>Reading</source>
+        <extracomment>TextSpeech2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TextSpeech2.content">
+        <source>Click here to stop reading.</source>
+        <extracomment>TextSpeech2.content</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

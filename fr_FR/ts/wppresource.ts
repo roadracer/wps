@@ -3354,8 +3354,12 @@ On</source>
         <translation type="unfinished">Nouveau d&apos;après un modèle en ligne</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>Nouveau d&apos;après d&apos;autres modèles...</translation>
+        <translation type="obsolete">Nouveau d&apos;après d&apos;autres modèles...</translation>
     </message>
     <message>
         <source>Open</source>
@@ -5712,6 +5716,10 @@ d&apos;impression</translation>
         <translation>Conversion chinoise</translation>
     </message>
     <message>
+        <source>Conversion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Convert to Simplified Chinese</source>
         <translation type="unfinished">Convertir en chinois simplifié</translation>
     </message>
@@ -7955,6 +7963,10 @@ WordArt</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Translate to Document</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7989,6 +8001,26 @@ des utilisateur</translation>
     <name>ongmani.proxycommands</name>
     <message>
         <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Slide Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10399,8 +10431,12 @@ Template</source>
         <translation type="unfinished">Nouveau d&apos;après un modèle en ligne</translation>
     </message>
     <message>
+        <source>New from Other Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New from Other Templates...</source>
-        <translation>Nouveau d&apos;après d&apos;autres modèles...</translation>
+        <translation type="obsolete">Nouveau d&apos;après d&apos;autres modèles...</translation>
     </message>
     <message>
         <source>Open</source>
@@ -13720,6 +13756,10 @@ d&apos;ombre</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Translate to Document</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13749,6 +13789,26 @@ des utilisateurs</translation>
     <name>rainbow.proxycommands</name>
     <message>
         <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Slide Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13827,7 +13887,7 @@ des utilisateurs</translation>
         <translation>Déconnexion</translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
+        <source>Slide Library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14677,6 +14737,10 @@ diapositive actuelle</translation>
         <translation>Minisite</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Office Space</source>
         <translation type="obsolete">Bureaux</translation>
     </message>
@@ -14771,6 +14835,10 @@ diapositive actuelle</translation>
     <message>
         <source>Table Tools</source>
         <translation>Outils de tableau</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Sign In</source>
@@ -14932,6 +15000,10 @@ diapositive actuelle</translation>
     <message>
         <source>New from Other Templates</source>
         <translation type="obsolete">Nouveau d&apos;après d&apos;autres modèles</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Tab Page</source>

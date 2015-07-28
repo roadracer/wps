@@ -235,10 +235,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>http://www.kingsoftstore.com/support/pc-office</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>link</source>
         <translation type="unfinished"></translation>
     </message>
