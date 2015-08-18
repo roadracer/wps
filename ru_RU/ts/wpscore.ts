@@ -571,12 +571,22 @@ Try one or more of the following:
 3、Ensure that the source file is in the appropriate directory.
 4、Ensure that the source file can be supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation>Ошибка при попытке обновления исходного файла. 
+        <translation type="obsolete">Ошибка при попытке обновления исходного файла. 
 Попробуйте одно из следующих действий:
 1. проверьте был ли уже открыт исходный файл или открыт другой программой;
 2. проверьте защищен ли исходный файл;
 3. убедитесь, что исходный файл находится в соответствующем каталоге.
 4. проверьте поддерживается ли исходный файл в WPS.</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1. Check whether the source file has been opened or occupied by other programs.
+2. Check whether the source file is protected.
+3. Make sure that the source file is in the appropriate directory.
+4. Make sure that the source file&apos;s format is supported by WPS.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2712,7 +2722,7 @@ Do you want to replace it?</source>
     <message>
         <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
         <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation>Слияние в новый документ не было выполнено, поскольку все записи данных были пусты или ни одна запись данных не соответствовала условиям отбора.</translation>
+        <translation type="obsolete">Слияние в новый документ не было выполнено, поскольку все записи данных были пусты или ни одна запись данных не соответствовала условиям отбора.</translation>
     </message>
     <message>
         <source>Recorded %d too much data fields.</source>
@@ -2732,7 +2742,21 @@ Do you want to replace it?</source>
     <message>
         <source>WPS Writer cannot open %s as Data or Header Source, because it is active mail merge main document.</source>
         <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
-        <translation>Не удается открыть %s как источник данных или заголовка, поскольку он является активным основным документом слияния.</translation>
+        <translation type="obsolete">Не удается открыть %s как источник данных или заголовка, поскольку он является активным основным документом слияния.</translation>
+    </message>
+    <message>
+        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
+        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
+        <translation type="unfinished">WPS Writer не может объединить основной документ с источником данных, так как дата отстутствует или не соответствует запросу.</translation>
+    </message>
+    <message>
+        <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
+        <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot compare these documents because the document contain XML Nodes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2755,7 +2779,7 @@ Do you want to replace it?</source>
     <message>
         <source>The mesurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation>Диапазон измерения должен быть между -1584 пт и 1584 пт.</translation>
+        <translation type="obsolete">Диапазон измерения должен быть между -1584 пт и 1584 пт.</translation>
     </message>
     <message>
         <source>This style name is already in use or reserved for a built-in style.</source>
@@ -2775,7 +2799,7 @@ Do you want to replace it?</source>
     <message>
         <source>The mesurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation>Диапазон измерения должен быть между 0,5 и 600.</translation>
+        <translation type="obsolete">Диапазон измерения должен быть между 0,5 и 600.</translation>
     </message>
     <message>
         <source>This style has a circulatory Based On styles list.</source>
@@ -2847,6 +2871,16 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <source>You cannot put drawing objects into a text box, callout, comment, footnote, or endnote.</source>
         <comment>_TxErr_InvalidAnchorPosition</comment>
         <translation>Нельзя поместить графический объект в надпись, выноску, примечание, сноску или концевую сноску.</translation>
+    </message>
+    <message>
+        <source>The measurement must be between -1584 pt and 1584 pt.</source>
+        <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The measurement must be between 0.5 and 600.</source>
+        <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3213,9 +3247,15 @@ Please try one of the following.
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
-        <translation>Ошибки резервного копирования! Возможно, потому, что нет разрешения на запись для выбранного каталога резервного копирования. Попробуйте изменить каталог для резервного копирования.
+        <translation type="obsolete">Ошибки резервного копирования! Возможно, потому, что нет разрешения на запись для выбранного каталога резервного копирования. Попробуйте изменить каталог для резервного копирования.
 
 Резервная копия будет сохранена в (%s)</translation>
+    </message>
+    <message>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
+        <comment>_TxDocument_MsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4490,7 +4530,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
         <comment>wps_sVBAMacroSecurityError</comment>
-        <translation>Ошибка Kingsoft Writer во время настройки безопасности макросов. Возможная причина - не установлена среда VBA.</translation>
+        <translation type="obsolete">Ошибка Kingsoft Writer во время настройки безопасности макросов. Возможная причина - не установлена среда VBA.</translation>
     </message>
     <message>
         <source>Web Page</source>
@@ -4635,7 +4675,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>This shortcut key already exists. Please set aonther key.</source>
         <comment>wps_sAppShortcutExisted</comment>
-        <translation>Это сочетание клавиш уже присвоено, пожалуйста, выберите другое.</translation>
+        <translation type="obsolete">Это сочетание клавиш уже присвоено, пожалуйста, выберите другое.</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
@@ -5075,6 +5115,16 @@ Cancel:	Return to the dialog.</source>
         <comment>wps_sFinishHighlightAllNotFound</comment>
         <translation>Поиск &quot;%s&quot; завершен, искомые элементы не были найдены.</translation>
     </message>
+    <message>
+        <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed.</source>
+        <comment>wps_sVBAMacroSecurityError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This shortcut key already exists. Please set another key.</source>
+        <comment>wps_sAppShortcutExisted</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpsuil</name>
@@ -5171,7 +5221,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Outlook Personal Adress Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
-        <translation>Личные адресные книги Outlook (*.pab) | *.pab; |</translation>
+        <translation type="obsolete">Личные адресные книги Outlook (*.pab) | *.pab; |</translation>
     </message>
     <message>
         <source>Lotus 1-2-3 Files(*.wk?; *.wj?) | *.wk?; *.wj?; |</source>
@@ -7380,6 +7430,11 @@ Check</source>
         <source>Insert DocumentField</source>
         <comment>TxVersion_InsDocumentField</comment>
         <translation>Вставить поле документа</translation>
+    </message>
+    <message>
+        <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
+        <comment>TxDesc_DataSource_pab</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

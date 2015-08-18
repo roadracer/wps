@@ -53,6 +53,10 @@
         <translation>Smer</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Neskončno</translation>
     </message>
@@ -87,10 +91,6 @@
     <message>
         <source>Plastic</source>
         <translation>Plastika</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -485,10 +485,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>Črtkan slog</translation>
     </message>
@@ -535,6 +531,10 @@
     <message>
         <source>Equal Width</source>
         <translation>Enako širini</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -614,6 +614,10 @@
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -813,10 +817,6 @@
         <translation type="obsolete">Premik</translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solid</source>
         <translation>Polno</translation>
     </message>
@@ -910,6 +910,10 @@
         <translation>Porazdeljeno</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Font</source>
         <translation>Pisava</translation>
     </message>
@@ -948,10 +952,6 @@
     <message>
         <source>Slide Layout</source>
         <translation>Postavitev diapozitiva</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -1301,6 +1301,10 @@
 <context>
     <name>classics.shadow_settings</name>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Shadow Colors</source>
         <translation>Več barv senc </translation>
     </message>
@@ -1347,10 +1351,6 @@
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">Premakni senco gor</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1582,6 +1582,10 @@ Matrica</translation>
         <translation>Enakomerno porazdeli vrstice</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fill Color</source>
         <translation>Barva polnila</translation>
     </message>
@@ -1632,10 +1636,6 @@ Matrica</translation>
     <message>
         <source>Select Table</source>
         <translation>Izberi tabelo</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -1961,7 +1961,7 @@ Effects</source>
         <translation>Ozadje</translation>
     </message>
     <message>
-        <source>Batch Set Font</source>
+        <source>Bulk Font Setting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2437,10 +2437,6 @@ vklop</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>Črtkan slog</translation>
     </message>
@@ -2605,6 +2601,10 @@ vklop</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
         <translation type="obsolete">Dolga črtica-pika</translation>
     </message>
@@ -2749,7 +2749,7 @@ vklop</translation>
         <translation>Razdruži</translation>
     </message>
     <message>
-        <source>Unholding Fixed</source>
+        <source>Upholding Fixed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3306,7 +3306,7 @@ Effects</source>
         <translation>Oznake</translation>
     </message>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3343,10 +3343,6 @@ Effects</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3529,15 +3525,15 @@ Slide</source>
         <translation>Povečaj razmik</translation>
     </message>
     <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Vstavi sliko</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3570,6 +3566,10 @@ Slide</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3871,10 +3871,6 @@ Effects</source>
         <translation type="obsolete">Nastavitve dejanja</translation>
     </message>
     <message>
-        <source>Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Background
 Music</source>
         <translation type="unfinished"></translation>
@@ -3882,6 +3878,10 @@ Music</source>
     <message>
         <source>Chart</source>
         <translation>Grafikon</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -3937,11 +3937,11 @@ Footer</source>
         <translation>Slika</translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
+        <source>Insert Chart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Chart</source>
+        <source>Insert Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4031,12 +4031,12 @@ Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Number</source>
-        <translation type="obsolete">Številka diapozitiva</translation>
+        <source>Slide Library</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
-        <translation type="unfinished"></translation>
+        <source>Slide Number</source>
+        <translation type="obsolete">Številka diapozitiva</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -4078,40 +4078,76 @@ Number</source>
 <context>
     <name>ongmani.ct_orgchart</name>
     <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>0.25 pt.</source>
-        <translation>0.25 pik.</translation>
+        <translation type="obsolete">0.25 pik.</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation>0.5 pik.</translation>
+        <translation type="obsolete">0.5 pik.</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation>0.75 pik.</translation>
+        <translation type="obsolete">0.75 pik.</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation>1 pika.</translation>
+        <translation type="obsolete">1 pika.</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation>1.5 pik.</translation>
+        <translation type="obsolete">1.5 pik.</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation>2.25 pik.</translation>
+        <translation type="obsolete">2.25 pik.</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation>3 pike.</translation>
+        <translation type="obsolete">3 pike.</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation>4.5 pik.</translation>
+        <translation type="obsolete">4.5 pik.</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation>6 pik.</translation>
+        <translation type="obsolete">6 pik.</translation>
     </message>
     <message>
         <source>Adjust Structure</source>
@@ -4178,10 +4214,6 @@ Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>Črtkan slog</translation>
     </message>
@@ -4206,15 +4238,7 @@ Number</source>
         <translation>Postavitev</translation>
     </message>
     <message>
-        <source>Line Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line Sytle Palette</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4223,6 +4247,10 @@ Number</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4256,6 +4284,10 @@ Number</source>
     <message>
         <source>Pattern</source>
         <translation>Vzorec</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -4344,10 +4376,6 @@ Number</source>
         <translation>Prilagajanje besedila</translation>
     </message>
     <message>
-        <source>FitText Tip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Left Hanging</source>
         <translation>Viseče na levi</translation>
     </message>
@@ -4362,6 +4390,10 @@ Number</source>
     <message>
         <source>Reset Shape</source>
         <translation>Ponastavi obliko</translation>
+    </message>
+    <message>
+        <source>Resize shape to fit text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Right Hanging</source>
@@ -4451,10 +4483,6 @@ Number</source>
         <translation>Razporedi</translation>
     </message>
     <message>
-        <source>Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Automatic</source>
         <translation>Samodejno</translation>
     </message>
@@ -4474,6 +4502,10 @@ Picture</source>
     <message>
         <source>Change Picture</source>
         <translation type="obsolete">Zamenjaj sliko</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Color</source>
@@ -4498,10 +4530,6 @@ Pictures</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4539,6 +4567,10 @@ Pictures</source>
     <message>
         <source>Equal Width</source>
         <translation>Enako širini</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill</source>
@@ -4593,16 +4625,16 @@ Pictures</source>
         <translation>Vstavljanje</translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <translation>Vstavi sliko</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -4618,6 +4650,10 @@ Pictures</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4802,10 +4838,6 @@ On/Off</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">Pomakni senco gor</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Solid</source>
@@ -5010,6 +5042,10 @@ Order</source>
         <translation>Pretvorba v kitajščino</translation>
     </message>
     <message>
+        <source>Conversion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Convert to Simplified Chinese</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5189,6 +5225,10 @@ Effects</source>
         <translation>Smer</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Neskončno</translation>
     </message>
@@ -5307,10 +5347,6 @@ Effects</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">Premakni senco gor</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -5539,7 +5575,7 @@ Master</source>
 <context>
     <name>ongmani.ct_slideshow</name>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6172,6 +6208,10 @@ On/Off</source>
         <translation>Smer</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Neskončno</translation>
     </message>
@@ -6285,10 +6325,6 @@ Effects</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">Premakni senco gor</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -6497,10 +6533,6 @@ Spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>Črtkan slog</translation>
     </message>
@@ -6654,6 +6686,10 @@ Spacing</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6894,11 +6930,11 @@ Shape</source>
         <translation type="obsolete">Samodejna različica</translation>
     </message>
     <message>
-        <source>Batch Set Font</source>
+        <source>Bulk Font Setting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7018,7 +7054,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
+        <source>Slide Library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7073,39 +7109,39 @@ Shape</source>
         <translation type="obsolete">0 več zgodovine</translation>
     </message>
     <message>
-        <source>0.25 pt.</source>
+        <source>0.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.5 pt.</source>
+        <source>0.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.75 pt.</source>
+        <source>0.75 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1 pt.</source>
+        <source>1 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1.5 pt.</source>
+        <source>1.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>2.25 pt.</source>
+        <source>2.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3 pt.</source>
+        <source>3 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>4.5 pt.</source>
+        <source>4.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>6 pt.</source>
+        <source>6 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7242,10 +7278,6 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Auto Point</source>
         <translation type="obsolete">Samodejna točka</translation>
     </message>
@@ -7371,6 +7403,10 @@ Add-Ins</source>
         <translation>Pretvorba kitajščine</translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clipboard</source>
         <translation>Odložišče</translation>
     </message>
@@ -7467,15 +7503,11 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7679,6 +7711,10 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation type="obsolete">Povratna informacija</translation>
     </message>
@@ -7707,11 +7743,11 @@ Add-Ins</source>
         <translation>Blisk</translation>
     </message>
     <message>
-        <source>Flip Horizontally</source>
+        <source>Flip Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flip Vertically</source>
+        <source>Flip Vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7751,7 +7787,7 @@ Add-Ins</source>
         <translation>Pojdi na diapozitiv</translation>
     </message>
     <message>
-        <source>Gradiant</source>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7827,7 +7863,7 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
+        <source>Insert Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7931,15 +7967,11 @@ Add-Ins</source>
         <translation>Prelom vrstice</translation>
     </message>
     <message>
-        <source>Line Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Line Spacing</source>
         <translation>Razmik vrstic</translation>
     </message>
     <message>
-        <source>Line Sytle Palette</source>
+        <source>Line Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7947,7 +7979,11 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8037,12 +8073,12 @@ Master</source>
 Matrica</translation>
     </message>
     <message>
-        <source>New Slide From Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>New Slide Master</source>
         <translation>Nov diapozitiv Matrica</translation>
+    </message>
+    <message>
+        <source>New Slide Online</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Title Master</source>
@@ -8146,6 +8182,10 @@ Matrica</translation>
     </message>
     <message>
         <source>Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8436,10 +8476,6 @@ diaprojekcije</translation>
     <message>
         <source>Smooth Point</source>
         <translation>Gladka točka</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Solid</source>
@@ -8849,7 +8885,7 @@ diaprojekcije</translation>
         <translation>Ozadje</translation>
     </message>
     <message>
-        <source>Batch Set Font</source>
+        <source>Bulk Font Setting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9199,10 +9235,6 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>Črtkan slog</translation>
     </message>
@@ -9288,6 +9320,10 @@ AddIns</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9912,7 +9948,7 @@ AddIns</source>
         <translation>Oznake</translation>
     </message>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9949,10 +9985,6 @@ AddIns</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10121,15 +10153,15 @@ Slide</source>
         <translation>Povečaj razmik</translation>
     </message>
     <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Vstavi sliko</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10158,6 +10190,10 @@ Slide</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10470,16 +10506,16 @@ Slide</source>
         <translation type="obsolete">Nastavitve dejanja</translation>
     </message>
     <message>
-        <source>Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Background Music</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chart</source>
         <translation>Grafikon</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -10530,10 +10566,6 @@ Slide</source>
         <translation>Slike</translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">Vstavi izrezek</translation>
     </message>
@@ -10542,8 +10574,16 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Hyperlink</source>
         <translation>Vstavi hiperpovezavo</translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Organization Chart</source>
@@ -10564,10 +10604,6 @@ Slide</source>
     <message>
         <source>Insert WordArt</source>
         <translation>Vstavi WordArt</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Links</source>
@@ -10618,12 +10654,12 @@ Slide</source>
         <translation>Oblike</translation>
     </message>
     <message>
-        <source>Slide Number</source>
-        <translation>Številka diapozitiva</translation>
+        <source>Slide Library</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
-        <translation type="unfinished"></translation>
+        <source>Slide Number</source>
+        <translation>Številka diapozitiva</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -10801,10 +10837,6 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>Črtkan slog</translation>
     </message>
@@ -10829,15 +10861,7 @@ Slide</source>
         <translation>Postavitev</translation>
     </message>
     <message>
-        <source>Line Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line Sytle Palette</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10846,6 +10870,10 @@ Slide</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10879,6 +10907,10 @@ Slide</source>
     <message>
         <source>Pattern</source>
         <translation>Vzorec</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -11076,10 +11108,6 @@ Subordinate</source>
         <translation>Razporedi</translation>
     </message>
     <message>
-        <source>Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Automatic</source>
         <translation>Samodejno</translation>
     </message>
@@ -11100,6 +11128,10 @@ Subordinate</source>
         <translation>Spremeni sliko</translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Color</source>
         <translation>Barva</translation>
     </message>
@@ -11117,10 +11149,6 @@ Subordinate</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11212,7 +11240,7 @@ Subordinate</source>
         <translation>Vstavljanje</translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
+        <source>Insert Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11237,6 +11265,10 @@ Subordinate</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11721,6 +11753,10 @@ Subordinate</source>
         <translation>Smer</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Neskončno</translation>
     </message>
@@ -11825,10 +11861,6 @@ Subordinate</source>
         <translation type="obsolete">Premakni senco gor</translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Surface</source>
         <translation>Površina</translation>
     </message>
@@ -11897,7 +11929,7 @@ Matrica</translation>
 <context>
     <name>rainbow.ct_slideshow</name>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12337,6 +12369,10 @@ Effects</source>
         <translation>Smer</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Neskončno</translation>
     </message>
@@ -12445,10 +12481,6 @@ Effects</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">Premakni senco gor</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -12634,10 +12666,6 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>Črtkan slog</translation>
     </message>
@@ -12787,6 +12815,10 @@ Effects</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13001,11 +13033,11 @@ Effects</source>
         <translation type="obsolete">Samodejna različica</translation>
     </message>
     <message>
-        <source>Batch Set Font</source>
+        <source>Bulk Font Setting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13125,7 +13157,7 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
+        <source>Slide Library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15854,7 +15886,7 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
+        <source>Slide Library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15924,10 +15956,6 @@ Click the arrow to choose more outline styles.</source>
         <translation>Menijska vrstica</translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Picture</source>
         <translation>Slika</translation>
     </message>
@@ -15950,6 +15978,10 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>Slide Sorter</source>
         <translation>Razvrstilnik diapozitivov</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Standard</source>
@@ -16042,6 +16074,10 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Change Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ChangeAutoShape</source>
         <translation type="obsolete">Zamenjaj samooblike</translation>
     </message>
@@ -16098,7 +16134,7 @@ Click the arrow to choose more outline styles.</source>
         <translation>Kopiraj</translation>
     </message>
     <message>
-        <source>Creat Cloud Link</source>
+        <source>Create Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16256,6 +16292,10 @@ Slide</source>
         <translation>Makri</translation>
     </message>
     <message>
+        <source>Magic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>MailFeedBack</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16349,10 +16389,6 @@ Slide</source>
     </message>
     <message>
         <source>OLE Object</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Office Space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16513,6 +16549,10 @@ Slide</source>
         <translation>Prehod med diapozitivi</translation>
     </message>
     <message>
+        <source>Status Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Style</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16605,16 +16645,8 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>change template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>magic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>statusbar</source>
-        <translation>vrstica stanja</translation>
+        <translation type="obsolete">vrstica stanja</translation>
     </message>
 </context>
 <context>
@@ -16783,10 +16815,6 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Online Templates</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16869,6 +16897,10 @@ Slide</source>
     <message>
         <source>Slide Show</source>
         <translation>Diaprojekcija</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stick the ToolBaar</source>
@@ -17092,10 +17124,6 @@ Slide</source>
         <translation>Stran brez zavihka</translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open</source>
         <translation>Odpri</translation>
     </message>
@@ -17170,6 +17198,10 @@ Slide</source>
     <message>
         <source>Slide Show</source>
         <translation>Diaprojekcija</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>

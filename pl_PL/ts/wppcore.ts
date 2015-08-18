@@ -164,7 +164,12 @@
     <message>
         <source>This function is offered in WPS Office 2009 Prefessional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation>Ta funkcja jest oferowana w WPS Office 2009 Prefessional.</translation>
+        <translation type="obsolete">Ta funkcja jest oferowana w WPS Office 2009 Prefessional.</translation>
+    </message>
+    <message>
+        <source>This function is offered in WPS Office 2009 Professional.</source>
+        <comment>AEO_SHIELD_ObjectPathConvert</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2580,16 +2585,16 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
         <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation>Obecnie WPS Office obsługuje tylko przeglądanie dokumentów pakietu Microsoft Office 2010, których nie możesz edytować i zapisywać. Czy chcesz otworzyć ten dokument w trybie przeglądarki?</translation>
+        <translation type="obsolete">Obecnie WPS Office obsługuje tylko przeglądanie dokumentów pakietu Microsoft Office 2010, których nie możesz edytować i zapisywać. Czy chcesz otworzyć ten dokument w trybie przeglądarki?</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation>Obecnie WPS Office obsługuje tylko przeglądanie dokumentów pakietu Microsoft Office 2010, których nie możesz zapisywać.</translation>
+        <translation type="obsolete">Obecnie WPS Office obsługuje tylko przeglądanie dokumentów pakietu Microsoft Office 2010, których nie możesz zapisywać.</translation>
     </message>
     <message>
         <source>Presentation Caption</source>
-        <translation>Podpis prezentacji</translation>
+        <translation type="obsolete">Podpis prezentacji</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
@@ -2608,6 +2613,20 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
 Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lub docelowy dysk, na którym chcesz zapisać plik, nie jest zapełniony lub uszkodzony.
 (%s)</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <comment>WP_ReadOnlyOpenOoxml</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot save.</source>
+        <comment>WP_OpenOoxmlLostEffect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presentation</source>
+        <translation type="unfinished">Prezentacja</translation>
     </message>
 </context>
 <context>
@@ -3151,7 +3170,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Out Slightlly</source>
         <comment>wpp_sAnimDirectionInSlightly</comment>
-        <translation>Nieznacznie zewnątrz</translation>
+        <translation type="obsolete">Nieznacznie zewnątrz</translation>
     </message>
     <message>
         <source>O&amp;ut Slightly</source>
@@ -4628,7 +4647,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Cancelled by user.</source>
         <comment>wpp_sCancelByUser</comment>
-        <translation>Anulowane przez użytkownika.</translation>
+        <translation type="obsolete">Anulowane przez użytkownika.</translation>
     </message>
     <message>
         <source>The last color scheme cannot be deleted. A presentation must always contain at least one standard color scheme.</source>
@@ -5767,7 +5786,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Cannot open the folder %s. It might be in a unavailable path, or proteced by password, or the folder path does not exist or the folder path is too long.</source>
         <comment>wpp_sCanNotOpenFolder</comment>
-        <translation>Nie można otworzyć folderu %s. Może to być spowodowane przez niedostępność ścieżki, ochronę przez hasło, nieistniejącą ścieżką folderu lub zbyt długą ścieżkę tego folderu.</translation>
+        <translation type="obsolete">Nie można otworzyć folderu %s. Może to być spowodowane przez niedostępność ścieżki, ochronę przez hasło, nieistniejącą ścieżką folderu lub zbyt długą ścieżkę tego folderu.</translation>
     </message>
     <message>
         <source>Folder name cannot contain the characters bellow:
@@ -5856,6 +5875,21 @@ Czy chcesz zmienić nazwę folderu z &quot;%s&quot;  na &quot;%s&quot;?</transla
         <source>Modify Motion Paths</source>
         <comment>wpp_sModifyMotionPathEffect</comment>
         <translation>Modyfikuj ścieżki ruchu</translation>
+    </message>
+    <message>
+        <source>Out Slightly</source>
+        <comment>wpp_sAnimDirectionInSlightly</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canceled by user.</source>
+        <comment>wpp_sCancelByUser</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
+        <comment>wpp_sCanNotOpenFolder</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6864,7 +6898,7 @@ pisowni</translation>
     <message>
         <source>Each slide in your presentation has been saved as a separate file in the folder %s .</source>
         <comment>WpSAVEIMAGEHINT</comment>
-        <translation>Każdy slajd prezentacji został zapisany jako oddzielny plik w folderze %s .</translation>
+        <translation type="obsolete">Każdy slajd prezentacji został zapisany jako oddzielny plik w folderze %s .</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -6987,6 +7021,12 @@ Ta kopia zapasowa zostanie zapisana do(%s)</translation>
         <source>Device Independent Bitmap(*.bmp)</source>
         <comment>WpDescBMP</comment>
         <translation>Mapa bitowa niezależna od urządzenia (*.bmp)</translation>
+    </message>
+    <message>
+        <source>Each slide in your presentation has been saved as a separate file in the folder
+%s .</source>
+        <comment>WpSAVEIMAGEHINT</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

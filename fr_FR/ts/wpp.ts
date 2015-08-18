@@ -44,12 +44,12 @@
     </message>
     <message>
         <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
-        <translation>Style foncé 2-Mise en évidence 3/Mise en évidence 4</translation>
+        <translation type="obsolete">Style foncé 2-Mise en évidence 3/Mise en évidence 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
         <translatorcomment>Insert tab-&gt;Table-&gt;insert a table-&gt;Table Style tab-&gt;table styles drop-down menu</translatorcomment>
-        <translation>Style foncé 2-Mise en évidence 1/Mise en évidence 2</translation>
+        <translation type="obsolete">Style foncé 2-Mise en évidence 1/Mise en évidence 2</translation>
     </message>
     <message>
         <source>Emphasize</source>
@@ -104,6 +104,14 @@
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
         <translatorcomment>Insert tab-&gt;Table-&gt;insert a table-&gt;Table Style tab-&gt;table styles drop-down menu</translatorcomment>
         <translation>Style foncé 2-Mise en évidence 5/Mise en évidence 6</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
+        <translation type="unfinished">Style foncé 2-Mise en évidence 5/Mise en évidence 2 {2-?} {1/?}</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
+        <translation type="unfinished">Style foncé 2-Mise en évidence 5/Mise en évidence 4 {2-?} {3/?}</translation>
     </message>
 </context>
 <context>
@@ -727,7 +735,7 @@
     <message>
         <source>UnLocked</source>
         <translatorcomment>Home tab-&gt;Shapes-&gt;insert a shape-&gt;Animation tab-&gt;Custom Animation-&gt;Task Window-&gt;Add Effects-&gt;Motion Paths-&gt;right-click the effect, Effect Options-&gt;dialog box-&gt;Effects tab</translatorcomment>
-        <translation>Déverrouillée</translation>
+        <translation type="obsolete">Déverrouillée</translation>
     </message>
     <message>
         <source>Until End of Slide</source>
@@ -740,6 +748,10 @@
     <message>
         <source>With Previous</source>
         <translation>Avec la précédente</translation>
+    </message>
+    <message>
+        <source>Unlocked</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -872,10 +884,14 @@
     </message>
     <message>
         <source>bgMagic tooltip</source>
-        <translation>bgMagic tooltip</translation>
+        <translation type="obsolete">bgMagic tooltip</translation>
     </message>
     <message>
         <source>Thousands of templates to create snazzy and distinctive  presentations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Try for magic!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1107,10 +1123,14 @@
     </message>
     <message>
         <source>Magic Backgroud</source>
-        <translation>Arrière-plan magique</translation>
+        <translation type="obsolete">Arrière-plan magique</translation>
     </message>
     <message>
         <source>Template Background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magic Background</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1338,17 +1358,16 @@ dans le fichier de présentation. Vous pouvez le placer dans le même dossier po
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TextLabel</source>
+        <source>Text Label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Application documents online font, if your document needs circulated others, 
-we recommend that you saved earlier document fonts. 
-If necessary, click Cancel</source>
+        <source>The document contains cloud fonts. For the convenience of your readers, 
+we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remember this operation, do not remind anymore</source>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1968,7 +1987,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Gerneral options</source>
         <translatorcomment>Drop-down menu-&gt;Tools-&gt;Options-&gt;Options dialog box-&gt;General and Save</translatorcomment>
-        <translation>Options générales</translation>
+        <translation type="obsolete">Options générales</translation>
     </message>
     <message>
         <source>Handouts(2 slides per page)</source>
@@ -2239,11 +2258,15 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Password protect</source>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <source>General options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password protection</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2702,7 +2725,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Volume Redress</source>
-        <translation type="unfinished">Ajuster le volume</translation>
+        <translation type="obsolete">Ajuster le volume</translation>
     </message>
     <message>
         <source>cbMute</source>
@@ -2711,6 +2734,10 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>tbVolume</source>
         <translation>tbVolume</translation>
+    </message>
+    <message>
+        <source>Volume Adjustment</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3097,6 +3124,89 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
 </context>
 <context>
+    <name>KxExportOFDDlg</name>
+    <message>
+        <source>Save OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd||</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished">Documents</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation type="unfinished">Commentaires</translation>
+    </message>
+    <message>
+        <source>Please input the password of permission settings!</source>
+        <translation type="unfinished">Entrez le mot de passe des paramètres d&apos;autorisation !</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">Le mot de passe de confirmation ne correspond pas.</translation>
+    </message>
+    <message>
+        <source>Input permission password.</source>
+        <translation type="unfinished">Saisissez le mot de passe d&apos;autorisation.</translation>
+    </message>
+    <message>
+        <source>Permission password and document open password must be different.</source>
+        <translation type="unfinished">Les mots de passe d&apos;autorisation et d&apos;ouverture de document doivent être différents.</translation>
+    </message>
+    <message>
+        <source>Invalid input.        </source>
+        <translation type="unfinished">Entrée non valide.        </translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Do you want to replace it and continue?</source>
+        <translation type="unfinished">Le fichier spécifié existe déjà. Voulez-vous le remplacer et continuer ?</translation>
+    </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation type="unfinished">Le nom de fichier est identique à un répertoire existant.</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished">Le répertoire spécifié n&apos;existe pas.</translation>
+    </message>
+    <message>
+        <source>You do not have permission to write files into this directory.</source>
+        <translation type="unfinished">Vous n&apos;êtes pas autorisé à écrire les fichiers dans ce répertoire.</translation>
+    </message>
+    <message>
+        <source>The slide you selected to export does not exist. Please select another one.</source>
+        <translation type="unfinished">La diapositive sélectionnée pour exportation n&apos;existe pas. Sélectionnez-en une autre.</translation>
+    </message>
+    <message>
+        <source>All slides in this custom show are hidden.</source>
+        <translation type="unfinished">Toutes les diapositives de ce diaporama personnalisé sont masquées.</translation>
+    </message>
+    <message>
+        <source>All slides in this range are hidden.</source>
+        <translation type="unfinished">Toutes les diapositives comprises dans cette étendue sont masquées.</translation>
+    </message>
+    <message>
+        <source>The selected slides are hidden.</source>
+        <translation type="unfinished">Les diapositives sélectionnées sont masquées.</translation>
+    </message>
+    <message>
+        <source>Current slide has marked as hidden.</source>
+        <translation type="unfinished">La diapositive en cours est masquée.</translation>
+    </message>
+    <message>
+        <source>All slides in current presentation are hidden.</source>
+        <translation type="unfinished">Toutes les diapositives de la présentation actuelle sont masquées.</translation>
+    </message>
+    <message>
+        <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
+        <translation type="unfinished">Affichez-les ou choisissez d&apos;exporter les diapositives masquées.</translation>
+    </message>
+</context>
+<context>
     <name>KxExportPDFDlg</name>
     <message>
         <source>All slides in current presentation are hidden.</source>
@@ -3179,6 +3289,53 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>You do not have permission to write files into this directory.</source>
         <translation type="unfinished">Vous n&apos;êtes pas autorisé à écrire les fichiers dans ce répertoire.</translation>
+    </message>
+</context>
+<context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User canceled operation.</source>
+        <translation type="unfinished">Opération annulée par l&apos;utilisateur.</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Fermer</translation>
+    </message>
+    <message>
+        <source>Exporting document information...</source>
+        <translation type="unfinished">L&apos;exportation des informations du document en cours...</translation>
+    </message>
+    <message>
+        <source>Exporting No.</source>
+        <translation type="unfinished">N° d&apos;exportation</translation>
+    </message>
+    <message>
+        <source> Page...</source>
+        <translation type="unfinished"> Page...</translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="unfinished">Exportation des étiquettes...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error while trying exporting to OFD!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3464,7 +3621,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <name>KxOptionsDlg</name>
     <message>
         <source>Comfirmation password does not match.</source>
-        <translation type="unfinished">Le mot de passe de confirmation ne correspond pas.</translation>
+        <translation type="obsolete">Le mot de passe de confirmation ne correspond pas.</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
@@ -3479,16 +3636,20 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <translation>Ouvrir</translation>
     </message>
     <message>
-        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Folder:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">Le mot de passe de confirmation ne correspond pas.</translation>
     </message>
 </context>
 <context>
@@ -5002,6 +5163,224 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
 </context>
 <context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished">Normal</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation type="unfinished">Enregis&amp;trer sous</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">&amp;Parcourir...</translation>
+    </message>
+    <message>
+        <source>Export range</source>
+        <translation type="unfinished">Étendue de l&apos;exportation</translation>
+    </message>
+    <message>
+        <source>A&amp;ll</source>
+        <translation type="unfinished">T&amp;out</translation>
+    </message>
+    <message>
+        <source>&amp;Current slide</source>
+        <translation type="unfinished">Diapositive a&amp;ctuelle</translation>
+    </message>
+    <message>
+        <source>&amp;Selection</source>
+        <translation type="unfinished">&amp;Sélection</translation>
+    </message>
+    <message>
+        <source>C&amp;ustom slide shows:</source>
+        <translation type="unfinished">Diapora&amp;mas personnalisés :</translation>
+    </message>
+    <message>
+        <source>Sl&amp;ides:</source>
+        <translation type="unfinished">D&amp;iapositives :</translation>
+    </message>
+    <message>
+        <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
+        <translation type="unfinished">Entrez les numéros des diapositives ou les groupes de diapositives. Par exemple, 1,3,5-12.</translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished">Options d&apos;exportation</translation>
+    </message>
+    <message>
+        <source>Export &amp;what:</source>
+        <translation type="unfinished">E&amp;xporter :</translation>
+    </message>
+    <message>
+        <source>Slides</source>
+        <translation type="unfinished">Diapositives</translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished">Documents</translation>
+    </message>
+    <message>
+        <source>Notes pages</source>
+        <translation type="unfinished">Pages de commentaires</translation>
+    </message>
+    <message>
+        <source>Outline view</source>
+        <translation type="unfinished">Mode Plan</translation>
+    </message>
+    <message>
+        <source>Color/&amp;Grayscale:</source>
+        <translation type="unfinished">Couleur/Nuances de &amp;gris :</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished">Couleur</translation>
+    </message>
+    <message>
+        <source>Pure black and white</source>
+        <translation type="unfinished">Noir et blanc intégral</translation>
+    </message>
+    <message>
+        <source>Slides p&amp;er page:</source>
+        <translation type="unfinished">Diapositiv&amp;es par page :</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="unfinished">1</translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation type="unfinished">2</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation type="unfinished">3</translation>
+    </message>
+    <message>
+        <source>4</source>
+        <translation type="unfinished">4</translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation type="unfinished">6</translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation type="unfinished">9</translation>
+    </message>
+    <message>
+        <source>Order:</source>
+        <translation type="unfinished">Ordre :</translation>
+    </message>
+    <message>
+        <source>Hori&amp;zontal</source>
+        <translation type="unfinished">Hori&amp;zontal</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical</source>
+        <translation type="unfinished">&amp;Vertical</translation>
+    </message>
+    <message>
+        <source>ICON</source>
+        <translation type="unfinished">ICÔNE</translation>
+    </message>
+    <message>
+        <source>Fra&amp;me slides</source>
+        <translation type="unfinished">Enca&amp;drer les diapositives</translation>
+    </message>
+    <message>
+        <source>Print &amp;hidden slides</source>
+        <translation type="unfinished">Imprimer les diapositives mas&amp;quées</translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation type="unfinished">Paramètres d&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Passw&amp;ord to protect permission settings</source>
+        <translation type="unfinished">M&amp;ot de passe pour protéger les paramètres d&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation type="unfinished">Mot de &amp;passe :</translation>
+    </message>
+    <message>
+        <source>Con&amp;firm:</source>
+        <translation type="unfinished">C&amp;onfirmer :</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to modify</source>
+        <translation type="unfinished">Autoriser la modification</translation>
+    </message>
+    <message>
+        <source>Permit to copy</source>
+        <translation type="unfinished">Autoriser la copie</translation>
+    </message>
+    <message>
+        <source>Permit to add comments</source>
+        <translation type="unfinished">Autoriser l&apos;ajout de commentaires</translation>
+    </message>
+    <message>
+        <source>Printing permission:</source>
+        <translation type="unfinished">Autorisation d&apos;impression :</translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation type="unfinished">Impression non autorisée</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished">Impression brouillon</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished">Impression libre</translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation type="unfinished">Mot de passe d&apos;ouverture du fichier :</translation>
+    </message>
+    <message>
+        <source>Passwor&amp;d:</source>
+        <translation type="unfinished">Mot &amp;de passe :</translation>
+    </message>
+    <message>
+        <source>Confi&amp;rm:</source>
+        <translation type="unfinished">Confi&amp;rmer :</translation>
+    </message>
+    <message>
+        <source>Close when e&amp;xport completes</source>
+        <translation type="unfinished">Fermer une fois que l&apos;e&amp;xportation a abouti</translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation type="unfinished">&amp;Ouvrir le fichier</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+</context>
+<context>
     <name>kdlgExportToPDF</name>
     <message>
         <source>&amp;Browse...</source>
@@ -5250,7 +5629,11 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
         <translatorcomment>Presentation Button-&gt;Save as-&gt;Export to PDF-&gt;dialog box-&gt;Permission settings tab</translatorcomment>
-        <translation>Remarque : les paramètres suivants deviennent effectifs et ne peuvent être modifiés par d&apos;autres personnes que si vous définissez un mot de passe.</translation>
+        <translation type="obsolete">Remarque : les paramètres suivants deviennent effectifs et ne peuvent être modifiés par d&apos;autres personnes que si vous définissez un mot de passe.</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

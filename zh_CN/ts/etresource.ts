@@ -486,7 +486,7 @@
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -619,6 +619,10 @@
     <message>
         <source>Long Dash Dot</source>
         <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -917,10 +921,6 @@ OLE DB查询</translation>
 <context>
     <name>classics.formatting</name>
     <message>
-        <source>Across Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Align Left</source>
         <translation>左对齐</translation>
     </message>
@@ -939,6 +939,10 @@ OLE DB查询</translation>
     <message>
         <source>Center</source>
         <translation>居中</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Columns Center</source>
@@ -1183,8 +1187,12 @@ Center</source>
         <translation>降低对比度</translation>
     </message>
     <message>
+        <source>Line Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Sytle</source>
-        <translation>线条样式</translation>
+        <translation type="obsolete">线条样式</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
@@ -1386,6 +1394,14 @@ Center</source>
         <source>Protect and Share Workbook</source>
         <translation>保护并共享工作簿</translation>
     </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.record_macro</name>
@@ -1408,6 +1424,10 @@ Center</source>
 </context>
 <context>
     <name>classics.shadow_settings</name>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>More Shadow Colors</source>
         <translation>其他阴影颜色</translation>
@@ -1458,7 +1478,7 @@ Center</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>取色器</translation>
+        <translation type="obsolete">取色器</translation>
     </message>
 </context>
 <context>
@@ -1941,6 +1961,13 @@ Center</source>
     </message>
 </context>
 <context>
+    <name>classics.standard.Help</name>
+    <message>
+        <source>WPS Spreadsheets Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Professional Switch UI</source>
@@ -2268,7 +2295,7 @@ Center</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>特色功能</translation>
+        <translation type="obsolete">特色功能</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -2293,6 +2320,10 @@ Center</source>
     <message>
         <source>Shortcut Menus</source>
         <translation type="obsolete">快捷菜单</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Standard</source>
@@ -2418,11 +2449,7 @@ Center</source>
         <translation>单击可打开/关闭自动备份</translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
+        <source>Clear</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2587,11 +2614,15 @@ Center</source>
     </message>
     <message>
         <source>Down Bars</source>
-        <translation>下跌柱</translation>
+        <translation type="obsolete">下跌柱</translation>
     </message>
     <message>
         <source>Down Bars Popup Menu</source>
         <translation type="obsolete">下跌柱</translation>
+    </message>
+    <message>
+        <source>Down-Bars</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Drop Line</source>
@@ -2632,6 +2663,10 @@ Center</source>
     <message>
         <source>Feedback</source>
         <translation>反馈</translation>
+    </message>
+    <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -2723,7 +2758,11 @@ Center</source>
     </message>
     <message>
         <source>High-Low Line</source>
-        <translation>高低点连线</translation>
+        <translation type="obsolete">高低点连线</translation>
+    </message>
+    <message>
+        <source>High-Low Lines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
@@ -2783,7 +2822,7 @@ Center</source>
     </message>
     <message>
         <source>MailFeedBack</source>
-        <translation>邮件反馈</translation>
+        <translation type="obsolete">邮件反馈</translation>
     </message>
     <message>
         <source>More Colors</source>
@@ -2823,7 +2862,11 @@ Center</source>
     </message>
     <message>
         <source>New from More Template</source>
-        <translation>从更多模板新建</translation>
+        <translation type="obsolete">从更多模板新建</translation>
+    </message>
+    <message>
+        <source>New from More Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -2875,7 +2918,7 @@ Center</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>备注</translation>
+        <translation type="obsolete">备注</translation>
     </message>
     <message>
         <source>Open</source>
@@ -2979,8 +3022,12 @@ Directly</source>
         <translation type="obsolete">最近文件列表</translation>
     </message>
     <message>
+        <source>Recent File Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Recently File Management</source>
-        <translation>最近文件列表</translation>
+        <translation type="obsolete">最近文件列表</translation>
     </message>
     <message>
         <source>Record Macro Statusbar</source>
@@ -3061,20 +3108,20 @@ Data</source>
         <translation type="obsolete">选择窗格</translation>
     </message>
     <message>
-        <source>Series Line Popup Menu</source>
-        <translation>系列线</translation>
+        <source>Series Line</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set Highlight Repeat Items</source>
+        <source>Series Line Popup Menu</source>
+        <translation type="obsolete">系列线</translation>
+    </message>
+    <message>
+        <source>Set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Language</source>
         <translation>设置拼写检查语言</translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Spell Check Language</source>
@@ -3103,6 +3150,10 @@ Data</source>
     <message>
         <source>Sheet Tab</source>
         <translation type="obsolete">工作表</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -3162,6 +3213,10 @@ Window</source>
         <translation>撤消</translation>
     </message>
     <message>
+        <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up Bars</source>
         <translation>涨柱线</translation>
     </message>
@@ -3190,8 +3245,19 @@ Window</source>
         <translation>窗口</translation>
     </message>
     <message>
+        <source>WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt Popup Menu</source>
-        <translation>艺术字上下文菜单</translation>
+        <translation type="obsolete">艺术字上下文菜单</translation>
+    </message>
+</context>
+<context>
+    <name>etcommon.mainwindow.commands.DataGroup</name>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3363,7 +3429,7 @@ Window</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>特色功能</translation>
+        <translation type="obsolete">特色功能</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -3390,12 +3456,12 @@ Window</source>
         <translation>数据透视表工具</translation>
     </message>
     <message>
-        <source>Print Preview</source>
-        <translation>打印预览</translation>
+        <source>Popup Menu</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Quick Menu</source>
-        <translation></translation>
+        <source>Print Preview</source>
+        <translation>打印预览</translation>
     </message>
     <message>
         <source>Quick Tool Bar</source>
@@ -3456,6 +3522,10 @@ Window</source>
     <message>
         <source>Sign out</source>
         <translation>注销</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stick Toolbar</source>
@@ -3709,7 +3779,7 @@ Window</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>特色功能</translation>
+        <translation type="obsolete">特色功能</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -3736,12 +3806,12 @@ Window</source>
         <translation>数据透视表工具</translation>
     </message>
     <message>
-        <source>Print Preview</source>
-        <translation>打印预览</translation>
+        <source>Popup Menu</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Quick Menu</source>
-        <translation></translation>
+        <source>Print Preview</source>
+        <translation>打印预览</translation>
     </message>
     <message>
         <source>Quick Tool Bar</source>
@@ -3794,6 +3864,10 @@ Window</source>
     <message>
         <source>Sign out</source>
         <translation>注销</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stick Toolbar</source>
@@ -4234,7 +4308,7 @@ Columns</source>
     <name>ongmani.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>创建组</translation>
+        <translation type="obsolete">创建组</translation>
     </message>
 </context>
 <context>
@@ -4587,7 +4661,7 @@ On</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -4704,6 +4778,10 @@ On</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -5002,6 +5080,10 @@ On/Off</source>
         <translation type="obsolete">WPS 表格 模板文件（*.ett）</translation>
     </message>
     <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft Excel 2007-2010 Files</source>
         <translation type="obsolete">Excel 2007/2010 文件（*.xlsx）</translation>
     </message>
@@ -5130,6 +5212,14 @@ On/Off</source>
         <translation type="obsolete">重新载入</translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>保存</translation>
     </message>
@@ -5166,12 +5256,20 @@ On/Off</source>
         <translation>WPS 学习网站</translation>
     </message>
     <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update Online</source>
         <translation type="obsolete">检查更新</translation>
     </message>
     <message>
         <source>User Feedback by mail</source>
         <translation type="obsolete">WPS 客服邮箱</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -5212,6 +5310,10 @@ On/Off</source>
     <message>
         <source>WPS Online</source>
         <translation type="obsolete">金山在线</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
@@ -5437,10 +5539,6 @@ Used</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Across Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Across Sheets</source>
         <translation>至同组工作表</translation>
     </message>
@@ -5482,7 +5580,11 @@ Used</source>
     </message>
     <message>
         <source>Angle Countclockwise</source>
-        <translation>逆时针角度</translation>
+        <translation type="obsolete">逆时针角度</translation>
+    </message>
+    <message>
+        <source>Angle Counterclockwise</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ascending</source>
@@ -5551,6 +5653,10 @@ Used</source>
     <message>
         <source>Center</source>
         <translation>居中</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
@@ -6322,6 +6428,10 @@ Columns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>向上填充</translation>
     </message>
@@ -6539,7 +6649,11 @@ Footer</source>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>插入剪贴画</translation>
+        <translation type="obsolete">插入剪贴画</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert File Object</source>
@@ -7111,7 +7225,7 @@ Pictures</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -7187,11 +7301,19 @@ Pictures</source>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>插入剪贴画</translation>
+        <translation type="obsolete">插入剪贴画</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -7216,6 +7338,10 @@ Pictures</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -7471,6 +7597,11 @@ On/Off</source>
         <translation type="obsolete">删除</translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field
 Settings</source>
         <translation>字段设置</translation>
@@ -7567,6 +7698,11 @@ Data</source>
     <message>
         <source>Refresh Data</source>
         <translation type="obsolete">刷新数据</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show
@@ -7861,6 +7997,16 @@ Changes</source>
     <message>
         <source>Translation</source>
         <translation>简繁转换</translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8348,6 +8494,10 @@ Layout</source>
         <translation type="obsolete">阅读模式</translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Security</source>
         <translation>宏安全</translation>
     </message>
@@ -8369,7 +8519,7 @@ Layout</source>
     </message>
     <message>
         <source>Unsplit</source>
-        <translation>取消拆分</translation>
+        <translation type="obsolete">取消拆分</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -8840,7 +8990,7 @@ Spacing</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -9001,6 +9151,10 @@ Spacing</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -9402,7 +9556,7 @@ Shape</source>
     </message>
     <message>
         <source>KOS User Data Tools</source>
-        <translation>特色功能</translation>
+        <translation type="obsolete">特色功能</translation>
     </message>
     <message>
         <source>KOS User Guid</source>
@@ -9418,7 +9572,7 @@ Shape</source>
     </message>
     <message>
         <source>KOS User PDF</source>
-        <translation>输出为PDF格式</translation>
+        <translation type="obsolete">输出为PDF格式</translation>
     </message>
     <message>
         <source>KOS User PDF Tip</source>
@@ -9501,6 +9655,10 @@ Shape</source>
         <translation type="obsolete">登录</translation>
     </message>
     <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Special tool</source>
         <translation type="obsolete">特色功能</translation>
     </message>
@@ -9540,40 +9698,76 @@ Shape</source>
 <context>
     <name>popupmenu</name>
     <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>0.25 pt.</source>
-        <translation>0.25 磅</translation>
+        <translation type="obsolete">0.25 磅</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation> 0.5 磅</translation>
+        <translation type="obsolete"> 0.5 磅</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation>0.75 磅</translation>
+        <translation type="obsolete">0.75 磅</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation>   1 磅</translation>
+        <translation type="obsolete">   1 磅</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation> 1.5 磅</translation>
+        <translation type="obsolete"> 1.5 磅</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation>2.25 磅</translation>
+        <translation type="obsolete">2.25 磅</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation>   3 磅</translation>
+        <translation type="obsolete">   3 磅</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation> 4.5 磅</translation>
+        <translation type="obsolete"> 4.5 磅</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation>   6 磅</translation>
+        <translation type="obsolete">   6 磅</translation>
     </message>
     <message>
         <source>About Kingsoft Spreadsheets</source>
@@ -9590,10 +9784,6 @@ Shape</source>
     <message>
         <source>Accept Revisions</source>
         <translation type="obsolete">接受修订</translation>
-    </message>
-    <message>
-        <source>Across Center</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -9823,6 +10013,10 @@ Add-Ins</source>
         <translation>居中</translation>
     </message>
     <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Account</source>
         <translation>切换账号</translation>
     </message>
@@ -10043,16 +10237,20 @@ Add-Ins</source>
         <translation>短划线</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>划线-点</translation>
+        <translation type="obsolete">划线-点</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -10227,6 +10425,10 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation type="obsolete">反馈</translation>
     </message>
@@ -10293,12 +10495,20 @@ Add-Ins</source>
         <translation type="obsolete">自动筛选</translation>
     </message>
     <message>
+        <source>Flip Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Flip Horizontally</source>
-        <translation>水平翻转</translation>
+        <translation type="obsolete">水平翻转</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Vertically</source>
-        <translation>垂直翻转</translation>
+        <translation type="obsolete">垂直翻转</translation>
     </message>
     <message>
         <source>Font</source>
@@ -10554,7 +10764,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>插入剪贴画</translation>
+        <translation type="obsolete">插入剪贴画</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Comment</source>
@@ -10683,11 +10897,15 @@ Center</source>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>带图案线条</translation>
+        <translation type="obsolete">带图案线条</translation>
+    </message>
+    <message>
+        <source>Line Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation>线条样式</translation>
+        <translation type="obsolete">线条样式</translation>
     </message>
     <message>
         <source>Linear Trend</source>
@@ -10702,15 +10920,23 @@ Center</source>
         <translation>长划线</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>长划线-点</translation>
+        <translation type="obsolete">长划线-点</translation>
     </message>
     <message>
         <source>Macro</source>
         <translation>宏</translation>
     </message>
     <message>
-        <source>Manage Credential</source>
+        <source>Manage Credentials</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10898,6 +11124,10 @@ Center</source>
         <translation>粘贴为无格式文本</translation>
     </message>
     <message>
+        <source>Pattenred Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pattern</source>
         <translation>图案</translation>
     </message>
@@ -11026,12 +11256,24 @@ Center</source>
         <translation>取消超链接</translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rename</source>
         <translation>重命名</translation>
     </message>
     <message>
         <source>Reset All Page Break</source>
-        <translation>重置所有分页符</translation>
+        <translation type="obsolete">重置所有分页符</translation>
+    </message>
+    <message>
+        <source>Reset All Page Breaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restricted Access</source>
@@ -11228,7 +11470,7 @@ Center</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>取色器</translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -11368,7 +11610,7 @@ Center</source>
     </message>
     <message>
         <source>UnSplit</source>
-        <translation>取消拆分</translation>
+        <translation type="obsolete">取消拆分</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -11393,6 +11635,14 @@ Center</source>
     <message>
         <source>Unmerge Cells</source>
         <translation>取消合并单元格</translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
@@ -11433,6 +11683,10 @@ Center</source>
     <message>
         <source>View Historical Backup</source>
         <translation>查看历史备份</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Business Version</source>
@@ -11802,7 +12056,7 @@ OLE DB查询</translation>
     <name>rainbow.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>创建组</translation>
+        <translation type="obsolete">创建组</translation>
     </message>
 </context>
 <context>
@@ -12105,7 +12359,7 @@ AddIns</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -12210,6 +12464,10 @@ AddIns</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -12499,6 +12757,10 @@ AddIns</source>
         <translation type="obsolete">WPS 表格 模板文件（*.ett）</translation>
     </message>
     <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft Excel 2007-2010 Files</source>
         <translation>Excel 2007/2010 文件（*.xlsx）</translation>
     </message>
@@ -12623,6 +12885,14 @@ AddIns</source>
         <translation type="obsolete">重新载入</translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>保存</translation>
     </message>
@@ -12655,8 +12925,16 @@ AddIns</source>
         <translation>WPS 学习网站</translation>
     </message>
     <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update Online</source>
         <translation type="obsolete">检查更新</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -12701,6 +12979,10 @@ AddIns</source>
     <message>
         <source>WPS Online</source>
         <translation type="obsolete">金山在线</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
@@ -12906,7 +13188,7 @@ Trig</source>
     </message>
     <message>
         <source>Across Center</source>
-        <translation>跨列居中</translation>
+        <translation type="obsolete">跨列居中</translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -13015,6 +13297,10 @@ Trig</source>
     <message>
         <source>Center</source>
         <translation>居中</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
@@ -13746,6 +14032,10 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>向上填充</translation>
     </message>
@@ -13884,11 +14174,19 @@ Center</source>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>插入剪贴画</translation>
+        <translation type="obsolete">插入剪贴画</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Label</source>
@@ -14290,7 +14588,7 @@ Center</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -14366,7 +14664,11 @@ Center</source>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>插入剪贴画</translation>
+        <translation type="obsolete">插入剪贴画</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -14399,6 +14701,10 @@ Center</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -14643,6 +14949,11 @@ Center</source>
         <translation type="obsolete">删除</translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field Settings</source>
         <translation>字段设置</translation>
     </message>
@@ -14705,6 +15016,11 @@ Center</source>
     <message>
         <source>Refresh Data</source>
         <translation type="obsolete">刷新数据</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -14927,6 +15243,14 @@ Center</source>
     <message>
         <source>Translation</source>
         <translation>简繁转换</translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15225,6 +15549,10 @@ Other Windows</source>
         <translation>阅读模式</translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Security</source>
         <translation>宏安全</translation>
     </message>
@@ -15246,7 +15574,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Unsplit</source>
-        <translation>取消拆分</translation>
+        <translation type="obsolete">取消拆分</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -15641,7 +15969,7 @@ Color</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -15802,6 +16130,10 @@ Color</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -16176,7 +16508,7 @@ Color</source>
     </message>
     <message>
         <source>KOS User Data Tools</source>
-        <translation>特色功能</translation>
+        <translation type="obsolete">特色功能</translation>
     </message>
     <message>
         <source>KOS User Guid</source>
@@ -16272,7 +16604,7 @@ Color</source>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="obsolete">特色功能</translation>
+        <translation type="unfinished">特色功能</translation>
     </message>
     <message>
         <source>Special tool</source>
@@ -20282,7 +20614,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>KOS Open Cloud File</source>
-        <translation>打开云文档</translation>
+        <translation type="obsolete">打开云文档</translation>
     </message>
     <message>
         <source>KOS Recharge</source>
@@ -20335,6 +20667,10 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     <message>
         <source>Online Pictures</source>
         <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Open from Cloud</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>

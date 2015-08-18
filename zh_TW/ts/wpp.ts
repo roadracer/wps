@@ -125,11 +125,11 @@
     </message>
     <message>
         <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
-        <translation>深色樣式 2-強調 3/強調 4</translation>
+        <translation type="obsolete">深色樣式 2-強調 3/強調 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
-        <translation>深色樣式 2-強調 1/強調 2</translation>
+        <translation type="obsolete">深色樣式 2-強調 1/強調 2</translation>
     </message>
     <message>
         <source>Emphasize</source>
@@ -222,6 +222,14 @@
     <message>
         <source>theme style</source>
         <translation type="obsolete">佈景主題樣式</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
+        <translation type="unfinished">深色樣式 2-強調 5/強調 2 {2-?} {1/?}</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
+        <translation type="unfinished">深色樣式 2-強調 5/強調 4 {2-?} {3/?}</translation>
     </message>
 </context>
 <context>
@@ -868,7 +876,7 @@
     </message>
     <message>
         <source>UnLocked</source>
-        <translation>解除鎖定</translation>
+        <translation type="obsolete">解除鎖定</translation>
     </message>
     <message>
         <source>Until End of Slide</source>
@@ -977,6 +985,10 @@
     <message>
         <source>slides</source>
         <translation type="obsolete">投影片</translation>
+    </message>
+    <message>
+        <source>Unlocked</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1138,11 +1150,11 @@
         <translation>依照色彩配置的背景色彩,依照色彩配置的文字和線條色彩,依照色彩配置的陰影色彩,依照色彩配置的標題文字色彩,依照色彩配置的填滿色彩,依照色彩配置的強調文字色彩,依照色彩配置的強調文字和超連結色彩,依照色彩配置的強調文字及讀過的超連結色彩</translation>
     </message>
     <message>
-        <source>bgMagic tooltip</source>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
+        <source>Try for magic!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1394,15 +1406,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Magic Backgroud</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>I&amp;gnor the back ground of main</source>
         <translation type="obsolete">忽略母片上的背景圖形(&amp;G)</translation>
     </message>
     <message>
         <source>Template Background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magic Background</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1632,17 +1644,16 @@ the presentation file directly.You can put it with the presentation file in the 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TextLabel</source>
+        <source>Text Label</source>
+        <translation type="unfinished">文字標籤</translation>
+    </message>
+    <message>
+        <source>The document contains cloud fonts. For the convenience of your readers, 
+we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Application documents online font, if your document needs circulated others, 
-we recommend that you saved earlier document fonts. 
-If necessary, click Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remember this operation, do not remind anymore</source>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2190,7 +2201,7 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>Gerneral options</source>
-        <translation>一般選項</translation>
+        <translation type="obsolete">一般選項</translation>
     </message>
     <message>
         <source>Handouts(2 slides per page)</source>
@@ -2514,11 +2525,15 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Password protect</source>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <source>General options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password protection</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2992,16 +3007,16 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation>音量(&amp;V)</translation>
     </message>
     <message>
-        <source>Volume Redress</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>cbMute</source>
         <translation></translation>
     </message>
     <message>
         <source>tbVolume</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Volume Adjustment</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3408,6 +3423,89 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>KxExportOFDDlg</name>
+    <message>
+        <source>Save OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd||</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished">講義</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input the password of permission settings!</source>
+        <translation type="unfinished">請輸入權限設定密碼!</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">密碼確認不符。</translation>
+    </message>
+    <message>
+        <source>Input permission password.</source>
+        <translation type="unfinished">請輸入權限設定密碼。</translation>
+    </message>
+    <message>
+        <source>Permission password and document open password must be different.</source>
+        <translation type="unfinished">權限設定密碼和檔案開啟密碼不能相同。</translation>
+    </message>
+    <message>
+        <source>Invalid input.        </source>
+        <translation type="unfinished">匯出範圍無效。</translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Do you want to replace it and continue?</source>
+        <translation type="unfinished">您指定的檔案已經存在，您要取代它嗎?</translation>
+    </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation type="unfinished">檔名與現有的目錄重複。</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished">指定的目錄不存在。</translation>
+    </message>
+    <message>
+        <source>You do not have permission to write files into this directory.</source>
+        <translation type="unfinished">您沒有權限將檔案寫入目前的目錄。</translation>
+    </message>
+    <message>
+        <source>The slide you selected to export does not exist. Please select another one.</source>
+        <translation type="unfinished">您選擇要匯出的投影片不存在，請改選其他的投影片。</translation>
+    </message>
+    <message>
+        <source>All slides in this custom show are hidden.</source>
+        <translation type="unfinished">這個自訂放映裡的投影片都已標示為隱藏。</translation>
+    </message>
+    <message>
+        <source>All slides in this range are hidden.</source>
+        <translation type="unfinished">這個範圍內的所有投影片都已標示為隱藏。</translation>
+    </message>
+    <message>
+        <source>The selected slides are hidden.</source>
+        <translation type="unfinished">選定的投影片已標示為隱藏。</translation>
+    </message>
+    <message>
+        <source>Current slide has marked as hidden.</source>
+        <translation type="unfinished">目前的投影片已標示為隱藏。</translation>
+    </message>
+    <message>
+        <source>All slides in current presentation are hidden.</source>
+        <translation type="unfinished">此簡報中所有的投影片都已標示為隱藏。</translation>
+    </message>
+    <message>
+        <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
+        <translation type="unfinished">請確定投影片目前並未隱藏，或選擇匯出隱藏的投影片。</translation>
+    </message>
+</context>
+<context>
     <name>KxExportPDFDlg</name>
     <message>
         <source>Handouts</source>
@@ -3540,6 +3638,53 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>You have no permission to write files into this directory.</source>
         <translation type="obsolete">您沒有權限將檔案寫入目前的目錄。</translation>
+    </message>
+</context>
+<context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User canceled operation.</source>
+        <translation type="unfinished">使用者取消作業。</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">關閉</translation>
+    </message>
+    <message>
+        <source>Exporting document information...</source>
+        <translation type="unfinished">正在匯出摘要資訊...</translation>
+    </message>
+    <message>
+        <source>Exporting No.</source>
+        <translation type="unfinished">正在處理第 </translation>
+    </message>
+    <message>
+        <source> Page...</source>
+        <translation type="unfinished"> 頁...</translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="unfinished">正在匯出標籤...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error while trying exporting to OFD!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3912,7 +4057,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Comfirmation password does not match.</source>
-        <translation>密碼確認不符。</translation>
+        <translation type="obsolete">密碼確認不符。</translation>
     </message>
     <message>
         <source>The reentered password erro?</source>
@@ -3928,7 +4073,15 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation>您沒有權限將備份文件保存在 &quot;%1&quot; 中。</translation>
+        <translation type="obsolete">您沒有權限將備份文件保存在 &quot;%1&quot; 中。</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">密碼確認不符。</translation>
     </message>
 </context>
 <context>
@@ -6022,6 +6175,224 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished">一般</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation type="unfinished">儲存至(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">瀏覽(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>Export range</source>
+        <translation type="unfinished">匯出範圍</translation>
+    </message>
+    <message>
+        <source>A&amp;ll</source>
+        <translation type="unfinished">全部(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Current slide</source>
+        <translation type="unfinished">目前的投影片(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Selection</source>
+        <translation type="unfinished">選取範圍(&amp;S)</translation>
+    </message>
+    <message>
+        <source>C&amp;ustom slide shows:</source>
+        <translation type="unfinished">自訂放映(&amp;U):</translation>
+    </message>
+    <message>
+        <source>Sl&amp;ides:</source>
+        <translation type="unfinished">投影片(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
+        <translation type="unfinished">請輸入投影片編號或投影片範圍。例如，1,3,5-12</translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished">匯出選項</translation>
+    </message>
+    <message>
+        <source>Export &amp;what:</source>
+        <translation type="unfinished">匯出內容(&amp;W):</translation>
+    </message>
+    <message>
+        <source>Slides</source>
+        <translation type="unfinished">投影片</translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished">講義</translation>
+    </message>
+    <message>
+        <source>Notes pages</source>
+        <translation type="unfinished">備忘稿</translation>
+    </message>
+    <message>
+        <source>Outline view</source>
+        <translation type="unfinished">大綱</translation>
+    </message>
+    <message>
+        <source>Color/&amp;Grayscale:</source>
+        <translation type="unfinished">彩色/灰階(&amp;G):</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished">彩色</translation>
+    </message>
+    <message>
+        <source>Pure black and white</source>
+        <translation type="unfinished">純粹黑白</translation>
+    </message>
+    <message>
+        <source>Slides p&amp;er page:</source>
+        <translation type="unfinished">每頁投影片張數(&amp;E):</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="unfinished">2- {1?}</translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation type="unfinished">2- {2?}</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation type="unfinished">2- {3?}</translation>
+    </message>
+    <message>
+        <source>4</source>
+        <translation type="unfinished">2- {4?}</translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation type="unfinished">2- {6?}</translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation type="unfinished">2- {9?}</translation>
+    </message>
+    <message>
+        <source>Order:</source>
+        <translation type="unfinished">順序:</translation>
+    </message>
+    <message>
+        <source>Hori&amp;zontal</source>
+        <translation type="unfinished">水平(&amp;Z)</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical</source>
+        <translation type="unfinished">垂直(&amp;V)</translation>
+    </message>
+    <message>
+        <source>ICON</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fra&amp;me slides</source>
+        <translation type="unfinished">投影片加框(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Print &amp;hidden slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation type="unfinished">權限設定</translation>
+    </message>
+    <message>
+        <source>Passw&amp;ord to protect permission settings</source>
+        <translation type="unfinished">權限設定(&amp;O)(使以下權限設定生效)</translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation type="unfinished">密碼(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Con&amp;firm:</source>
+        <translation type="unfinished">確認(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to modify</source>
+        <translation type="unfinished">允許更改</translation>
+    </message>
+    <message>
+        <source>Permit to copy</source>
+        <translation type="unfinished">允許複製</translation>
+    </message>
+    <message>
+        <source>Permit to add comments</source>
+        <translation type="unfinished">允許新增註解</translation>
+    </message>
+    <message>
+        <source>Printing permission:</source>
+        <translation type="unfinished">列印權限:</translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation type="unfinished">不允許列印</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished">低品質列印</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished">無限制列印</translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation type="unfinished">檔案開啟密碼:</translation>
+    </message>
+    <message>
+        <source>Passwor&amp;d:</source>
+        <translation type="unfinished">密碼(&amp;D):</translation>
+    </message>
+    <message>
+        <source>Confi&amp;rm:</source>
+        <translation type="unfinished">確認(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Close when e&amp;xport completes</source>
+        <translation type="unfinished">匯出完成後自動關閉(&amp;X)</translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation type="unfinished">開啟檔案(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
+    </message>
+</context>
+<context>
     <name>kdlgExportToPDF</name>
     <message>
         <source>&amp;Browse...</source>
@@ -6201,7 +6572,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>注意: 只有設定了以上密碼，以下的權限內容設定才會生效，並能防止這些設定遭他人變更。</translation>
+        <translation type="obsolete">注意: 只有設定了以上密碼，以下的權限內容設定才會生效，並能防止這些設定遭他人變更。</translation>
     </message>
     <message>
         <source>Printing permission:</source>
@@ -6278,6 +6649,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Pure Black and White</source>
         <translation type="obsolete">純粹黑白</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

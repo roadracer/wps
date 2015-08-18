@@ -53,11 +53,11 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
-        <translation>Тёмный стиль 2-Выделить 1/Выделить 2</translation>
+        <translation type="obsolete">Тёмный стиль 2-Выделить 1/Выделить 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
-        <translation>Тёмный стиль 2-Выделить 3/Выделить 4</translation>
+        <translation type="obsolete">Тёмный стиль 2-Выделить 3/Выделить 4</translation>
     </message>
     <message>
         <source>First Row</source>
@@ -91,6 +91,14 @@
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
         <translatorcomment>Темный стиль 2-выделение  5/выделение 6</translatorcomment>
         <translation>Тёмный стиль 2-Выделить 5/Выделить 6</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
+        <translation type="unfinished">Тёмный стиль 2-Выделить 5/Выделить 2 {2-?} {1/?}</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
+        <translation type="unfinished">Тёмный стиль 2-Выделить 5/Выделить 4 {2-?} {3/?}</translation>
     </message>
 </context>
 <context>
@@ -437,7 +445,7 @@
     </message>
     <message>
         <source>UnLocked</source>
-        <translation>Разблокировано</translation>
+        <translation type="obsolete">Разблокировано</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -655,6 +663,10 @@
         <source>Sound &amp;volume:</source>
         <translation>&amp;Громкость звука:</translation>
     </message>
+    <message>
+        <source>Unlocked</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Dlgtypography</name>
@@ -787,8 +799,8 @@
         <translation>Тысячи шаблонов для создания привлекательных и оригинальных презентаций.</translation>
     </message>
     <message>
-        <source>bgMagic tooltip</source>
-        <translation></translation>
+        <source>Try for magic!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -992,7 +1004,11 @@
     </message>
     <message>
         <source>Magic Backgroud</source>
-        <translation>&quot;Волшебный&quot; фон</translation>
+        <translation type="obsolete">&quot;Волшебный&quot; фон</translation>
+    </message>
+    <message>
+        <source>Magic Background</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1187,19 +1203,32 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>Метка текста</translation>
+        <translation type="obsolete">Метка текста</translation>
     </message>
     <message>
         <source>Application documents online font, if your document needs circulated others, 
 we recommend that you saved earlier document fonts. 
 If necessary, click Cancel</source>
-        <translation>В приложении используются шрифты из Интернета. Если планируется распространение документа,
+        <translation type="obsolete">В приложении используются шрифты из Интернета. Если планируется распространение документа,
 рекомендуется перед этим сохранить шрифты документа.
 При необходимости, нажмите кнопку &quot;Отменить&quot;.</translation>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
-        <translation>Не напоминать больше.</translation>
+        <translation type="obsolete">Не напоминать больше.</translation>
+    </message>
+    <message>
+        <source>Text Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The document contains cloud fonts. For the convenience of your readers, 
+we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1634,7 +1663,7 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>Gerneral options</source>
-        <translation>Общие параметры</translation>
+        <translation type="obsolete">Общие параметры</translation>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
@@ -1920,11 +1949,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Password protect</source>
-        <translation>Защита паролем</translation>
+        <translation type="obsolete">Защита паролем</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
         <translation>Кнопка &quot;Дополнительно&quot; позволяет выбрать из различных типов шифрования.</translation>
+    </message>
+    <message>
+        <source>General options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password protection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2298,7 +2335,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxDlgVolumeRedress</name>
     <message>
         <source>Volume Redress</source>
-        <translation>Уменьшить громкость</translation>
+        <translation type="obsolete">Уменьшить громкость</translation>
     </message>
     <message>
         <source>&amp;Volume</source>
@@ -2315,6 +2352,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>&amp;Mute</source>
         <translation>&amp;Выключить звук</translation>
+    </message>
+    <message>
+        <source>Volume Adjustment</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2631,6 +2672,89 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>KxExportOFDDlg</name>
+    <message>
+        <source>Save OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd||</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished">Выдачи</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation type="unfinished">Заметки</translation>
+    </message>
+    <message>
+        <source>Please input the password of permission settings!</source>
+        <translation type="unfinished">Введите пароль для настроек разрешений!</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">Пароль и его подтверждение не совпадают.</translation>
+    </message>
+    <message>
+        <source>Input permission password.</source>
+        <translation type="unfinished">Введите пароль доступа.</translation>
+    </message>
+    <message>
+        <source>Permission password and document open password must be different.</source>
+        <translation type="unfinished">Пароль доступа и пароль на открытие документа должны различаться.</translation>
+    </message>
+    <message>
+        <source>Invalid input.        </source>
+        <translation type="unfinished">Неверный ввод.</translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Do you want to replace it and continue?</source>
+        <translation type="unfinished">Указанный файл уже существует. Заменить и продолжить?</translation>
+    </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation type="unfinished">Имя файла совпадает с именем существующего каталога.</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished">Указанный каталог не существет.</translation>
+    </message>
+    <message>
+        <source>You do not have permission to write files into this directory.</source>
+        <translation type="unfinished">Вы не имеет разрешения на запись в этот каталог.</translation>
+    </message>
+    <message>
+        <source>The slide you selected to export does not exist. Please select another one.</source>
+        <translation type="unfinished">Выбранный для экспорта слайд не существует. Выберите другой.</translation>
+    </message>
+    <message>
+        <source>All slides in this custom show are hidden.</source>
+        <translation type="unfinished">Слайды данного произвольного показа являются скрытыми.</translation>
+    </message>
+    <message>
+        <source>All slides in this range are hidden.</source>
+        <translation type="unfinished">Все слайды в заданном диапазоне являются скрытыми.</translation>
+    </message>
+    <message>
+        <source>The selected slides are hidden.</source>
+        <translation type="unfinished">Выделенные слайды презентации являются скрытыми.</translation>
+    </message>
+    <message>
+        <source>Current slide has marked as hidden.</source>
+        <translation type="unfinished">Текущий слайд презентации является скрытым.</translation>
+    </message>
+    <message>
+        <source>All slides in current presentation are hidden.</source>
+        <translation type="unfinished">Слайды данного произвольного показа являются скрытыми.</translation>
+    </message>
+    <message>
+        <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
+        <translation type="unfinished">Убедитесь, что слайды больше не скрыты, или установите флажок &quot;печать скрытых слайдов&quot;.</translation>
+    </message>
+</context>
+<context>
     <name>KxExportPDFDlg</name>
     <message>
         <source>PDF File(*.pdf)|*.pdf||</source>
@@ -2715,6 +2839,53 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Save PDF File</source>
         <translation>Сохранить файл PDF</translation>
+    </message>
+</context>
+<context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User canceled operation.</source>
+        <translation type="unfinished">Операция отменена пользователем.</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Закрыть</translation>
+    </message>
+    <message>
+        <source>Exporting document information...</source>
+        <translation type="unfinished">Экспорт информации о документе...</translation>
+    </message>
+    <message>
+        <source>Exporting No.</source>
+        <translation type="unfinished">Экспорт номера</translation>
+    </message>
+    <message>
+        <source> Page...</source>
+        <translation type="unfinished">Страница...</translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="unfinished">Экспорт меток...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error while trying exporting to OFD!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2995,11 +3166,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Comfirmation password does not match.</source>
-        <translation>Пароль и его подтверждение не совпадают.</translation>
+        <translation type="obsolete">Пароль и его подтверждение не совпадают.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation>Отстутсвует разрешение на запись файлов резервных копий в &quot;%1&quot;.</translation>
+        <translation type="obsolete">Отстутсвует разрешение на запись файлов резервных копий в &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
@@ -3008,6 +3179,14 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Select Folder:</source>
         <translation>Выбрать папку:</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">Пароль и его подтверждение не совпадают.</translation>
     </message>
 </context>
 <context>
@@ -4391,6 +4570,224 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished">Обычный</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation type="unfinished">Со&amp;хранить в</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">&amp;Обзор...</translation>
+    </message>
+    <message>
+        <source>Export range</source>
+        <translation type="unfinished">Диапазон экспорта</translation>
+    </message>
+    <message>
+        <source>A&amp;ll</source>
+        <translation type="unfinished">В&amp;се</translation>
+    </message>
+    <message>
+        <source>&amp;Current slide</source>
+        <translation type="unfinished">&amp;Текущий слайд</translation>
+    </message>
+    <message>
+        <source>&amp;Selection</source>
+        <translation type="unfinished">&amp;Выделение</translation>
+    </message>
+    <message>
+        <source>C&amp;ustom slide shows:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sl&amp;ides:</source>
+        <translation type="unfinished">С&amp;лайды:</translation>
+    </message>
+    <message>
+        <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
+        <translation type="unfinished">Введите номер слайда или диапазон слайдов. Например, 1,3,5-12</translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished">Параметры экспорта</translation>
+    </message>
+    <message>
+        <source>Export &amp;what:</source>
+        <translation type="unfinished">&amp;Экспортировать:</translation>
+    </message>
+    <message>
+        <source>Slides</source>
+        <translation type="unfinished">Слайды</translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished">Выдачи</translation>
+    </message>
+    <message>
+        <source>Notes pages</source>
+        <translation type="unfinished">Страницы заметок</translation>
+    </message>
+    <message>
+        <source>Outline view</source>
+        <translation type="unfinished">Структура</translation>
+    </message>
+    <message>
+        <source>Color/&amp;Grayscale:</source>
+        <translation type="unfinished">Цвет или &amp;оттенки серого:</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished">Цвет</translation>
+    </message>
+    <message>
+        <source>Pure black and white</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slides p&amp;er page:</source>
+        <translation type="unfinished">Слайдов &amp;на странице:</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Order:</source>
+        <translation type="unfinished">Порядок:</translation>
+    </message>
+    <message>
+        <source>Hori&amp;zontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ICON</source>
+        <translation type="unfinished">ЗНАЧОК</translation>
+    </message>
+    <message>
+        <source>Fra&amp;me slides</source>
+        <translation type="unfinished">&amp;Обрамление слайдов</translation>
+    </message>
+    <message>
+        <source>Print &amp;hidden slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation type="unfinished">Параметры разрешений</translation>
+    </message>
+    <message>
+        <source>Passw&amp;ord to protect permission settings</source>
+        <translation type="unfinished">Па&amp;роль для защиты параметров разрешений</translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation type="unfinished">&amp;Пароль:</translation>
+    </message>
+    <message>
+        <source>Con&amp;firm:</source>
+        <translation type="unfinished">&amp;Подтверждение:</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to modify</source>
+        <translation type="unfinished">Разрешить изменение</translation>
+    </message>
+    <message>
+        <source>Permit to copy</source>
+        <translation type="unfinished">Разрешить копирование</translation>
+    </message>
+    <message>
+        <source>Permit to add comments</source>
+        <translation type="unfinished">Разрешить добваление примечаний</translation>
+    </message>
+    <message>
+        <source>Printing permission:</source>
+        <translation type="unfinished">Разрешение на печать:</translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation type="unfinished">Вывод на печать не разрешён</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished">Печать низкого качества</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished">Без ограничений</translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation type="unfinished">Пароль доступа к файлу:</translation>
+    </message>
+    <message>
+        <source>Passwor&amp;d:</source>
+        <translation type="unfinished">Па&amp;роль:</translation>
+    </message>
+    <message>
+        <source>Confi&amp;rm:</source>
+        <translation type="unfinished">Под&amp;тверждение:</translation>
+    </message>
+    <message>
+        <source>Close when e&amp;xport completes</source>
+        <translation type="unfinished">Закрыть после &amp;завершения экспорта</translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation type="unfinished">&amp;Открыть файл</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Отмена</translation>
+    </message>
+</context>
+<context>
     <name>kdlgExportToPDF</name>
     <message>
         <source>Export Adobe PDF File</source>
@@ -4570,7 +4967,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>Примечание: только установка пароля может предотвратить изменение настроек другими пользователями.</translation>
+        <translation type="obsolete">Примечание: только установка пароля может предотвратить изменение настроек другими пользователями.</translation>
     </message>
     <message>
         <source>Printing permission:</source>
@@ -4591,6 +4988,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Export PDF File</source>
         <translation>Преобразовать в файл PDF</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

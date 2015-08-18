@@ -211,23 +211,39 @@
     </message>
     <message>
         <source>DownLoad Online Fonts &quot;%1&quot; Successful</source>
-        <translation>Pobieranie czcionek online &quot;%1&quot; powiodło się</translation>
+        <translation type="obsolete">Pobieranie czcionek online &quot;%1&quot; powiodło się</translation>
     </message>
     <message>
         <source>DownLoad Online Fonts &quot;%1&quot; Failed</source>
-        <translation>Pobieranie czcionek online &quot;%1&quot; nie powiodło się</translation>
+        <translation type="obsolete">Pobieranie czcionek online &quot;%1&quot; nie powiodło się</translation>
     </message>
     <message>
         <source>DownLoad Online Fonts &quot;%1&quot; Successful(Restart to take effect)</source>
-        <translation>Pobieranie czcionek online &quot;%1&quot; powiodło się (Uruchom ponownie, aby zostały uwzględnione)</translation>
+        <translation type="obsolete">Pobieranie czcionek online &quot;%1&quot; powiodło się (Uruchom ponownie, aby zostały uwzględnione)</translation>
     </message>
     <message>
         <source>Online font downloading,click font list see more detail.</source>
-        <translation>Pobieranie czcionek online, aby zobaczyć więcej szczegółów kliknij listę czcionek.</translation>
+        <translation type="obsolete">Pobieranie czcionek online, aby zobaczyć więcej szczegółów kliknij listę czcionek.</translation>
     </message>
     <message>
         <source>The layout will take effect after restart or logoff computer</source>
         <translation>Układ zacznie obowiązywać po ponownym uruchomieniu lub wylogowaniu komputera</translation>
+    </message>
+    <message>
+        <source>Downloading online font &quot;%1&quot;. Click the font list to see more detail. (Restart to take effect)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download cloud font &quot;%1&quot; successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download cloud font &quot;%1&quot; failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading cloud font, click the font list to see more detail.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -372,7 +388,11 @@
     </message>
     <message>
         <source>FileName or PathName is longger than 218 chars!</source>
-        <translation>Nazwa pliku lub ścieżki jest dłuższa niż 218 znaków!</translation>
+        <translation type="obsolete">Nazwa pliku lub ścieżki jest dłuższa niż 218 znaków!</translation>
+    </message>
+    <message>
+        <source>FileName or PathName is longger than 218 characters!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -513,7 +533,7 @@
     </message>
     <message>
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
-        <translation>Zapisywanie numeru seryjnego nie powiodło się. Proszę sprawdź, czy masz uprawnienia administratora.</translation>
+        <translation type="obsolete">Zapisywanie numeru seryjnego nie powiodło się. Proszę sprawdź, czy masz uprawnienia administratora.</translation>
     </message>
     <message>
         <source>The items with &quot;*&quot; must be entered.</source>
@@ -547,6 +567,10 @@
         <source>Your input is incorrect and the program will exit.</source>
         <translation>Twój wpis jest niepoprawny i program zostanie zamknięty.</translation>
     </message>
+    <message>
+        <source>Fail to save the serial number. Please check whether you have the administrator permission or not.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KRepeatableInputPasswordDlg</name>
@@ -560,7 +584,11 @@
     </message>
     <message>
         <source>Password error, try again</source>
-        <translation>Nieprawidłowe hasło, spróbuj ponownie</translation>
+        <translation type="obsolete">Nieprawidłowe hasło, spróbuj ponownie</translation>
+    </message>
+    <message>
+        <source>Incorrect password. Please re-enter.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -583,7 +611,7 @@
     </message>
     <message>
         <source>Compare Side by Side</source>
-        <translation>Porównaj obok siebie</translation>
+        <translation type="obsolete">Porównaj obok siebie</translation>
     </message>
     <message>
         <source>Switch window to:</source>
@@ -592,6 +620,10 @@
     <message>
         <source>Please select the window to compare:</source>
         <translation>Proszę wybrać okno do porównania:</translation>
+    </message>
+    <message>
+        <source>Switch Windows</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1097,11 +1129,11 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
-        <translation>Użytkownicy z uprawnieniem do odczytu mogą odczytywać ten dokument, ale nie mogą zmieniać, drukować lub kopiować zawartości.</translation>
+        <translation type="obsolete">Użytkownicy z uprawnieniem do odczytu mogą odczytywać ten dokument, ale nie mogą zmieniać, drukować lub kopiować zawartości.</translation>
     </message>
     <message>
         <source>Give all users Read Access</source>
-        <translation>Daje wszystkim użytkownikom dostęp do odczytu</translation>
+        <translation type="obsolete">Daje wszystkim użytkownikom dostęp do odczytu</translation>
     </message>
     <message>
         <source>PI</source>
@@ -1118,7 +1150,19 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Give all users Change Access</source>
-        <translation>Daje wszystkim użytkownikom dostęp do wprowadzania zmian</translation>
+        <translation type="obsolete">Daje wszystkim użytkownikom dostęp do wprowadzania zmian</translation>
+    </message>
+    <message>
+        <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Read access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Change access</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1313,7 +1357,11 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <message>
         <source>To work with Control Toolbox, please purchase WPS Office Professional.
 </source>
-        <translation>Aby korzystać z Przybornika formantów, należy zakupić WPS Office Professional.</translation>
+        <translation type="obsolete">Aby korzystać z Przybornika formantów, należy zakupić WPS Office Professional.</translation>
+    </message>
+    <message>
+        <source>????????????? WPS Office ????</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1327,19 +1375,35 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <name>KxCroppingScalesGalleryModel</name>
     <message>
         <source>CroppingScale_Free</source>
-        <translation>Przycinanie skali-dowolne</translation>
+        <translation type="obsolete">Przycinanie skali-dowolne</translation>
     </message>
     <message>
         <source>CroppingScale_Square</source>
-        <translation>Przycinanie skali-prostokątne</translation>
+        <translation type="obsolete">Przycinanie skali-prostokątne</translation>
     </message>
     <message>
         <source>CroppingScale_Horizontal</source>
-        <translation>Przycinanie skali-poziomo</translation>
+        <translation type="obsolete">Przycinanie skali-poziomo</translation>
     </message>
     <message>
         <source>CroppingScale_Vertical</source>
-        <translation>Przycinanie skali-pionowo</translation>
+        <translation type="obsolete">Przycinanie skali-pionowo</translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1615,11 +1679,11 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Pyramid diagram</source>
-        <translation>Diagram ostrosłupowy</translation>
+        <translation type="obsolete">Diagram ostrosłupowy</translation>
     </message>
     <message>
         <source>Venn diagram</source>
-        <translation>Diagram Venna</translation>
+        <translation type="obsolete">Diagram Venna</translation>
     </message>
     <message>
         <source>Target Diagram</source>
@@ -1652,6 +1716,14 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <message>
         <source>Organization Chart</source>
         <translation>Schemat organizacyjny</translation>
+    </message>
+    <message>
+        <source>Pyramid Diagram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Venn Diagram</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1770,7 +1842,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <name>KxDlgEditDictionary</name>
     <message>
         <source>Edit Dictionary</source>
-        <translation>Edytowanie słownika</translation>
+        <translation type="obsolete">Edytowanie słownika</translation>
     </message>
     <message>
         <source>&amp;Word:</source>
@@ -1791,6 +1863,10 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <message>
         <source>Close</source>
         <translation>Zamknij</translation>
+    </message>
+    <message>
+        <source>编辑字典</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2151,7 +2227,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgHttpAuthentication</name>
     <message>
         <source>Http authentication required</source>
-        <translation>Wymagane uwierzytelnienie http</translation>
+        <translation type="obsolete">Wymagane uwierzytelnienie http</translation>
     </message>
     <message>
         <source>Connect to:</source>
@@ -2159,7 +2235,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please supply a Username and a Password!</source>
-        <translation>Proszę podać nazwę użytkownika i hasło!</translation>
+        <translation type="obsolete">Proszę podać nazwę użytkownika i hasło!</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -2168,6 +2244,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Password:</source>
         <translation>Hasło:</translation>
+    </message>
+    <message>
+        <source>Require Http authentication</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter your username and password to sign in.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2469,7 +2553,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgRecentFileManage</name>
     <message>
         <source>Recent File Management</source>
-        <translation>Zarządzanie niedawno używanymi plikami</translation>
+        <translation type="obsolete">Zarządzanie niedawno używanymi plikami</translation>
     </message>
     <message>
         <source>ID</source>
@@ -2486,8 +2570,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This will not delete the files but only remove the records.
 Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
-        <translation>Wybierz rekordy, które chcesz usunąć z listy niedawno używanych plików, a następnie naciśnij przycisk Usuń, aby to zatwierdzić. Nie spowoduje to usunięcia plików, tylko usunie rekordy.
+        <translation type="obsolete">Wybierz rekordy, które chcesz usunąć z listy niedawno używanych plików, a następnie naciśnij przycisk Usuń, aby to zatwierdzić. Nie spowoduje to usunięcia plików, tylko usunie rekordy.
 Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to usunięcie zaznaczenia elementów.</translation>
+    </message>
+    <message>
+        <source>File Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the files you wish to remove from the recent document list, then press Delete. 
+This will not permanently delete your file, but only remove them from your recent records.
+Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2509,7 +2603,7 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     </message>
     <message>
         <source>&amp;Select one of the following user accounts to create or open content with restricted permission.To use an account not listed below,click Add.</source>
-        <translation>&amp;Wybierz jedno z następujących kont użytkownika, aby utworzyć lub otworzyć zawartość z ograniczonym uprawnieniem. Aby użyć konta niewyświetlonego poniżej, kliknij przycisk Dodaj.</translation>
+        <translation type="obsolete">&amp;Wybierz jedno z następujących kont użytkownika, aby utworzyć lub otworzyć zawartość z ograniczonym uprawnieniem. Aby użyć konta niewyświetlonego poniżej, kliknij przycisk Dodaj.</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
@@ -2522,6 +2616,10 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     <message>
         <source>A&amp;lways use this account</source>
         <translation>&amp;Zawsze używaj tego konta</translation>
+    </message>
+    <message>
+        <source>&amp;Select one of the following user accounts to create or open content with restricted permission. To use an account not listed below, click Add.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2674,7 +2772,7 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
         <source>
 
 modify time: </source>
-        <translation>
+        <translation type="obsolete">
 
 Godzina modyfikacji: </translation>
     </message>
@@ -2682,9 +2780,21 @@ Godzina modyfikacji: </translation>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation>
+        <translation type="obsolete">
 
 Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji</translation>
+    </message>
+    <message>
+        <source>
+
+Modified time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid. The file has been renamed,deleted or moved.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2941,19 +3051,35 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation>Ten dokument używa czcionek chmury &quot;%1&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
+        <translation type="obsolete">Ten dokument używa czcionek chmury &quot;%1&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation>Ten dokument używa czcionek chmury &quot;%1&quot; i &quot;%2&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
+        <translation type="obsolete">Ten dokument używa czcionek chmury &quot;%1&quot; i &quot;%2&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation>Ten dokument używa czcionek chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
+        <translation type="obsolete">Ten dokument używa czcionek chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
-        <translation>Ten dokument używa czcionek chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;, itp. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
+        <translation type="obsolete">Ten dokument używa czcionek chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;, itp. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
+    </message>
+    <message>
+        <source>This document uses cloud font &quot;%1&quot;. For your convenience, please download this cloud font.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document uses cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document uses cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document uses cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3512,11 +3638,15 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     <name>KxOnlineFontController</name>
     <message>
         <source>Cloud font reserves to the upper (%1), please go to the &quot;management of cloud font&quot; page for details.</source>
-        <translation>Rezerwa czcionki chmury osiągnie górny limit (%1), proszę przejdź do &quot;Zarządzanie czcionkami chmury&quot;, aby zobaczyć szczegóły.</translation>
+        <translation type="obsolete">Rezerwa czcionki chmury osiągnie górny limit (%1), proszę przejdź do &quot;Zarządzanie czcionkami chmury&quot;, aby zobaczyć szczegóły.</translation>
     </message>
     <message>
         <source>View Now</source>
         <translation>Wyświetl teraz</translation>
+    </message>
+    <message>
+        <source>Cloud has reached its limit for cloud fonts (%1). Please go to the &apos;Management of Cloud Font&apos; page for details.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3562,22 +3692,30 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>Vip %1 has expired, please renew</source>
-        <translation>Vip %1 wygasło, proszę odnów</translation>
+        <translation type="obsolete">Vip %1 wygasło, proszę odnów</translation>
     </message>
     <message>
         <source>WPS members enjoy more than 300 cloud font, monthly not regularly updated new font, let your document colorful!</source>
-        <translation>Członkowie WPS korzystają z ponad 300 czcionek chmury, które nie regularnie co miesiąc są aktualizowane o nowe czcionki. Pozwól, aby Twój dokument był kolorowy!</translation>
+        <translation type="obsolete">Członkowie WPS korzystają z ponad 300 czcionek chmury, które nie regularnie co miesiąc są aktualizowane o nowe czcionki. Pozwól, aby Twój dokument był kolorowy!</translation>
     </message>
     <message>
         <source>Unable to connect to server, please check your network connection.</source>
         <translation>Nie można nawiązać połączenia z serwerem, proszę sprawdź swoje połączenie sieciowe.</translation>
+    </message>
+    <message>
+        <source>%1 membership has expired, please renew.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS members can access to more than 300 cloud fonts, updated monthly.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxOnlineFonts</name>
     <message>
         <source>It&apos;s downloading, please wait...</source>
-        <translation>Pobieranie, proszę czekać...</translation>
+        <translation type="obsolete">Pobieranie, proszę czekać...</translation>
     </message>
     <message>
         <source>Pause. Click to continue</source>
@@ -3585,7 +3723,7 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>Fold online fonts</source>
-        <translation>Złóż czcionki online</translation>
+        <translation type="obsolete">Złóż czcionki online</translation>
     </message>
     <message>
         <source>Show Online Fonts</source>
@@ -3598,7 +3736,7 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     <message>
         <source>Upgrade to VIP to enjoy VIP fonts.
 Click here to sign in now.</source>
-        <translation>Uaktualnij do VIP, aby cieszyć się czcionkami VIP.
+        <translation type="obsolete">Uaktualnij do VIP, aby cieszyć się czcionkami VIP.
 Kliknij tutaj, aby zalogować się już teraz.</translation>
     </message>
     <message>
@@ -3609,15 +3747,15 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Allow senior member to enjoy VIP fonts. Click to sign in.</source>
-        <translation>Zezwól starszym członkom cieszyć się czcionkami VIP. Kliknij, aby się zalogować.</translation>
+        <translation type="obsolete">Zezwól starszym członkom cieszyć się czcionkami VIP. Kliknij, aby się zalogować.</translation>
     </message>
     <message>
         <source>Allow member to enjoy free cloud fonts. Click to sign in.</source>
-        <translation>Zezwól członkom cieszyć się darmowymi czcionkami chmury. Kliknij, aby zalogować się.</translation>
+        <translation type="obsolete">Zezwól członkom cieszyć się darmowymi czcionkami chmury. Kliknij, aby zalogować się.</translation>
     </message>
     <message>
         <source>Your membership %1 expires now. Please renew.</source>
-        <translation>Twoje członkostwo %1 wygasa teraz. Proszę odnowić.</translation>
+        <translation type="obsolete">Twoje członkostwo %1 wygasa teraz. Proszę odnowić.</translation>
     </message>
     <message>
         <source>VIP cloud fonts installed</source>
@@ -3629,7 +3767,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Upgrade to VIP to enjoy VIP fonts.</source>
-        <translation>Uaktualnij do VIP, aby cieszyć się czcionkami VIP.</translation>
+        <translation type="obsolete">Uaktualnij do VIP, aby cieszyć się czcionkami VIP.</translation>
     </message>
     <message>
         <source>Click to install free cloud fonts</source>
@@ -3637,15 +3775,15 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
-        <translation>Twoje członkostwo %1 wygasa teraz. Proszę odnowić, aby cieszyć się czcionkami chmury.</translation>
+        <translation type="obsolete">Twoje członkostwo %1 wygasa teraz. Proszę odnowić, aby cieszyć się czcionkami chmury.</translation>
     </message>
     <message>
         <source>All cloud fonts installed.  Please looking forward to more.</source>
-        <translation>Zainstalowano wszystkie czcionki chmury. Proszę, czekać na więcej.</translation>
+        <translation type="obsolete">Zainstalowano wszystkie czcionki chmury. Proszę, czekać na więcej.</translation>
     </message>
     <message>
         <source>Click to keep cloud fonts on top</source>
-        <translation>Kliknij, aby zachować czcionki chmury na wierzchu</translation>
+        <translation type="obsolete">Kliknij, aby zachować czcionki chmury na wierzchu</translation>
     </message>
     <message>
         <source>Click to shuffle cloud fonts</source>
@@ -3667,6 +3805,47 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
         <source>Downloading fonts, please wait?</source>
         <translation>Pobieranie czcionek, proszę czekać...</translation>
     </message>
+    <message>
+        <source>Upgrade to use VIP-only fonts.
+Click here to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Senior members can access to free cloud fonts. Click to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Members can access to free cloud fonts. Click to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1 membership expires now. Please renew.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade to use VIP-only fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1 membership expires now. Please renew to use cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All currently available cloud fonts have been installed.  More are coming soon!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide cloud fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to keep a cloud font on top</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOverdueDlg</name>
@@ -3676,7 +3855,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Enter Viewer</source>
-        <translation>Przejdź w tryb przeglądarki</translation>
+        <translation type="obsolete">Przejdź w tryb przeglądarki</translation>
     </message>
     <message>
         <source>Disable Print</source>
@@ -3688,7 +3867,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>You also can download</source>
-        <translation>Możesz również pobrać</translation>
+        <translation type="obsolete">Możesz również pobrać</translation>
     </message>
     <message>
         <source>Purchase Now</source>
@@ -3714,6 +3893,14 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
         <source>Input Serial Number</source>
         <translation>Wprowadź numer seryjny</translation>
     </message>
+    <message>
+        <source>You can also download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Viewer Mode</source>
+        <translation type="unfinished">Przejdź w tryb przeglądarki</translation>
+    </message>
 </context>
 <context>
     <name>KxPasteSpecialDlg</name>
@@ -3732,6 +3919,10 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     <message>
         <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
         <translation>Zostanie utworzony skrót do pliku źródłowego podczas wklejania jako hiperłącze. Zmiany w pliku źródłowym będą uwzględniane w dokumencie.</translation>
+    </message>
+    <message>
+        <source>The specified data type is unavailable.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3786,7 +3977,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Users can request additonal per&amp;missions from:</source>
-        <translation>Użytkownicy mogą żądać dodatkowych &amp;uprawnień od:</translation>
+        <translation type="obsolete">Użytkownicy mogą żądać dodatkowych &amp;uprawnień od:</translation>
     </message>
     <message>
         <source>Re&amp;quire a connection to verify a user&apos;s permission</source>
@@ -3795,6 +3986,25 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     <message>
         <source>&amp;Set defaults...</source>
         <translation>&amp;Ustaw domyślnie...</translation>
+    </message>
+    <message>
+        <source>Users can request additional per&amp;missions from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPicksolutionDlg</name>
+    <message>
+        <source>Choose XML Expansion Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One or more XML expansion packs are available for this file. Choose one from the list below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No XML expansion pack</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4147,7 +4357,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>A key to clear</source>
-        <translation>Klawisz do wyczyszczenia</translation>
+        <translation type="obsolete">Klawisz do wyczyszczenia</translation>
     </message>
     <message>
         <source>Clear this recor&amp;d</source>
@@ -4155,11 +4365,11 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Clear &amp;all selected record</source>
-        <translation>Wyczyść &amp;wszystkie wybrane rekordy</translation>
+        <translation type="obsolete">Wyczyść &amp;wszystkie wybrane rekordy</translation>
     </message>
     <message>
         <source>Clear &amp;all invalid record</source>
-        <translation>Wyczyść &amp;wszystkie nieprawidłowe rekordy</translation>
+        <translation type="obsolete">Wyczyść &amp;wszystkie nieprawidłowe rekordy</translation>
     </message>
     <message>
         <source>Open the file in &amp;folder</source>
@@ -4169,7 +4379,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
         <source>
 
 modify time: </source>
-        <translation>
+        <translation type="obsolete">
 
 Godzina modyfikacji: </translation>
     </message>
@@ -4177,7 +4387,7 @@ Godzina modyfikacji: </translation>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation>
+        <translation type="obsolete">
 
 Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji</translation>
     </message>
@@ -4188,12 +4398,41 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     <message>
         <source>cannot open the file &quot;%1&quot;. 
 the file may be renamed,deleted or moved the location.</source>
-        <translation>Nie można otworzyć pliku &quot;%1&quot;. 
+        <translation type="obsolete">Nie można otworzyć pliku &quot;%1&quot;. 
 Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji.</translation>
     </message>
     <message>
         <source>open file folder</source>
         <translation>Otwórz folder pliku</translation>
+    </message>
+    <message>
+        <source>Clear in one click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear &amp;all selected records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear &amp;all invalid records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Modified time: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid. The file has been renamed,deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;%1&quot; cannot be opened.
+It has been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4231,11 +4470,11 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
-        <translation>Użytkownicy z uprawnieniem do odczytu mogą odczytywać ten dokument, ale nie mogą zmieniać, drukować ani kopiować zawartości.</translation>
+        <translation type="obsolete">Użytkownicy z uprawnieniem do odczytu mogą odczytywać ten dokument, ale nie mogą zmieniać, drukować ani kopiować zawartości.</translation>
     </message>
     <message>
         <source>Give all users Read Access</source>
-        <translation>Daje wszystkim użytkownikom dostęp do odczytu</translation>
+        <translation type="obsolete">Daje wszystkim użytkownikom dostęp do odczytu</translation>
     </message>
     <message>
         <source>PI</source>
@@ -4252,7 +4491,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Give all users Change Access</source>
-        <translation>Daje wszystkim użytkownikom dostęp do wprowadzania zmian</translation>
+        <translation type="obsolete">Daje wszystkim użytkownikom dostęp do wprowadzania zmian</translation>
     </message>
     <message>
         <source>Displays advanced settings dialog</source>
@@ -4261,6 +4500,18 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <message>
         <source> More &amp;Options...</source>
         <translation>Więcej &amp;opcji...</translation>
+    </message>
+    <message>
+        <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Read access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Change access</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4318,11 +4569,19 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     <name>KxSkinSwitchHtmlBridge</name>
     <message>
         <source>upload</source>
-        <translation>Przekaż</translation>
+        <translation type="obsolete">Przekaż</translation>
     </message>
     <message>
         <source>(custom)</source>
-        <translation>(Niestandardowe)</translation>
+        <translation type="obsolete">(Niestandardowe)</translation>
+    </message>
+    <message>
+        <source>(Custom)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4439,7 +4698,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     <message>
         <source>Resolution</source>
         <translatorcomment>Tutaj na 100% jest &quot;Rozwiązanie&quot;, a nie &quot;Rozdzielczość&quot; - błąd w angielskim tłumaczeniu, który jest poprawiony w wersji dla windows</translatorcomment>
-        <translation>Rozwiązanie</translation>
+        <translation type="obsolete">Rozwiązanie</translation>
     </message>
     <message>
         <source>Do not report again</source>
@@ -4456,6 +4715,10 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     <message>
         <source>Problems below are detected in the system.</source>
         <translation>Następujące problemy zostały wykryte w systemie.</translation>
+    </message>
+    <message>
+        <source>Solution</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4560,7 +4823,11 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Sorry! An error occured just now. After making efforts to repair, it has now been restored.</source>
-        <translation>Przepraszamy! Wystąpił błąd. Po dokonaniu próby naprawy plik został przywrócony.</translation>
+        <translation type="obsolete">Przepraszamy! Wystąpił błąd. Po dokonaniu próby naprawy plik został przywrócony.</translation>
+    </message>
+    <message>
+        <source>Sorry! An error occurred just now. Now it has been fixed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4590,7 +4857,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
-        <translation>Używając następującej listy plików można odzyskać poprzedni stan pracy sprzed nieoczekiwanego zakończenia.</translation>
+        <translation type="obsolete">Używając następującej listy plików można odzyskać poprzedni stan pracy sprzed nieoczekiwanego zakończenia.</translation>
     </message>
     <message>
         <source>Open Backup Folder</source>
@@ -4607,6 +4874,10 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     <message>
         <source>PushButton</source>
         <translation>Przycisk</translation>
+    </message>
+    <message>
+        <source>Recently edited documents recovered from unexpected exit.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4686,7 +4957,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Open Recent File Management dialog box,and remove some or all of the recent file.</source>
-        <translation>Otwórz okno dialogowe Zarządzanie niedawno używanymi plikami i usuń niektóre lub wszystkie ostatnio używane pliki.</translation>
+        <translation type="obsolete">Otwórz okno dialogowe Zarządzanie niedawno używanymi plikami i usuń niektóre lub wszystkie ostatnio używane pliki.</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -4696,7 +4967,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
         <source>
 
 modify time: </source>
-        <translation>
+        <translation type="obsolete">
 
 Godzina modyfikacji: </translation>
     </message>
@@ -4704,19 +4975,54 @@ Godzina modyfikacji: </translation>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation>
+        <translation type="obsolete">
 
 Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji</translation>
     </message>
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may be renamed , deleted or moved the location.</source>
-        <translation>Nie można otworzyć &quot;%1&quot;.
+        <translation type="obsolete">Nie można otworzyć &quot;%1&quot;.
 Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji.</translation>
     </message>
     <message>
         <source>Open file location</source>
         <translation>Otwórz lokalizację pliku</translation>
+    </message>
+    <message>
+        <source>Open Recent File Management dialog box, and remove some or all of the recent files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Modified time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpOprDoc</name>
+    <message>
+        <source>Cancle the XML Extend Packet</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpOprDocCommand</name>
+    <message>
+        <source>Are you sure cancel the XML extend pack?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4759,7 +5065,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     </message>
     <message>
         <source>Open the recent file management dialog box,and remove some or all of the recent file records.</source>
-        <translation>Otwórz okno dialogowe Zarządzanie niedawno używanymi plikami i usuń niektóre lub wszystkie rekordy ostatnio używanych plików.</translation>
+        <translation type="obsolete">Otwórz okno dialogowe Zarządzanie niedawno używanymi plikami i usuń niektóre lub wszystkie rekordy ostatnio używanych plików.</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -4768,12 +5074,21 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may be renamed , deleted or moved the location.</source>
-        <translation>Nie można otworzyć &quot;%1&quot;.
+        <translation type="obsolete">Nie można otworzyć &quot;%1&quot;.
 Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji.</translation>
     </message>
     <message>
         <source>Open file location</source>
         <translation>Otwórz lokalizację pliku</translation>
+    </message>
+    <message>
+        <source>Open File Management to remove some or all of your recent documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;%1&quot; cannot be opened.
+It has been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5719,7 +6034,7 @@ Ustawienia zostaną wprowadzone po ponownym uruchomieniu WPS Office.</translatio
     <name>aboutDlg</name>
     <message>
         <source>!NO_TRANS!</source>
-        <translation>WPS</translation>
+        <translation type="obsolete">WPS</translation>
     </message>
     <message>
         <source>Copyright </source>
@@ -5761,12 +6076,16 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
         <source>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
         <translation>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
     </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished">WPS</translation>
+    </message>
 </context>
 <context>
     <name>apidefaultDlg</name>
     <message>
         <source>!NO_TRANS!</source>
-        <translation>WPS</translation>
+        <translation type="obsolete">WPS</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -5775,6 +6094,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     <message>
         <source>Don&apos;t show again</source>
         <translation>Nie pokazuj ponownie</translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished">WPS</translation>
     </message>
 </context>
 <context>

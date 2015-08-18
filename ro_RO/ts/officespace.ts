@@ -163,11 +163,19 @@
     </message>
     <message>
         <source>New version is available, Please Refresh</source>
-        <translation>O nouă versiune este disponibilă, Reâmprospătați</translation>
+        <translation type="obsolete">O nouă versiune este disponibilă, Reâmprospătați</translation>
     </message>
     <message>
         <source>New version is available, Please Check</source>
-        <translation>O nouă versiune este disponibilă, Verificați</translation>
+        <translation type="obsolete">O nouă versiune este disponibilă, Verificați</translation>
+    </message>
+    <message>
+        <source>New version is available. Please refresh.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is available. Please check.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -207,23 +215,23 @@
     </message>
     <message>
         <source>modifyTime:</source>
-        <translation>timpmodificare:</translation>
+        <translation type="obsolete">timpmodificare:</translation>
     </message>
     <message>
         <source>Kingsoft Office auto backup</source>
-        <translation>Backup automat Kingsoft Office</translation>
+        <translation type="obsolete">Backup automat Kingsoft Office</translation>
     </message>
     <message>
         <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\Desktop.ini name.</translation>
+        <translation type="obsolete">\Kingsoft Office\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\AppData\Desktop.ini name.</translation>
+        <translation type="obsolete">\Kingsoft Office\AppData\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</translation>
+        <translation type="obsolete">\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -243,7 +251,7 @@
     </message>
     <message>
         <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation>Documentul dumneavoastră are activat acum backup-ul automat!&lt;br /&gt;Fișierul de rezervă va fi creat în spațiul de birou ori de câte ori documentul este închis.</translation>
+        <translation type="obsolete">Documentul dumneavoastră are activat acum backup-ul automat!&lt;br /&gt;Fișierul de rezervă va fi creat în spațiul de birou ori de câte ori documentul este închis.</translation>
     </message>
     <message>
         <source>Login File Safe before manual backup.</source>
@@ -255,11 +263,11 @@
     </message>
     <message>
         <source>This document has&apos;t activated auto backup, so backup file is not available.</source>
-        <translation>Documentul nu are activat backup automat, astfel fișierul de rezervă nu este disponibil.</translation>
+        <translation type="obsolete">Documentul nu are activat backup automat, astfel fișierul de rezervă nu este disponibil.</translation>
     </message>
     <message>
         <source>There is no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup is created for this file in the current computer.&lt;br /&gt;2. Backup file is manually cleared.</source>
-        <translation>Nu sunt fișiere de rezervă pentru acest fișier în directorul de backup.&lt;br /&gt;Aceasta se datorează:&lt;br /&gt;1. Nu s-au creat fișiere de rezervă pentru acest fișier în computerul curent.&lt;br /&gt;2. Fișierele de rezervă sunt curățate manual.</translation>
+        <translation type="obsolete">Nu sunt fișiere de rezervă pentru acest fișier în directorul de backup.&lt;br /&gt;Aceasta se datorează:&lt;br /&gt;1. Nu s-au creat fișiere de rezervă pentru acest fișier în computerul curent.&lt;br /&gt;2. Fișierele de rezervă sunt curățate manual.</translation>
     </message>
     <message>
         <source>Login klive before canceling auto backup.</source>
@@ -267,11 +275,11 @@
     </message>
     <message>
         <source>Login klive before explor backup dir.</source>
-        <translation>Autentificați klive înaintea explorării directorului de backup.</translation>
+        <translation type="obsolete">Autentificați klive înaintea explorării directorului de backup.</translation>
     </message>
     <message>
         <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files is created in the current computer.&lt;br /&gt;2. Backup files are manually cleared.</source>
-        <translation>Nu sunt fișiere de rezervă în directorul de backup.&lt;br /&gt;Aceasta se datorează:&lt;br /&gt;1. Nu s-au creat fișiere de rezervă în computerul curent.&lt;br /&gt;2. Fișierele de rezervă sunt curățate manual.</translation>
+        <translation type="obsolete">Nu sunt fișiere de rezervă în directorul de backup.&lt;br /&gt;Aceasta se datorează:&lt;br /&gt;1. Nu s-au creat fișiere de rezervă în computerul curent.&lt;br /&gt;2. Fișierele de rezervă sunt curățate manual.</translation>
     </message>
     <message>
         <source>Important! Don&apos;t delete this directory.txt</source>
@@ -287,15 +295,62 @@
     </message>
     <message>
         <source>netbackup recover file</source>
-        <translation>recuperare fișier backup rețea</translation>
-    </message>
-    <message>
-        <source>netbackup rollback failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">recuperare fișier backup rețea</translation>
     </message>
     <message>
         <source>http://www.kingsoftstore.com/support/pc-office</source>
         <translation>http://www.kingsoftstore.com/support/pc-office</translation>
+    </message>
+    <message>
+        <source>Modify Time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Auto Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto bakcup has been enabled for the document now.&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto backup has not been activated for this document. So there is no backup file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files has been created for this file on the current computer.&lt;br /&gt;2. Backup files were manually cleared.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login klive before exploring backup directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files has been created on the current computer.&lt;br /&gt;2. Backup files were manually cleared.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to recover the file. The source file will be opened instead.
+This may because:
+1. The source file has been occupied by another program;
+2. Permission restricted in source file directory.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -559,7 +614,7 @@
     </message>
     <message>
         <source>&amp;Encrypt</source>
-        <translation>Cript&amp;ează</translation>
+        <translation type="obsolete">Cript&amp;ează</translation>
     </message>
     <message>
         <source> - replica</source>
@@ -575,11 +630,11 @@
     </message>
     <message>
         <source>rena&amp;me</source>
-        <translation>redenu&amp;mește</translation>
+        <translation type="obsolete">redenu&amp;mește</translation>
     </message>
     <message>
         <source>r&amp;efresh</source>
-        <translation>r&amp;eâmprospătează</translation>
+        <translation type="obsolete">r&amp;eâmprospătează</translation>
     </message>
     <message>
         <source>Cut and paste currently selected content to clipboard</source>
@@ -631,7 +686,7 @@
     </message>
     <message>
         <source>new &amp;folder</source>
-        <translation>&amp;dosar nou</translation>
+        <translation type="obsolete">&amp;dosar nou</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -700,6 +755,22 @@
     <message>
         <source>Cloud Docs</source>
         <translation>Cloud Docs</translation>
+    </message>
+    <message>
+        <source>&amp;Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rena&amp;me</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R&amp;efresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New &amp;Folder</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -905,7 +976,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Remove From List</source>
-        <translation>Elimină din listă</translation>
+        <translation type="obsolete">Elimină din listă</translation>
     </message>
     <message>
         <source>Open File Location</source>
@@ -918,6 +989,10 @@ cale:%3</translation>
     <message>
         <source>File Roaming</source>
         <translation>Roaming fișier</translation>
+    </message>
+    <message>
+        <source>Delete from List</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -939,7 +1014,11 @@ cale:%3</translation>
     </message>
     <message>
         <source>Cacel</source>
-        <translation>Anulează</translation>
+        <translation type="obsolete">Anulează</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anulează</translation>
     </message>
 </context>
 <context>
@@ -1122,10 +1201,14 @@ cale:%3</translation>
     <name>KTpRoamingPage</name>
     <message>
         <source>You have opened File Roaming:</source>
-        <translation>Ați deschis roaming fișier:</translation>
+        <translation type="obsolete">Ați deschis roaming fișier:</translation>
     </message>
     <message>
         <source>Look up my File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have enabled File Roaming:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1143,7 +1226,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>If you want to use marcos, please upgrade to professional or commercial version</source>
-        <translation>Dacă doriți să utilizați macrocomenzi, actualizați la versiunea comercială sau profesională</translation>
+        <translation type="obsolete">Dacă doriți să utilizați macrocomenzi, actualizați la versiunea comercială sau profesională</translation>
     </message>
     <message>
         <source>Learn Professional</source>
@@ -1162,6 +1245,10 @@ cale:%3</translation>
     <message>
         <source>The file you would like to open contains macros.</source>
         <translation>Fișierul pe care doriți să-l deschideți conține macrocomenzi.</translation>
+    </message>
+    <message>
+        <source>If you want to use macros, please upgrade to professional or business version</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1197,7 +1284,7 @@ cale:%3</translation>
     <name>KxCheckUploadDlg</name>
     <message>
         <source>Documents saving to the cloud failed. Please check the internet and retry</source>
-        <translation>A eșuat salvarea documentelor în nor. Verificați internetul și încercați din nou</translation>
+        <translation type="obsolete">A eșuat salvarea documentelor în nor. Verificați internetul și încercați din nou</translation>
     </message>
     <message>
         <source>Checking completed and will upload it at background</source>
@@ -1206,6 +1293,10 @@ cale:%3</translation>
     <message>
         <source>Checking cloud saving permissions. Please wait...</source>
         <translation>Se verifică permisiunile de salvare ale norului. Așteptați...</translation>
+    </message>
+    <message>
+        <source>Documents saving to the cloud failed. Please check the Internet and retry</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1358,7 +1449,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Restrict Editing Content.</source>
-        <translation>Restricționare editare conținut.</translation>
+        <translation type="obsolete">Restricționare editare conținut.</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -1446,6 +1537,10 @@ cale:%3</translation>
     </message>
     <message>
         <source>Goal Seek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict how people edit or format specific parts of the document.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1632,7 +1727,11 @@ cale:%3</translation>
     </message>
     <message>
         <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
-        <translation>Dacă ați achiziționat abonamentul,  autentificați-vă pentru a vă bucura de serviciu.</translation>
+        <translation type="obsolete">Dacă ați achiziționat abonamentul,  autentificați-vă pentru a vă bucura de serviciu.</translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription, please sign in to use WPS Office.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1846,7 +1945,7 @@ După expirare, unele funcții nu vor funcționa corespunzător. Reânnoiți acu
     </message>
     <message>
         <source>WPS Office Disable Features</source>
-        <translation>Funcții dezactivate WPS Office</translation>
+        <translation type="obsolete">Funcții dezactivate WPS Office</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -1875,6 +1974,10 @@ După expirare, unele funcții nu vor funcționa corespunzător. Reânnoiți acu
     <message>
         <source>Buy/Renew Now</source>
         <translation>Cumpără/Reânnoiește acum</translation>
+    </message>
+    <message>
+        <source>WPS Office Disabled Features</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1973,11 +2076,15 @@ După expirare, unele funcții nu vor funcționa corespunzător. Reânnoiți acu
     </message>
     <message>
         <source>Currently the trial, free and home versions of WPS Office cannot support VBA so that macros in the document cannot work properly.</source>
-        <translation>Versiunile curentă de încercare, gratuită și homea WPS Office nu poate suporta VBA astfel încât macrocomenzile din document nu pot funcționa corespunzător.</translation>
+        <translation type="obsolete">Versiunile curentă de încercare, gratuită și homea WPS Office nu poate suporta VBA astfel încât macrocomenzile din document nu pot funcționa corespunzător.</translation>
     </message>
     <message>
         <source>OK</source>
         <translation>OK</translation>
+    </message>
+    <message>
+        <source>Currently the trial, free and home versions of WPS Office cannot support VBA, thus macros in the document cannot work properly.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2048,7 +2155,12 @@ După expirare, unele funcții nu vor funcționa corespunzător. Reânnoiți acu
     <name>kxKOSLoginCommand</name>
     <message>
         <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
-        <translation>Dacă ați achiziționat abonamentul,  autentificați-vă pentru a vă bucura de serviciu.</translation>
+        <translation type="obsolete">Dacă ați achiziționat abonamentul,  autentificați-vă pentru a vă bucura de serviciu.</translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription, 
+please sign in to use WPS Office.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2077,11 +2189,19 @@ După expirare, unele funcții nu vor funcționa corespunzător. Reânnoiți acu
     <name>tips.DataRecover</name>
     <message>
         <source>Data Recovery Title</source>
-        <translation>Titlu recuperare date</translation>
+        <translation type="obsolete">Titlu recuperare date</translation>
     </message>
     <message>
         <source>Data Recovery Content</source>
-        <translation>Conținut recuperare date</translation>
+        <translation type="obsolete">Conținut recuperare date</translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished">WPS recuperare date Master</translation>
+    </message>
+    <message>
+        <source>Help you resume lost files due to disk corruption or accidental delete</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

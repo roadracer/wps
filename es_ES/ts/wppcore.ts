@@ -122,7 +122,7 @@
     <message>
         <source>This function is offered in WPS Office 2009 Prefessional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation>La función está ofrecida en WPS Office 2009 Profesional.</translation>
+        <translation type="obsolete">La función está ofrecida en WPS Office 2009 Profesional.</translation>
     </message>
     <message>
         <source>Title</source>
@@ -153,6 +153,11 @@
         <source>Wind</source>
         <comment>AEO_SOUNDEFFECT_Wind</comment>
         <translation>Viento</translation>
+    </message>
+    <message>
+        <source>This function is offered in WPS Office 2009 Professional.</source>
+        <comment>AEO_SHIELD_ObjectPathConvert</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -906,12 +911,12 @@ Quinto nivel</translation>
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
         <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation>Recientemente WPS Office solo soporta la vista de documentos de Microsofot Office 2010, usted no puede editar ni guardar. ¿Desea abrir el documento en modo de vista?</translation>
+        <translation type="obsolete">Recientemente WPS Office solo soporta la vista de documentos de Microsofot Office 2010, usted no puede editar ni guardar. ¿Desea abrir el documento en modo de vista?</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation>Recientemente WPS Office solo soporta la vista de documentos de Microsofot Office 2010, usted no puede guardar.</translation>
+        <translation type="obsolete">Recientemente WPS Office solo soporta la vista de documentos de Microsofot Office 2010, usted no puede guardar.</translation>
     </message>
     <message>
         <source>Currently only support viewing PowerPoint 2007 documents, the edit cannot be saved.</source>
@@ -1584,7 +1589,7 @@ Pruebe uno de los siguientes.
     </message>
     <message>
         <source>Presentation Caption</source>
-        <translation>Título de presentación</translation>
+        <translation type="obsolete">Título de presentación</translation>
     </message>
     <message>
         <source>Print: Page %d of %d</source>
@@ -2500,6 +2505,20 @@ Please make sure the file is not locked by another user, or the target disk is n
         <comment>WP_SAVE_PPT_FAILURE</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <comment>WP_ReadOnlyOpenOoxml</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot save.</source>
+        <comment>WP_OpenOoxmlLostEffect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presentation</source>
+        <translation type="unfinished">Presentación</translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppdata</name>
@@ -3342,7 +3361,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Cancelled by user.</source>
         <comment>wpp_sCancelByUser</comment>
-        <translation>Cancelado por usuario.</translation>
+        <translation type="obsolete">Cancelado por usuario.</translation>
     </message>
     <message>
         <source>Cannot add word“%s”.</source>
@@ -3357,7 +3376,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Cannot open the folder %s. It might be in a unavailable path, or proteced by password, or the folder path does not exist or the folder path is too long.</source>
         <comment>wpp_sCanNotOpenFolder</comment>
-        <translation>No se puede abrir la carpeta %s. Puede que esté en una ruta no disponible, o protegida por contraseña, o la ruta de la carpeta no exista o la ruta sea demasiado larga.</translation>
+        <translation type="obsolete">No se puede abrir la carpeta %s. Puede que esté en una ruta no disponible, o protegida por contraseña, o la ruta de la carpeta no exista o la ruta sea demasiado larga.</translation>
     </message>
     <message>
         <source>Center Revolve</source>
@@ -4573,7 +4592,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Out Slightlly</source>
         <comment>wpp_sAnimDirectionInSlightly</comment>
-        <translation>Ligeramente hacia afuera</translation>
+        <translation type="obsolete">Ligeramente hacia afuera</translation>
     </message>
     <message>
         <source>Out To Screen Bottom</source>
@@ -5554,6 +5573,21 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <comment>wpp_sPt</comment>
         <translation>pto</translation>
     </message>
+    <message>
+        <source>Out Slightly</source>
+        <comment>wpp_sAnimDirectionInSlightly</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canceled by user.</source>
+        <comment>wpp_sCancelByUser</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
+        <comment>wpp_sCanNotOpenFolder</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppuil</name>
@@ -5872,7 +5906,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Each slide in your presentation has been saved as a separate file in the folder %s .</source>
         <comment>WpSAVEIMAGEHINT</comment>
-        <translation>Se ha guardada cada diapositiva como un archivo separado en la carpeta %s.</translation>
+        <translation type="obsolete">Se ha guardada cada diapositiva como un archivo separado en la carpeta %s.</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -6663,6 +6697,12 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Device Independent Bitmap(*.bmp)</source>
         <comment>WpDescBMP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Each slide in your presentation has been saved as a separate file in the folder
+%s .</source>
+        <comment>WpSAVEIMAGEHINT</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

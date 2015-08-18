@@ -642,7 +642,12 @@
     <message>
         <source>This function is offered in WPS Office 2009 Prefessional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation>Diese Funktion wird durch WPS Office 2012 Professional angeboten.</translation>
+        <translation type="obsolete">Diese Funktion wird durch WPS Office 2012 Professional angeboten.</translation>
+    </message>
+    <message>
+        <source>This function is offered in WPS Office 2009 Professional.</source>
+        <comment>AEO_SHIELD_ObjectPathConvert</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2033,7 +2038,7 @@ Fünfte Ebene</translation>
     </message>
     <message>
         <source>Presentation Caption</source>
-        <translation>WPS-Präsentation</translation>
+        <translation type="obsolete">WPS-Präsentation</translation>
     </message>
     <message>
         <source>Print: Page %d of %d</source>
@@ -2985,14 +2990,9 @@ Versuchen Sie eine der folgenden Vorgehensweisen:
         <translation>%s kann die Audiodatei nicht abspielen. Stellen Sie sicher, dass die Audiodatei mit .wav formatiert und dass das Audiosystem im Computer normal ist. </translation>
     </message>
     <message>
-        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
-        <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation>Zurzeit wird von WPS-Office nur Anzeige von Microsofot Office 2010 Dokumenten unterstützt. Es kann nicht gespeichert werden.</translation>
+        <translation type="obsolete">Zurzeit wird von WPS-Office nur Anzeige von Microsofot Office 2010 Dokumenten unterstützt. Es kann nicht gespeichert werden.</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
@@ -3004,6 +3004,20 @@ Please make sure the file is not locked by another user, or the target disk is n
 (%s)</source>
         <comment>WP_SAVE_PPT_FAILURE</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <comment>WP_ReadOnlyOpenOoxml</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot save.</source>
+        <comment>WP_OpenOoxmlLostEffect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presentation</source>
+        <translation type="unfinished">Präsentation</translation>
     </message>
 </context>
 <context>
@@ -3847,7 +3861,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Cancelled by user.</source>
         <comment>wpp_sCancelByUser</comment>
-        <translation>Vom Benutzer abgebrochen.</translation>
+        <translation type="obsolete">Vom Benutzer abgebrochen.</translation>
     </message>
     <message>
         <source>Cannot add word“%s”.</source>
@@ -3862,7 +3876,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Cannot open the folder %s. It might be in a unavailable path, or proteced by password, or the folder path does not exist or the folder path is too long.</source>
         <comment>wpp_sCanNotOpenFolder</comment>
-        <translation>Der Ordner %s kann nicht geöffnet werden. Es ist vielleicht nicht in einem gültigen Pfad, oder mit Kennwort geschützt, oder der Ordnerpfad ist nicht vorhanden, oder der Ordnerpfad ist zu lang.</translation>
+        <translation type="obsolete">Der Ordner %s kann nicht geöffnet werden. Es ist vielleicht nicht in einem gültigen Pfad, oder mit Kennwort geschützt, oder der Ordnerpfad ist nicht vorhanden, oder der Ordnerpfad ist zu lang.</translation>
     </message>
     <message>
         <source>Center Revolve</source>
@@ -5068,7 +5082,7 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>Out Slightlly</source>
         <comment>wpp_sAnimDirectionInSlightly</comment>
-        <translation>Etwas nach außen</translation>
+        <translation type="obsolete">Etwas nach außen</translation>
     </message>
     <message>
         <source>Out To Screen Bottom</source>
@@ -6079,6 +6093,21 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
         <comment>wpp_sRemoveDefaultDict</comment>
         <translation>Das Entfernen des Benutzerwörterbuchs kann die Verwendung des Benutzerwörterbuchs in anderen WPS-Office-Anwendungen beeinträchtigen. Möchten Sie den Vorgang fortsetzen?</translation>
     </message>
+    <message>
+        <source>Out Slightly</source>
+        <comment>wpp_sAnimDirectionInSlightly</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canceled by user.</source>
+        <comment>wpp_sCancelByUser</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
+        <comment>wpp_sCanNotOpenFolder</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppuil</name>
@@ -6397,7 +6426,7 @@ Möchten Sie die Änderungen unter einer anderen Datei Speichern?</translation>
     <message>
         <source>Each slide in your presentation has been saved as a separate file in the folder %s .</source>
         <comment>WpSAVEIMAGEHINT</comment>
-        <translation>Jede Folie Ihrer Präsentation wurde als separate Datei im Ordner %s gespeichert.</translation>
+        <translation type="obsolete">Jede Folie Ihrer Präsentation wurde als separate Datei im Ordner %s gespeichert.</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -7210,6 +7239,12 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Device Independent Bitmap(*.bmp)</source>
         <comment>WpDescBMP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Each slide in your presentation has been saved as a separate file in the folder
+%s .</source>
+        <comment>WpSAVEIMAGEHINT</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

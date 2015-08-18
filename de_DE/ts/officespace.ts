@@ -178,11 +178,11 @@
         <translation type="obsolete">Dateiname</translation>
     </message>
     <message>
-        <source>New version is available, Please Refresh</source>
+        <source>New version is available. Please refresh.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New version is available, Please Check</source>
+        <source>New version is available. Please check.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -210,20 +210,8 @@
 <context>
     <name>KCommand</name>
     <message>
-        <source>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>\Kingsoft Office\AppData\Desktop.ini Name.</source>
         <translation type="obsolete">\Kingsoft Office\AppData\Desktop.ini Name.</translation>
-    </message>
-    <message>
-        <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Explore Versions</source>
@@ -236,10 +224,6 @@
     <message>
         <source>Important! Don&apos;t delete this directory.txt</source>
         <translation>Wichtig! directory.txt nicht löschen</translation>
-    </message>
-    <message>
-        <source>Kingsoft Office auto backup</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>link</source>
@@ -267,7 +251,7 @@
     </message>
     <message>
         <source>Login klive before explor backup dir.</source>
-        <translation>Vor dem durchsuchen des Sicherungsverzeichnisses bei klive einloggen</translation>
+        <translation type="obsolete">Vor dem durchsuchen des Sicherungsverzeichnisses bei klive einloggen</translation>
     </message>
     <message>
         <source>Login klive before explore versions.</source>
@@ -283,15 +267,15 @@
     </message>
     <message>
         <source>modifyTime:</source>
-        <translation>Änderungszeit:</translation>
+        <translation type="obsolete">Änderungszeit:</translation>
     </message>
     <message>
         <source>netbackup recover file</source>
-        <translation>Netzbackup Rettungsdatei</translation>
+        <translation type="obsolete">Netzbackup Rettungsdatei</translation>
     </message>
     <message>
         <source>netbackup rollback failed.</source>
-        <translation>Netzbackup rollback fehlgeschlagen.</translation>
+        <translation type="obsolete">Netzbackup rollback fehlgeschlagen.</translation>
     </message>
     <message>
         <source>Size:</source>
@@ -299,15 +283,11 @@
     </message>
     <message>
         <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files is created in the current computer.&lt;br /&gt;2. Backup files are manually cleared.</source>
-        <translation type="unfinished">Es sind keine Sicherungdateien im Sicherungsverzeichnis vorhanden.&lt;br /&gt;Dies, kann weil:&lt;br /&gt;1.Es wurde auf dem aktuellen PC keine Sicherung erstellt&lt;br /&gt;2. Sicherungen wurden manuell geleert.</translation>
-    </message>
-    <message>
-        <source>There is no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup is created for this file in the current computer.&lt;br /&gt;2. Backup file is manually cleared.</source>
-        <translation></translation>
+        <translation type="obsolete">Es sind keine Sicherungdateien im Sicherungsverzeichnis vorhanden.&lt;br /&gt;Dies, kann weil:&lt;br /&gt;1.Es wurde auf dem aktuellen PC keine Sicherung erstellt&lt;br /&gt;2. Sicherungen wurden manuell geleert.</translation>
     </message>
     <message>
         <source>This document has&apos;t activated auto backup, so backup file is not available.</source>
-        <translation>Für das Dokument ist kein automatische Sicherung aktiviert. Ein Sicherung ist daher nicht verfügung.</translation>
+        <translation type="obsolete">Für das Dokument ist kein automatische Sicherung aktiviert. Ein Sicherung ist daher nicht verfügung.</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -315,7 +295,7 @@
     </message>
     <message>
         <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation>Für Ihr Dokument wurde nun die automatische Sicherung aktiviert!&lt;br /&gt;Die Sicherung wird jedesmal bei schließen der Datei im Office Speicher erstellt</translation>
+        <translation type="obsolete">Für Ihr Dokument wurde nun die automatische Sicherung aktiviert!&lt;br /&gt;Die Sicherung wird jedesmal bei schließen der Datei im Office Speicher erstellt</translation>
     </message>
     <message>
         <source>WPS Office auto backup</source>
@@ -332,6 +312,57 @@
     <message>
         <source>\WPS Office\Desktop.ini name.</source>
         <translation type="obsolete">\WPS Office\Desktop.ini Name.</translation>
+    </message>
+    <message>
+        <source>Modify Time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Auto Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto bakcup has been enabled for the document now.&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto backup has not been activated for this document. So there is no backup file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files has been created for this file on the current computer.&lt;br /&gt;2. Backup files were manually cleared.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login klive before exploring backup directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files has been created on the current computer.&lt;br /&gt;2. Backup files were manually cleared.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to recover the file. The source file will be opened instead.
+This may because:
+1. The source file has been occupied by another program;
+2. Permission restricted in source file directory.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -527,7 +558,7 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>&amp;Encryption</source>
-        <translation type="obsolete">V&amp;erschlüsselung</translation>
+        <translation type="unfinished">V&amp;erschlüsselung</translation>
     </message>
     <message>
         <source>&amp;Forward</source>
@@ -699,7 +730,7 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>New &amp;Folder</source>
-        <translation type="obsolete">Neuer Ordner</translation>
+        <translation type="unfinished">Neuer Ordner</translation>
     </message>
     <message>
         <source>Online Documents</source>
@@ -719,11 +750,11 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>R&amp;efresh</source>
-        <translation type="obsolete">R&amp;efresh</translation>
+        <translation type="unfinished">R&amp;efresh</translation>
     </message>
     <message>
         <source>Rena&amp;me</source>
-        <translation type="obsolete">U&amp;mbenennen</translation>
+        <translation type="unfinished">U&amp;mbenennen</translation>
     </message>
     <message>
         <source>Save &amp;Type:</source>
@@ -808,7 +839,7 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>&amp;Encrypt</source>
-        <translation>V&amp;erschlüsselung</translation>
+        <translation type="obsolete">V&amp;erschlüsselung</translation>
     </message>
     <message>
         <source> - replica</source>
@@ -820,14 +851,6 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>&amp;Detail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>rena&amp;me</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>r&amp;efresh</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -876,10 +899,6 @@ Sind Sie sicher?</translation>
     </message>
     <message>
         <source>Go up dir</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>new &amp;folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1243,15 +1262,15 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remove From List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open File Location</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete from List</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1273,8 +1292,8 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cacel</source>
-        <translation type="unfinished"></translation>
+        <source>Cancel</source>
+        <translation type="unfinished">Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -1452,11 +1471,11 @@ path:%3</source>
 <context>
     <name>KTpRoamingPage</name>
     <message>
-        <source>You have opened File Roaming:</source>
+        <source>Look up my File Roaming</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Look up my File Roaming</source>
+        <source>You have enabled File Roaming:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1470,10 +1489,6 @@ path:%3</source>
     <message>
         <source>&quot;%1&quot; contains macros.</source>
         <extracomment>open a document contains macros</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you want to use marcos, please upgrade to professional or commercial version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1492,6 +1507,10 @@ path:%3</source>
     </message>
     <message>
         <source>The file you would like to open contains macros.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want to use macros, please upgrade to professional or business version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1527,15 +1546,15 @@ path:%3</source>
 <context>
     <name>KxCheckUploadDlg</name>
     <message>
-        <source>Documents saving to the cloud failed. Please check the internet and retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Checking completed and will upload it at background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Checking cloud saving permissions. Please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Documents saving to the cloud failed. Please check the Internet and retry</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1716,10 +1735,6 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Restrict Editing Content.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Macros</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1805,6 +1820,10 @@ path:%3</source>
     </message>
     <message>
         <source>Enable/Disable Online Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict how people edit or format specific parts of the document.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2106,7 +2125,7 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
+        <source>If you have purchased subscription, please sign in to use WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2368,10 +2387,6 @@ After expiration, some features will not work properly. Please renew now. </sour
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Office Disable Features</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The feature is not available in free version</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2381,6 +2396,10 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Buy/Renew Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Disabled Features</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2490,12 +2509,12 @@ After expiration, some features will not work properly. Please renew now. </sour
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Currently the trial, free and home versions of WPS Office cannot support VBA so that macros in the document cannot work properly.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation type="unfinished">Erstellen</translation>
+    </message>
+    <message>
+        <source>Currently the trial, free and home versions of WPS Office cannot support VBA, thus macros in the document cannot work properly.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2605,7 +2624,8 @@ After expiration, some features will not work properly. Please renew now. </sour
         <translation type="obsolete">OS_Login tip</translation>
     </message>
     <message>
-        <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
+        <source>If you have purchased subscription, 
+please sign in to use WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2634,11 +2654,11 @@ After expiration, some features will not work properly. Please renew now. </sour
 <context>
     <name>tips.DataRecover</name>
     <message>
-        <source>Data Recovery Title</source>
+        <source>WPS Data Recovery Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Data Recovery Content</source>
+        <source>Help you resume lost files due to disk corruption or accidental delete</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

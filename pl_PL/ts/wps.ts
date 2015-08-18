@@ -2260,11 +2260,15 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>cancel</source>
-        <translation>anuluj</translation>
+        <translation type="obsolete">anuluj</translation>
     </message>
     <message>
         <source>&amp;Paragraphs</source>
         <translation>&amp;Akapity</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anuluj</translation>
     </message>
 </context>
 <context>
@@ -2541,7 +2545,7 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>DocumentField Name</source>
-        <translation>Nazwa pola dokumentu</translation>
+        <translation type="obsolete">Nazwa pola dokumentu</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
@@ -2601,7 +2605,7 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>When inserted at beginning and end, then counted in. </source>
-        <translation>Po wstawieniu na początku i na końcu, następnie zliczone w </translation>
+        <translation type="obsolete">Po wstawieniu na początku i na końcu, następnie zliczone w </translation>
     </message>
     <message>
         <source>OK</source>
@@ -2610,6 +2614,14 @@ lub użyj odpowiedniego przycisku</translation>
     <message>
         <source>Cancel</source>
         <translation>Anuluj</translation>
+    </message>
+    <message>
+        <source>Document&amp;Field Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When inserted at beginning and end, then &amp;counted in. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2831,7 +2843,7 @@ lub użyj odpowiedniego przycisku</translation>
     <name>KxDlgEditDictionary</name>
     <message>
         <source>Edit Dictionary</source>
-        <translation>Edytowanie słownika</translation>
+        <translation type="obsolete">Edytowanie słownika</translation>
     </message>
     <message>
         <source>&amp;Word</source>
@@ -2853,6 +2865,10 @@ lub użyj odpowiedniego przycisku</translation>
         <source>Close</source>
         <translation>Zamknij</translation>
     </message>
+    <message>
+        <source>编辑字典</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgEmbedPrivateFonts</name>
@@ -2872,10 +2888,14 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Zapamiętaj tą operację, nie przypominaj mi ponownie</lengthvariant>
             <lengthvariant>Pamiętam tą operację, nie przypominaj mi ponownie</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3119,7 +3139,11 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Add the &amp;path to the file name</source>
-        <translation>Dodaj ś&amp;cieżkę do nazwy pliku</translation>
+        <translation type="obsolete">Dodaj ś&amp;cieżkę do nazwy pliku</translation>
+    </message>
+    <message>
+        <source>Add &amp;path to filename</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3234,7 +3258,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>replace options</source>
-        <translation>opcje zamiany</translation>
+        <translation type="obsolete">opcje zamiany</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -3401,6 +3425,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <message>
         <source>Find Previous(&amp;B)</source>
         <translation>Znajdź poprzedni(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Replace options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5937,6 +5965,18 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
         <source>D&amp;ocument fields</source>
         <translation>Pola d&amp;okumentu</translation>
     </message>
+    <message>
+        <source>Compatibility options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compatibilit&amp;y options for:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split &amp;apart page break and paragraph mark</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageNumbers</name>
@@ -7595,18 +7635,18 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
         <source>Field name record delimiter</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Ograniczniki rekordu Nazwa pola</lengthvariant>
             <lengthvariant>Ograniczniki rekordu nagłówka</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Data fields must use characters (called &quot;delimiter&quot;) to separated from each other; Similarly, data records must be separated by a record delimiter. Please use the following list to select the appropriate delimiter.</source>
-        <translation>Pola danych muszą użyć znaków (o nazwie &quot;ogranicznik&quot;), aby oddzielić każde od siebie; Podobnie rekordy danych muszą być oddzielone znakiem ogranicznika rekordu. Proszę użyj poniższej listy, aby wybrać odpowiedni ogranicznik.</translation>
+        <translation type="obsolete">Pola danych muszą użyć znaków (o nazwie &quot;ogranicznik&quot;), aby oddzielić każde od siebie; Podobnie rekordy danych muszą być oddzielone znakiem ogranicznika rekordu. Proszę użyj poniższej listy, aby wybrać odpowiedni ogranicznik.</translation>
     </message>
     <message>
         <source>Field delimiter:</source>
-        <translation>Ogranicznik pola:</translation>
+        <translation type="obsolete">Ogranicznik pola:</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -7738,7 +7778,23 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Record delimiter:</source>
-        <translation>Ogranicznik rekordu:</translation>
+        <translation type="obsolete">Ogranicznik rekordu:</translation>
+    </message>
+    <message>
+        <source>Header Record Delimiters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data fields must be separated from each other by a character called a field delimiter. Similarly, data records must be separated by a record delimiter. Use the lists below to select the appropriate delimiter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Field delimiter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Record delimiter:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7965,6 +8021,96 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
 </context>
 <context>
+    <name>KxExportToOFDDlg</name>
+    <message>
+        <source>Please input the password of permission setting!</source>
+        <translation type="unfinished">Proszę wpisać hasło ustawiania uprawnienia!</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">Potwierdzenie hasła jest niezgodne.</translation>
+    </message>
+    <message>
+        <source>Permission Password and Document Open Password must be different.</source>
+        <translation type="unfinished">Hasło uprawnień i hasło otwarcia dokumentu muszą być różne.</translation>
+    </message>
+    <message>
+        <source>Please specify the file name.</source>
+        <translation type="unfinished">Określ nazwę pliku.</translation>
+    </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation type="unfinished">Nazwa pliku jest taka sama jak istniejącego katalogu.</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished">Określony katalog nie istnieje.</translation>
+    </message>
+    <message>
+        <source>You have no permission to write files into this directory.</source>
+        <translation type="unfinished">Nie masz uprawnień do zapisu plików w tym katalogu.</translation>
+    </message>
+    <message>
+        <source>Save OFD File As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd|All File(*.*)|*.*</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Are you sure to replace the existing file?</source>
+        <translation type="unfinished">Określony plik już istnieje. Czy na pewno chcesz zastąpić istniejący plik?</translation>
+    </message>
+    <message>
+        <source>This is not a valid page range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error while trying exporting to OFD.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Zamknij</translation>
+    </message>
+    <message>
+        <source>Exporting summary information...</source>
+        <translation type="unfinished">Eksportowanie podsumowania...</translation>
+    </message>
+    <message>
+        <source>Exporting page %1...</source>
+        <translation type="unfinished">Eksportowanie strony %1...</translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="unfinished">Eksportowanie etykiet...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxExportToPDFDlg</name>
     <message>
         <source>Please input the password of permission setting!</source>
@@ -8009,6 +8155,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <message>
         <source>Save PDF File As</source>
         <translation>Zapisz plik PDF jako</translation>
+    </message>
+    <message>
+        <source>This is not a valid page range.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8256,7 +8406,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Presume the KingSoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE KingSoft</source>
-        <translation>Załóżmy, że ustawiono zmienną KingSoft przydzieloną jako 100 w VBA. Kod pola: DOCVARIABLE KingSoft</translation>
+        <translation type="obsolete">Załóżmy, że ustawiono zmienną KingSoft przydzieloną jako 100 w VBA. Kod pola: DOCVARIABLE KingSoft</translation>
     </message>
     <message>
         <source>Presume the document has opened a database which has the &quot;Company&quot; field. Field code:MERGEFIELD &quot;Company&quot;</source>
@@ -8347,18 +8497,18 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
-        <translation>Załóżmy, że adres url pliku to &quot;%1wps.doc&quot;. Kod pola: INCLUDETEXT &quot;%2wps.doc&quot;</translation>
+        <translation type="obsolete">Załóżmy, że adres url pliku to &quot;%1wps.doc&quot;. Kod pola: INCLUDETEXT &quot;%2wps.doc&quot;</translation>
     </message>
     <message>
         <source>IncludeText</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>IncludeText</lengthvariant>
             <lengthvariant>Dołącz_tekst</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Insert text to from a file</source>
-        <translation>Wstawia tekst z pliku</translation>
+        <translation type="obsolete">Wstawia tekst z pliku</translation>
     </message>
     <message>
         <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
@@ -8373,7 +8523,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Insert the file name of the document</source>
-        <translation>Wstawia nazwę pliku dokumentu</translation>
+        <translation type="obsolete">Wstawia nazwę pliku dokumentu</translation>
     </message>
     <message>
         <source>Forma&amp;t:</source>
@@ -8382,6 +8532,54 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <message>
         <source>Document &amp;property:</source>
         <translation>&amp;Właściwość dokumentu:</translation>
+    </message>
+    <message>
+        <source>Presume the Kingsoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE Kingsoft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;. Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert text from file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert file name of the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Nothing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lower</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FirstCap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SBCHAR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DBCHAR</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9388,63 +9586,63 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>0#</source>
-        <translation>0#</translation>
+        <translation type="obsolete">0#</translation>
     </message>
     <message>
         <source>0-#</source>
-        <translation>0-#</translation>
+        <translation type="obsolete">0-#</translation>
     </message>
     <message>
         <source>1#</source>
-        <translation>1#</translation>
+        <translation type="obsolete">1#</translation>
     </message>
     <message>
         <source>1-#</source>
-        <translation>1-#</translation>
+        <translation type="obsolete">1-#</translation>
     </message>
     <message>
         <source>2#</source>
-        <translation>2#</translation>
+        <translation type="obsolete">2#</translation>
     </message>
     <message>
         <source>2-#</source>
-        <translation>2-#</translation>
+        <translation type="obsolete">2-#</translation>
     </message>
     <message>
         <source>3#</source>
-        <translation>3#</translation>
+        <translation type="obsolete">3#</translation>
     </message>
     <message>
         <source>3-#</source>
-        <translation>3-#</translation>
+        <translation type="obsolete">3-#</translation>
     </message>
     <message>
         <source>4#</source>
-        <translation>4#</translation>
+        <translation type="obsolete">4#</translation>
     </message>
     <message>
         <source>4-#</source>
-        <translation>4-#</translation>
+        <translation type="obsolete">4-#</translation>
     </message>
     <message>
         <source>5#</source>
-        <translation>5#</translation>
+        <translation type="obsolete">5#</translation>
     </message>
     <message>
         <source>5-#</source>
-        <translation>5-#</translation>
+        <translation type="obsolete">5-#</translation>
     </message>
     <message>
         <source>6#</source>
-        <translation>6#</translation>
+        <translation type="obsolete">6#</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation>7#</translation>
+        <translation type="obsolete">7#</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation>8#</translation>
+        <translation type="obsolete">8#</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
@@ -9559,6 +9757,66 @@ Anuluj:	Powrót do okna dialogowego.</translation>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>Zapisywanie nie powiodło się. Szablon Normaly jest zajęty.</translation>
     </message>
+    <message>
+        <source>Chinese Chuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaochu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Yihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoyi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Erhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Sanhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Sihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Wuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaowu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Liuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Qihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Bahao</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxNewLabelDlg</name>
@@ -9618,7 +9876,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>LeftAndRight</source>
-        <translation>Z lewej i prawej</translation>
+        <translation type="obsolete">Z lewej i prawej</translation>
     </message>
     <message>
         <source>Dispersion</source>
@@ -9634,63 +9892,63 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>0#</source>
-        <translation>0#</translation>
+        <translation type="obsolete">0#</translation>
     </message>
     <message>
         <source>0-#</source>
-        <translation>0-#</translation>
+        <translation type="obsolete">0-#</translation>
     </message>
     <message>
         <source>1#</source>
-        <translation>1#</translation>
+        <translation type="obsolete">1#</translation>
     </message>
     <message>
         <source>1-#</source>
-        <translation>1-#</translation>
+        <translation type="obsolete">1-#</translation>
     </message>
     <message>
         <source>2#</source>
-        <translation>2#</translation>
+        <translation type="obsolete">2#</translation>
     </message>
     <message>
         <source>2-#</source>
-        <translation>2-#</translation>
+        <translation type="obsolete">2-#</translation>
     </message>
     <message>
         <source>3#</source>
-        <translation>3#</translation>
+        <translation type="obsolete">3#</translation>
     </message>
     <message>
         <source>3-#</source>
-        <translation>3-#</translation>
+        <translation type="obsolete">3-#</translation>
     </message>
     <message>
         <source>4#</source>
-        <translation>4#</translation>
+        <translation type="obsolete">4#</translation>
     </message>
     <message>
         <source>4-#</source>
-        <translation>4-#</translation>
+        <translation type="obsolete">4-#</translation>
     </message>
     <message>
         <source>5#</source>
-        <translation>5#</translation>
+        <translation type="obsolete">5#</translation>
     </message>
     <message>
         <source>5-#</source>
-        <translation>5-#</translation>
+        <translation type="obsolete">5-#</translation>
     </message>
     <message>
         <source>6#</source>
-        <translation>6#</translation>
+        <translation type="obsolete">6#</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation>7#</translation>
+        <translation type="obsolete">7#</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation>8#</translation>
+        <translation type="obsolete">8#</translation>
     </message>
     <message>
         <source>Left alignment</source>
@@ -9797,6 +10055,70 @@ Anuluj:	Powrót do okna dialogowego.</translation>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>Zapisywanie nie powiodło się. Szablon Normaly jest zajęty.</translation>
     </message>
+    <message>
+        <source>Left and Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Chuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaochu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Yihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoyi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Erhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Sanhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Sihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Wuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaowu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Liuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Qihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Bahao</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOptionsDlg</name>
@@ -9842,11 +10164,19 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
+        <translation type="obsolete">Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
         <translation>Nieprawidłowy katalog &quot;%1&quot;.</translation>
+    </message>
+    <message>
+        <source>No Documents Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10609,6 +10939,41 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
 </context>
 <context>
+    <name>KxTpXMLStructureWidget</name>
+    <message>
+        <source>Templates And AddIns...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is applied to the first element of this document. Do you want to apply to the entire document or only to the current range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to entire document(&amp;E)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to current selected content range only(&amp;S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel(&amp;C)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cann&apos;t add XML elements in multi areas.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cann&apos;t add XML elements here.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove %1 tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxTwoLinesInOneDlg</name>
     <message>
         <source>There are too many characters in the selection.</source>
@@ -10707,6 +11072,50 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <message>
         <source>&amp;Advanced...</source>
         <translation>&amp;Zaawansowane...</translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpXMLStructure</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Elements in the document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No XML elements have been applied to this document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make a selection in the document and then choose which element you want to apply from the list of elements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show XML tags in the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose an element to apply to your current selection:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List only child elements of current element</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can apply your own XML elements
+to a Word XML document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to apply your own XML elements in this document,you must first select a schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>you can do this by going to:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11547,6 +11956,152 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
         <source> Full path: </source>
         <translation> Pełna ścieżka: </translation>
     </message>
+    <message>
+        <source>XML Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available &amp;XML schemas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checked schemas are currently attached:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schema &amp;Library...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add S&amp;chema...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schema Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>URI:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMLExtend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attached XMLExtend Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Source URL:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete(&amp;R)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available XMLExtend Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select(&amp;A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete(&amp;E)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update(&amp;P)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add(&amp;D)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgXMLSchemaLibrary</name>
+    <message>
+        <source>Schema Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schemas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Select a schema:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add Schema...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sch&amp;ema Settings...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Update Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>URI:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgXMLSchemaSetting</name>
+    <message>
+        <source>Schema Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit schema information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Alias</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Location</source>
+        <translation type="unfinished">&amp;Lokalizacja</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">&amp;Przeglądaj...</translation>
+    </message>
+    <message>
+        <source>&amp;Changes affect current user only</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsDocMapWindow</name>
@@ -11571,7 +12126,11 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsFieldNameDelimiterDlg</name>
     <message>
         <source>Field delimiter and record delimiter cannot be same.</source>
-        <translation>Ogranicznik pola i ogranicznika rekordu nie mogą być takie same.</translation>
+        <translation type="obsolete">Ogranicznik pola i ogranicznika rekordu nie mogą być takie same.</translation>
+    </message>
+    <message>
+        <source>The field delimiter cannot be the same as the record delimiter.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12062,7 +12621,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>userName</source>
-        <translation>Nazwa użytkownika</translation>
+        <translation type="obsolete">Nazwa użytkownika</translation>
     </message>
     <message>
         <source>Change user...</source>
@@ -12106,7 +12665,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Permission expiration date:</source>
-        <translation>Data wygaśnięcia uprawnienia:</translation>
+        <translation type="obsolete">Data wygaśnięcia uprawnienia:</translation>
     </message>
     <message>
         <source>(N/A)</source>
@@ -12114,14 +12673,26 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Resquest additional permissions... </source>
-        <translation>Zażądaj dodatkowych uprawnień... </translation>
+        <translation type="obsolete">Zażądaj dodatkowych uprawnień... </translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWpsPictureWrapTypeComboBox</name>
     <message>
         <source>In Line With Text</source>
-        <translation>Równo z tekstem</translation>
+        <translation type="obsolete">Równo z tekstem</translation>
     </message>
     <message>
         <source>Square</source>
@@ -12146,6 +12717,10 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <message>
         <source>Top and Bottom</source>
         <translation>Góra i dół</translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12244,7 +12819,11 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Revision: %1</source>
-        <translation>Poprawka: %1</translation>
+        <translation type="obsolete">Poprawka: %1</translation>
+    </message>
+    <message>
+        <source>Revisions: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12602,6 +13181,46 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
         <source>Full path:</source>
         <translation>Pełna ścieżka:</translation>
     </message>
+    <message>
+        <source>Are you sure you want to delete the XMLExtend Pack on this computer?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add XMLExtend Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMLExtend Pack Instruction List(*.xml)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot Install the xml Extend or the xml schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the schema you choose is unable to use in document.The schema is possible unable or invalid, you may need other schema to run continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The operation will delete all the xmlnodes in the %1,do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> [disabled] </source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsTextDirectionCommand</name>
@@ -12693,6 +13312,53 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
 </context>
 <context>
+    <name>KxWpsXMLSchemaLibraryDlg</name>
+    <message>
+        <source>Add XMLSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot Install the xml Extend or the xml schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schema Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This will remove the schema and all associated files from the schema library. This may affect anyapplication that uses this schema. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsXMLSchemaSettingDlg</name>
+    <message>
+        <source>you must provide the URI name of the schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schema Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The schema you spacified uses a URI that is already in use by another schema. Click Browse to specify a schema tha uses a different URI, or click Cancel,
+remove the schema with the duplicate URI, and then add the schema you specified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add XMLSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsZoomCommand</name>
     <message>
         <source>This is not a valid measurement.</source>
@@ -12733,7 +13399,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>&quot;%1&quot; is already opened. Reopening will cause changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
-        <translation>&quot;%1&quot; jest już otwarty. Ponowne otwarcie spowoduje utratę nie zapisanych zmian. Czy na pewno chcesz ponownie otworzyć &quot;%2&quot;?</translation>
+        <translation type="obsolete">&quot;%1&quot; jest już otwarty. Ponowne otwarcie spowoduje utratę nie zapisanych zmian. Czy na pewno chcesz ponownie otworzyć &quot;%2&quot;?</translation>
     </message>
     <message>
         <source>WPS Writer 2007-2010 File(*.wpsx)</source>
@@ -12745,11 +13411,15 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>No macros is currently recording. Click to begin recording a new macro.</source>
-        <translation>W tej chwili nie są rejestrowane żadne makra. Kliknij, aby rozpocząć rejestrowanie nowego makra.</translation>
+        <translation type="obsolete">W tej chwili nie są rejestrowane żadne makra. Kliknij, aby rozpocząć rejestrowanie nowego makra.</translation>
     </message>
     <message>
         <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
         <translation>Szablon programu Kingsoft Writer 2007/2010(*.wptx)</translation>
+    </message>
+    <message>
+        <source>No macro is currently recording. Click to begin recording a new macro.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12809,6 +13479,180 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
             <lengthvariant>dialogitest</lengthvariant>
             <lengthvariant>dialogstest</lengthvariant>
         </translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Ogólne</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation type="unfinished">Zapisz &amp;do</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">&amp;Przeglądaj...</translation>
+    </message>
+    <message>
+        <source>Page range</source>
+        <translation type="unfinished">Zakres stron</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">Wszystkie</translation>
+    </message>
+    <message>
+        <source>Current page</source>
+        <translation type="unfinished">Bieżąca strona</translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished">Opcje eksportowania</translation>
+    </message>
+    <message>
+        <source>Summar&amp;y information</source>
+        <translation type="unfinished">Podsumowani&amp;e</translation>
+    </message>
+    <message>
+        <source>New &amp;Comment</source>
+        <translation type="unfinished">Nowy &amp;komentarz</translation>
+    </message>
+    <message>
+        <source>&amp;Hyperlink</source>
+        <translation type="unfinished">&amp;Hiperłącze</translation>
+    </message>
+    <message>
+        <source>Li&amp;nks of footnotes and endnotes</source>
+        <translation type="unfinished">Łą&amp;cza przypisów dolnych i końcowych</translation>
+    </message>
+    <message>
+        <source>Placeholder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Boo&amp;kmark</source>
+        <translation type="unfinished">&amp;Zakładka</translation>
+    </message>
+    <message>
+        <source>&amp;Revision</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Con&amp;vert title styles to bookmarks</source>
+        <translation type="unfinished">&amp;Konwertuj style tytułów do zakładek</translation>
+    </message>
+    <message>
+        <source>Convert other &amp;styles to bookmarks</source>
+        <translation type="unfinished">Konwertuj inne &amp;style do zakładek</translation>
+    </message>
+    <message>
+        <source>Convert c&amp;ustom styles to bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation type="unfinished">Ustawienia uprawnień</translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation type="unfinished">&amp;Hasło:</translation>
+    </message>
+    <message>
+        <source>Con&amp;firm:</source>
+        <translation type="unfinished">&amp;Potwierdź:</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to mo&amp;dify</source>
+        <translation type="unfinished">Zezwalaj na mo&amp;dyfikowanie</translation>
+    </message>
+    <message>
+        <source>Permit to c&amp;opy</source>
+        <translation type="unfinished">Zezwalaj na kopiowani&amp;e</translation>
+    </message>
+    <message>
+        <source>Permit to &amp;add comments</source>
+        <translation type="unfinished">Zezwalaj na &amp;dodawanie komentarzy</translation>
+    </message>
+    <message>
+        <source>P&amp;rinting permission:</source>
+        <translation type="unfinished">Uprawnienia d&amp;rukowania:</translation>
+    </message>
+    <message>
+        <source>Printing Permission</source>
+        <translation type="unfinished">Uprawnienia drukowania</translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation type="unfinished">Drukowanie niedozwolone</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished">Niska jakość druku</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished">Drukowanie bez ograniczeń</translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation type="unfinished">Hasło otwarcia pliku:</translation>
+    </message>
+    <message>
+        <source>Pass&amp;word:</source>
+        <translation type="unfinished">Ha&amp;sło:</translation>
+    </message>
+    <message>
+        <source>Conf&amp;irm:</source>
+        <translation type="unfinished">&amp;Potwierdź:</translation>
+    </message>
+    <message>
+        <source>Close when e&amp;xport completes</source>
+        <translation type="unfinished">Zamknij po zakończeniu e&amp;ksportowania</translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation type="unfinished">&amp;Otwórz plik</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anuluj</translation>
     </message>
 </context>
 <context>
@@ -12915,11 +13759,11 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation>Hasło ochrony ustawień uprawnień</translation>
+        <translation type="obsolete">Hasło ochrony ustawień uprawnień</translation>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>Uwaga: tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
+        <translation type="obsolete">Uwaga: tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
@@ -12944,6 +13788,42 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <message>
         <source>Export PDF File</source>
         <translation>Eksportuj plik PDF</translation>
+    </message>
+    <message>
+        <source>Page range</source>
+        <translation type="unfinished">Zakres stron</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">Wszystkie</translation>
+    </message>
+    <message>
+        <source>Current page</source>
+        <translation type="unfinished">Bieżąca strona</translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

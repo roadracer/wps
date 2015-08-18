@@ -129,11 +129,11 @@
     </message>
     <message>
         <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
-        <translation>濃い色2　強調3/強調4</translation>
+        <translation type="obsolete">濃い色2　強調3/強調4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
-        <translation>濃い色2　強調1/強調2</translation>
+        <translation type="obsolete">濃い色2　強調1/強調2</translation>
     </message>
     <message>
         <source>Emphasize</source>
@@ -182,6 +182,14 @@
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
         <translation>濃い色2　強調5/強調6</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
+        <translation type="unfinished">濃い色2　強調5/強調2 {2-?} {1/?}</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
+        <translation type="unfinished">濃い色2　強調5/強調4 {2-?} {3/?}</translation>
     </message>
 </context>
 <context>
@@ -740,7 +748,7 @@
     </message>
     <message>
         <source>UnLocked</source>
-        <translation>ロック解除</translation>
+        <translation type="obsolete">ロック解除</translation>
     </message>
     <message>
         <source>Until End of Slide</source>
@@ -761,6 +769,10 @@
     <message>
         <source>Sound &amp;volume:</source>
         <translation>音量(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Unlocked</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -911,11 +923,11 @@
         <translation>背景, テキストと線, 影, タイトルテキスト, 塗りつぶし, 強調, 強調とハイパーリンク, 強調と表示済みハイパーリンク</translation>
     </message>
     <message>
-        <source>bgMagic tooltip</source>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
+        <source>Try for magic!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1148,11 +1160,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Magic Backgroud</source>
+        <source>Template Background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Template Background</source>
+        <source>Magic Background</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1401,17 +1413,16 @@ the presentation file directly.You can put it with the presentation file in the 
         <translation type="unfinished">ダイアログ</translation>
     </message>
     <message>
-        <source>TextLabel</source>
+        <source>Text Label</source>
+        <translation type="unfinished">テキストラベル</translation>
+    </message>
+    <message>
+        <source>The document contains cloud fonts. For the convenience of your readers, 
+we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Application documents online font, if your document needs circulated others, 
-we recommend that you saved earlier document fonts. 
-If necessary, click Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remember this operation, do not remind anymore</source>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1951,7 +1962,7 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>Gerneral options</source>
-        <translation>全般オプション</translation>
+        <translation type="obsolete">全般オプション</translation>
     </message>
     <message>
         <source>Gray</source>
@@ -2227,11 +2238,15 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Password protect</source>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <source>General options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password protection</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2686,7 +2701,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Volume Redress</source>
-        <translation>音量改善</translation>
+        <translation type="obsolete">音量改善</translation>
     </message>
     <message>
         <source>cbMute</source>
@@ -2695,6 +2710,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>tbVolume</source>
         <translation>音量</translation>
+    </message>
+    <message>
+        <source>Volume Adjustment</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3043,6 +3062,89 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
 </context>
 <context>
+    <name>KxExportOFDDlg</name>
+    <message>
+        <source>Save OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd||</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished">配布資料</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation type="unfinished">ノート</translation>
+    </message>
+    <message>
+        <source>Please input the password of permission settings!</source>
+        <translation type="unfinished">書き込みパスワードを入力して下さい</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">パスワードが一致しません</translation>
+    </message>
+    <message>
+        <source>Input permission password.</source>
+        <translation type="unfinished">書き込みパスワードの入力</translation>
+    </message>
+    <message>
+        <source>Permission password and document open password must be different.</source>
+        <translation type="unfinished">書き込みパスワードと読み込みパスワードは異なるものにして下さい</translation>
+    </message>
+    <message>
+        <source>Invalid input.        </source>
+        <translation type="unfinished">無効な入力です</translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Do you want to replace it and continue?</source>
+        <translation type="unfinished">指定したファイル名はすでに存在します。置き換えますか？</translation>
+    </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation type="unfinished">ファイル名が現存するディレクトリと同じです</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished">指定したフォルダが存在しません。</translation>
+    </message>
+    <message>
+        <source>You do not have permission to write files into this directory.</source>
+        <translation type="unfinished">このディレクトリ内では書き込み権限がありません</translation>
+    </message>
+    <message>
+        <source>The slide you selected to export does not exist. Please select another one.</source>
+        <translation type="unfinished">選択されたスライドが存在しません。別のスライドを選択して下さい</translation>
+    </message>
+    <message>
+        <source>All slides in this custom show are hidden.</source>
+        <translation type="unfinished">ユーザー設定スライドショーのすべてのスライドをスキップする</translation>
+    </message>
+    <message>
+        <source>All slides in this range are hidden.</source>
+        <translation type="unfinished">現在の選択範囲のすべてのスライドをスキップする</translation>
+    </message>
+    <message>
+        <source>The selected slides are hidden.</source>
+        <translation type="unfinished">選択したスライドをスキップする</translation>
+    </message>
+    <message>
+        <source>Current slide has marked as hidden.</source>
+        <translation type="unfinished">現在のスライドをスキップする</translation>
+    </message>
+    <message>
+        <source>All slides in current presentation are hidden.</source>
+        <translation type="unfinished">現在のプレゼンテーションのすべてのスライドをスキップする</translation>
+    </message>
+    <message>
+        <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
+        <translation type="unfinished">スライドがスキップされていないか、スキップスライドとして保存されていないか確認して下さい</translation>
+    </message>
+</context>
+<context>
     <name>KxExportPDFDlg</name>
     <message>
         <source>&amp;Advanced</source>
@@ -3179,6 +3281,53 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
         <translation>スライドがスキップされていないか、スキップスライドとして保存されていないか確認して下さい</translation>
+    </message>
+</context>
+<context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User canceled operation.</source>
+        <translation type="unfinished">ユーザーにより操作がキャンセルされました</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">閉じる</translation>
+    </message>
+    <message>
+        <source>Exporting document information...</source>
+        <translation type="unfinished">出力ドキュメントの情報</translation>
+    </message>
+    <message>
+        <source>Exporting No.</source>
+        <translation type="unfinished">番号を出力中</translation>
+    </message>
+    <message>
+        <source> Page...</source>
+        <translation type="unfinished">ページ...</translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="unfinished">ラベルを出力中</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error while trying exporting to OFD!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3495,15 +3644,11 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Comfirmation password does not match.</source>
-        <translation>再入力パスワードエラー</translation>
+        <translation type="obsolete">再入力パスワードエラー</translation>
     </message>
     <message>
         <source>&amp;Open</source>
         <translation type="obsolete">開く</translation>
-    </message>
-    <message>
-        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
@@ -3512,6 +3657,14 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>Select Folder:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">パスワードが一致しません</translation>
     </message>
 </context>
 <context>
@@ -5223,6 +5376,224 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
 </context>
 <context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished">標準</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation type="unfinished">保存先(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export range</source>
+        <translation type="unfinished">出力範囲</translation>
+    </message>
+    <message>
+        <source>A&amp;ll</source>
+        <translation type="unfinished">すべて(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Current slide</source>
+        <translation type="unfinished">現在のスライド(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Selection</source>
+        <translation type="unfinished">選択されたスライド(&amp;S)</translation>
+    </message>
+    <message>
+        <source>C&amp;ustom slide shows:</source>
+        <translation type="unfinished">ユーザー設定スライドショー(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Sl&amp;ides:</source>
+        <translation type="unfinished">スライド(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
+        <translation type="unfinished">スライド番号または範囲を区切って入力して下さい。 例）1,3, 5-12</translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished">出力オプション</translation>
+    </message>
+    <message>
+        <source>Export &amp;what:</source>
+        <translation type="unfinished">出力範囲(&amp;W):</translation>
+    </message>
+    <message>
+        <source>Slides</source>
+        <translation type="unfinished">スライド</translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished">配布資料</translation>
+    </message>
+    <message>
+        <source>Notes pages</source>
+        <translation type="unfinished">ノート</translation>
+    </message>
+    <message>
+        <source>Outline view</source>
+        <translation type="unfinished">アウトライン表示</translation>
+    </message>
+    <message>
+        <source>Color/&amp;Grayscale:</source>
+        <translation type="unfinished">カラー/グレースケール(&amp;G):</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pure black and white</source>
+        <translation type="unfinished">単純白黒</translation>
+    </message>
+    <message>
+        <source>Slides p&amp;er page:</source>
+        <translation type="unfinished">1ページあたりのスライド数(&amp;E):</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="unfinished">1</translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation type="unfinished">2</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation type="unfinished">3</translation>
+    </message>
+    <message>
+        <source>4</source>
+        <translation type="unfinished">4</translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation type="unfinished">6</translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Order:</source>
+        <translation type="unfinished">順序:</translation>
+    </message>
+    <message>
+        <source>Hori&amp;zontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ICON</source>
+        <translation type="unfinished">アイコン</translation>
+    </message>
+    <message>
+        <source>Fra&amp;me slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print &amp;hidden slides</source>
+        <translation type="unfinished">非表示スライドを印刷する(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation type="unfinished">アクセス制限の設定</translation>
+    </message>
+    <message>
+        <source>Passw&amp;ord to protect permission settings</source>
+        <translation type="unfinished">アクセス制限の設定（次の設定を有効にする(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation type="unfinished">パスワード(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Con&amp;firm:</source>
+        <translation type="unfinished">確認(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to modify</source>
+        <translation type="unfinished">変更可能</translation>
+    </message>
+    <message>
+        <source>Permit to copy</source>
+        <translation type="unfinished">コピー可能</translation>
+    </message>
+    <message>
+        <source>Permit to add comments</source>
+        <translation type="unfinished">コメント追加可能</translation>
+    </message>
+    <message>
+        <source>Printing permission:</source>
+        <translation type="unfinished">印刷権限：</translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation type="unfinished">印刷禁止</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished">低品質印刷のみ可</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished">印刷許可</translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation type="unfinished">読み取りパスワード</translation>
+    </message>
+    <message>
+        <source>Passwor&amp;d:</source>
+        <translation type="unfinished">パスワード(&amp;D):</translation>
+    </message>
+    <message>
+        <source>Confi&amp;rm:</source>
+        <translation type="unfinished">確認(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Close when e&amp;xport completes</source>
+        <translation type="unfinished">出力後に自動的に閉じる(&amp;X)</translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation type="unfinished">ファイルを開く(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
+    </message>
+</context>
+<context>
     <name>kdlgExportToPDF</name>
     <message>
         <source>&amp;Advanced</source>
@@ -5454,7 +5825,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>注意: アクセス制限のパスワードを設定した上で、以下の「読み取りパスワード」を設定すると、他人に変更されないようファイルを保護できます。</translation>
+        <translation type="obsolete">注意: アクセス制限のパスワードを設定した上で、以下の「読み取りパスワード」を設定すると、他人に変更されないようファイルを保護できます。</translation>
     </message>
     <message>
         <source>Printing permission:</source>
@@ -5475,6 +5846,10 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>Note: Only setting password, the following options can be valid on note, and prevented others changing on note.</source>
         <translation type="obsolete">注意: 上のパスワードを設定した上で、次の「読み取りパスワード」を設定し、他人に変更されないように保護できます</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

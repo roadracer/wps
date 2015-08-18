@@ -53,6 +53,10 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation type="unfinished"></translation>
     </message>
@@ -86,10 +90,6 @@
     </message>
     <message>
         <source>Plastic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snapper</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -458,7 +458,7 @@
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Strich-Punkt-Punkt</translation>
+        <translation type="obsolete">Strich-Punkt-Punkt</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -515,6 +515,10 @@
     <message>
         <source>Even Width</source>
         <translation type="obsolete">Gleiche Breite</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -587,6 +591,10 @@
     <message>
         <source>Long Dash Dot</source>
         <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -777,10 +785,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solid</source>
         <translation type="unfinished">Gesättigt</translation>
     </message>
@@ -874,6 +878,10 @@
         <translation>Verteilt</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Font</source>
         <translation>Schriftart</translation>
     </message>
@@ -911,10 +919,6 @@
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snapper</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1253,6 +1257,10 @@
 <context>
     <name>classics.shadow_settings</name>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Shadow Colors</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1282,10 +1290,6 @@
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snapper</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1493,6 +1497,10 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fill Color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1538,10 +1546,6 @@ Master</source>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snapper</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1860,7 +1864,7 @@ Effects</source>
         <translation>Hintergrund</translation>
     </message>
     <message>
-        <source>Batch Set Font</source>
+        <source>Bulk Font Setting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2320,7 +2324,7 @@ On</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Strich-Punkt-Punkt</translation>
+        <translation type="obsolete">Strich-Punkt-Punkt</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -2487,6 +2491,10 @@ On</source>
         <translation>Langer Strich-Punkt</translation>
     </message>
     <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
         <translation type="obsolete">Langer Strich-Punkt</translation>
     </message>
@@ -2624,7 +2632,11 @@ On</source>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation type="unfinished">Behoben</translation>
+        <translation type="obsolete">Behoben</translation>
+    </message>
+    <message>
+        <source>Upholding Fixed</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -3156,7 +3168,7 @@ Effects</source>
         <translation>Aufzählungszeichen</translation>
     </message>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3197,7 +3209,7 @@ Effects</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Strich-Punkt-Punkt</translation>
+        <translation type="obsolete">Strich-Punkt-Punkt</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -3379,15 +3391,15 @@ Slide</source>
         <translation>Abstand vergrößern</translation>
     </message>
     <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Bild einfügen</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3421,6 +3433,10 @@ Slide</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -3730,10 +3746,6 @@ Effects</source>
         <translation type="obsolete">Aktionseinstellungen</translation>
     </message>
     <message>
-        <source>Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Background
 Music</source>
         <translation>Hintergrundmusik</translation>
@@ -3745,6 +3757,10 @@ Music</source>
     <message>
         <source>Chart</source>
         <translation>Diagramm</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -3800,12 +3816,12 @@ Footer</source>
         <translation>Bilder</translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Insert Chart</source>
         <translation>Datendiagramm einfügen</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Data Chart</source>
@@ -3902,12 +3918,12 @@ Number</source>
         <translation>Folienzahl</translation>
     </message>
     <message>
-        <source>Slide Number</source>
-        <translation type="obsolete">Folienzahl</translation>
+        <source>Slide Library</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
-        <translation type="unfinished"></translation>
+        <source>Slide Number</source>
+        <translation type="obsolete">Folienzahl</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -3949,39 +3965,39 @@ Number</source>
 <context>
     <name>ongmani.ct_orgchart</name>
     <message>
-        <source>0.25 pt.</source>
+        <source>0.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.5 pt.</source>
+        <source>0.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.75 pt.</source>
+        <source>0.75 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1 pt.</source>
+        <source>1 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1.5 pt.</source>
+        <source>1.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>2.25 pt.</source>
+        <source>2.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3 pt.</source>
+        <source>3 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>4.5 pt.</source>
+        <source>4.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>6 pt.</source>
+        <source>6 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4050,7 +4066,7 @@ Number</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Strich-Punkt-Punkt</translation>
+        <translation type="obsolete">Strich-Punkt-Punkt</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -4077,15 +4093,7 @@ Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Line Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line Sytle Palette</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4095,6 +4103,10 @@ Number</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -4127,6 +4139,10 @@ Number</source>
     <message>
         <source>Pattern</source>
         <translation>Struktur</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -4215,10 +4231,6 @@ Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>FitText Tip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Left Hanging</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4232,6 +4244,10 @@ Number</source>
     </message>
     <message>
         <source>Reset Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize shape to fit text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4318,10 +4334,6 @@ Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Automatic</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4336,6 +4348,10 @@ Number</source>
     <message>
         <source>Change
 Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4361,7 +4377,7 @@ Pictures</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Strich-Punkt-Punkt</translation>
+        <translation type="obsolete">Strich-Punkt-Punkt</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -4398,6 +4414,10 @@ Pictures</source>
     <message>
         <source>Equal Width</source>
         <translation>Gleiche Breite</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill</source>
@@ -4448,16 +4468,16 @@ Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <translation>Bild einfügen</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -4474,6 +4494,10 @@ Pictures</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -4613,10 +4637,6 @@ On/Off</source>
     <message>
         <source>Shadow Style</source>
         <translation type="obsolete">Schattenstil</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Solid</source>
@@ -4789,6 +4809,10 @@ Order</source>
         <translation>Chinesisch-Umwandlung</translation>
     </message>
     <message>
+        <source>Conversion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Convert to Simplified Chinese</source>
         <translation type="unfinished">In vereinfachtes Chinesisch umwandeln</translation>
     </message>
@@ -4956,6 +4980,10 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5046,10 +5074,6 @@ Effects</source>
     <message>
         <source>Shadow Style</source>
         <translation type="obsolete">Schattenstil</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -5240,7 +5264,7 @@ Master</source>
 <context>
     <name>ongmani.ct_slideshow</name>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5842,6 +5866,10 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5931,10 +5959,6 @@ Effects</source>
     <message>
         <source>Shadow Style</source>
         <translation type="obsolete">Schattenstil</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -6135,7 +6159,7 @@ Spacing</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Strich-Punkt-Punkt</translation>
+        <translation type="obsolete">Strich-Punkt-Punkt</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -6296,6 +6320,10 @@ Spacing</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -6499,11 +6527,11 @@ Shape</source>
 <context>
     <name>ongmani.ct_workspace</name>
     <message>
-        <source>Batch Set Font</source>
+        <source>Bulk Font Setting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6587,7 +6615,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
+        <source>Slide Library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6618,39 +6646,39 @@ Shape</source>
 <context>
     <name>popupmenu</name>
     <message>
-        <source>0.25 pt.</source>
+        <source>0.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.5 pt.</source>
+        <source>0.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.75 pt.</source>
+        <source>0.75 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1 pt.</source>
+        <source>1 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1.5 pt.</source>
+        <source>1.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>2.25 pt.</source>
+        <source>2.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3 pt.</source>
+        <source>3 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>4.5 pt.</source>
+        <source>4.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>6 pt.</source>
+        <source>6 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6784,10 +6812,6 @@ Shape</source>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Artistic Clip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6929,6 +6953,10 @@ Add-Ins</source>
         <translation>Chinesisch-Umwandlung</translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clipboard</source>
         <translation>Zwischenablage</translation>
     </message>
@@ -7029,15 +7057,11 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7253,6 +7277,10 @@ Add-Ins</source>
         <translation>Gepackt exportieren</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation type="obsolete">Feedback</translation>
     </message>
@@ -7281,11 +7309,11 @@ Add-Ins</source>
         <translation>Flash</translation>
     </message>
     <message>
-        <source>Flip Horizontally</source>
+        <source>Flip Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flip Vertically</source>
+        <source>Flip Vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7325,7 +7353,7 @@ Add-Ins</source>
         <translation>Zur Folie wechseln</translation>
     </message>
     <message>
-        <source>Gradiant</source>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7402,11 +7430,15 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation type="unfinished">Artistic Clip einfügen</translation>
+        <translation type="obsolete">Artistic Clip einfügen</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">Artistic Clip einfügen</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Columns</source>
@@ -7489,15 +7521,11 @@ Add-Ins</source>
         <translation>Zeilenumbruch</translation>
     </message>
     <message>
-        <source>Line Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Line Spacing</source>
         <translation>Zeilenabstand</translation>
     </message>
     <message>
-        <source>Line Sytle Palette</source>
+        <source>Line Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7505,7 +7533,11 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7599,12 +7631,12 @@ Master</source>
 Folienmaster</translation>
     </message>
     <message>
-        <source>New Slide From Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>New Slide Master</source>
         <translation>Neuer Folienmaster</translation>
+    </message>
+    <message>
+        <source>New Slide Online</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Title Master</source>
@@ -7720,6 +7752,10 @@ Folienmaster</translation>
     </message>
     <message>
         <source>Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8009,10 +8045,6 @@ Folienmaster</translation>
     <message>
         <source>Smooth Point</source>
         <translation>Weicher Punkt</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Solid</source>
@@ -8382,7 +8414,7 @@ Folienmaster</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Batch Set Font</source>
+        <source>Bulk Font Setting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8728,7 +8760,7 @@ Template</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Strich-Punkt-Punkt</translation>
+        <translation type="obsolete">Strich-Punkt-Punkt</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -8817,6 +8849,10 @@ Template</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -9404,7 +9440,7 @@ Template</source>
         <translation type="unfinished">Aufzählungszeichen</translation>
     </message>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9445,7 +9481,7 @@ Template</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Strich-Punkt-Punkt</translation>
+        <translation type="obsolete">Strich-Punkt-Punkt</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -9609,15 +9645,15 @@ Slide</source>
         <translation>Abstand vergrößern</translation>
     </message>
     <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Bild einfügen</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9647,6 +9683,10 @@ Slide</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -9954,15 +9994,15 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Background Music</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10002,15 +10042,19 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Insert Chart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Hyperlink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10031,10 +10075,6 @@ Slide</source>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10086,11 +10126,11 @@ Slide</source>
         <translation>Formen</translation>
     </message>
     <message>
-        <source>Slide Number</source>
+        <source>Slide Library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
+        <source>Slide Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10234,7 +10274,7 @@ Slide</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Strich-Punkt-Punkt</translation>
+        <translation type="obsolete">Strich-Punkt-Punkt</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -10261,15 +10301,7 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Line Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line Sytle Palette</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10279,6 +10311,10 @@ Slide</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -10311,6 +10347,10 @@ Slide</source>
     <message>
         <source>Pattern</source>
         <translation>Struktur</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -10507,10 +10547,6 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Automatic</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10528,6 +10564,10 @@ Subordinate</source>
     </message>
     <message>
         <source>Change Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10552,7 +10592,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Strich-Punkt-Punkt</translation>
+        <translation type="obsolete">Strich-Punkt-Punkt</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -10639,7 +10679,7 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
+        <source>Insert Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10665,6 +10705,10 @@ Subordinate</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -11096,6 +11140,10 @@ Subordinate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11184,10 +11232,6 @@ Subordinate</source>
         <translation type="obsolete">Schattenstil</translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Surface</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11255,7 +11299,7 @@ Master</source>
 <context>
     <name>rainbow.ct_slideshow</name>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11645,6 +11689,10 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11733,10 +11781,6 @@ Effects</source>
     <message>
         <source>Shadow Style</source>
         <translation type="obsolete">Schattenstil</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -11919,7 +11963,7 @@ Effects</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Strich-Punkt-Punkt</translation>
+        <translation type="obsolete">Strich-Punkt-Punkt</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -12076,6 +12120,10 @@ Effects</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -12277,11 +12325,11 @@ Effects</source>
 <context>
     <name>rainbow.ct_workspace</name>
     <message>
-        <source>Batch Set Font</source>
+        <source>Bulk Font Setting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12365,7 +12413,7 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
+        <source>Slide Library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12787,7 +12835,7 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
+        <source>Slide Library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12937,10 +12985,6 @@ Effects</source>
         <translation type="obsolete">KeinTabSeite</translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open</source>
         <translation type="obsolete">Öffnen</translation>
     </message>
@@ -12995,6 +13039,10 @@ Effects</source>
     <message>
         <source>Slide Sorter</source>
         <translation>Foliensortierung</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Standard</source>
@@ -13673,6 +13721,10 @@ Effects</source>
         <translation type="obsolete">Punkte ändern</translation>
     </message>
     <message>
+        <source>Change Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Text Orientation</source>
         <translation type="obsolete">Textausrichtung ändern</translation>
     </message>
@@ -13833,7 +13885,7 @@ Effects</source>
         <translation type="obsolete">In traditionelles Chinesisch umwandeln</translation>
     </message>
     <message>
-        <source>Creat Cloud Link</source>
+        <source>Create Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14596,6 +14648,10 @@ Slide</source>
         <translation>Makros</translation>
     </message>
     <message>
+        <source>Magic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>MailFeedBack</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14858,10 +14914,6 @@ Slide</source>
     <message>
         <source>Object Select</source>
         <translation type="obsolete">Objekt auswählen</translation>
-    </message>
-    <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
@@ -15533,6 +15585,10 @@ Slide</source>
         <translation type="obsolete">Quadratischer Punkt</translation>
     </message>
     <message>
+        <source>Status Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Stop</source>
         <translation type="obsolete">Anhalten</translation>
     </message>
@@ -15857,20 +15913,8 @@ Slide</source>
         <translation type="obsolete">Aufzählungszeichen_6</translation>
     </message>
     <message>
-        <source>change template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>magic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>numbering_0</source>
         <translation type="obsolete">Nummerierung_0</translation>
-    </message>
-    <message>
-        <source>statusbar</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16139,7 +16183,7 @@ Slide</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation type="unfinished">Arbeitsbereich</translation>
+        <translation type="obsolete">Arbeitsbereich</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -16228,6 +16272,10 @@ Slide</source>
     <message>
         <source>Slide Show</source>
         <translation>Bildschirmpräsentation</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -16860,7 +16908,7 @@ Slide</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation type="unfinished">Arbeitsbereich</translation>
+        <translation type="obsolete">Arbeitsbereich</translation>
     </message>
     <message>
         <source>Open</source>
@@ -17159,6 +17207,10 @@ Transition</source>
     <message>
         <source>Speaker Notes</source>
         <translation type="obsolete">Sprechernotizen</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split Cells</source>

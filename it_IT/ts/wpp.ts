@@ -39,14 +39,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Emphasize</source>
         <translation type="unfinished"></translation>
     </message>
@@ -90,6 +82,14 @@
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DesignLayoutPanel</name>
@@ -118,7 +118,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add &amp;Design</source>
+        <source>Add Design</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -259,6 +259,29 @@
     </message>
     <message>
         <source>Slides in &amp;presentation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DlgKxInvolvedTemplate</name>
+    <message>
+        <source>Involved Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Involved Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Master</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -611,10 +634,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UnLocked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Until End of Slide</source>
         <translation type="unfinished"></translation>
     </message>
@@ -624,6 +643,10 @@
     </message>
     <message>
         <source>With Previous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlocked</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -749,6 +772,14 @@
     <name>KxBackgroundDlg</name>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Try for magic!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -943,6 +974,18 @@
         <source>I&amp;gnore the background of master slide</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template Background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magic Background</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgBkgndMusicTip</name>
@@ -1124,6 +1167,26 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEmbedPrivateFonts</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The document contains cloud fonts. For the convenience of your readers, 
+we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1553,10 +1616,10 @@ the presentation file directly.You can put it with the presentation file in the 
         <source>&amp;Vertical ruler</source>
         <translation type="unfinished"></translation>
     </message>
-	<message>
-		<source>Show &amp;windows in taskbar</source>
-		<translation type="unfinished"></translation>
-	</message>
+    <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>...</source>
         <translation type="unfinished"></translation>
@@ -1610,11 +1673,6 @@ the presentation file directly.You can put it with the presentation file in the 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter a password below to protect this document.
-The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>File encryption options for this document</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1628,10 +1686,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>General and Save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gerneral options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1814,6 +1868,46 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Spell Check</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>General options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto&amp;Recover file location:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preserve &amp;fidelity when sharing this document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed fon&amp;ts in the file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed all &amp;characters (best for editing by other people)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remind &amp;Me When Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password protection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
@@ -1917,10 +2011,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>On-screen show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Orientation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1937,10 +2027,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Projector</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Slides</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1950,6 +2036,26 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen(4:3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overhead</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen(16:9)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen(16:10)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Widescreen</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2173,15 +2279,15 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Volume Redress</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>cbMute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>tbVolume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume Adjustment</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2499,6 +2605,89 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>KxExportOFDDlg</name>
+    <message>
+        <source>Save OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd||</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input the password of permission settings!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input permission password.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission password and document open password must be different.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid input.        </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Do you want to replace it and continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You do not have permission to write files into this directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The slide you selected to export does not exist. Please select another one.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All slides in this custom show are hidden.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All slides in this range are hidden.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected slides are hidden.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current slide has marked as hidden.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All slides in current presentation are hidden.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxExportPDFDlg</name>
     <message>
         <source>All slides in current presentation are hidden.</source>
@@ -2553,10 +2742,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save Adobe PDF File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The directory you specified does not exist.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2578,6 +2763,57 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>You do not have permission to write files into this directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User canceled operation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting document information...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting No.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Page...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error while trying exporting to OFD!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2772,6 +3008,20 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>KxInvolvedTemplateDlg</name>
+    <message>
+        <source>Blank Design</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxInvolvedTemplateView</name>
+    <message>
+        <source>Use Blank Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Banded Columns</source>
@@ -2832,10 +3082,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
 <context>
     <name>KxOptionsDlg</name>
     <message>
-        <source>Comfirmation password does not match.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please select one &amp;folder:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2845,6 +3091,22 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory &quot;%1&quot; is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Folder:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3211,7 +3473,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Zoom</source>
+        <source>Slide Transition</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4223,6 +4485,224 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;ll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Current slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;ustom slide shows:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sl&amp;ides:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export &amp;what:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Notes pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color/&amp;Grayscale:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pure black and white</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slides p&amp;er page:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Order:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hori&amp;zontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ICON</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fra&amp;me slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print &amp;hidden slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Passw&amp;ord to protect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Con&amp;firm:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to modify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to add comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing permission:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Passwor&amp;d:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confi&amp;rm:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close when e&amp;xport completes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>kdlgExportToPDF</name>
     <message>
         <source>&amp;Browse...</source>
@@ -4302,10 +4782,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Export &amp;what:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export Adobe PDF File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4416,8 +4892,12 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Slides p&amp;er page:</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
-        <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
+    <message>
+        <source>Export PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4432,11 +4912,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export to Adobe PDF File</source>
+        <source>Preparing for exporting PDF file...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preparing for exporting PDF file...</source>
+        <source>Export to PDF File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

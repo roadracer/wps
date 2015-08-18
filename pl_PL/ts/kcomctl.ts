@@ -472,14 +472,14 @@
     <message>
         <source>Can not find the file &quot;%1&quot;.
 the file may be renamed,deleted or moved the location.</source>
-        <translation>Nie można odnaleźć pliku &quot;%1&quot;.
+        <translation type="obsolete">Nie można odnaleźć pliku &quot;%1&quot;.
 Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji.</translation>
     </message>
     <message>
         <source>
 
 modify time: </source>
-        <translation>
+        <translation type="obsolete">
 
 Godzina modyfikacji: </translation>
     </message>
@@ -487,9 +487,27 @@ Godzina modyfikacji: </translation>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation>
+        <translation type="obsolete">
 
 Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji</translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Modified time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -586,8 +604,13 @@ wielokrotne=wielokrotne
     <message>
         <source>Some components are not installed correctly,
 please reinstall WPS Office!</source>
-        <translation>Niektóre składniki nie są zainstalowane poprawnie,
+        <translation type="obsolete">Niektóre składniki nie są zainstalowane poprawnie,
 proszę ponownie zainstalować WPS Office!</translation>
+    </message>
+    <message>
+        <source>Some components are not installed correctly.
+Please reinstall WPS Office!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

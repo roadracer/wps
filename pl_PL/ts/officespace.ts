@@ -166,11 +166,19 @@
     </message>
     <message>
         <source>New version is available, Please Refresh</source>
-        <translation>Dostępna jest nowa wersja. Proszę odśwież.</translation>
+        <translation type="obsolete">Dostępna jest nowa wersja. Proszę odśwież.</translation>
     </message>
     <message>
         <source>New version is available, Please Check</source>
-        <translation>Dostępna jest nowa wersja. Proszę sprawdź.</translation>
+        <translation type="obsolete">Dostępna jest nowa wersja. Proszę sprawdź.</translation>
+    </message>
+    <message>
+        <source>New version is available. Please refresh.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is available. Please check.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -210,23 +218,23 @@
     </message>
     <message>
         <source>modifyTime:</source>
-        <translation>godzina modyfikacji:</translation>
+        <translation type="obsolete">godzina modyfikacji:</translation>
     </message>
     <message>
         <source>Kingsoft Office auto backup</source>
-        <translation>Automatyczna kopia zapasowa Kingsoft Office</translation>
+        <translation type="obsolete">Automatyczna kopia zapasowa Kingsoft Office</translation>
     </message>
     <message>
         <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\Desktop.ini name.</translation>
+        <translation type="obsolete">\Kingsoft Office\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\AppData\Desktop.ini name.</translation>
+        <translation type="obsolete">\Kingsoft Office\AppData\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</translation>
+        <translation type="obsolete">\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -246,7 +254,7 @@
     </message>
     <message>
         <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation>Dokument ma teraz włączone automatyczne tworzenie kopii zapasowych!&lt;br /&gt;Plik kopii zapasowej zostanie utworzony w Przestrzeni biurowej za każdym razem, gdy dokument zostanie zamknięty.</translation>
+        <translation type="obsolete">Dokument ma teraz włączone automatyczne tworzenie kopii zapasowych!&lt;br /&gt;Plik kopii zapasowej zostanie utworzony w Przestrzeni biurowej za każdym razem, gdy dokument zostanie zamknięty.</translation>
     </message>
     <message>
         <source>Login File Safe before manual backup.</source>
@@ -258,11 +266,11 @@
     </message>
     <message>
         <source>This document has&apos;t activated auto backup, so backup file is not available.</source>
-        <translation>Ten dokument nie ma aktywowanego automatycznego tworzenia kopii zapasowej, więc plik kopii zapasowej nie jest dostępny.</translation>
+        <translation type="obsolete">Ten dokument nie ma aktywowanego automatycznego tworzenia kopii zapasowej, więc plik kopii zapasowej nie jest dostępny.</translation>
     </message>
     <message>
         <source>There is no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup is created for this file in the current computer.&lt;br /&gt;2. Backup file is manually cleared.</source>
-        <translation>Nie istnieje kopia zapasowa dla tego pliku w katalogu kopii zapasowych.&lt;br /&gt;Może to być spowodowane tym, że:&lt;br /&gt;1. Nie zostały utworzone pliki kopii zapasowych dla tego pliku na bieżącym komputerze.&lt;br /&gt;2. Pliki kopii zapasowych zostały ręcznie wyczyszczone.</translation>
+        <translation type="obsolete">Nie istnieje kopia zapasowa dla tego pliku w katalogu kopii zapasowych.&lt;br /&gt;Może to być spowodowane tym, że:&lt;br /&gt;1. Nie zostały utworzone pliki kopii zapasowych dla tego pliku na bieżącym komputerze.&lt;br /&gt;2. Pliki kopii zapasowych zostały ręcznie wyczyszczone.</translation>
     </message>
     <message>
         <source>Login klive before canceling auto backup.</source>
@@ -270,11 +278,11 @@
     </message>
     <message>
         <source>Login klive before explor backup dir.</source>
-        <translation>Zaloguj klive przed eksploracją katalogu kopii zapasowych.</translation>
+        <translation type="obsolete">Zaloguj klive przed eksploracją katalogu kopii zapasowych.</translation>
     </message>
     <message>
         <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files is created in the current computer.&lt;br /&gt;2. Backup files are manually cleared.</source>
-        <translation>Nie istnieje kopia zapasowa plików w katalogu kopii zapasowych.&lt;br /&gt;Może to być spowodowane tym, że:&lt;br /&gt;1. Nie zostały utworzone pliki kopii zapasowych na bieżącym komputerze.&lt;br /&gt;2. Pliki kopii zapasowych zostały ręcznie wyczyszczone.</translation>
+        <translation type="obsolete">Nie istnieje kopia zapasowa plików w katalogu kopii zapasowych.&lt;br /&gt;Może to być spowodowane tym, że:&lt;br /&gt;1. Nie zostały utworzone pliki kopii zapasowych na bieżącym komputerze.&lt;br /&gt;2. Pliki kopii zapasowych zostały ręcznie wyczyszczone.</translation>
     </message>
     <message>
         <source>Important! Don&apos;t delete this directory.txt</source>
@@ -293,15 +301,66 @@
     </message>
     <message>
         <source>netbackup recover file</source>
-        <translation>plik odzyskiwania netbackup</translation>
+        <translation type="obsolete">plik odzyskiwania netbackup</translation>
     </message>
     <message>
         <source>netbackup rollback failed.</source>
-        <translation>wycofywanie netbackup nie powiodło się.</translation>
+        <translation type="obsolete">wycofywanie netbackup nie powiodło się.</translation>
     </message>
     <message>
         <source>http://www.kingsoftstore.com/support/pc-office</source>
         <translation>http://www.kingsoftstore.com/support/pc-office</translation>
+    </message>
+    <message>
+        <source>Modify Time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Auto Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto bakcup has been enabled for the document now.&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto backup has not been activated for this document. So there is no backup file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files has been created for this file on the current computer.&lt;br /&gt;2. Backup files were manually cleared.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login klive before exploring backup directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files has been created on the current computer.&lt;br /&gt;2. Backup files were manually cleared.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to recover the file. The source file will be opened instead.
+This may because:
+1. The source file has been occupied by another program;
+2. Permission restricted in source file directory.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -569,7 +628,7 @@
     </message>
     <message>
         <source>&amp;Encrypt</source>
-        <translation>&amp;Szyfruj</translation>
+        <translation type="obsolete">&amp;Szyfruj</translation>
     </message>
     <message>
         <source> - replica</source>
@@ -585,11 +644,11 @@
     </message>
     <message>
         <source>rena&amp;me</source>
-        <translation>Z&amp;mień nazwę</translation>
+        <translation type="obsolete">Z&amp;mień nazwę</translation>
     </message>
     <message>
         <source>r&amp;efresh</source>
-        <translation>O&amp;dśwież</translation>
+        <translation type="obsolete">O&amp;dśwież</translation>
     </message>
     <message>
         <source>Cut and paste currently selected content to clipboard</source>
@@ -641,7 +700,7 @@
     </message>
     <message>
         <source>new &amp;folder</source>
-        <translation>Nowy &amp;folder</translation>
+        <translation type="obsolete">Nowy &amp;folder</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -706,6 +765,22 @@
     <message>
         <source>Cloud Docs</source>
         <translation>Dokumenty usługi Cloud</translation>
+    </message>
+    <message>
+        <source>&amp;Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rena&amp;me</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R&amp;efresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New &amp;Folder</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -911,7 +986,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Remove From List</source>
-        <translation>Usuń z listy</translation>
+        <translation type="obsolete">Usuń z listy</translation>
     </message>
     <message>
         <source>Open File Location</source>
@@ -924,6 +999,10 @@ rozmiar:%2
     <message>
         <source>File Roaming</source>
         <translation>Roaming pliku</translation>
+    </message>
+    <message>
+        <source>Delete from List</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -945,7 +1024,11 @@ rozmiar:%2
     </message>
     <message>
         <source>Cacel</source>
-        <translation>Anuluj</translation>
+        <translation type="obsolete">Anuluj</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anuluj</translation>
     </message>
 </context>
 <context>
@@ -1140,11 +1223,15 @@ rozmiar:%2
     <name>KTpRoamingPage</name>
     <message>
         <source>You have opened File Roaming:</source>
-        <translation>Masz otwarty Roaming pliku:</translation>
+        <translation type="obsolete">Masz otwarty Roaming pliku:</translation>
     </message>
     <message>
         <source>Look up my File Roaming</source>
         <translation>Odszukaj mój Roaming pliku</translation>
+    </message>
+    <message>
+        <source>You have enabled File Roaming:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1161,7 +1248,7 @@ rozmiar:%2
     </message>
     <message>
         <source>If you want to use marcos, please upgrade to professional or commercial version</source>
-        <translation>Jeżeli chcesz użyć makr, uaktualnij do wersji Professional lub Komercyjnej</translation>
+        <translation type="obsolete">Jeżeli chcesz użyć makr, uaktualnij do wersji Professional lub Komercyjnej</translation>
     </message>
     <message>
         <source>Learn Professional</source>
@@ -1180,6 +1267,10 @@ rozmiar:%2
     <message>
         <source>The file you would like to open contains macros.</source>
         <translation>Plik, który chcesz otworzyć zawiera makra.</translation>
+    </message>
+    <message>
+        <source>If you want to use macros, please upgrade to professional or business version</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1215,7 +1306,7 @@ rozmiar:%2
     <name>KxCheckUploadDlg</name>
     <message>
         <source>Documents saving to the cloud failed. Please check the internet and retry</source>
-        <translation>Zapisywanie dokumentów do usługi Cloud nie powiodło się. Proszę sprawdź połączenie internetowe i spróbuj ponownie</translation>
+        <translation type="obsolete">Zapisywanie dokumentów do usługi Cloud nie powiodło się. Proszę sprawdź połączenie internetowe i spróbuj ponownie</translation>
     </message>
     <message>
         <source>Checking completed and will upload it at background</source>
@@ -1224,6 +1315,10 @@ rozmiar:%2
     <message>
         <source>Checking cloud saving permissions. Please wait...</source>
         <translation>Sprawdzanie uprawnień zapisywania do usługi Cloud. Proszę czekać...</translation>
+    </message>
+    <message>
+        <source>Documents saving to the cloud failed. Please check the Internet and retry</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1376,7 +1471,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Restrict Editing Content.</source>
-        <translation>Ogranicz edytowanie zawartości.</translation>
+        <translation type="obsolete">Ogranicz edytowanie zawartości.</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -1465,6 +1560,10 @@ rozmiar:%2
     <message>
         <source>Goal Seek</source>
         <translation>Szukanie wyniku</translation>
+    </message>
+    <message>
+        <source>Restrict how people edit or format specific parts of the document.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1650,7 +1749,11 @@ rozmiar:%2
     </message>
     <message>
         <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
-        <translation>Jeżeli zakupiłeś subskrypcję, proszę zaloguj się, aby korzystać z usługi.</translation>
+        <translation type="obsolete">Jeżeli zakupiłeś subskrypcję, proszę zaloguj się, aby korzystać z usługi.</translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription, please sign in to use WPS Office.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1870,7 +1973,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>WPS Office Disable Features</source>
-        <translation>Wyłączone funkcje WPS Office</translation>
+        <translation type="obsolete">Wyłączone funkcje WPS Office</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -1899,6 +2002,10 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     <message>
         <source>Buy/Renew Now</source>
         <translation>Kup/Odnów teraz</translation>
+    </message>
+    <message>
+        <source>WPS Office Disabled Features</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1997,11 +2104,15 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>Currently the trial, free and home versions of WPS Office cannot support VBA so that macros in the document cannot work properly.</source>
-        <translation>Aktualnie trial, wersje free i home WPS Office nie obsługują języka VBA, dlatego makra w dokumencie nie mogą działać poprawnie.</translation>
+        <translation type="obsolete">Aktualnie trial, wersje free i home WPS Office nie obsługują języka VBA, dlatego makra w dokumencie nie mogą działać poprawnie.</translation>
     </message>
     <message>
         <source>OK</source>
         <translation>OK</translation>
+    </message>
+    <message>
+        <source>Currently the trial, free and home versions of WPS Office cannot support VBA, thus macros in the document cannot work properly.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2072,7 +2183,12 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     <name>kxKOSLoginCommand</name>
     <message>
         <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
-        <translation>Jeżeli zakupiłeś subskrypcję, proszę zaloguj się, aby korzystać z usługi.</translation>
+        <translation type="obsolete">Jeżeli zakupiłeś subskrypcję, proszę zaloguj się, aby korzystać z usługi.</translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription, 
+please sign in to use WPS Office.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2101,11 +2217,19 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     <name>tips.DataRecover</name>
     <message>
         <source>Data Recovery Title</source>
-        <translation>Tytuł odzyskiwanych danych</translation>
+        <translation type="obsolete">Tytuł odzyskiwanych danych</translation>
     </message>
     <message>
         <source>Data Recovery Content</source>
-        <translation>Zawartość odzyskiwanych danych</translation>
+        <translation type="obsolete">Zawartość odzyskiwanych danych</translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished">Wzorzec do odzyskiwania danych WPS</translation>
+    </message>
+    <message>
+        <source>Help you resume lost files due to disk corruption or accidental delete</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

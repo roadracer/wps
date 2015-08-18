@@ -53,6 +53,10 @@
         <translation>اتجاه</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>لانهاية</translation>
     </message>
@@ -87,10 +91,6 @@
     <message>
         <source>Plastic</source>
         <translation>بلاستيكي</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -485,10 +485,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
@@ -535,6 +531,10 @@
     <message>
         <source>Equal Width</source>
         <translation>متساوية العرض</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -614,6 +614,10 @@
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -813,10 +817,6 @@
         <translation type="obsolete">تحريك</translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solid</source>
         <translation>صلب</translation>
     </message>
@@ -910,6 +910,10 @@
         <translation>موزع</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Font</source>
         <translation>خط الكتابة</translation>
     </message>
@@ -948,10 +952,6 @@
     <message>
         <source>Slide Layout</source>
         <translation>تخطيط الشريحة</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -1305,6 +1305,10 @@
 <context>
     <name>classics.shadow_settings</name>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Shadow Colors</source>
         <translation>مزيد من ألوان الظل</translation>
     </message>
@@ -1351,10 +1355,6 @@
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">إزاحة الظل إلى الأعلى</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1594,6 +1594,10 @@ Master</source>
         <translation>توزيع الصفوف بالتساوي</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fill Color</source>
         <translation>لون التعبئة</translation>
     </message>
@@ -1644,10 +1648,6 @@ Master</source>
     <message>
         <source>Select Table</source>
         <translation>تحديد الجدول</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -1973,7 +1973,7 @@ Effects</source>
         <translation>خلفية</translation>
     </message>
     <message>
-        <source>Batch Set Font</source>
+        <source>Bulk Font Setting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2449,10 +2449,6 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
@@ -2617,6 +2613,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
         <translation type="obsolete">تقطع طويل-نقطة</translation>
     </message>
@@ -2762,7 +2762,11 @@ On</source>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation>محاذاة إلى الأسفل</translation>
+        <translation type="obsolete">محاذاة إلى الأسفل</translation>
+    </message>
+    <message>
+        <source>Upholding Fixed</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -3326,7 +3330,7 @@ Effects</source>
         <translation>تعداد نقطي</translation>
     </message>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3363,10 +3367,6 @@ Effects</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3550,15 +3550,15 @@ Slide</source>
         <translation>زيادة التباعد</translation>
     </message>
     <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>إدراج صورة</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3591,6 +3591,10 @@ Slide</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3888,10 +3892,6 @@ Effects</source>
         <translation type="obsolete">إعدادات الإجراءات</translation>
     </message>
     <message>
-        <source>Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Atristic Clip</source>
         <translation type="obsolete">كليب فني</translation>
     </message>
@@ -3907,6 +3907,10 @@ Music</source>
     <message>
         <source>Chart</source>
         <translation>مخطط</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -3958,15 +3962,15 @@ Footer</source>
         <translation>صور</translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">إدراج كليب فني</translation>
     </message>
     <message>
         <source>Insert Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4064,12 +4068,12 @@ Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Number</source>
-        <translation type="obsolete">رقم الشريحة</translation>
+        <source>Slide Library</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
-        <translation type="unfinished"></translation>
+        <source>Slide Number</source>
+        <translation type="obsolete">رقم الشريحة</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -4111,40 +4115,76 @@ Number</source>
 <context>
     <name>ongmani.ct_orgchart</name>
     <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>0.25 pt.</source>
-        <translation>0.25 نقطة.</translation>
+        <translation type="obsolete">0.25 نقطة.</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation>0.5 نقطة.</translation>
+        <translation type="obsolete">0.5 نقطة.</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation>0.75 نقطة.</translation>
+        <translation type="obsolete">0.75 نقطة.</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation>1 نقطة.</translation>
+        <translation type="obsolete">1 نقطة.</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation>1.5 نقطة.</translation>
+        <translation type="obsolete">1.5 نقطة.</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation>2.25 نقطة.</translation>
+        <translation type="obsolete">2.25 نقطة.</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation>3 نقطة.</translation>
+        <translation type="obsolete">3 نقطة.</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation>4.5 نقطة.</translation>
+        <translation type="obsolete">4.5 نقطة.</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation>6 نقطة.</translation>
+        <translation type="obsolete">6 نقطة.</translation>
     </message>
     <message>
         <source>Adjust Structure</source>
@@ -4211,10 +4251,6 @@ Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
@@ -4240,7 +4276,7 @@ Number</source>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation>تأثيرات خط الرسم</translation>
+        <translation type="obsolete">تأثيرات خط الرسم</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -4248,7 +4284,7 @@ Number</source>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation>لوحة نمط الخط</translation>
+        <translation type="obsolete">لوحة نمط الخط</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -4256,6 +4292,10 @@ Number</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4293,6 +4333,10 @@ Number</source>
     <message>
         <source>Pattern</source>
         <translation>زخرفة</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -4410,7 +4454,7 @@ Number</source>
     </message>
     <message>
         <source>FitText Tip</source>
-        <translation>تلميح احتواء النص</translation>
+        <translation type="obsolete">تلميح احتواء النص</translation>
     </message>
     <message>
         <source>Left Hanging</source>
@@ -4431,6 +4475,10 @@ Number</source>
     <message>
         <source>ResetLayout</source>
         <translation type="obsolete">إعادة تعيين التخطيط</translation>
+    </message>
+    <message>
+        <source>Resize shape to fit text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Right Hanging</source>
@@ -4520,10 +4568,6 @@ Number</source>
         <translation>تنظيم</translation>
     </message>
     <message>
-        <source>Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Automatic</source>
         <translation>تلقائي</translation>
     </message>
@@ -4543,6 +4587,10 @@ Picture</source>
     <message>
         <source>Change Picture</source>
         <translation type="obsolete">تغيير الصورة</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Color</source>
@@ -4567,10 +4615,6 @@ Pictures</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4608,6 +4652,10 @@ Pictures</source>
     <message>
         <source>Equal Width</source>
         <translation>متساوية العرض</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill</source>
@@ -4662,16 +4710,16 @@ Pictures</source>
         <translation>إدراج</translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <translation>إدراج صورة</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -4687,6 +4735,10 @@ Pictures</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4872,10 +4924,6 @@ On/Off</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">إزاحة الظل إلى الأعلى</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Solid</source>
@@ -5088,6 +5136,10 @@ Order</source>
         <translation>تحويل الصينية</translation>
     </message>
     <message>
+        <source>Conversion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Convert to Simplified Chinese</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5275,6 +5327,10 @@ Effects</source>
         <translation>اتجاه</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>لانهاية</translation>
     </message>
@@ -5394,10 +5450,6 @@ Effects</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">إزاحة الظل إلى الأعلى</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -5627,7 +5679,7 @@ Master</source>
 <context>
     <name>ongmani.ct_slideshow</name>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6278,6 +6330,10 @@ On/Off</source>
         <translation>اتجاه</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>لانهاية</translation>
     </message>
@@ -6392,10 +6448,6 @@ Effects</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">إزاحة الظل إلى الأعلى</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -6604,10 +6656,6 @@ Spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
@@ -6761,6 +6809,10 @@ Spacing</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7001,11 +7053,11 @@ Shape</source>
         <translation type="obsolete">إصدار تلقائي</translation>
     </message>
     <message>
-        <source>Batch Set Font</source>
+        <source>Bulk Font Setting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7153,7 +7205,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
+        <source>Slide Library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7216,39 +7268,39 @@ Shape</source>
         <translation type="obsolete">0 سجل أكثر</translation>
     </message>
     <message>
-        <source>0.25 pt.</source>
+        <source>0.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.5 pt.</source>
+        <source>0.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.75 pt.</source>
+        <source>0.75 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1 pt.</source>
+        <source>1 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1.5 pt.</source>
+        <source>1.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>2.25 pt.</source>
+        <source>2.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3 pt.</source>
+        <source>3 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>4.5 pt.</source>
+        <source>4.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>6 pt.</source>
+        <source>6 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7385,10 +7437,6 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Auto Point</source>
         <translation type="obsolete">نقطة تلقائية</translation>
     </message>
@@ -7514,6 +7562,10 @@ Add-Ins</source>
         <translation>تحويل الصينية</translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clipboard</source>
         <translation>حافظة</translation>
     </message>
@@ -7610,15 +7662,11 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7834,6 +7882,10 @@ Add-Ins</source>
         <translation>تصدير إلى حزمة</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation type="obsolete">تعليقات</translation>
     </message>
@@ -7862,11 +7914,11 @@ Add-Ins</source>
         <translation>فلاش</translation>
     </message>
     <message>
-        <source>Flip Horizontally</source>
+        <source>Flip Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flip Vertically</source>
+        <source>Flip Vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7906,7 +7958,7 @@ Add-Ins</source>
         <translation>إذهب إلى الشريحة</translation>
     </message>
     <message>
-        <source>Gradiant</source>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7982,7 +8034,7 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
+        <source>Insert Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8118,15 +8170,11 @@ Add-Ins</source>
         <translation>فاصل الأسطر</translation>
     </message>
     <message>
-        <source>Line Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Line Spacing</source>
         <translation>تباعد الأسطر</translation>
     </message>
     <message>
-        <source>Line Sytle Palette</source>
+        <source>Line Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8134,7 +8182,11 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8220,12 +8272,12 @@ Master</source>
 جديد</translation>
     </message>
     <message>
-        <source>New Slide From Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>New Slide Master</source>
         <translation>نموذج شريحة جديد</translation>
+    </message>
+    <message>
+        <source>New Slide Online</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Title Master</source>
@@ -8337,6 +8389,10 @@ Master</source>
     </message>
     <message>
         <source>Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8622,10 +8678,6 @@ Master</source>
     <message>
         <source>Smooth Point</source>
         <translation>نقطة سلسة</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Solid</source>
@@ -9047,7 +9099,7 @@ Master</source>
         <translation>خلفية</translation>
     </message>
     <message>
-        <source>Batch Set Font</source>
+        <source>Bulk Font Setting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9398,10 +9450,6 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
@@ -9487,6 +9535,10 @@ AddIns</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10127,7 +10179,7 @@ AddIns</source>
         <translation>تعداد نقطي</translation>
     </message>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10164,10 +10216,6 @@ AddIns</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10337,15 +10385,15 @@ Slide</source>
         <translation>زيادة التباعد</translation>
     </message>
     <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>إدراج صورة</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10374,6 +10422,10 @@ Slide</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10694,10 +10746,6 @@ Slide</source>
         <translation type="obsolete">إعدادات الإجراءات</translation>
     </message>
     <message>
-        <source>Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Atristic Clip</source>
         <translation type="obsolete">كليب فني</translation>
     </message>
@@ -10708,6 +10756,10 @@ Slide</source>
     <message>
         <source>Chart</source>
         <translation>مخطط</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -10758,15 +10810,15 @@ Slide</source>
         <translation>صور</translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">إدراج كليب فني</translation>
     </message>
     <message>
         <source>Insert Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10776,6 +10828,10 @@ Slide</source>
     <message>
         <source>Insert Hyperlink</source>
         <translation>إدراج ارتباط تشعبي</translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Organization Chart</source>
@@ -10796,10 +10852,6 @@ Slide</source>
     <message>
         <source>Insert WordArt</source>
         <translation>إدراج WordArt</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Links</source>
@@ -10854,12 +10906,12 @@ Slide</source>
         <translation>أشكال</translation>
     </message>
     <message>
-        <source>Slide Number</source>
-        <translation>رقم الشريحة</translation>
+        <source>Slide Library</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
-        <translation type="unfinished"></translation>
+        <source>Slide Number</source>
+        <translation>رقم الشريحة</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -11037,10 +11089,6 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
@@ -11066,7 +11114,7 @@ Slide</source>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation>تأثيرات خط الرسم</translation>
+        <translation type="obsolete">تأثيرات خط الرسم</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -11074,7 +11122,7 @@ Slide</source>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation>لوحة نمط الخط</translation>
+        <translation type="obsolete">لوحة نمط الخط</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -11082,6 +11130,10 @@ Slide</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11119,6 +11171,10 @@ Slide</source>
     <message>
         <source>Pattern</source>
         <translation>زخرفة</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -11328,10 +11384,6 @@ Subordinate</source>
         <translation>تنظيم</translation>
     </message>
     <message>
-        <source>Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Atristic Clip</source>
         <translation type="obsolete">كليب فني</translation>
     </message>
@@ -11356,6 +11408,10 @@ Subordinate</source>
         <translation>تغيير الصورة</translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Color</source>
         <translation>لون</translation>
     </message>
@@ -11373,10 +11429,6 @@ Subordinate</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11468,12 +11520,12 @@ Subordinate</source>
         <translation>إدراج</translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">إدراج كليب فني</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -11497,6 +11549,10 @@ Subordinate</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11993,6 +12049,10 @@ Subordinate</source>
         <translation>اتجاه</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>لانهاية</translation>
     </message>
@@ -12097,10 +12157,6 @@ Subordinate</source>
         <translation type="obsolete">إزاحة الظل إلى الأعلى</translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Surface</source>
         <translation>سطح</translation>
     </message>
@@ -12169,7 +12225,7 @@ Master</source>
 <context>
     <name>rainbow.ct_slideshow</name>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12614,6 +12670,10 @@ Effects</source>
         <translation>اتجاه</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>لانهاية</translation>
     </message>
@@ -12722,10 +12782,6 @@ Effects</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">إزاحة الظل إلى الأعلى</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -12911,10 +12967,6 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>نمط متقطع</translation>
     </message>
@@ -13064,6 +13116,10 @@ Effects</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13278,11 +13334,11 @@ Effects</source>
         <translation type="obsolete">إصدار تلقائي</translation>
     </message>
     <message>
-        <source>Batch Set Font</source>
+        <source>Bulk Font Setting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>CellphoneControl</source>
+        <source>Cellphone Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13430,7 +13486,7 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
+        <source>Slide Library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16700,7 +16756,7 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SlideLibrary</source>
+        <source>Slide Library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16778,10 +16834,6 @@ Click the arrow to choose more outline styles.</source>
         <translation>شريط القوائم</translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Picture</source>
         <translation>صورة</translation>
     </message>
@@ -16804,6 +16856,10 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>Slide Sorter</source>
         <translation>فارز الشرائح</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Standard</source>
@@ -16904,6 +16960,10 @@ Click the arrow to choose more outline styles.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Change Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ChangeAutoShape</source>
         <translation type="obsolete">تغيير الشكل التلقائي</translation>
     </message>
@@ -16972,7 +17032,7 @@ Click the arrow to choose more outline styles.</source>
         <translation>نسخ</translation>
     </message>
     <message>
-        <source>Creat Cloud Link</source>
+        <source>Create Cloud Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17163,6 +17223,10 @@ Slide</source>
         <translation>وحدات الماكرو</translation>
     </message>
     <message>
+        <source>Magic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>MailFeedBack</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17289,10 +17353,6 @@ Slide</source>
     <message>
         <source>OLE Object Popup Menu</source>
         <translation type="obsolete">قائمة منبثقة لكائنات OLE</translation>
-    </message>
-    <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
@@ -17480,6 +17540,10 @@ Slide</source>
         <translation>انتقال الشريحة</translation>
     </message>
     <message>
+        <source>Status Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Style</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17584,16 +17648,8 @@ Slide</source>
         <translation type="obsolete">قائمة منبثقة لـ WordArt</translation>
     </message>
     <message>
-        <source>change template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>magic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>statusbar</source>
-        <translation>شريط الحالة</translation>
+        <translation type="obsolete">شريط الحالة</translation>
     </message>
 </context>
 <context>
@@ -17770,10 +17826,6 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Online Templates</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17856,6 +17908,10 @@ Slide</source>
     <message>
         <source>Slide Show</source>
         <translation>استعراض الشريحة</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stick the ToolBaar</source>
@@ -18095,10 +18151,6 @@ Slide</source>
         <translation>صفحة بدون تبويب</translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open</source>
         <translation>فتح</translation>
     </message>
@@ -18173,6 +18225,10 @@ Slide</source>
     <message>
         <source>Slide Show</source>
         <translation>استعراض الشريحة</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>

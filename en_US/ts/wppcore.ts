@@ -120,11 +120,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This function is offered in WPS Office 2009 Prefessional.</source>
-        <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Title</source>
         <comment>AEO_PLACEHOLDER_TITLE</comment>
         <translation type="unfinished"></translation>
@@ -152,6 +147,11 @@
     <message>
         <source>Wind</source>
         <comment>AEO_SOUNDEFFECT_Wind</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This function is offered in WPS Office 2009 Professional.</source>
+        <comment>AEO_SHIELD_ObjectPathConvert</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -887,16 +887,6 @@ Fifth level</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
-        <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
-        <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Currently only support viewing PowerPoint 2007 documents, the edit cannot be saved.</source>
         <comment>WP_OPEN_PPT12_WARNING</comment>
         <translation type="unfinished"></translation>
@@ -1555,7 +1545,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Presentation Caption</source>
-        <translation type="unfinished">Presentation</translation>
+        <translation type="obsolete">Presentation</translation>
     </message>
     <message>
         <source>Print: Page %d of %d</source>
@@ -2420,6 +2410,20 @@ Please make sure the file is not locked by another user, or the target disk is n
         <comment>WP_SAVE_PPT_FAILURE</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <comment>WP_ReadOnlyOpenOoxml</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot save.</source>
+        <comment>WP_OpenOoxmlLostEffect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppdata</name>
@@ -3260,11 +3264,6 @@ Please make sure the file is not locked by another user, or the target disk is n
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancelled by user.</source>
-        <comment>wpp_sCancelByUser</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cannot add word“%s”.</source>
         <comment>wpp_sAddWordFailed</comment>
         <translation type="unfinished"></translation>
@@ -3272,11 +3271,6 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Cannot locate the path. Please input a full path.</source>
         <comment>wpp_sInvalidPath</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot open the folder %s. It might be in a unavailable path, or proteced by password, or the folder path does not exist or the folder path is too long.</source>
-        <comment>wpp_sCanNotOpenFolder</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4488,11 +4482,6 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Out Slightlly</source>
-        <comment>wpp_sAnimDirectionInSlightly</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Out To Screen Bottom</source>
         <comment>wpp_sAnimDirectionInToScreenBottom</comment>
         <translation type="unfinished"></translation>
@@ -5469,6 +5458,21 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <comment>wpp_sPt</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Out Slightly</source>
+        <comment>wpp_sAnimDirectionInSlightly</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canceled by user.</source>
+        <comment>wpp_sCancelByUser</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
+        <comment>wpp_sCanNotOpenFolder</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppuil</name>
@@ -5776,11 +5780,6 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Drag-and-Drop</source>
         <comment>WpDRAGSLIDE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Each slide in your presentation has been saved as a separate file in the folder %s .</source>
-        <comment>WpSAVEIMAGEHINT</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6558,6 +6557,12 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Device Independent Bitmap(*.bmp)</source>
         <comment>WpDescBMP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Each slide in your presentation has been saved as a separate file in the folder
+%s .</source>
+        <comment>WpSAVEIMAGEHINT</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

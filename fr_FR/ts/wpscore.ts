@@ -177,10 +177,10 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source>WPS Writer encountered an error when trying to update source file.
 Try one or more of the following:
-1、Check whether the source file has been opened or occupied by other programs.
-2、Check whether the source file is protected.
-3、Ensure that the source file is in the appropriate directory.
-4、Ensure that the source file can be supported by WPS.</source>
+1. Check whether the source file has been opened or occupied by other programs.
+2. Check whether the source file is protected.
+3. Make sure that the source file is in the appropriate directory.
+4. Make sure that the source file&apos;s format is supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2434,11 +2434,6 @@ Voulez-vous le remplacer ?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
-        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Recorded %d too much data fields.</source>
         <comment>_TxMailMerge_FieldsTooMuch</comment>
         <translation type="unfinished"></translation>
@@ -2454,8 +2449,17 @@ Voulez-vous le remplacer ?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer cannot open %s as Data or Header Source, because it is active mail merge main document.</source>
+        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
+        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
+        <translation type="unfinished">Impossible pour WPS Writer de fusionner le document principal avec la source de données : les enregistrements étaient tous vides ou aucun enregistrement ne correspondait à vos options de requête.</translation>
+    </message>
+    <message>
+        <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
         <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot compare these documents because the document contain XML Nodes</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2479,7 +2483,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>The mesurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation>La mesure doit être comprise entre -1584 pt et 1584 pt.</translation>
+        <translation type="obsolete">La mesure doit être comprise entre -1584 pt et 1584 pt.</translation>
     </message>
     <message>
         <source>This style name is already in use or reserved for a built-in style.</source>
@@ -2500,7 +2504,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>The mesurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation>La mesure doit être comprise entre 0,5 et 600.</translation>
+        <translation type="obsolete">La mesure doit être comprise entre 0,5 et 600.</translation>
     </message>
     <message>
         <source>This style has a circulatory Based On styles list.</source>
@@ -2578,6 +2582,16 @@ Utilisez le bouton &apos;Trouver la zone modifiable suivante&apos; pour afficher
         <comment>_TxErr_PasteTableInVertTextboxWarning</comment>
         <translatorcomment>Insert tab-&gt;Text Box-&gt;Vertical-&gt;draw a vertical text box-&gt;Insert tab-&gt;Table-&gt;Select a table to insert-&gt;Table Tools-&gt;Select-&gt;Select Table-&gt;right click the table-&gt;copy-&gt;right click the vertical text box-&gt;Paste-&gt;prompt dialog</translatorcomment>
         <translation>Vous allez coller un ou plusieurs tableaux dans une zone de texte ou un cadre vertical. Une zone de texte ou un cadre vertical ne peuvent pas contenir de tableau. Voulez-vous continuer ?</translation>
+    </message>
+    <message>
+        <source>The measurement must be between -1584 pt and 1584 pt.</source>
+        <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The measurement must be between 0.5 and 600.</source>
+        <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2963,8 +2977,8 @@ Essayez l&apos;une des actions suivantes.
         <translation>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot;*.rtf;*.docx;</translation>
     </message>
     <message>
-        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
-This backup will be saved to(%s)</source>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -4295,7 +4309,7 @@ Cette modification s’appliquera à tous les nouveaux documents basés sur le m
     <message>
         <source>This shortcut key already exists. Please set aonther key.</source>
         <comment>wps_sAppShortcutExisted</comment>
-        <translation>Cette touche de raccourci existe déjà. Veuillez en définir une autre.</translation>
+        <translation type="obsolete">Cette touche de raccourci existe déjà. Veuillez en définir une autre.</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
@@ -4754,7 +4768,7 @@ Annuler : 	Retour à la boîte de dialogue.</translation>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
         <comment>wps_sVBAMacroSecurityError</comment>
-        <translation>WPS Writer a rencontré une erreur lors de l&apos;ajustement de la sécurité des macros. Cela peut être dû au fait que l&apos;environnement VBA n&apos;est pas installé.</translation>
+        <translation type="obsolete">WPS Writer a rencontré une erreur lors de l&apos;ajustement de la sécurité des macros. Cela peut être dû au fait que l&apos;environnement VBA n&apos;est pas installé.</translation>
     </message>
     <message>
         <source>Do you overwrite the shortcut of [%s]?</source>
@@ -4850,6 +4864,16 @@ Annuler : 	Retour à la boîte de dialogue.</translation>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sValidValue</comment>
         <translation type="unfinished">Le nombre doit être compris entre %d et %d.</translation>
+    </message>
+    <message>
+        <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed.</source>
+        <comment>wps_sVBAMacroSecurityError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This shortcut key already exists. Please set another key.</source>
+        <comment>wps_sAppShortcutExisted</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4947,7 +4971,7 @@ Annuler : 	Retour à la boîte de dialogue.</translation>
     <message>
         <source>Outlook Personal Adress Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
-        <translation>Carnets d&apos;adresses personnelles Outlook(*.pab) | *.pab; |</translation>
+        <translation type="obsolete">Carnets d&apos;adresses personnelles Outlook(*.pab) | *.pab; |</translation>
     </message>
     <message>
         <source>Lotus 1-2-3 Files(*.wk?; *.wj?) | *.wk?; *.wj?; |</source>
@@ -7173,6 +7197,11 @@ orthographique</translation>
     <message>
         <source>Insert DocumentField</source>
         <comment>TxVersion_InsDocumentField</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
+        <comment>TxDesc_DataSource_pab</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

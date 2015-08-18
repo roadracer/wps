@@ -152,7 +152,12 @@
     <message>
         <source>This function is offered in WPS Office 2009 Prefessional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation>Эта функция доступна в WPS Office 2009 Professional.</translation>
+        <translation type="obsolete">Эта функция доступна в WPS Office 2009 Professional.</translation>
+    </message>
+    <message>
+        <source>This function is offered in WPS Office 2009 Professional.</source>
+        <comment>AEO_SHIELD_ObjectPathConvert</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2476,16 +2481,16 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
         <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation>В настоящее время WPS Office поддерживает только просмотр документов Microsoft Office 2010. Открыть документ в режиме просмотра?</translation>
+        <translation type="obsolete">В настоящее время WPS Office поддерживает только просмотр документов Microsoft Office 2010. Открыть документ в режиме просмотра?</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation>В настоящее время WPS Office поддерживает только просмотр документов Microsoft Office 2010.</translation>
+        <translation type="obsolete">В настоящее время WPS Office поддерживает только просмотр документов Microsoft Office 2010.</translation>
     </message>
     <message>
         <source>Presentation Caption</source>
-        <translation>Заголовок презентации</translation>
+        <translation type="obsolete">Заголовок презентации</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
@@ -2499,6 +2504,20 @@ Please make sure the file is not locked by another user, or the target disk is n
         <translation>Невозможно сохранить или создать данный файл.
 Убедитесь, что файл не заблокирован другим пользователем, есть место на диске и диск не повреждён.
 (%s)</translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <comment>WP_ReadOnlyOpenOoxml</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot save.</source>
+        <comment>WP_OpenOoxmlLostEffect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presentation</source>
+        <translation type="unfinished">Презентация </translation>
     </message>
 </context>
 <context>
@@ -3017,7 +3036,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Out Slightlly</source>
         <comment>wpp_sAnimDirectionInSlightly</comment>
-        <translation>Небольшое уменьшение</translation>
+        <translation type="obsolete">Небольшое уменьшение</translation>
     </message>
     <message>
         <source>O&amp;ut Slightly</source>
@@ -4407,7 +4426,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Cancelled by user.</source>
         <comment>wpp_sCancelByUser</comment>
-        <translation>Отменено пользователем.</translation>
+        <translation type="obsolete">Отменено пользователем.</translation>
     </message>
     <message>
         <source>The last color scheme cannot be deleted. A presentation must always contain at least one standard color scheme.</source>
@@ -5484,7 +5503,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Cannot open the folder %s. It might be in a unavailable path, or proteced by password, or the folder path does not exist or the folder path is too long.</source>
         <comment>wpp_sCanNotOpenFolder</comment>
-        <translation>Не удалось открыть папку %s. Неверный путь к файлу, файл защещён паролем, путь к папке не существует или слишком длинный путь к папке.</translation>
+        <translation type="obsolete">Не удалось открыть папку %s. Неверный путь к файлу, файл защещён паролем, путь к папке не существует или слишком длинный путь к папке.</translation>
     </message>
     <message>
         <source>Folder name cannot contain the characters bellow:
@@ -5553,6 +5572,21 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <source>Modify Motion Paths</source>
         <comment>wpp_sModifyMotionPathEffect</comment>
         <translation>Измененение пути перемещения</translation>
+    </message>
+    <message>
+        <source>Out Slightly</source>
+        <comment>wpp_sAnimDirectionInSlightly</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canceled by user.</source>
+        <comment>wpp_sCancelByUser</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
+        <comment>wpp_sCanNotOpenFolder</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6544,7 +6578,7 @@ Check</source>
     <message>
         <source>Each slide in your presentation has been saved as a separate file in the folder %s .</source>
         <comment>WpSAVEIMAGEHINT</comment>
-        <translation>Каждый слайд презентации сохранён в отдельном файле в папке %s.</translation>
+        <translation type="obsolete">Каждый слайд презентации сохранён в отдельном файле в папке %s.</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -6667,6 +6701,12 @@ This backup will be saved to(%s)</source>
         <source>Device Independent Bitmap(*.bmp)</source>
         <comment>WpDescBMP</comment>
         <translation>Изображение DIB(*.bmp)</translation>
+    </message>
+    <message>
+        <source>Each slide in your presentation has been saved as a separate file in the folder
+%s .</source>
+        <comment>WpSAVEIMAGEHINT</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

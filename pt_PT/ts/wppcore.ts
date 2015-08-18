@@ -311,7 +311,7 @@
         <translation type="unfinished">Objecto</translation>
     </message>
     <message>
-        <source>This function is offered in WPS Office 2009 Prefessional.</source>
+        <source>This function is offered in WPS Office 2009 Professional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2557,20 +2557,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
-        <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
-        <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Presentation Caption</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2579,6 +2565,20 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>WP_SAVE_PPT_FAILURE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <comment>WP_ReadOnlyOpenOoxml</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot save.</source>
+        <comment>WP_OpenOoxmlLostEffect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presentation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3093,11 +3093,6 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Out From Screen &amp;Center</source>
         <comment>wpp_sAnimDirectionInFromScreenCenter2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Out Slightlly</source>
-        <comment>wpp_sAnimDirectionInSlightly</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4486,11 +4481,6 @@ Please make sure the file is not locked by another user, or the target disk is n
         <translation type="unfinished">Cancelar</translation>
     </message>
     <message>
-        <source>Cancelled by user.</source>
-        <comment>wpp_sCancelByUser</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The last color scheme cannot be deleted. A presentation must always contain at least one standard color scheme.</source>
         <comment>wpp_sCannotBeDelete</comment>
         <translation type="unfinished"></translation>
@@ -5561,11 +5551,6 @@ Please make sure the file is not locked by another user, or the target disk is n
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cannot open the folder %s. It might be in a unavailable path, or proteced by password, or the folder path does not exist or the folder path is too long.</source>
-        <comment>wpp_sCanNotOpenFolder</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Folder name cannot contain the characters bellow:
     \ / : * ? | &lt; &gt;
 
@@ -5628,6 +5613,21 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Modify Motion Paths</source>
         <comment>wpp_sModifyMotionPathEffect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Out Slightly</source>
+        <comment>wpp_sAnimDirectionInSlightly</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canceled by user.</source>
+        <comment>wpp_sCancelByUser</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
+        <comment>wpp_sCanNotOpenFolder</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6596,11 +6596,6 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Each slide in your presentation has been saved as a separate file in the folder %s .</source>
-        <comment>WpSAVEIMAGEHINT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Translate to Simplified Chinese</source>
         <comment>WP_TranslateToSimplifiedChinese</comment>
         <translation type="unfinished"></translation>
@@ -6719,6 +6714,12 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Device Independent Bitmap(*.bmp)</source>
         <comment>WpDescBMP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Each slide in your presentation has been saved as a separate file in the folder
+%s .</source>
+        <comment>WpSAVEIMAGEHINT</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

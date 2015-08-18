@@ -477,10 +477,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>Slog črtice</translation>
     </message>
@@ -598,6 +594,10 @@
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -885,10 +885,6 @@ OLE DB poizvedbe</translation>
 <context>
     <name>classics.formatting</name>
     <message>
-        <source>Across Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Align Left</source>
         <translation>Poravnaj levo</translation>
     </message>
@@ -903,6 +899,10 @@ OLE DB poizvedbe</translation>
     <message>
         <source>Center</source>
         <translation>Sredina</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Columns Center</source>
@@ -1143,7 +1143,7 @@ Center</source>
         <translation>Manj kontrastno</translation>
     </message>
     <message>
-        <source>Line Sytle</source>
+        <source>Line Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1346,6 +1346,14 @@ Center</source>
         <source>Protect and Share Workbook</source>
         <translation>Zaščiti in deli delovni zvezek</translation>
     </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.record_macro</name>
@@ -1360,6 +1368,10 @@ Center</source>
 </context>
 <context>
     <name>classics.shadow_settings</name>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>More Shadow Colors</source>
         <translation>Več barv senc</translation>
@@ -1407,10 +1419,6 @@ Center</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">Premakni senco gor</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1725,6 +1733,13 @@ Center</source>
     </message>
 </context>
 <context>
+    <name>classics.standard.Help</name>
+    <message>
+        <source>WPS Spreadsheets Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
@@ -2035,10 +2050,6 @@ Center</source>
         <translation>Uvoz podatkov</translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Picture</source>
         <translation>Slika</translation>
     </message>
@@ -2057,6 +2068,10 @@ Center</source>
     <message>
         <source>Shadow Settings</source>
         <translation>Nastavitve senčenja</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Standard</source>
@@ -2158,11 +2173,7 @@ Center</source>
         <translation>Preveri samodenjo varnosto kopijo</translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
+        <source>Clear</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2270,7 +2281,7 @@ Center</source>
         <translation>Dol</translation>
     </message>
     <message>
-        <source>Down Bars</source>
+        <source>Down-Bars</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2304,6 +2315,10 @@ Center</source>
     <message>
         <source>Feedback</source>
         <translation>Povratne informacije</translation>
+    </message>
+    <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -2378,7 +2393,7 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>High-Low Line</source>
+        <source>High-Low Lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2422,10 +2437,6 @@ Center</source>
         <translation>Makri</translation>
     </message>
     <message>
-        <source>MailFeedBack</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Materials</source>
         <translation type="obsolete">Materiali</translation>
     </message>
@@ -2467,7 +2478,11 @@ Center</source>
     </message>
     <message>
         <source>New from More Template</source>
-        <translation>Novo iz več predlog</translation>
+        <translation type="obsolete">Novo iz več predlog</translation>
+    </message>
+    <message>
+        <source>New from More Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -2499,10 +2514,6 @@ Center</source>
     </message>
     <message>
         <source>OLE Object</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Office Space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2595,7 +2606,7 @@ Directly</source>
         <translation type="obsolete">Seznam nedavnih datotek</translation>
     </message>
     <message>
-        <source>Recently File Management</source>
+        <source>Recent File Management</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2673,19 +2684,15 @@ Data</source>
         <translation type="obsolete">Izbor in vidljivost</translation>
     </message>
     <message>
-        <source>Series Line Popup Menu</source>
+        <source>Series Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set Highlight Repeat Items</source>
+        <source>Set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2707,6 +2714,10 @@ Data</source>
     <message>
         <source>Sheet Tab</source>
         <translation type="obsolete">Jeziček lista</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -2767,6 +2778,10 @@ Okno</translation>
         <translation>Nazaj</translation>
     </message>
     <message>
+        <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up Bars</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2791,8 +2806,19 @@ Okno</translation>
         <translation>Okno</translation>
     </message>
     <message>
+        <source>WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt Popup Menu</source>
-        <translation>Pojavni meni Wordpredlog</translation>
+        <translation type="obsolete">Pojavni meni Wordpredlog</translation>
+    </message>
+</context>
+<context>
+    <name>etcommon.mainwindow.commands.DataGroup</name>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2943,10 +2969,6 @@ Okno</translation>
         <translation type="obsolete">Nisi prijavljen</translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Online Templates</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2971,12 +2993,16 @@ Okno</translation>
         <translation>Orodja za vrtilne tabele</translation>
     </message>
     <message>
+        <source>Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Print Preview</source>
         <translation>Predogled tiskanja</translation>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation>Hitri meni</translation>
+        <translation type="obsolete">Hitri meni</translation>
     </message>
     <message>
         <source>Quick Tool Bar</source>
@@ -3032,6 +3058,10 @@ Okno</translation>
     </message>
     <message>
         <source>Sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3249,10 +3279,6 @@ Okno</translation>
         <translation type="obsolete">Nisi prijavljen</translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Online Templates</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3277,12 +3303,16 @@ Okno</translation>
         <translation>Orodja za vrtilne tabele</translation>
     </message>
     <message>
+        <source>Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Print Preview</source>
         <translation>Predogled tiskanja</translation>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation>Hitri meni</translation>
+        <translation type="obsolete">Hitri meni</translation>
     </message>
     <message>
         <source>Quick Tool Bar</source>
@@ -3330,6 +3360,10 @@ Okno</translation>
     </message>
     <message>
         <source>Sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3715,7 +3749,7 @@ Columns</source>
     <name>ongmani.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>Združi</translation>
+        <translation type="obsolete">Združi</translation>
     </message>
 </context>
 <context>
@@ -4044,10 +4078,6 @@ Vklop</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>Slog črtice</translation>
     </message>
@@ -4153,6 +4183,10 @@ Vklop</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4404,6 +4438,10 @@ On/Off</source>
         <translation type="obsolete">KingsoftOffice</translation>
     </message>
     <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft Excel 2007/2010 Files</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4496,6 +4534,14 @@ On/Off</source>
         <translation type="obsolete">Ponovno naloži besedilno datoteko</translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>Shrani</translation>
     </message>
@@ -4532,8 +4578,16 @@ On/Off</source>
         <translation type="obsolete">Spletno učenje</translation>
     </message>
     <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update Online</source>
         <translation type="obsolete">Posodobitev v spletu</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -4565,6 +4619,10 @@ On/Off</source>
     </message>
     <message>
         <source>WPS Office Product Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4777,10 +4835,6 @@ Used</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Across Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Across Sheets</source>
         <translation>Čez list</translation>
     </message>
@@ -4822,7 +4876,11 @@ Used</source>
     </message>
     <message>
         <source>Angle Countclockwise</source>
-        <translation>Nagni v nasprotni smeri urinega kazalca</translation>
+        <translation type="obsolete">Nagni v nasprotni smeri urinega kazalca</translation>
+    </message>
+    <message>
+        <source>Angle Counterclockwise</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ascending</source>
@@ -4887,6 +4945,10 @@ Used</source>
     <message>
         <source>Center</source>
         <translation>Sredina</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
@@ -5497,6 +5559,10 @@ Columns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>Gor</translation>
     </message>
@@ -5660,12 +5726,12 @@ Footer</source>
         <translation>Ilustracije</translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">Vstavi umetniški izrezek</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -6247,10 +6313,6 @@ Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>Slog črtice</translation>
     </message>
@@ -6323,15 +6385,15 @@ Pictures</source>
         <translation>Vstavljanje</translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">Vstavi umetniški izrezek</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6356,6 +6418,10 @@ Pictures</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6612,6 +6678,11 @@ On/Off</source>
         <translation type="obsolete">Izbriši vrtilno tabelo</translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field
 Settings</source>
         <translation type="unfinished"></translation>
@@ -6699,6 +6770,11 @@ Options</source>
     <message>
         <source>Refresh Data</source>
         <translation type="obsolete">Osveži podatke</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show
@@ -6972,6 +7048,16 @@ Changes</source>
     <message>
         <source>Translation</source>
         <translation>Prevod</translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7302,6 +7388,10 @@ Layout</source>
         <translation type="obsolete">Postavitev branja</translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Security</source>
         <translation>Varnost</translation>
     </message>
@@ -7323,7 +7413,7 @@ Layout</source>
     </message>
     <message>
         <source>Unsplit</source>
-        <translation>Razmeči</translation>
+        <translation type="obsolete">Razmeči</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -7774,10 +7864,6 @@ Spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>Slog črtice</translation>
     </message>
@@ -7923,6 +8009,10 @@ Spacing</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8239,10 +8329,6 @@ Shape</source>
         <translation type="obsolete">Oblak uporabnika za KOS namig</translation>
     </message>
     <message>
-        <source>KOS User Data Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>KOS User Guid</source>
         <translation type="obsolete">KOS navodila za uporabo</translation>
     </message>
@@ -8253,10 +8339,6 @@ Shape</source>
     <message>
         <source>KOS User Login</source>
         <translation type="obsolete">KOS prijava uporabnika</translation>
-    </message>
-    <message>
-        <source>KOS User PDF</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>
@@ -8291,6 +8373,10 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Stop Auto Version</source>
         <translation type="obsolete">Ustavi samodejno različico</translation>
     </message>
@@ -8314,39 +8400,39 @@ Shape</source>
 <context>
     <name>popupmenu</name>
     <message>
-        <source>0.25 pt.</source>
+        <source>0.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.5 pt.</source>
+        <source>0.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.75 pt.</source>
+        <source>0.75 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1 pt.</source>
+        <source>1 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1.5 pt.</source>
+        <source>1.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>2.25 pt.</source>
+        <source>2.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3 pt.</source>
+        <source>3 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>4.5 pt.</source>
+        <source>4.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>6 pt.</source>
+        <source>6 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8364,10 +8450,6 @@ Shape</source>
     <message>
         <source>Accept Revisions</source>
         <translation type="obsolete">Sprejmi revizije</translation>
-    </message>
-    <message>
-        <source>Across Center</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -8568,6 +8650,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center Across</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8775,15 +8861,11 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8943,6 +9025,10 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation type="obsolete">Povratne informacije</translation>
     </message>
@@ -9000,11 +9086,11 @@ Add-Ins</source>
         <translation>Filter</translation>
     </message>
     <message>
-        <source>Flip Horizontally</source>
+        <source>Flip Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flip Vertically</source>
+        <source>Flip Vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9240,7 +9326,7 @@ Add-Ins</source>
         <translation>Vstavljanje</translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
+        <source>Insert Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9312,11 +9398,7 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Line Pattern</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line Sytle Palette</source>
+        <source>Line Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9332,7 +9414,11 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9340,7 +9426,7 @@ Add-Ins</source>
         <translation>Makra</translation>
     </message>
     <message>
-        <source>Manage Credential</source>
+        <source>Manage Credentials</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9520,6 +9606,10 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Pattenred Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pattern</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9632,12 +9722,24 @@ Add-Ins</source>
         <translation>Odstrani Hiperpovezavo</translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rename</source>
         <translation>Preimenuj</translation>
     </message>
     <message>
         <source>Reset All Page Break</source>
-        <translation>Ponastavi vse prelome strani</translation>
+        <translation type="obsolete">Ponastavi vse prelome strani</translation>
+    </message>
+    <message>
+        <source>Reset All Page Breaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restricted Access</source>
@@ -9813,10 +9915,6 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solid</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9942,7 +10040,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>UnSplit</source>
-        <translation>Razmeči</translation>
+        <translation type="obsolete">Razmeči</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -9966,6 +10064,14 @@ Add-Ins</source>
     </message>
     <message>
         <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10002,6 +10108,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>View Historical Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10343,7 +10453,7 @@ OLE DB poizvedbe</translation>
     <name>rainbow.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>Združi</translation>
+        <translation type="obsolete">Združi</translation>
     </message>
 </context>
 <context>
@@ -10635,10 +10745,6 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>Slog črtice</translation>
     </message>
@@ -10732,6 +10838,10 @@ AddIns</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10970,6 +11080,10 @@ AddIns</source>
         <translation type="obsolete">Kingsoftove predloge preglednic</translation>
     </message>
     <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft Excel 2007-2010 Files</source>
         <translation>Daoteke Microsoft Excel 2007-2010</translation>
     </message>
@@ -11062,6 +11176,14 @@ AddIns</source>
         <translation type="obsolete">Ponovno naloži besedilno datoteko</translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>Shrani</translation>
     </message>
@@ -11094,8 +11216,16 @@ AddIns</source>
         <translation type="obsolete">Spletno učenje</translation>
     </message>
     <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update Online</source>
         <translation type="obsolete">Posodobitev v spletu</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -11131,6 +11261,10 @@ AddIns</source>
     </message>
     <message>
         <source>WPS Office Product Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11326,10 +11460,6 @@ Trig</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Across Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Across Sheets</source>
         <translation>Čez list</translation>
     </message>
@@ -11432,6 +11562,10 @@ Trig</source>
     <message>
         <source>Center</source>
         <translation>Sredina</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
@@ -12015,6 +12149,10 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>Gor</translation>
     </message>
@@ -12152,15 +12290,15 @@ Center</source>
         <translation>Ilustracije</translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">Vstavi umetniški izrezek</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12562,10 +12700,6 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>Slog črtice</translation>
     </message>
@@ -12638,12 +12772,12 @@ Center</source>
         <translation>Vstavljanje</translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">Vstavi umetniški izrezek</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -12671,6 +12805,10 @@ Center</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12908,6 +13046,11 @@ Center</source>
         <translation type="obsolete">Izbriši vrtilno tabelo</translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field Settings</source>
         <translation>Nastavitve polj</translation>
     </message>
@@ -12966,6 +13109,11 @@ Center</source>
     <message>
         <source>Refresh Data</source>
         <translation type="obsolete">Osveži podatke</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -13180,6 +13328,14 @@ Center</source>
     <message>
         <source>Translation</source>
         <translation>Prevod</translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13470,6 +13626,10 @@ Druga okno</translation>
         <translation>Postavitev za branje</translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Security</source>
         <translation>Varnost</translation>
     </message>
@@ -13491,7 +13651,7 @@ Druga okno</translation>
     </message>
     <message>
         <source>Unsplit</source>
-        <translation>Razmeči</translation>
+        <translation type="obsolete">Razmeči</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -13873,10 +14033,6 @@ Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>Slog črtice</translation>
     </message>
@@ -14018,6 +14174,10 @@ Color</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14308,10 +14468,6 @@ Color</source>
         <translation type="obsolete">Oblak uporabnika za KOS namig</translation>
     </message>
     <message>
-        <source>KOS User Data Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>KOS User Guid</source>
         <translation type="obsolete">KOS navodila za uporabo</translation>
     </message>
@@ -14357,6 +14513,10 @@ Color</source>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17659,10 +17819,6 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Open Cloud File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>KOS User Login</source>
         <translation type="obsolete">Prijava uporabnika za KOS</translation>
     </message>
@@ -17680,6 +17836,10 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open from Cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

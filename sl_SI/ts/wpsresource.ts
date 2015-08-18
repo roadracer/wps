@@ -53,6 +53,10 @@
         <translation>Smer</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Neskončno</translation>
     </message>
@@ -87,10 +91,6 @@
     <message>
         <source>Plastic</source>
         <translation>Plastika</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -1059,6 +1059,10 @@
         <translation>Spreminjanje velikosti znaka</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Font</source>
         <translation>Pisava</translation>
     </message>
@@ -1089,10 +1093,6 @@
     <message>
         <source>More Font Colors</source>
         <translation>Več barv pisave</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Styles</source>
@@ -1678,11 +1678,11 @@ spojene podatke</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show FormatChange</source>
+        <source>Show Formatting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show InsAndDel</source>
+        <source>Show Insertions and Deletions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1716,6 +1716,10 @@ spojene podatke</translation>
 </context>
 <context>
     <name>classics.shadow_settings</name>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>More Shadow Colors</source>
         <translation>Več barv senc</translation>
@@ -1763,10 +1767,6 @@ spojene podatke</translation>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">Pomakni senco gor </translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2031,6 +2031,10 @@ spojene podatke</translation>
         <translation>Radirka</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fast Calculation</source>
         <translation>Hiter izračun</translation>
     </message>
@@ -2093,10 +2097,6 @@ spojene podatke</translation>
     <message>
         <source>Shading</source>
         <translation>Senčenje</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -2728,6 +2728,22 @@ Editor</source>
     <message>
         <source>Visual Basic Editor</source>
         <translation type="obsolete">Urejevalnik za Visual Basic</translation>
+    </message>
+    <message>
+        <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlExpansionPacksWord</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlStructure</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3440,6 +3456,10 @@ Direction</source>
         <translation type="obsolete">KingsoftOffice</translation>
     </message>
     <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft Word 2007-2010 Document</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3524,6 +3544,14 @@ Direction</source>
         <translation>Znova naloži</translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>Shrani</translation>
     </message>
@@ -3556,8 +3584,16 @@ Direction</source>
         <translation type="obsolete">Študiraj na spletu</translation>
     </message>
     <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update Online</source>
         <translation type="obsolete">Posodobitev v spletu</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -3589,6 +3625,10 @@ Direction</source>
     </message>
     <message>
         <source>WPS Office Product Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007-2010 Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4908,6 +4948,10 @@ Different New Document</source>
         <translation type="obsolete">Enakomerna širina</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Flip Horizontal</source>
         <translation>Zrcali vodoravno</translation>
     </message>
@@ -5094,10 +5138,6 @@ Break</source>
         <translation>Velikost</translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Square</source>
         <translation>Kvadrat</translation>
     </message>
@@ -5234,6 +5274,10 @@ Direction</source>
         <translation>Mrežne črte dokumenta</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Font</source>
         <translation>Pisava</translation>
     </message>
@@ -5352,10 +5396,6 @@ Direction</source>
     <message>
         <source>Snap to Grid</source>
         <translation>Pripni na mrežo</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Style</source>
@@ -5576,6 +5616,10 @@ Pictures</source>
     <message>
         <source>Even Width</source>
         <translation>Enakomerna širina</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill</source>
@@ -5966,10 +6010,6 @@ On/Off</source>
         <translation type="obsolete">Pomakni senco gor </translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solid</source>
         <translation>Polno</translation>
     </message>
@@ -6265,6 +6305,10 @@ Footnote/Endnote</source>
         <translation type="obsolete">Preveri črkovanje</translation>
     </message>
     <message>
+        <source>Chinese Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Comments</source>
         <translation>Pripombe</translation>
     </message>
@@ -6407,11 +6451,11 @@ Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show FormatChange</source>
+        <source>Show Format Change</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show InsAndDel</source>
+        <source>Show Insertions and Deletions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6864,6 +6908,10 @@ Effects</source>
         <translation>Smer</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Neskončno</translation>
     </message>
@@ -7064,10 +7112,6 @@ Effects</source>
         <translation type="obsolete">Pomakni senco dol</translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Surface</source>
         <translation>Površina</translation>
     </message>
@@ -7231,6 +7275,10 @@ Effects</source>
         <translation>Radirka</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fast Calculation</source>
         <translation>Hiter izračun</translation>
     </message>
@@ -7349,10 +7397,6 @@ Effects</source>
     <message>
         <source>Select Table with Dashed Borders</source>
         <translation>Izberi tabelo s črtkanimi obrobami</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split
@@ -7826,6 +7870,10 @@ On/Off</source>
         <translation>Smer</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Neskončno</translation>
     </message>
@@ -8024,10 +8072,6 @@ Effects</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">Pomakni senco gor </translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -8919,19 +8963,19 @@ Shape</source>
         <translation type="obsolete">0 več zgodovine</translation>
     </message>
     <message>
-        <source>0.25 pt.</source>
+        <source>0.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.5 pt.</source>
+        <source>0.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.75 pt.</source>
+        <source>0.75 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1 pt.</source>
+        <source>1 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8943,7 +8987,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1.5 pt.</source>
+        <source>1.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8951,7 +8995,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>2.25 pt.</source>
+        <source>2.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8959,7 +9003,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3 pt.</source>
+        <source>3 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8967,7 +9011,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>4.5 pt.</source>
+        <source>4.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8975,7 +9019,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>6 pt.</source>
+        <source>6 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9452,11 +9496,11 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Style</source>
+        <source>Dash Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash-Dot</source>
+        <source>Dash Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9669,6 +9713,10 @@ Diagonal Line in Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fast Calculation</source>
         <translation>Hiter izračun</translation>
     </message>
@@ -9697,11 +9745,11 @@ Diagonal Line in Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flip Horizontally</source>
+        <source>Flip Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flip Vertically</source>
+        <source>Flip Vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9815,7 +9863,7 @@ Painter</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation type="unfinished">Preliv</translation>
+        <translation type="obsolete">Preliv</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -10003,10 +10051,6 @@ Painter</source>
         <translation>Levi tabulator</translation>
     </message>
     <message>
-        <source>Line Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Line Number</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10023,7 +10067,7 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Line Sytle Palette</source>
+        <source>Line Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10039,11 +10083,11 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot-Dot</source>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10055,7 +10099,7 @@ Painter</source>
         <translation>Orodna vrstica za spajanje dokumentov</translation>
     </message>
     <message>
-        <source>Manage Credential</source>
+        <source>Manage Credentials</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10291,6 +10335,10 @@ Painter</source>
         <translation>Vzorec</translation>
     </message>
     <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Phonetic Guide</source>
         <translation>Fonetični vodnik</translation>
     </message>
@@ -10404,6 +10452,10 @@ Painter</source>
     </message>
     <message>
         <source>Restrict Editing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict Permission by People</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10603,10 +10655,6 @@ Painter</source>
         <translation>Gladka točka</translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solid</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10799,6 +10847,10 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View Shortcut</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10879,40 +10931,8 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>bullets_0</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>bullets_1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>bullets_2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>bullets_3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>bullets_4</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>bullets_5</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>bullets_6</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>login</source>
         <translation type="obsolete">Prijava</translation>
-    </message>
-    <message>
-        <source>numbering_0</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>openwebweibo</source>
@@ -10973,38 +10993,6 @@ Painter</source>
         <source>Number</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>numbering_0</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>numbering_1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>numbering_2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>numbering_3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>numbering_4</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>numbering_5</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>numbering_6</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>numbering_7</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>rainbow.ct_addons</name>
@@ -11061,6 +11049,10 @@ Diagonal Line in Cell</source>
         <translation>Radirka</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Inside Border</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11111,10 +11103,6 @@ Diagonal Line in Cell</source>
     <message>
         <source>Shading Color</source>
         <translation>Barva senčenja</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Border</source>
@@ -11246,6 +11234,22 @@ Diagonal Line in Cell</source>
     <message>
         <source>Visual Basic Editor</source>
         <translation>Urejevalnik za Visual Basic</translation>
+    </message>
+    <message>
+        <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlExpansionPacksWord</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XmlStructure</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11461,6 +11465,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Even Width</source>
         <translation type="obsolete">Enakomerna širina</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill</source>
@@ -11679,10 +11687,6 @@ Diagonal Line in Cell</source>
         <translation>Pomanjšaj pisavo</translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solid</source>
         <translation>Polno</translation>
     </message>
@@ -11871,6 +11875,10 @@ Diagonal Line in Cell</source>
         <translation type="obsolete">Kingsoft Writer predloga </translation>
     </message>
     <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft Word 2007-2010 Document</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11955,6 +11963,14 @@ Diagonal Line in Cell</source>
         <translation>Znova naloži</translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>Shrani</translation>
     </message>
@@ -11987,8 +12003,16 @@ Diagonal Line in Cell</source>
         <translation type="obsolete">Študiraj na spletu</translation>
     </message>
     <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update Online</source>
         <translation type="obsolete">Posodobitev v spletu</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -12024,6 +12048,10 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>WPS Office Product Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007-2010 Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12346,6 +12374,10 @@ Header and Footer</source>
         <translation type="obsolete">Razširi prilepljeno besedilo</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Find and Replace</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12544,10 +12576,6 @@ Header and Footer</source>
     <message>
         <source>Shrink Font</source>
         <translation>Pomanjšaj pisavo</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -12784,6 +12812,10 @@ Header and Footer</source>
         <translation>Vstavi slikovni izrezek</translation>
     </message>
     <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Vstavi sliko</translation>
     </message>
@@ -12814,10 +12846,6 @@ Header and Footer</source>
     <message>
         <source>Insert WordArt</source>
         <translation>Vstavi WordArt</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Links</source>
@@ -13823,6 +13851,10 @@ Text</source>
         <translation type="obsolete">Enakomerna širina</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fill</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14187,10 +14219,6 @@ Text</source>
         <translation type="obsolete">Pomakni senco gor </translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solid</source>
         <translation>Polno</translation>
     </message>
@@ -14451,8 +14479,12 @@ and Endnote</source>
         <translation>Sprejmi spremembo</translation>
     </message>
     <message>
+        <source>Accept Changes Selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Accept Selection Change</source>
-        <translation type="unfinished">Sprejmi izbrano spremembo</translation>
+        <translation type="obsolete">Sprejmi izbrano spremembo</translation>
     </message>
     <message>
         <source>All Reviewers</source>
@@ -14588,12 +14620,20 @@ and Endnote</source>
         <translation>Omeji urejanje</translation>
     </message>
     <message>
-        <source>ReviewPane</source>
+        <source>Reviewers</source>
+        <translation>Pregledovalci</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Reviewers</source>
-        <translation>Pregledovalci</translation>
+        <source>Reviewing Pane Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show</source>
@@ -14616,11 +14656,11 @@ and Endnote</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show FormatChange</source>
+        <source>Show Formatting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show InsAndDel</source>
+        <source>Show Insertions and Deletions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14662,14 +14702,6 @@ and Endnote</source>
     <message>
         <source>Word Count</source>
         <translation>Štetje besed</translation>
-    </message>
-    <message>
-        <source>horzReviewPane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>vertReviewPane</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15002,6 +15034,10 @@ and Endnote</source>
         <translation>Smer</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Neskončno</translation>
     </message>
@@ -15184,10 +15220,6 @@ and Endnote</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">Pomakni senco gor </translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -15778,6 +15810,10 @@ Effects</source>
         <translation>Smer</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Neskončno</translation>
     </message>
@@ -15966,10 +16002,6 @@ Effects</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">Pomakni senco gor </translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -16243,6 +16275,10 @@ Effects</source>
         <translation type="obsolete">Enakomerna širina</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fade Down</source>
         <translation>Pojemajoče navzdol</translation>
     </message>
@@ -16449,10 +16485,6 @@ Effects</source>
     <message>
         <source>Slant Up</source>
         <translation>Poševno navzgor</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Solid</source>
@@ -21445,10 +21477,6 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
         <translation>Menijska vrstica</translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Outlining</source>
         <translation>Orisovanje</translation>
     </message>
@@ -21467,6 +21495,10 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     <message>
         <source>Shadow Settings</source>
         <translation>Nastavitve senčenja</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Standard</source>
@@ -21980,6 +22012,14 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
         <translation>Odpri</translation>
     </message>
     <message>
+        <source>Operation Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opr</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outline</source>
         <translation>Oris</translation>
     </message>
@@ -22319,8 +22359,16 @@ Directly</source>
         <translation>Štetje besed. Kliknite, da odprete pogovorno okno &quot;Štetje besed&quot;.</translation>
     </message>
     <message>
+        <source>XMLStructure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Zoom</source>
         <translation>Povečava</translation>
+    </message>
+    <message>
+        <source>structure</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -22468,10 +22516,6 @@ Directly</source>
         <translation type="obsolete">Niste prijavljeni</translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Online Templates</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22549,6 +22593,10 @@ Directly</source>
     </message>
     <message>
         <source>Sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22762,10 +22810,6 @@ Directly</source>
         <translation type="obsolete">Niste prijavljeni</translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Online Templates</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22839,6 +22883,10 @@ Directly</source>
     </message>
     <message>
         <source>Sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

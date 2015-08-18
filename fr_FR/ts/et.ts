@@ -126,11 +126,15 @@
     </message>
     <message>
         <source>Use ODBC data source connection guide(W)</source>
-        <translation>Utiliser le guide de connexion aux sources de données ODBC(&amp;W)</translation>
+        <translation type="obsolete">Utiliser le guide de connexion aux sources de données ODBC(&amp;W)</translation>
     </message>
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
         <translation>Trois méthodes différentes vous permettent de vous connecter à la source de données sélectionnée.</translation>
+    </message>
+    <message>
+        <source>Use ODBC data source connection guide(&amp;W)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -367,7 +371,11 @@ condition est vraie :</translation>
     <name>InsertFunctionLabel</name>
     <message>
         <source>I want to comment function</source>
-        <translation>Je souhaite commenter la fonction</translation>
+        <translation type="obsolete">Je souhaite commenter la fonction</translation>
+    </message>
+    <message>
+        <source>Comment function</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -592,7 +600,7 @@ condition est vraie :</translation>
     <message>
         <source>Clear(C)</source>
         <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
-        <translation>Effacer(C)</translation>
+        <translation type="obsolete">Effacer(C)</translation>
     </message>
     <message>
         <source>Color Sort</source>
@@ -622,7 +630,7 @@ condition est vraie :</translation>
     <message>
         <source>Date Filter(F)</source>
         <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
-        <translation>Filtre chronologique(F)</translation>
+        <translation type="obsolete">Filtre chronologique(F)</translation>
     </message>
     <message>
         <source>Descending</source>
@@ -802,7 +810,7 @@ condition est vraie :</translation>
     <message>
         <source>Number Filter(F)</source>
         <translatorcomment>click A1, enter &apos;1&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
-        <translation>Filtre numérique(F)</translation>
+        <translation type="obsolete">Filtre numérique(F)</translation>
     </message>
     <message>
         <source>OK</source>
@@ -827,7 +835,7 @@ condition est vraie :</translation>
     <message>
         <source>Text Filter(F)</source>
         <translatorcomment>click A1, enter &apos;q&apos;, drag and hold to fill A1 to A25-&gt;Data tab-&gt;AutoFilter-&gt;click the drop-down menu in A1-&gt;AutoFilter dialog box</translatorcomment>
-        <translation>Filtre textuel(F)</translation>
+        <translation type="obsolete">Filtre textuel(F)</translation>
     </message>
     <message>
         <source>This Month</source>
@@ -886,6 +894,42 @@ condition est vraie :</translation>
     <message>
         <source>Top 10</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number &amp;Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date &amp;Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Label Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text &amp;Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Begin With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not End With</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Clear</source>
+        <translation type="unfinished">Effa&amp;cer</translation>
     </message>
 </context>
 <context>
@@ -1053,7 +1097,11 @@ condition est vraie :</translation>
     </message>
     <message>
         <source>You need to have the right to access the database:</source>
-        <translation>Vous devez avoir le droit d&apos;accès à la base de données :</translation>
+        <translation type="obsolete">Vous devez avoir le droit d&apos;accès à la base de données :</translation>
+    </message>
+    <message>
+        <source>Valid username and password required to access the database:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1160,10 +1208,6 @@ condition est vraie :</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Highlight-Value</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Equal to</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1176,15 +1220,7 @@ condition est vraie :</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Greater than or equal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Less than</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Less than or equal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1228,27 +1264,7 @@ condition est vraie :</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Highlight-Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Does not contain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Begin with</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>End with</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Highlight-Date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1317,6 +1333,38 @@ condition est vraie :</translation>
     </message>
     <message>
         <source>The required range value is insufficient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight - Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater than or equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less than or equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight - Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contains</source>
+        <translation type="unfinished">Contient</translation>
+    </message>
+    <message>
+        <source>Begins with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ends with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight - Date</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1472,7 +1520,7 @@ condition est vraie :</translation>
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation>Vous ne pouvez pas créer un tableau croisé dynamique avec ces données. Vérifiez que les données que vous souhaitez analyser respectent les conditions suivantes :
+        <translation type="obsolete">Vous ne pouvez pas créer un tableau croisé dynamique avec ces données. Vérifiez que les données que vous souhaitez analyser respectent les conditions suivantes :
 1.Assurez-vous que la référence existe. Si c&apos;est un nom, il doit s&apos;agir d&apos;une plage valide ; 
 2.Assurez-vous que la référence est unique et qu&apos;elle contient au moins deux lignes ; 
 3.Assurez-vous que la première ligne de la plage de référence ne contient aucune cellule vide ni aucune valeur d&apos;erreur et que chaque cellule ne contient pas plus de 255 caractères.</translation>
@@ -1480,6 +1528,13 @@ condition est vraie :</translation>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
         <translation>Vous ne pouvez pas modifier le tableau croisé dynamique avec ces données. Assurez-vous que la plage de référence est valide et que la feuille de calcul spécifiée existe.</translation>
+    </message>
+    <message>
+        <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyze meet the following conditions:
+1.Make sure that the reference exists. If it is a name, it must be a valid range;
+2.Make sure that the reference is a single range, and it must contain two rows at least;
+3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1606,7 +1661,11 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
     </message>
     <message>
         <source>An error occurred when deleted.</source>
-        <translation>Une erreur est survenue lors de la suppression.</translation>
+        <translation type="obsolete">Une erreur est survenue lors de la suppression.</translation>
+    </message>
+    <message>
+        <source>An error occurred when delete.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2201,7 +2260,11 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
     <message>
         <source>Use another &amp;pivotTable:</source>
         <translatorcomment>Insert tab-&gt;PivotTable-&gt;Creat PivotTable dialog box</translatorcomment>
-        <translation type="unfinished">Utiliser un autre &amp;tableau croisé dynamique :</translation>
+        <translation type="obsolete">Utiliser un autre &amp;tableau croisé dynamique :</translation>
+    </message>
+    <message>
+        <source>Use another &amp;PivotTable:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2290,8 +2353,8 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
         <translation type="obsolete">entrée</translation>
     </message>
     <message>
-        <source>headerfooter</source>
-        <translation type="unfinished"></translation>
+        <source>Header and Footer</source>
+        <translation type="unfinished">En-tête et pied de page</translation>
     </message>
 </context>
 <context>
@@ -2476,6 +2539,10 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     <message>
         <source>Table</source>
         <translation>Table</translation>
+    </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished">Liste</translation>
     </message>
 </context>
 <context>
@@ -2821,6 +2888,14 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
         <source>Workbook</source>
         <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find dialog box-&gt;Options</translatorcomment>
         <translation>Classeur</translation>
+    </message>
+    <message>
+        <source>Ro&amp;w differences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colu&amp;mn differences</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3309,11 +3384,15 @@ curseur dans la zone d’édition et cliquez sur le bouton Format de l’image.<
     </message>
     <message>
         <source>Custom lists from</source>
-        <translation>Listes personnalisées de</translation>
+        <translation type="obsolete">Listes personnalisées de</translation>
     </message>
     <message>
         <source>Import Custom Lists</source>
         <translation>Listes personnalisées</translation>
+    </message>
+    <message>
+        <source>Import lists from</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4399,19 +4478,19 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SaveAsCreateBackup</source>
+        <source>Save As Create Backup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create&amp;Backup</source>
+        <source>Always create &amp;backup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>RecommendedReadOnlyOption</source>
+        <source>Read-only &amp;recommended Option</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;RecommendedReadOnly</source>
+        <source>Read-only &amp;recommended</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4876,6 +4955,10 @@ p, li { white-space: pre-wrap; }
         <source>buttonGroup_2</source>
         <translation type="unfinished">buttonGroup_2</translation>
     </message>
+    <message>
+        <source>&amp;Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPivotTableOptions</name>
@@ -5290,12 +5373,12 @@ suppression du suivi des modifications.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%d duplicates are found;
-Only %d unique value can be keep after delete.</source>
+        <source>&amp;Remove Duplicates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Remove Duplicates</source>
+        <source>%1 duplicates are found;
+Only %2 unique values will be left after delete.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5341,11 +5424,11 @@ Only %d unique value can be keep after delete.</source>
     <name>KxDlgResolveConflicts</name>
     <message>
         <source>Accept All Other Users</source>
-        <translation>Accepter tous les autres utilisateurs</translation>
+        <translation type="obsolete">Accepter tous les autres utilisateurs</translation>
     </message>
     <message>
         <source>Accept All for Current User</source>
-        <translation>Tout accepter pour l&apos;utilisateur actuel</translation>
+        <translation type="obsolete">Tout accepter pour l&apos;utilisateur actuel</translation>
     </message>
     <message>
         <source>Accept Other Users</source>
@@ -5369,7 +5452,19 @@ Only %d unique value can be keep after delete.</source>
     </message>
     <message>
         <source>YourChange</source>
-        <translation>Vos modifications</translation>
+        <translation type="obsolete">Vos modifications</translation>
+    </message>
+    <message>
+        <source>Your Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Accept All of Current User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accept All of Other U&amp;sers</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5384,15 +5479,23 @@ Only %d unique value can be keep after delete.</source>
     </message>
     <message>
         <source>Other users may have committed some changes which cannot be identified by WPS Spreadsheets. Click Continue will save the file and discard the changes, while click Save As will save a copy of the current file.</source>
-        <translation>Les autres utilisateurs ont peut-être soumis des modifications qui ne peuvent être identifiées par WPS Spreadsheets. Cliquez sur Continuer pour enregistrer le fichier et ignorer les modifications ; cliquez sur Enregistrer sous pour enregistrer une copie du fichier actuel.</translation>
+        <translation type="obsolete">Les autres utilisateurs ont peut-être soumis des modifications qui ne peuvent être identifiées par WPS Spreadsheets. Cliquez sur Continuer pour enregistrer le fichier et ignorer les modifications ; cliquez sur Enregistrer sous pour enregistrer une copie du fichier actuel.</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Enregistrer sous</translation>
+        <translation type="obsolete">Enregistrer sous</translation>
     </message>
     <message>
         <source>Unsupported action</source>
         <translation>Action non prise en charge</translation>
+    </message>
+    <message>
+        <source>&amp;Save As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other users may have submmitted some changes which cannot be identified by WPS Spreadsheets. To save the file and discard the changes, click Continue; to save a copy of the current file, click Save As.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6145,7 +6248,7 @@ Ceci permet également de fusionner des classeurs.</translation>
     <message>
         <source>The Text Wizard has determined that your data is Delimited. 
 If this is correct, choose Next, or choose the data type that best describes your data.</source>
-        <translation>L&apos;Assistant Texte a déterminé que vos données sont de type délimité. 
+        <translation type="obsolete">L&apos;Assistant Texte a déterminé que vos données sont de type délimité. 
 Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de données qui décrit le mieux vos données.</translation>
     </message>
     <message>
@@ -6183,6 +6286,11 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     <message>
         <source>{None}</source>
         <translation>{Aucun}</translation>
+    </message>
+    <message>
+        <source>The Text Wizard has determined that your data is Delimited. 
+If this is correct, choose Next. If not, choose the data type that best describes your data.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6543,11 +6651,15 @@ Si ce choix vous convient, choisissez Suivant, sinon choisissez le type de donn�
     <name>KxEDRPropertiesDlg</name>
     <message>
         <source>A query with this name already exist on this worksheet.</source>
-        <translation>Une requête de ce nom existe déjà sur cette feuille.</translation>
+        <translation type="obsolete">Une requête de ce nom existe déjà sur cette feuille.</translation>
     </message>
     <message>
         <source>The name is invalid for the query.</source>
         <translation>Le nom n&apos;est pas valide pour la requête.</translation>
+    </message>
+    <message>
+        <source>A query with this name already exists on this worksheet.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6976,10 +7088,6 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>userName</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Change user...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7020,15 +7128,19 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Permission expiration date:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(N/A)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Resquest additional permissions... </source>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7230,6 +7342,37 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
+    <name>KxExportOFDDlg</name>
+    <message>
+        <source>Save OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The specified path does not exist, enter a valid one please.</source>
+        <translation type="unfinished">Le chemin spécifié n&apos;existe pas. Entrez un chemin valide.</translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Do you want to replace it and continue?</source>
+        <translation type="unfinished">Le fichier spécifié existe déjà. Voulez-vous le remplacer et continuer ?</translation>
+    </message>
+    <message>
+        <source>Confirmation password is not identical.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input the password of permission settings!</source>
+        <translation type="unfinished">Entrez le mot de passe des paramètres d&apos;autorisation !</translation>
+    </message>
+    <message>
+        <source>File open password and permission password must be different, please enter again.</source>
+        <translation type="unfinished">Le mot de passe d&apos;ouverture du fichier et le mot de passe d&apos;autorisation doivent être différents. Saisissez-les de nouveau.</translation>
+    </message>
+</context>
+<context>
     <name>KxExportPDFDlg</name>
     <message>
         <source>Confirmation password is not identical.</source>
@@ -7258,6 +7401,53 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>The specified path does not exist, enter a valid one please.</source>
         <translation>Le chemin spécifié n&apos;existe pas. Entrez un chemin valide.</translation>
+    </message>
+</context>
+<context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting summary information...</source>
+        <translation type="unfinished">L&apos;exportation des informations résumées est en cours... Merci de patienter.</translation>
+    </message>
+    <message>
+        <source>Exporting page </source>
+        <translation type="unfinished">Exportation de la page </translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="unfinished">Exportation des étiquettes...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets encountered an error while trying exporting to OFD.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Fermer</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7703,15 +7893,23 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Help about this Function</source>
-        <translation>Aide sur cette fonction</translation>
+        <translation type="obsolete">Aide sur cette fonction</translation>
     </message>
     <message>
         <source>No futher information.</source>
-        <translation>Aucune information supplémentaire.</translation>
+        <translation type="obsolete">Aucune information supplémentaire.</translation>
     </message>
     <message>
         <source>Undefined</source>
         <translation>Non défini</translation>
+    </message>
+    <message>
+        <source>&amp;Help about this Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No further information.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7779,11 +7977,15 @@ au bout de l&apos;itération #%2.</translation>
     </message>
     <message>
         <source>Goal Seeking with Cell %1 still can not find a solution.</source>
-        <translation>La recherche sur la cellule %1 ne parvient toujours pas à trouver une solution.</translation>
+        <translation type="obsolete">La recherche sur la cellule %1 ne parvient toujours pas à trouver une solution.</translation>
     </message>
     <message>
         <source>TRUE</source>
         <translation>VRAI</translation>
+    </message>
+    <message>
+        <source>Goal Seeking with Cell %1 may not have found a solution.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8058,7 +8260,11 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
     </message>
     <message>
         <source>To enter a reference using the mouse,click in the edit box, and then click the cell in the sheet you want to refer to,or drag through the range you want to select.</source>
-        <translation>Pour saisir une référence à l&apos;aide de la souris, cliquez dans la zone de texte puis cliquez sur la cellule de la feuille à laquelle vous voulez faire référence, ou faites glisser la souris sur la plage à sélectionner.</translation>
+        <translation type="obsolete">Pour saisir une référence à l&apos;aide de la souris, cliquez dans la zone de texte puis cliquez sur la cellule de la feuille à laquelle vous voulez faire référence, ou faites glisser la souris sur la plage à sélectionner.</translation>
+    </message>
+    <message>
+        <source>To enter a reference using the mouse, click in the edit box, and then click the cell in the sheet you want to refer to, or drag through the range you want to select.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8125,7 +8331,7 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
     </message>
     <message>
         <source>%1 If you need to edit this file in WPS Spreadsheets, please make sure that others is no longer editing, and transform the file %2 to a shared workbook %3 of WPS Spreadsheets.</source>
-        <translation>%1 Si vous devez modifier ce fichier dans WPS Spreadsheets, assurez-vous qu&apos;aucune autre personne n&apos;effectue de modifications et transformez le fichier %2 en classeur partagé %3 de WPS Spreadsheets.</translation>
+        <translation type="obsolete">%1 Si vous devez modifier ce fichier dans WPS Spreadsheets, assurez-vous qu&apos;aucune autre personne n&apos;effectue de modifications et transformez le fichier %2 en classeur partagé %3 de WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>%1 If you only need to view content, please select %2 Read-only %3.</source>
@@ -8134,6 +8340,10 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
     <message>
         <source>%1 Select%2Cancel%3No file will open.</source>
         <translation>%1 Sélectionnez%2Annuler%3Aucun fichier ne s&apos;ouvre.</translation>
+    </message>
+    <message>
+        <source>%1 If you need to edit this file in WPS Spreadsheets, please make sure that others are no longer editing, and transform the file %2 to a shared workbook %3 of WPS Spreadsheets.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8289,15 +8499,15 @@ Pour conserver une image existante, appuyez sur Annuler.</translation>
         <translation type="unfinished">Options</translation>
     </message>
     <message>
-        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Folder:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8767,11 +8977,11 @@ Si vous changez le nom d&apos;un champ de tableau croisé dynamique, vous devez 
     </message>
     <message>
         <source>%1 duplicates are found;
-Only %2 unique value can be keep after delete.</source>
+%2 unique values will be left after delete.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 duplicates are found, which have been deleted; Only keep %2 unique value.</source>
+        <source>%1 duplicates are found and have been deleted, %2 unique values are remained.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8815,10 +9025,17 @@ ces dernières auront un fond orange.
 system will remind checking the correctness of the contents.
 
 (Note: The function only supports single range)</source>
-        <translation>Lorsque vous entrez du contenu en doublon dans la plage suivante, le 
+        <translation type="obsolete">Lorsque vous entrez du contenu en doublon dans la plage suivante, le 
 système rappelle de vérifier l&apos;exactitude du contenu. 
 
 (Remarque : la fonction prend uniquement en charge une seule plage)</translation>
+    </message>
+    <message>
+        <source>When duplicate content is entered in the following range, the
+system will remind you to check the correctness of the contents.
+
+(Note: The function only supports single range)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9306,7 +9523,7 @@ système rappelle de vérifier l&apos;exactitude du contenu.
     </message>
     <message>
         <source>Drag items to the pivotTable areas</source>
-        <translation>Déplacez les éléments vers les zones du tableau croisé dynamique</translation>
+        <translation type="obsolete">Déplacez les éléments vers les zones du tableau croisé dynamique</translation>
     </message>
     <message>
         <source>Immediate apply</source>
@@ -9361,6 +9578,10 @@ système rappelle de vérifier l&apos;exactitude du contenu.
 If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
         <translation>Au moins un élément doit être visible. 
 Pour ne pas afficher du tout le champ, veuillez annuler l&apos;action en cours, puis faire glisser le champ en dehors du rapport.</translation>
+    </message>
+    <message>
+        <source>Drag fields onto PivotTable area</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10290,7 +10511,7 @@ e</translation>
     </message>
     <message>
         <source>Context Reading Order</source>
-        <translation>Ordre de lecture du contexte</translation>
+        <translation type="obsolete">Ordre de lecture du contexte</translation>
     </message>
     <message>
         <source>Coral</source>
@@ -10590,7 +10811,7 @@ e</translation>
     </message>
     <message>
         <source>No macros is currently recording. Click to begin recording a new macro.</source>
-        <translation>Aucune macro n&apos;est en cours d&apos;enregistrement. Cliquez ici pour démarrer l&apos;enregistrement d&apos;une nouvelle macro.</translation>
+        <translation type="obsolete">Aucune macro n&apos;est en cours d&apos;enregistrement. Cliquez ici pour démarrer l&apos;enregistrement d&apos;une nouvelle macro.</translation>
     </message>
     <message>
         <source>None</source>
@@ -10678,7 +10899,7 @@ e</translation>
     </message>
     <message>
         <source>Shrink To fit</source>
-        <translation>Ajuster</translation>
+        <translation type="obsolete">Ajuster</translation>
     </message>
     <message>
         <source>Single</source>
@@ -10952,6 +11173,18 @@ e</translation>
         <source>You cannot save this workbook %1 with the same name as another open workbook. Choose a different name, or close the other workbook before saving.</source>
         <translation>Vous ne pouvez pas enregistrer ce classeur %1 portant le même nom qu’un autre classeur actuellement ouvert. Choisissez un autre nom ou fermez l&apos;autre classeur avant d&apos;enregistrer.</translation>
     </message>
+    <message>
+        <source>Shrink to Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Context</source>
+        <translation type="unfinished">Contexte</translation>
+    </message>
+    <message>
+        <source>No macro is currently recording. Click to begin recording a new macro.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ReadOnlyFile</name>
@@ -11016,11 +11249,15 @@ e</translation>
     </message>
     <message>
         <source>Please select the target table to be imported from the combo box, all fieldss will be listed in the left list box, select the fields needed to be imported there, the selected fields will be listed in the right list box.</source>
-        <translation>Sélectionnez le tableau cible à importer dans la zone de liste déroulante ; tous les champs seront répertoriés dans la liste déroulante de gauche. Sélectionnez les champs devant y être importés ; les champs sélectionnés seront répertoriés dans la liste déroulante de droite.</translation>
+        <translation type="obsolete">Sélectionnez le tableau cible à importer dans la zone de liste déroulante ; tous les champs seront répertoriés dans la liste déroulante de gauche. Sélectionnez les champs devant y être importés ; les champs sélectionnés seront répertoriés dans la liste déroulante de droite.</translation>
     </message>
     <message>
         <source>The second step: Select table and fields</source>
         <translation>Deuxième étape : Sélectionner le tableau et les champs</translation>
+    </message>
+    <message>
+        <source>Please select the target table to be imported from the combo box. All fields will be listed in the left list box. Select the fields needed to be imported there, and the selected fields will be listed in the right list box.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11222,7 +11459,7 @@ e</translation>
     <message>
         <source>S&amp;ubject to the Constraint:</source>
         <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
-        <translation type="unfinished">C&amp;ontraintes :</translation>
+        <translation type="obsolete">C&amp;ontraintes :</translation>
     </message>
     <message>
         <source>Se&amp;t Objective:</source>
@@ -11248,6 +11485,10 @@ e</translation>
         <source>To:</source>
         <translatorcomment>Data tab-&gt;What-If Analysis-&gt;Solver-&gt;Solver Parameters dialog box</translatorcomment>
         <translation>À :</translation>
+    </message>
+    <message>
+        <source>S&amp;ubject to the Constraints:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11509,6 +11750,140 @@ e</translation>
     </message>
 </context>
 <context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished">Normal</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation type="unfinished">Enregis&amp;trer sur</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">&amp;Parcourir...</translation>
+    </message>
+    <message>
+        <source>Export range</source>
+        <translation type="unfinished">Étendue de l&apos;exportation</translation>
+    </message>
+    <message>
+        <source>Active &amp;Sheet</source>
+        <translation type="unfinished">Feuille acti&amp;ve</translation>
+    </message>
+    <message>
+        <source>&amp;Entire Workbook</source>
+        <translation type="unfinished">Class&amp;eur entier</translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished">Options d&apos;exportation</translation>
+    </message>
+    <message>
+        <source>Summary &amp;information</source>
+        <translation type="unfinished">Résu&amp;mé</translation>
+    </message>
+    <message>
+        <source>Hyper&amp;link</source>
+        <translation type="unfinished">&amp;Lien hypertexte</translation>
+    </message>
+    <message>
+        <source>New &amp;Comment</source>
+        <translation type="unfinished">Nouveau &amp;commentaire</translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation type="unfinished">Paramètres d&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Password to protect permission settings</source>
+        <translation type="unfinished">Mot de passe pour protéger les paramètres d&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Pass&amp;word:</source>
+        <translation type="unfinished">&amp;Mot de passe :</translation>
+    </message>
+    <message>
+        <source>C&amp;onfirm:</source>
+        <translation type="unfinished">C&amp;onfirmer :</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
+        <translation type="unfinished">Remarque : les paramètres suivants deviennent effectifs et ne peuvent être modifiés par d&apos;autres personnes que si vous définissez un mot de passe.</translation>
+    </message>
+    <message>
+        <source>Permit to modi&amp;fy</source>
+        <translation type="unfinished">Autoriser à modi&amp;fier</translation>
+    </message>
+    <message>
+        <source>Permit to cop&amp;y</source>
+        <translation type="unfinished">A&amp;utoriser à copier</translation>
+    </message>
+    <message>
+        <source>Permit to &amp;add comments</source>
+        <translation type="unfinished">Autoriser à &amp;ajouter des commentaires</translation>
+    </message>
+    <message>
+        <source>&amp;Printing permission:</source>
+        <translation type="unfinished">Autorisation Im&amp;pression :</translation>
+    </message>
+    <message>
+        <source>Printing Permission</source>
+        <translation type="unfinished">Autorisation d&apos;impression</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished">Impression libre</translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation type="unfinished">Impression non autorisée</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished">Impression brouillon</translation>
+    </message>
+    <message>
+        <source>File password:</source>
+        <translation type="unfinished">Mot de passe du fichier :</translation>
+    </message>
+    <message>
+        <source>Passwor&amp;d:</source>
+        <translation type="unfinished">Mot &amp;de passe :</translation>
+    </message>
+    <message>
+        <source>Confir&amp;m:</source>
+        <translation type="unfinished">Confir&amp;mer :</translation>
+    </message>
+    <message>
+        <source>Close w&amp;hen export completes</source>
+        <translation type="unfinished">Fermer une fois l&apos;e&amp;xportation terminée</translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation type="unfinished">&amp;Ouvrir le fichier</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+</context>
+<context>
     <name>kdlgExportToPDF</name>
     <message>
         <source>&amp;Browse...</source>
@@ -11607,7 +11982,7 @@ e</translation>
     <message>
         <source>Password to protect permission settings</source>
         <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Permission Settings</translatorcomment>
-        <translation>Mot de passe pour protéger les paramètres d&apos;autorisation</translation>
+        <translation type="obsolete">Mot de passe pour protéger les paramètres d&apos;autorisation</translation>
     </message>
     <message>
         <source>Permission Settings</source>
@@ -11653,6 +12028,10 @@ e</translation>
         <source>New &amp;Comment</source>
         <translatorcomment>Office Space tab-&gt;Export to PDF-&gt;Export to Adobe PDF File dialog box-&gt;Normal</translatorcomment>
         <translation>Nouveau &amp;commentaire</translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11713,7 +12092,7 @@ page Web e&amp;xistant(e)</translation>
     </message>
     <message>
         <source>Email Buttion</source>
-        <translation>Bouton Courrier électronique</translation>
+        <translation type="obsolete">Bouton Courrier électronique</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -11748,6 +12127,10 @@ document</translation>
     <message>
         <source>Up One Folder</source>
         <translation>Remonter d&apos;un dossier</translation>
+    </message>
+    <message>
+        <source>Email Button</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11809,7 +12192,7 @@ document</translation>
     </message>
     <message>
         <source>&amp;Page step size:</source>
-        <translation>Taille d&apos;incrément de la &amp;page :</translation>
+        <translation type="obsolete">Taille d&apos;incrément de la &amp;page :</translation>
     </message>
     <message>
         <source>&amp;Single</source>
@@ -11817,7 +12200,7 @@ document</translation>
     </message>
     <message>
         <source>&amp;UnChecked</source>
-        <translation type="unfinished">&amp;Désactivé</translation>
+        <translation type="obsolete">&amp;Désactivé</translation>
     </message>
     <message>
         <source>0</source>
@@ -11841,11 +12224,23 @@ document</translation>
     </message>
     <message>
         <source>Step s&amp;ize:</source>
-        <translation>Taille d&apos;&amp;incrément :</translation>
+        <translation type="obsolete">Taille d&apos;&amp;incrément :</translation>
     </message>
     <message>
         <source>Values</source>
         <translation>Valeurs</translation>
+    </message>
+    <message>
+        <source>&amp;Unchecked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By (&amp;I):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Page change:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12026,12 +12421,17 @@ document</translation>
     <message>
         <source>The file you are opening changes the option of Automatic to Manual, which would cause the current file and other files cannot get the correct results in time during the editing process.
 Do you want to change to Manual?</source>
-        <translation>Le fichier que vous ouvrez bascule l&apos;option d&apos;Automatique à Manuel. Le fichier actuel et les autres fichiers ne peuvent donc pas obtenir les résultats appropriés à temps au cours du processus de modification. 
+        <translation type="obsolete">Le fichier que vous ouvrez bascule l&apos;option d&apos;Automatique à Manuel. Le fichier actuel et les autres fichiers ne peuvent donc pas obtenir les résultats appropriés à temps au cours du processus de modification. 
 Voulez-vous basculer en Manuel ?</translation>
     </message>
     <message>
         <source>Spreadsheets</source>
         <translation>Spreadsheets</translation>
+    </message>
+    <message>
+        <source>The file you are opening changes the option of Automatic to Manual, which will prevent the current file and other files from getting the correct results in time during the editing process.
+Do you want to change to Manual?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

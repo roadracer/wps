@@ -421,7 +421,7 @@
     <message>
         <source>Can not find the file &quot;%1&quot;.
 the file may be renamed,deleted or moved the location.</source>
-        <translation>Nu se poate găsi fișierul &quot;%1&quot;.
+        <translation type="obsolete">Nu se poate găsi fișierul &quot;%1&quot;.
 fișierul este posibil să fie redenumit, șters sau mutat.</translation>
     </message>
     <message>
@@ -444,7 +444,7 @@ fișierul este posibil să fie redenumit, șters sau mutat.</translation>
         <source>
 
 modify time: </source>
-        <translation>
+        <translation type="obsolete">
 
 timp modificare: </translation>
     </message>
@@ -452,9 +452,27 @@ timp modificare: </translation>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation>
+        <translation type="obsolete">
 
 Această înregistrare nu este validă, fișierul poate a fost redenumit,șters sau mutat</translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Modified time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -548,8 +566,13 @@ multiplu=multiplu
     <message>
         <source>Some components are not installed correctly,
 please reinstall WPS Office!</source>
-        <translation>Unele componente nu sunt instalate corect,
+        <translation type="obsolete">Unele componente nu sunt instalate corect,
 reinstalați WPS Office!</translation>
+    </message>
+    <message>
+        <source>Some components are not installed correctly.
+Please reinstall WPS Office!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

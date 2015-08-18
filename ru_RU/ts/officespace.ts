@@ -175,11 +175,19 @@
     </message>
     <message>
         <source>New version is available, Please Refresh</source>
-        <translation>Доступна новая версия. Обновите приложение.</translation>
+        <translation type="obsolete">Доступна новая версия. Обновите приложение.</translation>
     </message>
     <message>
         <source>New version is available, Please Check</source>
-        <translation>Доступна новая версия. Просмотрите, пожалуйста.</translation>
+        <translation type="obsolete">Доступна новая версия. Просмотрите, пожалуйста.</translation>
+    </message>
+    <message>
+        <source>New version is available. Please refresh.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is available. Please check.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -219,23 +227,23 @@
     </message>
     <message>
         <source>modifyTime:</source>
-        <translation>Время изменения:</translation>
+        <translation type="obsolete">Время изменения:</translation>
     </message>
     <message>
         <source>Kingsoft Office auto backup</source>
-        <translation>Автоматическое резервное копирование</translation>
+        <translation type="obsolete">Автоматическое резервное копирование</translation>
     </message>
     <message>
         <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation>Имя \Kingsoft Office\Desktop.ini.</translation>
+        <translation type="obsolete">Имя \Kingsoft Office\Desktop.ini.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
-        <translation>Имя \Kingsoft Office\AppData\Desktop.ini.</translation>
+        <translation type="obsolete">Имя \Kingsoft Office\AppData\Desktop.ini.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</source>
-        <translation>Имя \Kingsoft Office\AppData\Auto Backup\Desktop.ini.</translation>
+        <translation type="obsolete">Имя \Kingsoft Office\AppData\Auto Backup\Desktop.ini.</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -255,7 +263,7 @@
     </message>
     <message>
         <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation>В документе сейчас разрешено автоматическое резервное копирование! &lt;br /&gt; Файл резервной копии будет создаваться в Пространстве офиса каждый раз при закрытии документа.</translation>
+        <translation type="obsolete">В документе сейчас разрешено автоматическое резервное копирование! &lt;br /&gt; Файл резервной копии будет создаваться в Пространстве офиса каждый раз при закрытии документа.</translation>
     </message>
     <message>
         <source>Login File Safe before manual backup.</source>
@@ -267,11 +275,11 @@
     </message>
     <message>
         <source>This document has&apos;t activated auto backup, so backup file is not available.</source>
-        <translation>В документе не разрешено автоматическое резервное копирование, и файл резервной копии недоступен.</translation>
+        <translation type="obsolete">В документе не разрешено автоматическое резервное копирование, и файл резервной копии недоступен.</translation>
     </message>
     <message>
         <source>There is no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup is created for this file in the current computer.&lt;br /&gt;2. Backup file is manually cleared.</source>
-        <translation>В каталоге резервных копий отстутствует резервная копия данного файла.&lt;br /&gt; Возможные причины:. &lt;br /&gt; 1. резервная копия не создается для этого файла на данном компьютере; &lt;br /&gt; 2. резервная копия удалена вручную.</translation>
+        <translation type="obsolete">В каталоге резервных копий отстутствует резервная копия данного файла.&lt;br /&gt; Возможные причины:. &lt;br /&gt; 1. резервная копия не создается для этого файла на данном компьютере; &lt;br /&gt; 2. резервная копия удалена вручную.</translation>
     </message>
     <message>
         <source>Login klive before canceling auto backup.</source>
@@ -279,11 +287,11 @@
     </message>
     <message>
         <source>Login klive before explor backup dir.</source>
-        <translation>Войдите в klive перед просмотром каталога резервных копий.</translation>
+        <translation type="obsolete">Войдите в klive перед просмотром каталога резервных копий.</translation>
     </message>
     <message>
         <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files is created in the current computer.&lt;br /&gt;2. Backup files are manually cleared.</source>
-        <translation>В каталоге резервных копий отстутствуют резервные копии.&lt;br /&gt; Возможные причины:. &lt;br /&gt; 1. резервные копии не создаются на данном компьютере; &lt;br /&gt; 2. резервные копии удалены вручную.</translation>
+        <translation type="obsolete">В каталоге резервных копий отстутствуют резервные копии.&lt;br /&gt; Возможные причины:. &lt;br /&gt; 1. резервные копии не создаются на данном компьютере; &lt;br /&gt; 2. резервные копии удалены вручную.</translation>
     </message>
     <message>
         <source>Important! Don&apos;t delete this directory.txt</source>
@@ -299,15 +307,66 @@
     </message>
     <message>
         <source>netbackup recover file</source>
-        <translation>Восстановление файла резервной копии netbackup.</translation>
+        <translation type="obsolete">Восстановление файла резервной копии netbackup.</translation>
     </message>
     <message>
         <source>netbackup rollback failed.</source>
-        <translation>Ошибка возврата к предыдущему состоянию netbackup.</translation>
+        <translation type="obsolete">Ошибка возврата к предыдущему состоянию netbackup.</translation>
     </message>
     <message>
         <source>http://www.kingsoftstore.com/support/pc-office</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Modify Time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Auto Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto bakcup has been enabled for the document now.&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto backup has not been activated for this document. So there is no backup file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files has been created for this file on the current computer.&lt;br /&gt;2. Backup files were manually cleared.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login klive before exploring backup directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files has been created on the current computer.&lt;br /&gt;2. Backup files were manually cleared.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to recover the file. The source file will be opened instead.
+This may because:
+1. The source file has been occupied by another program;
+2. Permission restricted in source file directory.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -588,7 +647,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>&amp;Encrypt</source>
-        <translation>&amp;Шифрование</translation>
+        <translation type="obsolete">&amp;Шифрование</translation>
     </message>
     <message>
         <source> - replica</source>
@@ -604,11 +663,11 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>rena&amp;me</source>
-        <translation>пере&amp;именовать</translation>
+        <translation type="obsolete">пере&amp;именовать</translation>
     </message>
     <message>
         <source>r&amp;efresh</source>
-        <translation>об&amp;новить</translation>
+        <translation type="obsolete">об&amp;новить</translation>
     </message>
     <message>
         <source>Cut and paste currently selected content to clipboard</source>
@@ -660,7 +719,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>new &amp;folder</source>
-        <translation>создать &amp;папку</translation>
+        <translation type="obsolete">создать &amp;папку</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -725,6 +784,22 @@ Are you sure to change?</source>
     <message>
         <source>Cloud Docs</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rena&amp;me</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R&amp;efresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New &amp;Folder</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -922,7 +997,7 @@ path:%3</source>
     </message>
     <message>
         <source>Remove From List</source>
-        <translation>Удалить из списка</translation>
+        <translation type="obsolete">Удалить из списка</translation>
     </message>
     <message>
         <source>Clear All</source>
@@ -939,6 +1014,10 @@ path:%3</source>
     <message>
         <source>File Roaming</source>
         <translation>Роуминг файлов</translation>
+    </message>
+    <message>
+        <source>Delete from List</source>
+        <translation type="unfinished">Удалить из списка</translation>
     </message>
 </context>
 <context>
@@ -960,7 +1039,11 @@ path:%3</source>
     </message>
     <message>
         <source>Cacel</source>
-        <translation>Отмена</translation>
+        <translation type="obsolete">Отмена</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Отмена</translation>
     </message>
 </context>
 <context>
@@ -1139,11 +1222,15 @@ path:%3</source>
     <name>KTpRoamingPage</name>
     <message>
         <source>You have opened File Roaming:</source>
-        <translation>Открытие роуминга файлов:</translation>
+        <translation type="obsolete">Открытие роуминга файлов:</translation>
     </message>
     <message>
         <source>Look up my File Roaming</source>
         <translation>Поиск в роуминге файлов</translation>
+    </message>
+    <message>
+        <source>You have enabled File Roaming:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1160,7 +1247,7 @@ path:%3</source>
     </message>
     <message>
         <source>If you want to use marcos, please upgrade to professional or commercial version</source>
-        <translation>Для использования макросов необходима профессиональная или коммерческая версия приложения.</translation>
+        <translation type="obsolete">Для использования макросов необходима профессиональная или коммерческая версия приложения.</translation>
     </message>
     <message>
         <source>Learn Professional</source>
@@ -1179,6 +1266,10 @@ path:%3</source>
     <message>
         <source>The file you would like to open contains macros.</source>
         <translation>Открываемый файл содержит макросы.</translation>
+    </message>
+    <message>
+        <source>If you want to use macros, please upgrade to professional or business version</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1214,7 +1305,7 @@ path:%3</source>
     <name>KxCheckUploadDlg</name>
     <message>
         <source>Documents saving to the cloud failed. Please check the internet and retry</source>
-        <translation>Не удалось сохранить документ в облачном хранилище. Проверьте подключение и повторите попытку</translation>
+        <translation type="obsolete">Не удалось сохранить документ в облачном хранилище. Проверьте подключение и повторите попытку</translation>
     </message>
     <message>
         <source>Checking completed and will upload it at background</source>
@@ -1223,6 +1314,10 @@ path:%3</source>
     <message>
         <source>Checking cloud saving permissions. Please wait...</source>
         <translation>Выполняется проверка прав на сохранение в облаке. Пожалуйста, подождите...</translation>
+    </message>
+    <message>
+        <source>Documents saving to the cloud failed. Please check the Internet and retry</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1427,7 +1522,7 @@ path:%3</source>
     </message>
     <message>
         <source>Restrict Editing Content.</source>
-        <translation>Ограничение редактирования содержимого.</translation>
+        <translation type="obsolete">Ограничение редактирования содержимого.</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -1532,6 +1627,10 @@ path:%3</source>
     <message>
         <source>Allow multiple people to work in a workbook at the same time.</source>
         <translation>Организация одновременной работы нескольких пользователей с одной и той же книгой.</translation>
+    </message>
+    <message>
+        <source>Restrict how people edit or format specific parts of the document.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1725,7 +1824,11 @@ path:%3</source>
     </message>
     <message>
         <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
-        <translation>Если вы приобрели индивидуальную подписку, войдите для того, чтобы вспользоваться услугой.</translation>
+        <translation type="obsolete">Если вы приобрели индивидуальную подписку, войдите для того, чтобы вспользоваться услугой.</translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription, please sign in to use WPS Office.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1965,7 +2068,7 @@ After expiration, some features will not work properly. Please renew now. </sour
     <name>KxQingRestrictDlg</name>
     <message>
         <source>WPS Office Disable Features</source>
-        <translation>WPS Office запрет функциональности</translation>
+        <translation type="obsolete">WPS Office запрет функциональности</translation>
     </message>
     <message>
         <source>WPS Office Limited Features</source>
@@ -2006,6 +2109,10 @@ After expiration, some features will not work properly. Please renew now. </sour
     <message>
         <source>Buy/Renew Now</source>
         <translation>Купить или продлить&gt;&gt;</translation>
+    </message>
+    <message>
+        <source>WPS Office Disabled Features</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2128,11 +2235,15 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Currently the trial, free and home versions of WPS Office cannot support VBA so that macros in the document cannot work properly.</source>
-        <translation>Пробная, бесплатная и домашняя версии не поддерживают VBA, поэтому макросы в документе не смогут работать.</translation>
+        <translation type="obsolete">Пробная, бесплатная и домашняя версии не поддерживают VBA, поэтому макросы в документе не смогут работать.</translation>
     </message>
     <message>
         <source>OK</source>
         <translation>ОК</translation>
+    </message>
+    <message>
+        <source>Currently the trial, free and home versions of WPS Office cannot support VBA, thus macros in the document cannot work properly.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2235,7 +2346,12 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
-        <translation>Если вы приобрели индивидуальную подписку, войдите для того, чтобы вспользоваться услугой.</translation>
+        <translation type="obsolete">Если вы приобрели индивидуальную подписку, войдите для того, чтобы вспользоваться услугой.</translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription, 
+please sign in to use WPS Office.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2264,11 +2380,19 @@ After expiration, some features will not work properly. Please renew now. </sour
     <name>tips.DataRecover</name>
     <message>
         <source>Data Recovery Title</source>
-        <translation>Мастер восстановления заголовков</translation>
+        <translation type="obsolete">Мастер восстановления заголовков</translation>
     </message>
     <message>
         <source>Data Recovery Content</source>
-        <translation>Мастер восстановления содержимого</translation>
+        <translation type="obsolete">Мастер восстановления содержимого</translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished">Образец восстановления данных</translation>
+    </message>
+    <message>
+        <source>Help you resume lost files due to disk corruption or accidental delete</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

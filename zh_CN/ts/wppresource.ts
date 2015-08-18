@@ -53,6 +53,10 @@
         <translation>方向</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>无穷</translation>
     </message>
@@ -90,7 +94,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation>取色器</translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -486,7 +490,7 @@
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -543,6 +547,10 @@
     <message>
         <source>Even Width</source>
         <translation type="obsolete">等宽</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -627,6 +635,10 @@
     <message>
         <source>Long Dash Dot</source>
         <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -830,7 +842,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation>取色器</translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -926,6 +938,10 @@
         <translation>分散对齐</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Font</source>
         <translation>字体</translation>
     </message>
@@ -967,7 +983,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation>取色器</translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -1385,6 +1401,10 @@
 <context>
     <name>classics.shadow_settings</name>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Shadow Colors</source>
         <translation>其他阴影颜色</translation>
     </message>
@@ -1434,7 +1454,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation>取色器</translation>
+        <translation type="obsolete">取色器</translation>
     </message>
 </context>
 <context>
@@ -1686,6 +1706,10 @@ Master</source>
         <translation>平均分布各行</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fill Color</source>
         <translation>填充颜色</translation>
     </message>
@@ -1739,7 +1763,7 @@ Master</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>取色器</translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -2086,7 +2110,11 @@ Effects</source>
     </message>
     <message>
         <source>Batch Set Font</source>
-        <translation>批量设置字体</translation>
+        <translation type="obsolete">批量设置字体</translation>
+    </message>
+    <message>
+        <source>Bulk Font Setting</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Color
@@ -2584,7 +2612,7 @@ On</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -2751,6 +2779,10 @@ On</source>
         <translation>长划线-点</translation>
     </message>
     <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
         <translation type="obsolete">长划线-点</translation>
     </message>
@@ -2896,7 +2928,11 @@ On</source>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation>底端对齐</translation>
+        <translation type="obsolete">底端对齐</translation>
+    </message>
+    <message>
+        <source>Upholding Fixed</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -3492,8 +3528,12 @@ Effects</source>
         <translation>项目符号</translation>
     </message>
     <message>
+        <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>CellphoneControl</source>
-        <translation>手机遥控</translation>
+        <translation type="obsolete">手机遥控</translation>
     </message>
     <message>
         <source>Center</source>
@@ -3533,7 +3573,7 @@ Effects</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -3723,6 +3763,10 @@ Slide</source>
         <translation>增大段落间距</translation>
     </message>
     <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>插入图片</translation>
     </message>
@@ -3732,7 +3776,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -3765,6 +3809,10 @@ Slide</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -4167,7 +4215,7 @@ Effects</source>
     </message>
     <message>
         <source>Artistic Clip</source>
-        <translation>剪贴画</translation>
+        <translation type="obsolete">剪贴画</translation>
     </message>
     <message>
         <source>Background
@@ -4181,6 +4229,10 @@ Music</source>
     <message>
         <source>Chart</source>
         <translation>图表</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -4241,11 +4293,15 @@ Footer</source>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>插入剪贴画</translation>
+        <translation type="obsolete">插入剪贴画</translation>
     </message>
     <message>
         <source>Insert Chart</source>
         <translation>插入图表</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Data Chart</source>
@@ -4350,12 +4406,16 @@ Number</source>
         <translation>幻灯片编号</translation>
     </message>
     <message>
+        <source>Slide Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slide Number</source>
         <translation type="obsolete">幻灯片编号</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
-        <translation>幻灯片库</translation>
+        <translation type="obsolete">幻灯片库</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -4397,40 +4457,76 @@ Number</source>
 <context>
     <name>ongmani.ct_orgchart</name>
     <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>0.25 pt.</source>
-        <translation>0.25 磅</translation>
+        <translation type="obsolete">0.25 磅</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation>0.5 磅</translation>
+        <translation type="obsolete">0.5 磅</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation>0.75 磅</translation>
+        <translation type="obsolete">0.75 磅</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation>1 磅</translation>
+        <translation type="obsolete">1 磅</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation>1.5 磅</translation>
+        <translation type="obsolete">1.5 磅</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation>2.25 磅</translation>
+        <translation type="obsolete">2.25 磅</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation>3 磅</translation>
+        <translation type="obsolete">3 磅</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation>4.5 磅</translation>
+        <translation type="obsolete">4.5 磅</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation>6 磅</translation>
+        <translation type="obsolete">6 磅</translation>
     </message>
     <message>
         <source>Adjust Structure</source>
@@ -4498,7 +4594,7 @@ Number</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -4526,7 +4622,7 @@ Number</source>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation>带图案线条</translation>
+        <translation type="obsolete">带图案线条</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -4534,7 +4630,7 @@ Number</source>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation>线型</translation>
+        <translation type="obsolete">线型</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -4543,6 +4639,10 @@ Number</source>
     <message>
         <source>Long Dash Dot</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -4575,6 +4675,10 @@ Number</source>
     <message>
         <source>Pattern</source>
         <translation>图案</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -4691,10 +4795,6 @@ Number</source>
         <translation>适应文字</translation>
     </message>
     <message>
-        <source>FitText Tip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Left Hanging</source>
         <translation>左悬挂</translation>
     </message>
@@ -4713,6 +4813,10 @@ Number</source>
     <message>
         <source>ResetLayout</source>
         <translation type="obsolete">重置布局</translation>
+    </message>
+    <message>
+        <source>Resize shape to fit text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Right Hanging</source>
@@ -4803,7 +4907,7 @@ Number</source>
     </message>
     <message>
         <source>Artistic Clip</source>
-        <translation>剪贴画</translation>
+        <translation type="obsolete">剪贴画</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -4825,6 +4929,10 @@ Picture</source>
     <message>
         <source>Change Picture</source>
         <translation type="obsolete">更改图片</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Color</source>
@@ -4853,7 +4961,7 @@ Pictures</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -4890,6 +4998,10 @@ Pictures</source>
     <message>
         <source>Equal Width</source>
         <translation>等宽</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill</source>
@@ -4945,7 +5057,15 @@ Pictures</source>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>插入剪贴画</translation>
+        <translation type="obsolete">插入剪贴画</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -4953,7 +5073,7 @@ Pictures</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -4970,6 +5090,10 @@ Pictures</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -5160,7 +5284,7 @@ On/Off</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>取色器</translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -5381,7 +5505,7 @@ Order</source>
     </message>
     <message>
         <source>Conversion</source>
-        <translation type="obsolete">简繁转换</translation>
+        <translation type="unfinished">简繁转换</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -5571,6 +5695,10 @@ Effects</source>
         <translation>方向</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>无穷</translation>
     </message>
@@ -5692,7 +5820,7 @@ Effects</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>取色器</translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -5928,8 +6056,12 @@ Background Picture</source>
 <context>
     <name>ongmani.ct_slideshow</name>
     <message>
+        <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>CellphoneControl</source>
-        <translation>手机遥控</translation>
+        <translation type="obsolete">手机遥控</translation>
     </message>
     <message>
         <source>Custom 
@@ -6603,6 +6735,10 @@ On/Off</source>
         <translation>方向</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>无穷</translation>
     </message>
@@ -6724,7 +6860,7 @@ Effects</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>取色器</translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -6950,7 +7086,7 @@ Spacing</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -7115,6 +7251,10 @@ Spacing</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -7356,11 +7496,19 @@ Shape</source>
     </message>
     <message>
         <source>Batch Set Font</source>
-        <translation>批量设置字体</translation>
+        <translation type="obsolete">批量设置字体</translation>
+    </message>
+    <message>
+        <source>Bulk Font Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation>手机遥控</translation>
+        <translation type="obsolete">手机遥控</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -7587,8 +7735,12 @@ Shape</source>
         <translation type="obsolete">登录</translation>
     </message>
     <message>
+        <source>Slide Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>SlideLibrary</source>
-        <translation>幻灯片库</translation>
+        <translation type="obsolete">幻灯片库</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -7666,40 +7818,76 @@ Shape</source>
         <translation type="obsolete">更多历史记录</translation>
     </message>
     <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>0.25 pt.</source>
-        <translation>0.25 磅</translation>
+        <translation type="obsolete">0.25 磅</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation>0.5 磅</translation>
+        <translation type="obsolete">0.5 磅</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation>0.75 磅</translation>
+        <translation type="obsolete">0.75 磅</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation>1 磅</translation>
+        <translation type="obsolete">1 磅</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation>1.5 磅</translation>
+        <translation type="obsolete">1.5 磅</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation>2.25 磅</translation>
+        <translation type="obsolete">2.25 磅</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation>3 磅</translation>
+        <translation type="obsolete">3 磅</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation>4.5 磅</translation>
+        <translation type="obsolete">4.5 磅</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation>6 磅</translation>
+        <translation type="obsolete">6 磅</translation>
     </message>
     <message>
         <source>About Kingsoft Presentation</source>
@@ -7832,7 +8020,7 @@ Shape</source>
     </message>
     <message>
         <source>Artistic Clip</source>
-        <translation>剪贴画</translation>
+        <translation type="obsolete">剪贴画</translation>
     </message>
     <message>
         <source>Auto Backup</source>
@@ -7973,6 +8161,10 @@ Add-Ins</source>
         <translation>中文简繁转换</translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clipboard</source>
         <translation>剪贴板</translation>
     </message>
@@ -8069,16 +8261,20 @@ Add-Ins</source>
         <translation>短划线</translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
         <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>划线-点</translation>
+        <translation type="obsolete">划线-点</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Data Chart</source>
@@ -8297,6 +8493,10 @@ Add-Ins</source>
         <translation>打包</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback by Email</source>
         <translation>WPS 客服邮箱</translation>
     </message>
@@ -8325,12 +8525,20 @@ Add-Ins</source>
         <translation>Flash</translation>
     </message>
     <message>
+        <source>Flip Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Flip Horizontally</source>
-        <translation>水平翻转</translation>
+        <translation type="obsolete">水平翻转</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Vertically</source>
-        <translation>垂直翻转</translation>
+        <translation type="obsolete">垂直翻转</translation>
     </message>
     <message>
         <source>Font</source>
@@ -8374,7 +8582,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>渐变</translation>
+        <translation type="obsolete">渐变</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -8450,7 +8662,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>插入剪贴画</translation>
+        <translation type="obsolete">插入剪贴画</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Columns</source>
@@ -8602,23 +8818,35 @@ Add-Ins</source>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation>带图案线条</translation>
+        <translation type="obsolete">带图案线条</translation>
     </message>
     <message>
         <source>Line Spacing</source>
         <translation>行距</translation>
     </message>
     <message>
+        <source>Line Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Sytle Palette</source>
-        <translation>线型</translation>
+        <translation type="obsolete">线型</translation>
     </message>
     <message>
         <source>Long Dash</source>
         <translation>长划线</translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>长划线-点</translation>
+        <translation type="obsolete">长划线-点</translation>
     </message>
     <message>
         <source>Macro</source>
@@ -8728,11 +8956,15 @@ Master</source>
     </message>
     <message>
         <source>New Slide From Online</source>
-        <translation>从幻灯片库新建</translation>
+        <translation type="obsolete">从幻灯片库新建</translation>
     </message>
     <message>
         <source>New Slide Master</source>
         <translation>新幻灯片母版</translation>
+    </message>
+    <message>
+        <source>New Slide Online</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Title Master</source>
@@ -8849,6 +9081,10 @@ Master</source>
     <message>
         <source>Pattern</source>
         <translation>图案</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pause</source>
@@ -9152,7 +9388,7 @@ Master</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>取色器</translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -9591,7 +9827,11 @@ Master</source>
     </message>
     <message>
         <source>Batch Set Font</source>
-        <translation>批量设置字体</translation>
+        <translation type="obsolete">批量设置字体</translation>
+    </message>
+    <message>
+        <source>Bulk Font Setting</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Color Schemes</source>
@@ -9958,7 +10198,7 @@ AddIns</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -10047,6 +10287,10 @@ AddIns</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -10722,8 +10966,12 @@ AddIns</source>
         <translation>项目符号</translation>
     </message>
     <message>
+        <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>CellphoneControl</source>
-        <translation>手机遥控</translation>
+        <translation type="obsolete">手机遥控</translation>
     </message>
     <message>
         <source>Center</source>
@@ -10763,7 +11011,7 @@ AddIns</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -10932,6 +11180,10 @@ Slide</source>
         <translation>增大段落间距</translation>
     </message>
     <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>插入图片</translation>
     </message>
@@ -10941,7 +11193,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -10970,6 +11222,10 @@ Slide</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -11354,7 +11610,7 @@ Slide</source>
     </message>
     <message>
         <source>Artistic Clip</source>
-        <translation>剪贴画</translation>
+        <translation type="obsolete">剪贴画</translation>
     </message>
     <message>
         <source>Background Music</source>
@@ -11363,6 +11619,10 @@ Slide</source>
     <message>
         <source>Chart</source>
         <translation>图表</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -11414,11 +11674,15 @@ Slide</source>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>插入剪贴画</translation>
+        <translation type="obsolete">插入剪贴画</translation>
     </message>
     <message>
         <source>Insert Chart</source>
         <translation>插入图表</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Data Chart</source>
@@ -11427,6 +11691,10 @@ Slide</source>
     <message>
         <source>Insert Hyperlink</source>
         <translation>插入超链接 (Ctrl+K)</translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Organization Chart</source>
@@ -11450,7 +11718,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Links</source>
@@ -11505,12 +11773,16 @@ Slide</source>
         <translation>形状</translation>
     </message>
     <message>
+        <source>Slide Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slide Number</source>
         <translation>幻灯片编号</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
-        <translation>幻灯片库</translation>
+        <translation type="obsolete">幻灯片库</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -11689,7 +11961,7 @@ Slide</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -11721,7 +11993,7 @@ Slide</source>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation>带图案线条</translation>
+        <translation type="obsolete">带图案线条</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -11729,7 +12001,7 @@ Slide</source>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation>线型</translation>
+        <translation type="obsolete">线型</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -11738,6 +12010,10 @@ Slide</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -11774,6 +12050,10 @@ Slide</source>
     <message>
         <source>Pattern</source>
         <translation>图案</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -11987,7 +12267,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Artistic Clip</source>
-        <translation>剪贴画</translation>
+        <translation type="obsolete">剪贴画</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -12008,6 +12288,10 @@ Subordinate</source>
     <message>
         <source>Change Picture</source>
         <translation>更改图片</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Color</source>
@@ -12031,7 +12315,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -12123,7 +12407,11 @@ Subordinate</source>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>插入剪贴画</translation>
+        <translation type="obsolete">插入剪贴画</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -12152,6 +12440,10 @@ Subordinate</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -12659,6 +12951,10 @@ Subordinate</source>
         <translation>方向</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>无穷</translation>
     </message>
@@ -12764,7 +13060,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>取色器</translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -12835,8 +13131,12 @@ Master</source>
 <context>
     <name>rainbow.ct_slideshow</name>
     <message>
+        <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>CellphoneControl</source>
-        <translation>手机遥控</translation>
+        <translation type="obsolete">手机遥控</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
@@ -13289,6 +13589,10 @@ Effects</source>
         <translation>方向</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>无穷</translation>
     </message>
@@ -13400,7 +13704,7 @@ Effects</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>取色器</translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -13595,7 +13899,7 @@ Effects</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -13760,6 +14064,10 @@ Effects</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -13982,11 +14290,19 @@ Effects</source>
     </message>
     <message>
         <source>Batch Set Font</source>
-        <translation>批量设置字体</translation>
+        <translation type="obsolete">批量设置字体</translation>
+    </message>
+    <message>
+        <source>Bulk Font Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation>手机遥控</translation>
+        <translation type="obsolete">手机遥控</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -14213,8 +14529,12 @@ Effects</source>
         <translation type="obsolete">登录</translation>
     </message>
     <message>
+        <source>Slide Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>SlideLibrary</source>
-        <translation>幻灯片库</translation>
+        <translation type="obsolete">幻灯片库</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -17817,8 +18137,12 @@ Click the arrow to choose more outline styles.</source>
         <translation>注销</translation>
     </message>
     <message>
+        <source>Slide Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>SlideLibrary</source>
-        <translation>幻灯片库</translation>
+        <translation type="obsolete">幻灯片库</translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
@@ -17896,7 +18220,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>特色功能</translation>
+        <translation type="obsolete">特色功能</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -17921,6 +18245,10 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>Slide Sorter</source>
         <translation>幻灯片浏览视图</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Standard</source>
@@ -18037,6 +18365,10 @@ Click the arrow to choose more outline styles.</source>
         <translation>更改自选图形</translation>
     </message>
     <message>
+        <source>Change Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ChangeAutoShape</source>
         <translation type="obsolete">更改自选图形</translation>
     </message>
@@ -18110,7 +18442,11 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Creat Cloud Link</source>
-        <translation>发射</translation>
+        <translation type="obsolete">发射</translation>
+    </message>
+    <message>
+        <source>Create Cloud Link</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Curve</source>
@@ -18315,6 +18651,10 @@ Slide</source>
         <translation>宏</translation>
     </message>
     <message>
+        <source>Magic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>MailFeedBack</source>
         <translation>邮件反馈</translation>
     </message>
@@ -18452,7 +18792,7 @@ Slide</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>备注</translation>
+        <translation type="obsolete">备注</translation>
     </message>
     <message>
         <source>OnlineT</source>
@@ -18672,6 +19012,10 @@ Slide</source>
         <translation type="obsolete">切换</translation>
     </message>
     <message>
+        <source>Status Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Style</source>
         <translation></translation>
     </message>
@@ -18789,15 +19133,11 @@ Slide</source>
     </message>
     <message>
         <source>change template</source>
-        <translation>更换模板</translation>
+        <translation type="obsolete">更换模板</translation>
     </message>
     <message>
         <source>magic</source>
-        <translation>魔法</translation>
-    </message>
-    <message>
-        <source>statusbar</source>
-        <translation></translation>
+        <translation type="obsolete">魔法</translation>
     </message>
 </context>
 <context>
@@ -18987,7 +19327,7 @@ Slide</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>特色功能</translation>
+        <translation type="obsolete">特色功能</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -19076,6 +19416,10 @@ Slide</source>
     <message>
         <source>Slide Show</source>
         <translation>幻灯片放映</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stick the ToolBar</source>
@@ -19336,7 +19680,7 @@ Slide</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>特色功能</translation>
+        <translation type="obsolete">特色功能</translation>
     </message>
     <message>
         <source>Open</source>
@@ -19417,6 +19761,10 @@ Slide</source>
     <message>
         <source>Slide Show</source>
         <translation>幻灯片放映</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>

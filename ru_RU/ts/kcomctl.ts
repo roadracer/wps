@@ -485,14 +485,14 @@
     <message>
         <source>Can not find the file &quot;%1&quot;.
 the file may be renamed,deleted or moved the location.</source>
-        <translation>Файл &quot;%1&quot; не найден.
+        <translation type="obsolete">Файл &quot;%1&quot; не найден.
 Возможно файл был переименован, удалён или перемещён.</translation>
     </message>
     <message>
         <source>
 
 modify time: </source>
-        <translation>
+        <translation type="obsolete">
 
 время изменения:</translation>
     </message>
@@ -500,9 +500,27 @@ modify time: </source>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation>
+        <translation type="obsolete">
 
 Запись недействительна, возможно файл был переименован, удалён или перемещён.</translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Modified time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -595,8 +613,13 @@ pt=пт; п
     <message>
         <source>Some components are not installed correctly,
 please reinstall WPS Office!</source>
-        <translation>Некоторые компоненты установлены с ошибками!
+        <translation type="obsolete">Некоторые компоненты установлены с ошибками!
 Переустановите WPS Office.</translation>
+    </message>
+    <message>
+        <source>Some components are not installed correctly.
+Please reinstall WPS Office!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

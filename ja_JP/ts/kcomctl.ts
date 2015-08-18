@@ -507,11 +507,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Can not find the file &quot;%1&quot;.
-the file may be renamed,deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unpinned from List</source>
         <translation>リストから固定されていない</translation>
     </message>
@@ -528,18 +523,6 @@ the file may be renamed,deleted or moved the location.</source>
         <translation>すべての未固定ファイルをクリアする</translation>
     </message>
     <message>
-        <source>
-
-modify time: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear pinned files</source>
         <translation type="obsolete">すべての固定ファイルをクリアする</translation>
     </message>
@@ -554,6 +537,24 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <message>
         <source>Unpinned from list</source>
         <translation type="obsolete">リストから固定されていない</translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Modified time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -652,8 +653,8 @@ multiple=multiple</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Some components are not installed correctly,
-please reinstall WPS Office!</source>
+        <source>Some components are not installed correctly.
+Please reinstall WPS Office!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

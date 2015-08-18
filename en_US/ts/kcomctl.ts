@@ -446,20 +446,21 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Can not find the file &quot;%1&quot;.
-the file may be renamed,deleted or moved the location.</source>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>
 
-modify time: </source>
+Modified time:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>
 
-This record is invalid, the file may be renamed,deleted or moved the location</source>
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -529,8 +530,8 @@ multiple=multiple
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Some components are not installed correctly,
-please reinstall WPS Office!</source>
+        <source>Some components are not installed correctly.
+Please reinstall WPS Office!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

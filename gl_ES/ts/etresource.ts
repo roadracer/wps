@@ -461,10 +461,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation type="unfinished"></translation>
     </message>
@@ -554,6 +550,10 @@
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -812,10 +812,6 @@ OLE DB Query</source>
 <context>
     <name>classics.formatting</name>
     <message>
-        <source>Across Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Align Left</source>
         <translation type="unfinished"></translation>
     </message>
@@ -830,6 +826,10 @@ OLE DB Query</source>
     <message>
         <source>Center</source>
         <translation>Centrar</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -1054,7 +1054,7 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Line Sytle</source>
+        <source>Line Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1245,6 +1245,14 @@ Center</source>
         <source>Protect and Share Workbook</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.record_macro</name>
@@ -1259,6 +1267,10 @@ Center</source>
 </context>
 <context>
     <name>classics.shadow_settings</name>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>More Shadow Colors</source>
         <translation type="unfinished"></translation>
@@ -1289,10 +1301,6 @@ Center</source>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snapper</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1564,6 +1572,13 @@ Center</source>
     </message>
     <message>
         <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>classics.standard.Help</name>
+    <message>
+        <source>WPS Spreadsheets Help</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1870,10 +1885,6 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Picture</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1891,6 +1902,10 @@ Center</source>
     </message>
     <message>
         <source>Shadow Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1973,11 +1988,7 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
+        <source>Clear</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2069,7 +2080,7 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Down Bars</source>
+        <source>Down-Bars</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2102,6 +2113,10 @@ Center</source>
     </message>
     <message>
         <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback by Email</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2165,7 +2180,7 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>High-Low Line</source>
+        <source>High-Low Lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2205,10 +2220,6 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>MailFeedBack</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>More Colors</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2241,7 +2252,7 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New from More Template</source>
+        <source>New from More Templates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2270,10 +2281,6 @@ Center</source>
     </message>
     <message>
         <source>OLE Object</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Office Space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2346,7 +2353,7 @@ Directly</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Recently File Management</source>
+        <source>Recent File Management</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2408,19 +2415,15 @@ Data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Series Line Popup Menu</source>
+        <source>Series Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set Highlight Repeat Items</source>
+        <source>Set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2429,6 +2432,10 @@ Data</source>
     </message>
     <message>
         <source>Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2481,6 +2488,10 @@ Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up Bars</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2505,7 +2516,14 @@ Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WordArt Popup Menu</source>
+        <source>WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>etcommon.mainwindow.commands.DataGroup</name>
+    <message>
+        <source>Group</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2601,10 +2619,6 @@ Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Online Templates</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2629,11 +2643,11 @@ Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Print Preview</source>
+        <source>Popup Menu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Quick Menu</source>
+        <source>Print Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2674,6 +2688,10 @@ Window</source>
     </message>
     <message>
         <source>Sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2803,10 +2821,6 @@ Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Online Templates</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2831,11 +2845,11 @@ Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Print Preview</source>
+        <source>Popup Menu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Quick Menu</source>
+        <source>Print Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2872,6 +2886,10 @@ Window</source>
     </message>
     <message>
         <source>Sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3146,10 +3164,6 @@ Columns</source>
 </context>
 <context>
     <name>ongmani.ct_data.DataGroup</name>
-    <message>
-        <source>Group</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_design</name>
@@ -3448,10 +3462,6 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3533,6 +3543,10 @@ On</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3728,6 +3742,10 @@ On/Off</source>
         <translation>Axuda</translation>
     </message>
     <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft Excel 2007/2010 Files</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3800,6 +3818,14 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>Gardar</translation>
     </message>
@@ -3821,6 +3847,14 @@ On/Off</source>
     </message>
     <message>
         <source>Study Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3849,6 +3883,10 @@ On/Off</source>
     </message>
     <message>
         <source>WPS Office Product Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4021,10 +4059,6 @@ Used</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Across Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Across Sheets</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4061,7 +4095,7 @@ Used</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Angle Countclockwise</source>
+        <source>Angle Counterclockwise</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4127,6 +4161,10 @@ Used</source>
     <message>
         <source>Center</source>
         <translation>Centrar</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
@@ -4661,6 +4699,10 @@ Columns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4800,7 +4842,7 @@ Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
+        <source>Insert Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5217,10 +5259,6 @@ Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5277,11 +5315,11 @@ Pictures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
+        <source>Insert Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5298,6 +5336,10 @@ Pictures</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5498,6 +5540,11 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field
 Settings</source>
         <translation type="unfinished"></translation>
@@ -5556,6 +5603,11 @@ PivotTable</source>
     <message>
         <source>PivotTable
 Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5753,6 +5805,16 @@ Changes</source>
     </message>
     <message>
         <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Workbook</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6006,6 +6068,10 @@ Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Security</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6019,10 +6085,6 @@ Layout</source>
     </message>
     <message>
         <source>Unfreeze</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unsplit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6419,10 +6481,6 @@ Spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6548,6 +6606,10 @@ Spacing</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6796,14 +6858,6 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User Data Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS User PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Manual Backup</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6828,6 +6882,10 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6843,39 +6901,39 @@ Shape</source>
 <context>
     <name>popupmenu</name>
     <message>
-        <source>0.25 pt.</source>
+        <source>0.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.5 pt.</source>
+        <source>0.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.75 pt.</source>
+        <source>0.75 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1 pt.</source>
+        <source>1 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1.5 pt.</source>
+        <source>1.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>2.25 pt.</source>
+        <source>2.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3 pt.</source>
+        <source>3 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>4.5 pt.</source>
+        <source>4.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>6 pt.</source>
+        <source>6 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6884,10 +6942,6 @@ Shape</source>
     </message>
     <message>
         <source>Accept Changes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Across Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7080,6 +7134,10 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Account</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7260,15 +7318,11 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7408,6 +7462,10 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback by Email</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7461,11 +7519,11 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flip Horizontally</source>
+        <source>Flip Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flip Vertically</source>
+        <source>Flip Vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7685,7 +7743,7 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
+        <source>Insert Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7725,11 +7783,7 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Line Pattern</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line Sytle Palette</source>
+        <source>Line Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7741,7 +7795,11 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7749,7 +7807,7 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Manage Credential</source>
+        <source>Manage Credentials</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7901,6 +7959,10 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Pattenred Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pattern</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7985,11 +8047,19 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rename</source>
         <translation>Renomear</translation>
     </message>
     <message>
-        <source>Reset All Page Break</source>
+        <source>Reset All Page Breaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict Permission by People</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8150,10 +8220,6 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solid</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8270,10 +8336,6 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UnSplit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Underline</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8295,6 +8357,14 @@ Add-Ins</source>
     </message>
     <message>
         <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8327,6 +8397,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>View Historical Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8597,10 +8671,6 @@ OLE DB Query</source>
 </context>
 <context>
     <name>rainbow.ct_data.DataGroup</name>
-    <message>
-        <source>Group</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>rainbow.ct_design</name>
@@ -8878,10 +8948,6 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8951,6 +9017,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9133,6 +9203,10 @@ Add-Ins</source>
         <translation>Axuda</translation>
     </message>
     <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft Excel 2007-2010 Files</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9205,6 +9279,14 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>Gardar</translation>
     </message>
@@ -9226,6 +9308,14 @@ Add-Ins</source>
     </message>
     <message>
         <source>Study Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9254,6 +9344,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>WPS Office Product Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9425,10 +9519,6 @@ Trig</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Across Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Across Sheets</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9531,6 +9621,10 @@ Trig</source>
     <message>
         <source>Center</source>
         <translation>Centrar</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
@@ -10046,6 +10140,10 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10171,11 +10269,11 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
+        <source>Insert Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10561,10 +10659,6 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10621,7 +10715,7 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Artistic Clip</source>
+        <source>Insert Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10642,6 +10736,10 @@ Center</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10839,6 +10937,11 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field Settings</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10892,6 +10995,11 @@ Center</source>
     </message>
     <message>
         <source>PivotTable Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11078,6 +11186,14 @@ Center</source>
     </message>
     <message>
         <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11332,6 +11448,10 @@ Other Windows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Security</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11349,10 +11469,6 @@ Other Windows</source>
     </message>
     <message>
         <source>Unfreeze</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unsplit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11711,10 +11827,6 @@ Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11836,6 +11948,10 @@ Color</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12082,10 +12198,6 @@ Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS User Data Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Laboratory</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12111,6 +12223,10 @@ Color</source>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12161,15 +12277,15 @@ Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KOS Open Cloud File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Manual Backup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open from Cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

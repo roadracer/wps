@@ -45,7 +45,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>docerhomepage</source>
+        <source>Online Templates Pro</source>
+        <comment>title</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

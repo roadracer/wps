@@ -2503,11 +2503,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>cancel</source>
-        <translation>отменить</translation>
+        <translation type="obsolete">отменить</translation>
     </message>
     <message>
         <source>&amp;Paragraphs</source>
         <translation>&amp;Абзацы</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Отмена</translation>
     </message>
 </context>
 <context>
@@ -2789,7 +2793,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>DocumentField Name</source>
-        <translation>Имя поля документа</translation>
+        <translation type="obsolete">Имя поля документа</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
@@ -2849,7 +2853,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>When inserted at beginning and end, then counted in. </source>
-        <translation>Добавляются в начале и конце, а затем подсчитываются.</translation>
+        <translation type="obsolete">Добавляются в начале и конце, а затем подсчитываются.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2858,6 +2862,14 @@ use buttons to apply borders</source>
     <message>
         <source>Cancel</source>
         <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>Document&amp;Field Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When inserted at beginning and end, then &amp;counted in. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3081,7 +3093,7 @@ use buttons to apply borders</source>
     <name>KxDlgEditDictionary</name>
     <message>
         <source>Edit Dictionary</source>
-        <translation>Редактировать словарь</translation>
+        <translation type="obsolete">Редактировать словарь</translation>
     </message>
     <message>
         <source>&amp;Word</source>
@@ -3103,6 +3115,10 @@ use buttons to apply borders</source>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
+    <message>
+        <source>编辑字典</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgEmbedPrivateFonts</name>
@@ -3122,7 +3138,11 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
-        <translation>Запомнил это действие, больше не напоминать.</translation>
+        <translation type="obsolete">Запомнил это действие, больше не напоминать.</translation>
+    </message>
+    <message>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3390,7 +3410,11 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Add the &amp;path to the file name</source>
-        <translation>Добавить &amp;путь к имени файла</translation>
+        <translation type="obsolete">Добавить &amp;путь к имени файла</translation>
+    </message>
+    <message>
+        <source>Add &amp;path to filename</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3545,7 +3569,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>replace options</source>
-        <translation>параметры замены</translation>
+        <translation type="obsolete">параметры замены</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -3732,6 +3756,10 @@ Example: +4 will move forward four items:</source>
     <message>
         <source>Find Previous(&amp;B)</source>
         <translation>Найти предыдущий(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Replace options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6409,6 +6437,18 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>D&amp;ocument fields</source>
         <translation>По&amp;ля документа</translation>
     </message>
+    <message>
+        <source>Compatibility options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compatibilit&amp;y options for:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split &amp;apart page break and paragraph mark</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageNumbers</name>
@@ -8128,15 +8168,15 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
         <source>Field name record delimiter</source>
-        <translation>Имя поля разделителя записей</translation>
+        <translation type="obsolete">Имя поля разделителя записей</translation>
     </message>
     <message>
         <source>Data fields must use characters (called &quot;delimiter&quot;) to separated from each other; Similarly, data records must be separated by a record delimiter. Please use the following list to select the appropriate delimiter.</source>
-        <translation>Для разделения полей данных используются определённые символы (так называемые &quot;разделители&quot;). Записи данных отделяются друг от друга разделителями записи. Используйте следующий список для выбора соответствующего разделителя.</translation>
+        <translation type="obsolete">Для разделения полей данных используются определённые символы (так называемые &quot;разделители&quot;). Записи данных отделяются друг от друга разделителями записи. Используйте следующий список для выбора соответствующего разделителя.</translation>
     </message>
     <message>
         <source>Field delimiter:</source>
-        <translation>Разделитель полей:</translation>
+        <translation type="obsolete">Разделитель полей:</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -8268,7 +8308,23 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Record delimiter:</source>
-        <translation>Разделитель записей:</translation>
+        <translation type="obsolete">Разделитель записей:</translation>
+    </message>
+    <message>
+        <source>Header Record Delimiters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data fields must be separated from each other by a character called a field delimiter. Similarly, data records must be separated by a record delimiter. Use the lists below to select the appropriate delimiter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Field delimiter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Record delimiter:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8507,6 +8563,96 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>KxExportToOFDDlg</name>
+    <message>
+        <source>Please input the password of permission setting!</source>
+        <translation type="unfinished">Введите пароль для настройки разрешений!</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">При подтверждении введен неверный пароль.</translation>
+    </message>
+    <message>
+        <source>Permission Password and Document Open Password must be different.</source>
+        <translation type="unfinished">Пароль для разрешений и пароль на открытие документов должны отличаться.</translation>
+    </message>
+    <message>
+        <source>Please specify the file name.</source>
+        <translation type="unfinished">Укажите имя файла.</translation>
+    </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation type="unfinished">Имя файла такое же, как имя существующего каталога.</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished">Указанный каталог не существует.</translation>
+    </message>
+    <message>
+        <source>You have no permission to write files into this directory.</source>
+        <translation type="unfinished">У вас нет разрешения на запись файлов в этот каталог.</translation>
+    </message>
+    <message>
+        <source>Save OFD File As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd|All File(*.*)|*.*</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Are you sure to replace the existing file?</source>
+        <translation type="unfinished">Указанный файл уже существует. Заменить существующий файл?</translation>
+    </message>
+    <message>
+        <source>This is not a valid page range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error while trying exporting to OFD.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Закрыть</translation>
+    </message>
+    <message>
+        <source>Exporting summary information...</source>
+        <translation type="unfinished">Экспорт основной информации...</translation>
+    </message>
+    <message>
+        <source>Exporting page %1...</source>
+        <translation type="unfinished">Экспорт страницы %1 ...</translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="unfinished">Экспорт меток ...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxExportToPDFDlg</name>
     <message>
         <source>Please input the password of permission setting!</source>
@@ -8563,6 +8709,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Save PDF File As</source>
         <translation>Сохранить PDF файл как</translation>
+    </message>
+    <message>
+        <source>This is not a valid page range.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8801,7 +8951,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Presume the KingSoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE KingSoft</source>
-        <translation>в VBA устанавливается значение 100 переменной Kingsoft. Код поля: DOCVARIABLE KingSoft</translation>
+        <translation type="obsolete">в VBA устанавливается значение 100 переменной Kingsoft. Код поля: DOCVARIABLE KingSoft</translation>
     </message>
     <message>
         <source>Presume the document has opened a database which has the &quot;Company&quot; field. Field code:MERGEFIELD &quot;Company&quot;</source>
@@ -8880,15 +9030,15 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
-        <translation>Пусть ссылка на файл это:&quot;%1wps.doc&quot;.Код поля:INCLUDETEXT &quot;%2wps.doc&quot;</translation>
+        <translation type="obsolete">Пусть ссылка на файл это:&quot;%1wps.doc&quot;.Код поля:INCLUDETEXT &quot;%2wps.doc&quot;</translation>
     </message>
     <message>
         <source>IncludeText</source>
-        <translation>Включенный текст</translation>
+        <translation type="obsolete">Включенный текст</translation>
     </message>
     <message>
         <source>Insert text to from a file</source>
-        <translation>Вставка текста из файла</translation>
+        <translation type="obsolete">Вставка текста из файла</translation>
     </message>
     <message>
         <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
@@ -8900,7 +9050,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Insert the file name of the document</source>
-        <translation>Вставить имя файла документа</translation>
+        <translation type="obsolete">Вставить имя файла документа</translation>
     </message>
     <message>
         <source>Forma&amp;t:</source>
@@ -8909,6 +9059,54 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Document &amp;property:</source>
         <translation>&amp;Свойство документа:</translation>
+    </message>
+    <message>
+        <source>Presume the Kingsoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE Kingsoft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;. Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert text from file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert file name of the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Nothing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lower</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FirstCap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SBCHAR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DBCHAR</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10190,66 +10388,6 @@ This change will affect all new documents based on the %1 template.</source>
         <translation>Курсив, </translation>
     </message>
     <message>
-        <source>0#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>0-#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>1#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>1-#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>2#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>2-#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>3#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>3-#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>4#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>4-#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>5#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>5-#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>6#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>7#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>8#</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Default Paragraph Font</source>
         <translation>Шрифт абзаца по умолчанию</translation>
     </message>
@@ -10363,6 +10501,66 @@ Cancel:	Return to the dialog.</source>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>Ошибка сохранения, шаблон Normal занят.</translation>
     </message>
+    <message>
+        <source>Chinese Chuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaochu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Yihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoyi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Erhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Sanhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Sihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Wuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaowu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Liuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Qihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Bahao</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxNewLabelDlg</name>
@@ -10422,10 +10620,6 @@ Cancel:	Return to the dialog.</source>
         <translation>По правому краю</translation>
     </message>
     <message>
-        <source>LeftAndRight</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Dispersion</source>
         <translation>Разброс</translation>
     </message>
@@ -10436,66 +10630,6 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>The font &apos;%1&apos; is not available in your system. Do you want to use it anyway?</source>
         <translation>Шрифт &apos;%1&apos; не найден. Несмотря на это хотите его использовать?</translation>
-    </message>
-    <message>
-        <source>0#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>0-#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>1#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>1-#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>2#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>2-#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>3#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>3-#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>4#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>4-#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>5#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>5-#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>6#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>7#</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>8#</source>
-        <translation></translation>
     </message>
     <message>
         <source>Left alignment</source>
@@ -10603,6 +10737,70 @@ Cancel:	Return to the dialog.</source>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>Ошибка сохранения, шаблон Normal занят.</translation>
     </message>
+    <message>
+        <source>Left and Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Chuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaochu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Yihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoyi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Erhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Sanhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Sihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Wuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaowu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Liuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Qihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Bahao</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOnlineFontTipDlg</name>
@@ -10679,11 +10877,19 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation>У вас нет разрешения на запись файлов в &quot;%1&quot;.</translation>
+        <translation type="obsolete">У вас нет разрешения на запись файлов в &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
         <translation>Неправильный каталог&quot;%1&quot;.</translation>
+    </message>
+    <message>
+        <source>No Documents Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11526,6 +11732,41 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxTpXMLStructureWidget</name>
+    <message>
+        <source>Templates And AddIns...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is applied to the first element of this document. Do you want to apply to the entire document or only to the current range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to entire document(&amp;E)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to current selected content range only(&amp;S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel(&amp;C)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cann&apos;t add XML elements in multi areas.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cann&apos;t add XML elements here.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove %1 tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxTwoLinesInOneDlg</name>
     <message>
         <source>There are too many characters in the selection.</source>
@@ -11612,6 +11853,50 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>&amp;Advanced...</source>
         <translation>&amp;Дополнительно...</translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpXMLStructure</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Elements in the document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No XML elements have been applied to this document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make a selection in the document and then choose which element you want to apply from the list of elements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show XML tags in the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose an element to apply to your current selection:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List only child elements of current element</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can apply your own XML elements
+to a Word XML document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to apply your own XML elements in this document,you must first select a schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>you can do this by going to:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12552,6 +12837,152 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source> Full path: </source>
         <translation> Полный путь: </translation>
     </message>
+    <message>
+        <source>XML Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available &amp;XML schemas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checked schemas are currently attached:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schema &amp;Library...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add S&amp;chema...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schema Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>URI:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMLExtend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attached XMLExtend Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Source URL:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete(&amp;R)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available XMLExtend Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select(&amp;A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete(&amp;E)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update(&amp;P)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add(&amp;D)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgXMLSchemaLibrary</name>
+    <message>
+        <source>Schema Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schemas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Select a schema:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add Schema...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sch&amp;ema Settings...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Update Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>URI:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgXMLSchemaSetting</name>
+    <message>
+        <source>Schema Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit schema information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Alias</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Location</source>
+        <translation type="unfinished">&amp;Положение</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">Об&amp;зор...</translation>
+    </message>
+    <message>
+        <source>&amp;Changes affect current user only</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsDocMapWindow</name>
@@ -12580,7 +13011,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsFieldNameDelimiterDlg</name>
     <message>
         <source>Field delimiter and record delimiter cannot be same.</source>
-        <translation>Имя поля разделителя и разделителя записей должны отличаться.</translation>
+        <translation type="obsolete">Имя поля разделителя и разделителя записей должны отличаться.</translation>
+    </message>
+    <message>
+        <source>The field delimiter cannot be the same as the record delimiter.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13064,7 +13499,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>userName</source>
-        <translation>имя пользователя</translation>
+        <translation type="obsolete">имя пользователя</translation>
     </message>
     <message>
         <source>Change user...</source>
@@ -13108,7 +13543,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Permission expiration date:</source>
-        <translation>Дата окончания срока действия разрешения:</translation>
+        <translation type="obsolete">Дата окончания срока действия разрешения:</translation>
     </message>
     <message>
         <source>(N/A)</source>
@@ -13116,14 +13551,26 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Resquest additional permissions... </source>
-        <translation>Запрос дополнительных разрешений...</translation>
+        <translation type="obsolete">Запрос дополнительных разрешений...</translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWpsPictureWrapTypeComboBox</name>
     <message>
         <source>In Line With Text</source>
-        <translation>В тексте</translation>
+        <translation type="obsolete">В тексте</translation>
     </message>
     <message>
         <source>Square</source>
@@ -13148,6 +13595,10 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>Top and Bottom</source>
         <translation>Cверху и снизу</translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13215,7 +13666,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Revision: %1</source>
-        <translation>Редакция: %1</translation>
+        <translation type="obsolete">Редакция: %1</translation>
+    </message>
+    <message>
+        <source>Revisions: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13672,6 +14127,46 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>Full path:</source>
         <translation>Полный путь: </translation>
     </message>
+    <message>
+        <source>Are you sure you want to delete the XMLExtend Pack on this computer?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add XMLExtend Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMLExtend Pack Instruction List(*.xml)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot Install the xml Extend or the xml schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the schema you choose is unable to use in document.The schema is possible unable or invalid, you may need other schema to run continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The operation will delete all the xmlnodes in the %1,do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> [disabled] </source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsTextDirectionCommand</name>
@@ -13760,6 +14255,53 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsXMLSchemaLibraryDlg</name>
+    <message>
+        <source>Add XMLSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot Install the xml Extend or the xml schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schema Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This will remove the schema and all associated files from the schema library. This may affect anyapplication that uses this schema. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsXMLSchemaSettingDlg</name>
+    <message>
+        <source>you must provide the URI name of the schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schema Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The schema you spacified uses a URI that is already in use by another schema. Click Browse to specify a schema tha uses a different URI, or click Cancel,
+remove the schema with the duplicate URI, and then add the schema you specified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add XMLSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsZoomCommand</name>
     <message>
         <source>This is not a valid measurement.</source>
@@ -13810,7 +14352,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>&quot;%1&quot; is already opened. Reopening will cause changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
         <translatorcomment>&quot;%1&quot; reopen&quot;%2&quot; Error?</translatorcomment>
-        <translation>&quot;%1&quot; уже открыт. Открывая снова, изменения в документе могут быть отменены. Продолжить открывать &quot;%1&quot;?</translation>
+        <translation type="obsolete">&quot;%1&quot; уже открыт. Открывая снова, изменения в документе могут быть отменены. Продолжить открывать &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>WPS Writer 2007-2010 File(*.wpsx)</source>
@@ -13822,11 +14364,15 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>No macros is currently recording. Click to begin recording a new macro.</source>
-        <translation>Нет записи макросов в данный момент. Нажмите, чтобы начать запись нового макроса.</translation>
+        <translation type="obsolete">Нет записи макросов в данный момент. Нажмите, чтобы начать запись нового макроса.</translation>
     </message>
     <message>
         <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
         <translation>Шаблон Kingsoft Writer 2007/2010(*.wptx)</translation>
+    </message>
+    <message>
+        <source>No macro is currently recording. Click to begin recording a new macro.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13887,6 +14433,180 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>dialogstest</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Общие</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation type="unfinished">Сохранить &amp;в</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">Об&amp;зор...</translation>
+    </message>
+    <message>
+        <source>Page range</source>
+        <translation type="unfinished">Диапазон страниц</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">Все</translation>
+    </message>
+    <message>
+        <source>Current page</source>
+        <translation type="unfinished">Текущая страница</translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished">Параметры экспорта</translation>
+    </message>
+    <message>
+        <source>Summar&amp;y information</source>
+        <translation type="unfinished">Основная &amp;информация</translation>
+    </message>
+    <message>
+        <source>New &amp;Comment</source>
+        <translation type="unfinished">Новое &amp;примечание</translation>
+    </message>
+    <message>
+        <source>&amp;Hyperlink</source>
+        <translation type="unfinished">&amp;Гиперссылка</translation>
+    </message>
+    <message>
+        <source>Li&amp;nks of footnotes and endnotes</source>
+        <translation type="unfinished">Связь &amp;сносок и концевых сносок</translation>
+    </message>
+    <message>
+        <source>Placeholder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Boo&amp;kmark</source>
+        <translation type="unfinished">&amp;Закладка</translation>
+    </message>
+    <message>
+        <source>&amp;Revision</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Con&amp;vert title styles to bookmarks</source>
+        <translation type="unfinished">Преобразование стилей &amp;заголовков в закладки</translation>
+    </message>
+    <message>
+        <source>Convert other &amp;styles to bookmarks</source>
+        <translation type="unfinished">Преобразовать другие &amp;стили в закладки</translation>
+    </message>
+    <message>
+        <source>Convert c&amp;ustom styles to bookmarks</source>
+        <translation type="unfinished">Преобразовать &amp;пользовательские стили в закладки</translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation type="unfinished">Параметры разрешений</translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation type="unfinished">&amp;Пароль:</translation>
+    </message>
+    <message>
+        <source>Con&amp;firm:</source>
+        <translation type="unfinished">По&amp;дтверждение:</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to mo&amp;dify</source>
+        <translation type="unfinished">Разрешение на &amp;изменение</translation>
+    </message>
+    <message>
+        <source>Permit to c&amp;opy</source>
+        <translation type="unfinished">Разрешение на &amp;копирование</translation>
+    </message>
+    <message>
+        <source>Permit to &amp;add comments</source>
+        <translation type="unfinished">Разрешение на &amp;добавление примечаний</translation>
+    </message>
+    <message>
+        <source>P&amp;rinting permission:</source>
+        <translation type="unfinished">Разрешение на пе&amp;чать:</translation>
+    </message>
+    <message>
+        <source>Printing Permission</source>
+        <translation type="unfinished">Разрешение на печать</translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation type="unfinished">Печать не разрешена</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished">Печать низкого качества</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished">Без ограничений</translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation type="unfinished">Пароль на открытие файла:</translation>
+    </message>
+    <message>
+        <source>Pass&amp;word:</source>
+        <translation type="unfinished">Па&amp;роль:</translation>
+    </message>
+    <message>
+        <source>Conf&amp;irm:</source>
+        <translation type="unfinished">Подт&amp;верждение:</translation>
+    </message>
+    <message>
+        <source>Close when e&amp;xport completes</source>
+        <translation type="unfinished">Закрыть после завершения &amp;экспорта</translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation type="unfinished">&amp;Открыть файл</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Отмена</translation>
     </message>
 </context>
 <context>
@@ -14025,11 +14745,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation>Пароль защиты параметров разрешений</translation>
+        <translation type="obsolete">Пароль защиты параметров разрешений</translation>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>Примечание: следующие параметры могут быть защищены от изменений другими пользователями только при установленном пароле.</translation>
+        <translation type="obsolete">Примечание: следующие параметры могут быть защищены от изменений другими пользователями только при установленном пароле.</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
@@ -14054,6 +14774,42 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>Export PDF File</source>
         <translation>Преобразовать в файл PDF</translation>
+    </message>
+    <message>
+        <source>Page range</source>
+        <translation type="unfinished">Диапазон страниц</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">Все</translation>
+    </message>
+    <message>
+        <source>Current page</source>
+        <translation type="unfinished">Текущая страница</translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -2849,7 +2849,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>cancel</source>
-        <translation>取消</translation>
+        <translation type="obsolete">取消</translation>
     </message>
     <message>
         <source>ed1</source>
@@ -2902,6 +2902,10 @@ use buttons to apply borders</source>
     <message>
         <source>&amp;Paragraphs</source>
         <translation>段落标记(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
     </message>
 </context>
 <context>
@@ -3226,10 +3230,6 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>DocumentField Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Insert</source>
         <translation type="unfinished">插入(&amp;I)</translation>
     </message>
@@ -3286,16 +3286,20 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>When inserted at beginning and end, then counted in. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation type="unfinished">确定</translation>
     </message>
     <message>
         <source>Cancel</source>
         <translation type="unfinished">取消</translation>
+    </message>
+    <message>
+        <source>Document&amp;Field Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When inserted at beginning and end, then &amp;counted in. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3558,8 +3562,8 @@ use buttons to apply borders</source>
         <translation type="obsolete">对话框</translation>
     </message>
     <message>
-        <source>Edit Dictionary</source>
-        <translation></translation>
+        <source>编辑字典</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3577,7 +3581,7 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
-        <translation>记住此操作，不再提醒</translation>
+        <translation type="obsolete">记住此操作，不再提醒</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -3604,6 +3608,10 @@ we recommend that you save the font in document.
 If unnecessary, please click Cancel.</source>
         <translation type="obsolete">文档中应用了“在线字体”，若您的文档需要传阅他人，我们建议您将字体保持到文档中。
 若不需要，可点击“取消”。</translation>
+    </message>
+    <message>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3881,7 +3889,7 @@ If unnecessary, please click Cancel.</source>
         <translation type="obsolete">支持所有非定界符字符(&amp;D):</translation>
     </message>
     <message>
-        <source>Add the &amp;path to the file name</source>
+        <source>Add &amp;path to filename</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4166,10 +4174,6 @@ If unnecessary, please click Cancel.</source>
         <translation type="obsolete">突出显示查找内容(&amp;R)</translation>
     </message>
     <message>
-        <source>replace options</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Format:</source>
         <translation>格式:</translation>
     </message>
@@ -4251,6 +4255,10 @@ Example: +4 will move forward four items:</source>
         <source>Enter + and - to move relative to the current location. Example: +4 will move forward four items:</source>
         <translation type="obsolete">输入 + 和 - 可将相关内容移至当前位置。
 例如：+4将前移四项。</translation>
+    </message>
+    <message>
+        <source>Replace options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7203,6 +7211,18 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>D&amp;ocument fields</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Compatibility options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compatibilit&amp;y options for:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split &amp;apart page break and paragraph mark</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageNumbers</name>
@@ -9027,15 +9047,15 @@ Do you want to:</source>
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
         <source>Field name record delimiter</source>
-        <translation>域名记录定界符</translation>
+        <translation type="obsolete">域名记录定界符</translation>
     </message>
     <message>
         <source>Data fields must use characters (called &quot;delimiter&quot;) to separated from each other; Similarly, data records must be separated by a record delimiter. Please use the following list to select the appropriate delimiter.</source>
-        <translation>数据域之间须用字符(称为“定界符”)相互分隔；同样，数据记录之间也须用记录定界符分隔。请用下面的列表选择相应的定界符。</translation>
+        <translation type="obsolete">数据域之间须用字符(称为“定界符”)相互分隔；同样，数据记录之间也须用记录定界符分隔。请用下面的列表选择相应的定界符。</translation>
     </message>
     <message>
         <source>Field delimiter:</source>
-        <translation>域定界符:(&amp;F)</translation>
+        <translation type="obsolete">域定界符:(&amp;F)</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -9167,7 +9187,23 @@ Do you want to:</source>
     </message>
     <message>
         <source>Record delimiter:</source>
-        <translation>记录定界符:(&amp;R)</translation>
+        <translation type="obsolete">记录定界符:(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Header Record Delimiters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data fields must be separated from each other by a character called a field delimiter. Similarly, data records must be separated by a record delimiter. Use the lists below to select the appropriate delimiter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Field delimiter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Record delimiter:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9430,6 +9466,96 @@ Do you want to:</source>
     </message>
 </context>
 <context>
+    <name>KxExportToOFDDlg</name>
+    <message>
+        <source>Please input the password of permission setting!</source>
+        <translation type="unfinished">请输入权限设置密码！</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">密码确认不符。</translation>
+    </message>
+    <message>
+        <source>Permission Password and Document Open Password must be different.</source>
+        <translation type="unfinished">权限设置密码和文件打开密码不能相同。</translation>
+    </message>
+    <message>
+        <source>Please specify the file name.</source>
+        <translation type="unfinished">请确认文件名。</translation>
+    </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation type="unfinished">文件名与此目录已有文件名相同。</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished">指定的目录不存在。</translation>
+    </message>
+    <message>
+        <source>You have no permission to write files into this directory.</source>
+        <translation type="unfinished">你没有权限在这个目录写文件。</translation>
+    </message>
+    <message>
+        <source>Save OFD File As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd|All File(*.*)|*.*</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Are you sure to replace the existing file?</source>
+        <translation type="unfinished">您指定的文件已经存在，要覆盖该文件并继续吗？</translation>
+    </message>
+    <message>
+        <source>This is not a valid page range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error while trying exporting to OFD.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">关闭</translation>
+    </message>
+    <message>
+        <source>Exporting summary information...</source>
+        <translation type="unfinished">正在导出文档属性...</translation>
+    </message>
+    <message>
+        <source>Exporting page %1...</source>
+        <translation type="unfinished">正在处理第%1页...</translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="unfinished">正在导出标签...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxExportToPDFDlg</name>
     <message>
         <source>PDF File(*.pdf)|*.pdf|All File(*.*)|*.*</source>
@@ -9482,6 +9608,10 @@ Do you want to:</source>
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing file?</source>
         <translation>您指定的文件已经存在，要覆盖该文件并继续吗？</translation>
+    </message>
+    <message>
+        <source>This is not a valid page range.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9772,7 +9902,7 @@ Do you want to:</source>
     </message>
     <message>
         <source>Presume the KingSoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE KingSoft</source>
-        <translation>假设先在VBA中给KingSoft变量赋值给了100。域代码：DOCVARIABLE KingSoft</translation>
+        <translation type="obsolete">假设先在VBA中给KingSoft变量赋值给了100。域代码：DOCVARIABLE KingSoft</translation>
     </message>
     <message>
         <source>Presume the document has opened a database which has the &quot;Company&quot; field. Field code:MERGEFIELD &quot;Company&quot;</source>
@@ -9837,27 +9967,11 @@ Do you want to:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>IncludeText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert text to from a file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>FileName</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert the file name of the document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9867,6 +9981,54 @@ Do you want to:</source>
     <message>
         <source>Document &amp;property:</source>
         <translation type="unfinished">文档属性(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Presume the Kingsoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE Kingsoft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;. Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert text from file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert file name of the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Nothing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lower</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FirstCap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SBCHAR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DBCHAR</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11261,19 +11423,19 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>0#</source>
-        <translation>初号</translation>
+        <translation type="obsolete">初号</translation>
     </message>
     <message>
         <source>0-#</source>
-        <translation>小初</translation>
+        <translation type="obsolete">小初</translation>
     </message>
     <message>
         <source>1#</source>
-        <translation>一号</translation>
+        <translation type="obsolete">一号</translation>
     </message>
     <message>
         <source>1-#</source>
-        <translation>小一</translation>
+        <translation type="obsolete">小一</translation>
     </message>
     <message>
         <source>1.5 line spacing</source>
@@ -11281,47 +11443,47 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>2#</source>
-        <translation>二号</translation>
+        <translation type="obsolete">二号</translation>
     </message>
     <message>
         <source>2-#</source>
-        <translation>小二</translation>
+        <translation type="obsolete">小二</translation>
     </message>
     <message>
         <source>3#</source>
-        <translation>三号</translation>
+        <translation type="obsolete">三号</translation>
     </message>
     <message>
         <source>3-#</source>
-        <translation>小三</translation>
+        <translation type="obsolete">小三</translation>
     </message>
     <message>
         <source>4#</source>
-        <translation>四号</translation>
+        <translation type="obsolete">四号</translation>
     </message>
     <message>
         <source>4-#</source>
-        <translation>小四</translation>
+        <translation type="obsolete">小四</translation>
     </message>
     <message>
         <source>5#</source>
-        <translation>五号</translation>
+        <translation type="obsolete">五号</translation>
     </message>
     <message>
         <source>5-#</source>
-        <translation>小五</translation>
+        <translation type="obsolete">小五</translation>
     </message>
     <message>
         <source>6#</source>
-        <translation>六号</translation>
+        <translation type="obsolete">六号</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation>七号</translation>
+        <translation type="obsolete">七号</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation>八号</translation>
+        <translation type="obsolete">八号</translation>
     </message>
     <message>
         <source>Bold, </source>
@@ -11465,6 +11627,66 @@ Cancel:	Return to the dialog.</source>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>更改失败，Normal模板被占用。</translation>
     </message>
+    <message>
+        <source>Chinese Chuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaochu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Yihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoyi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Erhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Sanhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Sihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Wuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaowu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Liuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Qihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Bahao</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxMultidiagonalCellDlg</name>
@@ -11528,19 +11750,19 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>0#</source>
-        <translation>初号</translation>
+        <translation type="obsolete">初号</translation>
     </message>
     <message>
         <source>0-#</source>
-        <translation>小初</translation>
+        <translation type="obsolete">小初</translation>
     </message>
     <message>
         <source>1#</source>
-        <translation>一号</translation>
+        <translation type="obsolete">一号</translation>
     </message>
     <message>
         <source>1-#</source>
-        <translation>小一</translation>
+        <translation type="obsolete">小一</translation>
     </message>
     <message>
         <source>1.5 line spacing</source>
@@ -11548,47 +11770,47 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>2#</source>
-        <translation>二号</translation>
+        <translation type="obsolete">二号</translation>
     </message>
     <message>
         <source>2-#</source>
-        <translation>小二</translation>
+        <translation type="obsolete">小二</translation>
     </message>
     <message>
         <source>3#</source>
-        <translation>三号</translation>
+        <translation type="obsolete">三号</translation>
     </message>
     <message>
         <source>3-#</source>
-        <translation>小三</translation>
+        <translation type="obsolete">小三</translation>
     </message>
     <message>
         <source>4#</source>
-        <translation>四号</translation>
+        <translation type="obsolete">四号</translation>
     </message>
     <message>
         <source>4-#</source>
-        <translation>小四</translation>
+        <translation type="obsolete">小四</translation>
     </message>
     <message>
         <source>5#</source>
-        <translation>五号</translation>
+        <translation type="obsolete">五号</translation>
     </message>
     <message>
         <source>5-#</source>
-        <translation>小五</translation>
+        <translation type="obsolete">小五</translation>
     </message>
     <message>
         <source>6#</source>
-        <translation>六号</translation>
+        <translation type="obsolete">六号</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation>七号</translation>
+        <translation type="obsolete">七号</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation>八号</translation>
+        <translation type="obsolete">八号</translation>
     </message>
     <message>
         <source>Bold, </source>
@@ -11657,10 +11879,6 @@ Cancel:	Return to the dialog.</source>
         <translation>左对齐</translation>
     </message>
     <message>
-        <source>LeftAndRight</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Line spacing: 1.5 lines, </source>
         <translation>行距: 1.5 倍行距, </translation>
     </message>
@@ -11727,6 +11945,70 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>更改失败，Normal模板被占用。</translation>
+    </message>
+    <message>
+        <source>Left and Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Chuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaochu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Yihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoyi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Erhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Sanhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Sihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Wuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaowu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Liuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Qihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Bahao</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11820,7 +12102,15 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation>您没有权限将备份文件保存在 &quot;%1&quot; 中。</translation>
+        <translation type="obsolete">您没有权限将备份文件保存在 &quot;%1&quot; 中。</translation>
+    </message>
+    <message>
+        <source>No Documents Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12816,6 +13106,41 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxTpXMLStructureWidget</name>
+    <message>
+        <source>Templates And AddIns...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is applied to the first element of this document. Do you want to apply to the entire document or only to the current range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to entire document(&amp;E)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to current selected content range only(&amp;S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel(&amp;C)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cann&apos;t add XML elements in multi areas.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cann&apos;t add XML elements here.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove %1 tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxTwoLinesInOneDlg</name>
     <message>
         <source>There are too many characters in the selection.</source>
@@ -12902,6 +13227,50 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>rbHorizontalRight</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpXMLStructure</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">绘图网格</translation>
+    </message>
+    <message>
+        <source>Elements in the document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No XML elements have been applied to this document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make a selection in the document and then choose which element you want to apply from the list of elements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show XML tags in the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose an element to apply to your current selection:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List only child elements of current element</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can apply your own XML elements
+to a Word XML document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to apply your own XML elements in this document,you must first select a schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>you can do this by going to:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13909,6 +14278,152 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>Templates and Add-ins</source>
         <translation>模板和加载项</translation>
     </message>
+    <message>
+        <source>XML Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available &amp;XML schemas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checked schemas are currently attached:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schema &amp;Library...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add S&amp;chema...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schema Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>URI:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMLExtend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attached XMLExtend Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Source URL:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete(&amp;R)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available XMLExtend Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select(&amp;A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete(&amp;E)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update(&amp;P)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add(&amp;D)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgXMLSchemaLibrary</name>
+    <message>
+        <source>Schema Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schemas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Select a schema:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add Schema...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sch&amp;ema Settings...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Update Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>URI:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgXMLSchemaSetting</name>
+    <message>
+        <source>Schema Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit schema information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Alias</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Location</source>
+        <translation type="unfinished">位置(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">浏览(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>&amp;Changes affect current user only</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsDocMapWindow</name>
@@ -13949,7 +14464,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsFieldNameDelimiterDlg</name>
     <message>
         <source>Field delimiter and record delimiter cannot be same.</source>
-        <translation>域定界符不得与记录定界符相同。</translation>
+        <translation type="obsolete">域定界符不得与记录定界符相同。</translation>
+    </message>
+    <message>
+        <source>The field delimiter cannot be the same as the record delimiter.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14635,10 +15154,6 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>userName</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Change user...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14679,15 +15194,19 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Permission expiration date:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(N/A)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Resquest additional permissions... </source>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14703,7 +15222,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>In Line With Text</source>
-        <translation>嵌入型</translation>
+        <translation type="obsolete">嵌入型</translation>
     </message>
     <message>
         <source>Square</source>
@@ -14720,6 +15239,10 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>Top and Bottom</source>
         <translation>上下型</translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14831,7 +15354,7 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Revision: %1</source>
+        <source>Revisions: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15434,6 +15957,46 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>Full path:</source>
         <translation>完整路径：</translation>
     </message>
+    <message>
+        <source>Are you sure you want to delete the XMLExtend Pack on this computer?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add XMLExtend Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMLExtend Pack Instruction List(*.xml)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot Install the xml Extend or the xml schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the schema you choose is unable to use in document.The schema is possible unable or invalid, you may need other schema to run continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The operation will delete all the xmlnodes in the %1,do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> [disabled] </source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsTextDirectionCommand</name>
@@ -15546,6 +16109,53 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsXMLSchemaLibraryDlg</name>
+    <message>
+        <source>Add XMLSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot Install the xml Extend or the xml schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schema Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This will remove the schema and all associated files from the schema library. This may affect anyapplication that uses this schema. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsXMLSchemaSettingDlg</name>
+    <message>
+        <source>you must provide the URI name of the schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schema Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The schema you spacified uses a URI that is already in use by another schema. Click Browse to specify a schema tha uses a different URI, or click Cancel,
+remove the schema with the duplicate URI, and then add the schema you specified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add XMLSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsZoomCommand</name>
     <message>
         <source>This is not a valid measurement.</source>
@@ -15610,7 +16220,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&quot;%1&quot; is already opened. Reopening will cause changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
-        <translation>&quot;%1&quot; 已经打开。重新执行打开操作会造成前面所做的更改被放弃，是否重新打开 &quot;%2&quot;</translation>
+        <translation type="obsolete">&quot;%1&quot; 已经打开。重新执行打开操作会造成前面所做的更改被放弃，是否重新打开 &quot;%2&quot;</translation>
     </message>
     <message>
         <source>WPS Writer 2007-2010 File(*.wpsx)</source>
@@ -15622,7 +16232,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>No macros is currently recording. Click to begin recording a new macro.</source>
-        <translation>当前未在录制任何宏，单击此处录制新宏</translation>
+        <translation type="obsolete">当前未在录制任何宏，单击此处录制新宏</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
@@ -15635,6 +16245,10 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>WPS Writer 2007/2010 File(*.wpsx)</source>
         <translation type="obsolete">WPS文字2007/2010文件(*.wpsx)</translation>
+    </message>
+    <message>
+        <source>No macro is currently recording. Click to begin recording a new macro.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15734,6 +16348,180 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>dialogstest</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">常规</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation type="unfinished">保存到(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">浏览(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>Page range</source>
+        <translation type="unfinished">页码范围</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">全部</translation>
+    </message>
+    <message>
+        <source>Current page</source>
+        <translation type="unfinished">本页</translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished">输出选项</translation>
+    </message>
+    <message>
+        <source>Summar&amp;y information</source>
+        <translation type="unfinished">文档信息(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>New &amp;Comment</source>
+        <translation type="unfinished">批注(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Hyperlink</source>
+        <translation type="unfinished">超链接(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Li&amp;nks of footnotes and endnotes</source>
+        <translation type="unfinished">脚注和尾注链接(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Placeholder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Boo&amp;kmark</source>
+        <translation type="unfinished">书签(&amp;K)</translation>
+    </message>
+    <message>
+        <source>&amp;Revision</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Con&amp;vert title styles to bookmarks</source>
+        <translation type="unfinished">将标题样式转换为书签(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Convert other &amp;styles to bookmarks</source>
+        <translation type="unfinished">将其他样式转换为书签(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Convert c&amp;ustom styles to bookmarks</source>
+        <translation type="unfinished">将自定义样式转换为书签(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation type="unfinished">权限设置</translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation type="unfinished">密码(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Con&amp;firm:</source>
+        <translation type="unfinished">确认(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to mo&amp;dify</source>
+        <translation type="unfinished">允许更改(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Permit to c&amp;opy</source>
+        <translation type="unfinished">允许复制(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Permit to &amp;add comments</source>
+        <translation type="unfinished">允许添加批注(&amp;A)</translation>
+    </message>
+    <message>
+        <source>P&amp;rinting permission:</source>
+        <translation type="unfinished">打印权限(&amp;R)：</translation>
+    </message>
+    <message>
+        <source>Printing Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation type="unfinished">不允许打印</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished">低质量打印</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished">不受限打印</translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation type="unfinished">文件打开密码:</translation>
+    </message>
+    <message>
+        <source>Pass&amp;word:</source>
+        <translation type="unfinished">密码(&amp;W):</translation>
+    </message>
+    <message>
+        <source>Conf&amp;irm:</source>
+        <translation type="unfinished">确认(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Close when e&amp;xport completes</source>
+        <translation type="unfinished">输出成功后自动关闭(&amp;X)</translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation type="unfinished">打开文件(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
     </message>
 </context>
 <context>
@@ -15912,11 +16700,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation>权限设置(&amp;E)(使以下权限设置生效)</translation>
+        <translation type="obsolete">权限设置(&amp;E)(使以下权限设置生效)</translation>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>注意: 只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
+        <translation type="obsolete">注意: 只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
@@ -15945,6 +16733,42 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>Summary information</source>
         <translation type="obsolete">文档信息(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>Page range</source>
+        <translation type="unfinished">页码范围</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">全部</translation>
+    </message>
+    <message>
+        <source>Current page</source>
+        <translation type="unfinished">本页</translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

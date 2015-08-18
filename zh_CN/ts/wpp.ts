@@ -125,11 +125,11 @@
     </message>
     <message>
         <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
-        <translation>深色样式 2-强调 3/强调 4</translation>
+        <translation type="obsolete">深色样式 2-强调 3/强调 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
-        <translation>深色样式 2-强调 1/强调 2</translation>
+        <translation type="obsolete">深色样式 2-强调 1/强调 2</translation>
     </message>
     <message>
         <source>Emphasize</source>
@@ -178,6 +178,14 @@
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
         <translation>深色样式 2-强调 5/强调 6</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
+        <translation type="unfinished">深色样式 2-强调 5/强调 2 {2-?} {1/?}</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
+        <translation type="unfinished">深色样式 2-强调 5/强调 4 {2-?} {3/?}</translation>
     </message>
 </context>
 <context>
@@ -830,7 +838,7 @@
     </message>
     <message>
         <source>UnLocked</source>
-        <translation>解除锁定</translation>
+        <translation type="obsolete">解除锁定</translation>
     </message>
     <message>
         <source>Until End of Slide</source>
@@ -851,6 +859,10 @@
     <message>
         <source>Sound &amp;volume:</source>
         <translation>声音音量(&amp;V):</translation>
+    </message>
+    <message>
+        <source>Unlocked</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1169,11 +1181,15 @@
     </message>
     <message>
         <source>bgMagic tooltip</source>
-        <translation>试试手气，相信奇迹会出现</translation>
+        <translation type="obsolete">试试手气，相信奇迹会出现</translation>
     </message>
     <message>
         <source>Thousands of templates to create snazzy and distinctive  presentations</source>
         <translation>成千上万的时尚模板帮您打造不一样的演示稿</translation>
+    </message>
+    <message>
+        <source>Try for magic!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1433,7 +1449,7 @@
     </message>
     <message>
         <source>Magic Backgroud</source>
-        <translation>魔法换背景</translation>
+        <translation type="obsolete">魔法换背景</translation>
     </message>
     <message>
         <source>I&amp;gnore the background of master slide</source>
@@ -1442,6 +1458,10 @@
     <message>
         <source>Template Background</source>
         <translation>背景模板</translation>
+    </message>
+    <message>
+        <source>Magic Background</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1724,20 +1744,29 @@ the presentation file directly.You can put it with the presentation file in the 
         <translation>对话框</translation>
     </message>
     <message>
-        <source>TextLabel</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Application documents online font, if your document needs circulated others, 
 we recommend that you saved earlier document fonts. 
 If necessary, click Cancel</source>
-        <translation>文档中应用了“云字体”，若您的文档需要传阅他人，
+        <translation type="obsolete">文档中应用了“云字体”，若您的文档需要传阅他人，
 我们建议您将字体保存到文档中。
 是否将云字体保存到文档中？</translation>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
-        <translation>记住此操作，不再提醒</translation>
+        <translation type="obsolete">记住此操作，不再提醒</translation>
+    </message>
+    <message>
+        <source>Text Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The document contains cloud fonts. For the convenience of your readers, 
+we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2374,7 +2403,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Gerneral options</source>
-        <translation>常规选项</translation>
+        <translation type="obsolete">常规选项</translation>
     </message>
     <message>
         <source>Gray</source>
@@ -2678,7 +2707,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Password protect</source>
-        <translation>密码保护</translation>
+        <translation type="obsolete">密码保护</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
@@ -2687,6 +2716,14 @@ be recovered.</source>
     <message>
         <source>&amp;Browse...</source>
         <translation>浏览(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>General options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password protection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3196,7 +3233,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Volume Redress</source>
-        <translation>音量调整</translation>
+        <translation type="obsolete">音量调整</translation>
     </message>
     <message>
         <source>cbMute</source>
@@ -3205,6 +3242,10 @@ be recovered.</source>
     <message>
         <source>tbVolume</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Volume Adjustment</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3656,6 +3697,89 @@ be recovered.</source>
     </message>
 </context>
 <context>
+    <name>KxExportOFDDlg</name>
+    <message>
+        <source>Save OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd||</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished">讲义</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input the password of permission settings!</source>
+        <translation type="unfinished">请输入权限设置密码！</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">密码确认不符。</translation>
+    </message>
+    <message>
+        <source>Input permission password.</source>
+        <translation type="unfinished">请输入权限设置密码。</translation>
+    </message>
+    <message>
+        <source>Permission password and document open password must be different.</source>
+        <translation type="unfinished">权限设置密码和文件打开密码不能相同。</translation>
+    </message>
+    <message>
+        <source>Invalid input.        </source>
+        <translation type="unfinished">输入无效。        </translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Do you want to replace it and continue?</source>
+        <translation type="unfinished">您指定的文件已经存在，要覆盖该文件并继续吗？</translation>
+    </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation type="unfinished">文件名已存在。</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished">指定的目录不存在。</translation>
+    </message>
+    <message>
+        <source>You do not have permission to write files into this directory.</source>
+        <translation type="unfinished">你没有权限将文件写入当前目录。</translation>
+    </message>
+    <message>
+        <source>The slide you selected to export does not exist. Please select another one.</source>
+        <translation type="unfinished">您所选的要输出的幻灯片不存在，请选另一个。</translation>
+    </message>
+    <message>
+        <source>All slides in this custom show are hidden.</source>
+        <translation type="unfinished">该自定义放映中的幻灯片已标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>All slides in this range are hidden.</source>
+        <translation type="unfinished">在此范围内所有的幻灯片已标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>The selected slides are hidden.</source>
+        <translation type="unfinished">所选幻灯片已标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>Current slide has marked as hidden.</source>
+        <translation type="unfinished">当前幻灯片已标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>All slides in current presentation are hidden.</source>
+        <translation type="unfinished">此演示文稿中所有的幻灯片都标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
+        <translation type="unfinished">确保这些幻灯片不再隐藏，或者选择输出隐藏幻灯片。</translation>
+    </message>
+</context>
+<context>
     <name>KxExportPDFDlg</name>
     <message>
         <source>All slides in current presentation are skipped.</source>
@@ -3840,6 +3964,53 @@ be recovered.</source>
     <message>
         <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
         <translation>确保这些幻灯片不再隐藏，或者选择输出隐藏幻灯片。</translation>
+    </message>
+</context>
+<context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User canceled operation.</source>
+        <translation type="unfinished">用户取消操作。</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">关闭</translation>
+    </message>
+    <message>
+        <source>Exporting document information...</source>
+        <translation type="unfinished">正在导出文档属性...</translation>
+    </message>
+    <message>
+        <source>Exporting No.</source>
+        <translation type="unfinished">正在处理第</translation>
+    </message>
+    <message>
+        <source> Page...</source>
+        <translation type="unfinished"> 页...</translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="unfinished">正在导出标签...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error while trying exporting to OFD!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4219,7 +4390,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Comfirmation password does not match.</source>
-        <translation>密码确认不符。</translation>
+        <translation type="obsolete">密码确认不符。</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -4235,7 +4406,15 @@ be recovered.</source>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation>您没有权限将备份文件保存在 &quot;%1&quot; 中。</translation>
+        <translation type="obsolete">您没有权限将备份文件保存在 &quot;%1&quot; 中。</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">密码确认不符。</translation>
     </message>
 </context>
 <context>
@@ -6763,6 +6942,224 @@ be recovered.</source>
     </message>
 </context>
 <context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished">常规</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation type="unfinished">保存到(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">浏览(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>Export range</source>
+        <translation type="unfinished">输出范围</translation>
+    </message>
+    <message>
+        <source>A&amp;ll</source>
+        <translation type="unfinished">全部(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Current slide</source>
+        <translation type="unfinished">当前幻灯片(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Selection</source>
+        <translation type="unfinished">选定幻灯片(&amp;S)</translation>
+    </message>
+    <message>
+        <source>C&amp;ustom slide shows:</source>
+        <translation type="unfinished">自定义放映(&amp;U):</translation>
+    </message>
+    <message>
+        <source>Sl&amp;ides:</source>
+        <translation type="unfinished">幻灯片(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
+        <translation type="unfinished">请输入幻灯片编号或幻灯片范围。例如：1,3,5-12</translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished">输出选项</translation>
+    </message>
+    <message>
+        <source>Export &amp;what:</source>
+        <translation type="unfinished">输出内容(&amp;W):</translation>
+    </message>
+    <message>
+        <source>Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished">讲义</translation>
+    </message>
+    <message>
+        <source>Notes pages</source>
+        <translation type="unfinished">备注页</translation>
+    </message>
+    <message>
+        <source>Outline view</source>
+        <translation type="unfinished">大纲视图</translation>
+    </message>
+    <message>
+        <source>Color/&amp;Grayscale:</source>
+        <translation type="unfinished">颜色(&amp;G):</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pure black and white</source>
+        <translation type="unfinished">纯黑白</translation>
+    </message>
+    <message>
+        <source>Slides p&amp;er page:</source>
+        <translation type="unfinished">每页幻灯片数(&amp;E):</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="unfinished">2- {1?}</translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation type="unfinished">2- {2?}</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation type="unfinished">2- {3?}</translation>
+    </message>
+    <message>
+        <source>4</source>
+        <translation type="unfinished">2- {4?}</translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation type="unfinished">2- {6?}</translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Order:</source>
+        <translation type="unfinished">顺序:</translation>
+    </message>
+    <message>
+        <source>Hori&amp;zontal</source>
+        <translation type="unfinished">水平(&amp;Z)</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical</source>
+        <translation type="unfinished">垂直(&amp;V)</translation>
+    </message>
+    <message>
+        <source>ICON</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fra&amp;me slides</source>
+        <translation type="unfinished">幻灯片加框(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Print &amp;hidden slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation type="unfinished">权限设置</translation>
+    </message>
+    <message>
+        <source>Passw&amp;ord to protect permission settings</source>
+        <translation type="unfinished">权限设置(&amp;O)(使以下权限设置生效)</translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation type="unfinished">密码(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Con&amp;firm:</source>
+        <translation type="unfinished">确认(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to modify</source>
+        <translation type="unfinished">允许更改</translation>
+    </message>
+    <message>
+        <source>Permit to copy</source>
+        <translation type="unfinished">允许复制</translation>
+    </message>
+    <message>
+        <source>Permit to add comments</source>
+        <translation type="unfinished">允许添加批注</translation>
+    </message>
+    <message>
+        <source>Printing permission:</source>
+        <translation type="unfinished">打印权限:</translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation type="unfinished">不允许打印</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished">低质量打印</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished">不受限打印</translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation type="unfinished">文件打开密码:</translation>
+    </message>
+    <message>
+        <source>Passwor&amp;d:</source>
+        <translation type="unfinished">密码(&amp;D):</translation>
+    </message>
+    <message>
+        <source>Confi&amp;rm:</source>
+        <translation type="unfinished">确认(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Close when e&amp;xport completes</source>
+        <translation type="unfinished">输出成功后自动关闭(&amp;X)</translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation type="unfinished">打开文件(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>kdlgExportToPDF</name>
     <message>
         <source>&amp;Browse...</source>
@@ -7026,7 +7423,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>注意：只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
+        <translation type="obsolete">注意：只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
     </message>
     <message>
         <source>Printing permission:</source>
@@ -7047,6 +7444,10 @@ be recovered.</source>
     <message>
         <source>Note: Only setting password, the following options can be valid on note, and prevented others changing on note.</source>
         <translation type="obsolete">注意：只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

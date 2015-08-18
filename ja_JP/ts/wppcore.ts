@@ -162,7 +162,12 @@
     <message>
         <source>This function is offered in WPS Office 2009 Prefessional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation>このファンクションがKingsoft Office プロフェッショナル版で提供します。</translation>
+        <translation type="obsolete">このファンクションがKingsoft Office プロフェッショナル版で提供します。</translation>
+    </message>
+    <message>
+        <source>This function is offered in WPS Office 2009 Professional.</source>
+        <comment>AEO_SHIELD_ObjectPathConvert</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1605,7 +1610,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="obsolete">プレゼンテーション</translation>
+        <translation type="unfinished">プレゼンテーション</translation>
     </message>
     <message>
         <source>Presentation</source>
@@ -1614,7 +1619,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Presentation Caption</source>
-        <translation>プレゼンテーション表題</translation>
+        <translation type="obsolete">プレゼンテーション表題</translation>
     </message>
     <message>
         <source>Print: Page %d of %d</source>
@@ -2590,12 +2595,12 @@ Please try one of the following.
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
         <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation>Kingsoft Officeは、Microsoft Office 2010で作成したファイルを閲覧できますが、保存することはできません。ビューワーモードで開きますか？</translation>
+        <translation type="obsolete">Kingsoft Officeは、Microsoft Office 2010で作成したファイルを閲覧できますが、保存することはできません。ビューワーモードで開きますか？</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation>Kingsoft Officeは、Microsoft Office 2010で作成したファイルを閲覧できますが、保存することはできません。</translation>
+        <translation type="obsolete">Kingsoft Officeは、Microsoft Office 2010で作成したファイルを閲覧できますが、保存することはできません。</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
@@ -2606,6 +2611,16 @@ Please try one of the following.
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>WP_SAVE_PPT_FAILURE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <comment>WP_ReadOnlyOpenOoxml</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot save.</source>
+        <comment>WP_OpenOoxmlLostEffect</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3450,7 +3465,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Cancelled by user.</source>
         <comment>wpp_sCancelByUser</comment>
-        <translation>操作がキャンセルされました。</translation>
+        <translation type="obsolete">操作がキャンセルされました。</translation>
     </message>
     <message>
         <source>Cannot add word“%s”.</source>
@@ -3465,7 +3480,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Cannot open the folder %s. It might be in a unavailable path, or proteced by password, or the folder path does not exist or the folder path is too long.</source>
         <comment>wpp_sCanNotOpenFolder</comment>
-        <translation>%s フォルダを開けません。指定したフォルダの場所が正しいか確認してください。</translation>
+        <translation type="obsolete">%s フォルダを開けません。指定したフォルダの場所が正しいか確認してください。</translation>
     </message>
     <message>
         <source>Center Revolve</source>
@@ -4681,7 +4696,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Out Slightlly</source>
         <comment>wpp_sAnimDirectionInSlightly</comment>
-        <translation>少しぐらいイン</translation>
+        <translation type="obsolete">少しぐらいイン</translation>
     </message>
     <message>
         <source>Out To Screen Bottom</source>
@@ -5692,6 +5707,21 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <comment>wpp_sRemoveDefaultDict</comment>
         <translation>ユーザー辞書を削除すると他のKingsoft officeアプリケーションで使用されるユーザー辞書に影響を与える可能性があります。操作を続けますか?</translation>
     </message>
+    <message>
+        <source>Out Slightly</source>
+        <comment>wpp_sAnimDirectionInSlightly</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canceled by user.</source>
+        <comment>wpp_sCancelByUser</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
+        <comment>wpp_sCanNotOpenFolder</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppuil</name>
@@ -6017,7 +6047,7 @@ Spelling</source>
     <message>
         <source>Each slide in your presentation has been saved as a separate file in the folder %s .</source>
         <comment>WpSAVEIMAGEHINT</comment>
-        <translation>スライドは、個別のファイルとして %s フォルダに保存されました。</translation>
+        <translation type="obsolete">スライドは、個別のファイルとして %s フォルダに保存されました。</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -6840,6 +6870,12 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Device Independent Bitmap(*.bmp)</source>
         <comment>WpDescBMP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Each slide in your presentation has been saved as a separate file in the folder
+%s .</source>
+        <comment>WpSAVEIMAGEHINT</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

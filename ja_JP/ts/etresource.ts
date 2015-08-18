@@ -478,7 +478,7 @@
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>二点鎖線</translation>
+        <translation type="obsolete">二点鎖線</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -607,6 +607,10 @@
     <message>
         <source>Long Dash Dot</source>
         <translation>長鎖線</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -894,7 +898,7 @@ DB クエリの編集</translation>
     <name>classics.formatting</name>
     <message>
         <source>Across Center</source>
-        <translation type="unfinished">選択範囲内で中央</translation>
+        <translation type="obsolete">選択範囲内で中央</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -911,6 +915,10 @@ DB クエリの編集</translation>
     <message>
         <source>Center</source>
         <translation>中央寄せ</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Columns Center</source>
@@ -1157,8 +1165,12 @@ Center</source>
         <translation>コントラスト (弱)</translation>
     </message>
     <message>
+        <source>Line Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Sytle</source>
-        <translation>線の種類</translation>
+        <translation type="obsolete">線の種類</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
@@ -1360,6 +1372,14 @@ Center</source>
         <source>Protect and Share Workbook</source>
         <translation>ブックの保護と共有</translation>
     </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.record_macro</name>
@@ -1382,6 +1402,10 @@ Center</source>
 </context>
 <context>
     <name>classics.shadow_settings</name>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>More Shadow Colors</source>
         <translation>その他の色</translation>
@@ -1429,10 +1453,6 @@ Center</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">影の微調整(上)</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1752,6 +1772,13 @@ Center</source>
     <message>
         <source>Zoom</source>
         <translation>ズーム</translation>
+    </message>
+</context>
+<context>
+    <name>classics.standard.Help</name>
+    <message>
+        <source>WPS Spreadsheets Help</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2082,7 +2109,7 @@ Center</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>オフィススペース</translation>
+        <translation type="obsolete">オフィススペース</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -2103,6 +2130,10 @@ Center</source>
     <message>
         <source>Shadow Settings</source>
         <translation>影の設定</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Standard</source>
@@ -2224,11 +2255,7 @@ Center</source>
         <translation>自動バックアップの確認</translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
+        <source>Clear</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2389,11 +2416,15 @@ Center</source>
     </message>
     <message>
         <source>Down Bars</source>
-        <translation>ダウン バー ポップアップ メニュー</translation>
+        <translation type="obsolete">ダウン バー ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Down Bars Popup Menu</source>
         <translation type="obsolete">ダウン バー ポップアップ メニュー</translation>
+    </message>
+    <message>
+        <source>Down-Bars</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Drop Line</source>
@@ -2434,6 +2465,10 @@ Center</source>
     <message>
         <source>Feedback</source>
         <translation>改善要望</translation>
+    </message>
+    <message>
+        <source>Feedback by Email</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -2521,7 +2556,11 @@ Center</source>
     </message>
     <message>
         <source>High-Low Line</source>
-        <translation>高値-安値のポップアップ メニュー</translation>
+        <translation type="obsolete">高値-安値のポップアップ メニュー</translation>
+    </message>
+    <message>
+        <source>High-Low Lines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
@@ -2580,10 +2619,6 @@ Center</source>
         <translation>マクロ</translation>
     </message>
     <message>
-        <source>MailFeedBack</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>More Colors</source>
         <translation>その他の色</translation>
     </message>
@@ -2629,7 +2664,11 @@ Center</source>
     </message>
     <message>
         <source>New from More Template</source>
-        <translation>既定のテンプレート</translation>
+        <translation type="obsolete">既定のテンプレート</translation>
+    </message>
+    <message>
+        <source>New from More Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -2670,10 +2709,6 @@ Center</source>
     <message>
         <source>OLE Object Popup Menu</source>
         <translation type="obsolete">OLEオブジェクト ポップメニュー</translation>
-    </message>
-    <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
@@ -2765,8 +2800,12 @@ Directly</source>
         <translation type="obsolete">最近使用したファイル</translation>
     </message>
     <message>
+        <source>Recent File Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Recently File Management</source>
-        <translation>最近使用したファイル</translation>
+        <translation type="obsolete">最近使用したファイル</translation>
     </message>
     <message>
         <source>Record Macro Statusbar</source>
@@ -2839,20 +2878,20 @@ Data</source>
         <translation type="obsolete">オブジェクトの選択と表示</translation>
     </message>
     <message>
-        <source>Series Line Popup Menu</source>
-        <translation>系列線ポップアップ メニュー</translation>
+        <source>Series Line</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Set Highlight Repeat Items</source>
+        <source>Series Line Popup Menu</source>
+        <translation type="obsolete">系列線ポップアップ メニュー</translation>
+    </message>
+    <message>
+        <source>Set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Language</source>
         <translation>言語の設定</translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Spell Check Language</source>
@@ -2877,6 +2916,10 @@ Data</source>
     <message>
         <source>Sheet Tab</source>
         <translation type="obsolete">シート タブ</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -2945,6 +2988,10 @@ Window</source>
         <translation>元に戻す</translation>
     </message>
     <message>
+        <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up Bars</source>
         <translation>ローソクポップアップ メニュー</translation>
     </message>
@@ -2973,8 +3020,19 @@ Window</source>
         <translation>ウインドウ</translation>
     </message>
     <message>
+        <source>WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt Popup Menu</source>
-        <translation>ワードアート ポップ メニュー</translation>
+        <translation type="obsolete">ワードアート ポップ メニュー</translation>
+    </message>
+</context>
+<context>
+    <name>etcommon.mainwindow.commands.DataGroup</name>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3134,7 +3192,7 @@ Window</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>オフィススペース</translation>
+        <translation type="obsolete">オフィススペース</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -3161,12 +3219,16 @@ Window</source>
         <translation>ピボットテーブル ツール</translation>
     </message>
     <message>
+        <source>Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Print Preview</source>
         <translation>印刷プレビュー</translation>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation>クイックメニュー</translation>
+        <translation type="obsolete">クイックメニュー</translation>
     </message>
     <message>
         <source>Quick Tool Bar</source>
@@ -3223,6 +3285,10 @@ Window</source>
     <message>
         <source>Sign out</source>
         <translation>ログアウト</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -3412,7 +3478,7 @@ Window</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>オフィススペース</translation>
+        <translation type="obsolete">オフィススペース</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -3439,12 +3505,16 @@ Window</source>
         <translation>ピボットテーブル ツール</translation>
     </message>
     <message>
+        <source>Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Print Preview</source>
         <translation>印刷プレビュー</translation>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation>クイックメニュー</translation>
+        <translation type="obsolete">クイックメニュー</translation>
     </message>
     <message>
         <source>Quick Tool Bar</source>
@@ -3493,6 +3563,10 @@ Window</source>
     <message>
         <source>Sign out</source>
         <translation>ログアウト</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -3895,7 +3969,7 @@ Columns</source>
     <name>ongmani.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
 </context>
 <context>
@@ -4249,7 +4323,7 @@ On</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>二点鎖線</translation>
+        <translation type="obsolete">二点鎖線</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -4364,6 +4438,10 @@ On</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>長鎖線</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -4626,6 +4704,10 @@ On/Off</source>
         <translation type="obsolete">Kingsoft Spreadsheetsテンプレート(*.ett)</translation>
     </message>
     <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft Excel 2007/2010 Files</source>
         <translation>Excel 2007/2010 ファイル（*.xlsx）</translation>
     </message>
@@ -4718,6 +4800,14 @@ On/Off</source>
         <translation type="obsolete">再ロード</translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>上書き保存</translation>
     </message>
@@ -4750,8 +4840,16 @@ On/Off</source>
         <translation>オンライン学習</translation>
     </message>
     <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update Online</source>
         <translation type="obsolete">オンラインアップデート</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -4788,6 +4886,10 @@ On/Off</source>
     <message>
         <source>WPS Online</source>
         <translation type="obsolete">キングソフト オンライン</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
@@ -5021,10 +5123,6 @@ Center</source>
         <translation type="obsolete">選択範囲内で中央</translation>
     </message>
     <message>
-        <source>Across Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Across Sheets</source>
         <translation>作業グループへコピー</translation>
     </message>
@@ -5066,7 +5164,11 @@ Center</source>
     </message>
     <message>
         <source>Angle Countclockwise</source>
-        <translation>左回りの角度</translation>
+        <translation type="obsolete">左回りの角度</translation>
+    </message>
+    <message>
+        <source>Angle Counterclockwise</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ascending</source>
@@ -5132,6 +5234,10 @@ Center</source>
     <message>
         <source>Center</source>
         <translation>中央</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
@@ -5753,6 +5859,10 @@ Columns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>上方向へコピー</translation>
     </message>
@@ -5995,11 +6105,15 @@ Footer</source>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation type="unfinished">クリップアート</translation>
+        <translation type="obsolete">クリップアート</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">クリップアート</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -6631,7 +6745,7 @@ Pictures</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>二点鎖線</translation>
+        <translation type="obsolete">二点鎖線</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -6708,14 +6822,18 @@ Pictures</source>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation type="unfinished">クリップアート</translation>
+        <translation type="obsolete">クリップアート</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">クリップアート</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6741,6 +6859,10 @@ Pictures</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>長鎖線</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -7000,6 +7122,11 @@ On/Off</source>
         <translation type="obsolete">削除</translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field
 Settings</source>
         <translation type="unfinished">フィールド設定</translation>
@@ -7096,6 +7223,11 @@ Data</source>
     <message>
         <source>Refresh Data</source>
         <translation type="obsolete">データの更新</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show
@@ -7388,6 +7520,16 @@ Changes</source>
     <message>
         <source>Translation</source>
         <translation>翻訳</translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect 
+Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7724,6 +7866,10 @@ Layout</source>
         <translation type="obsolete">閲覧レイアウト</translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Security</source>
         <translation>マクロのセキュリティ</translation>
     </message>
@@ -7746,7 +7892,7 @@ Layout</source>
     </message>
     <message>
         <source>Unsplit</source>
-        <translation>分割を解除</translation>
+        <translation type="obsolete">分割を解除</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -8204,7 +8350,7 @@ Spacing</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>二点鎖線</translation>
+        <translation type="obsolete">二点鎖線</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -8363,6 +8509,10 @@ Spacing</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>長鎖線</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -8717,10 +8867,6 @@ Shape</source>
         <translation type="obsolete">ユーザークラウド</translation>
     </message>
     <message>
-        <source>KOS User Data Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>KOS User Guid</source>
         <translation type="obsolete">ユーザーガイド</translation>
     </message>
@@ -8731,10 +8877,6 @@ Shape</source>
     <message>
         <source>KOS User Login</source>
         <translation type="obsolete">ログイン</translation>
-    </message>
-    <message>
-        <source>KOS User PDF</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>
@@ -8777,6 +8919,10 @@ Shape</source>
         <translation type="obsolete">ログイン</translation>
     </message>
     <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">自動バージョンの停止</translation>
     </message>
@@ -8808,39 +8954,39 @@ Shape</source>
 <context>
     <name>popupmenu</name>
     <message>
-        <source>0.25 pt.</source>
+        <source>0.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.5 pt.</source>
+        <source>0.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.75 pt.</source>
+        <source>0.75 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1 pt.</source>
+        <source>1 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1.5 pt.</source>
+        <source>1.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>2.25 pt.</source>
+        <source>2.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3 pt.</source>
+        <source>3 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>4.5 pt.</source>
+        <source>4.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>6 pt.</source>
+        <source>6 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8858,10 +9004,6 @@ Shape</source>
     <message>
         <source>Accept Revisions</source>
         <translation type="obsolete">リビジョンを承諾</translation>
-    </message>
-    <message>
-        <source>Across Center</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -9071,6 +9213,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center Across</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9286,15 +9432,11 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9466,6 +9608,10 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback by Email</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9528,11 +9674,11 @@ Add-Ins</source>
         <translation type="obsolete">自動フィルタ</translation>
     </message>
     <message>
-        <source>Flip Horizontally</source>
+        <source>Flip Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flip Vertically</source>
+        <source>Flip Vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9781,11 +9927,15 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation type="unfinished">クリップアート</translation>
+        <translation type="obsolete">クリップアート</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">クリップアート</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Comment</source>
@@ -9888,11 +10038,7 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Line Pattern</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line Sytle Palette</source>
+        <source>Line Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9908,7 +10054,11 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9916,7 +10066,7 @@ Add-Ins</source>
         <translation>マクロ</translation>
     </message>
     <message>
-        <source>Manage Credential</source>
+        <source>Manage Credentials</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10100,6 +10250,10 @@ Add-Ins</source>
         <translation>形式なし貼り付け</translation>
     </message>
     <message>
+        <source>Pattenred Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pattern</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10208,12 +10362,24 @@ Add-Ins</source>
         <translation>ハイパーリンクの削除</translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rename</source>
         <translation>名前の変更</translation>
     </message>
     <message>
         <source>Reset All Page Break</source>
-        <translation>すべての改ページの再設定</translation>
+        <translation type="obsolete">すべての改ページの再設定</translation>
+    </message>
+    <message>
+        <source>Reset All Page Breaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restricted Access</source>
@@ -10389,10 +10555,6 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solid</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10522,7 +10684,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>UnSplit</source>
-        <translation>分割の解除</translation>
+        <translation type="obsolete">分割の解除</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -10546,6 +10708,14 @@ Add-Ins</source>
     </message>
     <message>
         <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10587,6 +10757,10 @@ Add-Ins</source>
     <message>
         <source>View Historical Backup</source>
         <translation>バージョンの検索</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Business Version</source>
@@ -10936,7 +11110,7 @@ DB クエリの編集</translation>
     <name>rainbow.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
 </context>
 <context>
@@ -11230,7 +11404,7 @@ AddIns</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>二点鎖線</translation>
+        <translation type="obsolete">二点鎖線</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -11335,6 +11509,10 @@ AddIns</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>長鎖線</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -11576,6 +11754,10 @@ AddIns</source>
         <translation type="obsolete">Kingsoft Spreadsheetsテンプレート（*.ett）</translation>
     </message>
     <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft Excel 2007-2010 Files</source>
         <translation>Microsoft Excelファイル（*.xlsx）</translation>
     </message>
@@ -11668,6 +11850,14 @@ AddIns</source>
         <translation type="obsolete">再ロード</translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>上書き保存</translation>
     </message>
@@ -11700,8 +11890,16 @@ AddIns</source>
         <translation>オンライン学習</translation>
     </message>
     <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update Online</source>
         <translation type="obsolete">オンラインアップデート</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -11738,6 +11936,10 @@ AddIns</source>
     <message>
         <source>WPS Online</source>
         <translation type="obsolete">キングソフト オンライン</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
@@ -11937,7 +12139,7 @@ Trig</source>
     </message>
     <message>
         <source>Across Center</source>
-        <translation>選択範囲内で中央</translation>
+        <translation type="obsolete">選択範囲内で中央</translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -12042,6 +12244,10 @@ Trig</source>
     <message>
         <source>Center</source>
         <translation>中央</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
@@ -12623,6 +12829,10 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>上方向へコピー</translation>
     </message>
@@ -12762,14 +12972,18 @@ Center</source>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation type="unfinished">クリップアートの挿入</translation>
+        <translation type="obsolete">クリップアートの挿入</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">クリップアートの挿入</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13173,7 +13387,7 @@ Center</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>二点鎖線</translation>
+        <translation type="obsolete">二点鎖線</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -13249,11 +13463,15 @@ Center</source>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation type="unfinished">クリップアートの挿入</translation>
+        <translation type="obsolete">クリップアートの挿入</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">クリップアートの挿入</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -13282,6 +13500,10 @@ Center</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>長鎖線</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -13519,6 +13741,11 @@ Center</source>
         <translation type="obsolete">削除</translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Field Settings</source>
         <translation>フィールド設定</translation>
     </message>
@@ -13581,6 +13808,11 @@ Center</source>
     <message>
         <source>Refresh Data</source>
         <translation type="obsolete">データの更新</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -13800,6 +14032,14 @@ Center</source>
     <message>
         <source>Translation</source>
         <translation>翻訳</translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14091,6 +14331,10 @@ Other Windows</source>
         <translation>閲覧レイアウト</translation>
     </message>
     <message>
+        <source>Remove Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Security</source>
         <translation>マクロのセキュリティ</translation>
     </message>
@@ -14112,7 +14356,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Unsplit</source>
-        <translation>分割を解除</translation>
+        <translation type="obsolete">分割を解除</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -14504,7 +14748,7 @@ Color</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>二点鎖線</translation>
+        <translation type="obsolete">二点鎖線</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -14661,6 +14905,10 @@ Color</source>
     <message>
         <source>Long Dash Dot</source>
         <translation>長鎖線</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -14978,10 +15226,6 @@ Color</source>
         <translation type="obsolete">ユーザークラウド</translation>
     </message>
     <message>
-        <source>KOS User Data Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>KOS User Guid</source>
         <translation type="obsolete">ユーザーガイド</translation>
     </message>
@@ -15036,6 +15280,10 @@ Color</source>
     <message>
         <source>Sign in</source>
         <translation type="obsolete">ログイン</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
@@ -18455,7 +18703,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>KOS Open Cloud File</source>
-        <translation>クラウドファイルを開く</translation>
+        <translation type="obsolete">クラウドファイルを開く</translation>
     </message>
     <message>
         <source>KOS Save File to Cloud</source>
@@ -18488,6 +18736,10 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     <message>
         <source>Not Logged in</source>
         <translation type="obsolete">ログイン</translation>
+    </message>
+    <message>
+        <source>Open from Cloud</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reading Layout</source>

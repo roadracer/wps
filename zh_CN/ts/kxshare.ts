@@ -290,11 +290,11 @@
     </message>
     <message>
         <source>DownLoad Online Fonts &quot;%1&quot; Failed</source>
-        <translation>下载云字体 &quot;%1&quot; 失败</translation>
+        <translation type="obsolete">下载云字体 &quot;%1&quot; 失败</translation>
     </message>
     <message>
         <source>DownLoad Online Fonts &quot;%1&quot; Successful</source>
-        <translation>下载云字体 &quot;%1&quot; 成功</translation>
+        <translation type="obsolete">下载云字体 &quot;%1&quot; 成功</translation>
     </message>
     <message>
         <source>Hey, click here to switch user interface!</source>
@@ -345,14 +345,30 @@
     </message>
     <message>
         <source>DownLoad Online Fonts &quot;%1&quot; Successful(Restart to take effect)</source>
-        <translation>正在下载云字体，点击字体列表可查看详情(重启生效)</translation>
+        <translation type="obsolete">正在下载云字体，点击字体列表可查看详情(重启生效)</translation>
     </message>
     <message>
         <source>Online font downloading,click font list see more detail.</source>
-        <translation>正在下载云字体，点击字体列表可查看详情</translation>
+        <translation type="obsolete">正在下载云字体，点击字体列表可查看详情</translation>
     </message>
     <message>
         <source>The layout will take effect after restart or logoff computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading online font &quot;%1&quot;. Click the font list to see more detail. (Restart to take effect)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download cloud font &quot;%1&quot; successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download cloud font &quot;%1&quot; failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading cloud font, click the font list to see more detail.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -649,7 +665,11 @@
     </message>
     <message>
         <source>FileName or PathName is longger than 218 chars!</source>
-        <translation type="unfinished">文件名或者路径名长度超过218个字符！</translation>
+        <translation type="obsolete">文件名或者路径名长度超过218个字符！</translation>
+    </message>
+    <message>
+        <source>FileName or PathName is longger than 218 characters!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -929,7 +949,7 @@
     </message>
     <message>
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
-        <translation>存储序列号失败，请确认您是否有管理员权限。</translation>
+        <translation type="obsolete">存储序列号失败，请确认您是否有管理员权限。</translation>
     </message>
     <message>
         <source>The items with &quot;*&quot; must be inputted.</source>
@@ -975,6 +995,10 @@
         <source>Your input is incorrect and the program will exit.</source>
         <translation>您的输入不正确，程序将退出。</translation>
     </message>
+    <message>
+        <source>Fail to save the serial number. Please check whether you have the administrator permission or not.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KRepeatableInputPasswordDlg</name>
@@ -984,11 +1008,15 @@
     </message>
     <message>
         <source>Password error, try again</source>
-        <translation>密码不正确，请重新输入。</translation>
+        <translation type="obsolete">密码不正确，请重新输入。</translation>
     </message>
     <message>
         <source>Password</source>
         <translation>密码</translation>
+    </message>
+    <message>
+        <source>Incorrect password. Please re-enter.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1003,7 +1031,7 @@
     </message>
     <message>
         <source>Compare Side by Side</source>
-        <translation>选定窗口</translation>
+        <translation type="obsolete">选定窗口</translation>
     </message>
     <message>
         <source>Compare Side by Side Window</source>
@@ -1036,6 +1064,10 @@
     <message>
         <source>Please select the window to compare:</source>
         <translation>选择需要比较的窗口:</translation>
+    </message>
+    <message>
+        <source>Switch Windows</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1686,14 +1718,6 @@ To select names from the Address book, click the Read or Change button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Give all users Read Access</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>PI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1706,7 +1730,15 @@ To select names from the Address book, click the Read or Change button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Give all users Change Access</source>
+        <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Read access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Change access</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1940,9 +1972,8 @@ To select names from the Address book, click the Read or Change button.</source>
 <context>
     <name>KxControlToolboxToolBarViewCommand</name>
     <message>
-        <source>To work with Control Toolbox, please purchase WPS Office Professional.
-</source>
-        <translation></translation>
+        <source>????????????? WPS Office ????</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1956,19 +1987,35 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxCroppingScalesGalleryModel</name>
     <message>
         <source>CroppingScale_Free</source>
-        <translation>自由裁剪</translation>
+        <translation type="obsolete">自由裁剪</translation>
     </message>
     <message>
         <source>CroppingScale_Square</source>
-        <translation>方形</translation>
+        <translation type="obsolete">方形</translation>
     </message>
     <message>
         <source>CroppingScale_Horizontal</source>
-        <translation>横向</translation>
+        <translation type="obsolete">横向</translation>
     </message>
     <message>
         <source>CroppingScale_Vertical</source>
-        <translation>纵向</translation>
+        <translation type="obsolete">纵向</translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation type="unfinished">正方形</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2380,7 +2427,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Pyramid diagram</source>
-        <translation>棱锥图</translation>
+        <translation type="obsolete">棱锥图</translation>
     </message>
     <message>
         <source>Radial Diagram</source>
@@ -2416,11 +2463,19 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Venn diagram</source>
-        <translation>维恩图</translation>
+        <translation type="obsolete">维恩图</translation>
     </message>
     <message>
         <source>Organization Chart</source>
         <translation>组织结构图</translation>
+    </message>
+    <message>
+        <source>Pyramid Diagram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Venn Diagram</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2597,8 +2652,8 @@ To select names from the Address book, click the Read or Change button.</source>
         <translation>词典(&amp;C)</translation>
     </message>
     <message>
-        <source>Edit Dictionary</source>
-        <translation></translation>
+        <source>编辑字典</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3003,7 +3058,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgHttpAuthentication</name>
     <message>
         <source>Http authentication required</source>
-        <translation>安全验证</translation>
+        <translation type="obsolete">安全验证</translation>
     </message>
     <message>
         <source>You need to supply a Username and a Password to access this site</source>
@@ -3035,7 +3090,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please supply a Username and a Password!</source>
-        <translation>请输入您的用户名和密码来登录</translation>
+        <translation type="obsolete">请输入您的用户名和密码来登录</translation>
+    </message>
+    <message>
+        <source>Require Http authentication</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter your username and password to sign in.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3496,7 +3559,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Recent File Management</source>
-        <translation>最近文档管理</translation>
+        <translation type="obsolete">最近文档管理</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
@@ -3509,7 +3572,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This will not delete the files but only remove the records.
 Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
-        <translation>请选择您想要从最近文档列表中移除的项目，然后点击“清除记录”按钮来完成清理。
+        <translation type="obsolete">请选择您想要从最近文档列表中移除的项目，然后点击“清除记录”按钮来完成清理。
 本操作仅移除记录，不会删除文件。
 双击或右击菜单可打开文档。打开文档操作会清空以下列表中各个项目的选中状态。</translation>
     </message>
@@ -3519,6 +3582,16 @@ Double-click or use the popup menu to open the file. This operation will clear t
         <translation type="obsolete">请选择您想要从最近文档列表中移除的项目，然后点击“清除记录”按钮来完成清理。
 本操作仅移除记录，不会删除文件。
 双击或右击菜单可打开文档。打开文档操作会清空以下列表中各个项目的选中状态。</translation>
+    </message>
+    <message>
+        <source>File Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the files you wish to remove from the recent document list, then press Delete. 
+This will not permanently delete your file, but only remove them from your recent records.
+Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3554,10 +3627,6 @@ Double-click or use the popup menu to open the file. This operation will clear t
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Select one of the following user accounts to create or open content with restricted permission.To use an account not listed below,click Add.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Add...</source>
         <translation type="unfinished">添加(&amp;A)...</translation>
     </message>
@@ -3567,6 +3636,10 @@ Double-click or use the popup menu to open the file. This operation will clear t
     </message>
     <message>
         <source>A&amp;lways use this account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Select one of the following user accounts to create or open content with restricted permission. To use an account not listed below, click Add.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3800,7 +3873,7 @@ Double-click or use the popup menu to open the file. This operation will clear t
         <source>
 
 modify time: </source>
-        <translation>
+        <translation type="obsolete">
 
 修改时间：</translation>
     </message>
@@ -3808,9 +3881,21 @@ modify time: </source>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation>
+        <translation type="obsolete">
 
 此记录失效，文档可能被移动、重命名或删除</translation>
+    </message>
+    <message>
+        <source>
+
+Modified time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid. The file has been renamed,deleted or moved.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4079,23 +4164,39 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation>当前文档使用了“%1”云字体，为了保证使用体验，建议您下载上述云字体。</translation>
+        <translation type="obsolete">当前文档使用了“%1”云字体，为了保证使用体验，建议您下载上述云字体。</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation>当前文档使用了“%1”、“%2”云字体，为了保证使用体验，建议您下载上述云字体。</translation>
+        <translation type="obsolete">当前文档使用了“%1”、“%2”云字体，为了保证使用体验，建议您下载上述云字体。</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation>当前文档使用了“%1”、“%2”、“%3”云字体，为了保证使用体验，建议您下载上述云字体。</translation>
+        <translation type="obsolete">当前文档使用了“%1”、“%2”、“%3”云字体，为了保证使用体验，建议您下载上述云字体。</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
-        <translation>当前文档使用了“%1”、“%2”、“%3”等云字体，为了保证使用体验，建议您下载上述云字体。</translation>
+        <translation type="obsolete">当前文档使用了“%1”、“%2”、“%3”等云字体，为了保证使用体验，建议您下载上述云字体。</translation>
     </message>
     <message>
         <source>(Restart to take effect).</source>
         <translation type="obsolete">(重启生效)。</translation>
+    </message>
+    <message>
+        <source>This document uses cloud font &quot;%1&quot;. For your convenience, please download this cloud font.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document uses cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document uses cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document uses cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4870,7 +4971,11 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Cloud font reserves to the upper (%1), please go to the &quot;management of cloud font&quot; page for details.</source>
-        <translation>云字体储量已达上限（%1款），请前往“管理云字体”页面查看详情。</translation>
+        <translation type="obsolete">云字体储量已达上限（%1款），请前往“管理云字体”页面查看详情。</translation>
+    </message>
+    <message>
+        <source>Cloud has reached its limit for cloud fonts (%1). Please go to the &apos;Management of Cloud Font&apos; page for details.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4916,7 +5021,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Vip %1 has expired, please renew</source>
-        <translation>您的%1会员已过期，立即续费享用云字体特权及更多优惠！</translation>
+        <translation type="obsolete">您的%1会员已过期，立即续费享用云字体特权及更多优惠！</translation>
     </message>
     <message>
         <source>Renew</source>
@@ -4960,7 +5065,15 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>WPS members enjoy more than 300 cloud font, monthly not regularly updated new font, let your document colorful!</source>
-        <translation>WPS会员即享300多款云字体，每月不定时更新新字体，让您的文档多姿多彩!</translation>
+        <translation type="obsolete">WPS会员即享300多款云字体，每月不定时更新新字体，让您的文档多姿多彩!</translation>
+    </message>
+    <message>
+        <source>%1 membership has expired, please renew.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS members can access to more than 300 cloud fonts, updated monthly.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5071,7 +5184,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>It&apos;s downloading, please wait...</source>
-        <translation>正在下载字体，请稍候...</translation>
+        <translation type="obsolete">正在下载字体，请稍候...</translation>
     </message>
     <message>
         <source>Pause. Click to continue</source>
@@ -5079,7 +5192,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Fold online fonts</source>
-        <translation>点击收起云字体</translation>
+        <translation type="obsolete">点击收起云字体</translation>
     </message>
     <message>
         <source>More online fonts</source>
@@ -5132,7 +5245,7 @@ Click to recharge for more discounts.</source>
     </message>
     <message>
         <source>Click to keep cloud fonts on top</source>
-        <translation>点击置顶云字体</translation>
+        <translation type="obsolete">点击置顶云字体</translation>
     </message>
     <message>
         <source>Click to shuffle cloud fonts</source>
@@ -5148,12 +5261,12 @@ Click to recharge for more discounts.</source>
     </message>
     <message>
         <source>Allow member to enjoy free cloud fonts. Click to sign in.</source>
-        <translation>会员可使用免费云字体，点击登录</translation>
+        <translation type="obsolete">会员可使用免费云字体，点击登录</translation>
     </message>
     <message>
         <source>Upgrade to VIP to enjoy VIP fonts.
 Click here to sign in now.</source>
-        <translation>使用VIP字体，白银以上会员可享用
+        <translation type="obsolete">使用VIP字体，白银以上会员可享用
 点击即可登录</translation>
     </message>
     <message>
@@ -5168,11 +5281,11 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Upgrade to VIP to enjoy VIP fonts.</source>
-        <translation>使用VIP字体，白银以上会员可享用</translation>
+        <translation type="obsolete">使用VIP字体，白银以上会员可享用</translation>
     </message>
     <message>
         <source>Your membership %1 expires now. Please renew.</source>
-        <translation>您的%1会员已过期，点击续费
+        <translation type="obsolete">您的%1会员已过期，点击续费
 尊享云字体特权！</translation>
     </message>
     <message>
@@ -5181,15 +5294,15 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Allow senior member to enjoy VIP fonts. Click to sign in.</source>
-        <translation>高级会员可享用VIP云字体，点击登录</translation>
+        <translation type="obsolete">高级会员可享用VIP云字体，点击登录</translation>
     </message>
     <message>
         <source>All cloud fonts installed.  Please looking forward to more.</source>
-        <translation>您已拥有所有云字体，请期待新款字体</translation>
+        <translation type="obsolete">您已拥有所有云字体，请期待新款字体</translation>
     </message>
     <message>
         <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
-        <translation>您的%1会员已过期，点击续费享云字体特权！</translation>
+        <translation type="obsolete">您的%1会员已过期，点击续费享云字体特权！</translation>
     </message>
     <message>
         <source>The massive font download, please click the &quot;more cloud font...&quot;</source>
@@ -5207,6 +5320,47 @@ Click the icon to sign in now.</source>
         <source>Downloading fonts, please wait?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Upgrade to use VIP-only fonts.
+Click here to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Senior members can access to free cloud fonts. Click to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Members can access to free cloud fonts. Click to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1 membership expires now. Please renew.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade to use VIP-only fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1 membership expires now. Please renew to use cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All currently available cloud fonts have been installed.  More are coming soon!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide cloud fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to keep a cloud font on top</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOverdueDlg</name>
@@ -5216,7 +5370,7 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Enter Viewer</source>
-        <translation>进入浏览模式</translation>
+        <translation type="obsolete">进入浏览模式</translation>
     </message>
     <message>
         <source>Input Serial Number</source>
@@ -5244,7 +5398,7 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>You also can download</source>
-        <translation>您也可以下载</translation>
+        <translation type="obsolete">您也可以下载</translation>
     </message>
     <message>
         <source>Your Kingsoft Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number you can purchase one at the</source>
@@ -5273,6 +5427,14 @@ Click the icon to sign in now.</source>
     <message>
         <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number you can purchase one at the</source>
         <translation type="obsolete">您使用的WPS Office已过试用期，将禁用打印功能。请输入正式的序列号，或者点击下方链接，购买正式序列号。</translation>
+    </message>
+    <message>
+        <source>You can also download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Viewer Mode</source>
+        <translation type="unfinished">浏览模式</translation>
     </message>
 </context>
 <context>
@@ -5304,6 +5466,10 @@ Click the icon to sign in now.</source>
     <message>
         <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
         <translation>粘贴链接将创建一个到源文件的快捷方式，对源文件的更改将反映到您的文档中。</translation>
+    </message>
+    <message>
+        <source>The specified data type is unavailable.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5357,15 +5523,30 @@ Click the icon to sign in now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Users can request additonal per&amp;missions from:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Re&amp;quire a connection to verify a user&apos;s permission</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Set defaults...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users can request additional per&amp;missions from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPicksolutionDlg</name>
+    <message>
+        <source>Choose XML Expansion Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One or more XML expansion packs are available for this file. Choose one from the list below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No XML expansion pack</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5778,7 +5959,7 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>A key to clear</source>
-        <translation>一键清除</translation>
+        <translation type="obsolete">一键清除</translation>
     </message>
     <message>
         <source>Clear this recor&amp;d</source>
@@ -5786,11 +5967,11 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Clear &amp;all selected record</source>
-        <translation>清除所有选中记录(&amp;A)</translation>
+        <translation type="obsolete">清除所有选中记录(&amp;A)</translation>
     </message>
     <message>
         <source>Clear &amp;all invalid record</source>
-        <translation>清除所有失效的文档记录(&amp;A)</translation>
+        <translation type="obsolete">清除所有失效的文档记录(&amp;A)</translation>
     </message>
     <message>
         <source>Open the file in &amp;folder</source>
@@ -5800,7 +5981,7 @@ Click the icon to sign in now.</source>
         <source>
 
 modify time: </source>
-        <translation>
+        <translation type="obsolete">
 
 修改时间：</translation>
     </message>
@@ -5808,7 +5989,7 @@ modify time: </source>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation>
+        <translation type="obsolete">
 
 此记录失效，文档可能被移动、重命名或删除</translation>
     </message>
@@ -5819,7 +6000,7 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <message>
         <source>cannot open the file &quot;%1&quot;. 
 the file may be renamed,deleted or moved the location.</source>
-        <translation>无法打开 “%1”。
+        <translation type="obsolete">无法打开 “%1”。
 此文件可能被重命名、删除或移动了位置。</translation>
     </message>
     <message>
@@ -5829,6 +6010,35 @@ the file may be renamed,deleted or moved the location.</source>
     <message>
         <source>Delete</source>
         <translation>清除记录</translation>
+    </message>
+    <message>
+        <source>Clear in one click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear &amp;all selected records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear &amp;all invalid records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Modified time: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid. The file has been renamed,deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;%1&quot; cannot be opened.
+It has been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5878,14 +6088,6 @@ To select names from the Address book, click the Read or Change button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Give all users Read Access</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>PI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5898,15 +6100,23 @@ To select names from the Address book, click the Read or Change button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Give all users Change Access</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Displays advanced settings dialog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source> More &amp;Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Read access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Change access</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6087,11 +6297,19 @@ Do you want to override it?</source>
     <name>KxSkinSwitchHtmlBridge</name>
     <message>
         <source>upload</source>
-        <translation>载入皮肤包</translation>
+        <translation type="obsolete">载入皮肤包</translation>
     </message>
     <message>
         <source>(custom)</source>
-        <translation>(自定义)</translation>
+        <translation type="obsolete">(自定义)</translation>
+    </message>
+    <message>
+        <source>(Custom)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6319,7 +6537,7 @@ Do you want to override it?</source>
     </message>
     <message>
         <source>Resolution</source>
-        <translation>解决方案</translation>
+        <translation type="obsolete">解决方案</translation>
     </message>
     <message>
         <source>Some issues are detected in your system, which may cause Kingsoft Office for Linux run improperly on your computer.</source>
@@ -6344,6 +6562,10 @@ Do you want to override it?</source>
     <message>
         <source>Some issues are detected in your system, which may cause WPS Office for Linux run improperly on your computer.</source>
         <translation type="obsolete">检测到您的系统存在以下问题，可能导致WPS for Linux不能正确的工作。</translation>
+    </message>
+    <message>
+        <source>Solution</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6504,7 +6726,11 @@ Do you want to override it?</source>
     </message>
     <message>
         <source>Sorry! An error occured just now. After making efforts to repair, it has now been restored.</source>
-        <translation>非常抱歉，刚才发生故障。经努力抢修，现已基本恢复现场。</translation>
+        <translation type="obsolete">非常抱歉，刚才发生故障。经努力抢修，现已基本恢复现场。</translation>
+    </message>
+    <message>
+        <source>Sorry! An error occurred just now. Now it has been fixed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6586,11 +6812,15 @@ Do you want to override it?</source>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
-        <translation>您可以通过以下文件列表，恢复异常退出之前的工作状态。</translation>
+        <translation type="obsolete">您可以通过以下文件列表，恢复异常退出之前的工作状态。</translation>
     </message>
     <message>
         <source>View Other Backups</source>
         <translation type="obsolete">查看其他备份</translation>
+    </message>
+    <message>
+        <source>Recently edited documents recovered from unexpected exit.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6876,7 +7106,7 @@ the file may be renamed,deleted or moved the location.</source>
         <source>
 
 modify time: </source>
-        <translation>
+        <translation type="obsolete">
 
 修改时间：</translation>
     </message>
@@ -6884,7 +7114,7 @@ modify time: </source>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation>
+        <translation type="obsolete">
 
 此记录失效，文档可能被移动、重命名或删除</translation>
     </message>
@@ -6894,7 +7124,7 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>Open Recent File Management dialog box,and remove some or all of the recent file.</source>
-        <translation>打开最近文档记录管理对话框，清除部分或全部的文档打开记录</translation>
+        <translation type="obsolete">打开最近文档记录管理对话框，清除部分或全部的文档打开记录</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -6907,12 +7137,47 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may be renamed , deleted or moved the location.</source>
-        <translation>无法打开 “%1”。
+        <translation type="obsolete">无法打开 “%1”。
 此文件可能被重命名、删除或移动了位置。</translation>
     </message>
     <message>
         <source>Open file location</source>
         <translation>打开文件所在文件夹</translation>
+    </message>
+    <message>
+        <source>Open Recent File Management dialog box, and remove some or all of the recent files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Modified time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpOprDoc</name>
+    <message>
+        <source>Cancle the XML Extend Packet</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpOprDocCommand</name>
+    <message>
+        <source>Are you sure cancel the XML extend pack?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6981,7 +7246,7 @@ the file may be renamed,deleted or moved the location.</source>
     </message>
     <message>
         <source>Open the recent file management dialog box,and remove some or all of the recent file records.</source>
-        <translation>打开最近文档记录管理对话框，清除部分或全部的文档打开记录。</translation>
+        <translation type="obsolete">打开最近文档记录管理对话框，清除部分或全部的文档打开记录。</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -6998,12 +7263,21 @@ the file may be renamed,deleted or moved the location.</source>
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may be renamed , deleted or moved the location.</source>
-        <translation>无法打开 “%1”。
+        <translation type="obsolete">无法打开 “%1”。
 此文件可能被重命名、删除或移动了位置。</translation>
     </message>
     <message>
         <source>Open file location</source>
         <translation>打开文件所在文件夹</translation>
+    </message>
+    <message>
+        <source>Open File Management to remove some or all of your recent documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;%1&quot; cannot be opened.
+It has been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8096,7 +8370,7 @@ The settings will take effect after restarting the application.</source>
     <name>aboutDlg</name>
     <message>
         <source>!NO_TRANS!</source>
-        <translation>WPS</translation>
+        <translation type="obsolete">WPS</translation>
     </message>
     <message>
         <source>&amp;Tech Support...</source>
@@ -8144,12 +8418,16 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <source>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
         <translation type="unfinished"> 2014 北京金山办公软件有限公司和珠海金山办公软件有限公司。 {2015 ?}</translation>
     </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>apidefaultDlg</name>
     <message>
         <source>!NO_TRANS!</source>
-        <translation>WPS</translation>
+        <translation type="obsolete">WPS</translation>
     </message>
     <message>
         <source>Don&apos;t Show again.</source>
@@ -8166,6 +8444,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <message>
         <source>Don&apos;t show again</source>
         <translation>不再显示</translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

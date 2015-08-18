@@ -2543,7 +2543,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>cancel</source>
-        <translation>キャンセル</translation>
+        <translation type="obsolete">キャンセル</translation>
     </message>
     <message>
         <source>ed1</source>
@@ -2600,6 +2600,10 @@ use buttons to apply borders</source>
     <message>
         <source>-</source>
         <translation type="obsolete">-</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
     </message>
 </context>
 <context>
@@ -2912,10 +2916,6 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>DocumentField Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Insert</source>
         <translation type="unfinished">挿入(&amp;I)</translation>
     </message>
@@ -2972,16 +2972,20 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>When inserted at beginning and end, then counted in. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>OK</source>
         <translation type="unfinished">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
         <translation type="unfinished">キャンセル</translation>
+    </message>
+    <message>
+        <source>Document&amp;Field Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When inserted at beginning and end, then &amp;counted in. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3227,7 +3231,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Edit Dictionary</source>
-        <translation>辞書の編集</translation>
+        <translation type="obsolete">辞書の編集</translation>
+    </message>
+    <message>
+        <source>编辑字典</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3238,7 +3246,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
-        <translation>この操作を記憶し、もう思い出さないで下さい。</translation>
+        <translation type="obsolete">この操作を記憶し、もう思い出さないで下さい。</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -3250,6 +3258,10 @@ If unnecessary, please click Cancel.</source>
         <translatorcomment>オンラインフォントを文書に適用しましたため、他人に送付する場合ご利用するオンラインフォントを文書に保存することを勧めさせていただきます。
 キャンセルをクリックすると保存しません。</translatorcomment>
         <translation>この文書にはオンラインフォントが適用されています。もしこの文書を他人に共有する場合は、オンラインフォントを保存することを推奨いたします。保存が不要な場合は、「キャンセル」をクリックして下さい。</translation>
+    </message>
+    <message>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3515,7 +3527,7 @@ If unnecessary, please click Cancel.</source>
         <translation type="obsolete">区切り文字以外を抑制(&amp;D)</translation>
     </message>
     <message>
-        <source>Add the &amp;path to the file name</source>
+        <source>Add &amp;path to filename</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3775,7 +3787,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>replace options</source>
-        <translation>置換のオプション</translation>
+        <translation type="obsolete">置換のオプション</translation>
     </message>
     <message>
         <source>Format:</source>
@@ -3861,6 +3873,10 @@ Example: +4 will move forward four items:</source>
     <message>
         <source>Enter + and - to move relative to the current location. Example: +4 will move forward four items:</source>
         <translation type="obsolete">「+」または「-」を指定して現在の位置から数えた位置へ移動することができます。例えば「+4」と指定すると、4つ先へ移動します。</translation>
+    </message>
+    <message>
+        <source>Replace options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6537,6 +6553,18 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>D&amp;ocument fields</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Compatibility options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compatibilit&amp;y options for:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split &amp;apart page break and paragraph mark</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageNumbers</name>
@@ -8306,18 +8334,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
 <context>
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
-        <source>Field name record delimiter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Data fields must use characters (called &quot;delimiter&quot;) to separated from each other; Similarly, data records must be separated by a record delimiter. Please use the following list to select the appropriate delimiter.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Field delimiter:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(None)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8446,7 +8462,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Record delimiter:</source>
+        <source>Header Record Delimiters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data fields must be separated from each other by a character called a field delimiter. Similarly, data records must be separated by a record delimiter. Use the lists below to select the appropriate delimiter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Field delimiter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Record delimiter:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8682,6 +8710,96 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>KxExportToOFDDlg</name>
+    <message>
+        <source>Please input the password of permission setting!</source>
+        <translation type="unfinished">書き込みパスワードを入力して下さい</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Password and Document Open Password must be different.</source>
+        <translation type="unfinished">書き込みパスワードと読み込みパスワードは異なるものにして下さい</translation>
+    </message>
+    <message>
+        <source>Please specify the file name.</source>
+        <translation type="unfinished">ファイル名を指定して下さい</translation>
+    </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation type="unfinished">ファイル名が現存するディレクトリと同じです</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished">指定したディレクトリが見つかりません</translation>
+    </message>
+    <message>
+        <source>You have no permission to write files into this directory.</source>
+        <translation type="unfinished">このディレクトリ内では書き込み権限がありません</translation>
+    </message>
+    <message>
+        <source>Save OFD File As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd|All File(*.*)|*.*</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Are you sure to replace the existing file?</source>
+        <translation type="unfinished">指定したファイル名はすでに存在します。置き換えますか？</translation>
+    </message>
+    <message>
+        <source>This is not a valid page range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error while trying exporting to OFD.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting summary information...</source>
+        <translation type="unfinished">文書の情報を出力中...</translation>
+    </message>
+    <message>
+        <source>Exporting page %1...</source>
+        <translation type="unfinished">%1 ページを出力中...</translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="unfinished">ラベルの出力中...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxExportToPDFDlg</name>
     <message>
         <source>&amp;Advanced</source>
@@ -8742,6 +8860,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing file?</source>
         <translation>指定したファイル名はすでに存在します。置き換えますか？</translation>
+    </message>
+    <message>
+        <source>This is not a valid page range.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9010,7 +9132,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Presume the KingSoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE KingSoft</source>
-        <translation>VBAでKingSoft変数に100の値を与える場合、フィールドコード： DOCVARIABLE KingSoft</translation>
+        <translation type="obsolete">VBAでKingSoft変数に100の値を与える場合、フィールドコード： DOCVARIABLE KingSoft</translation>
     </message>
     <message>
         <source>Presume the document has opened a database which has the &quot;Company&quot; field. Field code:MERGEFIELD &quot;Company&quot;</source>
@@ -9076,27 +9198,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>IncludeText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert text to from a file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>FileName</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert the file name of the document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9106,6 +9212,54 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Document &amp;property:</source>
         <translation type="unfinished">文書のプロパティ(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Presume the Kingsoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE Kingsoft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;. Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert text from file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert file name of the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Nothing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lower</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FirstCap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SBCHAR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DBCHAR</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10378,19 +10532,19 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>0#</source>
-        <translation>0#</translation>
+        <translation type="obsolete">0#</translation>
     </message>
     <message>
         <source>0-#</source>
-        <translation>0-#</translation>
+        <translation type="obsolete">0-#</translation>
     </message>
     <message>
         <source>1#</source>
-        <translation>1#</translation>
+        <translation type="obsolete">1#</translation>
     </message>
     <message>
         <source>1-#</source>
-        <translation>1-#</translation>
+        <translation type="obsolete">1-#</translation>
     </message>
     <message>
         <source>1.5 line spacing</source>
@@ -10398,47 +10552,47 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>2#</source>
-        <translation>2#</translation>
+        <translation type="obsolete">2#</translation>
     </message>
     <message>
         <source>2-#</source>
-        <translation>2-#</translation>
+        <translation type="obsolete">2-#</translation>
     </message>
     <message>
         <source>3#</source>
-        <translation>3#</translation>
+        <translation type="obsolete">3#</translation>
     </message>
     <message>
         <source>3-#</source>
-        <translation>3-#</translation>
+        <translation type="obsolete">3-#</translation>
     </message>
     <message>
         <source>4#</source>
-        <translation>4#</translation>
+        <translation type="obsolete">4#</translation>
     </message>
     <message>
         <source>4-#</source>
-        <translation>4-#</translation>
+        <translation type="obsolete">4-#</translation>
     </message>
     <message>
         <source>5#</source>
-        <translation>5#</translation>
+        <translation type="obsolete">5#</translation>
     </message>
     <message>
         <source>5-#</source>
-        <translation>5-#</translation>
+        <translation type="obsolete">5-#</translation>
     </message>
     <message>
         <source>6#</source>
-        <translation>6#</translation>
+        <translation type="obsolete">6#</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation>7#</translation>
+        <translation type="obsolete">7#</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation>8#</translation>
+        <translation type="obsolete">8#</translation>
     </message>
     <message>
         <source>Bold, </source>
@@ -10558,6 +10712,66 @@ Cancel:	Return to the dialog.</source>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>標準テンプレートが使用されているため、変更に失敗しました。</translation>
     </message>
+    <message>
+        <source>Chinese Chuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaochu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Yihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoyi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Erhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Sanhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Sihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Wuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaowu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Liuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Qihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Bahao</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxNewLabelDlg</name>
@@ -10606,19 +10820,15 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>0#</source>
-        <translation>0#</translation>
+        <translation type="obsolete">0#</translation>
     </message>
     <message>
         <source>0-#</source>
-        <translation>0-#</translation>
+        <translation type="obsolete">0-#</translation>
     </message>
     <message>
         <source>1#</source>
-        <translation>1#</translation>
-    </message>
-    <message>
-        <source>1-#</source>
-        <translation></translation>
+        <translation type="obsolete">1#</translation>
     </message>
     <message>
         <source>1.5 line spacing</source>
@@ -10626,47 +10836,47 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>2#</source>
-        <translation>2#</translation>
+        <translation type="obsolete">2#</translation>
     </message>
     <message>
         <source>2-#</source>
-        <translation>2-#</translation>
+        <translation type="obsolete">2-#</translation>
     </message>
     <message>
         <source>3#</source>
-        <translation>3#</translation>
+        <translation type="obsolete">3#</translation>
     </message>
     <message>
         <source>3-#</source>
-        <translation>3-#</translation>
+        <translation type="obsolete">3-#</translation>
     </message>
     <message>
         <source>4#</source>
-        <translation>4#</translation>
+        <translation type="obsolete">4#</translation>
     </message>
     <message>
         <source>4-#</source>
-        <translation>4-#</translation>
+        <translation type="obsolete">4-#</translation>
     </message>
     <message>
         <source>5#</source>
-        <translation>5#</translation>
+        <translation type="obsolete">5#</translation>
     </message>
     <message>
         <source>5-#</source>
-        <translation>5-#</translation>
+        <translation type="obsolete">5-#</translation>
     </message>
     <message>
         <source>6#</source>
-        <translation>6#</translation>
+        <translation type="obsolete">6#</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation>7#</translation>
+        <translation type="obsolete">7#</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation>8#</translation>
+        <translation type="obsolete">8#</translation>
     </message>
     <message>
         <source>Bold, </source>
@@ -10736,7 +10946,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>LeftAndRight</source>
-        <translation>両端揃え</translation>
+        <translation type="obsolete">両端揃え</translation>
     </message>
     <message>
         <source>Line spacing: 1.5 lines, </source>
@@ -10793,6 +11003,70 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>標準テンプレートが使用されているため、変更に失敗しました。</translation>
+    </message>
+    <message>
+        <source>Left and Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Chuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaochu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Yihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoyi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Erhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Sanhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Sihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Wuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Xiaowu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Liuhao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Qihao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Bahao</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10862,11 +11136,15 @@ Cancel:	Return to the dialog.</source>
         <translation>元に戻す/やり直しの手順は %1 から %2 の間で指定してくだい</translation>
     </message>
     <message>
-        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <source>The directory &quot;%1&quot; is not valid.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The directory &quot;%1&quot; is not valid.</source>
+        <source>No Documents Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11701,6 +11979,41 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxTpXMLStructureWidget</name>
+    <message>
+        <source>Templates And AddIns...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is applied to the first element of this document. Do you want to apply to the entire document or only to the current range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to entire document(&amp;E)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to current selected content range only(&amp;S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel(&amp;C)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cann&apos;t add XML elements in multi areas.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cann&apos;t add XML elements here.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove %1 tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxTwoLinesInOneDlg</name>
     <message>
         <source>There are too many characters in the selection.</source>
@@ -11787,6 +12100,50 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>rbHorizontalRight</source>
         <translation>右寄せ</translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpXMLStructure</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Elements in the document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No XML elements have been applied to this document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make a selection in the document and then choose which element you want to apply from the list of elements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show XML tags in the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose an element to apply to your current selection:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List only child elements of current element</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can apply your own XML elements
+to a Word XML document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to apply your own XML elements in this document,you must first select a schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>you can do this by going to:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12703,6 +13060,152 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source> Full path: </source>
         <translation>すべてのパス:</translation>
     </message>
+    <message>
+        <source>XML Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available &amp;XML schemas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checked schemas are currently attached:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schema &amp;Library...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add S&amp;chema...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schema Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>URI:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMLExtend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attached XMLExtend Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Source URL:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete(&amp;R)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available XMLExtend Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select(&amp;A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete(&amp;E)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update(&amp;P)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add(&amp;D)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgXMLSchemaLibrary</name>
+    <message>
+        <source>Schema Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schemas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Select a schema:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add Schema...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sch&amp;ema Settings...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Update Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>URI:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgXMLSchemaSetting</name>
+    <message>
+        <source>Schema Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit schema information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Alias</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Location</source>
+        <translation type="unfinished">位置(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">参照(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>&amp;Changes affect current user only</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsDocMapWindow</name>
@@ -12742,7 +13245,7 @@ Select parts of the document and choose users who are allowed to freely edit the
 <context>
     <name>KxWpsFieldNameDelimiterDlg</name>
     <message>
-        <source>Field delimiter and record delimiter cannot be same.</source>
+        <source>The field delimiter cannot be the same as the record delimiter.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13314,10 +13817,6 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>userName</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Change user...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13358,15 +13857,19 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Permission expiration date:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(N/A)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Resquest additional permissions... </source>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13382,7 +13885,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>In Line With Text</source>
-        <translation>行内</translation>
+        <translation type="obsolete">行内</translation>
     </message>
     <message>
         <source>Square</source>
@@ -13399,6 +13902,10 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>Top and Bottom</source>
         <translation>上下</translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13481,7 +13988,7 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Revision: %1</source>
+        <source>Revisions: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14056,6 +14563,46 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>Full path:</source>
         <translation>すべてのパス：</translation>
     </message>
+    <message>
+        <source>Are you sure you want to delete the XMLExtend Pack on this computer?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add XMLExtend Pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMLExtend Pack Instruction List(*.xml)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Schema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot Install the xml Extend or the xml schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the schema you choose is unable to use in document.The schema is possible unable or invalid, you may need other schema to run continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The operation will delete all the xmlnodes in the %1,do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> [disabled] </source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsTextDirectionCommand</name>
@@ -14148,6 +14695,53 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsXMLSchemaLibraryDlg</name>
+    <message>
+        <source>Add XMLSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot Install the xml Extend or the xml schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schema Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This will remove the schema and all associated files from the schema library. This may affect anyapplication that uses this schema. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsXMLSchemaSettingDlg</name>
+    <message>
+        <source>you must provide the URI name of the schema.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Schema Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The schema you spacified uses a URI that is already in use by another schema. Click Browse to specify a schema tha uses a different URI, or click Cancel,
+remove the schema with the duplicate URI, and then add the schema you specified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add XMLSchema</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsZoomCommand</name>
     <message>
         <source>This is not a valid measurement.</source>
@@ -14204,7 +14798,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&quot;%1&quot; is already opened. Reopening will cause changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
-        <translation>%1 はすでに開いています。ファイルを開く操作を実行すると、変更が破棄されます。%2 を開きますか？</translation>
+        <translation type="obsolete">%1 はすでに開いています。ファイルを開く操作を実行すると、変更が破棄されます。%2 を開きますか？</translation>
     </message>
     <message>
         <source>WPS Writer 2007-2010 File(*.wpsx)</source>
@@ -14220,7 +14814,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>No macros is currently recording. Click to begin recording a new macro.</source>
-        <translation>クリックするとマクロの記録を開始します。</translation>
+        <translation type="obsolete">クリックするとマクロの記録を開始します。</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
@@ -14229,6 +14823,10 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>No macros are currently recording. Click to begin recording a new macro.</source>
         <translation type="obsolete">クリックするとマクロの記録を開始します。</translation>
+    </message>
+    <message>
+        <source>No macro is currently recording. Click to begin recording a new macro.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14289,6 +14887,180 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>dialogstest</source>
         <translation>ダイアログテスト</translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">標準</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation type="unfinished">保存先(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">参照(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>Page range</source>
+        <translation type="unfinished">ページ範囲を指定</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current page</source>
+        <translation type="unfinished">現在のページ</translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished">出力オプション</translation>
+    </message>
+    <message>
+        <source>Summar&amp;y information</source>
+        <translation type="unfinished">文書の情報(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>New &amp;Comment</source>
+        <translation type="unfinished">新しいコメント(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Hyperlink</source>
+        <translation type="unfinished">ハイパーリンク(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Li&amp;nks of footnotes and endnotes</source>
+        <translation type="unfinished">脚注と文末脚注のリンク(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Placeholder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Boo&amp;kmark</source>
+        <translation type="unfinished">ブックマーク(&amp;K)</translation>
+    </message>
+    <message>
+        <source>&amp;Revision</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Con&amp;vert title styles to bookmarks</source>
+        <translation type="unfinished">タイトルのスタイルをブックマークに変換する(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Convert other &amp;styles to bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert c&amp;ustom styles to bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation type="unfinished">権限設定</translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation type="unfinished">パスワード(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Con&amp;firm:</source>
+        <translation type="unfinished">確認(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to mo&amp;dify</source>
+        <translation type="unfinished">変更可能(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Permit to c&amp;opy</source>
+        <translation type="unfinished">コピー可能(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Permit to &amp;add comments</source>
+        <translation type="unfinished">コメント追加可能(&amp;A)</translation>
+    </message>
+    <message>
+        <source>P&amp;rinting permission:</source>
+        <translation type="unfinished">印刷権限(&amp;R)：</translation>
+    </message>
+    <message>
+        <source>Printing Permission</source>
+        <translation type="unfinished">印刷制限</translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished">低品質印刷のみ許可</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished">印刷許可</translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation type="unfinished">読み取り専用パスワード:</translation>
+    </message>
+    <message>
+        <source>Pass&amp;word:</source>
+        <translation type="unfinished">パスワード(&amp;W):</translation>
+    </message>
+    <message>
+        <source>Conf&amp;irm:</source>
+        <translation type="unfinished">確認(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Close when e&amp;xport completes</source>
+        <translation type="unfinished">出力後に自動的に閉じる(&amp;X)</translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation type="unfinished">ファイルを開く(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
     </message>
 </context>
 <context>
@@ -14431,11 +15203,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation>権限設定のパスワード(次の設定を有効にする)(&amp;E)</translation>
+        <translation type="obsolete">権限設定のパスワード(次の設定を有効にする)(&amp;E)</translation>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>注意　上のパスワードを設定した上で、次の「読み取りパスワード」を設定し、他人に変更されないように保護できます</translation>
+        <translation type="obsolete">注意　上のパスワードを設定した上で、次の「読み取りパスワード」を設定し、他人に変更されないように保護できます</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
@@ -14460,6 +15232,42 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>Note: Only setting password, the following options can be valid on note, and prevented others changing on note.</source>
         <translation type="obsolete">注意　上のパスワードを設定した上で、次の「読み取りパスワード」を設定し、他人に変更されないように保護できます</translation>
+    </message>
+    <message>
+        <source>Page range</source>
+        <translation type="unfinished">ページ範囲を指定</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current page</source>
+        <translation type="unfinished">現在のページ</translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -176,7 +176,12 @@
     <message>
         <source>This function is offered in WPS Office 2009 Prefessional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation>Cette fonction est offerte dans WPS Office 2009 Professional.</translation>
+        <translation type="obsolete">Cette fonction est offerte dans WPS Office 2009 Professional.</translation>
+    </message>
+    <message>
+        <source>This function is offered in WPS Office 2009 Professional.</source>
+        <comment>AEO_SHIELD_ObjectPathConvert</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2832,16 +2837,16 @@ Notez que les images compressées peuvent réduire la qualité de vos images. Vo
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
         <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation>WPS Office ne prend actuellement en charge que l&apos;affichage de documents Microsoft Office 2010 et vous ne pouvez pas effectuer de modifications ou d&apos;enregistrements. Voulez-vous ouvrir le document en mode Visionneuse ?</translation>
+        <translation type="obsolete">WPS Office ne prend actuellement en charge que l&apos;affichage de documents Microsoft Office 2010 et vous ne pouvez pas effectuer de modifications ou d&apos;enregistrements. Voulez-vous ouvrir le document en mode Visionneuse ?</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation>WPS Office ne prend actuellement en charge que l&apos;affichage de documents Microsoft Office 2010 et vous ne pouvez pas effectuer d&apos;enregistrements.</translation>
+        <translation type="obsolete">WPS Office ne prend actuellement en charge que l&apos;affichage de documents Microsoft Office 2010 et vous ne pouvez pas effectuer d&apos;enregistrements.</translation>
     </message>
     <message>
         <source>Presentation Caption</source>
-        <translation>Légende de présentation</translation>
+        <translation type="obsolete">Légende de présentation</translation>
     </message>
     <message>
         <source>%s cannot play audio file “%s. Please make sure that the audio file is formatted with .wav, and that there is a normal audio system in your computer.</source>
@@ -2858,6 +2863,20 @@ Please make sure the file is not locked by another user, or the target disk is n
 (%s)</source>
         <comment>WP_SAVE_PPT_FAILURE</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <comment>WP_ReadOnlyOpenOoxml</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot save.</source>
+        <comment>WP_OpenOoxmlLostEffect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presentation</source>
+        <translation type="unfinished">Presentation</translation>
     </message>
 </context>
 <context>
@@ -3452,7 +3471,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Out Slightlly</source>
         <comment>wpp_sAnimDirectionInSlightly</comment>
-        <translation type="unfinished">Légèrement en dehors</translation>
+        <translation type="obsolete">Légèrement en dehors</translation>
     </message>
     <message>
         <source>O&amp;ut Slightly</source>
@@ -5092,7 +5111,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Cancelled by user.</source>
         <comment>wpp_sCancelByUser</comment>
-        <translation type="unfinished">Annulé par l&apos;utilisateur.</translation>
+        <translation type="obsolete">Annulé par l&apos;utilisateur.</translation>
     </message>
     <message>
         <source>The last color scheme cannot be deleted. A presentation must always contain at least one standard color scheme.</source>
@@ -6199,7 +6218,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Cannot open the folder %s. It might be in a unavailable path, or proteced by password, or the folder path does not exist or the folder path is too long.</source>
         <comment>wpp_sCanNotOpenFolder</comment>
-        <translation type="unfinished">Impossible d&apos;ouvrir le dossier %s. Le chemin est peut-être indisponible,ou est protégé par mot de passe. Ou encore, peut-être que le chemin du dossier n&apos;existe pas ou que le chemin du dossier est trop long.</translation>
+        <translation type="obsolete">Impossible d&apos;ouvrir le dossier %s. Le chemin est peut-être indisponible,ou est protégé par mot de passe. Ou encore, peut-être que le chemin du dossier n&apos;existe pas ou que le chemin du dossier est trop long.</translation>
     </message>
     <message>
         <source>Folder name cannot contain the characters bellow:
@@ -6274,6 +6293,21 @@ Voulez-vous modifier le nom du dossier de &quot;%s&quot; à &quot;%s&quot; ?</tr
         <source>Modify Motion Paths</source>
         <comment>wpp_sModifyMotionPathEffect</comment>
         <translation type="unfinished">Modifier les chemins de mouvement</translation>
+    </message>
+    <message>
+        <source>Out Slightly</source>
+        <comment>wpp_sAnimDirectionInSlightly</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canceled by user.</source>
+        <comment>wpp_sCancelByUser</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
+        <comment>wpp_sCanNotOpenFolder</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7272,7 +7306,7 @@ l&apos;orthographe</translation>
         <source>Each slide in your presentation has been saved as a separate file in the folder %s .</source>
         <comment>WpSAVEIMAGEHINT</comment>
         <translatorcomment>Presentation Button-&gt;Save as-&gt;Other Formats-&gt;dialog box, Save as type: choose .jpg-&gt;click save-&gt;prompt message, click Every Slide-&gt;prompt message</translatorcomment>
-        <translation>Chaque diapositive de votre présentation a été enregistrée comme un fichier distinct dans le dossier %s.</translation>
+        <translation type="obsolete">Chaque diapositive de votre présentation a été enregistrée comme un fichier distinct dans le dossier %s.</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -7400,6 +7434,12 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Device Independent Bitmap(*.bmp)</source>
         <comment>WpDescBMP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Each slide in your presentation has been saved as a separate file in the folder
+%s .</source>
+        <comment>WpSAVEIMAGEHINT</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

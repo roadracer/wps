@@ -307,7 +307,7 @@ Proszę sprawdź ustawienia systemowe i upewnij się, że katalog tymczasowy akt
     <message>
         <source>Value Out Of Range</source>
         <comment>_ksoErr_Basic_ValueOutOfRange</comment>
-        <translation>Wartość spoza zakresu</translation>
+        <translation type="obsolete">Wartość spoza zakresu</translation>
     </message>
     <message>
         <source>Invalid Parameter</source>
@@ -348,9 +348,21 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
-        <translation>Bieżący użytkownik nie ma uprawnień do zapisu w katalogu tymczasowym.
+        <translation type="obsolete">Bieżący użytkownik nie ma uprawnień do zapisu w katalogu tymczasowym.
 
 Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczasowego katalogu dla bieżącego użytkownika, a następnie ponownie uruchom program WPS Office.</translation>
+    </message>
+    <message>
+        <source>Value Out of Range</source>
+        <comment>_ksoErr_Basic_ValueOutOfRange</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The current user does not have the permission to write to the temporary directory.
+
+Please check your system settings and ensure that the temporary directory under the current user is available, and then restart WPS Office.</source>
+        <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3400,12 +3412,17 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>This file should be opened as read-only unless changes to it need to be saved. Open as read-only?</source>
         <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
-        <translation>Plik powinien zostać otwarty tylko do odczytu, chyba że będzie konieczne zapisanie w nim zmian. Czy otworzyć go tylko do odczytu?</translation>
+        <translation type="obsolete">Plik powinien zostać otwarty tylko do odczytu, chyba że będzie konieczne zapisanie w nim zmian. Czy otworzyć go tylko do odczytu?</translation>
     </message>
     <message>
         <source>Chinese Office Software Document Format 2.0</source>
         <comment>_WpioDesc_UOF2</comment>
         <translation>Format dokumentu chińskiego oprogramowania biurowego 2.0</translation>
+    </message>
+    <message>
+        <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
+        <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4303,7 +4320,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</transl
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation>Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
+        <translation type="obsolete">Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
 •Sprawdź czy katalog kopii zapasowych ma uprawnienia do zapisywania lub spróbuj zmienić katalog kopii zapasowych. 
 •[Cofnij] poprzednie operacje i [Zapisz] go; 
 •[Zapisz jako...] pliki tekstowe（*.txt）; 
@@ -4319,7 +4336,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</transl
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation>Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
+        <translation type="obsolete">Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
 •Sprawdź czy katalog kopii zapasowych ma uprawnienia do zapisywania lub spróbuj zmienić katalog kopii zapasowych. 
 •[Cofnij] poprzednie operacje i [Zapisz] go; 
 •[Kopiuj/Wklej] zawartość do nowego pliku; 
@@ -4419,7 +4436,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</transl
     <message>
         <source>Resquest additional permissions... </source>
         <comment>_kso_krim_Permission_RequestPermission</comment>
-        <translation>Zażądaj dodatkowych uprawnień... </translation>
+        <translation type="obsolete">Zażądaj dodatkowych uprawnień... </translation>
     </message>
     <message>
         <source>Unrestricted</source>
@@ -4449,7 +4466,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</transl
     <message>
         <source>R&amp;esquest permissions</source>
         <comment>_kso_irmio_Button_RequestPermission</comment>
-        <translation>Z&amp;ażądaj uprawnień</translation>
+        <translation type="obsolete">Z&amp;ażądaj uprawnień</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -4469,7 +4486,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</transl
     <message>
         <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within th Control Panel.</source>
         <comment>_kso_irmio_Error_Configuration</comment>
-        <translation>Pakiet WPS wykrył problem z konfiguracją usługi Zarządzanie prawami do informacji. Jeśli ten problem będzie się powtarzać, napraw produkt za pomocą Panelu sterowania.</translation>
+        <translation type="obsolete">Pakiet WPS wykrył problem z konfiguracją usługi Zarządzanie prawami do informacji. Jeśli ten problem będzie się powtarzać, napraw produkt za pomocą Panelu sterowania.</translation>
     </message>
     <message>
         <source>Cannot use test manifests against production servers.</source>
@@ -4484,24 +4501,24 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</transl
     <message>
         <source>This service is temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
         <comment>_kso_irmio_Error_Connection</comment>
-        <translation>Ta usługa jest tymczasowo niedostępna. Upewnij się, że masz łączność z tym serwerem. Ten błąd może być spowodowany pracą w trybie offline, ustawieniami serwera proxy uniemożliwiającymi połączenie lub sporadycznymi problemami z siecią.</translation>
+        <translation type="obsolete">Ta usługa jest tymczasowo niedostępna. Upewnij się, że masz łączność z tym serwerem. Ten błąd może być spowodowany pracą w trybie offline, ustawieniami serwera proxy uniemożliwiającymi połączenie lub sporadycznymi problemami z siecią.</translation>
     </message>
     <message>
         <source>The service at %1 temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
         <comment>_kso_irmio_Error_Location</comment>
-        <translation>Ta usługa %1 jest tymczasowo niedostępna. Upewnij się, że masz łączność z tym serwerem. Ten błąd może być spowodowany pracą w trybie offline, ustawieniami serwera proxy uniemożliwiającymi połączenie lub sporadycznymi problemami z siecią.</translation>
+        <translation type="obsolete">Ta usługa %1 jest tymczasowo niedostępna. Upewnij się, że masz łączność z tym serwerem. Ten błąd może być spowodowany pracą w trybie offline, ustawieniami serwera proxy uniemożliwiającymi połączenie lub sporadycznymi problemami z siecią.</translation>
     </message>
     <message>
         <source>Cannot user feature without credentials</source>
         <comment>_kso_irmio_Error_Credentials</comment>
-        <translation>Nie można używać tej funkcji bez poświadczeń</translation>
+        <translation type="obsolete">Nie można używać tej funkcji bez poświadczeń</translation>
     </message>
     <message>
         <source>This document is currently restricted. You do not have credentials that allow you to open this document. You can choose 
 ~try changing another user to open the document;
 ~request updated permission from %1.</source>
         <comment>_kso_irmio_Error_No_Permission</comment>
-        <translation>Uprawnienia do tego dokumentu są obecnie ograniczone. Nie masz poświadczeń umożliwiających otwarcie tego dokumentu. Możesz: 
+        <translation type="obsolete">Uprawnienia do tego dokumentu są obecnie ograniczone. Nie masz poświadczeń umożliwiających otwarcie tego dokumentu. Możesz: 
 1. Spróbuj zmienić konto użytkownika na inne, aby otworzyć dokument;
 2. Zażądaj aktualizacji uprawnienia od %1.</translation>
     </message>
@@ -4534,12 +4551,12 @@ Aby korzystać z tej funkcji, musisz najpierw zainstalować klienta usług zarz�
     <message>
         <source>Restricted Access</source>
         <comment>_kso_kirm_Permission_RestrictedAccess</comment>
-        <translation>Dostęp ograniczony</translation>
+        <translation type="obsolete">Dostęp ograniczony</translation>
     </message>
     <message>
         <source>Permission is currently restricted. Only specified users can access this content. </source>
         <comment>_kso_krim_Permission_PermissionHint</comment>
-        <translation>Uprawnienie jest obecnie ograniczone. Tylko określeni użytkownicy mogą uzyskiwać dostęp do tej zawartości. </translation>
+        <translation type="obsolete">Uprawnienie jest obecnie ograniczone. Tylko określeni użytkownicy mogą uzyskiwać dostęp do tej zawartości. </translation>
     </message>
     <message>
         <source>Change Permission...</source>
@@ -4575,6 +4592,74 @@ Aby korzystać z tej funkcji, musisz najpierw zainstalować klienta usług zarz�
         <source>Restricted Access(Full Control)</source>
         <comment>_kso_krim_RestrictedAccess_FullControl</comment>
         <translation>Dostęp ograniczony (pełna kontrola)</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions...</source>
+        <comment>_kso_krim_Permission_RequestPermission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R&amp;equest permissions</source>
+        <comment>_kso_irmio_Button_RequestPermission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within the Control Panel.</source>
+        <comment>_kso_irmio_Error_Configuration</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Connection</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The service at %1 is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Location</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot use feature without credentials</source>
+        <comment>_kso_irmio_Error_Credentials</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission for this document is currently restricted. You do not have credentials that allow you to open this document. You can: 
+1. Try changing to another user account to open the document;
+2. Request permission update from %1.</source>
+        <comment>_kso_irmio_Error_No_Permission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <comment>_kso_kirm_Policy_Name</comment>
+        <translation type="unfinished">Dostęp ograniczony</translation>
+    </message>
+    <message>
+        <source>Permission is currently restricted. Only specified users can access this content. </source>
+        <comment>_kso_kirm_Policy_Description</comment>
+        <translation type="unfinished">Uprawnienie jest obecnie ograniczone. Tylko określeni użytkownicy mogą uzyskiwać dostęp do tej zawartości. </translation>
     </message>
 </context>
 <context>
@@ -4621,7 +4706,7 @@ Jeśli problem nadal występuje, można wydrukować stronę testową, klikając 
 You can add the customized paper %dmm x %dmm in printer properties and print it again.
 Do you want to continue?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation>Drukarka nie obsługuje bieżącego rozmiaru papieru. Kontynuowanie drukowania, może spowodować, że jakość wydruku może być niezadowalająca.
+        <translation type="obsolete">Drukarka nie obsługuje bieżącego rozmiaru papieru. Kontynuowanie drukowania, może spowodować, że jakość wydruku może być niezadowalająca.
 Możesz dodać niestandardowy papier%dmm x% dmm w właściwościach drukarki i wydrukować to ponownie.
 Czy chcesz kontynuować?</translation>
     </message>
@@ -4629,6 +4714,13 @@ Czy chcesz kontynuować?</translation>
         <source>Unable to find the cups library, make sure you have installed!</source>
         <comment>_ksoErr_Print_NoCupsLibrary</comment>
         <translation>Nie można odnaleźć biblioteki cups, upewnij się, że została zainstalowana!</translation>
+    </message>
+    <message>
+        <source>The printer does not support the current paper size. Continue printing may not result in satisfying quality.
+You can add the customized paper %dmm x %dmm in printer properties and print again.
+Continue printing?</source>
+        <comment>_ksoErr_Print_PaperNoSupport</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4801,12 +4893,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <source>Error happens when application trys to register. Error code: 0x%8.8x.</source>
         <comment>kso_sAppRegisterError</comment>
-        <translation>Występuje błąd podczas próby zarejestrowania aplikacji. Kod błędu: 0x%8.8X.</translation>
+        <translation type="obsolete">Występuje błąd podczas próby zarejestrowania aplikacji. Kod błędu: 0x%8.8X.</translation>
     </message>
     <message>
         <source>Error happens when application trys to logout. Error code: 0x%8.8x.</source>
         <comment>kso_sAppUnRegisterError</comment>
-        <translation>Występuje błąd podczas próby wylogowania aplikacji. Kod błędu: 0x%8.8x.</translation>
+        <translation type="obsolete">Występuje błąd podczas próby wylogowania aplikacji. Kod błędu: 0x%8.8x.</translation>
     </message>
     <message>
         <source>Arrow Style %d</source>
@@ -5166,7 +5258,7 @@ Proszę upewnij się, że zakres odwołania jest prawidłowy i nie znajduje się
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
         <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
-        <translation>Nie można utworzyć tabeli przestawnej z tych danych. Proszę sprawdzić, czy dane, które chcesz analizować spełniają następujące warunki:
+        <translation type="obsolete">Nie można utworzyć tabeli przestawnej z tych danych. Proszę sprawdzić, czy dane, które chcesz analizować spełniają następujące warunki:
 1.Upewnij się, że istnieje odwołanie. Jeżeli jest to nazwa, to musi być prawidłowym zakresem;
 2.Upewnij się, że odwołanie jest pojedynczym zakresem i musi zawierać co najmniej dwa wiersze;
 3.Upewnij się, że pierwszy wiersz zakresu odwołania nie zawiera żadnych pustych komórek, nie ma wartości błędu, a każda komórka zawiera nie więcej niż 255 znaków.</translation>
@@ -5181,7 +5273,7 @@ Proszę sprawdź swoje dane i upewnij się, że odwołanie jest prawidłowe oraz
     <message>
         <source>Unkown Format Source.</source>
         <comment>kso_sErrPasteLink</comment>
-        <translation>Nieznany format źródłowy.</translation>
+        <translation type="obsolete">Nieznany format źródłowy.</translation>
     </message>
     <message>
         <source>Blank Workbook</source>
@@ -5765,7 +5857,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Soild</source>
         <comment>kso_sLineSolid</comment>
-        <translation>Ciągła</translation>
+        <translation type="obsolete">Ciągła</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -5995,7 +6087,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Refercence is not valid.</source>
         <comment>kso_sRefIsNotValid</comment>
-        <translation>Nieprawidłowe odwołanie.</translation>
+        <translation type="obsolete">Nieprawidłowe odwołanie.</translation>
     </message>
     <message>
         <source>Are you sure you have saved these files you need?</source>
@@ -6705,7 +6797,7 @@ Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard 
     <message>
         <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflectd in your document.</source>
         <comment>kso_sWpsLinkAsIcon</comment>
-        <translation>Wstawia do dokumentu ikonę reprezentującą zawartość pliku. Zmiany w pliku źródłowym będą uwzględniane w dokumencie.</translation>
+        <translation type="obsolete">Wstawia do dokumentu ikonę reprezentującą zawartość pliku. Zmiany w pliku źródłowym będą uwzględniane w dokumencie.</translation>
     </message>
     <message>
         <source>Insert the contents of the file into your document and create a shortcut to the source file. Changes to the source file will be reflected in your document.</source>
@@ -6750,7 +6842,7 @@ Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard 
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an exsiting sheet or unprotect this book.</source>
         <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
-        <translation>Nie można utworzyć tabeli przestawnej w nowym arkuszu, ponieważ ten skoroszyt jest chroniony. Proszę wybierz istniejący arkusz lub wyłącz ochronę tego skoroszytu.</translation>
+        <translation type="obsolete">Nie można utworzyć tabeli przestawnej w nowym arkuszu, ponieważ ten skoroszyt jest chroniony. Proszę wybierz istniejący arkusz lub wyłącz ochronę tego skoroszytu.</translation>
     </message>
     <message>
         <source>Please input the password of permission setting.</source>
@@ -6770,7 +6862,7 @@ Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard 
     <message>
         <source>Forword</source>
         <comment>kso_Nav_Forword</comment>
-        <translation>Dalej</translation>
+        <translation type="obsolete">Dalej</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -6995,12 +7087,12 @@ Służy do pokazywania kroków zmierzających do celu</translation>
     <message>
         <source>The file cannot be deleted, which may be occupied.</source>
         <comment>kso_sCannotRemoveBackupFile</comment>
-        <translation>Nie można usunąć pliku. Może on być zajęty.</translation>
+        <translation type="obsolete">Nie można usunąć pliku. Może on być zajęty.</translation>
     </message>
     <message>
         <source>Some files cannot be deleted, which may be occupied.</source>
         <comment>kso_sCannotRemoveAllBackupFiles</comment>
-        <translation>Niektóre pliki nie mogą być usunięte, ponieważ mogą być one zajęte.</translation>
+        <translation type="obsolete">Niektóre pliki nie mogą być usunięte, ponieważ mogą być one zajęte.</translation>
     </message>
     <message>
         <source>Viewer Mode</source>
@@ -7026,6 +7118,101 @@ Służy do pokazywania kroków zmierzających do celu</translation>
         <source>%1 is running into problems with the %2 add-in. If this keeps happening, disable this add-in and check for available updates. Do you want to disable it now?</source>
         <comment>kso_COM_Addins_Crash_Alerts</comment>
         <translation>W programie %1 wystąpił problem z dodatkiem %2. Jeśli ten komunikat występuje wiele razy, wyłącz ten dodatek i sprawdź, czy jest dostępna jego aktualizacja. Czy chcesz wyłączyć ten dodatek?</translation>
+    </message>
+    <message>
+        <source>Error happens when application tries to register. Error code: 0x%8.8x.</source>
+        <comment>kso_sAppRegisterError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error happens when application tries to logout. Error code: 0x%8.8x.</source>
+        <comment>kso_sAppUnRegisterError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyze meet the following conditions:
+1.Make sure that the reference exists. If it is a name, it must be a valid range;
+2.Make sure that the reference is a single range, and it must contain two rows at least;
+3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
+        <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown Format Source.</source>
+        <comment>kso_sErrPasteLink</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <comment>kso_sLineSolid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference is not valid.</source>
+        <comment>kso_sRefIsNotValid</comment>
+        <translation type="unfinished">Nieprawidłowe odwołanie.</translation>
+    </message>
+    <message>
+        <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
+        <comment>kso_sWpsLinkAsIcon</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an existing sheet or unprotect this book.</source>
+        <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <comment>kso_Nav_Forword</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file cannot be deleted. It may be occupied.</source>
+        <comment>kso_sCannotRemoveBackupFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some files cannot be deleted. They may be occupied.</source>
+        <comment>kso_sCannotRemoveAllBackupFiles</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dowload XML expansion</source>
+        <comment>kso_Smartdoc_DowloadXmlExpasionCaption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Using the latest XML expansion pack from the following locations, the effect of this document will be the best:
+ %1 
+Download the XML expansion pack?</source>
+        <comment>kso_Smartdoc_DowloadXmlExpasion</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The XML expansion pack or smart document program has been lost or invalid.Please contact the system administrator or the personnel who provide this document</source>
+        <comment>kso_Smartdoc_XMLExpansionLost</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently viewing this document in multiple windows. If you wanna attach XML expansion, you must close all other windows first to ensure that you view this document only in one window.</source>
+        <comment>kso_Smartdoc_XmlExpansionRefuse</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document has attached a XML expansion. If You wanna view this document in multiple windows, you must delete the XML expansion first.</source>
+        <comment>kso_Smartdoc_NewWindowRefuse</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot install this file, because the security certificate has some problems. This XML expansion pack may won&apos;t run as expecte.For more information, please contact your administrator.</source>
+        <comment>kso_Smartdoc_XMLCertificateError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install this XML expansion pack failed.</source>
+        <comment>kso_Smartdoc_installManifestError</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
