@@ -22,17 +22,11 @@
     </message>
     <message>
         <source>Seleted Slide</source>
-        <translation variants="yes">
-            <lengthvariant>Wybrany slajd</lengthvariant>
-            <lengthvariant>Zaznaczony slajd</lengthvariant>
-        </translation>
+        <translation>Wybrany slajd</translation>
     </message>
     <message>
         <source>Assign Slide</source>
-        <translation variants="yes">
-            <lengthvariant>Przypisz slajd</lengthvariant>
-            <lengthvariant>Przypisywanie slajdu</lengthvariant>
-        </translation>
+        <translation>Przypisz slajd</translation>
     </message>
     <message>
         <source>Page</source>
@@ -111,10 +105,7 @@
     </message>
     <message>
         <source>Content Title</source>
-        <translation variants="yes">
-            <lengthvariant>Zawartość tytułu</lengthvariant>
-            <lengthvariant>Treść tytułu</lengthvariant>
-        </translation>
+        <translation>Tytuł zawartości</translation>
     </message>
     <message>
         <source>·Content and textbox</source>

@@ -4321,7 +4321,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</transl
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
         <translation type="obsolete">Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
-•Sprawdź czy katalog kopii zapasowych ma uprawnienia do zapisywania lub spróbuj zmienić katalog kopii zapasowych. 
+•Sprawdź czy katalog kopii zapasowych ma uprawnienia do zapisywania lub spróbuj zmienić katalog kopii zapasowych.
 •[Cofnij] poprzednie operacje i [Zapisz] go; 
 •[Zapisz jako...] pliki tekstowe（*.txt）; 
 •[Kopiuj/Wklej] zawartość do nowego pliku; 

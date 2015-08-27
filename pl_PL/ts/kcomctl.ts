@@ -363,7 +363,7 @@
     <name>KMenuWidget</name>
     <message>
         <source>InsertCellsInPopup</source>
-        <translation>Wstawianie komórek w menu podręcznym</translation>
+        <translation>Wstawianie komórek</translation>
     </message>
 </context>
 <context>

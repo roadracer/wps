@@ -21,10 +21,7 @@
     </message>
     <message>
         <source>webHomeLink</source>
-        <translation variants="yes">
-            <lengthvariant>ŁączeSieciDomowejWeb</lengthvariant>
-            <lengthvariant>webHomeLink</lengthvariant>
-        </translation>
+        <translation>webHomeLink</translation>
     </message>
     <message>
         <source>Introduction</source>
@@ -1188,35 +1185,23 @@ rozmiar:%2
     <name>KTooltipBase</name>
     <message>
         <source>UpdateNewVersionView</source>
-        <translation>Aktualizuj nową wersję widoku</translation>
+        <translation>UpdateNewVersionView</translation>
     </message>
     <message>
         <source>textLabel</source>
-        <translation variants="yes">
-            <lengthvariant>Etykieta tekstu</lengthvariant>
-            <lengthvariant>textLabel</lengthvariant>
-        </translation>
+        <translation>textLabel</translation>
     </message>
     <message>
         <source>closeLabel</source>
-        <translation variants="yes">
-            <lengthvariant>Zamknij etykietę</lengthvariant>
-            <lengthvariant>closeLabel</lengthvariant>
-        </translation>
+        <translation>closeLabel</translation>
     </message>
     <message>
         <source>button1Label</source>
-        <translation variants="yes">
-            <lengthvariant>Przycisk1 etykieta</lengthvariant>
-            <lengthvariant>button1Label</lengthvariant>
-        </translation>
+        <translation>button1Label</translation>
     </message>
     <message>
         <source>button2Label</source>
-        <translation variants="yes">
-            <lengthvariant>Przycisk2 etykieta</lengthvariant>
-            <lengthvariant>button2Label</lengthvariant>
-        </translation>
+        <translation>button2Label</translation>
     </message>
 </context>
 <context>

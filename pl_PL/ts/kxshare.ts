@@ -1086,19 +1086,19 @@
     </message>
     <message>
         <source>About WPS Writer</source>
-        <translation>O programie WPS Writer</translation>
+        <translation>Informacje o programie WPS Writer</translation>
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
-        <translation>O programie WPS Spreadsheets</translation>
+        <translation>Informacje o programie WPS Spreadsheets</translation>
     </message>
     <message>
         <source>About WPS Presentation</source>
-        <translation>O programie WPS Presentation</translation>
+        <translation>Informacje o programie WPS Presentation</translation>
     </message>
     <message>
         <source>About WPS Office</source>
-        <translation>O WPS Office</translation>
+        <translation>Informacje o pakiecie WPS Office</translation>
     </message>
     <message>
         <source>Cannot find help file or help file encountered an error!</source>
@@ -1357,7 +1357,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <message>
         <source>To work with Control Toolbox, please purchase WPS Office Professional.
 </source>
-        <translation type="obsolete">Aby korzystać z Przybornika formantów, należy zakupić WPS Office Professional.</translation>
+        <translation type="obsolete">Aby korzystać z Przybornika formantów, proszę zakupić WPS Office Professional.</translation>
     </message>
     <message>
         <source>????????????? WPS Office ????</source>
@@ -5145,10 +5145,7 @@ It has been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>ucWeight</source>
-        <translation variants="yes">
-            <lengthvariant>ucGrubość</lengthvariant>
-            <lengthvariant>ucWeight</lengthvariant>
-        </translation>
+        <translation>ucWeight</translation>
     </message>
     <message>
         <source>cm</source>
@@ -5164,10 +5161,7 @@ It has been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>cbConnector</source>
-        <translation variants="yes">
-            <lengthvariant>cbŁącznik</lengthvariant>
-            <lengthvariant>cbConnector</lengthvariant>
-        </translation>
+        <translation>cbConnector</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -5179,10 +5173,7 @@ It has been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>ccFillColor</source>
-        <translation variants="yes">
-            <lengthvariant>ccKolorWypełnienia</lengthvariant>
-            <lengthvariant>ccFillColor</lengthvariant>
-        </translation>
+        <translation>ccFillColor</translation>
     </message>
     <message>
         <source>&amp;Transparency:</source>
@@ -5190,10 +5181,7 @@ It has been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>ucTransparentcy</source>
-        <translation variants="yes">
-            <lengthvariant>ucPrzezroczystość</lengthvariant>
-            <lengthvariant>ucTransparentcy</lengthvariant>
-        </translation>
+        <translation>Przezroczystość</translation>
     </message>
     <message>
         <source>%</source>
@@ -5209,24 +5197,15 @@ It has been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>ccLineColor</source>
-        <translation variants="yes">
-            <lengthvariant>ccKolorLinii</lengthvariant>
-            <lengthvariant>ccLineColor</lengthvariant>
-        </translation>
+        <translation>ccLineColor</translation>
     </message>
     <message>
         <source>cbStyle</source>
-        <translation variants="yes">
-            <lengthvariant>cbStyl</lengthvariant>
-            <lengthvariant>cbStyle</lengthvariant>
-        </translation>
+        <translation>Styl</translation>
     </message>
     <message>
         <source>cbbDashStyle</source>
-        <translation variants="yes">
-            <lengthvariant>cbbStylKreskowany</lengthvariant>
-            <lengthvariant>cbbDashStyle</lengthvariant>
-        </translation>
+        <translation>cbbDashStyle</translation>
     </message>
     <message>
         <source>&amp;Weight:</source>
@@ -5234,31 +5213,19 @@ It has been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>cbBeginStyle</source>
-        <translation variants="yes">
-            <lengthvariant>cbStylPoczątku</lengthvariant>
-            <lengthvariant>cbBeginStyle</lengthvariant>
-        </translation>
+        <translation>cbBeginStyle</translation>
     </message>
     <message>
         <source>cbEndStyle</source>
-        <translation variants="yes">
-            <lengthvariant>cbStylKońca</lengthvariant>
-            <lengthvariant>cbEndStyle</lengthvariant>
-        </translation>
+        <translation>cbEndStyle</translation>
     </message>
     <message>
         <source>cbBeginSize</source>
-        <translation variants="yes">
-            <lengthvariant>cbRozmiarPoczątku</lengthvariant>
-            <lengthvariant>cbBeginSize</lengthvariant>
-        </translation>
+        <translation>cbBeginSize</translation>
     </message>
     <message>
         <source>cbEndSize</source>
-        <translation variants="yes">
-            <lengthvariant>cbRozmiarKońca</lengthvariant>
-            <lengthvariant>cbEndSize</lengthvariant>
-        </translation>
+        <translation>cbEndSize</translation>
     </message>
     <message>
         <source>De&amp;fault for new Objects</source>
@@ -5364,10 +5331,7 @@ It has been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>cbResolution</source>
-        <translation variants="yes">
-            <lengthvariant>cbRozdzielczość</lengthvariant>
-            <lengthvariant>cbResolution</lengthvariant>
-        </translation>
+        <translation>Rozdzielczość</translation>
     </message>
     <message>
         <source>640 x 480</source>
@@ -5399,10 +5363,7 @@ It has been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>ucShapeHeight</source>
-        <translation variants="yes">
-            <lengthvariant>ucWysokośćKształtu</lengthvariant>
-            <lengthvariant>ucShapeHeight</lengthvariant>
-        </translation>
+        <translation>Wysokość kształtu</translation>
     </message>
     <message>
         <source>Wi&amp;dth:</source>
@@ -5410,17 +5371,11 @@ It has been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>ucShapeWidth</source>
-        <translation variants="yes">
-            <lengthvariant>ucSzerokośćKształtu</lengthvariant>
-            <lengthvariant>ucShapeWidth</lengthvariant>
-        </translation>
+        <translation>Szerokość kształtu</translation>
     </message>
     <message>
         <source>ucRotation</source>
-        <translation variants="yes">
-            <lengthvariant>ucObrót</lengthvariant>
-            <lengthvariant>ucRotation</lengthvariant>
-        </translation>
+        <translation>Obrót</translation>
     </message>
     <message>
         <source>degree, 0, -3600, 3600, 1</source>
@@ -5436,10 +5391,7 @@ It has been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>ucScaleHeight</source>
-        <translation variants="yes">
-            <lengthvariant>ucSkalowanieWysokości</lengthvariant>
-            <lengthvariant>ucScaleHeight</lengthvariant>
-        </translation>
+        <translation>Skalowanie wysokości</translation>
     </message>
     <message>
         <source>%, 0, 0, 10675, 1</source>
@@ -5451,10 +5403,7 @@ It has been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>ucScaleWidth</source>
-        <translation variants="yes">
-            <lengthvariant>ucSkalowanieSzerokości</lengthvariant>
-            <lengthvariant>ucScaleWidth</lengthvariant>
-        </translation>
+        <translation>Skalowanie szerokości</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -5929,7 +5878,7 @@ Zawsze podejmuj to działanie.</translation>
     </message>
     <message>
         <source>Invalid file name, please enter the correct file name</source>
-        <translation>Nieprawidłowa nazwa pliku, proszę wprowadzić poprawną nazwę pliku</translation>
+        <translation>Nieprawidłowa nazwa pliku, proszę wprowadź poprawną nazwę pliku</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -6575,7 +6524,7 @@ lub strona sieci Web</translation>
     <name>updateMessageDlg</name>
     <message>
         <source>Update</source>
-        <translation>Aktualizuj</translation>
+        <translation>Aktualizacja</translation>
     </message>
     <message>
         <source>A new version is detected. Do you want to download the updated one?</source>

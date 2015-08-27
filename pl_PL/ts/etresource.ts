@@ -2734,8 +2734,7 @@ dane</translation>
     </message>
     <message>
         <source>TStyle</source>
-        <translatorcomment>Text style, Table style, Theme style - nie wiem którą opcję tłumaczyć</translatorcomment>
-        <translation type="unfinished">TStyl</translation>
+        <translation>TStyle</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -3012,7 +3011,7 @@ zadań</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>Co nowego</translation>
+        <translation>Co nowego?</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -3229,7 +3228,7 @@ zadań</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>Co nowego</translation>
+        <translation>Co nowego?</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -5006,11 +5005,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation variants="yes">
-            <lengthvariant>Z lewej</lengthvariant>
-            <lengthvariant>Od lewej</lengthvariant>
-            <lengthvariant>Do lewej</lengthvariant>
-        </translation>
+        <translation>Z lewej</translation>
     </message>
     <message>
         <source>Left Border</source>
@@ -5119,11 +5114,7 @@ Center</source>
     </message>
     <message>
         <source>Right</source>
-        <translation variants="yes">
-            <lengthvariant>Z prawej</lengthvariant>
-            <lengthvariant>Od prawej</lengthvariant>
-            <lengthvariant>Do prawej</lengthvariant>
-        </translation>
+        <translation>Z prawej</translation>
     </message>
     <message>
         <source>Right Border</source>

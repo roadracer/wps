@@ -1035,17 +1035,11 @@
     <name>classics.formatting.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Więcej numerowania</lengthvariant>
-            <lengthvariant>Więcej numeracji</lengthvariant>
-        </translation>
+        <translation>Więcej numerowania</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Numerowanie</lengthvariant>
-            <lengthvariant>Numeracja</lengthvariant>
-        </translation>
+        <translation>Numerowanie</translation>
     </message>
 </context>
 <context>
@@ -1465,7 +1459,6 @@
     </message>
     <message>
         <source>Final</source>
-        <translatorcomment>Ostateczne</translatorcomment>
         <translation>Końcowe</translation>
     </message>
     <message>
@@ -1788,10 +1781,7 @@
     <name>classics.tables_and_borders</name>
     <message>
         <source>AutoFit Window</source>
-        <translation variants="yes">
-            <lengthvariant>Autodopasowanie do okna</lengthvariant>
-            <lengthvariant>Automatycznie dopasuj do okna</lengthvariant>
-        </translation>
+        <translation>Autodopasowanie okna</translation>
     </message>
     <message>
         <source>AutoFit to Content</source>
@@ -3804,17 +3794,11 @@ styl</translation>
     <name>ongmani.ct_home.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Więcej numerowania</lengthvariant>
-            <lengthvariant>Więcej numeracji</lengthvariant>
-        </translation>
+        <translation>Więcej numerowania</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Numerowanie</lengthvariant>
-            <lengthvariant>Numeracja</lengthvariant>
-        </translation>
+        <translation>Numerowanie</translation>
     </message>
 </context>
 <context>
@@ -4178,7 +4162,6 @@ strony</translation>
     </message>
     <message>
         <source>Write &amp; Insert Fields</source>
-        <translatorcomment>Napisz i wstaw pola</translatorcomment>
         <translation>Zapisz i wstaw pola</translation>
     </message>
 </context>
@@ -4250,10 +4233,7 @@ strony</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation variants="yes">
-            <lengthvariant>W górę</lengthvariant>
-            <lengthvariant>Do góry</lengthvariant>
-        </translation>
+        <translation>W górę</translation>
     </message>
     <message>
         <source>Update TOC</source>
@@ -4790,17 +4770,11 @@ tekstu</translation>
     <name>ongmani.ct_paragraph.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Więcej numerowania</lengthvariant>
-            <lengthvariant>Więcej numeracji</lengthvariant>
-        </translation>
+        <translation>Więcej numerowania</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Numerowanie</lengthvariant>
-            <lengthvariant>Numeracja</lengthvariant>
-        </translation>
+        <translation>Numerowanie</translation>
     </message>
 </context>
 <context>
@@ -5297,10 +5271,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
-            <lengthvariant>Ciagły</lengthvariant>
-        </translation>
+        <translation>Ciagły</translation>
     </message>
     <message>
         <source>Square</source>
@@ -5826,7 +5797,6 @@ i stopka</translation>
     </message>
     <message>
         <source>Locate Section</source>
-        <translatorcomment>Znajdź sekcję</translatorcomment>
         <translation>Zlokalizuj sekcję</translation>
     </message>
     <message>
@@ -9785,10 +9755,7 @@ formatów</translation>
     </message>
     <message>
         <source>numbering_0</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_0</lengthvariant>
-            <lengthvariant>numeracja_0</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_0</translation>
     </message>
     <message>
         <source>vertReviewPane</source>
@@ -9843,10 +9810,7 @@ formatów</translation>
     <name>popupmenu.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Więcej numerowania</lengthvariant>
-            <lengthvariant>Więcej numeracji</lengthvariant>
-        </translation>
+        <translation>Więcej numerowania</translation>
     </message>
     <message>
         <source>Number</source>
@@ -9854,59 +9818,35 @@ formatów</translation>
     </message>
     <message>
         <source>numbering_0</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_0</lengthvariant>
-            <lengthvariant>numeracja_0</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_0</translation>
     </message>
     <message>
         <source>numbering_1</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_1</lengthvariant>
-            <lengthvariant>numeracja_1</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_1</translation>
     </message>
     <message>
         <source>numbering_2</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_2</lengthvariant>
-            <lengthvariant>numeracja_2</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_2</translation>
     </message>
     <message>
         <source>numbering_3</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_3</lengthvariant>
-            <lengthvariant>numeracja_3</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_3</translation>
     </message>
     <message>
         <source>numbering_4</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_4</lengthvariant>
-            <lengthvariant>numeracja_4</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_4</translation>
     </message>
     <message>
         <source>numbering_5</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_5</lengthvariant>
-            <lengthvariant>numeracja_5</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_5</translation>
     </message>
     <message>
         <source>numbering_6</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_6</lengthvariant>
-            <lengthvariant>numeracja_6</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_6</translation>
     </message>
     <message>
         <source>numbering_7</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_7</lengthvariant>
-            <lengthvariant>numeracja_7</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_7</translation>
     </message>
 </context>
 <context>
@@ -11361,17 +11301,11 @@ nagłówkiem i stopką</translation>
     <name>rainbow.ct_home.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Więcej numerowania</lengthvariant>
-            <lengthvariant>Więcej numeracji</lengthvariant>
-        </translation>
+        <translation>Więcej numerowania</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Numerowanie</lengthvariant>
-            <lengthvariant>Numeracja</lengthvariant>
-        </translation>
+        <translation>Numerowanie</translation>
     </message>
 </context>
 <context>
@@ -13188,17 +13122,11 @@ tekst</translation>
     </message>
     <message>
         <source>horzReviewPane</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>poziomeOkienkoRecenzowania</lengthvariant>
-            <lengthvariant>horzReviewPane</lengthvariant>
-        </translation>
+        <translation type="obsolete">Poziome okienko recenzowania</translation>
     </message>
     <message>
         <source>vertReviewPane</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>pionoweOkienkoRecenzowania</lengthvariant>
-            <lengthvariant>vertReviewPane</lengthvariant>
-        </translation>
+        <translation type="obsolete">Pionowe okienko recenzowania</translation>
     </message>
 </context>
 <context>
@@ -13265,7 +13193,6 @@ tekst</translation>
     </message>
     <message>
         <source>Locate Section</source>
-        <translatorcomment>Znajdź sekcję</translatorcomment>
         <translation>Zlokalizuj sekcję</translation>
     </message>
     <message>
@@ -15680,10 +15607,7 @@ cienia</translation>
     </message>
     <message>
         <source>Inline Picture</source>
-        <translation variants="yes">
-            <lengthvariant>Obraz w tekście</lengthvariant>
-            <lengthvariant>Obraz wbudowany</lengthvariant>
-        </translation>
+        <translation>Obraz w tekście</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -15711,10 +15635,7 @@ cienia</translation>
     </message>
     <message>
         <source>Mail FeedBack</source>
-        <translation variants="yes">
-            <lengthvariant>Poczta opinii</lengthvariant>
-            <lengthvariant>Poczta Feedback</lengthvariant>
-        </translation>
+        <translation>Wyślij opinię przez e-mail</translation>
     </message>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
@@ -15939,10 +15860,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Speak</source>
-        <translation variants="yes">
-            <lengthvariant>Czytaj</lengthvariant>
-            <lengthvariant>Mów</lengthvariant>
-        </translation>
+        <translation>Czytaj</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -15970,11 +15888,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation variants="yes">
-            <lengthvariant>Rozpocznij</lengthvariant>
-            <lengthvariant>Początek</lengthvariant>
-            <lengthvariant>Uruchom</lengthvariant>
-        </translation>
+        <translation>Rozpocznij</translation>
     </message>
     <message>
         <source>Status Bar</source>
@@ -16335,7 +16249,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>Co nowego</translation>
+        <translation>Co nowego?</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -16579,7 +16493,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>Co nowego</translation>
+        <translation>Co nowego?</translation>
     </message>
     <message>
         <source>WordArt</source>

@@ -377,10 +377,7 @@
     </message>
     <message>
         <source>Centered</source>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkowany</lengthvariant>
-            <lengthvariant>Wyśrodkowane</lengthvariant>
-        </translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>Right</source>
@@ -436,7 +433,6 @@
     </message>
     <message>
         <source>Inside</source>
-        <translatorcomment>Wewnętrzny</translatorcomment>
         <translation>Wewnątrz</translation>
     </message>
     <message>
@@ -806,7 +802,7 @@
     <name>KxAddUsersDlg</name>
     <message>
         <source>Some of the users you have entered could not be added to the list because their names could not be verified.</source>
-        <translation>Niektórych z wprowadzonych użytkowników nie można dodać na listę, ponieważ nie powiodła się weryfikacja ich nazw.</translation>
+        <translation>Niektórych z wprowadzonych użytkowników nie można dodać do listy, ponieważ nie powiodła się weryfikacja ich nazw.</translation>
     </message>
 </context>
 <context>
@@ -848,10 +844,7 @@
     </message>
     <message>
         <source>No content</source>
-        <translation variants="yes">
-            <lengthvariant>Bez zawartości</lengthvariant>
-            <lengthvariant>Bez treści</lengthvariant>
-        </translation>
+        <translation>Bez zawartości</translation>
     </message>
 </context>
 <context>
@@ -1068,7 +1061,6 @@
     </message>
     <message>
         <source>Head number</source>
-        <translatorcomment>Numerowanie nagłówków</translatorcomment>
         <translation>Poziom nagłówka</translation>
     </message>
     <message>
@@ -1724,10 +1716,7 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>N&amp;umbering...</source>
-        <translation variants="yes">
-            <lengthvariant>N&amp;umerowanie...</lengthvariant>
-            <lengthvariant>N&amp;umeracja...</lengthvariant>
-        </translation>
+        <translation>N&amp;umerowanie...</translation>
     </message>
 </context>
 <context>
@@ -1903,7 +1892,6 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>E&amp;xit:</source>
-        <translatorcomment>W&amp;yjdź:</translatorcomment>
         <translation>Za&amp;kończ:</translation>
     </message>
     <message>
@@ -2170,8 +2158,7 @@ lub użyj odpowiedniego przycisku</translation>
     <name>KxDlgConvertTexttoTable</name>
     <message>
         <source>Convert Text to Table</source>
-        <translatorcomment>Konwertowanie tekstu na tabelę</translatorcomment>
-        <translation>Konwertuj tekst na tabelę</translation>
+        <translation>Konwertowanie tekstu na tabelę</translation>
     </message>
     <message>
         <source>rd5</source>
@@ -2227,8 +2214,7 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Separate text at</source>
-        <translatorcomment>Separatory tekstu</translatorcomment>
-        <translation>Separator tekstu</translation>
+        <translation>Separatory tekstu</translation>
     </message>
     <message>
         <source>rd1</source>
@@ -2283,17 +2269,11 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>cbxRefType</source>
-        <translation variants="yes">
-            <lengthvariant>cbxTypOdwołania</lengthvariant>
-            <lengthvariant>cbxRefType</lengthvariant>
-        </translation>
+        <translation>cbxRefType</translation>
     </message>
     <message>
         <source>cbHyperlink</source>
-        <translation variants="yes">
-            <lengthvariant>cbHiperłącze</lengthvariant>
-            <lengthvariant>cbHyperlink</lengthvariant>
-        </translation>
+        <translation>cbHyperlink</translation>
     </message>
     <message>
         <source>Insert as &amp;hyperlink</source>
@@ -2301,17 +2281,11 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>cbxRefContent</source>
-        <translation variants="yes">
-            <lengthvariant>cbxZawartośćOdwołania</lengthvariant>
-            <lengthvariant>cbxRefContent</lengthvariant>
-        </translation>
+        <translation>cbxRefContent</translation>
     </message>
     <message>
         <source>cbInclude</source>
-        <translation variants="yes">
-            <lengthvariant>cbDołącz</lengthvariant>
-            <lengthvariant>cbInclude</lengthvariant>
-        </translation>
+        <translation>cbInclude</translation>
     </message>
     <message>
         <source>Include above/below(&amp;N)</source>
@@ -2323,10 +2297,7 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>lwRefItem</source>
-        <translation variants="yes">
-            <lengthvariant>lwElementOdwołania</lengthvariant>
-            <lengthvariant>lwRefItem</lengthvariant>
-        </translation>
+        <translation>lwRefItem</translation>
     </message>
     <message>
         <source>Insert &amp;reference to:</source>
@@ -2742,10 +2713,7 @@ lub użyj odpowiedniego przycisku</translation>
     <name>KxDlgDropDownFormField</name>
     <message>
         <source>bnUp</source>
-        <translation variants="yes">
-            <lengthvariant>bnWgórę</lengthvariant>
-            <lengthvariant>bnUp</lengthvariant>
-        </translation>
+        <translation>bnUp</translation>
     </message>
     <message>
         <source>Move</source>
@@ -2753,17 +2721,11 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>bnDown</source>
-        <translation variants="yes">
-            <lengthvariant>bnWdół</lengthvariant>
-            <lengthvariant>bnDown</lengthvariant>
-        </translation>
+        <translation>bnDown</translation>
     </message>
     <message>
         <source>lvItems</source>
-        <translation variants="yes">
-            <lengthvariant>lvElementy</lengthvariant>
-            <lengthvariant>lvItems</lengthvariant>
-        </translation>
+        <translation>lvItems</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -2791,17 +2753,11 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>cmbMarcroEntry</source>
-        <translation variants="yes">
-            <lengthvariant>cmbmakroWpis</lengthvariant>
-            <lengthvariant>cmbMarcroEntry</lengthvariant>
-        </translation>
+        <translation>cmbMarcroEntry</translation>
     </message>
     <message>
         <source>cmbmacroExit</source>
-        <translation variants="yes">
-            <lengthvariant>cmbmakroZakończ</lengthvariant>
-            <lengthvariant>cmbmacroExit</lengthvariant>
-        </translation>
+        <translation>cmbmacroExit</translation>
     </message>
     <message>
         <source>Field settings</source>
@@ -2813,10 +2769,7 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>edBookmark</source>
-        <translation variants="yes">
-            <lengthvariant>edZakładka</lengthvariant>
-            <lengthvariant>edBookmark</lengthvariant>
-        </translation>
+        <translation>edBookmark</translation>
     </message>
     <message>
         <source>Drop-down e&amp;nabled</source>
@@ -3139,7 +3092,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Add the &amp;path to the file name</source>
-        <translation type="obsolete">Dodaj ś&amp;cieżkę do nazwy pliku</translation>
+        <translation type="obsolete">&amp;Dodaj ścieżkę do nazwy pliku</translation>
     </message>
     <message>
         <source>Add &amp;path to filename</source>
@@ -3322,7 +3275,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation>Linia</translation>
+        <translation>Wiersz</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -3439,8 +3392,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Find Style</source>
-        <translatorcomment>Znajdowanie stylu</translatorcomment>
-        <translation>Znajdź styl</translation>
+        <translation>Znajdowanie stylu</translation>
     </message>
     <message>
         <source>Description</source>
@@ -3646,7 +3598,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Continuous</source>
-        <translatorcomment>Ciągłe</translatorcomment>
         <translation>Ciągły</translation>
     </message>
     <message>
@@ -3687,7 +3638,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Convert...</source>
-        <translatorcomment>&amp;Konwertowanie...</translatorcomment>
         <translation>&amp;Konwertuj...</translation>
     </message>
     <message>
@@ -3712,10 +3662,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Nu&amp;mbering:</source>
-        <translation variants="yes">
-            <lengthvariant>Nu&amp;merowanie:</lengthvariant>
-            <lengthvariant>Nu&amp;meracja:</lengthvariant>
-        </translation>
+        <translation>Nu&amp;merowanie:</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
@@ -3746,21 +3693,14 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Show(&amp;D):</source>
-        <translation variants="yes">
-            <lengthvariant>Pokaż(&amp;D):</lengthvariant>
-            <lengthvariant>Pokaz(&amp;D):</lengthvariant>
-        </translation>
+        <translation>Pokaż (&amp;D):</translation>
     </message>
     <message>
         <source>Styles are currently allowed(&amp;P):</source>
-        <translation variants="yes">
-            <lengthvariant>Style są obecnie dozwolone(&amp;P):</lengthvariant>
-            <lengthvariant>Zaznaczone style są obecnie dozwolone(&amp;P):</lengthvariant>
-        </translation>
+        <translation>Style są obecnie dozwolone (&amp;P):</translation>
     </message>
     <message>
         <source>R&amp;estrictions on the styles:</source>
-        <translatorcomment>&amp;Ograniczenia w stylach:</translatorcomment>
         <translation>&amp;Ograniczenia dotyczące stylów:</translation>
     </message>
     <message>
@@ -3824,10 +3764,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation variants="yes">
-            <lengthvariant>Obramowanie</lengthvariant>
-            <lengthvariant>Krawędź</lengthvariant>
-        </translation>
+        <translation>Obramowanie</translation>
     </message>
     <message>
         <source>Grid &amp;color:</source>
@@ -4049,7 +3986,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgInsertNumber</name>
     <message>
         <source>Number</source>
-        <translatorcomment>Numer</translatorcomment>
         <translation>Numeracja</translation>
     </message>
     <message>
@@ -4097,7 +4033,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Auto column width(&amp;F)</source>
-        <translation>Automatyczna szerokość kolumny(&amp;F)</translation>
+        <translation>Automatyczna szerokość kolumny (&amp;F)</translation>
     </message>
 </context>
 <context>
@@ -4135,10 +4071,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>buttonGroup_mode</source>
-        <translation variants="yes">
-            <lengthvariant>przyciskTrybu_Grupa</lengthvariant>
-            <lengthvariant>buttonGroup_mode</lengthvariant>
-        </translation>
+        <translation>buttonGroup_mode</translation>
     </message>
     <message>
         <source>Add &amp;line numbering</source>
@@ -4259,7 +4192,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>State</source>
-        <translatorcomment>Stan</translatorcomment>
         <translation>Województwo</translation>
     </message>
     <message>
@@ -4284,7 +4216,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translatorcomment>Przydomek</translatorcomment>
         <translation>Pseudonim</translation>
     </message>
     <message>
@@ -4353,7 +4284,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Spouse nickname</source>
-        <translatorcomment>Nick współmałżonka</translatorcomment>
         <translation>Pseudonim współmałżonka</translation>
     </message>
     <message>
@@ -4507,10 +4437,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgMergeToEmail</name>
     <message>
         <source>Merge to E-mail</source>
-        <translation variants="yes">
-            <lengthvariant>Scal do poczty e-mail</lengthvariant>
-            <lengthvariant>Scalanie do poczty e-mail</lengthvariant>
-        </translation>
+        <translation>Scalanie do poczty e-mail</translation>
     </message>
     <message>
         <source>Message options</source>
@@ -4522,10 +4449,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>cbxMessageTo</source>
-        <translation variants="yes">
-            <lengthvariant>cbxWiadomośćDo</lengthvariant>
-            <lengthvariant>cbxMessageTo</lengthvariant>
-        </translation>
+        <translation>cbxMessageTo</translation>
     </message>
     <message>
         <source>&amp;Subject line:</source>
@@ -4533,10 +4457,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>edSubjectLine</source>
-        <translation variants="yes">
-            <lengthvariant>edWierszTematu</lengthvariant>
-            <lengthvariant>edSubjectLine</lengthvariant>
-        </translation>
+        <translation>edSubjectLine</translation>
     </message>
     <message>
         <source>&amp;Mail format:</source>
@@ -4544,10 +4465,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>cbxMailFormat</source>
-        <translation variants="yes">
-            <lengthvariant>cbxFormatWiadomości</lengthvariant>
-            <lengthvariant>cbxMailFormat</lengthvariant>
-        </translation>
+        <translation>cbxMailFormat</translation>
     </message>
     <message>
         <source>Pure text</source>
@@ -4559,10 +4477,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>rbAll</source>
-        <translation variants="yes">
-            <lengthvariant>rbWszystkie</lengthvariant>
-            <lengthvariant>rbAll</lengthvariant>
-        </translation>
+        <translation>rbAll</translation>
     </message>
     <message>
         <source>&amp;All</source>
@@ -4570,10 +4485,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>rbCurrentRecord</source>
-        <translation variants="yes">
-            <lengthvariant>rbBieżącyRekord</lengthvariant>
-            <lengthvariant>rbCurrentRecord</lengthvariant>
-        </translation>
+        <translation>rbCurrentRecord</translation>
     </message>
     <message>
         <source>Curr&amp;ent record</source>
@@ -4581,10 +4493,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>rbFromto</source>
-        <translation variants="yes">
-            <lengthvariant>rbOdDo</lengthvariant>
-            <lengthvariant>rbFromto</lengthvariant>
-        </translation>
+        <translation>rbFromto</translation>
     </message>
     <message>
         <source>&amp;From:</source>
@@ -4592,10 +4501,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>edFrom</source>
-        <translation variants="yes">
-            <lengthvariant>edOd</lengthvariant>
-            <lengthvariant>edFrom</lengthvariant>
-        </translation>
+        <translation>edFrom</translation>
     </message>
     <message>
         <source>&amp;To:</source>
@@ -4603,10 +4509,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>edTo</source>
-        <translation variants="yes">
-            <lengthvariant>edDo</lengthvariant>
-            <lengthvariant>edTo</lengthvariant>
-        </translation>
+        <translation>edTo</translation>
     </message>
     <message>
         <source>Attachment</source>
@@ -4617,10 +4520,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgMergeToNewDocOrPrinter</name>
     <message>
         <source>Merge records</source>
-        <translation variants="yes">
-            <lengthvariant>Scal rekordy</lengthvariant>
-            <lengthvariant>Scalanie rekordów</lengthvariant>
-        </translation>
+        <translation>Scalanie rekordów</translation>
     </message>
     <message>
         <source>&amp;All</source>
@@ -4643,8 +4543,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgModifyStyle</name>
     <message>
         <source>Modify Style</source>
-        <translatorcomment>Modyfikowanie stylu</translatorcomment>
-        <translation>Modyfikuj styl</translation>
+        <translation>Modyfikowanie stylu</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -4729,10 +4628,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>groupBox</source>
-        <translation variants="yes">
-            <lengthvariant>Pole grupy</lengthvariant>
-            <lengthvariant>groupBox</lengthvariant>
-        </translation>
+        <translation>groupBox</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -4748,10 +4644,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>edStyleName</source>
-        <translation variants="yes">
-            <lengthvariant>edNazwaStylu</lengthvariant>
-            <lengthvariant>edStyleName</lengthvariant>
-        </translation>
+        <translation>edStyleName</translation>
     </message>
     <message>
         <source>label_2</source>
@@ -4763,10 +4656,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>cbxStyleType</source>
-        <translation variants="yes">
-            <lengthvariant>cbxTypStylu</lengthvariant>
-            <lengthvariant>cbxStyleType</lengthvariant>
-        </translation>
+        <translation>cbxStyleType</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -4786,10 +4676,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>cbxStyleBaseOn</source>
-        <translation variants="yes">
-            <lengthvariant>cbxStylNaPodstawie</lengthvariant>
-            <lengthvariant>cbxStyleBaseOn</lengthvariant>
-        </translation>
+        <translation>cbxStyleBaseOn</translation>
     </message>
     <message>
         <source>label_4</source>
@@ -4801,17 +4688,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>cbxStyleFollow</source>
-        <translation variants="yes">
-            <lengthvariant>cbxObserwujStyl</lengthvariant>
-            <lengthvariant>cbxStyleFollow</lengthvariant>
-        </translation>
+        <translation>cbxStyleFollow</translation>
     </message>
     <message>
         <source>groupBox_2</source>
-        <translation variants="yes">
-            <lengthvariant>Polegrupy_2</lengthvariant>
-            <lengthvariant>groupBox_2</lengthvariant>
-        </translation>
+        <translation>groupBox_2</translation>
     </message>
     <message>
         <source>Formatting</source>
@@ -4819,10 +4700,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>lbFontNamen</source>
-        <translation variants="yes">
-            <lengthvariant>lbNazwaCzcionkin</lengthvariant>
-            <lengthvariant>lbFontNamen</lengthvariant>
-        </translation>
+        <translation>lbFontNamen</translation>
     </message>
     <message>
         <source>(All scripts)</source>
@@ -4838,38 +4716,23 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>lbFontName_3n</source>
-        <translation variants="yes">
-            <lengthvariant>lbNazwaCzcionki_3n</lengthvariant>
-            <lengthvariant>lbFontName_3n</lengthvariant>
-        </translation>
+        <translation>lbFontName_3n</translation>
     </message>
     <message>
         <source>lbLineSpacen</source>
-        <translation variants="yes">
-            <lengthvariant>lbOdstępyWierszyn</lengthvariant>
-            <lengthvariant>lbLineSpacen</lengthvariant>
-        </translation>
+        <translation>lbLineSpacen</translation>
     </message>
     <message>
         <source>lbMoven</source>
-        <translation variants="yes">
-            <lengthvariant>lbPrzenieśn</lengthvariant>
-            <lengthvariant>lbMoven</lengthvariant>
-        </translation>
+        <translation>lbMoven</translation>
     </message>
     <message>
         <source>scPreview</source>
-        <translation variants="yes">
-            <lengthvariant>scPodgląd</lengthvariant>
-            <lengthvariant>scPreview</lengthvariant>
-        </translation>
+        <translation>scPreview</translation>
     </message>
     <message>
         <source>cbxAddToTemplaten</source>
-        <translation variants="yes">
-            <lengthvariant>cbxDodajDoSzablonu</lengthvariant>
-            <lengthvariant>cbxAddToTemplaten</lengthvariant>
-        </translation>
+        <translation>cbxAddToTemplaten</translation>
     </message>
     <message>
         <source>&amp;Add to template</source>
@@ -4877,10 +4740,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>pmbFormatn</source>
-        <translation variants="yes">
-            <lengthvariant>pmbFormatn</lengthvariant>
-            <lengthvariant>pmbFormatn</lengthvariant>
-        </translation>
+        <translation>pmbFormatn</translation>
     </message>
     <message>
         <source>F&amp;ormat</source>
@@ -4888,10 +4748,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>buttonBoxn</source>
-        <translation variants="yes">
-            <lengthvariant>przyciskPolen</lengthvariant>
-            <lengthvariant>buttonBoxn</lengthvariant>
-        </translation>
+        <translation>buttonBoxn</translation>
     </message>
 </context>
 <context>
@@ -6468,10 +6325,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Centered</source>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkowany</lengthvariant>
-            <lengthvariant>Wyśrodkowane</lengthvariant>
-        </translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>Right</source>
@@ -6766,10 +6620,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Centered</source>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkowany</lengthvariant>
-            <lengthvariant>Wyśrodkowane</lengthvariant>
-        </translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>Left</source>
@@ -6817,10 +6668,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Tone</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Tonowo</lengthvariant>
-            <lengthvariant>&amp;Ton</lengthvariant>
-        </translation>
+        <translation>&amp;Tonowo</translation>
     </message>
     <message>
         <source>Change All...</source>
@@ -7264,10 +7112,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Around</source>
-        <translation variants="yes">
-            <lengthvariant>Wo&amp;koło</lengthvariant>
-            <lengthvariant>Doo&amp;koła</lengthvariant>
-        </translation>
+        <translation>Wo&amp;koło</translation>
     </message>
     <message>
         <source>&amp;Positioning...</source>
@@ -7379,10 +7224,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Tab stop position:</source>
-        <translation variants="yes">
-            <lengthvariant>Pozycja &amp;tabulatora:</lengthvariant>
-            <lengthvariant>Położenie &amp;tabulatora:</lengthvariant>
-        </translation>
+        <translation>Pozycja &amp;tabulatora:</translation>
     </message>
     <message>
         <source>ch, pt, 10.5, 0</source>
@@ -7434,10 +7276,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Leader</source>
-        <translation variants="yes">
-            <lengthvariant>Linia odniesienia</lengthvariant>
-            <lengthvariant>Znak wiodący</lengthvariant>
-        </translation>
+        <translation>Znak wiodący</translation>
     </message>
     <message>
         <source>&amp;1 None</source>
@@ -7527,15 +7366,11 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Maximum length:</source>
-        <translatorcomment>Długość &amp;maksymalna:</translatorcomment>
         <translation>&amp;Maksymalna długość:</translation>
     </message>
     <message>
         <source>&amp;edValue</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;edWartość</lengthvariant>
-            <lengthvariant>&amp;edValue</lengthvariant>
-        </translation>
+        <translation>&amp;edValue</translation>
     </message>
     <message>
         <source>Field settings</source>
@@ -7585,10 +7420,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Unprotect Document</source>
-        <translation variants="yes">
-            <lengthvariant>Niechronienie dokumentu</lengthvariant>
-            <lengthvariant>Nie chroń dokumentu</lengthvariant>
-        </translation>
+        <translation>Niechronienie dokumentu</translation>
     </message>
 </context>
 <context>
@@ -7607,7 +7439,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
-        <translation>WPS Writer zamierza zaktualizować spis treści. Wybierz jedną z poniższych opcji:</translation>
+        <translation>Program WPS Writer zamierza zaktualizować spis treści. Wybierz jedną z poniższych opcji:</translation>
     </message>
 </context>
 <context>
@@ -7622,23 +7454,18 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>View &amp;footnote area</source>
-        <translatorcomment>Pokazać obszar przypisów &amp;dolnych</translatorcomment>
-        <translation>Wyświetlić obszar przypisów &amp;dolnych</translation>
+        <translation>Pokaż obszar &amp;przypisów dolnych</translation>
     </message>
     <message>
         <source>View &amp;endnote area</source>
-        <translatorcomment>Pokazać obszar przypisów &amp;końcowych</translatorcomment>
-        <translation>Wyświetlić obszar przypisów &amp;końcowych</translation>
+        <translation>Pokaż obszar przypisów &amp;końcowych</translation>
     </message>
 </context>
 <context>
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
         <source>Field name record delimiter</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Ograniczniki rekordu Nazwa pola</lengthvariant>
-            <lengthvariant>Ograniczniki rekordu nagłówka</lengthvariant>
-        </translation>
+        <translation type="obsolete">Ogranicznik rekordu nazwy pola</translation>
     </message>
     <message>
         <source>Data fields must use characters (called &quot;delimiter&quot;) to separated from each other; Similarly, data records must be separated by a record delimiter. Please use the following list to select the appropriate delimiter.</source>
@@ -7978,31 +7805,19 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxEncloseCharactersDlg</name>
     <message>
         <source>circleChar</source>
-        <translation variants="yes">
-            <lengthvariant>okrągłyZnak</lengthvariant>
-            <lengthvariant>circleChar</lengthvariant>
-        </translation>
+        <translation>okrągłyZnak</translation>
     </message>
     <message>
         <source>squareChar</source>
-        <translation variants="yes">
-            <lengthvariant>kwadratowyZnak</lengthvariant>
-            <lengthvariant>squareChar</lengthvariant>
-        </translation>
+        <translation>kwadratowyZnak</translation>
     </message>
     <message>
         <source>triangleChar</source>
-        <translation variants="yes">
-            <lengthvariant>trójkątnyZnak</lengthvariant>
-            <lengthvariant>triangleChar</lengthvariant>
-        </translation>
+        <translation>trójkątnyZnak</translation>
     </message>
     <message>
         <source>diamondChar</source>
-        <translation variants="yes">
-            <lengthvariant>rombZnak</lengthvariant>
-            <lengthvariant>diamondChar</lengthvariant>
-        </translation>
+        <translation>rombZnak</translation>
     </message>
 </context>
 <context>
@@ -8208,10 +8023,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxFieldDlg</name>
     <message>
         <source>Formula</source>
-        <translation variants="yes">
-            <lengthvariant>Formula</lengthvariant>
-            <lengthvariant>Formuła</lengthvariant>
-        </translation>
+        <translation>Formula</translation>
     </message>
     <message>
         <source>Edit and calculate the formula, and displays the result in preview.</source>
@@ -8226,10 +8038,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation variants="yes">
-            <lengthvariant>Hyperlink</lengthvariant>
-            <lengthvariant>Hiperłącze</lengthvariant>
-        </translation>
+        <translation>Hyperlink</translation>
     </message>
     <message>
         <source>Open and jump to the specified file</source>
@@ -8245,10 +8054,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Page</source>
-        <translation variants="yes">
-            <lengthvariant>Page</lengthvariant>
-            <lengthvariant>Strona</lengthvariant>
-        </translation>
+        <translation>Page</translation>
     </message>
     <message>
         <source>Insert the number of the current page</source>
@@ -8264,10 +8070,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>PageRef</source>
-        <translation variants="yes">
-            <lengthvariant>PageRef</lengthvariant>
-            <lengthvariant>Odwołanie_strony</lengthvariant>
-        </translation>
+        <translation>PageRef</translation>
     </message>
     <message>
         <source>Insert the page number containing the specified bookmark</source>
@@ -8279,10 +8082,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>SectionPages</source>
-        <translation variants="yes">
-            <lengthvariant>SectionPages</lengthvariant>
-            <lengthvariant>Strony_sekcji</lengthvariant>
-        </translation>
+        <translation>SectionPages</translation>
     </message>
     <message>
         <source>Insert the total number of pages in the section</source>
@@ -8294,10 +8094,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Seq</source>
-        <translation variants="yes">
-            <lengthvariant>Seq</lengthvariant>
-            <lengthvariant>Sekwencja</lengthvariant>
-        </translation>
+        <translation>Seq</translation>
     </message>
     <message>
         <source>Insert an automatic sequence number</source>
@@ -8305,10 +8102,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>TC</source>
-        <translation variants="yes">
-            <lengthvariant>TC</lengthvariant>
-            <lengthvariant>Pole_spisu_treści</lengthvariant>
-        </translation>
+        <translation>TC</translation>
     </message>
     <message>
         <source>Mark a table of contents entry</source>
@@ -8320,10 +8114,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Time</source>
-        <translation variants="yes">
-            <lengthvariant>Time</lengthvariant>
-            <lengthvariant>Godzina</lengthvariant>
-        </translation>
+        <translation>Time</translation>
     </message>
     <message>
         <source>The current time</source>
@@ -8343,10 +8134,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>NumPages</source>
-        <translation variants="yes">
-            <lengthvariant>NumPages</lengthvariant>
-            <lengthvariant>Liczba_stron</lengthvariant>
-        </translation>
+        <translation>NumPages</translation>
     </message>
     <message>
         <source>The number of pages in the document</source>
@@ -8354,10 +8142,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>DocVariable</source>
-        <translation variants="yes">
-            <lengthvariant>DocVariable</lengthvariant>
-            <lengthvariant>Zmienna_dokumentu</lengthvariant>
-        </translation>
+        <translation>DocVariable</translation>
     </message>
     <message>
         <source>Insert the value of document variable NAME</source>
@@ -8365,10 +8150,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>StyleRef</source>
-        <translation variants="yes">
-            <lengthvariant>StyleRef</lengthvariant>
-            <lengthvariant>Odwołanie_stylu</lengthvariant>
-        </translation>
+        <translation>StyleRef</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
@@ -8384,10 +8166,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>PrintDate</source>
-        <translation variants="yes">
-            <lengthvariant>PrintDate</lengthvariant>
-            <lengthvariant>Drukuj_datę</lengthvariant>
-        </translation>
+        <translation>PrintDate</translation>
     </message>
     <message>
         <source>last print time</source>
@@ -8399,10 +8178,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>TOC</source>
-        <translation variants="yes">
-            <lengthvariant>TOC</lengthvariant>
-            <lengthvariant>Spis_treści</lengthvariant>
-        </translation>
+        <translation>TOC</translation>
     </message>
     <message>
         <source>Presume the KingSoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE KingSoft</source>
@@ -8416,10 +8192,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <message>
         <source>MergeField</source>
         <comment>wps-&gt; insert field</comment>
-        <translation variants="yes">
-            <lengthvariant>MergeField</lengthvariant>
-            <lengthvariant>Pole_korespondencji_seryjnej</lengthvariant>
-        </translation>
+        <translation>MergeField</translation>
     </message>
     <message>
         <source>Insert a mail merge field</source>
@@ -8439,10 +8212,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>IncludePicture</source>
-        <translation variants="yes">
-            <lengthvariant>IncludePicture</lengthvariant>
-            <lengthvariant>Dołącz_obraz</lengthvariant>
-        </translation>
+        <translation>IncludePicture</translation>
     </message>
     <message>
         <source>Insert a picture from a file</source>
@@ -8458,10 +8228,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>DocProperty</source>
-        <translation variants="yes">
-            <lengthvariant>DocProperty</lengthvariant>
-            <lengthvariant>Właściwość_dokumentu</lengthvariant>
-        </translation>
+        <translation>DocProperty</translation>
     </message>
     <message>
         <source>Insert a document property</source>
@@ -8501,10 +8268,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>IncludeText</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>IncludeText</lengthvariant>
-            <lengthvariant>Dołącz_tekst</lengthvariant>
-        </translation>
+        <translation type="obsolete">IncludeText</translation>
     </message>
     <message>
         <source>Insert text to from a file</source>
@@ -8516,10 +8280,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>FileName</source>
-        <translation variants="yes">
-            <lengthvariant>FileName</lengthvariant>
-            <lengthvariant>Nazwa_pliku</lengthvariant>
-        </translation>
+        <translation>FileName</translation>
     </message>
     <message>
         <source>Insert the file name of the document</source>
@@ -9116,10 +8877,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     <name>KxFormatRestrictionsDlg</name>
     <message>
         <source>Used in this document</source>
-        <translation variants="yes">
-            <lengthvariant>Używane w tym dokumencie</lengthvariant>
-            <lengthvariant>Użyte w tym dokumencie</lengthvariant>
-        </translation>
+        <translation>Użyte w tym dokumencie</translation>
     </message>
     <message>
         <source>Built-in</source>
@@ -9164,10 +8922,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Top of document</source>
-        <translation variants="yes">
-            <lengthvariant>Początek dokumentu</lengthvariant>
-            <lengthvariant>Góra dokumentu</lengthvariant>
-        </translation>
+        <translation>Początek dokumentu</translation>
     </message>
     <message>
         <source>Headings</source>
@@ -9260,7 +9015,6 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>State</source>
-        <translatorcomment>Stan</translatorcomment>
         <translation>Województwo</translation>
     </message>
     <message>
@@ -9401,7 +9155,6 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Created Time</source>
-        <translatorcomment>Czas utworzenia</translatorcomment>
         <translation>Godzina utworzenia</translation>
     </message>
     <message>
@@ -9432,10 +9185,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Merge Documents</source>
-        <translation variants="yes">
-            <lengthvariant>Scal dokumenty</lengthvariant>
-            <lengthvariant>Scalanie dokumentów</lengthvariant>
-        </translation>
+        <translation>Scal dokumenty</translation>
     </message>
     <message>
         <source>Lab&amp;el unmarked changes with:</source>
@@ -9471,10 +9221,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Cannot compare the unsaved read-only document.</source>
-        <translation variants="yes">
-            <lengthvariant>Nie można porównywać niezapisanego dokumentu w trybie tylko do odczytu.</lengthvariant>
-            <lengthvariant>Nie można porównać niezapisanego dokumentu w trybie tylko do odczytu.</lengthvariant>
-        </translation>
+        <translation>Nie można porównywać niezapisanego dokumentu w trybie tylko do odczytu.</translation>
     </message>
     <message>
         <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
@@ -9508,7 +9255,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>WPS Writer cannot merge documents that can be distributed by mail without a valid mail address.</source>
-        <translation>WPS Writer nie może scalać dokumentów, które można wysyłać pocztą bez podania prawidłowego adresu.</translation>
+        <translation>Program WPS Writer nie może scalać dokumentów, które można wysyłać pocztą bez podania prawidłowego adresu.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -9736,10 +9483,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>&amp;Numbering...</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Numerowanie...</lengthvariant>
-            <lengthvariant>&amp;Numeracja...</lengthvariant>
-        </translation>
+        <translation>&amp;Numerowanie...</translation>
     </message>
     <message>
         <source>&amp;Shortcut...</source>
@@ -9865,10 +9609,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkowany</lengthvariant>
-            <lengthvariant>Wyśrodkowane</lengthvariant>
-        </translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>Right</source>
@@ -10012,10 +9753,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>&amp;Numbering...</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Numerowanie...</lengthvariant>
-            <lengthvariant>&amp;Numeracja...</lengthvariant>
-        </translation>
+        <translation>&amp;Numerowanie...</translation>
     </message>
     <message>
         <source>&amp;Shortcut...</source>
@@ -10513,10 +10251,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>Merge to Previous</source>
-        <translation variants="yes">
-            <lengthvariant>Scal z poprzednią</lengthvariant>
-            <lengthvariant>Scal z poprzednią sekcją</lengthvariant>
-        </translation>
+        <translation>Scal z poprzednią</translation>
     </message>
     <message>
         <source>Delete Section</source>
@@ -10614,10 +10349,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>Do you want to overwrite the shortcut of [%1]? </source>
-        <translation variants="yes">
-            <lengthvariant>Czy chcesz nadpisać skrót [%1]? </lengthvariant>
-            <lengthvariant>Czy chcesz zastąpić skrót [%1]? </lengthvariant>
-        </translation>
+        <translation>Czy chcesz zastąpić skrót [%1]? </translation>
     </message>
 </context>
 <context>
@@ -10725,10 +10457,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>What you entered contains formatting error.</source>
-        <translation variants="yes">
-            <lengthvariant>Twój wpis zawiera błąd formatowania.</lengthvariant>
-            <lengthvariant>To co wpisałeś zawiera błąd formatowania</lengthvariant>
-        </translation>
+        <translation>Twój wpis zawiera błąd formatowania.</translation>
     </message>
 </context>
 <context>
@@ -10834,10 +10563,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>Contributors</source>
-        <translation variants="yes">
-            <lengthvariant>Współpracownicy</lengthvariant>
-            <lengthvariant>Współautorzy</lengthvariant>
-        </translation>
+        <translation>Współpracownicy</translation>
     </message>
     <message>
         <source>Users with full control</source>
@@ -11027,10 +10753,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>rbHorizontalLeft</source>
-        <translation variants="yes">
-            <lengthvariant>rbWyrównanieWPoziomieDoLewej</lengthvariant>
-            <lengthvariant>rbHorizontalLeft</lengthvariant>
-        </translation>
+        <translation>rbWyrównanieWPoziomieDoLewej</translation>
     </message>
     <message>
         <source>&amp;Left</source>
@@ -11038,10 +10761,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>rbHorizontalCenter</source>
-        <translation variants="yes">
-            <lengthvariant>rbWyśrodkowanieWPoziomie</lengthvariant>
-            <lengthvariant>rbHorizontalCenter</lengthvariant>
-        </translation>
+        <translation>rbWyśrodkowanieWPoziomie</translation>
     </message>
     <message>
         <source>&amp;Center</source>
@@ -11049,10 +10769,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>rbHorizontalRight</source>
-        <translation variants="yes">
-            <lengthvariant>rbWyrównanieWPoziomieDoPrawej</lengthvariant>
-            <lengthvariant>rbHorizontalRight</lengthvariant>
-        </translation>
+        <translation>rbWyrównanieWPoziomieDoPrawej</translation>
     </message>
     <message>
         <source>&amp;Right</source>
@@ -11060,10 +10777,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>rbHorizontalOther</source>
-        <translation variants="yes">
-            <lengthvariant>rbWyrównanieWPoziomieInne</lengthvariant>
-            <lengthvariant>rbHorizontalOther</lengthvariant>
-        </translation>
+        <translation>rbWyrównanieWPoziomieInne</translation>
     </message>
     <message>
         <source>&amp;Other</source>
@@ -11428,10 +11142,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Insert Custom Contents</source>
-        <translation variants="yes">
-            <lengthvariant>Wstaw niestandardową zawartość</lengthvariant>
-            <lengthvariant>Wstawianie niestandardowej zawartości</lengthvariant>
-        </translation>
+        <translation>Wstaw niestandardową zawartość</translation>
     </message>
     <message>
         <source>Insert Contents</source>
@@ -11560,10 +11271,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Centered</source>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkowany</lengthvariant>
-            <lengthvariant>Wyśrodkowane</lengthvariant>
-        </translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>Right</source>
@@ -11611,10 +11319,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>DRAFT</source>
-        <translation variants="yes">
-            <lengthvariant>PROJEKT</lengthvariant>
-            <lengthvariant>WERSJA ROBOCZA</lengthvariant>
-        </translation>
+        <translation>WERSJA ROBOCZA</translation>
     </message>
     <message>
         <source>36</source>
@@ -11690,10 +11395,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>(Has successfully added pictures)</source>
-        <translation variants="yes">
-            <lengthvariant>(Pomyślnie dodano obrazy)</lengthvariant>
-            <lengthvariant>(Pomyślnie dodane obrazy)</lengthvariant>
-        </translation>
+        <translation>(Pomyślnie dodano obrazy)</translation>
     </message>
     <message>
         <source>Text Tooltip</source>
@@ -12126,7 +11828,7 @@ to a Word XML document.</source>
     <name>KxWpsFieldNameDelimiterDlg</name>
     <message>
         <source>Field delimiter and record delimiter cannot be same.</source>
-        <translation type="obsolete">Ogranicznik pola i ogranicznika rekordu nie mogą być takie same.</translation>
+        <translation type="obsolete">Ogranicznik pól nie może być taki sam jak ogranicznik rekordów.</translation>
     </message>
     <message>
         <source>The field delimiter cannot be the same as the record delimiter.</source>
@@ -12298,7 +12000,6 @@ to a Word XML document.</source>
     <name>KxWpsLocateWidget</name>
     <message>
         <source>Welcome Back</source>
-        <translatorcomment>Witamy z powrotem</translatorcomment>
         <translation>Witamy ponownie</translation>
     </message>
     <message>
@@ -12514,17 +12215,11 @@ to a Word XML document.</source>
     <name>KxWpsPageOrientationModel</name>
     <message>
         <source>Portrait</source>
-        <translation variants="yes">
-            <lengthvariant>Pionowa</lengthvariant>
-            <lengthvariant>Pionowo</lengthvariant>
-        </translation>
+        <translation>Pionowa</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation variants="yes">
-            <lengthvariant>Pozioma</lengthvariant>
-            <lengthvariant>Poziomo</lengthvariant>
-        </translation>
+        <translation>Pozioma</translation>
     </message>
 </context>
 <context>
@@ -12562,31 +12257,19 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Legal_CN</source>
-        <translation variants="yes">
-            <lengthvariant>Prawny_CN</lengthvariant>
-            <lengthvariant>Legal_CN</lengthvariant>
-        </translation>
+        <translation>Legal_CN</translation>
     </message>
     <message>
         <source>Letter_CN</source>
-        <translation variants="yes">
-            <lengthvariant>List_CN</lengthvariant>
-            <lengthvariant>Letter_CN</lengthvariant>
-        </translation>
+        <translation>Letter_CN</translation>
     </message>
     <message>
         <source>Legal</source>
-        <translation variants="yes">
-            <lengthvariant>Prawny</lengthvariant>
-            <lengthvariant>Legal</lengthvariant>
-        </translation>
+        <translation>Legal</translation>
     </message>
     <message>
         <source>Letter</source>
-        <translation variants="yes">
-            <lengthvariant>List</lengthvariant>
-            <lengthvariant>Letter</lengthvariant>
-        </translation>
+        <translation>Letter</translation>
     </message>
     <message>
         <source>cm</source>
@@ -12811,7 +12494,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Formatting: %1</source>
-        <translation>Formatowanie %1</translation>
+        <translation>Formatowanie: %1</translation>
     </message>
     <message>
         <source>Comments: %1</source>
@@ -12819,7 +12502,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Revision: %1</source>
-        <translation type="obsolete">Poprawka: %1</translation>
+        <translation type="obsolete">Poprawki: %1</translation>
     </message>
     <message>
         <source>Revisions: %1</source>
@@ -13105,7 +12788,6 @@ to a Word XML document.</source>
     <name>KxWpsStyleGalleryModelItem</name>
     <message>
         <source>Modify Style</source>
-        <translatorcomment>Modyfikowanie stylu</translatorcomment>
         <translation>Modyfikuj styl</translation>
     </message>
     <message>
@@ -13175,7 +12857,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Common Template Normal.WPT has opened to load.</source>
-        <translation>Typowy szablon Normalny. WPT jest otwarty.</translation>
+        <translation>Wspólny szablon Normaly. WPT otwiera do załadowania.</translation>
     </message>
     <message>
         <source>Full path:</source>
@@ -13267,10 +12949,7 @@ to a Word XML document.</source>
     <name>KxWpsWaterMarkGalleryModel</name>
     <message>
         <source>Custom</source>
-        <translation variants="yes">
-            <lengthvariant>Niestandardowy</lengthvariant>
-            <lengthvariant>Niestandardowe</lengthvariant>
-        </translation>
+        <translation>Niestandardowy</translation>
     </message>
 </context>
 <context>

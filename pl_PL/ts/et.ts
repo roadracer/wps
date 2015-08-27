@@ -165,10 +165,7 @@
     </message>
     <message>
         <source>int</source>
-        <translation variants="yes">
-            <lengthvariant>całk</lengthvariant>
-            <lengthvariant>int</lengthvariant>
-        </translation>
+        <translation>int</translation>
     </message>
     <message>
         <source>bin</source>
@@ -2283,19 +2280,19 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>spinPrefix</source>
-        <translation>obrót_Prefiks</translation>
+        <translation>spinPrefix</translation>
     </message>
     <message>
         <source>spinSuffix</source>
-        <translation>obrót_Sufiks</translation>
+        <translation>spinSuffix</translation>
     </message>
     <message>
         <source>directPrefix</source>
-        <translation>kierunek_Prefiks</translation>
+        <translation>directPrefix</translation>
     </message>
     <message>
         <source>directSuffix</source>
-        <translation>kierunek_Sufiks</translation>
+        <translation>directSuffix</translation>
     </message>
     <message>
         <source>123</source>
@@ -2372,7 +2369,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>cbxFunction</source>
-        <translation>cbxFunkcja</translation>
+        <translation>cbxFunction</translation>
     </message>
     <message>
         <source>&amp;Reference:</source>
@@ -2388,7 +2385,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>lbx All References</source>
-        <translation>lbx Wszystkie odwołania</translation>
+        <translation>lbx All References</translation>
     </message>
     <message>
         <source>asdf</source>
@@ -3268,10 +3265,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucShapeHeight</source>
-        <translation variants="yes">
-            <lengthvariant>ucWysokośćKształtu</lengthvariant>
-            <lengthvariant>ucShapeHeight</lengthvariant>
-        </translation>
+        <translation>Wysokość kształtu</translation>
     </message>
     <message>
         <source>pt, 2, -10, 1e+08, 1</source>
@@ -3283,10 +3277,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucShapeWidth</source>
-        <translation variants="yes">
-            <lengthvariant>ucSzerokośćKształtu</lengthvariant>
-            <lengthvariant>ucShapeWidth</lengthvariant>
-        </translation>
+        <translation>Szerokość kształtu</translation>
     </message>
     <message>
         <source>&amp;Rotation:</source>
@@ -3294,10 +3285,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucRotation</source>
-        <translation variants="yes">
-            <lengthvariant>ucObrót</lengthvariant>
-            <lengthvariant>ucRotation</lengthvariant>
-        </translation>
+        <translation>Obrót</translation>
     </message>
     <message>
         <source>degree, 0, -360000, 360000, 1</source>
@@ -3313,10 +3301,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucScaleHeight</source>
-        <translation variants="yes">
-            <lengthvariant>ucSkalowanieWysokości</lengthvariant>
-            <lengthvariant>ucScaleHeight</lengthvariant>
-        </translation>
+        <translation>Skalowanie wysokości</translation>
     </message>
     <message>
         <source>%, 0, -10, 999999, 1</source>
@@ -3328,10 +3313,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucScaleWidth</source>
-        <translation variants="yes">
-            <lengthvariant>ucSkalowanieSzerokości</lengthvariant>
-            <lengthvariant>ucScaleWidth</lengthvariant>
-        </translation>
+        <translation>Skalowanie szerokości</translation>
     </message>
     <message>
         <source>Lock &amp;aspect ratio</source>
@@ -3363,10 +3345,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucCropLeft</source>
-        <translation variants="yes">
-            <lengthvariant>ucPrzytnijOdLewej</lengthvariant>
-            <lengthvariant>ucCropLeft</lengthvariant>
-        </translation>
+        <translation>ucCropLeft</translation>
     </message>
     <message>
         <source>pt, 2, -1e+08, 1e+08, 1</source>
@@ -3378,10 +3357,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucCropTop</source>
-        <translation variants="yes">
-            <lengthvariant>ucPrzytnijOdGóry</lengthvariant>
-            <lengthvariant>ucCropTop</lengthvariant>
-        </translation>
+        <translation>ucCropTop</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
@@ -3389,10 +3365,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucCropRight</source>
-        <translation variants="yes">
-            <lengthvariant>ucPrzytnijOdPrawej</lengthvariant>
-            <lengthvariant>ucCropRight</lengthvariant>
-        </translation>
+        <translation>ucCropRight</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
@@ -3400,10 +3373,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucCropBottom</source>
-        <translation variants="yes">
-            <lengthvariant>ucPrzytnijOdDołu</lengthvariant>
-            <lengthvariant>ucCropBottom</lengthvariant>
-        </translation>
+        <translation>ucCropBottom</translation>
     </message>
     <message>
         <source>Image Control</source>
@@ -3415,7 +3385,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>cbDropDownList</source>
-        <translation>cbListaRozwijana</translation>
+        <translation>cbDropDownList</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -3439,10 +3409,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucBrightness</source>
-        <translation variants="yes">
-            <lengthvariant>ucJasność</lengthvariant>
-            <lengthvariant>ucBrightness</lengthvariant>
-        </translation>
+        <translation>Jasność</translation>
     </message>
     <message>
         <source>%, 1, -10, 999999, 1</source>
@@ -3454,7 +3421,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucContrast</source>
-        <translation>ucKontrast</translation>
+        <translation>Kontrast</translation>
     </message>
     <message>
         <source>Co&amp;mpress...</source>
@@ -3695,45 +3662,27 @@ kursor w polu edycji i naciśnij przycisk Formatuj obraz.</translation>
     </message>
     <message>
         <source>lblRecord1</source>
-        <translation variants="yes">
-            <lengthvariant>lblRekord1</lengthvariant>
-            <lengthvariant>lblRecord1</lengthvariant>
-        </translation>
+        <translation>lblRecord1</translation>
     </message>
     <message>
         <source>lblRecord2</source>
-        <translation variants="yes">
-            <lengthvariant>lblRekord2</lengthvariant>
-            <lengthvariant>lblRecord2</lengthvariant>
-        </translation>
+        <translation>lblRecord2</translation>
     </message>
     <message>
         <source>lblRecord3</source>
-        <translation variants="yes">
-            <lengthvariant>lblRekord3</lengthvariant>
-            <lengthvariant>lblRecord3</lengthvariant>
-        </translation>
+        <translation>lblRecord3</translation>
     </message>
     <message>
         <source>lblRecord4</source>
-        <translation variants="yes">
-            <lengthvariant>lblRekord4</lengthvariant>
-            <lengthvariant>lblRecord4</lengthvariant>
-        </translation>
+        <translation>lblRecord4</translation>
     </message>
     <message>
         <source>lblRecord5</source>
-        <translation variants="yes">
-            <lengthvariant>lblRekord5</lengthvariant>
-            <lengthvariant>lblRecord5</lengthvariant>
-        </translation>
+        <translation>lblRecord5</translation>
     </message>
     <message>
         <source>lblRecord6</source>
-        <translation variants="yes">
-            <lengthvariant>lblRekord6</lengthvariant>
-            <lengthvariant>lblRecord6</lengthvariant>
-        </translation>
+        <translation>lblRecord6</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -6423,17 +6372,11 @@ If this is correct, choose Next. If not, choose the data type that best describe
     </message>
     <message>
         <source>ll3</source>
-        <translation variants="yes">
-            <lengthvariant>LL3</lengthvariant>
-            <lengthvariant>ll3</lengthvariant>
-        </translation>
+        <translation>ll3</translation>
     </message>
     <message>
         <source>ll4</source>
-        <translation variants="yes">
-            <lengthvariant>LL4</lengthvariant>
-            <lengthvariant>ll4</lengthvariant>
-        </translation>
+        <translation>ll4</translation>
     </message>
     <message>
         <source>Error Alert</source>

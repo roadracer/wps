@@ -2499,7 +2499,7 @@ Jeśli chcesz kontynuować importowanie, dane mogą być zamieszczone, kliknij p
 This backup will be saved to(%s)</source>
         <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
         <translation type="obsolete">Występują błędy podczas tworzenia kopii zapasowej! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowej, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowej.
-Ta kopia zapasowa zostanie zapisana do(%s)</translation>
+Ta kopia zapasowa zostanie zapisana do (%s)</translation>
     </message>
     <message>
         <source>Too much data returned by the query, can not be contained in a worksheet.
@@ -8047,7 +8047,7 @@ Aby kontynuować zapisywanie skoroszytu jako pliku bez obsługi makr, kliknij pr
 This backup will be saved to(%s)</source>
         <comment>TX_Persist_MsgBackupToDef</comment>
         <translation type="obsolete">Występują błędy podczas tworzenia kopii zapasowej! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowej, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowej.
-Ta kopia zapasowa zostanie zapisana do(%s)</translation>
+Ta kopia zapasowa zostanie zapisana do (%s)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format 2.0(*.uos)</source>
@@ -13669,7 +13669,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Draft</source>
         <comment>TX_ParaInfo_334</comment>
-        <translation>Szkic</translation>
+        <translation>Wersja robocza</translation>
     </message>
     <message>
         <source>Preview</source>

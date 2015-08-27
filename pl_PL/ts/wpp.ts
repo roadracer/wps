@@ -104,10 +104,7 @@
     <name>DesignLayoutPanel</name>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation variants="yes">
-            <lengthvariant>Zastosuj we &amp;wzorcu</lengthvariant>
-            <lengthvariant>Zastosuj do &amp;wzora</lengthvariant>
-        </translation>
+        <translation>Zastosuj we &amp;wzorcu</translation>
     </message>
     <message>
         <source>Apply to &amp;All</source>
@@ -365,7 +362,7 @@
     </message>
     <message>
         <source>Advance slides</source>
-        <translation>Przełączanie slajdów</translation>
+        <translation>Przełącz slajd</translation>
     </message>
     <message>
         <source>&amp;Manually</source>
@@ -443,18 +440,11 @@
     </message>
     <message>
         <source>Locked</source>
-        <translation variants="yes">
-            <lengthvariant>Zablokowany</lengthvariant>
-            <lengthvariant>Zablokowane</lengthvariant>
-            <lengthvariant>Zablokuj</lengthvariant>
-        </translation>
+        <translation>Zablokowany</translation>
     </message>
     <message>
         <source>UnLocked</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Odblokowane</lengthvariant>
-            <lengthvariant>Odblokowana</lengthvariant>
-        </translation>
+        <translation type="obsolete">Odblokowany</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -474,10 +464,7 @@
     </message>
     <message>
         <source>Start Playing</source>
-        <translation variants="yes">
-            <lengthvariant>Rozpocznij odtwarzanie</lengthvariant>
-            <lengthvariant>Rozpoczynanie odtwarzania</lengthvariant>
-        </translation>
+        <translation>Rozpoczynanie odtwarzania</translation>
     </message>
     <message>
         <source>From &amp;Beginning</source>
@@ -497,17 +484,11 @@
     </message>
     <message>
         <source>Stop Playing</source>
-        <translation variants="yes">
-            <lengthvariant>Zatrzymaj odtwarzanie</lengthvariant>
-            <lengthvariant>Zatrzymywanie odtwarzania</lengthvariant>
-        </translation>
+        <translation>Zatrzymywanie odtwarzania</translation>
     </message>
     <message>
         <source>On clic&amp;k</source>
-        <translation variants="yes">
-            <lengthvariant>Po &amp;kliknięciu</lengthvariant>
-            <lengthvariant>Przy &amp;kliknięciu</lengthvariant>
-        </translation>
+        <translation>Przy &amp;kliknięciu</translation>
     </message>
     <message>
         <source>After &amp;Current Slide</source>
@@ -523,10 +504,7 @@
     </message>
     <message>
         <source>Enhancements</source>
-        <translation variants="yes">
-            <lengthvariant>Rozszerzenia</lengthvariant>
-            <lengthvariant>Ulepszenia</lengthvariant>
-        </translation>
+        <translation>Ulepszenia</translation>
     </message>
     <message>
         <source>&amp;Sound:</source>
@@ -546,10 +524,7 @@
     </message>
     <message>
         <source>By Letter</source>
-        <translation variants="yes">
-            <lengthvariant>W piśmie</lengthvariant>
-            <lengthvariant>W liście</lengthvariant>
-        </translation>
+        <translation>W piśmie</translation>
     </message>
     <message>
         <source>% &amp;delay between letters</source>
@@ -565,10 +540,7 @@
     </message>
     <message>
         <source>On Click</source>
-        <translation variants="yes">
-            <lengthvariant>Po kliknięciu</lengthvariant>
-            <lengthvariant>Przy kliknięciu</lengthvariant>
-        </translation>
+        <translation>Przy kliknięciu</translation>
     </message>
     <message>
         <source>With Previous</source>
@@ -612,12 +584,7 @@
     </message>
     <message>
         <source>Start Effects on &amp;Click of:</source>
-        <translation variants="yes">
-            <lengthvariant>Uruchom efekty po &amp;kliknięciu:</lengthvariant>
-            <lengthvariant>Uruchom efekty przy &amp;kliknięciu:</lengthvariant>
-            <lengthvariant>Rozpocznij efekty po &amp;kliknięciu:</lengthvariant>
-            <lengthvariant>Rozpocznij efekty przy &amp;kliknięciu:</lengthvariant>
-        </translation>
+        <translation>Uruchom efekty po &amp;kliknięciu:</translation>
     </message>
     <message>
         <source>Text Animation</source>
@@ -712,18 +679,11 @@
     </message>
     <message>
         <source>S&amp;tandard</source>
-        <translation variants="yes">
-            <lengthvariant>S&amp;tandardowy</lengthvariant>
-            <lengthvariant>S&amp;tandardowe</lengthvariant>
-        </translation>
+        <translation>S&amp;tandardowy</translation>
     </message>
     <message>
         <source>&amp;Custom</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Niestandardowy</lengthvariant>
-            <lengthvariant>&amp;Niestandardowe</lengthvariant>
-            <lengthvariant>&amp;Niestandardowa</lengthvariant>
-        </translation>
+        <translation>&amp;Niestandardowy</translation>
     </message>
     <message>
         <source>Cannot &amp;start line:</source>
@@ -808,10 +768,7 @@
     </message>
     <message>
         <source>Automatic</source>
-        <translation variants="yes">
-            <lengthvariant>Automatyczny</lengthvariant>
-            <lengthvariant>Automatycznie</lengthvariant>
-        </translation>
+        <translation>Automatycznie</translation>
     </message>
 </context>
 <context>
@@ -837,10 +794,7 @@
     </message>
     <message>
         <source>bgMagic tooltip</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>bgEtykietka narzędzia Magic</lengthvariant>
-            <lengthvariant>bgMagic tooltip</lengthvariant>
-        </translation>
+        <translation type="obsolete">bgMagic tooltip</translation>
     </message>
     <message>
         <source>Thousands of templates to create snazzy and distinctive  presentations</source>
@@ -963,11 +917,11 @@
     </message>
     <message>
         <source>WPS Presentation reached the beginning of the slide. Do you want to continue from the end?</source>
-        <translation>WPS Presentation osiągnął początek slajdu. Czy chcesz kontynuować od jego końca?</translation>
+        <translation>Program WPS Presentation osiągnął początek slajdu. Czy chcesz kontynuować od jego końca?</translation>
     </message>
     <message>
         <source>WPS Presentation reached the end of the slide. Do you want to continue from the beginning?</source>
-        <translation>WPS Presentation osiągnął koniec slajdu. Czy chcesz kontynuować od jego początku?</translation>
+        <translation>Program WPS Presentation osiągnął koniec slajdu. Czy chcesz kontynuować od jego początku?</translation>
     </message>
 </context>
 <context>
@@ -1048,18 +1002,11 @@
     </message>
     <message>
         <source>Magic Backgroud</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Magiczne tło</lengthvariant>
-            <lengthvariant>Tło Magia</lengthvariant>
-            <lengthvariant>Tło Magic</lengthvariant>
-        </translation>
+        <translation type="obsolete">Tło magic</translation>
     </message>
     <message>
         <source>Template Background</source>
-        <translation variants="yes">
-            <lengthvariant>Tło szablonu</lengthvariant>
-            <lengthvariant>Szablon tła</lengthvariant>
-        </translation>
+        <translation>Tło szablonu</translation>
     </message>
     <message>
         <source>Magic Background</source>
@@ -1464,11 +1411,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Set as Default(&amp;C)</source>
-        <translation variants="yes">
-            <lengthvariant>Ustaw jako domyślny (&amp;C)</lengthvariant>
-            <lengthvariant>Ustaw jako domyślną (&amp;C)</lengthvariant>
-            <lengthvariant>Ustaw jako domyślne (&amp;C)</lengthvariant>
-        </translation>
+        <translation>Ustaw jako domyślny (&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -1531,10 +1474,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Include on page</source>
-        <translation variants="yes">
-            <lengthvariant>Dołącz do strony</lengthvariant>
-            <lengthvariant>Dołączanie do strony</lengthvariant>
-        </translation>
+        <translation>Dołącz do strony</translation>
     </message>
     <message>
         <source>&amp;Header</source>
@@ -1792,10 +1732,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Use the most &amp;recently print settings</source>
-        <translation variants="yes">
-            <lengthvariant>Użyj &amp;ostatnio używanych ustawień drukowania</lengthvariant>
-            <lengthvariant>Użyj &amp;ostatnio używanych ustawień wydruku</lengthvariant>
-        </translation>
+        <translation>Użyj &amp;ostatnio używanych ustawień wydruku</translation>
     </message>
     <message>
         <source>Use the following &amp;print settings:</source>
@@ -2042,10 +1979,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Package into specified folder:</source>
-        <translation variants="yes">
-            <lengthvariant>Pakiet w określonym folderze:</lengthvariant>
-            <lengthvariant>Pakiet do określonego folderu:</lengthvariant>
-        </translation>
+        <translation>Pakiet do określonego folderu:</translation>
     </message>
     <message>
         <source>Folder &amp;name:</source>
@@ -2404,17 +2338,11 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>tbVolume</source>
-        <translation variants="yes">
-            <lengthvariant>tbGłośność</lengthvariant>
-            <lengthvariant>tbVolume</lengthvariant>
-        </translation>
+        <translation>tbVolume</translation>
     </message>
     <message>
         <source>cbMute</source>
-        <translation variants="yes">
-            <lengthvariant>cbWycisz</lengthvariant>
-            <lengthvariant>cbMute</lengthvariant>
-        </translation>
+        <translation>cbMute</translation>
     </message>
     <message>
         <source>&amp;Mute</source>
@@ -2437,10 +2365,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Action on click</source>
-        <translation variants="yes">
-            <lengthvariant>Akcja przy kliknięciu</lengthvariant>
-            <lengthvariant>Akcja po kliknięciu</lengthvariant>
-        </translation>
+        <translation>Akcja przy kliknięciu</translation>
     </message>
     <message>
         <source>&amp;None</source>
@@ -2523,10 +2448,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>KxDlgWppColorScheme</name>
     <message>
         <source>Standard</source>
-        <translation variants="yes">
-            <lengthvariant>Standardowy</lengthvariant>
-            <lengthvariant>Standardowe</lengthvariant>
-        </translation>
+        <translation>Standardowy</translation>
     </message>
     <message>
         <source>&amp;Color schemes</source>
@@ -2534,11 +2456,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Custom</source>
-        <translation variants="yes">
-            <lengthvariant>Niestandardowy</lengthvariant>
-            <lengthvariant>Niestandardowe</lengthvariant>
-            <lengthvariant>Niestandardowa</lengthvariant>
-        </translation>
+        <translation>Niestandardowy</translation>
     </message>
     <message>
         <source>&amp;Scheme colors</source>
@@ -2618,10 +2536,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>KxDlgWppPrint</name>
     <message>
         <source>Print</source>
-        <translation variants="yes">
-            <lengthvariant>Drukuj</lengthvariant>
-            <lengthvariant>Drukowanie</lengthvariant>
-        </translation>
+        <translation>Drukuj</translation>
     </message>
     <message>
         <source>Print range</source>
@@ -3101,11 +3016,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Custom</source>
-        <translation variants="yes">
-            <lengthvariant>Niestandardowy</lengthvariant>
-            <lengthvariant>Niestandardowe</lengthvariant>
-            <lengthvariant>Niestandardowa</lengthvariant>
-        </translation>
+        <translation>Niestandardowy</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
@@ -3169,10 +3080,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>KxInvolvedTemplateView</name>
     <message>
         <source>Use Blank Template</source>
-        <translation variants="yes">
-            <lengthvariant>Użyj pustego szablonu</lengthvariant>
-            <lengthvariant>Użyj pusty szablon</lengthvariant>
-        </translation>
+        <translation>Użyj pustego szablonu</translation>
     </message>
 </context>
 <context>
@@ -3315,10 +3223,7 @@ folderu, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Package into specified folder:</source>
-        <translation variants="yes">
-            <lengthvariant>Pakiet w określonym folderze:</lengthvariant>
-            <lengthvariant>Pakiet do określonego folderu:</lengthvariant>
-        </translation>
+        <translation>Pakiet do określonego folderu:</translation>
     </message>
 </context>
 <context>
@@ -3345,10 +3250,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation variants="yes">
-            <lengthvariant>Następny</lengthvariant>
-            <lengthvariant>Następna</lengthvariant>
-        </translation>
+        <translation>Następny</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -3482,10 +3384,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Apply to Master</source>
-        <translation variants="yes">
-            <lengthvariant>Zastosuj we wzorcu</lengthvariant>
-            <lengthvariant>Zastosuj do wzora</lengthvariant>
-        </translation>
+        <translation>Zastosuj we wzorcu</translation>
     </message>
     <message>
         <source>Apply to All Slides</source>
@@ -3610,10 +3509,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Advance slide</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz slajd</lengthvariant>
-            <lengthvariant>Przełączanie slajdu</lengthvariant>
-        </translation>
+        <translation>Przełącz slajd</translation>
     </message>
     <message>
         <source>On mouse click</source>
@@ -3629,10 +3525,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Apply to Master</source>
-        <translation variants="yes">
-            <lengthvariant>Zastosuj we wzorcu</lengthvariant>
-            <lengthvariant>Zastosuj do wzora</lengthvariant>
-        </translation>
+        <translation>Zastosuj we wzorcu</translation>
     </message>
     <message>
         <source>Apply to All Slides</source>
@@ -3712,10 +3605,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>&amp;Horizontal:</source>
-        <translation variants="yes">
-            <lengthvariant>Po&amp;ziomo:</lengthvariant>
-            <lengthvariant>Po&amp;ziome:</lengthvariant>
-        </translation>
+        <translation>Po&amp;ziomo:</translation>
     </message>
     <message>
         <source>pt, 2, -169077, 169077, 1</source>
@@ -3723,10 +3613,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>&amp;Vertical:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Pionowo:</lengthvariant>
-            <lengthvariant>&amp;Pionowe:</lengthvariant>
-        </translation>
+        <translation>&amp;Pionowo:</translation>
     </message>
     <message>
         <source>&amp;From:</source>
@@ -3734,10 +3621,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Top left corner</source>
-        <translation variants="yes">
-            <lengthvariant>Lewy górny róg</lengthvariant>
-            <lengthvariant>Lewy górny narożnik</lengthvariant>
-        </translation>
+        <translation>Lewy górny róg</translation>
     </message>
     <message>
         <source>Center</source>
@@ -3822,20 +3706,14 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation variants="yes">
-            <lengthvariant>Automatyczny</lengthvariant>
-            <lengthvariant>Automatycznie</lengthvariant>
-        </translation>
+        <translation>Automatycznie</translation>
     </message>
 </context>
 <context>
     <name>KxWppColorSchemeDlg</name>
     <message>
         <source> A&amp;dd As Standard Scheme </source>
-        <translation variants="yes">
-            <lengthvariant> &amp;Dodaj jako schemat standardowy </lengthvariant>
-            <lengthvariant> &amp;Dodaj jako standardowy schemat </lengthvariant>
-        </translation>
+        <translation> &amp;Dodaj jako schemat standardowy </translation>
     </message>
     <message>
         <source> De&amp;lete Color Scheme </source>
@@ -3870,10 +3748,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>E&amp;mphasis</source>
-        <translation variants="yes">
-            <lengthvariant>W&amp;yróżnienie</lengthvariant>
-            <lengthvariant>Uw&amp;ydatnienie</lengthvariant>
-        </translation>
+        <translation>W&amp;yróżnienie</translation>
     </message>
     <message>
         <source>Motion &amp;Paths</source>
@@ -3973,19 +3848,11 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>&amp;Unlocked</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Odblokowany</lengthvariant>
-            <lengthvariant>&amp;Odblokowane</lengthvariant>
-            <lengthvariant>&amp;Odblokowana</lengthvariant>
-        </translation>
+        <translation>&amp;Odblokowany</translation>
     </message>
     <message>
         <source>&amp;Locked</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Zablokowany</lengthvariant>
-            <lengthvariant>&amp;Zablokowane</lengthvariant>
-            <lengthvariant>&amp;Zablokuj</lengthvariant>
-        </translation>
+        <translation>&amp;Zablokowany</translation>
     </message>
     <message>
         <source>&amp;Edit Points</source>
@@ -4012,10 +3879,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppDesignItem</name>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation variants="yes">
-            <lengthvariant>Zastosuj we &amp;wzorcu</lengthvariant>
-            <lengthvariant>Zastosuj do &amp;wzora</lengthvariant>
-        </translation>
+        <translation>Zastosuj we &amp;wzorcu</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
@@ -4042,10 +3906,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppExtendModeGuideDlg</name>
     <message>
         <source>Set up monitors</source>
-        <translation variants="yes">
-            <lengthvariant>Skonfiguruj monitory</lengthvariant>
-            <lengthvariant>Ustaw monitory</lengthvariant>
-        </translation>
+        <translation>Ustaw monitory</translation>
     </message>
     <message>
         <source>Set screen resolution and color quality</source>
@@ -4113,10 +3974,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Current slides have marked as hidden!</source>
-        <translation variants="yes">
-            <lengthvariant>Bieżące slajdy zostały oznaczone jako ukryte!</lengthvariant>
-            <lengthvariant>Aktualne slajdy zostały oznaczone jako ukryte!</lengthvariant>
-        </translation>
+        <translation>Bieżące slajdy zostały oznaczone jako ukryte!</translation>
     </message>
     <message>
         <source>Slides in this custom show have marked as hidden!</source>
@@ -4214,10 +4072,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Package has been completed</source>
-        <translation variants="yes">
-            <lengthvariant>Pakiet został ukończony</lengthvariant>
-            <lengthvariant>Pakowanie zostało ukończone</lengthvariant>
-        </translation>
+        <translation>Pakiet został ukończony</translation>
     </message>
     <message>
         <source>Open the compressed file</source>
@@ -4595,10 +4450,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>SchemeLayoutPanel</name>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation variants="yes">
-            <lengthvariant>Zastosuj we &amp;wzorcu</lengthvariant>
-            <lengthvariant>Zastosuj do &amp;wzora</lengthvariant>
-        </translation>
+        <translation>Zastosuj we &amp;wzorcu</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
@@ -4610,10 +4462,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Apply to &amp;All Master</source>
-        <translation variants="yes">
-            <lengthvariant>Zastosuj we &amp;wszystkich wzorcach</lengthvariant>
-            <lengthvariant>Zastosuj do &amp;wszystkich wzorców</lengthvariant>
-        </translation>
+        <translation>Zastosuj do &amp;wszystkich wzorców</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Masters</source>
@@ -4648,10 +4497,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>On Click</source>
-        <translation variants="yes">
-            <lengthvariant>Po kliknięciu</lengthvariant>
-            <lengthvariant>Przy kliknięciu</lengthvariant>
-        </translation>
+        <translation>Przy kliknięciu</translation>
     </message>
     <message>
         <source>With Previous</source>
@@ -4671,17 +4517,11 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Very Slow</source>
-        <translation variants="yes">
-            <lengthvariant>Bardzo wolno</lengthvariant>
-            <lengthvariant>Bardzo wolna</lengthvariant>
-        </translation>
+        <translation>Bardzo wolno</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation variants="yes">
-            <lengthvariant>Wolno</lengthvariant>
-            <lengthvariant>Wolna</lengthvariant>
-        </translation>
+        <translation>Wolno</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -4689,10 +4529,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation variants="yes">
-            <lengthvariant>Szybko</lengthvariant>
-            <lengthvariant>Szybka</lengthvariant>
-        </translation>
+        <translation>Szybko</translation>
     </message>
     <message>
         <source>Very Fast</source>
@@ -5184,10 +5021,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>lwLineStyle</source>
-        <translation variants="yes">
-            <lengthvariant>lwStylLinii</lengthvariant>
-            <lengthvariant>lwLineStyle</lengthvariant>
-        </translation>
+        <translation>lwLineStyle</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
@@ -5195,10 +5029,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>cmbBorderColor</source>
-        <translation variants="yes">
-            <lengthvariant>cmbKolorObramowania</lengthvariant>
-            <lengthvariant>cmbBorderColor</lengthvariant>
-        </translation>
+        <translation>cmbBorderColor</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
@@ -5206,10 +5037,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>cmbBorderWidth</source>
-        <translation variants="yes">
-            <lengthvariant>cmbSzerokośćObramowania</lengthvariant>
-            <lengthvariant>cmbBorderWidth</lengthvariant>
-        </translation>
+        <translation>cmbBorderWidth</translation>
     </message>
     <message>
         <source>Click on diagram below or use buttons to apply borders</source>
@@ -5217,27 +5045,15 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>btnBorderUp</source>
-        <translation variants="yes">
-            <lengthvariant>btnKrawędźGórna</lengthvariant>
-            <lengthvariant>btnObramowanieNaGórze</lengthvariant>
-            <lengthvariant>btnBorderUp</lengthvariant>
-        </translation>
+        <translation>btnBorderUp</translation>
     </message>
     <message>
         <source>btnBorderMidHor</source>
-        <translation variants="yes">
-            <lengthvariant>btnKrawędźŚrodkowaPozioma</lengthvariant>
-            <lengthvariant>btnObramowanieŚrodkowePoziome</lengthvariant>
-            <lengthvariant>btnBorderMidHor</lengthvariant>
-        </translation>
+        <translation>btnBorderMidHor</translation>
     </message>
     <message>
         <source>btnBorderUnder</source>
-        <translation variants="yes">
-            <lengthvariant>btnKrawędźDolna</lengthvariant>
-            <lengthvariant>btnObramowanieNaDole</lengthvariant>
-            <lengthvariant>btnBorderUnder</lengthvariant>
-        </translation>
+        <translation>btnBorderUnder</translation>
     </message>
     <message>
         <source>Border Preview</source>
@@ -5245,57 +5061,31 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>btnBorderSlash</source>
-        <translation variants="yes">
-            <lengthvariant>btnKrawędźUkośna</lengthvariant>
-            <lengthvariant>btnObramowanieUkośne</lengthvariant>
-            <lengthvariant>btnBorderSlash</lengthvariant>
-        </translation>
+        <translation>btnBorderSlash</translation>
     </message>
     <message>
         <source>btnBorderLeft</source>
-        <translation variants="yes">
-            <lengthvariant>btnKrawędźLewa</lengthvariant>
-            <lengthvariant>btnObramowaniezLewej</lengthvariant>
-            <lengthvariant>btnBorderLeft</lengthvariant>
-        </translation>
+        <translation>btnBorderLeft</translation>
     </message>
     <message>
         <source>btnBorderMidVer</source>
-        <translation variants="yes">
-            <lengthvariant>btnKrawędźŚrodkowaPionowa</lengthvariant>
-            <lengthvariant>btnObramowanieŚrodkowePionowe</lengthvariant>
-            <lengthvariant>btnBorderMidVer</lengthvariant>
-        </translation>
+        <translation>btnBorderMidVer</translation>
     </message>
     <message>
         <source>btnBorderRight</source>
-        <translation variants="yes">
-            <lengthvariant>btnKrawędźPrawa</lengthvariant>
-            <lengthvariant>btnObramowaniezPrawej</lengthvariant>
-            <lengthvariant>btnBorderRight</lengthvariant>
-        </translation>
+        <translation>btnBorderRight</translation>
     </message>
     <message>
         <source>btnBorderBackSlash</source>
-        <translation variants="yes">
-            <lengthvariant>btnKrawędźUkośnaOdwrócona</lengthvariant>
-            <lengthvariant>btnObramowanieUkośneOdwrócone</lengthvariant>
-            <lengthvariant>btnBorderBackSlash</lengthvariant>
-        </translation>
+        <translation>btnBorderBackSlash</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation variants="yes">
-            <lengthvariant>Wypełnienie</lengthvariant>
-            <lengthvariant>Wypełnij</lengthvariant>
-        </translation>
+        <translation>Wypełnienie</translation>
     </message>
     <message>
         <source>cbFillColor</source>
-        <translation variants="yes">
-            <lengthvariant>cbKolorWypełnienia</lengthvariant>
-            <lengthvariant>cbFillColor</lengthvariant>
-        </translation>
+        <translation>cbFillColor</translation>
     </message>
     <message>
         <source>Fill &amp;color:</source>
@@ -5303,17 +5093,11 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>cmbFillColor</source>
-        <translation variants="yes">
-            <lengthvariant>cmbKolorWypełnienia</lengthvariant>
-            <lengthvariant>cmbFillColor</lengthvariant>
-        </translation>
+        <translation>cmbFillColor</translation>
     </message>
     <message>
         <source>cbSemitransparent</source>
-        <translation variants="yes">
-            <lengthvariant>cbPółprzezroczysty</lengthvariant>
-            <lengthvariant>cbSemitransparent</lengthvariant>
-        </translation>
+        <translation>cbSemitransparent</translation>
     </message>
     <message>
         <source>Semi&amp;transparent</source>
@@ -5329,10 +5113,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>cbTextAlign</source>
-        <translation variants="yes">
-            <lengthvariant>cbWyrównanieTekstu</lengthvariant>
-            <lengthvariant>cbTextAlign</lengthvariant>
-        </translation>
+        <translation>cbTextAlign</translation>
     </message>
     <message>
         <source>Top</source>
@@ -5368,10 +5149,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>cbOrientation</source>
-        <translation variants="yes">
-            <lengthvariant>cbOrientacja</lengthvariant>
-            <lengthvariant>cbOrientation</lengthvariant>
-        </translation>
+        <translation>cbOrientation</translation>
     </message>
     <message>
         <source>Rotat&amp;e text within cell by 90 degrees</source>
@@ -5379,31 +5157,19 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Format Table</source>
-        <translation variants="yes">
-            <lengthvariant>Formatuj tabelę</lengthvariant>
-            <lengthvariant>Formatowanie tabeli</lengthvariant>
-        </translation>
+        <translation>Formatuj tabelę</translation>
     </message>
     <message>
         <source>Top Center</source>
-        <translation variants="yes">
-            <lengthvariant>U góry na środku</lengthvariant>
-            <lengthvariant>Do góry, do środka</lengthvariant>
-        </translation>
+        <translation>U góry na środku</translation>
     </message>
     <message>
         <source>Middle Center</source>
-        <translation variants="yes">
-            <lengthvariant>Do środka na środek</lengthvariant>
-            <lengthvariant>Wyśrodkowane, środek</lengthvariant>
-        </translation>
+        <translation>Do środka na środek</translation>
     </message>
     <message>
         <source>Bottom Center</source>
-        <translation variants="yes">
-            <lengthvariant>U dołu na środku</lengthvariant>
-            <lengthvariant>Do dołu, do środka</lengthvariant>
-        </translation>
+        <translation>U dołu na środku</translation>
     </message>
 </context>
 <context>

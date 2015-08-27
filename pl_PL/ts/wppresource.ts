@@ -38,10 +38,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation variants="yes">
-            <lengthvariant>Niestandardowy</lengthvariant>
-            <lengthvariant>Niestandardowe</lengthvariant>
-        </translation>
+        <translation>Niestandardowy</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -81,10 +78,7 @@
     </message>
     <message>
         <source>Normal</source>
-        <translation variants="yes">
-            <lengthvariant>Normalne</lengthvariant>
-            <lengthvariant>Normalny</lengthvariant>
-        </translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -205,10 +199,7 @@
     </message>
     <message>
         <source>Cycle</source>
-        <translation variants="yes">
-            <lengthvariant>Cykliczny</lengthvariant>
-            <lengthvariant>Cykl</lengthvariant>
-        </translation>
+        <translation>Cykliczny</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -224,10 +215,7 @@
     </message>
     <message>
         <source>Pyramid</source>
-        <translation variants="yes">
-            <lengthvariant>Piramida</lengthvariant>
-            <lengthvariant>Ostrosłupowy</lengthvariant>
-        </translation>
+        <translation>Ostrosłupowy</translation>
     </message>
     <message>
         <source>Radial</source>
@@ -239,18 +227,11 @@
     </message>
     <message>
         <source>Target</source>
-        <translation variants="yes">
-            <lengthvariant>Docelowy</lengthvariant>
-            <lengthvariant>Obiekt docelowy</lengthvariant>
-            <lengthvariant>Element docelowy</lengthvariant>
-        </translation>
+        <translation>Docelowy</translation>
     </message>
     <message>
         <source>Venn</source>
-        <translation variants="yes">
-            <lengthvariant>Venna</lengthvariant>
-            <lengthvariant>Diagram Venna</lengthvariant>
-        </translation>
+        <translation>Venna</translation>
     </message>
 </context>
 <context>
@@ -961,10 +942,7 @@
     </message>
     <message>
         <source>Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Numerowanie</lengthvariant>
-            <lengthvariant>Numeracja</lengthvariant>
-        </translation>
+        <translation>Numerowanie</translation>
     </message>
 </context>
 <context>
@@ -1030,17 +1008,11 @@
     </message>
     <message>
         <source>Standard</source>
-        <translation variants="yes">
-            <lengthvariant>Standardowy</lengthvariant>
-            <lengthvariant>Standardowe</lengthvariant>
-        </translation>
+        <translation>Standardowy</translation>
     </message>
     <message>
         <source>Subordinate</source>
-        <translation variants="yes">
-            <lengthvariant>Podwładny</lengthvariant>
-            <lengthvariant>Podrzędny</lengthvariant>
-        </translation>
+        <translation>Podrzędny</translation>
     </message>
 </context>
 <context>
@@ -1821,22 +1793,14 @@ slajdów</translation>
     <message>
         <source>Animation
 Schemes</source>
-        <translation variants="yes">
-            <lengthvariant>Schematy
-animacji</lengthvariant>
-            <lengthvariant>Animacja
-schematy</lengthvariant>
-        </translation>
+        <translation>Schematy
+animacji</translation>
     </message>
     <message>
         <source>Custom
 Animation</source>
-        <translation variants="yes">
-            <lengthvariant>Animacja
-niestandardowa</lengthvariant>
-            <lengthvariant>Niestandardowa
-animacja</lengthvariant>
-        </translation>
+        <translation>Animacja
+niestandardowa</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1903,10 +1867,7 @@ powiązany</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation variants="yes">
-            <lengthvariant>Pozioma</lengthvariant>
-            <lengthvariant>Poziomo</lengthvariant>
-        </translation>
+        <translation>Pozioma</translation>
     </message>
     <message>
         <source>Page
@@ -1916,10 +1877,7 @@ strony</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation variants="yes">
-            <lengthvariant>Pionowa</lengthvariant>
-            <lengthvariant>Pionowo</lengthvariant>
-        </translation>
+        <translation>Pionowa</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
@@ -1932,12 +1890,8 @@ strony</translation>
     <message>
         <source>Slide
 Layout</source>
-        <translation variants="yes">
-            <lengthvariant>Układ
-slajdu</lengthvariant>
-            <lengthvariant>Slajd
-układ</lengthvariant>
-        </translation>
+        <translation>Układ
+slajdu</translation>
     </message>
     <message>
         <source>Slide
@@ -2309,10 +2263,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkowany</lengthvariant>
-            <lengthvariant>Wyśrodkowane</lengthvariant>
-        </translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>Change Shapes</source>
@@ -2460,11 +2411,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation variants="yes">
-            <lengthvariant>Z lewej</lengthvariant>
-            <lengthvariant>Od lewej</lengthvariant>
-            <lengthvariant>Do lewej</lengthvariant>
-        </translation>
+        <translation>W lewo</translation>
     </message>
     <message>
         <source>Line Break</source>
@@ -2536,11 +2483,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation variants="yes">
-            <lengthvariant>Z prawej</lengthvariant>
-            <lengthvariant>Od prawej</lengthvariant>
-            <lengthvariant>Do prawej</lengthvariant>
-        </translation>
+        <translation>W prawo</translation>
     </message>
     <message>
         <source>Roman</source>
@@ -2588,10 +2531,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
-            <lengthvariant>Ciagły</lengthvariant>
-        </translation>
+        <translation>Ciagły</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -2681,10 +2621,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation variants="yes">
-            <lengthvariant>Numer</lengthvariant>
-            <lengthvariant>Liczba</lengthvariant>
-        </translation>
+        <translation>Numer</translation>
     </message>
 </context>
 <context>
@@ -3325,11 +3262,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation variants="yes">
-            <lengthvariant>Z lewej</lengthvariant>
-            <lengthvariant>Od lewej</lengthvariant>
-            <lengthvariant>Do lewej</lengthvariant>
-        </translation>
+        <translation>Z lewej</translation>
     </message>
     <message>
         <source>Line Break</source>
@@ -3449,11 +3382,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation variants="yes">
-            <lengthvariant>Z prawej</lengthvariant>
-            <lengthvariant>Od prawej</lengthvariant>
-            <lengthvariant>Do prawej</lengthvariant>
-        </translation>
+        <translation>Z prawej</translation>
     </message>
     <message>
         <source>Roman</source>
@@ -3609,10 +3538,7 @@ cienia</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Numerowanie</lengthvariant>
-            <lengthvariant>Numeracja</lengthvariant>
-        </translation>
+        <translation>Numerowanie</translation>
     </message>
 </context>
 <context>
@@ -4112,12 +4038,7 @@ slajdu</translation>
     </message>
     <message>
         <source>FitText Tip</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Dopasuj tekst Porada</lengthvariant>
-            <lengthvariant>Dopasowanie tekstu Porada</lengthvariant>
-            <lengthvariant>Dopasuj tekst Wskazówka</lengthvariant>
-            <lengthvariant>Dopasowanie tekstu Wskazówka</lengthvariant>
-        </translation>
+        <translation type="obsolete">Porada dopasowania tekstu</translation>
     </message>
     <message>
         <source>Left Hanging</source>
@@ -4145,10 +4066,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation variants="yes">
-            <lengthvariant>Standardowy</lengthvariant>
-            <lengthvariant>Standardowe</lengthvariant>
-        </translation>
+        <translation>Standardowy</translation>
     </message>
 </context>
 <context>
@@ -5045,12 +4963,8 @@ wzorzec</translation>
     <message>
         <source>Master 
 Layout</source>
-        <translation variants="yes">
-            <lengthvariant>Układ 
-wzorca</lengthvariant>
-            <lengthvariant>Wzorzec 
-układ</lengthvariant>
-        </translation>
+        <translation>Układ 
+wzorca</translation>
     </message>
     <message>
         <source>More Bullets</source>
@@ -5069,12 +4983,8 @@ slajdów</translation>
     <message>
         <source>New Title 
 Master</source>
-        <translation variants="yes">
-            <lengthvariant>Nowy wzorzec 
-tytułów</lengthvariant>
-            <lengthvariant>Nowy tytuł 
-wzorzec</lengthvariant>
-        </translation>
+        <translation>Nowy wzorzec 
+tytułów</translation>
     </message>
     <message>
         <source>Preserve 
@@ -5137,10 +5047,7 @@ wzorca</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Numerowanie</lengthvariant>
-            <lengthvariant>Numeracja</lengthvariant>
-        </translation>
+        <translation>Numerowanie</translation>
     </message>
 </context>
 <context>
@@ -5181,10 +5088,7 @@ tempa</translation>
     </message>
     <message>
         <source>Set Up</source>
-        <translation variants="yes">
-            <lengthvariant>Ustaw</lengthvariant>
-            <lengthvariant>Przygotuj</lengthvariant>
-        </translation>
+        <translation>Przygotuj</translation>
     </message>
     <message>
         <source>Set Up Show</source>
@@ -5199,12 +5103,8 @@ slajdu</translation>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation variants="yes">
-            <lengthvariant>Ustawienia 
-pokazu slajdów</lengthvariant>
-            <lengthvariant>Pokaz slajdów
-ustawienia</lengthvariant>
-        </translation>
+        <translation>Ustawienia 
+pokazu slajdów</translation>
     </message>
     <message>
         <source>Speaker
@@ -5221,10 +5121,7 @@ prelegenta</translation>
     <name>ongmani.ct_tabletool</name>
     <message>
         <source>Adjust</source>
-        <translation variants="yes">
-            <lengthvariant>Dopasuj</lengthvariant>
-            <lengthvariant>Dopasowywanie</lengthvariant>
-        </translation>
+        <translation>Dopasuj</translation>
     </message>
     <message>
         <source>Align</source>
@@ -5406,11 +5303,7 @@ komórki</translation>
     </message>
     <message>
         <source>Narrow</source>
-        <translation variants="yes">
-            <lengthvariant>Wąskie</lengthvariant>
-            <lengthvariant>Wąski</lengthvariant>
-            <lengthvariant>Zwęź</lengthvariant>
-        </translation>
+        <translation>Wąskie</translation>
     </message>
     <message>
         <source>None</source>
@@ -5418,10 +5311,7 @@ komórki</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation variants="yes">
-            <lengthvariant>Normalne</lengthvariant>
-            <lengthvariant>Normalny</lengthvariant>
-        </translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
@@ -5429,11 +5319,7 @@ komórki</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation variants="yes">
-            <lengthvariant>Z prawej</lengthvariant>
-            <lengthvariant>Od prawej</lengthvariant>
-            <lengthvariant>Do prawej</lengthvariant>
-        </translation>
+        <translation>Z prawej</translation>
     </message>
     <message>
         <source>Rows and Columns</source>
@@ -5488,12 +5374,8 @@ komórki</translation>
     <message>
         <source>Text
 Direction</source>
-        <translation variants="yes">
-            <lengthvariant>Kierunek
-tekstu</lengthvariant>
-            <lengthvariant>Tekst
-kierunek</lengthvariant>
-        </translation>
+        <translation>Kierunek
+tekstu</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -8010,10 +7892,7 @@ slajdów</translation>
     </message>
     <message>
         <source>Branch</source>
-        <translation variants="yes">
-            <lengthvariant>Gałąź</lengthvariant>
-            <lengthvariant>Oddział</lengthvariant>
-        </translation>
+        <translation>Gałąź</translation>
     </message>
     <message>
         <source>Coworker</source>
@@ -8021,10 +7900,7 @@ slajdów</translation>
     </message>
     <message>
         <source>Cycle</source>
-        <translation variants="yes">
-            <lengthvariant>Cykliczny</lengthvariant>
-            <lengthvariant>Cykl</lengthvariant>
-        </translation>
+        <translation>Cykliczny</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -8060,10 +7936,7 @@ slajdów</translation>
     </message>
     <message>
         <source>Pyramid</source>
-        <translation variants="yes">
-            <lengthvariant>Piramida</lengthvariant>
-            <lengthvariant>Ostrosłupowy</lengthvariant>
-        </translation>
+        <translation>Ostrosłupowy</translation>
     </message>
     <message>
         <source>Radial</source>
@@ -8079,25 +7952,15 @@ slajdów</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation variants="yes">
-            <lengthvariant>Standardowy</lengthvariant>
-            <lengthvariant>Standardowe</lengthvariant>
-        </translation>
+        <translation>Standardowy</translation>
     </message>
     <message>
         <source>Subordinate</source>
-        <translation variants="yes">
-            <lengthvariant>Podwładny</lengthvariant>
-            <lengthvariant>Podrzędny</lengthvariant>
-        </translation>
+        <translation>Podrzędny</translation>
     </message>
     <message>
         <source>Target</source>
-        <translation variants="yes">
-            <lengthvariant>Docelowy</lengthvariant>
-            <lengthvariant>Obiekt docelowy</lengthvariant>
-            <lengthvariant>Element docelowy</lengthvariant>
-        </translation>
+        <translation>Docelowy</translation>
     </message>
     <message>
         <source>Use AutoFormat</source>
@@ -8105,10 +7968,7 @@ slajdów</translation>
     </message>
     <message>
         <source>Venn</source>
-        <translation variants="yes">
-            <lengthvariant>Venna</lengthvariant>
-            <lengthvariant>Diagram Venna</lengthvariant>
-        </translation>
+        <translation>Venna</translation>
     </message>
 </context>
 <context>
@@ -8156,10 +8016,7 @@ slajdów</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation variants="yes">
-            <lengthvariant>Przekształć</lengthvariant>
-            <lengthvariant>Przekształcenie</lengthvariant>
-        </translation>
+        <translation>Przekształcenie</translation>
     </message>
     <message>
         <source>Transition Effects</source>
@@ -8208,10 +8065,7 @@ powiązany</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation variants="yes">
-            <lengthvariant>Pozioma</lengthvariant>
-            <lengthvariant>Poziomo</lengthvariant>
-        </translation>
+        <translation>Pozioma</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -8219,10 +8073,7 @@ powiązany</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation variants="yes">
-            <lengthvariant>Pionowa</lengthvariant>
-            <lengthvariant>Pionowo</lengthvariant>
-        </translation>
+        <translation>Pionowa</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
@@ -8686,10 +8537,7 @@ powiązany</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
-            <lengthvariant>Ciagły</lengthvariant>
-        </translation>
+        <translation>Ciagły</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -9662,10 +9510,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Numerowanie</lengthvariant>
-            <lengthvariant>Numeracja</lengthvariant>
-        </translation>
+        <translation>Numerowanie</translation>
     </message>
 </context>
 <context>
@@ -10090,12 +9935,8 @@ slajdu</translation>
     <message>
         <source>Add
 Subordinate</source>
-        <translation variants="yes">
-            <lengthvariant>Dodaj
-podwładnego</lengthvariant>
-            <lengthvariant>Dodaj
-podrzędnego</lengthvariant>
-        </translation>
+        <translation>Dodaj
+podwładnego</translation>
     </message>
     <message>
         <source>Add Assistant</source>
@@ -10127,10 +9968,7 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>Branch</source>
-        <translation variants="yes">
-            <lengthvariant>Gałąź</lengthvariant>
-            <lengthvariant>Oddział</lengthvariant>
-        </translation>
+        <translation>Gałąź</translation>
     </message>
     <message>
         <source>Delete Member</source>
@@ -10142,12 +9980,7 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>FitText Tip</source>
-        <translation variants="yes">
-            <lengthvariant>Dopasuj tekst Porada</lengthvariant>
-            <lengthvariant>Dopasowanie tekstu Porada</lengthvariant>
-            <lengthvariant>Dopasuj tekst Wskazówka</lengthvariant>
-            <lengthvariant>Dopasowanie tekstu Wskazówka</lengthvariant>
-        </translation>
+        <translation>Porada dopasowania tekstu</translation>
     </message>
     <message>
         <source>Left Hanging</source>
@@ -10171,10 +10004,7 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>Standard</source>
-        <translation variants="yes">
-            <lengthvariant>Standardowy</lengthvariant>
-            <lengthvariant>Standardowe</lengthvariant>
-        </translation>
+        <translation>Standardowy</translation>
     </message>
 </context>
 <context>
@@ -10575,10 +10405,7 @@ podrzędnego</lengthvariant>
     <name>rainbow.ct_picturetool.Picture</name>
     <message>
         <source>Adjust</source>
-        <translation variants="yes">
-            <lengthvariant>Dopasuj</lengthvariant>
-            <lengthvariant>Dopasowywanie</lengthvariant>
-        </translation>
+        <translation>Dopasuj</translation>
     </message>
 </context>
 <context>
@@ -11031,12 +10858,8 @@ slajdu</translation>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation variants="yes">
-            <lengthvariant>Ustawienia pokazu
-slajdów</lengthvariant>
-            <lengthvariant>Pokaz slajdów
-ustawienia</lengthvariant>
-        </translation>
+        <translation>Ustawienia pokazu
+slajdów</translation>
     </message>
     <message>
         <source>Slide Transition</source>
@@ -11055,10 +10878,7 @@ ustawienia</lengthvariant>
     <name>rainbow.ct_tabletool</name>
     <message>
         <source>Adjust</source>
-        <translation variants="yes">
-            <lengthvariant>Dopasuj</lengthvariant>
-            <lengthvariant>Dopasowywanie</lengthvariant>
-        </translation>
+        <translation>Dopasuj</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -11094,10 +10914,7 @@ ustawienia</lengthvariant>
     </message>
     <message>
         <source>Custom</source>
-        <translation variants="yes">
-            <lengthvariant>Niestandardowy</lengthvariant>
-            <lengthvariant>Niestandardowe</lengthvariant>
-        </translation>
+        <translation>Niestandardowy</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -11137,11 +10954,7 @@ ustawienia</lengthvariant>
     </message>
     <message>
         <source>Left</source>
-        <translation variants="yes">
-            <lengthvariant>Z lewej</lengthvariant>
-            <lengthvariant>Od lewej</lengthvariant>
-            <lengthvariant>Do lewej</lengthvariant>
-        </translation>
+        <translation>Z lewej</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -11157,11 +10970,7 @@ ustawienia</lengthvariant>
     </message>
     <message>
         <source>Narrow</source>
-        <translation variants="yes">
-            <lengthvariant>Wąskie</lengthvariant>
-            <lengthvariant>Wąski</lengthvariant>
-            <lengthvariant>Zwęź</lengthvariant>
-        </translation>
+        <translation>Wąskie</translation>
     </message>
     <message>
         <source>None</source>
@@ -11169,18 +10978,11 @@ ustawienia</lengthvariant>
     </message>
     <message>
         <source>Normal</source>
-        <translation variants="yes">
-            <lengthvariant>Normalne</lengthvariant>
-            <lengthvariant>Normalny</lengthvariant>
-        </translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation variants="yes">
-            <lengthvariant>Z prawej</lengthvariant>
-            <lengthvariant>Od prawej</lengthvariant>
-            <lengthvariant>Do prawej</lengthvariant>
-        </translation>
+        <translation>Z prawej</translation>
     </message>
     <message>
         <source>Rows and Columns</source>
@@ -12363,10 +12165,7 @@ cienia</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation variants="yes">
-            <lengthvariant>Standardowy</lengthvariant>
-            <lengthvariant>Standardowe</lengthvariant>
-        </translation>
+        <translation>Standardowy</translation>
     </message>
     <message>
         <source>Stop Recording</source>
@@ -12945,17 +12744,11 @@ slajdu</translation>
     </message>
     <message>
         <source>change template</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>zmień szablon</lengthvariant>
-            <lengthvariant>zmienianie szablonu</lengthvariant>
-        </translation>
+        <translation type="obsolete">zmień szablon</translation>
     </message>
     <message>
         <source>magic</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>magia</lengthvariant>
-            <lengthvariant>magic</lengthvariant>
-        </translation>
+        <translation type="obsolete">magic</translation>
     </message>
     <message>
         <source>statusbar</source>
@@ -12991,10 +12784,7 @@ slajdu</translation>
     <name>wppcommon.mainwindow.commands.status bar</name>
     <message>
         <source>Normal</source>
-        <translation variants="yes">
-            <lengthvariant>Normalny</lengthvariant>
-            <lengthvariant>Normalne</lengthvariant>
-        </translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <source>Slide Show from Current(Shift+F5)</source>
@@ -13184,7 +12974,7 @@ slajdu</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>Co nowego</translation>
+        <translation>Co nowego?</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -13421,7 +13211,7 @@ slajdu</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>Co nowego</translation>
+        <translation>Co nowego?</translation>
     </message>
     <message>
         <source>WordArt</source>
