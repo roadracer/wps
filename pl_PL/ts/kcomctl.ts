@@ -375,7 +375,7 @@
     <name>KMenuWidget</name>
     <message>
         <source>InsertCellsInPopup</source>
-        <translation>Wstawianie komórek w menu podręcznym</translation>
+        <translation>Wstawianie komórek</translation>
     </message>
 </context>
 <context>
@@ -389,22 +389,22 @@
     <name>KPluginDownloadingTipWidget</name>
     <message>
         <source>Initializing </source>
-        <translation type="unfinished"></translation>
+        <translation>Inicjowanie </translation>
     </message>
     <message>
         <source>, </source>
-        <translation type="unfinished"></translation>
+        <translation>, </translation>
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę czekać...</translation>
     </message>
 </context>
 <context>
     <name>KPluginFailureTipWidget</name>
     <message>
         <source>Download failed due to possible network problems. Please try again later.</source>
-        <translation type="unfinished">Pobieranie nie powiodło się z powodu możliwych problemów z siecią. Proszę spróbuj ponownie później.</translation>
+        <translation>Pobieranie nie powiodło się z powodu możliwych problemów z siecią. Proszę spróbuj ponownie później.</translation>
     </message>
 </context>
 <context>
@@ -593,14 +593,19 @@ Nieprawidłowy rekord. Plik może mieć zmienioną nazwę, być usunięty lub pr
         <source>
 
 Modified time:</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Godzina modyfikacji:</translation>
     </message>
     <message>
         <source>
 
 
 Invalid record. This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+
+Nieprawidłowy rekord. Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translation>
     </message>
 </context>
 <context>

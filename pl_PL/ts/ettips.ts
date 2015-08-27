@@ -384,7 +384,7 @@ Przykładowo można wybrać euro zamiast dolarów.</translation>
     <message id="DataDetailedSettings.content">
         <source>DataDetailedSettings Content</source>
         <extracomment>DataDetailedSettings.content</extracomment>
-        <translation>Zawartość ustawień szczegółowych Danych</translation>
+        <translation>Umożliwia dokonanie szczegółowych ustawień Danych</translation>
     </message>
     <message id="DataGroup.title">
         <source>Group</source>
@@ -629,12 +629,12 @@ Naciśnij klawisz Esc na klawiaturze lub kliknij tutaj ponownie, aby wyjść z t
     <message id="DrawingToolsDetailedSettings.title">
         <source>Drawing Tools Detailed Settings</source>
         <extracomment>DrawingToolsDetailedSettings.title</extracomment>
-        <translation>Ustawienia szczegółowe Narzędzia do rysowania</translation>
+        <translation>Ustawienia szczegółowe Narzędzi do rysowania</translation>
     </message>
     <message id="DrawingToolsDetailedSettings.content">
         <source>DrawingToolsDetailedSettings Content</source>
         <extracomment>DrawingToolsDetailedSettings.content</extracomment>
-        <translation>Zawartość ustawień szczegółowych Narzędzia do rysowania</translation>
+        <translation>Umożliwia dokonanie szczegółowych ustawień Narzędzi do rysowania</translation>
     </message>
     <message id="Duplicates.title">
         <source>Duplicates</source>
@@ -1026,7 +1026,7 @@ Informacje z nagłówka lub stopki będą widoczne odpowiednio na górze i na do
     <message id="HomeDetailedSettings.content">
         <source>HomeDetailedSettings Content</source>
         <extracomment>HomeDetailedSettings.content</extracomment>
-        <translation>Zawartość ustawień szczegółowych Narzędzi głównych</translation>
+        <translation>Umożliwia dokonanie szczegółowych ustawień Narzędzi głównych</translation>
     </message>
     <message id="Hyperlink.title">
         <source>Insert Hyperlink</source>
@@ -1335,12 +1335,12 @@ Podziały stron są wstawiane powyżej zaznaczenia i po jego lewej stronie.</tra
     <message id="MergeCancel.title">
         <source></source>
         <extracomment>MergeCancel.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translation>Rozdziel komórki</translation>
     </message>
     <message id="MergeCancel.content">
         <source></source>
         <extracomment>MergeCancel.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.zawartość</translation>
+        <translation>Umożliwia podzielenie bieżącej komórki na wiele komórek.</translation>
     </message>
     <message id="Min.title">
         <source>Min</source>
@@ -1624,7 +1624,7 @@ Lista pól umożliwia dodawanie i usuwanie pól.</translation>
     <message id="PageLayoutDetailedSettings.content">
         <source>PageLayoutDetailedSettings Content</source>
         <extracomment>PageLayoutDetailedSettings.content</extracomment>
-        <translation>Zawartość ustawień szczegółowych Układu strony</translation>
+        <translation>Umożliwia dokonanie szczegółowych ustawień Układu strony</translation>
     </message>
     <message id="PageOrientation.title">
         <source>Page Orientation</source>
@@ -2613,12 +2613,12 @@ Narzędzie analizy warunkowej, które znajduje optymalną wartość komórki cel
     <message id="sp_ConditionHighlight.title">
         <source></source>
         <extracomment>sp_ConditionHighlight.title</extracomment>
-        <translation type="unfinished">?</translation>
+        <translation>Wyróżnienie warunkowe</translation>
     </message>
     <message id="sp_ConditionHighlight.content">
         <source></source>
         <extracomment>sp_ConditionHighlight.content</extracomment>
-        <translation type="unfinished">?</translation>
+        <translation>Umożliwia łatwo dostrzec komórki, które spełniają podany zestaw kryteriów.</translation>
     </message>
     <message id="sp_AutoSum.title">
         <source>AutoSum</source>
@@ -2683,38 +2683,38 @@ Narzędzie analizy warunkowej, które znajduje optymalną wartość komórki cel
     <message id="TextSpeech.title">
         <source>Read Text</source>
         <extracomment>TextSpeech.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Czytaj tekst</translation>
     </message>
     <message id="TextSpeech.content">
         <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
         <extracomment>TextSpeech.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia włączenie zmiany tekstu na mowę. Możesz cieszyć się 2-dniową wersją próbną tej funkcji.</translation>
     </message>
     <message id="TextSpeech2.title">
         <source>Reading</source>
         <extracomment>TextSpeech2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Czytanie</translation>
     </message>
     <message id="TextSpeech2.content">
         <source>Click here to stop reading.</source>
         <extracomment>TextSpeech2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kliknij tutaj, aby zatrzymać czytanie.</translation>
     </message>
     <message id="PTRepeatLabels.title">
         <source>Repeat All Item Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Powtarzaj wszystkie etykiety elementów</translation>
     </message>
     <message id="PTRepeatLabels.content">
         <source>Show all parent item labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż wszystkie etykiety elementu nadrzędnego.</translation>
     </message>
     <message id="PTNotRepeatLabels.title">
         <source>Do Not Repeat Item Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie powtarzaj etykiety elementów</translation>
     </message>
     <message id="PTNotRepeatLabels.content">
         <source>Show only one of the duplicate parent item labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż tylko jedną ze zduplikowanych etykiet elementu nadrzędnego.</translation>
     </message>
 </context>
 </TS>

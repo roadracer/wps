@@ -22,17 +22,11 @@
     </message>
     <message>
         <source>Seleted Slide</source>
-        <translation variants="yes">
-            <lengthvariant>Wybrany slajd</lengthvariant>
-            <lengthvariant>Zaznaczony slajd</lengthvariant>
-        </translation>
+        <translation>Wybrany slajd</translation>
     </message>
     <message>
         <source>Assign Slide</source>
-        <translation variants="yes">
-            <lengthvariant>Przypisz slajd</lengthvariant>
-            <lengthvariant>Przypisywanie slajdu</lengthvariant>
-        </translation>
+        <translation>Przypisz slajd</translation>
     </message>
     <message>
         <source>Page</source>
@@ -104,47 +98,47 @@
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Pole tekstowe</translation>
     </message>
     <message>
         <source>Chinese Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Czcionka chińska</translation>
     </message>
     <message>
         <source>Western Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Czcionka zachodnia</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar czcionki</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished">Pogrubienie</translation>
+        <translation>Pogrubienie</translation>
     </message>
     <message>
         <source>Don&apos;t Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie zmieniaj</translation>
     </message>
     <message>
         <source>Unbold</source>
-        <translation type="unfinished"></translation>
+        <translation>Niepogrubiona</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished">Podkreślenie</translation>
+        <translation>Podkreślenie</translation>
     </message>
     <message>
         <source>Un-underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Niepodkreślona</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished">Kursywa</translation>
+        <translation>Kursywa</translation>
     </message>
     <message>
         <source>Unitalicize</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie kursywa</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -163,10 +157,7 @@
     </message>
     <message>
         <source>Content Title</source>
-        <translation variants="yes">
-            <lengthvariant>Zawartość tytułu</lengthvariant>
-            <lengthvariant>Treść tytułu</lengthvariant>
-        </translation>
+        <translation>Tytuł zawartości</translation>
     </message>
     <message>
         <source>·Content and textbox</source>
@@ -190,7 +181,7 @@
     </message>
     <message>
         <source>Content and textbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawartość i pole tekstowe</translation>
     </message>
 </context>
 <context>

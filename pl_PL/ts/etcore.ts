@@ -2613,25 +2613,26 @@ Aby anulować kwerendę, kliknij przycisk Anuluj. </translation>
     <message>
         <source>Spreadsheets</source>
         <comment>TX_DESC_APP_NAME</comment>
-        <translation type="unfinished">Spreadsheets</translation>
+        <translation>Spreadsheets</translation>
     </message>
     <message>
         <source>The text file contains more data than will fit on a single worksheet.</source>
         <comment>TX_TextToColumns_Tip2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ten plik tekstowy zawiera więcej danych niż się zmieści w pojedynczym arkuszu.</translation>
     </message>
     <message>
         <source>The text file contains more data than will fit on a single worksheet.
 To continue and import as much of the data as will fit, click OK.</source>
         <comment>TX_ImportText_Overflowed_Tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ten plik tekstowy zawiera więcej danych niż się zmieści w pojedynczym arkuszu.
+Aby kontynuować i importować tyle danych, ile się zmieści, kliknij przycisk OK.</translation>
     </message>
     <message>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
 This backup will be saved to (%s)</source>
         <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
-        <translation type="unfinished">Występują błędy podczas tworzenia kopii zapasowej! Nie masz uprawnień do zapisywania w katalogu kopii zapasowej, w którym miała być umieszczona. Proszę spróbuj zmienić katalog kopii zapasowej.
-Ta kopia zapasowa zostanie zapisana do(%s)</translation>
+        <translation>Występują błędy podczas tworzenia kopii zapasowej! Nie masz uprawnień do zapisywania w katalogu kopii zapasowej, w którym miała być umieszczona. Proszę spróbuj zmienić katalog kopii zapasowej.
+Ta kopia zapasowa zostanie zapisana do (%s)</translation>
     </message>
     <message>
         <source>The query returned more data than will fit on a worksheet.
@@ -2639,55 +2640,58 @@ Ta kopia zapasowa zostanie zapisana do(%s)</translation>
 To continue and display as much of the data as will fit, click OK.
 To cancel the query, click Cancel.</source>
         <comment>TX_ImportOtherData_Overflowed_Tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kwerenda zwróciła więcej danych niż mieści się w arkuszu.
+
+Aby kontynuować i wyświetlić tyle danych, ile się mieści, kliknij przycisk OK.
+Aby anulować kwerendę, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>When the active sheet is a macro sheet, it cannot be saved as xml, prn, or dbf. Please save as other formats.</source>
         <comment>TX_MacroSheet_CannotSave_As</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gdy aktywny arkusz jest arkuszem makr, nie można go zapisać jako xml, prn lub dbf. Proszę zapisz jako inne formaty.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
         <comment>TX_Find_DoNotExist</comment>
-        <translation type="unfinished">Program WPS Spreadsheets nie możne znaleźć szukanych danych. Proszę sprawdź opcje wyszukiwania.</translation>
+        <translation>Program WPS Spreadsheets nie możne znaleźć szukanych danych. Proszę sprawdź opcje wyszukiwania.</translation>
     </message>
     <message>
         <source> [Compatibility Mode]</source>
         <comment>TX_CompatibilityMode</comment>
-        <translation type="unfinished"></translation>
+        <translation> [Tryb zgodności]</translation>
     </message>
     <message>
         <source>Item</source>
         <comment>TX_Sharepoint_FSObjType_Item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Element</translation>
     </message>
     <message>
         <source>Folder</source>
         <comment>TX_Sharepoint_FSObjType_Folder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Folder</translation>
     </message>
     <message>
         <source>Enter your credentials:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź poświadczenia:</translation>
     </message>
     <message>
         <source>Connecting to %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Łączenie do %s</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>TX_DESC_APP_OBJECT_NAME</comment>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>Opening...</source>
         <comment>TX_PROGRESS_OPENING</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otwieranie...</translation>
     </message>
     <message>
         <source>Saving...</source>
         <comment>TX_PROGRESS_SAVING</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zapisywanie...</translation>
     </message>
 </context>
 <context>
@@ -3836,7 +3840,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Unable to open XML file. File does not exit or XML syntax error.</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished">Nie można otworzyć pliku XML. Plik nie istnieje lub ma błąd składniowy XML.</translation>
+        <translation>Nie można otworzyć pliku XML. Plik nie istnieje lub ma błąd składniowy XML.</translation>
     </message>
 </context>
 <context>
@@ -7683,12 +7687,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>FORMULA.FIND(text, in_num, at_num, by_num, dir_num, match_case)</source>
         <comment>FORMULAFIND_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>FORMUŁA.ZNAJDŹ(tekst; gdzie_liczba; co_liczba; wg_liczba; kierunek_liczba; uwzgl_wielkość)</translation>
     </message>
     <message>
         <source>CALCULATION(type_num, iter, max_num, max_change, update, precision, date_1904, calc_save, save_values, alt_exp, alt_form)</source>
         <comment>CALCULATION_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>PRZELICZENIE(typ_nr; iter; maks_liczba; maks_zmiana; aktualizuj; precyzja; data_1904; oblicz_zapisz; zapisz_wartości; alt_exp; alt_form)</translation>
     </message>
 </context>
 <context>
@@ -8147,7 +8151,7 @@ Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
 This backup will be saved to (%s)</source>
         <comment>TX_Persist_MsgBackupToDef</comment>
         <translation>Występują błędy podczas tworzenia kopii zapasowej! Nie masz uprawnień do zapisywania w katalogu kopii zapasowej, w którym miała być umieszczona. Proszę spróbuj zmienić katalog kopii zapasowej.
-Ta kopia zapasowa zostanie zapisana do(%s)</translation>
+Ta kopia zapasowa zostanie zapisana do (%s)</translation>
     </message>
     <message>
         <source>The author would like you to open &quot;%s&quot; as read-only unless you need to make changes. Open as read-only?</source>
@@ -8158,12 +8162,13 @@ Ta kopia zapasowa zostanie zapisana do(%s)</translation>
         <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
 To continue saving as a macro-free workbook, click Yes.</source>
         <comment>TX_Save_Xlsx_Warning_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>W celu zapisania pliku z tymi funkcjami kliknij przycisk Nie, a następnie wybierz typ pliku z obsługą makr z listy typów plików.
+Aby kontynuować zapisywanie skoroszytu jako pliku bez obsługi makr, kliknij przycisk Tak.</translation>
     </message>
     <message>
         <source>File Unsaved</source>
         <comment>TX_FILE_UNSAVED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Niezapisany plik</translation>
     </message>
 </context>
 <context>
@@ -13753,7 +13758,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Draft</source>
         <comment>TX_ParaInfo_334</comment>
-        <translation>Szkic</translation>
+        <translation>Wersja robocza</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -14108,7 +14113,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>value1,value2,... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
         <comment>TX_ParaDesc_059</comment>
-        <translation type="unfinished">wartość1,wartość2,... od 1 do 255 argumentów, które mogą zawierać lub odwoływać się do różnych typów danych, przy czym zliczane będą tylko liczby.</translation>
+        <translation>wartość1,wartość2,... od 1 do 255 argumentów, które mogą zawierać lub odwoływać się do różnych typów danych, przy czym zliczane będą tylko liczby.</translation>
     </message>
     <message>
         <source>value1, value2,... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
@@ -14337,8 +14342,8 @@ Istnieje kilka możliwych przyczyn:
         <comment>TX_InputFormula_Error</comment>
         <translation>Wprowadzona formuła zawiera błędy. Program WPS Spreadsheets automatycznie poprawił ją jako: 
 &apos;%s
-• Jeśli chcesz zaakceptować poprawienie, kliknij przycisk OK.
-• Jeśli chcesz zamknąć ten komunikat i samodzielnie poprawić formułę, kliknij przycisk Anuluj.
+• Aby zaakceptować poprawienie, kliknij przycisk OK.
+• Aby zamknąć ten komunikat i samodzielnie poprawić formułę, kliknij przycisk Anuluj.
 • Jeśli nie wprowadzasz formuły, proszę unikaj używania na początku znaku równości (=), znaku plus (+) lub znaku minus (-).</translation>
     </message>
     <message>
@@ -14567,112 +14572,116 @@ Istnieje kilka możliwych przyczyn:
 • To close this message and correct the formula by yourself, click Cancel.
 • If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
         <comment>TX_InputFormulaStringTooLong_Error</comment>
-        <translation type="unfinished"></translation>
+        <translation>Stały ciąg znaków w formule jest zbyt długi. Program WPS Spreadsheets automatycznie poprawił go jako:
+&apos;%s
+• Aby zaakceptować poprawienie, kliknij przycisk OK.
+• Aby zamknąć ten komunikat i samodzielnie poprawić formułę, kliknij przycisk Anuluj.
+• Jeśli nie wprowadzasz formuły, proszę unikaj używania na początku znaku równości (=), znaku plus (+) lub znaku minus (-).</translation>
     </message>
     <message>
         <source>Spell Check</source>
         <comment>TX_SpellCheck_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdzanie pisowni</translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE and can be logical values, arrays, or references.</source>
         <comment>TX_ParaDesc_009</comment>
-        <translation type="unfinished"></translation>
+        <translation>logiczna1,logiczna2,... od 1 do 255 testowanych warunków, które mogą mieć wartość PRAWDA albo FAŁSZ i są wartościami logicznymi, tablicami lub odwołaniami.</translation>
     </message>
     <message>
         <source>value1, value2,... are 1 to 30 arguments representing the values and cells you want to count. Values can be any type of information.</source>
         <comment>TX_ParaDesc_060</comment>
-        <translation type="unfinished"></translation>
+        <translation>wartość1,wartość2,... od 1 do 255 argumentów reprezentujących zliczane wartości. Wartości mogą być dowolnego typu.</translation>
     </message>
     <message>
         <source>is the condition in the form of a number, expression, or text that defines which cells will be counted</source>
         <comment>TX_ParaDesc_063</comment>
-        <translation type="unfinished"></translation>
+        <translation>kryteria podane w formie liczby, wyrażenia lub tekstu, określające, które komórki będą uwzględniane przy zliczaniu</translation>
     </message>
     <message>
         <source>Text</source>
         <comment>TX_ParaInfo_352</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>In_num</source>
         <comment>TX_ParaInfo_353</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gdzie_liczba</translation>
     </message>
     <message>
         <source>At_num</source>
         <comment>TX_ParaInfo_354</comment>
-        <translation type="unfinished"></translation>
+        <translation>Co_liczba</translation>
     </message>
     <message>
         <source>By_num</source>
         <comment>TX_ParaInfo_355</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wg_liczba</translation>
     </message>
     <message>
         <source>Dir_num</source>
         <comment>TX_ParaInfo_356</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kierunek_liczba</translation>
     </message>
     <message>
         <source>Match_case</source>
         <comment>TX_ParaInfo_357</comment>
-        <translation type="unfinished"></translation>
+        <translation>Uwzgl_wielkość</translation>
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_358</comment>
-        <translation type="unfinished">Typ_nr</translation>
+        <translation>Typ_nr</translation>
     </message>
     <message>
         <source>Iter</source>
         <comment>TX_ParaInfo_359</comment>
-        <translation type="unfinished"></translation>
+        <translation>Iter</translation>
     </message>
     <message>
         <source>Max_num</source>
         <comment>TX_ParaInfo_360</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maks_liczba</translation>
     </message>
     <message>
         <source>Max_change</source>
         <comment>TX_ParaInfo_361</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maks_zmiana</translation>
     </message>
     <message>
         <source>Update</source>
         <comment>TX_ParaInfo_362</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizuj</translation>
     </message>
     <message>
         <source>Precision</source>
         <comment>TX_ParaInfo_363</comment>
-        <translation type="unfinished">Precyzja</translation>
+        <translation>Precyzja</translation>
     </message>
     <message>
         <source>Date_1904</source>
         <comment>TX_ParaInfo_364</comment>
-        <translation type="unfinished"></translation>
+        <translation>Data_1904</translation>
     </message>
     <message>
         <source>Calc_save</source>
         <comment>TX_ParaInfo_365</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oblicz_zapisz</translation>
     </message>
     <message>
         <source>Save_values</source>
         <comment>TX_ParaInfo_366</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz_wartości</translation>
     </message>
     <message>
         <source>Alt_exp</source>
         <comment>TX_ParaInfo_367</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alt_exp</translation>
     </message>
     <message>
         <source>Alt_form</source>
         <comment>TX_ParaInfo_368</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alt_form</translation>
     </message>
 </context>
 <context>
@@ -15400,7 +15409,7 @@ Istnieje kilka możliwych przyczyn:
     <message>
         <source>PivotTable&apos;s field filter</source>
         <comment>TX_Undo_PivotTableFilter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Filtr pól tabeli przestawnej</translation>
     </message>
 </context>
 <context>

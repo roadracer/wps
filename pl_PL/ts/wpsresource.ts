@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -1041,17 +1041,11 @@
     <name>classics.formatting.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Więcej numerowania</lengthvariant>
-            <lengthvariant>Więcej numeracji</lengthvariant>
-        </translation>
+        <translation>Więcej numerowania</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Numerowanie</lengthvariant>
-            <lengthvariant>Numeracja</lengthvariant>
-        </translation>
+        <translation>Numerowanie</translation>
     </message>
 </context>
 <context>
@@ -1471,7 +1465,6 @@
     </message>
     <message>
         <source>Final</source>
-        <translatorcomment>Ostateczne</translatorcomment>
         <translation>Końcowe</translation>
     </message>
     <message>
@@ -1807,10 +1800,7 @@
     <name>classics.tables_and_borders</name>
     <message>
         <source>AutoFit Window</source>
-        <translation variants="yes">
-            <lengthvariant>Autodopasowanie do okna</lengthvariant>
-            <lengthvariant>Automatycznie dopasuj do okna</lengthvariant>
-        </translation>
+        <translation>Autodopasowanie okna</translation>
     </message>
     <message>
         <source>AutoFit to Content</source>
@@ -2507,19 +2497,19 @@ Visual Basic</translation>
     </message>
     <message>
         <source>XML</source>
-        <translation type="unfinished"></translation>
+        <translation>XML</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakiet rozszerzenia XML</translation>
     </message>
     <message>
         <source>XmlSchema</source>
-        <translation type="unfinished"></translation>
+        <translation>Schemat XML</translation>
     </message>
     <message>
         <source>XmlStructure</source>
-        <translation type="unfinished"></translation>
+        <translation>Struktura XML</translation>
     </message>
 </context>
 <context>
@@ -3268,7 +3258,7 @@ tekstu</translation>
     </message>
     <message>
         <source>WPS Writer 2007-2010 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument programu WPS Writer 2007–2010</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -3830,17 +3820,11 @@ styl</translation>
     <name>ongmani.ct_home.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Więcej numerowania</lengthvariant>
-            <lengthvariant>Więcej numeracji</lengthvariant>
-        </translation>
+        <translation>Więcej numerowania</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Numerowanie</lengthvariant>
-            <lengthvariant>Numeracja</lengthvariant>
-        </translation>
+        <translation>Numerowanie</translation>
     </message>
 </context>
 <context>
@@ -4204,7 +4188,6 @@ strony</translation>
     </message>
     <message>
         <source>Write &amp; Insert Fields</source>
-        <translatorcomment>Napisz i wstaw pola</translatorcomment>
         <translation>Zapisz i wstaw pola</translation>
     </message>
 </context>
@@ -4276,10 +4259,7 @@ strony</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation variants="yes">
-            <lengthvariant>W górę</lengthvariant>
-            <lengthvariant>Do góry</lengthvariant>
-        </translation>
+        <translation>W górę</translation>
     </message>
     <message>
         <source>Update TOC</source>
@@ -4822,17 +4802,11 @@ tekstu</translation>
     <name>ongmani.ct_paragraph.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Więcej numerowania</lengthvariant>
-            <lengthvariant>Więcej numeracji</lengthvariant>
-        </translation>
+        <translation>Więcej numerowania</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Numerowanie</lengthvariant>
-            <lengthvariant>Numeracja</lengthvariant>
-        </translation>
+        <translation>Numerowanie</translation>
     </message>
 </context>
 <context>
@@ -5332,10 +5306,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
-            <lengthvariant>Ciagły</lengthvariant>
-        </translation>
+        <translation>Ciagły</translation>
     </message>
     <message>
         <source>Square</source>
@@ -5575,7 +5546,7 @@ Przypis dolny/Przypis końcowy</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Chińskie tłumaczenie</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -5756,7 +5727,7 @@ zmiany</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumaczenie</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -5865,7 +5836,6 @@ i stopka</translation>
     </message>
     <message>
         <source>Locate Section</source>
-        <translatorcomment>Znajdź sekcję</translatorcomment>
         <translation>Zlokalizuj sekcję</translation>
     </message>
     <message>
@@ -7873,7 +7843,8 @@ WordArt</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished">Mowa tekstu</translation>
+        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translation>Tekst na mowę</translation>
     </message>
     <message>
         <source>Text Tools</source>
@@ -7904,11 +7875,12 @@ WordArt</translation>
     <name>ongmani.proxycommands</name>
     <message>
         <source>Full-Text Speech</source>
-        <translation type="unfinished">Pełny tekst mowy</translation>
+        <translatorcomment>Mowa pełnotekstowa</translatorcomment>
+        <translation>Pełny tekst na mowę</translation>
     </message>
     <message>
         <source>Output Voice</source>
-        <translation type="unfinished"></translation>
+        <translation>Głos wyjściowy</translation>
     </message>
     <message>
         <source>PDF To Word</source>
@@ -7916,19 +7888,21 @@ WordArt</translation>
     </message>
     <message>
         <source>Selection Speech</source>
-        <translation type="unfinished">Wybór mowy</translation>
+        <translatorcomment>Mowa zaznaczenia</translatorcomment>
+        <translation>Zaznaczenie na mowę</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż pasek narzędzi</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished">Tekst mowy</translation>
+        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translation>Tekst na mowę</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumaczenie</translation>
     </message>
 </context>
 <context>
@@ -9758,7 +9732,7 @@ formatów</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumaczenie</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -9997,10 +9971,7 @@ formatów</translation>
     <name>popupmenu.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Więcej numerowania</lengthvariant>
-            <lengthvariant>Więcej numeracji</lengthvariant>
-        </translation>
+        <translation>Więcej numerowania</translation>
     </message>
     <message>
         <source>Number</source>
@@ -10303,19 +10274,19 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>XML</source>
-        <translation type="unfinished"></translation>
+        <translation>XML</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakiet rozszerzenia XML</translation>
     </message>
     <message>
         <source>XmlSchema</source>
-        <translation type="unfinished"></translation>
+        <translation>Schemat XML</translation>
     </message>
     <message>
         <source>XmlStructure</source>
-        <translation type="unfinished"></translation>
+        <translation>Struktura XML</translation>
     </message>
 </context>
 <context>
@@ -11005,7 +10976,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>WPS Writer 2007-2010 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument programu WPS Writer 2007–2010</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -11528,17 +11499,11 @@ nagłówkiem i stopką</translation>
     <name>rainbow.ct_home.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Więcej numerowania</lengthvariant>
-            <lengthvariant>Więcej numeracji</lengthvariant>
-        </translation>
+        <translation>Więcej numerowania</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation variants="yes">
-            <lengthvariant>Numerowanie</lengthvariant>
-            <lengthvariant>Numeracja</lengthvariant>
-        </translation>
+        <translation>Numerowanie</translation>
     </message>
 </context>
 <context>
@@ -13353,7 +13318,7 @@ tekst</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumaczenie</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -13442,7 +13407,6 @@ tekst</translation>
     </message>
     <message>
         <source>Locate Section</source>
-        <translatorcomment>Znajdź sekcję</translatorcomment>
         <translation>Zlokalizuj sekcję</translation>
     </message>
     <message>
@@ -15276,7 +15240,8 @@ cienia</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished">Tekst mowy</translation>
+        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translation>Tekst na mowę</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -15311,11 +15276,12 @@ cienia</translation>
     <name>rainbow.proxycommands</name>
     <message>
         <source>Full-Text Speech</source>
-        <translation type="unfinished">Pełny tekst mowy</translation>
+        <translatorcomment>Mowa pełnotekstowa</translatorcomment>
+        <translation>Pełny tekst na mowę</translation>
     </message>
     <message>
         <source>Output Voice</source>
-        <translation type="unfinished"></translation>
+        <translation>Głos wyjściowy</translation>
     </message>
     <message>
         <source>PDF To Word</source>
@@ -15323,19 +15289,21 @@ cienia</translation>
     </message>
     <message>
         <source>Selection Speech</source>
-        <translation type="unfinished">Wybór mowy</translation>
+        <translatorcomment>Mowa zaznaczenia</translatorcomment>
+        <translation>Zaznaczenie na mowę</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż pasek narzędzi</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished">Tekst mowy</translation>
+        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translation>Tekst na mowę</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumaczenie</translation>
     </message>
 </context>
 <context>
@@ -15836,8 +15804,7 @@ cienia</translation>
     </message>
     <message>
         <source>Eye Protection Night Mode</source>
-        <translatorcomment>???</translatorcomment>
-        <translation type="unfinished">Tryb ochrony oczu i Tryb nocny</translation>
+        <translation>Tryb nocny ochrony oczu</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -15925,10 +15892,7 @@ cienia</translation>
     </message>
     <message>
         <source>Inline Picture</source>
-        <translation variants="yes">
-            <lengthvariant>Obraz w tekście</lengthvariant>
-            <lengthvariant>Obraz wbudowany</lengthvariant>
-        </translation>
+        <translation>Obraz w tekście</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -15956,10 +15920,7 @@ cienia</translation>
     </message>
     <message>
         <source>Mail FeedBack</source>
-        <translation variants="yes">
-            <lengthvariant>Poczta opinii</lengthvariant>
-            <lengthvariant>Poczta Feedback</lengthvariant>
-        </translation>
+        <translation>Wyślij opinię przez e-mail</translation>
     </message>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
@@ -16040,11 +16001,11 @@ cienia</translation>
     </message>
     <message>
         <source>Operation Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Operacja dokumentu</translation>
     </message>
     <message>
         <source>Opr</source>
-        <translation type="unfinished"></translation>
+        <translation>Operacja</translation>
     </message>
     <message>
         <source>Options</source>
@@ -16197,10 +16158,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Speak</source>
-        <translation variants="yes">
-            <lengthvariant>Czytaj</lengthvariant>
-            <lengthvariant>Mów</lengthvariant>
-        </translation>
+        <translation>Odczytaj</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -16228,11 +16186,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation variants="yes">
-            <lengthvariant>Rozpocznij</lengthvariant>
-            <lengthvariant>Początek</lengthvariant>
-            <lengthvariant>Uruchom</lengthvariant>
-        </translation>
+        <translation>Rozpocznij</translation>
     </message>
     <message>
         <source>Status Bar</source>
@@ -16368,7 +16322,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>XMLStructure</source>
-        <translation type="unfinished"></translation>
+        <translation>Struktura XML</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -16384,7 +16338,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>structure</source>
-        <translation type="unfinished"></translation>
+        <translation>struktura</translation>
     </message>
 </context>
 <context>
@@ -16485,7 +16439,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiadomości</translation>
     </message>
     <message>
         <source>Office Space</source>
@@ -16509,7 +16463,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>PDF To Word</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF do Word</translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -16601,7 +16555,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Touch Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb dotyku</translation>
     </message>
     <message>
         <source>User Sign in</source>
@@ -16624,7 +16578,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>Co nowego</translation>
+        <translation>Co nowego?</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -16752,7 +16706,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiadomości</translation>
     </message>
     <message>
         <source>Office Space</source>
@@ -16772,7 +16726,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>PDF To Word</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF do Word</translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -16883,7 +16837,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>Co nowego</translation>
+        <translation>Co nowego?</translation>
     </message>
     <message>
         <source>WordArt</source>

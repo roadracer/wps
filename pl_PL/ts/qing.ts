@@ -6,7 +6,7 @@
     <name>KAboutDlg</name>
     <message>
         <source>About WPS Office Cloud</source>
-        <translation>O usłudze WPS Office Cloud</translation>
+        <translation>Informacje o usłudze WPS Office Cloud</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -447,7 +447,7 @@
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>&amp;O</translation>
+        <translation>&amp;Informacje o</translation>
     </message>
     <message>
         <source>&amp;Sign Out</source>
@@ -562,8 +562,7 @@ Czas do uaktualnienia: %1</translation>
     <name>KPushDebugDlg</name>
     <message>
         <source>Push Debug Dialog</source>
-        <translatorcomment>Push? - może przycisk</translatorcomment>
-        <translation type="unfinished">Naciśnij okno dialogowe debugowania</translation>
+        <translation>Wypchnij (Push) okno dialogowe debugowania</translation>
     </message>
     <message>
         <source>Tags subscribed: </source>
@@ -631,8 +630,7 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>Push messages received:</source>
-        <translatorcomment>Push?</translatorcomment>
-        <translation type="unfinished">Wciśnij wiadomości odebrane:</translation>
+        <translation>Wypchnij (Push) wiadomości odebrane:</translation>
     </message>
     <message>
         <source>Device type:</source>
@@ -644,8 +642,7 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>Push message type:</source>
-        <translatorcomment>Push?</translatorcomment>
-        <translation type="unfinished">Wypychanie wiadomości typu:</translation>
+        <translation>Wypchnij (Push) wiadomości typu:</translation>
     </message>
     <message>
         <source>User IDs (separated by semi-colons):</source>
@@ -801,10 +798,7 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>lblLoginName</source>
-        <translation variants="yes">
-            <lengthvariant>lblNazwaLogowania</lengthvariant>
-            <lengthvariant>lblLoginName</lengthvariant>
-        </translation>
+        <translation>lblLoginName</translation>
     </message>
     <message>
         <source>Uploading:</source>
@@ -812,10 +806,7 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>lblUploadingInfo</source>
-        <translation variants="yes">
-            <lengthvariant>lblPrzesyłanieInformacji</lengthvariant>
-            <lengthvariant>lblUploadingInfo</lengthvariant>
-        </translation>
+        <translation>lblUploadingInfo</translation>
     </message>
     <message>
         <source>View Uploading Files</source>
@@ -827,10 +818,7 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>lblDownloadingInfo</source>
-        <translation variants="yes">
-            <lengthvariant>lblPobieranieInformacji</lengthvariant>
-            <lengthvariant>lblDownloadingInfo</lengthvariant>
-        </translation>
+        <translation>lblDownloadingInfo</translation>
     </message>
     <message>
         <source>View Downloading Files</source>
@@ -842,10 +830,7 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>lblFinishedInfo</source>
-        <translation variants="yes">
-            <lengthvariant>lblZakończoneInformacje</lengthvariant>
-            <lengthvariant>lblFinishedInfo</lengthvariant>
-        </translation>
+        <translation>lblFinishedInfo</translation>
     </message>
     <message>
         <source>View Finished Files</source>
@@ -857,10 +842,7 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>lblErrorInfo</source>
-        <translation variants="yes">
-            <lengthvariant>lblInformacjeObłędzie</lengthvariant>
-            <lengthvariant>lblErrorInfo</lengthvariant>
-        </translation>
+        <translation>lblErrorInfo</translation>
     </message>
     <message>
         <source>View Error</source>
@@ -960,7 +942,7 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>&amp;O</translation>
+        <translation>&amp;Informacje o</translation>
     </message>
     <message>
         <source>A file is being uploaded on this page. Please try again later.</source>
@@ -1013,7 +995,7 @@ Czas do uaktualnienia: %1</translation>
     <name>QObject</name>
     <message>
         <source>unknow qiniu error</source>
-        <translation type="unfinished">nieznany błąd qiniu</translation>
+        <translation>nieznany błąd qiniu</translation>
     </message>
     <message>
         <source>part_success</source>

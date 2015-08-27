@@ -119,10 +119,7 @@
     </message>
     <message>
         <source>Alphanumeric</source>
-        <translation variants="yes">
-            <lengthvariant>Alfanumeryczny</lengthvariant>
-            <lengthvariant>Alfanumeryczne</lengthvariant>
-        </translation>
+        <translation>Alfanumeryczny</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -134,10 +131,7 @@
     </message>
     <message>
         <source>Stroke</source>
-        <translation variants="yes">
-            <lengthvariant>Pociągnięcie</lengthvariant>
-            <lengthvariant>Naciśnięcie</lengthvariant>
-        </translation>
+        <translation>Pociągnięcie</translation>
     </message>
     <message>
         <source>Chinese</source>
@@ -602,7 +596,12 @@ Try one or more of the following:
 3. Make sure that the source file is in the appropriate directory.
 4. Make sure that the source file&apos;s format is supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Program WPS Writer napotkał błąd podczas próby aktualizacji pliku źródłowego.
+Spróbuj wykonać jedną lub więcej z następujących czynności:
+1. Sprawdź czy plik źródłowy jest otwarty lub używany przez inne programy.
+2. Sprawdź czy plik źródłowy jest chroniony.
+3. Upewnij się, że plik źródłowy jest w odpowiednim katalogu.
+4. Upewnij się, że plik źródłowy może być obsługiwany przez WPS.</translation>
     </message>
 </context>
 <context>
@@ -630,7 +629,6 @@ Try one or more of the following:
     <message>
         <source>Number</source>
         <comment>TX_FIELD_NUMBER</comment>
-        <translatorcomment>Numer</translatorcomment>
         <translation>Liczba</translation>
     </message>
     <message>
@@ -651,18 +649,12 @@ Try one or more of the following:
     <message>
         <source>_Top</source>
         <comment>TX_FILED_LINK_DOCUMENTTOP</comment>
-        <translation variants="yes">
-            <lengthvariant>_Góra</lengthvariant>
-            <lengthvariant>_Do góry</lengthvariant>
-        </translation>
+        <translation>_Góra</translation>
     </message>
     <message>
         <source>Main Document Only.</source>
         <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
-        <translation variants="yes">
-            <lengthvariant>Tylko dokument główny.</lengthvariant>
-            <lengthvariant>Dokument główny tylko.</lengthvariant>
-        </translation>
+        <translation>Tylko dokument główny.</translation>
     </message>
     <message>
         <source>Error. Missing test condition.</source>
@@ -743,7 +735,6 @@ Try one or more of the following:
     <message>
         <source>Error! The file you specified cannot be opened.</source>
         <comment>TX_FIELD_ERR_CANNOT_OPEN_FILE</comment>
-        <translatorcomment>Błąd! Określony plik nie może zostać otwarty.</translatorcomment>
         <translation>Błąd! Nie można otworzyć określonego pliku.</translation>
     </message>
     <message>
@@ -1095,10 +1086,7 @@ Try one or more of the following:
     <message>
         <source>Cannot merge</source>
         <comment>_TxSplitCells_CantMergeError</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można scalić</lengthvariant>
-            <lengthvariant>Nie można połączyć</lengthvariant>
-        </translation>
+        <translation>Nie można scalić</translation>
     </message>
     <message>
         <source>Cannot split the selection because it contains joined cells.</source>
@@ -1231,27 +1219,27 @@ Try one or more of the following:
     <message>
         <source>WPS Writer has reached the beginning of the document.</source>
         <comment>_TxFind_ReachBeginningOfDoc</comment>
-        <translation>WPS Writer osiągnął początek dokumentu.</translation>
+        <translation>Program WPS Writer osiągnął początek dokumentu.</translation>
     </message>
     <message>
         <source>WPS Writer has reached the end of the document.</source>
         <comment>_TxFind_ReachEndOfDoc</comment>
-        <translation>WPS Writer osiągnął koniec dokumentu.</translation>
+        <translation>Program WPS Writer osiągnął koniec dokumentu.</translation>
     </message>
     <message>
         <source>WPS Writer has finished searching the document.</source>
         <comment>_TxFind_FinishSearchingDoc</comment>
-        <translation>WPS Writer zakończył przeszukiwanie dokumentu.</translation>
+        <translation>Program WPS Writer zakończył przeszukiwanie dokumentu.</translation>
     </message>
     <message>
         <source>WPS Writer has finished searching the document.</source>
         <comment>_TxFind_FinishSearchingDoc2</comment>
-        <translation>WPS Writer zakończył przeszukiwanie dokumentu.</translation>
+        <translation>Program WPS Writer zakończył przeszukiwanie dokumentu.</translation>
     </message>
     <message>
         <source>WPS Writer has finished searching the selection.</source>
         <comment>_TxFind_FinishSearchingSelection</comment>
-        <translation>WPS Writer zakończył przeszukiwanie zaznaczonego obszaru.</translation>
+        <translation>Program WPS Writer zakończył przeszukiwanie zaznaczonego obszaru.</translation>
     </message>
     <message>
         <source>No search item was found.</source>
@@ -1271,10 +1259,7 @@ Try one or more of the following:
     <message>
         <source> Do you want to search the other part of the document?</source>
         <comment>_TxFind_ContiuneRemainder</comment>
-        <translation variants="yes">
-            <lengthvariant> Czy chcesz kontynuować wyszukiwanie w innej części dokumentu?</lengthvariant>
-            <lengthvariant>Czy chcesz przeszukać inną część dokumentu?</lengthvariant>
-        </translation>
+        <translation> Czy chcesz kontynuować wyszukiwanie w innej części dokumentu?</translation>
     </message>
     <message>
         <source>and has replaced %i items.</source>
@@ -1304,10 +1289,7 @@ Try one or more of the following:
     <message>
         <source>Page</source>
         <comment>_TxGenko_PageNumbers</comment>
-        <translation variants="yes">
-            <lengthvariant>Stron</lengthvariant>
-            <lengthvariant>Strona</lengthvariant>
-        </translation>
+        <translation>Stron</translation>
     </message>
     <message>
         <source>This action will not be marked as a revision. Do you want to continue?</source>
@@ -1337,7 +1319,7 @@ Try one or more of the following:
     <message>
         <source>WPS Writer cannot open the Data Source.</source>
         <comment>_TxMailMerge_OpenDataSourceErr</comment>
-        <translation>WPS Writer nie może otworzyć źródła danych.</translation>
+        <translation>Program WPS Writer nie może otworzyć źródła danych.</translation>
     </message>
     <message>
         <source>Attachment</source>
@@ -1489,7 +1471,6 @@ Czy chcesz go zamienić?</translation>
     <message>
         <source>Dotted underline</source>
         <comment>TxRevision_Chp_DottedUnderline</comment>
-        <translatorcomment>Podkreślenie kropkowane</translatorcomment>
         <translation>Podkreślenie linią kropkowaną</translation>
     </message>
     <message>
@@ -1740,10 +1721,7 @@ Czy chcesz go zamienić?</translation>
     <message>
         <source>Centered</source>
         <comment>TxRevision_Pap_Centered</comment>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkowany</lengthvariant>
-            <lengthvariant>Wyśrodkowane</lengthvariant>
-        </translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>Right</source>
@@ -1983,10 +1961,7 @@ Czy chcesz go zamienić?</translation>
     <message>
         <source>Centered</source>
         <comment>TxRevision_Pap_TabStopsCentered</comment>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkowany</lengthvariant>
-            <lengthvariant>Wyśrodkowane</lengthvariant>
-        </translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>Right</source>
@@ -1996,7 +1971,6 @@ Czy chcesz go zamienić?</translation>
     <message>
         <source>leader</source>
         <comment>TxRevision_Pap_Leader</comment>
-        <translatorcomment>Linia odniesienia</translatorcomment>
         <translation>Znak wiodący</translation>
     </message>
     <message>
@@ -2272,12 +2246,12 @@ Czy chcesz go zamienić?</translation>
     <message>
         <source>Emboss 3D</source>
         <comment>TxRevision_Bop_Emboss3D</comment>
-        <translation>Uwypuklenie 3D</translation>
+        <translation>Uwypuklenie 3-D</translation>
     </message>
     <message>
         <source>Engrave 3D</source>
         <comment>TxRevision_Bop_Engrave3D</comment>
-        <translation>Wgłębienie 3D</translation>
+        <translation>Wgłębienie 3-D</translation>
     </message>
     <message>
         <source>Outset</source>
@@ -2731,13 +2705,7 @@ Czy chcesz go zamienić?</translation>
     <message>
         <source>Make office work easier</source>
         <comment>_TxDlg_EmptyStringPreview</comment>
-        <translation variants="yes">
-            <lengthvariant>Ułatw pracę w biurze</lengthvariant>
-            <lengthvariant>Ułatw pracę biurową</lengthvariant>
-            <lengthvariant>WPS ułatwia pracę biurową</lengthvariant>
-            <lengthvariant>WPS ułatwia pracę w biurze</lengthvariant>
-            <lengthvariant>WPS sprawia, że łatwiej pracować w biurze</lengthvariant>
-        </translation>
+        <translation>Ułatw pracę w biurze</translation>
     </message>
     <message>
         <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
@@ -2747,23 +2715,17 @@ Czy chcesz go zamienić?</translation>
     <message>
         <source>Recorded %d too much data fields.</source>
         <comment>_TxMailMerge_FieldsTooMuch</comment>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Nagrano %d zbyt wiele pól danych.</lengthvariant>
-            <lengthvariant>Zarejestrowano %d zbyt wiele pól danych.</lengthvariant>
-        </translation>
+        <translation>Nagrano %d zbyt wiele pól danych.</translation>
     </message>
     <message>
         <source>Recorded %d too few data fields.</source>
         <comment>_TxMailMerge_FieldsTooFew</comment>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Nagrano %d zbyt mało pól danych.</lengthvariant>
-            <lengthvariant>Zarejestrowano %d zbyt mało pól danych.</lengthvariant>
-        </translation>
+        <translation>Nagrano %d zbyt mało pól danych.</translation>
     </message>
     <message>
         <source>Recorded %d is empty.</source>
         <comment>_TxMailMerge_FieldsEmpty</comment>
-        <translation type="unfinished">Nagranie %d jest puste.</translation>
+        <translation>Nagranie %d jest puste.</translation>
     </message>
     <message>
         <source>WPS Writer cannot open %s as Data or Header Source, because it is active mail merge main document.</source>
@@ -2800,25 +2762,25 @@ Czy chcesz go zamienić?</translation>
     <message>
         <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
         <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation type="unfinished">Program WPS Writer nie może scalić źródła danych z dokumentem głównym korespondencji seryjnej, ponieważ wszystkie rekordy są puste, albo żaden z rekordów nie spełnia warunków kwerendy.</translation>
+        <translation>Program WPS Writer nie może scalić źródła danych z dokumentem głównym korespondencji seryjnej, ponieważ wszystkie rekordy są puste, albo żaden z rekordów nie spełnia warunków kwerendy.</translation>
     </message>
     <message>
         <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
         <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
-        <translation type="unfinished"></translation>
+        <translation>Program WPS Writer nie może otworzyć pliku %s jako źródła danych lub nagłówka, ponieważ jest to aktywny dokument główny korespondencji seryjnej.</translation>
     </message>
     <message>
         <source>WPS Writer AaBbCc</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer AaBbCc</translation>
     </message>
     <message>
         <source>unknown</source>
         <comment>TxUserInfo_DefaultUserName</comment>
-        <translation type="unfinished"></translation>
+        <translation>nieznany</translation>
     </message>
     <message>
         <source>You cannot compare these documents because the document contain XML Nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można porównywać tych dokumentów, ponieważ dokument zawiera węzły XML</translation>
     </message>
 </context>
 <context>
@@ -2937,12 +2899,12 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>The measurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wielkość musi się zawierać w przedziale między -1584 pkt i 1584 pkt.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wielkość musi się zawierać w przedziale między 0,5 i 600.</translation>
     </message>
 </context>
 <context>
@@ -2975,7 +2937,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPS</comment>
-        <translation>Wspólne pliki(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
+        <translation>Wspólne pliki (*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
         <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</source>
@@ -2995,7 +2957,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>ICBC Preparatory Documents(*.ic1)</source>
         <comment>TxDesc_IC1</comment>
-        <translation>ICBC Dokumenty przygotowawcze(*.ic1)</translation>
+        <translation>ICBC Dokumenty przygotowawcze (*.ic1)</translation>
     </message>
     <message>
         <source>*.ic1</source>
@@ -3005,7 +2967,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>ICBC Official Documents(*.ic2)</source>
         <comment>TxDesc_IC2</comment>
-        <translation>ICBC Dokumenty oficjalne(*.ic2)</translation>
+        <translation>ICBC Dokumenty oficjalne (*.ic2)</translation>
     </message>
     <message>
         <source>*.ic2</source>
@@ -3076,14 +3038,14 @@ Jeśli próbujesz otworzyć plik z listy ostatnio używanych plików w menu Plik
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>_TxDocument_SaveFailure</comment>
-        <translation>WPS Write nie może zapisać lub utworzyć tego pliku. Proszę upewnij się, czy plik nie jest zablokowany przez innego użytkownika lub dysk docelowy jest niepełny lub nieuszkodzony.
+        <translation>Program WPS Write nie może zapisać lub utworzyć tego pliku. Proszę upewnij się, czy plik nie jest zablokowany przez innego użytkownika lub dysk docelowy jest niepełny lub nieuszkodzony.
 (%s)</translation>
     </message>
     <message>
         <source>WPS Writer cannot save this file due to a file permission error.
 (%s)</source>
         <comment>_TxDocument_SaveFailurePermission</comment>
-        <translation>WPS Writer nie możne zapisać tego pliku ze względu na błąd uprawnień dostępu do pliku.
+        <translation>Program WPS Writer nie możne zapisać tego pliku ze względu na błąd uprawnień dostępu do pliku.
 (%s)</translation>
     </message>
     <message>
@@ -3097,12 +3059,8 @@ Please make sure the file is not locked by another user, or the target disk is n
         <source>The document will be save as &quot;%s&quot; format. Do you want to continue?
 (%s)</source>
         <comment>_TxDocument_SaveConvertToDefault</comment>
-        <translation variants="yes">
-            <lengthvariant>Dokument będzie zapisany w formacie &quot;% s&quot;. Czy chcesz kontynuować?
-(%s)</lengthvariant>
-            <lengthvariant>Dokument będzie zapisany jako format &quot;%s&quot;. Czy chcesz kontynuować?
-(%s)</lengthvariant>
-        </translation>
+        <translation>Dokument będzie zapisany w formacie &quot;% s&quot;. Czy chcesz kontynuować?
+(%s)</translation>
     </message>
     <message>
         <source>Document has been locked by another application. Do you want to open it as read-only?
@@ -3171,7 +3129,7 @@ Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne s
     <message>
         <source>WPSV6-TEXT</source>
         <comment>_TxFilter_ConfigKey</comment>
-        <translation type="unfinished">WPSV6-TEKST</translation>
+        <translation>WPSV6-TEKST</translation>
     </message>
     <message>
         <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
@@ -3250,7 +3208,7 @@ Czy chcesz kontynuować?</translation>
 Type a different name for the document you want to save.
 (%s)</source>
         <comment>_TxDocument_SaveFailureShared</comment>
-        <translation>WPS Writer nie może nadać dokumentowi takiej samej nazwy jak nazwa otwartego dokumentu.
+        <translation>Program WPS Writer nie może nadać dokumentowi takiej samej nazwy jak nazwa otwartego dokumentu.
 Wpisz inną nazwę dokumentu, który chcesz zapisać.
 (%s)</translation>
     </message>
@@ -3311,7 +3269,7 @@ Proszę wypróbuj jedną z następujących czynności:
     <message>
         <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPSEx</comment>
-        <translation>Wspólne pliki(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</translation>
+        <translation>Wspólne pliki (*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
         <source>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</source>
@@ -3334,7 +3292,7 @@ Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
 This backup will be saved to (%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
         <translation>Występują błędy podczas tworzenia kopii zapasowej! Nie masz uprawnień do zapisywania w katalogu kopii zapasowej, w którym miała być umieszczona. Proszę spróbuj zmienić katalog kopii zapasowej.
-Ta kopia zapasowa zostanie zapisana do(%s)</translation>
+Ta kopia zapasowa zostanie zapisana do (%s)</translation>
     </message>
 </context>
 <context>
@@ -3492,10 +3450,7 @@ Ta kopia zapasowa zostanie zapisana do(%s)</translation>
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
         <comment>wps_sChangeTextboxToResizeOrRotateWarning</comment>
-        <translation variants="yes">
-            <lengthvariant>Pole tekstowe zawiera obiekty lub tabele, które zostaną usunięte, jeżeli ustawisz ich właściwości, ponieważ zmiana rozmiaru lub obracanie pola tekstowego nie może zawierać żadnego obiektu lub tabeli. Czy chcesz kontynuować?</lengthvariant>
-            <lengthvariant>Pole tekstowe zawiera obiekty lub tabele, które zostaną usunięte, jeżeli ustawisz ich właściwości, ponieważ zmiana rozmiaru lub obrotu pola tekstowego nie może zawierać żadnego obiektu lub tabeli. Czy chcesz kontynuować?</lengthvariant>
-        </translation>
+        <translation>Pole tekstowe zawiera obiekty lub tabele, które zostaną usunięte, jeżeli ustawisz ich właściwości, ponieważ zmiana rozmiaru lub obracanie pola tekstowego nie może zawierać żadnego obiektu lub tabeli. Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <source>City</source>
@@ -3867,10 +3822,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Job Title</source>
         <comment>wps_sJobTitle</comment>
-        <translation variants="yes">
-            <lengthvariant>Stanowisko</lengthvariant>
-            <lengthvariant>Tytuł zawodowy</lengthvariant>
-        </translation>
+        <translation>Stanowisko</translation>
     </message>
     <message>
         <source>Last Name</source>
@@ -4045,7 +3997,6 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Nickname</source>
         <comment>wps_sNickname</comment>
-        <translatorcomment>Przydomek</translatorcomment>
         <translation>Pseudonim</translation>
     </message>
     <message>
@@ -4803,71 +4754,47 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>Page</source>
         <comment>wps_sFieldPage</comment>
-        <translation variants="yes">
-            <lengthvariant>Page</lengthvariant>
-            <lengthvariant>Strona</lengthvariant>
-        </translation>
+        <translation>Page</translation>
     </message>
     <message>
         <source>PageRef</source>
         <comment>wps_sPageRef</comment>
-        <translation variants="yes">
-            <lengthvariant>PageRef</lengthvariant>
-            <lengthvariant>Odwołanie_strony</lengthvariant>
-        </translation>
+        <translation>PageRef</translation>
     </message>
     <message>
         <source>SectionPages</source>
         <comment>wps_sFieldSectionPages</comment>
-        <translation variants="yes">
-            <lengthvariant>SectionPages</lengthvariant>
-            <lengthvariant>Strony_sekcji</lengthvariant>
-        </translation>
+        <translation>SectionPages</translation>
     </message>
     <message>
         <source>Seq</source>
         <comment>wps_sFieldSeq</comment>
-        <translation variants="yes">
-            <lengthvariant>Seq</lengthvariant>
-            <lengthvariant>Sekwencja</lengthvariant>
-        </translation>
+        <translation>Seq</translation>
     </message>
     <message>
         <source>TC</source>
         <comment>wps_sFieldTc</comment>
-        <translation variants="yes">
-            <lengthvariant>TC</lengthvariant>
-            <lengthvariant>Pole_spisu_treści</lengthvariant>
-        </translation>
+        <translation>TC</translation>
     </message>
     <message>
         <source>DocVariable</source>
         <comment>wps_sFieldDocVariable</comment>
-        <translation variants="yes">
-            <lengthvariant>DocVariable</lengthvariant>
-            <lengthvariant>Zmienna_dokumentu</lengthvariant>
-        </translation>
+        <translation>DocVariable</translation>
     </message>
     <message>
         <source>TOC</source>
         <comment>wps_sFieldToc</comment>
-        <translation variants="yes">
-            <lengthvariant>TOC</lengthvariant>
-            <lengthvariant>Spis_treści</lengthvariant>
-        </translation>
+        <translation>TOC</translation>
     </message>
     <message>
         <source>NumPages</source>
         <comment>wps_sFieldNumPages</comment>
-        <translation variants="yes">
-            <lengthvariant>NumPages</lengthvariant>
-            <lengthvariant>Liczba_stron</lengthvariant>
-        </translation>
+        <translation>NumPages</translation>
     </message>
     <message>
         <source>Hyperlink</source>
         <comment>wps_sFieldHyperlink</comment>
-        <translation>Hiperłącze</translation>
+        <translation>Hyperlink</translation>
     </message>
     <message>
         <source>Edit and calculate the formula, and displays the result in preview.</source>
@@ -4877,10 +4804,7 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>Time</source>
         <comment>wps_sFieldTime</comment>
-        <translation variants="yes">
-            <lengthvariant>Time</lengthvariant>
-            <lengthvariant>Godzina</lengthvariant>
-        </translation>
+        <translation>Time</translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
@@ -5174,10 +5098,7 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>StyleRef</source>
         <comment>wps_sStyleRef</comment>
-        <translation variants="yes">
-            <lengthvariant>StyleRef</lengthvariant>
-            <lengthvariant>Odwołanie_stylu</lengthvariant>
-        </translation>
+        <translation>StyleRef</translation>
     </message>
     <message>
         <source>The form tip cannot be longer than 40 characters.</source>
@@ -5502,10 +5423,7 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>Numbering</source>
         <comment>TxVersion_Numbering</comment>
-        <translation variants="yes">
-            <lengthvariant>Numerowanie</lengthvariant>
-            <lengthvariant>Numeracja</lengthvariant>
-        </translation>
+        <translation>Numerowanie</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -5645,10 +5563,7 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>Simplified/Traditional Chinese Translation</source>
         <comment>TxTooltip_TSCS</comment>
-        <translation variants="yes">
-            <lengthvariant>Translacja między chińskim uproszczonym a tradycyjnym</lengthvariant>
-            <lengthvariant>Tłumaczenie chiński uproszczony/tradycyjny</lengthvariant>
-        </translation>
+        <translation>Tłumaczenie uproszczony chiński/tradycyjny chiński</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -5703,10 +5618,7 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>Simplified/Traditional Chinese Translation</source>
         <comment>_TxTcscConvert</comment>
-        <translation variants="yes">
-            <lengthvariant>Translacja między chińskim uproszczonym a tradycyjnym</lengthvariant>
-            <lengthvariant>Tłumaczenie chiński uproszczony/tradycyjny</lengthvariant>
-        </translation>
+        <translation>Tłumaczenie uproszczony chiński/tradycyjny chiński</translation>
     </message>
     <message>
         <source>Insert Comment</source>
@@ -5937,7 +5849,6 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>Fixed Column Width</source>
         <comment>TxVersion_FixedColumnWidth</comment>
-        <translatorcomment>Szerokość ustalonych kolumn</translatorcomment>
         <translation>Stała szerokość kolumn</translation>
     </message>
     <message>
@@ -6339,18 +6250,12 @@ dokumentu</translation>
     <message>
         <source>Hide White Space</source>
         <comment>TxMessage_ToolTip_HideBlank</comment>
-        <translation variants="yes">
-            <lengthvariant>Ukryj odstęp</lengthvariant>
-            <lengthvariant>Ukryj biały znak</lengthvariant>
-        </translation>
+        <translation>Ukryj biały znak</translation>
     </message>
     <message>
         <source>Show White Space</source>
         <comment>TxMessage_ToolTip_DisplayBlank</comment>
-        <translation variants="yes">
-            <lengthvariant>Pokaż znak odstępu</lengthvariant>
-            <lengthvariant>Pokaż biały znak</lengthvariant>
-        </translation>
+        <translation>Pokaż biały znak</translation>
     </message>
     <message>
         <source>Mail Merge Insert Fields</source>
@@ -6529,13 +6434,11 @@ pisowni</translation>
     <message>
         <source>Text With Format</source>
         <comment>TxCaption_PasteFormatText</comment>
-        <translatorcomment>Tekst z formatem</translatorcomment>
         <translation>Tekst sformatowany</translation>
     </message>
     <message>
         <source>Text With Format</source>
         <comment>TxHint_PasteFormatText</comment>
-        <translatorcomment>Tekst z formatem</translatorcomment>
         <translation>Tekst sformatowany</translation>
     </message>
     <message>
@@ -6566,7 +6469,6 @@ pisowni</translation>
     <message>
         <source>Auto Adjust WordWrap</source>
         <comment>TxVersion_AutoAdjustWordWrap</comment>
-        <translatorcomment>Automatycznie dostosuj zawijanie słów</translatorcomment>
         <translation>Automatycznie dostosuj zawijanie wierszy</translation>
     </message>
     <message>
@@ -6777,17 +6679,17 @@ pisowni</translation>
     <message>
         <source>WPS Office has finished searching the document</source>
         <comment>TxMessage_FinishedSearchException</comment>
-        <translation>WPS Writer zakończył przeszukiwanie dokumentu</translation>
+        <translation>Program WPS Writer zakończył przeszukiwanie dokumentu</translation>
     </message>
     <message>
         <source>Add Protect Exception</source>
         <comment>TxVersion_AddProtectException</comment>
-        <translation>Dodać wyjątek do ochrony</translation>
+        <translation>Dodaj wyjątek ochrony</translation>
     </message>
     <message>
         <source>Delete Protect Exception</source>
         <comment>TxVersion_DeleteProtectException</comment>
-        <translation>Usuń wyjątek chroniony</translation>
+        <translation>Usuń wyjątek ochrony</translation>
     </message>
     <message>
         <source>Delete All Editable Ranges</source>
@@ -6852,10 +6754,7 @@ pisowni</translation>
     <message>
         <source>Table Normal</source>
         <comment>TxTableStyle_TableNormal</comment>
-        <translation variants="yes">
-            <lengthvariant>Zwykła tabela</lengthvariant>
-            <lengthvariant>Standardowy</lengthvariant>
-        </translation>
+        <translation>Zwykła tabela</translation>
     </message>
     <message>
         <source>Table Simple 1</source>
@@ -7015,17 +6914,17 @@ pisowni</translation>
     <message>
         <source>Table 3D effects 1</source>
         <comment>TxTableStyle_Table3dfx1</comment>
-        <translation>Tabela - Efekty 3D 1</translation>
+        <translation>Tabela - Efekty 3-D 1</translation>
     </message>
     <message>
         <source>Table 3D effects 2</source>
         <comment>TxTableStyle_Table3dfx2</comment>
-        <translation>Tabela - Efekty 3D 2</translation>
+        <translation>Tabela - Efekty 3-D 2</translation>
     </message>
     <message>
         <source>Table 3D effects 3</source>
         <comment>TxTableStyle_Table3dfx3</comment>
-        <translation>Tabela - Efekty 3D 3</translation>
+        <translation>Tabela - Efekty 3-D 3</translation>
     </message>
     <message>
         <source>Table Contemporary</source>
@@ -7575,7 +7474,7 @@ pisowni</translation>
     <message>
         <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
-        <translation type="unfinished"></translation>
+        <translation>Osobiste książki adresowe pakietu Outlook (*.pab) | *.pab; |</translation>
     </message>
 </context>
 <context>

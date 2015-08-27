@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>About %1</source>
-        <translation>O %1</translation>
+        <translation>Informacje o %1</translation>
     </message>
 </context>
 <context>
@@ -1558,12 +1558,10 @@ na
     </message>
     <message>
         <source>Cannot assign to non-existent default property</source>
-        <translatorcomment>aaa</translatorcomment>
         <translation>Nie można wykonać przypisania do nieistniejącej właściwości domyślnej</translation>
     </message>
     <message>
         <source>Cannot assign to non-existent property &quot;%1&quot;</source>
-        <translatorcomment>aaa</translatorcomment>
         <translation>Nie można wykonać przypisania do nieistniejącej właściwości &quot;%1&quot;</translation>
     </message>
     <message>
@@ -1747,7 +1745,6 @@ na
     </message>
     <message>
         <source>createObject: value is not an object</source>
-        <translatorcomment>aaa</translatorcomment>
         <translation>createObject: wartość nie jest obiektem</translation>
     </message>
 </context>
@@ -1774,7 +1771,6 @@ na
     <name>QDeclarativeConnections</name>
     <message>
         <source>Cannot assign to non-existent property &quot;%1&quot;</source>
-        <translatorcomment>aaa</translatorcomment>
         <translation>Nie można wykonać przypisania do nieistniejącej właściwości &quot;%1&quot;</translation>
     </message>
     <message>
@@ -3749,7 +3745,7 @@ Proszę sprawdź, czy poprawnie sformułowano nazwę pliku.</translation>
     <name>QMessageBox</name>
     <message>
         <source>About Qt</source>
-        <translation>O Qt</translation>
+        <translation>Informacje o Qt</translation>
     </message>
     <message>
         <source>Help</source>
@@ -3765,11 +3761,11 @@ Proszę sprawdź, czy poprawnie sformułowano nazwę pliku.</translation>
     </message>
     <message>
         <source>&lt;h3&gt;About Qt&lt;/h3&gt;&lt;p&gt;This program uses Qt version %1.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;O Qt&lt;/h3&gt;&lt;p&gt; Ten program używa Qt w wersji %1.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Informacje o Qt&lt;/h3&gt;&lt;p&gt; Ten program używa Qt w wersji %1.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants. Qt is also available for embedded devices as Qt for Embedded Linux and Qt for Windows CE.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 2.1 or GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt applications (proprietary or open source) provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU General Public License version 3.0 is appropriate for the development of Qt applications where you wish to use such applications in combination with software subject to the terms of the GNU GPL version 3.0 or where you are otherwise willing to comply with the terms of the GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) 2011 Nokia Corporation and/or its subsidiary(-ies).&lt;/p&gt;&lt;p&gt;Qt is a Nokia product. See &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt; for more information.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Qt jest zestawem narzędzi C++ do tworzenia aplikacji między platformowych.&lt;/p&gt;&lt;p&gt;Qt umożliwia jednoźródłowe przenoszenie między systemami MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux i wszystkimi głównymi wersjami komercyjnymi systemu Unix. Środowisko Qt jest również dostępne dla urządzeń osadzonych jako Qt dla wbudowanego systemu Linuks i Windows CE.&lt;/p&gt;&lt;p&gt;Qt jest dostępny w trzech różnych opcjach licencyjnych mających na celu dostosowanie do potrzeb różnych użytkowników.&lt;/p&gt;&lt;p&gt;Qt licencjonowany na naszej komercyjnej umowie licencyjnej jest odpowiedni dla rozwoju własnościowego/komercyjnego oprogramowania, w którym nie chcesz udostępniać kodu źródłowego osobom trzecim lub w inny sposób nie może być ono zgodne z warunkami licencji GNU LGPL w wersji 2.1 lub GNU GPL w wersji 3.0.&lt;/p&gt;&lt;p&gt;Qt na licencji GNU LGPL w wersji 2.1 jest odpowiedni dla rozwoju aplikacji Qt (własnościowych lub otwarto źródłowych) pod warunkiem spełnienia warunków licencji GNU LGPL w wersji 2.1.&lt;/p&gt;&lt;p&gt;Qt na licencji GNU General Public License w wersji 3.0 jest odpowiedni dla rozwoju aplikacji Qt, gdzie chcesz używać takich aplikacji w połączeniu z oprogramowaniem na warunkach licencji GNU GPL w wersji 3.0 lub gdy jesteś w inny sposób zgodny z warunkami licencji GNU GPL w wersji 3.0.&lt;/p&gt;&lt;p&gt;Więcej informacji na temat licencji Qt można znaleźć na stronie &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Copyright (C) 2011 Nokia Corporation i/lub jej oddział(y).&lt;/p&gt;&lt;p&gt;Qt jest produktem firmy Nokia. Dodatkowe informacje znajdują się na stronie &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt;.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Qt jest zestawem narzędzi programistycznych C++ do tworzenia aplikacji między platformowych.&lt;/p&gt;&lt;p&gt;Qt umożliwia jednoźródłowe przenoszenie między systemami MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux i wszystkimi głównymi wersjami komercyjnymi systemu Unix. Środowisko Qt jest dostępne również dla urządzeń wbudowanych opartych na systemie Linux (Qt dla wbudowanego systemu Linux) oraz Windows CE.&lt;/p&gt;&lt;p&gt;Qt jest dostępny w trzech różnych opcjach licencjonowania mających na celu dostosowanie do potrzeb różnych użytkowników.&lt;/p&gt;&lt;p&gt;Qt licencjonowany na naszej komercyjnej umowie licencyjnej jest odpowiedni dla rozwoju oprogramowania własnościowego/komercyjnego, w którym nie chcesz udostępniać kodu źródłowego osobom trzecim lub w inny sposób nie może być ono zgodne z warunkami licencji GNU LGPL w wersji 2.1 lub GNU GPL w wersji 3.0.&lt;/p&gt;&lt;p&gt;Qt na licencji GNU LGPL w wersji 2.1 jest odpowiedni dla rozwoju aplikacji Qt (własnościowych lub otwarto źródłowych) pod warunkiem spełnienia warunków licencji GNU LGPL w wersji 2.1.&lt;/p&gt;&lt;p&gt;Qt na licencji GNU General Public License (Powszechnej Licencji Publicznej) w wersji 3.0 jest odpowiedni dla rozwoju aplikacji Qt, gdzie chcesz używać takich aplikacji w połączeniu z oprogramowaniem na warunkach licencji GNU GPL w wersji 3.0 lub gdy jesteś w inny sposób zgodny z warunkami licencji GNU GPL w wersji 3.0.&lt;/p&gt;&lt;p&gt;Więcej informacji na temat licencji Qt można znaleźć na stronie &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Copyright (C) 2011 Nokia Corporation i/lub jej oddział(y).&lt;/p&gt;&lt;p&gt;Qt jest produktem firmy Nokia. Dodatkowe informacje znajdują się na stronie &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Show Details...</source>
@@ -8138,587 +8134,559 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>The namespace URI in the name for a computed attribute cannot be %1.</source>
-        <translatorcomment>aaaaa - tutaj skończyłem</translatorcomment>
-        <translation type="unfinished">Przestrzeń nazw URI nie może być %1 w nazwie dla obliczonego atrybutu.</translation>
+        <translation>Przestrzeń nazw URI w nazwie dla obliczanego atrybutu nie może być %1.</translation>
     </message>
     <message>
         <source>The name for a computed attribute cannot have the namespace URI %1 with the local name %2.</source>
-        <translation type="unfinished">Nazwa dla wyliczonego atrybutu nie może zawierać przestrzeni nazw URI %1 z lokalną nazwą %2.</translation>
+        <translation>Nazwa dla obliczanego atrybutu nie może zawierać przestrzeni nazw URI %1 z nazwą lokalną %2.</translation>
     </message>
     <message>
         <source>Type error in cast, expected %1, received %2.</source>
-        <translation type="unfinished">Błąd typów w rzutowaniu: oczekiwano %1, otrzymano %2.</translation>
+        <translation>Błąd typu w rzutowaniu: oczekiwano %1, otrzymano %2.</translation>
     </message>
     <message>
         <source>When casting to %1 or types derived from it, the source value must be of the same type, or it must be a string literal. Type %2 is not allowed.</source>
-        <translation type="unfinished">Podczas rzutowania na %1 lub na typ pochodny, wartość źródłowa musi być tego samego typu lub musi być literałem znakowym. Typ %2 nie jest dozwolony.</translation>
+        <translation>Podczas rzutowania do %1 lub typów pochodnych, wartość źródłowa musi być tego samego typu lub musi być literałem ciągu znaków. Typ %2 nie jest dozwolony.</translation>
     </message>
     <message>
         <source>A comment cannot contain %1</source>
-        <translation type="unfinished">Komentarz nie może zawierać %1</translation>
+        <translation>Komentarz nie może zawierać %1</translation>
     </message>
     <message>
         <source>A comment cannot end with a %1.</source>
-        <translation type="unfinished">Komentarz nie może kończyć się na: %1.</translation>
+        <translation>Komentarz nie może kończyć się na %1.</translation>
     </message>
     <message>
         <source>An attribute node cannot be a child of a document node. Therefore, the attribute %1 is out of place.</source>
-        <translation type="unfinished">Węzeł &quot;attribute&quot; nie może być podelementem węzła &quot;document&quot;. Dlatego atrybut %1 jest w złym miejscu.</translation>
+        <translation>Węzeł atrybutu nie może być podrzędnym węzła dokumentu. Dlatego atrybut %1 jest nie na miejscu.</translation>
     </message>
     <message>
         <source>A library module cannot be evaluated directly. It must be imported from a main module.</source>
-        <translation type="unfinished">Moduł biblioteki nie może być bezpośrednio oceniony. On musi być zaimportowany z głównego modułu.</translation>
+        <translation>Moduł biblioteki nie może być bezpośrednio oszacowany. Musi być on zaimportowany z modułu głównego.</translation>
     </message>
     <message>
         <source>No template by name %1 exists.</source>
-        <translation type="unfinished">Szablon o nazwie %1 nie istnieje.</translation>
+        <translation>Szablon o nazwie %1 nie istnieje.</translation>
     </message>
     <message>
         <source>A value of type %1 cannot be a predicate. A predicate must have either a numeric type or an Effective Boolean Value type.</source>
-        <translation type="unfinished">Wartość typu %1 nie może być predykatem. Predykat musi być typu liczbowego lub Efektywną Wartość Logiczną.</translation>
+        <translation>Wartość typu %1 nie może być predykatem. Predykat musi być typu liczbowego lub typem Skutecznej Wartości Logicznej.</translation>
     </message>
     <message>
         <source>A positional predicate must evaluate to a single numeric value.</source>
-        <translation type="unfinished">Wynikiem predykatu pozycyjnego musi być pojedyncza wartość liczbowa.</translation>
+        <translation>Predykat pozycyjny musi szacować do pojedynczej wartości liczbowej.</translation>
     </message>
     <message>
         <source>The target name in a processing instruction cannot be %1 in any combination of upper and lower case. Therefore, %2 is invalid.</source>
-        <translation type="unfinished">Docelowa nazwa w instrukcji przetwarzania nie może być %1 w żadnej kombinacji wielkich i małych liter. Dlatego nazwa %2 jest niepoprawna.</translation>
+        <translation>Nazwa docelowa w instrukcji przetwarzania nie może być %1 w żadnej kombinacji wielkich i małych liter. Dlatego nazwa %2 jest nieprawidłowa.</translation>
     </message>
     <message>
         <source>%1 is not a valid target name in a processing instruction. It must be a %2 value, e.g. %3.</source>
-        <translation type="unfinished">%1 nie jest poprawną nazwą docelową w instrukcji przetwarzania. Nazwa musi być wartością %2, np. %3.</translation>
+        <translation>%1 nie jest poprawną nazwą docelową w instrukcji przetwarzania. Nazwa musi być wartością %2, np. %3.</translation>
     </message>
     <message>
         <source>The last step in a path must contain either nodes or atomic values. It cannot be a mixture between the two.</source>
-        <translatorcomment>aaa</translatorcomment>
         <translation>Ostatni krok w ścieżce musi zawierać węzły albo wartości niepodzielne. Nie może to być mieszanina między nimi.</translation>
     </message>
     <message>
         <source>The data of a processing instruction cannot contain the string %1</source>
-        <translation type="unfinished">Dane instrukcji przetwarzania nie mogą zawierać ciągu %1</translation>
+        <translation>Dane instrukcji przetwarzania nie mogą zawierać ciągu %1</translation>
     </message>
     <message>
         <source>No namespace binding exists for the prefix %1</source>
-        <translation type="unfinished">Żadna przestrzeń nazw nie jest powiązana z przedrostkiem %1</translation>
+        <translation>Brak powiązania istniejącej przestrzeni nazw dla prefiksu %1</translation>
     </message>
     <message>
         <source>No namespace binding exists for the prefix %1 in %2</source>
-        <translation type="unfinished">Żadna przestrzeń nazw nie jest powiązana z przedrostkiem %1 w %2</translation>
+        <translation>Brak powiązania istniejącej przestrzeni nazw dla prefiksu %1 w %2</translation>
     </message>
     <message>
         <source>%1 is an invalid %2</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>nieprawidłowym</lengthvariant>
-            <lengthvariant>%1 jest niepoprawnym %2</lengthvariant>
-        </translation>
+        <translation>%1 jest nieprawidłowym %2</translation>
     </message>
     <message>
         <source>The first argument to %1 cannot be of type %2. It must be a numeric type, xs:yearMonthDuration or xs:dayTimeDuration.</source>
-        <translation type="unfinished">Pierwszy argument w %1 nie może być typu %2. Musi on być typu liczbowego: xs:yearMonthDuration lub xs:dayTimeDuration.</translation>
+        <translation>Pierwszy argument w %1 nie może być typu %2. Musi on być typu liczbowego: xs:yearMonthDuration (rokCzasTrwaniaMiesiąca) lub xs:dayTimeDuration (dzieńCzasTrwania).</translation>
     </message>
     <message>
         <source>The first argument to %1 cannot be of type %2. It must be of type %3, %4, or %5.</source>
-        <translation type="unfinished">Pierwszy argument w %1 nie może być typu %2. Musi on być typu: %3, %4 lub %5.</translation>
+        <translation>Pierwszy argument w %1 nie może być typu %2. Musi on być typu: %3, %4 lub %5.</translation>
     </message>
     <message>
         <source>The second argument to %1 cannot be of type %2. It must be of type %3, %4, or %5.</source>
-        <translation type="unfinished">Drugi argument w %1 nie może być typu %2. Musi on być typu: %3, %4 lub %5.</translation>
+        <translation>Drugi argument w %1 nie może być typu %2. Musi on być typu: %3, %4 lub %5.</translation>
     </message>
     <message>
         <source>%1 is not a valid XML 1.0 character.</source>
-        <translation type="unfinished">%1 nie jest poprawnym znakiem XML 1.0.</translation>
+        <translation>%1 nie jest prawidłowym znakiem XML 1.0.</translation>
     </message>
     <message>
         <source>If both values have zone offsets, they must have the same zone offset. %1 and %2 are not the same.</source>
-        <translation type="unfinished">Jeśli oba argumenty mają przesunięcia strefowe, muszą one być takie same. %1 i %2 nie są takie same.</translation>
+        <translation>Jeśli obie wartości mają przesunięcia stref, muszą one mieć przesunięcie tej samej strefy. %1 i %2 nie są takie same.</translation>
     </message>
     <message>
         <source>%1 was called.</source>
-        <translation type="unfinished">Wywołano %1.</translation>
+        <translation>%1 została wywołana.</translation>
     </message>
     <message>
         <source>%1 must be followed by %2 or %3, not at the end of the replacement string.</source>
-        <translation type="unfinished">Po %1 musi następować %2 lub %3, lecz nie na końcu zastępczego ciągu.</translation>
+        <translation>%1 musi następować po %2 lub %3, a nie na końcu ciąg zamiany.</translation>
     </message>
     <message>
         <source>In the replacement string, %1 must be followed by at least one digit when not escaped.</source>
-        <translation type="unfinished">W ciągu zastępczym, po %1 musi następować przynajmniej jedna cyfra pod warunkiem, że nie jest ona w sekwencji escape.</translation>
+        <translation>W ciągu zamiany, %1 musi następować po co najmniej jednej cyfrze, gdy nie jest ona zmieniona.</translation>
     </message>
     <message>
         <source>In the replacement string, %1 can only be used to escape itself or %2, not %3</source>
-        <translation type="unfinished">W ciągu zastępczym, %1 może być użyte tylko do zabezpieczenia samej siebie lub %2, nigdy %3</translation>
+        <translation>W ciągu zamiany, %1 może być używany do zabezpieczenia samej siebie lub %2, a nie %3</translation>
     </message>
     <message>
         <source>%1 matches newline characters</source>
-        <translation type="unfinished">%1 dopasowało znak nowej linii</translation>
+        <translation>%1 dopasowało znaki nowego wiersza</translation>
     </message>
     <message>
         <source>%1 and %2 match the start and end of a line.</source>
-        <translation type="unfinished">%1 i %2 dopasowały początek i koniec linii.</translation>
+        <translation>%1 i %2 dopasowały początek i koniec wiersza.</translation>
     </message>
     <message>
         <source>Matches are case insensitive</source>
-        <translation type="unfinished">Dopasowania uwzględniają wielkość liter</translation>
+        <translation>Dopasowania uwzględniają wielkość liter</translation>
     </message>
     <message>
         <source>Whitespace characters are removed, except when they appear in character classes</source>
-        <translation type="unfinished">Spacje są usuwane z wyjątkiem kiedy pojawią się w klasach znakowych</translation>
+        <translation>Białe znaki są usuwane, oprócz przypadków, kiedy pojawiają się w postaci klasy znaku</translation>
     </message>
     <message>
         <source>%1 is an invalid regular expression pattern: %2</source>
-        <translatorcomment>aaa</translatorcomment>
         <translation>%1 jest nieprawidłowym wzorem wyrażenia regularnego: %2</translation>
     </message>
     <message>
         <source>%1 is an invalid flag for regular expressions. Valid flags are:</source>
-        <translatorcomment>aaa</translatorcomment>
         <translation>%1 jest nieprawidłową flagą dla wyrażeń regularnych. Prawidłowe flagi:</translation>
     </message>
     <message>
         <source>If the first argument is the empty sequence or a zero-length string (no namespace), a prefix cannot be specified. Prefix %1 was specified.</source>
-        <translation type="unfinished">Jeśli pierwszy argument jest pustą sekwencją lub zerowej długości ciągiem (przy braku przestrzeni nazw), przedrostek nie może wystąpić. Podano przedrostek %1.</translation>
+        <translation>Jeśli pierwszy argument jest pustą sekwencją lub ciągiem znaków o zerowej długości (brak przestrzeni nazw), nie można określić prefiksu. Prefiks %1 został określony.</translation>
     </message>
     <message>
         <source>It will not be possible to retrieve %1.</source>
-        <translation type="unfinished">Nie będzie można odzyskać %1.</translation>
+        <translation>Nie będzie możliwe odzyskanie %1.</translation>
     </message>
     <message>
         <source>The default collection is undefined</source>
-        <translation type="unfinished">Domyślna kolekcja jest niezdefiniowana</translation>
+        <translation>Domyślna kolekcja jest niezdefiniowana</translation>
     </message>
     <message>
         <source>%1 cannot be retrieved</source>
-        <translation type="unfinished">%1 nie może być odzyskane</translation>
+        <translation>%1 nie może być odzyskane</translation>
     </message>
     <message>
         <source>The normalization form %1 is unsupported. The supported forms are %2, %3, %4, and %5, and none, i.e. the empty string (no normalization).</source>
-        <translation type="unfinished">Znormalizowana forma %1 nie jest obsługiwana. Obsługiwanymi formami są: %2, %3, %4 i %5 oraz pusta forma (brak normalizacji).</translation>
+        <translation>Forma normalizacji %1 jest nieobsługiwana. Obsługiwanymi formami są: %2, %3, %4 i %5 oraz brak, czyli pusty ciąg (brak normalizacji).</translation>
     </message>
     <message>
         <source>A zone offset must be in the range %1..%2 inclusive. %3 is out of range.</source>
-        <translation type="unfinished">Przesunięcie strefowe musi być w zakresie %1..%2 włącznie. %3 jest poza tym zakresem.</translation>
+        <translation>Przesunięcie strefy musi być w zakresie %1..%2 włącznie. %3 jest poza zakresem.</translation>
     </message>
     <message>
         <source>Required cardinality is %1; got cardinality %2.</source>
-        <translation type="unfinished">Wymagana liczność wynosi %1; otrzymano %2.</translation>
+        <translation>Wymagana kardynalność wynosi %1; otrzymano %2.</translation>
     </message>
     <message>
         <source>The item %1 did not match the required type %2.</source>
-        <translation type="unfinished">Element %1 nie został dopasowany do wymaganego typu %2.</translation>
+        <translation>Element%1 nie pasuje do wymaganego typu%2.</translation>
     </message>
     <message>
         <source>%1 is an unknown schema type.</source>
-        <translation type="unfinished">%1 jest nieznanym typem schematu.</translation>
+        <translation>%1 jest nieznanym typem schematu.</translation>
     </message>
     <message>
         <source>A template with name %1 has already been declared.</source>
-        <translation type="unfinished">Szablon o nazwie %1 został już zadeklarowany.</translation>
+        <translation>Szablon o nazwie %1 został już zadeklarowany.</translation>
     </message>
     <message>
         <source>Only one %1 declaration can occur in the query prolog.</source>
-        <translation type="unfinished">Tylko jedna deklaracja %1 może się pojawić w prologu zapytania.</translation>
+        <translation>Tylko jedna deklaracja %1 może wystąpić w prologu kwerendy.</translation>
     </message>
     <message>
         <source>The initialization of variable %1 depends on itself</source>
-        <translation type="unfinished">Inicjalizacja zmiennej %1 zależy od niej samej</translation>
+        <translation>Inicjalizacja zmiennej %1 jest zależna od siebie samej</translation>
     </message>
     <message>
         <source>The variable %1 is unused</source>
-        <translation type="unfinished">Zmienna %1 jest nieużywana</translation>
+        <translation>Zmienna %1 jest nieużywana</translation>
     </message>
     <message>
         <source>Version %1 is not supported. The supported XQuery version is 1.0.</source>
-        <translation type="unfinished">Wersja %1 nie jest obsługiwana. Obsługiwaną wersją XQuery jest wersja 1.0.</translation>
+        <translation>Wersja %1 nie jest obsługiwana. Obsługiwaną wersją XQuery jest wersja 1.0.</translation>
     </message>
     <message>
         <source>No function with signature %1 is available</source>
-        <translation type="unfinished">Żadna funkcja w postaci %1 nie jest dostępna</translation>
+        <translation>Brak dostępnej funkcji z podpisem%1</translation>
     </message>
     <message>
         <source>It is not possible to redeclare prefix %1.</source>
-        <translation type="unfinished">Nie jest możliwe ponowne zadeklarowanie przedrostka %1.</translation>
+        <translation>Nie jest możliwe ponowne zadeklarowanie prefiksu %1.</translation>
     </message>
     <message>
         <source>Prefix %1 is already declared in the prolog.</source>
-        <translation type="unfinished">Przedrostek %1 jest już zadeklarowany w prologu.</translation>
+        <translation>Prefiks %1 jest już zadeklarowany w prologu.</translation>
     </message>
     <message>
         <source>The name of an option must have a prefix. There is no default namespace for options.</source>
-        <translation type="unfinished">Nazwa opcji musi posiadać przedrostek. Nie istnieje domyślna przestrzeń nazw dla opcji.</translation>
+        <translation>Nazwa opcji musi posiadać prefiks. Nie istnieje domyślna przestrzeń nazw dla opcji.</translation>
     </message>
     <message>
         <source>The Schema Import feature is not supported, and therefore %1 declarations cannot occur.</source>
-        <translation type="unfinished">Cecha &quot;Import schematu&quot; nie jest obsługiwana, dlatego deklaracje %1 nie mogą pojawić.</translation>
+        <translation>Funkcja importu schematu nie jest obsługiwana, dlatego deklaracje%1 nie mogą wystąpić.</translation>
     </message>
     <message>
         <source>The target namespace of a %1 cannot be empty.</source>
-        <translation type="unfinished">Docelowa przestrzeń nazw dla %1 nie może być pusta.</translation>
+        <translation>Docelowa przestrzeń nazw dla %1 nie może być pusta.</translation>
     </message>
     <message>
         <source>The module import feature is not supported</source>
-        <translation type="unfinished">Cecha &quot;Import modułu&quot; nie jest obsługiwana</translation>
+        <translation>Funkcja modułu importu nie jest obsługiwana</translation>
     </message>
     <message>
         <source>The namespace %1 is reserved; therefore user defined functions may not use it. Try the predefined prefix %2, which exists for these cases.</source>
-        <translation type="unfinished">Przestrzeń nazw %1 jest zarezerwowana, dlatego funkcje zdefiniowane przez użytkownika nie mogą jej użyć. Spróbuj predefiniowany przedrostek %2, który istnieje w takich przypadkach.</translation>
+        <translation>Przestrzeń nazw %1 jest zarezerwowana, dlatego funkcje zdefiniowane przez użytkownika nie mogą jej użyć. Spróbuj wstępnie zdefiniowanego prefiksu %2, który istnieje w takich przypadkach.</translation>
     </message>
     <message>
         <source>The namespace of a user defined function in a library module must be equivalent to the module namespace. In other words, it should be %1 instead of %2</source>
-        <translation type="unfinished">Przestrzeń nazw dla funkcji zdefiniowanej przez użytkownika w module bibliotecznym musi odpowiadać przestrzeni nazw modułu. Powinna to być %1 zamiast %2</translation>
+        <translation>Przestrzeń nazw funkcji zdefiniowanej przez użytkownika w module biblioteki muszą być równoważne do przestrzeni nazw modułu. Powinno to być %1 zamiast %2</translation>
     </message>
     <message>
         <source>A function already exists with the signature %1.</source>
-        <translation type="unfinished">Funkcja w postaci %1 już istnieje.</translation>
+        <translation>Funkcja już istnieje z podpisem %1.</translation>
     </message>
     <message>
         <source>No external functions are supported. All supported functions can be used directly, without first declaring them as external</source>
-        <translation type="unfinished">Zewnętrzne funkcje nie są obsługiwane. Wszystkie obsługiwane funkcje mogą być używane bezpośrednio, bez ich uprzedniego deklarowania jako zewnętrzne</translation>
+        <translation>Zewnętrzne funkcje nie są obsługiwane. Wszystkie obsługiwane funkcje mogą być używane bezpośrednio, bez ich uprzedniego deklarowania jako zewnętrzne</translation>
     </message>
     <message>
         <source>The name of a variable bound in a for-expression must be different from the positional variable. Hence, the two variables named %1 collide.</source>
-        <translation type="unfinished">Nazwa zmiennej powiązanej w wyrażeniu &quot;for&quot; musi być inna od zmiennej pozycjonującej. W związku z tym dwie zmienne o nazwie %1 kolidują ze sobą.</translation>
+        <translation>Nazwa zmiennej powiązanej w/dla wyrażenia musi być inna od zmiennej pozycyjnej. W związku z tym dwie zmienne o nazwie %1 kolidują ze sobą.</translation>
     </message>
     <message>
         <source>The Schema Validation Feature is not supported. Hence, %1-expressions may not be used.</source>
-        <translation type="unfinished">Cecha &quot;Walidacja schematu&quot; nie jest obsługiwana. Dlatego też wyrażenia %1 nie mogą być użyte.</translation>
+        <translation>Funkcja sprawdzania poprawności schematu nie jest obsługiwana. W związku z tym wyrażenia %1 nie mogą być używane.</translation>
     </message>
     <message>
         <source>None of the pragma expressions are supported. Therefore, a fallback expression must be present</source>
-        <translation type="unfinished">Wyrażenia &quot;pragma&quot; nie są obsługiwane. Dlatego musi wystąpić wyrażenie zastępcze</translation>
+        <translation>Żadne z wyrażeń pragma nie są obsługiwane. Dlatego musi być obecne wyrażenie rezerwowe</translation>
     </message>
     <message>
         <source>The %1-axis is unsupported in XQuery</source>
-        <translation type="unfinished">Oś %1 nie jest obsługiwana w XQuery</translation>
+        <translation>Oś %1 nie jest obsługiwana w XQuery</translation>
     </message>
     <message>
         <source>%1 is not a valid numeric literal.</source>
-        <translatorcomment>aaa</translatorcomment>
         <translation>%1 nie jest prawidłowym literałem numerycznym.</translation>
     </message>
     <message>
         <source>W3C XML Schema identity constraint selector</source>
-        <translatorcomment>aa</translatorcomment>
-        <translation type="unfinished">Schemat wyboru ograniczenia tożsamości W3C XML</translation>
+        <translation>Schemat wyboru ograniczenia tożsamości W3C XML</translation>
     </message>
     <message>
         <source>W3C XML Schema identity constraint field</source>
-        <translatorcomment>aa</translatorcomment>
-        <translation type="unfinished">Schemat pola ograniczenia tożsamości W3C XML</translation>
+        <translation>Schemat pola ograniczenia tożsamości W3C XML</translation>
     </message>
     <message>
         <source>A construct was encountered which is disallowed in the current language(%1).</source>
-        <translatorcomment>aa</translatorcomment>
-        <translation type="unfinished">Wystąpiła konstrukcja, która jest niedozwolona w bieżącym języku (%1).</translation>
+        <translation>Wystąpiła konstrukcja, która jest niedozwolona w bieżącym języku (%1).</translation>
     </message>
     <message>
         <source>The keyword %1 cannot occur with any other mode name.</source>
-        <translation type="unfinished">Słowo kluczowe %1 nie może wystąpić z inną nazwą trybu.</translation>
+        <translation>Słowo kluczowe %1 nie może występować z każdą inną nazwą trybu.</translation>
     </message>
     <message>
         <source>No variable with name %1 exists</source>
-        <translation type="unfinished">Zmienna o nazwie %1 nie istnieje</translation>
+        <translation>Brak istniejącej zmiennej o nazwie %1</translation>
     </message>
     <message>
         <source>The value of attribute %1 must be of type %2, which %3 isn&apos;t.</source>
-        <translation type="unfinished">Wartość atrybutu %1 musi być typu %2, którym nie jest %3.</translation>
+        <translation>Wartość atrybutu %1 musi być typu %2, którym nie jest %3.</translation>
     </message>
     <message>
         <source>The prefix %1 cannot be bound. By default, it is already bound to the namespace %2.</source>
-        <translation type="unfinished">Przedrostek %1 nie może być powiązany. Jest on domyślnie powiązany z przestrzenią nazw %2.</translation>
+        <translation>Prefiks %1 nie może być powiązany. Domyślnie jest on już powiązany z przestrzenią nazw %2.</translation>
     </message>
     <message>
         <source>A variable with name %1 has already been declared.</source>
-        <translation type="unfinished">Zmienna o nazwie %1 została już zadeklarowana.</translation>
+        <translation>Zmienna o nazwie %1 została już zadeklarowana.</translation>
     </message>
     <message>
         <source>No value is available for the external variable with name %1.</source>
-        <translation type="unfinished">Brak wartości dla zewnętrznej zmiennej o nazwie %1.</translation>
+        <translation>Brak dostępnej wartości dla zewnętrznej zmiennej o nazwie %1.</translation>
     </message>
     <message>
         <source>A stylesheet function must have a prefixed name.</source>
-        <translation type="unfinished">Funkcja arkusza stylu musi zawierać nazwę z przedrostkiem.</translation>
+        <translation>Funkcja arkusza stylów musi mieć nazwę poprzedzoną prefiksem.</translation>
     </message>
     <message>
         <source>The namespace for a user defined function cannot be empty (try the predefined prefix %1 which exists for cases like this)</source>
-        <translation type="unfinished">Przestrzeń nazw dla funkcji zdefiniowanej przez użytkownika nie może być pusta (spróbuj predefiniowany przedrostek %1, który stworzono specjalnie do takich sytuacji)</translation>
+        <translation>Przestrzeń nazw dla funkcji zdefiniowanych przez użytkownika nie może być pusta (spróbuj wstępnie zdefiniowanego prefiksu %1, który istnieje w takich przypadkach)</translation>
     </message>
     <message>
         <source>An argument with name %1 has already been declared. Every argument name must be unique.</source>
-        <translation type="unfinished">Argument o nazwie %1 został już zadeklarowany. Każda nazwa argumentu musi być unikatowa.</translation>
+        <translation>Argument o nazwie %1 został już zadeklarowany. Każda nazwa argumentu musi być unikatowa.</translation>
     </message>
     <message>
         <source>When function %1 is used for matching inside a pattern, the argument must be a variable reference or a string literal.</source>
-        <translation type="unfinished">Gdy funkcja %1 jest wykorzystana do dopasowania wewnątrz wzorca, jej argument musi być referencją do zmiennej lub literałem znakowym.</translation>
+        <translation>Gdy funkcja %1 jest używana do dopasowywania wewnątrz wzorca, argument musi być odwołaniem do zmiennej lub literału ciągu znaków.</translation>
     </message>
     <message>
         <source>In an XSL-T pattern, the first argument to function %1 must be a string literal, when used for matching.</source>
-        <translation type="unfinished">We wzorze XSL-T pierwszy argument w funkcji %1 musi być literałem znakowym podczas dopasowywania.</translation>
+        <translation>We wzorze XSL-T, pierwszy argument w funkcji %1 musi być literałem ciągu znaków, gdy służy do dopasowywania.</translation>
     </message>
     <message>
         <source>In an XSL-T pattern, the first argument to function %1 must be a literal or a variable reference, when used for matching.</source>
-        <translation type="unfinished">We wzorze XSL-T pierwszy argument w funkcji %1 musi być literałem znakowym lub nazwą zmiennej podczas dopasowywania.</translation>
+        <translation>We wzorze XSL-T pierwszy argument w funkcji %1 musi być literałem lub odwołaniem do zmiennej, gdy służy do dopasowywania.</translation>
     </message>
     <message>
         <source>In an XSL-T pattern, function %1 cannot have a third argument.</source>
-        <translation type="unfinished">We wzorze XSL-T funkcja %1 nie może zawierać trzeciego argumentu.</translation>
+        <translation>We wzorze XSL-T funkcja %1 nie może mieć trzeciego argumentu.</translation>
     </message>
     <message>
         <source>In an XSL-T pattern, only function %1 and %2, not %3, can be used for matching.</source>
-        <translation type="unfinished">We wzorze XSL-T tylko funkcje %1 i %2 mogą być użyte do dopasowania, zaś funkcja %3 nie.</translation>
+        <translation>We wzorze XSL-T, tylko funkcje %1 i %2 mogą być użyte do dopasowywania, natomiast funkcja %3 nie.</translation>
     </message>
     <message>
         <source>In an XSL-T pattern, axis %1 cannot be used, only axis %2 or %3 can.</source>
-        <translation type="unfinished">We wzorze XSL-T tylko osie %2 i %3 mogą być użyte, zaś oś %1 nie.</translation>
+        <translation>We wzorze XSL-T nie można użyć osi %1, tylko osie %2 i %3 mogą być użyte.</translation>
     </message>
     <message>
         <source>%1 is an invalid template mode name.</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>nieprawidłową</lengthvariant>
-            <lengthvariant>%1 nie jest poprawną nazwa trybu szablonu.</lengthvariant>
-        </translation>
+        <translation>%1 jest nieprawidłową nazwą trybu szablonu.</translation>
     </message>
     <message>
         <source>Each name of a template parameter must be unique; %1 is duplicated.</source>
-        <translation type="unfinished">Każda nazwa parametru szablonu musi być unikatowa; %1 się powtarza.</translation>
+        <translation>Każda nazwa parametru szablonu musi być unikatowa; %1 jest zduplikowana.</translation>
     </message>
     <message>
         <source>No function with name %1 is available.</source>
-        <translation type="unfinished">Żadna funkcja o nazwie %1 nie jest dostępna.</translation>
+        <translation>Brak dostępnej funkcji o nazwie %1.</translation>
     </message>
     <message>
         <source>An attribute with name %1 has already appeared on this element.</source>
-        <translation type="unfinished">Atrybut o nazwie %1 już się pojawił w tym elemencie.</translation>
+        <translation>Atrybut o nazwie %1 już wystąpił w tym elemencie.</translation>
     </message>
     <message>
         <source>The namespace URI cannot be the empty string when binding to a prefix, %1.</source>
-        <translation type="unfinished">Przestrzeń nazw URI nie może być pustym ciągiem w powiązaniu z przedrostkiem, %1.</translation>
+        <translation>Przestrzeń nazw URI nie może być pustym ciągiem podczas powiązania z prefiksem, %1.</translation>
     </message>
     <message>
         <source>%1 is an invalid namespace URI.</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>nieprawidłową</lengthvariant>
-            <lengthvariant>%1 jest niepoprawną przestrzenią nazw URI.</lengthvariant>
-        </translation>
+        <translation>%1 jest nieprawidłowym identyfikatorem URI przestrzeni nazw.</translation>
     </message>
     <message>
         <source>It is not possible to bind to the prefix %1</source>
-        <translation type="unfinished">Nie jest możliwe powiązanie z przedrostkiem %1</translation>
+        <translation>Nie jest możliwe powiązanie z prefiksem %1</translation>
     </message>
     <message>
         <source>Namespace %1 can only be bound to %2 (and it is, in either case, pre-declared).</source>
-        <translation type="unfinished">Przestrzeń nazw %1 może być jedynie powiązana z %2 (w przeciwnym wypadku jest ona domyślnie zadeklarowana).</translation>
+        <translation>Przestrzeń nazw %1 może być powiązana jedynie z %2 (w każdym przypadku jest to wstępnie zadeklarowane).</translation>
     </message>
     <message>
         <source>Prefix %1 can only be bound to %2 (and it is, in either case, pre-declared).</source>
-        <translation type="unfinished">Przedrostek %1 może być jedynie powiązany z %2 (w przeciwnym wypadku jest on domyślnie zadeklarowany).</translation>
+        <translation>Prefiks %1 może być powiązany jedynie z %2 (w każdym przypadku jest to wstępnie zadeklarowane).</translation>
     </message>
     <message>
         <source>Two namespace declaration attributes have the same name: %1.</source>
-        <translation type="unfinished">Atrybuty deklaracji przestrzeni nazw mają tą samą nazwę: %1.</translation>
+        <translation>Dwa atrybuty deklaracji przestrzeni nazw mają taką samą nazwę: %1.</translation>
     </message>
     <message>
         <source>The namespace URI must be a constant and cannot use enclosed expressions.</source>
-        <translation type="unfinished">Przestrzeń nazw URI nie może być stałą i nie może używać zawartych w niej wyrażeń.</translation>
+        <translation>Przestrzeń nazw URI musi być stała i nie można używać wyrażeń zamkniętych.</translation>
     </message>
     <message>
         <source>A direct element constructor is not well-formed. %1 is ended with %2.</source>
-        <translation type="unfinished">Konstruktor elementu bezpośredniego nie jest dobrze sformatowany. %1 jest zakończony %2.</translation>
+        <translation>Konstruktor elementu bezpośredniego nie jest poprawnie sformułowany. %1 jest zakończony z %2.</translation>
     </message>
     <message>
         <source>The name %1 does not refer to any schema type.</source>
-        <translation type="unfinished">Nazwa %1 nie odpowiada żadnemu typowi schematu.</translation>
+        <translation>Nazwa %1 nie odwołuje się do żadnego typu schematu.</translation>
     </message>
     <message>
         <source>%1 is an complex type. Casting to complex types is not possible. However, casting to atomic types such as %2 works.</source>
-        <translation type="unfinished">%1 jest typem złożonym. Rzutowanie na typy złożone nie jest możliwe. Jednakże rzutowanie na typy atomowe np.: %2 jest dozwolone.</translation>
+        <translation>%1 jest typu złożonego. Rzutowanie na typy złożone nie jest możliwe. Jednakże rzutowanie do typów niepodzielnych, takich jak %2 działa poprawnie.</translation>
     </message>
     <message>
         <source>%1 is not an atomic type. Casting is only possible to atomic types.</source>
-        <translation type="unfinished">%1 nie jest typem atomowym. Możliwe jest rzutowanie tylko na typy atomowe.</translation>
+        <translation>%1 nie jest typem niepodzielnym. Możliwe jest rzutowanie tylko do typów niepodzielnych.</translation>
     </message>
     <message>
         <source>%1 is not a valid name for a processing-instruction.</source>
-        <translation type="unfinished">%1 nie jest poprawną nazwą dla instrukcji przetwarzającej.</translation>
+        <translation>%1 nie jest prawidłową nazwą dla instrukcja przetwarzania.</translation>
     </message>
     <message>
         <source>%1 is not in the in-scope attribute declarations. Note that the schema import feature is not supported.</source>
-        <translation type="unfinished">%1 nie jest wewnątrz zakresu deklaracji atrybutów. Zwróć uwagę że importowanie schematów nie jest obsługiwane.</translation>
+        <translation>%1 nie jest w zakresie deklaracji atrybutów. Należy pamiętać, że funkcja importu schematu nie jest obsługiwana.</translation>
     </message>
     <message>
         <source>The name of an extension expression must be in a namespace.</source>
-        <translation type="unfinished">Nazwa dodatkowego wyrażenia musi znajdować sie w przestrzeni nazw.</translation>
+        <translation>Nazwa wyrażenia rozszerzenia musi być w przestrzeni nazw.</translation>
     </message>
     <message>
         <source>empty</source>
-        <translatorcomment>aaa</translatorcomment>
         <translation>pusty</translation>
     </message>
     <message>
         <source>zero or one</source>
-        <translation type="unfinished">zero lub jeden</translation>
+        <translation>zero lub jeden</translation>
     </message>
     <message>
         <source>exactly one</source>
-        <translation type="unfinished">dokładnie jeden</translation>
+        <translation>dokładnie jeden</translation>
     </message>
     <message>
         <source>one or more</source>
-        <translation type="unfinished">jeden lub więcej</translation>
+        <translation>jeden lub więcej</translation>
     </message>
     <message>
         <source>zero or more</source>
-        <translation type="unfinished">zero lub więcej</translation>
+        <translation>zero lub więcej</translation>
     </message>
     <message>
         <source>Required type is %1, but %2 was found.</source>
-        <translation type="unfinished">Odnaleziono typ %2, lecz wymaganym typem jest %1.</translation>
+        <translation>Wymagany typ to %1, natomiast znaleziono typ %2.</translation>
     </message>
     <message>
         <source>Promoting %1 to %2 may cause loss of precision.</source>
-        <translation type="unfinished">Przekształcenie %1 do %2 może spowodować utratę precyzji.</translation>
+        <translation>Awansowanie %1 do %2 może spowodować utratę precyzji.</translation>
     </message>
     <message>
         <source>The focus is undefined.</source>
-        <translation type="unfinished">Fokus jest niezdefiniowany.</translation>
+        <translation>Fokus jest niezdefiniowany.</translation>
     </message>
     <message>
         <source>It&apos;s not possible to add attributes after any other kind of node.</source>
-        <translation type="unfinished">Dodanie atrybutu poza węzłami nie jest możliwe.</translation>
+        <translation>Nie jest możliwe dodanie atrybutów po węźle innego rodzaju.</translation>
     </message>
     <message>
         <source>An attribute by name %1 has already been created.</source>
-        <translation type="unfinished">Atrybut o nazwie %1 został już utworzony.</translation>
+        <translation>Atrybut o nazwie %1 został już utworzony.</translation>
     </message>
     <message>
         <source>Only the Unicode Codepoint Collation is supported(%1). %2 is unsupported.</source>
-        <translation type="unfinished">Obsługiwane jest jedynie &quot;Unicode Codepoint Collation&quot; (%1), %2 nie jest obsługiwane.</translation>
+        <translation>Obsługiwane jest tylko sortowanie punktu kodowego Unicode(%1). %2 nie jest obsługiwane.</translation>
     </message>
     <message>
         <source>Integer division (%1) by zero (%2) is undefined.</source>
-        <translation type="unfinished">Dzielenie w dziedzinie liczb całkowitych (%1) przez zero (%2) jest niezdefiniowane.</translation>
+        <translation>Całkowite dzielenie (%1) przez zero (%2) jest niezdefiniowane.</translation>
     </message>
     <message>
         <source>Division (%1) by zero (%2) is undefined.</source>
-        <translation type="unfinished">Dzielenie (%1) przez zero (%2) jest niezdefiniowane.</translation>
+        <translation>Dzielenie (%1) przez zero (%2) jest niezdefiniowane.</translation>
     </message>
     <message>
         <source>Modulus division (%1) by zero (%2) is undefined.</source>
-        <translation type="unfinished">Dzielenie modulo (%1) przez zero (%2) jest niezdefiniowane.</translation>
+        <translation>Wyznaczanie modułu (%1) przez zero (%2) jest niezdefiniowane.</translation>
     </message>
     <message numerus="yes">
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished">
-            <numerusform variants="yes">
-                <lengthvariant>Nieprawidłowe</lengthvariant>
-                <lengthvariant>%1 przyjmuje co najwyżej %n argument. %2 jest dlatego niepoprawne.</lengthvariant>
-            </numerusform>
-            <numerusform>%1 przyjmuje co najwyżej %n argumenty. %2 jest dlatego niepoprawne.</numerusform>
-            <numerusform>%1 przyjmuje co najwyżej %n argumentów. %2 jest dlatego niepoprawne.</numerusform>
+        <translation>
+            <numerusform>%1 przyjmuje co najwyżej %n argument. Dlatego %2 jest nieprawidłowe.</numerusform>
+            <numerusform>%1 przyjmuje co najwyżej %n argumenty. Dlatego %2 jest nieprawidłowe.</numerusform>
+            <numerusform>%1 przyjmuje co najwyżej %n argumentów. Dlatego %2 jest nieprawidłowe.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished">
-            <numerusform variants="yes">
-                <lengthvariant>Nieprawidłowe</lengthvariant>
-                <lengthvariant>%1 wymaga przynajmniej %n argumentu. %2 jest dlatego niepoprawne.</lengthvariant>
-            </numerusform>
-            <numerusform>%1 wymaga przynajmniej %n argumentów. %2 jest dlatego niepoprawne.</numerusform>
-            <numerusform>%1 wymaga przynajmniej %n argumentów. %2 jest dlatego niepoprawne.</numerusform>
+        <translation>
+            <numerusform>%1 wymaga co najmniej %n argumenty. Dlatego %2 jest nieprawidłowe.</numerusform>
+            <numerusform>%1 wymaga co najmniej %n argumentów. Dlatego %2 jest nieprawidłowe.</numerusform>
+            <numerusform>%1 wymaga co najmniej %n argumentów. Dlatego %2 jest nieprawidłowe.</numerusform>
         </translation>
     </message>
     <message>
         <source>The root node of the second argument to function %1 must be a document node. %2 is not a document node.</source>
-        <translation type="unfinished">Głównym węzłem drugiego argumentu w funkcji %1 musi być węzeł &quot;document&quot;. %2 nie jest węzłem &quot;document&quot;.</translation>
+        <translation>Węzeł główny drugiego argumentu funkcji %1 musi być węzłem dokumentu. %2 nie jest węzłem dokumentu.</translation>
     </message>
     <message>
         <source>%1 is not a whole number of minutes.</source>
-        <translation type="unfinished">%1 nie jest całkowitą liczbą minut.</translation>
+        <translation>%1 nie jest pełną liczbą minut.</translation>
     </message>
     <message>
         <source>The encoding %1 is invalid. It must contain Latin characters only, must not contain whitespace, and must match the regular expression %2.</source>
-        <translatorcomment>aaa</translatorcomment>
         <translation>Kodowanie %1 jest nieprawidłowe. Musi ono zawierać tylko znaki alfabetu łacińskiego, nie może zawierać spacji i musi pasować do wyrażenia regularnego%2.</translation>
     </message>
     <message>
         <source>A default namespace declaration must occur before function, variable, and option declarations.</source>
-        <translation type="unfinished">Domyślna deklaracja przestrzeni nazw musi pojawić się przed deklaracjami funkcji, zmiennych i opcji.</translation>
+        <translation>Domyślna deklaracja obszaru nazw musi wystąpić przed deklaracjami funkcji, zmiennych i opcji.</translation>
     </message>
     <message>
         <source>Namespace declarations must occur before function, variable, and option declarations.</source>
-        <translation type="unfinished">Deklaracje przestrzeni nazw muszą pojawić się przed deklaracjami funkcji, zmiennych i opcji.</translation>
+        <translation>Deklaracje obszaru nazw muszą wystąpić przed deklaracjami funkcji, zmiennych i opcji.</translation>
     </message>
     <message>
         <source>Module imports must occur before function, variable, and option declarations.</source>
-        <translation type="unfinished">Importy modułów muszą pojawić się przed deklaracjami funkcji, zmiennych i opcji.</translation>
+        <translation>Importy modułu muszą wystąpić przed deklaracjami funkcji, zmiennych i opcji.</translation>
     </message>
     <message>
         <source>%1 is an unsupported encoding.</source>
-        <translation type="unfinished">Nieobsługiwane kodowanie %1.</translation>
+        <translation>%1 jest nieobsługiwanym kodowaniem.</translation>
     </message>
     <message>
         <source>%1 contains octets which are disallowed in the requested encoding %2.</source>
-        <translation type="unfinished">%1 zawiera bity które są niedozwolone w zażądanym kodowaniu %2.</translation>
+        <translation>%1 zawiera oktety, które są niedozwolone w żądanym kodowaniu %2.</translation>
     </message>
     <message>
         <source>The codepoint %1, occurring in %2 using encoding %3, is an invalid XML character.</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>nieprawidłowy</lengthvariant>
-            <lengthvariant>Kod %1 który pojawił się w %2 i który używa kodowania %3 jest niepoprawnym znakiem XML.</lengthvariant>
-        </translation>
+        <translation>Punkt kodowy %1 wystąpił w %2 przy użyciu kodowania %3, które jest nieprawidłowym znakiem XML.</translation>
     </message>
     <message>
         <source>Ambiguous rule match.</source>
-        <translation type="unfinished">Dopasowano niejednoznaczną regułę.</translation>
+        <translation>Niejednoznaczne dopasowanie reguły.</translation>
     </message>
     <message>
         <source>In a namespace constructor, the value for a namespace cannot be an empty string.</source>
-        <translation>W konstruktorze przestrzeni nazw wartość przestrzeni nazw nie może być pustym ciągiem.</translation>
+        <translation>W konstruktorze przestrzeni nazw wartość dla przestrzeni nazw nie może być pustym ciągiem.</translation>
     </message>
     <message>
         <source>The prefix must be a valid %1, which %2 is not.</source>
-        <translation>Przedrostek musi być poprawnym %1, którym %2 nie jest.</translation>
+        <translation>Prefiks musi być prawidłowym %1, którym %2 nie jest.</translation>
     </message>
     <message>
         <source>The prefix %1 cannot be bound.</source>
-        <translation>Przedrostek %1 nie może być powiązany.</translation>
+        <translation>Prefiks %1 nie może być powiązany.</translation>
     </message>
     <message>
         <source>Only the prefix %1 can be bound to %2 and vice versa.</source>
-        <translation>Tylko przedrostek %1 może być powiązany z %2 i vice versa.</translation>
+        <translation>Tylko prefiks%1 może być powiązany z%2 i odwrotnie.</translation>
     </message>
     <message>
         <source>The parameter %1 is required, but no corresponding %2 is supplied.</source>
-        <translation>Wymagany jest parametr %1 lecz żaden odpowiadający mu  %2 nie został dostarczony.</translation>
+        <translation>Parametr %1 jest wymagany, ale brak jest dostarczonego odpowiadającego %2.</translation>
     </message>
     <message>
         <source>The parameter %1 is passed, but no corresponding %2 exists.</source>
-        <translation>Przekazany jest parametr %1 lecz żaden odpowiadający mu %2 nie istnieje.</translation>
+        <translation>Parametr %1 jest przekazywany, ale brak jest istniejącego odpowiadającego %2.</translation>
     </message>
     <message>
         <source>The URI cannot have a fragment</source>
-        <translation>URI nie może posiadać fragmentu</translation>
+        <translation>URI nie może zawierać fragmentu</translation>
     </message>
     <message>
         <source>Element %1 is not allowed at this location.</source>
-        <translation>Element %1 jest niedozwolony w tym miejscu.</translation>
+        <translation>Element %1 nie jest dozwolony w tej lokalizacji.</translation>
     </message>
     <message>
         <source>Text nodes are not allowed at this location.</source>
-        <translation>Węzły tekstowe są niedozwolone w tym miejscu.</translation>
+        <translation>Węzły tekstowe nie są dozwolone w tej lokalizacji.</translation>
     </message>
     <message>
         <source>Parse error: %1</source>
-        <translation>Błąd parsowania: %1</translation>
+        <translation>Błąd analizy: %1</translation>
     </message>
     <message>
         <source>The value of the XSL-T version attribute must be a value of type %1, which %2 isn&apos;t.</source>
-        <translation>Wartość atrybutu wersji XSL-T musi być typu %1, którym %2 nie jest.</translation>
+        <translation>Wartość atrybutu wersji XSL-T musi być wartością typu %1, którą %2 nie jest.</translation>
     </message>
     <message>
         <source>Running an XSL-T 1.0 stylesheet with a 2.0 processor.</source>
-        <translation>Przetwarzanie arkusza XSL-T w wersji 1.0 przez procesor w wersji 2.0.</translation>
+        <translation>Uruchamianie arkusza stylów XSL-T w wersji 1.0 przez procesor w wersji 2.0.</translation>
     </message>
     <message>
         <source>Unknown XSL-T attribute %1.</source>
@@ -8726,23 +8694,23 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>Attribute %1 and %2 are mutually exclusive.</source>
-        <translation>Atrybuty %1 i %2 wzajemnie się wykluczającą.</translation>
+        <translation>Atrybut %1 i %2 wzajemnie się wykluczają.</translation>
     </message>
     <message>
         <source>In a simplified stylesheet module, attribute %1 must be present.</source>
-        <translation>W uproszczonym module arkuszu stylu musi wystąpić atrybut %1.</translation>
+        <translation>W uproszczonym module arkusza stylów, musi wystąpić atrybut %1.</translation>
     </message>
     <message>
         <source>If element %1 has no attribute %2, it cannot have attribute %3 or %4.</source>
-        <translation>Jeśli element %1 nie posiada atrybutu %2, nie może on również posiadać atrybutu %3 ani %4.</translation>
+        <translation>Jeśli element %1 nie ma atrybutu %2, nie może mieć również atrybutu %3 lub %4.</translation>
     </message>
     <message>
         <source>Element %1 must have at least one of the attributes %2 or %3.</source>
-        <translation>Element %1 musi posiadać przynajmniej jeden z atrybutów: %2 lub %3.</translation>
+        <translation>Element %1 musi mieć co najmniej jeden z atrybutów %2 lub %3.</translation>
     </message>
     <message>
         <source>At least one mode must be specified in the %1-attribute on element %2.</source>
-        <translation>Przynajmniej jeden tryb musi być podany w atrybucie %1 elementu %2.</translation>
+        <translation>Co najmniej jeden tryb musi być określony w atrybucie %1 elementu %2.</translation>
     </message>
     <message>
         <source>Element %1 must come last.</source>
@@ -8750,91 +8718,91 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>At least one %1-element must occur before %2.</source>
-        <translation>Przynajmniej jeden element %1 musi wystąpić przed %2.</translation>
+        <translation>Co najmniej jeden element %1 musi wystąpić przed %2.</translation>
     </message>
     <message>
         <source>Only one %1-element can appear.</source>
-        <translation>Może wystąpić tylko jeden element %1.</translation>
+        <translation>Tylko jeden element %1 może się pojawić.</translation>
     </message>
     <message>
         <source>At least one %1-element must occur inside %2.</source>
-        <translation>Przynajmniej jeden element %1 musi wystąpić wewnątrz %2.</translation>
+        <translation>Co najmniej jeden element %1 musi wystąpić wewnątrz %2.</translation>
     </message>
     <message>
         <source>When attribute %1 is present on %2, a sequence constructor cannot be used.</source>
-        <translation>Kiedy atrybut %1 występuje w %2 konstruktor sekwencyjny nie może być użyty.</translation>
+        <translation>Gdy atrybut %1 występuje w %2, konstruktor sekwencji nie może być użyty.</translation>
     </message>
     <message>
         <source>Element %1 must have either a %2-attribute or a sequence constructor.</source>
-        <translation>Element %1 musi posiadać albo atrybut %2 albo sekwencyjny konstruktor.</translation>
+        <translation>Element %1 musi posiadać atrybut %2 lub konstruktor sekwencji.</translation>
     </message>
     <message>
         <source>When a parameter is required, a default value cannot be supplied through a %1-attribute or a sequence constructor.</source>
-        <translation>Kiedy wymagany jest parametr, domyślna wartość nie może być dostarczona przez atrybut %1 ani przez sekwencyjny konstruktor.</translation>
+        <translation>Gdy parametr jest wymagany, domyślną wartością nie może być dostarczona przez atrybut %1 lub konstruktora sekwencji.</translation>
     </message>
     <message>
         <source>Element %1 cannot have children.</source>
-        <translation>Element %1 nie może posiadać potomków.</translation>
+        <translation>Element %1 nie może mieć elementów podrzędnych.</translation>
     </message>
     <message>
         <source>Element %1 cannot have a sequence constructor.</source>
-        <translation>Element %1 nie może posiadać sekwencyjnego konstruktora.</translation>
+        <translation>Element %1 nie może mieć konstruktora sekwencji.</translation>
     </message>
     <message>
         <source>The attribute %1 cannot appear on %2, when it is a child of %3.</source>
-        <translation>Atrybut %1 nie może wystąpić w %2 kiedy jest on potomkiem %3.</translation>
+        <translation>Atrybut %1 nie może występować w %2, gdy jest on elementem podrzędnym %3.</translation>
     </message>
     <message>
         <source>A parameter in a function cannot be declared to be a tunnel.</source>
-        <translation>Parametr funkcji nie może być zadeklarowany jako tunelowy.</translation>
+        <translation>Parametr w funkcji nie może być zadeklarowany za tunelem.</translation>
     </message>
     <message>
         <source>This processor is not Schema-aware and therefore %1 cannot be used.</source>
-        <translation>Procesor nie obsługuje schematów, więc %1 nie może zostać użyte.</translation>
+        <translation>Ten procesor nie rozpoznaje schematów i dlatego %1 nie może być używany.</translation>
     </message>
     <message>
         <source>Top level stylesheet elements must be in a non-null namespace, which %1 isn&apos;t.</source>
-        <translation>Elementy arkusza stylu najwyższego poziomu muszą być w niezerowej przestrzeni nazw, którą %1 nie jest.</translation>
+        <translation>Najwyższy poziom elementów arkusza stylów musi być w niezerowej przestrzeni nazw, którą nie jest %1.</translation>
     </message>
     <message>
         <source>The value for attribute %1 on element %2 must either be %3 or %4, not %5.</source>
-        <translation>Wartością atrybutu %1 w elemencie %2 musi być %3 albo %4, lecz nie %5.</translation>
+        <translation>Wartość atrybutu %1 w elemencie %2 musi być %3 lub %4, a nie %5.</translation>
     </message>
     <message>
         <source>Attribute %1 cannot have the value %2.</source>
-        <translation>Atrybut %1 nie może posiadać wartości %2.</translation>
+        <translation>Atrybut %1 nie może mieć wartości %2.</translation>
     </message>
     <message>
         <source>The attribute %1 can only appear on the first %2 element.</source>
-        <translation>Atrybut %1 może wystąpić jedynie w pierwszym elemencie %2.</translation>
+        <translation>Atrybut %1 może się pojawić się tylko w pierwszym elemencie %2.</translation>
     </message>
     <message>
         <source>At least one %1 element must appear as child of %2.</source>
-        <translation>Przynajmniej jeden element %1 musi wystąpić jako potomek %2.</translation>
+        <translation>Co najmniej jeden element %1 musi pojawić się jako element podrzędny %2.</translation>
     </message>
     <message>
         <source>%1 has inheritance loop in its base type %2.</source>
-        <translation>%1 ma pętlę w dziedziczeniu w jego podstawowym typie %2.</translation>
+        <translation>%1 ma pętlę dziedziczenia w jego typie podstawowym %2.</translation>
     </message>
     <message>
         <source>Circular inheritance of base type %1.</source>
-        <translation>Cykliczne dziedziczenie podstawowego typu %1.</translation>
+        <translation>Dziedziczenie cykliczne typu podstawowego %1.</translation>
     </message>
     <message>
         <source>Circular inheritance of union %1.</source>
-        <translation>Cykliczne dziedziczenie unii %1.</translation>
+        <translation>Dziedziczenie cykliczne unii %1.</translation>
     </message>
     <message>
         <source>%1 is not allowed to derive from %2 by restriction as the latter defines it as final.</source>
-        <translation>Nie można wywieść %1 z %2 ograniczając go ponieważ jest on zdefiniowany jako końcowy.</translation>
+        <translation>%1 nie może pochodzić z %2 przez ograniczenie zdefiniowane ostatnio jako końcowe.</translation>
     </message>
     <message>
         <source>%1 is not allowed to derive from %2 by extension as the latter defines it as final.</source>
-        <translation>Nie można wywieść %1 z %2 rozszerzając go ponieważ jest on zdefiniowany jako końcowy.</translation>
+        <translation>%1 nie może pochodzić z %2 przez rozszerzenie zdefiniowane ostatnio jako końcowe.</translation>
     </message>
     <message>
         <source>Base type of simple type %1 cannot be complex type %2.</source>
-        <translation>Typ podstawowy dla typu prostego %1 nie może być typem złożonym %2.</translation>
+        <translation>Typ podstawowy typu prostego %1 nie może być typem złożonym %2.</translation>
     </message>
     <message>
         <source>Simple type %1 cannot have direct base type %2.</source>
@@ -8846,117 +8814,115 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>Simple type %1 can only have simple atomic type as base type.</source>
-        <translation>Typem podstawowym typu prostego %1 może być tylko typ atomowy.</translation>
+        <translation>Typ prosty %1 może mieć tylko prosty typ niepodzielny jako typ podstawowy.</translation>
     </message>
     <message>
         <source>Simple type %1 cannot derive from %2 as the latter defines restriction as final.</source>
-        <translation>Typ prosty %1 nie może wywodzić się z %2 ponieważ ten ostatni jest zdefiniowany jako końcowy.</translation>
+        <translation>Typ prosty %1 nie może pochodzić z %2 przez ograniczenie zdefiniowane ostatnio jako końcowe.</translation>
     </message>
     <message>
         <source>Variety of item type of %1 must be either atomic or union.</source>
-        <translatorcomment>aaa</translatorcomment>
-        <translation>Odmiana typu elementu %1 musi być typu podstawowego lub złożeniowego.</translation>
+        <translation>Odmiana typu elementu %1 musi być typu niepodzielnego lub złożeniowego.</translation>
     </message>
     <message>
         <source>Variety of member types of %1 must be atomic.</source>
-        <translation>Typy składników %1 muszą być atomowe.</translation>
+        <translation>Różne typy elementów członkowskich %1 muszą być niepodzielne.</translation>
     </message>
     <message>
         <source>%1 is not allowed to derive from %2 by list as the latter defines it as final.</source>
-        <translation>Nie można wywieść %1 z %2 poprzez listę ponieważ jest to zdefiniowane ostatecznie w typie podstawowym.</translation>
+        <translation>%1 nie może pochodzić z %2 przez listę zdefiniowaną ostatnio jako końcową.</translation>
     </message>
     <message>
         <source>Simple type %1 is only allowed to have %2 facet.</source>
-        <translation>Typ prosty %1 może jedynie posiadać aspekt %2.</translation>
+        <translation>Typ prosty %1 może posiadać jedynie aspekt %2.</translation>
     </message>
     <message>
         <source>Base type of simple type %1 must have variety of type list.</source>
-        <translation>Typ podstawowy dla typu prostego %1 musi być listą typów.</translation>
+        <translation>Typ podstawowy typu prostego %1 musi mieć różne typy listy.</translation>
     </message>
     <message>
         <source>Base type of simple type %1 has defined derivation by restriction as final.</source>
-        <translation>Typ podstawowy dla typu prostego %1 ma zdefiniowane wywodzenie poprzez ograniczenie jako końcowe.</translation>
+        <translation>Typ podstawowy typu prostego %1 ma zdefiniowane wyprowadzenie przez ograniczenie jako końcowe.</translation>
     </message>
     <message>
         <source>Item type of base type does not match item type of %1.</source>
-        <translatorcomment>aaa</translatorcomment>
         <translation>Typ elementu typu podstawowego nie odpowiada typowi elementu %1.</translation>
     </message>
     <message>
         <source>Simple type %1 contains not allowed facet type %2.</source>
-        <translation>Typ prosty %1 posiada niedozwolony aspekt %2.</translation>
+        <translation>Typ prosty %1 zawiera niedozwolony typ aspektu %2.</translation>
     </message>
     <message>
         <source>%1 is not allowed to derive from %2 by union as the latter defines it as final.</source>
-        <translation>Nie można wywieść %1 z %2 poprzez unię ponieważ jest to zdefiniowane ostatecznie w typie podstawowym.</translation>
+        <translation>%1 nie może pochodzić z %2 przez unię zdefiniowaną ostatnio jako końcową.</translation>
     </message>
     <message>
         <source>%1 is not allowed to have any facets.</source>
-        <translation>%1 nie może posiadać żadnych aspektów.</translation>
+        <translation>%1 nie może mieć żadnych aspektów.</translation>
     </message>
     <message>
         <source>Base type %1 of simple type %2 must have variety of union.</source>
-        <translation>Typ podstawowy %1 dla typu prostego %2 musi być unią.</translation>
+        <translation>Typ podstawowy %1 typu prostego %2 musi mieć różne unie.</translation>
     </message>
     <message>
         <source>Base type %1 of simple type %2 is not allowed to have restriction in %3 attribute.</source>
-        <translation>Typ podstawowy %1 dla typu prostego %2 nie może posiadać ograniczenia dla atrybutu %3.</translation>
+        <translation>Typ podstawowy %1 typu prostego %2 nie może mieć ograniczenia w %3 atrybucie.</translation>
     </message>
     <message>
         <source>Member type %1 cannot be derived from member type %2 of %3&apos;s base type %4.</source>
-        <translation>Typ %1 składnika nie może być wywiedziony z typu %2 który jest typem składnika %3 typu podstawowego %4.</translation>
+        <translation>Typ elementu członkowskiego %1 nie może być pochodną typu elementu członkowskiego %2 z %3 typu podstawowego %4.</translation>
     </message>
     <message>
         <source>Derivation method of %1 must be extension because the base type %2 is a simple type.</source>
-        <translation>Metodą wywodzenia z %1 musi być rozszerzenie ponieważ typ podstawowy %2 jest typem prostym.</translation>
+        <translation>Metoda wyprowadzania %1 musi być rozszerzeniem, ponieważ typ podstawowy %2 jest typem prostym.</translation>
     </message>
     <message>
         <source>Complex type %1 has duplicated element %2 in its content model.</source>
-        <translation>Typ złożony %1 posiada powielony element %2 w jego modelu zawartości.</translation>
+        <translation>Typ złożony %1 ma zduplikowany element %2 w jego modelu zawartości.</translation>
     </message>
     <message>
         <source>Complex type %1 has non-deterministic content.</source>
-        <translation>Typ złożony %1 posiada nieokreśloną zawartość.</translation>
+        <translation>Typ złożony %1 ma niedeterministyczną zawartość.</translation>
     </message>
     <message>
         <source>Attributes of complex type %1 are not a valid extension of the attributes of base type %2: %3.</source>
-        <translation>Atrybuty typu złożonego %1 nie są poprawnym rozszerzeniem atrybutów typu podstawowego %2: %3.</translation>
+        <translation>Atrybuty typu złożonego %1 nie są prawidłowym rozszerzeniem atrybutów typu podstawowego %2: %3.</translation>
     </message>
     <message>
         <source>Content model of complex type %1 is not a valid extension of content model of %2.</source>
-        <translation>Model zawartości typu złożonego %1 nie jest poprawnym rozszerzeniem modelu zawartości %2.</translation>
+        <translation>Model zawartości typu złożonego %1 nie jest prawidłowym rozszerzeniem modelu zawartości %2.</translation>
     </message>
     <message>
         <source>Complex type %1 must have simple content.</source>
-        <translation>Typ złożony %1 musi mieć prostą zawartość.</translation>
+        <translation>Typ złożony %1 musi mieć zawartość prostą.</translation>
     </message>
     <message>
         <source>Complex type %1 must have the same simple type as its base class %2.</source>
-        <translation>Typ złożony %1 musi posiadać ten sam prosty typ jaki posiada jego klasa podstawowa %2.</translation>
+        <translation>Typ złożony %1 musi mieć ten sam typ prosty jak jego klasa podstawowa %2.</translation>
     </message>
     <message>
         <source>Complex type %1 cannot be derived from base type %2%3.</source>
-        <translation>Typ złożony %1 nie może być wywiedziony z typu %2%3.</translation>
+        <translation>Typ złożony %1 nie być pochodną typu podstawowego %2%3.</translation>
     </message>
     <message>
         <source>Attributes of complex type %1 are not a valid restriction from the attributes of base type %2: %3.</source>
-        <translation>Atrybuty typu złożonego %1 nie są poprawnym ograniczeniem atrybutów typu podstawowego %2: %3.</translation>
+        <translation>Atrybuty typu złożonego %1 są nie są prawidłowym ograniczeniem atrybutów typu podstawowego %2: %3.</translation>
     </message>
     <message>
         <source>Complex type %1 with simple content cannot be derived from complex base type %2.</source>
-        <translation>Typ złożony %1 z prostą zawartością nie może być wywiedziony z podstawowego typu złożonego %2.</translation>
+        <translation>Typ złożony %1 z zawartością prostą nie może być pochodną z podstawowego typu złożonego %2.</translation>
     </message>
     <message>
         <source>Item type of simple type %1 cannot be a complex type.</source>
-        <translation>Typ elementów listy w prostym typie %1 nie może być typem złożonym.</translation>
+        <translation>Typ elementu typu prostego %1 nie może być typem złożonym.</translation>
     </message>
     <message>
         <source>Member type of simple type %1 cannot be a complex type.</source>
-        <translation>Typ składnika typu prostego %1 nie może być typem złożonym.</translation>
+        <translation>Typ elementu członkowskiego typu prostego %1 nie może być typem złożonym.</translation>
     </message>
     <message>
         <source>%1 is not allowed to have a member type with the same name as itself.</source>
-        <translation>%1 nie może posiadać typu składnika o tej samej nazwie jaką on sam posiada.</translation>
+        <translation>%1 nie może mieć typu elementu członkowskiego z taką samą nazwą jak on sam.</translation>
     </message>
     <message>
         <source>%1 facet collides with %2 facet.</source>
@@ -8964,63 +8930,59 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>%1 facet must have the same value as %2 facet of base type.</source>
-        <translation>Aspekt %1 musi mieć tą samą wartość jaką ma aspekt %2 typu podstawowego.</translation>
+        <translation>Aspekt %1 musi mieć taką samą wartość jak aspekt %2 typu podstawowego.</translation>
     </message>
     <message>
         <source>%1 facet must be equal or greater than %2 facet of base type.</source>
-        <translation>Wartość aspektu %1 musi większa od lub równa wartości aspektu %2 typu podstawowego.</translation>
+        <translation>Aspekt %1 musi być równy lub większy niż aspekt %2 typu podstawowego.</translation>
     </message>
     <message>
         <source>%1 facet must be less than or equal to %2 facet of base type.</source>
-        <translation>Wartość aspektu %1 musi być mniejsza od lub równa wartości aspektu %2 typu podstawowego.</translation>
+        <translation>Aspekt %1 musi być mniejszy lub równy aspektowi %2 typu podstawowego.</translation>
     </message>
     <message>
         <source>%1 facet contains invalid regular expression</source>
-        <translatorcomment>aaa</translatorcomment>
         <translation>Aspekt %1 zawiera nieprawidłowe wyrażenie regularne</translation>
     </message>
     <message>
         <source>Unknown notation %1 used in %2 facet.</source>
-        <translation>Nieznany zapis %1 użyty w aspekcie %2.</translation>
+        <translation>Nieznana notacja %1 używana w aspekcie%2.</translation>
     </message>
     <message>
         <source>%1 facet contains invalid value %2: %3.</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>nieprawidłową</lengthvariant>
-            <lengthvariant>Aspekt %1 zawiera niepoprawną wartość %2: %3.</lengthvariant>
-        </translation>
+        <translation>Aspekt %1 zawiera nieprawidłową wartość %2: %3.</translation>
     </message>
     <message>
         <source>%1 facet cannot be %2 or %3 if %4 facet of base type is %5.</source>
-        <translation>Aspektem %1 nie może być %2 ani %3 jeśli aspektem %4 typu podstawowego jest %5.</translation>
+        <translation>Aspekt %1 nie może być %2 lub %3, jeśli aspekt %4 typu podstawowego jest %5.</translation>
     </message>
     <message>
         <source>%1 facet cannot be %2 if %3 facet of base type is %4.</source>
-        <translation>Aspektem %1 nie może być %2 jeśli aspektem %3 typu podstawowego jest %4.</translation>
+        <translation>Aspekt %1 nie może być %2, jeśli aspekt %3 typu podstawowego jest %4.</translation>
     </message>
     <message>
         <source>%1 facet must be less than or equal to %2 facet.</source>
-        <translation>Wartość aspektu %1 musi być mniejsza od lub równa wartości aspektu %2.</translation>
+        <translation>Aspekt %1 musi być mniejszy lub równy aspektowi %2.</translation>
     </message>
     <message>
         <source>%1 facet must be less than %2 facet of base type.</source>
-        <translation>Wartość aspektu %1 musi być mniejsza od wartości aspektu %2 typu podstawowego.</translation>
+        <translation>Aspekt %1 musi być mniejszy niż aspekt %2 typu podstawowego.</translation>
     </message>
     <message>
         <source>%1 facet and %2 facet cannot appear together.</source>
-        <translation>Aspekty %1 i %2 nie mogą wystąpić jednocześnie.</translation>
+        <translation>Aspekty %1 i %2 nie mogą występować razem.</translation>
     </message>
     <message>
         <source>%1 facet must be greater than %2 facet of base type.</source>
-        <translation>Wartość aspektu %1 musi być większa od wartości aspektu %2 typu podstawowego.</translation>
+        <translation>Aspekt %1 musi być większy niż aspekt %2 typu podstawowego.</translation>
     </message>
     <message>
         <source>%1 facet must be less than %2 facet.</source>
-        <translation>Wartość aspektu %1 musi być mniejsza od wartości aspektu %2.</translation>
+        <translation>Aspekt %1 musi być mniejszy niż aspekt %2.</translation>
     </message>
     <message>
         <source>%1 facet must be greater than or equal to %2 facet of base type.</source>
-        <translation>Wartość aspektu %1 musi być większa od lub równa wartości aspektu %2 typu podstawowego.</translation>
+        <translation>Aspekt %1 musi być większy lub równy aspektowi %2 typu podstawowego.</translation>
     </message>
     <message>
         <source>Simple type contains not allowed facet %1.</source>
@@ -9028,210 +8990,207 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>%1, %2, %3, %4, %5 and %6 facets are not allowed when derived by list.</source>
-        <translation>Aspekty %1, %2, %3, %4, %5 i %6 nie są dozwolone podczas wywodzenia z listy.</translation>
+        <translation>Aspekty %1, %2, %3, %4, %5 i %6 nie są dozwolone, gdy pochodzą z listy.</translation>
     </message>
     <message>
         <source>Only %1 and %2 facets are allowed when derived by union.</source>
-        <translation>Dozwolone są jedynie aspekty %1 i %2 podczas wywodzenia z unii.</translation>
+        <translation>Dozwolone są tylko aspekty %1 i %2 gdy pochodzą z unii.</translation>
     </message>
     <message>
         <source>%1 contains %2 facet with invalid data: %3.</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>nieprawidłowymi</lengthvariant>
-            <lengthvariant>%1 zawiera aspekt %2 z niepoprawnymi danymi: %3.</lengthvariant>
-        </translation>
+        <translation>%1 zawiera aspekt %2 z nieprawidłowych danych: %3.</translation>
     </message>
     <message>
         <source>Attribute group %1 contains attribute %2 twice.</source>
-        <translation>Grupa atrybutów %1 zawiera dwukrotnie atrybut %2.</translation>
+        <translation>Grupa atrybutów %1 zawiera dwa razy atrybut %2.</translation>
     </message>
     <message>
         <source>Attribute group %1 contains two different attributes that both have types derived from %2.</source>
-        <translation>Grupa atrybutów %1 zawiera dwa różne atrybuty których typy są wywiedzione z %2.</translation>
+        <translation>Grupa atrybutów %1 zawiera dwa różne atrybuty, które oba mają typy pochodzące z %2.</translation>
     </message>
     <message>
         <source>Attribute group %1 contains attribute %2 that has value constraint but type that inherits from %3.</source>
-        <translation>Grupa atrybutów %1 zawiera atrybut %2 który ma ograniczenie wartości ale typ wywodzi się z %3.</translation>
+        <translation>Grupa atrybutów %1 zawiera atrybut %2, który ma ograniczenie wartości, ale typ dziedziczy z %3.</translation>
     </message>
     <message>
         <source>Complex type %1 contains attribute %2 twice.</source>
-        <translation>Typ złożony %1 zawiera atrybut %2 dwukrotnie.</translation>
+        <translation>Typ złożony %1 zawiera dwa razy atrybut %2.</translation>
     </message>
     <message>
         <source>Complex type %1 contains two different attributes that both have types derived from %2.</source>
-        <translation>Typ złożony %1 zawiera dwa różne atrybuty których typy są wywiedzione z %2.</translation>
+        <translation>Typ złożony %1 zawiera dwa różne atrybuty, które oba mają typy pochodzące z %2.</translation>
     </message>
     <message>
         <source>Complex type %1 contains attribute %2 that has value constraint but type that inherits from %3.</source>
-        <translation>Typ złożony %1 zawiera atrybut %2 który ma ograniczenie wartości ale typ wywodzi się z %3.</translation>
+        <translation>Typ złożony %1 zawiera atrybut %2, który ma ograniczenie wartości, ale typ dziedziczy z %3.</translation>
     </message>
     <message>
         <source>Element %1 is not allowed to have a value constraint if its base type is complex.</source>
-        <translation>Element %1 nie może zawierać ograniczenia wartości gdy jego typ podstawowy jest złożony.</translation>
+        <translation>Element %1 nie może mieć ograniczenia wartości, jeśli jego typ podstawowy jest złożony.</translation>
     </message>
     <message>
         <source>Element %1 is not allowed to have a value constraint if its type is derived from %2.</source>
-        <translation>Element %1 nie może zawierać ograniczenia wartości gdy jego typ jest wywiedziony z %2.</translation>
+        <translation>Element %1 nie może mieć ograniczenia wartości, jeśli jego typ jest pochodną z %2.</translation>
     </message>
     <message>
         <source>Value constraint of element %1 is not of elements type: %2.</source>
-        <translation>Ograniczenie wartości elementu %1 nie jest typu: %2.</translation>
+        <translation>Ograniczenie wartości elementu %1 nie jest typem elementów: %2.</translation>
     </message>
     <message>
         <source>Element %1 is not allowed to have substitution group affiliation as it is no global element.</source>
-        <translation>Element %1 nie może przynależeć do grupy zastępującej ponieważ nie jest on elementem globalnym.</translation>
+        <translation>Element %1 nie może przynależeć do grupy podstawienia, ponieważ nie jest on elementem globalnym.</translation>
     </message>
     <message>
         <source>Type of element %1 cannot be derived from type of substitution group affiliation.</source>
-        <translation>Typ elementu %1 nie może być wywiedziony z typu przynależnego do grupy zastępującej.</translation>
+        <translation>Typ elementu %1 nie może być pochodną z typu przynależności grupy podstawienia.</translation>
     </message>
     <message>
         <source>Value constraint of attribute %1 is not of attributes type: %2.</source>
-        <translation>Ograniczenie wartości atrybutu %1 nie jest typu: %2.</translation>
+        <translation>Ograniczenie wartości atrybutu %1 nie jest typem atrybutów: %2.</translation>
     </message>
     <message>
         <source>Attribute %1 has value constraint but has type derived from %2.</source>
-        <translation>Atrybut %1 posiada ograniczenie wartości lecz jego typ wywodzi się z %2.</translation>
+        <translation>Atrybut %1 ma ograniczenie wartości, ale typu pochodnego z %2.</translation>
     </message>
     <message>
         <source>%1 attribute in derived complex type must be %2 like in base type.</source>
-        <translation>Atrybut %1 w wywiedzionym typie złożonym musi być %2 jak w typie podstawowym.</translation>
+        <translation>Atrybut %1 w pochodnej typu złożonego musi być %2 jak w typie podstawowym.</translation>
     </message>
     <message>
         <source>Attribute %1 in derived complex type must have %2 value constraint like in base type.</source>
-        <translation>Atrybut %1 w wywiedzionym typie złożonym musi zawierać ograniczenie wartości %2 jak w typie podstawowym.</translation>
+        <translation>Atrybut %1 w pochodnej typu złożonego musi mieć ograniczenie wartości %2 jak w typie podstawowym.</translation>
     </message>
     <message>
         <source>Attribute %1 in derived complex type must have the same %2 value constraint like in base type.</source>
-        <translation>Atrybut %1 w wywiedzionym typie złożonym musi zawierać te same ograniczenie wartości %2 jak w typie podstawowym.</translation>
+        <translation>Atrybut %1 w pochodnej typu złożonego musi mieć te same ograniczenie wartości %2 jak w typie podstawowym.</translation>
     </message>
     <message>
         <source>Attribute %1 in derived complex type must have %2 value constraint.</source>
-        <translation>Atrybut %1 w wywiedzionym typie złożonym musi zawierać ograniczenie wartości %2.</translation>
+        <translation>Atrybut %1 w pochodnej typu złożonego musi mieć ograniczenie wartości %2.</translation>
     </message>
     <message>
         <source>processContent of base wildcard must be weaker than derived wildcard.</source>
-        <translation>&quot;processContent&quot; podstawowego dżokera musi być słabszy od wywiedzionego dżokera.</translation>
+        <translation>processContent podstawowego symbolu wieloznacznego musi być słabszy niż pochodna symbolu wieloznacznego.</translation>
     </message>
     <message>
         <source>Element %1 exists twice with different types.</source>
-        <translation>Istnieją dwa elementy %1 o różnych typach.</translation>
+        <translation>Element %1 istnieje dwa razy z różnymi typami.</translation>
     </message>
     <message>
         <source>Particle contains non-deterministic wildcards.</source>
-        <translation>Element zawiera nieokreślone dżokery.</translation>
+        <translation>Cząstka zawiera niedeterministyczne symbole wieloznaczne.</translation>
     </message>
     <message>
         <source>Base attribute %1 is required but derived attribute is not.</source>
-        <translation>Wymagany jest bazowy atrybut %1, wywiedziony zaś nie.</translation>
+        <translation>Atrybut podstawowy %1 jest wymagany, ale atrybut pochodny nie.</translation>
     </message>
     <message>
         <source>Type of derived attribute %1 cannot be validly derived from type of base attribute.</source>
-        <translation>Typ wywiedzionego atrybutu %1 nie może być poprawnie wywiedziony z typu podstawowego atrybutu.</translation>
+        <translation>Typ atrybutu pochodnego %1 nie może być prawidłowym typem pochodnym z typu atrybutu podstawowego.</translation>
     </message>
     <message>
         <source>Value constraint of derived attribute %1 does not match value constraint of base attribute.</source>
-        <translation>Ograniczenie wartości wywiedzionego atrybutu %1 nie pasuje do ograniczenia wartości podstawowego atrybutu.</translation>
+        <translation>Ograniczenie wartości atrybutu pochodnego %1 nie odpowiada ograniczeniu wartości atrybutu podstawowego.</translation>
     </message>
     <message>
         <source>Derived attribute %1 does not exist in the base definition.</source>
-        <translation type="unfinished">Atrybut pochodny %1 nie istnieje w podstawowej definicji.</translation>
+        <translation>Atrybut pochodny %1 nie istnieje w definicji podstawowej.</translation>
     </message>
     <message>
         <source>Derived attribute %1 does not match the wildcard in the base definition.</source>
-        <translation type="unfinished">Atrybut pochodny %1 nie pasuje do symbolu wieloznacznego w podstawowej definicji.</translation>
+        <translation>Atrybut pochodny %1 nie odpowiada symbolowi wieloznacznemu w definicji podstawowej.</translation>
     </message>
     <message>
         <source>Base attribute %1 is required but missing in derived definition.</source>
-        <translation type="unfinished">Brak wymaganego atrybutu bazowego %1 w definicji pochodnej.</translation>
+        <translation>Atrybut podstawowy %1 jest wymagany, ale brakuje definicji pochodnej.</translation>
     </message>
     <message>
         <source>Derived definition contains an %1 element that does not exists in the base definition</source>
-        <translation type="unfinished">Definicja pochodnej zawiera element %1, który nie istnieje w definicji podstawowej</translation>
+        <translation>Definicja pochodnej zawiera element %1, który nie istnieje w definicji podstawowej</translation>
     </message>
     <message>
         <source>Derived wildcard is not a subset of the base wildcard.</source>
-        <translation>Wywiedziony dżoker nie jest podzbiorem podstawowego dżokera.</translation>
+        <translation>Pochodna symbolu wieloznacznego nie jest podzbiorem podstawowego symbolu wieloznacznego.</translation>
     </message>
     <message>
         <source>%1 of derived wildcard is not a valid restriction of %2 of base wildcard</source>
-        <translation>%1 wywiedzionego dżokera nie jest poprawnym ograniczeniem %2 podstawowego dżokera</translation>
+        <translation>%1 pochodnego symbolu wieloznacznego nie jest prawidłowym ograniczeniem %2 podstawowego symbolu wieloznacznego</translation>
     </message>
     <message>
         <source>Attribute %1 from base type is missing in derived type.</source>
-        <translation>Brak atrybutu %1 typu bazowego w wywiedzionej definicji.</translation>
+        <translation>Brak jest atrybutu %1 z typu podstawowego w typie pochodnym.</translation>
     </message>
     <message>
         <source>Type of derived attribute %1 differs from type of base attribute.</source>
-        <translation>Typ wywiedzionego atrybutu %1 różni się od typu podstawowego atrybutu.</translation>
+        <translation>Typ atrybutu pochodnego %1 różni się od typu atrybutu podstawowego.</translation>
     </message>
     <message>
         <source>Base definition contains an %1 element that is missing in the derived definition</source>
-        <translation>Podstawowa definicja zawiera element %1 którego brakuje w wywiedzionej definicji</translation>
+        <translation>Definicja podstawowa zawiera element %1, którego brakuje w definicji pochodnej</translation>
     </message>
     <message>
         <source>%1 references unknown %2 or %3 element %4.</source>
-        <translation>%1 odwołuje się do nieznanego elementu %2 lub %3: %4.</translation>
+        <translation>%1 odwołuje się do nieznanego %2 lub %3 elementu %4.</translation>
     </message>
     <message>
         <source>%1 references identity constraint %2 that is no %3 or %4 element.</source>
-        <translation>%1 odwołuje się do narzucenia niepowtarzalności %2 które nie jest elementem %3 ani %4.</translation>
+        <translation>%1 odwołuje się do ograniczenia tożsamości %2, którym nie jest element %3 lub %4.</translation>
     </message>
     <message>
         <source>%1 has a different number of fields from the identity constraint %2 that it references.</source>
-        <translation>%1 posiada inna liczbę pól od narzucenia niepowtarzalności %2 które się do niego odwołuje.</translation>
+        <translation>%1 ma różne liczby pól z ograniczeniem tożsamości %2, które odwołują się do niego.</translation>
     </message>
     <message>
         <source>Base type %1 of %2 element cannot be resolved.</source>
-        <translation>Nie można rozwiązać typu podstawowego %1 elementu %2.</translation>
+        <translation>Nie można rozpoznać typu podstawowego %1 elementu %2.</translation>
     </message>
     <message>
         <source>Item type %1 of %2 element cannot be resolved.</source>
-        <translation>Nie można rozwiązać typu elementów listy %1 w elemencie %2.</translation>
+        <translation>Nie można rozpoznać typu elementu %1 elementu %2.</translation>
     </message>
     <message>
         <source>Member type %1 of %2 element cannot be resolved.</source>
-        <translation>Nie można rozwiązać typu %1 składnika elementu %2.</translation>
+        <translation>Nie można rozpoznać typu członkowskiego %1 elementu %2.</translation>
     </message>
     <message>
         <source>Type %1 of %2 element cannot be resolved.</source>
-        <translation>Nie można rozwiązać typu %1 elementu %2.</translation>
+        <translation>Nie można rozpoznać typu %1 elementu %2.</translation>
     </message>
     <message>
         <source>Base type %1 of complex type cannot be resolved.</source>
-        <translation>Nie można rozwiązać typu podstawowego %1 dla typu złożonego.</translation>
+        <translation>Nie można rozpoznać typu podstawowego %1 typu złożonego.</translation>
     </message>
     <message>
         <source>%1 cannot have complex base type that has a %2.</source>
-        <translation>%1 nie może mieć złożonego typu podstawowego który ma %2.</translation>
+        <translation>%1 nie może mieć złożonego typu podstawowego, który ma %2.</translation>
     </message>
     <message>
         <source>Content model of complex type %1 contains %2 element so it cannot be derived by extension from a non-empty type.</source>
-        <translation>Model zawartości typu złożonego %1 posiada element %2 więc nie może być on wywiedziony poprzez rozszerzenie niepustego typu.</translation>
+        <translation>Model zawartości typu złożonego %1 zawiera %2 element, więc nie może być pochodną przez rozszerzenie z niepustego typu.</translation>
     </message>
     <message>
         <source>Complex type %1 cannot be derived by extension from %2 as the latter contains %3 element in its content model.</source>
-        <translation>Typ złożony %1 nie może być wywiedziony z %2 poprzez rozszerzenie ponieważ ten ostatni zawiera element %3 w jego modelu zawartości.</translation>
+        <translation>Typ złożony %1 nie może być pochodną przez rozszerzenie z %2, ponieważ ten ostatni zawiera element %3 w jego modelu zawartości.</translation>
     </message>
     <message>
         <source>Type of %1 element must be a simple type, %2 is not.</source>
-        <translation>Typem elementu %1 musi być typ prosty, %2 nim nie jest.</translation>
+        <translation>Typ elementu %1 musi być typu prostego, %2 nie jest nim.</translation>
     </message>
     <message>
         <source>Substitution group %1 of %2 element cannot be resolved.</source>
-        <translation>Nie można rozwiązać grupy zastępującej %1 elementu %2.</translation>
+        <translation>Nie można rozpoznać grupy podstawienia %1 elementu %2.</translation>
     </message>
     <message>
         <source>Substitution group %1 has circular definition.</source>
-        <translation>Grupa zastępująca %1 posiada cykliczną definicję.</translation>
+        <translation>Grupa podstawienia %1 ma definicję cykliczną.</translation>
     </message>
     <message>
         <source>Duplicated element names %1 in %2 element.</source>
-        <translation>Powielona nazwa elementu %1 w elemencie %2.</translation>
+        <translation>Zduplikowany element nazwy %1 w elemencie %2.</translation>
     </message>
     <message>
         <source>Reference %1 of %2 element cannot be resolved.</source>
-        <translation>Nie można rozwiązać odwołania %1 do elementu %2.</translation>
+        <translation>Nie można rozpoznać odwołania %1 elementu %2.</translation>
     </message>
     <message>
         <source>Circular group reference for %1.</source>
@@ -9255,107 +9214,103 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>Attribute group %1 has circular reference.</source>
-        <translation>Grupa atrybutów %1 posiada cykliczne odwołanie.</translation>
+        <translation>Grupa atrybutów %1 ma odwołanie cykliczne.</translation>
     </message>
     <message>
         <source>%1 attribute in %2 must have %3 use like in base type %4.</source>
-        <translation>Atrybut %1 w %2 powinien używać %3 jak w typie podstawowym %4.</translation>
+        <translation>Atrybut %1 w %2 musi mieć %3 użyty jak w typie podstawowym %4.</translation>
     </message>
     <message>
         <source>Attribute wildcard of %1 is not a valid restriction of attribute wildcard of base type %2.</source>
-        <translation>Atrybut dżokera %1 nie jest poprawnym ograniczeniem atrybutu dżokera typu podstawowego %2.</translation>
+        <translation>Symbol wieloznaczny atrybutu %1 nie jest prawidłowym ograniczeniem symbolu wieloznacznego atrybutu typu podstawowego %2.</translation>
     </message>
     <message>
         <source>%1 has attribute wildcard but its base type %2 has not.</source>
-        <translation>%1 posiada atrybut dżokera lecz jego typ podstawowy %2 go nie posiada.</translation>
+        <translation>%1 ma symbol wieloznaczny atrybutu, ale jego typ podstawowy %2 nie ma.</translation>
     </message>
     <message>
         <source>Union of attribute wildcard of type %1 and attribute wildcard of its base type %2 is not expressible.</source>
-        <translation>Nie można wyrazić unii atrybutu dżokera typu %1 i atrybutu dżokera jego typu podstawowego %2.</translation>
+        <translation>Nie można wyrazić unii symbolu wieloznacznego atrybutu typu %1 i symbolu wieloznacznego atrybutu jego typu podstawowego %2.</translation>
     </message>
     <message>
         <source>Enumeration facet contains invalid content: {%1} is not a value of type %2.</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>nieprawidłową</lengthvariant>
-            <lengthvariant>Aspekt &quot;enumeration&quot; posiada niepoprawną zawartość: {%1} nie jest wartością typu %2.</lengthvariant>
-        </translation>
+        <translation>Aspekt wyliczenia zawiera nieprawidłową zawartość: {%1} nie jest wartością typu %2.</translation>
     </message>
     <message>
         <source>Namespace prefix of qualified name %1 is not defined.</source>
-        <translatorcomment>aaa</translatorcomment>
         <translation>Prefiks przestrzeni nazw kwalifikowanej nazwy %1 nie jest zadeklarowany.</translation>
     </message>
     <message>
         <source>%1 element %2 is not a valid restriction of the %3 element it redefines: %4.</source>
-        <translation>Element %1 (%2) nie jest poprawnym ograniczeniem elementu %3 który redefiniuje: %4.</translation>
+        <translation>%1 elementu %2 nie jest prawidłowym ograniczeniem elementu %3 przedefiniowuje: %4.</translation>
     </message>
     <message>
         <source>Empty particle cannot be derived from non-empty particle.</source>
-        <translation>Pusty element nie może być wywiedziony z niepustego elementu.</translation>
+        <translation>Pusta cząstka nie może być pochodną z niepustej cząsteczki.</translation>
     </message>
     <message>
         <source>Derived particle is missing element %1.</source>
-        <translation>Brak elementu %1 w wywiedzionym elemencie.</translation>
+        <translation>Cząstce pochodnej brak jest elementu %1.</translation>
     </message>
     <message>
         <source>Derived element %1 is missing value constraint as defined in base particle.</source>
-        <translation>Brak ograniczenia wartości w wywiedzionym elemencie %1 takiego jak w podstawowym elemencie.</translation>
+        <translation>Brak ograniczenia wartości elementu pochodnego %1 zdefiniowanego jak w cząstce podstawowej.</translation>
     </message>
     <message>
         <source>Derived element %1 has weaker value constraint than base particle.</source>
-        <translation>Wywiedziony element %1 posiada słabsze ograniczenie wartości niż element podstawowy.</translation>
+        <translation>Element pochodny %1 ma słabsze ograniczenie wartości niż cząstka podstawowa.</translation>
     </message>
     <message>
         <source>Fixed value constraint of element %1 differs from value constraint in base particle.</source>
-        <translation>Ograniczenie stałej wartości elementu %1 różni się od ograniczenia wartości w podstawowym elemencie.</translation>
+        <translation>Ograniczenie wartości ustalonej elementu %1 różni się od wartości ograniczenia w cząstce podstawowej.</translation>
     </message>
     <message>
         <source>Derived element %1 cannot be nillable as base element is not nillable.</source>
-        <translation>Wywiedziony element %1 może być zerowalny ponieważ element podstawowy nie jest zerowalny.</translation>
+        <translation>Element pochodny %1 nie może być zerowy, ponieważ element podstawowy również nie jest nillable (zerowy).</translation>
     </message>
     <message>
         <source>Block constraints of derived element %1 must not be more weaker than in the base element.</source>
-        <translation>Ograniczenia blokujące dla wywiedzionego elementu %1 nie mogą być słabsze od ograniczeń w elemencie podstawowym.</translation>
+        <translation>Ograniczenia blokujące elementu pochodnego %1 nie mogą być bardziej słabsze niż w elemencie podstawowym.</translation>
     </message>
     <message>
         <source>Simple type of derived element %1 cannot be validly derived from base element.</source>
-        <translation>Typ prosty w elemencie wywiedzionym %1 nie może być poprawnie wywiedziony z elementu podstawowego.</translation>
+        <translation>Typ prosty elementu pochodnego %1 nie może być prawidłowym typem pochodnym z elementu podstawowego.</translation>
     </message>
     <message>
         <source>Complex type of derived element %1 cannot be validly derived from base element.</source>
-        <translation>Typ złożony w elemencie wywiedzionym %1 nie może być poprawnie wywiedziony z elementu podstawowego.</translation>
+        <translation>Typ złożony elementu pochodnego %1 nie może być prawidłowym typem pochodnym z elementu podstawowego.</translation>
     </message>
     <message>
         <source>Element %1 is missing in derived particle.</source>
-        <translation>Brak elementu %1 w wywiedzionym elemencie.</translation>
+        <translation>Brakuje elementu %1 w cząstce pochodnej.</translation>
     </message>
     <message>
         <source>Element %1 does not match namespace constraint of wildcard in base particle.</source>
-        <translation>Element %1 nie pasuje do ograniczenia przestrzeni nazw dżokera w elemencie podstawowym.</translation>
+        <translation>Element %1 nie jest zgodny z ograniczeniem przestrzeni nazw symbolu wieloznacznego w cząstce podstawowej.</translation>
     </message>
     <message>
         <source>Wildcard in derived particle is not a valid subset of wildcard in base particle.</source>
-        <translation>Dżoker w wywiedzionym elemencie nie jest poprawnym podzbiorem dżokera w elemencie podstawowym.</translation>
+        <translation>Symbol wieloznaczny w cząstce pochodnej nie jest prawidłowym podzbiorem symboli wieloznacznych w cząstce podstawowej.</translation>
     </message>
     <message>
         <source>processContent of wildcard in derived particle is weaker than wildcard in base particle.</source>
-        <translation>&quot;processContent&quot; dżokera w wywiedzionym elemencie jest słabszy od dżokera w podstawowym elemencie.</translation>
+        <translation>processContent symbolu wieloznacznego w cząstce pochodnej jest słabszy niż symbol wieloznaczny w cząstce podstawowej.</translation>
     </message>
     <message>
         <source>Derived particle allows content that is not allowed in the base particle.</source>
-        <translation>Wywiedziony element pozwala na zawartość która jest niedozwolona w podstawowym elemencie.</translation>
+        <translation>Cząstka pochodna zezwala na zawartość, która nie jest dozwolona w cząstce podstawowej.</translation>
     </message>
     <message>
         <source>Can not process unknown element %1, expected elements are: %2.</source>
-        <translation>Nie można przetworzyć nieznanego elementu %1, oczekiwanymi elementami są: %2.</translation>
+        <translation>Nie można przetworzyć nieznanego elementu %1, oczekiwano elementów: %2.</translation>
     </message>
     <message>
         <source>Element %1 is not allowed in this scope, possible elements are: %2.</source>
-        <translation>Element %1 jest niedozwolony w tym zakresie, możliwymi elementami są: %2.</translation>
+        <translation>Element %1 nie jest dozwolony w tym zakresie, możliwymi elementami są: %2.</translation>
     </message>
     <message>
         <source>Child element is missing in that scope, possible child elements are: %1.</source>
-        <translation>Brak podelementu w tym zakresie, możliwymi podelementami są: %1.</translation>
+        <translation>Brak elementu podrzędnego w tym zakresie, możliwymi elementami podrzędnymi są: %1.</translation>
     </message>
     <message>
         <source>Document is not a XML schema.</source>
@@ -9363,65 +9318,59 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element contains invalid content: {%3} is not a value of type %4.</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>nieprawidłową</lengthvariant>
-            <lengthvariant>Atrybut %1 elementu %2 posiada niepoprawną zawartość: {%3} nie jest wartością typu %4.</lengthvariant>
-        </translation>
+        <translation>Atrybut %1 elementu %2 zawiera nieprawidłową zawartość: {%3} nie jest wartością typu %4.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element contains invalid content: {%3}.</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>nieprawidłową</lengthvariant>
-            <lengthvariant>Atrybut %1 elementu %2 posiada niepoprawną zawartość: {%3}.</lengthvariant>
-        </translation>
+        <translation>Atrybut %1 elementu %2 zawiera nieprawidłową zawartość: {%3}.</translation>
     </message>
     <message>
         <source>Target namespace %1 of included schema is different from the target namespace %2 as defined by the including schema.</source>
-        <translation>Docelowa przestrzeń nazw %1 załączonego schematu jest różna od docelowej przestrzeni nazw %2 która jest zdefiniowana w schemacie załączającym.</translation>
+        <translation>Docelowa przestrzeń nazw %1 uwzględnionego schematu różni się od docelowej przestrzeni nazw %2 zdefiniowanej jak w schemacie uwzględniającym.</translation>
     </message>
     <message>
         <source>Target namespace %1 of imported schema is different from the target namespace %2 as defined by the importing schema.</source>
-        <translation>Docelowa przestrzeń nazw %1 zaimportowanego schematu jest różna od docelowej przestrzeni nazw %2 która jest zdefiniowana w schemacie importującym.</translation>
+        <translation>Docelowa przestrzeń nazw %1 zaimportowanego schematu różni się od docelowej przestrzeni nazw %2 zdefiniowanej jak w importowanym schemacie.</translation>
     </message>
     <message>
         <source>%1 element is not allowed to have the same %2 attribute value as the target namespace %3.</source>
-        <translation>Element %1 nie może zawierać tej samej wartości atrybutu %2 co docelowa przestrzeń nazw %3.</translation>
+        <translation>Element %1 nie może mieć takiej samej wartości atrybutu %2 jak docelowa przestrzeń nazw %3.</translation>
     </message>
     <message>
         <source>%1 element without %2 attribute is not allowed inside schema without target namespace.</source>
-        <translation>Element %1 bez atrybutu %2 jest niedozwolony wewnątrz schematu bez docelowej przestrzeni nazw.</translation>
+        <translation>Element %1 bez atrybutu %2 nie jest dozwolony wewnątrz schematu bez docelowej przestrzeni nazw.</translation>
     </message>
     <message>
         <source>%1 element is not allowed inside %2 element if %3 attribute is present.</source>
-        <translation>Element %1 jest niedozwolony wewnątrz elementu %2 jeśli jest obecny atrybut %3.</translation>
+        <translation>Element %1 nie jest dozwolony wewnątrz elementu %2 jeśli jest obecny atrybut %3.</translation>
     </message>
     <message>
         <source>%1 element has neither %2 attribute nor %3 child element.</source>
-        <translation>Element %1 nie posiada ani atrybutu %2 ani podelementu %3.</translation>
+        <translation>Element %1 nie ma atrybutu %2, ani elementu podrzędnego %3.</translation>
     </message>
     <message>
         <source>%1 element with %2 child element must not have a %3 attribute.</source>
-        <translation>Element %1 z podelementem %2 nie może mieć atrybutu %3.</translation>
+        <translation>Element %1 z elementu podrzędnego %2 nie może mieć atrybutu %3.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element must be %3 or %4.</source>
-        <translation>Atrybutem %1 elementu %2 musi być %3 lub %4.</translation>
+        <translation>Atrybut %1 elementu %2 musi być %3 lub %4.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element must have a value of %3.</source>
-        <translation>Atrybut %1 elementu %2 musi posiadać wartość %3.</translation>
+        <translation>Atrybut %1 elementu %2 musi mieć wartość %3.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element must have a value of %3 or %4.</source>
-        <translation>Atrybut %1 elementu %2 musi posiadać wartość %3 lub %4.</translation>
+        <translation>Atrybut %1 elementu %2 musi mieć wartość %3 lub %4.</translation>
     </message>
     <message>
         <source>%1 element must not have %2 and %3 attribute together.</source>
-        <translation>Element %1 nie może posiadać jednocześnie atrybutów %2 i %3.</translation>
+        <translation>Element %1 nie musi mieć razem atrybutu %2 i %3.</translation>
     </message>
     <message>
         <source>Content of %1 attribute of %2 element must not be from namespace %3.</source>
-        <translation>Zawartość atrybutu %1 elementu %2 nie może pochodzić z przestrzeni nazw %3.</translation>
+        <translation>Zawartość atrybutu %1 elementu %2 nie może być z przestrzeni nazw %3.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element must not be %3.</source>
@@ -9429,311 +9378,307 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element must have the value %3 because the %4 attribute is set.</source>
-        <translation>Atrybut %1 elementu %2 musi zawierać wartość %3 ponieważ atrybut %4 jest ustawiony.</translation>
+        <translation>Atrybut %1 elementu %2 musi mieć wartość %3, ponieważ atrybut %4 jest już ustawiony.</translation>
     </message>
     <message>
         <source>Specifying use=&apos;prohibited&apos; inside an attribute group has no effect.</source>
-        <translation>Podawanie: use=&apos;prohibited&apos; wewnątrz grupy atrybutów nie przynosi żadnego efektu.</translation>
+        <translation>Określanie wykorzystania=&apos;zakazane&apos; wewnątrz grupy atrybutów ma nie ma żadnego efektu.</translation>
     </message>
     <message>
         <source>%1 element must have either %2 or %3 attribute.</source>
-        <translation>Element %1 musi zawierać atrybut %2 albo %3.</translation>
+        <translation>Element %1 musi mieć atrybut %2 lub %3.</translation>
     </message>
     <message>
         <source>%1 element must have either %2 attribute or %3 or %4 as child element.</source>
-        <translation>Element %1 musi zawierać albo atrybut %2 albo %3 lub %4 jako podelement.</translation>
+        <translation>Element %1 musi mieć atrybut %2 lub %3, albo %4 jak element podrzędny.</translation>
     </message>
     <message>
         <source>%1 element requires either %2 or %3 attribute.</source>
-        <translation>Element %1 wymaga atrybutu %2 albo %3.</translation>
+        <translation>Element %1 wymaga atrybutu %2 lub %3.</translation>
     </message>
     <message>
         <source>Text or entity references not allowed inside %1 element</source>
-        <translation>Tekst ani odwołanie nie są dozwolone wewnątrz elementu %1</translation>
+        <translation>Tekst lub odwołania do jednostek nie są dozwolone wewnątrz elementu %1</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element must contain %3, %4 or a list of URIs.</source>
-        <translation>Atrybut %1 elementu %2 musi zawierać %3, %4 lub listę URI.</translation>
+        <translation>Atrybut %1 elementu %2 musi zawierać %3, %4 lub listę identyfikatorów URI.</translation>
     </message>
     <message>
         <source>%1 element is not allowed in this context.</source>
-        <translation>Element %1 jest niedozwolony w tym kontekście.</translation>
+        <translation>Element %1 nie jest dozwolony w tym kontekście.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element has larger value than %3 attribute.</source>
-        <translation>Atrybut %1 elementu %2 posiada większą wartość niż atrybut %3.</translation>
+        <translation>Atrybut %1 elementu %2 ma większą wartość niż atrybut %3.</translation>
     </message>
     <message>
         <source>Prefix of qualified name %1 is not defined.</source>
-        <translation>Przedrostek w pełnej nazwie %1 nie jest zdefiniowany.</translation>
+        <translation>Prefiks nazwy kwalifikowanej %1 nie jest zdefiniowany.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element must either contain %3 or the other values.</source>
-        <translation>Atrybut %1 elementu %2 musi zawierać albo %3 albo inne wartości.</translation>
+        <translation>Atrybut %1 elementu %2 musi zawierać %3 lub inne wartości.</translation>
     </message>
     <message>
         <source>Component with ID %1 has been defined previously.</source>
-        <translation>Komponent o identyfikatorze %1 został uprzednio zdefiniowany.</translation>
+        <translation>Składnik o identyfikatorze %1 został już wcześniej zdefiniowany.</translation>
     </message>
     <message>
         <source>Element %1 already defined.</source>
-        <translation>Element %1 jest już zdefiniowany.</translation>
+        <translation>Element %1 został już zdefiniowany.</translation>
     </message>
     <message>
         <source>Attribute %1 already defined.</source>
-        <translation>Atrybut %1 jest już zdefiniowany.</translation>
+        <translation>Atrybut %1 został już zdefiniowany.</translation>
     </message>
     <message>
         <source>Type %1 already defined.</source>
-        <translation>Typ %1 jest już zdefiniowany.</translation>
+        <translation>Typ %1 został już zdefiniowany.</translation>
     </message>
     <message>
         <source>Attribute group %1 already defined.</source>
-        <translation>Grupa atrybutów %1 jest już zdefiniowana.</translation>
+        <translation>Grupa atrybutów %1 została już zdefiniowana.</translation>
     </message>
     <message>
         <source>Element group %1 already defined.</source>
-        <translation>Grupa elementów %1 jest już zdefiniowana.</translation>
+        <translation>Grupa elementów %1 została już zdefiniowana.</translation>
     </message>
     <message>
         <source>Notation %1 already defined.</source>
-        <translation>Zapis %1 jest już zdefiniowany.</translation>
+        <translation>Notacja %1 została już zdefiniowana.</translation>
     </message>
     <message>
         <source>Identity constraint %1 already defined.</source>
-        <translation>Narzucenie niepowtarzalności %1 jest już zdefiniowane.</translation>
+        <translation>Ograniczenie tożsamości %1 zostało już zdefiniowane.</translation>
     </message>
     <message>
         <source>Duplicated facets in simple type %1.</source>
-        <translation>Powielone aspekty w prostym typie %1.</translation>
+        <translation>Zduplikowane aspekty w typie prostym %1.</translation>
     </message>
     <message>
         <source>%1 is not valid according to %2.</source>
-        <translatorcomment>Ponieważ nie wiadomo co jest podmiotem nie można stwierdzić czy to ma być &quot;poprawnym&quot;, &quot;poprawną&quot; czy &quot;poprawne&quot;</translatorcomment>
-        <translation>%1 nie jest poprawne według %2.</translation>
+        <translation>%1 nie jest poprawny w odniesieniu do %2.</translation>
     </message>
     <message>
         <source>String content does not match the length facet.</source>
-        <translation>Wartość ciągu koliduje z aspektem &quot;length&quot;.</translation>
+        <translation>Zawartość ciągu nie odpowiada długości aspektu.</translation>
     </message>
     <message>
         <source>String content does not match the minLength facet.</source>
-        <translation>Wartość ciągu koliduje z aspektem &quot;minLength&quot;.</translation>
+        <translation>Zawartość ciągu nie odpowiada minimalnej długości (minLength) aspektu.</translation>
     </message>
     <message>
         <source>String content does not match the maxLength facet.</source>
-        <translation>Wartość ciągu koliduje z aspektem &quot;maxLength&quot;.</translation>
+        <translation>Zawartość ciągu nie odpowiada maksymalnej długości (maxLength) aspektu.</translation>
     </message>
     <message>
         <source>String content does not match pattern facet.</source>
-        <translation>Wartość ciągu koliduje z aspektem &quot;pattern&quot;.</translation>
+        <translation>Zawartość ciągu nie odpowiada wzorcowi (pattern) aspektu.</translation>
     </message>
     <message>
         <source>String content is not listed in the enumeration facet.</source>
-        <translation>Wartość ciągu nie widnieje na liście aspektu &quot;enumeration&quot;.</translation>
+        <translation>Zawartość ciągu nie jest na liście aspektu wyliczenia.</translation>
     </message>
     <message>
         <source>Signed integer content does not match the maxInclusive facet.</source>
-        <translation>Wartość liczby całkowitej koliduje z aspektem &quot;maxInclusive&quot;.</translation>
+        <translation>Zawartość całkowitej zmiennej numerycznej ze znakiem nie odpowiada aspektowi maksymalnie włącznie (maxInclusive).</translation>
     </message>
     <message>
         <source>Signed integer content does not match the maxExclusive facet.</source>
-        <translation>Wartość liczby całkowitej koliduje z aspektem &quot;maxExclusive&quot;.</translation>
+        <translation>Zawartość całkowitej zmiennej numerycznej ze znakiem nie odpowiada aspektowi maksymalnie wyłączny (maxExclusive).</translation>
     </message>
     <message>
         <source>Signed integer content does not match the minInclusive facet.</source>
-        <translation>Wartość liczby całkowitej koliduje z aspektem &quot;minInclusive&quot;.</translation>
+        <translation>Zawartość całkowitej zmiennej numerycznej ze znakiem nie odpowiada aspektowi minimalnie włącznie (minInclusive).</translation>
     </message>
     <message>
         <source>Signed integer content does not match the minExclusive facet.</source>
-        <translation>Wartość liczby całkowitej koliduje z aspektem &quot;minExclusive&quot;.</translation>
+        <translation>Zawartość całkowitej zmiennej numerycznej ze znakiem nie odpowiada aspektowi minimalnie wyłączny (minExclusive).</translation>
     </message>
     <message>
         <source>Signed integer content is not listed in the enumeration facet.</source>
-        <translation>Wartość liczby całkowitej nie widnieje na liście aspektu &quot;enumeration&quot;.</translation>
+        <translation>Zawartość całkowitej zmiennej numerycznej ze znakiem, nie jest na liście w aspekcie wyliczenia.</translation>
     </message>
     <message>
         <source>Signed integer content does not match pattern facet.</source>
-        <translation>Wartość liczby całkowitej koliduje z aspektem &quot;pattern&quot;.</translation>
+        <translation>Zawartość całkowitej zmiennej numerycznej ze znakiem nie odpowiada wzorcowi (pattern) aspektu.</translation>
     </message>
     <message>
         <source>Signed integer content does not match in the totalDigits facet.</source>
-        <translation>Wartość liczby całkowitej koliduje z aspektem &quot;totalDigits&quot;.</translation>
+        <translation>Zawartość całkowitej zmiennej numerycznej ze znakiem nie odpowiada w aspekcie sumy cyfr ( totalDigits).</translation>
     </message>
     <message>
         <source>Unsigned integer content does not match the maxInclusive facet.</source>
-        <translation>Wartość liczby naturalnej koliduje z aspektem &quot;maxInclusive&quot;.</translation>
+        <translation>Zawartość zmiennej numerycznej bez znaku nie odpowiada aspektowi maksymalnie włącznie (maxInclusive).</translation>
     </message>
     <message>
         <source>Unsigned integer content does not match the maxExclusive facet.</source>
-        <translation>Wartość liczby naturalnej koliduje z aspektem &quot;maxExclusive&quot;.</translation>
+        <translation>Zawartość zmiennej numerycznej bez znaku nie odpowiada aspektowi maksymalnie wyłączny (maxExclusive).</translation>
     </message>
     <message>
         <source>Unsigned integer content does not match the minInclusive facet.</source>
-        <translation>Wartość liczby naturalnej koliduje z aspektem &quot;minInclusive&quot;.</translation>
+        <translation>Zawartość zmiennej numerycznej bez znaku nie odpowiada aspektowi minimalnie włącznie (minInclusive).</translation>
     </message>
     <message>
         <source>Unsigned integer content does not match the minExclusive facet.</source>
-        <translation>Wartość liczby naturalnej koliduje z aspektem &quot;minExclusive&quot;.</translation>
+        <translation>Zawartość zmiennej numerycznej bez znaku nie odpowiada aspektowi minimalnie wyłączny (minExclusive).</translation>
     </message>
     <message>
         <source>Unsigned integer content is not listed in the enumeration facet.</source>
-        <translation>Wartość liczby naturalnej nie widnieje na liście aspektu &quot;enumeration&quot;.</translation>
+        <translation>Zawartość całkowitej zmiennej numerycznej bez znaku, nie jest na liście w aspekcie wyliczenia.</translation>
     </message>
     <message>
         <source>Unsigned integer content does not match pattern facet.</source>
-        <translation>Wartość liczby naturalnej koliduje z aspektem &quot;pattern&quot;.</translation>
+        <translation>Zawartość zmiennej numerycznej bez znaku nie odpowiada wzorcowi (pattern) aspektu.</translation>
     </message>
     <message>
         <source>Unsigned integer content does not match in the totalDigits facet.</source>
-        <translation>Wartość liczby naturalnej koliduje z aspektem &quot;totalDigits&quot;.</translation>
+        <translation>Zawartość zmiennej numerycznej bez znaku nie odpowiada w aspekcie sumy cyfr ( totalDigits).</translation>
     </message>
     <message>
         <source>Double content does not match the maxInclusive facet.</source>
-        <translation>Wartość liczby rzeczywistej koliduje z aspektem &quot;maxInclusive&quot;.</translation>
+        <translation>Zawartość podwójnej nie odpowiada aspektowi maksymalnie włącznie (maxInclusive).</translation>
     </message>
     <message>
         <source>Double content does not match the maxExclusive facet.</source>
-        <translation>Wartość liczby rzeczywistej koliduje z aspektem &quot;maxExclusive&quot;.</translation>
+        <translation>Zawartość podwójnej nie odpowiada aspektowi maksymalnie wyłączny (maxExclusive).</translation>
     </message>
     <message>
         <source>Double content does not match the minInclusive facet.</source>
-        <translation>Wartość liczby rzeczywistej koliduje z aspektem &quot;minInclusive&quot;.</translation>
+        <translation>Zawartość podwójnej nie odpowiada aspektowi minimalnie włącznie (minInclusive).</translation>
     </message>
     <message>
         <source>Double content does not match the minExclusive facet.</source>
-        <translation>Wartość liczby rzeczywistej koliduje z aspektem &quot;minExclusive&quot;.</translation>
+        <translation>Zawartość podwójnej nie odpowiada aspektowi minimalnie wyłączny (minExclusive).</translation>
     </message>
     <message>
         <source>Double content is not listed in the enumeration facet.</source>
-        <translation>Wartość liczby rzeczywistej nie widnieje na liście aspektu &quot;enumeration&quot;.</translation>
+        <translation>Zawartość podwójnej nie jest na liście w aspekcie wyliczenia.</translation>
     </message>
     <message>
         <source>Double content does not match pattern facet.</source>
-        <translation>Wartość liczby rzeczywistej koliduje z aspektem &quot;pattern&quot;.</translation>
+        <translation>Zawartość podwójnej nie odpowiada wzorcowi (pattern) aspektu.</translation>
     </message>
     <message>
         <source>Decimal content does not match in the fractionDigits facet.</source>
-        <translation>Wartość liczby rzeczywistej koliduje z aspektem &quot;fractionDigits&quot;.</translation>
+        <translation>Zawartość dziesiętna nie odpowiada w aspekcie cyfry ułamkowe (fractionDigits).</translation>
     </message>
     <message>
         <source>Decimal content does not match in the totalDigits facet.</source>
-        <translation>Wartość liczby rzeczywistej koliduje z aspektem &quot;totalDigits&quot;.</translation>
+        <translation>Zawartość dziesiętna nie odpowiada w aspekcie sumy cyfr ( totalDigits).</translation>
     </message>
     <message>
         <source>Date time content does not match the maxInclusive facet.</source>
-        <translation>Zawartość daty i czasu koliduje z aspektem &quot;maxInclusive&quot;.</translation>
+        <translation>Zawartość data/godzina nie odpowiada aspektowi maksymalnie włącznie (maxInclusive).</translation>
     </message>
     <message>
         <source>Date time content does not match the maxExclusive facet.</source>
-        <translation>Zawartość daty i czasu koliduje z aspektem &quot;maxExclusive&quot;.</translation>
+        <translation>Zawartość data/godzina nie odpowiada aspektowi maksymalnie wyłączny (maxExclusive).</translation>
     </message>
     <message>
         <source>Date time content does not match the minInclusive facet.</source>
-        <translation>Zawartość daty i czasu koliduje z aspektem &quot;minInclusive&quot;.</translation>
+        <translation>Zawartość data/godzina nie odpowiada aspektowi minimalnie włącznie (minInclusive).</translation>
     </message>
     <message>
         <source>Date time content does not match the minExclusive facet.</source>
-        <translation>Zawartość daty i czasu koliduje z aspektem &quot;minExclusive&quot;.</translation>
+        <translation>Zawartość data/godzina nie odpowiada aspektowi minimalnie wyłączny (minExclusive).</translation>
     </message>
     <message>
         <source>Date time content is not listed in the enumeration facet.</source>
-        <translation>Zawartość daty i czasu nie widnieje na liście aspektu &quot;enumeration&quot;.</translation>
+        <translation>Zawartość data/godzina nie jest na liście w aspekcie wyliczenia.</translation>
     </message>
     <message>
         <source>Date time content does not match pattern facet.</source>
-        <translation>Zawartość daty i czasu koliduje z aspektem &quot;pattern&quot;.</translation>
+        <translation>Zawartość data/godzina nie odpowiada wzorcowi (pattern) aspektu.</translation>
     </message>
     <message>
         <source>Duration content does not match the maxInclusive facet.</source>
-        <translation>Wartość czasu trwania koliduje z aspektem &quot;maxInclusive&quot;.</translation>
+        <translation>Zawartość czasu trwania nie odpowiada aspektowi maksymalnie włącznie (maxInclusive).</translation>
     </message>
     <message>
         <source>Duration content does not match the maxExclusive facet.</source>
-        <translation>Wartość czasu trwania koliduje z aspektem &quot;maxExclusive&quot;.</translation>
+        <translation>Zawartość czasu trwania nie odpowiada aspektowi maksymalnie wyłączny (maxExclusive).</translation>
     </message>
     <message>
         <source>Duration content does not match the minInclusive facet.</source>
-        <translation>Wartość czasu trwania koliduje z aspektem &quot;minInclusive&quot;.</translation>
+        <translation>Zawartość czasu trwania nie odpowiada aspektowi minimalnie włącznie (minInclusive).</translation>
     </message>
     <message>
         <source>Duration content does not match the minExclusive facet.</source>
-        <translation>Wartość czasu trwania koliduje z aspektem &quot;minExclusive&quot;.</translation>
+        <translation>Zawartość czasu trwania nie odpowiada aspektowi minimalnie wyłączny (minExclusive).</translation>
     </message>
     <message>
         <source>Duration content is not listed in the enumeration facet.</source>
-        <translation>Wartość czasu trwania nie widnieje na liście aspektu &quot;enumeration&quot;.</translation>
+        <translation>Zawartość czasu trwania nie jest na liście w aspekcie wyliczenia.</translation>
     </message>
     <message>
         <source>Duration content does not match pattern facet.</source>
-        <translation>Wartość czasu trwania koliduje z aspektem &quot;pattern&quot;.</translation>
+        <translation>Zawartość czasu trwania nie odpowiada wzorcowi (pattern) aspektu.</translation>
     </message>
     <message>
         <source>Boolean content does not match pattern facet.</source>
-        <translation>Wartość boolowska koliduje z aspektem &quot;pattern&quot;.</translation>
+        <translation>Zawartość wartości logicznej nie odpowiada wzorcowi (pattern) aspektu.</translation>
     </message>
     <message>
         <source>Binary content does not match the length facet.</source>
-        <translation>Wartość binarna koliduje z aspektem &quot;length&quot;.</translation>
+        <translation>Zawartość binarnej nie odpowiada długości aspektu.</translation>
     </message>
     <message>
         <source>Binary content does not match the minLength facet.</source>
-        <translation>Wartość binarna koliduje z aspektem &quot;minLength&quot;.</translation>
+        <translation>Zawartość binarnej nie odpowiada minimalnej długości (minLength) aspektu.</translation>
     </message>
     <message>
         <source>Binary content does not match the maxLength facet.</source>
-        <translation>Wartość binarna koliduje z aspektem &quot;maxLength&quot;.</translation>
+        <translation>Zawartość binarnej nie odpowiada maksymalnej długości (maxLength) aspektu.</translation>
     </message>
     <message>
         <source>Binary content is not listed in the enumeration facet.</source>
-        <translation>Wartość binarna nie widnieje na liście aspektu &quot;enumeration&quot;.</translation>
+        <translation>Zawartość binarnej nie jest na liście w aspekcie wyliczenia.</translation>
     </message>
     <message>
         <source>Invalid QName content: %1.</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Nieprawidłowa</lengthvariant>
-            <lengthvariant>Niepoprawna zawartość QName: %1.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa zawartość QName: %1.</translation>
     </message>
     <message>
         <source>QName content is not listed in the enumeration facet.</source>
-        <translation>Zawartość QName nie widnieje na liście aspektu &quot;enumeration&quot;.</translation>
+        <translation>Zawartość QName nie jest na liście w aspekcie wyliczenia.</translation>
     </message>
     <message>
         <source>QName content does not match pattern facet.</source>
-        <translation>Zawartość QName koliduje z aspektem &quot;pattern&quot;.</translation>
+        <translation>Zawartość QName nie odpowiada wzorcowi (pattern) aspektu.</translation>
     </message>
     <message>
         <source>Notation content is not listed in the enumeration facet.</source>
-        <translation>Zapis zawartości nie widnieje na liście aspektu &quot;enumeration&quot;.</translation>
+        <translation>Zawartość notacji nie jest na liście w aspekcie wyliczenia.</translation>
     </message>
     <message>
         <source>List content does not match length facet.</source>
-        <translation>Zawartość listy koliduje z aspektem &quot;length&quot;.</translation>
+        <translation>Zawartość listy nie odpowiada długości aspektu.</translation>
     </message>
     <message>
         <source>List content does not match minLength facet.</source>
-        <translation>Zawartość listy koliduje z aspektem &quot;minLength&quot;.</translation>
+        <translation>Zawartość listy nie odpowiada minimalnej długości (minLength) aspektu.</translation>
     </message>
     <message>
         <source>List content does not match maxLength facet.</source>
-        <translation>Zawartość listy koliduje z aspektem &quot;maxLength&quot;.</translation>
+        <translation>Zawartość listy nie odpowiada maksymalnej długości (maxLength) aspektu.</translation>
     </message>
     <message>
         <source>List content is not listed in the enumeration facet.</source>
-        <translation>Zawartość listy nie widnieje na liście aspektu &quot;enumeration&quot;.</translation>
+        <translation>Zawartość listy nie jest na liście w aspekcie wyliczenia.</translation>
     </message>
     <message>
         <source>List content does not match pattern facet.</source>
-        <translation>Zawartość listy koliduje z aspektem &quot;pattern&quot;.</translation>
+        <translation>Zawartość listy nie odpowiada wzorcowi (pattern) aspektu.</translation>
     </message>
     <message>
         <source>Union content is not listed in the enumeration facet.</source>
-        <translation>Zawartość unii nie widnieje na liście aspektu &quot;enumeration&quot;.</translation>
+        <translation>Zawartość unii nie jest na liście w aspekcie wyliczenia.</translation>
     </message>
     <message>
         <source>Union content does not match pattern facet.</source>
-        <translation>Zawartość unii koliduje z aspektem &quot;pattern&quot;.</translation>
+        <translation>Zawartość unii nie odpowiada wzorcowi (pattern) aspektu.</translation>
     </message>
     <message>
         <source>Data of type %1 are not allowed to be empty.</source>
@@ -9741,42 +9686,39 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>Element %1 is missing child element.</source>
-        <translation>Brak wymaganego podelementu w elemencie %1.</translation>
+        <translation>Brak elementu podrzędnego w elemencie %1.</translation>
     </message>
     <message>
         <source>There is one IDREF value with no corresponding ID: %1.</source>
-        <translation>Istnieje wartość IDREF bez odpowiadającej jej wartości ID: %1.</translation>
+        <translation>Istnieje jedna wartość IDREF bez odpowiadającego identyfikatora: %1.</translation>
     </message>
     <message>
         <source>Loaded schema file is invalid.</source>
-        <translation type="unfinished">Załadowany plik nie jest poprawnym plikiem ze schematem.</translation>
+        <translation>Załadowany plik schematu jest nieprawidłowy.</translation>
     </message>
     <message>
         <source>%1 contains invalid data.</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>nieprawidłowe</lengthvariant>
-            <lengthvariant>%1 zawiera niepoprawne dane.</lengthvariant>
-        </translation>
+        <translation>%1 zawiera nieprawidłowe dane.</translation>
     </message>
     <message>
         <source>xsi:schemaLocation namespace %1 has already appeared earlier in the instance document.</source>
-        <translation>Przestrzeń nazw &quot;xsi:schemaLocation&quot; %1 wystąpiła już wcześniej w dokumencie.</translation>
+        <translation>Przestrzeń nazw %1 xsi:schemaLocation wystąpiła już wcześniej w instancji dokumentu.</translation>
     </message>
     <message>
         <source>xsi:noNamespaceSchemaLocation cannot appear after the first no-namespace element or attribute.</source>
-        <translation>&quot;xsi:noNamespaceSchemaLocation&quot; nie może wystąpić po pierwszym elemencie lub atrybucie który nie jest przestrzenią nazw.</translation>
+        <translation>xsi:noNamespaceSchemaLocation nie może wystąpić po pierwszym elemencie lub atrybucie, który nie jest przestrzenią nazw.</translation>
     </message>
     <message>
         <source>No schema defined for validation.</source>
-        <translation>Brak zdefiniowanego schematu dla walidacji.</translation>
+        <translation>Brak zdefiniowanego schematu dla walidacji (sprawdzania poprawności).</translation>
     </message>
     <message>
         <source>No definition for element %1 available.</source>
-        <translation>Brak dostępnej definicji dla elementu %1.</translation>
+        <translation>Brak definicji dla dostępnego elementu%1.</translation>
     </message>
     <message>
         <source>Specified type %1 is not known to the schema.</source>
-        <translation>Podany typ %1 nie jest schematowi znany.</translation>
+        <translation>Określony typ %1 nie jest znany dla schematu.</translation>
     </message>
     <message>
         <source>Element %1 is not defined in this scope.</source>
@@ -9784,14 +9726,11 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>Declaration for element %1 does not exist.</source>
-        <translation type="unfinished">Brak deklaracji dla elementu %1.</translation>
+        <translation>Deklaracja dla elementu %1 nie istnieje.</translation>
     </message>
     <message>
         <source>Element %1 contains invalid content.</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>nieprawidłową</lengthvariant>
-            <lengthvariant>Element %1 posiada niepoprawną zawartość.</lengthvariant>
-        </translation>
+        <translation>Element %1 zawiera nieprawidłową zawartość.</translation>
     </message>
     <message>
         <source>Element %1 is declared as abstract.</source>
@@ -9799,30 +9738,27 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>Element %1 is not nillable.</source>
-        <translation>Element %1 nie jest zerowalny.</translation>
+        <translation>Element %1 nie jest nillable (zerowy).</translation>
     </message>
     <message>
         <source>Attribute %1 contains invalid data: %2</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>nieprawidłowe</lengthvariant>
-            <lengthvariant>Atrybut %1 zawiera niepoprawne dane: %2</lengthvariant>
-        </translation>
+        <translation>Atrybut %1 zawiera nieprawidłowe dane: %2</translation>
     </message>
     <message>
         <source>Element contains content although it is nillable.</source>
-        <translation>Element posiada zawartość chociaż jest zerowalny.</translation>
+        <translation>Element zawiera zawartość, chociaż jest nillable (zerowy).</translation>
     </message>
     <message>
         <source>Fixed value constraint not allowed if element is nillable.</source>
-        <translation>Ograniczenie stałej wartości jest niedozwolone gdy element jest zerowalny.</translation>
+        <translation>Ograniczenie wartości ustalonej jest niedozwolone, jeśli element jest nillable (zerowy).</translation>
     </message>
     <message>
         <source>Element %1 cannot contain other elements, as it has a fixed content.</source>
-        <translation>Element %1 nie może zawierać innych elementów ponieważ posiada on stałą zawartość.</translation>
+        <translation>Element %1 nie może zawierać innych elementów, ponieważ ma stałą zawartość.</translation>
     </message>
     <message>
         <source>Specified type %1 is not validly substitutable with element type %2.</source>
-        <translation>Podany typ %1 nie jest poprawnie zastępowalny typem elementu %2.</translation>
+        <translation>Określony typ %1 nie jest prawidłowo zastępowalnym typem elementu %2.</translation>
     </message>
     <message>
         <source>Complex type %1 is not allowed to be abstract.</source>
@@ -9830,62 +9766,59 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>Element %1 contains not allowed attributes.</source>
-        <translation>Element %1 zawiera niedozwolone atrybuty.</translation>
+        <translation>Element%1 zawiera niedozwolone atrybuty.</translation>
     </message>
     <message>
         <source>Element %1 contains not allowed child element.</source>
-        <translation>Element %1 zawiera niedozwolony podelement.</translation>
+        <translation>Element%1 zawiera niedozwolony element podrzędny.</translation>
     </message>
     <message>
         <source>Content of element %1 does not match its type definition: %2.</source>
-        <translation>Zawartość elementu %1 nie pasuje do jego definicji typu: %2.</translation>
+        <translation>Zawartość elementu %1 nie odpowiada jego definicji typu: %2.</translation>
     </message>
     <message>
         <source>Content of element %1 does not match defined value constraint.</source>
-        <translation>Zawartość elementu %1 nie pasuje do zdefiniowanego ograniczenia wartości.</translation>
+        <translation>Zawartość elementu %1 nie odpowiada zdefiniowanemu ograniczeniu wartości.</translation>
     </message>
     <message>
         <source>Element %1 contains not allowed child content.</source>
-        <translation>Element %1 zawiera niedozwolony podelement.</translation>
+        <translation>Element %1 zawiera niedozwolony typ zawartości.</translation>
     </message>
     <message>
         <source>Element %1 contains not allowed text content.</source>
-        <translation>Element %1 zawiera niedozwolony text.</translation>
+        <translation>Element %1 zawiera niedozwoloną zawartość tekstową.</translation>
     </message>
     <message>
         <source>Element %1 is missing required attribute %2.</source>
-        <translation>Brak wymaganego atrybutu %2 w elemencie %1.</translation>
+        <translation>Brak wymaganego atrybutu %2 elementu %1.</translation>
     </message>
     <message>
         <source>Attribute %1 does not match the attribute wildcard.</source>
-        <translation>Atrybut %1 nie pasuje do atrybutu dżokera.</translation>
+        <translation>Atrybut %1 nie odpowiada symbolowi wieloznacznemu atrybutu.</translation>
     </message>
     <message>
         <source>Declaration for attribute %1 does not exist.</source>
-        <translation>Brak deklaracji atrybutu %1.</translation>
+        <translation>Deklaracja dla atrybutu %1 nie istnieje.</translation>
     </message>
     <message>
         <source>Element %1 contains two attributes of type %2.</source>
-        <translation>Element %1 posiada dwa atrybuty typu %2.</translation>
+        <translation>Element %1 zawiera dwa atrybuty typu %2.</translation>
     </message>
     <message>
         <source>Attribute %1 contains invalid content.</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>nieprawidłową</lengthvariant>
-            <lengthvariant>Atrybut %1 posiada niepoprawną zawartość.</lengthvariant>
-        </translation>
+        <translation>Atrybut %1 zawiera nieprawidłową zawartość.</translation>
     </message>
     <message>
         <source>Element %1 contains unknown attribute %2.</source>
-        <translation>Element %1 posiada nieznany atrybut %2.</translation>
+        <translation>Element %1 zawiera nieznany atrybut %2.</translation>
     </message>
     <message>
         <source>Content of attribute %1 does not match its type definition: %2.</source>
-        <translation>Zawartość atrybutu %1 nie pasuje do jego definicji typu: %2.</translation>
+        <translation>Zawartość atrybutu %1 nie odpowiada jego definicji typu: %2.</translation>
     </message>
     <message>
         <source>Content of attribute %1 does not match defined value constraint.</source>
-        <translation>Zawartość elementu %1 nie pasuje do zdefiniowanego ograniczenia wartości.</translation>
+        <translation>Zawartość atrybutu %1 nie odpowiada zdefiniowanemu ograniczeniu wartości.</translation>
     </message>
     <message>
         <source>Non-unique value found for constraint %1.</source>
@@ -9897,11 +9830,11 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>Key constraint %1 contains references nillable element %2.</source>
-        <translation>Ograniczenie klucza %1 zawiera odwołania do elementu zerowalnego %2.</translation>
+        <translation>Ograniczenie klucza %1 zawiera odwołania do elementu nillable (zerowego) %2.</translation>
     </message>
     <message>
         <source>No referenced value found for key reference %1.</source>
-        <translation>Brak wartości do której odwołuje się klucz %1.</translation>
+        <translation>Nie znaleziono wartości występującej w odwołaniu dla odwołania klucza %1.</translation>
     </message>
     <message>
         <source>More than one value found for field %1.</source>
@@ -9909,18 +9842,15 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>Field %1 has no simple type.</source>
-        <translation>Pole %1 nie posiada prostego typu.</translation>
+        <translation>Pole %1 nie ma typu prostego.</translation>
     </message>
     <message>
         <source>ID value &apos;%1&apos; is not unique.</source>
-        <translation type="unfinished">Wartość ID &quot;%1&quot; nie jest unikatowa.</translation>
+        <translation>Wartość identyfikatora &apos;%1&apos; nie jest unikatowa.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; attribute contains invalid QName content: %2.</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>nieprawidłową</lengthvariant>
-            <lengthvariant>Atrybut &quot;%1&quot; zawiera niepoprawną zawartość QName: %2.</lengthvariant>
-        </translation>
+        <translation>Atrybut &apos;%1&apos; zawiera nieprawidłową zawartość QName: %2.</translation>
     </message>
 </context>
 </TS>

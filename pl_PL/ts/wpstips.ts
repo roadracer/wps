@@ -623,12 +623,12 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="DetailedSettings_TableTools.title">
         <source>Table Tools Detailed Settings</source>
         <extracomment>DetailedSettings_TableTools.title</extracomment>
-        <translation>Ustawienia szczegółowe Narzędzia tabel</translation>
+        <translation>Ustawienia szczegółowe Narzędzi tabel</translation>
     </message>
     <message id="DetailedSettings_TableTools.content">
         <source>DetailedSettings TableTools Content</source>
         <extracomment>DetailedSettings_TableTools.content</extracomment>
-        <translation>Zawartość ustawień szczegółowych Narzędzia tabel</translation>
+        <translation>Umożliwia dokonanie szczegółowych ustawień Narzędzi tabel</translation>
     </message>
     <message id="DetailedSettings_WordArt.title">
         <source>Settings</source>
@@ -723,12 +723,12 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="DrawingToolsDetailedSettings.title">
         <source>Drawing Tools Detailed Settings</source>
         <extracomment>DrawingToolsDetailedSettings.title</extracomment>
-        <translation>Ustawienia szczegółowe Narzędzia do rysowania</translation>
+        <translation>Ustawienia szczegółowe Narzędzi do rysowania</translation>
     </message>
     <message id="DrawingToolsDetailedSettings.content">
         <source>DrawingToolsDetailedSettings Content</source>
         <extracomment>DrawingToolsDetailedSettings.content</extracomment>
-        <translation>Zawartość ustawień szczegółowych Narzędzia do rysowania</translation>
+        <translation>Umożliwia dokonanie szczegółowych ustawień Narzędzi do rysowania</translation>
     </message>
     <message id="DropCap.title">
         <source>Drop Cap</source>
@@ -1238,7 +1238,7 @@ Ta funkcja ułatwia sprawdzenie, czy część listu seryjnego zastała zastąpio
     <message id="HomeDetailedSettings.content">
         <source>HomeDetailedSettings Content</source>
         <extracomment>HomeDetailedSettings.content</extracomment>
-        <translation>Zawartość ustawień szczegółowych Narzędzi głównych</translation>
+        <translation>Umożliwia dokonanie szczegółowych ustawień Narzędzi głównych</translation>
     </message>
     <message id="IncreaseIndent.title">
         <source>Increase Indent</source>
@@ -2024,7 +2024,7 @@ Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     <message id="PageLayoutDetailedSettings.content">
         <source>PageLayoutDetailedSettings Content</source>
         <extracomment>PageLayoutDetailedSettings.content</extracomment>
-        <translation>Zawartość ustawień szczegółowych Układu strony</translation>
+        <translation>Umożliwia dokonanie szczegółowych ustawień Układu strony</translation>
     </message>
     <message id="PageNumber.title">
         <source>Insert Page Number</source>
@@ -2094,7 +2094,7 @@ Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     <message id="ParagraphDetailedSettings.content">
         <source>ParagraphDetailedSettings Content</source>
         <extracomment>ParagraphDetailedSettings.content</extracomment>
-        <translation>Zawartość ustawień szczegółowych Akapitu</translation>
+        <translation>Umożliwia dokonanie szczegółowych ustawień Akapitu</translation>
     </message>
     <message id="PDFToWord.title">
         <source>Convert PDF to Word</source>
@@ -2544,7 +2544,7 @@ Można zapobiec wprowadzaniu zmian formatowania, wymusić śledzenie wszystkich 
     <message id="ReviewPaneTip2.content">
         <source></source>
         <extracomment>ReviewPaneTip2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rozdziel komórki</translation>
     </message>
     <message id="Ruler.title">
         <source>Ruler</source>
@@ -2574,7 +2574,7 @@ Można zapobiec wprowadzaniu zmian formatowania, wymusić śledzenie wszystkich 
     <message id="SectionDetailedSettings.content">
         <source>SectionDetailedSettings Content</source>
         <extracomment>SectionDetailedSettings.content</extracomment>
-        <translation type="unfinished">Zawartość ustawień szczegółowych Sekcji</translation>
+        <translation>Umożliwia dokonanie szczegółowych ustawień Sekcji</translation>
     </message>
     <message id="Security.title">
         <source>Macros Security</source>
@@ -3060,7 +3060,7 @@ Kliknij strzałkę, aby wybrać inne kolory cieniowania.</translation>
     <message id="TextSpeech.content">
         <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
         <extracomment>TextSpeech.content</extracomment>
-        <translation>Umożliwia zamianę tekstu na mowę. Możesz cieszyć się 2-dniową wersją próbną tej funkcji.</translation>
+        <translation>Umożliwia włączenie zmiany tekstu na mowę. Możesz cieszyć się 2-dniową wersją próbną tej funkcji.</translation>
     </message>
     <message id="TextSpeech2.title">
         <source>Reading</source>
@@ -3470,35 +3470,35 @@ Zastosuj inteligentne formatowanie takie jak &quot;Usuń spacje&quot;, &quot;Wci
     </message>
     <message id="Compare.title">
         <source>Compare</source>
-        <translation type="unfinished"></translation>
+        <translation>Porównaj</translation>
     </message>
     <message id="Compare.content">
         <source>Compare two documents to see the differences between them.</source>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translation>Umożliwia porównanie dwóch dokumentów w celu zobaczenia różnic między nimi.</translation>
     </message>
     <message id="XmlStructure.title">
         <source>Structure</source>
-        <translation type="unfinished"></translation>
+        <translation>Struktura</translation>
     </message>
     <message id="XmlStructure.content">
         <source>Open the XML Structure task pane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia otwarcie okienka zadań struktury XML.</translation>
     </message>
     <message id="XmlSchema.title">
         <source>Schema</source>
-        <translation type="unfinished"></translation>
+        <translation>Schemat</translation>
     </message>
     <message id="XmlSchema.content">
         <source>Manage the XML schema attached to this document or add a new schema.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zarządzanie schematem XML dołączonym do tego dokumentu lub dodanie nowego schematu.</translation>
     </message>
     <message id="XmlExpansionPacksWord.title">
         <source>Expansion Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakiet rozszerzenia</translation>
     </message>
     <message id="XmlExpansionPacksWord.content">
         <source>Manage the XML expansion packs attached to this document, or attach a new expansion pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zarządzanie pakietami rozszerzeń XML dołączonymi do tego dokumentu lub dołączenie nowego pakietu rozszerzenia.</translation>
     </message>
 </context>
 </TS>

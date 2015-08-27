@@ -10,31 +10,21 @@
     </message>
     <message>
         <source>Please sign in Klive manually.</source>
-        <translation variants="yes">
-            <lengthvariant>Zaloguj się do Klive ręcznie.</lengthvariant>
-            <lengthvariant>Zaloguj się w Klive ręcznie.</lengthvariant>
-        </translation>
+        <translation>Zaloguj się do Klive ręcznie.</translation>
     </message>
 </context>
 <context>
     <name>KWppOnlineTemplate</name>
     <message>
         <source>Blank Design</source>
-        <translation variants="yes">
-            <lengthvariant>Pusty projekt</lengthvariant>
-            <lengthvariant>Projekt pusty</lengthvariant>
-        </translation>
+        <translation>Pusty projekt</translation>
     </message>
 </context>
 <context>
     <name>KxTpOnlineTemplateWidget</name>
     <message>
         <source>Using Template</source>
-        <translation variants="yes">
-            <lengthvariant>Przy użyciu szablonu</lengthvariant>
-            <lengthvariant>Za pomocą szablonu</lengthvariant>
-            <lengthvariant>Korzystając z szablonu</lengthvariant>
-        </translation>
+        <translation>Używając szablonu</translation>
     </message>
     <message>
         <source>Online Templates</source>

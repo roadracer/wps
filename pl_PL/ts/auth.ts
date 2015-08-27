@@ -261,7 +261,7 @@
     </message>
     <message>
         <source>LEARN MORE</source>
-        <translation type="unfinished"></translation>
+        <translation>Dowiedz się więcej</translation>
     </message>
 </context>
 <context>
@@ -547,23 +547,23 @@
     </message>
     <message>
         <source>Activated</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktywowany</translation>
     </message>
     <message>
         <source>Activation code expires on:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod aktywacji wygaśnie:</translation>
     </message>
     <message>
         <source>yyyy-mm-dd</source>
-        <translation type="unfinished"></translation>
+        <translation>rrrr-mm-dd</translation>
     </message>
     <message>
         <source>&lt;u&gt;Use other activation codes&lt;/u&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;u&gt;Użyj innych kodów aktywacji&lt;/u&gt;</translation>
     </message>
     <message>
         <source>Use other activation codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj innych kodów aktywacji</translation>
     </message>
 </context>
 <context>

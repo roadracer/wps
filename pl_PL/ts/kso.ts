@@ -1612,7 +1612,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Cannot play the specified file on the specified device. The file may be damaged, or not in the correct format, or no file handler available for this format.</source>
         <comment>DgUil_KSO_MediaFileDamaged</comment>
-        <translation type="unfinished">Nie można odtworzyć podanego pliku na określonym urządzeniu. Plik może być uszkodzony, mieć niepoprawny format lub może nie być dostępna obsługa tego formatu.</translation>
+        <translation>Nie można odtworzyć pliku na określonym urządzeniu. Plik może być uszkodzony, mieć niepoprawny format lub może nie być dostępna obsługa tego formatu.</translation>
     </message>
     <message>
         <source>Cannot find the specified file, please verify that the path and file name are correct.</source>
@@ -4696,37 +4696,43 @@ Aby korzystać z tej funkcji, musisz najpierw zainstalować klienta usług zarz�
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
+•Sprawdź czy katalog kopii zapasowych ma uprawnienia do zapisywania lub spróbuj zmienić katalog kopii zapasowych.
+•[Cofnij] poprzednie operacje i [Zapisz] go; 
+•[Zapisz jako...] pliki tekstowe（*.txt）; 
+•[Kopiuj/Wklej] zawartość do nowego pliku; 
+•Zrezygnuj ze zmiany pliku. 
+(%s)</translation>
     </message>
     <message>
         <source>Restricted Access</source>
         <comment>_kso_kirm_Policy_Name</comment>
-        <translation type="unfinished">Dostęp ograniczony</translation>
+        <translation>Dostęp ograniczony</translation>
     </message>
     <message>
         <source>Permission is currently restricted. Only specified users can access this content. </source>
         <comment>_kso_kirm_Policy_Description</comment>
-        <translation type="unfinished">Uprawnienie jest obecnie ograniczone. Tylko określeni użytkownicy mogą uzyskiwać dostęp do tej zawartości. </translation>
+        <translation>Uprawnienie jest obecnie ograniczone. Tylko określeni użytkownicy mogą uzyskiwać dostęp do tej zawartości. </translation>
     </message>
     <message>
         <source>Opening</source>
         <comment>_kso_io_Progress_Opening</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otwieranie</translation>
     </message>
     <message>
         <source>Saving</source>
         <comment>_kso_io_Progress_Saving</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zapisywanie</translation>
     </message>
     <message>
         <source>Backing up</source>
         <comment>_kso_io_Progress_AutoSaving</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tworzenie kopii zapasowej</translation>
     </message>
     <message>
         <source>(Press ESC to cancel)</source>
         <comment>_kso_io_Progress_Discontinue_ByEsc</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Naciśnij klawisz ESC, aby anulować)</translation>
     </message>
 </context>
 <context>
@@ -6204,7 +6210,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>sec</source>
         <comment>kso_sSecond</comment>
-        <translation>sek.</translation>
+        <translation>sek</translation>
     </message>
     <message>
         <source>Automatically check file security troubles before closing application.</source>
@@ -7283,39 +7289,41 @@ Służy do pokazywania kroków zmierzających do celu</translation>
     <message>
         <source>Dowload XML expansion</source>
         <comment>kso_Smartdoc_DowloadXmlExpasionCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz pakiet rozszerzenia XML</translation>
     </message>
     <message>
         <source>Using the latest XML expansion pack from the following locations, the effect of this document will be the best:
  %1 
 Download the XML expansion pack?</source>
         <comment>kso_Smartdoc_DowloadXmlExpasion</comment>
-        <translation type="unfinished"></translation>
+        <translation>Używając najnowszego pakietu rozszerzenia XML z następujących lokalizacji, efekt w tym dokumencie będzie najlepszy:
+ %1 
+Czy pobrać pakiet rozszerzenia XML?</translation>
     </message>
     <message>
         <source>The XML expansion pack or smart document program has been lost or invalid.Please contact the system administrator or the personnel who provide this document</source>
         <comment>kso_Smartdoc_XMLExpansionLost</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brakuje pakietu rozszerzenia XML lub programu inteligentnego dokumentu albo są one nieprawidłowe. Skontaktuj się z administratorem systemu lub osobą, która dostarczyła ten dokument</translation>
     </message>
     <message>
         <source>You are currently viewing this document in multiple windows. If you wanna attach XML expansion, you must close all other windows first to ensure that you view this document only in one window.</source>
         <comment>kso_Smartdoc_XmlExpansionRefuse</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obecnie dokument jest wyświetlany w wielu oknach. Jeżeli chcesz dołączyć pakiet rozszerzenia XML, musisz najpierw zamknąć wszystkie dodatkowe okna, tak aby dokument był wyświetlany tylko w jednym oknie.</translation>
     </message>
     <message>
         <source>This document has attached a XML expansion. If You wanna view this document in multiple windows, you must delete the XML expansion first.</source>
         <comment>kso_Smartdoc_NewWindowRefuse</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ten dokument ma dołączone rozszerzenia XML. Jeśli chcesz wyświetlić ten dokument w wielu oknach, musisz najpierw usunąć rozszerzenia XML.</translation>
     </message>
     <message>
         <source>Cannot install this file, because the security certificate has some problems. This XML expansion pack may won&apos;t run as expecte.For more information, please contact your administrator.</source>
         <comment>kso_Smartdoc_XMLCertificateError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zainstalować tego pliku, ponieważ certyfikat zabezpieczeń ma pewne problemy. Ten pakiet rozszerzenia XML może nie uruchamiać się tak jak oczekiwano. Aby uzyskać więcej informacji, proszę skontaktuj się z administratorem.</translation>
     </message>
     <message>
         <source>Install this XML expansion pack failed.</source>
         <comment>kso_Smartdoc_installManifestError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zainstalowanie tego pakietu rozszerzenia XML nie powiodło się.</translation>
     </message>
 </context>
 <context>

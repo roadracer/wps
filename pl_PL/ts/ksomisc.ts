@@ -240,15 +240,15 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Office Configuration Tools.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>Narzędzia konfiguracji WPS Office.lnk</translation>
     </message>
     <message>
         <source>Check for WPS Office Updates.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdź aktualizacje dla WPS Office.lnk</translation>
     </message>
     <message>
         <source>Uninstall WPS Office.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>Odinstaluj WPS Office.lnk</translation>
     </message>
 </context>
 <context>
@@ -673,49 +673,49 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
         <source> Registering kso.dll failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> Rejestrowanie kso.dll nie powiodło się</translation>
     </message>
     <message>
         <source> Failed to register WPS Writer
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> Nie można zarejestrować programu WPS Writer</translation>
     </message>
     <message>
         <source> Failed to register WPS Presentation
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> Nie można zarejestrować programu WPS Presentation</translation>
     </message>
     <message>
         <source> Failed to register WPS Spreadsheets
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> Nie można zarejestrować programu WPS Spreadsheets</translation>
     </message>
     <message>
         <source> Registering WPS Equation Editor failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> Rejestrowanie Edytora równań WPS nie powiodło się</translation>
     </message>
     <message>
         <source> WPS Writer not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> Nie odnaleziono programu WPS Writer</translation>
     </message>
     <message>
         <source> WPS Presentation not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> Nie odnaleziono programu WPS Presentation</translation>
     </message>
     <message>
         <source> WPS Spreadsheets not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> Nie odnaleziono programu WPS Spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -1171,15 +1171,15 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>WPS Writer Preview Handler</source>
-        <translation type="unfinished"></translation>
+        <translation>Program do obsługi podglądu programu WPS Writer</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Preview Handler</source>
-        <translation type="unfinished"></translation>
+        <translation>Program do obsługi podglądu programu WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Presentation Preview Handler</source>
-        <translation type="unfinished"></translation>
+        <translation>Program do obsługi podglądu programu WPS Presentation</translation>
     </message>
 </context>
 <context>
@@ -1326,7 +1326,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>Do not &amp;check for updates automatically (not recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie &amp;sprawdzaj aktualizacji automatycznie (niezalecane)</translation>
     </message>
 </context>
 <context>

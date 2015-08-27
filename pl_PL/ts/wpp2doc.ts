@@ -15,10 +15,7 @@
     </message>
     <message>
         <source>Still Need:</source>
-        <translation variants="yes">
-            <lengthvariant>Wciąż potrzebne:</lengthvariant>
-            <lengthvariant>Wciąż potrzeba:</lengthvariant>
-        </translation>
+        <translation>Wciąż potrzeba:</translation>
     </message>
     <message>
         <source> Minute</source>
@@ -65,10 +62,7 @@
     </message>
     <message>
         <source>Still Need: being calculated</source>
-        <translation variants="yes">
-            <lengthvariant>Wciąż potrzebne: przeliczanie</lengthvariant>
-            <lengthvariant>Wciąż potrzeba: przeliczania</lengthvariant>
-        </translation>
+        <translation>Wciąż potrzeba: przeliczania</translation>
     </message>
 </context>
 <context>
@@ -99,17 +93,11 @@
     </message>
     <message>
         <source>Add notes to slide:</source>
-        <translation variants="yes">
-            <lengthvariant>Dodaj notatki do slajdu:</lengthvariant>
-            <lengthvariant>Dodawanie notatek do slajdu:</lengthvariant>
-        </translation>
+        <translation>Dodaj notatki do slajdu:</translation>
     </message>
     <message>
         <source>Right(&amp;R)</source>
-        <translation variants="yes">
-            <lengthvariant>Po prawej (&amp;R)</lengthvariant>
-            <lengthvariant>Z prawej (&amp;R)</lengthvariant>
-        </translation>
+        <translation>Po prawej (&amp;R)</translation>
     </message>
     <message>
         <source>Below(&amp;B)</source>
@@ -121,10 +109,7 @@
     </message>
     <message>
         <source>Right(&amp;H)</source>
-        <translation variants="yes">
-            <lengthvariant>Po prawej (&amp;H)</lengthvariant>
-            <lengthvariant>Z prawej (&amp;H)</lengthvariant>
-        </translation>
+        <translation>Po prawej (&amp;H)</translation>
     </message>
     <message>
         <source>Add blank line to slide:</source>
@@ -214,10 +199,7 @@ Na przykład, 1,3,5-9.</translation>
     </message>
     <message>
         <source>The number must be 1 or 2.</source>
-        <translation variants="yes">
-            <lengthvariant>Liczba musi być 1 lub 2.</lengthvariant>
-            <lengthvariant>Możliwe liczby: 1 lub 2.</lengthvariant>
-        </translation>
+        <translation>Liczba musi być 1 lub 2.</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document(*.doc)</source>
@@ -237,10 +219,7 @@ Na przykład, 1,3,5-9.</translation>
     </message>
     <message>
         <source>The number must be 1, 2, 3,or 4.</source>
-        <translation variants="yes">
-            <lengthvariant>Liczba musi być 1, 2, 3 lub 4.</lengthvariant>
-            <lengthvariant>Możliwe liczby: 1, 2, 3 lub 4.</lengthvariant>
-        </translation>
+        <translation>Liczba musi być 1, 2, 3 lub 4.</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
@@ -252,10 +231,7 @@ Na przykład, 1,3,5-9.</translation>
     </message>
     <message>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
-        <translation variants="yes">
-            <lengthvariant>Nazwa już istnieje. Nie możesz zapisać pliku z taką samą nazwą jak inny otwarty plik. Wybierz inną nazwę lub zamknij otwarty plik przed zapisaniem.</lengthvariant>
-            <lengthvariant>Nazwa już istnieje. Nie możesz zapisać pliku o tej samej nazwie co inny otwarty plik. Wybierz inną nazwę lub zamknij otwarty plik przed zapisaniem.</lengthvariant>
-        </translation>
+        <translation>Nazwa już istnieje. Nie możesz zapisać pliku z taką samą nazwą jak inny otwarty plik. Wybierz inną nazwę lub zamknij otwarty plik przed zapisaniem.</translation>
     </message>
 </context>
 </TS>

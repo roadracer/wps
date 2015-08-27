@@ -247,7 +247,7 @@
     </message>
     <message>
         <source>DownLoad cloud font &quot;%1&quot; Successful. (Restart to take effect)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie czcionki chmury &quot;%1&quot; powiodło się (Uruchom ponownie, aby została uwzględniona)</translation>
     </message>
 </context>
 <context>
@@ -287,19 +287,19 @@
     <name>KCustomCtrl</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation type="unfinished">Microsoft YaHei</translation>
+        <translation>Microsoft YaHei</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation type="unfinished">Czcionka domyślna</translation>
+        <translation>Czcionka domyślna</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień nazwę</translation>
     </message>
     <message>
         <source>Delete Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń formant</translation>
     </message>
 </context>
 <context>
@@ -388,19 +388,19 @@
     <name>KDrawBrowserWnd</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation type="unfinished">Microsoft YaHei</translation>
+        <translation>Microsoft YaHei</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation type="unfinished">Czcionka domyślna</translation>
+        <translation>Czcionka domyślna</translation>
     </message>
     <message>
         <source>Browse for folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeglądaj w poszukiwaniu folderu</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
@@ -451,42 +451,42 @@
     <name>KDrawMsgBox</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation type="unfinished">Microsoft YaHei</translation>
+        <translation>Microsoft YaHei</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation type="unfinished">Czcionka domyślna</translation>
+        <translation>Czcionka domyślna</translation>
     </message>
     <message>
         <source>Instant Recovery</source>
-        <translation type="unfinished"></translation>
+        <translation>Odzyskiwanie natychmiastowe</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
     <name>KDrawSearchListCtrl</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation type="unfinished">Microsoft YaHei</translation>
+        <translation>Microsoft YaHei</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation type="unfinished">Czcionka domyślna</translation>
+        <translation>Czcionka domyślna</translation>
     </message>
     <message>
         <source>Can&apos;t open this file</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć tego pliku</translation>
     </message>
     <message>
         <source>UAC Fail Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Komunikat dotyczący niepowodzenia usługi kontroli konta użytkownika (UAC)</translation>
     </message>
     <message>
         <source>No Result Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak komunikatu dotyczącego wyniku</translation>
     </message>
 </context>
 <context>
@@ -679,170 +679,170 @@
     </message>
     <message>
         <source>Search Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukaj tytuł</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz</translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>Szyfruj</translation>
     </message>
     <message>
         <source>Maximum</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimum</translation>
     </message>
     <message>
         <source>Forward Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder do przodu</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Do przodu</translation>
     </message>
     <message>
         <source>Open Local Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz dokument lokalny</translation>
     </message>
     <message>
         <source>Recent Visit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnia wizyta</translation>
     </message>
     <message>
         <source>WPS Remote</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdalny WPS</translation>
     </message>
     <message>
         <source>Private Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Przestrzeń prywatna</translation>
     </message>
     <message>
         <source>My Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Mój krąg</translation>
     </message>
     <message>
         <source>DataMaster Button Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Tytuł przycisku wzorca danych</translation>
     </message>
     <message>
         <source>Kingsoft PDFToWord</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft PDF do Word</translation>
     </message>
     <message>
         <source>PDFToWord Button Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Tytuł przycisku Kingsoft PDF do Word</translation>
     </message>
     <message>
         <source>CustomLocation Button Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Tytuł przycisku lokalizacji niestandardowej</translation>
     </message>
     <message>
         <source>Folder Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz folder</translation>
     </message>
     <message>
         <source>Save At</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz w</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa pliku</translation>
     </message>
     <message>
         <source>File Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ pliku</translation>
     </message>
     <message>
         <source>Super Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Super ikona</translation>
     </message>
     <message>
         <source>Big Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Duża ikona</translation>
     </message>
     <message>
         <source>Middle Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Średnia ikona</translation>
     </message>
     <message>
         <source>Small Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Mała ikona</translation>
     </message>
     <message>
         <source>Report View</source>
-        <translation type="unfinished"></translation>
+        <translation>Widok raportu</translation>
     </message>
     <message>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Sąsiadująco</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatura</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation type="unfinished">Ikona</translation>
+        <translation>Ikona</translation>
     </message>
     <message>
         <source>Detail View</source>
-        <translation type="unfinished"></translation>
+        <translation>Widok szczegółowy</translation>
     </message>
     <message>
         <source>Quick Disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Szybki dysk</translation>
     </message>
     <message>
         <source>Invalid file name, please enter the correct file name</source>
-        <translation type="unfinished">Nieprawidłowa nazwa pliku, proszę wprowadzić poprawną nazwę pliku</translation>
+        <translation>Nieprawidłowa nazwa pliku, proszę wprowadź poprawną nazwę pliku</translation>
     </message>
     <message>
         <source>Title Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz tytuł</translation>
     </message>
     <message>
         <source>Custom Control Max Count Tip</source>
-        <translation type="unfinished"></translation>
+        <translation>Formant niestandardowy maksymalnej liczby porady</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nazwa</translation>
+        <translation>Nazwa</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished">Ścieżka</translation>
+        <translation>Ścieżka</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Rozmiar</translation>
+        <translation>Rozmiar</translation>
     </message>
     <message>
         <source>Last Modify Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas ostatniej modyfikacji</translation>
     </message>
     <message>
         <source>Search Waiting Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukaj tekst oczekujący</translation>
     </message>
     <message>
         <source>Search Fail Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukaj tekst brakujący</translation>
     </message>
 </context>
 <context>
     <name>KFileDlgAssitantTool</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation type="unfinished">Microsoft YaHei</translation>
+        <translation>Microsoft YaHei</translation>
     </message>
 </context>
 <context>
@@ -864,15 +864,15 @@
     <name>KImagePlayDlg</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation type="unfinished">Microsoft YaHei</translation>
+        <translation>Microsoft YaHei</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation type="unfinished">Czcionka domyślna</translation>
+        <translation>Czcionka domyślna</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -1075,11 +1075,11 @@
     <name>KSearchCtrl</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukaj</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść</translation>
     </message>
 </context>
 <context>
@@ -1114,7 +1114,7 @@
     </message>
     <message>
         <source>Switch Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz okna</translation>
     </message>
 </context>
 <context>
@@ -1210,11 +1210,11 @@
     <name>KTooltipCtrl</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation type="unfinished">Microsoft YaHei</translation>
+        <translation>Microsoft YaHei</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation type="unfinished">Czcionka domyślna</translation>
+        <translation>Czcionka domyślna</translation>
     </message>
 </context>
 <context>
@@ -1560,7 +1560,7 @@
     <name>KWpsHostHelper</name>
     <message>
         <source>WPS Office system files encountered a problem. %1 cannot be 		started unless an automatic repair is performed. When prompted, click &quot;Yes&quot; to finish the repair.</source>
-        <translation type="unfinished"></translation>
+        <translation>System plików WPS Office napotkał problem. %1 nie można 		uruchomić, dopóki jest wykonywana naprawa automatyczna. Gdy pojawi się monit, kliknij przycisk &quot;Tak&quot;, aby zakończyć naprawę.</translation>
     </message>
 </context>
 <context>
@@ -1595,19 +1595,19 @@
     </message>
     <message>
         <source>About WPS Writer</source>
-        <translation>O programie WPS Writer</translation>
+        <translation>Informacje o programie WPS Writer</translation>
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
-        <translation>O programie WPS Spreadsheets</translation>
+        <translation>Informacje o programie WPS Spreadsheets</translation>
     </message>
     <message>
         <source>About WPS Presentation</source>
-        <translation>O programie WPS Presentation</translation>
+        <translation>Informacje o programie WPS Presentation</translation>
     </message>
     <message>
         <source>About WPS Office</source>
-        <translation>O WPS Office</translation>
+        <translation>Informacje o pakiecie WPS Office</translation>
     </message>
     <message>
         <source>Cannot find help file or help file encountered an error!</source>
@@ -1881,7 +1881,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>若要使用控件工具箱，请购买 WPS Office 专业版。</source>
-        <translation type="unfinished"></translation>
+        <translation>Aby korzystać z Przybornika formantów, proszę zakupić WPS Office Professional.</translation>
     </message>
 </context>
 <context>
@@ -1911,19 +1911,19 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Dowolne</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Prostokątne</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Pionowo</translation>
     </message>
 </context>
 <context>
@@ -2191,18 +2191,18 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <name>KxDetectFileAssoDlg</name>
     <message>
         <source>WPS Office is not your default office software, set to the default software that allows you to work more convenient</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office nie jest domyślnym oprogramowaniem biurowym. Ustawienie domyślnego oprogramowania pozwala na bardziej wygodną pracę</translation>
     </message>
 </context>
 <context>
     <name>KxDetectFileAssoDlgBottom</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Allow automatically help you check the format has been tampered with</source>
-        <translation type="unfinished"></translation>
+        <translation>Zezwól automatycznie pomóc Tobie sprawdzić, czy format został naruszony</translation>
     </message>
 </context>
 <context>
@@ -2404,7 +2404,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>编辑字典</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytowanie słownika</translation>
     </message>
 </context>
 <context>
@@ -3142,7 +3142,9 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
         <source>Please select the files you wish to remove from the recent document list, then press Delete. 
 This will not permanently delete your file, but only remove them from your recent records.
 Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz pliki, które chcesz usunąć z listy ostatnio używanych dokumentów, a następnie naciśnij przycisk Usuń. 
+Nie spowoduje to trwałego usunięcia plików, tylko usunie je z ostatnich rekordów.
+Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to usunięcie zaznaczenia elementów.</translation>
     </message>
 </context>
 <context>
@@ -3294,22 +3296,22 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>WPS Office End-User License Agreement</source>
-        <translation type="unfinished"></translation>
+        <translation>Umowa Licencyjna Użytkownika Oprogramowania WPS Office</translation>
     </message>
     <message>
         <source>about:blank</source>
-        <translation type="unfinished">temat: pusty</translation>
+        <translation>temat: puste</translation>
     </message>
     <message>
         <source>Join the experience improvement plan</source>
-        <translation type="unfinished"></translation>
+        <translation>Dołącz do planu udoskonalenia możliwości</translation>
     </message>
 </context>
 <context>
     <name>KxExternalPushService</name>
     <message>
         <source>Cannot load components for the printer solver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można załadować składników dla drukarki solver.</translation>
     </message>
 </context>
 <context>
@@ -4059,7 +4061,7 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>Touch Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb dotyku</translation>
     </message>
 </context>
 <context>
@@ -4551,7 +4553,7 @@ Kliknij tutaj, aby się zalogować.</translation>
     </message>
     <message>
         <source>The specified data type is unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podany typ danych nie jest dostępny.</translation>
     </message>
 </context>
 <context>
@@ -4625,15 +4627,15 @@ Kliknij tutaj, aby się zalogować.</translation>
     <name>KxPicksolutionDlg</name>
     <message>
         <source>Choose XML Expansion Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybieranie pakietu rozszerzenia XML</translation>
     </message>
     <message>
         <source>One or more XML expansion packs are available for this file. Choose one from the list below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dla tego pliku dostępnych jest jeden lub więcej pakietów rozszerzeń XML. Wybierz jeden z poniższej listy.</translation>
     </message>
     <message>
         <source>No XML expansion pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak pakietu rozszerzenia XML</translation>
     </message>
 </context>
 <context>
@@ -5733,14 +5735,14 @@ Nieprawidłowy rekord. Plik może mieć zmienioną nazwę, być usunięty lub pr
     <name>KxTpOprDoc</name>
     <message>
         <source>Cancle the XML Extend Packet</source>
-        <translation type="unfinished"></translation>
+        <translation>Odłącz pakiet rozszerzenia XML</translation>
     </message>
 </context>
 <context>
     <name>KxTpOprDocCommand</name>
     <message>
         <source>Are you sure cancel the XML extend pack?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy na pewno anulować pakiet rozszerzenia XML?</translation>
     </message>
 </context>
 <context>
@@ -5867,10 +5869,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translatio
     </message>
     <message>
         <source>ucWeight</source>
-        <translation variants="yes">
-            <lengthvariant>ucGrubość</lengthvariant>
-            <lengthvariant>ucWeight</lengthvariant>
-        </translation>
+        <translation>ucWeight</translation>
     </message>
     <message>
         <source>cm</source>
@@ -5886,10 +5885,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translatio
     </message>
     <message>
         <source>cbConnector</source>
-        <translation variants="yes">
-            <lengthvariant>cbŁącznik</lengthvariant>
-            <lengthvariant>cbConnector</lengthvariant>
-        </translation>
+        <translation>cbConnector</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -5901,10 +5897,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translatio
     </message>
     <message>
         <source>ccFillColor</source>
-        <translation variants="yes">
-            <lengthvariant>ccKolorWypełnienia</lengthvariant>
-            <lengthvariant>ccFillColor</lengthvariant>
-        </translation>
+        <translation>ccFillColor</translation>
     </message>
     <message>
         <source>&amp;Transparency:</source>
@@ -5912,10 +5905,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translatio
     </message>
     <message>
         <source>ucTransparentcy</source>
-        <translation variants="yes">
-            <lengthvariant>ucPrzezroczystość</lengthvariant>
-            <lengthvariant>ucTransparentcy</lengthvariant>
-        </translation>
+        <translation>Przezroczystość</translation>
     </message>
     <message>
         <source>%</source>
@@ -5931,24 +5921,15 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translatio
     </message>
     <message>
         <source>ccLineColor</source>
-        <translation variants="yes">
-            <lengthvariant>ccKolorLinii</lengthvariant>
-            <lengthvariant>ccLineColor</lengthvariant>
-        </translation>
+        <translation>ccLineColor</translation>
     </message>
     <message>
         <source>cbStyle</source>
-        <translation variants="yes">
-            <lengthvariant>cbStyl</lengthvariant>
-            <lengthvariant>cbStyle</lengthvariant>
-        </translation>
+        <translation>Styl</translation>
     </message>
     <message>
         <source>cbbDashStyle</source>
-        <translation variants="yes">
-            <lengthvariant>cbbStylKreskowany</lengthvariant>
-            <lengthvariant>cbbDashStyle</lengthvariant>
-        </translation>
+        <translation>cbbDashStyle</translation>
     </message>
     <message>
         <source>&amp;Weight:</source>
@@ -5956,31 +5937,19 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translatio
     </message>
     <message>
         <source>cbBeginStyle</source>
-        <translation variants="yes">
-            <lengthvariant>cbStylPoczątku</lengthvariant>
-            <lengthvariant>cbBeginStyle</lengthvariant>
-        </translation>
+        <translation>cbBeginStyle</translation>
     </message>
     <message>
         <source>cbEndStyle</source>
-        <translation variants="yes">
-            <lengthvariant>cbStylKońca</lengthvariant>
-            <lengthvariant>cbEndStyle</lengthvariant>
-        </translation>
+        <translation>cbEndStyle</translation>
     </message>
     <message>
         <source>cbBeginSize</source>
-        <translation variants="yes">
-            <lengthvariant>cbRozmiarPoczątku</lengthvariant>
-            <lengthvariant>cbBeginSize</lengthvariant>
-        </translation>
+        <translation>cbBeginSize</translation>
     </message>
     <message>
         <source>cbEndSize</source>
-        <translation variants="yes">
-            <lengthvariant>cbRozmiarKońca</lengthvariant>
-            <lengthvariant>cbEndSize</lengthvariant>
-        </translation>
+        <translation>cbEndSize</translation>
     </message>
     <message>
         <source>De&amp;fault for new Objects</source>
@@ -6086,10 +6055,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translatio
     </message>
     <message>
         <source>cbResolution</source>
-        <translation variants="yes">
-            <lengthvariant>cbRozdzielczość</lengthvariant>
-            <lengthvariant>cbResolution</lengthvariant>
-        </translation>
+        <translation>Rozdzielczość</translation>
     </message>
     <message>
         <source>640 x 480</source>
@@ -6121,10 +6087,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translatio
     </message>
     <message>
         <source>ucShapeHeight</source>
-        <translation variants="yes">
-            <lengthvariant>ucWysokośćKształtu</lengthvariant>
-            <lengthvariant>ucShapeHeight</lengthvariant>
-        </translation>
+        <translation>Wysokość kształtu</translation>
     </message>
     <message>
         <source>Wi&amp;dth:</source>
@@ -6132,17 +6095,11 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translatio
     </message>
     <message>
         <source>ucShapeWidth</source>
-        <translation variants="yes">
-            <lengthvariant>ucSzerokośćKształtu</lengthvariant>
-            <lengthvariant>ucShapeWidth</lengthvariant>
-        </translation>
+        <translation>Szerokość kształtu</translation>
     </message>
     <message>
         <source>ucRotation</source>
-        <translation variants="yes">
-            <lengthvariant>ucObrót</lengthvariant>
-            <lengthvariant>ucRotation</lengthvariant>
-        </translation>
+        <translation>Obrót</translation>
     </message>
     <message>
         <source>degree, 0, -3600, 3600, 1</source>
@@ -6158,10 +6115,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translatio
     </message>
     <message>
         <source>ucScaleHeight</source>
-        <translation variants="yes">
-            <lengthvariant>ucSkalowanieWysokości</lengthvariant>
-            <lengthvariant>ucScaleHeight</lengthvariant>
-        </translation>
+        <translation>Skalowanie wysokości</translation>
     </message>
     <message>
         <source>%, 0, 0, 10675, 1</source>
@@ -6173,10 +6127,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translatio
     </message>
     <message>
         <source>ucScaleWidth</source>
-        <translation variants="yes">
-            <lengthvariant>ucSkalowanieSzerokości</lengthvariant>
-            <lengthvariant>ucScaleWidth</lengthvariant>
-        </translation>
+        <translation>Skalowanie szerokości</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -6651,7 +6602,7 @@ Zawsze podejmuj to działanie.</translation>
     </message>
     <message>
         <source>Invalid file name, please enter the correct file name</source>
-        <translation>Nieprawidłowa nazwa pliku, proszę wprowadzić poprawną nazwę pliku</translation>
+        <translation>Nieprawidłowa nazwa pliku, proszę wprowadź poprawną nazwę pliku</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -7303,7 +7254,7 @@ lub strona sieci Web</translation>
     <name>updateMessageDlg</name>
     <message>
         <source>Update</source>
-        <translation>Aktualizuj</translation>
+        <translation>Aktualizacja</translation>
     </message>
     <message>
         <source>A new version is detected. Do you want to download the updated one?</source>

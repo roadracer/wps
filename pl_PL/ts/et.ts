@@ -165,10 +165,7 @@
     </message>
     <message>
         <source>int</source>
-        <translation variants="yes">
-            <lengthvariant>całk</lengthvariant>
-            <lengthvariant>int</lengthvariant>
-        </translation>
+        <translation>int</translation>
     </message>
     <message>
         <source>bin</source>
@@ -844,11 +841,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Ascending(S)</source>
-        <translation type="unfinished">Rosnąco(S)</translation>
+        <translation>Rosnąco (S)</translation>
     </message>
     <message>
         <source>Descending(O)</source>
-        <translation type="unfinished">Malejąco(O)</translation>
+        <translation>Malejąco (O)</translation>
     </message>
     <message>
         <source>Clear(C)</source>
@@ -896,23 +893,23 @@ condition is true:</source>
     </message>
     <message>
         <source>Label Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtr etykiet</translation>
     </message>
     <message>
         <source>&amp;Label Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtr &amp;etykiet</translation>
     </message>
     <message>
         <source>Not Begin With</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie zaczyna się od</translation>
     </message>
     <message>
         <source>Not End With</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie kończy się na</translation>
     </message>
     <message>
         <source>Not Between</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie między</translation>
     </message>
 </context>
 <context>
@@ -1194,39 +1191,39 @@ condition is true:</source>
     <name>KxColumnWidthFieldInfo</name>
     <message>
         <source>General</source>
-        <translation type="unfinished">Ogólne</translation>
+        <translation>Ogólne</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>MDY</source>
-        <translation type="unfinished">MDR</translation>
+        <translation>MDR</translation>
     </message>
     <message>
         <source>DMY</source>
-        <translation type="unfinished">DMR</translation>
+        <translation>DMR</translation>
     </message>
     <message>
         <source>YMD</source>
-        <translation type="unfinished">RMD</translation>
+        <translation>RMD</translation>
     </message>
     <message>
         <source>MYD</source>
-        <translation type="unfinished">MRD</translation>
+        <translation>MRD</translation>
     </message>
     <message>
         <source>DYM</source>
-        <translation type="unfinished">DRM</translation>
+        <translation>DRM</translation>
     </message>
     <message>
         <source>YDM</source>
-        <translation type="unfinished">RDM</translation>
+        <translation>RDM</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Pomiń</translation>
+        <translation>Pomiń</translation>
     </message>
 </context>
 <context>
@@ -2337,19 +2334,19 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>spinPrefix</source>
-        <translation>obrót_Prefiks</translation>
+        <translation>spinPrefix</translation>
     </message>
     <message>
         <source>spinSuffix</source>
-        <translation>obrót_Sufiks</translation>
+        <translation>spinSuffix</translation>
     </message>
     <message>
         <source>directPrefix</source>
-        <translation>kierunek_Prefiks</translation>
+        <translation>directPrefix</translation>
     </message>
     <message>
         <source>directSuffix</source>
-        <translation>kierunek_Sufiks</translation>
+        <translation>directSuffix</translation>
     </message>
     <message>
         <source>123</source>
@@ -2426,7 +2423,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>cbxFunction</source>
-        <translation>cbxFunkcja</translation>
+        <translation>cbxFunction</translation>
     </message>
     <message>
         <source>&amp;Reference:</source>
@@ -2442,7 +2439,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>lbx All References</source>
-        <translation>lbx Wszystkie odwołania</translation>
+        <translation>lbx All References</translation>
     </message>
     <message>
         <source>asdf</source>
@@ -2836,7 +2833,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished">Lista</translation>
+        <translation>Lista</translation>
     </message>
 </context>
 <context>
@@ -3153,11 +3150,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Ro&amp;w differences</source>
-        <translation type="unfinished"></translation>
+        <translation>Różnice w wiersza&amp;ch</translation>
     </message>
     <message>
         <source>Colu&amp;mn differences</source>
-        <translation type="unfinished"></translation>
+        <translation>Różnice w kolu&amp;mnach</translation>
     </message>
 </context>
 <context>
@@ -3326,10 +3323,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucShapeHeight</source>
-        <translation variants="yes">
-            <lengthvariant>ucWysokośćKształtu</lengthvariant>
-            <lengthvariant>ucShapeHeight</lengthvariant>
-        </translation>
+        <translation>Wysokość kształtu</translation>
     </message>
     <message>
         <source>pt, 2, -10, 1e+08, 1</source>
@@ -3341,10 +3335,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucShapeWidth</source>
-        <translation variants="yes">
-            <lengthvariant>ucSzerokośćKształtu</lengthvariant>
-            <lengthvariant>ucShapeWidth</lengthvariant>
-        </translation>
+        <translation>Szerokość kształtu</translation>
     </message>
     <message>
         <source>&amp;Rotation:</source>
@@ -3352,10 +3343,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucRotation</source>
-        <translation variants="yes">
-            <lengthvariant>ucObrót</lengthvariant>
-            <lengthvariant>ucRotation</lengthvariant>
-        </translation>
+        <translation>Obrót</translation>
     </message>
     <message>
         <source>degree, 0, -360000, 360000, 1</source>
@@ -3371,10 +3359,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucScaleHeight</source>
-        <translation variants="yes">
-            <lengthvariant>ucSkalowanieWysokości</lengthvariant>
-            <lengthvariant>ucScaleHeight</lengthvariant>
-        </translation>
+        <translation>Skalowanie wysokości</translation>
     </message>
     <message>
         <source>%, 0, -10, 999999, 1</source>
@@ -3386,10 +3371,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucScaleWidth</source>
-        <translation variants="yes">
-            <lengthvariant>ucSkalowanieSzerokości</lengthvariant>
-            <lengthvariant>ucScaleWidth</lengthvariant>
-        </translation>
+        <translation>Skalowanie szerokości</translation>
     </message>
     <message>
         <source>Lock &amp;aspect ratio</source>
@@ -3421,10 +3403,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucCropLeft</source>
-        <translation variants="yes">
-            <lengthvariant>ucPrzytnijOdLewej</lengthvariant>
-            <lengthvariant>ucCropLeft</lengthvariant>
-        </translation>
+        <translation>ucCropLeft</translation>
     </message>
     <message>
         <source>pt, 2, -1e+08, 1e+08, 1</source>
@@ -3436,10 +3415,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucCropTop</source>
-        <translation variants="yes">
-            <lengthvariant>ucPrzytnijOdGóry</lengthvariant>
-            <lengthvariant>ucCropTop</lengthvariant>
-        </translation>
+        <translation>ucCropTop</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
@@ -3447,10 +3423,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucCropRight</source>
-        <translation variants="yes">
-            <lengthvariant>ucPrzytnijOdPrawej</lengthvariant>
-            <lengthvariant>ucCropRight</lengthvariant>
-        </translation>
+        <translation>ucCropRight</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
@@ -3458,10 +3431,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucCropBottom</source>
-        <translation variants="yes">
-            <lengthvariant>ucPrzytnijOdDołu</lengthvariant>
-            <lengthvariant>ucCropBottom</lengthvariant>
-        </translation>
+        <translation>ucCropBottom</translation>
     </message>
     <message>
         <source>Image Control</source>
@@ -3473,7 +3443,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>cbDropDownList</source>
-        <translation>cbListaRozwijana</translation>
+        <translation>cbDropDownList</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -3497,10 +3467,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucBrightness</source>
-        <translation variants="yes">
-            <lengthvariant>ucJasność</lengthvariant>
-            <lengthvariant>ucBrightness</lengthvariant>
-        </translation>
+        <translation>Jasność</translation>
     </message>
     <message>
         <source>%, 1, -10, 999999, 1</source>
@@ -3512,7 +3479,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucContrast</source>
-        <translation>ucKontrast</translation>
+        <translation>Kontrast</translation>
     </message>
     <message>
         <source>Co&amp;mpress...</source>
@@ -3753,45 +3720,27 @@ kursor w polu edycji i naciśnij przycisk Formatuj obraz.</translation>
     </message>
     <message>
         <source>lblRecord1</source>
-        <translation variants="yes">
-            <lengthvariant>lblRekord1</lengthvariant>
-            <lengthvariant>lblRecord1</lengthvariant>
-        </translation>
+        <translation>lblRecord1</translation>
     </message>
     <message>
         <source>lblRecord2</source>
-        <translation variants="yes">
-            <lengthvariant>lblRekord2</lengthvariant>
-            <lengthvariant>lblRecord2</lengthvariant>
-        </translation>
+        <translation>lblRecord2</translation>
     </message>
     <message>
         <source>lblRecord3</source>
-        <translation variants="yes">
-            <lengthvariant>lblRekord3</lengthvariant>
-            <lengthvariant>lblRecord3</lengthvariant>
-        </translation>
+        <translation>lblRecord3</translation>
     </message>
     <message>
         <source>lblRecord4</source>
-        <translation variants="yes">
-            <lengthvariant>lblRekord4</lengthvariant>
-            <lengthvariant>lblRecord4</lengthvariant>
-        </translation>
+        <translation>lblRecord4</translation>
     </message>
     <message>
         <source>lblRecord5</source>
-        <translation variants="yes">
-            <lengthvariant>lblRekord5</lengthvariant>
-            <lengthvariant>lblRecord5</lengthvariant>
-        </translation>
+        <translation>lblRecord5</translation>
     </message>
     <message>
         <source>lblRecord6</source>
-        <translation variants="yes">
-            <lengthvariant>lblRekord6</lengthvariant>
-            <lengthvariant>lblRecord6</lengthvariant>
-        </translation>
+        <translation>lblRecord6</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -4689,35 +4638,35 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Save As Create Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz jako Utwórz kopię zapasową</translation>
     </message>
     <message>
         <source>Checkbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Pole wyboru</translation>
     </message>
     <message>
         <source>Always create &amp;backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawsze twórz &amp;kopię zapasową</translation>
     </message>
     <message>
         <source>Read-only &amp;recommended Option</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zalecana opcja tylko do odczytu</translation>
     </message>
     <message>
         <source>Read-only &amp;recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zalecany tryb tylko do odczytu</translation>
     </message>
     <message>
         <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dołącz do programu poprawy jakości obsługi klienta i Pomóż nam udoskonalić WPS Office.</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Język</translation>
     </message>
     <message>
         <source>Automatically download and update language packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatycznie pobierz i aktualizuj pakiety językowe</translation>
     </message>
 </context>
 <context>
@@ -5136,7 +5085,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Repeat Item Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Pow&amp;tarzaj etykiety elementów</translation>
     </message>
 </context>
 <context>
@@ -5314,7 +5263,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>How to solve problems of the printer?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jak rozwiązać problemy z drukarką?</translation>
     </message>
 </context>
 <context>
@@ -6535,17 +6484,11 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>ll3</source>
-        <translation variants="yes">
-            <lengthvariant>LL3</lengthvariant>
-            <lengthvariant>ll3</lengthvariant>
-        </translation>
+        <translation>ll3</translation>
     </message>
     <message>
         <source>ll4</source>
-        <translation variants="yes">
-            <lengthvariant>LL4</lengthvariant>
-            <lengthvariant>ll4</lengthvariant>
-        </translation>
+        <translation>ll4</translation>
     </message>
     <message>
         <source>Error Alert</source>
@@ -9379,11 +9322,11 @@ system będzie przypominał o sprawdzaniu poprawności zawartości.
     </message>
     <message>
         <source>Preview selected data</source>
-        <translation type="unfinished"></translation>
+        <translation>Podgląd wybranych danych</translation>
     </message>
     <message>
         <source>Data preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Podgląd danych:</translation>
     </message>
 </context>
 <context>

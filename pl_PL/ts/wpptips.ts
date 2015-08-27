@@ -445,12 +445,12 @@ Kliknij strzałkę, aby wybrać inne wyrównanie.</translation>
     <message id="DrawingToolsDetailedSettings.title">
         <source>Drawing Tools Detailed Settings</source>
         <extracomment>DrawingToolsDetailedSettings.title</extracomment>
-        <translation>Ustawienia szczegółowe Narzędzia do rysowania</translation>
+        <translation>Ustawienia szczegółowe Narzędzi do rysowania</translation>
     </message>
     <message id="DrawingToolsDetailedSettings.content">
         <source>DrawingToolsDetailedSettings Content</source>
         <extracomment>DrawingToolsDetailedSettings.content</extracomment>
-        <translation>Zawartość ustawień szczegółowych Narzędzia do rysowania</translation>
+        <translation>Umożliwia dokonanie szczegółowych ustawień Narzędzi do rysowania</translation>
     </message>
     <message id="DuplicateSlide.title">
         <source>New copy of slide</source>
@@ -672,7 +672,7 @@ Galeria WPS źródeł Online wymaga połączenia internetowego.</translation>
     <message id="HomeDetailedSettings.content">
         <source>HomeDetailedSettings Content</source>
         <extracomment>HomeDetailedSettings.content</extracomment>
-        <translation>Zawartość ustawień szczegółowych Narzędzi głównych</translation>
+        <translation>Umożliwia dokonanie szczegółowych ustawień Narzędzi głównych</translation>
     </message>
     <message id="Hyperlink.title">
         <source>Insert Hyperlink</source>
@@ -2184,7 +2184,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="wpp2doc.content">
         <source></source>
         <extracomment>wpp2doc.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translation>Rozdziel komórki</translation>
     </message>
     <message id="presentationTool.title">
         <source>Presentation Tool</source>
@@ -2229,22 +2229,22 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="TextSpeech.title">
         <source>Read Text</source>
         <extracomment>TextSpeech.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Czytaj tekst</translation>
     </message>
     <message id="TextSpeech.content">
         <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
         <extracomment>TextSpeech.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia włączenie zmiany tekstu na mowę. Możesz cieszyć się 2-dniową wersją próbną tej funkcji.</translation>
     </message>
     <message id="TextSpeech2.title">
         <source>Reading</source>
         <extracomment>TextSpeech2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Czytanie</translation>
     </message>
     <message id="TextSpeech2.content">
         <source>Click here to stop reading.</source>
         <extracomment>TextSpeech2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kliknij tutaj, aby zatrzymać czytanie.</translation>
     </message>
 </context>
 </TS>

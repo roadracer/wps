@@ -381,12 +381,12 @@ Kliknij strzałkę, aby wybrać inne kolory trójwymiarowe.</translation>
     <message id="KOSCreatecloudLinkTip.title">
         <source>It only taks seconds! You can:</source>
         <extracomment>KOSCreatecloudLinkTip.title</extracomment>
-        <translation>To zajmuje zaledwie kilka sekund! Można:</translation>
+        <translation>To zajmuje tylko kilka sekund! Możesz:</translation>
     </message>
     <message id="KOSCreatecloudLinkTip.content">
         <source>Scan the QR code and share your document to cellphone, to WeChat or MiChat for editing by others.</source>
         <extracomment>KOSCreatecloudLinkTip.content</extracomment>
-        <translation>Zeskanować kod QR i udostępnić dokument na telefon komórkowy, WeChat lub MiChat do edycji przez innych.</translation>
+        <translation>Skanowanie kodu QR i udostępnienie dokumentu na telefon komórkowy, WeChat lub MiChat do edycji przez innych.</translation>
     </message>
     <message id="KOSOfficespaceLoginFailTip.title">
         <source>@@</source>
@@ -633,12 +633,12 @@ Po kliknięciu jednego piksela w bieżącej grafice wszystkie piksele tego sameg
     <message id="PictureToolsDetailedSettings.title">
         <source>PictureToolsDetailedSettings Title</source>
         <extracomment>PictureToolsDetailedSettings.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia szczegółowe Narzędzi obrazów</translation>
     </message>
     <message id="PictureToolsDetailedSettings.content">
         <source>PictureToolsDetailedSettings Content</source>
         <extracomment>PictureToolsDetailedSettings.content</extracomment>
-        <translation type="unfinished">Zawartość ustawień szczegółowych Obrazu</translation>
+        <translation>Umożliwia dokonanie szczegółowych ustawień Narzędzi obrazów</translation>
     </message>
     <message id="Print.title">
         <source>Print</source>
@@ -747,12 +747,12 @@ Kliknij strzałkę, aby wybrać inne kolory cienia.</translation>
     <message id="WordArtDetailedSettings.title">
         <source>WordArtDetailedSettings Title</source>
         <extracomment>WordArtDetailedSettings.title</extracomment>
-        <translation type="unfinished">?</translation>
+        <translation>Ustawienia szczegółowe WordArt</translation>
     </message>
     <message id="WordArtDetailedSettings.content">
         <source>WordArtDetailedSettings Content</source>
         <extracomment>WordArtDetailedSettings.content</extracomment>
-        <translation type="unfinished">Zawartość ustawień szczegółowych WordArt</translation>
+        <translation>Umożliwia dokonanie szczegółowych ustawień tekstu WordArt</translation>
     </message>
     <message id="WordArtFill.title">
         <source>WordArt Fill</source>
@@ -910,7 +910,7 @@ Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translati
     <message id="DocerURLEntranceTip.content">
         <source></source>
         <extracomment>DocerURLEntranceTip.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translation>Rozdziel komórki</translation>
     </message>
     <message id="Protect_Eyes.title">
         <source>Eye Protection Mode</source>
@@ -944,11 +944,11 @@ Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translati
     </message>
     <message id="TouchUiMode.title">
         <source>Touch Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb dotyku</translation>
     </message>
     <message id="TouchUiMode.content">
         <source>More space between commands. Optimized for use with touch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Większe odstępy między poleceniami. Widok zoptymalizowany pod kątem korzystania z funkcji dotykowych.</translation>
     </message>
 </context>
 </TS>

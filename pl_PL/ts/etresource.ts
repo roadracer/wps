@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -1270,11 +1270,11 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Unprotect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie chroń arkusza</translation>
     </message>
     <message>
         <source>Unprotect Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie chroń skoroszytu</translation>
     </message>
 </context>
 <context>
@@ -1814,7 +1814,7 @@ wyśrodkuj</translation>
     <name>classics.standard.Help</name>
     <message>
         <source>WPS Spreadsheets Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomoc programu WPS Spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -2386,7 +2386,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Eye Protection Night Mode</source>
-        <translation type="unfinished">Tryb ochrony oczu i Tryb nocny!</translation>
+        <translation>Tryb nocny ochrony oczu</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -2783,8 +2783,7 @@ dane</translation>
     </message>
     <message>
         <source>TStyle</source>
-        <translatorcomment>Text style, Table style, Theme style - nie wiem którą opcję tłumaczyć</translatorcomment>
-        <translation type="unfinished">TStyl</translation>
+        <translation>TStyle</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -2822,7 +2821,7 @@ zadań</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozgrupuj</translation>
     </message>
     <message>
         <source>Up Bars</source>
@@ -2877,7 +2876,7 @@ zadań</translation>
     <name>etcommon.mainwindow.commands.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupuj</translation>
     </message>
 </context>
 <context>
@@ -2973,7 +2972,7 @@ zadań</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiadomości</translation>
     </message>
     <message>
         <source>Office Space</source>
@@ -3069,7 +3068,7 @@ zadań</translation>
     </message>
     <message>
         <source>Touch Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb dotyku</translation>
     </message>
     <message>
         <source>User Sign in</source>
@@ -3092,7 +3091,7 @@ zadań</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>Co nowego</translation>
+        <translation>Co nowego?</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -3205,7 +3204,7 @@ zadań</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiadomości</translation>
     </message>
     <message>
         <source>Office Space</source>
@@ -3320,7 +3319,7 @@ zadań</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>Co nowego</translation>
+        <translation>Co nowego?</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -4244,7 +4243,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy z innych szablonów</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
@@ -4352,7 +4351,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki programu WPS Spreadsheets 2007/2010</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
@@ -5372,7 +5371,7 @@ kolumny</translation>
     </message>
     <message>
         <source>Unprotect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie chroń arkusza</translation>
     </message>
     <message>
         <source>Up</source>
@@ -6245,7 +6244,8 @@ Włącz/Wyłącz</translation>
     <message>
         <source>Do Not 
 Repeat Item Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie powtarzaj 
+etykiety elementów</translation>
     </message>
     <message>
         <source>Field
@@ -6322,7 +6322,8 @@ dane</translation>
     <message>
         <source>Repeat All 
 Item Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Powtarzaj wszystkie 
+etykiety elementów</translation>
     </message>
     <message>
         <source>Show
@@ -6539,12 +6540,14 @@ zmiany</translation>
     <message>
         <source>Unprotect 
 Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie chroń 
+arkusza</translation>
     </message>
     <message>
         <source>Unprotect 
 Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie chroń 
+skoroszytu</translation>
     </message>
 </context>
 <context>
@@ -7705,7 +7708,8 @@ WordArt</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translation>Tekst na mowę</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -7724,7 +7728,8 @@ WordArt</translation>
     <name>ongmani.proxycommands</name>
     <message>
         <source>Full-Text Speech</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Mowa pełnotekstowa</translatorcomment>
+        <translation>Pełny tekst na mowę</translation>
     </message>
     <message>
         <source>Goal Seek</source>
@@ -7732,15 +7737,16 @@ WordArt</translation>
     </message>
     <message>
         <source>Press Enter to Start Reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Naciśnij klawisz Enter, aby rozpocząć czytanie</translation>
     </message>
     <message>
         <source>Selection Speech</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Mowa zaznaczenia</translatorcomment>
+        <translation>Zaznaczenie na mowę</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż pasek narzędzi</translation>
     </message>
     <message>
         <source>Solver</source>
@@ -7748,7 +7754,8 @@ WordArt</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translation>Tekst na mowę</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
@@ -9262,7 +9269,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Solver</source>
-        <translation type="unfinished">Solver</translation>
+        <translation>Solver</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -9409,11 +9416,11 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Unprotect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie chroń arkusza</translation>
     </message>
     <message>
         <source>Unprotect Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie chroń skoroszytu</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
@@ -10356,7 +10363,7 @@ COM</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy z innych szablonów</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
@@ -10464,7 +10471,7 @@ COM</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki programu WPS Spreadsheets 2007/2010</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
@@ -11439,7 +11446,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Unprotect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie chroń arkusza</translation>
     </message>
     <message>
         <source>Up</source>
@@ -12256,7 +12263,8 @@ wyśrodkuj</translation>
     <message>
         <source>Do Not 
 Repeat Item Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie powtarzaj 
+etykiety elementów</translation>
     </message>
     <message>
         <source>Field Settings</source>
@@ -12321,7 +12329,8 @@ Repeat Item Labels</source>
     <message>
         <source>Repeat All 
 Item Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Powtarzaj wszystkie 
+etykiety elementów</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -12511,11 +12520,11 @@ Item Labels</source>
     </message>
     <message>
         <source>Unprotect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie chroń arkusza</translation>
     </message>
     <message>
         <source>Unprotect Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie chroń skoroszytu</translation>
     </message>
 </context>
 <context>
@@ -13624,7 +13633,8 @@ cienia</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translation>Tekst na mowę</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -13647,7 +13657,8 @@ cienia</translation>
     <name>rainbow.proxycommands</name>
     <message>
         <source>Full-Text Speech</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Mowa pełnotekstowa</translatorcomment>
+        <translation>Pełny tekst na mowę</translation>
     </message>
     <message>
         <source>Goal Seek</source>
@@ -13655,15 +13666,16 @@ cienia</translation>
     </message>
     <message>
         <source>Press Enter to Start Reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Naciśnij klawisz Enter, aby rozpocząć czytanie</translation>
     </message>
     <message>
         <source>Selection Speech</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Mowa zaznaczenia</translatorcomment>
+        <translation>Zaznaczenie na mowę</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż pasek narzędzi</translation>
     </message>
     <message>
         <source>Solver</source>
@@ -13671,7 +13683,8 @@ cienia</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translation>Tekst na mowę</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
