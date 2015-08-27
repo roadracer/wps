@@ -4092,14 +4092,9 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation>Întoarce numărul de combinații pentru un număr dat de elemente.</translation>
     </message>
     <message>
-        <source>COMBIN(number,number_chosen)</source>
-        <comment>COMBIN_GRAMMER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
-        <translation>Întoarce numărul de combinații pentru un număr dat de elemente.</translation>
+        <translation type="obsolete">Întoarce numărul de combinații pentru un număr dat de elemente.</translation>
     </message>
     <message>
         <source>COVAR(array1,array2)</source>
@@ -5164,12 +5159,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation>LTRIM(text)</translation>
-    </message>
-    <message>
-        <source>Removes left spaces of the specified text string.</source>
-        <comment>LTRIM_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">LTRIM(text)</translation>
     </message>
     <message>
         <source>MID(text,start_num,num_chars)</source>
@@ -5214,12 +5204,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation>RTRIM(text)</translation>
-    </message>
-    <message>
-        <source>Removes right spaces of the specified text string.</source>
-        <comment>RTRIM_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">RTRIM(text)</translation>
     </message>
     <message>
         <source>SEARCH(find_text,within_text,start_num)</source>

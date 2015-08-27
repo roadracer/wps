@@ -6154,12 +6154,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
-        <translation>ЧИСЛКОМБ(число,число_выбранных)</translation>
+        <translation type="obsolete">ЧИСЛКОМБ(число,число_выбранных)</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
-        <translation>Возвращает количество комбинаций для заданного числа элементов.</translation>
+        <translation type="obsolete">Возвращает количество комбинаций для заданного числа элементов.</translation>
     </message>
     <message>
         <source>COVAR(array1,array2)</source>
@@ -7227,12 +7227,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation>СЖЛПРОБЕЛЫ(текст)</translation>
+        <translation type="obsolete">СЖЛПРОБЕЛЫ(текст)</translation>
     </message>
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
-        <translation>Удаляет левые пробелы из текстовой строки (с начала).</translation>
+        <translation type="obsolete">Удаляет левые пробелы из текстовой строки (с начала).</translation>
     </message>
     <message>
         <source>MID(text,start_num,num_chars)</source>
@@ -7279,12 +7279,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation>СЖППРОБЕЛЫ(текст)</translation>
+        <translation type="obsolete">СЖППРОБЕЛЫ(текст)</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
-        <translation>Удаляет правые пробелы из текстовой строки (с конца).</translation>
+        <translation type="obsolete">Удаляет правые пробелы из текстовой строки (с конца).</translation>
     </message>
     <message>
         <source>SEARCH(find_text,within_text,start_num)</source>

@@ -294,10 +294,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Includes 30-Day FREE Trial of WPS Office Business Edition. %1Get started &gt;&gt;%2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Did you purchase WPS Office?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -307,6 +303,10 @@
     </message>
     <message>
         <source>Need Help?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Includes %1-Day FREE Trial of WPS Office Business Edition. %2Get started &gt;&gt;%3.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -546,19 +546,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Activation code expires on:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>yyyy-mm-dd</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;u&gt;Use other activation codes&lt;/u&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use other activation codes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activation code expires on: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LIFETIME LICENSE</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

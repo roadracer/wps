@@ -4558,12 +4558,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
-        <translation>KOMBINACJE.A(liczba; liczba_wybrana)</translation>
+        <translation type="obsolete">KOMBINACJE.A(liczba; liczba_wybrana)</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
-        <translation>Zwraca liczbę kombinacji (wraz z powtórzeniami) dla danej liczby elementów.</translation>
+        <translation type="obsolete">Zwraca liczbę kombinacji (wraz z powtórzeniami) dla danej liczby elementów.</translation>
     </message>
     <message>
         <source>COVAR(array1,array2)</source>
@@ -5633,12 +5633,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation>USUŃ.ZBĘDNE.ODSTĘPY.Z.LEWEJ(tekst)</translation>
+        <translation type="obsolete">USUŃ.ZBĘDNE.ODSTĘPY.Z.LEWEJ(tekst)</translation>
     </message>
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
-        <translation>Usuwa spacje z lewej strony w określonym ciągu tekstowym.</translation>
+        <translation type="obsolete">Usuwa spacje z lewej strony w określonym ciągu tekstowym.</translation>
     </message>
     <message>
         <source>MID(text,start_num,num_chars)</source>
@@ -5683,12 +5683,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation>USUŃ.ZBĘDNE.ODSTĘPY.Z.PRAWEJ(tekst)</translation>
+        <translation type="obsolete">USUŃ.ZBĘDNE.ODSTĘPY.Z.PRAWEJ(tekst)</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
-        <translation>Usuwa spacje z prawej strony w określonym ciągu tekstowym.</translation>
+        <translation type="obsolete">Usuwa spacje z prawej strony w określonym ciągu tekstowym.</translation>
     </message>
     <message>
         <source>SEARCH(find_text,within_text,start_num)</source>

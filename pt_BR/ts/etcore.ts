@@ -4203,12 +4203,12 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
-        <translation>COMBIN (número, número_seleccionado )</translation>
+        <translation type="obsolete">COMBIN (número, número_seleccionado )</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
-        <translation>Retorna o número de combinações de um determinado número de elementos .</translation>
+        <translation type="obsolete">Retorna o número de combinações de um determinado número de elementos .</translation>
     </message>
     <message>
         <source>COVAR(array1,array2)</source>
@@ -5273,12 +5273,12 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation>LTRIM (texto)</translation>
+        <translation type="obsolete">LTRIM (texto)</translation>
     </message>
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
-        <translation>Remove os espaços à esquerda da seqüência de texto especificado.</translation>
+        <translation type="obsolete">Remove os espaços à esquerda da seqüência de texto especificado.</translation>
     </message>
     <message>
         <source>MID(text,start_num,num_chars)</source>
@@ -5323,12 +5323,12 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation>RTRIM (texto)</translation>
+        <translation type="obsolete">RTRIM (texto)</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
-        <translation>Remove os espaços à direita da cadeia de texto especificado.</translation>
+        <translation type="obsolete">Remove os espaços à direita da cadeia de texto especificado.</translation>
     </message>
     <message>
         <source>SEARCH(find_text,within_text,start_num)</source>

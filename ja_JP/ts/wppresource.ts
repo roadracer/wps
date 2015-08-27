@@ -1458,12 +1458,7 @@
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Slide
-Master</source>
-        <translation type="obsolete">新しいスライド
+        <translation type="unfinished">新しいスライド
 マスタ</translation>
     </message>
     <message>
@@ -2056,12 +2051,7 @@ Master</source>
     <message>
         <source>Animation
 Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Animation
-Schemes</source>
-        <translation type="obsolete">アニメーションを
+        <translation type="unfinished">アニメーションを
 まとめて設定</translation>
     </message>
     <message>
@@ -2071,12 +2061,7 @@ Schemes</source>
     <message>
         <source>Custom
 Animation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom
-Animation</source>
-        <translation type="obsolete">アニメーション
+        <translation type="unfinished">アニメーション
 のユーザー設定</translation>
     </message>
     <message>
@@ -2098,12 +2083,7 @@ Animation</source>
     <message>
         <source>Transition
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Transition
-Effects</source>
-        <translation type="obsolete">切替効果</translation>
+        <translation type="unfinished">切替効果</translation>
     </message>
     <message>
         <source>Transition Effect</source>
@@ -2123,12 +2103,7 @@ Effects</source>
     <message>
         <source>Color
 Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color
-Schemes</source>
-        <translation type="obsolete">配色</translation>
+        <translation type="unfinished">配色</translation>
     </message>
     <message>
         <source>Color Schemes</source>
@@ -2146,12 +2121,7 @@ Schemes</source>
     <message>
         <source>Edit
 Slide Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit
-Slide Master</source>
-        <translation type="obsolete">マスタ</translation>
+        <translation type="unfinished">マスタ</translation>
     </message>
     <message>
         <source>Import Templates</source>
@@ -2173,12 +2143,7 @@ Template</source>
     <message>
         <source>Page
 Setup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page
-Setup</source>
-        <translation type="obsolete">ページ
+        <translation type="unfinished">ページ
 設定</translation>
     </message>
     <message>
@@ -2200,22 +2165,12 @@ Setup</source>
     <message>
         <source>Slide
 Layout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">スライドレイアウト</translation>
     </message>
     <message>
         <source>Slide
 Orientation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Layout</source>
-        <translation type="obsolete">スライドレイアウト</translation>
-    </message>
-    <message>
-        <source>Slide
-Orientation</source>
-        <translation type="obsolete">スライド
+        <translation type="unfinished">スライド
 の方向</translation>
     </message>
     <message>
@@ -2236,12 +2191,7 @@ Orientation</source>
     <message>
         <source>Clear
 Table Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear
-Table Style</source>
-        <translation type="obsolete">表のスタイル
+        <translation type="unfinished">表のスタイル
 をクリア</translation>
     </message>
     <message>
@@ -2297,12 +2247,7 @@ Table Style</source>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM
-Add-Ins</source>
-        <translation type="obsolete">COM
+        <translation type="unfinished">COM
 プラグイン</translation>
     </message>
     <message>
@@ -2333,12 +2278,7 @@ AddIns</source>
     <message>
         <source>Control 
 Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Control 
-Properties</source>
-        <translation type="obsolete">プロパティ</translation>
+        <translation type="unfinished">プロパティ</translation>
     </message>
     <message>
         <source>Control Properties</source>
@@ -2403,12 +2343,7 @@ Properties</source>
     <message>
         <source>Visual Basic
 Editor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Visual Basic
-Editor</source>
-        <translation type="obsolete">Visual Basic
+        <translation type="unfinished">Visual Basic
 エディター</translation>
     </message>
     <message>
@@ -2489,12 +2424,7 @@ Editor</source>
     <message>
         <source>3-D
 On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-On</source>
-        <translation type="obsolete">3Dの表示/非表示</translation>
+        <translation type="unfinished">3Dの表示/非表示</translation>
     </message>
     <message>
         <source>3-D On</source>
@@ -3424,12 +3354,7 @@ On</source>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Effects</source>
-        <translation type="obsolete">3Dスタイル</translation>
+        <translation type="unfinished">3Dスタイル</translation>
     </message>
     <message>
         <source>3-D Style</source>
@@ -3703,12 +3628,7 @@ Effects</source>
     <message>
         <source>Format 
 Painter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format 
-Painter</source>
-        <translation type="obsolete">書式のコピー/
+        <translation type="unfinished">書式のコピー/
 貼り付け</translation>
     </message>
     <message>
@@ -3734,23 +3654,13 @@ Painter</source>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current
-Slide</source>
-        <translation type="obsolete">現在の
+        <translation type="unfinished">現在の
 スライドから</translation>
     </message>
     <message>
         <source>From Current 
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current 
-Slide</source>
-        <translation type="obsolete">現在の
+        <translation type="unfinished">現在の
 スライドから</translation>
     </message>
     <message>
@@ -4018,12 +3928,7 @@ Slide</source>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Effects</source>
-        <translation type="obsolete">影のスタイル(S)</translation>
+        <translation type="unfinished">影のスタイル(S)</translation>
     </message>
     <message>
         <source>Shadow Style</source>
@@ -4252,12 +4157,7 @@ Effects</source>
     <message>
         <source>Background
 Music</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Background
-Music</source>
-        <translation type="obsolete">BGM
+        <translation type="unfinished">BGM
 (音楽)</translation>
     </message>
     <message>
@@ -4319,12 +4219,7 @@ Music</source>
     <message>
         <source>Header and 
 Footer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Header and 
-Footer</source>
-        <translation type="obsolete">ヘッダーと
+        <translation type="unfinished">ヘッダーと
 フッター</translation>
     </message>
     <message>
@@ -4427,12 +4322,7 @@ Footer</source>
     <message>
         <source>Organization
 Chart</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Organization
-Chart</source>
-        <translation type="obsolete">組織図</translation>
+        <translation type="unfinished">組織図</translation>
     </message>
     <message>
         <source>Package File</source>
@@ -4458,12 +4348,7 @@ Chart</source>
     <message>
         <source>Slide
 Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Number</source>
-        <translation type="obsolete">スライド番号</translation>
+        <translation type="unfinished">スライド番号</translation>
     </message>
     <message>
         <source>Slide Number</source>
@@ -4957,12 +4842,7 @@ Number</source>
     <message>
         <source>Change
 Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change
-Picture</source>
-        <translation type="obsolete">他のグラフィックス
+        <translation type="unfinished">他のグラフィックス
 に変更する</translation>
     </message>
     <message>
@@ -4980,12 +4860,7 @@ Picture</source>
     <message>
         <source>Compress
 Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Compress
-Pictures</source>
-        <translation type="obsolete">図の圧縮</translation>
+        <translation type="unfinished">図の圧縮</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -5211,12 +5086,7 @@ Pictures</source>
     <message>
         <source>Picture
 Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture
-Size</source>
-        <translation type="obsolete">図のサイズ</translation>
+        <translation type="unfinished">図のサイズ</translation>
     </message>
     <message>
         <source>Picture Adjust</source>
@@ -5245,12 +5115,7 @@ Size</source>
     <message>
         <source>Reset
 Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reset
-Picture</source>
-        <translation type="obsolete">図の
+        <translation type="unfinished">図の
 リセット</translation>
     </message>
     <message>
@@ -5298,12 +5163,7 @@ Picture</source>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="obsolete">影の表示/
+        <translation type="unfinished">影の表示/
 非表示</translation>
     </message>
     <message>
@@ -5394,12 +5254,7 @@ On/Off</source>
     <message>
         <source>Frame
 Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Frame
-Slides</source>
-        <translation type="obsolete">スライドに枠を付ける</translation>
+        <translation type="unfinished">スライドに枠を付ける</translation>
     </message>
     <message>
         <source>Frame Slides</source>
@@ -5432,12 +5287,7 @@ Slides</source>
     <message>
         <source>Header and 
 Footer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Header and 
-Footer</source>
-        <translation type="obsolete">ヘッダーとフッター</translation>
+        <translation type="unfinished">ヘッダーとフッター</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -5450,12 +5300,7 @@ Footer</source>
     <message>
         <source>Next
 Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next
-Page</source>
-        <translation type="obsolete">次ページ</translation>
+        <translation type="unfinished">次ページ</translation>
     </message>
     <message>
         <source>Next Page</source>
@@ -5484,12 +5329,7 @@ Page</source>
     <message>
         <source>Previous
 Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Previous
-Page</source>
-        <translation type="obsolete">前ページ</translation>
+        <translation type="unfinished">前ページ</translation>
     </message>
     <message>
         <source>Previous Page</source>
@@ -5502,22 +5342,12 @@ Page</source>
     <message>
         <source>Print
 Hidden Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print
-Hidden Slides</source>
-        <translation type="obsolete">非表示スライドを印刷する</translation>
+        <translation type="unfinished">非表示スライドを印刷する</translation>
     </message>
     <message>
         <source>Print 
 Directly</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print 
-Directly</source>
-        <translation type="obsolete">印刷の既定値で直接印刷</translation>
+        <translation type="unfinished">印刷の既定値で直接印刷</translation>
     </message>
     <message>
         <source>Print Directly</source>
@@ -5530,12 +5360,7 @@ Directly</source>
     <message>
         <source>Printing
 Order</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Printing
-Order</source>
-        <translation type="obsolete">印刷の順番</translation>
+        <translation type="unfinished">印刷の順番</translation>
     </message>
     <message>
         <source>Printing Order</source>
@@ -5613,12 +5438,7 @@ Order</source>
     <message>
         <source>Delete 
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete 
-Comment</source>
-        <translation type="obsolete">コメントの
+        <translation type="unfinished">コメントの
 削除</translation>
     </message>
     <message>
@@ -5632,12 +5452,7 @@ Comment</source>
     <message>
         <source>Edit
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit
-Comment</source>
-        <translation type="obsolete">コメントの
+        <translation type="unfinished">コメントの
 編集</translation>
     </message>
     <message>
@@ -5655,12 +5470,7 @@ Comment</source>
     <message>
         <source>New 
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New 
-Comment</source>
-        <translation type="obsolete">コメントの
+        <translation type="unfinished">コメントの
 挿入</translation>
     </message>
     <message>
@@ -5680,12 +5490,7 @@ Comment</source>
     <message>
         <source>Show/Hide
 Mark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show/Hide
-Mark</source>
-        <translation type="obsolete">変更履歴の
+        <translation type="unfinished">変更履歴の
 表示/非表示</translation>
     </message>
     <message>
@@ -5714,44 +5519,24 @@ Mark</source>
     <message>
         <source>3-D
 Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3Dの色</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Color</source>
-        <translation type="obsolete">3Dの色</translation>
-    </message>
-    <message>
-        <source>3-D
-Effects</source>
-        <translation type="obsolete">3D
+        <translation type="unfinished">3D
 スタイル</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation type="obsolete">3Dの表示/
+        <translation type="unfinished">3Dの表示/
 非表示</translation>
     </message>
     <message>
         <source>3-D 
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D 
-Effects</source>
-        <translation type="obsolete">3D</translation>
+        <translation type="unfinished">3D</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -5872,43 +5657,23 @@ Effects</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">影の色</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">影付きスタイル</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Color</source>
-        <translation type="obsolete">影の色</translation>
-    </message>
-    <message>
-        <source>Shadow
-Effects</source>
-        <translation type="obsolete">影付きスタイル</translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="obsolete">影の表示/
+        <translation type="unfinished">影の表示/
 非表示</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow 
-Effects</source>
-        <translation type="obsolete">影の設定</translation>
+        <translation type="unfinished">影の設定</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -6017,23 +5782,13 @@ Effects</source>
     <message>
         <source>Close
 Master View</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close
-Master View</source>
-        <translation type="obsolete">マスタ表示
+        <translation type="unfinished">マスタ表示
 を閉じる</translation>
     </message>
     <message>
         <source>Delete 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete 
-Master</source>
-        <translation type="obsolete">マスタの
+        <translation type="unfinished">マスタの
 削除</translation>
     </message>
     <message>
@@ -6063,12 +5818,7 @@ Master</source>
     <message>
         <source>Master 
 Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Master 
-Layout</source>
-        <translation type="obsolete">マスタの
+        <translation type="unfinished">マスタの
 レイアウト</translation>
     </message>
     <message>
@@ -6092,12 +5842,7 @@ Master</source>
     <message>
         <source>New Slide 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Slide 
-Master</source>
-        <translation type="obsolete">新しいスライド
+        <translation type="unfinished">新しいスライド
 マスタ</translation>
     </message>
     <message>
@@ -6107,12 +5852,7 @@ Master</source>
     <message>
         <source>New Title 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Title 
-Master</source>
-        <translation type="obsolete">新しいタイトル
+        <translation type="unfinished">新しいタイトル
 マスタ</translation>
     </message>
     <message>
@@ -6122,12 +5862,7 @@ Master</source>
     <message>
         <source>Preserve 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preserve 
-Master</source>
-        <translation type="obsolete">マスタの
+        <translation type="unfinished">マスタの
 ​​保護</translation>
     </message>
     <message>
@@ -6137,12 +5872,7 @@ Master</source>
     <message>
         <source>Rename 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rename 
-Master</source>
-        <translation type="obsolete">マスタの
+        <translation type="unfinished">マスタの
 ​​名前変更</translation>
     </message>
     <message>
@@ -6216,12 +5946,7 @@ Background Picture</source>
     <message>
         <source>Custom 
 Slide Shows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom 
-Slide Shows</source>
-        <translation type="obsolete">ユーザー設定
+        <translation type="unfinished">ユーザー設定
 スライドショー</translation>
     </message>
     <message>
@@ -6231,12 +5956,7 @@ Slide Shows</source>
     <message>
         <source>From
 Beginning</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From
-Beginning</source>
-        <translation type="obsolete">最初から</translation>
+        <translation type="unfinished">最初から</translation>
     </message>
     <message>
         <source>From Beginning</source>
@@ -6260,12 +5980,7 @@ Slide</source>
     <message>
         <source>Rehearse 
 Timings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rehearse 
-Timings</source>
-        <translation type="obsolete">リハーサル</translation>
+        <translation type="unfinished">リハーサル</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
@@ -6287,23 +6002,13 @@ Timings</source>
     <message>
         <source>Slide
 Transition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Transition</source>
-        <translation type="obsolete">スライド
+        <translation type="unfinished">スライド
 切り替え</translation>
     </message>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide Show
-Settings</source>
-        <translation type="obsolete">スライドショー
+        <translation type="unfinished">スライドショー
 の設定</translation>
     </message>
     <message>
@@ -6313,12 +6018,7 @@ Settings</source>
     <message>
         <source>Speaker
 Notes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Speaker
-Notes</source>
-        <translation type="obsolete">ノート</translation>
+        <translation type="unfinished">ノート</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
@@ -6515,12 +6215,7 @@ Notes</source>
     <message>
         <source>Merge
 Cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Merge
-Cells</source>
-        <translation type="obsolete">セルの
+        <translation type="unfinished">セルの
 結合</translation>
     </message>
     <message>
@@ -6590,12 +6285,7 @@ Cells</source>
     <message>
         <source>Split
 Cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Split
-Cells</source>
-        <translation type="obsolete">セルの
+        <translation type="unfinished">セルの
 分割</translation>
     </message>
     <message>
@@ -6625,12 +6315,7 @@ Cells</source>
     <message>
         <source>Text
 Direction</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text
-Direction</source>
-        <translation type="obsolete">文字
+        <translation type="unfinished">文字
 の方向</translation>
     </message>
     <message>
@@ -6651,12 +6336,7 @@ Direction</source>
     <message>
         <source>Arrange
 All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrange
-All</source>
-        <translation type="obsolete">並べて
+        <translation type="unfinished">並べて
 表示</translation>
     </message>
     <message>
@@ -6666,12 +6346,7 @@ All</source>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM
-Add-Ins</source>
-        <translation type="obsolete">COMプラグイン</translation>
+        <translation type="unfinished">COMプラグイン</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -6680,12 +6355,7 @@ Add-Ins</source>
     <message>
         <source>Close
 Other Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close
-Other Window</source>
-        <translation type="obsolete">他のタブを閉じる</translation>
+        <translation type="unfinished">他のタブを閉じる</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -6715,23 +6385,13 @@ Other Window</source>
     <message>
         <source>Fit to
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fit to
-Window</source>
-        <translation type="obsolete">ウィンドウ サイズ
+        <translation type="unfinished">ウィンドウ サイズ
 に合わせる</translation>
     </message>
     <message>
         <source>Grid and
 Guides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Grid and
-Guides</source>
-        <translation type="obsolete">グリッド
+        <translation type="unfinished">グリッド
 の設定</translation>
     </message>
     <message>
@@ -6761,12 +6421,7 @@ Guides</source>
     <message>
         <source>New
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New
-Window</source>
-        <translation type="obsolete">新しい
+        <translation type="unfinished">新しい
 タブを開く</translation>
     </message>
     <message>
@@ -6800,22 +6455,12 @@ Window</source>
     <message>
         <source>Slide 
 Master</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">マスタ</translation>
     </message>
     <message>
         <source>Slide 
 Sorter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide 
-Master</source>
-        <translation type="obsolete">マスタ</translation>
-    </message>
-    <message>
-        <source>Slide 
-Sorter</source>
-        <translation type="obsolete">スライド
+        <translation type="unfinished">スライド
 一覧</translation>
     </message>
     <message>
@@ -6829,12 +6474,7 @@ Sorter</source>
     <message>
         <source>Switch
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch
-Window</source>
-        <translation type="obsolete">タブの
+        <translation type="unfinished">タブの
 切り替え</translation>
     </message>
     <message>
@@ -6896,33 +6536,18 @@ Windows</source>
     <message>
         <source>3-D
 Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3Dの色</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Color</source>
-        <translation type="obsolete">3Dの色</translation>
-    </message>
-    <message>
-        <source>3-D
-Effects</source>
-        <translation type="obsolete">3D
+        <translation type="unfinished">3D
 スタイル</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation type="obsolete">3Dの表示/
+        <translation type="unfinished">3Dの表示/
 非表示</translation>
     </message>
     <message>
@@ -7043,40 +6668,25 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow
-Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
 Color</source>
         <translation type="obsolete">影の色</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="obsolete">影付き
+        <translation type="unfinished">影付き
 スタイル</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="obsolete">影の表示/
+        <translation type="unfinished">影の表示/
 非表示</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow 
-Effects</source>
-        <translation type="obsolete">影の
+        <translation type="unfinished">影の
 設定</translation>
     </message>
     <message>
@@ -7169,12 +6779,7 @@ Effects</source>
     <message>
         <source>3-D
 On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-On</source>
-        <translation type="obsolete">3Dの表示/非表示</translation>
+        <translation type="unfinished">3Dの表示/非表示</translation>
     </message>
     <message>
         <source>3-D On</source>
@@ -7291,12 +6896,7 @@ On</source>
     <message>
         <source>Character 
 Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Character 
-Spacing</source>
-        <translation type="obsolete">文字の
+        <translation type="unfinished">文字の
 間隔</translation>
     </message>
     <message>
@@ -7690,12 +7290,7 @@ Spacing</source>
     <message>
         <source>WordArt
 Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt
-Gallery</source>
-        <translation type="obsolete">アート文字
+        <translation type="unfinished">アート文字
 ギャラリー</translation>
     </message>
     <message>
@@ -7707,12 +7302,7 @@ Size</source>
     <message>
         <source>WordArt 
 Shape</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt 
-Shape</source>
-        <translation type="obsolete">アート文字
+        <translation type="unfinished">アート文字
 の形状</translation>
     </message>
     <message>
@@ -8324,12 +7914,7 @@ Add-Ins</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM 
-Add-Ins</source>
-        <translation type="obsolete">COMプラグイン</translation>
+        <translation type="unfinished">COMプラグイン</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -9135,12 +8720,7 @@ Template</source>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Slide
-Master</source>
-        <translation type="obsolete">新しいスライド
+        <translation type="unfinished">新しいスライド
 マスタ</translation>
     </message>
     <message>
@@ -11276,12 +10856,7 @@ AddIns</source>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current
-Slide</source>
-        <translation type="obsolete">現在の
+        <translation type="unfinished">現在の
 スライドから</translation>
     </message>
     <message>
@@ -12199,12 +11774,7 @@ Slide</source>
     <message>
         <source>Add
 Subordinate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add
-Subordinate</source>
-        <translation type="obsolete">下に図形
+        <translation type="unfinished">下に図形
 を追加</translation>
     </message>
     <message>
@@ -13191,12 +12761,7 @@ Subordinate</source>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Slide
-Master</source>
-        <translation type="obsolete">新しいスライド
+        <translation type="unfinished">新しいスライド
 マスタ</translation>
     </message>
     <message>
@@ -13264,23 +12829,13 @@ Slide</source>
     <message>
         <source>Slide
 Transition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Transition</source>
-        <translation type="obsolete">スライド
+        <translation type="unfinished">スライド
 切り替え</translation>
     </message>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide Show
-Settings</source>
-        <translation type="obsolete">スライドショー
+        <translation type="unfinished">スライドショー
 の設定</translation>
     </message>
     <message>
@@ -13479,11 +13034,6 @@ Settings</source>
     </message>
     <message>
         <source>Close
-Other Windows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close
 Other Window</source>
         <translation type="obsolete">他のウィンド
 うを閉じる</translation>
@@ -13491,7 +13041,7 @@ Other Window</source>
     <message>
         <source>Close
 Other Windows</source>
-        <translation type="obsolete">他のウィンド
+        <translation type="unfinished">他のウィンド
 うを閉じる</translation>
     </message>
     <message>
@@ -13517,12 +13067,7 @@ Other Windows</source>
     <message>
         <source>Fit
 </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fit
-</source>
-        <translation type="obsolete">ウィンドウ サイズに合わせる</translation>
+        <translation type="unfinished">ウィンドウ サイズに合わせる</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -13638,12 +13183,7 @@ Other Windows</source>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Effects</source>
-        <translation type="obsolete">3Dスタイル</translation>
+        <translation type="unfinished">3Dスタイル</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -13764,22 +13304,12 @@ Effects</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">影の色</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Color</source>
-        <translation type="obsolete">影の色</translation>
-    </message>
-    <message>
-        <source>Shadow
-Effects</source>
-        <translation type="obsolete">影付きスタイル</translation>
+        <translation type="unfinished">影付きスタイル</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -18146,23 +17676,13 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current
-Slide</source>
-        <translation type="obsolete">現在の
+        <translation type="unfinished">現在の
 スライドから</translation>
     </message>
     <message>
         <source>From Current 
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current 
-Slide</source>
-        <translation type="obsolete">現在の
+        <translation type="unfinished">現在の
 スライドから</translation>
     </message>
     <message>

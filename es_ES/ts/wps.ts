@@ -6232,6 +6232,14 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
         <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Choose Display and Help Languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageNumbers</name>

@@ -966,12 +966,7 @@
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit
-OLE DB Query</source>
-        <translation type="obsolete">編輯 OLE DB 查詢</translation>
+        <translation type="unfinished">編輯 OLE DB 查詢</translation>
     </message>
     <message>
         <source>Edit OLE DB Query</source>
@@ -1079,12 +1074,7 @@ OLE DB Query</source>
     <message>
         <source>Join and
 Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join and
-Center</source>
-        <translation type="obsolete">合併及置中</translation>
+        <translation type="unfinished">合併及置中</translation>
     </message>
     <message>
         <source>Join and Center</source>
@@ -1105,12 +1095,7 @@ Center</source>
     <message>
         <source>Merge and 
 Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Merge and 
-Center</source>
-        <translation type="obsolete">合併及置中</translation>
+        <translation type="unfinished">合併及置中</translation>
     </message>
     <message>
         <source>Merge and Center</source>
@@ -3092,12 +3077,7 @@ Center</source>
     <message>
         <source>Print 
 Directly</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print 
-Directly</source>
-        <translation type="obsolete">直接列印</translation>
+        <translation type="unfinished">直接列印</translation>
     </message>
     <message>
         <source>Print Directly</source>
@@ -3296,12 +3276,7 @@ Data</source>
     <message>
         <source>Task
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Task
-Window</source>
-        <translation type="obsolete">工作視窗</translation>
+        <translation type="unfinished">工作視窗</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -4117,12 +4092,7 @@ Window</source>
     <message>
         <source>Change
 Chart Type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change
-Chart Type</source>
-        <translation type="obsolete">變更圖表類型</translation>
+        <translation type="unfinished">變更圖表類型</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
@@ -4171,12 +4141,7 @@ Chart Type</source>
     <message>
         <source>Select
 Data</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select
-Data</source>
-        <translation type="obsolete">選取資料</translation>
+        <translation type="unfinished">選取資料</translation>
     </message>
     <message>
         <source>Select Content</source>
@@ -4189,22 +4154,12 @@ Data</source>
     <message>
         <source>Switch
 Column</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切換欄</translation>
     </message>
     <message>
         <source>Switch
 Row</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch
-Column</source>
-        <translation type="obsolete">切換欄</translation>
-    </message>
-    <message>
-        <source>Switch
-Row</source>
-        <translation type="obsolete">切換列</translation>
+        <translation type="unfinished">切換列</translation>
     </message>
     <message>
         <source>Switch Column</source>
@@ -4284,12 +4239,7 @@ Row</source>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit
-OLE DB Query</source>
-        <translation type="obsolete">編輯 OLE DB 查詢</translation>
+        <translation type="unfinished">編輯 OLE DB 查詢</translation>
     </message>
     <message>
         <source>Edit OLE DB Query</source>
@@ -4334,12 +4284,7 @@ OLE DB Query</source>
     <message>
         <source>Import 
 Data</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import 
-Data</source>
-        <translation type="obsolete">匯入資料</translation>
+        <translation type="unfinished">匯入資料</translation>
     </message>
     <message>
         <source>Import Data</source>
@@ -4364,12 +4309,7 @@ Data</source>
     <message>
         <source>Refresh 
 All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Refresh 
-All</source>
-        <translation type="obsolete">全部重新整理</translation>
+        <translation type="unfinished">全部重新整理</translation>
     </message>
     <message>
         <source>Refresh All</source>
@@ -4442,12 +4382,7 @@ All</source>
     <message>
         <source>Text to
 Columns</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text to
-Columns</source>
-        <translation type="obsolete">資料剖析</translation>
+        <translation type="unfinished">資料剖析</translation>
     </message>
     <message>
         <source>Text to Columns</source>
@@ -4478,12 +4413,7 @@ Columns</source>
     <message>
         <source>Clear
 Table Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear
-Table Style</source>
-        <translation type="obsolete">清除表格樣式</translation>
+        <translation type="unfinished">清除表格樣式</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
@@ -4527,12 +4457,7 @@ Table Style</source>
     <message>
         <source>Control 
 Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Control 
-Properties</source>
-        <translation type="obsolete">控制項屬性</translation>
+        <translation type="unfinished">控制項屬性</translation>
     </message>
     <message>
         <source>Control List</source>
@@ -4557,12 +4482,7 @@ Properties</source>
     <message>
         <source>Exit
 Design Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Exit
-Design Mode</source>
-        <translation type="obsolete">關閉設計模式</translation>
+        <translation type="unfinished">關閉設計模式</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
@@ -4639,12 +4559,7 @@ Design Mode</source>
     <message>
         <source>Visual Basic
 Editor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Visual Basic
-Editor</source>
-        <translation type="obsolete">Visual Basic編輯器</translation>
+        <translation type="unfinished">Visual Basic編輯器</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -4686,12 +4601,7 @@ AddIns</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM 
-Add-Ins</source>
-        <translation type="obsolete">COM 增益集</translation>
+        <translation type="unfinished">COM 增益集</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -4759,12 +4669,7 @@ Add-Ins</source>
     <message>
         <source>3-D
 On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-On</source>
-        <translation type="obsolete">立體設定</translation>
+        <translation type="unfinished">立體設定</translation>
     </message>
     <message>
         <source>3-D On</source>
@@ -5109,12 +5014,7 @@ On</source>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="obsolete">陰影設定</translation>
+        <translation type="unfinished">陰影設定</translation>
     </message>
     <message>
         <source>Shadow On</source>
@@ -5632,12 +5532,7 @@ On/Off</source>
     <message>
         <source>Date and
 Time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Date and
-Time</source>
-        <translation type="obsolete">日期及時間</translation>
+        <translation type="unfinished">日期及時間</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -5702,12 +5597,7 @@ Time</source>
     <message>
         <source>Insert
 Function</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert
-Function</source>
-        <translation type="obsolete">插入函數</translation>
+        <translation type="unfinished">插入函數</translation>
     </message>
     <message>
         <source>Insert Function</source>
@@ -5724,12 +5614,7 @@ Function</source>
     <message>
         <source>Lookup and
 Reference</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Lookup and
-Reference</source>
-        <translation type="obsolete">查閲與參照</translation>
+        <translation type="unfinished">查閲與參照</translation>
     </message>
     <message>
         <source>Lookup/Reference</source>
@@ -5748,12 +5633,7 @@ Trig</source>
     <message>
         <source>Math and
 Trig</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Math and
-Trig</source>
-        <translation type="obsolete">數學與三角</translation>
+        <translation type="unfinished">數學與三角</translation>
     </message>
     <message>
         <source>Math/Trig</source>
@@ -5770,12 +5650,7 @@ Trig</source>
     <message>
         <source>More
 Functions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More
-Functions</source>
-        <translation type="obsolete">其他函數</translation>
+        <translation type="unfinished">其他函數</translation>
     </message>
     <message>
         <source>More Functions</source>
@@ -5788,12 +5663,7 @@ Functions</source>
     <message>
         <source>Name
 Manager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name
-Manager</source>
-        <translation type="obsolete">名稱管理員</translation>
+        <translation type="unfinished">名稱管理員</translation>
     </message>
     <message>
         <source>Name Manager</source>
@@ -5806,12 +5676,7 @@ Manager</source>
     <message>
         <source>Recalculate
 Workbook</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recalculate
-Workbook</source>
-        <translation type="obsolete">重算活頁簿</translation>
+        <translation type="unfinished">重算活頁簿</translation>
     </message>
     <message>
         <source>Recalculate Active Book</source>
@@ -5820,12 +5685,7 @@ Workbook</source>
     <message>
         <source>Recently 
 Used</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recently 
-Used</source>
-        <translation type="obsolete">最近用過的函數</translation>
+        <translation type="unfinished">最近用過的函數</translation>
     </message>
     <message>
         <source>Recently Used</source>
@@ -6207,12 +6067,7 @@ Replace</source>
     <message>
         <source>Find and 
 Replace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Find and 
-Replace</source>
-        <translation type="obsolete">尋找及選取</translation>
+        <translation type="unfinished">尋找及選取</translation>
     </message>
     <message>
         <source>Find and Replace</source>
@@ -6241,12 +6096,7 @@ Replace</source>
     <message>
         <source>Format 
 Painter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format 
-Painter</source>
-        <translation type="obsolete">複製格式</translation>
+        <translation type="unfinished">複製格式</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -6359,12 +6209,7 @@ Painter</source>
     <message>
         <source>Join and
 Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join and
-Center</source>
-        <translation type="obsolete">合併及置中</translation>
+        <translation type="unfinished">合併及置中</translation>
     </message>
     <message>
         <source>Join and Center</source>
@@ -6546,12 +6391,7 @@ Center</source>
     <message>
         <source>Rows and 
 Columns</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rows and 
-Columns</source>
-        <translation type="obsolete">列與欄</translation>
+        <translation type="unfinished">列與欄</translation>
     </message>
     <message>
         <source>RowsAndColumn</source>
@@ -6814,12 +6654,7 @@ Properties</source>
     <message>
         <source>Control 
 Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Control 
-Properties</source>
-        <translation type="obsolete">控制項屬性</translation>
+        <translation type="unfinished">控制項屬性</translation>
     </message>
     <message>
         <source>Control Properties</source>
@@ -6884,12 +6719,7 @@ Properties</source>
     <message>
         <source>Header and 
 Footer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Header and 
-Footer</source>
-        <translation type="obsolete">頁首及頁尾</translation>
+        <translation type="unfinished">頁首及頁尾</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -7002,12 +6832,7 @@ Footer</source>
     <message>
         <source>Selection 
 Pane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Selection 
-Pane</source>
-        <translation type="obsolete">選取窗格</translation>
+        <translation type="unfinished">選取窗格</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -7100,12 +6925,7 @@ Forward</source>
     <message>
         <source>Bring 
 Forward</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bring 
-Forward</source>
-        <translation type="obsolete">上移一層</translation>
+        <translation type="unfinished">上移一層</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -7226,22 +7046,12 @@ Forward</source>
     <message>
         <source>Print
 Area</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">列印範圍</translation>
     </message>
     <message>
         <source>Print
 Titles</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print
-Area</source>
-        <translation type="obsolete">列印範圍</translation>
-    </message>
-    <message>
-        <source>Print
-Titles</source>
-        <translation type="obsolete">列印標題</translation>
+        <translation type="unfinished">列印標題</translation>
     </message>
     <message>
         <source>Print Area</source>
@@ -7287,12 +7097,7 @@ Backward</source>
     <message>
         <source>Send 
 Backward</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send 
-Backward</source>
-        <translation type="obsolete">下移一層</translation>
+        <translation type="unfinished">下移一層</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -7460,12 +7265,7 @@ Backward</source>
     <message>
         <source>Change
 Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change
-Picture</source>
-        <translation type="obsolete">變更圖片</translation>
+        <translation type="unfinished">變更圖片</translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -7478,12 +7278,7 @@ Picture</source>
     <message>
         <source>Compress
 Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Compress
-Pictures</source>
-        <translation type="obsolete">壓縮圖片</translation>
+        <translation type="unfinished">壓縮圖片</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -7712,12 +7507,7 @@ Pictures</source>
     <message>
         <source>Picture
 Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture
-Size</source>
-        <translation type="obsolete">圖片大小</translation>
+        <translation type="unfinished">圖片大小</translation>
     </message>
     <message>
         <source>Picture Adjust</source>
@@ -7742,12 +7532,7 @@ Size</source>
     <message>
         <source>Reset
 Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reset
-Picture</source>
-        <translation type="obsolete">重設圖片</translation>
+        <translation type="unfinished">重設圖片</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -7796,12 +7581,7 @@ Picture</source>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="obsolete">陰影設定</translation>
+        <translation type="unfinished">陰影設定</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -7921,12 +7701,7 @@ Repeat Item Labels</source>
     <message>
         <source>Field
 Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Field
-Settings</source>
-        <translation type="obsolete">欄位設定</translation>
+        <translation type="unfinished">欄位設定</translation>
     </message>
     <message>
         <source>Field Settings</source>
@@ -7939,22 +7714,12 @@ Settings</source>
     <message>
         <source>Hide
 Detail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide
-Detail</source>
-        <translation type="obsolete">隱藏詳細資料</translation>
+        <translation type="unfinished">隱藏詳細資料</translation>
     </message>
     <message>
         <source>Hide 
 Field List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide 
-Field List</source>
-        <translation type="obsolete">隱藏欄位清單</translation>
+        <translation type="unfinished">隱藏欄位清單</translation>
     </message>
     <message>
         <source>Hide Detail</source>
@@ -7971,12 +7736,7 @@ Field List</source>
     <message>
         <source>Modify
 PivotTable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Modify
-PivotTable</source>
-        <translation type="obsolete">修改樞紐分析表</translation>
+        <translation type="unfinished">修改樞紐分析表</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
@@ -8017,12 +7777,7 @@ PivotTable</source>
     <message>
         <source>PivotTable
 Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PivotTable
-Options</source>
-        <translation type="obsolete">樞紐分析表選項</translation>
+        <translation type="unfinished">樞紐分析表選項</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
@@ -8049,22 +7804,12 @@ Item Labels</source>
     <message>
         <source>Show
 Detail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show
-Detail</source>
-        <translation type="obsolete">顯示詳細資料</translation>
+        <translation type="unfinished">顯示詳細資料</translation>
     </message>
     <message>
         <source>Show 
 Field List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show 
-Field List</source>
-        <translation type="obsolete">顯示欄位清單</translation>
+        <translation type="unfinished">顯示欄位清單</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -8112,12 +7857,7 @@ Field List</source>
     <message>
         <source>Header and 
 Footer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Header and 
-Footer</source>
-        <translation type="obsolete">頁首及頁尾</translation>
+        <translation type="unfinished">頁首及頁尾</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -8134,12 +7874,7 @@ Footer</source>
     <message>
         <source>Next
 Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next
-Page</source>
-        <translation type="obsolete">下一頁</translation>
+        <translation type="unfinished">下一頁</translation>
     </message>
     <message>
         <source>Next Page</source>
@@ -8152,12 +7887,7 @@ Page</source>
     <message>
         <source>Normal
 View</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Normal
-View</source>
-        <translation type="obsolete">標準模式</translation>
+        <translation type="unfinished">標準模式</translation>
     </message>
     <message>
         <source>Normal View</source>
@@ -8166,22 +7896,12 @@ View</source>
     <message>
         <source>Page
 Setup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page
-Setup</source>
-        <translation type="obsolete">設定列印格式</translation>
+        <translation type="unfinished">設定列印格式</translation>
     </message>
     <message>
         <source>Page Break
 Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page Break
-Preview</source>
-        <translation type="obsolete">分頁預覽</translation>
+        <translation type="unfinished">分頁預覽</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -8202,12 +7922,7 @@ Preview</source>
     <message>
         <source>Previous
 Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Previous
-Page</source>
-        <translation type="obsolete">上一頁</translation>
+        <translation type="unfinished">上一頁</translation>
     </message>
     <message>
         <source>Previous Page</source>
@@ -8276,12 +7991,7 @@ Directly</source>
     <message>
         <source>Delete 
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete 
-Comment</source>
-        <translation type="obsolete">刪除註解</translation>
+        <translation type="unfinished">刪除註解</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -8290,12 +8000,7 @@ Comment</source>
     <message>
         <source>Edit
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit
-Comment</source>
-        <translation type="obsolete">編輯註解</translation>
+        <translation type="unfinished">編輯註解</translation>
     </message>
     <message>
         <source>Edit Comment</source>
@@ -8312,12 +8017,7 @@ Comment</source>
     <message>
         <source>New 
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New 
-Comment</source>
-        <translation type="obsolete">註解</translation>
+        <translation type="unfinished">註解</translation>
     </message>
     <message>
         <source>New Comment</source>
@@ -8330,22 +8030,12 @@ Comment</source>
     <message>
         <source>Protect
 Workbook</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protect
-Workbook</source>
-        <translation type="obsolete">保護活頁簿</translation>
+        <translation type="unfinished">保護活頁簿</translation>
     </message>
     <message>
         <source>Protect 
 Sheet</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protect 
-Sheet</source>
-        <translation type="obsolete">保護工作表</translation>
+        <translation type="unfinished">保護工作表</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
@@ -8370,12 +8060,7 @@ Sheet</source>
     <message>
         <source>Share
 Workbook</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Share
-Workbook</source>
-        <translation type="obsolete">共用活頁簿</translation>
+        <translation type="unfinished">共用活頁簿</translation>
     </message>
     <message>
         <source>Share Workbook</source>
@@ -8392,12 +8077,7 @@ Workbook</source>
     <message>
         <source>Track
 Changes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Track
-Changes</source>
-        <translation type="obsolete">追蹤修訂</translation>
+        <translation type="unfinished">追蹤修訂</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -8455,32 +8135,17 @@ Workbook</source>
     <message>
         <source>3-D
 Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">色彩</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Color</source>
-        <translation type="obsolete">色彩</translation>
-    </message>
-    <message>
-        <source>3-D
-On/Off</source>
-        <translation type="obsolete">3-D開/關</translation>
+        <translation type="unfinished">3-D開/關</translation>
     </message>
     <message>
         <source>3-D 
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D 
-Effects</source>
-        <translation type="obsolete">3-D效果</translation>
+        <translation type="unfinished">3-D效果</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -8617,32 +8282,17 @@ Effects</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">陰影顏色</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Color</source>
-        <translation type="obsolete">陰影顏色</translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="obsolete">陰影設定</translation>
+        <translation type="unfinished">陰影設定</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow 
-Effects</source>
-        <translation type="obsolete">陰影效果</translation>
+        <translation type="unfinished">陰影效果</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -8706,12 +8356,7 @@ Effects</source>
     <message>
         <source>Arrange
 All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrange
-All</source>
-        <translation type="obsolete">重排視窗</translation>
+        <translation type="unfinished">重排視窗</translation>
     </message>
     <message>
         <source>Arrange All</source>
@@ -8724,12 +8369,7 @@ All</source>
     <message>
         <source>Close
 Other Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close
-Other Window</source>
-        <translation type="obsolete">關閉
+        <translation type="unfinished">關閉
 其他視窗</translation>
     </message>
     <message>
@@ -8775,12 +8415,7 @@ Other Window</source>
     <message>
         <source>Full 
 Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Full 
-Screen</source>
-        <translation type="obsolete">全螢幕</translation>
+        <translation type="unfinished">全螢幕</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -8817,12 +8452,7 @@ Screen</source>
     <message>
         <source>New
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New
-Window</source>
-        <translation type="obsolete">開新視窗</translation>
+        <translation type="unfinished">開新視窗</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -8835,12 +8465,7 @@ Window</source>
     <message>
         <source>Page Break 
 Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page Break 
-Preview</source>
-        <translation type="obsolete">分頁預覽</translation>
+        <translation type="unfinished">分頁預覽</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -8857,12 +8482,7 @@ Preview</source>
     <message>
         <source>Reading
 Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reading
-Layout</source>
-        <translation type="obsolete">閱讀模式</translation>
+        <translation type="unfinished">閱讀模式</translation>
     </message>
     <message>
         <source>Reading Layout</source>
@@ -8950,12 +8570,7 @@ Layout</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM 
-Add-Ins</source>
-        <translation type="obsolete">COM 增益集</translation>
+        <translation type="unfinished">COM 增益集</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -9002,32 +8617,17 @@ Add-Ins</source>
     <message>
         <source>3-D
 Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">色彩</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3-D效果</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Color</source>
-        <translation type="obsolete">色彩</translation>
-    </message>
-    <message>
-        <source>3-D
-Effects</source>
-        <translation type="obsolete">3-D效果</translation>
-    </message>
-    <message>
-        <source>3-D
-On/Off</source>
-        <translation type="obsolete">3-D開/關</translation>
+        <translation type="unfinished">3-D開/關</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -9164,32 +8764,17 @@ On/Off</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">陰影顏色</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Color</source>
-        <translation type="obsolete">陰影顏色</translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="obsolete">陰影設定</translation>
+        <translation type="unfinished">陰影設定</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow 
-Effects</source>
-        <translation type="obsolete">陰影效果</translation>
+        <translation type="unfinished">陰影效果</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -9309,12 +8894,7 @@ Effects</source>
     <message>
         <source>3-D
 On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-On</source>
-        <translation type="obsolete">立體設定</translation>
+        <translation type="unfinished">立體設定</translation>
     </message>
     <message>
         <source>3-D On</source>
@@ -9443,12 +9023,7 @@ On</source>
     <message>
         <source>Character 
 Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Character 
-Spacing</source>
-        <translation type="obsolete">字元間距</translation>
+        <translation type="unfinished">字元間距</translation>
     </message>
     <message>
         <source>Character Spacing</source>
@@ -9858,12 +9433,7 @@ Spacing</source>
     <message>
         <source>WordArt
 Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt
-Gallery</source>
-        <translation type="obsolete">文字藝術師圖庫</translation>
+        <translation type="unfinished">文字藝術師圖庫</translation>
     </message>
     <message>
         <source>WordArt
@@ -9873,12 +9443,7 @@ Size</source>
     <message>
         <source>WordArt 
 Shape</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt 
-Shape</source>
-        <translation type="obsolete">藝術字形狀</translation>
+        <translation type="unfinished">藝術字形狀</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
@@ -10472,12 +10037,7 @@ Shape</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM 
-Add-Ins</source>
-        <translation type="obsolete">COM 增益集</translation>
+        <translation type="unfinished">COM 增益集</translation>
     </message>
     <message>
         <source>COM Plug-Ins</source>
@@ -12263,12 +11823,7 @@ Add-Ins</source>
     <message>
         <source>Change
 Chart Type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change
-Chart Type</source>
-        <translation type="obsolete">變更
+        <translation type="unfinished">變更
 圖表類型</translation>
     </message>
     <message>
@@ -12401,12 +11956,7 @@ Chart Type</source>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit
-OLE DB Query</source>
-        <translation type="obsolete">編輯 OLE DB 查詢</translation>
+        <translation type="unfinished">編輯 OLE DB 查詢</translation>
     </message>
     <message>
         <source>Edit OLE DB Query</source>
@@ -12722,12 +12272,7 @@ OLE DB Query</source>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM
-Add-Ins</source>
-        <translation type="obsolete">COM 增益集</translation>
+        <translation type="unfinished">COM 增益集</translation>
     </message>
     <message>
         <source>COM
@@ -13626,12 +13171,7 @@ AddIns</source>
     <message>
         <source>Date and
 Time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Date and
-Time</source>
-        <translation type="obsolete">日期及時間</translation>
+        <translation type="unfinished">日期及時間</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -13708,12 +13248,7 @@ Time</source>
     <message>
         <source>Lookup and
 Reference</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Lookup and
-Reference</source>
-        <translation type="obsolete">查閲與參照</translation>
+        <translation type="unfinished">查閲與參照</translation>
     </message>
     <message>
         <source>Lookup/Reference</source>
@@ -13732,12 +13267,7 @@ Trig</source>
     <message>
         <source>Math and
 Trig</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Math and
-Trig</source>
-        <translation type="obsolete">數學與三角</translation>
+        <translation type="unfinished">數學與三角</translation>
     </message>
     <message>
         <source>Math/Trig</source>
@@ -14334,12 +13864,7 @@ Center</source>
     <message>
         <source>Merge and
 Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Merge and
-Center</source>
-        <translation type="obsolete">合併及置中</translation>
+        <translation type="unfinished">合併及置中</translation>
     </message>
     <message>
         <source>Merge and Center</source>
@@ -16166,11 +15691,6 @@ Item Labels</source>
     </message>
     <message>
         <source>Close
-Other Windows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close
 Other Window</source>
         <translation type="obsolete">關閉
 其他視窗</translation>
@@ -16178,7 +15698,7 @@ Other Window</source>
     <message>
         <source>Close
 Other Windows</source>
-        <translation type="obsolete">關閉其他視窗</translation>
+        <translation type="unfinished">關閉其他視窗</translation>
     </message>
     <message>
         <source>Close Other Window</source>
@@ -16514,12 +16034,7 @@ Other Windows</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Color</source>
-        <translation type="obsolete">陰影顏色</translation>
+        <translation type="unfinished">陰影顏色</translation>
     </message>
     <message>
         <source>Shadow Color</source>

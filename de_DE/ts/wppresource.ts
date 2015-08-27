@@ -1826,12 +1826,7 @@ Master</source>
     <message>
         <source>Animation
 Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Animation
-Schemes</source>
-        <translation type="obsolete">Animationen</translation>
+        <translation type="unfinished">Animationen</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
@@ -1840,12 +1835,7 @@ Schemes</source>
     <message>
         <source>Custom
 Animation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom
-Animation</source>
-        <translation type="obsolete">Benutzerdefinierte Animation</translation>
+        <translation type="unfinished">Benutzerdefinierte Animation</translation>
     </message>
     <message>
         <source>Custom Animation</source>
@@ -1866,12 +1856,7 @@ Animation</source>
     <message>
         <source>Transition
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Transition
-Effects</source>
-        <translation type="obsolete">Übergangseffekt</translation>
+        <translation type="unfinished">Übergangseffekt</translation>
     </message>
     <message>
         <source>Transition Effect</source>
@@ -1891,12 +1876,7 @@ Effects</source>
     <message>
         <source>Color
 Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color
-Schemes</source>
-        <translation type="obsolete">Farbschema</translation>
+        <translation type="unfinished">Farbschema</translation>
     </message>
     <message>
         <source>Color Schemes</source>
@@ -1913,12 +1893,7 @@ Schemes</source>
     <message>
         <source>Edit
 Slide Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit
-Slide Master</source>
-        <translation type="obsolete">Folienmaster bearbeiten</translation>
+        <translation type="unfinished">Folienmaster bearbeiten</translation>
     </message>
     <message>
         <source>Edit Slide Master</source>
@@ -1944,12 +1919,7 @@ Template</source>
     <message>
         <source>Page
 Setup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page
-Setup</source>
-        <translation type="obsolete">Seite einrichten</translation>
+        <translation type="unfinished">Seite einrichten</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -1970,22 +1940,12 @@ Setup</source>
     <message>
         <source>Slide
 Layout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Folienlayout</translation>
     </message>
     <message>
         <source>Slide
 Orientation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Layout</source>
-        <translation type="obsolete">Folienlayout</translation>
-    </message>
-    <message>
-        <source>Slide
-Orientation</source>
-        <translation type="obsolete">Folienorientierung</translation>
+        <translation type="unfinished">Folienorientierung</translation>
     </message>
     <message>
         <source>Slide Layout</source>
@@ -3078,12 +3038,7 @@ On</source>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Effects</source>
-        <translation type="obsolete">3D-Stil</translation>
+        <translation type="unfinished">3D-Stil</translation>
     </message>
     <message>
         <source>3-D Style</source>
@@ -3349,12 +3304,7 @@ Effects</source>
     <message>
         <source>Format 
 Painter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format 
-Painter</source>
-        <translation type="obsolete">Format übertragen</translation>
+        <translation type="unfinished">Format übertragen</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -3379,22 +3329,12 @@ Painter</source>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current
-Slide</source>
-        <translation type="obsolete">Aus aktueller Folie</translation>
+        <translation type="unfinished">Aus aktueller Folie</translation>
     </message>
     <message>
         <source>From Current 
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current 
-Slide</source>
-        <translation type="obsolete">Aus aktueller Folie</translation>
+        <translation type="unfinished">Aus aktueller Folie</translation>
     </message>
     <message>
         <source>From Current Slide</source>
@@ -3664,12 +3604,7 @@ Pane</source>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Effects</source>
-        <translation type="obsolete">Schattenstil</translation>
+        <translation type="unfinished">Schattenstil</translation>
     </message>
     <message>
         <source>Shadow Style</source>
@@ -3811,12 +3746,7 @@ Effects</source>
     <message>
         <source>Background
 Music</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Background
-Music</source>
-        <translation type="obsolete">Hintergrundmusik</translation>
+        <translation type="unfinished">Hintergrundmusik</translation>
     </message>
     <message>
         <source>Background Music</source>
@@ -3877,12 +3807,7 @@ Music</source>
     <message>
         <source>Header and 
 Footer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Header and 
-Footer</source>
-        <translation type="obsolete">Kopf- und Fußzeile</translation>
+        <translation type="unfinished">Kopf- und Fußzeile</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -3971,12 +3896,7 @@ Footer</source>
     <message>
         <source>Organization
 Chart</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Organization
-Chart</source>
-        <translation type="obsolete">Organigramm</translation>
+        <translation type="unfinished">Organigramm</translation>
     </message>
     <message>
         <source>Organization Chart</source>
@@ -4009,12 +3929,7 @@ Chart</source>
     <message>
         <source>Slide
 Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Number</source>
-        <translation type="obsolete">Folienzahl</translation>
+        <translation type="unfinished">Folienzahl</translation>
     </message>
     <message>
         <source>Slide Number</source>
@@ -4938,12 +4853,7 @@ Order</source>
     <message>
         <source>Delete 
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete 
-Comment</source>
-        <translation type="obsolete">Kommentar löschen</translation>
+        <translation type="unfinished">Kommentar löschen</translation>
     </message>
     <message>
         <source>Delete All Mark in this Presentation</source>
@@ -4960,12 +4870,7 @@ Comment</source>
     <message>
         <source>Edit
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit
-Comment</source>
-        <translation type="obsolete">Kommentar bearbeiten</translation>
+        <translation type="unfinished">Kommentar bearbeiten</translation>
     </message>
     <message>
         <source>Edit Comment</source>
@@ -4986,12 +4891,7 @@ Comment</source>
     <message>
         <source>New 
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New 
-Comment</source>
-        <translation type="obsolete">Neuer Kommentar</translation>
+        <translation type="unfinished">Neuer Kommentar</translation>
     </message>
     <message>
         <source>New Comment</source>
@@ -5024,12 +4924,7 @@ Comment</source>
     <message>
         <source>Show/Hide
 Mark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show/Hide
-Mark</source>
-        <translation type="obsolete">Marke zeigen/verstecken</translation>
+        <translation type="unfinished">Marke zeigen/verstecken</translation>
     </message>
     <message>
         <source>Show/Hide Mark</source>
@@ -5186,17 +5081,12 @@ Color</source>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schattenstil</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Effects</source>
-        <translation type="obsolete">Schattenstil</translation>
     </message>
     <message>
         <source>Shadow 
@@ -5402,12 +5292,7 @@ Master</source>
     <message>
         <source>Custom 
 Slide Shows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom 
-Slide Shows</source>
-        <translation type="obsolete">Benutzerdefiniert</translation>
+        <translation type="unfinished">Benutzerdefiniert</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
@@ -5416,12 +5301,7 @@ Slide Shows</source>
     <message>
         <source>From
 Beginning</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From
-Beginning</source>
-        <translation type="obsolete">Von Beginn an</translation>
+        <translation type="unfinished">Von Beginn an</translation>
     </message>
     <message>
         <source>From Beginning</source>
@@ -5444,12 +5324,7 @@ Folie</translation>
     <message>
         <source>Rehearse 
 Timings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rehearse 
-Timings</source>
-        <translation type="obsolete">Einblendezeiten testen</translation>
+        <translation type="unfinished">Einblendezeiten testen</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
@@ -5470,22 +5345,12 @@ Timings</source>
     <message>
         <source>Slide
 Transition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Transition</source>
-        <translation type="obsolete">Folienübergang</translation>
+        <translation type="unfinished">Folienübergang</translation>
     </message>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide Show
-Settings</source>
-        <translation type="obsolete">Bildschirmpräsentationseinstellungen</translation>
+        <translation type="unfinished">Bildschirmpräsentationseinstellungen</translation>
     </message>
     <message>
         <source>Slide Show From Beginning</source>
@@ -5498,12 +5363,7 @@ Settings</source>
     <message>
         <source>Speaker
 Notes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Speaker
-Notes</source>
-        <translation type="obsolete">Sprechernotizen</translation>
+        <translation type="unfinished">Sprechernotizen</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
@@ -5789,12 +5649,7 @@ Direction</source>
     <message>
         <source>Arrange
 All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrange
-All</source>
-        <translation type="obsolete">Alle anordnen</translation>
+        <translation type="unfinished">Alle anordnen</translation>
     </message>
     <message>
         <source>Arrange All</source>
@@ -5803,12 +5658,7 @@ All</source>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM
-Add-Ins</source>
-        <translation type="obsolete">COM Erweiterungen</translation>
+        <translation type="unfinished">COM Erweiterungen</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -5821,12 +5671,7 @@ Add-Ins</source>
     <message>
         <source>Close
 Other Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close
-Other Window</source>
-        <translation type="obsolete">Andere
+        <translation type="unfinished">Andere
 Fenster schließen</translation>
     </message>
     <message>
@@ -5852,22 +5697,12 @@ Fenster schließen</translation>
     <message>
         <source>Fit to
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fit to
-Window</source>
-        <translation type="obsolete">Anpassen</translation>
+        <translation type="unfinished">Anpassen</translation>
     </message>
     <message>
         <source>Grid and
 Guides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Grid and
-Guides</source>
-        <translation type="obsolete">Raster und Hilfslinien</translation>
+        <translation type="unfinished">Raster und Hilfslinien</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -5896,12 +5731,7 @@ Guides</source>
     <message>
         <source>New
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New
-Window</source>
-        <translation type="obsolete">Neues Fenster</translation>
+        <translation type="unfinished">Neues Fenster</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -5934,22 +5764,12 @@ Window</source>
     <message>
         <source>Slide 
 Master</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Folienmaster</translation>
     </message>
     <message>
         <source>Slide 
 Sorter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide 
-Master</source>
-        <translation type="obsolete">Folienmaster</translation>
-    </message>
-    <message>
-        <source>Slide 
-Sorter</source>
-        <translation type="obsolete">Foliensortierung</translation>
+        <translation type="unfinished">Foliensortierung</translation>
     </message>
     <message>
         <source>Slide Master</source>
@@ -5962,12 +5782,7 @@ Sorter</source>
     <message>
         <source>Switch
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch
-Window</source>
-        <translation type="obsolete">Fenster wechseln</translation>
+        <translation type="unfinished">Fenster wechseln</translation>
     </message>
     <message>
         <source>Switch
@@ -6147,17 +5962,12 @@ On/Off</source>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schattenstil</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Effects</source>
-        <translation type="obsolete">Schattenstil</translation>
     </message>
     <message>
         <source>Shadow 
@@ -7153,12 +6963,7 @@ Add-Ins</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM 
-Add-Ins</source>
-        <translation type="obsolete">COM Erweiterungen</translation>
+        <translation type="unfinished">COM Erweiterungen</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -7908,12 +7713,7 @@ Template</source>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Slide
-Master</source>
-        <translation type="obsolete">Neuer
+        <translation type="unfinished">Neuer
 Folienmaster</translation>
     </message>
     <message>
@@ -12052,12 +11852,7 @@ Color</source>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Effects</source>
-        <translation type="obsolete">Schattenstil</translation>
+        <translation type="unfinished">Schattenstil</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
@@ -14667,23 +14462,13 @@ Effects</source>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current
-Slide</source>
-        <translation type="obsolete">Aus aktueller
+        <translation type="unfinished">Aus aktueller
 Folie</translation>
     </message>
     <message>
         <source>From Current 
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current 
-Slide</source>
-        <translation type="obsolete">Aus aktueller Folie</translation>
+        <translation type="unfinished">Aus aktueller Folie</translation>
     </message>
     <message>
         <source>From Current Slide</source>

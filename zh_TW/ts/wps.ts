@@ -7149,6 +7149,14 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Choose Display and Help Languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageNumbers</name>

@@ -115,6 +115,10 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>WPS Cloud.lnk</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>WPS Office.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -309,6 +313,21 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     </message>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KOther</name>
+    <message>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &quot;Upload to WPS Office Cloud&quot; on the Context Menu.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1162,10 +1181,6 @@ The button icon, command group and task window position of each scheme are diffe
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Download updates but let me choose whether to install them</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Internet Connection:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1244,6 +1259,10 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>The port must be a number between 1 and 65535.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check for update, but let me choose whether to &amp;download and install them</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

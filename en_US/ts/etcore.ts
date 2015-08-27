@@ -3562,11 +3562,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
-        <comment>COMBIN_GRAMMER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_SYNTAX</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -4616,11 +4611,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>LTRIM(text)</source>
-        <comment>LTRIM_GRAMMER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Logical</source>
         <comment>FuncCatName10</comment>
         <translation type="unfinished"></translation>
@@ -5041,11 +5031,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>RTRIM(text)</source>
-        <comment>RTRIM_GRAMMER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Recently Used</source>
         <comment>FuncCatName01</comment>
         <translation type="unfinished"></translation>
@@ -5053,16 +5038,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Removes all nonprintable characters from text.</source>
         <comment>CLEAN_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Removes left spaces of the specified text string.</source>
-        <comment>LTRIM_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Removes right spaces of the specified text string.</source>
-        <comment>RTRIM_REMARK</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5858,11 +5833,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number of columns in an array or reference.</source>
         <comment>COLUMNS_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Returns the number of combinations for a given number of elements.</source>
-        <comment>COMBIN_REMARK</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -4065,16 +4065,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>COMBIN(number,number_chosen)</source>
-        <comment>COMBIN_GRAMMER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Returns the number of combinations for a given number of elements.</source>
-        <comment>COMBIN_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>COVAR(array1,array2)</source>
         <comment>COVAR_GRAMMER</comment>
         <translation type="unfinished"></translation>
@@ -5125,16 +5115,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>LTRIM(text)</source>
-        <comment>LTRIM_GRAMMER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Removes left spaces of the specified text string.</source>
-        <comment>LTRIM_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>MID(text,start_num,num_chars)</source>
         <comment>MID_GRAMMER</comment>
         <translation type="unfinished"></translation>
@@ -5172,16 +5152,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the specified number of characters from the end of a text string.</source>
         <comment>RIGHT_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>RTRIM(text)</source>
-        <comment>RTRIM_GRAMMER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Removes right spaces of the specified text string.</source>
-        <comment>RTRIM_REMARK</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>

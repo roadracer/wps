@@ -115,6 +115,10 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>WPS Cloud.lnk</source>
         <translation type="unfinished">WPS Cloud.lnk</translation>
     </message>
+    <message>
+        <source>WPS Office.lnk</source>
+        <translation type="unfinished">WPS Office.lnk</translation>
+    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -316,6 +320,21 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>An error occurred when repairing, please retry.</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KOther</name>
+    <message>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &quot;Upload to WPS Office Cloud&quot; on the Context Menu.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1238,7 +1257,7 @@ Pictograma butonului, comanda grupează și poziția ferestrei de sarcini ale fi
     </message>
     <message>
         <source>&amp;Download updates but let me choose whether to install them</source>
-        <translation>&amp;Descarcă actualizări dar lasă-mă să aleg când să le instalez</translation>
+        <translation type="obsolete">&amp;Descarcă actualizări dar lasă-mă să aleg când să le instalez</translation>
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>
@@ -1323,6 +1342,10 @@ Pictograma butonului, comanda grupează și poziția ferestrei de sarcini ale fi
     </message>
     <message>
         <source>Recommended new releases</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check for update, but let me choose whether to &amp;download and install them</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

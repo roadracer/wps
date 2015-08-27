@@ -5616,7 +5616,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
-        <translation>KOMBINATIONEN(Zahl,gewählte_Zahl)</translation>
+        <translation type="obsolete">KOMBINATIONEN(Zahl,gewählte_Zahl)</translation>
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
@@ -6687,7 +6687,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation>GLÄTTEN(Text)</translation>
+        <translation type="obsolete">GLÄTTEN(Text)</translation>
     </message>
     <message>
         <source>Logical</source>
@@ -7113,7 +7113,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation>RGLÄTTEN(Text)</translation>
+        <translation type="obsolete">RGLÄTTEN(Text)</translation>
     </message>
     <message>
         <source>Recently Used</source>
@@ -7128,12 +7128,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
-        <translation>Löscht linke Leerzeichen in einem Text.</translation>
+        <translation type="obsolete">Löscht linke Leerzeichen in einem Text.</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
-        <translation>Löscht rechte Leerzeichen in einem Text.</translation>
+        <translation type="obsolete">Löscht rechte Leerzeichen in einem Text.</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string.</source>
@@ -7959,7 +7959,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
-        <translation>Gibt die Anzahl der Kombinationen ohne Kombinationen ohne Wiederholung von k Elementen aus einer Menge von n Elementen zurück..</translation>
+        <translation type="obsolete">Gibt die Anzahl der Kombinationen ohne Kombinationen ohne Wiederholung von k Elementen aus einer Menge von n Elementen zurück..</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of items.</source>

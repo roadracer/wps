@@ -4113,7 +4113,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
-        <translation>COMBIN(number,number_chosen)</translation>
+        <translation type="obsolete">COMBIN(number,number_chosen)</translation>
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
@@ -5198,7 +5198,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation>LTRIM(text)</translation>
+        <translation type="obsolete">LTRIM(text)</translation>
     </message>
     <message>
         <source>Logical</source>
@@ -5623,7 +5623,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation>RTRIM(text)</translation>
+        <translation type="obsolete">RTRIM(text)</translation>
     </message>
     <message>
         <source>Recently Used</source>
@@ -5638,12 +5638,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
-        <translation>テキストの左側の空白を削除します。</translation>
+        <translation type="obsolete">テキストの左側の空白を削除します。</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
-        <translation>テキストの右側の空白を削除します。</translation>
+        <translation type="obsolete">テキストの右側の空白を削除します。</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string.</source>
@@ -6463,7 +6463,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
-        <translation>順不同で、指定された個数の対象から指定された数の対象を抽出する組み合わせを返します。</translation>
+        <translation type="obsolete">順不同で、指定された個数の対象から指定された数の対象を抽出する組み合わせを返します。</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of items.</source>

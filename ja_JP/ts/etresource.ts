@@ -870,12 +870,7 @@
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit
-OLE DB Query</source>
-        <translation type="obsolete">OLE
+        <translation type="unfinished">OLE
 DB クエリの編集</translation>
     </message>
     <message>
@@ -980,12 +975,7 @@ DB クエリの編集</translation>
     <message>
         <source>Join and
 Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join and
-Center</source>
-        <translation type="obsolete">セルを結合して
+        <translation type="unfinished">セルを結合して
 中央寄せ</translation>
     </message>
     <message>
@@ -999,12 +989,7 @@ Center</source>
     <message>
         <source>Merge and 
 Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Merge and 
-Center</source>
-        <translation type="obsolete">セルを結合して
+        <translation type="unfinished">セルを結合して
 中央寄せ</translation>
     </message>
     <message>
@@ -2823,12 +2808,7 @@ Center</source>
     <message>
         <source>Print 
 Directly</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print 
-Directly</source>
-        <translation type="obsolete">印刷の既定値で直接印刷</translation>
+        <translation type="unfinished">印刷の既定値で直接印刷</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -3011,12 +2991,7 @@ Data</source>
     <message>
         <source>Task
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Task
-Window</source>
-        <translation type="obsolete">ワーク
+        <translation type="unfinished">ワーク
 ウィンドウ</translation>
     </message>
     <message>
@@ -3769,12 +3744,7 @@ Window</source>
     <message>
         <source>Change
 Chart Type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change
-Chart Type</source>
-        <translation type="obsolete">グラフの種類
+        <translation type="unfinished">グラフの種類
 の変更</translation>
     </message>
     <message>
@@ -3825,12 +3795,7 @@ Chart Type</source>
     <message>
         <source>Select
 Data</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select
-Data</source>
-        <translation type="obsolete">データの
+        <translation type="unfinished">データの
 選択</translation>
     </message>
     <message>
@@ -3844,23 +3809,13 @@ Data</source>
     <message>
         <source>Switch
 Column</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch
-Row</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch
-Column</source>
-        <translation type="obsolete">列の
+        <translation type="unfinished">列の
 切り替え</translation>
     </message>
     <message>
         <source>Switch
 Row</source>
-        <translation type="obsolete">行の
+        <translation type="unfinished">行の
 切り替え</translation>
     </message>
     <message>
@@ -3931,12 +3886,7 @@ Row</source>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit
-OLE DB Query</source>
-        <translation type="obsolete">OLE
+        <translation type="unfinished">OLE
 DB クエリの編集</translation>
     </message>
     <message>
@@ -3982,12 +3932,7 @@ DB クエリの編集</translation>
     <message>
         <source>Import 
 Data</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import 
-Data</source>
-        <translation type="obsolete">データのインポート</translation>
+        <translation type="unfinished">データのインポート</translation>
     </message>
     <message>
         <source>Import Data</source>
@@ -4009,12 +3954,7 @@ Data</source>
     <message>
         <source>Refresh 
 All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Refresh 
-All</source>
-        <translation type="obsolete">すべて更新</translation>
+        <translation type="unfinished">すべて更新</translation>
     </message>
     <message>
         <source>Refresh All</source>
@@ -4075,12 +4015,7 @@ All</source>
     <message>
         <source>Text to
 Columns</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text to
-Columns</source>
-        <translation type="obsolete">区切り
+        <translation type="unfinished">区切り
 位置</translation>
     </message>
     <message>
@@ -4113,12 +4048,7 @@ Columns</source>
     <message>
         <source>Clear
 Table Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear
-Table Style</source>
-        <translation type="obsolete">表のスタイル
+        <translation type="unfinished">表のスタイル
 をクリア</translation>
     </message>
     <message>
@@ -4155,12 +4085,7 @@ Table Style</source>
     <message>
         <source>Control 
 Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Control 
-Properties</source>
-        <translation type="obsolete">プロパティ</translation>
+        <translation type="unfinished">プロパティ</translation>
     </message>
     <message>
         <source>Control List</source>
@@ -4181,12 +4106,7 @@ Properties</source>
     <message>
         <source>Exit
 Design Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Exit
-Design Mode</source>
-        <translation type="obsolete">デザインモード
+        <translation type="unfinished">デザインモード
 の終了</translation>
     </message>
     <message>
@@ -4267,12 +4187,7 @@ Design Mode</source>
     <message>
         <source>Visual Basic
 Editor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Visual Basic
-Editor</source>
-        <translation type="obsolete">Visual Basic
+        <translation type="unfinished">Visual Basic
 エディター</translation>
     </message>
     <message>
@@ -4310,12 +4225,7 @@ AddIns</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM 
-Add-Ins</source>
-        <translation type="obsolete">COM
+        <translation type="unfinished">COM
 プラグイン</translation>
     </message>
 </context>
@@ -4352,12 +4262,7 @@ Add-Ins</source>
     <message>
         <source>3-D
 On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-On</source>
-        <translation type="obsolete">3Dの表示/非表示</translation>
+        <translation type="unfinished">3Dの表示/非表示</translation>
     </message>
     <message>
         <source>3-D On</source>
@@ -4677,12 +4582,7 @@ On</source>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="obsolete">影の表示/
+        <translation type="unfinished">影の表示/
 非表示</translation>
     </message>
     <message>
@@ -5123,12 +5023,7 @@ On/Off</source>
     <message>
         <source>Date and
 Time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Date and
-Time</source>
-        <translation type="obsolete">日付と
+        <translation type="unfinished">日付と
 時刻</translation>
     </message>
     <message>
@@ -5182,12 +5077,7 @@ Time</source>
     <message>
         <source>Insert
 Function</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert
-Function</source>
-        <translation type="obsolete">関数の
+        <translation type="unfinished">関数の
 挿入</translation>
     </message>
     <message>
@@ -5201,12 +5091,7 @@ Function</source>
     <message>
         <source>Lookup and
 Reference</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Lookup and
-Reference</source>
-        <translation type="obsolete">検索と
+        <translation type="unfinished">検索と
 参照</translation>
     </message>
     <message>
@@ -5221,12 +5106,7 @@ Trig</source>
     <message>
         <source>Math and
 Trig</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Math and
-Trig</source>
-        <translation type="obsolete">数学と
+        <translation type="unfinished">数学と
 三角</translation>
     </message>
     <message>
@@ -5244,12 +5124,7 @@ Trig</source>
     <message>
         <source>More
 Functions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More
-Functions</source>
-        <translation type="obsolete">その他
+        <translation type="unfinished">その他
 の関数</translation>
     </message>
     <message>
@@ -5263,12 +5138,7 @@ Functions</source>
     <message>
         <source>Name
 Manager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name
-Manager</source>
-        <translation type="obsolete">名前の
+        <translation type="unfinished">名前の
 管理</translation>
     </message>
     <message>
@@ -5282,12 +5152,7 @@ Manager</source>
     <message>
         <source>Recalculate
 Workbook</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recalculate
-Workbook</source>
-        <translation type="obsolete">再計算
+        <translation type="unfinished">再計算
 実行</translation>
     </message>
     <message>
@@ -5297,12 +5162,7 @@ Workbook</source>
     <message>
         <source>Recently 
 Used</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recently 
-Used</source>
-        <translation type="obsolete">最近
+        <translation type="unfinished">最近
 使用した</translation>
     </message>
     <message>
@@ -5638,12 +5498,7 @@ Replace</source>
     <message>
         <source>Find and 
 Replace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Find and 
-Replace</source>
-        <translation type="obsolete">検索と
+        <translation type="unfinished">検索と
 選択</translation>
     </message>
     <message>
@@ -5673,12 +5528,7 @@ Replace</source>
     <message>
         <source>Format 
 Painter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format 
-Painter</source>
-        <translation type="obsolete">書式のコピー/
+        <translation type="unfinished">書式のコピー/
 貼り付け</translation>
     </message>
     <message>
@@ -5784,12 +5634,7 @@ Painter</source>
     <message>
         <source>Join and
 Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join and
-Center</source>
-        <translation type="obsolete">セルを結合して
+        <translation type="unfinished">セルを結合して
 中央寄せ</translation>
     </message>
     <message>
@@ -5950,12 +5795,7 @@ Center</source>
     <message>
         <source>Rows and 
 Columns</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rows and 
-Columns</source>
-        <translation type="obsolete">行と列</translation>
+        <translation type="unfinished">行と列</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -6236,12 +6076,7 @@ Properties</source>
     <message>
         <source>Control 
 Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Control 
-Properties</source>
-        <translation type="obsolete">プロパティ</translation>
+        <translation type="unfinished">プロパティ</translation>
     </message>
     <message>
         <source>Control Properties</source>
@@ -6311,12 +6146,7 @@ Properties</source>
     <message>
         <source>Header and 
 Footer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Header and 
-Footer</source>
-        <translation type="obsolete">ヘッダーと
+        <translation type="unfinished">ヘッダーと
 フッター</translation>
     </message>
     <message>
@@ -6416,12 +6246,7 @@ Footer</source>
     <message>
         <source>Selection 
 Pane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Selection 
-Pane</source>
-        <translation type="obsolete">オブジェクトの
+        <translation type="unfinished">オブジェクトの
 選択と表示</translation>
     </message>
     <message>
@@ -6538,12 +6363,7 @@ Forward</source>
     <message>
         <source>Bring 
 Forward</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bring 
-Forward</source>
-        <translation type="obsolete">前面
+        <translation type="unfinished">前面
 へ移動</translation>
     </message>
     <message>
@@ -6720,23 +6540,13 @@ Other Window</source>
     <message>
         <source>Print
 Area</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print
-Titles</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print
-Area</source>
-        <translation type="obsolete">印刷
+        <translation type="unfinished">印刷
 範囲</translation>
     </message>
     <message>
         <source>Print
 Titles</source>
-        <translation type="obsolete">印刷
+        <translation type="unfinished">印刷
 タイトル</translation>
     </message>
     <message>
@@ -6795,12 +6605,7 @@ Backward</source>
     <message>
         <source>Send 
 Backward</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send 
-Backward</source>
-        <translation type="obsolete">背面
+        <translation type="unfinished">背面
 へ移動</translation>
     </message>
     <message>
@@ -6977,12 +6782,7 @@ Backward</source>
     <message>
         <source>Change
 Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change
-Picture</source>
-        <translation type="obsolete">他のグラフィックスに変更する</translation>
+        <translation type="unfinished">他のグラフィックスに変更する</translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -6996,12 +6796,7 @@ Picture</source>
     <message>
         <source>Compress
 Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Compress
-Pictures</source>
-        <translation type="obsolete">図の圧縮</translation>
+        <translation type="unfinished">図の圧縮</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -7212,12 +7007,7 @@ Pictures</source>
     <message>
         <source>Picture
 Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture
-Size</source>
-        <translation type="obsolete">画のサイズ</translation>
+        <translation type="unfinished">画のサイズ</translation>
     </message>
     <message>
         <source>Picture Adjust</source>
@@ -7242,12 +7032,7 @@ Size</source>
     <message>
         <source>Reset
 Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reset
-Picture</source>
-        <translation type="obsolete">図のリセット</translation>
+        <translation type="unfinished">図のリセット</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -7297,12 +7082,7 @@ Picture</source>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="obsolete">影の表示/
+        <translation type="unfinished">影の表示/
 非表示</translation>
     </message>
     <message>
@@ -7420,12 +7200,7 @@ Repeat Item Labels</source>
     <message>
         <source>Field
 Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Field
-Settings</source>
-        <translation type="obsolete">フィールド設定</translation>
+        <translation type="unfinished">フィールド設定</translation>
     </message>
     <message>
         <source>Field Settings</source>
@@ -7438,22 +7213,12 @@ Settings</source>
     <message>
         <source>Hide
 Detail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide
-Detail</source>
-        <translation type="obsolete">詳細を表示しない</translation>
+        <translation type="unfinished">詳細を表示しない</translation>
     </message>
     <message>
         <source>Hide 
 Field List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide 
-Field List</source>
-        <translation type="obsolete">フィールド リストを表示しない</translation>
+        <translation type="unfinished">フィールド リストを表示しない</translation>
     </message>
     <message>
         <source>Hide Detail</source>
@@ -7470,12 +7235,7 @@ Field List</source>
     <message>
         <source>Modify
 PivotTable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Modify
-PivotTable</source>
-        <translation type="obsolete">ピボットテーブルの変更</translation>
+        <translation type="unfinished">ピボットテーブルの変更</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
@@ -7516,12 +7276,7 @@ PivotTable</source>
     <message>
         <source>PivotTable
 Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PivotTable
-Options</source>
-        <translation type="obsolete">ピボットテーブルオプション</translation>
+        <translation type="unfinished">ピボットテーブルオプション</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
@@ -7548,22 +7303,12 @@ Item Labels</source>
     <message>
         <source>Show
 Detail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show
-Detail</source>
-        <translation type="obsolete">詳細データの表示</translation>
+        <translation type="unfinished">詳細データの表示</translation>
     </message>
     <message>
         <source>Show 
 Field List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show 
-Field List</source>
-        <translation type="obsolete">フィールド リストの表示</translation>
+        <translation type="unfinished">フィールド リストの表示</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -7607,12 +7352,7 @@ Field List</source>
     <message>
         <source>Header and 
 Footer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Header and 
-Footer</source>
-        <translation type="obsolete">ヘッダーとフッター</translation>
+        <translation type="unfinished">ヘッダーとフッター</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -7629,12 +7369,7 @@ Footer</source>
     <message>
         <source>Next
 Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next
-Page</source>
-        <translation type="obsolete">次のページ</translation>
+        <translation type="unfinished">次のページ</translation>
     </message>
     <message>
         <source>Next Page</source>
@@ -7647,12 +7382,7 @@ Page</source>
     <message>
         <source>Normal
 View</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Normal
-View</source>
-        <translation type="obsolete">標準ビュー</translation>
+        <translation type="unfinished">標準ビュー</translation>
     </message>
     <message>
         <source>Normal View</source>
@@ -7661,22 +7391,12 @@ View</source>
     <message>
         <source>Page
 Setup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page
-Setup</source>
-        <translation type="obsolete">ページの設定</translation>
+        <translation type="unfinished">ページの設定</translation>
     </message>
     <message>
         <source>Page Break
 Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page Break
-Preview</source>
-        <translation type="obsolete">改ページプレビュー</translation>
+        <translation type="unfinished">改ページプレビュー</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -7697,12 +7417,7 @@ Preview</source>
     <message>
         <source>Previous
 Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Previous
-Page</source>
-        <translation type="obsolete">前のページ</translation>
+        <translation type="unfinished">前のページ</translation>
     </message>
     <message>
         <source>Previous Page</source>
@@ -7768,12 +7483,7 @@ Directly</source>
     <message>
         <source>Delete 
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete 
-Comment</source>
-        <translation type="obsolete">コメント
+        <translation type="unfinished">コメント
 の削除</translation>
     </message>
     <message>
@@ -7783,12 +7493,7 @@ Comment</source>
     <message>
         <source>Edit
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit
-Comment</source>
-        <translation type="obsolete">コメント
+        <translation type="unfinished">コメント
 の編集</translation>
     </message>
     <message>
@@ -7807,12 +7512,7 @@ Comment</source>
     <message>
         <source>New 
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New 
-Comment</source>
-        <translation type="obsolete">コメント
+        <translation type="unfinished">コメント
 の挿入</translation>
     </message>
     <message>
@@ -7826,22 +7526,12 @@ Comment</source>
     <message>
         <source>Protect
 Workbook</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protect
-Workbook</source>
-        <translation type="obsolete">ブックの保護</translation>
+        <translation type="unfinished">ブックの保護</translation>
     </message>
     <message>
         <source>Protect 
 Sheet</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protect 
-Sheet</source>
-        <translation type="obsolete">シートの保護</translation>
+        <translation type="unfinished">シートの保護</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
@@ -7866,12 +7556,7 @@ Sheet</source>
     <message>
         <source>Share
 Workbook</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Share
-Workbook</source>
-        <translation type="obsolete">ブックの共有</translation>
+        <translation type="unfinished">ブックの共有</translation>
     </message>
     <message>
         <source>Share Workbook</source>
@@ -7888,12 +7573,7 @@ Workbook</source>
     <message>
         <source>Track
 Changes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Track
-Changes</source>
-        <translation type="obsolete">変更履歴
+        <translation type="unfinished">変更履歴
 の記録</translation>
     </message>
     <message>
@@ -7940,33 +7620,18 @@ Workbook</source>
     <message>
         <source>3-D
 Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3Dの色</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Color</source>
-        <translation type="obsolete">3Dの色</translation>
-    </message>
-    <message>
-        <source>3-D
-On/Off</source>
-        <translation type="obsolete">3Dの表示/
+        <translation type="unfinished">3Dの表示/
 非表示</translation>
     </message>
     <message>
         <source>3-D 
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D 
-Effects</source>
-        <translation type="obsolete">3D 効果</translation>
+        <translation type="unfinished">3D 効果</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -8079,33 +7744,18 @@ Effects</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">影の色</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Color</source>
-        <translation type="obsolete">影の色</translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="obsolete">影の表示/
+        <translation type="unfinished">影の表示/
 非表示</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow 
-Effects</source>
-        <translation type="obsolete">影の
+        <translation type="unfinished">影の
 スタイル</translation>
     </message>
     <message>
@@ -8166,12 +7816,7 @@ Effects</source>
     <message>
         <source>Arrange
 All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrange
-All</source>
-        <translation type="obsolete">並べて
+        <translation type="unfinished">並べて
 表示</translation>
     </message>
     <message>
@@ -8185,12 +7830,7 @@ All</source>
     <message>
         <source>Close
 Other Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close
-Other Window</source>
-        <translation type="obsolete">他のタブを閉じる</translation>
+        <translation type="unfinished">他のタブを閉じる</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -8223,12 +7863,7 @@ Other Window</source>
     <message>
         <source>Full 
 Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Full 
-Screen</source>
-        <translation type="obsolete">全画面
+        <translation type="unfinished">全画面
 表示</translation>
     </message>
     <message>
@@ -8262,12 +7897,7 @@ Screen</source>
     <message>
         <source>New
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New
-Window</source>
-        <translation type="obsolete">新しい
+        <translation type="unfinished">新しい
 タブを開く</translation>
     </message>
     <message>
@@ -8281,12 +7911,7 @@ Window</source>
     <message>
         <source>Page Break 
 Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page Break 
-Preview</source>
-        <translation type="obsolete">改ページ
+        <translation type="unfinished">改ページ
 プレビュー</translation>
     </message>
     <message>
@@ -8304,12 +7929,7 @@ Preview</source>
     <message>
         <source>Reading
 Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reading
-Layout</source>
-        <translation type="obsolete">閲覧
+        <translation type="unfinished">閲覧
 レイアウト</translation>
     </message>
     <message>
@@ -8383,12 +8003,7 @@ Layout</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM 
-Add-Ins</source>
-        <translation type="obsolete">COMプラグイン</translation>
+        <translation type="unfinished">COMプラグイン</translation>
     </message>
 </context>
 <context>
@@ -8419,32 +8034,17 @@ Add-Ins</source>
     <message>
         <source>3-D
 Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3Dの色</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D 効果</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Color</source>
-        <translation type="obsolete">3Dの色</translation>
-    </message>
-    <message>
-        <source>3-D
-Effects</source>
-        <translation type="obsolete">3D 効果</translation>
-    </message>
-    <message>
-        <source>3-D
-On/Off</source>
-        <translation type="obsolete">3Dの表示/
+        <translation type="unfinished">3Dの表示/
 非表示</translation>
     </message>
     <message>
@@ -8558,33 +8158,18 @@ On/Off</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">影の色</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Color</source>
-        <translation type="obsolete">影の色</translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="obsolete">影の表示/
+        <translation type="unfinished">影の表示/
 非表示</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow 
-Effects</source>
-        <translation type="obsolete">影の
+        <translation type="unfinished">影の
 スタイル</translation>
     </message>
     <message>
@@ -8673,12 +8258,7 @@ Effects</source>
     <message>
         <source>3-D
 On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-On</source>
-        <translation type="obsolete">3Dの表示
+        <translation type="unfinished">3Dの表示
 /非表示</translation>
     </message>
     <message>
@@ -8800,12 +8380,7 @@ On</source>
     <message>
         <source>Character 
 Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Character 
-Spacing</source>
-        <translation type="obsolete">文字の
+        <translation type="unfinished">文字の
 間隔</translation>
     </message>
     <message>
@@ -9193,12 +8768,7 @@ Spacing</source>
     <message>
         <source>WordArt
 Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt
-Gallery</source>
-        <translation type="obsolete">アート文字
+        <translation type="unfinished">アート文字
  ギャラリー</translation>
     </message>
     <message>
@@ -9210,12 +8780,7 @@ Size</source>
     <message>
         <source>WordArt 
 Shape</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt 
-Shape</source>
-        <translation type="obsolete">アート文字
+        <translation type="unfinished">アート文字
 の形状</translation>
     </message>
     <message>
@@ -9746,12 +9311,7 @@ Shape</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM 
-Add-Ins</source>
-        <translation type="obsolete">COMプラグイン</translation>
+        <translation type="unfinished">COMプラグイン</translation>
     </message>
     <message>
         <source>Camera</source>
@@ -11425,12 +10985,7 @@ Add-Ins</source>
     <message>
         <source>Change
 Chart Type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change
-Chart Type</source>
-        <translation type="obsolete">グラフの種類
+        <translation type="unfinished">グラフの種類
 の変更</translation>
     </message>
     <message>
@@ -11551,12 +11106,7 @@ Chart Type</source>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit
-OLE DB Query</source>
-        <translation type="obsolete">OLE
+        <translation type="unfinished">OLE
 DB クエリの編集</translation>
     </message>
     <message>
@@ -11830,12 +11380,7 @@ DB クエリの編集</translation>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM
-Add-Ins</source>
-        <translation type="obsolete">COMプラグイン</translation>
+        <translation type="unfinished">COMプラグイン</translation>
     </message>
     <message>
         <source>COM
@@ -12593,12 +12138,7 @@ AddIns</source>
     <message>
         <source>Date and
 Time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Date and
-Time</source>
-        <translation type="obsolete">日付と時刻</translation>
+        <translation type="unfinished">日付と時刻</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -12659,12 +12199,7 @@ Time</source>
     <message>
         <source>Lookup and
 Reference</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Lookup and
-Reference</source>
-        <translation type="obsolete">検索と参照</translation>
+        <translation type="unfinished">検索と参照</translation>
     </message>
     <message>
         <source>Lookup/Reference</source>
@@ -12673,12 +12208,7 @@ Reference</source>
     <message>
         <source>Math and
 Trig</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Math and
-Trig</source>
-        <translation type="obsolete">数学と三角</translation>
+        <translation type="unfinished">数学と三角</translation>
     </message>
     <message>
         <source>Math/Trig</source>
@@ -13191,12 +12721,7 @@ Trig</source>
     <message>
         <source>Merge and
 Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Merge and
-Center</source>
-        <translation type="obsolete">セルを結合して
+        <translation type="unfinished">セルを結合して
 中央寄せ</translation>
     </message>
     <message>
@@ -14859,12 +14384,7 @@ Item Labels</source>
     <message>
         <source>Close
 Other Windows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close
-Other Windows</source>
-        <translation type="obsolete">他のタブを閉じる</translation>
+        <translation type="unfinished">他のタブを閉じる</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -15133,12 +14653,7 @@ Other Windows</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Color</source>
-        <translation type="obsolete">影の色</translation>
+        <translation type="unfinished">影の色</translation>
     </message>
     <message>
         <source>Shadow Color</source>

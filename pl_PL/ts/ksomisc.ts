@@ -115,6 +115,10 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>WPS Cloud.lnk</source>
         <translation>WPS Cloud.lnk</translation>
     </message>
+    <message>
+        <source>WPS Office.lnk</source>
+        <translation type="unfinished">WPS Office.lnk</translation>
+    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -317,6 +321,21 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <source>An error occurred when repairing, please retry.</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
         <translation>Wystąpił błąd podczas naprawiania, spróbuj ponownie.</translation>
+    </message>
+</context>
+<context>
+    <name>KOther</name>
+    <message>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &quot;Upload to WPS Office Cloud&quot; on the Context Menu.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1237,7 +1256,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>&amp;Download updates but let me choose whether to install them</source>
-        <translation>&amp;Pobierz aktualizacje, ale pozwól mi wybrać, czy je zainstalować</translation>
+        <translation type="obsolete">&amp;Pobierz aktualizacje, ale pozwól mi wybrać, czy je zainstalować</translation>
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>
@@ -1327,6 +1346,10 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     <message>
         <source>Do not &amp;check for updates automatically (not recommended)</source>
         <translation>Nie &amp;sprawdzaj aktualizacji automatycznie (niezalecane)</translation>
+    </message>
+    <message>
+        <source>Check for update, but let me choose whether to &amp;download and install them</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

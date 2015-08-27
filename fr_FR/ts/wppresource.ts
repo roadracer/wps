@@ -1567,13 +1567,8 @@
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Slide
-Master</source>
         <translatorcomment>View-&gt;Master-&gt;Slde Master-&gt;Slide Master View</translatorcomment>
-        <translation type="obsolete">Nouveau masque
+        <translation type="unfinished">Nouveau masque
 de diapositive</translation>
     </message>
     <message>
@@ -2200,25 +2195,15 @@ de diapositive</translation>
     <message>
         <source>Animation
 Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Animation
-Schemes</source>
         <translatorcomment>Animation tab</translatorcomment>
-        <translation type="obsolete">Jeux 
+        <translation type="unfinished">Jeux 
 d&apos;animation</translation>
     </message>
     <message>
         <source>Custom
 Animation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom
-Animation</source>
         <translatorcomment>Animation tab</translatorcomment>
-        <translation type="obsolete">Personnaliser 
+        <translation type="unfinished">Personnaliser 
 l&apos;animation</translation>
     </message>
     <message>
@@ -2234,13 +2219,8 @@ l&apos;animation</translation>
     <message>
         <source>Transition
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Transition
-Effects</source>
         <translatorcomment>Animation tab</translatorcomment>
-        <translation type="obsolete">Effets de 
+        <translation type="unfinished">Effets de 
 transition</translation>
     </message>
 </context>
@@ -2258,13 +2238,8 @@ transition</translation>
     <message>
         <source>Color
 Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color
-Schemes</source>
         <translatorcomment>Design tab</translatorcomment>
-        <translation type="obsolete">Jeux 
+        <translation type="unfinished">Jeux 
 de couleur</translation>
     </message>
     <message>
@@ -2279,13 +2254,8 @@ de couleur</translation>
     <message>
         <source>Edit
 Slide Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit
-Slide Master</source>
         <translatorcomment>Design tab</translatorcomment>
-        <translation type="obsolete">Modifier le
+        <translation type="unfinished">Modifier le
 masque de diapositive</translation>
     </message>
     <message>
@@ -2309,13 +2279,8 @@ Template</source>
     <message>
         <source>Page
 Setup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page
-Setup</source>
         <translatorcomment>Design tab</translatorcomment>
-        <translation type="obsolete">Mise 
+        <translation type="unfinished">Mise 
 en page</translation>
     </message>
     <message>
@@ -2335,25 +2300,15 @@ en page</translation>
     <message>
         <source>Slide
 Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Orientation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Layout</source>
         <translatorcomment>Design tab</translatorcomment>
-        <translation type="obsolete">Disposition 
+        <translation type="unfinished">Disposition 
 des diapositives</translation>
     </message>
     <message>
         <source>Slide
 Orientation</source>
         <translatorcomment>Design tab</translatorcomment>
-        <translation type="obsolete">Orientation 
+        <translation type="unfinished">Orientation 
 des diapositives</translation>
     </message>
 </context>
@@ -2367,13 +2322,8 @@ des diapositives</translation>
     <message>
         <source>Clear
 Table Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear
-Table Style</source>
         <translatorcomment>Insert tab-&gt;Table-&gt;Insert a table-&gt;Table Style</translatorcomment>
-        <translation type="obsolete">Effacer le
+        <translation type="unfinished">Effacer le
 style de tableau</translation>
     </message>
     <message>
@@ -2430,13 +2380,8 @@ style de tableau</translation>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM
-Add-Ins</source>
         <translatorcomment>View-&gt;Developer</translatorcomment>
-        <translation type="obsolete">Compléments COM</translation>
+        <translation type="unfinished">Compléments COM</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -2461,13 +2406,8 @@ Add-Ins</source>
     <message>
         <source>Control 
 Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Control 
-Properties</source>
         <translatorcomment>View-&gt;Developer</translatorcomment>
-        <translation type="obsolete">Propriétés 
+        <translation type="unfinished">Propriétés 
 du contrôle</translation>
     </message>
     <message>
@@ -2543,13 +2483,8 @@ du contrôle</translation>
     <message>
         <source>Visual Basic
 Editor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Visual Basic
-Editor</source>
         <translatorcomment>View-&gt;Developer</translatorcomment>
-        <translation type="obsolete">Visual Basic
+        <translation type="unfinished">Visual Basic
 Editor</translation>
     </message>
 </context>
@@ -2637,13 +2572,8 @@ Editor</translation>
     <message>
         <source>3-D
 On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-On</source>
         <translatorcomment>Click &quot;click to add title&quot;-&gt;Formats tab</translatorcomment>
-        <translation type="obsolete">Activation
+        <translation type="unfinished">Activation
 3D</translation>
     </message>
     <message>
@@ -3557,12 +3487,7 @@ On</source>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Effects</source>
-        <translation type="obsolete">Effets 
+        <translation type="unfinished">Effets 
 3D</translation>
     </message>
     <message>
@@ -3858,13 +3783,8 @@ Effects</source>
     <message>
         <source>Format 
 Painter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format 
-Painter</source>
         <translatorcomment>Home tab</translatorcomment>
-        <translation type="obsolete">Reproduire 
+        <translation type="unfinished">Reproduire 
 la mise en forme</translation>
     </message>
     <message>
@@ -3890,25 +3810,15 @@ la mise en forme</translation>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current
-Slide</source>
         <translatorcomment>Home tab-&gt;From current slide</translatorcomment>
-        <translation type="obsolete">À partir de la
+        <translation type="unfinished">À partir de la
 diapositive actuelle</translation>
     </message>
     <message>
         <source>From Current 
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current 
-Slide</source>
         <translatorcomment>Home tab-&gt;From current slide</translatorcomment>
-        <translation type="obsolete">À partir de la 
+        <translation type="unfinished">À partir de la 
 diapositive actuelle</translation>
     </message>
     <message>
@@ -4185,12 +4095,7 @@ diapositive actuelle</translation>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Effects</source>
-        <translation type="obsolete">Effets
+        <translation type="unfinished">Effets
 d&apos;ombre</translation>
     </message>
     <message>
@@ -4341,13 +4246,8 @@ d&apos;ombre</translation>
     <message>
         <source>Background
 Music</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Background
-Music</source>
         <translatorcomment>Insert tab</translatorcomment>
-        <translation type="obsolete">Musique
+        <translation type="unfinished">Musique
 de fond</translation>
     </message>
     <message>
@@ -4402,13 +4302,8 @@ de fond</translation>
     <message>
         <source>Header and 
 Footer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Header and 
-Footer</source>
         <translatorcomment>Insert tab</translatorcomment>
-        <translation type="obsolete">En-tête et
+        <translation type="unfinished">En-tête et
 pied de page</translation>
     </message>
     <message>
@@ -4502,13 +4397,8 @@ pied de page</translation>
     <message>
         <source>Organization
 Chart</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Organization
-Chart</source>
         <translatorcomment>Insert tab</translatorcomment>
-        <translation type="obsolete">Organigramme</translation>
+        <translation type="unfinished">Organigramme</translation>
     </message>
     <message>
         <source>Package File</source>
@@ -4538,13 +4428,8 @@ Chart</source>
     <message>
         <source>Slide
 Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Number</source>
         <translatorcomment>Insert tab</translatorcomment>
-        <translation type="obsolete">Numéro
+        <translation type="unfinished">Numéro
 de diapositive</translation>
     </message>
     <message>
@@ -5107,13 +4992,8 @@ de diapositive</translation>
     <message>
         <source>Change
 Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change
-Picture</source>
         <translatorcomment>Insert tab-&gt;insert a picture-&gt;Picture tools tab</translatorcomment>
-        <translation type="obsolete">Remplacer
+        <translation type="unfinished">Remplacer
 l&apos;image</translation>
     </message>
     <message>
@@ -5128,13 +5008,8 @@ l&apos;image</translation>
     <message>
         <source>Compress
 Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Compress
-Pictures</source>
         <translatorcomment>Insert tab-&gt;insert a picture-&gt;Picture tools tab</translatorcomment>
-        <translation type="obsolete">Compresser
+        <translation type="unfinished">Compresser
 les images</translation>
     </message>
     <message>
@@ -5375,13 +5250,8 @@ les images</translation>
     <message>
         <source>Picture
 Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture
-Size</source>
         <translatorcomment>Insert tab-&gt;insert a picture-&gt;Picture tools tab</translatorcomment>
-        <translation type="obsolete">Taille
+        <translation type="unfinished">Taille
 de l&apos;image</translation>
     </message>
     <message>
@@ -5396,13 +5266,8 @@ de l&apos;image</translation>
     <message>
         <source>Reset
 Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reset
-Picture</source>
         <translatorcomment>Insert tab-&gt;insert a picture-&gt;Picture tools tab</translatorcomment>
-        <translation type="obsolete">Rétablir
+        <translation type="unfinished">Rétablir
 l&apos;image</translation>
     </message>
     <message>
@@ -5453,13 +5318,8 @@ l&apos;image</translation>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
         <translatorcomment>Insert tab-&gt;insert a picture-&gt;Picture tools tab</translatorcomment>
-        <translation type="obsolete">Activation/Désactivation
+        <translation type="unfinished">Activation/Désactivation
 de l&apos;ombre</translation>
     </message>
     <message>
@@ -5526,13 +5386,8 @@ de l&apos;ombre</translation>
     <message>
         <source>Frame
 Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Frame
-Slides</source>
         <translatorcomment>Click Presentation Button-&gt;Print preview-&gt;Print preview tab</translatorcomment>
-        <translation type="obsolete">Encadrer
+        <translation type="unfinished">Encadrer
 les diapositives</translation>
     </message>
     <message>
@@ -5568,13 +5423,8 @@ les diapositives</translation>
     <message>
         <source>Header and 
 Footer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Header and 
-Footer</source>
         <translatorcomment>Click Presentation Button-&gt;Print preview-&gt;Print preview tab</translatorcomment>
-        <translation type="obsolete">En-tête et 
+        <translation type="unfinished">En-tête et 
 pied de page</translation>
     </message>
     <message>
@@ -5585,13 +5435,8 @@ pied de page</translation>
     <message>
         <source>Next
 Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next
-Page</source>
         <translatorcomment>Click Presentation Button-&gt;Print preview-&gt;Print preview tab</translatorcomment>
-        <translation type="obsolete">Page 
+        <translation type="unfinished">Page 
 suivante</translation>
     </message>
     <message>
@@ -5617,13 +5462,8 @@ suivante</translation>
     <message>
         <source>Previous
 Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Previous
-Page</source>
         <translatorcomment>Click Presentation Button-&gt;Print preview-&gt;Print preview tab</translatorcomment>
-        <translation type="obsolete">Page 
+        <translation type="unfinished">Page 
 précédente</translation>
     </message>
     <message>
@@ -5634,37 +5474,22 @@ précédente</translation>
     <message>
         <source>Print
 Hidden Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print
-Hidden Slides</source>
         <translatorcomment>Click Presentation Button-&gt;Print preview-&gt;Print preview tab</translatorcomment>
-        <translation type="obsolete">Imprimer les
+        <translation type="unfinished">Imprimer les
 diapositives masquées</translation>
     </message>
     <message>
         <source>Print 
 Directly</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print 
-Directly</source>
         <translatorcomment>Click Presentation Button-&gt;Print preview-&gt;Print preview tab-&gt;Print</translatorcomment>
-        <translation type="obsolete">Imprimer
+        <translation type="unfinished">Imprimer
 directement</translation>
     </message>
     <message>
         <source>Printing
 Order</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Printing
-Order</source>
         <translatorcomment>Click Presentation Button-&gt;Print preview-&gt;Print preview tab</translatorcomment>
-        <translation type="obsolete">Ordre
+        <translation type="unfinished">Ordre
 d&apos;impression</translation>
     </message>
     <message>
@@ -5738,13 +5563,8 @@ d&apos;impression</translation>
     <message>
         <source>Delete 
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete 
-Comment</source>
         <translatorcomment>Review tab-&gt;Delete Comment</translatorcomment>
-        <translation type="obsolete">Supprimer
+        <translation type="unfinished">Supprimer
 le commentaire</translation>
     </message>
     <message>
@@ -5760,13 +5580,8 @@ le commentaire</translation>
     <message>
         <source>Edit
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit
-Comment</source>
         <translatorcomment>Review tab</translatorcomment>
-        <translation type="obsolete">Modifier 
+        <translation type="unfinished">Modifier 
 le commentaire</translation>
     </message>
     <message>
@@ -5784,13 +5599,8 @@ le commentaire</translation>
     <message>
         <source>New 
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New 
-Comment</source>
         <translatorcomment>Review tab</translatorcomment>
-        <translation type="obsolete">Nouveau 
+        <translation type="unfinished">Nouveau 
 commentaire</translation>
     </message>
     <message>
@@ -5810,13 +5620,8 @@ commentaire</translation>
     <message>
         <source>Show/Hide
 Mark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show/Hide
-Mark</source>
         <translatorcomment>Review tab</translatorcomment>
-        <translation type="obsolete">Afficher/Masquer 
+        <translation type="unfinished">Afficher/Masquer 
 les marques</translation>
     </message>
     <message>
@@ -5845,49 +5650,29 @@ les marques</translation>
     <message>
         <source>3-D
 Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Color</source>
         <translatorcomment>Insert tab-&gt;Shapes-&gt;insert a shape-&gt;Formats tab</translatorcomment>
-        <translation type="obsolete">Couleur
+        <translation type="unfinished">Couleur
 3D</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
         <translatorcomment>Insert tab-&gt;Shapes-&gt;insert a shape-&gt;Formats tab</translatorcomment>
-        <translation type="obsolete">Effets
+        <translation type="unfinished">Effets
 3D</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
         <translatorcomment>Insert tab-&gt;Shapes-&gt;insert a shape-&gt;Formats tab</translatorcomment>
-        <translation type="obsolete">Activation/Désactivation
+        <translation type="unfinished">Activation/Désactivation
 3D</translation>
     </message>
     <message>
         <source>3-D 
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D 
-Effects</source>
         <translatorcomment>Insert tab-&gt;Shapes-&gt;insert a shape-&gt;Formats tab</translatorcomment>
-        <translation type="obsolete">Effets
+        <translation type="unfinished">Effets
 3D</translation>
     </message>
     <message>
@@ -6017,49 +5802,29 @@ Effects</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Color</source>
         <translatorcomment>Insert tab-&gt;Shapes-&gt;insert a shape-&gt;Formats tab-&gt;Shadow Color</translatorcomment>
-        <translation type="obsolete">Couleur
+        <translation type="unfinished">Couleur
 de l&apos;ombre</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
         <translatorcomment>Insert tab-&gt;Shapes-&gt;insert a shape-&gt;Formats tab</translatorcomment>
-        <translation type="obsolete">Effets
+        <translation type="unfinished">Effets
 d&apos;ombre</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
         <translatorcomment>Insert tab-&gt;Shapes-&gt;insert a shape-&gt;Formats tab</translatorcomment>
-        <translation type="obsolete">Activation/Désactivation
+        <translation type="unfinished">Activation/Désactivation
 de l&apos;ombre</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow 
-Effects</source>
         <translatorcomment>Insert tab-&gt;Shapes-&gt;insert a shape-&gt;Formats tab</translatorcomment>
-        <translation type="obsolete">Effets
+        <translation type="unfinished">Effets
 d&apos;ombre</translation>
     </message>
     <message>
@@ -6146,24 +5911,14 @@ d&apos;ombre</translation>
     <message>
         <source>Close
 Master View</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close
-Master View</source>
-        <translation type="obsolete">Désactiver 
+        <translation type="unfinished">Désactiver 
 le mode Masque</translation>
     </message>
     <message>
         <source>Delete 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete 
-Master</source>
         <translatorcomment>View tab-&gt;Slide Master-&gt;Slide Master tab</translatorcomment>
-        <translation type="obsolete">Supprimer
+        <translation type="unfinished">Supprimer
 le masque</translation>
     </message>
     <message>
@@ -6193,13 +5948,8 @@ le masque</translation>
     <message>
         <source>Master 
 Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Master 
-Layout</source>
         <translatorcomment>View tab-&gt;Slide Master-&gt;Slide Master tab</translatorcomment>
-        <translation type="obsolete">Disposition
+        <translation type="unfinished">Disposition
 du masque</translation>
     </message>
     <message>
@@ -6215,49 +5965,29 @@ du masque</translation>
     <message>
         <source>New Slide 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Slide 
-Master</source>
         <translatorcomment>View tab-&gt;Slide Master-&gt;Slide Master tab</translatorcomment>
-        <translation type="obsolete">Nouveau masque
+        <translation type="unfinished">Nouveau masque
 de diapositive</translation>
     </message>
     <message>
         <source>New Title 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Title 
-Master</source>
         <translatorcomment>View tab-&gt;Slide Master-&gt;Slide Master tab</translatorcomment>
-        <translation type="obsolete">Nouveau
+        <translation type="unfinished">Nouveau
 masque de titre</translation>
     </message>
     <message>
         <source>Preserve 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preserve 
-Master</source>
         <translatorcomment>View tab-&gt;Slide Master-&gt;Slide Master tab</translatorcomment>
-        <translation type="obsolete">Conserver
+        <translation type="unfinished">Conserver
 le masque</translation>
     </message>
     <message>
         <source>Rename 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rename 
-Master</source>
         <translatorcomment>View tab-&gt;Slide Master-&gt;Slide Master tab</translatorcomment>
-        <translation type="obsolete">Renommer
+        <translation type="unfinished">Renommer
 le masque</translation>
     </message>
     <message>
@@ -6333,25 +6063,15 @@ l&apos;image d&apos;arrière-plan</translation>
     <message>
         <source>Custom 
 Slide Shows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom 
-Slide Shows</source>
         <translatorcomment>Slide Show tab</translatorcomment>
-        <translation type="obsolete">Diaporamas 
+        <translation type="unfinished">Diaporamas 
 personnalisés</translation>
     </message>
     <message>
         <source>From
 Beginning</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From
-Beginning</source>
         <translatorcomment>Slide Show tab</translatorcomment>
-        <translation type="obsolete">À
+        <translation type="unfinished">À
 partir du début</translation>
     </message>
     <message>
@@ -6374,13 +6094,8 @@ diapositive</translation>
     <message>
         <source>Rehearse 
 Timings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rehearse 
-Timings</source>
         <translatorcomment>Slide Show tab</translatorcomment>
-        <translation type="obsolete">Vérification du
+        <translation type="unfinished">Vérification du
 minutage</translation>
     </message>
     <message>
@@ -6396,35 +6111,20 @@ diaporama</translation>
     <message>
         <source>Slide
 Transition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Transition</source>
         <translatorcomment>Slide Show tab</translatorcomment>
-        <translation type="obsolete">Transition</translation>
+        <translation type="unfinished">Transition</translation>
     </message>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide Show
-Settings</source>
-        <translation type="obsolete">Paramètres 
+        <translation type="unfinished">Paramètres 
 du diaporama</translation>
     </message>
     <message>
         <source>Speaker
 Notes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Speaker
-Notes</source>
         <translatorcomment>Slide Show tab</translatorcomment>
-        <translation type="obsolete">Commentaires 
+        <translation type="unfinished">Commentaires 
 du présentateur</translation>
     </message>
     <message>
@@ -6646,13 +6346,8 @@ du présentateur</translation>
     <message>
         <source>Merge
 Cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Merge
-Cells</source>
         <translatorcomment>Insert table-&gt;Table-&gt;insert a table-&gt;Table Tools tab</translatorcomment>
-        <translation type="obsolete">Fusionner 
+        <translation type="unfinished">Fusionner 
 des cellules</translation>
     </message>
     <message>
@@ -6725,13 +6420,8 @@ des cellules</translation>
     <message>
         <source>Split
 Cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Split
-Cells</source>
         <translatorcomment>Insert table-&gt;Table-&gt;insert a table-&gt;Table Tools tab</translatorcomment>
-        <translation type="obsolete">Fractionner
+        <translation type="unfinished">Fractionner
 des cellules</translation>
     </message>
     <message>
@@ -6749,13 +6439,8 @@ des cellules</translation>
     <message>
         <source>Text
 Direction</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text
-Direction</source>
         <translatorcomment>Insert table-&gt;Table-&gt;insert a table-&gt;Table Tools tab</translatorcomment>
-        <translation type="obsolete">Orientation 
+        <translation type="unfinished">Orientation 
 du texte</translation>
     </message>
     <message>
@@ -6774,24 +6459,14 @@ du texte</translation>
     <message>
         <source>Arrange
 All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrange
-All</source>
         <translatorcomment>View tab</translatorcomment>
-        <translation type="obsolete">Organiser 
+        <translation type="unfinished">Organiser 
 tout</translation>
     </message>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM
-Add-Ins</source>
-        <translation type="obsolete">Compléments COM</translation>
+        <translation type="unfinished">Compléments COM</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -6801,12 +6476,7 @@ Add-Ins</source>
     <message>
         <source>Close
 Other Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close
-Other Window</source>
-        <translation type="obsolete">Fermer les
+        <translation type="unfinished">Fermer les
 autres fenêtres</translation>
     </message>
     <message>
@@ -6827,25 +6497,15 @@ autres fenêtres</translation>
     <message>
         <source>Fit to
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fit to
-Window</source>
         <translatorcomment>View tab</translatorcomment>
-        <translation type="obsolete">Ajuster 
+        <translation type="unfinished">Ajuster 
 à la fenêtre</translation>
     </message>
     <message>
         <source>Grid and
 Guides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Grid and
-Guides</source>
         <translatorcomment>View tab</translatorcomment>
-        <translation type="obsolete">Grille et
+        <translation type="unfinished">Grille et
 repères</translation>
     </message>
     <message>
@@ -6860,13 +6520,8 @@ repères</translation>
     <message>
         <source>New
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New
-Window</source>
         <translatorcomment>View tab</translatorcomment>
-        <translation type="obsolete">Nouvelle
+        <translation type="unfinished">Nouvelle
 fenêtre</translation>
     </message>
     <message>
@@ -6897,37 +6552,22 @@ fenêtre</translation>
     <message>
         <source>Slide 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide 
-Sorter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide 
-Master</source>
         <translatorcomment>View tab</translatorcomment>
-        <translation type="obsolete">Masque 
+        <translation type="unfinished">Masque 
 des diapositives</translation>
     </message>
     <message>
         <source>Slide 
 Sorter</source>
         <translatorcomment>View tab</translatorcomment>
-        <translation type="obsolete">Trieuse 
+        <translation type="unfinished">Trieuse 
 de diapositives</translation>
     </message>
     <message>
         <source>Switch
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch
-Window</source>
         <translatorcomment>View tab</translatorcomment>
-        <translation type="obsolete">Changer 
+        <translation type="unfinished">Changer 
 de fenêtre</translation>
     </message>
     <message>
@@ -6981,34 +6621,19 @@ de fenêtre</translation>
     <message>
         <source>3-D
 Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Color</source>
-        <translation type="obsolete">Couleur
+        <translation type="unfinished">Couleur
 3D</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="obsolete">Effets
+        <translation type="unfinished">Effets
 3D</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation type="obsolete">Activation/Désactivation
+        <translation type="unfinished">Activation/Désactivation
 3D</translation>
     </message>
     <message>
@@ -7117,16 +6742,6 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow
-Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
 Color</source>
         <translation type="obsolete">Couleur 
 de l&apos;ombre</translation>
@@ -7134,24 +6749,19 @@ de l&apos;ombre</translation>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="obsolete">Effets 
+        <translation type="unfinished">Effets 
 d&apos;ombre</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="obsolete">Activation/Désactivation 
+        <translation type="unfinished">Activation/Désactivation 
 de l&apos;ombre</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow 
-Effects</source>
-        <translation type="obsolete">Effets 
+        <translation type="unfinished">Effets 
 d&apos;ombre</translation>
     </message>
     <message>
@@ -7223,12 +6833,7 @@ d&apos;ombre</translation>
     <message>
         <source>3-D
 On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-On</source>
-        <translation type="obsolete">3-D 
+        <translation type="unfinished">3-D 
 Activation</translation>
     </message>
     <message>
@@ -7352,13 +6957,8 @@ Activation</translation>
     <message>
         <source>Character 
 Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Character 
-Spacing</source>
         <translatorcomment>Insert tab-&gt;WordArt-&gt;insert a WordArt-&gt;WordArt tab</translatorcomment>
-        <translation type="obsolete">Espacement 
+        <translation type="unfinished">Espacement 
 des caractères</translation>
     </message>
     <message>
@@ -7797,13 +7397,8 @@ des caractères</translation>
     <message>
         <source>WordArt
 Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt
-Gallery</source>
         <translatorcomment>Insert tab-&gt;WordArt-&gt;insert a WordArt-&gt;WordArt tab</translatorcomment>
-        <translation type="obsolete">Galerie
+        <translation type="unfinished">Galerie
 WordArt</translation>
     </message>
     <message>
@@ -7816,12 +7411,7 @@ WordArt</translation>
     <message>
         <source>WordArt 
 Shape</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt 
-Shape</source>
-        <translation type="obsolete">Forme 
+        <translation type="unfinished">Forme 
 WordArt</translation>
     </message>
     <message>
@@ -8271,13 +7861,8 @@ Macros complémentaires</translation>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM 
-Add-Ins</source>
         <translatorcomment>Drop-down menu-&gt;Tools</translatorcomment>
-        <translation type="obsolete">Compléments COM</translation>
+        <translation type="unfinished">Compléments COM</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -8984,12 +8569,7 @@ Template</source>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Slide
-Master</source>
-        <translation type="obsolete">Nouveau 
+        <translation type="unfinished">Nouveau 
 masque de diapositive</translation>
     </message>
     <message>
@@ -10892,12 +10472,7 @@ Template</source>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current
-Slide</source>
-        <translation type="obsolete">À partir de la
+        <translation type="unfinished">À partir de la
 diapositive actuelle</translation>
     </message>
     <message>
@@ -11693,12 +11268,7 @@ diapositive actuelle</translation>
     <message>
         <source>Add
 Subordinate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add
-Subordinate</source>
-        <translation type="obsolete">Ajouter
+        <translation type="unfinished">Ajouter
 subordonné</translation>
     </message>
     <message>
@@ -12571,12 +12141,7 @@ subordonné</translation>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Slide
-Master</source>
-        <translation type="obsolete">Nouveau masque
+        <translation type="unfinished">Nouveau masque
 de diapositive</translation>
     </message>
     <message>
@@ -12643,22 +12208,12 @@ diaporama</translation>
     <message>
         <source>Slide
 Transition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Transition</source>
-        <translation type="obsolete">Transition</translation>
+        <translation type="unfinished">Transition</translation>
     </message>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide Show
-Settings</source>
-        <translation type="obsolete">Paramètres
+        <translation type="unfinished">Paramètres
 du diaporama</translation>
     </message>
     <message>
@@ -12842,12 +12397,7 @@ du diaporama</translation>
     <message>
         <source>Close
 Other Windows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close
-Other Windows</source>
-        <translation type="obsolete">Fermer les
+        <translation type="unfinished">Fermer les
 autres fenêtres</translation>
     </message>
     <message>
@@ -12869,12 +12419,7 @@ autres fenêtres</translation>
     <message>
         <source>Fit
 </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fit
-</source>
-        <translation type="obsolete">Ajuster
+        <translation type="unfinished">Ajuster
 </translation>
     </message>
     <message>
@@ -12975,12 +12520,7 @@ autres fenêtres</translation>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Effects</source>
-        <translation type="obsolete">Effets
+        <translation type="unfinished">Effets
 3D</translation>
     </message>
     <message>
@@ -13098,23 +12638,13 @@ Effects</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Color</source>
-        <translation type="obsolete">Couleur
+        <translation type="unfinished">Couleur
 de l&apos;ombre</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="obsolete">Effets
+        <translation type="unfinished">Effets
 d&apos;ombre</translation>
     </message>
     <message>
@@ -14193,23 +13723,13 @@ des utilisateurs</translation>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current
-Slide</source>
-        <translation type="obsolete">À partir de la
+        <translation type="unfinished">À partir de la
 diapositive actuelle</translation>
     </message>
     <message>
         <source>From Current 
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current 
-Slide</source>
-        <translation type="obsolete">À partir de la
+        <translation type="unfinished">À partir de la
 diapositive actuelle</translation>
     </message>
     <message>

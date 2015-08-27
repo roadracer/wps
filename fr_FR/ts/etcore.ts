@@ -4428,13 +4428,13 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
         <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
-        <translation>COMBIN(nombre,nombre_choisi)</translation>
+        <translation type="obsolete">COMBIN(nombre,nombre_choisi)</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
         <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;COMBIN</translatorcomment>
-        <translation>Renvoie le nombre de combinaisons d&apos;un nombre d&apos;éléments donné.</translation>
+        <translation type="obsolete">Renvoie le nombre de combinaisons d&apos;un nombre d&apos;éléments donné.</translation>
     </message>
     <message>
         <source>COVAR(array1,array2)</source>
@@ -5712,13 +5712,13 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
         <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
-        <translation>LTRIM(texte)</translation>
+        <translation type="obsolete">LTRIM(texte)</translation>
     </message>
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
         <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;LTRIM</translatorcomment>
-        <translation>Supprime les espaces à gauche de la chaîne de texte spécifiée.</translation>
+        <translation type="obsolete">Supprime les espaces à gauche de la chaîne de texte spécifiée.</translation>
     </message>
     <message>
         <source>MID(text,start_num,num_chars)</source>
@@ -5772,13 +5772,13 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
         <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
-        <translation>RTRIM(texte)</translation>
+        <translation type="obsolete">RTRIM(texte)</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
         <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;RTRIM</translatorcomment>
-        <translation>Supprime les espaces à droite de la chaîne de texte spécifiée.</translation>
+        <translation type="obsolete">Supprime les espaces à droite de la chaîne de texte spécifiée.</translation>
     </message>
     <message>
         <source>SEARCH(find_text,within_text,start_num)</source>

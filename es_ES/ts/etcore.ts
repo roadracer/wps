@@ -3725,7 +3725,7 @@ Hay errores con la  consulta generada.</translation>
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
-        <translation>COMBINAT(número,tamaño)</translation>
+        <translation type="obsolete">COMBINAT(número,tamaño)</translation>
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
@@ -4785,7 +4785,7 @@ Hay errores con la  consulta generada.</translation>
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation>RecortarIzq(texto)</translation>
+        <translation type="obsolete">RecortarIzq(texto)</translation>
     </message>
     <message>
         <source>Logical</source>
@@ -5210,7 +5210,7 @@ Hay errores con la  consulta generada.</translation>
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation>RecortarDer(texto)</translation>
+        <translation type="obsolete">RecortarDer(texto)</translation>
     </message>
     <message>
         <source>Recently Used</source>
@@ -5225,12 +5225,12 @@ Hay errores con la  consulta generada.</translation>
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
-        <translation>Quita espacios izquierdos de la cadena especificada de texto.</translation>
+        <translation type="obsolete">Quita espacios izquierdos de la cadena especificada de texto.</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
-        <translation>Quita espacios derechos de la cadena especificada de texto.</translation>
+        <translation type="obsolete">Quita espacios derechos de la cadena especificada de texto.</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string.</source>
@@ -6050,7 +6050,7 @@ Hay errores con la  consulta generada.</translation>
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
-        <translation>Devuelve el número de combinaciones para un número determinado de elementos. </translation>
+        <translation type="obsolete">Devuelve el número de combinaciones para un número determinado de elementos. </translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of items.</source>

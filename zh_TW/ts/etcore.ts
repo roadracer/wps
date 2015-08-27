@@ -4135,7 +4135,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
-        <translation>COMBIN(number,number_chosen)</translation>
+        <translation type="obsolete">COMBIN(number,number_chosen)</translation>
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
@@ -5220,7 +5220,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation>LTRIM(text)</translation>
+        <translation type="obsolete">LTRIM(text)</translation>
     </message>
     <message>
         <source>Logical</source>
@@ -5645,7 +5645,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation>RTRIM(text)</translation>
+        <translation type="obsolete">RTRIM(text)</translation>
     </message>
     <message>
         <source>Recently Used</source>
@@ -5660,12 +5660,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
-        <translation>清除純文字中左邊的空格。</translation>
+        <translation type="obsolete">清除純文字中左邊的空格。</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
-        <translation>清除純文字中右邊的空格。</translation>
+        <translation type="obsolete">清除純文字中右邊的空格。</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string.</source>
@@ -6485,7 +6485,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
-        <translation>傳回從數值物件中選取特定數量的物件所有可能排列方式的個數。</translation>
+        <translation type="obsolete">傳回從數值物件中選取特定數量的物件所有可能排列方式的個數。</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of items.</source>

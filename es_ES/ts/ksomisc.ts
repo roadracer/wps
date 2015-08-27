@@ -115,6 +115,10 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>WPS Cloud.lnk</source>
         <translation type="unfinished">WPS Cloud.lnk</translation>
     </message>
+    <message>
+        <source>WPS Office.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -316,6 +320,21 @@ Puede corregir los errores encontrados al usar WPS Office o jacer configuracione
     <message>
         <source>An error occurred when repairing, please retry.</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KOther</name>
+    <message>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &quot;Upload to WPS Office Cloud&quot; on the Context Menu.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1231,7 +1250,7 @@ El iconi de botón, grupo de comando y posición de ventana de tarea de cada tem
     </message>
     <message>
         <source>&amp;Download updates but let me choose whether to install them</source>
-        <translation>&amp;Descargar actualizaciones pero permitir que elijo cuándo instalarlas</translation>
+        <translation type="obsolete">&amp;Descargar actualizaciones pero permitir que elijo cuándo instalarlas</translation>
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>
@@ -1316,6 +1335,10 @@ El iconi de botón, grupo de comando y posición de ventana de tarea de cada tem
     </message>
     <message>
         <source>Do not &amp;check for updates automatically (not recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check for update, but let me choose whether to &amp;download and install them</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

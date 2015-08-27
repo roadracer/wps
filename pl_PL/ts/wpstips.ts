@@ -2529,17 +2529,17 @@ Można zapobiec wprowadzaniu zmian formatowania, wymusić śledzenie wszystkich 
     <message id="ReviewPaneTip.title">
         <source></source>
         <extracomment>ReviewPaneTip.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdziel komórki</translation>
     </message>
     <message id="ReviewPaneTip.content">
         <source></source>
         <extracomment>ReviewPaneTip.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdziel komórki</translation>
     </message>
     <message id="ReviewPaneTip2.title">
         <source></source>
         <extracomment>ReviewPaneTip2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdziel komórki</translation>
     </message>
     <message id="ReviewPaneTip2.content">
         <source></source>

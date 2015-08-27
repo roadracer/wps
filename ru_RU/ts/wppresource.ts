@@ -1399,12 +1399,7 @@
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Slide
-Master</source>
-        <translation type="obsolete">Создать образец
+        <translation type="unfinished">Создать образец
 слайдов</translation>
     </message>
     <message>
@@ -1969,12 +1964,7 @@ Master</source>
     <message>
         <source>Animation
 Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Animation
-Schemes</source>
-        <translation type="obsolete">Эффекты
+        <translation type="unfinished">Эффекты
 анимации</translation>
     </message>
     <message>
@@ -1984,12 +1974,7 @@ Schemes</source>
     <message>
         <source>Custom
 Animation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom
-Animation</source>
-        <translation type="obsolete">Настройка
+        <translation type="unfinished">Настройка
 анимации</translation>
     </message>
     <message>
@@ -2011,12 +1996,7 @@ Animation</source>
     <message>
         <source>Transition
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Transition
-Effects</source>
-        <translation type="obsolete">Эффекты
+        <translation type="unfinished">Эффекты
 перехода</translation>
     </message>
     <message>
@@ -2041,12 +2021,7 @@ Effects</source>
     <message>
         <source>Color
 Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color
-Schemes</source>
-        <translation type="obsolete">Цветовые
+        <translation type="unfinished">Цветовые
 схемы</translation>
     </message>
     <message>
@@ -2064,12 +2039,7 @@ Schemes</source>
     <message>
         <source>Edit
 Slide Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit
-Slide Master</source>
-        <translation type="obsolete">Изменить
+        <translation type="unfinished">Изменить
 образец слайдов</translation>
     </message>
     <message>
@@ -2087,12 +2057,7 @@ Slide Master</source>
     <message>
         <source>Involved
 Template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Involved
-Template</source>
-        <translation type="obsolete">Используемый
+        <translation type="unfinished">Используемый
 шаблон</translation>
     </message>
     <message>
@@ -2102,12 +2067,7 @@ Template</source>
     <message>
         <source>Page
 Setup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page
-Setup</source>
-        <translation type="obsolete">Параметры
+        <translation type="unfinished">Параметры
 страницы</translation>
     </message>
     <message>
@@ -2129,23 +2089,13 @@ Setup</source>
     <message>
         <source>Slide
 Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Orientation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Layout</source>
-        <translation type="obsolete">Макет
+        <translation type="unfinished">Макет
 слайда</translation>
     </message>
     <message>
         <source>Slide
 Orientation</source>
-        <translation type="obsolete">Ориентация
+        <translation type="unfinished">Ориентация
 слайда</translation>
     </message>
     <message>
@@ -2170,12 +2120,7 @@ Orientation</source>
     <message>
         <source>Clear
 Table Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear
-Table Style</source>
-        <translation type="obsolete">Очистить
+        <translation type="unfinished">Очистить
 стиль таблицы</translation>
     </message>
     <message>
@@ -2231,12 +2176,7 @@ Table Style</source>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM
-Add-Ins</source>
-        <translation type="obsolete">Надстройки
+        <translation type="unfinished">Надстройки
 COM</translation>
     </message>
     <message>
@@ -2262,12 +2202,7 @@ COM</translation>
     <message>
         <source>Control 
 Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Control 
-Properties</source>
-        <translation type="obsolete">Свойства
+        <translation type="unfinished">Свойства
 элемента управления</translation>
     </message>
     <message>
@@ -2337,12 +2272,7 @@ Properties</source>
     <message>
         <source>Visual Basic
 Editor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Visual Basic
-Editor</source>
-        <translation type="obsolete">Редактор 
+        <translation type="unfinished">Редактор 
 Visual Basic</translation>
     </message>
     <message>
@@ -2423,12 +2353,7 @@ Visual Basic</translation>
     <message>
         <source>3-D
 On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-On</source>
-        <translation type="obsolete">Применить
+        <translation type="unfinished">Применить
 3-D</translation>
     </message>
     <message>
@@ -3349,12 +3274,7 @@ On</source>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Effects</source>
-        <translation type="obsolete">Эффекты
+        <translation type="unfinished">Эффекты
 3-D</translation>
     </message>
     <message>
@@ -3625,12 +3545,7 @@ Effects</source>
     <message>
         <source>Format 
 Painter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format 
-Painter</source>
-        <translation type="obsolete">Формат 
+        <translation type="unfinished">Формат 
 по образцу</translation>
     </message>
     <message>
@@ -3656,22 +3571,12 @@ Painter</source>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current
-Slide</source>
-        <translation type="obsolete">От текущего слайда</translation>
+        <translation type="unfinished">От текущего слайда</translation>
     </message>
     <message>
         <source>From Current 
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current 
-Slide</source>
-        <translation type="obsolete">От текущего 
+        <translation type="unfinished">От текущего 
 слайда</translation>
     </message>
     <message>
@@ -3941,12 +3846,7 @@ Slide</source>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Effects</source>
-        <translation type="obsolete">Эффекты
+        <translation type="unfinished">Эффекты
 тени</translation>
     </message>
     <message>
@@ -4097,12 +3997,7 @@ Effects</source>
     <message>
         <source>Background
 Music</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Background
-Music</source>
-        <translation type="obsolete">Фоновая
+        <translation type="unfinished">Фоновая
 музыка</translation>
     </message>
     <message>
@@ -4164,12 +4059,7 @@ Music</source>
     <message>
         <source>Header and 
 Footer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Header and 
-Footer</source>
-        <translation type="obsolete">Колонтитулы</translation>
+        <translation type="unfinished">Колонтитулы</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -4266,12 +4156,7 @@ Footer</source>
     <message>
         <source>Organization
 Chart</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Organization
-Chart</source>
-        <translation type="obsolete">Организационная
+        <translation type="unfinished">Организационная
 диаграмма</translation>
     </message>
     <message>
@@ -4305,12 +4190,7 @@ Chart</source>
     <message>
         <source>Slide
 Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Number</source>
-        <translation type="obsolete">Номер
+        <translation type="unfinished">Номер
 слайда</translation>
     </message>
     <message>
@@ -4848,12 +4728,7 @@ Number</source>
     <message>
         <source>Change
 Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change
-Picture</source>
-        <translation type="obsolete">Изменить
+        <translation type="unfinished">Изменить
 изображение</translation>
     </message>
     <message>
@@ -4871,12 +4746,7 @@ Picture</source>
     <message>
         <source>Compress
 Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Compress
-Pictures</source>
-        <translation type="obsolete">Сжать
+        <translation type="unfinished">Сжать
 изображение</translation>
     </message>
     <message>
@@ -5106,12 +4976,7 @@ Pictures</source>
     <message>
         <source>Picture
 Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture
-Size</source>
-        <translation type="obsolete">Размер
+        <translation type="unfinished">Размер
 изображения</translation>
     </message>
     <message>
@@ -5141,12 +5006,7 @@ Size</source>
     <message>
         <source>Reset
 Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reset
-Picture</source>
-        <translation type="obsolete">Восстановить
+        <translation type="unfinished">Восстановить
 исходное изображение</translation>
     </message>
     <message>
@@ -5192,12 +5052,7 @@ Picture</source>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="obsolete">Показать или скрыть тень</translation>
+        <translation type="unfinished">Показать или скрыть тень</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -5284,12 +5139,7 @@ On/Off</source>
     <message>
         <source>Frame
 Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Frame
-Slides</source>
-        <translation type="obsolete">Оформление
+        <translation type="unfinished">Оформление
 слайда</translation>
     </message>
     <message>
@@ -5323,12 +5173,7 @@ Slides</source>
     <message>
         <source>Header and 
 Footer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Header and 
-Footer</source>
-        <translation type="obsolete">Колонтитулы</translation>
+        <translation type="unfinished">Колонтитулы</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -5341,12 +5186,7 @@ Footer</source>
     <message>
         <source>Next
 Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next
-Page</source>
-        <translation type="obsolete">Следующая
+        <translation type="unfinished">Следующая
 страница</translation>
     </message>
     <message>
@@ -5376,12 +5216,7 @@ Page</source>
     <message>
         <source>Previous
 Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Previous
-Page</source>
-        <translation type="obsolete">Предыдущая
+        <translation type="unfinished">Предыдущая
 страница</translation>
     </message>
     <message>
@@ -5395,23 +5230,13 @@ Page</source>
     <message>
         <source>Print
 Hidden Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print
-Hidden Slides</source>
-        <translation type="obsolete">Печатать
+        <translation type="unfinished">Печатать
 скрытые слайды</translation>
     </message>
     <message>
         <source>Print 
 Directly</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Print 
-Directly</source>
-        <translation type="obsolete">Печатать 
+        <translation type="unfinished">Печатать 
 прямо на принтер</translation>
     </message>
     <message>
@@ -5425,12 +5250,7 @@ Directly</source>
     <message>
         <source>Printing
 Order</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Printing
-Order</source>
-        <translation type="obsolete">Порядок
+        <translation type="unfinished">Порядок
 печати</translation>
     </message>
     <message>
@@ -5513,12 +5333,7 @@ Order</source>
     <message>
         <source>Delete 
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete 
-Comment</source>
-        <translation type="obsolete">Удалить 
+        <translation type="unfinished">Удалить 
 примечание</translation>
     </message>
     <message>
@@ -5544,12 +5359,7 @@ Comment</source>
     <message>
         <source>Edit
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit
-Comment</source>
-        <translation type="obsolete">Изменить
+        <translation type="unfinished">Изменить
 примечание</translation>
     </message>
     <message>
@@ -5571,12 +5381,7 @@ Comment</source>
     <message>
         <source>New 
 Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New 
-Comment</source>
-        <translation type="obsolete">Новое 
+        <translation type="unfinished">Новое 
 примечание</translation>
     </message>
     <message>
@@ -5610,12 +5415,7 @@ Comment</source>
     <message>
         <source>Show/Hide
 Mark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show/Hide
-Mark</source>
-        <translation type="obsolete">Показать
+        <translation type="unfinished">Показать
 или скрыть разметку</translation>
     </message>
     <message>
@@ -5644,45 +5444,25 @@ Mark</source>
     <message>
         <source>3-D
 Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Color</source>
-        <translation type="obsolete">Цвет
+        <translation type="unfinished">Цвет
 3-D</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="obsolete">Эффекты
+        <translation type="unfinished">Эффекты
 3-D</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation type="obsolete">Применить
+        <translation type="unfinished">Применить
 или отменить 3-D</translation>
     </message>
     <message>
         <source>3-D 
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D 
-Effects</source>
-        <translation type="obsolete">Эффекты 
+        <translation type="unfinished">Эффекты 
 3-D</translation>
     </message>
     <message>
@@ -5804,43 +5584,23 @@ Effects</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Цвет тени</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Color</source>
-        <translation type="obsolete">Цвет тени</translation>
-    </message>
-    <message>
-        <source>Shadow
-Effects</source>
-        <translation type="obsolete">Эффекты
+        <translation type="unfinished">Эффекты
 тени</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="obsolete">Показать или скрыть тень</translation>
+        <translation type="unfinished">Показать или скрыть тень</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow 
-Effects</source>
-        <translation type="obsolete">Эффекты 
+        <translation type="unfinished">Эффекты 
 тени</translation>
     </message>
     <message>
@@ -5957,23 +5717,13 @@ Effects</source>
     <message>
         <source>Close
 Master View</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close
-Master View</source>
-        <translation type="obsolete">Закрыть
+        <translation type="unfinished">Закрыть
 режим образца</translation>
     </message>
     <message>
         <source>Delete 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete 
-Master</source>
-        <translation type="obsolete">Удалить образец</translation>
+        <translation type="unfinished">Удалить образец</translation>
     </message>
     <message>
         <source>Delete Master</source>
@@ -6002,12 +5752,7 @@ Master</source>
     <message>
         <source>Master 
 Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Master 
-Layout</source>
-        <translation type="obsolete">Разметка 
+        <translation type="unfinished">Разметка 
 образца</translation>
     </message>
     <message>
@@ -6031,12 +5776,7 @@ Master</source>
     <message>
         <source>New Slide 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Slide 
-Master</source>
-        <translation type="obsolete">Создать образец
+        <translation type="unfinished">Создать образец
 слайдов</translation>
     </message>
     <message>
@@ -6047,12 +5787,7 @@ Master</source>
     <message>
         <source>New Title 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Title 
-Master</source>
-        <translation type="obsolete">Создать образец 
+        <translation type="unfinished">Создать образец 
 заголовков</translation>
     </message>
     <message>
@@ -6062,12 +5797,7 @@ Master</source>
     <message>
         <source>Preserve 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preserve 
-Master</source>
-        <translation type="obsolete">Сохранить 
+        <translation type="unfinished">Сохранить 
 образец</translation>
     </message>
     <message>
@@ -6077,12 +5807,7 @@ Master</source>
     <message>
         <source>Rename 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rename 
-Master</source>
-        <translation type="obsolete">Переименовать 
+        <translation type="unfinished">Переименовать 
 образец</translation>
     </message>
     <message>
@@ -6164,12 +5889,7 @@ Background Picture</source>
     <message>
         <source>Custom 
 Slide Shows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom 
-Slide Shows</source>
-        <translation type="obsolete">Произвольный 
+        <translation type="unfinished">Произвольный 
 показ</translation>
     </message>
     <message>
@@ -6179,12 +5899,7 @@ Slide Shows</source>
     <message>
         <source>From
 Beginning</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From
-Beginning</source>
-        <translation type="obsolete">От начала</translation>
+        <translation type="unfinished">От начала</translation>
     </message>
     <message>
         <source>From Beginning</source>
@@ -6206,12 +5921,7 @@ Slide</source>
     <message>
         <source>Rehearse 
 Timings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rehearse 
-Timings</source>
-        <translation type="obsolete">Настройка 
+        <translation type="unfinished">Настройка 
 времени</translation>
     </message>
     <message>
@@ -6233,23 +5943,13 @@ Timings</source>
     <message>
         <source>Slide
 Transition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Transition</source>
-        <translation type="obsolete">Смена
+        <translation type="unfinished">Смена
 слайдов</translation>
     </message>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide Show
-Settings</source>
-        <translation type="obsolete">Параметры 
+        <translation type="unfinished">Параметры 
 показа слайдов</translation>
     </message>
     <message>
@@ -6263,12 +5963,7 @@ Settings</source>
     <message>
         <source>Speaker
 Notes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Speaker
-Notes</source>
-        <translation type="obsolete">Заметки
+        <translation type="unfinished">Заметки
 докладчика</translation>
     </message>
     <message>
@@ -6465,12 +6160,7 @@ Notes</source>
     <message>
         <source>Merge
 Cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Merge
-Cells</source>
-        <translation type="obsolete">Объединить
+        <translation type="unfinished">Объединить
 ячейки</translation>
     </message>
     <message>
@@ -6544,12 +6234,7 @@ Cells</source>
     <message>
         <source>Split
 Cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Split
-Cells</source>
-        <translation type="obsolete">Разбиение ячеек</translation>
+        <translation type="unfinished">Разбиение ячеек</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -6570,12 +6255,7 @@ Cells</source>
     <message>
         <source>Text
 Direction</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text
-Direction</source>
-        <translation type="obsolete">Направление
+        <translation type="unfinished">Направление
 текста</translation>
     </message>
     <message>
@@ -6620,12 +6300,7 @@ Direction</source>
     <message>
         <source>Arrange
 All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrange
-All</source>
-        <translation type="obsolete">Расположить все</translation>
+        <translation type="unfinished">Расположить все</translation>
     </message>
     <message>
         <source>Arrange All</source>
@@ -6634,12 +6309,7 @@ All</source>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM
-Add-Ins</source>
-        <translation type="obsolete">Надстройки
+        <translation type="unfinished">Надстройки
 COM</translation>
     </message>
     <message>
@@ -6653,12 +6323,7 @@ COM</translation>
     <message>
         <source>Close
 Other Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close
-Other Window</source>
-        <translation type="obsolete">Закрыть
+        <translation type="unfinished">Закрыть
 другое окно</translation>
     </message>
     <message>
@@ -6684,23 +6349,13 @@ Other Window</source>
     <message>
         <source>Fit to
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fit to
-Window</source>
-        <translation type="obsolete">Автоподбор 
+        <translation type="unfinished">Автоподбор 
 по ширине окна</translation>
     </message>
     <message>
         <source>Grid and
 Guides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Grid and
-Guides</source>
-        <translation type="obsolete">Сетка 
+        <translation type="unfinished">Сетка 
 и направляющие</translation>
     </message>
     <message>
@@ -6730,12 +6385,7 @@ Guides</source>
     <message>
         <source>New
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New
-Window</source>
-        <translation type="obsolete">Новое
+        <translation type="unfinished">Новое
 окно</translation>
     </message>
     <message>
@@ -6769,23 +6419,13 @@ Window</source>
     <message>
         <source>Slide 
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide 
-Sorter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide 
-Master</source>
-        <translation type="obsolete">Образец 
+        <translation type="unfinished">Образец 
 слайдов</translation>
     </message>
     <message>
         <source>Slide 
 Sorter</source>
-        <translation type="obsolete">Сортировщик 
+        <translation type="unfinished">Сортировщик 
 слайдов</translation>
     </message>
     <message>
@@ -6799,12 +6439,7 @@ Sorter</source>
     <message>
         <source>Switch
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch
-Window</source>
-        <translation type="obsolete">Переключить
+        <translation type="unfinished">Переключить
 окно</translation>
     </message>
     <message>
@@ -6861,34 +6496,19 @@ Window</source>
     <message>
         <source>3-D
 Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Color</source>
-        <translation type="obsolete">Цвет
+        <translation type="unfinished">Цвет
 3-D</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="obsolete">Эффекты
+        <translation type="unfinished">Эффекты
 3-D</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation type="obsolete">Применить
+        <translation type="unfinished">Применить
 или отменить 3-D</translation>
     </message>
     <message>
@@ -7009,16 +6629,6 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow
-Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
 Color</source>
         <translation type="obsolete">Цвет
 тени</translation>
@@ -7026,23 +6636,18 @@ Color</source>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="obsolete">Эффекты
+        <translation type="unfinished">Эффекты
 тени</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="obsolete">Показать или скрыть тень</translation>
+        <translation type="unfinished">Показать или скрыть тень</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow 
-Effects</source>
-        <translation type="obsolete">Эффекты 
+        <translation type="unfinished">Эффекты 
 тени</translation>
     </message>
     <message>
@@ -7136,12 +6741,7 @@ Effects</source>
     <message>
         <source>3-D
 On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-On</source>
-        <translation type="obsolete">Применить
+        <translation type="unfinished">Применить
 3-D</translation>
     </message>
     <message>
@@ -7251,12 +6851,7 @@ On</source>
     <message>
         <source>Character 
 Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Character 
-Spacing</source>
-        <translation type="obsolete">Межзнаковый 
+        <translation type="unfinished">Межзнаковый 
 интервал</translation>
     </message>
     <message>
@@ -7635,12 +7230,7 @@ Spacing</source>
     <message>
         <source>WordArt
 Gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt
-Gallery</source>
-        <translation type="obsolete">Коллекция</translation>
+        <translation type="unfinished">Коллекция</translation>
     </message>
     <message>
         <source>WordArt
@@ -7650,12 +7240,7 @@ Size</source>
     <message>
         <source>WordArt 
 Shape</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt 
-Shape</source>
-        <translation type="obsolete">Форма</translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
@@ -8281,12 +7866,7 @@ Shape</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COM 
-Add-Ins</source>
-        <translation type="obsolete">Надстройки 
+        <translation type="unfinished">Надстройки 
 COM</translation>
     </message>
     <message>
@@ -9121,12 +8701,7 @@ Template</source>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Slide
-Master</source>
-        <translation type="obsolete">Создать образец
+        <translation type="unfinished">Создать образец
 слайдов</translation>
     </message>
     <message>
@@ -10014,12 +9589,7 @@ Master</source>
     <message>
         <source>Involved
 Template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Involved
-Template</source>
-        <translation type="obsolete">Используемый
+        <translation type="unfinished">Используемый
 шаблон</translation>
     </message>
     <message>
@@ -11251,12 +10821,7 @@ AddIns</source>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current
-Slide</source>
-        <translation type="obsolete">От текущего слайда</translation>
+        <translation type="unfinished">От текущего слайда</translation>
     </message>
     <message>
         <source>From Current Slide</source>
@@ -12175,12 +11740,7 @@ Slide</source>
     <message>
         <source>Add
 Subordinate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add
-Subordinate</source>
-        <translation type="obsolete">Добавить
+        <translation type="unfinished">Добавить
 подчинённого</translation>
     </message>
     <message>
@@ -13165,12 +12725,7 @@ Subordinate</source>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Slide
-Master</source>
-        <translation type="obsolete">Создать образец
+        <translation type="unfinished">Создать образец
 слайдов</translation>
     </message>
     <message>
@@ -13241,22 +12796,12 @@ Slide</source>
     <message>
         <source>Slide
 Transition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide
-Transition</source>
-        <translation type="obsolete">Смена слайдов</translation>
+        <translation type="unfinished">Смена слайдов</translation>
     </message>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide Show
-Settings</source>
-        <translation type="obsolete">Параметры 
+        <translation type="unfinished">Параметры 
 показа слайдов</translation>
     </message>
     <message>
@@ -13455,11 +13000,6 @@ Settings</source>
     </message>
     <message>
         <source>Close
-Other Windows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close
 Other Window</source>
         <translation type="obsolete">Закрыть
 другое окно</translation>
@@ -13467,7 +13007,7 @@ Other Window</source>
     <message>
         <source>Close
 Other Windows</source>
-        <translation type="obsolete">Закрыть
+        <translation type="unfinished">Закрыть
  
 другие окна</translation>
     </message>
@@ -13494,12 +13034,7 @@ Other Windows</source>
     <message>
         <source>Fit
 </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fit
-</source>
-        <translation type="obsolete">По размеру окна
+        <translation type="unfinished">По размеру окна
 </translation>
     </message>
     <message>
@@ -13616,12 +13151,7 @@ Other Windows</source>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
-Effects</source>
-        <translation type="obsolete">Эффекты
+        <translation type="unfinished">Эффекты
 3-D</translation>
     </message>
     <message>
@@ -13743,23 +13273,13 @@ Effects</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Effects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
-Color</source>
-        <translation type="obsolete">Цвет
+        <translation type="unfinished">Цвет
 тени</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="obsolete">Эффекты
+        <translation type="unfinished">Эффекты
 тени</translation>
     </message>
     <message>
@@ -17957,23 +17477,13 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current
-Slide</source>
-        <translation type="obsolete">От текущего 
+        <translation type="unfinished">От текущего 
 слайда</translation>
     </message>
     <message>
         <source>From Current 
 Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From Current 
-Slide</source>
-        <translation type="obsolete">От текущего 
+        <translation type="unfinished">От текущего 
 слайда</translation>
     </message>
     <message>

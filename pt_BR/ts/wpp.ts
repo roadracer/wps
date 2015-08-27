@@ -1977,6 +1977,14 @@ o botão advanced permite-lhe escolher entre diferentes tipos de criptografia .<
         <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Choose Display and Help Languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>

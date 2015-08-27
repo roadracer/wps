@@ -2146,6 +2146,14 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Choose Display and Help Languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>

@@ -2024,6 +2024,14 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
         <source>Automatically download and update language packages</source>
         <translation>Automatycznie pobierz i aktualizuj pakiety językowe</translation>
     </message>
+    <message>
+        <source>Choose Display and Help Languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>

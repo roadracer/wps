@@ -4343,6 +4343,14 @@ p, li { white-space: pre-wrap; }
         <source>Automatically download and update language packages</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Choose Display and Help Languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageSetup</name>
