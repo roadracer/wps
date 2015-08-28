@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -54,7 +54,7 @@
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -984,7 +984,7 @@
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Font</source>
@@ -1538,7 +1538,7 @@
     </message>
     <message>
         <source>Show Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż formatowanie</translation>
     </message>
     <message>
         <source>Show InsAndDel</source>
@@ -1546,7 +1546,7 @@
     </message>
     <message>
         <source>Show Insertions and Deletions</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż wstawienia i usunięcia</translation>
     </message>
     <message>
         <source>Show Reviewers</source>
@@ -1577,7 +1577,7 @@
     <name>classics.shadow_settings</name>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -1850,7 +1850,7 @@
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -2475,19 +2475,19 @@ Visual Basic</translation>
     </message>
     <message>
         <source>XML</source>
-        <translation type="unfinished"></translation>
+        <translation>XML</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakiet rozszerzenia XML</translation>
     </message>
     <message>
         <source>XmlSchema</source>
-        <translation type="unfinished"></translation>
+        <translation>Schemat XML</translation>
     </message>
     <message>
         <source>XmlStructure</source>
-        <translation type="unfinished"></translation>
+        <translation>Struktura XML</translation>
     </message>
 </context>
 <context>
@@ -3092,7 +3092,7 @@ tekstu</translation>
     </message>
     <message>
         <source>Manage Credentials</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarządzaj poświadczeniami</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2010 Document</source>
@@ -3164,11 +3164,11 @@ tekstu</translation>
     </message>
     <message>
         <source>Restrict Permission by People</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogranicz uprawnienia według osób</translation>
     </message>
     <message>
         <source>Restricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostęp ograniczony</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3196,11 +3196,11 @@ tekstu</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostęp nieograniczony</translation>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl uprawnienia</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -3232,7 +3232,7 @@ tekstu</translation>
     </message>
     <message>
         <source>WPS Writer 2007-2010 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument programu WPS Writer 2007–2010</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -4348,7 +4348,7 @@ strony</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -4639,7 +4639,7 @@ tekstu</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Font</source>
@@ -4933,7 +4933,7 @@ obrazy</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -5511,7 +5511,7 @@ Przypis dolny/Przypis końcowy</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Chińskie tłumaczenie</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -5646,7 +5646,7 @@ komentarz</translation>
     </message>
     <message>
         <source>Show Format Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż zmianę formatu</translation>
     </message>
     <message>
         <source>Show FormatChange</source>
@@ -5658,7 +5658,7 @@ komentarz</translation>
     </message>
     <message>
         <source>Show Insertions and Deletions</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż wstawienia i usunięcia</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -6058,7 +6058,7 @@ Efekty</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -6385,7 +6385,7 @@ cienia</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -6904,7 +6904,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -7814,7 +7814,7 @@ WordArt</translation>
     <name>popupmenu</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0,25 pkt</translation>
     </message>
     <message>
         <source>0.25 pt.</source>
@@ -7822,7 +7822,7 @@ WordArt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0,5 pkt</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
@@ -7830,7 +7830,7 @@ WordArt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0,75 pkt</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
@@ -7838,7 +7838,7 @@ WordArt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 pkt</translation>
     </message>
     <message>
         <source>1 pt.</source>
@@ -7854,7 +7854,7 @@ WordArt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1,5 pkt</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
@@ -7866,7 +7866,7 @@ WordArt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2,25 pkt</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
@@ -7878,7 +7878,7 @@ WordArt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 pkt</translation>
     </message>
     <message>
         <source>3 pt.</source>
@@ -7890,7 +7890,7 @@ WordArt</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4,5 pkt</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
@@ -7902,7 +7902,7 @@ WordArt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pkt</translation>
     </message>
     <message>
         <source>6 pt.</source>
@@ -8344,7 +8344,7 @@ COM</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreska-kropka</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -8530,7 +8530,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -8569,7 +8569,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Przerzuć w poziomie</translation>
     </message>
     <message>
         <source>Flip Horizontally</source>
@@ -8577,7 +8577,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Przerzuć w pionie</translation>
     </message>
     <message>
         <source>Flip Vertically</source>
@@ -8878,7 +8878,7 @@ formatów</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl linii</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
@@ -8890,11 +8890,11 @@ formatów</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kreska</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -8918,7 +8918,7 @@ formatów</translation>
     </message>
     <message>
         <source>Manage Credentials</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarządzaj poświadczeniami</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -9138,7 +9138,7 @@ formatów</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie z deseniem</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
@@ -9264,7 +9264,7 @@ formatów</translation>
     </message>
     <message>
         <source>Restrict Permission by People</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogranicz uprawnienia według osób</translation>
     </message>
     <message>
         <source>Restricted Access</source>
@@ -9643,7 +9643,7 @@ formatów</translation>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl uprawnienia</translation>
     </message>
     <message>
         <source>View Shortcut</source>
@@ -9906,7 +9906,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Inside Border</source>
@@ -10086,19 +10086,19 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>XML</source>
-        <translation type="unfinished"></translation>
+        <translation>XML</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakiet rozszerzenia XML</translation>
     </message>
     <message>
         <source>XmlSchema</source>
-        <translation type="unfinished"></translation>
+        <translation>Schemat XML</translation>
     </message>
     <message>
         <source>XmlStructure</source>
-        <translation type="unfinished"></translation>
+        <translation>Struktura XML</translation>
     </message>
 </context>
 <context>
@@ -10297,7 +10297,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -10641,7 +10641,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Manage Credentials</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarządzaj poświadczeniami</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2010 Document</source>
@@ -10713,11 +10713,11 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Restrict Permission by People</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogranicz uprawnienia według osób</translation>
     </message>
     <message>
         <source>Restricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostęp ograniczony</translation>
     </message>
     <message>
         <source>Save</source>
@@ -10745,11 +10745,11 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostęp nieograniczony</translation>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl uprawnienia</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -10781,7 +10781,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>WPS Writer 2007-2010 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument programu WPS Writer 2007–2010</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -11062,7 +11062,7 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Find and Replace</source>
@@ -11448,7 +11448,7 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw obraz w trybie online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -12363,7 +12363,7 @@ tekst</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -12901,7 +12901,7 @@ tekst</translation>
     </message>
     <message>
         <source>Accept Changes Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaakceptuj zaznaczone zmiany</translation>
     </message>
     <message>
         <source>Accept Selected Change</source>
@@ -13038,15 +13038,15 @@ tekst</translation>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Okienko recenzowania</translation>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziome okienko recenzowania</translation>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Pionowe okienko recenzowania</translation>
     </message>
     <message>
         <source>Show</source>
@@ -13074,7 +13074,7 @@ tekst</translation>
     </message>
     <message>
         <source>Show Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż formatowanie</translation>
     </message>
     <message>
         <source>Show InsAndDel</source>
@@ -13082,7 +13082,7 @@ tekst</translation>
     </message>
     <message>
         <source>Show Insertions and Deletions</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż wstawienia i usunięcia</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -13428,7 +13428,7 @@ tekst</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -14155,7 +14155,7 @@ Efekty</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -14588,7 +14588,7 @@ cienia</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -15272,7 +15272,7 @@ cienia</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funkcje specjalne</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -15707,11 +15707,11 @@ cienia</translation>
     </message>
     <message>
         <source>Operation Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Operacja dokumentu</translation>
     </message>
     <message>
         <source>Opr</source>
-        <translation type="unfinished"></translation>
+        <translation>Operacja</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -16020,7 +16020,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>XMLStructure</source>
-        <translation type="unfinished"></translation>
+        <translation>Struktura XML</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -16028,7 +16028,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>structure</source>
-        <translation type="unfinished"></translation>
+        <translation>struktura</translation>
     </message>
 </context>
 <context>
@@ -16213,7 +16213,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funkcje specjalne</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -16457,7 +16457,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funkcje specjalne</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>

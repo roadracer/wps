@@ -596,7 +596,12 @@ Try one or more of the following:
 3. Make sure that the source file is in the appropriate directory.
 4. Make sure that the source file&apos;s format is supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Program WPS Writer napotkał błąd podczas próby aktualizacji pliku źródłowego.
+Spróbuj wykonać jedną lub więcej z następujących czynności:
+1. Sprawdź czy plik źródłowy jest otwarty lub używany przez inne programy.
+2. Sprawdź czy plik źródłowy jest chroniony.
+3. Upewnij się, że plik źródłowy jest w odpowiednim katalogu.
+4. Upewnij się, że plik źródłowy może być obsługiwany przez WPS.</translation>
     </message>
 </context>
 <context>
@@ -2757,16 +2762,16 @@ Czy chcesz go zamienić?</translation>
     <message>
         <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
         <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation type="unfinished">Program WPS Writer nie może scalić źródła danych z dokumentem głównym korespondencji seryjnej, ponieważ wszystkie rekordy są puste, albo żaden z rekordów nie spełnia warunków kwerendy.</translation>
+        <translation>Program WPS Writer nie może scalić źródła danych z dokumentem głównym korespondencji seryjnej, ponieważ wszystkie rekordy są puste, albo żaden z rekordów nie spełnia warunków kwerendy.</translation>
     </message>
     <message>
         <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
         <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
-        <translation type="unfinished"></translation>
+        <translation>Program WPS Writer nie może otworzyć pliku %s jako źródła danych lub nagłówka, ponieważ jest to aktywny dokument główny korespondencji seryjnej.</translation>
     </message>
     <message>
         <source>You cannot compare these documents because the document contain XML Nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można porównywać tych dokumentów, ponieważ dokument zawiera węzły XML</translation>
     </message>
 </context>
 <context>
@@ -2885,12 +2890,12 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>The measurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wielkość musi się zawierać w przedziale między -1584 pkt i 1584 pkt.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wielkość musi się zawierać w przedziale między 0,5 i 600.</translation>
     </message>
 </context>
 <context>
@@ -3273,7 +3278,8 @@ Ta kopia zapasowa zostanie zapisana do (%s)</translation>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
 This backup will be saved to (%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
-        <translation type="unfinished"></translation>
+        <translation>Występują błędy podczas tworzenia kopii zapasowej! Nie masz uprawnień do zapisywania w katalogu kopii zapasowej, w którym miała być umieszczona. Proszę spróbuj zmienić katalog kopii zapasowej.
+Ta kopia zapasowa zostanie zapisana do (%s)</translation>
     </message>
 </context>
 <context>
@@ -5136,12 +5142,12 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed.</source>
         <comment>wps_sVBAMacroSecurityError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Program WPS Writer napotkał błąd podczas dostosowywania bezpieczeństwa makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane.</translation>
     </message>
     <message>
         <source>This shortcut key already exists. Please set another key.</source>
         <comment>wps_sAppShortcutExisted</comment>
-        <translation type="unfinished"></translation>
+        <translation>Klawisz skrótu już istnieje. Proszę ustaw inny klawisz.</translation>
     </message>
 </context>
 <context>
@@ -7455,7 +7461,7 @@ pisowni</translation>
     <message>
         <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
-        <translation type="unfinished"></translation>
+        <translation>Osobiste książki adresowe pakietu Outlook (*.pab) | *.pab; |</translation>
     </message>
 </context>
 <context>

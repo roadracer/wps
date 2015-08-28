@@ -89,27 +89,27 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Wenzi.lnk</source>
-        <translation>Partnerzy WPS.lnk</translation>
+        <translation>WPS Wenzi.lnk</translation>
     </message>
     <message>
         <source>WPS Yanshi.lnk</source>
-        <translation>Demo WPS.lnk</translation>
+        <translation>WPS Yanshi.lnk</translation>
     </message>
     <message>
         <source>WPS Biaoge.lnk</source>
-        <translation>Formularz WPS.lnk</translation>
+        <translation>WPS Biaoge.lnk</translation>
     </message>
     <message>
         <source>KS Wenzi.lnk</source>
-        <translation>Partnerzy KS.lnk</translation>
+        <translation>KS Wenzi.lnk</translation>
     </message>
     <message>
         <source>KS Yanshi.lnk</source>
-        <translation>Demo KS.lnk</translation>
+        <translation>KS Yanshi.lnk</translation>
     </message>
     <message>
         <source>KS Biaoge.lnk</source>
-        <translation>Formularz KS.lnk</translation>
+        <translation>KS Biaoge.lnk</translation>
     </message>
 </context>
 <context>

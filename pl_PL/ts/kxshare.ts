@@ -231,19 +231,19 @@
     </message>
     <message>
         <source>Downloading online font &quot;%1&quot;. Click the font list to see more detail. (Restart to take effect)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie czcionki online &quot;%1&quot;. Kliknij na listę czcionek, aby zobaczyć więcej szczegółów. (Uruchom ponownie, aby zostały uwzględnione)</translation>
     </message>
     <message>
         <source>Download cloud font &quot;%1&quot; successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie czcionki chmury &quot;%1&quot; powiodło się</translation>
     </message>
     <message>
         <source>Download cloud font &quot;%1&quot; failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie czcionki chmury &quot;%1&quot; nie powiodło się</translation>
     </message>
     <message>
         <source>Downloading cloud font, click the font list to see more detail.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie czcionki chmury, kliknij na listę czcionek, aby zobaczyć więcej szczegółów.</translation>
     </message>
 </context>
 <context>
@@ -392,7 +392,7 @@
     </message>
     <message>
         <source>FileName or PathName is longger than 218 characters!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa pliku lub ścieżki jest dłuższa niż 218 znaków!</translation>
     </message>
 </context>
 <context>
@@ -569,7 +569,7 @@
     </message>
     <message>
         <source>Fail to save the serial number. Please check whether you have the administrator permission or not.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zapisać numeru seryjnego. Proszę sprawdź, czy masz uprawnienia administratora.</translation>
     </message>
 </context>
 <context>
@@ -588,7 +588,7 @@
     </message>
     <message>
         <source>Incorrect password. Please re-enter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowe hasło. Wprowadź ponownie.</translation>
     </message>
 </context>
 <context>
@@ -623,7 +623,7 @@
     </message>
     <message>
         <source>Switch Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz okna</translation>
     </message>
 </context>
 <context>
@@ -1154,15 +1154,15 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użytkownicy z uprawnieniem do odczytu mogą odczytywać ten dokument, ale nie mogą zmieniać, drukować lub kopiować zawartości.</translation>
     </message>
     <message>
         <source>Give all users Read access</source>
-        <translation type="unfinished"></translation>
+        <translation>Daje wszystkim użytkownikom dostęp do odczytu</translation>
     </message>
     <message>
         <source>Give all users Change access</source>
-        <translation type="unfinished"></translation>
+        <translation>Daje wszystkim użytkownikom dostęp do wprowadzania zmian</translation>
     </message>
 </context>
 <context>
@@ -1361,7 +1361,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>????????????? WPS Office ????</source>
-        <translation type="unfinished"></translation>
+        <translation>Aby korzystać z Przybornika formantów, proszę zakupić WPS Office Professional.</translation>
     </message>
 </context>
 <context>
@@ -1391,19 +1391,19 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Dowolne</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Prostokątne</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Pionowo</translation>
     </message>
 </context>
 <context>
@@ -1719,11 +1719,11 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Pyramid Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagram ostrosłupowy</translation>
     </message>
     <message>
         <source>Venn Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagram Venna</translation>
     </message>
 </context>
 <context>
@@ -1866,7 +1866,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>编辑字典</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytowanie słownika</translation>
     </message>
 </context>
 <context>
@@ -2247,11 +2247,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Require Http authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Wymagane uwierzytelnienie Http</translation>
     </message>
     <message>
         <source>Enter your username and password to sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź swoją nazwę użytkownika i hasło, aby się zalogować.</translation>
     </message>
 </context>
 <context>
@@ -2575,13 +2575,15 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     </message>
     <message>
         <source>File Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarządzanie plikami</translation>
     </message>
     <message>
         <source>Please select the files you wish to remove from the recent document list, then press Delete. 
 This will not permanently delete your file, but only remove them from your recent records.
 Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz pliki, które chcesz usunąć z listy ostatnio używanych dokumentów, a następnie naciśnij przycisk Usuń. 
+Nie spowoduje to trwałego usunięcia plików, tylko usunie je z ostatnich rekordów.
+Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to usunięcie zaznaczenia elementów.</translation>
     </message>
 </context>
 <context>
@@ -2619,7 +2621,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>&amp;Select one of the following user accounts to create or open content with restricted permission. To use an account not listed below, click Add.</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wybierz jedno z następujących kont użytkownika, aby utworzyć lub otworzyć zawartość z ograniczonym uprawnieniem. Aby użyć konta niewyświetlonego poniżej, kliknij przycisk Dodaj.</translation>
     </message>
 </context>
 <context>
@@ -2788,13 +2790,17 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
         <source>
 
 Modified time:</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Godzina modyfikacji:</translation>
     </message>
     <message>
         <source>
 
 This record is invalid. The file has been renamed,deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Ten rekord jest nieprawidłowy. Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
 </context>
 <context>
@@ -3067,19 +3073,19 @@ This record is invalid. The file has been renamed,deleted or moved.</source>
     </message>
     <message>
         <source>This document uses cloud font &quot;%1&quot;. For your convenience, please download this cloud font.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten dokument używa czcionek chmury &quot;%1&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
     <message>
         <source>This document uses cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten dokument używa czcionek chmury &quot;%1&quot; i &quot;%2&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
     <message>
         <source>This document uses cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten dokument używa czcionek chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
     <message>
         <source>This document uses cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten dokument używa czcionek chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;, itp. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
 </context>
 <context>
@@ -3646,7 +3652,7 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>Cloud has reached its limit for cloud fonts (%1). Please go to the &apos;Management of Cloud Font&apos; page for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usługa Cloud osiągnęła limit dla czcionek chmury (%1). Proszę przejdź do &apos;Zarządzanie czcionkami chmury&apos;, aby zobaczyć szczegóły.</translation>
     </message>
 </context>
 <context>
@@ -3704,11 +3710,11 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>%1 membership has expired, please renew.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 członkostwo wygasło, proszę odnów.</translation>
     </message>
     <message>
         <source>WPS members can access to more than 300 cloud fonts, updated monthly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Członkowie WPS mogą uzyskać dostęp do ponad 300 czcionek chmury, aktualizowanych co miesiąc.</translation>
     </message>
 </context>
 <context>
@@ -3808,43 +3814,44 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     <message>
         <source>Upgrade to use VIP-only fonts.
 Click here to sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uaktualnij, aby używać czcionek tylko dla VIP.
+Kliknij tutaj, aby się zalogować.</translation>
     </message>
     <message>
         <source>Senior members can access to free cloud fonts. Click to sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Starsi członkowie mają dostęp do darmowych czcionek chmury. Kliknij, aby się zalogować.</translation>
     </message>
     <message>
         <source>Members can access to free cloud fonts. Click to sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Członkowie mają dostęp do darmowych czcionek chmury. Kliknij, aby się zalogować.</translation>
     </message>
     <message>
         <source>Your %1 membership expires now. Please renew.</source>
-        <translation type="unfinished"></translation>
+        <translation>Twoje członkostwo %1 wygasa teraz. Proszę odnowić.</translation>
     </message>
     <message>
         <source>Downloading, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie, proszę czekać...</translation>
     </message>
     <message>
         <source>Upgrade to use VIP-only fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uaktualnij, aby używać czcionek tylko dla VIP.</translation>
     </message>
     <message>
         <source>Your %1 membership expires now. Please renew to use cloud fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Twoje członkostwo %1 wygasa teraz. Proszę odnowić, aby używć czcionek chmury.</translation>
     </message>
     <message>
         <source>All currently available cloud fonts have been installed.  More are coming soon!</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie dostępne obecnie czcionki chmury zostały zainstalowane. Więcej będzie dostępne już wkrótce!</translation>
     </message>
     <message>
         <source>Hide cloud fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukryj czcionki chmury</translation>
     </message>
     <message>
         <source>Click to keep a cloud font on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknij, aby zachować czcionki chmury na wierzchu</translation>
     </message>
 </context>
 <context>
@@ -3895,11 +3902,11 @@ Click here to sign in.</source>
     </message>
     <message>
         <source>You can also download</source>
-        <translation type="unfinished"></translation>
+        <translation>Możesz również pobrać</translation>
     </message>
     <message>
         <source>Enter Viewer Mode</source>
-        <translation type="unfinished">Przejdź w tryb przeglądarki</translation>
+        <translation>Przejdź w tryb przeglądarki</translation>
     </message>
 </context>
 <context>
@@ -3922,7 +3929,7 @@ Click here to sign in.</source>
     </message>
     <message>
         <source>The specified data type is unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podany typ danych nie jest dostępny.</translation>
     </message>
 </context>
 <context>
@@ -3989,22 +3996,22 @@ Click here to sign in.</source>
     </message>
     <message>
         <source>Users can request additional per&amp;missions from:</source>
-        <translation type="unfinished"></translation>
+        <translation>Użytkownicy mogą żądać dodatkowych &amp;uprawnień od:</translation>
     </message>
 </context>
 <context>
     <name>KxPicksolutionDlg</name>
     <message>
         <source>Choose XML Expansion Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybieranie pakietu rozszerzenia XML</translation>
     </message>
     <message>
         <source>One or more XML expansion packs are available for this file. Choose one from the list below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dla tego pliku dostępnych jest jeden lub więcej pakietów rozszerzeń XML. Wybierz jeden z poniższej listy.</translation>
     </message>
     <message>
         <source>No XML expansion pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak pakietu rozszerzenia XML</translation>
     </message>
 </context>
 <context>
@@ -4407,32 +4414,37 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     </message>
     <message>
         <source>Clear in one click</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść jednym kliknięciem</translation>
     </message>
     <message>
         <source>Clear &amp;all selected records</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść &amp;wszystkie wybrane rekordy</translation>
     </message>
     <message>
         <source>Clear &amp;all invalid records</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść &amp;wszystkie nieprawidłowe rekordy</translation>
     </message>
     <message>
         <source>
 
 Modified time: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Godzina modyfikacji: </translation>
     </message>
     <message>
         <source>
 
 This record is invalid. The file has been renamed,deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Ten rekord jest nieprawidłowy. Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; cannot be opened.
 It has been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć pliku &quot;%1&quot;.
+Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
 </context>
 <context>
@@ -4503,15 +4515,15 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użytkownicy z uprawnieniem do odczytu mogą odczytywać ten dokument, ale nie mogą zmieniać, drukować lub kopiować zawartości.</translation>
     </message>
     <message>
         <source>Give all users Read access</source>
-        <translation type="unfinished"></translation>
+        <translation>Daje wszystkim użytkownikom dostęp do odczytu</translation>
     </message>
     <message>
         <source>Give all users Change access</source>
-        <translation type="unfinished"></translation>
+        <translation>Daje wszystkim użytkownikom dostęp do wprowadzania zmian</translation>
     </message>
 </context>
 <context>
@@ -4577,11 +4589,11 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>(Custom)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Niestandardowe)</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Przekaż</translation>
     </message>
 </context>
 <context>
@@ -4718,7 +4730,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Solution</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozwiązanie</translation>
     </message>
 </context>
 <context>
@@ -4827,7 +4839,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Sorry! An error occurred just now. Now it has been fixed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przepraszamy! Wystąpił błąd. Teraz został naprawiony.</translation>
     </message>
 </context>
 <context>
@@ -4877,7 +4889,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Recently edited documents recovered from unexpected exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnio edytowane dokumenty odzyskane po nieoczekiwanym zakończeniu.</translation>
     </message>
 </context>
 <context>
@@ -4991,38 +5003,43 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     </message>
     <message>
         <source>Open Recent File Management dialog box, and remove some or all of the recent files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz okno dialogowe Zarządzanie niedawno używanymi plikami i usuń niektóre lub wszystkie ostatnio używane pliki.</translation>
     </message>
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may be renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć &quot;%1&quot;.
+Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
     <message>
         <source>
 
 Modified time:</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Godzina modyfikacji:</translation>
     </message>
     <message>
         <source>
 
 Invalid record. This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
 </context>
 <context>
     <name>KxTpOprDoc</name>
     <message>
         <source>Cancle the XML Extend Packet</source>
-        <translation type="unfinished"></translation>
+        <translation>Odłącz pakiet rozszerzenia XML</translation>
     </message>
 </context>
 <context>
     <name>KxTpOprDocCommand</name>
     <message>
         <source>Are you sure cancel the XML extend pack?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy na pewno anulować pakiet rozszerzenia XML?</translation>
     </message>
 </context>
 <context>
@@ -5083,12 +5100,13 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     </message>
     <message>
         <source>Open File Management to remove some or all of your recent documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz Zarządzanie plikami, aby usunąć niektóre lub wszystkie ostatnio używane dokumenty.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; cannot be opened.
 It has been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć pliku &quot;%1&quot;.
+Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
 </context>
 <context>
@@ -6027,7 +6045,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>WPS</source>
-        <translation type="unfinished">WPS</translation>
+        <translation>WPS</translation>
     </message>
 </context>
 <context>
@@ -6046,7 +6064,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>WPS</source>
-        <translation type="unfinished">WPS</translation>
+        <translation>WPS</translation>
     </message>
 </context>
 <context>

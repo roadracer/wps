@@ -171,11 +171,11 @@
     </message>
     <message>
         <source>New version is available. Please refresh.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostępna jest nowa wersja. Proszę odśwież.</translation>
     </message>
     <message>
         <source>New version is available. Please check.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostępna jest nowa wersja. Proszę sprawdź.</translation>
     </message>
 </context>
 <context>
@@ -310,54 +310,57 @@
     </message>
     <message>
         <source>Modify Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas modyfikacji:</translation>
     </message>
     <message>
         <source>WPS Office Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczna kopia zapasowa WPS Office</translation>
     </message>
     <message>
         <source>WPS</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS</translation>
     </message>
     <message>
         <source>Data Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki danych</translation>
     </message>
     <message>
         <source>Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczna kopia zapasowa</translation>
     </message>
     <message>
         <source>Auto bakcup has been enabled for the document now.&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczne tworzenie kopii zapasowych zostało teraz włączone dla dokumentu.&lt;br /&gt;Plik kopii zapasowej zostanie utworzony w Przestrzeni biurowej za każdym razem, gdy dokument zostanie zamknięty.</translation>
     </message>
     <message>
         <source>Auto backup has not been activated for this document. So there is no backup file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczne tworzenie kopii zapasowych nie zostało aktywowane dla tego dokumentu. Dlatego nie istnieje kopia zapasowa pliku.</translation>
     </message>
     <message>
         <source>There are no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files has been created for this file on the current computer.&lt;br /&gt;2. Backup files were manually cleared.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie istnieje kopia zapasowa dla tego pliku w katalogu kopii zapasowych.&lt;br /&gt;Może to być spowodowane tym, że:&lt;br /&gt;1. Nie zostały utworzone pliki kopii zapasowych dla tego pliku na bieżącym komputerze.&lt;br /&gt;2. Pliki kopii zapasowych zostały ręcznie wyczyszczone.</translation>
     </message>
     <message>
         <source>Login klive before exploring backup directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaloguj klive przed eksploracją katalogu kopii zapasowych.</translation>
     </message>
     <message>
         <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files has been created on the current computer.&lt;br /&gt;2. Backup files were manually cleared.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie istnieje kopia zapasowa plików w katalogu kopii zapasowych.&lt;br /&gt;Może to być spowodowane tym, że:&lt;br /&gt;1. Nie zostały utworzone pliki kopii zapasowych na bieżącym komputerze.&lt;br /&gt;2. Pliki kopii zapasowych zostały ręcznie wyczyszczone.</translation>
     </message>
     <message>
         <source>Recover file</source>
-        <translation type="unfinished"></translation>
+        <translation>Odzyskiwanie pliku</translation>
     </message>
     <message>
         <source>Failed to recover the file. The source file will be opened instead.
 This may because:
 1. The source file has been occupied by another program;
 2. Permission restricted in source file directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się odzyskać pliku. Zamiast niego zostanie otwarty plik źródłowy.
+Może to być spowodowane tym, że:
+1. Plik źródłowy został zajęty przez inny program;
+2. Ograniczono uprawnienie w katalogu pliku źródłowego.</translation>
     </message>
 </context>
 <context>
@@ -765,19 +768,19 @@ This may because:
     </message>
     <message>
         <source>&amp;Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Szyfrowanie</translation>
     </message>
     <message>
         <source>Rena&amp;me</source>
-        <translation type="unfinished"></translation>
+        <translation>Z&amp;mień nazwę</translation>
     </message>
     <message>
         <source>R&amp;efresh</source>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;dśwież</translation>
     </message>
     <message>
         <source>New &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy &amp;folder</translation>
     </message>
 </context>
 <context>
@@ -999,7 +1002,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Delete from List</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń z listy</translation>
     </message>
 </context>
 <context>
@@ -1025,7 +1028,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -1216,7 +1219,7 @@ rozmiar:%2
     </message>
     <message>
         <source>You have enabled File Roaming:</source>
-        <translation type="unfinished"></translation>
+        <translation>Masz włączony Roaming pliku:</translation>
     </message>
 </context>
 <context>
@@ -1255,7 +1258,7 @@ rozmiar:%2
     </message>
     <message>
         <source>If you want to use macros, please upgrade to professional or business version</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeżeli chcesz użyć makr, uaktualnij do wersji Professional lub Business</translation>
     </message>
 </context>
 <context>
@@ -1303,7 +1306,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Documents saving to the cloud failed. Please check the Internet and retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisywanie dokumentów do usługi Cloud nie powiodło się. Proszę sprawdź połączenie internetowe i spróbuj ponownie</translation>
     </message>
 </context>
 <context>
@@ -1548,7 +1551,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Restrict how people edit or format specific parts of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia ograniczenie dostępnych sposobów edytowania lub formatowania określonych części dokumentu przez innych użytkowników.</translation>
     </message>
 </context>
 <context>
@@ -1738,7 +1741,7 @@ rozmiar:%2
     </message>
     <message>
         <source>If you have purchased subscription, please sign in to use WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeżeli zakupiłeś subskrypcję, proszę zaloguj się, aby korzystać z WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -1990,7 +1993,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>WPS Office Disabled Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłączone funkcje WPS Office</translation>
     </message>
 </context>
 <context>
@@ -2097,7 +2100,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>Currently the trial, free and home versions of WPS Office cannot support VBA, thus macros in the document cannot work properly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualnie trial, wersje free i home WPS Office nie obsługują języka VBA, dlatego makra w dokumencie nie mogą działać poprawnie.</translation>
     </message>
 </context>
 <context>
@@ -2173,7 +2176,8 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     <message>
         <source>If you have purchased subscription, 
 please sign in to use WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeżeli zakupiłeś subskrypcję, 
+proszę zaloguj się, aby korzystać z WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -2210,11 +2214,11 @@ please sign in to use WPS Office.</source>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation type="unfinished">Wzorzec do odzyskiwania danych WPS</translation>
+        <translation>Wzorzec do odzyskiwania danych WPS</translation>
     </message>
     <message>
         <source>Help you resume lost files due to disk corruption or accidental delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomaga przywrócić utracone pliki z powodu uszkodzenia dysku lub przypadkowego usunięcia</translation>
     </message>
 </context>
 </TS>

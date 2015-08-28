@@ -494,20 +494,26 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć &quot;%1&quot;.
+Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
     <message>
         <source>
 
 Modified time:</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Godzina modyfikacji:</translation>
     </message>
     <message>
         <source>
 
 
 Invalid record. This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+
+Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
 </context>
 <context>
@@ -610,7 +616,8 @@ proszę ponownie zainstalować WPS Office!</translation>
     <message>
         <source>Some components are not installed correctly.
 Please reinstall WPS Office!</source>
-        <translation type="unfinished"></translation>
+        <translation>Niektóre składniki nie są zainstalowane poprawnie.
+Proszę ponownie zainstalować WPS Office!</translation>
     </message>
 </context>
 <context>

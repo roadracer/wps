@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -54,7 +54,7 @@
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -506,7 +506,7 @@
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -578,7 +578,7 @@
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -855,7 +855,7 @@
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Font</source>
@@ -1238,7 +1238,7 @@
     <name>classics.shadow_settings</name>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -1467,7 +1467,7 @@ slajdów</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -1829,7 +1829,7 @@ przejścia</translation>
     </message>
     <message>
         <source>Bulk Font Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienie czcionki zbiorcze</translation>
     </message>
     <message>
         <source>Color
@@ -2431,7 +2431,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>More</source>
@@ -2567,7 +2567,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Upholding Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Stałe podstawy</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -3045,7 +3045,7 @@ Efekty</translation>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola telefonu komórkowego</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -3238,7 +3238,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw obraz w trybie online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -3286,7 +3286,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>More</source>
@@ -3563,7 +3563,7 @@ w tle</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>ClipArt</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -3609,7 +3609,7 @@ stopka</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw ClipArt</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -3697,7 +3697,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Slide Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteka slajdów</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
@@ -3744,7 +3744,7 @@ slajdu</translation>
     <name>ongmani.ct_orgchart</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0,25 pkt</translation>
     </message>
     <message>
         <source>0.25 pt.</source>
@@ -3752,7 +3752,7 @@ slajdu</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0,5 pkt</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
@@ -3760,7 +3760,7 @@ slajdu</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0,75 pkt</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
@@ -3768,7 +3768,7 @@ slajdu</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 pkt</translation>
     </message>
     <message>
         <source>1 pt.</source>
@@ -3776,7 +3776,7 @@ slajdu</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1,5 pkt</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
@@ -3784,7 +3784,7 @@ slajdu</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2,25 pkt</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
@@ -3792,7 +3792,7 @@ slajdu</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 pkt</translation>
     </message>
     <message>
         <source>3 pt.</source>
@@ -3800,7 +3800,7 @@ slajdu</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4,5 pkt</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
@@ -3808,7 +3808,7 @@ slajdu</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pkt</translation>
     </message>
     <message>
         <source>6 pt.</source>
@@ -3916,7 +3916,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -3948,7 +3948,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie z deseniem</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -4058,7 +4058,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Resize shape to fit text</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopasuj rozmiar kształtu do tekstu</translation>
     </message>
     <message>
         <source>Right Hanging</source>
@@ -4167,7 +4167,7 @@ obraz</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>ClipArt</translation>
     </message>
     <message>
         <source>Color</source>
@@ -4221,7 +4221,7 @@ obrazy</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -4273,11 +4273,11 @@ obrazy</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw ClipArt</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw obraz w trybie online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -4305,7 +4305,7 @@ obrazy</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -4620,7 +4620,7 @@ drukowania</translation>
     </message>
     <message>
         <source>Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Konwersja</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -4759,7 +4759,7 @@ Efekty</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -5054,7 +5054,7 @@ wzorca</translation>
     <name>ongmani.ct_slideshow</name>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola telefonu komórkowego</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -5585,7 +5585,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -6022,7 +6022,7 @@ znakami</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -6229,11 +6229,11 @@ WordArt</translation>
     </message>
     <message>
         <source>Bulk Font Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienie czcionki zbiorcze</translation>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola telefonu komórkowego</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -6321,7 +6321,7 @@ WordArt</translation>
     </message>
     <message>
         <source>Slide Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteka slajdów</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
@@ -6356,7 +6356,7 @@ WordArt</translation>
     <name>popupmenu</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0,25 pkt</translation>
     </message>
     <message>
         <source>0.25 pt.</source>
@@ -6364,7 +6364,7 @@ WordArt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0,5 pkt</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
@@ -6372,7 +6372,7 @@ WordArt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0,75 pkt</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
@@ -6380,7 +6380,7 @@ WordArt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 pkt</translation>
     </message>
     <message>
         <source>1 pt.</source>
@@ -6388,7 +6388,7 @@ WordArt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1,5 pkt</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
@@ -6396,7 +6396,7 @@ WordArt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2,25 pkt</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
@@ -6404,7 +6404,7 @@ WordArt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 pkt</translation>
     </message>
     <message>
         <source>3 pt.</source>
@@ -6412,7 +6412,7 @@ WordArt</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4,5 pkt</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
@@ -6420,7 +6420,7 @@ WordArt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pkt</translation>
     </message>
     <message>
         <source>6 pt.</source>
@@ -6667,7 +6667,7 @@ COM</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>ClipArt</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -6759,7 +6759,7 @@ COM</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreska-kropka</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -6963,7 +6963,7 @@ COM</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
@@ -6991,7 +6991,7 @@ COM</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Przerzuć w poziomie</translation>
     </message>
     <message>
         <source>Flip Horizontally</source>
@@ -6999,7 +6999,7 @@ COM</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Przerzuć w pionie</translation>
     </message>
     <message>
         <source>Flip Vertically</source>
@@ -7043,7 +7043,7 @@ COM</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -7111,7 +7111,7 @@ COM</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw ClipArt</translation>
     </message>
     <message>
         <source>Insert Columns Left</source>
@@ -7195,7 +7195,7 @@ COM</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl linii</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
@@ -7207,11 +7207,11 @@ COM</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kreska</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -7301,7 +7301,7 @@ slajdów</translation>
     </message>
     <message>
         <source>New Slide Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy slajd online</translation>
     </message>
     <message>
         <source>New Title Master</source>
@@ -7393,7 +7393,7 @@ slajdów</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie z deseniem</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -8035,7 +8035,7 @@ slajdów</translation>
     </message>
     <message>
         <source>Bulk Font Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienie czcionki zbiorcze</translation>
     </message>
     <message>
         <source>Color Schemes</source>
@@ -8453,7 +8453,7 @@ powiązany</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -9002,7 +9002,7 @@ powiązany</translation>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola telefonu komórkowego</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -9188,7 +9188,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw obraz w trybie online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -9232,7 +9232,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Media</source>
@@ -9533,7 +9533,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>ClipArt</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -9581,7 +9581,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw ClipArt</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -9589,7 +9589,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw obraz w trybie online</translation>
     </message>
     <message>
         <source>Insert Organization Chart</source>
@@ -9665,7 +9665,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Slide Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteka slajdów</translation>
     </message>
     <message>
         <source>Slide Number</source>
@@ -9852,7 +9852,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -9884,7 +9884,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie z deseniem</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -10107,7 +10107,7 @@ podwładnego</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>ClipArt</translation>
     </message>
     <message>
         <source>Color</source>
@@ -10207,7 +10207,7 @@ podwładnego</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw ClipArt</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -10235,7 +10235,7 @@ podwładnego</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -10656,7 +10656,7 @@ podwładnego</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -10816,7 +10816,7 @@ slajdów</translation>
     <name>rainbow.ct_slideshow</name>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola telefonu komórkowego</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -11213,7 +11213,7 @@ Efekty</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroplomierz</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -11630,7 +11630,7 @@ cienia</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -11836,11 +11836,11 @@ cienia</translation>
     </message>
     <message>
         <source>Bulk Font Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienie czcionki zbiorcze</translation>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola telefonu komórkowego</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -11928,7 +11928,7 @@ cienia</translation>
     </message>
     <message>
         <source>Slide Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteka slajdów</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
@@ -12071,7 +12071,7 @@ cienia</translation>
     </message>
     <message>
         <source>Slide Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteka slajdów</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
@@ -12161,7 +12161,7 @@ cienia</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funkcje specjalne</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -12239,7 +12239,7 @@ cienia</translation>
     </message>
     <message>
         <source>Change Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień szablon</translation>
     </message>
     <message>
         <source>Check Spelling</source>
@@ -12295,7 +12295,7 @@ cienia</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz łącze usługi Cloud</translation>
     </message>
     <message>
         <source>Curve</source>
@@ -12423,7 +12423,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Magic</source>
-        <translation type="unfinished"></translation>
+        <translation>Magic</translation>
     </message>
     <message>
         <source>MailFeedBack</source>
@@ -12652,7 +12652,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasek stanu</translation>
     </message>
     <message>
         <source>Style</source>
@@ -12942,7 +12942,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funkcje specjalne</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -13179,7 +13179,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funkcje specjalne</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
