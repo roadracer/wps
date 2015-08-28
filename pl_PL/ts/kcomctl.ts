@@ -571,7 +571,7 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
         <source>Unable to open &quot;%1&quot;.
 This file may have been renamed, deleted or moved.</source>
         <translation>Nie można otworzyć &quot;%1&quot;.
-Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translation>
+Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
     <message>
         <source>
@@ -605,7 +605,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation>
 
 
-Nieprawidłowy rekord. Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translation>
+Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
 </context>
 <context>

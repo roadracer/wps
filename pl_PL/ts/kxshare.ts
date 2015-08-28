@@ -3395,7 +3395,7 @@ Godzina modyfikacji: </translation>
 Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation>
 
-Nieprawidłowy rekord. Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translation>
+Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
 </context>
 <context>
@@ -5067,11 +5067,11 @@ Godzina modyfikacji: </translation>
 Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation>
 
-Nieprawidłowy rekord. Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translation>
+Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; cannot be opened. It has been renamed, deleted or moved.</source>
-        <translation>Nie można otworzyć pliku &quot;%1&quot;. Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translation>
+        <translation>Nie można otworzyć pliku &quot;%1&quot;. Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
     <message>
         <source>Open folder containing the file</source>
@@ -5712,7 +5712,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
         <source>Unable to open &quot;%1&quot;.
 This file may be renamed, deleted or moved.</source>
         <translation>Nie można otworzyć &quot;%1&quot;.
-Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translation>
+Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
     <message>
         <source>
@@ -5728,7 +5728,7 @@ Godzina modyfikacji: </translation>
 Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation>
 
-Nieprawidłowy rekord. Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translation>
+Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
 </context>
 <context>
@@ -5812,7 +5812,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
         <source>Unable to open &quot;%1&quot;.
 This file may be renamed, deleted or moved.</source>
         <translation>Nie można otworzyć &quot;%1&quot;.
-Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translation>
+Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
 </context>
 <context>

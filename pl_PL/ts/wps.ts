@@ -3369,7 +3369,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Find Previous(&amp;B)</source>
-        <translation>Znajdź poprzedni(&amp;B)</translation>
+        <translation>Znajdź poprzedni (&amp;B)</translation>
     </message>
     <message>
         <source>Replace options</source>
@@ -5888,11 +5888,11 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Choose Display and Help Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybieranie języków wyświetlania i Pomocy</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz...</translation>
     </message>
 </context>
 <context>
@@ -10806,7 +10806,8 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <message>
         <source>You can apply your own XML elements
 to a Word XML document.</source>
-        <translation>Do dokumentu XML Word można zastosować własne elementy XML.</translation>
+        <translation>Do dokumentu XML Word
+można zastosować własne elementy XML.</translation>
     </message>
     <message>
         <source>In order to apply your own XML elements in this document,you must first select a schema.</source>

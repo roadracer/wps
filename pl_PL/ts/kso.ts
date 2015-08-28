@@ -4632,7 +4632,7 @@ Aby korzystać z tej funkcji, musisz najpierw zainstalować klienta usług zarz�
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
         <translation>Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
-•Sprawdź czy katalog kopii zapasowych ma uprawnienia do zapisywania lub spróbuj zmienić katalog kopii zapasowych. 
+•Sprawdź czy katalog kopii zapasowych ma uprawnienia do zapisywania lub spróbuj zmienić katalog kopii zapasowych.
 •[Cofnij] poprzednie operacje i [Zapisz] go; 
 •[Kopiuj/Wklej] zawartość do nowego pliku; 
 •Zrezygnuj ze zmiany pliku. 

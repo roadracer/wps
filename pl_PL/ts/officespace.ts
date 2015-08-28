@@ -1305,7 +1305,7 @@ rozmiar:%2
     </message>
     <message>
         <source>If you want to use macros, please upgrade to professional or commercial version</source>
-        <translation>Jeżeli chcesz użyć makr, uaktualnij do wersji Professional lub Komercyjnej</translation>
+        <translation>Jeżeli chcesz użyć makr, uaktualnij do wersji Professional lub Business</translation>
     </message>
 </context>
 <context>

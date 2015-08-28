@@ -4670,11 +4670,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Choose Display and Help Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybieranie języków wyświetlania i Pomocy</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz...</translation>
     </message>
 </context>
 <context>

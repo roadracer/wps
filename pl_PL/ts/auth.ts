@@ -315,7 +315,7 @@
     </message>
     <message>
         <source>Includes %1-Day FREE Trial of WPS Office Business Edition. %2Get started &gt;&gt;%3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawiera %1-dniowy darmowy okres próbny WPS Office Business Edition. %2Rozpocznij &gt;&gt;%3.</translation>
     </message>
 </context>
 <context>
@@ -571,11 +571,11 @@
     </message>
     <message>
         <source>Activation code expires on: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod aktywacji wygaśnie w: %1</translation>
     </message>
     <message>
         <source>LIFETIME LICENSE</source>
-        <translation type="unfinished"></translation>
+        <translation>LICENCJA DOŻYWOTNIA</translation>
     </message>
 </context>
 <context>

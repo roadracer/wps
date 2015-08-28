@@ -89,27 +89,27 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Wenzi.lnk</source>
-        <translation>Partnerzy WPS.lnk</translation>
+        <translation>WPS Wenzi.lnk</translation>
     </message>
     <message>
         <source>WPS Yanshi.lnk</source>
-        <translation>Demo WPS.lnk</translation>
+        <translation>WPS Yanshi.lnk</translation>
     </message>
     <message>
         <source>WPS Biaoge.lnk</source>
-        <translation>Formularz WPS.lnk</translation>
+        <translation>WPS Biaoge.lnk</translation>
     </message>
     <message>
         <source>KS Wenzi.lnk</source>
-        <translation>Partnerzy KS.lnk</translation>
+        <translation>KS Wenzi.lnk</translation>
     </message>
     <message>
         <source>KS Yanshi.lnk</source>
-        <translation>Demo KS.lnk</translation>
+        <translation>KS Yanshi.lnk</translation>
     </message>
     <message>
         <source>KS Biaoge.lnk</source>
-        <translation>Formularz KS.lnk</translation>
+        <translation>KS Biaoge.lnk</translation>
     </message>
     <message>
         <source>WPS Cloud.lnk</source>
@@ -117,7 +117,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Office.lnk</source>
-        <translation type="unfinished">WPS Office.lnk</translation>
+        <translation>WPS Office.lnk</translation>
     </message>
 </context>
 <context>
@@ -327,15 +327,15 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <name>KOther</name>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Inne</translation>
     </message>
     <message>
         <source>WPS Office Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office Cloud</translation>
     </message>
     <message>
         <source>Enable &quot;Upload to WPS Office Cloud&quot; on the Context Menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Włącz &quot;Przekazywanie do usługi WPS Office Cloud&quot; w Menu kontekstowym.</translation>
     </message>
 </context>
 <context>
@@ -1349,7 +1349,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>Check for update, but let me choose whether to &amp;download and install them</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukaj aktualizacje, ale pozwól mi wybrać, czy je &amp;pobrać i zainstalować</translation>
     </message>
 </context>
 <context>
