@@ -571,7 +571,7 @@
     </message>
     <message>
         <source>Activation code expires on: %1</source>
-        <translation>Kod aktywacji wygaśnie w: %1</translation>
+        <translation>Kod aktywacji wygaśnie: %1</translation>
     </message>
     <message>
         <source>LIFETIME LICENSE</source>
