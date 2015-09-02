@@ -4564,7 +4564,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the sum of the sum squares of corresponding values in two arrays.</source>
         <comment>SUMX2PY2_REMARK</comment>
-        <translation>wraca sumę sum kwadratów odpowiadających sobie wartości w dwóch tablicach.</translation>
+        <translation>Zwraca sumę końcową sum kwadratów liczb w dwóch odpowiadających sobie zakresach lub tablicach.</translation>
     </message>
     <message>
         <source>SUMXMY2(array_x,array_y)</source>
