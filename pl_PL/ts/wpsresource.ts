@@ -713,7 +713,7 @@
     </message>
     <message>
         <source>Select Objects</source>
-        <translation>Wybierz obiekty</translation>
+        <translation>Zaznacz obiekty</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -3729,7 +3729,7 @@ styl</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation>Wybierz obiekty</translation>
+        <translation>Zaznacz obiekty</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
@@ -11405,7 +11405,7 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation>Wybierz obiekty</translation>
+        <translation>Zaznacz obiekty</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>

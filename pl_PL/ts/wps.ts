@@ -9453,7 +9453,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>&amp;Border...</source>
-        <translation>&amp;Krawędź....</translation>
+        <translation>&amp;Obramowanie....</translation>
     </message>
     <message>
         <source>&amp;Numbering...</source>
@@ -9461,7 +9461,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>&amp;Shortcut...</source>
-        <translation>&amp;Skrót...</translation>
+        <translation>&amp;Klawisz skrótu...</translation>
     </message>
     <message>
         <source>None</source>
@@ -9727,7 +9727,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>&amp;Border...</source>
-        <translation>&amp;Krawędź....</translation>
+        <translation>&amp;Obramowanie....</translation>
     </message>
     <message>
         <source>&amp;Numbering...</source>
@@ -9735,7 +9735,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>&amp;Shortcut...</source>
-        <translation>&amp;Skrót...</translation>
+        <translation>&amp;Klawisz skrótu...</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -13325,7 +13325,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>Uwaga: tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
+        <translation>Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>Page range</source>
