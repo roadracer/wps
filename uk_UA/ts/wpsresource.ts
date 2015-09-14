@@ -5198,6 +5198,10 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9137,6 +9141,10 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12241,6 +12249,10 @@ Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15333,6 +15345,10 @@ Directly</source>
     </message>
     <message>
         <source>Text Wrapping Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

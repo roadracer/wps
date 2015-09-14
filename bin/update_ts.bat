@@ -17,5 +17,4 @@ if "%g_errstr%"=="" (
 	echo %1: 提取并合并翻译文件出现错误，提示如下：
 	echo %g_errstr% 
 	pause
-	exit 1
 )

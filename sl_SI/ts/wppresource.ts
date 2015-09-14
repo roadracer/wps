@@ -8620,6 +8620,10 @@ diaprojekcije</translation>
         <translation>Simbol</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16746,6 +16750,10 @@ Slide</source>
     </message>
     <message>
         <source>Text Editing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

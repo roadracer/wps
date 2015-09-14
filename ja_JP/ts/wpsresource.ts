@@ -6414,6 +6414,10 @@ Directly</source>
         <translation type="obsolete">設定</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation>脚注/文末脚注</translation>
     </message>
@@ -11181,6 +11185,10 @@ Painter</source>
         <translation>記号と特殊文字</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>表</translation>
     </message>
@@ -14935,6 +14943,10 @@ Text</source>
     <message>
         <source>Detailed Settings</source>
         <translation type="obsolete">設定</translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -22864,6 +22876,10 @@ Directly</source>
     <message>
         <source>Text Wrapping Break</source>
         <translation>文字列の折り返しの区切り</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle Field Codes</source>

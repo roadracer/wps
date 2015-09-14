@@ -7701,6 +7701,10 @@ master</translation>
         <translation></translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Tabel</translation>
     </message>
@@ -12658,6 +12662,10 @@ curent</translation>
     <message>
         <source>Text Editing</source>
         <translation>Editare text</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toolbars</source>

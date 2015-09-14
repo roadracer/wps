@@ -8193,6 +8193,10 @@ Folienmaster</translation>
         <translation>Symbol</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation type="unfinished">Tabelle</translation>
     </message>
@@ -15819,6 +15823,10 @@ Slide</source>
     <message>
         <source>Texture</source>
         <translation type="obsolete">Textur</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tight</source>

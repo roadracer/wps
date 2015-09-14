@@ -5350,6 +5350,10 @@ On/Off</source>
         <translation>Krížový odkaz</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9415,6 +9419,10 @@ Painter</source>
         <translation>Symbol</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Tabuľka</translation>
     </message>
@@ -12597,6 +12605,10 @@ Text</source>
     <message>
         <source>Cross-reference</source>
         <translation>Krížový odkaz</translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -17188,6 +17200,10 @@ Directly</source>
     </message>
     <message>
         <source>Text Wrapping Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

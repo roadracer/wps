@@ -6264,6 +6264,10 @@ On/Off</source>
         <translation>Перекрёстная ссылка</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation>Сноска</translation>
     </message>
@@ -11133,6 +11137,10 @@ Painter</source>
         <translation>Символ</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Таблицу</translation>
     </message>
@@ -14887,6 +14895,10 @@ Text</source>
     <message>
         <source>Cross-reference</source>
         <translation>Перекрёстная ссылка</translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -23185,6 +23197,10 @@ Directly</source>
     <message>
         <source>Text Wrapping Break</source>
         <translation>Разрыв обтекания текстом</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle Field Codes</source>

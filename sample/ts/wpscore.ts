@@ -2574,11 +2574,6 @@ Note that some files may contain macro viruses and possibly perform other harmfu
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPSV6-TEXT</source>
-        <comment>_TxFilter_ConfigKey</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
         <comment>_TxDocument_KRM_RightsWillLost</comment>
         <translation type="unfinished"></translation>
@@ -4551,16 +4546,6 @@ Cancel:	Return to the dialog.</source>
 </context>
 <context>
     <name>wps_wpsuil</name>
-    <message>
-        <source>.</source>
-        <comment>TxAboutText</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>.</source>
-        <comment>TxAboutCaption</comment>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>All Files(*.*) | *.*; |</source>
         <comment>TxDesc_DataSource_All</comment>
@@ -6824,6 +6809,11 @@ Check</source>
     <message>
         <source>Colorful Grid Accent 6</source>
         <comment>TxTableStyle_ColorfulGridAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>TxCaption_NoSynonymsSuggestions</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

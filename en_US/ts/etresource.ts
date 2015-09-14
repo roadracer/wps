@@ -2887,6 +2887,10 @@ Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ToolBars</source>
         <translation type="obsolete">Toolbars</translation>
     </message>
@@ -10068,6 +10072,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>Symbol</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Synonyms</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

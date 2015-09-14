@@ -6127,6 +6127,10 @@ On/Off</source>
         <translation>Navzkrižno sklicevanje</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10804,6 +10808,10 @@ Painter</source>
         <translation>Simbol</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Tabela</translation>
     </message>
@@ -14403,6 +14411,10 @@ Text</source>
     <message>
         <source>Cross-reference</source>
         <translation>Navzkrižno sklicevanje</translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -22420,6 +22432,10 @@ Directly</source>
     <message>
         <source>Text Wrapping Break</source>
         <translation>Oblivni prelom</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle Field Codes</source>

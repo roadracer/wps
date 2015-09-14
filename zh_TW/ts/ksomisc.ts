@@ -348,15 +348,15 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
 <context>
     <name>KOther</name>
     <message>
-        <source>Other</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WPS Office Cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable &quot;Upload to WPS Office Cloud&quot; on the Context Menu.</source>
+        <source>Others</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &quot;Upload to WPS Office Cloud&quot; on Context Menu.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

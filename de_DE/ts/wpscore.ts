@@ -3335,7 +3335,7 @@ Do you want to continue?</source>
     <message>
         <source>WPSV6-TEXT</source>
         <comment>_TxFilter_ConfigKey</comment>
-        <translation type="unfinished">WPSV6-TEXT</translation>
+        <translation type="obsolete">WPSV6-TEXT</translation>
     </message>
     <message>
         <source>builtin.wpt</source>
@@ -5432,12 +5432,12 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>.</source>
         <comment>TxAboutCaption</comment>
-        <translation>.</translation>
+        <translation type="obsolete">.</translation>
     </message>
     <message>
         <source>.</source>
         <comment>TxAboutText</comment>
-        <translation>.</translation>
+        <translation type="obsolete">.</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -7731,6 +7731,11 @@ Check</source>
     <message>
         <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>TxCaption_NoSynonymsSuggestions</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

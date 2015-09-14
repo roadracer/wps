@@ -3108,6 +3108,10 @@ des tâches</translation>
         <translation>Fenêtre des tâches</translation>
     </message>
     <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toolbars</source>
         <translation>Barres d&apos;outils</translation>
     </message>
@@ -9502,6 +9506,10 @@ COM</translation>
     <message>
         <source>Symbol</source>
         <translation>Symbole</translation>
+    </message>
+    <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tab Color</source>

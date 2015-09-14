@@ -5216,6 +5216,10 @@ textu</translation>
 odkaz</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation>Poznámka
 pod čarou</translation>
@@ -9171,6 +9175,10 @@ Painter</source>
         <translation></translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12275,6 +12283,10 @@ textu</translation>
     <message>
         <source>Cross-reference</source>
         <translation>Křížový odkaz</translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -16450,6 +16462,10 @@ Directly</source>
     </message>
     <message>
         <source>Text Wrapping Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

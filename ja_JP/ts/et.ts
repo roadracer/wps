@@ -13140,6 +13140,29 @@ or Web Page</source>
     </message>
 </context>
 <context>
+    <name>kxDlgThesaurus</name>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current word:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alternatives:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="unfinished">置換</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>kxUiHyperlinket</name>
     <message>
         <source>Form</source>

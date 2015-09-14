@@ -11,6 +11,8 @@ if "%g_coding%" == "" (
 	set g_coding=..\..\..\
 )
 
+set "g_coding=%g_coding:"=%"
+
 if not "%3" == "" set g_qm_path=%3
 if "%g_qm_path%" == "" (
 	set g_qm_path=..\%g_target_lang%

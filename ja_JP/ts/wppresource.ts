@@ -9224,6 +9224,10 @@ Master</source>
         <translation>記号と特殊文字</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>表の挿入</translation>
     </message>
@@ -18138,6 +18142,10 @@ Slide</source>
     <message>
         <source>Text Editing</source>
         <translation>テキスト編集ポップアップ メニュー</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toolbars</source>

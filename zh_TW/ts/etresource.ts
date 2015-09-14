@@ -3283,6 +3283,10 @@ Window</source>
         <translation>工作視窗</translation>
     </message>
     <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ToolBars</source>
         <translation type="obsolete">工具列</translation>
     </message>
@@ -11553,6 +11557,10 @@ Add-Ins</source>
     <message>
         <source>Symbol</source>
         <translation>符號</translation>
+    </message>
+    <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tab Color</source>

@@ -3053,7 +3053,7 @@ Do you want to continue?</source>
     <message>
         <source>WPSV6-TEXT</source>
         <comment>_TxFilter_ConfigKey</comment>
-        <translation type="unfinished">WPSV6-TEXT</translation>
+        <translation type="obsolete">WPSV6-TEXT</translation>
     </message>
     <message>
         <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X). Please contact the anti-virus software agent. 
@@ -5400,12 +5400,12 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>.</source>
         <comment>TxAboutCaption</comment>
-        <translation>浴火重生之wps-v6</translation>
+        <translation type="obsolete">浴火重生之wps-v6</translation>
     </message>
     <message>
         <source>.</source>
         <comment>TxAboutText</comment>
-        <translation>代号名称: fenix -
+        <translation type="obsolete">代号名称: fenix -
 A bird in Egyptian mythology that lived in the desert for 500 years and then consumed itself by fire, later to rise renewed from its ashes.
 不死鸟，长生鸟埃及神话中的一种鸟，相传这种鸟在沙漠中生活五百年后身焚，然后又从其焚灰中再生。</translation>
     </message>
@@ -7728,6 +7728,11 @@ Check</source>
     <message>
         <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>TxCaption_NoSynonymsSuggestions</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

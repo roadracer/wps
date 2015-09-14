@@ -6562,6 +6562,10 @@ Directly</source>
         <translation type="obsolete">详细设置</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation>脚注和尾注</translation>
     </message>
@@ -11574,6 +11578,10 @@ Painter</source>
         <translation>符号</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>表格</translation>
     </message>
@@ -15503,6 +15511,10 @@ Text</source>
     <message>
         <source>Cross-reference</source>
         <translation>交叉引用</translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -24085,6 +24097,10 @@ Directly</source>
     <message>
         <source>Text Wrapping Break</source>
         <translation>换行符</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle Field Codes</source>

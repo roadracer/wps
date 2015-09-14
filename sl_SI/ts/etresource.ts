@@ -2801,6 +2801,10 @@ Okno</translation>
         <translation>Opravilno okno</translation>
     </message>
     <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toolbars</source>
         <translation>Orodna vrstica</translation>
     </message>
@@ -10075,6 +10079,10 @@ Add-Ins</source>
     <message>
         <source>Symbol</source>
         <translation>Simboli</translation>
+    </message>
+    <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tab Color</source>

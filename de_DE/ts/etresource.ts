@@ -5013,6 +5013,10 @@ Fenster</translation>
         <translation type="obsolete">Text in Spalten</translation>
     </message>
     <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Thick Bottom Border</source>
         <translation type="obsolete">Dicke untere Rahmenlinie</translation>
     </message>
@@ -13482,6 +13486,10 @@ Add-Ins</source>
     <message>
         <source>Symbol</source>
         <translation>Symbol</translation>
+    </message>
+    <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tab Color</source>

@@ -5921,6 +5921,10 @@ On/Off</source>
         <translation>مرجع مشترك</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10484,6 +10488,10 @@ Painter</source>
         <translation>رمز</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>جدول</translation>
     </message>
@@ -13906,6 +13914,10 @@ Text</source>
     </message>
     <message>
         <source>Cross-reference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20604,6 +20616,10 @@ Directly</source>
     </message>
     <message>
         <source>Text Wrapping Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

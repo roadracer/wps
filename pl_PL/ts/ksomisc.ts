@@ -327,7 +327,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <name>KOther</name>
     <message>
         <source>Other</source>
-        <translation>Inne</translation>
+        <translation type="obsolete">Inne</translation>
     </message>
     <message>
         <source>WPS Office Cloud</source>
@@ -335,7 +335,15 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Enable &quot;Upload to WPS Office Cloud&quot; on the Context Menu.</source>
-        <translation>Włącz &quot;Przekazywanie do usługi WPS Office Cloud&quot; w Menu kontekstowym.</translation>
+        <translation type="obsolete">Włącz &quot;Przekazywanie do usługi WPS Office Cloud&quot; w Menu kontekstowym.</translation>
+    </message>
+    <message>
+        <source>Others</source>
+        <translation type="unfinished">Inne</translation>
+    </message>
+    <message>
+        <source>Enable &quot;Upload to WPS Office Cloud&quot; on Context Menu.</source>
+        <translation type="unfinished">Włącz &quot;Przekazywanie do usługi WPS Office Cloud&quot; w Menu kontekstowym.</translation>
     </message>
 </context>
 <context>

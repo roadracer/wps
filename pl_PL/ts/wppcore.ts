@@ -6765,5 +6765,10 @@ Ta kopia zapasowa zostanie zapisana do(%s)</translation>
         <comment>WpImageSaveRelativePath</comment>
         <translation>\WPS Image\WPS Image</translation>
     </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>WP_NoSynonymsSuggestions_Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

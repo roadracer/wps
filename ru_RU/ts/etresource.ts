@@ -2996,6 +2996,10 @@ Window</source>
         <translation>Окно задач</translation>
     </message>
     <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toolbars</source>
         <translation>Панели инструментов</translation>
     </message>
@@ -10645,6 +10649,10 @@ COM</translation>
     <message>
         <source>Symbol</source>
         <translation>Символы</translation>
+    </message>
+    <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tab Color</source>

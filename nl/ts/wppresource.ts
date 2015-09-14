@@ -8657,6 +8657,10 @@ Model</translation>
         <translation>Symbool</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Tabel</translation>
     </message>
@@ -16450,6 +16454,10 @@ Slide</source>
     </message>
     <message>
         <source>Text Editing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

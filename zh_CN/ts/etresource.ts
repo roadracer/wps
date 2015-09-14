@@ -3220,6 +3220,10 @@ Window</source>
         <translation>任务窗格</translation>
     </message>
     <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toolbars</source>
         <translation>工具栏</translation>
     </message>
@@ -11681,6 +11685,10 @@ Center</source>
     <message>
         <source>Symbol</source>
         <translation>符号</translation>
+    </message>
+    <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tab Color</source>

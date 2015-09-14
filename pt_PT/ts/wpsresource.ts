@@ -6055,6 +6055,10 @@ On/Off</source>
         <translation>Referência Cruzada</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation>&quot;unfinished&quot;</translation>
     </message>
@@ -10691,6 +10695,10 @@ Painter</source>
         <translation>Simbolo</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Tabela</translation>
     </message>
@@ -14090,6 +14098,10 @@ Text</source>
     <message>
         <source>Cross-reference</source>
         <translation>&quot;Referência Cruzada&quot;</translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -19092,6 +19104,10 @@ Directly</source>
     <message>
         <source>Text Wrapping Break</source>
         <translation>Quebra da Moldagem do Texto</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle Field Codes</source>

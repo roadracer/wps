@@ -13448,6 +13448,11 @@ There are several possible reasons:
         <comment>TX_ParaInfo_368</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>WP_NoSynonymsSuggestions_Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_undodesc</name>

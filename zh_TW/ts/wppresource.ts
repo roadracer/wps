@@ -10297,6 +10297,10 @@ Master</source>
         <translation>符號</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>資料表</translation>
     </message>
@@ -22418,6 +22422,10 @@ Slide</source>
     <message>
         <source>Text Editing</source>
         <translation>文字編輯彈出選單</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ToolBars</source>

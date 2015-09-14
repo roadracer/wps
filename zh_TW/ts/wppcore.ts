@@ -6869,5 +6869,10 @@ This backup will be saved to(%s)</source>
         <comment>WpImageSaveRelativePath</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>WP_NoSynonymsSuggestions_Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

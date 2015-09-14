@@ -6157,6 +6157,10 @@ On/Off</source>
         <translation>Kruisverwijzing</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10838,6 +10842,10 @@ Painter</source>
         <translation>Symbool</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Tabel</translation>
     </message>
@@ -14455,6 +14463,10 @@ Text</source>
     <message>
         <source>Cross-reference</source>
         <translation>Kruisverwijzing</translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -22563,6 +22575,10 @@ Directly</source>
     <message>
         <source>Text Wrapping Break</source>
         <translation>Tekstterugloop Einde</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle Field Codes</source>

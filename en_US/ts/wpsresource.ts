@@ -5801,6 +5801,10 @@ On/Off</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10210,6 +10214,10 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13596,6 +13604,10 @@ Text</source>
     </message>
     <message>
         <source>Cross-reference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17060,6 +17072,10 @@ Directly</translation>
     <message>
         <source>Text Wrapping Break</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle Field Codes</source>

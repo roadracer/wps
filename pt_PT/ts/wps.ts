@@ -2806,6 +2806,140 @@ If unnecessary, please click Cancel.</source>
     </message>
 </context>
 <context>
+    <name>KxDlgEnvelopeOption</name>
+    <message>
+        <source>Envelope Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Envelope size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delivery address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From top:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Return address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printer:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feed method</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Face up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Face down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clockwise rotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feed from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEnvelopesAndLabels</name>
+    <message>
+        <source>Envelopes and Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delivery address:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add electronic postage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Return address:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Omit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verify that an envelopes is loaded before printing:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use printer setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished">Imprimir</translation>
+    </message>
+    <message>
+        <source>Add Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E-postage Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Fechar</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgField</name>
     <message>
         <source>Fields</source>
@@ -7681,6 +7815,28 @@ Example: +4 will move forward four items:</source>
     </message>
 </context>
 <context>
+    <name>KxEnvelopeOptionDlg</name>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <source>Use printer setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEnvelopesAndLabelsDlg</name>
+    <message>
+        <source>Change Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxExpUserListPanel</name>
     <message>
         <source>&amp;Find Next Region This User Can Edit</source>
@@ -10306,15 +10462,7 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>rbHorizontalLeft</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>rbHorizontalCenter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10322,15 +10470,7 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>rbHorizontalRight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>rbHorizontalOther</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12607,6 +12747,14 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <source>No macro is currently recording. Click to begin recording a new macro.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>You have changed WPS&apos;s default envelope handing method for this printer. These changes could be incorrect. Choose Reset to return to WPS defaults.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SelectedFormatPanel</name>
@@ -12812,6 +12960,29 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <message>
         <source>Export to PDF File</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kxDlgThesaurus</name>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current word:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alternatives:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="unfinished">Substituir</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>

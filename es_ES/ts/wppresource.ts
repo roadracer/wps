@@ -8594,6 +8594,10 @@ de diapositiva</translation>
         <translation>Símbolo</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Tabla</translation>
     </message>
@@ -14400,6 +14404,10 @@ de diapositiva</translation>
     <message>
         <source>Text Editing</source>
         <translation>Edición de texto</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ToolBars</source>

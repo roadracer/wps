@@ -9565,6 +9565,10 @@ Master</source>
         <translation>符号</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>表格</translation>
     </message>
@@ -19282,6 +19286,10 @@ Slide</source>
     <message>
         <source>Text Editing</source>
         <translation>文字编辑</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ToolBars</source>

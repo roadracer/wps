@@ -14683,6 +14683,11 @@ Istnieje kilka możliwych przyczyn:
         <comment>TX_ParaInfo_368</comment>
         <translation>Alt_form</translation>
     </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>WP_NoSynonymsSuggestions_Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_undodesc</name>
@@ -17252,4 +17257,3 @@ a pozostawiony zostanie tylko jeden wiersz.
     </message>
 </context>
 </TS>
-

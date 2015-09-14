@@ -2700,11 +2700,6 @@ To continue saving as a macro-free workbook, click Yes.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPSV6-TEXT</source>
-        <comment>_TxFilter_ConfigKey</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
 This backup will be saved to (%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
@@ -4551,16 +4546,6 @@ Cancel:	Return to the dialog.</source>
 </context>
 <context>
     <name>wps_wpsuil</name>
-    <message>
-        <source>.</source>
-        <comment>TxAboutText</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>.</source>
-        <comment>TxAboutCaption</comment>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>All Files(*.*) | *.*; |</source>
         <comment>TxDesc_DataSource_All</comment>
@@ -6824,6 +6809,11 @@ Check</source>
     <message>
         <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>TxCaption_NoSynonymsSuggestions</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

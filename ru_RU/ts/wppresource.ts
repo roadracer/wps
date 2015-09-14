@@ -9193,6 +9193,10 @@ Master</source>
         <translation>Символ</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Таблица</translation>
     </message>
@@ -17959,6 +17963,10 @@ Slide</source>
     <message>
         <source>Text Editing</source>
         <translation>Изменение текста</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ToolBars</source>

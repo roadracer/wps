@@ -2578,6 +2578,10 @@ Window</source>
         <translation>Fereastră sarcini</translation>
     </message>
     <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toolbars</source>
         <translation>Bări de unelte</translation>
     </message>
@@ -8808,6 +8812,10 @@ registrul de lucru</translation>
     <message>
         <source>Symbol</source>
         <translation>Simbol</translation>
+    </message>
+    <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tab Color</source>

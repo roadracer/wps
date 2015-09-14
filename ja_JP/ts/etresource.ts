@@ -2999,6 +2999,10 @@ Window</source>
         <translation>ワークウィンドウ</translation>
     </message>
     <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toolbars</source>
         <translation>ツール バー</translation>
     </message>
@@ -10743,6 +10747,10 @@ Add-Ins</source>
     <message>
         <source>Symbol</source>
         <translation>記号と特殊文字</translation>
+    </message>
+    <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tab Color</source>

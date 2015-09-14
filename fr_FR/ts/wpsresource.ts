@@ -6457,6 +6457,10 @@ de l&apos;ombre</translation>
         <translation>Renvoi</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translatorcomment>Reference tabs-&gt;Settings</translatorcomment>
         <translation>Note de bas de page</translation>
@@ -11017,6 +11021,10 @@ Painter</source>
         <translation>Caractère spécial</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Tableau</translation>
     </message>
@@ -14173,6 +14181,10 @@ Text</source>
     <message>
         <source>Cross-reference</source>
         <translation>Renvoi</translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -17387,6 +17399,10 @@ directement</translation>
     <message>
         <source>Text Wrapping Break</source>
         <translation>Saut de retour à la ligne</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle Field Codes</source>

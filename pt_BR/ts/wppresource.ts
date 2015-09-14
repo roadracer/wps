@@ -7763,6 +7763,10 @@ Master</translation>
         <translation>Símbolo</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Tabela</translation>
     </message>
@@ -13541,6 +13545,10 @@ Slide</translation>
     <message>
         <source>Text Editing</source>
         <translation>Editando Texto</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toolbars</source>

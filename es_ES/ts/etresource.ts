@@ -2950,6 +2950,10 @@ Window</source>
         <translation>Ventana de tareas</translation>
     </message>
     <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ToolBars</source>
         <translation type="obsolete">Toolbars</translation>
     </message>
@@ -10345,6 +10349,10 @@ Add-Ins</source>
     <message>
         <source>Symbol</source>
         <translation>Símbolo</translation>
+    </message>
+    <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tab Color</source>

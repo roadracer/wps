@@ -9028,6 +9028,10 @@ masque de diapositive</translation>
         <translation>Symbole</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translatorcomment>Drop-down menu-&gt;Insert</translatorcomment>
         <translation>Tableau</translation>
@@ -14069,6 +14073,10 @@ diapositive actuelle</translation>
     <message>
         <source>Text Editing</source>
         <translation>Modification du texte</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toolbars</source>

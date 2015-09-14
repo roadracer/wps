@@ -2593,6 +2593,10 @@ Tarefas</translation>
         <translation>Janela de Tarefas</translation>
     </message>
     <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toolbars</source>
         <translation>Barras de Ferramentas</translation>
     </message>
@@ -8759,6 +8763,10 @@ Cheia</translation>
     <message>
         <source>Symbol</source>
         <translation>Símbolo</translation>
+    </message>
+    <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tab Color</source>

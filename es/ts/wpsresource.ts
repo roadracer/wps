@@ -6129,6 +6129,10 @@ On/Off</source>
         <translation>Referencia cruzada</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation type="onsolete">Pie de Paguina</translation>
     </message>
@@ -10802,6 +10806,10 @@ Painter</source>
         <translation>Símbolo</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Tabla</translation>
     </message>
@@ -14410,6 +14418,10 @@ Text</source>
     <message>
         <source>Cross-reference</source>
         <translation>Referencia cruzada</translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -22608,6 +22620,10 @@ Directly</source>
     <message>
         <source>Text Wrapping Break</source>
         <translation>Salto de ajuste de texto</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle Field Codes</source>

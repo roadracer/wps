@@ -5180,6 +5180,29 @@ Sure to close?</source>
     </message>
 </context>
 <context>
+    <name>kxDlgThesaurus</name>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current word:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alternatives:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="unfinished">Заменить</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Отмена</translation>
+    </message>
+</context>
+<context>
     <name>kxUiHyperlinkwpp</name>
     <message>
         <source>Select a pla&amp;ce in this document:</source>

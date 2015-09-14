@@ -2813,7 +2813,7 @@ Notez que certains fichiers peuvent contenir des virus présents dans des macros
     <message>
         <source>WPSV6-TEXT</source>
         <comment>_TxFilter_ConfigKey</comment>
-        <translation type="unfinished">WPSV6-TEXT</translation>
+        <translation type="obsolete">WPSV6-TEXT</translation>
     </message>
     <message>
         <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
@@ -4890,12 +4890,12 @@ Annuler : 	Retour à la boîte de dialogue.</translation>
     <message>
         <source>.</source>
         <comment>TxAboutText</comment>
-        <translation>.</translation>
+        <translation type="obsolete">.</translation>
     </message>
     <message>
         <source>.</source>
         <comment>TxAboutCaption</comment>
-        <translation>.</translation>
+        <translation type="obsolete">.</translation>
     </message>
     <message>
         <source>All Files(*.*) | *.*; |</source>
@@ -7206,6 +7206,11 @@ orthographique</translation>
     <message>
         <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>TxCaption_NoSynonymsSuggestions</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

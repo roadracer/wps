@@ -5294,6 +5294,10 @@ Pornit/Oprit</translation>
         <translation>Referință încrucișată</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation>Notă de subsol</translation>
     </message>
@@ -9438,6 +9442,10 @@ formatare</translation>
         <translation>Simbol</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Tabel</translation>
     </message>
@@ -12666,6 +12674,10 @@ text</translation>
         <translation>Referință încrucișată</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation>Notă de subsol</translation>
     </message>
@@ -15846,6 +15858,10 @@ Directly</source>
     <message>
         <source>Text Wrapping Break</source>
         <translation>Întrerupere încadrare text</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle Field Codes</source>

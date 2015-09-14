@@ -6228,6 +6228,10 @@ On/Off</source>
         <translation>Querverweis</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation>Fußnote</translation>
     </message>
@@ -11041,6 +11045,10 @@ Painter</source>
         <translation>Symbol</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Tabelle</translation>
     </message>
@@ -14703,6 +14711,10 @@ Text</source>
     <message>
         <source>Cross-reference</source>
         <translation>Querverweis</translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -21126,6 +21138,10 @@ Directly</source>
     <message>
         <source>Text Wrapping Break</source>
         <translation>Textumbruch</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Three</source>

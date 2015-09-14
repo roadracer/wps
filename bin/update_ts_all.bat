@@ -1,25 +1,26 @@
-call update_ts.bat sample
+@REM update_ts.bat %language %path_to_coding
+call update_ts.bat sample %1
 
-call update_ts.bat zh_CN
-call update_ts.bat en_US
-call update_ts.bat ja_JP
-call update_ts.bat zh_TW
-call update_ts.bat fr_FR
-call update_ts.bat de_DE
-call update_ts.bat es_ES
-call update_ts.bat ru_RU
-call update_ts.bat pt_PT
-call update_ts.bat pt_BR
-call update_ts.bat pl_PL
-call update_ts.bat ca_ES
-call update_ts.bat cs_CZ
-call update_ts.bat es
-call update_ts.bat es_PE
-call update_ts.bat gl_ES
-call update_ts.bat ko_KR
-call update_ts.bat nl
-call update_ts.bat ro_RO
-call update_ts.bat sk
-call update_ts.bat uk_UA
-call update_ts.bat ar
-call update_ts.bat sl_SI
+call update_ts.bat zh_CN %1
+call update_ts.bat en_US %1
+call update_ts.bat ja_JP %1
+call update_ts.bat zh_TW %1
+call update_ts.bat fr_FR %1
+call update_ts.bat de_DE %1
+call update_ts.bat es_ES %1
+call update_ts.bat ru_RU %1
+call update_ts.bat pt_PT %1
+call update_ts.bat pt_BR %1
+call update_ts.bat pl_PL %1
+call update_ts.bat ca_ES %1
+call update_ts.bat cs_CZ %1
+call update_ts.bat es %1
+call update_ts.bat es_PE %1
+call update_ts.bat gl_ES %1
+call update_ts.bat ko_KR %1
+call update_ts.bat nl  %1
+call update_ts.bat ro_RO %1
+call update_ts.bat sk %1
+call update_ts.bat uk_UA %1
+call update_ts.bat ar %1
+call update_ts.bat sl_SI %1

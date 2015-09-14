@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -5404,6 +5404,10 @@ Włącz/Wyłącz</translation>
         <translation>Odsyłacz</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation>Przypis dolny</translation>
     </message>
@@ -9675,6 +9679,10 @@ formatów</translation>
         <translation>Symbol</translation>
     </message>
     <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Tabela</translation>
     </message>
@@ -12989,6 +12997,10 @@ tekst</translation>
         <translation>Odsyłacz</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footnote</source>
         <translation>Przypis dolny</translation>
     </message>
@@ -16243,6 +16255,10 @@ bezpośrednio</translation>
     <message>
         <source>Text Wrapping Break</source>
         <translation>Przerwa w zawijaniu tekstu</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggle Field Codes</source>

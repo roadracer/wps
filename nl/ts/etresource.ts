@@ -2659,6 +2659,10 @@ Window</source>
         <translation>Taakvenster</translation>
     </message>
     <message>
+        <source>Thesaurus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Toolbars</source>
         <translation>Werkbalken</translation>
     </message>
@@ -9226,6 +9230,10 @@ Add-Ins</source>
     <message>
         <source>Symbol</source>
         <translation>Symbool</translation>
+    </message>
+    <message>
+        <source>Synonyms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tab Color</source>
