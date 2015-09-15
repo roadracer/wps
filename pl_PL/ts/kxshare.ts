@@ -4258,7 +4258,7 @@ Kliknij tutaj, aby się zalogować.</translation>
     </message>
     <message>
         <source>Property</source>
-        <translation>Właściwość</translation>
+        <translation>Właściwości</translation>
     </message>
     <message>
         <source>yyyy-MM-dd</source>

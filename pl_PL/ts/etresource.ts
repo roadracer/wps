@@ -626,7 +626,7 @@
     </message>
     <message>
         <source>Select Objects</source>
-        <translation>Wybierz obiekty</translation>
+        <translation>Zaznacz obiekty</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -2811,7 +2811,7 @@ zadań</translation>
     <name>etcommon.mainwindow.commands.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>Grupuj</translation>
+        <translation>Grupa</translation>
     </message>
 </context>
 <context>
@@ -2825,7 +2825,7 @@ zadań</translation>
     <name>etcommon.mainwindow.commands.SetFormatCells</name>
     <message>
         <source>Format Cells</source>
-        <translation>Formatowanie komórek</translation>
+        <translation>Formatuj komórki</translation>
     </message>
 </context>
 <context>
@@ -5148,7 +5148,7 @@ kolumny</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation>Wybierz obiekty</translation>
+        <translation>Zaznacz obiekty</translation>
     </message>
     <message>
         <source>Series</source>
@@ -11118,7 +11118,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation>Wybierz obiekty</translation>
+        <translation>Zaznacz obiekty</translation>
     </message>
     <message>
         <source>Series</source>

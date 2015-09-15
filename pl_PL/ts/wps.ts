@@ -9479,7 +9479,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>&amp;Border...</source>
-        <translation>&amp;Krawędź....</translation>
+        <translation>&amp;Obramowanie....</translation>
     </message>
     <message>
         <source>&amp;Numbering...</source>
@@ -9487,7 +9487,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>&amp;Shortcut...</source>
-        <translation>&amp;Skrót...</translation>
+        <translation>&amp;Klawisz skrótu...</translation>
     </message>
     <message>
         <source>None</source>
@@ -9749,7 +9749,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>&amp;Border...</source>
-        <translation>&amp;Krawędź....</translation>
+        <translation>&amp;Obramowanie....</translation>
     </message>
     <message>
         <source>&amp;Numbering...</source>
@@ -9757,7 +9757,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>&amp;Shortcut...</source>
-        <translation>&amp;Skrót...</translation>
+        <translation>&amp;Klawisz skrótu...</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -10753,7 +10753,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>rbHorizontalLeft</source>
-        <translation>rbWyrównanieWPoziomieDoLewej</translation>
+        <translation>rbHorizontalLeft</translation>
     </message>
     <message>
         <source>&amp;Left</source>
@@ -10761,7 +10761,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>rbHorizontalCenter</source>
-        <translation>rbWyśrodkowanieWPoziomie</translation>
+        <translation>rbHorizontalCenter</translation>
     </message>
     <message>
         <source>&amp;Center</source>
@@ -10769,7 +10769,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>rbHorizontalRight</source>
-        <translation>rbWyrównanieWPoziomieDoPrawej</translation>
+        <translation>rbHorizontalRight</translation>
     </message>
     <message>
         <source>&amp;Right</source>
@@ -10777,7 +10777,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>rbHorizontalOther</source>
-        <translation>rbWyrównanieWPoziomieInne</translation>
+        <translation>rbHorizontalOther</translation>
     </message>
     <message>
         <source>&amp;Other</source>
@@ -13269,7 +13269,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>Uwaga: tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
+        <translation>Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
@@ -13503,7 +13503,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>Uwaga: tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
+        <translation>Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
 </context>
 <context>

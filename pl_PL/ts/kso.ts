@@ -878,7 +878,7 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
     <message>
         <source>Select Objects</source>
         <comment>DgUil_KSO_Cmd_SelectObjects</comment>
-        <translation>Wybierz obiekty</translation>
+        <translation>Zaznacz obiekty</translation>
     </message>
     <message>
         <source>Recent Fill Color</source>

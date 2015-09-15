@@ -266,11 +266,11 @@
     <name>KFilePageFixedButton</name>
     <message>
         <source>unfixed from list</source>
-        <translation>odłączony z listy</translation>
+        <translation>Odepnij od listy</translation>
     </message>
     <message>
         <source>fixed to list</source>
-        <translation>dołączony do listy</translation>
+        <translation>Przypnij do listy</translation>
     </message>
 </context>
 <context>

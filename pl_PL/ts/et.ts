@@ -9072,7 +9072,7 @@ system będzie przypominał o sprawdzaniu poprawności zawartości.
     </message>
     <message>
         <source>Select the IPOPT Nonlinear engine for Solver Problems that are smooth nonlinear.</source>
-        <translation>W przypadku gładkich nieliniowych problemów dodatku Solver wybierz aparat nieliniowy IPOPT.</translation>
+        <translation>W przypadku gładkich nieliniowych problemów dodatku Solver wybierz aparat nieliniowy IPOPT. </translation>
     </message>
 </context>
 <context>
@@ -11508,7 +11508,7 @@ t</translation>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
-        <translation>Uwaga: tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
+        <translation>Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>Permit to modi&amp;fy</source>
@@ -11674,7 +11674,7 @@ t</translation>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
-        <translation>Uwaga: tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
+        <translation>Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>&amp;Printing permission:</source>

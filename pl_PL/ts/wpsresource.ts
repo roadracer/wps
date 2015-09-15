@@ -710,7 +710,7 @@
     </message>
     <message>
         <source>Select Objects</source>
-        <translation>Wybierz obiekty</translation>
+        <translation>Zaznacz obiekty</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -3703,7 +3703,7 @@ styl</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation>Wybierz obiekty</translation>
+        <translation>Zaznacz obiekty</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
@@ -9367,7 +9367,7 @@ formatów</translation>
     </message>
     <message>
         <source>Select Hyperlink</source>
-        <translation>Wybierz hiperłącze</translation>
+        <translation>Zaznacz hiperłącze</translation>
     </message>
     <message>
         <source>Select Table</source>
@@ -11210,7 +11210,7 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation>Wybierz obiekty</translation>
+        <translation>Zaznacz obiekty</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
