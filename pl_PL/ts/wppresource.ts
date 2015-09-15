@@ -1854,7 +1854,7 @@ przejścia</translation>
     </message>
     <message>
         <source>Bulk Font Setting</source>
-        <translation>Ustawienie czcionki zbiorcze</translation>
+        <translation>Zbiorcze ustawienie czcionki</translation>
     </message>
     <message>
         <source>Color
@@ -3255,7 +3255,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupuj</translation>
+        <translation>Grupa</translation>
     </message>
     <message>
         <source>Hanging</source>
@@ -3643,7 +3643,7 @@ w tle</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation>Lampa błyskowa</translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Header and 
@@ -6317,7 +6317,7 @@ WordArt</translation>
     </message>
     <message>
         <source>Bulk Font Setting</source>
-        <translation>Ustawienie czcionki zbiorcze</translation>
+        <translation>Zbiorcze ustawienie czcionki</translation>
     </message>
     <message>
         <source>Cellphone Control</source>
@@ -7138,7 +7138,7 @@ COM</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation>Lampa błyskowa</translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -8236,7 +8236,7 @@ slajdów</translation>
     </message>
     <message>
         <source>Bulk Font Setting</source>
-        <translation>Ustawienie czcionki zbiorcze</translation>
+        <translation>Zbiorcze ustawienie czcionki</translation>
     </message>
     <message>
         <source>Color Schemes</source>
@@ -9318,7 +9318,7 @@ powiązany</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation>Lampa błyskowa</translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -9768,7 +9768,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation>Lampa błyskowa</translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -12053,7 +12053,7 @@ cienia</translation>
     </message>
     <message>
         <source>Bulk Font Setting</source>
-        <translation>Ustawienie czcionki zbiorcze</translation>
+        <translation>Zbiorcze ustawienie czcionki</translation>
     </message>
     <message>
         <source>Cellphone Control</source>

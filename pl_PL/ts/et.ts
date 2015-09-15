@@ -9146,7 +9146,7 @@ system będzie przypominał o sprawdzaniu poprawności zawartości.
     </message>
     <message>
         <source>Select the IPOPT Nonlinear engine for Solver Problems that are smooth nonlinear.</source>
-        <translation>W przypadku gładkich nieliniowych problemów dodatku Solver wybierz aparat nieliniowy IPOPT.</translation>
+        <translation>W przypadku gładkich nieliniowych problemów dodatku Solver wybierz aparat nieliniowy IPOPT. </translation>
     </message>
 </context>
 <context>

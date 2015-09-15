@@ -2880,7 +2880,7 @@ zadań</translation>
     <name>etcommon.mainwindow.commands.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>Grupuj</translation>
+        <translation>Grupa</translation>
     </message>
 </context>
 <context>
@@ -2894,7 +2894,7 @@ zadań</translation>
     <name>etcommon.mainwindow.commands.SetFormatCells</name>
     <message>
         <source>Format Cells</source>
-        <translation>Formatowanie komórek</translation>
+        <translation>Formatuj komórki</translation>
     </message>
 </context>
 <context>

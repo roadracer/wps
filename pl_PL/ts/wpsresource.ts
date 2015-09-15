@@ -3733,7 +3733,7 @@ styl</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
-        <translation>Wybierz tabelę z kreskowanym obramowaniem</translation>
+        <translation>Zaznacz tabelę z kreskowanym obramowaniem</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -9505,7 +9505,7 @@ formatów</translation>
     </message>
     <message>
         <source>Select Hyperlink</source>
-        <translation>Wybierz hiperłącze</translation>
+        <translation>Zaznacz hiperłącze</translation>
     </message>
     <message>
         <source>Select Table</source>

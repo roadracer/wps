@@ -6250,12 +6250,12 @@ dokumentu</translation>
     <message>
         <source>Hide White Space</source>
         <comment>TxMessage_ToolTip_HideBlank</comment>
-        <translation>Ukryj biały znak</translation>
+        <translation>Ukryj odstęp</translation>
     </message>
     <message>
         <source>Show White Space</source>
         <comment>TxMessage_ToolTip_DisplayBlank</comment>
-        <translation>Pokaż biały znak</translation>
+        <translation>Pokaż odstęp</translation>
     </message>
     <message>
         <source>Mail Merge Insert Fields</source>

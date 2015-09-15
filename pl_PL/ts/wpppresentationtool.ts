@@ -94,7 +94,7 @@
     </message>
     <message>
         <source>Bulk Font Setting</source>
-        <translation>Ustawienie czcionki zbiorcze</translation>
+        <translation>Zbiorcze ustawienie czcionki</translation>
     </message>
     <message>
         <source>Text Box</source>

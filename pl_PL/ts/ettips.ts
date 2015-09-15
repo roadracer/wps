@@ -2508,7 +2508,7 @@ W programie Writer funkcja ta umożliwia przekonwertowanie zaznaczonego tekstu n
     <message id="VAlignCenter.content">
         <source>Align text so that it is centered between the top and bottom of the cell.</source>
         <extracomment>VAlignCenter.content</extracomment>
-        <translation>Umożliwia wyrównanie tekstu przez wyśrodkowanie go między górą a dołem komórki.</translation>
+        <translation>Umożliwia wyrównanie tekstu przez wyśrodkowanie go między górą, a dołem komórki.</translation>
     </message>
     <message id="VAlignTop.title">
         <source>Top Align</source>
