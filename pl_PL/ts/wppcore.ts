@@ -6768,7 +6768,7 @@ Ta kopia zapasowa zostanie zapisana do(%s)</translation>
     <message>
         <source>(no synonyms suggestions)</source>
         <comment>WP_NoSynonymsSuggestions_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>(brak sugestii synonimów)</translation>
     </message>
 </context>
 </TS>

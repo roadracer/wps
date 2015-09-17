@@ -5051,17 +5051,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>buttonGroup</source>
-        <translation variants="yes">
-            <lengthvariant>przyciskGrupa</lengthvariant>
-            <lengthvariant>buttonGroup</lengthvariant>
-        </translation>
+        <translation>buttonGroup</translation>
     </message>
     <message>
         <source>buttonGroup_2</source>
-        <translation variants="yes">
-            <lengthvariant>przyciskGrupa_2</lengthvariant>
-            <lengthvariant>buttonGroup_2</lengthvariant>
-        </translation>
+        <translation>buttonGroup_2</translation>
     </message>
     <message>
         <source>Summarize Values By</source>
@@ -9146,7 +9140,7 @@ system będzie przypominał o sprawdzaniu poprawności zawartości.
     </message>
     <message>
         <source>Select the IPOPT Nonlinear engine for Solver Problems that are smooth nonlinear.</source>
-        <translation>W przypadku gładkich nieliniowych problemów dodatku Solver wybierz aparat nieliniowy IPOPT. </translation>
+        <translation>W przypadku gładkich nieliniowych problemów dodatku Solver wybierz aparat nieliniowy IPOPT.</translation>
     </message>
 </context>
 <context>
@@ -11754,23 +11748,23 @@ lub strona sieci Web</translation>
     <name>kxDlgThesaurus</name>
     <message>
         <source>Thesaurus</source>
-        <translation type="unfinished"></translation>
+        <translation>Tezaurus</translation>
     </message>
     <message>
         <source>Current word:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bieżący wyraz:</translation>
     </message>
     <message>
         <source>Alternatives:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternatywy:</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished">Zamień</translation>
+        <translation>Zamień</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>

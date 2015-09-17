@@ -7479,7 +7479,7 @@ pisowni</translation>
     <message>
         <source>(no synonyms suggestions)</source>
         <comment>TxCaption_NoSynonymsSuggestions</comment>
-        <translation type="unfinished"></translation>
+        <translation>(brak sugestii synonimów)</translation>
     </message>
 </context>
 <context>

@@ -2914,134 +2914,134 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     <name>KxDlgEnvelopeOption</name>
     <message>
         <source>Envelope Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcje kopert</translation>
     </message>
     <message>
         <source>Envelope size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar koperty:</translation>
     </message>
     <message>
         <source>Delivery address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres odbiorcy</translation>
     </message>
     <message>
         <source>From top:</source>
-        <translation type="unfinished"></translation>
+        <translation>Od góry:</translation>
     </message>
     <message>
         <source>From left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Od lewej:</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished">Automatycznie</translation>
+        <translation>Automatycznie</translation>
     </message>
     <message>
         <source>Return address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres zwrotny</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Podgląd</translation>
+        <translation>Podgląd</translation>
     </message>
     <message>
         <source>Printing Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcje drukowania</translation>
     </message>
     <message>
         <source>Printer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Drukarka:</translation>
     </message>
     <message>
         <source>Feed method</source>
-        <translation type="unfinished"></translation>
+        <translation>Metoda podawania</translation>
     </message>
     <message>
         <source>Face up</source>
-        <translation type="unfinished"></translation>
+        <translation>Wierzchem do góry</translation>
     </message>
     <message>
         <source>Face down</source>
-        <translation type="unfinished"></translation>
+        <translation>Wierzchem do dołu</translation>
     </message>
     <message>
         <source>Clockwise rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrót zgodny z ruchem wskazówek zegara</translation>
     </message>
     <message>
         <source>Feed from:</source>
-        <translation type="unfinished"></translation>
+        <translation>Podawanie z:</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetuj</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEnvelopesAndLabels</name>
     <message>
         <source>Envelopes and Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Koperty i etykiety</translation>
     </message>
     <message>
         <source>Envelopes</source>
-        <translation type="unfinished"></translation>
+        <translation>Koperty</translation>
     </message>
     <message>
         <source>Delivery address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres odbiorcy:</translation>
     </message>
     <message>
         <source>Add electronic postage</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj elektroniczną opłatę pocztową</translation>
     </message>
     <message>
         <source>Return address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres zwrotny:</translation>
     </message>
     <message>
         <source>Omit</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomiń</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Podgląd</translation>
+        <translation>Podgląd</translation>
     </message>
     <message>
         <source>Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Podawanie</translation>
     </message>
     <message>
         <source>Verify that an envelopes is loaded before printing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Przed przystąpieniem do drukowania sprawdź, czy koperty zostały załadowane:</translation>
     </message>
     <message>
         <source>Use printer setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj ustawień drukarki</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Drukuj</translation>
     </message>
     <message>
         <source>Add Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj dokument</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opcje</translation>
+        <translation>Opcje</translation>
     </message>
     <message>
         <source>E-postage Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Właściwości elektronicznej opłaty pocztowej</translation>
     </message>
     <message>
         <source>Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Etykiety</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
@@ -8025,22 +8025,22 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxEnvelopeOptionDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Use printer setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj ustawień drukarki</translation>
     </message>
 </context>
 <context>
     <name>KxEnvelopesAndLabelsDlg</name>
     <message>
         <source>Change Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień dokument</translation>
     </message>
 </context>
 <context>
@@ -13283,11 +13283,11 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>You have changed WPS&apos;s default envelope handing method for this printer. These changes could be incorrect. Choose Reset to return to WPS defaults.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmieniono domyślne ustawienia drukowania kopert na drukarce. Zmiany mogą być nieprawidłowe. Kliknij przycisk Resetuj, aby powrócić do ustawień domyślnych.</translation>
     </message>
     <message>
         <source>WPS recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS zaleca sposób podawania kopert pokazany wyżej. Jeżeli ta metoda okaże się niewłaściwa, wybierz inną, odpowiednią dla drukarki.</translation>
     </message>
 </context>
 <context>
@@ -13547,23 +13547,23 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>kxDlgThesaurus</name>
     <message>
         <source>Thesaurus</source>
-        <translation type="unfinished"></translation>
+        <translation>Tezaurus</translation>
     </message>
     <message>
         <source>Current word:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bieżący wyraz:</translation>
     </message>
     <message>
         <source>Alternatives:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternatywy:</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished">Zamień</translation>
+        <translation>Zamień</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>

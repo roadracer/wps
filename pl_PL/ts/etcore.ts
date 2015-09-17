@@ -14686,7 +14686,7 @@ Istnieje kilka możliwych przyczyn:
     <message>
         <source>(no synonyms suggestions)</source>
         <comment>WP_NoSynonymsSuggestions_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>(brak sugestii synonimów)</translation>
     </message>
 </context>
 <context>

@@ -339,11 +339,11 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Others</source>
-        <translation type="unfinished">Inne</translation>
+        <translation>Inne</translation>
     </message>
     <message>
         <source>Enable &quot;Upload to WPS Office Cloud&quot; on Context Menu.</source>
-        <translation type="unfinished">Włącz &quot;Przekazywanie do usługi WPS Office Cloud&quot; w Menu kontekstowym.</translation>
+        <translation>Włącz &quot;Przekazywanie do usługi WPS Office Cloud&quot; w Menu kontekstowym.</translation>
     </message>
 </context>
 <context>

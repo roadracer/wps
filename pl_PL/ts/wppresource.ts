@@ -7904,7 +7904,7 @@ slajdów</translation>
     </message>
     <message>
         <source>Synonyms</source>
-        <translation type="unfinished"></translation>
+        <translation>Synonimy</translation>
     </message>
     <message>
         <source>Table</source>
@@ -13013,7 +13013,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Thesaurus</source>
-        <translation type="unfinished"></translation>
+        <translation>Tezaurus</translation>
     </message>
     <message>
         <source>Toolbars</source>

@@ -5190,23 +5190,23 @@ Czy na pewno zamknąć?</translation>
     <name>kxDlgThesaurus</name>
     <message>
         <source>Thesaurus</source>
-        <translation type="unfinished"></translation>
+        <translation>Tezaurus</translation>
     </message>
     <message>
         <source>Current word:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bieżący wyraz:</translation>
     </message>
     <message>
         <source>Alternatives:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternatywy:</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished">Zamień</translation>
+        <translation>Zamień</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
