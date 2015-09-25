@@ -4940,17 +4940,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>buttonGroup</source>
-        <translation variants="yes">
-            <lengthvariant>przyciskGrupa</lengthvariant>
-            <lengthvariant>buttonGroup</lengthvariant>
-        </translation>
+        <translation>buttonGroup</translation>
     </message>
     <message>
         <source>buttonGroup_2</source>
-        <translation variants="yes">
-            <lengthvariant>przyciskGrupa_2</lengthvariant>
-            <lengthvariant>buttonGroup_2</lengthvariant>
-        </translation>
+        <translation>buttonGroup_2</translation>
     </message>
     <message>
         <source>Summarize Values By</source>
