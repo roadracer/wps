@@ -171,11 +171,11 @@
     </message>
     <message>
         <source>New version is available. Please refresh.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nouă versiune este disponibilă, Reâmprospătați.</translation>
     </message>
     <message>
         <source>New version is available. Please check.</source>
-        <translation type="unfinished"></translation>
+        <translation>O nouă versiune este disponibilă, Verificați.</translation>
     </message>
 </context>
 <context>
@@ -307,11 +307,11 @@
     </message>
     <message>
         <source>WPS Office Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Backup automat WPS Office</translation>
     </message>
     <message>
         <source>WPS</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS</translation>
     </message>
     <message>
         <source>Data Files</source>
@@ -758,19 +758,19 @@ This may because:
     </message>
     <message>
         <source>&amp;Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Criptare</translation>
     </message>
     <message>
         <source>Rena&amp;me</source>
-        <translation type="unfinished"></translation>
+        <translation>Redenu&amp;mește</translation>
     </message>
     <message>
         <source>R&amp;efresh</source>
-        <translation type="unfinished"></translation>
+        <translation>R&amp;eâmprospătează</translation>
     </message>
     <message>
         <source>New &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dosar nou</translation>
     </message>
 </context>
 <context>
@@ -992,7 +992,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Delete from List</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge din listă</translation>
     </message>
 </context>
 <context>
@@ -1018,7 +1018,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
 </context>
 <context>
@@ -1209,7 +1209,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>You have enabled File Roaming:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ați activat File Roaming:</translation>
     </message>
 </context>
 <context>
@@ -1248,7 +1248,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>If you want to use macros, please upgrade to professional or business version</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă doriți să utilizați macrocomenzi, actualizați la versiunea comercială sau profesională</translation>
     </message>
 </context>
 <context>
@@ -1296,7 +1296,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Documents saving to the cloud failed. Please check the Internet and retry</source>
-        <translation type="unfinished"></translation>
+        <translation>A eșuat salvarea documentelor în nor. Verificați internetul și încercați din nou</translation>
     </message>
 </context>
 <context>
@@ -1541,7 +1541,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Restrict how people edit or format specific parts of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Restricționează cum utilizatorii editează sau formatează părți specifice din document.</translation>
     </message>
 </context>
 <context>
@@ -1731,7 +1731,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>If you have purchased subscription, please sign in to use WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă ați achiziționat abonamentul, autentificați-vă pentru a utiliza WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -1977,7 +1977,7 @@ După expirare, unele funcții nu vor funcționa corespunzător. Reânnoiți acu
     </message>
     <message>
         <source>WPS Office Disabled Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funcții dezactivate WPS Office</translation>
     </message>
 </context>
 <context>
@@ -2084,7 +2084,7 @@ După expirare, unele funcții nu vor funcționa corespunzător. Reânnoiți acu
     </message>
     <message>
         <source>Currently the trial, free and home versions of WPS Office cannot support VBA, thus macros in the document cannot work properly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiunile curentă de încercare, gratuită și home a WPS Office nu poate suporta VBA astfel  macrocomenzile din document nu pot funcționa corespunzător.</translation>
     </message>
 </context>
 <context>
@@ -2160,7 +2160,8 @@ După expirare, unele funcții nu vor funcționa corespunzător. Reânnoiți acu
     <message>
         <source>If you have purchased subscription, 
 please sign in to use WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă ați achiziționat abonamentul, 
+autentificați-vă pentru a utiliza WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -2197,11 +2198,11 @@ please sign in to use WPS Office.</source>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation type="unfinished">WPS recuperare date Master</translation>
+        <translation>WPS recuperare date Master</translation>
     </message>
     <message>
         <source>Help you resume lost files due to disk corruption or accidental delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Vă ajută să reluați fișierele pierdute datorită erorilor hdd sau ștergerii accidentale</translation>
     </message>
 </context>
 </TS>
