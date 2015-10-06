@@ -65,14 +65,16 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Value Out of Range</source>
         <comment>_ksoErr_Basic_ValueOutOfRange</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea este în afara intervalului</translation>
     </message>
     <message>
         <source>The current user does not have the permission to write to the temporary directory.
 
 Please check your system settings and ensure that the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
-        <translation type="unfinished"></translation>
+        <translation>Utilizatorul curent nu are permisiunea să scrie în directorul temporar.
+
+Verificați configurările de sistem și asigurați-vă că directorul temporar sub utilizatorul curent este disponibil, iar apoi reporniți WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -2438,12 +2440,12 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Feedback form/order form</source>
         <comment>DRAWINGSTR_FORM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formular feedback/formular ordin</translation>
     </message>
     <message>
         <source>Gear</source>
         <comment>DRAWINGSTR_GEAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unealtă</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -2553,7 +2555,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Pub Oval Callout</source>
         <comment>DRAWINGSTR_PUBOVALCALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă pub oval</translation>
     </message>
     <message>
         <source>Pub Pie Slice</source>
@@ -2573,7 +2575,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Pub Triangle</source>
         <comment>DRAWINGSTR_PUBTRIANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pub triunghiular</translation>
     </message>
     <message>
         <source>Puzzle1</source>
@@ -2643,12 +2645,12 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Sink1</source>
         <comment>DRAWINGSTR_SINK1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mătase1</translation>
     </message>
     <message>
         <source>Sink2</source>
         <comment>DRAWINGSTR_SINK2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mătase2</translation>
     </message>
     <message>
         <source>Table</source>
@@ -2758,7 +2760,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Pane Woven</source>
         <comment>DRAWINGSTR_TRANSFER_PANE_WOVEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Panou țesut</translation>
     </message>
     <message>
         <source>Old Cotton Fabric</source>
@@ -2818,7 +2820,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Radialized Pattern</source>
         <comment>DRAWINGSTR_TRANSFER_CIRCLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Model radial</translation>
     </message>
     <message>
         <source>Twine</source>
@@ -3126,7 +3128,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
         <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
-        <translation type="unfinished"></translation>
+        <translation>Autorului ar vrea să deschideți aceasta doar pentru citire până când va trebui să faceți modificări. Se deschide doar pentru citire?</translation>
     </message>
 </context>
 <context>
@@ -4355,7 +4357,9 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
 You can add the customized paper %dmm x %dmm in printer properties and print again.
 Continue printing?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation type="unfinished"></translation>
+        <translation>Imprimanta nu suportă dimensiunea curentă a hârtiei. Continuarea tipăririi poate rezulta o calitate nesatisfăcătoare.
+Puteți adăuga hârtia personalizată %dmm x %dmm în proprietățile imprimantei și să tipăriți din nou.
+Se continuă tipărirea?</translation>
     </message>
 </context>
 <context>
@@ -6751,12 +6755,12 @@ Utilizată pentru a arăta pașii spre un scop</translation>
     <message>
         <source>Error happens when application tries to register. Error code: 0x%8.8x.</source>
         <comment>kso_sAppRegisterError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Au intervenit erori când aplicația încerca să se înregistreze. Cod eroare: 0x%8.8x.</translation>
     </message>
     <message>
         <source>Error happens when application tries to logout. Error code: 0x%8.8x.</source>
         <comment>kso_sAppUnRegisterError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Au intervenit erori când aplicația încerca să se deautentifice. Cod eroare: 0x%8.8x.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyze meet the following conditions:
@@ -6764,22 +6768,25 @@ Utilizată pentru a arăta pașii spre un scop</translation>
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
         <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți crea un tabel pivot cu aceste date. Verificați dacă datele pe care doriți să le analizați îndeplinesc următoarele condiții: 
+1.Asigurați-vă că referința există. Dacă este un nume, trebuie să fie un interval valid;
+2.Asigurați-vă că referința este un singur interval și că aceasta conține cel puțin două rânduri;
+3.Asigurați-vă că primul rând al intervalului referinței nu conține celule goale, valori eronate, iar fiecare celulă nu conține mai mult de 255 caractere.</translation>
     </message>
     <message>
         <source>Unknown Format Source.</source>
         <comment>kso_sErrPasteLink</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format sursă necunoscut.</translation>
     </message>
     <message>
         <source>Solid</source>
         <comment>kso_sLineSolid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Solid</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
         <comment>kso_sRefIsNotValid</comment>
-        <translation type="unfinished">Referința nu este validă.</translation>
+        <translation>Referința nu este validă.</translation>
     </message>
     <message>
         <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
@@ -6794,17 +6801,17 @@ Utilizată pentru a arăta pașii spre un scop</translation>
     <message>
         <source>Forward</source>
         <comment>kso_Nav_Forword</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înainte</translation>
     </message>
     <message>
         <source>The file cannot be deleted. It may be occupied.</source>
         <comment>kso_sCannotRemoveBackupFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul nu poate fi șters. Poate fi ocupat.</translation>
     </message>
     <message>
         <source>Some files cannot be deleted. They may be occupied.</source>
         <comment>kso_sCannotRemoveAllBackupFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unele fișiere nu pot fi șterse, Acestea pot fi ocupate.</translation>
     </message>
     <message>
         <source>Dowload XML expansion</source>
