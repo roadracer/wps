@@ -3211,7 +3211,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupuj</translation>
+        <translation>Grupa</translation>
     </message>
     <message>
         <source>Hanging</source>
@@ -5987,7 +5987,7 @@ znakami</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupuj</translation>
+        <translation>Grupa</translation>
     </message>
     <message>
         <source>Inflate</source>
@@ -9161,7 +9161,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupuj</translation>
+        <translation>Grupa</translation>
     </message>
     <message>
         <source>Hanging</source>
@@ -11595,7 +11595,7 @@ cienia</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupa</translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>Inflate</source>

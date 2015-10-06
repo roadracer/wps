@@ -4931,7 +4931,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Matching the current format</source>
-        <translation>Dopasowanie bieżącego formatu</translation>
+        <translation>Dopasowanie do bieżącego formatu</translation>
     </message>
     <message>
         <source>General and Save</source>

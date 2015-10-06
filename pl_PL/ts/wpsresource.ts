@@ -1696,7 +1696,7 @@
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>Dopasowanie bieżącego formatu</translation>
+        <translation>Dopasowanie do bieżącego formatu</translation>
     </message>
     <message>
         <source>Max</source>
@@ -3617,7 +3617,7 @@ formatów</translation>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>Dopasowanie bieżącego formatu</translation>
+        <translation>Dopasowanie do bieżącego formatu</translation>
     </message>
     <message>
         <source>More</source>
@@ -7399,7 +7399,7 @@ znakami</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupuj</translation>
+        <translation>Grupa</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -8930,7 +8930,7 @@ formatów</translation>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>Dopasowanie bieżącego formatu</translation>
+        <translation>Dopasowanie do bieżącego formatu</translation>
     </message>
     <message>
         <source>Max</source>
@@ -11134,7 +11134,7 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>Dopasowanie bieżącego formatu</translation>
+        <translation>Dopasowanie do bieżącego formatu</translation>
     </message>
     <message>
         <source>More</source>
@@ -14636,7 +14636,7 @@ cienia</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupa</translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>In Front of Text</source>

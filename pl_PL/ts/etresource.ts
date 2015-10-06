@@ -2811,7 +2811,7 @@ zadań</translation>
     <name>etcommon.mainwindow.commands.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation type="unfinished">Grupuj</translation>
+        <translation>Grupuj</translation>
     </message>
 </context>
 <context>
@@ -3287,8 +3287,8 @@ zadań</translation>
     <message>
         <source>Change
 Chart Type</source>
-        <translation>Zmienianie
-typu wykresu</translation>
+        <translation>Zmień typ
+wykresu</translation>
     </message>
     <message>
         <source>Chart Elements</source>
@@ -7240,7 +7240,7 @@ znakami</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupuj</translation>
+        <translation>Grupa</translation>
     </message>
     <message>
         <source>Inflate</source>
@@ -9362,8 +9362,8 @@ wyśrodkuj</translation>
     <message>
         <source>Change
 Chart Type</source>
-        <translation>Zmienianie
-typu wykresu</translation>
+        <translation>Zmień typ
+wykresu</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
@@ -13065,7 +13065,7 @@ cienia</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupa</translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>Inflate</source>
