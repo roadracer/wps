@@ -459,20 +459,23 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate deschide fișierul &quot;%1&quot;.
+fișierul este posibil să fie redenumit, șters sau mutat.</translation>
     </message>
     <message>
         <source>
 
 Modified time:</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Timp modificat:</translation>
     </message>
     <message>
         <source>
 
 
 Invalid record. This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Înregistrare nevalidă. Acest fișier este posibil să fi fost redenumit, șters sau mutat.</translation>
     </message>
 </context>
 <context>
@@ -572,7 +575,8 @@ reinstalați WPS Office!</translation>
     <message>
         <source>Some components are not installed correctly.
 Please reinstall WPS Office!</source>
-        <translation type="unfinished"></translation>
+        <translation>Unele componente nu sunt instalate corect,
+reinstalați WPS Office!</translation>
     </message>
 </context>
 <context>

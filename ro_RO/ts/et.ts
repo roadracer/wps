@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>Use ODBC data source connection guide(&amp;W)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați ghidul de conectare sursă de date ODBC(&amp;W)</translation>
     </message>
 </context>
 <context>
@@ -361,7 +361,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Comment function</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentariu funcție</translation>
     </message>
 </context>
 <context>
@@ -823,19 +823,19 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Not Begin With</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu începe cu</translation>
     </message>
     <message>
         <source>Not End With</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se termină cu</translation>
     </message>
     <message>
         <source>Not Between</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu este între</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation type="unfinished">&amp;Curăță</translation>
+        <translation>&amp;Curăță</translation>
     </message>
 </context>
 <context>
@@ -981,7 +981,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Valid username and password required to access the database:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru accesarea bazei de date este necesar nume de utilizator și parolă valide:</translation>
     </message>
 </context>
 <context>
@@ -1397,31 +1397,31 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Greater than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai mare decât sau egal cu</translation>
     </message>
     <message>
         <source>Less than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai mic decât sau egal cu</translation>
     </message>
     <message>
         <source>Highlight - Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiat - Text</translation>
     </message>
     <message>
         <source>Contains</source>
-        <translation type="unfinished">Conține</translation>
+        <translation>Conține</translation>
     </message>
     <message>
         <source>Begins with</source>
-        <translation type="unfinished"></translation>
+        <translation>Începe cu</translation>
     </message>
     <message>
         <source>Ends with</source>
-        <translation type="unfinished"></translation>
+        <translation>Se termină cu</translation>
     </message>
     <message>
         <source>Highlight - Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiat - Dată</translation>
     </message>
 </context>
 <context>
@@ -1590,7 +1590,10 @@ condiția este adevărată:</translation>
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți crea un tabel pivot cu aceste date. Verificați dacă datele pe care doriți să le analizați îndeplinesc următoarele condiții:
+1.Asigurați-vă că referința există. dacă este un nume, trebuie să fie un interval valid;
+2.Asigurați-vă că referința este un singur interval și că trebuie să conțină cel puțin două rânduri;
+3.Asigurați-vă că primul rând al intervalului de referință nu conține nici o celulă goală, erori valoare,iar fiecare celulă nu conține mai mult de 255 caractere.</translation>
     </message>
 </context>
 <context>
@@ -1721,7 +1724,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>An error occurred when delete.</source>
-        <translation type="unfinished"></translation>
+        <translation>A intervenit o eroare la ștergere.</translation>
     </message>
 </context>
 <context>
@@ -2254,7 +2257,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>Use another &amp;PivotTable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați un alt tabel &amp;pivot:</translation>
     </message>
 </context>
 <context>
@@ -2333,7 +2336,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished">Antet și subsol</translation>
+        <translation>Antet și subsol</translation>
     </message>
 </context>
 <context>
@@ -2504,7 +2507,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished">Listă</translation>
+        <translation>Listă</translation>
     </message>
 </context>
 <context>
@@ -3268,7 +3271,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Import lists from</source>
-        <translation type="unfinished"></translation>
+        <translation>Importă liste de la</translation>
     </message>
 </context>
 <context>
@@ -4234,19 +4237,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Save As Create Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvează ca Creează backup</translation>
     </message>
     <message>
         <source>Always create &amp;backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Creează întotdeauna &amp;backup</translation>
     </message>
     <message>
         <source>Read-only &amp;recommended Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiune &amp;recomandare doar-citire</translation>
     </message>
     <message>
         <source>Read-only &amp;recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Recomandat doar-citire</translation>
     </message>
 </context>
 <context>
@@ -5019,7 +5022,8 @@ Numai %d valori unice pot fi păstrate după ștergere.</translation>
     <message>
         <source>%1 duplicates are found;
 Only %2 unique values will be left after delete.</source>
-        <translation type="unfinished"></translation>
+        <translation>S-au găsit %1 duplicate;
+Numai %2 valori unice pot rămâne după ștergere.</translation>
     </message>
 </context>
 <context>
@@ -5096,15 +5100,15 @@ Only %2 unique values will be left after delete.</source>
     </message>
     <message>
         <source>Your Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificările dumneavoastră</translation>
     </message>
     <message>
         <source>&amp;Accept All of Current User</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Acceptă tot de la utilizatorul curent</translation>
     </message>
     <message>
         <source>Accept All of Other U&amp;sers</source>
-        <translation type="unfinished"></translation>
+        <translation>Acceptă tot de la alți &amp;utilizatori</translation>
     </message>
 </context>
 <context>
@@ -5131,11 +5135,11 @@ Only %2 unique values will be left after delete.</source>
     </message>
     <message>
         <source>&amp;Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Salvează ca</translation>
     </message>
     <message>
         <source>Other users may have submmitted some changes which cannot be identified by WPS Spreadsheets. To save the file and discard the changes, click Continue; to save a copy of the current file, click Save As.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alți utilizatori poate au comis unele modificări care nu pot fi identificate de WPS Spreadsheets. Pentru a salva fișierul și a elimina modificările, apăsați continuă; pentru a salva o copie a fișierului curent, apăsați Salvează ca.</translation>
     </message>
 </context>
 <context>
@@ -6153,7 +6157,7 @@ If this is correct, choose Next. If not, choose the data type that best describe
     </message>
     <message>
         <source>A query with this name already exists on this worksheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>O interogare cu acest nume deja există pe această foaie de lucru.</translation>
     </message>
 </context>
 <context>
@@ -6622,15 +6626,15 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume utilizator</translation>
     </message>
     <message>
         <source>Permission expires on:</source>
-        <translation type="unfinished"></translation>
+        <translation>Permisiunea expiră pe:</translation>
     </message>
     <message>
         <source>Request additional permissions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicită permisiuni suplimentare...</translation>
     </message>
 </context>
 <context>
@@ -6827,31 +6831,31 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     <name>KxExportOFDDlg</name>
     <message>
         <source>Save OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvează fișier OFD</translation>
     </message>
     <message>
         <source>OFD File(*.ofd)|*.ofd</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier OFD(*.ofd)|*.ofd</translation>
     </message>
     <message>
         <source>The specified path does not exist, enter a valid one please.</source>
-        <translation type="unfinished">Calea specificată nu există, introduceți una validă.</translation>
+        <translation>Calea specificată nu există, introduceți una validă.</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
-        <translation type="unfinished">Fișierul pe care l-ați specificat există deja. Doriți să îl înlocuiți și să continuați?</translation>
+        <translation>Fișierul pe care l-ați specificat există deja. Doriți să îl înlocuiți și să continuați?</translation>
     </message>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation type="unfinished">Confirmarea parolei nu este identică.</translation>
+        <translation>Confirmarea parolei nu este identică.</translation>
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
-        <translation type="unfinished">Introduceți parola pentru configurări permisiuni!</translation>
+        <translation>Introduceți parola pentru permisiuni configurări!</translation>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
-        <translation type="unfinished">Parola deschidere fișier și parola permisiuni trebuie să fie diferite, introduceți din nou.</translation>
+        <translation>Parola deschidere fișier și parola permisiuni trebuie să fie diferite, introduceți din nou.</translation>
     </message>
 </context>
 <context>
@@ -6889,23 +6893,23 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     <name>KxExportToOFDProgressDlg</name>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se pregătește exportul fișierului OFD...</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
-        <translation type="unfinished">Se exportă rezumatul informației...</translation>
+        <translation>Se exportă rezumatul informației...</translation>
     </message>
     <message>
         <source>Exporting page </source>
-        <translation type="unfinished">Se exportă pagina</translation>
+        <translation>Se exportă pagina</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
-        <translation type="unfinished">Se exportă etichetele...</translation>
+        <translation>Se exportă etichetele...</translation>
     </message>
     <message>
         <source>Exporting OFD file is completing...</source>
@@ -6925,18 +6929,18 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Închide</translation>
+        <translation>Închide</translation>
     </message>
     <message>
         <source>Exporting OFD file is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportul fișierului OFD s-a terminat.</translation>
     </message>
 </context>
 <context>
     <name>KxExportToPDFProgressDlg</name>
     <message>
         <source>Preparing for exporting PDF file...</source>
-        <translation>Se pregătește exportul fișierului PDf...</translation>
+        <translation>Se pregătește exportul fișierului PDF...</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
@@ -7777,7 +7781,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>%1 If you need to edit this file in WPS Spreadsheets, please make sure that others are no longer editing, and transform the file %2 to a shared workbook %3 of WPS Spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Dacă aveți nevoie să editați acest fișier în WPS Spreadsheets, asigutați-vă că nimeni nu îl editează, și transformați fișierul %2 într-un registru de lucru partajat %3 al WPS Spreadsheets.</translation>
     </message>
 </context>
 <context>
@@ -7944,7 +7948,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu aveți permisiunea să scrieți fișierul de rezervă în &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -8419,11 +8423,12 @@ Numai %2 valori unice pot fi păstrate după ștergere.</translation>
     <message>
         <source>%1 duplicates are found;
 %2 unique values will be left after delete.</source>
-        <translation type="unfinished"></translation>
+        <translation>S-au găsit %1 duplicate;
+%2 valori unice vor rămâne după ștergere.</translation>
     </message>
     <message>
         <source>%1 duplicates are found and have been deleted, %2 unique values are remained.</source>
-        <translation type="unfinished"></translation>
+        <translation>S-au găsit %1 duplicate care au fost șterse, %2 valori unice au rămas.</translation>
     </message>
 </context>
 <context>
@@ -8990,7 +8995,7 @@ Dacă nu doriți să arătați câmpul deloc, anulați operația curentă, iar a
     </message>
     <message>
         <source>Drag fields onto PivotTable area</source>
-        <translation type="unfinished"></translation>
+        <translation>Trageți câmpuri în zona tabelului pivot</translation>
     </message>
 </context>
 <context>
@@ -10519,15 +10524,15 @@ t</translation>
     </message>
     <message>
         <source>Shrink to Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Micșorează pentru a se potrivi</translation>
     </message>
     <message>
         <source>Context</source>
-        <translation type="unfinished">Context</translation>
+        <translation>Context</translation>
     </message>
     <message>
         <source>No macro is currently recording. Click to begin recording a new macro.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nici o macrocomandă nu se înregistrează acum. Apăsați pentru a începe înregistrarea unei noi macrocomenzi.</translation>
     </message>
 </context>
 <context>
@@ -10601,7 +10606,7 @@ t</translation>
     </message>
     <message>
         <source>Please select the target table to be imported from the combo box. All fields will be listed in the left list box. Select the fields needed to be imported there, and the selected fields will be listed in the right list box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați tabelul țintă pentru a fi importat din caseta derulantă, Toate câmpurile vor fi listate în caseta listă din stânga, Selectați câmpurile necesare pentru import, iar câmpurile selectate vor fi listate în caseta listă din dreapta.</translation>
     </message>
 </context>
 <context>
@@ -11155,19 +11160,19 @@ t</translation>
     <name>kdlgExportToOFDProgress</name>
     <message>
         <source>Export to OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă în fișier OFD</translation>
     </message>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se pregătește exportul fișierului OFD...</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished">&amp;Deschide fișier</translation>
+        <translation>&amp;Deschide fișier</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
 </context>
 <context>
@@ -11286,7 +11291,7 @@ t</translation>
     </message>
     <message>
         <source>Password to prot&amp;ect permission settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Parolă pentru prot&amp;ejarea permisiunii configurărilor</translation>
     </message>
 </context>
 <context>
@@ -11380,7 +11385,7 @@ sau pagină web</translation>
     </message>
     <message>
         <source>Email Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Buton email</translation>
     </message>
 </context>
 <context>
@@ -11482,7 +11487,7 @@ sau pagină web</translation>
     </message>
     <message>
         <source>&amp;Unchecked</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Neverificat</translation>
     </message>
     <message>
         <source>By (&amp;I):</source>
@@ -11680,7 +11685,8 @@ Do you want to change to Manual?</source>
     <message>
         <source>The file you are opening changes the option of Automatic to Manual, which will prevent the current file and other files from getting the correct results in time during the editing process.
 Do you want to change to Manual?</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul pe care l-ați deschis schimbă opțiunea de la automat la manual, ceea ce va afecta fișierul curent și alte fișiere să nu obțină rezultate corecte în timp datorită procesului de editare.
+Doriți să schimbați la manual?</translation>
     </message>
 </context>
 </TS>
