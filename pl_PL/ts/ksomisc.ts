@@ -1106,7 +1106,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation>Program WPS Presentation</translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation Document</source>
@@ -1118,7 +1118,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation>Program WPS Writer</translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>

@@ -3743,7 +3743,7 @@ Możesz wybrać przycisk Tylko do odczytu, aby otworzyć go w trybie tylko do od
     <message>
         <source> Business</source>
         <comment>_kso_versionType_TRADE</comment>
-        <translation> Biznesowa</translation>
+        <translation> Business</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -1705,7 +1705,7 @@
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>Dopasowanie bieżącego formatu</translation>
+        <translation>Dopasowanie do bieżącego formatu</translation>
     </message>
     <message>
         <source>Max</source>
@@ -3643,7 +3643,7 @@ formatów</translation>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>Dopasowanie bieżącego formatu</translation>
+        <translation>Dopasowanie do bieżącego formatu</translation>
     </message>
     <message>
         <source>More</source>
@@ -9056,7 +9056,7 @@ formatów</translation>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>Dopasowanie bieżącego formatu</translation>
+        <translation>Dopasowanie do bieżącego formatu</translation>
     </message>
     <message>
         <source>Max</source>
@@ -11337,7 +11337,7 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>Dopasowanie bieżącego formatu</translation>
+        <translation>Dopasowanie do bieżącego formatu</translation>
     </message>
     <message>
         <source>More</source>

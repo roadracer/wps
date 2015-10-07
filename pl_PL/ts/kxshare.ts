@@ -4719,7 +4719,7 @@ Kliknij tutaj, aby się zalogować.</translation>
     </message>
     <message>
         <source>Where:</source>
-        <translation>Gdzie:</translation>
+        <translation>Lokalizacja:</translation>
     </message>
     <message>
         <source>Na&amp;me:</source>

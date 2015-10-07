@@ -1116,7 +1116,7 @@ Galeria WPS źródeł Online wymaga połączenia internetowego.</translation>
     <message id="Gridlines.content">
         <source>Turn on/off gridlines to which you can align objects in the document.</source>
         <extracomment>Gridlines.content</extracomment>
-        <translation>możliwia włączenie/wyłączenie linii siatki, do których można wyrównywać obiekty w dokumencie.</translation>
+        <translation>Umożliwia włączenie/wyłączenie linii siatki, do których można wyrównywać obiekty w dokumencie.</translation>
     </message>
     <message id="GrowFont.title">
         <source>Grow Font</source>

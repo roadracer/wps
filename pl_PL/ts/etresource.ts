@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -2880,7 +2880,7 @@ zadań</translation>
     <name>etcommon.mainwindow.commands.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>Grupa</translation>
+        <translation>Grupuj</translation>
     </message>
 </context>
 <context>
@@ -3382,8 +3382,8 @@ zadań</translation>
     <message>
         <source>Change
 Chart Type</source>
-        <translation>Zmienianie
-typu wykresu</translation>
+        <translation>Zmień typ
+wykresu</translation>
     </message>
     <message>
         <source>Chart Elements</source>
@@ -5425,7 +5425,7 @@ kolumny</translation>
     <name>ongmani.ct_home.SetFormatCells</name>
     <message>
         <source>Format Cells</source>
-        <translation>Formatowanie komórek</translation>
+        <translation>Formatuj komórki</translation>
     </message>
 </context>
 <context>
@@ -9566,8 +9566,8 @@ wyśrodkuj</translation>
     <message>
         <source>Change
 Chart Type</source>
-        <translation>Zmienianie
-typu wykresu</translation>
+        <translation>Zmień typ
+wykresu</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
@@ -11512,7 +11512,7 @@ wyśrodkuj</translation>
     <name>rainbow.ct_home.SetFormatCells</name>
     <message>
         <source>Format Cells</source>
-        <translation>Formatowanie komórek</translation>
+        <translation>Formatuj komórki</translation>
     </message>
 </context>
 <context>

@@ -8918,12 +8918,12 @@ Czy kontynuować?</translation>
     <message>
         <source>Format Text box</source>
         <comment>TX_SETEDITTEXTBOXCAPTION</comment>
-        <translation>Formatowanie pola tekstowego</translation>
+        <translation>Formatuj pole tekstowe</translation>
     </message>
     <message>
         <source>Format Cells</source>
         <comment>TX_SETEDITCAPTION</comment>
-        <translation>Formatowanie komórek</translation>
+        <translation>Formatuj komórki</translation>
     </message>
     <message>
         <source>Cells</source>

@@ -156,7 +156,7 @@ Kliknij strzałkę, aby wybrać inne kolory trójwymiarowe.</translation>
     <message id="BringForward2.content">
         <source>Bring the selected object forward one level or to the front of all objects.</source>
         <extracomment>BringForward2.content</extracomment>
-        <translation>możliwia przeniesienie zaznaczonego obiektu do przodu o jeden poziom lub przed wszystkie obiekty.</translation>
+        <translation>Umożliwia przeniesienie zaznaczonego obiektu do przodu o jeden poziom lub przed wszystkie obiekty.</translation>
     </message>
     <message id="CTB_MoreControls.title">
         <source>More Controls</source>

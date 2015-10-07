@@ -246,7 +246,7 @@
     </message>
     <message>
         <source>Click Read-Write to open it for editing.</source>
-        <translation>Kliknij przycisk Odczyt/Zapis, aby otworzyć do edycji.</translation>
+        <translation>Kliknij przycisk Odczyt/Zapis, aby otworzyć go do edycji.</translation>
     </message>
     <message>
         <source>Read-&amp;Write</source>
@@ -11014,11 +11014,11 @@ t</translation>
     </message>
     <message>
         <source>&quot;Another user&quot; is editing.</source>
-        <translation>&quot;Inny użytkownik&quot; edytuje.</translation>
+        <translation>Jest edytowany przez &quot;Innego użytkownika&quot;.</translation>
     </message>
     <message>
         <source>Click Notify to open a read-only copy of the document and receive notification when the document is no longer in use.</source>
-        <translation>Kliknij przycisk Powiadom, aby otworzyć kopię tylko do odczytu dokumentu i otrzymać powiadomienie gdy dokument przestanie być używany.</translation>
+        <translation>Kliknij przycisk Powiadom, aby otworzyć kopię dokumentu tylko do odczytu i otrzymać powiadomienie, gdy dokument przestanie być używany.</translation>
     </message>
     <message>
         <source>&amp;Read-Only</source>

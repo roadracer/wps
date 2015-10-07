@@ -2513,7 +2513,7 @@ W programie Writer funkcja ta umożliwia przekonwertowanie zaznaczonego tekstu n
     <message id="VAlignTop.title">
         <source>Top Align</source>
         <extracomment>VAlignTop.title</extracomment>
-        <translation>yrównaj do góry</translation>
+        <translation>Wyrównaj do góry</translation>
     </message>
     <message id="VAlignTop.content">
         <source>Align text to the top of the cell.</source>
