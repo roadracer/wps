@@ -5,14 +5,14 @@
     <name>KHomepage</name>
     <message>
         <source>Failed in downloading &quot;%1&quot;.</source>
-        <translation type="unfinished">İndirilirken hata oluştu &quot;%1&quot;</translation>
+        <translation>İndirilirken hata oluştu &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
     <name>KHomepageMainWindow</name>
     <message>
         <source>Create a blank document at startup</source>
-        <translation type="unfinished">Açılışta boş döküman oluştur</translation>
+        <translation>Açılışta boş döküman oluştur</translation>
     </message>
     <message>
         <source>Current version:</source>
