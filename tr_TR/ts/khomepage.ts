@@ -16,38 +16,38 @@
     </message>
     <message>
         <source>Current version:</source>
-        <translation type="unfinished"> Şu anki sürüm:</translation>
+        <translation> Şu anki sürüm:</translation>
     </message>
     <message>
         <source>This is the latest version.</source>
-        <translation type="unfinished">Bu en son sürümdür.</translation>
+        <translation>Bu en son sürümdür.</translation>
     </message>
     <message>
         <source>Version is too old.</source>
-        <translation type="unfinished">Sürüm çok eski.</translation>
+        <translation>Sürüm çok eski.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Use new version&lt;/a&gt;</source>
-        <translation type="unfinished">&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Yeni sürümü kullan&lt;/a&gt;</</translation>
+        <translation>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Yeni sürümü kullan&lt;/a&gt;</</translation>
     </message>
     <message>
         <source>Restart to use newer version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni sürümü kullanmak için yeniden başlat.</translation>
     </message>
     <message>
         <source>Check Online Templates</source>
         <comment>tooltip</comment>
-        <translation type="unfinished">Şablonlara Çevrimiçi Gözat</translation>
+        <translation>Şablonlara Çevrimiçi Gözat</translation>
     </message>
     <message>
         <source>Online Templates</source>
         <comment>title</comment>
-        <translation type="unfinished">Çevrimci Şablonlar</translation>
+        <translation>Çevrimci Şablonlar</translation>
     </message>
     <message>
         <source>Online Templates Pro</source>
         <comment>title</comment>
-        <translation type="unfinished">Çevrimiçi Şablonlar Pro</translation>
+        <translation>Çevrimiçi Şablonlar Pro</translation>
     </message>
 </context>
 </TS>
