@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>İpucu</translation>
     </message>
     <message>
         <source>Add to the list(&amp;R)</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>Use ODBC data source connection guide(W)</source>
-        <translation type="obsolete">ODBC veri kaynağı bağlantı klavuzunu(W) kullanının</translation>
+        <translation type="obsolete">ODBC veri kaynağı bağlantı klavuzunu(W) kullan</translation>
     </message>
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
@@ -133,7 +133,7 @@
     </message>
     <message>
         <source>Use ODBC data source connection guide(&amp;W)</source>
-        <translation type="unfinished"></translation>
+        <translation>ODBC veri kaynağı bağlantı klavuzu(&amp;W)</translation>
     </message>
 </context>
 <context>
@@ -144,7 +144,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>İ&amp;ptal</translation>
+        <translation>&amp;İptal</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -168,11 +168,11 @@
     </message>
     <message>
         <source>Co&amp;nstraint:</source>
-        <translation>K&amp;ısıt:</translation>
+        <translation>S&amp;ınırlama:</translation>
     </message>
     <message>
         <source>Constraint</source>
-        <translation>Kısıt</translation>
+        <translation>Sınırlama</translation>
     </message>
     <message>
         <source>bin</source>
@@ -199,7 +199,7 @@
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>İpucu</translation>
     </message>
 </context>
 <context>
@@ -222,7 +222,7 @@
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>İpucu</translation>
     </message>
 </context>
 <context>
@@ -252,7 +252,7 @@
     </message>
     <message>
         <source>By</source>
-        <translation type="unfinished"></translation>
+        <translation>tarafından</translation>
     </message>
     <message>
         <source>Explanation</source>
@@ -268,11 +268,11 @@
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>içinde</translation>
     </message>
     <message>
         <source>Input query &amp;statement directly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sorgu ifadesini &amp;direkt gir</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -284,7 +284,7 @@
     </message>
     <message>
         <source>You can click Advanced Query to sort and filter more complicated data, if it still cannot satisfy your requirement, you can input the query statement directly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Karmaşık verilere filtre uygulamak için Gelişmiş Sorgulamaya tıklayabilirsiniz. Eğer hala aradığınız sonucu bulamıyorsanız, sorgu ifadesini direkt girebilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -299,20 +299,20 @@
     </message>
     <message>
         <source>Grpbox Condition</source>
-        <translation type="unfinished"></translation>
+        <translation>Grpbox Koşulu</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>İpucu</translation>
     </message>
     <message>
         <source>Preview of format to use when
 condition is true:</source>
-        <translation type="unfinished"></translation>
+        <translation>Koşul sağlanıyorken kullanılacak gösterim şekli:</translation>
     </message>
     <message>
         <source>The Conditional formatting contains number format, and the settings would be lost opened by the earlier version of Excel or WPS Spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koşullu biçimlendirme sayı içeriyor. Excel veya WPS Spreadsheets önceki sürümlerinde ayarlar kaybedilebilir.</translation>
     </message>
     <message>
         <source>and</source>
@@ -355,14 +355,14 @@ condition is true:</source>
     <name>InsertFunctionLabel</name>
     <message>
         <source>Comment function</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorum Fonksiyonu</translation>
     </message>
 </context>
 <context>
     <name>InsertFunctionLineEdit</name>
     <message id="0">
         <source>Enter the name or the description of the function you want to look up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aramak istediğiniz fonksiyonun adını veya açıklamasını girin.</translation>
     </message>
 </context>
 <context>
