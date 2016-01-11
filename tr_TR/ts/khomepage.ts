@@ -28,7 +28,7 @@
     </message>
     <message>
         <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Use new version&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Yeni sürümü kullan&lt;/a&gt;</</translation>
+        <translation>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Yeni sürümü kullan&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Restart to use newer version.</source>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="en">
-<defaultcodec>UTF-8</defaultcodec>
+<TS version="2.1" language="en">
 <context>
     <name>BackFilePanel</name>
     <message>
@@ -3957,7 +3956,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Cancle</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Complete</source>
@@ -4879,7 +4878,7 @@ but the included system package is reserved.</source>
     <name>KxSwitchUiTip</name>
     <message>
         <source>I already know</source>
-        <translation>I&apos;ve already known</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>I have understood</source>
@@ -4899,7 +4898,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>The layout will take effect after restart or logoff computer</source>
-        <translation type="unfinished"></translation>
+        <translation>The layout will take effect after restarting or logging off</translation>
     </message>
 </context>
 <context>
@@ -4910,7 +4909,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Restart to make changes</source>
-        <translation>Restart to make changes</translation>
+        <translation>Restart to apply changes</translation>
     </message>
     <message>
         <source>restart will change</source>
@@ -5177,7 +5176,7 @@ but the included system package is reserved.</source>
     <name>KxTpBackup</name>
     <message>
         <source>Are you sure to delete all files?</source>
-        <translation>Are you sure to remove all files?</translation>
+        <translation>Are you sure you want to remove all files?</translation>
     </message>
     <message>
         <source>Cannot Remove All Backup Files</source>
@@ -5189,7 +5188,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Some files cannot be deleted. They may be occupied.</source>
-        <translation>Some files cannot be deleted. They may be occupied.</translation>
+        <translation>Some files cannot be deleted. They may be in use.</translation>
     </message>
 </context>
 <context>
@@ -5310,14 +5309,14 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxTpOprDoc</name>
     <message>
         <source>Cancle the XML Extend Packet</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancel the XML Extend Packet</translation>
     </message>
 </context>
 <context>
     <name>KxTpOprDocCommand</name>
     <message>
         <source>Are you sure cancel the XML extend pack?</source>
-        <translation type="unfinished"></translation>
+        <translation>Are you sure you want to cancel the XML extend pack?</translation>
     </message>
 </context>
 <context>
