@@ -29,79 +29,79 @@
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-20%</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-25%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-37.5%</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-40%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-45%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-50%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-62.5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-75%</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-80%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-87.5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation type="unfinished"></translation>
+        <translation>رمادي-95%</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -244,479 +244,479 @@
     <name>ChangeCaseDlg</name>
     <message>
         <source>&amp;Sentence case</source>
-        <translation type="unfinished"></translation>
+        <translation>حرف كبير في بداية الجملة</translation>
     </message>
     <message>
         <source>Half-&amp;width</source>
-        <translation type="unfinished"></translation>
+        <translation>نصف عرض الحروف</translation>
     </message>
     <message>
         <source>&amp;Lowercase</source>
-        <translation type="unfinished"></translation>
+        <translation>حروف صغيرة</translation>
     </message>
     <message>
         <source>&amp;Full-width</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض كامل للحروف</translation>
     </message>
     <message>
         <source>&amp;Uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>حروف كبيرة</translation>
     </message>
     <message>
         <source>&amp;Katakana</source>
-        <translation type="unfinished"></translation>
+        <translation>كاتاكانا</translation>
     </message>
     <message>
         <source>To&amp;ggle case</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل الحالة</translation>
     </message>
     <message>
         <source>&amp;Hiragana</source>
-        <translation type="unfinished"></translation>
+        <translation>هيراغانا</translation>
     </message>
     <message>
         <source>&amp;Title case</source>
-        <translation type="unfinished"></translation>
+        <translation>حالة العنوان</translation>
     </message>
     <message>
         <source>Change Case</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير حالة الأحرف</translation>
     </message>
 </context>
 <context>
     <name>ColumnsManagerCtrl</name>
     <message>
         <source>%1:</source>
-        <translation type="unfinished"></translation>
+        <translation>%1:</translation>
     </message>
     <message>
         <source>pt, 2, %1,</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة, 2, %1,</translation>
     </message>
     <message>
         <source> %1, 1</source>
-        <translation type="unfinished"></translation>
+        <translation> %1, 1</translation>
     </message>
     <message>
         <source>ch, 2, %1,</source>
-        <translation type="unfinished"></translation>
+        <translation>ch, 2, %1,</translation>
     </message>
     <message>
         <source>pt, 2, 0, %1, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة, 2, 0, %1, 1</translation>
     </message>
     <message>
         <source>ch, 2, 0, %1, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>ch, 2, 0, %1, 1</translation>
     </message>
 </context>
 <context>
     <name>CustomPreView</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>لا شيء</translation>
     </message>
 </context>
 <context>
     <name>DlgColumnsManager</name>
     <message>
         <source>W&amp;idth:</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض:</translation>
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>تباعد:</translation>
     </message>
     <message>
         <source>1:</source>
-        <translation type="unfinished"></translation>
+        <translation>1:</translation>
     </message>
     <message>
         <source>Columns Management</source>
-        <translation type="unfinished"></translation>
+        <translation>إدارة الأعمدة</translation>
     </message>
     <message>
         <source>Col #:</source>
-        <translation type="unfinished"></translation>
+        <translation>عمود رقم:</translation>
     </message>
 </context>
 <context>
     <name>DlgKxAdvancedLayout</name>
     <message>
         <source>Advanced Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط صفحة متقدم</translation>
     </message>
     <message>
         <source>Picture Position</source>
-        <translation type="unfinished"></translation>
+        <translation>موضع الصورة</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>أفقي</translation>
     </message>
     <message>
         <source>&amp;Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>يسار</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>في الوسط</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>يمين</translation>
     </message>
     <message>
         <source>Absolute &amp;position</source>
-        <translation type="unfinished"></translation>
+        <translation>موضع ثابت</translation>
     </message>
     <message>
         <source>pt, 2, -1596, 1596, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة, 2, -1596, 1596, 1</translation>
     </message>
     <message>
         <source>&amp;relative to</source>
-        <translation type="unfinished"></translation>
+        <translation>نسبي إلى</translation>
     </message>
     <message>
         <source>Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>جوانب</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>صفحة</translation>
     </message>
     <message>
         <source>Column</source>
-        <translation type="unfinished"></translation>
+        <translation>عمود</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation type="unfinished"></translation>
+        <translation>حرف</translation>
     </message>
     <message>
         <source>&amp;to the right of</source>
-        <translation type="unfinished"></translation>
+        <translation>يمين</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>عمودي</translation>
     </message>
     <message>
         <source>Al&amp;ignment</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>أعلى</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>أسفل</translation>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"></translation>
+        <translation>داخل</translation>
     </message>
     <message>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>خارج</translation>
     </message>
     <message>
         <source>Absolute po&amp;sition</source>
-        <translation type="unfinished"></translation>
+        <translation>موضع ثابت</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>فقرة</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>خط</translation>
     </message>
     <message>
         <source>r&amp;elative to</source>
-        <translation type="unfinished"></translation>
+        <translation>نسبي إلى</translation>
     </message>
     <message>
         <source>belo&amp;w</source>
-        <translation type="unfinished"></translation>
+        <translation>تحت</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <source>&amp;Move object with text</source>
-        <translation type="unfinished"></translation>
+        <translation>تحريك الكائن مع النص</translation>
     </message>
     <message>
         <source>Allow o&amp;verlap</source>
-        <translation type="unfinished"></translation>
+        <translation>السماح بالتداخل</translation>
     </message>
     <message>
         <source>&amp;Lock anchor</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت</translation>
     </message>
     <message>
         <source>Wrapping style</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط الالتفاف</translation>
     </message>
     <message>
         <source>S&amp;quare</source>
-        <translation type="unfinished"></translation>
+        <translation>مربع</translation>
     </message>
     <message>
         <source>&amp;Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>تضمين ضيق</translation>
     </message>
     <message>
         <source>T&amp;hrough</source>
-        <translation type="unfinished"></translation>
+        <translation>خلال</translation>
     </message>
     <message>
         <source>T&amp;op and bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>أعلى و أسفل</translation>
     </message>
     <message>
         <source>&amp;Behind text</source>
-        <translation type="unfinished"></translation>
+        <translation>خلف النص</translation>
     </message>
     <message>
         <source>&amp;In line with text</source>
-        <translation type="unfinished"></translation>
+        <translation>في نفس الخط مع النص</translation>
     </message>
     <message>
         <source>Wrap text</source>
-        <translation type="unfinished"></translation>
+        <translation>تضمين النص</translation>
     </message>
     <message>
         <source>Both &amp;sides</source>
-        <translation type="unfinished"></translation>
+        <translation>كلا الجانبين</translation>
     </message>
     <message>
         <source>&amp;Left only</source>
-        <translation type="unfinished"></translation>
+        <translation>يسار فقط</translation>
     </message>
     <message>
         <source>&amp;Right only</source>
-        <translation type="unfinished"></translation>
+        <translation>يمين فقط</translation>
     </message>
     <message>
         <source>L&amp;argest only</source>
-        <translation type="unfinished"></translation>
+        <translation>الأوسع فقط</translation>
     </message>
     <message>
         <source>Distance from text</source>
-        <translation type="unfinished"></translation>
+        <translation>البعد عن النص</translation>
     </message>
     <message>
         <source>To&amp;p</source>
-        <translation type="unfinished"></translation>
+        <translation>أعلى</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة, 2, 0, 1584, 1</translation>
     </message>
     <message>
         <source>L&amp;eft</source>
-        <translation type="unfinished"></translation>
+        <translation>يسار</translation>
     </message>
     <message>
         <source>Botto&amp;m</source>
-        <translation type="unfinished"></translation>
+        <translation>أسفل</translation>
     </message>
     <message>
         <source>Ri&amp;ght</source>
-        <translation type="unfinished"></translation>
+        <translation>يمين</translation>
     </message>
     <message>
         <source>Text wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>تضمين النص</translation>
     </message>
     <message>
         <source>In fro&amp;nt of text</source>
-        <translation type="unfinished"></translation>
+        <translation>أمام النص</translation>
     </message>
 </context>
 <context>
     <name>DlgKxColumns</name>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>أعمدة</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات مسبقة</translation>
     </message>
     <message>
         <source>&amp;One</source>
-        <translation type="unfinished"></translation>
+        <translation>واحد</translation>
     </message>
     <message>
         <source>T&amp;wo</source>
-        <translation type="unfinished"></translation>
+        <translation>إثنان</translation>
     </message>
     <message>
         <source>&amp;Three</source>
-        <translation type="unfinished"></translation>
+        <translation>ثلاثة</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>يسار</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation>يمين</translation>
     </message>
     <message>
         <source>&amp;Number of columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الأعمدة:</translation>
     </message>
     <message>
         <source>Line &amp;between</source>
-        <translation type="unfinished"></translation>
+        <translation>خط فاصل</translation>
     </message>
     <message>
         <source>Width and spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض وتباعد</translation>
     </message>
     <message>
         <source>&amp;Equal column width</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض أعمدة مماثل</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>معاينة</translation>
     </message>
     <message>
         <source>&amp;Apply to:</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق على:</translation>
     </message>
     <message>
         <source>Start new col&amp;umn</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء عمود جديد</translation>
     </message>
 </context>
 <context>
     <name>DlgKxOutlineNumber</name>
     <message>
         <source>Customize Outline Numbered List</source>
-        <translation type="unfinished"></translation>
+        <translation>تخصيص اللائحة المرقمة للموجز</translation>
     </message>
     <message>
         <source>Number format </source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق الترقيم</translation>
     </message>
     <message>
         <source>Le&amp;vel:</source>
-        <translation type="unfinished"></translation>
+        <translation>مستوى:</translation>
     </message>
     <message>
         <source>Number f&amp;ormat:</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق الترقيم:</translation>
     </message>
     <message>
         <source>&amp;Number style:</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط الترقيم:</translation>
     </message>
     <message>
         <source>&amp;Start at:</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء من:</translation>
     </message>
     <message>
         <source>&amp;Previous level number:</source>
-        <translation type="unfinished"></translation>
+        <translation>المستوى السابق:</translation>
     </message>
     <message>
         <source>&amp;Font...</source>
-        <translation type="unfinished"></translation>
+        <translation>خط الكتابة ...</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>معاينة</translation>
     </message>
     <message>
         <source>Advanced(&amp;M)</source>
-        <translation type="unfinished"></translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <source>N&amp;umber position</source>
-        <translation type="unfinished"></translation>
+        <translation>موضع الرقم</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>يسار</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>في الوسط</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>يمين</translation>
     </message>
     <message>
         <source>&amp;Aligned at:</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة:</translation>
     </message>
     <message>
         <source>Text position</source>
-        <translation type="unfinished"></translation>
+        <translation>موضع النص</translation>
     </message>
     <message>
         <source>Ta&amp;b space after:</source>
-        <translation type="unfinished"></translation>
+        <translation>علامة تبويب بعد:</translation>
     </message>
     <message>
         <source>&amp;Indent at:</source>
-        <translation type="unfinished"></translation>
+        <translation>مسافة بادئة من:</translation>
     </message>
     <message>
         <source>Le&amp;gal style numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>ترقيم تشريعي</translation>
     </message>
     <message>
         <source>Lin&amp;k level to style:</source>
-        <translation type="unfinished"></translation>
+        <translation>ربط المستوى مع النمط:</translation>
     </message>
     <message>
         <source>Follo&amp;w number with:</source>
-        <translation type="unfinished"></translation>
+        <translation>اتبع الرقم بـ:</translation>
     </message>
     <message>
         <source>Tab character</source>
-        <translation type="unfinished"></translation>
+        <translation>علامة تبويب</translation>
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"></translation>
+        <translation>فراغ</translation>
     </message>
     <message>
         <source>Nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <source>&amp;Restart numbering after:</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة الترقيم بعد:</translation>
     </message>
 </context>
 <context>
     <name>FootAndEndnoteSpinBox</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل KUI</translation>
     </message>
 </context>
 <context>
@@ -724,1271 +724,1273 @@
     <message>
         <source>Size</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>حجم</translation>
     </message>
     <message>
         <source>Scale</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>تدرح</translation>
     </message>
     <message>
         <source>De&amp;fault for new objects</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>افتراضي للكائنات الجديدة</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>نمط:</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>منقط:</translation>
     </message>
     <message>
         <source>&amp;Begin style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>نمط البداية:</translation>
     </message>
     <message>
         <source>&amp;End style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>نمط النهاية:</translation>
     </message>
     <message>
         <source>Begin s&amp;ize:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>حجم البداية:</translation>
     </message>
     <message>
         <source>End si&amp;ze:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>حجم النهاية:</translation>
     </message>
 </context>
 <context>
     <name>KSpinBox</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>تلقائي</translation>
     </message>
 </context>
 <context>
     <name>KUnderLineCombo</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(لا شيء)</translation>
     </message>
     <message>
         <source>Words only</source>
-        <translation type="unfinished"></translation>
+        <translation>كلمات فقط</translation>
     </message>
 </context>
 <context>
     <name>KxAddUsersDlg</name>
     <message>
         <source>Some of the users you have entered could not be added to the list because their names could not be verified.</source>
-        <translation type="unfinished"></translation>
+        <translation>بعض المستخدمين الذين أدخلتهم لا يمكن إضافتهم إلى اللائحة لعدم التمكن من التحقق من أسماءهم</translation>
     </message>
 </context>
 <context>
     <name>KxBookmarksDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق</translation>
     </message>
 </context>
 <context>
     <name>KxBordersAndShadingDlg</name>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>نص</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>فقرة</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>خلية</translation>
     </message>
     <message>
         <source>Pt</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة</translation>
     </message>
     <message>
         <source>Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>الكاتب</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول</translation>
     </message>
     <message>
         <source>No content</source>
-        <translation type="unfinished"></translation>
+        <translation>بدون محتوى</translation>
     </message>
 </context>
 <context>
     <name>KxCaptionDlg</name>
     <message>
         <source>Above selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>أعلى التحديد</translation>
     </message>
     <message>
         <source>Below selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>أسفل التحديد</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق</translation>
     </message>
 </context>
 <context>
     <name>KxCaptionNumberDlg</name>
     <message>
         <source>- (Hyphen)</source>
-        <translation type="unfinished"></translation>
+        <translation>- (وصلة)</translation>
     </message>
     <message>
         <source>. (Period)</source>
-        <translation type="unfinished"></translation>
+        <translation>. (نقطة)</translation>
     </message>
     <message>
         <source>: (Colon)</source>
-        <translation type="unfinished"></translation>
+        <translation>: (نقطتان)</translation>
     </message>
     <message utf8="true">
         <source>— (Em dash)</source>
-        <translation type="unfinished"></translation>
+        <translation>— (شرطة طويلة)</translation>
     </message>
     <message utf8="true">
         <source>– (En dash)</source>
-        <translation type="unfinished"></translation>
+        <translation>– (شرطة قصيرة)</translation>
     </message>
     <message>
         <source>Heading</source>
-        <translation type="unfinished"></translation>
+        <translation>رأسية</translation>
     </message>
 </context>
 <context>
     <name>KxCheckSpellingDlg</name>
     <message>
         <source>No Spelling Suggestions</source>
-        <translation type="unfinished"></translation>
+        <translation>لا تلميحات</translation>
     </message>
     <message>
         <source>No default custom dictionary is found. Please select a custom dictionary in the list and proceed again.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور على قاموس مخصص افتراضي. من فضلك، اختر قاموس مخصص من اللائحة وأكمل العملية.</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>تجاهل الكلمات ذات الحروف الكبيرة</translation>
     </message>
     <message>
         <source>Ignore words that contain num&amp;bers</source>
-        <translation type="unfinished"></translation>
+        <translation>تجاهل الكلمات التي تحتوي على أرقام</translation>
     </message>
     <message>
         <source>Check spelling is complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>التدقيق الإملائي انتهى.</translation>
     </message>
     <message>
         <source>An error occurred when adding new words.</source>
-        <translation type="unfinished"></translation>
+        <translation>وقع خطأ عند إضافة كلمات جديدة.</translation>
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
-        <translation type="unfinished"></translation>
+        <translation>دائما اقترح تلميحات</translation>
     </message>
     <message>
         <source>Writer finished checking the selection. Do you want to continue checking the remainder of the document?</source>
-        <translation type="unfinished"></translation>
+        <translation>الكاتب انتهى من مراجعة النص المحدد. هل تريد متابعة المراجعة لما تبقى من المستند؟</translation>
     </message>
     <message>
         <source>Cannot check spelling on original revision status</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن التدقيق الإملائي في وضعية التدقيق الأصلي</translation>
     </message>
 </context>
 <context>
     <name>KxCheckboxFormFieldDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>القيمة المدخلة يجب أن تكون بين %1 و %2.</translation>
     </message>
     <message>
         <source>The bookmark name is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>تسمية الإشارة المرجعية غير صالحة.</translation>
     </message>
 </context>
 <context>
     <name>KxColumnsDlg</name>
     <message>
         <source>Selected text</source>
-        <translation type="unfinished"></translation>
+        <translation>النص المحدد</translation>
     </message>
     <message>
         <source>Selected sections</source>
-        <translation type="unfinished"></translation>
+        <translation>الأقسام المحددة</translation>
     </message>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation>المستند بأكمله</translation>
     </message>
     <message>
         <source>This point forward</source>
-        <translation type="unfinished"></translation>
+        <translation>انطلاقا من هذه النقطة</translation>
     </message>
     <message>
         <source>This section</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا القسم</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
-        <translation type="unfinished"></translation>
+        <translation>الإعدادات التي اخترتها لهوامش اليمين واليسار أو تباعد الأعمدة أو المسافة البادئة للفقرة أكبر من عرض الصفحة في بعض الفقرات.</translation>
     </message>
 </context>
 <context>
     <name>KxCombineCharactersDlg</name>
     <message>
         <source>What you entered is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>ما أدخلته غير صالح.</translation>
     </message>
     <message>
         <source>Value must be between 1 and 16838.</source>
-        <translation type="unfinished"></translation>
+        <translation>القيمة يجب أن تكون بين 1 و19838.</translation>
     </message>
 </context>
 <context>
     <name>KxContentsDlg</name>
     <message>
         <source>Input must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>الإدخال يجب أن يكون بين %1 و %2.</translation>
     </message>
     <message>
         <source>Do you want to replace the selected table of contents?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل تريد استبدال جدول المحتويات المحدد؟</translation>
     </message>
     <message>
         <source>Heading</source>
-        <translation type="unfinished"></translation>
+        <translation>رأسية</translation>
     </message>
 </context>
 <context>
     <name>KxContentsOptionsDlg</name>
     <message>
         <source>Input must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>الإدخال يجب أن يكون بين %1 و %2.</translation>
     </message>
     <message>
         <source>Heading</source>
-        <translation type="unfinished"></translation>
+        <translation>رأسية</translation>
     </message>
 </context>
 <context>
     <name>KxConvertTabletoTextDlg</name>
     <message>
         <source>You must type a character for the custom separator.</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب عليك إدخال رمز كعلامة فصل مخصصة.</translation>
     </message>
 </context>
 <context>
     <name>KxCoverSectionGalleryCommand</name>
     <message>
         <source>Cover Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>صفحات الغلاف</translation>
     </message>
     <message>
         <source>Remove Cover Page</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة صفحة الغلاف</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
-        <translation type="unfinished"></translation>
+        <translation>الإعدادات التي اخترتها لهوامش اليمين واليسار أو تباعد الأعمدة أو المسافة البادئة للفقرة أكبر من عرض الصفحة في بعض الفقرات.</translation>
     </message>
 </context>
 <context>
     <name>KxCrossReferenceDlg</name>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج</translation>
     </message>
     <message>
         <source>Page number</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم الصفحة</translation>
     </message>
     <message>
         <source>Paragraph number</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم الفقرة</translation>
     </message>
     <message>
         <source>Paragraph text</source>
-        <translation type="unfinished"></translation>
+        <translation>نص الفقرة</translation>
     </message>
     <message>
         <source>Head text</source>
-        <translation type="unfinished"></translation>
+        <translation>نص الرأسية</translation>
     </message>
     <message>
         <source>Head number</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم الرأسية</translation>
     </message>
     <message>
         <source>Bookmark text</source>
-        <translation type="unfinished"></translation>
+        <translation>نص الإشارة المرجعية</translation>
     </message>
     <message>
         <source>Footnote number</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم الهامش</translation>
     </message>
     <message>
         <source>Endnote number</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم التعليق الختامي</translation>
     </message>
     <message>
         <source>Entire caption</source>
-        <translation type="unfinished"></translation>
+        <translation>الشرح كاملا</translation>
     </message>
     <message>
         <source>Only label and number</source>
-        <translation type="unfinished"></translation>
+        <translation>الوسوم والأرقام فقط</translation>
     </message>
     <message>
         <source>Only caption text</source>
-        <translation type="unfinished"></translation>
+        <translation>نص الشرح فقط</translation>
     </message>
     <message>
         <source>Numbered Item</source>
-        <translation type="unfinished"></translation>
+        <translation>العناصر المرقمة</translation>
     </message>
     <message>
         <source>The referenced content is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>المحتوى  المشار إليه فارغ.</translation>
     </message>
     <message>
         <source>Paragraph number (no context)</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم الفقرة (بدون سياق)</translation>
     </message>
     <message>
         <source>Paragraph number (full context)</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم الفقرة (السياق كاملا)</translation>
     </message>
     <message>
         <source>Above/below</source>
-        <translation type="unfinished"></translation>
+        <translation>فوق/تحت</translation>
     </message>
     <message>
         <source>Head number (no context)</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم الرأسية (بدون سياق)</translation>
     </message>
     <message>
         <source>Head number (full context)</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم الرأسية (السياق كاملا)</translation>
     </message>
     <message>
         <source>Footnote number (formatted)</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم الهامش (منسق)</translation>
     </message>
     <message>
         <source>Endnote number (formatted)</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم التعليق الختامي (منسق)</translation>
     </message>
     <message>
         <source>For &amp;which numbered item:</source>
-        <translation type="unfinished"></translation>
+        <translation>العنصر المرقم المعني:</translation>
     </message>
     <message>
         <source>For &amp;which heading:</source>
-        <translation type="unfinished"></translation>
+        <translation>الرأسية المعنية:</translation>
     </message>
     <message>
         <source>For &amp;which bookmark:</source>
-        <translation type="unfinished"></translation>
+        <translation>الإشارة المرجعية المعنية:</translation>
     </message>
     <message>
         <source>For &amp;which footnote:</source>
-        <translation type="unfinished"></translation>
+        <translation>الهامش المعني:</translation>
     </message>
     <message>
         <source>For &amp;which endnote:</source>
-        <translation type="unfinished"></translation>
+        <translation>التعليق الختامي المعني:</translation>
     </message>
     <message>
         <source>For &amp;which caption:</source>
-        <translation type="unfinished"></translation>
+        <translation>الشرح المعني:</translation>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>الكاتب WPS</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>إشارة مرجعية</translation>
     </message>
 </context>
 <context>
     <name>KxCustomBackgroundColorDlgClass</name>
     <message>
         <source>Custom background color and text color(design)</source>
-        <translation type="unfinished"></translation>
+        <translation>ألوان مخصصة للنص والخلفية (التصميم)</translation>
     </message>
     <message>
         <source>&amp;Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>مخططات</translation>
     </message>
     <message>
         <source>Scheme&amp;1</source>
-        <translation type="unfinished"></translation>
+        <translation>المخطط1</translation>
     </message>
     <message>
         <source>Scheme&amp;2</source>
-        <translation type="unfinished"></translation>
+        <translation>المخطط2</translation>
     </message>
     <message>
         <source>Scheme&amp;3</source>
-        <translation type="unfinished"></translation>
+        <translation>المخطط3</translation>
     </message>
     <message>
         <source>Scheme&amp;4</source>
-        <translation type="unfinished"></translation>
+        <translation>المخطط4</translation>
     </message>
     <message>
         <source>Scheme&amp;5</source>
-        <translation type="unfinished"></translation>
+        <translation>المخطط5</translation>
     </message>
     <message>
         <source>Scheme&amp;6</source>
-        <translation type="unfinished"></translation>
+        <translation>المخطط6</translation>
     </message>
     <message>
         <source>&amp;Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>مخصص</translation>
     </message>
     <message>
         <source>&amp;Background color:</source>
-        <translation type="unfinished"></translation>
+        <translation>لون الخلفية:</translation>
     </message>
     <message>
         <source>&amp;Text color:</source>
-        <translation type="unfinished"></translation>
+        <translation>لون الكتابة:</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation type="unfinished"></translation>
+        <translation>افتراضي</translation>
     </message>
     <message>
         <source>Set the background color to white and the text color to black as default.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين الأبيض كلون للخلفية والأسود كلون للكتابة افتراضيا.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>الكاتب WPS</translation>
     </message>
 </context>
 <context>
     <name>KxCustomDictionaryDlg</name>
     <message>
         <source>Full path: </source>
-        <translation type="unfinished"></translation>
+        <translation>المسار الكامل:</translation>
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(افتراضي)</translation>
     </message>
     <message>
         <source>The number of custom dictionaries has reached the upper limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد القواميس المخصصة وصل إلى ذروته.</translation>
     </message>
     <message>
         <source>Create Custom Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء قاموس مخصص</translation>
     </message>
     <message>
         <source>Dictionary file(*.dic)|*.dic</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف قاموس (*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Dictionary File(*.dic)</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف قاموس (*.dic)</translation>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة قاموس مخصص</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>كل الملفات (*.*)</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
-        <translation type="unfinished"></translation>
+        <translation>وقع خطأ عند إضافة &quot;%1&quot;. الملف موجود مسبقا.</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
-        <translation type="unfinished"></translation>
+        <translation>وقع خطأ عند إضافة &quot;%1&quot;. من فضلك، تفقد نوع الملف.</translation>
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
-        <translation type="unfinished"></translation>
+        <translation>الكشف عن القاموس الأخير غير ممكن!</translation>
     </message>
     <message>
         <source>Removing the custom dictionary might remove the custom dictionary used by other WPS programs. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة القاموس المخصص قد تؤدي إلى إزالة القاموس المخصص المستعمل من طرف برامج WPS أخرى. هل تريد المتابعة؟</translation>
     </message>
 </context>
 <context>
     <name>KxCustomizeBulletedlistDlg</name>
     <message>
         <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation>أقل</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished"></translation>
+        <translation>أكثر</translation>
     </message>
 </context>
 <context>
     <name>KxCustomizeNumberedListDlg</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(لا شيء)</translation>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation>أقل</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished"></translation>
+        <translation>أكثر</translation>
     </message>
 </context>
 <context>
     <name>KxDlgAddUsers</name>
     <message>
         <source>Add Users</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة مستعملين</translation>
     </message>
     <message>
         <source>Example:user1;DOMAIN\name;someone@example.com</source>
-        <translation type="unfinished"></translation>
+        <translation>مثال: user1;DOMAIN\name;someone@example.com</translation>
     </message>
     <message>
         <source>Enter user names, separated by semicolons:</source>
-        <translation type="unfinished"></translation>
+        <translation>أدخل أسماء المستخدمين مفصولة بفاصلة منقوطة:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgBookmarks</name>
     <message>
         <source>&amp;Bookmark name:</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم الإشارة المرجعية:</translation>
     </message>
     <message>
         <source>Sort by:</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتيب باستعمال:</translation>
     </message>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished"></translation>
+        <translation>تسمية</translation>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation type="unfinished"></translation>
+        <translation>مكان</translation>
     </message>
     <message>
         <source>&amp;Hidden bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>إشارات مرجعية مخفية</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="unfinished"></translation>
+        <translation>اذهب إلى</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>إشارة مرجعية</translation>
     </message>
 </context>
 <context>
     <name>KxDlgBordersAndShading</name>
     <message>
         <source>Borders and Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>حدود وتظليل</translation>
     </message>
     <message>
         <source>B&amp;orders</source>
-        <translation type="unfinished"></translation>
+        <translation>جوانب</translation>
     </message>
     <message>
         <source>Setting:</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات:</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <source>Bo&amp;x</source>
-        <translation type="unfinished"></translation>
+        <translation>علبة</translation>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>الكل</translation>
     </message>
     <message>
         <source>Gri&amp;d</source>
-        <translation type="unfinished"></translation>
+        <translation>شبكة</translation>
     </message>
     <message>
         <source>C&amp;ustom</source>
-        <translation type="unfinished"></translation>
+        <translation>مخصص</translation>
     </message>
     <message>
         <source>St&amp;yle:</source>
         <comment>border</comment>
-        <translation type="unfinished"></translation>
+        <translation>نمط:</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>لون:</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض:</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>معاينة</translation>
     </message>
     <message>
         <source>   Click on diagram below or
 use buttons to apply borders</source>
-        <translation type="unfinished"></translation>
+        <translation>   اضغط على الرسم البياني في الأسفل
+أو استعمل الأزرار لتطبيق الجوانب</translation>
     </message>
     <message>
         <source>App&amp;ly to:</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق على:</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات ...</translation>
     </message>
     <message>
         <source>&amp;Page Border</source>
-        <translation type="unfinished"></translation>
+        <translation>حدود الصفحة</translation>
     </message>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation>المستند بأكمله</translation>
     </message>
     <message>
         <source>This section</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا القسم</translation>
     </message>
     <message>
         <source>This section - First page only</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا القسم - الصفحة الأولى فقط</translation>
     </message>
     <message>
         <source>This section - All except first page</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا القسم - الكل عدا الصفحة الأولى</translation>
     </message>
     <message>
         <source>&amp;Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>تظليل</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>تعبئة</translation>
     </message>
     <message>
         <source>M&amp;ore Colors...</source>
-        <translation type="unfinished"></translation>
+        <translation>مزيد من الألوان ...</translation>
     </message>
     <message>
         <source>Patterns</source>
-        <translation type="unfinished"></translation>
+        <translation>زخرفة</translation>
     </message>
     <message>
         <source>St&amp;yle:</source>
         <comment>shading</comment>
-        <translation type="unfinished"></translation>
+        <translation>نمط:</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح</translation>
     </message>
     <message>
         <source>Pure(100%)</source>
-        <translation type="unfinished"></translation>
+        <translation>نقي (100%)</translation>
     </message>
     <message>
         <source>5%</source>
-        <translation type="unfinished"></translation>
+        <translation>5%</translation>
     </message>
     <message>
         <source>10%</source>
-        <translation type="unfinished"></translation>
+        <translation>10%</translation>
     </message>
     <message>
         <source>12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>12.5%</translation>
     </message>
     <message>
         <source>15%</source>
-        <translation type="unfinished"></translation>
+        <translation>15%</translation>
     </message>
     <message>
         <source>20%</source>
-        <translation type="unfinished"></translation>
+        <translation>20%</translation>
     </message>
     <message>
         <source>25%</source>
-        <translation type="unfinished"></translation>
+        <translation>25%</translation>
     </message>
     <message>
         <source>30%</source>
-        <translation type="unfinished"></translation>
+        <translation>30%</translation>
     </message>
     <message>
         <source>35%</source>
-        <translation type="unfinished"></translation>
+        <translation>35%</translation>
     </message>
     <message>
         <source>37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>37.5%</translation>
     </message>
     <message>
         <source>40%</source>
-        <translation type="unfinished"></translation>
+        <translation>40%</translation>
     </message>
     <message>
         <source>45%</source>
-        <translation type="unfinished"></translation>
+        <translation>45%</translation>
     </message>
     <message>
         <source>50%</source>
-        <translation type="unfinished"></translation>
+        <translation>50%</translation>
     </message>
     <message>
         <source>55%</source>
-        <translation type="unfinished"></translation>
+        <translation>55%</translation>
     </message>
     <message>
         <source>60%</source>
-        <translation type="unfinished"></translation>
+        <translation>60%</translation>
     </message>
     <message>
         <source>62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>62.5%</translation>
     </message>
     <message>
         <source>65%</source>
-        <translation type="unfinished"></translation>
+        <translation>65%</translation>
     </message>
     <message>
         <source>70%</source>
-        <translation type="unfinished"></translation>
+        <translation>70%</translation>
     </message>
     <message>
         <source>75%</source>
-        <translation type="unfinished"></translation>
+        <translation>75%</translation>
     </message>
     <message>
         <source>80%</source>
-        <translation type="unfinished"></translation>
+        <translation>80%</translation>
     </message>
     <message>
         <source>85%</source>
-        <translation type="unfinished"></translation>
+        <translation>85%</translation>
     </message>
     <message>
         <source>87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>87.5%</translation>
     </message>
     <message>
         <source>90%</source>
-        <translation type="unfinished"></translation>
+        <translation>90%</translation>
     </message>
     <message>
         <source>95%</source>
-        <translation type="unfinished"></translation>
+        <translation>95%</translation>
     </message>
     <message>
         <source>Deep horizontal line</source>
-        <translation type="unfinished"></translation>
+        <translation>خط أفقي داكن</translation>
     </message>
     <message>
         <source>Deep vertical line</source>
-        <translation type="unfinished"></translation>
+        <translation>خط عمودي داكن</translation>
     </message>
     <message>
         <source>Deep scope down line</source>
-        <translation type="unfinished"></translation>
+        <translation>شريط منحرف  للأسفل وداكن</translation>
     </message>
     <message>
         <source>Deep scope up Line</source>
-        <translation type="unfinished"></translation>
+        <translation>شريط منحرف للأعلى وعميق</translation>
     </message>
     <message>
         <source>Deep grid</source>
-        <translation type="unfinished"></translation>
+        <translation>شبكة داكنة</translation>
     </message>
     <message>
         <source>Deep shed</source>
-        <translation type="unfinished"></translation>
+        <translation>لون داكن</translation>
     </message>
     <message>
         <source>Shallow horizontal line</source>
-        <translation type="unfinished"></translation>
+        <translation>خط أفقي ضحل</translation>
     </message>
     <message>
         <source>Shallow vertical line</source>
-        <translation type="unfinished"></translation>
+        <translation>خط عمودي ضحل</translation>
     </message>
     <message>
         <source>Shallow scope down line</source>
-        <translation type="unfinished"></translation>
+        <translation>شريط منحرف  للأسفل وضحل</translation>
     </message>
     <message>
         <source>Shallow scope up line</source>
-        <translation type="unfinished"></translation>
+        <translation>شريط منحرف للأعلى وضحل</translation>
     </message>
     <message>
         <source>Shallow grid</source>
-        <translation type="unfinished"></translation>
+        <translation>شبكة ضحلة</translation>
     </message>
     <message>
         <source>Shallow shed</source>
-        <translation type="unfinished"></translation>
+        <translation>لون ضحل</translation>
     </message>
 </context>
 <context>
     <name>KxDlgBulletsNumbering</name>
     <message>
         <source>Bullets and Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>نقاط وترقيم</translation>
     </message>
     <message>
         <source>&amp;Bulleted</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>منقط</translatorcomment>
+        <translation></translation>
     </message>
     <message>
         <source>Cus&amp;tomize...</source>
-        <translation type="unfinished"></translation>
+        <translation>تخصيص ...</translation>
     </message>
     <message>
         <source>&amp;Numbered</source>
-        <translation type="unfinished"></translation>
+        <translation>مرقم</translation>
     </message>
     <message>
         <source>List numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>ترقيم اللائحة</translation>
     </message>
     <message>
         <source>&amp;Restart numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة الترقيم</translation>
     </message>
     <message>
         <source>&amp;Continue previous list</source>
-        <translation type="unfinished"></translation>
+        <translation>مواصلة اللائحة السابقة</translation>
     </message>
     <message>
         <source>O&amp;utline Numbered</source>
-        <translation type="unfinished"></translation>
+        <translation>موجز مرقم</translation>
     </message>
     <message>
         <source>Custom &amp;List</source>
-        <translation type="unfinished"></translation>
+        <translation>لائحة مخصصة</translation>
     </message>
     <message>
         <source>Cu&amp;stom list:</source>
-        <translation type="unfinished"></translation>
+        <translation>لائحة مخصصة:</translation>
     </message>
     <message>
         <source>List preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>معاينة اللائحة:</translation>
     </message>
     <message>
         <source>None list</source>
-        <translation type="unfinished"></translation>
+        <translation>بدون لائحة</translation>
     </message>
     <message>
         <source>Appl&amp;y changes to:</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق التغييرات على:</translation>
     </message>
     <message>
         <source>Whole list</source>
-        <translation type="unfinished"></translation>
+        <translation>اللائحة بأكملها</translation>
     </message>
     <message>
         <source>Selected text</source>
-        <translation type="unfinished"></translation>
+        <translation>النص المحدد</translation>
     </message>
     <message>
         <source>This point forward</source>
-        <translation type="unfinished"></translation>
+        <translation>انطلاقا من هذه النقطة</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCaption</name>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"></translation>
+        <translation>شرح</translation>
     </message>
     <message>
         <source>&amp;Caption:</source>
-        <translation type="unfinished"></translation>
+        <translation>شرح:</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>وسم:</translation>
     </message>
     <message>
         <source>&amp;Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>موضع:</translation>
     </message>
     <message>
         <source>&amp;Exclude label from caption</source>
-        <translation type="unfinished"></translation>
+        <translation>استبعاد الوسم من الشرح</translation>
     </message>
     <message>
         <source>&amp;New Label...</source>
-        <translation type="unfinished"></translation>
+        <translation>وسم جديد ...</translation>
     </message>
     <message>
         <source>&amp;Delete Label</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف الوسم</translation>
     </message>
     <message>
         <source>N&amp;umbering...</source>
-        <translation type="unfinished"></translation>
+        <translation>ترقيم ...</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCaptionNumber</name>
     <message>
         <source>&amp;Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق:</translation>
     </message>
     <message>
         <source>Us&amp;e separator:</source>
-        <translation type="unfinished"></translation>
+        <translation>استعمال العلامة الفاصلة:</translation>
     </message>
     <message>
         <source>Caption Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>ترقيم الشرح</translation>
     </message>
     <message>
         <source>Include &amp;chapter number;</source>
-        <translation type="unfinished"></translation>
+        <translation>إدراج رقم الفصل</translation>
     </message>
     <message>
         <source>Cha&amp;pter starts with style:</source>
-        <translation type="unfinished"></translation>
+        <translation>نمط بداية الفصل:</translation>
     </message>
     <message>
         <source>Examples:</source>
-        <translation type="unfinished"></translation>
+        <translation>أمثلة:</translation>
     </message>
     <message>
         <source>Figure II-1, Table 1-A</source>
-        <translation type="unfinished"></translation>
+        <translation>الصورة II-1، الجدول 1-أ</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCellOption</name>
     <message>
         <source>Cell Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات الخلية</translation>
     </message>
     <message>
         <source>Cell margins</source>
-        <translation type="unfinished"></translation>
+        <translation>هوامش الخلية</translation>
     </message>
     <message>
         <source>&amp;Same as the whole table</source>
-        <translation type="unfinished"></translation>
+        <translation>نفس الشئء مع جل الجدول</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation>أعلى:</translation>
     </message>
     <message>
         <source>pt, -1, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة, -1, 0, 1584, 1</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>يسار:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation>أسفل:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>يمين:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCheckSpelling</name>
     <message>
         <source>&amp;Paragraph:</source>
-        <translation type="unfinished"></translation>
+        <translation>فقرة:</translation>
     </message>
     <message>
         <source>The word is not in the dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>الكلمة غير موجودة في القاموس</translation>
     </message>
     <message>
         <source>Change &amp;to:</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير إلى:</translation>
     </message>
     <message>
         <source>Suggestio&amp;ns:</source>
-        <translation type="unfinished"></translation>
+        <translation>تلميحات:</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير</translation>
     </message>
     <message>
         <source>Change A&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير الكل</translation>
     </message>
     <message>
         <source>&amp;Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>تجاهل</translation>
     </message>
     <message>
         <source>I&amp;gnore All</source>
-        <translation type="unfinished"></translation>
+        <translation>تجاهل الكل</translation>
     </message>
     <message>
         <source>&amp;Add to Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة إلى القاموس</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <source>Cu&amp;stom Dictionaries...</source>
-        <translation type="unfinished"></translation>
+        <translation>قواميس مخصصة...</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>تراجع</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>تدقيق إملائي</translation>
     </message>
     <message>
         <source>&amp;Set Language</source>
-        <translation type="unfinished"></translation>
+        <translation>ضبط اللغة</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCheckboxFormField</name>
     <message>
         <source>Check box size</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم مربع الاختيار</translation>
     </message>
     <message>
         <source>&amp;Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>تلقائي</translation>
     </message>
     <message>
         <source>&amp;Exactly</source>
-        <translation type="unfinished"></translation>
+        <translation>تماما</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة</translation>
     </message>
     <message>
         <source>Default value</source>
-        <translation type="unfinished"></translation>
+        <translation>القيمة الافتراضية</translation>
     </message>
     <message>
         <source>Not chec&amp;ked</source>
-        <translation type="unfinished"></translation>
+        <translation>غير مؤشر</translation>
     </message>
     <message>
         <source>Checke&amp;d</source>
-        <translation type="unfinished"></translation>
+        <translation>مؤشر</translation>
     </message>
     <message>
         <source>Run macro on</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق الماكرو</translation>
     </message>
     <message>
         <source>Entr&amp;y:</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال:</translation>
     </message>
     <message>
         <source>E&amp;xit:</source>
-        <translation type="unfinished"></translation>
+        <translation>خروج:</translation>
     </message>
     <message>
         <source>Field settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات الحقل</translation>
     </message>
     <message>
         <source>Check box e&amp;nabled</source>
-        <translation type="unfinished"></translation>
+        <translation>مربع اختيار متاح</translation>
     </message>
     <message>
         <source>&amp;Calculate on exit</source>
-        <translation type="unfinished"></translation>
+        <translation>حساب عند الخروج</translation>
     </message>
     <message>
         <source>Add Help &amp;Text...</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة نص المساعدة ...</translation>
     </message>
     <message>
         <source>Check Box Form Field Options</source>
-        <translation type="unfinished"></translation>
+        <translation>مربع اختيار من خيارات الحقل</translation>
     </message>
     <message>
         <source>&amp;Bookmark:</source>
-        <translation type="unfinished"></translation>
+        <translation>إشارة مرجعية:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCombineCharacters</name>
     <message>
         <source>Combine Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>دمج الحروف</translation>
     </message>
     <message>
         <source>&amp;Text (up to 6):</source>
-        <translation type="unfinished"></translation>
+        <translation>نص (حتى 6)</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>خط الكتابة:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم:</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished"></translation>
+        <translation>10</translation>
     </message>
     <message>
         <source>10.5</source>
-        <translation type="unfinished"></translation>
+        <translation>10.5</translation>
     </message>
     <message>
         <source>11</source>
-        <translation type="unfinished"></translation>
+        <translation>11</translation>
     </message>
     <message>
         <source>12</source>
-        <translation type="unfinished"></translation>
+        <translation>12</translation>
     </message>
     <message>
         <source>14</source>
-        <translation type="unfinished"></translation>
+        <translation>14</translation>
     </message>
     <message>
         <source>16</source>
-        <translation type="unfinished"></translation>
+        <translation>16</translation>
     </message>
     <message>
         <source>18</source>
-        <translation type="unfinished"></translation>
+        <translation>18</translation>
     </message>
     <message>
         <source>20</source>
-        <translation type="unfinished"></translation>
+        <translation>20</translation>
     </message>
     <message>
         <source>22</source>
-        <translation type="unfinished"></translation>
+        <translation>22</translation>
     </message>
     <message>
         <source>24</source>
-        <translation type="unfinished"></translation>
+        <translation>24</translation>
     </message>
     <message>
         <source>26</source>
-        <translation type="unfinished"></translation>
+        <translation>26</translation>
     </message>
     <message>
         <source>28</source>
-        <translation type="unfinished"></translation>
+        <translation>28</translation>
     </message>
     <message>
         <source>36</source>
-        <translation type="unfinished"></translation>
+        <translation>36</translation>
     </message>
     <message>
         <source>48</source>
-        <translation type="unfinished"></translation>
+        <translation>48</translation>
     </message>
     <message>
         <source>72</source>
-        <translation type="unfinished"></translation>
+        <translation>72</translation>
     </message>
 </context>
 <context>
     <name>KxDlgContents</name>
     <message>
         <source>Table of &amp;Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول المحتويات</translation>
     </message>
     <message>
         <source>Ta&amp;b leader:</source>
@@ -1996,58 +1998,58 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <source>Show &amp;levels:</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض المستويات:</translation>
     </message>
     <message>
         <source>&amp;Show page numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض أرقام الصفحات</translation>
     </message>
     <message>
         <source>&amp;Right align page numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>محاذاة أرقام الصفحات إلى اليمين</translation>
     </message>
     <message>
         <source>Use &amp;hyperlinks</source>
-        <translation type="unfinished"></translation>
+        <translation>استعمال الروابط التشعبية</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات ...</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>معاينة الطباعة</translation>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول المحتويات</translation>
     </message>
 </context>
 <context>
     <name>KxDlgContentsOptions</name>
     <message>
         <source>Table of Contents Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات جدول المحتويات</translation>
     </message>
     <message>
         <source>Build table of contents from:</source>
-        <translation type="unfinished"></translation>
+        <translation>بناء جدول المحتويات من:</translation>
     </message>
     <message>
         <source>&amp;Styles:</source>
-        <translation type="unfinished"></translation>
+        <translation>أنماط:</translation>
     </message>
     <message>
         <source>Available styles:</source>
-        <translation type="unfinished"></translation>
+        <translation>الأنماط المتاحة</translation>
     </message>
     <message>
         <source>&amp;Outline levels</source>
-        <translation type="unfinished"></translation>
+        <translation>مستويات متداخلة</translation>
     </message>
     <message>
         <source>Table &amp;entry fields</source>
@@ -2055,30 +2057,30 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين</translation>
     </message>
     <message>
         <source>TOC &amp;level:</source>
-        <translation type="unfinished"></translation>
+        <translation>مستوى الفهرس:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgConvertNotes</name>
     <message>
         <source>Convert Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل</translation>
     </message>
     <message>
         <source>Convert all &amp;footnotes to endnotes</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل كل الهوامش إلى تعليقات ختامية</translation>
     </message>
     <message>
         <source>Convert all &amp;endnotes to footnotes</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل كل التعليقات الختامية إلى هوامش</translation>
     </message>
     <message>
         <source>&amp;Swap footnotes and endnotes</source>
-        <translation type="unfinished"></translation>
+        <translation>مبادلة الهوامش والتعليقات الختامية</translation>
     </message>
 </context>
 <context>
@@ -11656,7 +11658,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsTextOrientationModel</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>أفقي</translation>
     </message>
     <message>
         <source>Vertical from Right to Left</source>
@@ -11961,11 +11963,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>waterMarkDlg</name>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>علامة مائية</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Watermark setup</source>
@@ -11973,35 +11975,35 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>P&amp;icture watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة كعلامة مائية</translation>
     </message>
     <message>
         <source>Select &amp;Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد الصورة</translation>
     </message>
     <message>
         <source>&amp;Horizontal:</source>
-        <translation type="unfinished"></translation>
+        <translation>أفقي:</translation>
     </message>
     <message>
         <source>&amp;Vertical:</source>
-        <translation type="unfinished"></translation>
+        <translation>عمودي:</translation>
     </message>
     <message>
         <source>F&amp;ormat:</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق:</translation>
     </message>
     <message>
         <source>&amp;Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>تكبير:</translation>
     </message>
     <message>
         <source>&amp;Washout</source>
-        <translation type="unfinished"></translation>
+        <translation>تمييه</translation>
     </message>
     <message>
         <source>Te&amp;xt watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>نص كعلامة مائية</translation>
     </message>
     <message>
         <source>Conten&amp;t:</source>
