@@ -6,70 +6,70 @@
     <name>KProxySettingDlg</name>
     <message>
         <source>Proxy settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Definições de proxy</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Endereço:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Porta:</translation>
     </message>
     <message>
         <source>User name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome de utilizador:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Palavra-passe:</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Teste</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Não utilizar proxy</translation>
     </message>
     <message>
         <source>HTTP proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy de HTTP</translation>
     </message>
     <message>
         <source>Internet Explorer Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy do Internet Explorer</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Connected to proxy server correctly</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligado corretamente ao servidor proxy</translation>
     </message>
     <message>
         <source>Failed to connect to proxy server</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao ligar ao servidor proxy</translation>
     </message>
 </context>
 <context>
     <name>KWaitMaskWidget</name>
     <message>
         <source>Tray</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -95,35 +95,50 @@
     <name>ProxySetting</name>
     <message>
         <source>Proxy settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Definições de proxy</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Palavra-passe:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Porta:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Endereço:</translation>
     </message>
     <message>
         <source>User Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome de Utilizador:</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo:</translation>
     </message>
     <message>
         <source>Proxy Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Definição de Proxy</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Teste</translation>
+    </message>
+</context>
+<context>
+    <name>interface_setproxy</name>
+    <message>
+        <source>Password:</source>
+        <translation type="obsolete">Palavra-passe:</translation>
+    </message>
+    <message>
+        <source>Address:</source>
+        <translation type="obsolete">Endereço:</translation>
+    </message>
+    <message>
+        <source>Port:</source>
+        <translation type="obsolete">Porta:</translation>
     </message>
 </context>
 </TS>

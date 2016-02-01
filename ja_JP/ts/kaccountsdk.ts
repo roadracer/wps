@@ -65,11 +65,11 @@
     <name>KWaitMaskWidget</name>
     <message>
         <source>Tray</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>

@@ -6,90 +6,90 @@
     <name>KsSlideWindowShowMsgHandler</name>
     <message>
         <source>Scan the QR Code with wps mobile version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scannen Sie den QR-Code mit der WPS Mobile Version.</translation>
     </message>
     <message>
         <source>Disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Getrennt.</translation>
     </message>
 </context>
 <context>
     <name>KxCellPhoneControlBubble</name>
     <message>
         <source>Scan the QR Code with wps mobile version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scannen Sie den QR-Code mit der WPS Mobile Version.</translation>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Trennen</translation>
     </message>
     <message>
         <source>Client connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Client verbunden.</translation>
     </message>
 </context>
 <context>
     <name>KxCellPhoneControlDialog</name>
     <message>
         <source>Client Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Client verbunden.</translation>
     </message>
 </context>
 <context>
     <name>KxCellPhoneControlWidget</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Scan the QR Code with wps mobile version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scannen Sie den QR-Code mit der WPS Mobile Version.</translation>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Trennen</translation>
     </message>
     <message>
         <source>Click play button to begin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie auf die Schaltfläche „Wiedergabe“, um zu beginnen.</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiederholen</translation>
     </message>
     <message>
         <source>Network error...</source>
-        <translation type="unfinished"></translation>
+        <translation>Netzwerkfehler...</translation>
     </message>
 </context>
 <context>
     <name>KxSPConfidentDlg</name>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Trennen</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Are you sure to disconnect?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sind Sie sicher, dass Sie die Verbindung trennen möchten?</translation>
     </message>
 </context>
 <context>
     <name>KxSharePlayNotifyBannerWidget</name>
     <message>
         <source>Client Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Client verbunden.</translation>
     </message>
     <message>
         <source>Client Disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Client wurde getrennt.</translation>
     </message>
     <message>
         <source>Network error...</source>
-        <translation type="unfinished"></translation>
+        <translation>Netzwerkfehler...</translation>
     </message>
 </context>
 </TS>

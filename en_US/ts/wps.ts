@@ -13018,7 +13018,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished">5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
@@ -13054,11 +13054,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation type="unfinished">Latin text &amp;font:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation type="unfinished">Asian text fo&amp;nt:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Regular</source>

@@ -14134,7 +14134,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation type="unfinished">Senha Para Proteger As Configurações de Permissão</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pass&amp;word:</source>

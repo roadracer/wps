@@ -6,124 +6,124 @@
     <name>KProxySettingDlg</name>
     <message>
         <source>Proxy settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy 設定</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>類型:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>通訊埠:</translation>
     </message>
     <message>
         <source>User name:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>密碼:</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>測試</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>不要使用 Proxy</translation>
     </message>
     <message>
         <source>HTTP proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP Proxy</translation>
     </message>
     <message>
         <source>Internet Explorer Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>IE Proxy</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>確定</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Connected to proxy server correctly</source>
-        <translation type="unfinished"></translation>
+        <translation>成功連線至 Proxy 伺服器</translation>
     </message>
     <message>
         <source>Failed to connect to proxy server</source>
-        <translation type="unfinished"></translation>
+        <translation>無法連線至 Proxy 伺服器</translation>
     </message>
 </context>
 <context>
     <name>KWaitMaskWidget</name>
     <message>
         <source>Tray</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KWebViewControl</name>
     <message>
         <source>User Login</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者登入</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>重新整理(&amp;R)</translation>
     </message>
     <message>
         <source>Ctrl+F5</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F5</translation>
     </message>
     <message>
         <source>Proxy &amp;Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy 設定(&amp;S)</translation>
     </message>
 </context>
 <context>
     <name>ProxySetting</name>
     <message>
         <source>Proxy settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy 設定</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>密碼:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>通訊埠:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器:</translation>
     </message>
     <message>
         <source>User Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者:</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>類型:</translation>
     </message>
     <message>
         <source>Proxy Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy 設定</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>測試</translation>
     </message>
 </context>
 </TS>

@@ -6,345 +6,451 @@
     <name>AudioSourceFF</name>
     <message>
         <source>FFMpeg[ASrc] - failed to allocate context for </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[ASrc] — не удалось выделить контекст для </translation>
     </message>
     <message>
         <source>FFMpeg[ASrc] - failed to prepare audio stream for </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[ASrc] — не удалось подготовить аудиопоток для </translation>
     </message>
     <message>
         <source>FFMpeg[ASrc] - failed to prepare frame data for </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[ASrc] — не удалось подготовить данные кадра для </translation>
     </message>
     <message>
         <source>FFMpeg[ASrc] - failed to find stream information</source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[ASrc] — не удалось найти данные о потоке</translation>
     </message>
     <message>
         <source>FFMpeg[ASrc] - failed to find audio stream index</source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[ASrc] — не удалось найти индекс аудиопотока</translation>
     </message>
     <message>
         <source>FFMpeg[ASrc] - failed to get input audio stream</source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[ASrc] — не удалось получить входной аудиопоток</translation>
     </message>
     <message>
         <source>FFMpeg[ASrc] - no appropriate decoder found: </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[ASrc] — не удалось найти подходящий декодер: </translation>
     </message>
     <message>
         <source>FFMpeg[ASrc] - failed to open decoder: </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[ASrc] — не удалось открыть декодер: </translation>
     </message>
     <message>
         <source>FFMpeg[ASrc] - failed to read for </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[ASrc] — не удалось считать для </translation>
+    </message>
+    <message>
+        <source>FFMpeg[ASrc] - failed to alloc context for </source>
+        <translation type="obsolete">FFMpeg[ASrc] — не удалось выделить контекст для </translation>
+    </message>
+    <message>
+        <source>FFMpeg[ASrc] - failed to find stream info</source>
+        <translation type="obsolete">FFMpeg[ASrc] — не удалось найти данные о потоке</translation>
+    </message>
+    <message>
+        <source>FFMpeg[ASrc] - no appropriated decoder found: </source>
+        <translation type="obsolete">FFMpeg[ASrc] — не удалось найти подходящий декодер: </translation>
     </message>
 </context>
 <context>
     <name>Encoder</name>
     <message>
         <source>Width of MediaSource must be Even</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение ширины медиа-источника должно быть четным</translation>
     </message>
     <message>
         <source>Height of MediaSource must be Even</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение высоты медиа-источника должно быть четным</translation>
     </message>
     <message>
         <source>Max size of MediaSource is </source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальный размер медиа-источника составляет </translation>
     </message>
 </context>
 <context>
     <name>EncoderFF</name>
     <message>
         <source>FFMpeg - failed to allocate context for </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось выделить контекст для </translation>
     </message>
     <message>
         <source>FFMpeg - failed to prepare colorspace converter for </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось подготовить преобразователь цветовой схемы для </translation>
     </message>
     <message>
         <source>FFMpeg - failed to prepare video stream for </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось подготовить видеопоток для </translation>
     </message>
     <message>
         <source>FFMpeg - failed to prepare audio stream for </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось подготовить аудиопоток для </translation>
     </message>
     <message>
         <source>FFMpeg - failed to prepare video frame data for </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось подготовить данные видеокадра для </translation>
     </message>
     <message>
         <source>FFMpeg - failed to prepare audio frame data for </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось подготовить данные аудиокадра для </translation>
     </message>
     <message>
         <source>FFMpeg - failed to open output for </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось открыть выходные данные для </translation>
     </message>
     <message>
         <source>FFMpeg - no appropriated video codec found</source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось найти подходящий видеокодек</translation>
     </message>
     <message>
         <source>FFMpeg - target format not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — тип целевого объекта не разрешен</translation>
     </message>
     <message>
         <source>FFMpeg - no appropriate video encoder found: </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось найти подходящий кодировщик видео: </translation>
     </message>
     <message>
         <source>FFMpeg - failed to add video stream</source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось добавить видеопоток</translation>
     </message>
     <message>
         <source>FFMpeg - no appropriated audio codec found</source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось найти подходящий аудиокодек</translation>
     </message>
     <message>
         <source>FFMpeg - no appropriate audio encoder found: </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось найти подходящий кодировщик аудио: </translation>
     </message>
     <message>
         <source>FFMpeg - failed to add audio stream</source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось добавить аудиопоток</translation>
     </message>
     <message>
         <source>FFMpeg - failed to fit audio channels</source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось подобрать звуковые каналы</translation>
     </message>
     <message>
         <source>FFMpeg - failed to open video encoder: </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось открыть кодировщик видео: </translation>
     </message>
     <message>
         <source>FFMpeg - failed to allocate video frame for output</source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось выделить видеокадр для выходных данных</translation>
     </message>
     <message>
         <source>FFMpeg - failed to open audio encoder: </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось открыть кодировщик аудио: </translation>
     </message>
     <message>
         <source>FFMpeg - failed to allocate audio frame for output</source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось выделить аудиокадр для выходных данных</translation>
     </message>
     <message>
         <source>FFMpeg - failed to add inner audio of video: </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось добавить внутренний аудиофайл или видеофайл: </translation>
     </message>
     <message>
         <source>FFMpeg - failed to encode video frame</source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось закодировать видеокадр</translation>
     </message>
     <message>
         <source>FFMpeg - failed to encode audio frame</source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg — не удалось закодировать аудиокадр</translation>
+    </message>
+    <message>
+        <source>FFMpeg - failed to alloc context for </source>
+        <translation type="obsolete">FFMpeg — не удалось выделить контекст для </translation>
+    </message>
+    <message>
+        <source>FFMpeg - target type not allowed</source>
+        <translation type="obsolete">FFMpeg — тип целевого объекта не разрешен</translation>
+    </message>
+    <message>
+        <source>FFMpeg - no appropriated video encoder found: </source>
+        <translation type="obsolete">FFMpeg — не удалось найти подходящий кодировщик видео: </translation>
+    </message>
+    <message>
+        <source>FFMpeg - no appropriated audio encoder found: </source>
+        <translation type="obsolete">FFMpeg — не удалось найти подходящий кодировщик аудио: </translation>
+    </message>
+    <message>
+        <source>FFMpeg - failed to alloc video frame for output</source>
+        <translation type="obsolete">FFMpeg — не удалось выделить видеокадр для выходных данных</translation>
+    </message>
+    <message>
+        <source>FFMpeg - failed to alloc audio frame for output</source>
+        <translation type="obsolete">FFMpeg — не удалось выделить аудиокадр для выходных данных</translation>
     </message>
 </context>
 <context>
     <name>EncoderMF</name>
     <message>
         <source>MediaFoundation - need at least support of Win7 System</source>
-        <translation type="unfinished"></translation>
+        <translation>MediaFoundation — нужна поддержка по крайней мере Windows 7</translation>
     </message>
     <message>
         <source>MediaFoundation - failed to initialize COM</source>
-        <translation type="unfinished"></translation>
+        <translation>MediaFoundation — не удалось инициализировать COM</translation>
     </message>
     <message>
         <source>MediaFoundation - failed to startup</source>
-        <translation type="unfinished"></translation>
+        <translation>MediaFoundation — не удалось выполнить запуск</translation>
     </message>
     <message>
         <source>MediaFoundation - failed to create writer for file: </source>
-        <translation type="unfinished"></translation>
+        <translation>MediaFoundation — не удалось создать модуль записи для файла: </translation>
     </message>
     <message>
         <source>MediaFoundation - failed to create input media type</source>
-        <translation type="unfinished"></translation>
+        <translation>MediaFoundation — не удалось создать входной тип мультимедиа</translation>
     </message>
     <message>
         <source>MediaFoundation - failed to create output media type</source>
-        <translation type="unfinished"></translation>
+        <translation>MediaFoundation — не удалось создать выходной тип мультимедиа</translation>
     </message>
     <message>
         <source>MediaFoundation - failed to add output media stream</source>
-        <translation type="unfinished"></translation>
+        <translation>MediaFoundation — не удалось добавить выходной поток мультимедиа</translation>
     </message>
     <message>
         <source>MediaFoundation - failed to set InputMedia Type</source>
-        <translation type="unfinished"></translation>
+        <translation>MediaFoundation — не удалось задать входной тип мультимедиа</translation>
     </message>
     <message>
         <source>MediaFoundation - failed to start Encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>MediaFoundation — не удалось начать кодирование</translation>
     </message>
     <message>
         <source>MediaFoundation - failed to create buffer</source>
-        <translation type="unfinished"></translation>
+        <translation>MediaFoundation — не удалось создать буфер</translation>
     </message>
     <message>
         <source>MediaFoundation - failed to create sample</source>
-        <translation type="unfinished"></translation>
+        <translation>MediaFoundation — не удалось создать образец</translation>
     </message>
     <message>
         <source>MediaFoundation - failed to add buffer</source>
-        <translation type="unfinished"></translation>
+        <translation>MediaFoundation — не удалось добавить буфер</translation>
     </message>
     <message>
         <source>MediaFoundation - I420 MediaSource is not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>MediaFoundation — медиа-источник I420 не поддерживается</translation>
     </message>
     <message>
         <source>MediaFoundation - failed to end Encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>MediaFoundation — не удалось завершить кодирование</translation>
     </message>
     <message>
         <source>MediaFoundation - can&apos;t encode current shadow frame </source>
-        <translation type="unfinished"></translation>
+        <translation>MediaFoundation — не удалось закодировать текущий теневой кадр </translation>
     </message>
     <message>
         <source>MediaFoundation - can&apos;t encode current frame </source>
-        <translation type="unfinished"></translation>
+        <translation>MediaFoundation — не удалось закодировать текущий кадр </translation>
+    </message>
+    <message>
+        <source>MediaFoundation - failed to create Input Media Type</source>
+        <translation type="obsolete">MediaFoundation — не удалось создать входной тип мультимедиа</translation>
+    </message>
+    <message>
+        <source>MediaFoundation - failed to create Output Media Type</source>
+        <translation type="obsolete">MediaFoundation — не удалось создать выходной тип мультимедиа</translation>
+    </message>
+    <message>
+        <source>MediaFoundation - failed to add OutputMedia Stream</source>
+        <translation type="obsolete">MediaFoundation — не удалось добавить выходной поток мультимедиа</translation>
     </message>
 </context>
 <context>
     <name>EncoderX</name>
     <message>
         <source>x264 - failed to open encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>x264 — не удалось открыть кодировщик</translation>
     </message>
     <message>
         <source>x264 - failed to allocate picture data</source>
-        <translation type="unfinished"></translation>
+        <translation>x264 — не удалось выделить данные рисунка</translation>
     </message>
     <message>
         <source>x264 - failed to allocate shadow picture data</source>
-        <translation type="unfinished"></translation>
+        <translation>x264 — не удалось выделить данные рисунка с тенью</translation>
     </message>
     <message>
         <source>x264 - cannot open output file:</source>
-        <translation type="unfinished"></translation>
+        <translation>x264 — не удалось открыть выходной файл: </translation>
     </message>
     <message>
         <source>x264 - cannot set parameter of output file: </source>
-        <translation type="unfinished"></translation>
+        <translation>x264 — не удалось настроить параметры выходного файла: </translation>
     </message>
     <message>
         <source>x264 - cannot close output file: </source>
-        <translation type="unfinished"></translation>
+        <translation>x264 — не удалось закрыть выходной файл: </translation>
     </message>
     <message>
         <source>x264 - cannot encode current frame:</source>
-        <translation type="unfinished"></translation>
+        <translation>x264 — не удалось закодировать текущий кадр: </translation>
+    </message>
+    <message>
+        <source>x264 - failed to alloc picture data</source>
+        <translation type="obsolete">x264 — не удалось выделить данные рисунка</translation>
+    </message>
+    <message>
+        <source>x264 - failed to alloc shadow picture data</source>
+        <translation type="obsolete">x264 — не удалось выделить данные рисунка с тенью</translation>
+    </message>
+    <message>
+        <source>x264 - can&apos;t open output file: </source>
+        <translation type="obsolete">x264 — не удалось открыть выходной файл: </translation>
+    </message>
+    <message>
+        <source>x264 - can&apos;t set param of output file: </source>
+        <translation type="obsolete">x264 — не удалось настроить параметры выходного файла: </translation>
+    </message>
+    <message>
+        <source>x264 - can&apos;t close output file: </source>
+        <translation type="obsolete">x264 — не удалось закрыть выходной файл: </translation>
+    </message>
+    <message>
+        <source>x264 - can&apos;t encode current frame: </source>
+        <translation type="obsolete">x264 — не удалось закодировать текущий кадр: </translation>
     </message>
 </context>
 <context>
     <name>KxWppEncodeCommand</name>
     <message>
         <source>an Encoding Process is already running.</source>
-        <translation type="unfinished"></translation>
+        <translation>процесс кодировки уже запущен.</translation>
     </message>
     <message>
         <source>Cannot Save, </source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось выполнить сохранение, </translation>
     </message>
     <message>
         <source>the file has been opened.</source>
-        <translation type="unfinished"></translation>
+        <translation>используется.</translation>
     </message>
     <message>
         <source>failed to create storage for video exporting.</source>
-        <translation type="unfinished"></translation>
+        <translation>не удалось создать дисковое пространство для экспорта видео.</translation>
     </message>
     <message>
         <source>failed to preprocess media for video exporting.</source>
-        <translation type="unfinished"></translation>
+        <translation>не удалось предварительно обработать мультимедиа для экспорта видео.</translation>
     </message>
     <message>
         <source>Some media cannot be included.Sure to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>нельзя добавить некоторые файлы мультимедиа.
+Действительно продолжить?</translation>
     </message>
     <message>
         <source>failed to export video for insufficient disk space. 
 Please do disk cleanup first.</source>
-        <translation type="unfinished"></translation>
+        <translation>не удалось экспортировать видео из-за нехватки места на диске. 
+сначала очистите диск.</translation>
+    </message>
+    <message>
+        <source>is being used.</source>
+        <translation type="obsolete">используется.</translation>
+    </message>
+    <message>
+        <source>failed to preprocess medias for video exporting.</source>
+        <translation type="obsolete">не удалось предварительно обработать мультимедиа для экспорта видео.</translation>
+    </message>
+    <message>
+        <source>some media cannot be included,
+be Sure to Continue?</source>
+        <translation type="obsolete">нельзя добавить некоторые файлы мультимедиа.
+Действительно продолжить?</translation>
+    </message>
+    <message>
+        <source>failed to export video for insufficient of disk space. 
+please do disk-cleanup first.</source>
+        <translation type="obsolete">не удалось экспортировать видео из-за нехватки места на диске. 
+сначала очистите диск.</translation>
     </message>
 </context>
 <context>
     <name>KxWppEncodeStation</name>
     <message>
         <source>Exporting Video </source>
-        <translation type="unfinished"></translation>
+        <translation>Выполняется экспорт видео </translation>
     </message>
     <message>
         <source>(Embedding Video Source)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Внедрение источника видео)</translation>
     </message>
     <message>
         <source>Current output size : </source>
-        <translation type="unfinished"></translation>
+        <translation>Размер текущих выходных данных: </translation>
     </message>
     <message>
         <source>Width of MediaSource alignment is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина выравнивания медиа-источника является недопустимой.</translation>
     </message>
     <message>
         <source>Height of MediaSource must be Even.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение высоты медиа-источника должно быть четным.</translation>
     </message>
     <message>
         <source>Max size of MediaSource is </source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальный размер медиа-источника составляет </translation>
+    </message>
+    <message>
+        <source>Current Output size : </source>
+        <translation type="obsolete">Размер текущих выходных данных: </translation>
     </message>
 </context>
 <context>
     <name>VideoSourceFF</name>
     <message>
         <source>FFMpeg[VSrc] - failed to allocate context for </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[VSrc] — не удалось выделить контекст для </translation>
     </message>
     <message>
         <source>FFMpeg[VSrc] - failed to prepare video stream for </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[VSrc] — не удалось подготовить видеопоток для </translation>
     </message>
     <message>
         <source>FFMpeg[VSrc] - failed to prepare video frame data for </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[VSrc] — не удалось подготовить данные видеокадра для </translation>
     </message>
     <message>
         <source>FFMpeg[VSrc] - failed to prepare colorspace converter for </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[VSrc] — не удалось подготовить преобразователь цветовой схемы для </translation>
     </message>
     <message>
         <source>FFMpeg[VSrc] - failed to find stream info</source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[VSrc] — не удалось найти данные о потоке</translation>
     </message>
     <message>
         <source>FFMpeg[VSrc] - failed to find video stream index</source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[VSrc] — не удалось найти индекс видеопотока</translation>
     </message>
     <message>
         <source>FFMpeg[VSrc] - failed to get input video stream</source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[VSrc] — не удалось получить входной видеопоток</translation>
     </message>
     <message>
         <source>FFMpeg[VSrc] - no appropriate decoder found: </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[VSrc] — не удалось найти подходящий декодер: </translation>
     </message>
     <message>
         <source>FFMpeg[VSrc] - failed to open decoder: </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[VSrc] — не удалось открыть декодер: </translation>
     </message>
     <message>
         <source>FFMpeg[VSrc] - failed to read for </source>
-        <translation type="unfinished"></translation>
+        <translation>FFMpeg[VSrc] — не удалось считать для </translation>
+    </message>
+    <message>
+        <source>FFMpeg[VSrc] - failed to alloc context for </source>
+        <translation type="obsolete">FFMpeg[VSrc] — не удалось выделить контекст для </translation>
+    </message>
+    <message>
+        <source>FFMpeg[VSrc] - no appropriated decoder found: </source>
+        <translation type="obsolete">FFMpeg[VSrc] — не удалось найти подходящий декодер: </translation>
     </message>
 </context>
 </TS>

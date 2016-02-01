@@ -7,7 +7,7 @@
     <message>
         <source>All Reference Files</source>
         <extracomment>Unknown position</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы ссылок</translation>
     </message>
 </context>
 <context>
@@ -15,32 +15,32 @@
     <message>
         <source>Macro Options</source>
         <extracomment>et -&gt; Developer -&gt; Macros -&gt; Options</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Параметры макроса</translation>
     </message>
     <message>
         <source>Macro name:</source>
         <extracomment>et -&gt; Developer -&gt; Macros -&gt; Options</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Имя макроса:</translation>
     </message>
     <message>
         <source>Shortcut &amp;key:</source>
         <extracomment>et -&gt; Developer -&gt; Macros -&gt; Options</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Сочетание &amp;клавиш:</translation>
     </message>
     <message>
         <source>&amp;Description:</source>
         <extracomment>et -&gt; Developer -&gt; Macros -&gt; Options</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Описание:</translation>
     </message>
     <message>
         <source>Prompt</source>
         <extracomment>et -&gt; developer -&gt; Macros -&gt; chooice a macro -&gt; Options -&gt; Shortcut key: = -&gt; OK</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Приглашение</translation>
     </message>
     <message>
         <source>Shortcut key must be a letter.</source>
         <extracomment>et -&gt; developer -&gt; Macros -&gt; chooice a macro -&gt; Options -&gt; Shortcut key: = -&gt; OK</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Сочетание клавиш должно обозначаться буквами.</translation>
     </message>
 </context>
 <context>
@@ -48,62 +48,62 @@
     <message>
         <source>Macros</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Макросы</translation>
     </message>
     <message>
         <source>&amp;Macro name:</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Имя:</translation>
     </message>
     <message>
         <source>&amp;Run</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Запустить</translation>
     </message>
     <message>
         <source>&amp;Step Into</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Сведения о действии</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Правка</translation>
     </message>
     <message>
         <source>&amp;Create</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Создать</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <source>&amp;Options</source>
         <extracomment>et -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Параметры</translation>
     </message>
     <message>
         <source>M&amp;acro in:</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Где:</translation>
     </message>
     <message>
         <source>Cancel</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Descript&amp;ion:</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Оп&amp;исание:</translation>
     </message>
     <message>
         <source>All active templates and documents</source>
         <extracomment>developer -&gt; Macro in:</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Все активные шаблоны и документы</translation>
     </message>
     <message>
         <source>Prompt</source>
@@ -114,27 +114,27 @@ developer -&gt; Macros -&gt; delete
 Theoretically, will not displayed any where.
 ----------
 developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&gt; Create</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Приглашение</translation>
     </message>
     <message>
         <source>The macros in this project are disabled.</source>
         <extracomment>developer -&gt; Security -&gt; VeryHigh; developer -&gt; Macros -&gt; Run</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Макросы в этом проекте отключены.</translation>
     </message>
     <message>
         <source>Do you want to delete macro %1 ?</source>
         <extracomment>developer -&gt; Macros -&gt; delete</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Удалить макрос %1?</translation>
     </message>
     <message>
         <source>The project item name is not valid.</source>
         <extracomment>Theoretically, will not displayed any where.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Имя элемента проекта является недопустимым.</translation>
     </message>
     <message>
         <source>Invalid procedure name.</source>
         <extracomment>developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&gt; Create</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимое имя процедуры.</translation>
     </message>
 </context>
 <context>
@@ -142,32 +142,32 @@ developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&g
     <message>
         <source>Security Warning</source>
         <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждение системы безопасности</translation>
     </message>
     <message>
         <source>&quot;%1&quot; contains macros.</source>
         <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>В &quot;%1&quot; содержатся макросы.</translation>
     </message>
     <message>
         <source>Macros may contain viruses. It is always safe to disable macros, but if the macros are legitimate, you might lose some functionality.</source>
         <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>В макросах могут содержаться вирусы. Отключение макросов не нарушает безопасность, однако, если макросы являются допустимыми, возможна потеря некоторых функций.</translation>
     </message>
     <message>
         <source>&amp;Disable Macros</source>
         <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Отключить макросы</translation>
     </message>
     <message>
         <source>&amp;Enable Macros</source>
         <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Включить макросы</translation>
     </message>
     <message>
         <source>The file you would like to open contains macros.</source>
         <extracomment>Unknown position</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Файл, который нужно открыть, содержит макросы.</translation>
     </message>
 </context>
 <context>
@@ -175,67 +175,67 @@ developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&g
     <message>
         <source>Security</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Безопасность</translation>
     </message>
     <message>
         <source>&amp;Security Level</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Уровень безопасности</translation>
     </message>
     <message>
         <source>Only macros installed in trusted locations will be allowed to run. All other signed and unsigned macros are disabled.</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Будет разрешен запуск только макросов, которые установлены в доверенных расположениях. Все другие подписанные и неподписанные макросы будут отключены.</translation>
     </message>
     <message>
         <source>&amp;Very high</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Очень высокий</translation>
     </message>
     <message>
         <source>Only signed macros from trusted sources will be allowed to run. Unsigned macros are automatically disabled.</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Будет разрешен запуск только подписанных макросов из доверенных источников. Неподписанные макросы будут автоматически отключены.</translation>
     </message>
     <message>
         <source>&amp;High</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Высокий</translation>
     </message>
     <message>
         <source>&amp;Medium</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Средний</translation>
     </message>
     <message>
         <source>You can choose whether or not to run potentially unsafe macros.</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Вы можете выбрать, следует ли запускать потенциально небезопасные макросы.</translation>
     </message>
     <message>
         <source>You are not protected from potentially unsafe macros. Use this setting only if you have virus scanning software installed, or you have checked the safety of all documents you open.</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Вы не защищены от потенциально небезопасных макросов. Включайте этот параметр, только если на вашем компьютере установлены антивирусные программы или если вы проверили безопасность всех документов, которые открываете.</translation>
     </message>
     <message>
         <source>&amp;Low(not recommended)</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Низкий (не рекомендуется)</translation>
     </message>
     <message>
         <source>&amp;Trusted Publishers</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Надежные издатели</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
         <extracomment>developer -&gt; Security -&gt; Trusted Publishers</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <source>Trust access to &amp;Visual Basic Project</source>
         <extracomment>developer -&gt; Security -&gt; Trusted Publishers</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Доверять &amp;доступ к проекту Visual Basic</translation>
     </message>
 </context>
 </TS>

@@ -7433,12 +7433,12 @@ This backup will be saved to(%s)</source>
     <message>
         <source>WPS Presentation Files(*.dps)</source>
         <comment>WpDescDps</comment>
-        <translation type="unfinished">Файлы WPS Presentation(*.dps)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Presentation Templates(*.dpt)</source>
         <comment>WpDescDpt</comment>
-        <translation type="unfinished">Шаблоны WPS Presentation(*.dpt)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Presentation 2007/2010 Files(*.dpsx)</source>
@@ -7453,12 +7453,12 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
         <comment>WpDescMPP2003</comment>
-        <translation type="unfinished">Презентации Microsoft PowerPoint 97/2000/XP/2003(*.ppt; *.pps)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
         <comment>WpDescPot</comment>
-        <translation type="unfinished">Шаблоны презентаций Microsoft PowerPoint 97/2000/XP/2003(*.pot)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)</source>

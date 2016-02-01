@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="en">
 <defaultcodec>UTF-8</defaultcodec>
@@ -3098,9 +3098,6 @@ Editor</translation>
     </message>
 </context>
 <context>
-    <name>ongmani.ct_drawingtool.Fill</name>
-</context>
-<context>
     <name>ongmani.ct_drawingtool.Num</name>
     <message>
         <source>More Numbering</source>
@@ -4742,9 +4739,6 @@ Beginning</translation>
     </message>
 </context>
 <context>
-    <name>ongmani.ct_home.Fill</name>
-</context>
-<context>
     <name>ongmani.ct_home.Num</name>
     <message>
         <source>More Numbering</source>
@@ -5944,9 +5938,6 @@ On/Off</translation>
         <source>Width</source>
         <translation></translation>
     </message>
-</context>
-<context>
-    <name>ongmani.ct_picturetool.Fill</name>
 </context>
 <context>
     <name>ongmani.ct_printpreview</name>
@@ -10462,9 +10453,6 @@ Master</source>
     </message>
 </context>
 <context>
-    <name>popupmenu.Fill</name>
-</context>
-<context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
@@ -11685,9 +11673,6 @@ AddIns</source>
         <source>Width</source>
         <translation></translation>
     </message>
-</context>
-<context>
-    <name>rainbow.ct_drawingtool.Fill</name>
 </context>
 <context>
     <name>rainbow.ct_drawingtool.Num</name>
@@ -13018,9 +13003,6 @@ Slide</source>
     </message>
 </context>
 <context>
-    <name>rainbow.ct_home.Fill</name>
-</context>
-<context>
     <name>rainbow.ct_home.Num</name>
     <message>
         <source>More Numbering</source>
@@ -14041,9 +14023,6 @@ Subordinate</source>
         <source>Width</source>
         <translation></translation>
     </message>
-</context>
-<context>
-    <name>rainbow.ct_picturetool.Fill</name>
 </context>
 <context>
     <name>rainbow.ct_picturetool.Picture</name>
@@ -16516,9 +16495,6 @@ When you click a pixel in the current graphic, all pixels of that specific color
         <source>WordArt</source>
         <translation></translation>
     </message>
-</context>
-<context>
-    <name>wppclassics.mainwindow.commands.OrgChartAndDiagram</name>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands</name>

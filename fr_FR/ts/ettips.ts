@@ -7,64 +7,66 @@
     <message id="AdvancedFilter.title">
         <source>Advanced Filter</source>
         <extracomment>AdvancedFilter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Filtre avancé</translation>
     </message>
     <message id="AdvancedFilter.content">
         <source>Specify complex criteria to limit which records are included in the result set of a query.</source>
         <extracomment>AdvancedFilter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Spécifie les critères complexes qui limitent les enregistrements à inclure dans le jeu de résultats d&apos;une requête.</translation>
     </message>
     <message id="Align.title">
         <source>Align</source>
         <extracomment>Align.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aligner</translation>
     </message>
     <message id="Align.content">
         <source>Align the edges of multiple selected objects.
 
 You can also center them or distribute them evenly across the page.</source>
         <extracomment>Align.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aligne les extrémités de plusieurs objets sélectionnés.
+
+Vous pouvez également centrer ou répartir les objets de manière homogène sur la page.</translation>
     </message>
     <message id="AlignCenter.title">
         <source>Center</source>
         <extracomment>AlignCenter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Centrer</translation>
     </message>
     <message id="AlignCenter.content">
         <source>Center text.</source>
         <extracomment>AlignCenter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Centre le texte.</translation>
     </message>
     <message id="AlignJustify.title">
         <source>Justify</source>
         <extracomment>AlignJustify.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Justifier</translation>
     </message>
     <message id="AlignJustify.content">
         <source>Align text to both the left and right margins, adding extra space between words as necessary.</source>
         <extracomment>AlignJustify.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aligne le texte à la fois sur les marges de gauche et de droite, en ajoutant une espace supplémentaire entre les mots si nécessaire.</translation>
     </message>
     <message id="AlignLeft.title">
         <source>Align Text Left</source>
         <extracomment>AlignLeft.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aligner le texte à gauche</translation>
     </message>
     <message id="AlignLeft.content">
         <source>Align text to the left.</source>
         <extracomment>AlignLeft.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aligne le texte à gauche.</translation>
     </message>
     <message id="AlignRight.title">
         <source>Align Text Right</source>
         <extracomment>AlignRight.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aligner le texte à droite</translation>
     </message>
     <message id="AlignRight.content">
         <source>Align text to the right.</source>
         <extracomment>AlignRight.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aligne le texte à droite.</translation>
     </message>
     <message id="AlignDistributed.title">
         <source>Distributed</source>
@@ -79,508 +81,527 @@ You can also center them or distribute them evenly across the page.</source>
     <message id="AlignmentFormatCells.title">
         <source>Format Cells: Alignment</source>
         <extracomment>AlignmentFormatCells.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Format de cellule: Alignement</translation>
     </message>
     <message id="AlignmentFormatCells.content">
         <source>Show the Alignment tab of the Format Cells dialog box.</source>
         <extracomment>AlignmentFormatCells.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche l&apos;onglet Alignement de la boîte de dialogue Format de cellule.</translation>
     </message>
     <message id="AllBorders.title">
         <source>All Borders</source>
         <extracomment>AllBorders.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Toutes les bordures</translation>
     </message>
     <message id="AllBorders.content">
         <source>Apply borders to the currently selected cells.</source>
         <extracomment>AllBorders.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Applique des bordures aux cellules actuellement sélectionnées.</translation>
     </message>
     <message id="AllFunction.title">
         <source>All Functions</source>
         <extracomment>AllFunction.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Toutes les fonctions</translation>
     </message>
     <message id="AllFunction.content">
         <source>Browse and select from the list that contains all of the functions.</source>
         <extracomment>AllFunction.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rechercher et sélectionner dans la liste contenant toutes les fonctions.</translation>
     </message>
     <message id="AllowEditRanges.title">
         <source>Allow Users to Edit Ranges</source>
         <extracomment>AllowEditRanges.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permettre la modification des plages</translation>
     </message>
     <message id="AllowEditRanges.content">
         <source>Allows specific people to edit ranges of cells in a protected workbook or sheet.
 
 Before using this feature, first set security on the sheet by using the Protect Sheet command.</source>
+        <oldsource>Allow specific people to edit ranges of cells in a protected workbook or sheet.
+
+Before using this feature, first set security on the sheet by using the protect sheet command.</oldsource>
         <extracomment>AllowEditRanges.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Autorise certains utilisateurs à modifier des plages de cellules dans une feuille de calcul ou un classeur protégé.
+
+Avant d&apos;utiliser cette fonctionnalité, définissez le niveau de sécurité de la feuille de calcul à l&apos;aide de la commande Protéger la feuille.</translation>
     </message>
     <message id="ArtisticWordAlignment.title">
         <source>Alignment</source>
         <extracomment>ArtisticWordAlignment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Alignement</translation>
     </message>
     <message id="ArtisticWordAlignment.content">
         <source>Specify how individual lines of a multiline WordArt should be aligned.</source>
+        <oldsource>Set alignment to individual lines of multi-line WordArt in document.</oldsource>
         <extracomment>ArtisticWordAlignment.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Spécifie l&apos;alignement des lignes individuelles d&apos;un WordArt à lignes multiples.</translation>
     </message>
     <message id="AutoFilter.title">
         <source>AutoFilter</source>
         <extracomment>AutoFilter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Filtre automatique</translation>
     </message>
     <message id="AutoFilter.content">
         <source>Enable filtering of the selected cells.
 
 Once filtering is turned on, click the arrow to choose a filter for the column.</source>
         <extracomment>AutoFilter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Active le filtrage des cellules sélectionnées.
+
+Lorsque le filtrage est activé, cliquez sur la flèche dans l&apos;en-tête de la colonne pour choisir le filtre à appliquer à la colonne.</translation>
     </message>
     <message id="AutoSum.title">
         <source>AutoSum</source>
         <extracomment>AutoSum.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Somme automatique</translation>
     </message>
     <message id="AutoSum.content">
         <source>Display the sum of the selected cells directly after the selected cells.</source>
         <extracomment>AutoSum.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la somme des cellules sélectionnées juste après celles-ci.</translation>
     </message>
     <message id="Average.title">
         <source>Average</source>
         <extracomment>Average.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Moyenne</translation>
     </message>
     <message id="Average.content">
         <source>Returns the average (arithmetic mean) of the arguments.</source>
         <extracomment>Average.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Renvoie la moyenne (espérance arithmétique) des arguments</translation>
     </message>
     <message id="BookProtection.title">
         <source>Protect Workbook</source>
         <extracomment>BookProtection.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Protéger le classeur</translation>
     </message>
     <message id="BookProtection.content">
         <source>Prevent unwanted changes to the structure of the workbook, such as moving, deleting, or adding sheets.</source>
         <extracomment>BookProtection.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Empêcher que des modifications indésirables (déplacement, suppression ou ajout de feuilles) soient apportées à la structure du classeur.</translation>
     </message>
     <message id="BottomBorder.title">
         <source>Bottom Border</source>
         <extracomment>BottomBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bordure inférieure</translation>
     </message>
     <message id="BottomBorder.content">
         <source>Apply borders to the currently selected cells.</source>
         <extracomment>BottomBorder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Applique des bordures aux cellules actuellement sélectionnées.</translation>
     </message>
     <message id="BottomDoubleBorder.title">
         <source>Bottom Double Border</source>
         <extracomment>BottomDoubleBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bordure double en bas</translation>
     </message>
     <message id="BottomDoubleBorder.content">
         <source>Apply borders to the currently selected cells.</source>
         <extracomment>BottomDoubleBorder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Applique des bordures aux cellules actuellement sélectionnées.</translation>
     </message>
     <message id="CTB_DesignMode.title">
         <source>Design Mode</source>
         <extracomment>CTB_DesignMode.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mode Création</translation>
     </message>
     <message id="CTB_DesignMode.content">
         <source>Enter design mode to edit controls&apos; names and functions.</source>
         <extracomment>CTB_DesignMode.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Entrez dans le mode Création pour modifier les noms et les fonctions des contrôles.</translation>
     </message>
     <message id="CalculateSheet.title">
         <source>Calculate Sheet</source>
         <extracomment>CalculateSheet.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Calculer la feuille</translation>
     </message>
     <message id="CalculateSheet.content">
         <source>Calculate the current sheet now.
 This is only necessary if automatic calculation has been turned off.</source>
         <extracomment>CalculateSheet.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Calcule la feuille active maintenant.
+Cette opération n&apos;est nécessaire que si le calcul automatique a été désactivé.</translation>
     </message>
     <message id="Camera.title">
         <source>Camera</source>
         <extracomment>Camera.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Appareil photo</translation>
     </message>
     <message id="Camera.content">
         <source>Link cells or cell range to drawing objects. Changes made to data in cells of the worksheet will be automatically shown in drawing objects.</source>
         <extracomment>Camera.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lier des cellules ou une plage de cellules à des objets dessins. Les modifications apportées aux données dans les cellules de la feuille de calcul s&apos;afficheront automatiquement dans les objets dessins.</translation>
     </message>
     <message id="CharacterSpacing.title">
         <source>WordArt Character Spacing</source>
         <extracomment>CharacterSpacing.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Espacement des caractères WordArt</translation>
     </message>
     <message id="CharacterSpacing.content">
         <source>Change the spacing between the letters of the selected WordArt text.</source>
         <extracomment>CharacterSpacing.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifie l&apos;espacement entre les lettres du texte WordArt sélectionné.</translation>
     </message>
     <message id="Chart.title">
         <source>Create Chart</source>
         <extracomment>Chart.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Créer un graphique</translation>
     </message>
     <message id="Chart.content">
         <source>Show the Chart Type dialog box to view options such as chart type to insert.</source>
+        <oldsource>Show the Chart Type dialog box to select from options such as Chart Type to insert.</oldsource>
         <extracomment>Chart.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la boîte de dialogue Type de graphique pour afficher les options comme le type de graphique à insérer.</translation>
     </message>
     <message id="ChartObjects.title">
         <source>Chart Objects</source>
         <extracomment>ChartObjects.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Objets de graphique</translation>
     </message>
     <message id="ChartObjects.content">
         <source>Select a chart element so that you can format it.</source>
         <extracomment>ChartObjects.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionne un élément de graphique afin de pouvoir le mettre en forme.</translation>
     </message>
     <message id="ChineseTranslation.title">
         <source>Simplified to Traditional Chinese</source>
         <extracomment>ChineseTranslation.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Chinois simplifié en chinois traditionnel</translation>
     </message>
     <message id="ChineseTranslation.content">
         <source>Decide the translation unit for Simplified - Traditional Chinese to be character or word.</source>
+        <oldsource>Set Simplified to Traditional Chinese translation based upon the character or word.</oldsource>
         <extracomment>ChineseTranslation.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Remplace la traduction en chinois simplifié par le chinois traditionnel en fonction du caractère ou du mot.</translation>
     </message>
     <message id="CircularReferences.title">
         <source>Circular References</source>
         <extracomment>CircularReferences.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Références circulaires</translation>
     </message>
     <message id="CircularReferences.content">
         <source>Show the Circular References dialog box. You can search and locate all cells that contain circular references in the workbook.
 
 Double-click an item in the list of results to switch the corresponding cell.</source>
         <extracomment>CircularReferences.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la boîte de dialogue Références circulaires. Vous pouvez rechercher et trouver toutes les cellules contenant les références circulaires dans le classeur.
+
+Double-cliquez sur un élément de la liste des résultats pour passer à la cellule correspondante.</translation>
     </message>
     <message id="Clear.title">
         <source>Clear</source>
         <extracomment>Clear.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Effacer</translation>
     </message>
     <message id="Clear.content">
         <source>Delete everything from the cell, or selectively remove the formatting, the contents, or the comments.</source>
         <extracomment>Clear.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Supprime tous les éléments de la cellule, ou uniquement la mise en forme, le contenu ou les commentaires.</translation>
     </message>
     <message id="ClearFilter.title">
         <source>Show All</source>
         <extracomment>ClearFilter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher tout</translation>
     </message>
     <message id="ClearFilter.content">
         <source>Clear the filter and sort state for the current range of data.</source>
         <extracomment>ClearFilter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Efface le filtre et trie l&apos;état de l&apos;étendue de données active.</translation>
     </message>
     <message id="ColumnsCenter.title">
         <source>Center Across</source>
+        <oldsource>Across Center</oldsource>
         <extracomment>ColumnsCenter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Centré sur plusieurs colonnes</translation>
     </message>
     <message id="ColumnsCenter.content">
         <source>Select continuous cells in one row or multiple rows, set the content of the cells to the center.</source>
         <extracomment>ColumnsCenter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de sélectionner des cellules continues sur une ou plusieurs lignes et de centrer le contenu des cellules.</translation>
     </message>
     <message id="ComAddin.title">
         <source>COM Add-Ins</source>
         <extracomment>ComAddin.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Compléments COM</translation>
     </message>
     <message id="ComAddin.content">
         <source>Add or delete the available COM Add-Ins.</source>
         <extracomment>ComAddin.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ajoute ou supprime les compléments COM disponibles.</translation>
     </message>
     <message id="CommaStyle.title">
         <source>Comma Style</source>
         <extracomment>CommaStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Séparateur de milliers</translation>
     </message>
     <message id="CommaStyle.content">
         <source>Display the value of the cell with a thousands separator.</source>
         <extracomment>CommaStyle.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la valeur de la cellule en utilisant le séparateur des milliers.</translation>
     </message>
     <message id="CompressPictures.title">
         <source>Compress Pictures</source>
         <extracomment>CompressPictures.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Compresser les images</translation>
     </message>
     <message id="CompressPictures.content">
         <source>Compress the selected picture or all pictures in the worksheet to reduce size.</source>
         <extracomment>CompressPictures.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Compresse l&apos;image sélectionnée ou toutes les images de la feuille de calcul pour en réduire la taille.</translation>
     </message>
     <message id="ConditionalFormat.title">
         <source>Conditional Formatting</source>
         <extracomment>ConditionalFormat.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mise en forme conditionnelle</translation>
     </message>
     <message id="ConditionalFormat.content">
         <source>Visually explore and analyze data, detect critical issues, and identify patterns and trends.</source>
         <extracomment>ConditionalFormat.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Explore et analyse visuellement les données, détecte les problèmes critiques et identifie les motifs et les tendances.</translation>
     </message>
     <message id="Consolidate.title">
         <source>Consolidate</source>
         <extracomment>Consolidate.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Consolider</translation>
     </message>
     <message id="Consolidate.content">
         <source>Combine values from multiple ranges into one new range.</source>
         <extracomment>Consolidate.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Combine les valeurs de plusieurs plages dans une nouvelle plage.</translation>
     </message>
     <message id="Count.title">
         <source>Count</source>
         <extracomment>Count.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nombre</translation>
     </message>
     <message id="Count.content">
         <source>Count the number of cells in a column that contain numbers.</source>
         <extracomment>Count.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Compte le nombre de cellules dans une colonne qui contient des nombres.</translation>
     </message>
     <message id="Currency.title">
         <source>Currency</source>
         <extracomment>Currency.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Monétaire</translation>
     </message>
     <message id="Currency.content">
         <source>Choose an alternate currency format for the selected cell.
 
 For instance, choose Euros instead of Dollars.</source>
         <extracomment>Currency.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un autre format de monétaire pour la cellule sélectionnée.
+
+Choisissez par exemple Euros à la place de Dollars.</translation>
     </message>
     <message id="DataDetailedSettings.title">
         <source>Data Detailed Settings</source>
+        <oldsource>DataDetailedSettings Title</oldsource>
         <extracomment>DataDetailedSettings.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Data Detailed Settings</translation>
     </message>
     <message id="DataDetailedSettings.content">
         <source>DataDetailedSettings Content</source>
         <extracomment>DataDetailedSettings.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Contenu DataDetailedSettings</translation>
     </message>
     <message id="DataGroup.title">
         <source>Group</source>
         <extracomment>DataGroup.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Grouper</translation>
     </message>
     <message id="DataGroup.content">
         <source>Tie a range of cells together so that they can be collapsed or expanded.</source>
         <extracomment>DataGroup.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Relie une plage de cellules afin de pouvoir réduire ou développer son affichage.</translation>
     </message>
     <message id="DataSort.title">
         <source>Sort</source>
         <extracomment>DataSort.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Trier</translation>
     </message>
     <message id="DataSort.content">
         <source>Show the Sort dialog box to sort data based on several criteria at once.</source>
         <extracomment>DataSort.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la boîte de dialogue Trier pour trier les données en fonction de plusieurs critères à la fois.</translation>
     </message>
     <message id="DataTable.title">
         <source>Data Table</source>
         <extracomment>DataTable.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Table de données</translation>
     </message>
     <message id="DataTable.content">
         <source>Add a data table to the chart.</source>
         <extracomment>DataTable.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ajoute une table de données au graphique.</translation>
     </message>
     <message id="DataUngroup.title">
         <source>Ungroup</source>
         <extracomment>DataUngroup.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dissocier</translation>
     </message>
     <message id="DataUngroup.content">
         <source>Ungroup a range of cells that were previously grouped.</source>
         <extracomment>DataUngroup.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dissocie une plage de cellules précédemment groupées.</translation>
     </message>
     <message id="DataUngroup2.title">
         <source>Ungroup</source>
         <extracomment>DataUngroup2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dissocier</translation>
     </message>
     <message id="DataUngroup2.content">
         <source>Ungroup a range of cells that were previously grouped.</source>
         <extracomment>DataUngroup2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dissocie une plage de cellules précédemment groupées.</translation>
     </message>
     <message id="DecreaseDecimal.title">
         <source>Decrease Decimal</source>
         <extracomment>DecreaseDecimal.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Réduire les décimales</translation>
     </message>
     <message id="DecreaseDecimal.content">
         <source>Show less precise values by showing fewer decimal places.</source>
         <extracomment>DecreaseDecimal.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche les valeurs moins précises en limitant le nombre de positions décimales.</translation>
     </message>
     <message id="DecreaseIndent.title">
         <source>Decrease Indent</source>
         <extracomment>DecreaseIndent.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Réduire le retrait</translation>
     </message>
     <message id="DecreaseIndent.content">
         <source>Decrease the margin between the border and the text in the cell.</source>
         <extracomment>DecreaseIndent.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Réduit la marge entre la bordure et le texte dans la cellule.</translation>
     </message>
     <message id="DeleteComment.title">
         <source>Delete</source>
         <extracomment>DeleteComment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer</translation>
     </message>
     <message id="DeleteComment.content">
         <source>Delete the selected comment.</source>
         <extracomment>DeleteComment.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Supprime le commentaire sélectionné.</translation>
     </message>
     <message id="DeleteRange.title">
         <source>Delete cells</source>
         <extracomment>DeleteRange.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les cellules</translation>
     </message>
     <message id="DeleteRange.content">
         <source>Delete the cells, rows, or columns in worksheet.</source>
         <extracomment>DeleteRange.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Supprime les cellules, les lignes ou les colonnes dans la feuille de calcul.</translation>
     </message>
     <message id="DeleteRange2.title">
         <source>Delete cells</source>
         <extracomment>DeleteRange2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les cellules</translation>
     </message>
     <message id="DeleteRange2.content">
         <source>Click here to delete cells, rows, or the entire worksheet.</source>
         <extracomment>DeleteRange2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez ici pour supprimer des cellules, des lignes ou toute la feuille de calcul.</translation>
     </message>
     <message id="DetailedSettings_Data.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Data.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres</translation>
     </message>
     <message id="DetailedSettings_Data.content">
         <source>Change the advanced settings of outline.</source>
         <extracomment>DetailedSettings_Data.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifie les paramètres avancés de plan.</translation>
     </message>
     <message id="DetailedSettings_DrawingTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_DrawingTools.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres</translation>
     </message>
     <message id="DetailedSettings_DrawingTools.content">
         <source>Change the settings of shape formatting.</source>
         <extracomment>DetailedSettings_DrawingTools.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifie les paramètres de mise en forme des formes.</translation>
     </message>
     <message id="DetailedSettings_Home.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Home.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres</translation>
     </message>
     <message id="DetailedSettings_Home.content">
         <source>Change the settings of cell formatting.</source>
         <extracomment>DetailedSettings_Home.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifie les paramètres de mise en forme des cellules.</translation>
     </message>
     <message id="DetailedSettings_Layout.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Layout.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres</translation>
     </message>
     <message id="DetailedSettings_Layout.content">
         <source>Change the settings of page setup.</source>
         <extracomment>DetailedSettings_Layout.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifie les paramètres de mise en page.</translation>
     </message>
     <message id="DetailedSettings_PictureTool.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_PictureTool.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres</translation>
     </message>
     <message id="DetailedSettings_PictureTool.content">
         <source>Change the settings of picture formatting.</source>
         <extracomment>DetailedSettings_PictureTool.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifie les paramètres de mise en forme d&apos;image.</translation>
     </message>
     <message id="DetailedSettings_WordArt.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_WordArt.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres</translation>
     </message>
     <message id="DetailedSettings_WordArt.content">
         <source>Change the settings of WordArt formatting.</source>
         <extracomment>DetailedSettings_WordArt.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifie les paramètres de mise en forme WordArt.</translation>
     </message>
     <message id="DevelopmentTools.title">
         <source>Developer</source>
         <extracomment>DevelopmentTools.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Développeur</translation>
     </message>
     <message id="DevelopmentTools.content">
         <source>DevelopmentTools Content</source>
         <extracomment>DevelopmentTools.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Contenu DevelopmentTools</translation>
     </message>
     <message id="Direction.title">
         <source>Direction</source>
         <extracomment>Direction.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Orientation</translation>
     </message>
     <message id="Direction.content">
         <source>Choose the direction effect of the selected 3-D Shape.</source>
         <extracomment>Direction.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de choisir l&apos;orientation de la forme 3D sélectionnée.</translation>
     </message>
     <message id="DisplayGridlines.title">
         <source>View Gridlines</source>
         <extracomment>DisplayGridlines.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le quadrillage</translation>
     </message>
     <message id="DisplayGridlines.content">
         <source>Show the lines between rows and columns in the sheet to make editing and reading easier.
 
 These lines will not print unless Print is also checked.</source>
         <extracomment>DisplayGridlines.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche les traits entre les lignes et les colonnes de la feuille afin de faciliter leur modification et d&apos;améliorer leur lisibilité.
+
+Les traits ne sont pas imprimés, sauf si la case Impression est également sélectionnée.</translation>
     </message>
     <message id="DisplayHeadings.title">
         <source>View Headings</source>
         <extracomment>DisplayHeadings.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les en-têtes</translation>
     </message>
     <message id="DisplayHeadings.content">
         <source>Show row and column headings. 
@@ -589,766 +610,812 @@ Row headings are the row numbers to the side of the sheet.
 
 Column headings are the letters or numbers that appear above the columns on a sheet.</source>
         <extracomment>DisplayHeadings.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche les en-têtes de lignes et de colonnes. 
+
+Les en-têtes de lignes correspondent aux numéros de lignes affichés sur le côté de la feuille. 
+
+Les en-têtes de colonnes sont caractérisés par des lettres ou des chiffres en haut des colonnes dans une feuille.</translation>
     </message>
     <message id="DrawBorder.title">
         <source>Draw Border</source>
         <extracomment>DrawBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tracer les bordures</translation>
     </message>
     <message id="DrawBorder.content">
         <source>To draw border line, click here and drag the mouse to draw.
 
 Press Esc on the keyboard or click here again to exit the drawing mode.</source>
+        <oldsource>To draw border line, click this option and drag the mouse to draw.
+
+Press Esc on the keyboard or click this option again to exit the drawing mode.</oldsource>
         <extracomment>DrawBorder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pour tracer une bordure, cliquez ici et faites glisser la souris de manière à dessiner.
+
+Appuyez sur Echap sur le clavier ou cliquez ici de nouveau pour quitter le mode de dessin.</translation>
     </message>
     <message id="DrawGrid.title">
         <source>Draw Border Grid</source>
         <extracomment>DrawGrid.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tracer les bordures de grille</translation>
     </message>
     <message id="DrawGrid.content">
         <source>To draw border grid,click here and drag the mouse to draw.
 
 Press Esc on the keyboard or click here again to exit the drawing mode.</source>
+        <oldsource>To draw border grid,click this option and drag the mouse to draw.
+
+Press Esc on the keyboard or click this option again to exit the drawing mode.</oldsource>
         <extracomment>DrawGrid.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pour tracer une bordure de grille, cliquez ici et faites glisser la souris de manière à dessiner.
+
+Appuyez sur Echap sur le clavier ou cliquez ici de nouveau pour quitter le mode de dessin.</translation>
     </message>
     <message id="DrawingToolsDetailedSettings.title">
         <source>Drawing Tools Detailed Settings</source>
+        <oldsource>DrawingToolsDetailedSettings Title</oldsource>
         <extracomment>DrawingToolsDetailedSettings.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Titre DrawingToolsDetailedSettings</translation>
     </message>
     <message id="DrawingToolsDetailedSettings.content">
         <source>DrawingToolsDetailedSettings Content</source>
         <extracomment>DrawingToolsDetailedSettings.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Contenu DrawingToolsDetailedSettings</translation>
     </message>
     <message id="Duplicates.title">
         <source>Duplicates</source>
         <extracomment>Duplicates.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Doublons</translation>
     </message>
     <message id="Duplicates.content">
         <source>Highlight, Reject Input or Remove duplicate rows from a sheet.
 
 You can specify which columns should be checked for duplicate information.</source>
         <extracomment>Duplicates.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Surligne, rejette une entrée ou supprime les lignes en double dans une feuille.
+
+Vous pouvez spécifier les colonnes dans lesquelles vous souhaitez vérifier la présence d&apos;informations en double.</translation>
     </message>
     <message id="DynamicShape.title">
         <source>Insert Shapes</source>
         <extracomment>DynamicShape.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insérer des formes</translation>
     </message>
     <message id="DynamicShape.content">
         <source>Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts.</source>
         <extracomment>DynamicShape.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insère des formes prédéfinies, telles que des lignes, des rectangles, des symboles d&apos;organigramme, des bulles et légendes.</translation>
     </message>
     <message id="EDRProperties.title">
         <source>Data Range Properties</source>
         <extracomment>EDRProperties.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Propriétés de la plage de données</translation>
     </message>
     <message id="EDRProperties.content">
         <source>Change the external data source names, number format and layout.</source>
         <extracomment>EDRProperties.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifie les noms des sources de données externes, le format de nombre et la disposition.</translation>
     </message>
     <message id="EditCloumns.title">
         <source>Formula Bar</source>
         <extracomment>EditCloumns.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Barre de formule</translation>
     </message>
     <message id="EditCloumns.content">
         <source>View the formula bar, in which you can enter text and formulas into cells.</source>
         <extracomment>EditCloumns.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la barre de formule qui vous permet d&apos;entrer un texte et des formules dans les cellules.</translation>
     </message>
     <message id="EditComment.title">
         <source>Edit Comment</source>
         <extracomment>EditComment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le commentaire</translation>
     </message>
     <message id="EditComment.content">
         <source>Edit the selected comment.</source>
         <extracomment>EditComment.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifie le commentaire sélectionné.</translation>
     </message>
     <message id="EditCrossBookLinks.title">
         <source>Edit Links</source>
         <extracomment>EditCrossBookLinks.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifier les liaisons</translation>
     </message>
     <message id="EditCrossBookLinks.content">
         <source>In order to update data or delete links, view all the files that have been linked to this workbook.</source>
         <extracomment>EditCrossBookLinks.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche tous les fichiers qui ont été liés à ce classeur afin de mettre à jour les données ou de supprimer les liaisons.</translation>
     </message>
     <message id="EditOleDBQuery.title">
         <source>Edit OLE DB query</source>
         <extracomment>EditOleDBQuery.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la requête de base de données OLE</translation>
     </message>
     <message id="EditOleDBQuery.content">
         <source>Select the command type, input a relevant query statement and filter the data imported.</source>
+        <oldsource>Select the command type, input a relevent query statement and filter the data imported.</oldsource>
         <extracomment>EditOleDBQuery.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de sélectionner le type de commande, d&apos;entrer une instruction de requête pertinente et de filtrer les données importées.</translation>
     </message>
     <message id="EquationEditor.title">
         <source>Insert Equation</source>
         <extracomment>EquationEditor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insérer une équation</translation>
     </message>
     <message id="EquationEditor.content">
         <source>Insert mathematical equations using equation editor.</source>
         <extracomment>EquationEditor.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insère des équations mathématiques à l&apos;aide de l&apos;éditeur d&apos;équations.</translation>
     </message>
     <message id="Eraseborder.title">
         <source>Erase Border</source>
         <extracomment>Eraseborder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Effacer les bordures</translation>
     </message>
     <message id="Eraseborder.content">
         <source>To erase border, click here and drag the mouse to erase.
 
 Press Esc on the keyboard or click here again to exit the erasing mode.</source>
+        <oldsource>To erase border, click this option and drag the mouse to erase.
+
+Press Esc on the keyboard or click this option again to exit the erasing mode.</oldsource>
         <extracomment>Eraseborder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pour effacer une bordure, cliquez sur cette option et faites glisser le curseur sur la bordure à effacer.
+
+Appuyez sur Echap sur le clavier ou cliquez de nouveau sur cette option pour quitter le mode d&apos;effacement.</translation>
     </message>
     <message id="EvaluateFormula.title">
         <source>Evaluate Formula</source>
         <extracomment>EvaluateFormula.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Évaluer la formule</translation>
     </message>
     <message id="EvaluateFormula.content">
         <source>Show the Evaluate Formula dialog box to debug a formula by evaluating each part of the formula individually.</source>
         <extracomment>EvaluateFormula.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la boîte de dialogue Évaluer la formule pour résoudre une formule en évaluant chaque élément individuellement.</translation>
     </message>
     <message id="ExitPreview.title">
         <source>Exit</source>
         <extracomment>ExitPreview.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Quitter</translation>
     </message>
     <message id="ExitPreview.content">
         <source>Exit Print Preview and return to the document-editing mode.</source>
         <extracomment>ExitPreview.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Quitte l&apos;aperçu avant impression et retourne au mode d&apos;édition de document.</translation>
     </message>
     <message id="FTB_EditCode.title">
         <source>Edit Code</source>
         <extracomment>FTB_EditCode.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le code</translation>
     </message>
     <message id="FTB_EditCode.content">
         <source>Start the visual basic editor to edit the selected form code.</source>
         <extracomment>FTB_EditCode.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Démarre Visual Basic Editor pour modifier le code du formulaire sélectionné.</translation>
     </message>
     <message id="FTB_Property.title">
         <source>Control Properties</source>
         <extracomment>FTB_Property.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Propriétés du contrôle</translation>
     </message>
     <message id="FTB_Property.content">
         <source>Set the selected form object properties, such as font and size.</source>
         <extracomment>FTB_Property.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Définit les propriétés de l&apos;objet de formulaire sélectionné, telles que la police et la taille.</translation>
     </message>
     <message id="Fill.title">
         <source>Fill</source>
         <extracomment>Fill.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Remplir</translation>
     </message>
     <message id="Fill.content">
         <source>According to certain rules, you can fill the contents of a cell in any direction to adjacent cells.</source>
         <extracomment>Fill.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>En fonction de certaines règles, vous pouvez remplir le contenu d&apos;une cellule dans n&apos;importe quelle direction par rapport aux cellules adjacentes.</translation>
     </message>
     <message id="FillColor.title">
         <source>Fill Color</source>
         <extracomment>FillColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Couleur de remplissage</translation>
     </message>
     <message id="FillColor.content">
         <source>Color the background of selected cells.
 
 Click the arrow to select a different background color.</source>
         <extracomment>FillColor.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Applique une couleur à l&apos;arrière-plan des cellules sélectionnées.
+
+Cliquez sur la flèche pour sélectionner une autre couleur de fond.</translation>
     </message>
     <message id="FillColor2.title">
         <source>Fill Color</source>
         <extracomment>FillColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Couleur de remplissage</translation>
     </message>
     <message id="FillColor2.content">
         <source>Click the arrow to select a different background color.</source>
         <extracomment>FillColor2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur la flèche pour sélectionner une autre couleur de fond.</translation>
     </message>
     <message id="Financial.title">
         <source>Financial</source>
         <extracomment>Financial.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Finances</translation>
     </message>
     <message id="Financial.content">
         <source>Browse and select from a list of financial functions.</source>
         <extracomment>Financial.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de parcourir la liste des fonctions financières et de sélectionner celles qui vous intéressent.</translation>
     </message>
     <message id="Find.title">
         <source>Find and Replace</source>
         <extracomment>Find.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rechercher et remplacer</translation>
     </message>
     <message id="Find.content">
         <source>Find text in the workbook.
 
 Click the arrow to choose other options, such as Go To.</source>
         <extracomment>Find.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Recherche du texte dans le classeur.
+
+Cliquez sur la flèche pour choisir d&apos;autres options, telles que Atteindre.</translation>
     </message>
     <message id="FontColor.title">
         <source>Text Color</source>
         <extracomment>FontColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Couleur du texte</translation>
     </message>
     <message id="FontColor.content">
         <source>Change the text color.
 
 Click the arrow to select a different text color.</source>
         <extracomment>FontColor.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifie la couleur du texte.
+
+Cliquez sur la flèche pour sélectionner une autre couleur de texte.</translation>
     </message>
     <message id="FontColor2.title">
         <source>Text Color</source>
         <extracomment>FontColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Couleur du texte</translation>
     </message>
     <message id="FontColor2.content">
         <source>Click the arrow to select a different text color.</source>
         <extracomment>FontColor2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur la flèche pour sélectionner une autre couleur de texte.</translation>
     </message>
     <message id="FontFormatCells.title">
         <source>Font Settings</source>
+        <oldsource>Format Cells: Font</oldsource>
         <extracomment>FontFormatCells.title</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="FontFormatCells.content">
         <source>Show the Font dialog box.</source>
+        <oldsource>Show the Font tab of the Format Cells dialog box.</oldsource>
         <extracomment>FontFormatCells.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la boîte de dialogue Police.</translation>
     </message>
     <message id="FormatChartObject.title">
         <source>Format Selection</source>
         <extracomment>FormatChartObject.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sélection du format</translation>
     </message>
     <message id="FormatChartObject.content">
         <source>Show the Format dialog box of chart objects. You can use detailed settings for chart options.</source>
         <extracomment>FormatChartObject.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la boîte de dialogue Format des objets du graphique. Vous pouvez utiliser les paramètres détaillés des options du graphique.</translation>
     </message>
     <message id="FormatPainter.title">
         <source>Format Painter</source>
         <extracomment>FormatPainter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Reproduire la mise en forme</translation>
     </message>
     <message id="FormatPainter.content">
         <source>Copy formatting from one place and apply it to another.
 
 Double-click this button to apply the same formatting to multiple places in the document.</source>
         <extracomment>FormatPainter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Copie la mise en forme d&apos;un emplacement à un autre.
+
+Double-cliquez sur ce bouton pour appliquer la même mise en forme à plusieurs endroits dans le document.</translation>
     </message>
     <message id="FormatStyle.title">
         <source>Format Style</source>
         <extracomment>FormatStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Style de format</translation>
     </message>
     <message id="FormatStyle.content">
         <source>Make different combinations of the cell formats, such as number or alignment formats, then generate these formats into one.</source>
         <extracomment>FormatStyle.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Combine les formats de cellule de différentes manières (formats de nombre ou d&apos;alignement, par exemple), puis génère ces formats en un seul.</translation>
     </message>
     <message id="FreezePanes.title">
         <source>Freeze/Unfreeze Panes</source>
         <extracomment>FreezePanes.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Figer/Libérer les volets</translation>
     </message>
     <message id="FreezePanes.content">
         <source>Keep a portion of the sheet visible while the rest of the sheet scrolls. (You can cancel the lock to scroll through the whole worksheet).</source>
         <extracomment>FreezePanes.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Conserve une partie de la feuille visible pendant le défilement du reste de la feuille. (Vous pouvez annuler le verrouillage pour faire défiler la feuille de calcul entière).</translation>
     </message>
     <message id="FullScreenMode.title">
         <source>Full Screen</source>
         <extracomment>FullScreenMode.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Plein écran</translation>
     </message>
     <message id="FullScreenMode.content">
         <source>View the workbook in full screen mode</source>
         <extracomment>FullScreenMode.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche le classeur en mode plein écran.</translation>
     </message>
     <message id="FuncCatDateAndTime.title">
         <source>Date &amp; Time</source>
         <extracomment>FuncCatDateAndTime.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Date/Heure</translation>
     </message>
     <message id="FuncCatDateAndTime.content">
         <source>Browse and select from a list of date and time functions.</source>
         <extracomment>FuncCatDateAndTime.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de parcourir la liste des fonctions date et heure, et de sélectionner celles qui vous intéressent.</translation>
     </message>
     <message id="FuncCatMoreFunctions.title">
         <source>More Functions</source>
         <extracomment>FuncCatMoreFunctions.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Autres fonctions</translation>
     </message>
     <message id="FuncCatMoreFunctions.content">
         <source>Browse and select from lists of statistical, engineering, and information functions.</source>
         <extracomment>FuncCatMoreFunctions.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de parcourir les listes de fonctions statistiques, d&apos;ingénierie et d&apos;informations, et de sélectionner celles qui vous intéressent.</translation>
     </message>
     <message id="FuncCatText.title">
         <source>Text Function</source>
         <extracomment>FuncCatText.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fonction texte</translation>
     </message>
     <message id="FuncCatText.content">
         <source>Browse and select from a list of text functions.</source>
         <extracomment>FuncCatText.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de parcourir la liste des fonctions de texte et de sélectionner celles qui vous intéressent.</translation>
     </message>
     <message id="Gallery.title">
         <source>WPS Office Gallery</source>
         <extracomment>Gallery.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office Gallerie</translation>
     </message>
     <message id="Gallery.content">
         <source>WPS Gallery provides all kinds of picture sources for you to use, collect, edit and manage.
 
 WPS Gallery Online Sources require Internet connection.</source>
         <extracomment>Gallery.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Gallerie fournit toutes sortes de sources d&apos;images que vous pouvez utiliser, collecter, modifier et gérer.
+
+Les sources en ligne de WPS Gallery nécessitent une connexion Internet.</translation>
     </message>
     <message id="Group.title">
         <source>Group</source>
         <extracomment>Group.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Grouper</translation>
     </message>
     <message id="Group.content">
         <source>Group objects together so that they can be treated like a single object.</source>
         <extracomment>Group.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Groupe les objets ensemble afin de les traiter comme un seul objet.</translation>
     </message>
     <message id="GrowFont.title">
         <source>Increase Font Size</source>
         <extracomment>GrowFont.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Augmenter la taille de la police</translation>
     </message>
     <message id="GrowFont.content">
         <source>Increase the font size.</source>
         <extracomment>GrowFont.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Augmente la taille de la police.</translation>
     </message>
     <message id="HeaderFooter.title">
         <source>Header and Footer</source>
         <extracomment>HeaderFooter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>En-tête et pied de page</translation>
     </message>
     <message id="HeaderFooter.content">
         <source>Edit the header and footer of the document.
 
 The information in the header or footer will appear at the top or bottom of each printed page.</source>
         <extracomment>HeaderFooter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifie l&apos;en-tête ou le pied de page du document.
+
+Les informations contenues à cet endroit apparaissent en haut ou en bas de chaque page imprimée.</translation>
     </message>
     <message id="HideDetail.title">
         <source>Hide Detail</source>
         <extracomment>HideDetail.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Masquer les détails</translation>
     </message>
     <message id="HideDetail.content">
         <source>Collapse a group of cells.</source>
         <extracomment>HideDetail.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Réduit l&apos;affichage d&apos;un groupe de cellules.</translation>
     </message>
     <message id="HomeDetailedSettings.title">
         <source>Home Detailed Settings</source>
+        <oldsource>HomeDetailedSettings Title</oldsource>
         <extracomment>HomeDetailedSettings.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Home Detailed Settings</translation>
     </message>
     <message id="HomeDetailedSettings.content">
         <source>HomeDetailedSettings Content</source>
         <extracomment>HomeDetailedSettings.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Contenu HomeDetailedSettings</translation>
     </message>
     <message id="Hyperlink.title">
         <source>Insert Hyperlink</source>
         <extracomment>Hyperlink.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insérer un lien hypertexte</translation>
     </message>
     <message id="Hyperlink.content">
         <source>Create a link to a web page, a picture, or an e-mail address.</source>
         <extracomment>Hyperlink.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Crée un lien vers une page Web, une image, ou une adresse de messagerie.</translation>
     </message>
     <message id="ImportData.title">
         <source>Import data</source>
         <extracomment>ImportData.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Importer les données</translation>
     </message>
     <message id="ImportData.content">
         <source>Import external data into the selected worksheet.</source>
         <extracomment>ImportData.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Importe des données externes dans la feuille de calcul sélectionnée.</translation>
     </message>
     <message id="IncreaseDecimal.title">
         <source>Increase Decimal</source>
         <extracomment>IncreaseDecimal.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter une décimale</translation>
     </message>
     <message id="IncreaseDecimal.content">
         <source>Show more precise values by showing more decimal places.</source>
         <extracomment>IncreaseDecimal.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Augmente la précision des valeurs affichées en utilisant un plus grand nombre de positions décimales.</translation>
     </message>
     <message id="IncreaseIndent.title">
         <source>Increase Indent</source>
         <extracomment>IncreaseIndent.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Augmenter le retrait</translation>
     </message>
     <message id="IncreaseIndent.content">
         <source>Increase the margin between the border and the text in the cell.</source>
         <extracomment>IncreaseIndent.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Augmente la marge entre la bordure et le texte dans la cellule.</translation>
     </message>
     <message id="InsertClipArt.title">
         <source>Insert ClipArt</source>
         <extracomment>InsertClipArt.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insérer une image clipart</translation>
     </message>
     <message id="InsertClipArt.content">
         <source>Insert Clip Art into the worksheet, including drawings, movies, sounds, or stock photography to illustrate a specific concept.</source>
+        <oldsource>Insert ClipArt Content</oldsource>
         <extracomment>InsertClipArt.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insère un clipart dans le document, y compris des dessins, films et sons, ou stocke des photos pour illustrer un concept spécifique.</translation>
     </message>
     <message id="InsertComment.title">
         <source>New Comment</source>
         <extracomment>InsertComment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau commentaire</translation>
     </message>
     <message id="InsertComment.content">
         <source>Add a comment to the worksheet about the selection.</source>
         <extracomment>InsertComment.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ajoute un commentaire sur la sélection dans la feuille de calcul.</translation>
     </message>
     <message id="InsertFileObject.title">
         <source>Insert Object from File</source>
         <extracomment>InsertFileObject.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insérer un objet à partir du fichier</translation>
     </message>
     <message id="InsertFileObject.content">
         <source>Insert the selected file into document.</source>
         <extracomment>InsertFileObject.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insère le fichier sélectionné dans le document.</translation>
     </message>
     <message id="InsertFunction.title">
         <source>Insert Function</source>
         <extracomment>InsertFunction.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insérer une fonction</translation>
     </message>
     <message id="InsertFunction.content">
         <source>Edit the formula in the current cell by choosing functions and editing the arguments.</source>
         <extracomment>InsertFunction.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifie la formule de la cellule active en choisissant des fonctions et en modifiant les arguments.</translation>
     </message>
     <message id="InsertObject.title">
         <source>Insert Object</source>
         <extracomment>InsertObject.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insérer un objet</translation>
     </message>
     <message id="InsertObject.content">
         <source>Show the Insert Object dialog box to select new file or file from local folder.</source>
         <extracomment>InsertObject.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la boîte de dialogue Insérer un objet pour sélectionner un nouveau fichier ou un fichier à partir du dossier local.</translation>
     </message>
     <message id="InsertPageBreak.title">
         <source>Page Breaks</source>
         <extracomment>InsertPageBreak.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sauts de page</translation>
     </message>
     <message id="InsertPageBreak.content">
         <source>Specify where a new page will begin in the printed copy.
 
 Page breaks are inserted above and to the left of the selection.</source>
         <extracomment>InsertPageBreak.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Indique l&apos;endroit où commence une nouvelle page dans le document imprimé.
+
+Les sauts de page sont insérés au-dessus et à gauche de la sélection.</translation>
     </message>
     <message id="InsertRange.title">
         <source>Insert Cells</source>
         <extracomment>InsertRange.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insérer des cellules</translation>
     </message>
     <message id="InsertRange.content">
         <source>Insert cells, rows or columns into the worksheet.</source>
         <extracomment>InsertRange.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insère des cellules, des lignes ou des colonnes dans la feuille de calcul.</translation>
     </message>
     <message id="InsertRange2.title">
         <source>Insert Cells</source>
         <extracomment>InsertRange2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insérer des cellules</translation>
     </message>
     <message id="InsertRange2.content">
         <source>Click here to insert cells, rows or columns in the worksheet or add a whole new worksheet.</source>
         <extracomment>InsertRange2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez ici pour insérer des cellules, des lignes ou des colonnes dans la feuille de calcul ou pour ajouter une nouvelle feuille de calcul.</translation>
     </message>
     <message id="InsertTextboxHorizontal.title">
         <source>Draw Horizontal Text Box</source>
         <extracomment>InsertTextboxHorizontal.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dessiner une zone de texte horizontale</translation>
     </message>
     <message id="InsertTextboxHorizontal.content">
         <source>Insert a horizontal text box.</source>
         <extracomment>InsertTextboxHorizontal.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insère une zone de texte horizontale.</translation>
     </message>
     <message id="InsertTextboxHorizontal2.title">
         <source>Draw Text Box</source>
         <extracomment>InsertTextboxHorizontal2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dessiner une zone de texte</translation>
     </message>
     <message id="InsertTextboxHorizontal2.content">
         <source>Click here to insert either horizontal or vertical text.</source>
         <extracomment>InsertTextboxHorizontal2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez ici pour insérer un texte horizontal ou vertical.</translation>
     </message>
     <message id="InsertWordArt.title">
         <source>Insert WordArt</source>
         <extracomment>InsertWordArt.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insérer un objet WordArt</translation>
     </message>
     <message id="InsertWordArt.content">
         <source>Add Some artistic flair to your document useing a WordArt text box.</source>
+        <oldsource>Show the WordArt Gallery dialog box to select a WordArt style and edit content.</oldsource>
         <extracomment>InsertWordArt.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter une touche artistique à votre document à l’aide d’une zone de texte WordArt.</translation>
     </message>
     <message id="LeftBorder.title">
         <source>Left Border</source>
         <extracomment>LeftBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bordure gauche</translation>
     </message>
     <message id="LeftBorder.content">
         <source>Apply borders to the currently selected cells.</source>
         <extracomment>LeftBorder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Applique des bordures aux cellules actuellement sélectionnées.</translation>
     </message>
     <message id="Legend.title">
         <source>Legend</source>
         <extracomment>Legend.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Légende</translation>
     </message>
     <message id="Legend.content">
         <source>Show or hide the chart legend.</source>
         <extracomment>Legend.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche ou masque la légende du graphique.</translation>
     </message>
     <message id="Lighting.title">
         <source>Lighting</source>
         <extracomment>Lighting.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Éclairage</translation>
     </message>
     <message id="Lighting.content">
         <source>Set the lighting direction and intensity for the selected 3-D shape. The latter includes bright, normal and dim.</source>
         <extracomment>Lighting.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Règle la direction et l&apos;intensité de l&apos;éclairage de la forme 3D sélectionnée. Vous pouvez choisir entre Clair, Normal et Estompé.</translation>
     </message>
     <message id="LoadMacro.title">
         <source>Add-Ins</source>
         <extracomment>LoadMacro.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Compléments</translation>
     </message>
     <message id="LoadMacro.content">
         <source>Manage the Add-Ins available for use with this file.</source>
         <extracomment>LoadMacro.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Gère les compléments disponibles à utiliser avec ce fichier.</translation>
     </message>
     <message id="LockCell.title">
         <source>Lock Cell</source>
         <extracomment>LockCell.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Verrouiller les cellules</translation>
     </message>
     <message id="LockCell.content">
         <source>If the worksheet is protected, the Lock Cell feature can protect data from being modified.</source>
         <extracomment>LockCell.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Si la feuille de calcul est protégée, la fonction Verrouiller les cellules permet de protéger l&apos;intégrité des données.</translation>
     </message>
     <message id="Logical.title">
         <source>Logical</source>
         <extracomment>Logical.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Logique</translation>
     </message>
     <message id="Logical.content">
         <source>Browse and select from a list of logical functions.</source>
         <extracomment>Logical.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de parcourir la liste des fonctions logiques et de sélectionner celles qui vous intéressent.</translation>
     </message>
     <message id="LookupAndReference.title">
         <source>Lookup &amp; Reference</source>
         <extracomment>LookupAndReference.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Recherche et référence</translation>
     </message>
     <message id="LookupAndReference.content">
         <source>Browse and select from a list of lookup and reference functions.</source>
         <extracomment>LookupAndReference.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de parcourir la liste des fonctions de recherche et de référence, et de sélectionner celles qui vous intéressent.</translation>
     </message>
     <message id="Macros.title">
         <source>View Macros</source>
         <extracomment>Macros.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les macros</translation>
     </message>
     <message id="Macros.content">
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
         <extracomment>Macros.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la liste des macros que vous pouvez exécuter, créer ou supprimer.</translation>
     </message>
     <message id="Margins.title">
         <source>Margins</source>
         <extracomment>Margins.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Marges</translation>
     </message>
     <message id="Margins.content">
         <source>Select the margin sizes for the entire document or the current section.</source>
         <extracomment>Margins.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de sélectionner la taille des marges pour le document entier ou la section active.</translation>
     </message>
     <message id="MathAndTrig.title">
         <source>Math &amp; Trig</source>
         <extracomment>MathAndTrig.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Math Trigo</translation>
     </message>
     <message id="MathAndTrig.content">
         <source>Browse and select from a list of math and trigonometry functions.</source>
         <extracomment>MathAndTrig.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de parcourir la liste des fonctions mathématiques et trigonométriques, et de sélectionner celles qui vous intéressent.</translation>
     </message>
     <message id="Max.title">
         <source>Max</source>
         <extracomment>Max.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Max</translation>
     </message>
     <message id="Max.content">
         <source>Returns the largest value in a set of values.</source>
         <extracomment>Max.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Donne le plus grand nombre d&apos;une liste de valeurs.</translation>
     </message>
     <message id="MergeCenter.title">
         <source>Merge and Center</source>
         <extracomment>MergeCenter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fusionner et centrer</translation>
     </message>
     <message id="MergeCenter.content">
         <source>Joins the selected cells into one larger cell and centers the contents in the new cell.</source>
+        <oldsource>Join the selected cells into one larger cell and centers the contents in the new cell.</oldsource>
         <extracomment>MergeCenter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Joint les cellules sélectionnées dans une cellule plus grande et centre le contenu dans la nouvelle cellule.</translation>
     </message>
     <message id="MergeCenter2.title">
         <source>Merge and Center</source>
         <extracomment>MergeCenter2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fusionner et centrer</translation>
     </message>
     <message id="MergeCenter2.content">
         <source>Joins the selected cells into one larger cell and centers the contents in the new cell.</source>
+        <oldsource>Join the selected cells into one larger cell and centers the contents in the new cell.</oldsource>
         <extracomment>MergeCenter2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Relie les cellules sélectionnées en une cellule plus grande, et place le contenu au centre de la nouvelle cellule. </translation>
     </message>
     <message id="MergeColumns.title">
         <source>Merge Across</source>
         <extracomment>MergeColumns.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fusionner</translation>
     </message>
     <message id="MergeColumns.content">
         <source>Select and merge cells across one or multiple rows.</source>
         <extracomment>MergeColumns.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de sélectionner des cellules et de les fusionner dans une ou plusieurs lignes.</translation>
     </message>
     <message id="MergeSelection.title">
         <source>Merge Cells</source>
         <extracomment>MergeSelection.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fusionner les cellules</translation>
     </message>
     <message id="MergeSelection.content">
         <source>Merge the selected cells into one cell.</source>
         <extracomment>MergeSelection.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fusionne les cellules sélectionnées en une seule cellule.</translation>
     </message>
     <message id="MergeCancel.title">
         <source></source>
         <extracomment>MergeCancel.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="MergeCancel.content">
         <source></source>
         <extracomment>MergeCancel.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="Min.title">
         <source>Min</source>
         <extracomment>Min.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Min</translation>
     </message>
     <message id="Min.content">
         <source>Returns the smallest number in a set of values.</source>
         <extracomment>Min.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Renvoie le nombre le plus petit d&apos;un ensemble de valeurs.</translation>
     </message>
     <message id="ModifyPivotTable.title">
         <source>Modify PivotTable</source>
         <extracomment>ModifyPivotTable.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le tableau croisé dynamique</translation>
     </message>
     <message id="ModifyPivotTable.content">
         <source>Change PivotTable data source and reset its display location.</source>
         <extracomment>ModifyPivotTable.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifie la source de données du tableau croisé dynamique et réinitialise son emplacement d&apos;affichage.</translation>
     </message>
     <message id="Morefunctions.title">
         <source>More Functions</source>
         <extracomment>Morefunctions.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Autres fonctions</translation>
     </message>
     <message id="Morefunctions.content">
         <source>Browse and select from lists of statistical, engineering, cube, and information functions.</source>
         <extracomment>Morefunctions.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de parcourir les listes de fonctions statistiques, d&apos;ingénierie, de cube et d&apos;informations, et de sélectionner celles qui vous intéressent.</translation>
     </message>
     <message id="NameCreate.title">
         <source>Create Names</source>
         <extracomment>NameCreate.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Créer des noms</translation>
     </message>
     <message id="NameCreate.content">
         <source>Automatically generate names from the selected cells.
 
 Many people choose to use the text in the top row or the leftmost column of a selection.</source>
         <extracomment>NameCreate.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Génère automatiquement des noms à partir des cellules sélectionnées.
+
+Le texte contenu dans la ligne supérieure ou la colonne la plus à gauche d&apos;une sélection est le plus souvent utilisé.</translation>
     </message>
     <message id="NameDefine.title">
         <source>Define Name</source>
         <extracomment>NameDefine.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Définir un nom</translation>
     </message>
     <message id="NameDefine.content">
         <source>Name cells so that you can refer to them in formulas by that name.
@@ -1357,12 +1424,16 @@ For example, select the cells A1:A10, and name this cell range &quot;test&quot;.
 
 Names can be used in formulas to make them easier to understand.</source>
         <extracomment>NameDefine.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Attribuez un nom aux cellules pour vous permettre de les référencer dans les formules d&apos;après leur nom.
+
+Par exemple, sélectionnez les cellules de A1 à A10 et nommez cette plage de cellules \&amp;quot;test\&amp;quot;. 
+
+Les noms peuvent être utilisés dans les formules afin de faciliter leur compréhension.</translation>
     </message>
     <message id="NameManager.title">
         <source>Name Manager</source>
         <extracomment>NameManager.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Gestionnaire de noms</translation>
     </message>
     <message id="NameManager.content">
         <source>Create, edit, delete, and find all the names used in the workbook
@@ -1371,368 +1442,380 @@ Names can be used in formulas as substitutes for cell references.
 
 For example: </source>
         <extracomment>NameManager.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Créer, modifier, supprimer et rechercher tous les noms utilisés dans le classeur
+
+Les noms peuvent être utilisés dans les formules à la place des références des cellules</translation>
     </message>
     <message id="NamePaste.title">
         <source>Paste Name</source>
         <extracomment>NamePaste.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Coller un nom</translation>
     </message>
     <message id="NamePaste.content">
         <source>Select a name that is being used in the current workbook and paste it into the current formula.</source>
         <extracomment>NamePaste.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de sélectionner un nom utilisé dans le classeur actif et de le coller dans la formule active.</translation>
     </message>
     <message id="NewWindow.title">
         <source>New Window</source>
         <extracomment>NewWindow.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nouvelle fenêtre</translation>
     </message>
     <message id="NewWindow.content">
         <source>Open a new window containing a view of the current worksheet.</source>
         <extracomment>NewWindow.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ouvre une nouvelle fenêtre contenant une vue de la feuille de calcul active.</translation>
     </message>
     <message id="NoBorder.title">
         <source>No Border</source>
         <extracomment>NoBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aucune bordure</translation>
     </message>
     <message id="NoBorder.content">
         <source>Apply borders to the currently selected cells.</source>
         <extracomment>NoBorder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Applique des bordures aux cellules actuellement sélectionnées.</translation>
     </message>
     <message id="NormalViewEt.title">
         <source>Normal View</source>
         <extracomment>NormalViewEt.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affichage normal</translation>
     </message>
     <message id="NormalViewEt.content">
         <source>View the worksheet in Normal view.</source>
         <extracomment>NormalViewEt.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la feuille de calcul en affichage normal.</translation>
     </message>
     <message id="NumberFormatCells.title">
         <source>Format Cells: Number</source>
         <extracomment>NumberFormatCells.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Format de cellule: Nombre</translation>
     </message>
     <message id="NumberFormatCells.content">
         <source>Show the Number tab of the Format Cells dialog box.</source>
         <extracomment>NumberFormatCells.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche l&apos;onglet Nombre de la boîte de dialogue Format de cellule.</translation>
     </message>
     <message id="ObjectSelect.title">
         <source>Selection Pane</source>
         <extracomment>ObjectSelect.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Volet Sélection</translation>
     </message>
     <message id="ObjectSelect.content">
         <source>Show the Selection Pane task window to easily find a single object or set its order and visibility.</source>
         <extracomment>ObjectSelect.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la fenêtre des tâches Volet Sélection pour trouver facilement un seul objet ou définir son ordre et sa visibilité.</translation>
     </message>
     <message id="OtherBorders.title">
         <source>Other Borders</source>
         <extracomment>OtherBorders.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Autres bordures</translation>
     </message>
     <message id="OtherBorders.content">
         <source>You can use detailed settings to select cell borders.</source>
         <extracomment>OtherBorders.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vous pouvez utiliser des paramètres détaillés pour sélectionner des bordures de cellules.</translation>
     </message>
     <message id="OutlineSettings.title">
         <source>Outline Settings</source>
         <extracomment>OutlineSettings.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres du plan</translation>
     </message>
     <message id="OutlineSettings.content">
         <source>Show the Outline dialog box.</source>
         <extracomment>OutlineSettings.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la boîte de dialogue Plan.</translation>
     </message>
     <message id="OutsideBorders.title">
         <source>Outside Borders</source>
         <extracomment>OutsideBorders.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bordures extérieures</translation>
     </message>
     <message id="OutsideBorders.content">
         <source>Apply borders to the currently selected cells.</source>
         <extracomment>OutsideBorders.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Applique des bordures aux cellules actuellement sélectionnées.</translation>
     </message>
     <message id="PTFieldSettings.title">
         <source>Field Settings</source>
         <extracomment>PTFieldSettings.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres de champ</translation>
     </message>
     <message id="PTFieldSettings.content">
         <source>Show the Field Settings dialog box.</source>
         <extracomment>PTFieldSettings.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la boîte de dialogue Paramètres de champ.</translation>
     </message>
     <message id="PTHide.title">
         <source>Hide</source>
         <extracomment>PTHide.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Masquer</translation>
     </message>
     <message id="PTHide.content">
         <source>Hide the PivotTable fields in page, row, column area or items in the fields.</source>
         <extracomment>PTHide.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Masque les champs de tableau croisé dynamique dans les zones de page, de ligne ou de colonne ou dans les éléments des champs.</translation>
     </message>
     <message id="PTHideDetail.title">
         <source>Hide Detail</source>
         <extracomment>PTHideDetail.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Masquer les détails</translation>
     </message>
     <message id="PTHideDetail.content">
         <source>Hide all items of the active field.</source>
         <extracomment>PTHideDetail.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Masque tous les éléments du champ actif.</translation>
     </message>
     <message id="PTHideFieldList.title">
         <source>Hide Field List</source>
         <extracomment>PTHideFieldList.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Masquer la liste de champs</translation>
     </message>
     <message id="PTHideFieldList.content">
         <source>Show or hide the Field List.
 
 The field list allows you to add and remove fields.</source>
+        <oldsource>Show or hide the field list.
+
+The field list allows you to add and remove fields.</oldsource>
         <extracomment>PTHideFieldList.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche ou masque la liste des champs.
+
+La liste de champs permet d&apos;ajouter et de supprimer des champs.</translation>
     </message>
     <message id="PTRefreshData.title">
         <source>Refresh Data</source>
         <extracomment>PTRefreshData.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Actualiser les données</translation>
     </message>
     <message id="PTRefreshData.content">
         <source>Update the information from the data source in the workbook.</source>
         <extracomment>PTRefreshData.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Met à jour les informations de la source de données dans le classeur.</translation>
     </message>
     <message id="PTShowDetail.title">
         <source>Show Detail</source>
         <extracomment>PTShowDetail.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les détails</translation>
     </message>
     <message id="PTShowDetail.content">
         <source>Show all items of the active field.</source>
         <extracomment>PTShowDetail.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche tous les éléments du champ actif.</translation>
     </message>
     <message id="PTSortAndTopTen.title">
         <source>Sort</source>
         <extracomment>PTSortAndTopTen.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Trier</translation>
     </message>
     <message id="PTSortAndTopTen.content">
         <source>Set the auto sort option of the PivotTable field.</source>
         <extracomment>PTSortAndTopTen.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Règle l&apos;option de tri automatique du champ de tableau croisé dynamique.</translation>
     </message>
     <message id="PTSubtotals.title">
         <source>Subtotals</source>
         <extracomment>PTSubtotals.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sous-totaux</translation>
     </message>
     <message id="PTSubtotals.content">
         <source>Show or hide subtotals.</source>
         <extracomment>PTSubtotals.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche ou masque les sous-totaux.</translation>
     </message>
     <message id="PTTableOptions.title">
         <source>PivotTable Options</source>
         <extracomment>PTTableOptions.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Options du tableau croisé dynamique</translation>
     </message>
     <message id="PTTableOptions.content">
         <source>Show the PivotTable Options dialog box.</source>
         <extracomment>PTTableOptions.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la boîte de dialogue Options du tableau croisé dynamique.</translation>
     </message>
     <message id="PageBreakPreview.title">
         <source>Page Break Preview</source>
         <extracomment>PageBreakPreview.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aperçu des sauts de page</translation>
     </message>
     <message id="PageBreakPreview.content">
         <source>View a preview of where pages will break when this workbook is printed.</source>
         <extracomment>PageBreakPreview.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche un aperçu des sauts de page tels qu&apos;ils apparaîtront sur le classeur imprimé.</translation>
     </message>
     <message id="PageLayoutDetailedSettings.title">
         <source>Page Layout Detailed Settings</source>
+        <oldsource>PageLayoutDetailedSettings Title</oldsource>
         <extracomment>PageLayoutDetailedSettings.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Titre PageLayoutDetailedSettings</translation>
     </message>
     <message id="PageLayoutDetailedSettings.content">
         <source>PageLayoutDetailedSettings Content</source>
         <extracomment>PageLayoutDetailedSettings.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Contenu PageLayoutDetailedSettings</translation>
     </message>
     <message id="PageOrientation.title">
         <source>Page Orientation</source>
         <extracomment>PageOrientation.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Orientation de la page</translation>
     </message>
     <message id="PageOrientation.content">
         <source>Switch the pages between portrait and landscape layouts.</source>
         <extracomment>PageOrientation.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bascule entre les orientations Portrait et Paysage des pages.</translation>
     </message>
     <message id="PageSetup.title">
         <source>Page Setup</source>
         <extracomment>PageSetup.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mise en page</translation>
     </message>
     <message id="PageSetup.content">
         <source>Show the page setup dialog box.</source>
         <extracomment>PageSetup.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la boîte de dialogue Mise en page.</translation>
     </message>
     <message id="PageSize.title">
         <source>Page Size</source>
         <extracomment>PageSize.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Taille de la page</translation>
     </message>
     <message id="PageSize.content">
         <source>Select a paper size for the current section.
 
 To apply a specific paper size to all sections in the document, click to customize paper size.</source>
         <extracomment>PageSize.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de sélectionner un format de papier pour la section active.
+
+Pour appliquer un format de papier spécifique à toutes les sections du document, cliquez ici pour le personnaliser.</translation>
     </message>
     <message id="PageZoom.title">
         <source>Page Zoom</source>
         <extracomment>PageZoom.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zoom de la page</translation>
     </message>
     <message id="PageZoom.content">
         <source>Scale the width or height of the printed output to fit a maximum number of pages, or to a percentage of its actual size.</source>
         <extracomment>PageZoom.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionne la largeur ou la hauteur de la sortie imprimée afin d&apos;inclure un nombre maximal de pages ou à un pourcentage donné de sa taille réelle.</translation>
     </message>
     <message id="PercentStyle.title">
         <source>Percent Style</source>
         <extracomment>PercentStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Style de pourcentage</translation>
     </message>
     <message id="PercentStyle.content">
         <source>Display the value of the cell as a percentage.</source>
         <extracomment>PercentStyle.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la valeur de la cellule sous la forme d&apos;un pourcentage.</translation>
     </message>
     <message id="PivotTable.title">
         <source>Insert PivotTable</source>
         <extracomment>PivotTable.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Insérer un tableau croisé dynamique</translation>
     </message>
     <message id="PivotTable.content">
         <source>Click here to summarize data using a PivotTable.
 
 PivotTable make it easy to arrange and summarize complicated data and drill down on details.</source>
         <extracomment>PivotTable.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez ici pour créer un résumé des données à l&apos;aide d&apos;un tableau croisé dynamique.
+
+Les tableaux croisés dynamiques permettent d&apos;organiser et de résumer des données complexes facilement et d&apos;en effectuer une analyse approfondie.</translation>
     </message>
     <message id="PivotTableDelete.title">
         <source>Delete PivotTable</source>
         <extracomment>PivotTableDelete.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer le tableau croisé dynamique</translation>
     </message>
     <message id="PivotTableDelete.content">
         <source>Delete the currently selected PivotTable.</source>
         <extracomment>PivotTableDelete.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Supprime le tableau croisé dynamique actuellement sélectionné.</translation>
     </message>
     <message id="PivotTableOrder.title">
         <source>Order</source>
         <extracomment>PivotTableOrder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ordre</translation>
     </message>
     <message id="PivotTableOrder.content">
         <source>Move the row or column area of a PivotTable to the top or bottom.</source>
         <extracomment>PivotTableOrder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Déplace la zone de ligne ou de colonne d&apos;un tableau croisé dynamique vers le haut ou le bas.</translation>
     </message>
     <message id="PrevLandscape.title">
         <source>Landscape</source>
         <extracomment>PrevLandscape.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Paysage</translation>
     </message>
     <message id="PrevLandscape.content">
         <source>Set the worksheet pages to landscape.</source>
         <extracomment>PrevLandscape.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Définit les pages de la feuille de calcul en mode paysage.</translation>
     </message>
     <message id="PrevNextPage.title">
         <source>Next Page</source>
         <extracomment>PrevNextPage.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Page suivante</translation>
     </message>
     <message id="PrevNextPage.content">
         <source>Move to the next print page of the current worksheet.</source>
         <extracomment>PrevNextPage.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Passe à la page d&apos;impression suivante de la feuille de calcul active.</translation>
     </message>
     <message id="PrevPortrait.title">
         <source>Portrait</source>
         <extracomment>PrevPortrait.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Portrait</translation>
     </message>
     <message id="PrevPortrait.content">
         <source>Set the worksheet pages to portrait.</source>
         <extracomment>PrevPortrait.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Définit les pages de la feuille de calcul sur Portrait.</translation>
     </message>
     <message id="PrevPreviousPage.title">
         <source>Previous Page</source>
         <extracomment>PrevPreviousPage.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Page précédente</translation>
     </message>
     <message id="PrevPreviousPage.content">
         <source>Move to the previous print page of the current worksheet.</source>
         <extracomment>PrevPreviousPage.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Passe à la page d&apos;impression précédente de la feuille de calcul active.</translation>
     </message>
     <message id="PrintArea.title">
         <source>Print Area</source>
         <extracomment>PrintArea.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zone d&apos;impression</translation>
     </message>
     <message id="PrintArea.content">
         <source>Select a specific area of your document for printing.</source>
         <extracomment>PrintArea.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez une zone spécifique de votre document pour l&apos;impression.</translation>
     </message>
     <message id="PrintDirect.title">
         <source>Print Directly</source>
         <extracomment>PrintDirect.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Imprimer directement</translation>
     </message>
     <message id="PrintDirect.content">
         <source>Send the document directly to the default printer without making changes.</source>
         <extracomment>PrintDirect.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Envoie le document directement à l&apos;imprimante par défaut sans apporter de modifications.</translation>
     </message>
     <message id="PrintGridlines.title">
         <source>Print Gridlines</source>
         <extracomment>PrintGridlines.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Imprimer le quadrillage</translation>
     </message>
     <message id="PrintGridlines.content">
         <source>Print the gridlines between the columns and the rows in the worksheet.</source>
         <extracomment>PrintGridlines.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Imprime le quadrillage entre les colonnes et les lignes de la feuille de calcul.</translation>
     </message>
     <message id="PrintHeadings.title">
         <source>Print Headings</source>
         <extracomment>PrintHeadings.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Imprimer les en-têtes</translation>
     </message>
     <message id="PrintHeadings.content">
         <source>Print row and column headings.
@@ -1741,84 +1824,90 @@ Row headings are the row numbers to the side of the sheet.
 
 Column headings are the letters or numbers that appear above the columns on a sheet.</source>
         <extracomment>PrintHeadings.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Imprime les en-têtes de lignes et de colonnes.
+
+Les en-têtes de lignes correspondent aux numéros de lignes affichés sur le côté de la feuille.
+
+Les en-têtes de colonnes sont caractérisés par des lettres ou des chiffres en haut des colonnes d&apos;une feuille.</translation>
     </message>
     <message id="PrintLayout.title">
         <source>Page Layout</source>
         <extracomment>PrintLayout.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mise en page</translation>
     </message>
     <message id="PrintLayout.content">
         <source>View the workbook as it will appear on the printed page.</source>
         <extracomment>PrintLayout.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche le classeur tel qu&apos;il apparaît sur la page imprimée.</translation>
     </message>
     <message id="PrintNormalView.title">
         <source>Normal View</source>
         <extracomment>PrintNormalView.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affichage normal</translation>
     </message>
     <message id="PrintNormalView.content">
         <source>Exit print preview and then enter the normal view.</source>
         <extracomment>PrintNormalView.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Quitte l&apos;aperçu avant impression, puis passe à l&apos;affichage normal.</translation>
     </message>
     <message id="PrintPreview.title">
         <source>Print Preview</source>
         <extracomment>PrintPreview.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aperçu avant impression</translation>
     </message>
     <message id="PrintPreview.content">
         <source>Preview and make changes to pages before printing.</source>
         <extracomment>PrintPreview.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche un aperçu et modifie les pages avant l&apos;impression.</translation>
     </message>
     <message id="PrintPreviewMargins.title">
         <source>Margins</source>
         <extracomment>PrintPreviewMargins.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Marges</translation>
     </message>
     <message id="PrintPreviewMargins.content">
         <source>Specify the distance between the content of the worksheet and the edge of the printed page.</source>
         <extracomment>PrintPreviewMargins.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Spécifie la distance entre le contenu de la feuille de calcul et le bord de la page imprimée.</translation>
     </message>
     <message id="PrintPreviewZoomCombo.title">
         <source>Zoom</source>
         <extracomment>PrintPreviewZoomCombo.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message id="PrintPreviewZoomCombo.content">
         <source>Select the zoom size of the current worksheet.</source>
         <extracomment>PrintPreviewZoomCombo.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de sélectionner la taille de zoom de la feuille de calcul active.</translation>
     </message>
     <message id="PrintTitle.title">
         <source>Print Titles</source>
         <extracomment>PrintTitle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Titres à imprimer</translation>
     </message>
     <message id="PrintTitle.content">
         <source>Specify rows and columns to repeat on each printed page.</source>
         <extracomment>PrintTitle.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Spécifie les lignes et les colonnes à reproduire sur chaque page imprimée.</translation>
     </message>
     <message id="ProtectAndShare.title">
         <source>Protect and Share Workbook</source>
         <extracomment>ProtectAndShare.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Protéger et partager le classeur</translation>
     </message>
     <message id="ProtectAndShare.content">
         <source>Share the workbook and protect it with a password at the same time.
 
 The password will prevent others from turning off change tracking.</source>
         <extracomment>ProtectAndShare.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Partage le classeur tout en protégeant son accès par un mot de passe.
+
+Le mot de passe empêche qu&apos;un utilisateur désactive la fonctionnalité de suivi des modifications.</translation>
     </message>
     <message id="ProtectSheet.title">
         <source>Protect Sheet</source>
         <extracomment>ProtectSheet.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Protéger la feuille</translation>
     </message>
     <message id="ProtectSheet.content">
         <source>Prevent unwanted changes to the data in a sheet by specifying what information can be changed.
@@ -1827,203 +1916,214 @@ For example, you can prevent people from editing locked cells or changing the fo
 
 You can specify a password that can be entered to unprotect the sheet and allow these changes.</source>
         <extracomment>ProtectSheet.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Empêche que des modifications indésirables soient apportées aux données d&apos;une feuille en spécifiant les informations qui peuvent être modifiées.
+
+Par exemple, vous pouvez empêcher que certains utilisateurs modifient les cellules verrouillées ou la mise en forme du document.
+
+Vous pouvez spécifier un mot de passe pour désactiver la protection de la feuille et autoriser ces modifications.</translation>
     </message>
     <message id="RB_Clipboard.title">
         <source>Clipboard</source>
         <extracomment>RB_Clipboard.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Presse-papiers</translation>
     </message>
     <message id="RB_Clipboard.content">
         <source>Check for the items that are copied to the Clipboard.</source>
         <extracomment>RB_Clipboard.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vérifiez les éléments copiés dans le Presse-papiers.</translation>
     </message>
     <message id="ReadingLayout.title">
         <source>Reading Layout</source>
         <extracomment>ReadingLayout.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mode Lecture</translation>
     </message>
     <message id="ReadingLayout.content">
         <source>Convenient to check related data which are in the same row or column with the current cell.
 
 Click the arrow to pick a different color.</source>
         <extracomment>ReadingLayout.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de vérifier les données connexes qui sont dans la même ligne ou colonne de la cellule active.
+
+Cliquez sur la flèche pour sélectionner une autre couleur.</translation>
     </message>
     <message id="ReadingLayout2.title">
         <source>Reading Layout</source>
         <extracomment>ReadingLayout2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mode Lecture</translation>
     </message>
     <message id="ReadingLayout2.content">
         <source>Click the arrow to pick a different color.</source>
         <extracomment>ReadingLayout2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur la flèche pour sélectionner une autre couleur.</translation>
     </message>
     <message id="ReapplyFilter.title">
         <source>Reapply</source>
         <extracomment>ReapplyFilter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Réappliquer</translation>
     </message>
     <message id="ReapplyFilter.content">
         <source>Reapply the filter and sort in the current range.
 
 New or modified data in the column will not be filtered or sorted until you click Reapply.</source>
         <extracomment>ReapplyFilter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Réapplique le filtre et trie sur la plage active.
+
+Les données nouvelles ou modifiées de la colonne ne seront pas filtrées ou triées tant que vous ne cliquez pas sur Réappliquer.</translation>
     </message>
     <message id="RecalculateBook.title">
         <source>Recalculate Workbook</source>
         <extracomment>RecalculateBook.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Recalculer le classeur</translation>
     </message>
     <message id="RecalculateBook.content">
         <source>Calculate the entire workbook now.
 
 This is only necessary if automatic calculation has been turned off.</source>
         <extracomment>RecalculateBook.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Calcule le classeur entier maintenant.
+
+Cette opération n&apos;est nécessaire que si le calcul automatique a été désactivé.</translation>
     </message>
     <message id="RecentLineWrap.title">
         <source>Wrap Text</source>
         <extracomment>RecentLineWrap.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Renvoyer à la ligne automatiquement</translation>
     </message>
     <message id="RecentLineWrap.content">
         <source>Make all content visible within a cell by displaying it on multiple lines.</source>
         <extracomment>RecentLineWrap.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rend tout le contenu d&apos;une cellule visible dans une cellule, en l&apos;affichant sur plusieurs lignes.</translation>
     </message>
     <message id="RecenttlyUsed.title">
         <source>Recently Used</source>
         <extracomment>RecenttlyUsed.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Utilisées récemment</translation>
     </message>
     <message id="RecenttlyUsed.content">
         <source>Browse and select from a list of recently used functions.</source>
         <extracomment>RecenttlyUsed.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de parcourir la liste des fonctions exécutées récemment et de sélectionner celles qui vous intéressent.</translation>
     </message>
     <message id="RecordList.title">
         <source>Form</source>
         <extracomment>RecordList.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Formulaire</translation>
     </message>
     <message id="RecordList.content">
         <source>After selecting the title of the column, you can input, search, or delete data via the data form.</source>
         <extracomment>RecordList.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Après avoir sélectionné le titre de la colonne, vous pouvez entrer, rechercher ou supprimer des données via le formulaire de données.</translation>
     </message>
     <message id="RecordMacro.title">
         <source>Record Macro</source>
         <extracomment>RecordMacro.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer une macro</translation>
     </message>
     <message id="RecordMacro.content">
         <source>Show Record Macro dialog box and start recording macro.</source>
         <extracomment>RecordMacro.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la boîte de dialogue Enregistrer une macro et démarre l&apos;enregistrement de la macro.</translation>
     </message>
     <message id="Refresh.title">
         <source>Refresh Data</source>
         <extracomment>Refresh.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Actualiser les données</translation>
     </message>
     <message id="Refresh.content">
         <source>Update all the information in the workbook that is coming from a data source.</source>
         <extracomment>Refresh.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Met à jour toutes les informations du classeur qui proviennent d&apos;une source de données.</translation>
     </message>
     <message id="RefreshAll.title">
         <source>Refresh All</source>
         <extracomment>RefreshAll.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Actualiser tout</translation>
     </message>
     <message id="RefreshAll.content">
         <source>Update all the information in the workbook that is coming from a data source.</source>
         <extracomment>RefreshAll.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Met à jour toutes les informations du classeur qui proviennent d&apos;une source de données.</translation>
     </message>
     <message id="RelativeReference.title">
         <source>Use Relative References</source>
         <extracomment>RelativeReference.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser des références relatives</translation>
     </message>
     <message id="RelativeReference.content">
         <source>Use relative references so that macros are recorded with actions relative to the initial selected cell.</source>
         <extracomment>RelativeReference.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Utilise des références relatives pour enregistrer une macro avec des actions relatives à la cellule initiale sélectionnée.</translation>
     </message>
     <message id="ResetPicture.title">
         <source>Reset Picture</source>
         <extracomment>ResetPicture.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rétablir l&apos;image</translation>
     </message>
     <message id="ResetPicture.content">
         <source>Discard all of the formatting changes you have made to this picture.</source>
         <extracomment>ResetPicture.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ignore toutes les modifications de mise en forme effectuées sur cette image.</translation>
     </message>
     <message id="RightBorder.title">
         <source>Right Border</source>
         <extracomment>RightBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bordure droite</translation>
     </message>
     <message id="RightBorder.content">
         <source>Apply borders to the currently selected cells.</source>
         <extracomment>RightBorder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Applique des bordures aux cellules actuellement sélectionnées.</translation>
     </message>
     <message id="RotateRight.title">
         <source>Rotate</source>
         <extracomment>RotateRight.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Faire pivoter</translation>
     </message>
     <message id="RotateRight.content">
         <source>Rotate or flip the selected object.</source>
         <extracomment>RotateRight.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fait pivoter ou retourne l&apos;objet sélectionné.</translation>
     </message>
     <message id="RowsAndColumn.title">
         <source>Rows and Columns</source>
         <extracomment>RowsAndColumn.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lignes et colonnes</translation>
     </message>
     <message id="RowsAndColumn.content">
         <source>Click here to adjust the rows and columns. You can adjust the height and width, change fill or hide the rows and columns.</source>
+        <oldsource>Click here to operate the rows and columns. You can adjust the height and width, Fill or Hide Rows and Columns.</oldsource>
         <extracomment>RowsAndColumn.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez ici pour utiliser les lignes et les colonnes. Vous pouvez ajuster la hauteur et la largeur des lignes et des colonnes, les remplir ou les masquer.</translation>
     </message>
     <message id="RunMacro.title">
         <source>View Macros</source>
         <extracomment>RunMacro.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les macros</translation>
     </message>
     <message id="RunMacro.content">
         <source>Show Macros dialog box. View the list of macros, from which you can run, create, or delete a macro.</source>
         <extracomment>RunMacro.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la boîte de dialogue Macros. Affiche la liste des macros que vous pouvez exécuter, créer ou supprimer.</translation>
     </message>
     <message id="RunMacro2.title">
         <source>View Macros</source>
         <extracomment>RunMacro2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les macros</translation>
     </message>
     <message id="RunMacro2.content">
         <source>Show Macros dialog box. View the list of macros, from which you can run, create, or delete a macro.</source>
         <extracomment>RunMacro2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la boîte de dialogue Macros. Affiche la liste des macros que vous pouvez exécuter, créer ou supprimer.</translation>
     </message>
     <message id="SameLetterHeights.title">
         <source>WordArt Same Letter Heights</source>
         <extracomment>SameLetterHeights.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hauteur identique</translation>
     </message>
     <message id="SameLetterHeights.content">
         <source>Make all the letters of the selected WordArt exactly the same height.</source>
         <extracomment>SameLetterHeights.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Définit la même hauteur pour toutes les lettres de l&apos;objet WordArt sélectionné.</translation>
     </message>
     <message id="Scientific.title">
         <source>Scientific Style</source>
@@ -2038,91 +2138,95 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="Security.title">
         <source>Macro Security</source>
         <extracomment>Security.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sécurité des macros</translation>
     </message>
     <message id="Security.content">
         <source>Customize the macro security settings.</source>
         <extracomment>Security.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Personnalise les paramètres de sécurité des macros.</translation>
     </message>
     <message id="SeriesInColumns.title">
         <source>Switch Column</source>
         <extracomment>SeriesInColumns.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Changer de colonne</translation>
     </message>
     <message id="SeriesInColumns.content">
         <source>Chart series are created in columns.</source>
         <extracomment>SeriesInColumns.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>La série de graphique est créée dans les colonnes.</translation>
     </message>
     <message id="SeriesInRows.title">
         <source>Switch Row</source>
         <extracomment>SeriesInRows.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Changer de ligne</translation>
     </message>
     <message id="SeriesInRows.content">
         <source>Chart series are created in rows.</source>
         <extracomment>SeriesInRows.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>La série de graphique est créée dans les lignes.</translation>
     </message>
     <message id="ShapeFillColor.title">
         <source>Shape Fill</source>
         <extracomment>ShapeFillColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Remplissage de la forme</translation>
     </message>
     <message id="ShapeFillColor.content">
         <source>Fill the selected shape with a solid color, gradient, picture, or texture.
 
 Click the arrow to select different fill effects.</source>
         <extracomment>ShapeFillColor.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Remplit la forme sélectionnée avec une couleur unie, un dégradé, une image ou une texture.
+
+Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</translation>
     </message>
     <message id="ShapeFillColor2.title">
         <source>Shape Fill</source>
         <extracomment>ShapeFillColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Remplissage de la forme</translation>
     </message>
     <message id="ShapeFillColor2.content">
         <source>Click the arrow to select different fill effects.</source>
         <extracomment>ShapeFillColor2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</translation>
     </message>
     <message id="ShapeLineColor.title">
         <source>Shape Outline</source>
         <extracomment>ShapeLineColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Contour de la forme</translation>
     </message>
     <message id="ShapeLineColor.content">
         <source>Set the color, width, and line style for the outline of the selected object.
 
 Click the arrow to select detailed settings for the outline.</source>
         <extracomment>ShapeLineColor.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Définit la couleur, la largeur et le style de ligne du plan de l&apos;objet sélectionné.
+
+Cliquez sur la flèche pour sélectionner les paramètres détaillés du plan.</translation>
     </message>
     <message id="ShapeLineColor2.title">
         <source>Shape Outline</source>
         <extracomment>ShapeLineColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Contour de la forme</translation>
     </message>
     <message id="ShapeLineColor2.content">
         <source>Click the arrow to select detailed settings for the outline.</source>
         <extracomment>ShapeLineColor2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur la flèche pour sélectionner les paramètres détaillés du plan.</translation>
     </message>
     <message id="ShapeSize.title">
         <source>Shape Size</source>
         <extracomment>ShapeSize.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Taille de la forme</translation>
     </message>
     <message id="ShapeSize.content">
         <source>Set the size, rotation degrees and zoom for the selected shape.</source>
         <extracomment>ShapeSize.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Définit la taille, les degrés de rotation et le zoom de la forme sélectionnée.</translation>
     </message>
     <message id="ShareWorkbook.title">
         <source>Share Workbook</source>
         <extracomment>ShareWorkbook.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Options de partage du fichier</translation>
     </message>
     <message id="ShareWorkbook.content">
         <source>Allow multiple people to work in a workbook at the same time.
@@ -2131,158 +2235,171 @@ The workbook should be saved to a network location where multiple people can ope
 
 Workbooks containing tables cannot be shared.</source>
         <extracomment>ShareWorkbook.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet à plusieurs personnes de travailler en même temps sur un classeur.
+
+Le classeur doit être enregistré sur un emplacement du réseau où plusieurs personnes peuvent l&apos;ouvrir.
+
+Les classeurs contenant des tableaux ne peuvent pas être partagés.</translation>
     </message>
     <message id="ShowDetail.title">
         <source>Show Detail</source>
         <extracomment>ShowDetail.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les détails</translation>
     </message>
     <message id="ShowDetail.content">
         <source>Show all items of the active field.</source>
         <extracomment>ShowDetail.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche tous les éléments du champ actif.</translation>
     </message>
     <message id="ShrinkFont.title">
         <source>Decrease Font Size</source>
         <extracomment>ShrinkFont.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Réduire la taille de la police</translation>
     </message>
     <message id="ShrinkFont.content">
         <source>Decrease the font size.</source>
         <extracomment>ShrinkFont.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Réduit la taille de la police.</translation>
     </message>
     <message id="SortAndFilter.title">
         <source>Sort</source>
         <extracomment>SortAndFilter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Trier</translation>
     </message>
     <message id="SortAndFilter.content">
         <source>Arrange data so that it is easier to analyze.
 
 You can sort the selected data in ascending or descending order.</source>
         <extracomment>SortAndFilter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dispose les données afin de faciliter leur analyse.
+
+Vous pouvez trier les données sélectionnées par ordre croissant ou décroissant.</translation>
     </message>
     <message id="SortAscending.title">
         <source>Ascending</source>
         <extracomment>SortAscending.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Croissant</translation>
     </message>
     <message id="SortAscending.content">
         <source>Sort the selection so that the lowest values are at the top of the column.</source>
         <extracomment>SortAscending.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Trie la sélection de sorte que les valeurs les plus faibles se trouvent en tête de colonne.</translation>
     </message>
     <message id="SortDescending.title">
         <source>Descending</source>
         <extracomment>SortDescending.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Décroissant</translation>
     </message>
     <message id="SortDescending.content">
         <source>Sort the selection so that the highest values are at the top of the column.</source>
         <extracomment>SortDescending.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Trie la sélection de sorte que les valeurs les plus élevées se trouvent en tête de colonne.</translation>
     </message>
     <message id="SourceData.title">
         <source>Select Data</source>
         <extracomment>SourceData.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner les données</translation>
     </message>
     <message id="SourceData.content">
         <source>Change the data range included in the chart.</source>
         <extracomment>SourceData.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifie la plage de données incluse dans le graphique.</translation>
     </message>
     <message id="SpellCheck.title">
         <source>Spell Check</source>
         <extracomment>SpellCheck.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vérifier l&apos;orthographe</translation>
     </message>
     <message id="SpellCheck.content">
         <source>Check the spelling of the text in the current worksheet.</source>
         <extracomment>SpellCheck.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vérifie l&apos;orthographe du texte dans la feuille de calcul active.</translation>
     </message>
     <message id="SplitPanes.title">
         <source>Split/Unsplit</source>
         <extracomment>SplitPanes.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fractionner/Annuler le fractionnement</translation>
     </message>
     <message id="SplitPanes.content">
         <source>Split the window into multiple resizable panes containing views of your worksheet.
 
 You can use this feature to view multiple distant parts of your worksheet at once.</source>
+        <oldsource>Split the window into multiple resizable panes containing views of your worksheet.
+
+You can use this feature to view multiple distant panes of your worksheet at once.</oldsource>
         <extracomment>SplitPanes.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Divise la fenêtre en plusieurs volets redimensionnables contenant les vues de votre feuille de calcul.
+
+Cette fonctionnalité vous permet d&apos;afficher simultanément différentes parties éloignées de votre feuille de calcul.</translation>
     </message>
     <message id="StopAutoVersion.title">
         <source>Stop Auto Backup</source>
         <extracomment>StopAutoVersion.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Arrêter la sauvegarde automatique</translation>
     </message>
     <message id="StopAutoVersion.content">
         <source>Stop the current workbook from auto saving.</source>
         <extracomment>StopAutoVersion.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Arrête la sauvegarde automatique du classeur actif.</translation>
     </message>
     <message id="StopRecordMacro.title">
         <source>Stop Recording</source>
         <extracomment>StopRecordMacro.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Arrêter l&apos;enregistrement</translation>
     </message>
     <message id="StopRecordMacro.content">
         <source>Stop recording the macro.</source>
         <extracomment>StopRecordMacro.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Arrête l&apos;enregistrement de la macro.</translation>
     </message>
     <message id="Subtotals.title">
         <source>Subtotal</source>
         <extracomment>Subtotals.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sous-total</translation>
     </message>
     <message id="Subtotals.content">
         <source>Total several rows of related data together by automatically inserting subtotals and totals for the selected cells.</source>
         <extracomment>Subtotals.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Calcule le total de plusieurs lignes de données associées en insérant automatiquement les sous-totaux et les totaux des cellules sélectionnées.</translation>
     </message>
     <message id="TaskWindow.title">
         <source>Task Window</source>
         <extracomment>TaskWindow.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fenêtre des tâches</translation>
     </message>
     <message id="TaskWindow.content">
         <source>Show or hide the task window in the worksheet.</source>
         <extracomment>TaskWindow.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche ou masque la fenêtre des tâches dans la feuille de calcul.</translation>
     </message>
     <message id="TextFill.title">
         <source>Text Color</source>
         <extracomment>TextFill.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Couleur du texte</translation>
     </message>
     <message id="TextFill.content">
         <source>Change the text color.
 
 Click the arrow to select a different text color.</source>
         <extracomment>TextFill.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifie la couleur du texte.
+
+Cliquez sur la flèche pour sélectionner une autre couleur de texte.</translation>
     </message>
     <message id="TextFill2.title">
         <source>Text Color</source>
         <extracomment>TextFill2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Couleur du texte</translation>
     </message>
     <message id="TextFill2.content">
         <source>Click the arrow to select a different text color.</source>
         <extracomment>TextFill2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur la flèche pour sélectionner une autre couleur de texte.</translation>
     </message>
     <message id="TextOrientation.title">
         <source>Orientation</source>
         <extracomment>TextOrientation.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Orientation</translation>
     </message>
     <message id="TextOrientation.content">
         <source>Rotate text to a diagonal angle or vertical orientation.
@@ -2291,32 +2408,36 @@ This is often used for labeling narrow columns.
 
 Click the currently selected text orientation again to reset the text back to normal orientation.</source>
         <extracomment>TextOrientation.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fait pivoter le texte selon un angle diagonal ou une orientation verticale.
+
+Cette option est souvent utilisée pour insérer des étiquettes dans des colonnes étroites.
+
+Cliquez à nouveau sur l&apos;orientation du texte sélectionné pour rétablir l&apos;orientation normale du texte.</translation>
     </message>
     <message id="TextSpeech.title">
         <source>Read Text</source>
         <extracomment>TextSpeech.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lire le texte</translation>
     </message>
     <message id="TextSpeech.content">
         <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
         <extracomment>TextSpeech.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Convertissez le texte en données vocales. Profitez d&apos;une version d&apos;évaluation de 2 jours offrant cette fonction.</translation>
     </message>
     <message id="TextSpeech2.title">
         <source>Reading</source>
         <extracomment>TextSpeech2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lecture</translation>
     </message>
     <message id="TextSpeech2.content">
         <source>Click here to stop reading.</source>
         <extracomment>TextSpeech2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez ici pour arrêter la lecture.</translation>
     </message>
     <message id="TextToColumns.title">
         <source>Text to Columns</source>
         <extracomment>TextToColumns.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Texte en colonnes</translation>
     </message>
     <message id="TextToColumns.content">
         <source>Separate the contents of one Spreadsheets cell into separate columns.
@@ -2325,142 +2446,146 @@ For example, you can separate a column of full names into separate first and las
 
 In Writer, use this feature to convert the selected text into a table, splitting the text into columns at each comma, period, or other character you specify.</source>
         <extracomment>TextToColumns.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sépare le contenu d&apos;une cellule Feuilles de calcul dans des colonnes distinctes.
+
+Par exemple, vous pouvez diviser une colonne de noms complets en deux colonnes distinctes (prénoms et noms).
+
+Dans Writer, utilisez cette fonctionnalité pour convertir le texte sélectionné en tableau et fractionner le texte en colonnes au niveau de chaque virgule, point ou autre caractère que vous spécifiez.</translation>
     </message>
     <message id="ThickBottomBorder.title">
         <source>Thick Bottom Border</source>
         <extracomment>ThickBottomBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bordure épaisse en bas</translation>
     </message>
     <message id="ThickBottomBorder.content">
         <source>Apply borders to the currently selected cells.</source>
         <extracomment>ThickBottomBorder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Applique des bordures aux cellules actuellement sélectionnées.</translation>
     </message>
     <message id="ThickBoxBorder.title">
         <source>Thick Box Border</source>
         <extracomment>ThickBoxBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bordure épaisse en encadré</translation>
     </message>
     <message id="ThickBoxBorder.content">
         <source>Apply borders to the currently selected cells.</source>
         <extracomment>ThickBoxBorder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Applique des bordures aux cellules actuellement sélectionnées.</translation>
     </message>
     <message id="TopAndBottomBorder.title">
         <source>Top and Bottom Border</source>
         <extracomment>TopAndBottomBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bordure en haut et en bas</translation>
     </message>
     <message id="TopAndBottomBorder.content">
         <source>Apply borders to the currently selected cells.</source>
         <extracomment>TopAndBottomBorder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Applique des bordures aux cellules actuellement sélectionnées.</translation>
     </message>
     <message id="TopAndDloubleBottomBorder.title">
         <source>Top and Double Bottom Border</source>
         <extracomment>TopAndDloubleBottomBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bordure simple en haut et double en bas</translation>
     </message>
     <message id="TopAndDloubleBottomBorder.content">
         <source>Apply borders to the currently selected cells.</source>
         <extracomment>TopAndDloubleBottomBorder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Applique des bordures aux cellules actuellement sélectionnées.</translation>
     </message>
     <message id="TopAndThickBottomBorder.title">
         <source>Thick Top and Bottom Border</source>
         <extracomment>TopAndThickBottomBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bordure épaisse en haut et en bas</translation>
     </message>
     <message id="TopAndThickBottomBorder.content">
         <source>Apply borders to the currently selected cells.</source>
         <extracomment>TopAndThickBottomBorder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Applique des bordures aux cellules actuellement sélectionnées.</translation>
     </message>
     <message id="TopBorder.title">
         <source>Top Border</source>
         <extracomment>TopBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bordure supérieure</translation>
     </message>
     <message id="TopBorder.content">
         <source>Apply borders to the currently selected cells.</source>
         <extracomment>TopBorder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Applique des bordures aux cellules actuellement sélectionnées.</translation>
     </message>
     <message id="TrackChanges.title">
         <source>Track Changes</source>
         <extracomment>TrackChanges.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Suivi des modifications</translation>
     </message>
     <message id="TrackChanges.content">
         <source>Track all changes made to the workbook, including insertions, deletions, and formatting changes.</source>
         <extracomment>TrackChanges.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Suit toutes les modifications apportées au classeur, y compris les insertions, les suppressions et les modifications de mise en forme.</translation>
     </message>
     <message id="TranslateToSimplifiedChinese.title">
         <source>Traditional Chinese to Simplified Chinese</source>
         <extracomment>TranslateToSimplifiedChinese.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Chinois traditionnel en chinois simplifié</translation>
     </message>
     <message id="TranslateToSimplifiedChinese.content">
         <source>Translate Traditional Chinese into Simplified Chinese.</source>
         <extracomment>TranslateToSimplifiedChinese.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Traduit du chinois traditionnel au chinois simplifié.</translation>
     </message>
     <message id="TranslateToTraditionalChinese.title">
         <source>Simplified Chinese to Traditional Chinese</source>
         <extracomment>TranslateToTraditionalChinese.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Chinois simplifié en chinois traditionnel</translation>
     </message>
     <message id="TranslateToTraditionalChinese.content">
         <source>Translate Simplified Chinese into Traditional Chinese.</source>
         <extracomment>TranslateToTraditionalChinese.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Traduit du chinois simplifié au chinois traditionnel.</translation>
     </message>
     <message id="Underline.title">
         <source>Underline</source>
         <extracomment>Underline.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Soulignement</translation>
     </message>
     <message id="Underline.content">
         <source>Underline the selected text.</source>
         <extracomment>Underline.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Souligne le texte sélectionné.</translation>
     </message>
     <message id="VAlignBottom.title">
         <source>Bottom Align</source>
         <extracomment>VAlignBottom.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aligner en bas</translation>
     </message>
     <message id="VAlignBottom.content">
         <source>Align text to the bottom of the cell.</source>
         <extracomment>VAlignBottom.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aligne le texte en bas de la cellule.</translation>
     </message>
     <message id="VAlignCenter.title">
         <source>Middle Align</source>
         <extracomment>VAlignCenter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aligner au centre</translation>
     </message>
     <message id="VAlignCenter.content">
         <source>Align text so that it is centered between the top and bottom of the cell.</source>
         <extracomment>VAlignCenter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aligne le texte afin qu&apos;il soit centré entre le haut et le bas de la cellule.</translation>
     </message>
     <message id="VAlignTop.title">
         <source>Top Align</source>
         <extracomment>VAlignTop.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aligner en haut</translation>
     </message>
     <message id="VAlignTop.content">
         <source>Align text to the top of the cell.</source>
         <extracomment>VAlignTop.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aligne le texte en haut de la cellule.</translation>
     </message>
     <message id="Validation.title">
         <source>Data Validation</source>
         <extracomment>Validation.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Validation des Données</translation>
     </message>
     <message id="Validation.content">
         <source>Prevent invalid data from being entered into a cell
@@ -2469,164 +2594,176 @@ For example, you could reject invalid data or numbers greater than 1000.
 
 You can also force input to be chosen from a dropdown list of values you specify.</source>
         <extracomment>Validation.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Empêche la saisie de données non valides dans une cellule.
+
+Par exemple, vous pouvez rejeter une date incorrecte ou un nombre supérieur à 1000.
+
+Vous pouvez également ordonner que la saisie s&apos;effectue à partir d&apos;une liste déroulante de valeurs que vous spécifiez.</translation>
     </message>
     <message id="VerticalText.title">
         <source>WordArt Vertical Text</source>
         <extracomment>VerticalText.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Texte vertical WordArt</translation>
     </message>
     <message id="VerticalText.content">
         <source>Draw the text vertically, with the letters stacked on top of each other.</source>
         <extracomment>VerticalText.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dessine le texte verticalement, avec les lettres empilées les unes sur les autres.</translation>
     </message>
     <message id="What-If%20Analysis.title">
         <source>What-If Analysis</source>
         <extracomment>What-If%20Analysis.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Analyse de scénarios</translation>
     </message>
     <message id="What-If%20Analysis.content">
         <source>Goal Seek will find the right input when you know the result you want.
 What-If Analysis tool that finds the optimal value of a target cell by changing values in cells used to calculate the target cell.</source>
         <extracomment>What-If%20Analysis.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>La fonctionnalité Valeur cible permet de trouver l&apos;entrée exacte lorsque vous connaissez précisément le résultat recherché.
+Outil d’analyse de scénarios qui trouve la valeur optimale d’une cellule cible en modifiant les valeurs des cellules utilisées pour calculer celle-ci.</translation>
     </message>
     <message id="WindowReset.title">
         <source>Arrange All</source>
         <extracomment>WindowReset.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Réorganiser tout</translation>
     </message>
     <message id="WindowReset.content">
         <source>Tile all open worksheets to view side-by-side.</source>
         <extracomment>WindowReset.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Imprime en mosaïque toutes les feuilles de calcul ouvertes côte à côte dans la même fenêtre du programme.</translation>
     </message>
     <message id="WorkSheet.title">
         <source>Worksheet</source>
         <extracomment>WorkSheet.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Feuille de calcul</translation>
     </message>
     <message id="WorkSheet.content">
         <source>Click here to modify the worksheet. You can insert or delete the worksheet, rename the worksheet, or change the color of the worksheet tab.</source>
+        <oldsource>Click here to modify the worksheet. You can Insert or Delete the worksheet, Rename the worksheet, or change the color of the worksheet tab.</oldsource>
         <extracomment>WorkSheet.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez ici pour modifier la feuille de calcul. Vous pouvez insérer ou supprimer la feuille de calcul, la renommer ou modifier la couleur de l&apos;onglet Feuille de calcul.</translation>
     </message>
     <message id="WorkSpace_Backup.title">
         <source>File Backup</source>
+        <oldsource>WorkSpace Backup</oldsource>
         <extracomment>WorkSpace_Backup.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarde de l&apos;espace de travail</translation>
     </message>
     <message id="WorkSpace_Backup.content">
         <source>Set automatic or manual backup for the current document. The backup will be saved to your File Safe.</source>
+        <oldsource>WorkSpace_Backup Content</oldsource>
         <extracomment>WorkSpace_Backup.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Paramètre de sauvegarde automatique ou manuel dans le document actif. La sauvegarde sera enregistrée dans le fichier de configuration.</translation>
     </message>
     <message id="Zoom.title">
         <source>Zoom</source>
         <extracomment>Zoom.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message id="Zoom.content">
         <source>Show the Zoom dialog box to specify the zoom level of the document.</source>
         <extracomment>Zoom.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la boîte de dialogue Zoom pour spécifier le pourcentage d&apos;agrandissement du document.</translation>
     </message>
     <message id="m_Format.title">
         <source>Format</source>
         <extracomment>m_Format.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Format</translation>
     </message>
     <message id="m_Format.content">
         <source>Change the format of the selected cells, convert text to number or hyperlink.</source>
+        <oldsource>To change the format of the selected cells, convert text to Number or Hyperlink.</oldsource>
         <extracomment>m_Format.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Permet de modifier le format des cellules sélectionnées et de convertir le texte en nombre ou en lien hypertexte.</translation>
     </message>
     <message id="sp_ConditionHighlight.title">
         <source></source>
         <extracomment>sp_ConditionHighlight.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sp_ConditionHighlight.content">
         <source></source>
         <extracomment>sp_ConditionHighlight.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sp_AutoSum.title">
         <source>AutoSum</source>
         <extracomment>sp_AutoSum.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Somme automatique</translation>
     </message>
     <message id="sp_AutoSum.content">
         <source>Display the sum of the selected cells directly after the selected cells.</source>
         <extracomment>sp_AutoSum.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la somme des cellules sélectionnées juste après celles-ci.</translation>
     </message>
     <message id="sp_AutoSum2.title">
         <source>AutoSum</source>
         <extracomment>sp_AutoSum2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Somme automatique</translation>
     </message>
     <message id="sp_AutoSum2.content">
         <source>Click here to display the result of a simple calculation, such as Average or Maximum value, after the selected cells.</source>
         <extracomment>sp_AutoSum2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez ici pour afficher le résultat d&apos;une opération simple (valeur moyenne ou maximale, par exemple) après les cellules sélectionnées.</translation>
     </message>
     <message id="sp_Paste.title">
         <source>Paste</source>
         <extracomment>sp_Paste.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Coller</translation>
     </message>
     <message id="sp_Paste.content">
         <source>Paste the contents of the Clipboard.</source>
         <extracomment>sp_Paste.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Colle le contenu du Presse-papiers.</translation>
     </message>
     <message id="sp_Paste2.title">
         <source>Paste</source>
         <extracomment>sp_Paste2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Coller</translation>
     </message>
     <message id="sp_Paste2.content">
         <source>Click here for more options such as pasting only the values.</source>
         <extracomment>sp_Paste2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez ici pour accéder à d&apos;autres options, telles que le collage des valeurs seules.</translation>
     </message>
     <message id="FormulaErrorCheck.title">
         <source>Error Checking</source>
         <extracomment>FormulaErrorCheck.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vérification des erreurs</translation>
     </message>
     <message id="FormulaErrorCheck.content">
         <source>Check for common errors that occur when using formulas.</source>
         <extracomment>FormulaErrorCheck.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Recherche les erreurs usuelles qui se produisent lors de l&apos;utilisation de formules.</translation>
     </message>
     <message id="What-If Analysis.title">
         <source>What-If Analysis</source>
+        <oldsource>What-If Analysis Title</oldsource>
         <extracomment>What-If Analysis.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Analyse de scénarios</translation>
     </message>
     <message id="What-If Analysis.content">
         <source>What-if analysis tool that finds the optimal value of a target cell by changing values in cells used to calculate the target cell.</source>
+        <oldsource>Goal Seek will find the right input when you know the result you want.
+Data Tables allow you to see the results of many different possible inputs at the same time.</oldsource>
         <extracomment>What-If Analysis.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Outil d’analyse de scénarios qui trouve la valeur optimale d’une cellule cible en modifiant les valeurs des cellules utilisées pour calculer celle-ci.</translation>
     </message>
     <message id="PTRepeatLabels.title">
         <source>Repeat All Item Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Répéter toutes les étiquettes d&apos;élément</translation>
     </message>
     <message id="PTRepeatLabels.content">
         <source>Show all parent item labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichez toutes les étiquettes d&apos;élément parent.</translation>
     </message>
     <message id="PTNotRepeatLabels.title">
         <source>Do Not Repeat Item Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne pas répéter les étiquettes d&apos;élément</translation>
     </message>
     <message id="PTNotRepeatLabels.content">
         <source>Show only one of the duplicate parent item labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichez uniquement une des étiquettes d&apos;élément parent en double.</translation>
     </message>
     <message id="ChartColumn.title">
         <source>Insert Column Chart</source>
@@ -2847,6 +2984,26 @@ This banding can make tables easier to read.</source>
 
 This banding can make tables easier to read.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message id="ChangeChartType.title">
+        <source>Change Chart Type</source>
+        <extracomment>ChangeChartType.title</extracomment>
+        <translation type="obsolete">Modifier le type de graphique</translation>
+    </message>
+    <message id="ChangeChartType.content">
+        <source>Change the current chart type.</source>
+        <extracomment>ChangeChartType.content</extracomment>
+        <translation type="obsolete">Modifie le type de graphique actif.</translation>
+    </message>
+    <message id="FormatObject.title">
+        <source>Format Object</source>
+        <extracomment>FormatObject.title</extracomment>
+        <translation type="obsolete">Format d&apos;objet</translation>
+    </message>
+    <message id="FormatObject.content">
+        <source>Show the Format Object dialog box.</source>
+        <extracomment>FormatObject.content</extracomment>
+        <translation type="obsolete">Affiche la boîte de dialogue Format d&apos;objet.</translation>
     </message>
 </context>
 </TS>

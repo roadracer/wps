@@ -6,27 +6,27 @@
     <name>AsyncCommunicator</name>
     <message>
         <source>Cannot Listen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Порт: </translation>
     </message>
     <message>
         <source>Port: </source>
-        <translation type="unfinished"></translation>
+        <translation>Подключен новый клиент.</translation>
     </message>
     <message>
         <source>Start TCP Listening.</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент закрыл подключение.</translation>
     </message>
     <message>
         <source>Stop TCP Listening.</source>
-        <translation type="unfinished"></translation>
+        <translation>Прослушивание невозможно.</translation>
     </message>
     <message>
         <source>New Client Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать прослушивание порта TCP.</translation>
     </message>
     <message>
         <source>Client Closed the Connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить прослушивание порта TCP.</translation>
     </message>
 </context>
 <context>
@@ -34,67 +34,69 @@
     <message>
         <source>Is PC&apos;s speaker on?
 Check the horn icon at the bottom-right corner of Desktop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Включен ли динамик компьютера?
+Проверьте значок в виде динамика в правом нижнем углу рабочего стола.</translation>
     </message>
     <message>
         <source>There is no content to read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет содержимого для чтения.</translation>
     </message>
     <message>
         <source>Do not prompt me again</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше не выводить этот запрос</translation>
     </message>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранный материал не может быть переведен в речь. Пожалуйста, повторно выберите.</translation>
     </message>
     <message>
         <source>Click here to open the Text Reading tool box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щелкните здесь, чтобы открыть инструмент для чтения текста.</translation>
     </message>
     <message>
         <source>Your </source>
-        <translation type="unfinished"></translation>
+        <translation>Ваш </translation>
     </message>
     <message>
         <source>-day trial period is over.</source>
-        <translation type="unfinished"></translation>
+        <translation>-дневный пробный период истек.</translation>
     </message>
     <message>
         <source>Become a VIP to continue using the function and enjoy more services!</source>
-        <translation type="unfinished"></translation>
+        <translation>Станьте пользователем со статусом VIP, чтобы продолжать использовать эту функцию и воспользоваться другими службами!</translation>
     </message>
     <message>
         <source>More about VIP</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше о VIP</translation>
     </message>
     <message>
         <source>Text Reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтение текста</translation>
     </message>
     <message>
         <source>Become a VIP</source>
-        <translation type="unfinished"></translation>
+        <translation>Стать пользователем со статусом VIP</translation>
     </message>
     <message>
         <source>Exporting Audio </source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт в аудио</translation>
     </message>
     <message>
         <source>A sound file of this document is currently being exported. 
 Are you sure to close?</source>
-        <translation type="unfinished"></translation>
+        <translation>Звуковой файл этого документа экспортируется.
+Вы уверены, что закрыть?</translation>
     </message>
 </context>
 <context>
     <name>KxSpeakAbstractOutputCommand</name>
     <message>
         <source>WPS Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Аудио WPS</translation>
     </message>
     <message>
         <source>Waveform Audio Files (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Waveform Audio Files (*.wav)</translation>
     </message>
 </context>
 <context>
@@ -102,421 +104,455 @@ Are you sure to close?</source>
     <message>
         <source>Is PC&apos;s speaker on?
 Check the horn icon at the bottom-right corner of Desktop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Включен ли динамик компьютера?
+Проверьте значок в виде динамика в правом нижнем углу рабочего стола.</translation>
     </message>
     <message>
         <source>There is no content to read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет содержимого для чтения.</translation>
     </message>
     <message>
         <source>Do not prompt me again</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше не выводить этот запрос</translation>
     </message>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранный материал не может быть переведен в речь. Пожалуйста, повторно выберите.</translation>
     </message>
 </context>
 <context>
     <name>KxSpeakToolbar</name>
     <message>
         <source>Reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтение</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Без звука</translation>
     </message>
     <message>
         <source>Unmute</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить звук</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизвести</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Пауза</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Стоп</translation>
     </message>
     <message>
         <source>Voice Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Скорость голоса</translation>
     </message>
     <message>
         <source>Voice Pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Тон голоса</translation>
     </message>
     <message>
         <source>By Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Читать при введении клавиши &quot;ВВОД&quot;</translation>
     </message>
     <message>
         <source>Press Enter to Start Reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Начинать читать при введении клавиши &quot;ВВОД&quot;</translation>
     </message>
     <message>
         <source>Export Speech</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт в речь</translation>
     </message>
     <message>
         <source>Cancel Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить экспорт</translation>
     </message>
     <message>
         <source>Low speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Низкая скорость</translation>
     </message>
     <message>
         <source>Medium speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Средняя скорость</translation>
     </message>
     <message>
         <source>High speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Высокая скорость</translation>
     </message>
     <message>
         <source>Low pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>низкий тон</translation>
     </message>
     <message>
         <source>Medium pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Средний тон</translation>
     </message>
     <message>
         <source>High pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Высокий тон</translation>
     </message>
 </context>
 <context>
     <name>KxWpsSpeakStation</name>
     <message>
         <source>Cannot start reading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удается начать чтение.</translation>
     </message>
     <message>
         <source>Cannot start local reading client.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удается запустить локальный клиент для чтения.</translation>
     </message>
     <message>
         <source>Failed connection with the reading client: </source>
-        <translation type="unfinished"></translation>
+        <translation>Сбой подключения к клиенту чтения: </translation>
     </message>
     <message>
         <source>Failed to setup local reading client.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось настроить локальный клиент для чтения.</translation>
     </message>
 </context>
 <context>
     <name>SpeakServiceStation</name>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключиться</translation>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Пауза</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметр</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>О программе</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>IP  : </source>
-        <translation type="unfinished"></translation>
+        <translation>IP-адрес: </translation>
     </message>
     <message>
         <source>Port: </source>
-        <translation type="unfinished"></translation>
+        <translation>Порт: </translation>
     </message>
     <message>
         <source>  OK  </source>
-        <translation type="unfinished"></translation>
+        <translation>  ОК  </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Failed to connect with speech service client.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось соединиться с клиентом речи обслуживания.</translation>
     </message>
     <message>
         <source>Failed to start local reading engine.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось запустить локальную подсистему для чтения.</translation>
     </message>
     <message>
         <source>Failed to acquire certification from speech server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось получить сертификат от речи сервера.</translation>
     </message>
     <message>
         <source>Start TCP Client Connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать подключение клиента TCP.</translation>
     </message>
     <message>
         <source>Failed to request reading content again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось запросить читать содержание снова.</translation>
     </message>
     <message>
         <source>Local speech engine has been closed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Местное речевой движок был закрыт.</translation>
     </message>
     <message>
         <source>Close connection with speech server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Порвать связь с речью сервере.</translation>
     </message>
     <message>
         <source>File export is interrupted: </source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт файла прерывается:</translation>
     </message>
     <message>
         <source>TCP Client Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент TCP подключен.</translation>
     </message>
     <message>
         <source>TCP Client Disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент TCP отключен.</translation>
     </message>
     <message>
         <source>Failed connection with TCP Client: </source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось соединиться с клиентом TCP:</translation>
     </message>
     <message>
         <source>Connection Denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>В подключении отказано.</translation>
     </message>
     <message>
         <source>Connection Timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Время ожидания подключения истекло.</translation>
     </message>
     <message>
         <source>TCP Client Connection Error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка подключения клиента TCP.</translation>
     </message>
     <message>
         <source>Failed to request next reading content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось запросить читать следующее содержание.</translation>
     </message>
     <message>
         <source>Failed to read content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось прочитать содержимое.</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск</translation>
     </message>
     <message>
         <source>WPS Text Reading Client.</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент чтения текста WPS.</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждение</translation>
     </message>
     <message>
         <source>Invalid IP Address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный IP-адрес.</translation>
     </message>
     <message>
         <source>Invalid Port Number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный номер порта.</translation>
+    </message>
+    <message>
+        <source>Failed connetion with TCP Client: </source>
+        <translation type="obsolete">Не удалось соединиться с клиентом TCP: </translation>
     </message>
 </context>
 <context>
     <name>SpeakerIv</name>
     <message>
         <source>IVTTS - failed to allocate heap memory for content.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS: не удалось выделить динамическую память для содержимого.</translation>
     </message>
     <message>
         <source>IVTTS - invalid role index: </source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS — недопустимый индекс роли: </translation>
     </message>
     <message>
         <source>IVTTS - failed to open voice resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS — не удалось открыть голосовой ресурс.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign voice resource callback.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS — не удалось назначить обратный вызов голосового ресурса.</translation>
     </message>
     <message>
         <source>IVTTS - failed to create TTS session.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS: не удалось создать сеанс TTS.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign output callback.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS — не удалось назначить обратный вызов вывода.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign unicode input-codepage.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS — не удалось назначить кодовую страницу ввода (Юникод).</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign auto language-detection.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS — не удалось назначить автоматическое распознавание языка.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign normal reading style.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS: не удалось назначить нормальный стиль чтения.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign reader.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS: не удалось назначить устройство чтения.</translation>
     </message>
     <message>
         <source>IVTTS - failed to prepare sound engine.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS — не удалось подготовить обработчик звука.</translation>
     </message>
     <message>
         <source>IVTTS - failed to prepare file export.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - не удалось готовить экспорт файла.</translation>
     </message>
     <message>
         <source>IVTTS - failed to destroy TTS session.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS — не удалось завершить сеанс TTS.</translation>
     </message>
     <message>
         <source>IVTTS - failed to read text.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS: не удалось прочитать текст.</translation>
     </message>
     <message>
         <source>IVTTS - failed to create speech for the text.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - не удалось создать речи для текста.</translation>
     </message>
     <message>
         <source>IVTTS - failed to add text to the export file.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - не удалось добавить текст в файл экспорта.</translation>
     </message>
     <message>
         <source>IVTTS - failed to set voice volume: </source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS — не удалось настроить громкость речи: </translation>
     </message>
     <message>
         <source>IVTTS - failed to set voice pitch: </source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS — не удалось задать тон речи: </translation>
     </message>
     <message>
         <source>IVTTS - failed to set voice speed: </source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS — не удалось задать скорость речи: </translation>
     </message>
     <message>
         <source>IVTTS - failed to set preferences for number pronunciation: </source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - не удалось установить предпочтения для числа произношения:</translation>
     </message>
 </context>
 <context>
     <name>SpeakerSettingDlg</name>
     <message>
         <source>speaker setting</source>
-        <translation type="unfinished"></translation>
+        <translation>параметр динамика</translation>
     </message>
     <message>
         <source>Voice Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Свойства голоса</translation>
     </message>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>громкость:</translation>
     </message>
     <message>
         <source>Pitch:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тон:</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Скорость:</translation>
     </message>
     <message>
         <source>Voice Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим звука</translation>
     </message>
     <message>
         <source>Voice Role:</source>
-        <translation type="unfinished"></translation>
+        <translation>Роль звука:</translation>
     </message>
     <message>
         <source>Female Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Женский - Китайский</translation>
     </message>
     <message>
         <source>Read Digits as Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Объединить цифры,читать номер</translation>
     </message>
     <message>
         <source>Export sound file</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт в звуковой файл</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
     <name>SpeakerSp</name>
     <message>
         <source>SAPI - failed to initialize COM.</source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI — не удалось инициализировать COM.</translation>
     </message>
     <message>
         <source>SAPI - failed to create Voice.</source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI — не удалось создать голос.</translation>
     </message>
     <message>
         <source>SAPI - failed to create Token category.</source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI — не удалось создать категорию &quot;Маркер&quot;.</translation>
     </message>
     <message>
         <source>SAPI - failed to set Token category ID.</source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI: не удалось задать идентификатор категории маркера.</translation>
     </message>
     <message>
         <source>SAPI - failed to enumerate Voice Tokens.</source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI — не удалось перечислить маркеры голосов.</translation>
     </message>
     <message>
         <source>SAPI - no Voice Tokens found.</source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI — маркеры голосов не найдены.</translation>
     </message>
     <message>
         <source>SAPI - invalid role index: </source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI — недопустимый индекс роли: </translation>
     </message>
     <message>
         <source>SAPI - failed to get Voice Token of index: </source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI — не удалось получить маркер голоса индекса: </translation>
     </message>
     <message>
         <source>SAPI - failed to set Token for Voice.</source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI — не удалось задать маркер для голоса.</translation>
     </message>
     <message>
         <source>SAPI - failed to set voice volume: </source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI — не удалось задать громкость голоса: </translation>
     </message>
     <message>
         <source>SAPI - failed to set voice speed: </source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI — не удалось задать скорость речи: </translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSpeakListCommand</name>
+    <message>
+        <source>Become a VIP to continue using the function and enjoy more services!</source>
+        <translation type="obsolete">Станьте пользователем со статусом VIP, чтобы продолжать использовать эту функцию и воспользоваться другими службами!</translation>
+    </message>
+    <message>
+        <source>Text Reading</source>
+        <translation type="obsolete">Чтение текста</translation>
+    </message>
+    <message>
+        <source>Become a VIP</source>
+        <translation type="obsolete">Стать пользователем со статусом VIP</translation>
+    </message>
+    <message>
+        <source>There is no content to read.</source>
+        <translation type="obsolete">Нет содержимого для чтения.</translation>
+    </message>
+    <message>
+        <source>-day trial period is over.</source>
+        <translation type="obsolete">-дневный пробный период истек.</translation>
+    </message>
+    <message>
+        <source>Is PC&apos;s speaker on?
+Check the horn icon at the bottom-right corner of Desktop.</source>
+        <translation type="obsolete">Включен ли динамик компьютера?
+Проверьте значок в виде динамика в правом нижнем углу рабочего стола.</translation>
     </message>
 </context>
 </TS>

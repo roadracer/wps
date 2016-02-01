@@ -6,15 +6,23 @@
     <name>QObject</name>
     <message>
         <source>All File</source>
-        <translation type="unfinished"></translation>
+        <translation>所有文件</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="unfinished"></translation>
+        <translation>上传附件</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>截图</translation>
+    </message>
+    <message>
+        <source>ScreenGrab</source>
+        <translation type="obsolete">截图</translation>
+    </message>
+    <message>
+        <source>upLoadFile</source>
+        <translation type="obsolete">上传附件</translation>
     </message>
 </context>
 </TS>

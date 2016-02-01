@@ -6,15 +6,15 @@
     <name>QObject</name>
     <message>
         <source>All File</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのファイル</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルのアップロード</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>スクリーンショット</translation>
     </message>
 </context>
 </TS>

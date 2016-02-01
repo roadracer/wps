@@ -6,90 +6,92 @@
     <name>KsSlideWindowShowMsgHandler</name>
     <message>
         <source>Scan the QR Code with wps mobile version.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>スマートフォンでQRコードをスキャンします。</translatorcomment>
+        <translation>Kingsoft モバイル版でQRコードをスキャンします。</translation>
     </message>
     <message>
         <source>Disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation>接続が切断されました。</translation>
     </message>
 </context>
 <context>
     <name>KxCellPhoneControlBubble</name>
     <message>
         <source>Scan the QR Code with wps mobile version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft モバイル版でQRコードをスキャンします。</translation>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>接続が切断されました。</translation>
     </message>
     <message>
         <source>Client connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>スマートフォンに接続しました。</translation>
     </message>
 </context>
 <context>
     <name>KxCellPhoneControlDialog</name>
     <message>
         <source>Client Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>スマートフォンに接続しました。</translation>
     </message>
 </context>
 <context>
     <name>KxCellPhoneControlWidget</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <source>Scan the QR Code with wps mobile version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft モバイル版でQRコードをスキャンします。</translation>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>接続が切断されました。</translation>
     </message>
     <message>
         <source>Click play button to begin.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>再生をクリックしてコントロールします。</translatorcomment>
+        <translation>開始するには再生ボタンをクリックしてください。</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>再試行</translation>
     </message>
     <message>
         <source>Network error...</source>
-        <translation type="unfinished"></translation>
+        <translation>ネットワークエラー...</translation>
     </message>
 </context>
 <context>
     <name>KxSPConfidentDlg</name>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>接続が切断されました。</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <source>Are you sure to disconnect?</source>
-        <translation type="unfinished"></translation>
+        <translation>スマートフォンとの接続を切断してよろしいですか？</translation>
     </message>
 </context>
 <context>
     <name>KxSharePlayNotifyBannerWidget</name>
     <message>
         <source>Client Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>スマートフォンに接続しました。</translation>
     </message>
     <message>
         <source>Client Disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation>スマートフォンとの接続が切断されました。</translation>
     </message>
     <message>
         <source>Network error...</source>
-        <translation type="unfinished"></translation>
+        <translation>ネットワークエラー...</translation>
     </message>
 </context>
 </TS>

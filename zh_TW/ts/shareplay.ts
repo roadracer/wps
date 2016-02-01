@@ -6,90 +6,93 @@
     <name>KsSlideWindowShowMsgHandler</name>
     <message>
         <source>Scan the QR Code with wps mobile version.</source>
-        <translation type="unfinished"></translation>
+        <translation>用 WPS 電話客戶端掃描 QR 碼
+（暫時僅支援iPhone）</translation>
     </message>
     <message>
         <source>Disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation>已中斷連線</translation>
     </message>
 </context>
 <context>
     <name>KxCellPhoneControlBubble</name>
     <message>
         <source>Scan the QR Code with wps mobile version.</source>
-        <translation type="unfinished"></translation>
+        <translation>用 WPS 電話客戶端掃描 QR 碼
+（暫時僅支援iPhone）</translation>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>中斷連線</translation>
     </message>
     <message>
         <source>Client connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置已連線</translation>
     </message>
 </context>
 <context>
     <name>KxCellPhoneControlDialog</name>
     <message>
         <source>Client Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置已連線</translation>
     </message>
 </context>
 <context>
     <name>KxCellPhoneControlWidget</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Scan the QR Code with wps mobile version.</source>
-        <translation type="unfinished"></translation>
+        <translation>用 WPS 電話客戶端掃描 QR 碼
+（暫時僅支援iPhone）</translation>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>中斷連線</translation>
     </message>
     <message>
         <source>Click play button to begin.</source>
-        <translation type="unfinished"></translation>
+        <translation>按一下播放按鈕即可開始遙控</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>重新整理</translation>
     </message>
     <message>
         <source>Network error...</source>
-        <translation type="unfinished"></translation>
+        <translation>網路錯誤</translation>
     </message>
 </context>
 <context>
     <name>KxSPConfidentDlg</name>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>中斷連線</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Are you sure to disconnect?</source>
-        <translation type="unfinished"></translation>
+        <translation>你確定要中斷與電話的連線嗎？</translation>
     </message>
 </context>
 <context>
     <name>KxSharePlayNotifyBannerWidget</name>
     <message>
         <source>Client Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置已連線</translation>
     </message>
     <message>
         <source>Client Disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置已中斷連線</translation>
     </message>
     <message>
         <source>Network error...</source>
-        <translation type="unfinished"></translation>
+        <translation>網路已中斷，請重新連線</translation>
     </message>
 </context>
 </TS>

@@ -6,15 +6,23 @@
     <name>QObject</name>
     <message>
         <source>All File</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les fichier</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger un fichier</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Capture d&apos;écran</translation>
+    </message>
+    <message>
+        <source>upLoadFile</source>
+        <translation type="obsolete">Télécharger un fichier</translation>
+    </message>
+    <message>
+        <source>ScreenGrab</source>
+        <translation type="obsolete">Capture d&apos;écran</translation>
     </message>
 </context>
 </TS>

@@ -6,23 +6,23 @@
     <name>KxHrSelDialog</name>
     <message>
         <source>Ya Hei</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft YaHei</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"></translation>
+        <translation>標號</translation>
     </message>
     <message>
         <source>Choose high resolution setting</source>
-        <translation type="unfinished"></translation>
+        <translation>高解析度設定</translation>
     </message>
     <message>
         <source>Auto scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>自動縮放</translation>
     </message>
     <message>
         <source>Forbiden scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>停用縮放</translation>
     </message>
 </context>
 </TS>

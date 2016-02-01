@@ -14165,7 +14165,7 @@ p, li { white-space: pre-wrap; }</translation>
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation type="unfinished">Пароль для защиты настроек разрешений</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pass&amp;word:</source>

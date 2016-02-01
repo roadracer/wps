@@ -8412,6 +8412,10 @@ Click here to sign in now.</source>
         <source>Downloading fonts, please wait...</source>
         <translation>フォントをダウンロード中です。しばらくお待ちください...</translation>
     </message>
+    <message>
+        <source></source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KxOnlineShapesGalleryModel</name>

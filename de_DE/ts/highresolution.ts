@@ -6,23 +6,23 @@
     <name>KxHrSelDialog</name>
     <message>
         <source>Ya Hei</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft YaHei</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschriftung</translation>
     </message>
     <message>
         <source>Choose high resolution setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen für hohe Auflösung</translation>
     </message>
     <message>
         <source>Auto scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>AutoSkalieren</translation>
     </message>
     <message>
         <source>Forbiden scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalierung deaktivieren</translation>
     </message>
 </context>
 </TS>
