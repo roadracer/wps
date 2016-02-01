@@ -10,7 +10,7 @@
     </message>
     <message>
         <source>Kingsoft Office recommendation</source>
-        <translation type="obsolete">KingSoft推薦</translation>
+        <translation type="obsolete">Kingsoft推薦</translation>
     </message>
     <message>
         <source>Many people are using this great tool. Would you like to try it?</source>
@@ -26,7 +26,7 @@
     </message>
     <message>
         <source>WPS Office Recommendation</source>
-        <translation>KingSoft推薦</translation>
+        <translation>WPS Office 推薦</translation>
     </message>
     <message>
         <source>Treasure_Box_Prompt_No</source>
@@ -46,7 +46,7 @@
     </message>
     <message>
         <source>WPS Office recommendation</source>
-        <translation type="obsolete">KingSoft推薦</translation>
+        <translation type="obsolete">Kingsoft推薦</translation>
     </message>
 </context>
 </TS>

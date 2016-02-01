@@ -82,6 +82,14 @@
     </message>
 </context>
 <context>
+    <name>io_string</name>
+    <message>
+        <source>Author</source>
+        <comment>IO_String_Author</comment>
+        <translation>作者</translation>
+    </message>
+</context>
+<context>
     <name>wps_comment</name>
     <message>
         <source>Comment</source>
@@ -203,7 +211,37 @@ Try one or more of the following:
 3. Make sure that the source file is in the appropriate directory.
 4. Make sure that the source file&apos;s format is supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS文字在试图更新源文件时遇到错误。
+请尝试下列方法：
+1、检查源文件是否已被打开或被其它程序占用。
+2、检查源文件是否处于保护状态。
+3、确保源文件存在相应目录下。
+4、确保源文件是WPS支持保存的格式。</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1、Check whether the source file has been opened or occupied by other programs.
+2、Check whether the source file is protected.
+3、Ensure that the source file is in the appropriate directory.
+4、Ensure that the source file can be supported by WPS.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation type="obsolete">WPS文字在试图更新源文件时遇到错误。
+请尝试下列方法：
+1、检查源文件是否已被打开或被其它程序占用。
+2、检查源文件是否处于保护状态。
+3、确保源文件存在相应目录下。
+4、确保源文件是WPS支持保存的格式。</translation>
+    </message>
+    <message>
+        <source>Error! Number cannot be represented in specified format.</source>
+        <comment>TX_FIELD_ERR_NUM_CANNOT_BE_SPECIFIED_FORMAT</comment>
+        <translation>错误!不能以指定格式显示编号。</translation>
+    </message>
+    <message>
+        <source>Error! The style has no specified text.</source>
+        <comment>TX_FIELD_ERR_STYLE_NO_SPECIFIED_STYLE_TEXT</comment>
+        <translation>错误！文档中没有指定样式的文字。</translation>
     </message>
 </context>
 <context>
@@ -868,7 +906,7 @@ Do you want to replace it?</source>
     <message>
         <source>15%:9</source>
         <comment>TxRevision_Shp_PatternReplacedList</comment>
-        <translation>清除;纯色(100%);5%;10%;20%;25%;30%;40%;50%;60%;70%;75%;80%;90%;深色横线;深色竖线;深色下斜线;深色上斜线;深色网格;深色棚架;浅色横线;浅色竖线;浅色下斜线;浅色上斜线;浅色网格;浅色棚架:0;1;8;9;10;11;12;13;14;15;16;17;18;19;31;30;22;23;51;48;27;26;20;21;50;7</translation>
+        <translation>清除;纯色(100%);5%;10%;20%;25%;30%;40%;50%;60%;70%;75%;80%;90%;深色横线;深色竖线;深色下斜线;深色上斜线;深色网格;深色棚架;浅色横线;浅色竖线;浅色下斜线;浅色上斜线;浅色网格;浅色棚架:0;1;9;10;11;12;13;14;15;16;17;18;19;20;32;31;23;24;52;49;28;27;21;22;51;8</translation>
     </message>
     <message>
         <source>42;36;26;24;22;18;16;15;14;12;10.5;9;7.5;6.5;5.5;5</source>
@@ -998,7 +1036,7 @@ Do you want to replace it?</source>
     <message>
         <source>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</source>
         <comment>TxRevision_Color_ColorNameReplacedList</comment>
-        <translation>黑色;深青;深蓝;靛蓝;蓝色;浅蓝;蓝-灰;浅紫;灰色-80%;青色;水绿色;天蓝;淡蓝;浅青绿;粉红;玫瑰红;灰色-50%;海绿;青绿;浅绿;白色;浅黄;茶色;紫罗兰;灰色-40%;深绿;鲜绿;黄色;金色;浅橙色;红色;梅红;灰色-25%;绿色;酸橙色;深黄;橄榄绿;橙色;褐色;深红:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</translation>
+        <translation type="obsolete">黑色;深青;深蓝;靛蓝;蓝色;浅蓝;蓝-灰;浅紫;灰色-80%;青色;水绿色;天蓝;淡蓝;浅青绿;粉红;玫瑰红;灰色-50%;海绿;青绿;浅绿;白色;浅黄;茶色;紫罗兰;灰色-40%;深绿;鲜绿;黄色;金色;浅橙色;红色;梅红;灰色-25%;绿色;酸橙色;深黄;橄榄绿;橙色;褐色;深红:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -2322,7 +2360,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Writer</source>
-        <translation type="unfinished">WPS 文字</translation>
+        <translation>WPS 文字</translation>
     </message>
     <message>
         <source>and has replaced %i items.</source>
@@ -2524,7 +2562,7 @@ Do you want to replace it?</source>
     <message>
         <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
         <comment>_TxSaveMHTHTMLWarning</comment>
-        <translation type="unfinished">某些浏览器可能无法正确显示路径中包含“!”、“#”、“%20”、“%23”或“%25”等字符的“单个文件网页”。是否继续？</translation>
+        <translation>某些浏览器可能无法正确显示路径中包含“!”、“#”、“%20”、“%23”或“%25”等字符的“单个文件网页”。是否继续？</translation>
     </message>
     <message>
         <source>Do you wish to discard changes to &quot;%s&quot; and load the latest version?</source>
@@ -2577,16 +2615,369 @@ Do you want to replace it?</source>
     <message>
         <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
         <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation type="unfinished">WPS文字无法用数据源合并主文档，因为数据记录为空或没有匹配查询选项的数据记录。</translation>
+        <translation>WPS文字无法用数据源合并主文档，因为数据记录为空或没有匹配查询选项的数据记录。</translation>
     </message>
     <message>
         <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
         <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS文字无法将 %s 作为数据或域名源打开，因为它是处于活动状态的邮件合并主文档。</translation>
     </message>
     <message>
         <source>You cannot compare these documents because the document contain XML Nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>文档中带有XML节点数据，无法进行比较。</translation>
+    </message>
+    <message>
+        <source>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red;Dark Red;Orange;Light Green;Green;Light Blue;Blue;Dark Blue;Purple;Dark1;Light1;Dark2;Light2;Accent1;Accent2;Accent3;Accent4;Accent5;Accent6;Hyperlink;FollowedHyperlink;Background1;Text1;Background2;Text2:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000;C00000;FFC000;92D050;00B050;00B0F0;0070C0;002060;7030A0;dark1;light1;dark2;light2;accent1;accent2;accent3;accent4;accent5;accent6;hyperlink;followedHyperlink;background1;text1;background2;text2</source>
+        <comment>TxRevision_Color_ColorNameReplacedList</comment>
+        <translation>黑色;深青;深蓝;靛蓝;蓝色;浅蓝;蓝-灰;浅紫;灰色-80%;青色;水绿色;天蓝;淡蓝;浅青绿;粉红;玫瑰红;灰色-50%;海绿;青绿;浅绿;白色;浅黄;茶色;紫罗兰;灰色-40%;深绿;鲜绿;黄色;金色;浅橙色;红色;梅红;灰色-25%;绿色;酸橙色;深黄;橄榄绿;橙色;褐色;深红;深红;橙色;浅绿;绿色;浅蓝;蓝色;深蓝;紫色;文字/背景1;文字/背景2;文字/背景3;文字/背景4;着色1;着色2;着色3;着色4;着色5;着色6;超链接;访问过的超链接;背景1;背景2;文字1;文字2:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000;C00000;FFC000;92D050;00B050;00B0F0;0070C0;002060;7030A0;dark1;light1;dark2;light2;accent1;accent2;accent3;accent4;accent5;accent6;hyperlink;followedHyperlink;background1;text1;background2;text2</translation>
+    </message>
+    <message>
+        <source>Objects in this document contain links to files that cannot be found. The linked information will not be updated.</source>
+        <translation>此文档中的对象包含有到无法找到的文件的链接。所链接信息将不会被更新。</translation>
+    </message>
+    <message>
+        <source>Text Outline</source>
+        <comment>TxRevision_Chp_TextOutline_Effect</comment>
+        <translation>文字线条</translation>
+    </message>
+    <message>
+        <source>Text Fill</source>
+        <comment>TxRevision_Chp_TextFill_Effect</comment>
+        <translation>文字填充</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <comment>TxRevision_Chp_Glow_Effect</comment>
+        <translation>发光</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <comment>TxRevision_Chp_Reflection_Effect</comment>
+        <translation>倒影</translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <comment>TxRevision_Chp_Props3D_Effect</comment>
+        <translation>棱台</translation>
+    </message>
+    <message>
+        <source>White</source>
+        <comment>TxRevision_Shp_Background_White</comment>
+        <translation>白色</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open %s as Data or Header Source, because it is an active mail merge main document.</source>
+        <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
+        <translation type="obsolete">WPS文字无法将 %s 作为数据或域名源打开，因为它是处于活动状态的邮件合并主文档。</translation>
+    </message>
+    <message>
+        <source>Record %d contained too many data fields.</source>
+        <comment>_TxMailMerge_FieldsTooMuch</comment>
+        <translation type="obsolete">记录 %d 的数据域太多。</translation>
+    </message>
+    <message>
+        <source>Record %d contained too few data fields.</source>
+        <comment>_TxMailMerge_FieldsTooFew</comment>
+        <translation type="obsolete">记录 %d 的数据域太少。</translation>
+    </message>
+    <message>
+        <source>Record %d is empty.</source>
+        <comment>_TxMailMerge_FieldsEmpty</comment>
+        <translation type="obsolete">记录 %d 是空记录。</translation>
+    </message>
+    <message>
+        <source>WPS Writer AaBbCc</source>
+        <translation>WPS讓辦公更輕鬆;WPS让办公更轻松</translation>
+    </message>
+    <message>
+        <source>Click here to enter text.</source>
+        <comment>TxTextControl_HdrText</comment>
+        <translation>单击此处输入文字。</translation>
+    </message>
+    <message>
+        <source>Choose one.</source>
+        <comment>TxDropdownControl_HdrText</comment>
+        <translation>选择一项。</translation>
+    </message>
+    <message>
+        <source>Select a building block.</source>
+        <comment>TxBuildingControl_HdrText</comment>
+        <translation>选择一个构建基块。</translation>
+    </message>
+    <message>
+        <source>Click here to enter a date.</source>
+        <comment>TxDateControl_HdrText</comment>
+        <translation>单击此处输入日期。</translation>
+    </message>
+    <message>
+        <source>Enter to repeat any content (including other content controls). You can also insert this control around a table row to repeat part of the table.</source>
+        <comment>TxRepeatSecControl_HdrText</comment>
+        <translation>输入要重复的任何内容(包括其他内容控件)。您也可以在表格行周围插入此控件，以便重复部分表格。</translation>
+    </message>
+    <message>
+        <source>group</source>
+        <comment>TxGroupControl_Name</comment>
+        <translation>组合</translation>
+    </message>
+    <message>
+        <source>Quick Parts</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>文档部件</translation>
+    </message>
+    <message>
+        <source>Cover Pages</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>封面</translation>
+    </message>
+    <message>
+        <source>Equations</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>公式</translation>
+    </message>
+    <message>
+        <source>Footers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>页脚</translation>
+    </message>
+    <message>
+        <source>Headers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>页眉</translation>
+    </message>
+    <message>
+        <source>Page Numbers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>页码</translation>
+    </message>
+    <message>
+        <source>Tables</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>表格</translation>
+    </message>
+    <message>
+        <source>Watermarks</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>水印</translation>
+    </message>
+    <message>
+        <source>AutoText</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自动图文集</translation>
+    </message>
+    <message>
+        <source>Text Boxes</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>文本框</translation>
+    </message>
+    <message>
+        <source>Page Numbers (Top of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>页码(页面顶端)</translation>
+    </message>
+    <message>
+        <source>Page Numbers (Bottom of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>页码(页面底端)</translation>
+    </message>
+    <message>
+        <source>Page Numbers (Margins)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>页码(页边)</translation>
+    </message>
+    <message>
+        <source>Table of Contents</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>目录</translation>
+    </message>
+    <message>
+        <source>Custom Quick Parts</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义文档部件</translation>
+    </message>
+    <message>
+        <source>Custom Cover Pages</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义封面</translation>
+    </message>
+    <message>
+        <source>Custom Equations</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义公式</translation>
+    </message>
+    <message>
+        <source>Custom Footers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义页脚</translation>
+    </message>
+    <message>
+        <source>Custom Headers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义页眉</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义页码</translation>
+    </message>
+    <message>
+        <source>Custom Tables</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义表格</translation>
+    </message>
+    <message>
+        <source>Custom Watermarks</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义水印</translation>
+    </message>
+    <message>
+        <source>Custom AutoText</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义自动图文集</translation>
+    </message>
+    <message>
+        <source>Custom Text Boxes</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义文本框</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers (Top of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义页码(页面顶端)</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers (Bottom of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义页码(页面底端)</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers (Margins)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义页码(页边)</translation>
+    </message>
+    <message>
+        <source>Custom Table of Contents</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义目录</translation>
+    </message>
+    <message>
+        <source>Custom 1</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义 1</translation>
+    </message>
+    <message>
+        <source>Custom 2</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义 2</translation>
+    </message>
+    <message>
+        <source>Custom 3</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义 3</translation>
+    </message>
+    <message>
+        <source>Custom 4</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义 4</translation>
+    </message>
+    <message>
+        <source>Custom 5</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义 5</translation>
+    </message>
+    <message>
+        <source>Bibliographies</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>书目</translation>
+    </message>
+    <message>
+        <source>Custom Bibliographies</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自定义书目</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <comment>TxBBCategoryName_General</comment>
+        <translation>常规</translation>
+    </message>
+    <message>
+        <source>Rich text controls</source>
+        <comment>TxRichTextControl_Name</comment>
+        <translation>RTF控件</translation>
+    </message>
+    <message>
+        <source>Plain text controls</source>
+        <comment>TxPlainTextControl_Name</comment>
+        <translation>纯文本控件</translation>
+    </message>
+    <message>
+        <source>Picture controls</source>
+        <comment>TxPictureControl_Name</comment>
+        <translation>图片控件</translation>
+    </message>
+    <message>
+        <source>Document building block controls</source>
+        <comment>TxDocumentBuildingBlockControl_Name</comment>
+        <translation>文档构建基块控件</translation>
+    </message>
+    <message>
+        <source>Check box controls</source>
+        <comment>TxCheckboxControl_Name</comment>
+        <translation>复选框控件</translation>
+    </message>
+    <message>
+        <source>Combo box controls</source>
+        <comment>TxComboboxControl_Name</comment>
+        <translation>组合框控件</translation>
+    </message>
+    <message>
+        <source>Drop-down list controls</source>
+        <comment>TxDropDownListControl_Name</comment>
+        <translation>下拉列表控件</translation>
+    </message>
+    <message>
+        <source>Date picker controls</source>
+        <comment>TxDatePickerControl_Name</comment>
+        <translation>日期选取器控件</translation>
+    </message>
+    <message>
+        <source>Repeating section controls</source>
+        <comment>TxRepeatingSectionControl_Name</comment>
+        <translation>重复节控件</translation>
+    </message>
+    <message>
+        <source>%s cannot be applied here.</source>
+        <comment>TxContentControls_Add_Warning1</comment>
+        <translation>不能在此应用 %s。</translation>
+    </message>
+    <message>
+        <source>%s cannot be inserted around multiple selections.</source>
+        <comment>TxContentControls_Add_Warning2</comment>
+        <translation>不能在多处所选内容周围插入 %s。</translation>
+    </message>
+    <message>
+        <source>%s cannot be inserted around table columns.</source>
+        <comment>TxContentControls_Add_Warning3</comment>
+        <translation>不能在表格列周围插入 %s。</translation>
+    </message>
+    <message>
+        <source>Repeating section controls can only be inserted around entire paragraphs or rows.</source>
+        <comment>TxContentControls_Add_Warning4</comment>
+        <translation>重复节控件只能围绕整个段落或行插入。</translation>
+    </message>
+    <message>
+        <source>Picture controls cannot be inserted around a selection which contains non-image content, floating images, or more than a single inline image.</source>
+        <comment>TxContentControls_Add_Warning5</comment>
+        <translation>在包含非图像内容，浮动图像或多个内嵌图像的所选内容周围。无法插入图片控件。</translation>
+    </message>
+    <message>
+        <source>%s cannot be inserted around the current selection.</source>
+        <comment>TxContentControls_Add_Warning6</comment>
+        <translation>在当前所选内容周围。无法插入%s</translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <comment>TxUserInfo_DefaultUserName</comment>
+        <translation type="obsolete">未知</translation>
     </message>
 </context>
 <context>
@@ -2716,12 +3107,17 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>The measurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation type="unfinished"></translation>
+        <translation>度量值必须介于 -1584磅和1584磅之间。</translation>
     </message>
     <message>
         <source>The measurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation type="unfinished"></translation>
+        <translation>度量值必须介于0.5和600之间。</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot turn off design mode because placeholder text in a content control contains invalid items. Placeholder text cannot contain items such as floating objects, revision marks, or content controls. Remove these items from the placeholder text and try again.</source>
+        <comment>_TxErr_InvalidPHdrText</comment>
+        <translation>因为内容控件中的占位符文字包含无效项目，所以WPS 文字无法关闭设计模式。占位符文字不能包含浮动对象、修订标记或内容控件等项目。请从占位符文字中删除这些项目，然后重试。</translation>
     </message>
 </context>
 <context>
@@ -2815,7 +3211,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPS</comment>
-        <translation>常用文件(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
+        <translation type="obsolete">常用文件(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.wpsx; *.doc; *.dot; *.rtf; *.docx)</source>
@@ -2918,7 +3314,7 @@ Please try one of the following.
     <message>
         <source>Normal.wpt</source>
         <comment>_TxDocument_NormalTemplate</comment>
-        <translation>Normal.wpt</translation>
+        <translation type="obsolete">Normal.wpt</translation>
     </message>
     <message>
         <source>Objects of the paste contents will be lost when pasting in text box, comment box, footnote and endnote.</source>
@@ -3068,7 +3464,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>builtin.wpt</source>
         <comment>_TxDocument_BuiltInTemplate</comment>
-        <translation>builtin.wpt</translation>
+        <translation type="unfinished">builtin.wpt</translation>
     </message>
     <message>
         <source>templates</source>
@@ -3088,7 +3484,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</source>
         <comment>TxExts_AllWPS</comment>
-        <translation>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</translation>
+        <translation type="obsolete">*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</translation>
     </message>
     <message>
         <source>Errors occur when WPS Writer is opening this file.
@@ -3243,7 +3639,30 @@ This backup will be saved to(%s)</source>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
 This backup will be saved to (%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
-        <translation type="unfinished"></translation>
+        <translation>在进行文件备份时发生错误！可能是由于您设置的备份目录没有写权限，请尝试更改备份目录。
+此次备份将保存到(%s)。</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</source>
+        <comment>TxDesc_AllWPS</comment>
+        <translation>常用文件(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</translation>
+    </message>
+    <message>
+        <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</source>
+        <comment>TxExts_AllWPS</comment>
+        <translation>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</translation>
+    </message>
+    <message>
+        <source>Normal.dotm</source>
+        <comment>_TxDocument_NormalTemplate</comment>
+        <translation type="unfinished">Normal.dotm</translation>
+    </message>
+    <message>
+        <source>Document has been locked by %s. Do you want to open it as read-only?
+(%s)</source>
+        <comment>_TxDocument_SaveFailureLocked</comment>
+        <translation>文档已被“%s”锁定，是否以只读模式打开？
+(%s)</translation>
     </message>
 </context>
 <context>
@@ -5331,22 +5750,30 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
         <comment>wps_sFinishHighlightAllNotFound</comment>
-        <translation type="unfinished">已完成对“%s”的搜索，未找到搜索项。</translation>
+        <translation>已完成对“%s”的搜索，未找到搜索项。</translation>
     </message>
     <message>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sValidValue</comment>
-        <translation type="unfinished">数字必须介于 %d 和 %d 之间。</translation>
+        <translation>数字必须介于 %d 和 %d 之间。</translation>
     </message>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed.</source>
         <comment>wps_sVBAMacroSecurityError</comment>
-        <translation type="unfinished"></translation>
+        <translation>调整宏安全性时发生错误，可能是由于您没有安装 VBA 环境。</translation>
     </message>
     <message>
         <source>This shortcut key already exists. Please set another key.</source>
         <comment>wps_sAppShortcutExisted</comment>
-        <translation type="unfinished"></translation>
+        <translation>应用程序已经存在该快捷键，请另设快捷键。</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
+        <translation>在某些节中，页面的左右边距、栏间距或段落缩进的设置相对于页面的宽度过大。</translation>
+    </message>
+    <message>
+        <source>The objects or tables in a scalable text box will be removed. Do you want to continue?</source>
+        <translation>文本框中含有对象或表格，而可缩放的文本框不能含有对象或表格，如果要设置该属性，对象或表格将被删除，是否继续？</translation>
     </message>
 </context>
 <context>
@@ -5391,12 +5818,12 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>.</source>
         <comment>TxAboutCaption</comment>
-        <translation>浴火重生之wps-v6</translation>
+        <translation type="unfinished">浴火重生之wps-v6</translation>
     </message>
     <message>
         <source>.</source>
         <comment>TxAboutText</comment>
-        <translation>代号名称: fenix -
+        <translation type="unfinished">代号名称: fenix -
 A bird in Egyptian mythology that lived in the desert for 500 years and then consumed itself by fire, later to rise renewed from its ashes.
 不死鸟，长生鸟埃及神话中的一种鸟，相传这种鸟在沙漠中生活五百年后身焚，然后又从其焚灰中再生。</translation>
     </message>
@@ -6979,7 +7406,7 @@ Check</source>
     <message>
         <source>WPS Writer 2007/2010 File(*.wpsx)</source>
         <comment>TxDesc_DataSource_wpsx</comment>
-        <translation type="unfinished">WPS文字2007/2010文件(*.wpsx)</translation>
+        <translation>WPS文字2007/2010文件(*.wpsx)</translation>
     </message>
     <message>
         <source>Table Normal</source>
@@ -7209,7 +7636,7 @@ Check</source>
     <message>
         <source>Date/Time</source>
         <comment>TxVersion_InsDateTime</comment>
-        <translation type="unfinished">插入日期和时间</translation>
+        <translation>插入日期和时间</translation>
     </message>
     <message>
         <source>WPS Writer 2007/2010 Template(*.wptx)</source>
@@ -7224,7 +7651,7 @@ Check</source>
     <message>
         <source>Light List</source>
         <comment>TxTableStyle_LightList</comment>
-        <translation type="unfinished">浅色列表</translation>
+        <translation>浅色列表</translation>
     </message>
     <message>
         <source>Light Grid</source>
@@ -7709,7 +8136,7 @@ Check</source>
     <message>
         <source>AutoFit to Content</source>
         <comment>TxVersion_AutoFitContent</comment>
-        <translation type="unfinished"></translation>
+        <translation>根据内容调整表格</translation>
     </message>
     <message>
         <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt |</source>
@@ -7719,12 +8146,67 @@ Check</source>
     <message>
         <source>Insert DocumentField</source>
         <comment>TxVersion_InsDocumentField</comment>
-        <translation type="unfinished"></translation>
+        <translation>插入公文域</translation>
     </message>
     <message>
         <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
-        <translation type="unfinished"></translation>
+        <translation>Outlook 个人通讯簿(*.pab) | *.pab; |</translation>
+    </message>
+    <message>
+        <source>PDF Files(*.pdf) | *.pdf; |</source>
+        <comment>TxDesc_DataSource_pdf</comment>
+        <translation>PDF 文件(*.pdf) | *.pdf; |</translation>
+    </message>
+    <message>
+        <source>The linked file is not available.</source>
+        <comment>TxMessage_UnavailableChartLinkPath</comment>
+        <translation type="obsolete">链接文件不可用。</translation>
+    </message>
+    <message>
+        <source>The target text box is different format than your current text box. You can only link text boxes that are the same format.</source>
+        <comment>TxMessage_CreateTextboxLinkError5</comment>
+        <translation>目标文本框与您目前的文本框格式不同。您只能链接相同格式的文本框。</translation>
+    </message>
+    <message>
+        <source>Set AutoShape Defaults</source>
+        <comment>TxCaption_ShapeAutoShapeDefaults</comment>
+        <translation>设置自选图形的默认效果</translation>
+    </message>
+    <message>
+        <source>Set as Default Shape</source>
+        <comment>TxCaption_DmlShapeAutoShapeDefaults</comment>
+        <translation>设置为默认形状</translation>
+    </message>
+    <message>
+        <source>Set as Default Text Box</source>
+        <comment>TxCaption_DmlTextboxAutoShapeDefaults</comment>
+        <translation>设置为默认文本框</translation>
+    </message>
+    <message>
+        <source>InsertBefore</source>
+        <comment>TxCaption_ContentControlInsertBefore</comment>
+        <translation>之前插入</translation>
+    </message>
+    <message>
+        <source>InsertAfter</source>
+        <comment>TxCaption_ContentControlInsertAfter</comment>
+        <translation>之后插入</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <comment>TxCaption_ContentControlDelete</comment>
+        <translation>删除</translation>
+    </message>
+    <message>
+        <source>Item</source>
+        <comment>TxCaption_ContentControlItem</comment>
+        <translation>项目</translation>
+    </message>
+    <message>
+        <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
+        <comment>TxError_EditChartDataSource</comment>
+        <translation>&quot;图表数据&quot;网格已在&quot;%s&quot;中打开。若要编辑此图表的数据，需要先将其关闭。</translation>
     </message>
 </context>
 </TS>

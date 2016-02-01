@@ -111,6 +111,22 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>KS Biaoge.lnk</source>
         <translation>KS Biaoge.lnk</translation>
     </message>
+    <message>
+        <source>WPS Cloud.lnk</source>
+        <translation>WPS Cloud.lnk</translation>
+    </message>
+    <message>
+        <source>WPS Office.lnk</source>
+        <translation type="obsolete">WPS Office.lnk</translation>
+    </message>
+    <message>
+        <source>Pin to tas&amp;kbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin from tas&amp;kbar</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -234,6 +250,18 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>Launch WPS Office.</source>
         <translation>Uruchom WPS Office.</translation>
     </message>
+    <message>
+        <source>WPS Office Configuration Tools.lnk</source>
+        <translation type="obsolete">Narzędzia konfiguracji WPS Office.lnk</translation>
+    </message>
+    <message>
+        <source>Check for WPS Office Updates.lnk</source>
+        <translation type="obsolete">Sprawdź aktualizacje dla WPS Office.lnk</translation>
+    </message>
+    <message>
+        <source>Uninstall WPS Office.lnk</source>
+        <translation type="obsolete">Odinstaluj WPS Office.lnk</translation>
+    </message>
 </context>
 <context>
     <name>KMainDlg</name>
@@ -286,7 +314,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>An error occured when repairing, please retry.</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
-        <translation>Wystąpił błąd podczas naprawiania, spróbuj ponownie.</translation>
+        <translation type="obsolete">Wystąpił błąd podczas naprawiania, spróbuj ponownie.</translation>
     </message>
     <message>
         <source>Repair completed!</source>
@@ -296,6 +324,34 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
         <translation>Nie używasz konta administratora. Niektóre funkcje są niedostępne.</translation>
+    </message>
+    <message>
+        <source>An error occurred when repairing, please retry.</source>
+        <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
+        <translation>Wystąpił błąd podczas naprawiania, spróbuj ponownie.</translation>
+    </message>
+</context>
+<context>
+    <name>KOther</name>
+    <message>
+        <source>Other</source>
+        <translation type="obsolete">Inne</translation>
+    </message>
+    <message>
+        <source>WPS Office Cloud</source>
+        <translation type="obsolete">WPS Office Cloud</translation>
+    </message>
+    <message>
+        <source>Enable &quot;Upload to WPS Office Cloud&quot; on the Context Menu.</source>
+        <translation type="obsolete">Włącz &quot;Przekazywanie do usługi WPS Office Cloud&quot; w Menu kontekstowym.</translation>
+    </message>
+    <message>
+        <source>Others</source>
+        <translation type="obsolete">Inne</translation>
+    </message>
+    <message>
+        <source>Enable &quot;Upload to WPS Office Cloud&quot; on Context Menu.</source>
+        <translation type="obsolete">Włącz &quot;Przekazywanie do usługi WPS Office Cloud&quot; w Menu kontekstowym.</translation>
     </message>
 </context>
 <context>
@@ -474,15 +530,15 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;doc format by default</source>
-        <translation>Program WPS Writer zapisze nowe dokumenty w domyślnym formacie jako *.&amp;doc</translation>
+        <translation type="obsolete">Program WPS Writer zapisze nowe dokumenty w domyślnym formacie jako *.&amp;doc</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xls format by default</source>
-        <translation>Program WPS Spreadsheets zapisze nowe dokumenty w domyślnym formacie jako *.&amp;xls</translation>
+        <translation type="obsolete">Program WPS Spreadsheets zapisze nowe dokumenty w domyślnym formacie jako *.&amp;xls</translation>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;t format by default</source>
-        <translation>Program WPS Presentation zapisze nowe dokumenty w domyślnym formacie jako *.pp&amp;t</translation>
+        <translation type="obsolete">Program WPS Presentation zapisze nowe dokumenty w domyślnym formacie jako *.pp&amp;t</translation>
     </message>
     <message>
         <source>File Associations</source>
@@ -500,6 +556,26 @@ needs restarting Windows to take effect.</source>
         <translation>Opcja &quot;Zgodny z oprogramowaniem firm trzecich&quot;
 wymaga ponownego uruchomienia systemu Windows, aby została uwzględniona.</translation>
     </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2010</source>
+        <translation>&amp;Zgodny z pakietem Microsoft Office 2010</translation>
+    </message>
+    <message>
+        <source>WPS Writer new documents saved as *.&amp;docx format by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets new documents saved as *.&amp;xlsx format by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PD&amp;F Documents (*.pdf files)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KPageHomePage</name>
@@ -509,7 +585,7 @@ wymaga ponownego uruchomienia systemu Windows, aby została uwzględniona.</tran
     </message>
     <message>
         <source>You can unlock the IE homepage if you don&apos;t like. Note: unlock the homepage may have virus infection and your accounts hacked.</source>
-        <translation>Możesz odblokować stronę główną IE, jeśli Ci się nie podoba. Uwaga: Odblokowanie strony głównej może powodować ryzyko zainfekowania wirusem i kradzieży konta.</translation>
+        <translation type="obsolete">Możesz odblokować stronę główną IE, jeśli Ci się nie podoba. Uwaga: Odblokowanie strony głównej może powodować ryzyko zainfekowania wirusem i kradzieży konta.</translation>
     </message>
     <message>
         <source>Unlock the website navigation page(&amp;R)</source>
@@ -517,7 +593,20 @@ wymaga ponownego uruchomienia systemu Windows, aby została uwzględniona.</tran
     </message>
     <message>
         <source>Unlock completed</source>
-        <translation>Odblokowanie ukończone</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>Odblokowanie ukończone</lengthvariant>
+            <lengthvariant>Odblokowanie zakończone</lengthvariant>
+        </translation>
+    </message>
+    <message>
+        <source>You can change the IE homepage anytime.
+Notice that doing so exposes you to risks of virus infection and hacking.</source>
+        <translation>Możesz w każdej chwili zmienić stronę główną IE.
+Zauważ, że w ten sposób narażasz się na ryzyko zainfekowania wirusem i włamania.</translation>
+    </message>
+    <message>
+        <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
+        <translation>WPS Office jest darmowym oprogramowaniem. Twoje wsparcie jest niezbędne do jego poprawy.</translation>
     </message>
 </context>
 <context>
@@ -581,55 +670,103 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
         <source>·Registering kso.dll failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> Rejestrowanie kso.dll nie powiodło się</translation>
+        <translation type="obsolete"> Rejestrowanie kso.dll nie powiodło się</translation>
     </message>
     <message>
         <source>·Failed to register WPS Writer
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> Nie można zarejestrować programu WPS Writer</translation>
+        <translation type="obsolete"> Nie można zarejestrować programu WPS Writer</translation>
     </message>
     <message>
         <source>·Failed to register WPS Presentation
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> Nie można zarejestrować programu WPS Presentation</translation>
+        <translation type="obsolete"> Nie można zarejestrować programu WPS Presentation</translation>
     </message>
     <message>
         <source>·Failed to register WPS Spreadsheets
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> Nie można zarejestrować programu WPS Spreadsheets</translation>
+        <translation type="obsolete"> Nie można zarejestrować programu WPS Spreadsheets</translation>
     </message>
     <message>
         <source>·Registering WPS Equation Editor failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> Rejestrowanie Edytora równań WPS nie powiodło się</translation>
+        <translation type="obsolete"> Rejestrowanie Edytora równań WPS nie powiodło się</translation>
     </message>
     <message>
         <source>·WPS Writer not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> Nie odnaleziono programu WPS Writer</translation>
+        <translation type="obsolete"> Nie odnaleziono programu WPS Writer</translation>
     </message>
     <message>
         <source>·WPS Presentation not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> Nie odnaleziono programu WPS Presentation</translation>
+        <translation type="obsolete"> Nie odnaleziono programu WPS Presentation</translation>
     </message>
     <message>
         <source>·WPS Spreadsheets not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation> Nie odnaleziono programu WPS Spreadsheets</translation>
+        <translation type="obsolete"> Nie odnaleziono programu WPS Spreadsheets</translation>
     </message>
     <message>
         <source>To solve the above problems, you need to reinstall WPS Office. 
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
         <translation>Aby rozwiązać powyższe problemy, należy ponownie zainstalować WPS Office. </translation>
+    </message>
+    <message>
+        <source> Registering kso.dll failed
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> Rejestrowanie kso.dll nie powiodło się</translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Writer
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> Nie można zarejestrować programu WPS Writer</translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Presentation
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> Nie można zarejestrować programu WPS Presentation</translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Spreadsheets
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> Nie można zarejestrować programu WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source> Registering WPS Equation Editor failed
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> Rejestrowanie Edytora równań WPS nie powiodło się</translation>
+    </message>
+    <message>
+        <source> WPS Writer not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> Nie odnaleziono programu WPS Writer</translation>
+    </message>
+    <message>
+        <source> WPS Presentation not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> Nie odnaleziono programu WPS Presentation</translation>
+    </message>
+    <message>
+        <source> WPS Spreadsheets not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> Nie odnaleziono programu WPS Spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -1079,6 +1216,26 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
         <source>Microsoft PowerPoint Macro-Enabled Slide</source>
         <translation>Slajd programu Microsoft PowerPoint z obsługą makr</translation>
     </message>
+    <message>
+        <source>Microsoft Excel Backup File</source>
+        <translation>Plik kopii zapasowej programu Microsoft Excel</translation>
+    </message>
+    <message>
+        <source>WPS Writer Preview Handler</source>
+        <translation>Program do obsługi podglądu programu WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Preview Handler</source>
+        <translation>Program do obsługi podglądu programu WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Preview Handler</source>
+        <translation>Program do obsługi podglądu programu WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS PDF Document</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KSNManagerDlg</name>
@@ -1100,7 +1257,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>Programs that can be actiavted</source>
-        <translation>Programy, które mogą być aktywowane</translation>
+        <translation type="obsolete">Programy, które mogą być aktywowane</translation>
     </message>
     <message>
         <source>Subtotal:</source>
@@ -1109,6 +1266,10 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     <message>
         <source>Are you sure to delete the serial number?</source>
         <translation>Czy na pewno chcesz usunąć ten numer seryjny?</translation>
+    </message>
+    <message>
+        <source>Programs that can be activated</source>
+        <translation>Programy, które mogą być aktywowane</translation>
     </message>
 </context>
 <context>
@@ -1131,11 +1292,11 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>&amp;Download updates but let me choose whether to install them</source>
-        <translation>&amp;Pobierz aktualizacje, ale pozwól mi wybrać, czy je zainstalować</translation>
+        <translation type="unfinished">&amp;Pobierz aktualizacje, ale pozwól mi wybrać, czy je zainstalować</translation>
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>
-        <translation>Nie sprawdzaj aktualizacji automatycznie (niezalecane)</translation>
+        <translation type="obsolete">Nie sprawdzaj aktualizacji automatycznie (niezalecane)</translation>
     </message>
     <message>
         <source>Get the latest product news during updates(&amp;K)</source>
@@ -1201,6 +1362,30 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     <message>
         <source>The port must be a number between 1 and 65535.</source>
         <translation>Port musi być liczbą z przedziału od 1 do 65535.</translation>
+    </message>
+    <message>
+        <source>Do not check for updates automatically (not recommended)</source>
+        <translation type="obsolete">Nie sprawdzaj aktualizacji automatycznie (niezalecane)</translation>
+    </message>
+    <message>
+        <source>Update Items:</source>
+        <translation type="obsolete">Aktualizacja elementów:</translation>
+    </message>
+    <message>
+        <source>All new releases</source>
+        <translation type="obsolete">Wszystkie nowe wydania</translation>
+    </message>
+    <message>
+        <source>Recommended new releases</source>
+        <translation type="obsolete">Zalecane nowe wydania</translation>
+    </message>
+    <message>
+        <source>Do not &amp;check for updates automatically (not recommended)</source>
+        <translation>Nie &amp;sprawdzaj aktualizacji automatycznie (niezalecane)</translation>
+    </message>
+    <message>
+        <source>Check for update, but let me choose whether to &amp;download and install them</source>
+        <translation type="obsolete">Wyszukaj aktualizacje, ale pozwól mi wybrać, czy je &amp;pobrać i zainstalować</translation>
     </message>
 </context>
 <context>

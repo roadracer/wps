@@ -5,7 +5,7 @@
     <name>KRecommendButton</name>
     <message>
         <source>Install %1</source>
-        <translation type="unfinished">Installation %1</translation>
+        <translation>Installer %1</translation>
     </message>
 </context>
 <context>

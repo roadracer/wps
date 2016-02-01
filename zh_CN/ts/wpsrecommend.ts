@@ -31,4 +31,11 @@
         <translation>不用了</translation>
     </message>
 </context>
+<context>
+    <name>KRecButtonWidgetList</name>
+    <message>
+        <source>Install %1</source>
+        <translation>选择%1</translation>
+    </message>
+</context>
 </TS>

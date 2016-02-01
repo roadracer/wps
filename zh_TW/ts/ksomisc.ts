@@ -119,6 +119,22 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>KS Biaoge.lnk</source>
         <translation>金山表格.lnk</translation>
     </message>
+    <message>
+        <source>WPS Cloud.lnk</source>
+        <translation>WPS轻办公.lnk</translation>
+    </message>
+    <message>
+        <source>WPS Office.lnk</source>
+        <translation type="obsolete">WPS Office.lnk</translation>
+    </message>
+    <message>
+        <source>Pin to tas&amp;kbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin from tas&amp;kbar</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -224,11 +240,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>What&apos;s New.lnk</source>
-        <translation type="unfinished">版本更新信息.lnk</translation>
+        <translation>版本更新信息.lnk</translation>
     </message>
     <message>
         <source>View what&apos;s new file</source>
-        <translation type="unfinished">查看 WPS Office 產品的更新資訊。</translation>
+        <translation>查看 WPS Office 產品的更新資訊。</translation>
     </message>
     <message>
         <source>WPS Cloud.lnk</source>
@@ -236,15 +252,27 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
-        <translation>使用 WPS Office 輕辦公，輕鬆進行團隊協作。</translation>
+        <translation>使用 WPS Office 雲端檔案，輕鬆進行團隊協作。</translation>
     </message>
     <message>
         <source>WPS Office.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office.lnk</translation>
     </message>
     <message>
         <source>Launch WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>啟動WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS Office Configuration Tools.lnk</source>
+        <translation type="obsolete">WPS Office 組態工具.lnk</translation>
+    </message>
+    <message>
+        <source>Check for WPS Office Updates.lnk</source>
+        <translation type="obsolete">檢查 WPS Office 更新.lnk</translation>
+    </message>
+    <message>
+        <source>Uninstall WPS Office.lnk</source>
+        <translation type="obsolete">解除安裝 WPS Office.lnk</translation>
     </message>
 </context>
 <context>
@@ -256,8 +284,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>An error occured when repairing, please retry.</source>
-        <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
-        <translation>修補時出現異常，請重試！</translation>
+        <translation type="obsolete">修補時出現異常，請重試！</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -280,7 +307,7 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     <message>
         <source>If you can&apos;t fix the errors using the Start Repairing button, or you need to configure other advanced settings, please click the Advanced button below, then configure the settings in the corresponding tabs.</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation>如果您通過上述手段無法修復異常，或您需要進行其它進階配定，請按下下面的“進階”按鈕，並在對應的選項卡中進行您的設定。</translation>
+        <translation>如果您通過上述手段無法修復異常，或您需要進行其它進階配定，請按下下面的[進階]按鈕，並在對應的選項卡中進行您的設定。</translation>
     </message>
     <message>
         <source>If you can’t fix the errors using the Start Repairing button, or you need to configure other advanced settings, please click the Advanced button below, then configure the settings in the corresponding tabs.</source>
@@ -290,7 +317,7 @@ You can fix the errors encountered when using WPS Office or make advanced settin
         <source>If you encounter any errors when using WPS Office, such as program running or toolbar errors, please close all WPS Office applications and click the Start Repairing button below.
 We will do our utmost to repair the applications and restore them to the default state.</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation>如果您在使用 WPS Office 時，遇到不能正常啟動、工具檔錯誤等異常情况：請先關閉所有 WPS Office 套用程式；接著，按一下下面的“開始修復”按鈕。
+        <translation>如果您在使用 WPS Office 時，遇到不能正常啟動、工具檔錯誤等異常情况：請先關閉所有 WPS Office 套用程式；接著，按一下下面的[開始修復]按鈕。
 我們將最大限度地幫您修復異常，並恢復到預設可用狀態。</translation>
     </message>
     <message>
@@ -317,7 +344,23 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>您當前未使用管理員帳戶，無法使用某些功能。</translation>
+    </message>
+    <message>
+        <source>An error occurred when repairing, please retry.</source>
+        <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
+        <translation>修補時出現異常，請重試！</translation>
+    </message>
+</context>
+<context>
+    <name>KOther</name>
+    <message>
+        <source>Others</source>
+        <translation type="obsolete">其他</translation>
+    </message>
+    <message>
+        <source>Enable &quot;Upload to WPS Office Cloud&quot; on Context Menu.</source>
+        <translation type="obsolete">在內容功能表中啟用[上載至 WPS Office Cloud]選項</translation>
     </message>
 </context>
 <context>
@@ -396,7 +439,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>The clearing operation may not affect your original files. But please make sure there are no files need to be recovered before clearing them. Please check the check boxes that you need to clear separately and then click Start Clearing button.</source>
-        <translation>請放心，您的這些清理動作，完全不會影響到您的原始檔案。不過在清理前，請您務必確認您没有需要系統恢復的檔案。請您用複選框，選中需要單獨清理的部分，然後按一下下面“開始清理”按鈕。</translation>
+        <translation>請放心，您的這些清理動作，完全不會影響到您的原始檔案。不過在清理前，請您務必確認您没有需要系統恢復的檔案。請您用複選框，選中需要單獨清理的部分，然後按一下下面[開始清理]按鈕。</translation>
     </message>
     <message>
         <source>To protect document security, WPS Office has created sufficient backup files for the original files. You can delete the backup files here to save the disk space.</source>
@@ -470,7 +513,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <name>KPageFileAsso</name>
     <message>
         <source>&amp;Compatible with third-party software</source>
-        <translation type="unfinished">WPS Office 相容協力廠商系統和軟體(&amp;C)</translation>
+        <translation>WPS Office 相容協力廠商系統和軟體(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2003</source>
@@ -495,24 +538,24 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>Here you can set WPS Office Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. 
 These operations can be undone. </source>
-        <translation>您在這里可以設定，預設使用 WPS Office 開啟常用檔案，或是恢復原有的檔案關聯設定；或是儲存為常用檔案格式。設定完後請按一下“確定”按鈕，確定您的關聯動作。
+        <translation>您在這里可以設定，預設使用 WPS Office 開啟常用檔案，或是恢復原有的檔案關聯設定；或是儲存為常用檔案格式。設定完後請按一下[確定]按鈕，確定您的關聯動作。
 請放心，這些動作都是完全可逆的。</translation>
     </message>
     <message>
         <source>If you choose the options below, document objects embedded will be opened by WPS Office which can also be embedded into the third-part software or system like IE browser and OA.</source>
-        <translation type="unfinished">以下選項若被選中，則以 WPS Office 開啟嵌入到檔案中的檔案物件，還支持將 WPS Office 嵌入到IE瀏覽器、OA等協力廠商軟體或系統中。</translation>
+        <translation>以下選項若被選中，則以 WPS Office 打開嵌入到文件中的文檔物件，還支持將 WPS Office 嵌入到 IE 瀏覽器、OA 等協力廠商系統和軟體。</translation>
     </message>
     <message>
         <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
-        <translation>Microsoft Excel檔案(&amp;E)(*.xls,*.xlt檔案)</translation>
+        <translation>Microsoft Excel檔案(&amp;E)(*.xls,*.xlt,*.xlsx,*.xlsm檔案)</translation>
     </message>
     <message>
         <source>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</source>
-        <translation>Microsoft PowerPoint檔案(&amp;P)(*.ppt,*.pot,*.pps檔案)</translation>
+        <translation>Microsoft PowerPoint檔案(&amp;P)(*.ppt,*.pot,*.pps,*.pptx檔案)</translation>
     </message>
     <message>
         <source>Microsoft &amp;Word Documents (*.doc, *.dot, *.docx files) and RTF Documents</source>
-        <translation>Microsoft Word檔案(&amp;W)(*.doc,*.dot檔案)及RTF檔案</translation>
+        <translation>Microsoft Word檔案(&amp;W)(*.doc,*.dot,*.docx檔案)及RTF檔案</translation>
     </message>
     <message>
         <source>The option &quot;Compat with third party softwares&quot;
@@ -524,7 +567,7 @@ needs restarting Windows to take effect.</source>
         <source>The option &quot;Compatible with third-party software&quot;
 needs restarting Windows to take effect.</source>
         <extracomment>ksomisc -&gt; Advanced -&gt; File Asso -&gt; Check/Uncheck compat with mso.</extracomment>
-        <translation>選項“WPS Office 兼容第三方系統和軟件”
+        <translation>選項[WPS Office 兼容第三方系統和軟件]
 需要重啟Windows系統之後才能生效。</translation>
     </message>
     <message>
@@ -538,34 +581,63 @@ needs restarting Windows to take effect.</source>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;t format by default</source>
-        <translation>WPS Presentation 新增立檔案預設儲存為*.ppt格式(&amp;T)</translation>
+        <translation type="obsolete">WPS Presentation 新增立檔案預設儲存為*.ppt格式(&amp;T)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xls format by default</source>
-        <translation>WPS Spreadsheets 新增立檔案預設儲存為*.xls格式(&amp;X)</translation>
+        <translation type="obsolete">WPS Spreadsheets 新增立檔案預設儲存為*.xls格式(&amp;X)</translation>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;doc format by default</source>
-        <translation>WPS Writer 新增立檔案預設儲存為*.doc格式(&amp;D)</translation>
+        <translation type="obsolete">WPS Writer 新增立檔案預設儲存為*.doc格式(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2010</source>
+        <translation>與 Microsoft Office 2010 兼容(&amp;D)</translation>
+    </message>
+    <message>
+        <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
+        <translation>WPS Presentation 新增立檔案預設儲存為*.pptx格式(&amp;T)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets new documents saved as *.&amp;xlsx format by default</source>
+        <translation>WPS Spreadsheets 新增立檔案預設儲存為*.xlsx格式(&amp;X)</translation>
+    </message>
+    <message>
+        <source>WPS Writer new documents saved as *.&amp;docx format by default</source>
+        <translation>WPS Writer 新增立檔案預設儲存為*.docx格式(&amp;D)</translation>
+    </message>
+    <message>
+        <source>PD&amp;F Documents (*.pdf files)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KPageHomePage</name>
     <message>
         <source>Unlock completed</source>
-        <translation type="unfinished">解除主頁鎖定成功</translation>
+        <translation type="obsolete">解除主頁鎖定成功</translation>
     </message>
     <message>
         <source>Unlock the website navigation page(&amp;R)</source>
-        <translation type="unfinished">解除鎖定網址大全(&amp;R)</translation>
+        <translation>解除鎖定網址大全(&amp;R)</translation>
     </message>
     <message>
         <source>Website Navigation Page</source>
-        <translation type="unfinished">網址大全</translation>
+        <translation>網址大全</translation>
     </message>
     <message>
         <source>You can unlock the IE homepage if you don&apos;t like. Note: unlock the homepage may have virus infection and your accounts hacked.</source>
-        <translation type="unfinished">如果你不喜歡金山網址大全，可解除IE主頁鎖定。溫馨提示：解除主頁鎖定將面臨感染病毒、帳號被盜的風險。</translation>
+        <translation type="obsolete">如果你不喜歡金山網址大全，可解除IE主頁鎖定。溫馨提示：解除主頁鎖定將面臨感染病毒、賬號被盜的風險。</translation>
+    </message>
+    <message>
+        <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
+        <translation>WPS Office 是一款免費的軟體。我們十分重視您的支持。</translation>
+    </message>
+    <message>
+        <source>You can change the IE homepage anytime.
+Notice that doing so exposes you to risks of virus infection and hacking.</source>
+        <translation>如果你不喜歡金山網址大全，可解除IE主頁鎖定。溫馨提示：解除主頁鎖定將面臨感染病毒、賬號被盜的風險。</translation>
     </message>
 </context>
 <context>
@@ -637,56 +709,112 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
         <source>·Failed to register WPS Presentation
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·WPS Presentation 註冊失敗
+        <translation type="obsolete">·WPS Presentation 註冊失敗
 </translation>
     </message>
     <message>
         <source>·Failed to register WPS Spreadsheets
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·WPS Spreadsheets 註冊失敗
+        <translation type="obsolete">·WPS Spreadsheets 註冊失敗
 </translation>
     </message>
     <message>
         <source>·Failed to register WPS Writer
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·WPS Writer 註冊失敗
+        <translation type="obsolete">·WPS Writer 註冊失敗
 </translation>
     </message>
     <message>
         <source>·Registering WPS Equation Editor failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·公式編輯器註冊失敗
+        <translation type="obsolete">·公式編輯器註冊失敗
 </translation>
     </message>
     <message>
         <source>·Registering kso.dll failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·kso.dll註冊失敗
+        <translation type="obsolete">·kso.dll註冊失敗
 </translation>
     </message>
     <message>
         <source>·WPS Presentation not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·沒有找到WPS Presentation
+        <translation type="obsolete">·沒有找到WPS Presentation
 </translation>
     </message>
     <message>
         <source>·WPS Spreadsheets not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·沒有找到WPS Spreadsheets
+        <translation type="obsolete">·沒有找到WPS Spreadsheets
 </translation>
     </message>
     <message>
         <source>·WPS Writer not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·沒有找到WPS Writer
+        <translation type="obsolete">·沒有找到WPS Writer
+</translation>
+    </message>
+    <message>
+        <source> Registering kso.dll failed
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> kso.dll註冊失敗
+</translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Writer
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> WPS Writer 註冊失敗
+</translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Presentation
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> WPS Presentation 註冊失敗
+</translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Spreadsheets
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> WPS Spreadsheets 註冊失敗
+</translation>
+    </message>
+    <message>
+        <source> Registering WPS Equation Editor failed
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> 公式編輯器註冊失敗
+</translation>
+    </message>
+    <message>
+        <source> WPS Writer not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> 沒有找到WPS Writer
+</translation>
+    </message>
+    <message>
+        <source> WPS Presentation not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> 沒有找到WPS Presentation
+</translation>
+    </message>
+    <message>
+        <source> WPS Spreadsheets not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> 沒有找到WPS Spreadsheets
 </translation>
     </message>
 </context>
@@ -702,11 +830,11 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
     </message>
     <message>
         <source>Note: After clicking the button above, the message will be closed automatically. If you have other requirements, please reopen the tab after the Repair Installation is completed.</source>
-        <translation>注意：您在點擊完以上按鈕後，本對話方塊將會被自動關閉。如果您有其它需要，請在“修復安裝”完成後，再次進入本工具。</translation>
+        <translation>注意：您在點擊完以上按鈕後，本對話方塊將會被自動關閉。如果您有其它需要，請在修復安裝完成後，再次進入本工具。</translation>
     </message>
     <message>
         <source>Please backup files you are working on properly and close all WPS Office applications, then click the Repair Install below to reinstall.</source>
-        <translation>請您先妥善備份目前正在工作中的各檔案，並關閉所有 WPS Office 套用程式；再按一下下面的“修復安裝”按鈕，開始重新安裝。</translation>
+        <translation>請您先妥善備份目前正在工作中的各檔案，並關閉所有 WPS Office 套用程式；再按一下下面的[修復安裝]按鈕，開始重新安裝。</translation>
     </message>
     <message>
         <source>Repair Install</source>
@@ -799,7 +927,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translation>WPS 試算表</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -831,79 +959,79 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft Office Excel Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office Excel 應用程式</translation>
     </message>
     <message>
         <source>Microsoft Excel Sheet</source>
-        <translation type="unfinished">Microsoft Excel 工作表</translation>
+        <translation>Microsoft Excel工作表</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Worksheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 97-2003 工作表</translation>
     </message>
     <message>
         <source>Microsoft Excel Macro-Enabled Worksheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 啟用巨集的工作表</translation>
     </message>
     <message>
         <source>Microsoft Office Excel 2007 Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office Excel 2007 活頁簿</translation>
     </message>
     <message>
         <source>Microsoft Excel Chart</source>
-        <translation type="unfinished">Microsoft Excel 圖表</translation>
+        <translation>Microsoft Excel 圖表</translation>
     </message>
     <message>
         <source>Microsoft Office Excel 2007 Macro-Enabled Workbook</source>
-        <translation type="unfinished">Microsoft Office Excel 2007 啟用巨集的活頁簿</translation>
+        <translation>Microsoft Office Excel 2007 啟用巨集的活頁簿</translation>
     </message>
     <message>
         <source>Microsoft Office Excel 2007 Binary Workbook</source>
-        <translation type="unfinished">Microsoft Office Excel 2007 二進位活頁簿</translation>
+        <translation>Microsoft Office Excel 2007 二進位活頁簿</translation>
     </message>
     <message>
         <source>Microsoft Excel Add-In</source>
-        <translation type="unfinished">Microsoft Excel 增益集</translation>
+        <translation>Microsoft Excel 增益集</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Chart</source>
-        <translation type="unfinished">Microsoft Office Excel 圖表</translation>
+        <translation>Microsoft Office Excel 圖表</translation>
     </message>
     <message>
         <source>Microsoft Excel SLK File</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel SLK 資料匯入格式</translation>
     </message>
     <message>
         <source>Microsoft Office Excel CSV Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office Excel 逗點分隔值檔案</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Sheet</source>
-        <translation type="unfinished">Microsoft Office Excel 工作表</translation>
+        <translation>Microsoft Office Excel 工作表</translation>
     </message>
     <message>
         <source>Microsoft Excel Template</source>
-        <translation type="unfinished">Microsoft Excel 範本</translation>
+        <translation>Microsoft Excel 範本</translation>
     </message>
     <message>
         <source>Microsoft Word Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word 應用程式</translation>
     </message>
     <message>
         <source>Microsoft Excel Macro-Enabled Template</source>
-        <translation type="unfinished">Microsoft Excel 啟用巨集的範本</translation>
+        <translation>Microsoft Excel啟用巨集的工作表</translation>
     </message>
     <message>
         <source>Macro-Enabled Sheet</source>
-        <translation type="unfinished">啟用巨集的工作表</translation>
+        <translation>啟用巨集的工作表</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Template</source>
-        <translation type="unfinished">Microsoft Office Excel 範本</translation>
+        <translation>Microsoft Office Excel 範本</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Add-In</source>
-        <translation type="unfinished">Microsoft Office Excel 增益集</translation>
+        <translation>Microsoft Office Excel 增益集</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Web Query File</source>
@@ -915,171 +1043,171 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft Excel Workbook</source>
-        <translation type="unfinished">Microsoft Excel 工作簿</translation>
+        <translation>Microsoft Excel 活頁簿</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Slide</source>
-        <translation type="unfinished">Microsoft PowerPoint 投影片</translation>
+        <translation>Microsoft PowerPoint 投影片</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Template</source>
-        <translation type="unfinished">Microsoft PowerPoint 範本</translation>
+        <translation>Microsoft PowerPoint 範本</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 2007 Slide</source>
-        <translation type="unfinished">Microsoft PowerPoint 2007 投影片</translation>
+        <translation>Microsoft PowerPoint 2007 簡報</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 2007 Macro-Enabled Slide</source>
-        <translation type="unfinished">Microsoft PowerPoint 2007 啟用巨集的投影片</translation>
+        <translation>Microsoft PowerPoint 2007啟用巨集的投影片</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 2007 Template</source>
-        <translation type="unfinished">Microsoft PowerPoint 2007 範本</translation>
+        <translation>Microsoft PowerPoint 2007範本</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Presentation</source>
-        <translation type="unfinished">Microsoft PowerPoint 簡報</translation>
+        <translation>Microsoft PowerPoint簡報</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint 應用程式</translation>
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished">簡報</translation>
+        <translation>簡報</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
-        <translation type="unfinished">Microsoft PowerPoint 97-2003 簡報</translation>
+        <translation>Microsoft PowerPoint 97-2003 簡報</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 SlideShow</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint 97-2003 投影片</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint 07 範本  {97-2003 ?}</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Macro-Enabled Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint 啟用巨集的投影片</translation>
     </message>
     <message>
         <source>PowerPoint Presentation</source>
-        <translation type="unfinished">PowerPoint 簡報</translation>
+        <translation>PowerPoint  簡報</translation>
     </message>
     <message>
         <source>S&amp;how</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示(&amp;H)</translation>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished">投影片</translation>
+        <translation>投影片</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Slide</source>
-        <translation type="unfinished">Microsoft PowerPoint 97-2003 投影片</translation>
+        <translation>Microsoft PowerPoint 97-2003 Slide</translation>
     </message>
     <message>
         <source>Microsoft Office PowerPoint 2007 Presentation</source>
-        <translation type="unfinished">Microsoft Office PowerPoint 2007 簡報</translation>
+        <translation>Microsoft Office PowerPoint 2007 簡報</translation>
     </message>
     <message>
         <source>Microsoft Office PowerPoint 2007 Macro-Enabled Presentation</source>
-        <translation type="unfinished">Microsoft Office PowerPoint 2007 啟用巨集的簡報</translation>
+        <translation>Microsoft Office PowerPoint 2007 啟用巨集的簡報</translation>
     </message>
     <message>
         <source>Microsoft Office PowerPoint 2007 Slide</source>
-        <translation type="unfinished">Microsoft Office PowerPoint 2007 投影片</translation>
+        <translation>Microsoft Office PowerPoint 2007 投影片</translation>
     </message>
     <message>
         <source>Microsoft Office PowerPoint 2007 Macro-Enabled Show</source>
-        <translation type="unfinished">Microsoft Office PowerPoint 2007 啟用巨集的播放檔</translation>
+        <translation>Microsoft Office PowerPoint 2007 啟用巨集的播放檔</translation>
     </message>
     <message>
         <source>Microsoft Office PowerPoint 2007 Show</source>
-        <translation type="unfinished">Microsoft Office PowerPoint 2007 播放檔</translation>
+        <translation>Microsoft Office PowerPoint 2007 播放檔</translation>
     </message>
     <message>
         <source>Microsoft Office PowerPoint 2007 Macro-Enabled Slide</source>
-        <translation type="unfinished">Microsoft Office PowerPoint 2007 啟用巨集的投影片</translation>
+        <translation>Microsoft Office PowerPoint 2007 啟用巨集的投影片</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 07 Template</source>
-        <translation type="unfinished">Microsoft PowerPoint 07 範本</translation>
+        <translation>Microsoft PowerPoint 07 範本 </translation>
     </message>
     <message>
         <source>Microsoft Office Word Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office Word 應用程式</translation>
     </message>
     <message>
         <source>Microsoft Word Document</source>
-        <translation type="unfinished">Microsoft Word 文件</translation>
+        <translation>Microsoft Word 文件</translation>
     </message>
     <message>
         <source>Microsoft Word 97 - 2003 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word 97 - 2003 文件</translation>
     </message>
     <message>
         <source>Microsoft Word 97 - 2003 Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word 97 - 2003 範本</translation>
     </message>
     <message>
         <source>Microsoft Office Word 2007 Document</source>
-        <translation type="unfinished">Microsoft Office Word 2007 文件</translation>
+        <translation>Microsoft Office Word 2007文件</translation>
     </message>
     <message>
         <source>Microsoft Word Macro-Enabled Document</source>
-        <translation type="unfinished">Microsoft Word 啟用巨集的文件</translation>
+        <translation>Microsoft Word 啟用巨集的文件</translation>
     </message>
     <message>
         <source>Microsoft Word Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word 圖片</translation>
     </message>
     <message>
         <source>Microsoft Word 6.0 - 7.0 Document</source>
-        <translation type="unfinished">Microsoft Word 6.0 - 7.0 文件</translation>
+        <translation>Microsoft Word 6.0 - 7.0 文件</translation>
     </message>
     <message>
         <source>Microsoft Word 6.0 - 7.0 Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word 6.0 - 7.0 圖片</translation>
     </message>
     <message>
         <source>RTF Format</source>
-        <translation type="unfinished">RTF 格式</translation>
+        <translation>RTF 格式</translation>
     </message>
     <message>
         <source>Microsoft Word Template</source>
-        <translation type="unfinished">Microsoft Word 範本</translation>
+        <translation>Microsoft Word 範本</translation>
     </message>
     <message>
         <source>Microsoft Office Word 2007 Macro-Enabled Document</source>
-        <translation type="unfinished">Microsoft Office Word 2007 啟用巨集的文件</translation>
+        <translation>Microsoft Office Word 2007啟用巨集的文件</translation>
     </message>
     <message>
         <source>Microsoft Word Macro-Enabled Template</source>
-        <translation type="unfinished">Microsoft Word 啟用巨集的範本</translation>
+        <translation>Microsoft Word 啟用巨集的範本</translation>
     </message>
     <message>
         <source>Macro-Enabled Template</source>
-        <translation type="unfinished">啟用巨集的範本</translation>
+        <translation>啟用巨集的範本</translation>
     </message>
     <message>
         <source>RTF Text</source>
-        <translation type="unfinished"></translation>
+        <translation>RTF 文字</translation>
     </message>
     <message>
         <source>Microsoft Word 2007 Template</source>
-        <translation type="unfinished">Microsoft Word 2007 範本</translation>
+        <translation>Microsoft Word 2007 範本</translation>
     </message>
     <message>
         <source>Microsoft Word 2007 Macro-Enabled Template</source>
-        <translation type="unfinished">Microsoft Word 2007 啟用巨集的範本</translation>
+        <translation>Microsoft Word 2007 啟用巨集的範本</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished">WPS Presentation</translation>
+        <translation>WPS 簡報</translation>
     </message>
     <message>
         <source>WPS Presentation Document</source>
@@ -1091,7 +1219,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished">WPS Writer</translation>
+        <translation>WPS文字</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -1103,7 +1231,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft PowerPoint Slide Show</source>
-        <translation type="unfinished">Microsoft PowerPoint 投影片放映</translation>
+        <translation>Microsoft PowerPoint 投影片放映</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
@@ -1111,39 +1239,59 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>&amp;Edit,0,2</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯(&amp;E),0,2</translation>
     </message>
     <message>
         <source>&amp;Open,0,2</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟(&amp;O),0,2</translation>
     </message>
     <message>
         <source>WPS Equation 3.0</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS 方程式 3.0</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>方程式</translation>
     </message>
     <message>
         <source>Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>工作表</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>文件</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>圖片</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Macro-Enabled Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint 啟用巨集的簡報</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Data Interchange Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office Excel 資料交換格式</translation>
+    </message>
+    <message>
+        <source>WPS PDF Document</source>
+        <translation>WPS PDF 文件</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Backup File</source>
+        <translation>Microsoft Excel 備份檔案</translation>
+    </message>
+    <message>
+        <source>WPS Writer Preview Handler</source>
+        <translation>WPS Writer 預覽器</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Preview Handler</source>
+        <translation>WPS Spreadsheets 預覽器</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Preview Handler</source>
+        <translation>WPS Presentation 預覽器</translation>
     </message>
 </context>
 <context>
@@ -1166,7 +1314,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Programs that can be actiavted</source>
-        <translation>可啟動程式</translation>
+        <translation type="obsolete">可啟動程式</translation>
     </message>
     <message>
         <source>Serial Number</source>
@@ -1176,12 +1324,16 @@ The button icon, command group and task window position of each scheme are diffe
         <source>Subtotal:</source>
         <translation>小計:</translation>
     </message>
+    <message>
+        <source>Programs that can be activated</source>
+        <translation>可啟動程式</translation>
+    </message>
 </context>
 <context>
     <name>KUpDate</name>
     <message>
         <source>&amp;Download updates but let me choose whether to install them</source>
-        <translation>自動下載升級包，但是由我來决定什麼時候安裝(&amp;D)</translation>
+        <translation type="unfinished">自動下載升級包，但是由我來决定什麼時候安裝(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Show information bar</source>
@@ -1197,7 +1349,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>
-        <translation>關閉自動升級</translation>
+        <translation type="obsolete">關閉自動升級</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
@@ -1222,7 +1374,7 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>IP Address is not valid!</source>
         <extracomment>ksomisc -&gt; advance -&gt; Update Settings -&gt; custom proxy -&gt; input a invalid ip addr</extracomment>
-        <translation type="unfinished">IP 位址無效！</translation>
+        <translation>IP 位址格式無效。</translation>
     </message>
     <message>
         <source>Internet Connection:</source>
@@ -1250,7 +1402,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>To improve the quality, reliability, and capability of WPS Office and its service, you are invited to participate in User Experience Improvement Activity.</source>
-        <translation>為了提高Kingsoft軟體和服務的品質、可靠性和效能，我們特邀您參加我們的“客户體驗改進活動”。</translation>
+        <translation>為了提高 WPS Office 軟體和服務的品質、可靠性和效能，我們特邀您參加我們的“客户體驗改進活動”。</translation>
     </message>
     <message>
         <source>Update Mode:</source>
@@ -1274,11 +1426,35 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Software recommend：</source>
-        <translation type="unfinished"></translation>
+        <translation>推薦軟體：</translation>
     </message>
     <message>
         <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>升級完成後推薦精選軟體(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Do not check for updates automatically (not recommended)</source>
+        <translation type="obsolete">關閉自動升級</translation>
+    </message>
+    <message>
+        <source>Do not &amp;check for updates automatically (not recommended)</source>
+        <translation>關閉自動升級</translation>
+    </message>
+    <message>
+        <source>Update Items:</source>
+        <translation type="obsolete">升級內容:</translation>
+    </message>
+    <message>
+        <source>All new releases</source>
+        <translation type="obsolete">所有新版本</translation>
+    </message>
+    <message>
+        <source>Recommended new releases</source>
+        <translation type="obsolete">建議安裝的新版本</translation>
+    </message>
+    <message>
+        <source>Check for update, but let me choose whether to &amp;download and install them</source>
+        <translation type="obsolete">檢查更新，但讓我選擇是否下載與安裝(&amp;D)</translation>
     </message>
 </context>
 <context>

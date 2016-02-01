@@ -122,7 +122,7 @@
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished">主题样式</translation>
+        <translation>主题样式</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
@@ -130,31 +130,31 @@
     </message>
     <message>
         <source>Light Style</source>
-        <translation type="unfinished">浅色样式</translation>
+        <translation>浅色样式</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished">中度样式</translation>
+        <translation>中度样式</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished">深色样式</translation>
+        <translation>深色样式</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished">深色样式 2</translation>
+        <translation>深色样式 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished">深色样式 2-强调 1/强调 2</translation>
+        <translation>深色样式 2-强调 1/强调 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished">深色样式 2-强调 3/强调 4</translation>
+        <translation>深色样式 2-强调 3/强调 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished">深色样式 2-强调 5/强调 6</translation>
+        <translation>深色样式 2-强调 5/强调 6</translation>
     </message>
     <message>
         <source>No Style,Gridded</source>
@@ -237,35 +237,35 @@
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">首行填充</translation>
+        <translation>首行填充</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished">首列填充</translation>
+        <translation>首列填充</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">末行填充</translation>
+        <translation>末行填充</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">末列填充</translation>
+        <translation>末列填充</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished">隔行填充</translation>
+        <translation>隔行填充</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">隔列填充</translation>
+        <translation>隔列填充</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>首行首列填充</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>首行末行填充</translation>
     </message>
     <message>
         <source>Styless, No grid</source>
@@ -309,11 +309,11 @@
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished">淡</translation>
+        <translation>淡</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished">中</translation>
+        <translation>中</translation>
     </message>
     <message>
         <source>Dark</source>
@@ -348,43 +348,43 @@
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">首行填充</translation>
+        <translation>首行填充</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished">首列填充</translation>
+        <translation>首列填充</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">末行填充</translation>
+        <translation>末行填充</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">末列填充</translation>
+        <translation>末列填充</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished">隔行填充</translation>
+        <translation>隔行填充</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">隔列填充</translation>
+        <translation>隔列填充</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>首行首列填充</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>首行末行填充</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished">淡</translation>
+        <translation>淡</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished">中</translation>
+        <translation>中</translation>
     </message>
     <message>
         <source>Dark</source>

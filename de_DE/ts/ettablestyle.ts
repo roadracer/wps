@@ -14,11 +14,11 @@
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation>verbundene Spalten</translation>
+        <translation>Verbundene Spalten</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation>verbundene Zeilen</translation>
+        <translation>Verbundene Zeilen</translation>
     </message>
     <message>
         <source>deep color style</source>
@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation>betont</translation>
+        <translation>Betont</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
@@ -98,31 +98,31 @@
     </message>
     <message>
         <source>Light Style</source>
-        <translation>heller Farbstil</translation>
+        <translation>Heller Farbstil</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation>mäßiger Farbstil</translation>
+        <translation>Mäßiger Farbstil</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation>dunkler Farbstil</translation>
+        <translation>Dunkler Farbstil</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation>dunkler Farbstil 2</translation>
+        <translation>Dunkler Farbstil 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished">dunkler Farbstil 2-betont 1/betont 2</translation>
+        <translation>Dunkle Formatvorlage 2-Hervorheben 1/Hervorheben 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished">dunkler Farbstil 2-betont 3/betont 4</translation>
+        <translation>Dunkle Formatvorlage 2-Hervorheben 3/Hervorheben 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>dunkler Farbstil 2-betont 5/betont 6</translation>
+        <translation>Dunkler Farbstil 2-betont 5/betont 6</translation>
     </message>
     <message>
         <source>No Style,Gridded</source>
@@ -141,11 +141,11 @@
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">verbundene Spalten</translation>
+        <translation>Verbundene Spalten</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished">verbundene Zeilen</translation>
+        <translation>Verbundene Zeilen</translation>
     </message>
     <message>
         <source>Best Match</source>
@@ -185,27 +185,27 @@
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished">Erste Spalte</translation>
+        <translation>Erste Spalte</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">Erste Zeile</translation>
+        <translation>Erste Zeile</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Erste Zeile und erste Spalte</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Erste Zeile und letzte Zeile</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">Letzte Spalte</translation>
+        <translation>Letzte Spalte</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">Letzte Zeile</translation>
+        <translation>Letzte Zeile</translation>
     </message>
     <message>
         <source>light color style</source>
@@ -237,19 +237,19 @@
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Hell</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Mittel</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunkel</translation>
     </message>
     <message>
         <source>No Style, No Grid</source>
-        <translation>stillos, kein Raster</translation>
+        <translation>Stillos, kein Raster</translation>
     </message>
     <message>
         <source>Theme Style</source>
@@ -257,39 +257,39 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation>betont</translation>
+        <translation>Betont</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation>stillvoll, gerastert</translation>
+        <translation>Stillvoll, gerastert</translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation>heller Farbstil</translation>
+        <translation>Heller Farbstil</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation>mäßiger Farbstil</translation>
+        <translation>Mäßiger Farbstil</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation>dunkler Farbstil</translation>
+        <translation>Dunkler Farbstil</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation>dunkler Farbstil 2</translation>
+        <translation>Dunkler Farbstil 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation>dunkler Farbstil 2-betont 1/betont 2</translation>
+        <translation>Dunkler Farbstil 2-betont 1/betont 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation>dunkler Farbstil 2-betont 3/betont 4</translation>
+        <translation>Dunkler Farbstil 2-betont 3/betont 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>dunkler Farbstil 2-betont 5/betont 6</translation>
+        <translation>Dunkler Farbstil 2-betont 5/betont 6</translation>
     </message>
     <message>
         <source>No Style,Gridded</source>
@@ -300,11 +300,11 @@
     <name>KxStylesPanel</name>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">verbundene Spalten</translation>
+        <translation>Verbundene Spalten</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished">verbundene Zeilen</translation>
+        <translation>Verbundene Zeilen</translation>
     </message>
     <message>
         <source>Best Match</source>
@@ -316,27 +316,27 @@
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished">Erste Spalte</translation>
+        <translation>Erste Spalte</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">Erste Zeile</translation>
+        <translation>Erste Zeile</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Erste Zeile und erste Spalte</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Erste Zeile und letzte Zeile</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">Letzte Spalte</translation>
+        <translation>Letzte Spalte</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">Letzte Zeile</translation>
+        <translation>Letzte Zeile</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -348,15 +348,15 @@
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Hell</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Mittel</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunkel</translation>
     </message>
 </context>
 <context>

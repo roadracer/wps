@@ -729,7 +729,7 @@ Datei nicht gefunden.
     </message>
     <message>
         <source>the file</source>
-        <translation>die Datei</translation>
+        <translation>Datei</translation>
     </message>
     <message>
         <source>the symlink</source>
@@ -1539,7 +1539,7 @@ in
     </message>
     <message>
         <source>Incorrectly specified signal assignment</source>
-        <translation></translation>
+        <translation>Falsch angegebene Signalzuweisung</translation>
     </message>
     <message>
         <source>Invalid alias location</source>
@@ -3637,7 +3637,7 @@ Soll sie überschrieben werden?</translation>
     <name>QMdiSubWindow</name>
     <message>
         <source>- [%1]</source>
-        <translation>- [%1]</translation>
+        <translation>%1 - </translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -3657,7 +3657,7 @@ Soll sie überschrieben werden?</translation>
     </message>
     <message>
         <source>%1 - [%2]</source>
-        <translation>%1 - [%2]</translation>
+        <translation>%2 - %1</translation>
     </message>
     <message>
         <source>Close</source>
@@ -4676,7 +4676,7 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation>unbekannt</translation>
+        <translation>Unbekannt</translation>
     </message>
     <message>
         <source>US Common #10 Envelope</source>
@@ -4825,7 +4825,7 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     </message>
     <message>
         <source>Current Page</source>
-        <translation></translation>
+        <translation>Aktuelle Seite</translation>
     </message>
     <message>
         <source>Duplex Printing</source>
@@ -7856,7 +7856,7 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     </message>
     <message>
         <source>external parsed general entity reference not allowed in DTD</source>
-        <translation>in der DTD sind keine externen Entity-Referenzen erlaubt </translation>
+        <translation>in der DTD sind keine externen Entity-Referenzen erlaubt</translation>
     </message>
     <message>
         <source>internal general entity reference not allowed in DTD</source>
@@ -8058,7 +8058,7 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     </message>
     <message>
         <source>Entity &apos;%1&apos; not declared.</source>
-        <translation>Die Entity &apos;%1&apos; ist nicht deklariert.</translation>
+        <translation>Die Entität &apos;%1&apos; ist nicht deklariert.</translation>
     </message>
     <message>
         <source>Expected </source>

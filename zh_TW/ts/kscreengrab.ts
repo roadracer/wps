@@ -6,91 +6,91 @@
     <name>KScreenGrabDialog</name>
     <message>
         <source>Rect Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>矩形工具</translation>
     </message>
     <message>
         <source>Ellipse Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>橢圓形工具</translation>
     </message>
     <message>
         <source>Arrow Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>箭號工具</translation>
     </message>
     <message>
         <source>Brush Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>筆刷工具</translation>
     </message>
     <message>
         <source>Text Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>文字工具</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>復原</translation>
     </message>
     <message>
         <source>Copy to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>複製到剪貼簿</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>儲存</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>結束</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
     <message>
         <source>Reselect Region</source>
-        <translation type="unfinished"></translation>
+        <translation>重新選取區域</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>隱藏工具列</translation>
     </message>
     <message>
         <source>%1 * %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 * %2</translation>
     </message>
     <message>
         <source>(%1, %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>(%1, %2)</translation>
     </message>
     <message>
         <source>RGB:(%1, %2, %3)</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB:(%1, %2, %3)</translation>
     </message>
     <message>
         <source>Press Alt
 to Adsorb Line</source>
-        <translation type="unfinished"></translation>
+        <translation>按住 Alt 鍵吸附直線</translation>
     </message>
     <message>
         <source>Capture%1</source>
-        <translation type="unfinished"></translation>
+        <translation>截图%1</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>另存為</translation>
     </message>
     <message>
         <source>%1;;%2;;%3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1;;%2;;%3</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示工具列</translation>
     </message>
 </context>
 <context>
     <name>KScreenGrabHint</name>
     <message>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"></translation>
+        <translation>已複製到剪貼簿。</translation>
     </message>
 </context>
 </TS>

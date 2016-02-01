@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ja_JP">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KdeImpl</name>
     <message>
@@ -39,12 +40,12 @@
     <message>
         <source>The shortcut key must be a letter.</source>
         <extracomment>et -&gt; developer -&gt; Macros -&gt; chooice a macro -&gt; Options -&gt; Shortcut key: = -&gt; OK</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">ショットカートキーはアルファベットを指定してください。</translation>
     </message>
     <message>
         <source>Shortcut key must be a letter.</source>
         <extracomment>et -&gt; developer -&gt; Macros -&gt; chooice a macro -&gt; Options -&gt; Shortcut key: = -&gt; OK</extracomment>
-        <translation>ショットカートキーはアルファベットを指定してください.。</translation>
+        <translation>ショットカートキーはアルファベットを指定してください。</translation>
     </message>
 </context>
 <context>
@@ -57,7 +58,7 @@
     <message>
         <source>&amp;Macro name:</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation>マクロ名(&amp;M):</translation>
+        <translation>マクロの名前(&amp;M):</translation>
     </message>
     <message>
         <source>&amp;Run</source>
@@ -123,12 +124,12 @@ developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&g
     <message>
         <source>The macros in this project are disabled.</source>
         <extracomment>developer -&gt; Security -&gt; VeryHigh; developer -&gt; Macros -&gt; Run</extracomment>
-        <translation>このプロジェクト内のマクロが禁止されます。</translation>
+        <translation>このプロジェクト内のマクロは無効になっています。</translation>
     </message>
     <message>
         <source>Do you want to delete macro %1 ?</source>
         <extracomment>developer -&gt; Macros -&gt; delete</extracomment>
-        <translation> &quot;%1&quot;マクロを削除しますか？</translation>
+        <translation> マクロ %1 を削除してもよろしいですか？</translation>
     </message>
     <message>
         <source>The project item name is not valid.</source>

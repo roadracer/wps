@@ -107,11 +107,12 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished">Style foncé 2-Mise en évidence 5/Mise en évidence 2 {2-?} {1/?}</translation>
+        <translatorcomment>Insert tab-&gt;Table-&gt;insert a table-&gt;Table Style tab-&gt;table styles drop-down menu</translatorcomment>
+        <translation>Style foncé 2-Mise en évidence 1/Mise en évidence 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished">Style foncé 2-Mise en évidence 5/Mise en évidence 4 {2-?} {3/?}</translation>
+        <translation>Style foncé 2-Mise en évidence 3/Mise en évidence 4</translation>
     </message>
 </context>
 <context>
@@ -323,23 +324,23 @@
     <name>DlgKxInvolvedTemplate</name>
     <message>
         <source>Involved Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle concerné</translation>
     </message>
     <message>
         <source>Select Involved Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner le modèle concerné</translation>
     </message>
     <message>
         <source>Apply Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer actuel</translation>
     </message>
     <message>
         <source>Apply All</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer tout</translation>
     </message>
     <message>
         <source>Apply Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer le masque</translation>
     </message>
 </context>
 <context>
@@ -463,7 +464,7 @@
     </message>
     <message>
         <source>Add Effects</source>
-        <translation type="unfinished">Ajouter des effets</translation>
+        <translation>Ajouter des effets</translation>
     </message>
 </context>
 <context>
@@ -604,11 +605,11 @@
     </message>
     <message>
         <source>Display options</source>
-        <translation>Options d’affichage</translation>
+        <translation>Options d&apos;affichage</translation>
     </message>
     <message>
         <source>Effect Options</source>
-        <translation>Options d’effet</translation>
+        <translation>Options d&apos;effet</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -751,7 +752,7 @@
     </message>
     <message>
         <source>Unlocked</source>
-        <translation type="unfinished"></translation>
+        <translation>Déverrouillée</translation>
     </message>
 </context>
 <context>
@@ -762,7 +763,7 @@
     </message>
     <message>
         <source>Cannot &amp;end line:</source>
-        <translation type="unfinished">N&amp;e pas terminer les lignes par :</translation>
+        <translation>Impossible de &amp;terminer la ligne :</translation>
     </message>
     <message>
         <source>Cannot &amp;start line:</source>
@@ -789,7 +790,7 @@
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation>Chargement de KUI</translation>
+        <translation>Chargement de GUI</translation>
     </message>
 </context>
 <context>
@@ -824,7 +825,7 @@
     <message>
         <source>Begin s&amp;ize:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished">Ta&amp;ille de départ :</translation>
+        <translation>Ta&amp;ille de départ :</translation>
     </message>
     <message>
         <source>De&amp;fault for new objects</source>
@@ -855,14 +856,14 @@
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">Automatique</translation>
+        <translation>Automatique</translation>
     </message>
 </context>
 <context>
     <name>KWppZoomSlider</name>
     <message id="0">
         <source>Fit slide to current window</source>
-        <translation type="unfinished">Ajuster la diapositive à la fenêtre active</translation>
+        <translation>Ajuster la diapositive à la fenêtre active</translation>
     </message>
 </context>
 <context>
@@ -888,18 +889,18 @@
     </message>
     <message>
         <source>Thousands of templates to create snazzy and distinctive  presentations</source>
-        <translation type="unfinished"></translation>
+        <translation>Des milliers de modèles pour créer des présentations originales et attrayantes</translation>
     </message>
     <message>
         <source>Try for magic!</source>
-        <translation type="unfinished"></translation>
+        <translation>Essayez pour la magie</translation>
     </message>
 </context>
 <context>
     <name>KxBrowseSlidesDlg</name>
     <message>
         <source>All Slides</source>
-        <translation type="unfinished">Toutes les diapositives</translation>
+        <translation>Toutes les diapositives</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
@@ -922,7 +923,7 @@
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished">Toutes les images</translation>
+        <translation>Toutes les images</translation>
     </message>
     <message>
         <source>Do you want to reset the library as default?</source>
@@ -930,7 +931,7 @@
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation>Suivre la couleur de l&apos;arrière-plan, Suivre la couleur du texte et des traits, Suivre la couleur de l&apos;ombre, Suivre la couleur du texte du titre, Suivre la couleur de remplissage, Suivre la couleur de l&apos;accentuation, Suivre la couleur de l&apos;accentuation et des liens hypertexte, Suivre la couleur de l&apos;accentuation et des liens hypertexte visités</translation>
+        <translation type="obsolete">Suivre la couleur de l&apos;arrière-plan, Suivre la couleur du texte et des traits, Suivre la couleur de l&apos;ombre, Suivre la couleur du texte du titre, Suivre la couleur de remplissage, Suivre la couleur de l&apos;accentuation, Suivre la couleur de l&apos;accentuation et des liens hypertexte, Suivre la couleur de l&apos;accentuation et des liens hypertexte visités</translation>
     </message>
     <message>
         <source>Open Image</source>
@@ -969,7 +970,7 @@
     <message>
         <source>Accent</source>
         <translatorcomment>Design tab-&gt;Color Schemes-&gt;Task Window-&gt;at the bottom, click Edit color schemes-&gt;Edit Color Schemes dialog box-&gt;Custom tab</translatorcomment>
-        <translation>Accentuation</translation>
+        <translation type="obsolete">Accentuation</translation>
     </message>
     <message>
         <source>Accent and followed hyperlink</source>
@@ -984,27 +985,67 @@
     <message>
         <source>Background</source>
         <translatorcomment>Design tab-&gt;Color Schemes-&gt;Task Window-&gt;at the bottom, click Edit color schemes-&gt;Edit Color Schemes dialog box-&gt;Custom tab</translatorcomment>
-        <translation>Arrière-plan</translation>
+        <translation type="obsolete">Arrière-plan</translation>
     </message>
     <message>
         <source>Fills</source>
         <translatorcomment>Design tab-&gt;Color Schemes-&gt;Task Window-&gt;at the bottom, click Edit color schemes-&gt;Edit Color Schemes dialog box-&gt;Custom tab</translatorcomment>
-        <translation>Remplissages</translation>
+        <translation type="obsolete">Remplissages</translation>
     </message>
     <message>
         <source>Shadows</source>
         <translatorcomment>Design tab-&gt;Color Schemes-&gt;Task Window-&gt;at the bottom, click Edit color schemes-&gt;Edit Color Schemes dialog box-&gt;Custom tab</translatorcomment>
-        <translation>Ombres</translation>
+        <translation type="obsolete">Ombres</translation>
     </message>
     <message>
         <source>Text and lines</source>
         <translatorcomment>Design tab-&gt;Color Schemes-&gt;Task Window-&gt;at the bottom, click Edit color schemes-&gt;Edit Color Schemes dialog box-&gt;Custom tab</translatorcomment>
-        <translation>Texte et traits</translation>
+        <translation type="obsolete">Texte et traits</translation>
     </message>
     <message>
         <source>Title text</source>
         <translatorcomment>Design tab-&gt;Color Schemes-&gt;Task Window-&gt;at the bottom, click Edit color schemes-&gt;Edit Color Schemes dialog box-&gt;Custom tab</translatorcomment>
-        <translation>Texte du titre</translation>
+        <translation type="obsolete">Texte du titre</translation>
+    </message>
+    <message>
+        <source>Dark1</source>
+        <translation>Foncé 1</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation>Clair</translation>
+    </message>
+    <message>
+        <source>Dark2</source>
+        <translation>Foncé 2</translation>
+    </message>
+    <message>
+        <source>Light2</source>
+        <translation>Clair 2</translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <translation>Accentuation 1</translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <translation>Accentuation 2</translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <translation>Accentuation 3</translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <translation>Accentuation 4</translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <translation>Accentuation 5</translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <translation>Accentuation 6</translation>
     </message>
 </context>
 <context>
@@ -1127,11 +1168,11 @@
     </message>
     <message>
         <source>Template Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrière-plan du modèle</translation>
     </message>
     <message>
         <source>Magic Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrière-plan magique</translation>
     </message>
 </context>
 <context>
@@ -1302,7 +1343,30 @@ dans le fichier de présentation. Vous pouvez le placer dans le même dossier po
     <message>
         <source>Spell Check</source>
         <translatorcomment>Review tab-&gt;Spell Check-&gt;Spell Check dialog box</translatorcomment>
-        <translation>Vérifier l’orthographe</translation>
+        <translation>Vérifier l&apos;orthographe</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCompatibilityChecker</name>
+    <message>
+        <source>Compatibility Checker</source>
+        <translation>Vérificateur de compatibilité</translation>
+    </message>
+    <message>
+        <source>The following features in this presentation are not supported by earlier versions of WPS Presentation.These features may be lost or degraded when you save this presentation in an earlier file format.Click Continue to save the presentation anyway. To retain all of your features click Cancel and save in one of the new file formats.</source>
+        <translation>Les fonctionnalités de cette présentation ne sont pas prises en charge par les versions antérieures de WPS Presentation. Celles-ci seront perdues ou détériorées si elles sont enregistrées dans cette présentation, sous un format de fichier d&apos;une version antérieure. Cliquez sur Continuer pour enregistrer tout de même la présentation. Pour conserver toutes les fonctionnalités, cliquez sur Annuler et enregistrez la présentation dans l&apos;un des nouveaux formats.</translation>
+    </message>
+    <message>
+        <source>Summary:</source>
+        <translation>Résumé :</translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation>&amp;Continuer</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
@@ -1355,20 +1419,29 @@ dans le fichier de présentation. Vous pouvez le placer dans le même dossier po
     <name>KxDlgEmbedPrivateFonts</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Boîte de dialogue</translation>
     </message>
     <message>
         <source>Text Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Étiquette de texte</translation>
     </message>
     <message>
         <source>The document contains cloud fonts. For the convenience of your readers, 
 we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
-        <translation type="unfinished"></translation>
+        <translation>Le document contient des polices en ligne. Pour la commodité de vos lecteurs, 
+nous vous recommendons d&apos;enregistrer ces polices dans le document. Enregistrez-les dans le document?</translation>
     </message>
     <message>
         <source>Remember my choice, and don&apos;t prompt me again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mémoriser mon choix et ne plus me poser la question.</translation>
+    </message>
+    <message>
+        <source>Application documents online font, if your document needs circulated others, 
+we recommend that you saved earlier document fonts. 
+If necessary, click Cancel</source>
+        <translation type="obsolete">Application documents online font, if your document needs circulated others, 
+nous vous recommandons d&apos;enregistrer les polices de documents précédentes. 
+Si nécessaire, cliquez sur Annuler</translation>
     </message>
 </context>
 <context>
@@ -1376,96 +1449,96 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <message>
         <source>&amp;Color:</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>&amp;Couleur :</translation>
+        <translation type="obsolete">&amp;Couleur :</translation>
     </message>
     <message>
         <source>&amp;Default for new objects</source>
-        <translation>Paramètres par &amp;défaut pour les nouveaux objets</translation>
+        <translation type="obsolete">Paramètres par &amp;défaut pour les nouveaux objets</translation>
     </message>
     <message>
         <source>&amp;Emboss</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>R&amp;elief</translation>
+        <translation type="obsolete">R&amp;elief</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>&amp;Taille :</translation>
+        <translation type="obsolete">&amp;Taille :</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>So&amp;uligner</translation>
+        <translation type="obsolete">So&amp;uligner</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>P&amp;olice de caractères asiatiques :</translation>
+        <translation type="obsolete">P&amp;olice de caractères asiatiques :</translation>
     </message>
     <message>
         <source>Bold</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>Gras</translation>
+        <translation type="obsolete">Gras</translation>
     </message>
     <message>
         <source>Bold Italic</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>Italique gras</translation>
+        <translation type="obsolete">Italique gras</translation>
     </message>
     <message>
         <source>Effects</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>Effets</translation>
+        <translation type="obsolete">Effets</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>Style de p&amp;olice :</translation>
+        <translation type="obsolete">Style de p&amp;olice :</translation>
     </message>
     <message>
         <source>Font</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>Police</translation>
+        <translation type="obsolete">Police</translation>
     </message>
     <message>
         <source>Italic</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>Italique</translation>
+        <translation type="obsolete">Italique</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>&amp;Police de caractères latins :</translation>
+        <translation type="obsolete">&amp;Police de caractères latins :</translation>
     </message>
     <message>
         <source>Offse&amp;t:</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>Déc&amp;alage :</translation>
+        <translation type="obsolete">Déc&amp;alage :</translation>
     </message>
     <message>
         <source>Regular</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>Normal</translation>
+        <translation type="obsolete">Normal</translation>
     </message>
     <message>
         <source>Sh&amp;adow</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>Om&amp;bre</translation>
+        <translation type="obsolete">Om&amp;bre</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>I&amp;ndice</translation>
+        <translation type="obsolete">I&amp;ndice</translation>
     </message>
     <message>
         <source>Supe&amp;rscript</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>E&amp;xposant</translation>
+        <translation type="obsolete">E&amp;xposant</translation>
     </message>
     <message>
         <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Font dialog box</translatorcomment>
-        <translation>Ceci est une police TrueType. La même police sera utilisée pour l&apos;affichage et l&apos;impression.</translation>
+        <translation type="obsolete">Ceci est une police TrueType. La même police sera utilisée pour l&apos;affichage et l&apos;impression.</translation>
     </message>
 </context>
 <context>
@@ -1583,6 +1656,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <source>cm</source>
         <translatorcomment>Drop-down menu-&gt;View-&gt;Grid and Guides-&gt;dialog box</translatorcomment>
         <translation>cm</translation>
+    </message>
+    <message>
+        <source>Enter 0.1 cm to 5.079 cm of value</source>
+        <translation>Entrez une valeur comprise entre 0.1 et 5.079 cm</translation>
     </message>
 </context>
 <context>
@@ -1798,7 +1875,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <message>
         <source>Display options</source>
         <translatorcomment>Insert tab-&gt;Movie-&gt;insert a movie-&gt;right-click the video-&gt;Edit Movie Object-&gt;Movie Options dialog box</translatorcomment>
-        <translation>Options d’affichage</translation>
+        <translation>Options d&apos;affichage</translation>
     </message>
     <message>
         <source>File:</source>
@@ -2007,7 +2084,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Help us to improve WPS Office</source>
         <translatorcomment>Drop-down menu-&gt;Tools-&gt;Options-&gt;Options dialog box-&gt;Privacy</translatorcomment>
-        <translation>Aidez-nous à améliorer WPS Office</translation>
+        <translation type="unfinished">Aidez-nous à améliorer WPS Office</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
@@ -2082,7 +2159,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Privacy</source>
         <translatorcomment>Drop-down menu-&gt;Tools-&gt;Options-&gt;Options dialog box-&gt;Privacy</translatorcomment>
-        <translation>Confidentialité</translation>
+        <translation type="obsolete">Confidentialité</translation>
     </message>
     <message>
         <source>Prompt to &amp;keep ink when exiting</source>
@@ -2206,12 +2283,12 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Caution: please keep your password properly. File will never be recovered if you lose or forget the password.(Remember that passwords are case-sensitive.)</source>
         <translatorcomment>Drop-down menu-&gt;Tools-&gt;Options-&gt;Options dialog box-&gt;Security</translatorcomment>
-        <translation>Attention : gardez votre mot de passe correctement. Vous ne pourrez pas récupérer le fichier en cas d&apos;oubli ou de perte de ce mot de passe (n&apos;oubliez pas que les mots de passe respectent la casse).</translation>
+        <translation>Attention: gardez votre mot de passe correctement. Vous ne pourrez pas récupérer le fichier en cas d&apos;oubli ou de perte de ce mot de passe. ( N&apos;oubliez pas que les mots de passe respectent la casse.)</translation>
     </message>
     <message>
         <source>Spell Check</source>
         <translatorcomment>Drop-down menu-&gt;Tools-&gt;Options-&gt;Options dialog box-&gt;Spell Check</translatorcomment>
-        <translation>Vérifier l’orthographe</translation>
+        <translation>Vérifier l&apos;orthographe</translation>
     </message>
     <message>
         <source>Preserve &amp;fidelity when sharing this document:</source>
@@ -2231,43 +2308,108 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Embed fon&amp;ts in the file</source>
-        <translation type="unfinished"></translation>
+        <translation>Incorporer les police&amp;s dans le fichier</translation>
     </message>
     <message>
         <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Incorporer &amp;uniquement les caractères utilisés dans le document (permet de réduire la taille de fichier)</translation>
     </message>
     <message>
         <source>Embed all &amp;characters (best for editing by other people)</source>
-        <translation type="unfinished"></translation>
+        <translation>Incorporer tous les &amp;caractères (recommandé pour la modification par d&apos;autres utilisateurs)</translation>
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les &amp;fenêtres dans la barre des tâches</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Emplacement du fichier de r&amp;écupération automatique :</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">&amp;Parcourir...</translation>
+        <translation>&amp;Parcourir...</translation>
     </message>
     <message>
         <source>Remind &amp;Me When Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Me le rappeler lors de l&apos;enregistrement</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le bouton Avancé vous permet d&apos;effectuer un choix parmi plusieurs types de chiffrement.</translation>
     </message>
     <message>
         <source>General options</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Drop-down menu-&gt;Tools-&gt;Options-&gt;Options dialog box-&gt;General and Save</translatorcomment>
+        <translation>Options générales</translation>
     </message>
     <message>
         <source>Password protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Protection par mot de passe</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation>Afficher la mini barre d&apos;outils lors de la sélection (&amp;D)</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation>Affic&amp;her la mini barre d&apos;outils sur le bouton droit</translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation>A&amp;bonnez-vous dans le Minisite de WPS</translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation>Afficher &amp;chaque jour</translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation>&amp;Afficher après une semaine </translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation>Ne plus afficher à &amp;nouveau</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Trop de publicités? Vérifiez de nouveaux changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>Commentaires</translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="obsolete">Joignez le plan d&apos;amélioration de l&apos;expérience, contribuez à améliorer et perfectionner WPS office.</translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="obsolete">Langue</translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
+        <translation type="obsolete">Téléchargez et mettez à jour automatiquement les packs de langues</translation>
+    </message>
+    <message>
+        <source>Choose Display and Help Languages</source>
+        <translation type="obsolete">Choisissez la langue de l&apos;affichage et de l&apos;aide</translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation type="obsolete">Choisissez…</translation>
+    </message>
+    <message>
+        <source>Shortcuts</source>
+        <translation type="obsolete">Raccourcis</translation>
+    </message>
+    <message>
+        <source>Custom Shortcuts:</source>
+        <translation type="obsolete">Raccourcis personnalisés :</translation>
+    </message>
+    <message>
+        <source>&amp;Shortcuts</source>
+        <translation type="obsolete">Raccourcis</translation>
     </message>
 </context>
 <context>
@@ -2458,6 +2600,121 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <source>Widescreen</source>
         <translation>Grand écran</translation>
     </message>
+    <message>
+        <source>Enter 2.54 to 142.22 cm of value</source>
+        <translation>Entrez une valeur comprise entre 2.54 et 142.22 cm</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgParagraph</name>
+    <message>
+        <source>Paragraph</source>
+        <translation type="obsolete">Paragraphe</translation>
+    </message>
+    <message>
+        <source>&amp;Indents and Spacing</source>
+        <translation type="obsolete">Retra&amp;it et espacement</translation>
+    </message>
+    <message>
+        <source>point, 2, 0, 1584, 1</source>
+        <translation type="obsolete">point, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>line, 2, 0, 9.99, 0.1</source>
+        <translation type="obsolete">ligne, 2, 0, 9.99, 0.1</translation>
+    </message>
+    <message>
+        <source>A&amp;fter:</source>
+        <translation type="obsolete">Ap&amp;rès :</translation>
+    </message>
+    <message>
+        <source>&amp;At:</source>
+        <translation type="obsolete">&amp;Dans:</translation>
+    </message>
+    <message>
+        <source>&amp;Before:</source>
+        <translation type="obsolete">A&amp;vant</translation>
+    </message>
+    <message>
+        <source>Li&amp;ne spacing:</source>
+        <translation type="obsolete">Interlig&amp;ne:</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="obsolete">Général</translation>
+    </message>
+    <message>
+        <source>Spacing</source>
+        <translation type="obsolete">Espacement</translation>
+    </message>
+    <message>
+        <source>Ali&amp;gnment:</source>
+        <translation type="obsolete">Ali&amp;gnement</translation>
+    </message>
+    <message>
+        <source>Indentation</source>
+        <translation type="obsolete">Retrait</translation>
+    </message>
+    <message>
+        <source>Befo&amp;re text:</source>
+        <translation type="obsolete">Tex&amp;te avant:</translation>
+    </message>
+    <message>
+        <source>&amp;Special:</source>
+        <translation type="obsolete">&amp;Spécial:</translation>
+    </message>
+    <message>
+        <source>B&amp;y:</source>
+        <translation type="obsolete">&amp;Par</translation>
+    </message>
+    <message>
+        <source>C&amp;hinese Format</source>
+        <translation type="obsolete">Format C&amp;hinois</translation>
+    </message>
+    <message>
+        <source>Line Break</source>
+        <translation type="obsolete">Saut de ligne</translation>
+    </message>
+    <message>
+        <source>&amp;Use Asian rules for controlling first and last characters</source>
+        <translation type="obsolete">&amp;Utilisez les règles asiatiques pour le contrôle des premier et dernier caractères</translation>
+    </message>
+    <message>
+        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
+        <translation type="obsolete">Autoriser la césure en &amp;milieu de mot pour le texte en caractères latins</translation>
+    </message>
+    <message>
+        <source>Allow hanging punctuatio&amp;n</source>
+        <translation type="obsolete">Autorisez la ponctuatio&amp;n en retrait</translation>
+    </message>
+    <message>
+        <source>First and last characters</source>
+        <translation type="obsolete">Premier et dernier caractères</translation>
+    </message>
+    <message>
+        <source>&amp;Standard</source>
+        <translation type="obsolete">&amp;Standard</translation>
+    </message>
+    <message>
+        <source>Custo&amp;m</source>
+        <translation type="obsolete">P&amp;ersonnalisé</translation>
+    </message>
+    <message>
+        <source>Cannot st&amp;art line:</source>
+        <translation type="obsolete">Impossible de commencer l&amp;a ligne</translation>
+    </message>
+    <message>
+        <source>Cann&amp;ot end line:</source>
+        <translation type="obsolete">Imp&amp;ossible de terminer la ligne:</translation>
+    </message>
+    <message>
+        <source>Line-breaking characters currently customized for:</source>
+        <translation type="obsolete">Caractères de saut de ligne personnalisés pour :</translation>
+    </message>
+    <message>
+        <source>&amp;Layout</source>
+        <translation type="obsolete">Disposition(&amp;L)</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgProgress</name>
@@ -2467,7 +2724,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Copying file to folder</source>
-        <translation type="unfinished">Copie des fichiers dans le dossier en cours</translation>
+        <translation>Copie des fichiers dans le dossier en cours</translation>
     </message>
 </context>
 <context>
@@ -2636,6 +2893,10 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <translatorcomment>Insert tab-&gt;Sound-&gt;insert a sound-&gt;right-click the icon-&gt;choose Edit sound object-&gt;Sound Options dialog box</translatorcomment>
         <translation>Durée d&apos;écoute totale :</translation>
     </message>
+    <message>
+        <source>&amp;Hide icon on play</source>
+        <translation>Masquer l’icône en d&amp;iapositive</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgSplitCells</name>
@@ -2653,6 +2914,33 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <source>Split Cells</source>
         <translatorcomment>Insert tab-&gt;Table-&gt;insert a table-&gt;Table Tools tab-&gt;Split Cells-&gt;dialog box</translatorcomment>
         <translation>Fractionner des cellules</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTrimMedia</name>
+    <message>
+        <source>Trim Media</source>
+        <translation>Découper le média</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>Etiquette de texte</translation>
+    </message>
+    <message>
+        <source>&amp;Start Time</source>
+        <translation>Heure de début</translation>
+    </message>
+    <message>
+        <source>&amp;End Time</source>
+        <translation>Heure de fin</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
@@ -2737,7 +3025,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Volume Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustement du volume</translation>
     </message>
 </context>
 <context>
@@ -3089,6 +3377,41 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <translatorcomment>Presentation Button-&gt;Print-&gt;dialog box</translatorcomment>
         <translation>Diapositives par pa&amp;ge :</translation>
     </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation>Résolution des problèmes d&apos;imprimante</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWppScaleSlideMode</name>
+    <message>
+        <source>Scale Slide Mode</source>
+        <translation>Taille des diapositives</translation>
+    </message>
+    <message>
+        <source>You are scaling to a new slide size. Would you like to maximize the size of your content, or scale it down to ensure it will fit on the new slide ?</source>
+        <translation>Vous effectuez une mise à l’échelle vers une nouvelle taille de diapositive. Voulez-vous agrandir ou réduire la taille de votre contenu pour l’adapter à la nouvelle diapositive ?</translation>
+    </message>
+    <message>
+        <source>Maximize</source>
+        <translation>Agrandir</translation>
+    </message>
+    <message>
+        <source>Ensure Fit</source>
+        <translation>Garantir l&apos;ajustement</translation>
+    </message>
+    <message>
+        <source>&amp;Maximize</source>
+        <translation>Agrandir</translation>
+    </message>
+    <message>
+        <source>&amp;Ensure Fit</source>
+        <translation>Garantir l&apos;ajustement</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>A&amp;nnuler</translation>
+    </message>
 </context>
 <context>
     <name>KxDlglineSpace</name>
@@ -3175,7 +3498,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>You do not have permission to write files into this directory.</source>
-        <translation type="unfinished">Vous n&apos;êtes pas autorisé à écrire les fichiers dans ce répertoire.</translation>
+        <translation type="unfinished">Vous n&apos;êtes pas autorisé à enregistrer les fichiers dans ce répertoire.</translation>
     </message>
     <message>
         <source>The slide you selected to export does not exist. Please select another one.</source>
@@ -3288,7 +3611,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>You do not have permission to write files into this directory.</source>
-        <translation type="unfinished">Vous n&apos;êtes pas autorisé à écrire les fichiers dans ce répertoire.</translation>
+        <translation>Vous n&apos;êtes pas autorisé à enregistrer les fichiers dans ce répertoire.</translation>
     </message>
 </context>
 <context>
@@ -3427,31 +3750,60 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <name>KxFontDlg</name>
     <message>
         <source>(Use Asian text font)</source>
-        <translation>(Utiliser une police de caractères asiatiques)</translation>
+        <translation type="obsolete">(Utiliser une police de caractères asiatiques)</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation>Suivre la couleur de l&apos;arrière-plan, Suivre la couleur du texte et des traits, Suivre la couleur de l&apos;ombre, Suivre la couleur du texte du titre, Suivre la couleur de remplissage, Suivre la couleur de l&apos;accentuation, Suivre la couleur de l&apos;accentuation et des liens hypertexte, Suivre la couleur de l&apos;accentuation et des liens hypertexte visités</translation>
+        <translation type="obsolete">Suivre la couleur de l&apos;arrière-plan, Suivre la couleur du texte et des traits, Suivre la couleur de l&apos;ombre, Suivre la couleur du texte du titre, Suivre la couleur de remplissage, Suivre la couleur de l&apos;accentuation, Suivre la couleur de l&apos;accentuation et des liens hypertexte, Suivre la couleur de l&apos;accentuation et des liens hypertexte visités</translation>
     </message>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
         <translatorcomment>Drop-down menu-&gt;Format-&gt;Font-&gt;Asian text font: type abcd-&gt;click OK-&gt;prompt message</translatorcomment>
-        <translation>La police %1 n&apos;est pas disponible sur votre système. Le texte s&apos;affichera dans une police de remplacement. Voulez-vous l&apos;utiliser quand même?</translation>
+        <translation type="obsolete">La police %1 n&apos;est pas disponible sur votre système. Le texte s&apos;affichera dans une police de remplacement. Voulez-vous l&apos;utiliser quand même?</translation>
     </message>
     <message>
         <source>This font size is not available.</source>
-        <translation>Cette taille de police n&apos;est pas disponible.</translation>
+        <translation type="obsolete">Cette taille de police n&apos;est pas disponible.</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation>Ce style de police n&apos;est pas disponible.</translation>
+        <translation type="obsolete">Ce style de police n&apos;est pas disponible.</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatOption_Background</name>
+    <message>
+        <source>BACKGROUND OPTIONS</source>
+        <translation>OPTIONS D’ARRIERE-PLAN</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty</name>
+    <message>
+        <source>TRANSFORM</source>
+        <translation>TRANSFORMER</translation>
+    </message>
+    <message>
+        <source>POSITION</source>
+        <translation>POSITION</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_Background</name>
+    <message>
+        <source>FILL</source>
+        <translation>REMPLISSAGE</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation>Remplissage</translation>
     </message>
 </context>
 <context>
     <name>KxFormatTableDlg</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Personnalisé</translation>
+        <translation type="obsolete">Personnalisé</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
@@ -3471,7 +3823,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation>Suivre la couleur de l&apos;arrière-plan, Suivre la couleur du texte et des traits, Suivre la couleur de l&apos;ombre, Suivre la couleur du texte du titre, Suivre la couleur de remplissage, Suivre la couleur de l&apos;accentuation, Suivre la couleur de l&apos;accentuation et des liens hypertexte, Suivre la couleur de l&apos;accentuation et des liens hypertexte visités</translation>
+        <translation type="obsolete">Suivre la couleur de l&apos;arrière-plan, Suivre la couleur du texte et des traits, Suivre la couleur de l&apos;ombre, Suivre la couleur du texte du titre, Suivre la couleur de remplissage, Suivre la couleur de l&apos;accentuation, Suivre la couleur de l&apos;accentuation et des liens hypertexte, Suivre la couleur de l&apos;accentuation et des liens hypertexte visités</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
@@ -3488,6 +3840,61 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Follow Title Text Scheme Color</source>
         <translation>Suivre la couleur du texte du titre</translation>
+    </message>
+    <message>
+        <source>Select Picture</source>
+        <translation>Sélectionner une image</translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation>Toutes les images</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation>Métafichier Windows (EMF)</translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation>Métafichier Windows</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation>Fichier d&apos;échange JPEG</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation>PNG (Portable Network Graphics)</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation>Bitmap Windows</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation>Graphics Interchange Format</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation>TIFF - Tag Image File Format</translation>
+    </message>
+</context>
+<context>
+    <name>KxHexSpinBox</name>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation>L’entrée doit être un nombre positif.</translation>
+    </message>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation>L’entrée ne peut pas contenir de caractères non numériques.</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation>L&apos;entrée doit être supérieure ou égale à %1</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
+        <translation>L&apos;entrée doit être inférieure ou égale à %1</translation>
     </message>
 </context>
 <context>
@@ -3549,21 +3956,28 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <name>KxInvolvedTemplateDlg</name>
     <message>
         <source>Blank Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Design vierge</translation>
     </message>
 </context>
 <context>
     <name>KxInvolvedTemplateView</name>
     <message>
         <source>Use Blank Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser un modèle vide</translation>
+    </message>
+</context>
+<context>
+    <name>KxKsoTableStyleItem</name>
+    <message>
+        <source>Set As Default</source>
+        <translation>Définir par défaut</translation>
     </message>
 </context>
 <context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">Colonnes à bandes</translation>
+        <translation>Colonnes à bandes</translation>
     </message>
     <message>
         <source>Banded Rows</source>
@@ -3618,6 +4032,13 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
 </context>
 <context>
+    <name>KxNoneItem</name>
+    <message>
+        <source>None</source>
+        <translation>Aucun</translation>
+    </message>
+</context>
+<context>
     <name>KxOptionsDlg</name>
     <message>
         <source>Comfirmation password does not match.</source>
@@ -3637,19 +4058,19 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le répertoire &quot;%1&quot; n&apos;est pas valide.</translation>
     </message>
     <message>
         <source>Select Folder:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner un dossier :</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished">Le mot de passe de confirmation ne correspond pas.</translation>
+        <translation>Le mot de passe de confirmation ne correspond pas.</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
+        <translation>Vous n&apos;êtes pas autorisé à enregistrer les fichiers de sauvegarde dans &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -3665,8 +4086,8 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified
  folder, in order to play this file on another computer.</source>
-        <translation type="unfinished">Copiez le fichier de présentation et les éléments multimédias associés (vidéo, audio, etc.) dans le dossier spécifié
- pour le lire sur un autre ordinateur.</translation>
+        <translation>Copiez le fichier de présentation et les éléments multimédias auxquels ils sont associés (fichiers vidéo ou audio, par exemple) dans le dossier
+ spécifié, afin de pouvoir lire ce fichier sur un autre ordinateur.</translation>
     </message>
 </context>
 <context>
@@ -3689,7 +4110,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Specified directory does not exist. Please specify another directory.</source>
         <translatorcomment>Presentation Button-&gt;File Package-&gt;Package into Folder-&gt;Presentation Package dialog box-&gt;Location: C:\Users\kingsoft\Desktop00-&gt;click OK-&gt;prompt message</translatorcomment>
-        <translation>Le répertoire spécifié n’existe pas. Spécifiez un autre nom de répertoire.</translation>
+        <translation>Le répertoire spécifié n&apos;existe pas. Spécifiez un autre nom de répertoire.</translation>
     </message>
     <message>
         <source>Zip file &amp;name:</source>
@@ -3707,15 +4128,15 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified
  Zip folder, in order to play this file on another computer.</source>
-        <translation type="unfinished">Copiez le fichier de présentation et les éléments multimédias associés (vidéo, audio, etc.) dans le dossier Zip spécifié 
- pour le lire sur un autre ordinateur.</translation>
+        <translation>Copiez le fichier de présentation et les éléments multimédias auxquels ils sont associés (fichiers vidéo ou audio, par exemple) dans le dossier compressé
+ spécifié, afin de pouvoir lire ce fichier sur un autre ordinateur.</translation>
     </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Personnalisé</translation>
+        <translation>Personnalisé</translation>
     </message>
 </context>
 <context>
@@ -3756,7 +4177,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>The name &quot;%1&quot; is already in use. Please modify the name by changing at least 1 of the first 20 characters of &quot;%2&quot;.</source>
         <translatorcomment>View tab-&gt;Slide Master-&gt;Slide Master tab-&gt;Rename Master-&gt;Rename Master dialog box-&gt;Master name: asdfghjklqwertyuiop-&gt;click Rename-&gt;New Slide Master-&gt;Rename Master-&gt;Rename Master tab-&gt;Master name: asdfghjklqwertyuiop-&gt;prompt message</translatorcomment>
-        <translation>Le nom %1 est déjà utilisé. Entrez un autre nom en remplaçant au moins un des 20 premiers caractères de %2.</translation>
+        <translation>Le nom &quot;%1&quot; est déjà utilisé. Modifiez le nom en changeant au moins 1 des 20 premiers caractères de &quot;%2&quot;.</translation>
     </message>
 </context>
 <context>
@@ -3764,7 +4185,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>&amp;Master name:</source>
         <translatorcomment>View tab-&gt;Slide Master-&gt;Slide Master tab-&gt;Rename Master-&gt;Rename Master dialog box</translatorcomment>
-        <translation>Nom de &amp;masque :</translation>
+        <translation type="obsolete">Nom de &amp;masque :</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
@@ -3774,7 +4195,15 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Rename Master</source>
         <translatorcomment>View tab-&gt;Slide Master-&gt;Slide Master tab-&gt;Rename Master-&gt;Rename Master dialog box</translatorcomment>
-        <translation>Renommer le masque</translation>
+        <translation type="obsolete">Renommer le masque</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>&amp;Renommer</translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation>&amp;Nom :</translation>
     </message>
 </context>
 <context>
@@ -3806,7 +4235,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>[Restricted]</source>
-        <translation type="unfinished">[Restreint]</translation>
+        <translation>[Restreint]</translation>
     </message>
 </context>
 <context>
@@ -3906,7 +4335,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <name>KxTpAnimationSchemeWidget</name>
     <message>
         <source>Color Schemes</source>
-        <translation type="unfinished">Jeux de couleurs</translation>
+        <translation type="obsolete">Jeux de couleurs</translation>
     </message>
     <message>
         <source>Design Templates</source>
@@ -3917,38 +4346,38 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <name>KxTpColorScheme</name>
     <message>
         <source>Apply a color scheme:</source>
-        <translation type="unfinished">Appliquer un jeu de couleurs :</translation>
+        <translation type="obsolete">Appliquer un modèle de couleurs :</translation>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation>Jeux de couleurs</translation>
+        <translation type="obsolete">Jeux de couleurs</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation>Info-bulle</translation>
+        <translation type="obsolete">Info-bulle</translation>
     </message>
 </context>
 <context>
     <name>KxTpColorSchemeWidget</name>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished">Jeux d&apos;animations</translation>
+        <translation type="obsolete">Jeux d&apos;animations</translation>
     </message>
     <message>
         <source>Design Templates</source>
-        <translation>Modèles de création</translation>
+        <translation type="obsolete">Modèles de création</translation>
     </message>
     <message>
         <source>Edit Color Schemes...</source>
         <translatorcomment>Design tab-&gt;Color schemes-&gt;Task Window</translatorcomment>
-        <translation>Modifier les jeux de couleurs...</translation>
+        <translation type="obsolete">Modifier les jeux de couleurs...</translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideDesign</name>
     <message>
         <source>Apply a design template:</source>
-        <translation type="unfinished">Appliquer un modèle de création :</translation>
+        <translation type="obsolete">Appliquer un modèle de conception :</translation>
     </message>
     <message>
         <source>Design Templates</source>
@@ -3958,12 +4387,16 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <source>Infotip</source>
         <translation>Info-bulle</translation>
     </message>
+    <message>
+        <source>Apply a design template</source>
+        <translation>Appliquer un modèle de conception</translation>
+    </message>
 </context>
 <context>
     <name>KxTpSlideDesignWidget</name>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished">Jeux d&apos;animations</translation>
+        <translation>Jeux d&apos;animations</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -3971,7 +4404,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation>Jeux de couleurs</translation>
+        <translation type="obsolete">Jeux de couleurs</translation>
     </message>
 </context>
 <context>
@@ -3979,12 +4412,17 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Apply a design template:</source>
         <translatorcomment>Design tab-&gt;Slide Layout-&gt;Task Window</translatorcomment>
-        <translation>Appliquer un modèles de création :</translation>
+        <translation type="obsolete">Appliquer un modèle de création :</translation>
     </message>
     <message>
         <source>Show when inserting new slides</source>
         <translatorcomment>Design tab-&gt;Slide Layout-&gt;Task Window</translatorcomment>
         <translation>Afficher lors de l&apos;insertion de nouvelles diapositives</translation>
+    </message>
+    <message>
+        <source>Apply a design template</source>
+        <translatorcomment>Design tab-&gt;Slide Layout-&gt;Task Window</translatorcomment>
+        <translation>Appliquer un modèle de création</translation>
     </message>
 </context>
 <context>
@@ -4007,7 +4445,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Apply to selected slides:</source>
         <translatorcomment>Animation tab-&gt;Transition Effects-&gt;Task Winodw</translatorcomment>
-        <translation>Appliquer aux diapositives sélectionnées :</translation>
+        <translation type="obsolete">Appliquer aux diapositives sélectionnées :</translation>
     </message>
     <message>
         <source>AutoPreview</source>
@@ -4067,13 +4505,18 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <source>Slide Transition</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Apply to selected slides</source>
+        <translatorcomment>Animation tab-&gt;Transition Effects-&gt;Task Winodw</translatorcomment>
+        <translation>Appliquer aux diapositives sélectionnées</translation>
+    </message>
 </context>
 <context>
     <name>KxTpSlideTransitionWidget</name>
     <message>
         <source>Loop until next sound</source>
         <translatorcomment>Animation tab-&gt;Transition Effects-&gt;Task Winodw</translatorcomment>
-        <translation>En boucle jusqu&apos;au son suivant</translation>
+        <translation type="obsolete">En boucle jusqu&apos;au son suivant</translation>
     </message>
     <message>
         <source>Play</source>
@@ -4085,7 +4528,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <name>KxTpTableStyle</name>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished">Effacer le style de tableau</translation>
+        <translation>Effacer le style de tableau</translation>
     </message>
     <message>
         <source>Table Style Options:</source>
@@ -4097,10 +4540,25 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
 </context>
 <context>
+    <name>KxTrimMediaDlg</name>
+    <message>
+        <source>Trim Movie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trim Sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duration : </source>
+        <translation>Durée : </translation>
+    </message>
+</context>
+<context>
     <name>KxTypograpgyDlg</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished">(Aucun)</translation>
+        <translation>(Aucun)</translation>
     </message>
     <message>
         <source>Chinese(China)</source>
@@ -4111,7 +4569,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <name>KxWidgetPosition</name>
     <message>
         <source>&amp;From:</source>
-        <translation type="unfinished">&amp;De :</translation>
+        <translation>&amp;De :</translation>
     </message>
     <message>
         <source>&amp;Horizontal:</source>
@@ -4193,6 +4651,10 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <source>Slide %1</source>
         <translation>Diapositive %1</translation>
     </message>
+    <message>
+        <source>Open</source>
+        <translation type="obsolete">Ouvrir</translation>
+    </message>
 </context>
 <context>
     <name>KxWppAnimationOptionsDlg</name>
@@ -4218,14 +4680,64 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
 </context>
 <context>
+    <name>KxWppBorderStyleItem</name>
+    <message>
+        <source>No Border</source>
+        <translation>Aucune bordure</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppBorderWidthItem</name>
+    <message>
+        <source>2.25</source>
+        <translation>2.25</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation>pt</translation>
+    </message>
+    <message>
+        <source>0.25</source>
+        <translation>0.25</translation>
+    </message>
+    <message>
+        <source>0.5</source>
+        <translation>0.5</translation>
+    </message>
+    <message>
+        <source>0.75</source>
+        <translation>0.75</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation>1</translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation>1.5</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation>3</translation>
+    </message>
+    <message>
+        <source>4.5</source>
+        <translation>4.5</translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation>6</translation>
+    </message>
+</context>
+<context>
     <name>KxWppColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">Automatique</translation>
+        <translation type="obsolete">Automatique</translation>
     </message>
     <message>
         <source>Custom Color</source>
-        <translation>Couleur personnalisée</translation>
+        <translation type="obsolete">Couleur personnalisée</translation>
     </message>
 </context>
 <context>
@@ -4479,21 +4991,244 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <name>KxWppFillColorModel</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished">Aucun remplissage</translation>
+        <translation type="obsolete">Aucun remplissage</translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation>Aucune Couleur</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFontColorModel</name>
+    <message>
+        <source>No Fill</source>
+        <translation>Aucun remplissage</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFontOutlineColorModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation>Sans contour</translation>
     </message>
 </context>
 <context>
     <name>KxWppFontSizeCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished">Ce nombre entier n&apos;est pas valide.</translation>
+        <translation>Ce nombre entier n&apos;est pas valide.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatGroupContent_Fill</name>
+    <message>
+        <source>Slide background fill</source>
+        <translation>Remplissage de l&apos;arrière-plan de la diapositive</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation>OPTIONS DU GRAPHIQUE</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>OPTIONS DE TEXTE</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation>OPTIONS DE FORME</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>OPTIONS DE TEXTE</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatProperty_FillAndLine</name>
+    <message>
+        <source>TEXT FILL</source>
+        <translation>REMPLISSAGE DU TEXTE</translation>
+    </message>
+    <message>
+        <source>FILL</source>
+        <translation>REMPLISSAGE</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatRangeSaveAsCommand</name>
+    <message>
+        <source>Preparing for Video Export</source>
+        <translation>Préparations en cours pour l&apos;exportation du vidéo</translation>
+    </message>
+    <message>
+        <source>Failed to setup Supporter of Video Export.</source>
+        <translation>Échec de la configuration de Supporter of Video Export.</translation>
     </message>
 </context>
 <context>
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line</source>
-        <translation type="unfinished">Aucune ligne</translation>
+        <translation>Aucune ligne</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppMediaBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation>Avancer de 0,25 seconde</translation>
+    </message>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation>Reculer de 0,25 seconde</translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation>Lecture/Pause</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>Volume</translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation>Paramètre</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppNewSlidesGalleryModel</name>
+    <message>
+        <source>Blank Slides</source>
+        <translation>Diapositives Vides</translation>
+    </message>
+    <message>
+        <source>Content Slides</source>
+        <translation>Contenu des Diapositives</translation>
+    </message>
+    <message>
+        <source>Title and Content</source>
+        <translation>Titre et contenu</translation>
+    </message>
+    <message>
+        <source>Title Slide</source>
+        <translation>Diapositive de titre</translation>
+    </message>
+    <message>
+        <source>Blank</source>
+        <translation>Vide</translation>
+    </message>
+    <message>
+        <source>Cover</source>
+        <translation>Couvrir</translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation>Catalogue</translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <translation>Corps</translation>
+    </message>
+    <message>
+        <source>Transition</source>
+        <translation>Transition</translation>
+    </message>
+    <message>
+        <source>Ending</source>
+        <translation>Fin</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Autres</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation>Vous êtes actuellement authentifié pour afficher ce document en tant que :	</translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation>Nom d&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation>Modifier l’utilisateur...</translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation>Vous bénéficiez des autorisations suivantes :</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation>Afficher</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Modifier</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Copier</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>Imprimer</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Enregistrer</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>Exporter</translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation>Accéder au document par programme</translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation>Contrôle total</translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation>L&apos;autorisation expire le :</translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
+        <translation>Demander des autorisations supplémentaires...</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPlayerMediaBar</name>
+    <message>
+        <source>Play/Pause</source>
+        <translation>Lecture/Pause</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>Volume</translation>
     </message>
 </context>
 <context>
@@ -4549,6 +5284,98 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
 </context>
 <context>
+    <name>KxWppPrstFillModel</name>
+    <message>
+        <source>Background Fill</source>
+        <translation>Remplissage de l&apos;arrière-plan</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppShowOffscreen</name>
+    <message>
+        <source>An Offscreen Show of this presentation is already running.
+Sure to close?</source>
+        <translation>Un affichage Hors écran de la présentation est en train de sortir. Assurez-vous de fermer?</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppSoundBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation type="obsolete">Avancer de 0,25 seconde</translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation type="obsolete">Lecture/Pause</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="obsolete">Volume</translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="obsolete">Paramètre</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation>Niveau de Zoom</translation>
+    </message>
+    <message>
+        <source>&amp;Percent:</source>
+        <translation type="obsolete">&amp;Percent:</translation>
+    </message>
+    <message>
+        <source>&amp;Fit Selection</source>
+        <translation>&amp;Ajusté à la sélection</translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation>Pourc&amp;entage</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppTpFormatting</name>
+    <message>
+        <source>Format Shape</source>
+        <translation>Format de la forme</translation>
+    </message>
+    <message>
+        <source>Format Picture</source>
+        <translation>Format de l&apos;image</translation>
+    </message>
+    <message>
+        <source>Format Media</source>
+        <translation>Formater le média</translation>
+    </message>
+    <message>
+        <source>Format OleObject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format ControlObject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Background</source>
+        <translation>Mise en forme de l&apos;arrière-plan</translation>
+    </message>
+    <message>
+        <source>Format Ink</source>
+        <translation>Format de l&apos;encre</translation>
+    </message>
+    <message>
+        <source>Apply to all</source>
+        <translation>Appliquer partout</translation>
+    </message>
+    <message>
+        <source>Reset Background</source>
+        <translation>Réinitialiser l&apos;arrière-plan</translation>
+    </message>
+</context>
+<context>
     <name>KxWppTransModel</name>
     <message>
         <source>Fade and Dissolve</source>
@@ -4585,7 +5412,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <name>KxWppVpPodium</name>
     <message>
         <source>Comment</source>
-        <translation type="unfinished">Commentaire</translation>
+        <translation>Commentaire</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -4609,7 +5436,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <name>KxWppZoomComboCommand</name>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished">Cette mesure n&apos;est pas valide.</translation>
+        <translation>Cette mesure n&apos;est pas valide.</translation>
     </message>
 </context>
 <context>
@@ -4801,35 +5628,35 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
-        <translation>Suivre la couleur de l&apos;accentuation</translation>
+        <translation type="obsolete">Suivre la couleur de l&apos;accentuation</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation>Suivre la couleur de l&apos;accentuation et des liens hypertexte visités</translation>
+        <translation type="obsolete">Suivre la couleur de l&apos;accentuation et des liens hypertexte visités</translation>
     </message>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation>Suivre la couleur de l&apos;accentuation et des liens hypertexte</translation>
+        <translation type="obsolete">Suivre la couleur de l&apos;accentuation et des liens hypertexte</translation>
     </message>
     <message>
         <source>Follow Background Color</source>
-        <translation>Suivre la couleur de l&apos;arrière-plan</translation>
+        <translation type="obsolete">Suivre la couleur de l&apos;arrière-plan</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
-        <translation>Suivre la couleur de remplissage</translation>
+        <translation type="obsolete">Suivre la couleur de remplissage</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
-        <translation>Suivre la couleur de l&apos;ombre</translation>
+        <translation type="obsolete">Suivre la couleur de l&apos;ombre</translation>
     </message>
     <message>
         <source>Follow Text and Lines Sheme Color</source>
-        <translation>Suivre la couleur du texte et des traits</translation>
+        <translation type="obsolete">Suivre la couleur du texte et des traits</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
-        <translation>Suivre la couleur du texte du titre</translation>
+        <translation type="obsolete">Suivre la couleur du texte du titre</translation>
     </message>
     <message>
         <source>In the %1 Show</source>
@@ -5018,7 +5845,83 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>&quot;%1&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
-        <translation type="unfinished">%1 est déjà ouvert. La réouverture entraînera l&apos;annulation des modifications. Voulez-vous rouvrir %2 ?</translation>
+        <translation>&quot;%1&quot; est déjà ouvert. Si vous le rouvrez, toutes vos modifications seront perdues. Voulez-vous rouvrir &quot;%2&quot; ?</translation>
+    </message>
+    <message>
+        <source>按文本和线条配色方案</source>
+        <translation type="obsolete">Suivre la couleur du texte et des traits</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="obsolete">Aligner à gauche</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="obsolete">Centre</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="obsolete">Aligner à droite</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="obsolete">Justifier</translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation type="obsolete">Distribué</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation type="obsolete">(Aucun)</translation>
+    </message>
+    <message>
+        <source>First line</source>
+        <translation type="obsolete">Première ligne</translation>
+    </message>
+    <message>
+        <source>Hanging</source>
+        <translation type="obsolete">Suspendu</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="obsolete">cm</translation>
+    </message>
+    <message>
+        <source>Please input value between 0cm and 21.35cm</source>
+        <translation type="obsolete">Entrez la valeur de 0cm à 21.35cm</translation>
+    </message>
+    <message>
+        <source>Please input value between 0 and 9.99</source>
+        <translation type="obsolete">Entrez la valeur de 0 à 9.99</translation>
+    </message>
+    <message>
+        <source>Please input value between 0pt and 1584pt</source>
+        <translation type="obsolete">Entrez la valeur de 0pt à 1584pt</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="obsolete">Simple</translation>
+    </message>
+    <message>
+        <source>1.5 times</source>
+        <translation type="obsolete">1,5 fois</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="obsolete">Double</translation>
+    </message>
+    <message>
+        <source>Fixed</source>
+        <translation type="obsolete">Fixe</translation>
+    </message>
+    <message>
+        <source>Multiple</source>
+        <translation type="obsolete">Multiple</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="obsolete">pt</translation>
     </message>
 </context>
 <context>
@@ -5026,31 +5929,31 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Apply to &amp;All Master</source>
         <translatorcomment>Design tab-&gt;Color Schemes-&gt;View tab-&gt;Slide Master-&gt;Task Winodw-&gt;right-click a color shceme</translatorcomment>
-        <translation>&amp;Appliquer à l&apos;ensemble du masque</translation>
+        <translation type="obsolete">&amp;Appliquer à l&apos;ensemble du masque</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
         <translatorcomment>Design tab-&gt;Color Schemes-&gt;Task Winodw-&gt;right-click a color shceme</translatorcomment>
-        <translation>&amp;Appliquer à toutes les diapositives</translation>
+        <translation type="obsolete">&amp;Appliquer à toutes les diapositives</translation>
     </message>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation>Appliquer au &amp;masque</translation>
+        <translation type="obsolete">Appliquer au &amp;masque</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Masters</source>
         <translatorcomment>Design tab-&gt;Color Schemes-&gt;View tab-&gt;Slide Master-&gt;Task Winodw-&gt;right-click a color shceme</translatorcomment>
-        <translation>Appliquer aux ma&amp;sques sélectionnés</translation>
+        <translation type="obsolete">Appliquer aux ma&amp;sques sélectionnés</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
         <translatorcomment>Design tab-&gt;Color Schemes-&gt;Task Winodw-&gt;right-click a color shceme</translatorcomment>
-        <translation>Appliquer aux diapo&amp;sitives sélectionnées</translation>
+        <translation type="obsolete">Appliquer aux diapo&amp;sitives sélectionnées</translation>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
         <translatorcomment>Design tab-&gt;Color Schemes-&gt;Task Winodw-&gt;right-click a color shceme</translatorcomment>
-        <translation>Affic&amp;her de grands aperçus</translation>
+        <translation type="obsolete">Affic&amp;her de grands aperçus</translation>
     </message>
 </context>
 <context>
@@ -5078,7 +5981,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Custom Animation:</source>
         <translatorcomment>Home tab-&gt;Shapes-&gt;insert a shape-&gt;Animation tab-&gt;Custom Animation-&gt;Task Window</translatorcomment>
-        <translation>Animation personnalisée :</translation>
+        <translation type="obsolete">Animation personnalisée :</translation>
     </message>
     <message>
         <source>Fast</source>
@@ -5159,7 +6062,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <name>dialogstestClass</name>
     <message>
         <source>Dialogstest</source>
-        <translation type="unfinished">Dialogstest</translation>
+        <translation>Dialogstest</translation>
     </message>
 </context>
 <context>
@@ -5314,7 +6217,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Remarque : les paramètres suivants deviennent effectifs et ne peuvent être modifiés par d&apos;autres personnes que si vous définissez un mot de passe.</translation>
     </message>
     <message>
         <source>Permit to modify</source>
@@ -5359,6 +6262,18 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Close when e&amp;xport completes</source>
         <translation type="unfinished">Fermer une fois que l&apos;e&amp;xportation a abouti</translation>
+    </message>
+    <message>
+        <source>Select OFD Service Provider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suwell&amp;K</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Foxit</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5633,7 +6548,8 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Presentation Button-&gt;Save as-&gt;Export to PDF-&gt;dialog box-&gt;Permission settings tab</translatorcomment>
+        <translation>Remarque : les paramètres suivants deviennent effectifs et ne peuvent être modifiés par d&apos;autres personnes que si vous définissez un mot de passe.</translation>
     </message>
 </context>
 <context>
@@ -5716,7 +6632,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Fill &amp;color:</source>
-        <translation>&amp;Couleur de remplissage :</translation>
+        <translation type="obsolete">&amp;Couleur de remplissage :</translation>
     </message>
     <message>
         <source>Format Table</source>
@@ -5736,7 +6652,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Semi&amp;transparent</source>
-        <translation>&amp;Translucide</translation>
+        <translation type="obsolete">&amp;Translucide</translation>
     </message>
     <message>
         <source>Text &amp;alignment:</source>
@@ -5784,7 +6700,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>cbFillColor</source>
-        <translation>cbFillColor</translation>
+        <translation type="obsolete">cbFillColor</translation>
     </message>
     <message>
         <source>cbOrientation</source>
@@ -5792,7 +6708,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>cbSemitransparent</source>
-        <translation>cbSemitransparent</translation>
+        <translation type="obsolete">cbSemitransparent</translation>
     </message>
     <message>
         <source>cbTextAlign</source>
@@ -5808,7 +6724,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>cmbFillColor</source>
-        <translation>cmbFillColor</translation>
+        <translation type="obsolete">cmbFillColor</translation>
     </message>
     <message>
         <source>lwLineStyle</source>
@@ -5825,6 +6741,149 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Bottom Center</source>
         <translation>Inférieur centre</translation>
+    </message>
+    <message>
+        <source>&amp;Fill</source>
+        <translation>Remplissage</translation>
+    </message>
+    <message>
+        <source>Solid fill</source>
+        <translation>Remplissage uni</translation>
+    </message>
+    <message>
+        <source>Gradient fill</source>
+        <translation>Remplissage dégradé</translation>
+    </message>
+    <message>
+        <source>Picture or texture fill</source>
+        <translation>Remplissage avec &amp;image ou texture</translation>
+    </message>
+    <message>
+        <source>Pattern fill</source>
+        <translation>Motifs de remplissage</translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation>&amp;Couleur</translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation>Transparence</translation>
+    </message>
+    <message>
+        <source>Enter 0%  to 100% of value</source>
+        <translation>Entrez une valeur comprise entre 0 % et 100 %.</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>&amp;Style</source>
+        <translation>Style</translation>
+    </message>
+    <message>
+        <source>Gradient Linear</source>
+        <translation>Dégradé linéaire</translation>
+    </message>
+    <message>
+        <source>Gradient Radial</source>
+        <translation>Dégradé radial</translation>
+    </message>
+    <message>
+        <source>Gradient Rect</source>
+        <translation>Dégradé rectangulaire</translation>
+    </message>
+    <message>
+        <source>Gradient Path</source>
+        <translation>Dégradé de chemin d’accès</translation>
+    </message>
+    <message>
+        <source>&amp;Angle</source>
+        <translation>Angle</translation>
+    </message>
+    <message>
+        <source>Enter 0  to 359 Degrees of value</source>
+        <translation>Entrez une valeur comprise entre 0 et 359.</translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation>°</translation>
+    </message>
+    <message>
+        <source>Gra&amp;dient stops</source>
+        <translation>Points de dégradé</translation>
+    </message>
+    <message>
+        <source>Source From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;File...</source>
+        <translation>Fichier...</translation>
+    </message>
+    <message>
+        <source>Source From &amp;Texture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Pattern</source>
+        <translation>Motif</translation>
+    </message>
+    <message>
+        <source>Fore&amp;ground</source>
+        <translation>Premier plan</translation>
+    </message>
+    <message>
+        <source>&amp;Background</source>
+        <translation>Arrière-plan</translation>
+    </message>
+    <message>
+        <source>Enter 0cm to 55.88cm of the Value</source>
+        <translation>Entrez une valeur comprise entre 0 et 55.88 cm</translation>
+    </message>
+</context>
+<context>
+    <name>kxDlgThesaurus</name>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="obsolete">Dictionnaire des synonymes</translation>
+    </message>
+    <message>
+        <source>Current word:</source>
+        <translation type="obsolete">Mot actuel :</translation>
+    </message>
+    <message>
+        <source>Alternatives:</source>
+        <translation type="obsolete">Variantes :</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="obsolete">Remplacer</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">Annuler</translation>
+    </message>
+    <message>
+        <source>&amp;Current word:</source>
+        <translation type="obsolete">Mot a&amp;ctuel :</translation>
+    </message>
+    <message>
+        <source>&amp;Language</source>
+        <translation type="obsolete">&amp;Langue :</translation>
+    </message>
+    <message>
+        <source>&amp;Alternatives:</source>
+        <translation type="obsolete">V&amp;ariantes :</translation>
+    </message>
+    <message>
+        <source>&amp;Replace</source>
+        <translation type="obsolete">&amp;Remplacer</translation>
+    </message>
+    <message>
+        <source>Ca&amp;ncel</source>
+        <translation type="obsolete">A&amp;nnuler</translation>
     </message>
 </context>
 <context>
@@ -5870,6 +6929,41 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>WPS Presentation</source>
         <translation>WPS Presentation</translation>
+    </message>
+</context>
+<context>
+    <name>wppContentPosition</name>
+    <message>
+        <source>&amp;Horizontal position</source>
+        <translation>Position &amp;horizontale</translation>
+    </message>
+    <message>
+        <source>Enter -5963.92  to 5963.92 cm of value</source>
+        <translation>Entrez une valeur comprise entre -5963.92 et 5963.92 cm</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>cm</translation>
+    </message>
+    <message>
+        <source>&amp;From</source>
+        <translation>&amp;De :</translation>
+    </message>
+    <message>
+        <source>Top Left Corner</source>
+        <translation>Coin supérieur gauche</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>Centre</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical position</source>
+        <translation>Position &amp;verticale</translation>
+    </message>
+    <message>
+        <source>F&amp;rom</source>
+        <translation>D&amp;e :</translation>
     </message>
 </context>
 </TS>

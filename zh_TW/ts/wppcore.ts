@@ -167,7 +167,7 @@
     <message>
         <source>This function is offered in WPS Office 2009 Professional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation type="unfinished"></translation>
+        <translation>此功能在 WPS Office 2013 專業版 中提供!</translation>
     </message>
 </context>
 <context>
@@ -334,7 +334,7 @@ It is important to be certain that this file is from a trustworthy source.
 Would you like to open this file?
 </source>
         <comment>WpActionRunProgramMessage</comment>
-        <translation>開啟%s
+        <translation>開啟 %s
 
 某些檔案可能含有病毒，甚至可能對您的電腦有害。
 請確定此檔案來源可靠。 
@@ -630,6 +630,41 @@ Would you like to open this file?
         <comment>TXTRANS_PARA_TEXTALIGN_UPHOLDINGFIXED</comment>
         <translation>向下</translation>
     </message>
+    <message>
+        <source>Left Indent</source>
+        <comment>TXTRANS_PARA_TEXTINDENT_LEFT</comment>
+        <translation>左邊縮排</translation>
+    </message>
+    <message>
+        <source>First Line Indent</source>
+        <comment>TXTRANS_PARA_TEXTINDENT_FIRSTLINE</comment>
+        <translation>首行縮排</translation>
+    </message>
+    <message>
+        <source>LangID</source>
+        <comment>TXTRANS_SPAN_FONT_LANGID</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AltLangID</source>
+        <comment>TXTRANS_SPAN_FONT_ALTLANGID</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>UnderlineStyle</source>
+        <comment>TXTRANS_SPAN_FONT_UNDERLINE_STYLE</comment>
+        <translation>底線樣式</translation>
+    </message>
+    <message>
+        <source>spacing</source>
+        <comment>TXTRANS_SPAN_FONT_SPACING</comment>
+        <translation>間距</translation>
+    </message>
+    <message>
+        <source>kerning</source>
+        <comment>TXTRANS_SPAN_FONT_KERNING</comment>
+        <translation>字元間距調整</translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppcore</name>
@@ -831,7 +866,7 @@ Would you like to open this file?
     <message>
         <source>Click to edit Master subtitle Style</source>
         <comment>WP_TEXT_OF_SUBTITLE_IN_MASTER</comment>
-        <translation>按一下以編輯母片副標題樣式</translation>
+        <translation type="obsolete">按一下以編輯母片副標題樣式</translation>
     </message>
     <message>
         <source>Click to edit Master text styles
@@ -1611,7 +1646,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished">簡報</translation>
+        <translation>簡報</translation>
     </message>
     <message>
         <source>Presentation</source>
@@ -2519,7 +2554,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>default.dpt</source>
         <comment>WpStartandFile</comment>
-        <translation>default.dpt</translation>
+        <translation type="obsolete">default.dpt</translation>
     </message>
     <message>
         <source>Errors occur when WPS Presentation is opening this file.
@@ -2602,28 +2637,511 @@ Please try one of the following.
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation type="obsolete">您正在開啟由 Microsoft Office 2007 以上版本生成的文件，可能存在局部相容效果不理想且不支援儲存。</translation>
+        <translation>您正在開啟由 Microsoft Office 2007 以上版本生成的文件，可能存在局部相容效果不理想且不支援儲存。</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;WPS Office 已察覺一個潛在安全性顧慮。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;簡報包含其他檔案的連結。&lt;/p&gt;&lt;p&gt;&amp;bull;如果要更新該連結，WPS Presentation 會嘗試擷取最新的資訊。&lt;br&gt;&amp;bull;如果不更新該連結，WPS Presentation 會使用先前的資訊。&lt;/p&gt;&lt;p&gt;請注意，檔案連結可以在不經過您的許可下，存取與共用機密資訊，並可能執行其他有害動作。除非您信任這份簡報的來源，否則請不要更新連結。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>WPS Presentation cannot save or create this file.
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>WP_SAVE_PPT_FAILURE</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation 無法儲存或建立此檔案。
+請確定此檔案未被其他使用者鎖定，用來儲存檔案的磁碟未滿且沒有寫入保護或損毀。</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
         <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">您正在開啟由 Microsoft Office 2007 以上版本生成的文件，可能存在局部相容效果不理想；為避免資料遺失，將以瀏覽模式開啟此文件 (不支援編輯和儲存)。</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
+        <translation type="obsolete">您正在開啟由 Microsoft Office 2007 以上版本生成的文件，可能存在局部相容效果不理想且不支援儲存。</translation>
+    </message>
+    <message>
+        <source>newfile.pptx</source>
+        <comment>WpStartandFile</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Custom Layout</source>
+        <comment>WP_CUSTOM_LAYOUT</comment>
+        <translation>自訂版面配置</translation>
+    </message>
+    <message>
+        <source>Slide Layout</source>
+        <comment>WP_SB_VIEW_SLIDELAYOUT</comment>
+        <translation>投影片版面配置</translation>
+    </message>
+    <message>
+        <source>Click to add notes</source>
+        <comment>WP_ADD_NOTES</comment>
+        <translation>按一下以新增備忘稿</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>WP_PH_SPNAME_TITLE</comment>
+        <translation>標題</translation>
+    </message>
+    <message>
+        <source>Text Placeholder</source>
+        <comment>WP_PH_SPNAME_TEXT_PLACEHOLDER</comment>
+        <translation>文字版面配置區</translation>
+    </message>
+    <message>
+        <source>Subtitle</source>
+        <comment>WP_PH_SPNAME_SUBTITLE</comment>
+        <translation>副標題</translation>
+    </message>
+    <message>
+        <source>Date Placeholder</source>
+        <comment>WP_PH_SPNAME_DATE_PLACEHOLDER</comment>
+        <translation>日期版面配置區</translation>
+    </message>
+    <message>
+        <source>Slide Number Placeholder</source>
+        <comment>WP_PH_SPNAME_SLIDE_NUMBER_PLACEHOLDER</comment>
+        <translation>投影片編號版面配置區</translation>
+    </message>
+    <message>
+        <source>Footer Placeholder</source>
+        <comment>WP_PH_SPNAME_FOOTER_PLACEHOLDER</comment>
+        <translation>頁尾版面配置區</translation>
+    </message>
+    <message>
+        <source>Header Placeholder</source>
+        <comment>WP_PH_SPNAME_HEADER_PLACEHOLDER</comment>
+        <translation>頁首版面配置區</translation>
+    </message>
+    <message>
+        <source>Content Placeholder</source>
+        <comment>WP_PH_SPNAME_CONTENT_PLACEHOLDER</comment>
+        <translation>內容版面配置區</translation>
+    </message>
+    <message>
+        <source>Chart Placeholder</source>
+        <comment>WP_PH_SPNAME_CHART_PLACEHOLDER</comment>
+        <translation>圖表版面配置區</translation>
+    </message>
+    <message>
+        <source>Table Placeholder</source>
+        <comment>WP_PH_SPNAME_TABLE_PLACEHOLDER</comment>
+        <translation>表格版面配置區</translation>
+    </message>
+    <message>
+        <source>ClipArt Placeholder</source>
+        <comment>WP_PH_SPNAME_CLIPART_PLACEHOLDER</comment>
+        <translation>美工圖案版面配置區</translation>
+    </message>
+    <message>
+        <source>SmartArt Placeholder</source>
+        <comment>WP_PH_SPNAME_SMARTART_PLACEHOLDER</comment>
+        <translation>SmartArt 版面配置區</translation>
+    </message>
+    <message>
+        <source>Media Placeholder</source>
+        <comment>WP_PH_SPNAME_MEDIA_PLACEHOLDER</comment>
+        <translation>媒體版面配置區</translation>
+    </message>
+    <message>
+        <source>Slide Image Placeholder</source>
+        <comment>WP_PH_SPNAME_SLIDE_IMAGE_PLACEHOLDER</comment>
+        <translation>投影片圖像版面配置區</translation>
+    </message>
+    <message>
+        <source>Picture Placeholder</source>
+        <comment>WP_PH_SPNAME_PICTURE_PLACEHOLDER</comment>
+        <translation>圖片版面配置區</translation>
+    </message>
+    <message>
+        <source> The Slide Master: </source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_MASTER</comment>
+        <translation> 母片:</translation>
+    </message>
+    <message>
+        <source> The Layout: </source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_LAYOUT</comment>
+        <translation> 版面配置:</translation>
+    </message>
+    <message>
+        <source>By using the slide %1</source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_USING_SLIDE</comment>
+        <translation>由投影片 %1 所使用</translation>
+    </message>
+    <message>
+        <source>No Slide Using</source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_NO_SLIDE_USING</comment>
+        <translation>無頭影片使用</translation>
+    </message>
+    <message>
+        <source>No Title</source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_NO_TITLE</comment>
+        <translation>無標題</translation>
+    </message>
+    <message>
+        <source>The following features cannot be saved in macro-free workbooks:
+ · VB project
+To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.
+</source>
+        <comment>WP_SAVEMACROWARNING</comment>
+        <translation>下列功能無法儲存在無巨集的活頁簿:
+‧VB 專案
+若要儲存具有這些功能的檔案，請按一下 [否]，再於 [檔案類型] 清單選擇啟用巨集的檔案類型。
+若要繼續儲存為無巨集活頁簿，請按一下 [是]。</translation>
+    </message>
+    <message>
+        <source>We&apos;re sorry, something went wrong that might make WPS Presentation unstable. Please save your presentations and restart WPS Presentation</source>
+        <comment>WP_PASTEWARNING</comment>
+        <translation>抱歉，出現問題，可能導致 WPS Presentation 不穩定。請儲存您的簡報，再重新啟動 WPS Presentation。</translation>
+    </message>
+    <message>
+        <source>default</source>
+        <comment>wpp_sLoaclTemplate_default</comment>
+        <translation>預設範本</translation>
+    </message>
+    <message>
+        <source>3d map</source>
+        <comment>wpp_sLoaclTemplate_3d_map</comment>
+        <translation>立體映射</translation>
+    </message>
+    <message>
+        <source>art_mountaineering</source>
+        <comment>wpp_sLoaclTemplate_art_mountaineering</comment>
+        <translation>登山</translation>
+    </message>
+    <message>
+        <source>blue background</source>
+        <comment>wpp_sLoaclTemplate_blue_background</comment>
+        <translation>藍色背景</translation>
+    </message>
+    <message>
+        <source>blue crystal lattice</source>
+        <comment>wpp_sLoaclTemplate_blue_crystal_lattice</comment>
+        <translation>藍色晶格</translation>
+    </message>
+    <message>
+        <source>blue longing</source>
+        <comment>wpp_sLoaclTemplate_blue_longing</comment>
+        <translation>藍色渴望</translation>
+    </message>
+    <message>
+        <source>blue waves</source>
+        <comment>wpp_sLoaclTemplate_blue_waves</comment>
+        <translation>藍色波紋</translation>
+    </message>
+    <message>
+        <source>books</source>
+        <comment>wpp_sLoaclTemplate_books</comment>
+        <translation>書本</translation>
+    </message>
+    <message>
+        <source>business calculation</source>
+        <comment>wpp_sLoaclTemplate_business_calculation</comment>
+        <translation>商業-計算</translation>
+    </message>
+    <message>
+        <source>business cooperate</source>
+        <comment>wpp_sLoaclTemplate_business_cooperate</comment>
+        <translation>商業-合作</translation>
+    </message>
+    <message>
+        <source>business index</source>
+        <comment>wpp_sLoaclTemplate_business_index</comment>
+        <translation>商業-索引</translation>
+    </message>
+    <message>
+        <source>business technology</source>
+        <comment>wpp_sLoaclTemplate_business_technolog_</comment>
+        <translation>商業-科技</translation>
+    </message>
+    <message>
+        <source>business_business affair</source>
+        <comment>wpp_sLoaclTemplate_business_business_affair</comment>
+        <translation>商業-商業公平</translation>
+    </message>
+    <message>
+        <source>business_stock fluctuation</source>
+        <comment>wpp_sLoaclTemplate_business_stock_fluctuation</comment>
+        <translation>商業-波動的股市</translation>
+    </message>
+    <message>
+        <source>city silhouette</source>
+        <comment>wpp_sLoaclTemplate_city_silhouette</comment>
+        <translation>城市剪影</translation>
+    </message>
+    <message>
+        <source>classical_pelycosaur</source>
+        <comment>wpp_sLoaclTemplate_</comment>
+        <translation>經典盤龍</translation>
+    </message>
+    <message>
+        <source>colourful</source>
+        <comment>wpp_sLoaclTemplate_colourful</comment>
+        <translation>多彩</translation>
+    </message>
+    <message>
+        <source>communications and dialogues</source>
+        <comment>wpp_sLoaclTemplate_communications_and_dialogues</comment>
+        <translation>通訊與對話</translation>
+    </message>
+    <message>
+        <source>curtain background</source>
+        <comment>wpp_sLoaclTemplate_curtain_background</comment>
+        <translation>背景窗簾</translation>
+    </message>
+    <message>
+        <source>daily_loose-leaf binder</source>
+        <comment>wpp_sLoaclTemplate_daily_loose_leaf_binder</comment>
+        <translation>資料夾</translation>
+    </message>
+    <message>
+        <source>data pie charts</source>
+        <comment>wpp_sLoaclTemplate_data_pie_charts</comment>
+        <translation>圓形圖</translation>
+    </message>
+    <message>
+        <source>dazzle dance smooth shadow</source>
+        <comment>wpp_sLoaclTemplate_dance_dazzle_smooth_shadow</comment>
+        <translation>炫舞光影</translation>
+    </message>
+    <message>
+        <source>deep blue technology</source>
+        <comment>wpp_sLoaclTemplate_deep_blue_technology</comment>
+        <translation>深藍科技</translation>
+    </message>
+    <message>
+        <source>direction</source>
+        <comment>wpp_sLoaclTemplate_direction</comment>
+        <translation>方向</translation>
+    </message>
+    <message>
+        <source>friendly cooperation</source>
+        <comment>wpp_sLoaclTemplate_friendly_cooperation</comment>
+        <translation>友好合作</translation>
+    </message>
+    <message>
+        <source>gear drawings</source>
+        <comment>wpp_sLoaclTemplate_gear_drawings</comment>
+        <translation>齒輪圖</translation>
+    </message>
+    <message>
+        <source>gear drives</source>
+        <comment>wpp_sLoaclTemplate_gear_drives</comment>
+        <translation>齒輪轉動</translation>
+    </message>
+    <message>
+        <source>global plan</source>
+        <comment>wpp_sLoaclTemplate_global_plan</comment>
+        <translation>全球計劃</translation>
+    </message>
+    <message>
+        <source>global trade</source>
+        <comment>wpp_sLoaclTemplate_global_trade</comment>
+        <translation>全球貿易</translation>
+    </message>
+    <message>
+        <source>government_celebration</source>
+        <comment>wpp_sLoaclTemplate_government_celebration</comment>
+        <translation>政府-慶祝</translation>
+    </message>
+    <message>
+        <source>government_five-pointed_red star</source>
+        <comment>wpp_sLoaclTemplate_government_five_pointed_red_star</comment>
+        <translation>政府-五角星</translation>
+    </message>
+    <message>
+        <source>green color</source>
+        <comment>wpp_sLoaclTemplate_green_color</comment>
+        <translation>綠色</translation>
+    </message>
+    <message>
+        <source>green technology</source>
+        <comment>wpp_sLoaclTemplate_green_technology</comment>
+        <translation>綠色科技</translation>
+    </message>
+    <message>
+        <source>interpersonal relation</source>
+        <comment>wpp_sLoaclTemplate_interpersonal_relation</comment>
+        <translation>國際交流</translation>
+    </message>
+    <message>
+        <source>landscape painting</source>
+        <comment>wpp_sLoaclTemplate_landscape_painting</comment>
+        <translation>山水畫</translation>
+    </message>
+    <message>
+        <source>mythic curve</source>
+        <comment>wpp_sLoaclTemplate_mythic_curve</comment>
+        <translation>神秘曲線</translation>
+    </message>
+    <message>
+        <source>new charpter</source>
+        <comment>wpp_sLoaclTemplate_new_charpter</comment>
+        <translation>新篇章</translation>
+    </message>
+    <message>
+        <source>new energe</source>
+        <comment>wpp_sLoaclTemplate_new_energe</comment>
+        <translation>新能源</translation>
+    </message>
+    <message>
+        <source>orange waves</source>
+        <comment>wpp_sLoaclTemplate_orange_waves</comment>
+        <translation>橘色波浪</translation>
+    </message>
+    <message>
+        <source>phantom effect</source>
+        <comment>wpp_sLoaclTemplate_phantom_effect</comment>
+        <translation>虛幻效果</translation>
+    </message>
+    <message>
+        <source>pleasant garden</source>
+        <comment>wpp_sLoaclTemplate_pleasant_garden</comment>
+        <translation>美麗花園</translation>
+    </message>
+    <message>
+        <source>red background</source>
+        <comment>wpp_sLoaclTemplate_red_background</comment>
+        <translation>紅色背景</translation>
+    </message>
+    <message>
+        <source>red curtain</source>
+        <comment>wpp_sLoaclTemplate_red_curtain</comment>
+        <translation>紅色窗簾</translation>
+    </message>
+    <message>
+        <source>science and technology preach</source>
+        <comment>wpp_sLoaclTemplate_science_and_technology_preach</comment>
+        <translation>科技宣傳</translation>
+    </message>
+    <message>
+        <source>sea widen sky</source>
+        <comment>wpp_sLoaclTemplate_sea_widen_sky</comment>
+        <translation>海闊天空</translation>
+    </message>
+    <message>
+        <source>simple green</source>
+        <comment>wpp_sLoaclTemplate_simple_green</comment>
+        <translation>簡單的綠色</translation>
+    </message>
+    <message>
+        <source>small blackbord</source>
+        <comment>wpp_sLoaclTemplate_small_blackbord</comment>
+        <translation>小黑板</translation>
+    </message>
+    <message>
+        <source>stationery</source>
+        <comment>wpp_sLoaclTemplate_stationery</comment>
+        <translation>文具</translation>
+    </message>
+    <message>
+        <source>sweet memories</source>
+        <comment>wpp_sLoaclTemplate_sweet_memories</comment>
+        <translation>甜蜜的夢</translation>
+    </message>
+    <message>
+        <source>time revolution</source>
+        <comment>wpp_sLoaclTemplate_time_revolution</comment>
+        <translation>時間革命</translation>
+    </message>
+    <message>
+        <source>training course</source>
+        <comment>wpp_sLoaclTemplate_training_course</comment>
+        <translation>訓練課程</translation>
+    </message>
+    <message>
+        <source>up arrow</source>
+        <comment>wpp_sLoaclTemplate_up_arrow</comment>
+        <translation>向上箭號</translation>
+    </message>
+    <message>
+        <source>world map</source>
+        <comment>wpp_sLoaclTemplate_world_map</comment>
+        <translation>世界地圖</translation>
+    </message>
+    <message>
+        <source>Handout Master</source>
+        <comment>WP_SB_VIEW_HANDOUTMASTER</comment>
+        <translation>講義母片</translation>
+    </message>
+    <message>
+        <source>Notes Master</source>
+        <comment>WP_SB_VIEW_NOTESMASTER</comment>
+        <translation>備忘稿母片</translation>
+    </message>
+    <message>
+        <source>Notes Page</source>
+        <comment>WP_SB_VIEW_NOTESPAGE</comment>
+        <translation>備忘稿</translation>
+    </message>
+    <message>
+        <source>Click to edit Master text styles</source>
+        <comment>WP_LEVER_TEXT_OF_FIRST_LEVER</comment>
+        <translation>按一下以編輯母片文字樣式</translation>
+    </message>
+    <message>
+        <source>Second level</source>
+        <comment>WP_LEVER_TEXT_OF_SECOND_LEVER</comment>
+        <translation>第二層</translation>
+    </message>
+    <message>
+        <source>Third level</source>
+        <comment>WP_LEVER_TEXT_OF_THIRD_LEVER</comment>
+        <translation>第三層</translation>
+    </message>
+    <message>
+        <source>Fourth level</source>
+        <comment>WP_LEVER_TEXT_OF_FORTH_LEVER</comment>
+        <translation>第四層</translation>
+    </message>
+    <message>
+        <source>Fifth level</source>
+        <comment>WP_LEVER_TEXT_OF_FIFTH_LEVER</comment>
+        <translation>第五層</translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <comment>WP_TEXT_OF_HEADER</comment>
+        <translation>頁首</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <comment>WP_TEXT_OF_FOOTER</comment>
+        <translation>頁尾</translation>
+    </message>
+    <message>
+        <source>No Notes</source>
+        <comment>WP_ADD_NOTES</comment>
+        <translation>無備忘稿</translation>
+    </message>
+    <message>
+        <source>The media clips in this version of WPS Presentation will be lost (slide %1)</source>
+        <comment>WP_COMPATIBILITYCHECKER_MEDIACLIPS</comment>
+        <translation>在此 WPS Presentation 版本中的多媒體資料將遺失。(投影片  %1)</translation>
+    </message>
+    <message>
+        <source>Objects in this document contain links to files that cannot be found. The linked information will not be updated.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The linked file is unavailable and can&apos;t be updated.</source>
+        <comment>WP_LINKEDFILENOTAVALILABLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document has been locked by %s, Do you want to open it as read-only?
+(%s)</source>
+        <comment>WP_SaveFailureLockedByUser</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to edit Master subtitle style</source>
+        <comment>WP_TEXT_OF_SUBTITLE_IN_MASTER</comment>
+        <translation>按一下以編輯母片副標題樣式</translation>
     </message>
 </context>
 <context>
@@ -2656,27 +3174,27 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Double-click to add chart</source>
         <comment>WpPLACEHOLDER_ADD_CHART</comment>
-        <translation>連按兩下以新增圖表</translation>
+        <translation type="obsolete">連按兩下以新增圖表</translation>
     </message>
     <message>
         <source>Double-click to add clip art</source>
         <comment>WpPLACEHOLDER_ADD_PICTURE</comment>
-        <translation>連按兩下以新增圖片</translation>
+        <translation type="obsolete">連按兩下以新增圖片</translation>
     </message>
     <message>
         <source>Double-click to add diagram or organization chart</source>
         <comment>WpPLACEHOLDER_ADD_ORGCHART</comment>
-        <translation>連按兩下以新增圖表或組織圖</translation>
+        <translation type="obsolete">連按兩下以新增圖表或組織圖</translation>
     </message>
     <message>
         <source>Double-click to add media clip</source>
         <comment>WpPLACEHOLDER_ADD_MEDIA</comment>
-        <translation>連按兩下以新增視訊剪輯</translation>
+        <translation type="obsolete">連按兩下以新增視訊剪輯</translation>
     </message>
     <message>
         <source>Double-click to add table</source>
         <comment>WpPLACEHOLDER_ADD_TABLE</comment>
-        <translation>連按兩下以新增表格</translation>
+        <translation type="obsolete">連按兩下以新增表格</translation>
     </message>
     <message>
         <source>Footer Area</source>
@@ -2707,6 +3225,36 @@ Please make sure the file is not locked by another user, or the target disk is n
         <source>Title Area for AutoLayouts</source>
         <comment>WpPLACEHOLDER_MST_TITLE</comment>
         <translation>自動版面配置的標題區域</translation>
+    </message>
+    <message>
+        <source>Click icon to add chart</source>
+        <comment>WpPLACEHOLDER_ADD_CHART</comment>
+        <translation>按一下圖示以新增圖表</translation>
+    </message>
+    <message>
+        <source>Click icon to add picture</source>
+        <comment>WpPLACEHOLDER_ADD_PICTURE</comment>
+        <translation>按一下圖示以新增圖片</translation>
+    </message>
+    <message>
+        <source>Click icon to add media clip</source>
+        <comment>WpPLACEHOLDER_ADD_MEDIA</comment>
+        <translation>按一下圖示以新增多媒體</translation>
+    </message>
+    <message>
+        <source>Click icon to add table</source>
+        <comment>WpPLACEHOLDER_ADD_TABLE</comment>
+        <translation>按一下圖示以新增表格</translation>
+    </message>
+    <message>
+        <source>Click icon to add smartArt</source>
+        <comment>WpPLACEHOLDER_ADD_ORGCHART</comment>
+        <translation>按一下圖示以新增 SmartArt 圖形</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <comment>WpPLACEHOLDER_MST_PICTURE</comment>
+        <translation>圖片</translation>
     </message>
 </context>
 <context>
@@ -4558,12 +5106,12 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Master: Body</source>
         <comment>wpp_sMasterText</comment>
-        <translation>母片: 內文</translation>
+        <translation type="obsolete">母片: 內文</translation>
     </message>
     <message>
         <source>Master: Title</source>
         <comment>wpp_sMasterTitle</comment>
-        <translation>母片: 標題</translation>
+        <translation type="obsolete">母片: 標題</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -5712,17 +6260,52 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Out Slightly</source>
         <comment>wpp_sAnimDirectionInSlightly</comment>
-        <translation type="unfinished"></translation>
+        <translation>略微向內</translation>
     </message>
     <message>
         <source>Canceled by user.</source>
         <comment>wpp_sCancelByUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>使用者取消作業。</translation>
     </message>
     <message>
         <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
         <comment>wpp_sCanNotOpenFolder</comment>
-        <translation type="unfinished"></translation>
+        <translation>無法開啟資料夾 %s。資料夾位於無法使用的位置，資料夾受密碼保護或資料夾名稱不存在或超長。</translation>
+    </message>
+    <message>
+        <source>Master: %1</source>
+        <comment>wpp_sMasterType_Master</comment>
+        <translation>母片: %1</translation>
+    </message>
+    <message>
+        <source>Layout: %1</source>
+        <comment>wpp_sMasterType_Layout</comment>
+        <translation>版面配置​​: %1</translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <comment>wpp_sMasterText</comment>
+        <translation>本文</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>wpp_sMasterTitle</comment>
+        <translation>標題</translation>
+    </message>
+    <message>
+        <source>date</source>
+        <comment>wpp_sMasterDate</comment>
+        <translation>日期</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <comment>wpp_sMasterFooter</comment>
+        <translation>頁尾</translation>
+    </message>
+    <message>
+        <source>Slider Number</source>
+        <comment>wpp_sMasterSliderNumber</comment>
+        <translation>投影片編號</translation>
     </message>
 </context>
 <context>
@@ -5862,7 +6445,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>AU Audio File(au) (*.au;*.snd)</source>
         <comment>DgDesc_AIFFAudioFile</comment>
-        <translation>AU Audio file (au) (*.au;*.snd)</translation>
+        <translation>AU 音訊檔 (au) (*.au;*.snd)</translation>
     </message>
     <message>
         <source>Action Settings</source>
@@ -6364,7 +6947,7 @@ Spelling</source>
     <message>
         <source>MIDI File(midi) (*.mid;*.midi;*.rmi)</source>
         <comment>DgDesc_MIDIFile</comment>
-        <translation>MIDI file (midi) (*.mid;*.midi;*.rmi)</translation>
+        <translation>MIDI 檔 (midi) (*.mid;*.midi;*.rmi)</translation>
     </message>
     <message>
         <source>MP3 Audio File(mp3) (*.mp3;*.m3u)</source>
@@ -6782,7 +7365,7 @@ Check</source>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
         <comment>WP_TEMPLATEFILE</comment>
-        <translation>WPS Presentation 範本 (*.dpt)|*.dpt|WPS Presentation 簡報 (*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt)|*.ppt</translation>
+        <translation type="obsolete">WPS Presentation 範本 (*.dpt)|*.dpt|WPS Presentation 簡報 (*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt)|*.ppt</translation>
     </message>
     <message>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
@@ -6794,38 +7377,18 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Involved Template</source>
         <comment>WpINVOLVEDTEMPLATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>此文件使用的範本</translation>
     </message>
     <message>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>WpMsgBackupToDef</comment>
-        <translation type="unfinished">在進行文件備份時發生錯誤！可能是由於您設置的備份目錄沒有寫權限，請嘗試更改備份目錄。
+        <translation>在進行文件備份時發生錯誤！可能是由於您設置的備份目錄沒有寫權限，請嘗試更改備份目錄。
 此次備份將保存到(%s)。</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
         <comment>WpDescAll</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</source>
-        <comment>WpDescCommon</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation Files(*.dps)</source>
-        <comment>WpDescWPP</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation Templates(*.dpt)</source>
-        <comment>WpDescWPPTemp</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
-        <comment>WpDescPptPps</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6836,16 +7399,6 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
         <comment>WpDescPps</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
-        <comment>WpDescPptTemp</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)</source>
-        <comment>WpDescPptx</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6882,6 +7435,217 @@ This backup will be saved to(%s)</source>
         <source>Each slide in your presentation has been saved as a separate file in the folder
 %s .</source>
         <comment>WpSAVEIMAGEHINT</comment>
+        <translation>簡報中的每張投影片都個別存檔到資料夾
+%s 。</translation>
+    </message>
+    <message>
+        <source>Paragraphs</source>
+        <comment>WpPARAGRAPHS</comment>
+        <translation>段落</translation>
+    </message>
+    <message>
+        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps</source>
+        <comment>WP_SAVEFILE</comment>
+        <translation type="obsolete">WPS Presentation 簡報 (*.dps)|*.dps|WPS Presentation 範本 (*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 播放檔 (*.pps)|*.pps</translation>
+    </message>
+    <message>
+        <source>JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
+        <comment>WP_SAVEFILE_IMAGES</comment>
+        <translation>JPEG 檔案交換格式(*.jpg)|*.jpg|PNG 可攜式網路圖形格式 (*.png)|*.png|TIF 格式檔 (*.tif)|*.tif|與裝置無關點陣圖 (*.bmp)|*.bmp</translation>
+    </message>
+    <message>
+        <source>MPEG-4 Video(*.mp4)|*.mp4</source>
+        <comment>WP_SAVEFILE_VIDEO_MP4</comment>
+        <translation>Mpeg-4 視訊 (*.mp4)|*.mp4</translation>
+    </message>
+    <message>
+        <source>\WPS Video\WPS Video</source>
+        <comment>WpVideoSaveRelativePath</comment>
+        <translation>\WPS 視訊\WPS 視訊</translation>
+    </message>
+    <message>
+        <source>\WPS Image\WPS Image</source>
+        <comment>WpImageSaveRelativePath</comment>
+        <translation>\WPS 圖像\WPS 圖像</translation>
+    </message>
+    <message>
+        <source>Windows Media Video(*.wmv)|*.wmv</source>
+        <comment>WP_SAVEFILE_VIDEO_WMV</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Audio Video Interleave(*.avi)|*.avi</source>
+        <comment>WP_SAVEFILE_VIDEO_AVI</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Open Web Media Video(*.webm)|*.webm</source>
+        <comment>WP_SAVEFILE_VIDEO_WEBM</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>|</source>
+        <comment>WpOpenSaveFilterSeperator</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)|*.pptx; *.ppsx; *.pptm; *.ppsm|Microsoft PowerPoint 2007/2010 Presentation Templates(*.potx; *.potm)|*.potx; *.potm</source>
+        <comment>WP_OPENFILE</comment>
+        <translation type="obsolete">所有檔案 (*.*)|*.*|常用檔案 (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx|WPS Presentation 簡報 (*.dps)|*.dps|WPS Presentation 範本 (*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 2007/2010 簡報 (*.pptx; *.ppsx; *.pptm; *.ppsm)|*.pptx; *.ppsx; *.pptm; *.ppsm|Microsoft PowerPoint 2007/2010 範本(*.potx; *.potm)|*.potx; *.potm</translation>
+    </message>
+    <message>
+        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|Microsoft PowerPoint 2007/2010 Presentation(*.pptx)|*.pptx|Microsoft PowerPoint 2007/2010 Macro Enabled Presentation(*.pptm)|*.pptm|Microsoft PowerPoint 2007/2010 Presentation Template(*.potx)|*.potx|Microsoft PowerPoint 2007/2010 Macro Enabled Presentation Template(*.potm)|*.potm|Microsoft PowerPoint 2007/2010 Show(*.ppsx)|*.ppsx|Microsoft PowerPoint 2007/2010 Macro Enabled Show(*.ppsm)|*.ppsm</source>
+        <comment>WP_SAVEFILE</comment>
+        <translation type="obsolete">WPS Presentation 簡報 (*.dps)|*.dps|WPS Presentation 範本 (*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation 範本 (*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 播放檔 (*.pps)|*.pps|Microsoft PowerPoint 2007/2010 簡報(*.pptx)|*.pptx|Microsoft PowerPoint 2007/2010 啟用巨集的簡報 (*.pptm)|*.pptm|Microsoft PowerPoint 2007/2010 範本 (*.potx)|*.potx|Microsoft PowerPoint 2007/2010 啟用巨集的範本 (*.potm)|*.potm|Microsoft PowerPoint 2007/2010 播放檔 (*.ppsx)|*.ppsx|Microsoft PowerPoint 2007/2010 啟用巨集的播放檔 (*.ppsm)|*.ppsm</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|WPS Presentation 2007/2010 Files(*.dpsx)|*.dpsx|WPS Presentation 2007/2010 Templates(*.dptx)|*.dptx|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
+        <comment>WP_OPENFILEEX</comment>
+        <translation type="obsolete">所有檔案 (*.*)|*.*|常用檔案 (*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation 簡報 (*.dps)|*.dps|WPS Presentation 範本 (*.dpt)|*.dpt|WPS Presentation 2007/2010 簡報 (*.dpsx)|*.dpsx|WPS Presentation 2007/2010 範本 (*.dptx)|*.dptx|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 2007/2010 簡報 (*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
+    </message>
+    <message>
+        <source>WPS Presentation 2007/2010 Files(*.dpsx)|*.dpsx|WPS Presentation 2007/2010 Templates(*.dptx)|*.dptx|WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 2007/2010 Presentation(*.pptx)|*.pptx|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps</source>
+        <comment>WP_SAVEFILEEX</comment>
+        <translation type="obsolete">WPS Presentation 2007/2010 簡報 (*.dpsx)|*.dpsx|WPS Presentation 2007/2010 範本 (*.dptx)|*.dptx|WPS Presentation 簡報 (*.dps)|*.dps|WPS Presentation 範本 (*.dpt)|*.dpt|Microsoft PowerPoint 2007/2010 簡報 (*.pptx)|*.pptx|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 播放檔 (*.pps)|*.pps</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*.potx;*.potm;*.thmx)|*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*potx;*.potm;*.thmx</source>
+        <comment>WP_TEMPLATEFILE</comment>
+        <translation>常用檔案 (*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*.potx;*.potm;*.thmx)|*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*potx;*.potm;*.thmx</translation>
+    </message>
+    <message>
+        <source>Edit Chart Datasource</source>
+        <comment>WpEDITCHARTDATASOURCE</comment>
+        <translation>編輯圖表資料來源</translation>
+    </message>
+    <message>
+        <source>The linked file is not available.</source>
+        <comment>WpUNAVAILABLECHARTLINKPATH</comment>
+        <translation type="obsolete">連結的檔案無法使用。</translation>
+    </message>
+    <message>
+        <source>Insert Layout</source>
+        <comment>WpINSERTLAYOUT</comment>
+        <translation>插入版面配置</translation>
+    </message>
+    <message>
+        <source>Format Text</source>
+        <comment>WpFormatText</comment>
+        <translation>格式化文字</translation>
+    </message>
+    <message>
+        <source>Edit Table Borders</source>
+        <comment>WpEditTableBorders</comment>
+        <translation>編輯表格框線</translation>
+    </message>
+    <message>
+        <source>AddPlaceholder</source>
+        <comment>WpAddPlaceHolder</comment>
+        <translation>新增預留位置</translation>
+    </message>
+    <message>
+        <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
+        <comment>WpChartEditDataSourceErr</comment>
+        <translation>圖表資料格已在 [%s] 中開啟。若要插入新圖表，您必須先將其關閉。</translation>
+    </message>
+    <message>
+        <source>Update Link</source>
+        <comment>WpUPDATELINK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <comment>TX_WPP_CF_HYPERLINK</comment>
+        <translation type="unfinished">超連結</translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>WP_NoSynonymsSuggestions_Caption</comment>
+        <translation type="obsolete">(無同義字建議)</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)</source>
+        <comment>WpDescCommon</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)</source>
+        <comment>WpDescCommonEX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Files(*.dps)</source>
+        <comment>WpDescDps</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Templates(*.dpt)</source>
+        <comment>WpDescDpt</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation 2007/2010 Files(*.dpsx)</source>
+        <comment>WpDescDpsx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation 2007/2010 Templates(*.dptx)</source>
+        <comment>WpDescDptx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
+        <comment>WpDescMPP2003</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
+        <comment>WpDescPot</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)</source>
+        <comment>WpDescMPP2010</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentation(*.pptx)</source>
+        <comment>WpDescPptx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Macro Enabled Presentation(*.pptm)</source>
+        <comment>WpDescPptm</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Show(*.ppsx)</source>
+        <comment>WpDescPpsx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Macro Enabled Show(*.ppsm)</source>
+        <comment>WpDescPpsm</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentation Templates(*.potx; *.potm)</source>
+        <comment>WpDescMPP2010Temp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentation Template(*.potx)</source>
+        <comment>WpDescPotx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Macro Enabled Presentation Template(*.potm)</source>
+        <comment>WpDescPotm</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Format(*.ofd)|*.ofd</source>
+        <comment>WpDescOFD</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

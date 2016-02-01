@@ -7,7 +7,7 @@
     <message>
         <source>WPS Spreadsheets</source>
         <comment>TX_DESC_APP_NAME</comment>
-        <translation type="obsolete">WPS Planilhas</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>VBAProject</source>
@@ -51,7 +51,7 @@ Please try one of the following.
 •Make sure this file is recognizable format.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure</comment>
-        <translation>Os erros ocorrem quando o WPS Planilhas abre este arquivo .
+        <translation>Os erros ocorrem quando o WPS Spreadsheets abre este arquivo .
 Por favor, tente uma das seguintes opções .
 • Certifique-se de que você tem permissão para acessar esse arquivo ou unidade.
 • Verifique se há memória suficiente e espaço em disco .
@@ -65,7 +65,7 @@ Please try one of the following.
 •Ask its creator to change the permissions control level of this file.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure_Insufficient_KRM_Right</comment>
-        <translation>O WPS Planilhas não pode abrir este arquivo porque o atual usuário não tem permissão para acessá-lo .
+        <translation>O WPS Spreadsheets não pode abrir este arquivo porque o atual usuário não tem permissão para acessá-lo .
 Por favor, tente uma das seguintes opções .
 • Mude para outra conta de usuário .
 • Pergunte ao criador do arquivo se ele pode alterar as permissões.
@@ -78,9 +78,9 @@ Please try one of the following.
 •Ask its creator to change the permission control level as full control level.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure_Unsuport_KRM_Right</comment>
-        <translation>Os erros ocorrem quando o WPS Planilhas abre este arquivo .
+        <translation>Os erros ocorrem quando o WPS Spreadsheets abre este arquivo .
 Por favor, tente uma das seguintes opções .
-• A versão atual do WPS Planilhas não suporta o controle permissão deste arquivo, por favor, atualize para a versão mais recente.
+• A versão atual do WPS Spreadsheets não suporta o controle permissão deste arquivo, por favor, atualize para a versão mais recente.
 • Pergunte ao criador do arquivo se ele pode alterar o controle de permissão liberando o acesso total.
 (%s)</translation>
     </message>
@@ -88,7 +88,7 @@ Por favor, tente uma das seguintes opções .
         <source>WPS Spreadsheets cannot open this file, because the password is not correct.
 (%s)</source>
         <comment>TX_Workbook_OpenPasswordFailure</comment>
-        <translation>WPS Planilhas não pode abrir este arquivo porque a senha está incorreta.
+        <translation>WPS Spreadsheets não pode abrir este arquivo porque a senha está incorreta.
 (%s)</translation>
     </message>
     <message>
@@ -102,7 +102,7 @@ Por favor, tente uma das seguintes opções .
         <source>WPS Spreadsheets cannot save or create this file. Please make sure the target disk is not full or undamaged.
 (%s)</source>
         <comment>TX_Workbook_SaveFailure</comment>
-        <translation>WPS Planilhas não pode salvar ou criar este arquivo . Por favor, certifique-se de que o disco de destino não está cheio ou danificado .
+        <translation>WPS Spreadsheets não pode salvar ou criar este arquivo . Por favor, certifique-se de que o disco de destino não está cheio ou danificado .
 (%s)</translation>
     </message>
     <message>
@@ -129,7 +129,7 @@ Por favor, tente uma das seguintes opções .
     <message>
         <source>All WPS Spreadsheets Files(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</source>
         <comment>TxDesc_AllETFiles</comment>
-        <translation>Todos os Arquivos do WPS Planilhas (*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</translation>
+        <translation>Todos os Arquivos do WPS Spreadsheets (*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</translation>
     </message>
     <message>
         <source>Xls</source>
@@ -269,7 +269,7 @@ Para ocultar , excluir ou mover a Planilha selecionada (s), você deve primeiro 
     <message>
         <source>Unknown User</source>
         <comment>TX_ApplicationOptions_UserName</comment>
-        <translation>usuário desconhecido</translation>
+        <translation>Usuário desconhecido</translation>
     </message>
     <message>
         <source>Courier</source>
@@ -609,12 +609,12 @@ Selecione uma região e , em seguida, executar este comando novamente .</transla
     <message>
         <source>Min=</source>
         <comment>TX_SMART_TIPS_MIN</comment>
-        <translation>min=</translation>
+        <translation>Min=</translation>
     </message>
     <message>
         <source>Sum=</source>
         <comment>TX_SMART_TIPS_SUM</comment>
-        <translation>soma =</translation>
+        <translation>Soma =</translation>
     </message>
     <message>
         <source>Average</source>
@@ -659,27 +659,27 @@ Selecione uma região e , em seguida, executar este comando novamente .</transla
     <message>
         <source>Var</source>
         <comment>TX_SUBTOTAL_VAR</comment>
-        <translation>você tem</translation>
+        <translation>Você tem</translation>
     </message>
     <message>
         <source>Varp</source>
         <comment>TX_SUBTOTAL_VARP</comment>
-        <translation>dumping</translation>
+        <translation>Dumping</translation>
     </message>
     <message>
         <source>Total</source>
         <comment>TX_SUBTOTAL_SUM</comment>
-        <translation>total</translation>
+        <translation>Total</translation>
     </message>
     <message>
         <source>Grand Total</source>
         <comment>TX_SUBTOTAL_SUM2</comment>
-        <translation>total geral</translation>
+        <translation>Total geral</translation>
     </message>
     <message>
         <source>Total </source>
         <comment>TX_SUBTOTAL_PREFIX</comment>
-        <translation>total</translation>
+        <translation>Total</translation>
     </message>
     <message>
         <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
@@ -1006,7 +1006,7 @@ Você não pode usar este comando em uma planilha protegida . Para remover a pro
     <message>
         <source>The workbook has been updated with changes saved by other users.</source>
         <comment>TX_ShareWorkbook_MsgBookUpdated</comment>
-        <translation>a Pasta de Trabalho foi atualizado com alterações salvas por outros usuários .</translation>
+        <translation>A Pasta de Trabalho foi atualizado com alterações salvas por outros usuários .</translation>
     </message>
     <message>
         <source>You are no longer connected to this file. Another user may have removed you from the user list, or replaced it.
@@ -1273,12 +1273,12 @@ Para corrigir os links, selecionar uma única Planilha e clique em Editar víncu
     <message>
         <source>Value Of</source>
         <comment>TX_SOLVER_VALUEOF</comment>
-        <translation>valor de</translation>
+        <translation>Valor de</translation>
     </message>
     <message>
         <source>Objective Cell</source>
         <comment>TX_SOLVER_OBJECTIVECELL</comment>
-        <translation>objetivo Célula</translation>
+        <translation>Objetivo Célula</translation>
     </message>
     <message>
         <source>NONE</source>
@@ -1308,12 +1308,12 @@ Para corrigir os links, selecionar uma única Planilha e clique em Editar víncu
     <message>
         <source>Variable Cells</source>
         <comment>TX_SOLVER_VARIABLECELLS</comment>
-        <translation>células variáveis</translation>
+        <translation>Células Variáveis</translation>
     </message>
     <message>
         <source>Constraints</source>
         <comment>TX_SOLVER_CONSTRAINTS</comment>
-        <translation>restrições</translation>
+        <translation>Restrições</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -1328,12 +1328,12 @@ Para corrigir os links, selecionar uma única Planilha e clique em Editar víncu
     <message>
         <source>Slack</source>
         <comment>TX_SOLVER_SLACK</comment>
-        <translation>slack</translation>
+        <translation>Slack</translation>
     </message>
     <message>
         <source>Not Binding</source>
         <comment>TX_SOLVER_NOTBINDING</comment>
-        <translation>não Encadernação</translation>
+        <translation>Não Encadernação</translation>
     </message>
     <message>
         <source>Binding</source>
@@ -1348,17 +1348,17 @@ Para corrigir os links, selecionar uma única Planilha e clique em Editar víncu
     <message>
         <source>Value</source>
         <comment>TX_SOLVER_VALUE</comment>
-        <translation>valor</translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <source>Integer</source>
         <comment>TX_SOLVER_INTEGER</comment>
-        <translation>integer</translation>
+        <translation>Integer</translation>
     </message>
     <message>
         <source>Contin</source>
         <comment>TX_SOLVER_CONTIN</comment>
-        <translation>continuar</translation>
+        <translation>Continuar</translation>
     </message>
     <message>
         <source>Binary</source>
@@ -1378,7 +1378,7 @@ Para corrigir os links, selecionar uma única Planilha e clique em Editar víncu
     <message>
         <source>Objective</source>
         <comment>TX_SOLVER_OBJECTIVE</comment>
-        <translation>objetivo</translation>
+        <translation>Objetivo</translation>
     </message>
     <message>
         <source>Max Time</source>
@@ -1388,7 +1388,7 @@ Para corrigir os links, selecionar uma única Planilha e clique em Editar víncu
     <message>
         <source>Iterations</source>
         <comment>TX_SOLVER_ITERATIONS</comment>
-        <translation>iterações</translation>
+        <translation>Iterações</translation>
     </message>
     <message>
         <source>Precision</source>
@@ -1408,7 +1408,7 @@ Para corrigir os links, selecionar uma única Planilha e clique em Editar víncu
     <message>
         <source>Convergence</source>
         <comment>TX_SOLVER_CONVERGENCE</comment>
-        <translation>convergência</translation>
+        <translation>Convergência</translation>
     </message>
     <message>
         <source>Max Integer Solutions</source>
@@ -1428,7 +1428,7 @@ Para corrigir os links, selecionar uma única Planilha e clique em Editar víncu
     <message>
         <source>Reports</source>
         <comment>TX_SOLVER_REPORT</comment>
-        <translation>relatórios</translation>
+        <translation>Relatórios</translation>
     </message>
     <message>
         <source>Sensitivity Report</source>
@@ -1463,37 +1463,37 @@ Para corrigir os links, selecionar uma única Planilha e clique em Editar víncu
     <message>
         <source>Constraints Section</source>
         <comment>TX_SOLVER_CONSTRAINTS_SECTION</comment>
-        <translation>restrições da seção</translation>
+        <translation>Restrições da seção</translation>
     </message>
     <message>
         <source>Limit</source>
         <comment>TX_SOLVER_LIMIT</comment>
-        <translation>limite</translation>
+        <translation>Limite</translation>
     </message>
     <message>
         <source>Subproblem</source>
         <comment>TX_SOLVER_SUBPROBLEM</comment>
-        <translation>subproblema</translation>
+        <translation>Subproblema</translation>
     </message>
     <message>
         <source>Variables</source>
         <comment>TX_SOLVER_VARIABLES</comment>
-        <translation>variáveis</translation>
+        <translation>Variáveis</translation>
     </message>
     <message>
         <source>Report Created</source>
         <comment>TX_SOLVER_REPORT_CREATED</comment>
-        <translation>relatório criado</translation>
+        <translation>Relatório criado</translation>
     </message>
     <message>
         <source>Worksheet</source>
         <comment>TX_SOLVER_WORKSHEET</comment>
-        <translation>planilha</translation>
+        <translation>Planilha</translation>
     </message>
     <message>
         <source>Result</source>
         <comment>TX_SOLVER_RESULT</comment>
-        <translation>resultado</translation>
+        <translation>Resultado</translation>
     </message>
     <message>
         <source>Solver Engine</source>
@@ -1513,22 +1513,22 @@ Para corrigir os links, selecionar uma única Planilha e clique em Editar víncu
     <message>
         <source>Seconds</source>
         <comment>TX_SOLVER_SECONDS</comment>
-        <translation>segundos</translation>
+        <translation>Segundos</translation>
     </message>
     <message>
         <source>Solution Time</source>
         <comment>TX_SOLVER_SOLUTION_TIME</comment>
-        <translation>solução Tempo</translation>
+        <translation>Solução Tempo</translation>
     </message>
     <message>
         <source>Engine</source>
         <comment>TX_SOLVER_ENGINE</comment>
-        <translation>motor</translation>
+        <translation>Motor</translation>
     </message>
     <message>
         <source>Simplex LP</source>
         <comment>TX_SOLVER_SIMPLEX_LP</comment>
-        <translation>simplex LP</translation>
+        <translation>Simplex LP</translation>
     </message>
     <message>
         <source>Answer Report</source>
@@ -1538,7 +1538,7 @@ Para corrigir os links, selecionar uma única Planilha e clique em Editar víncu
     <message>
         <source>Iterations</source>
         <comment>TX_SOLVER_ITERATIONS_TIMES</comment>
-        <translation>iterações</translation>
+        <translation>Iterações</translation>
     </message>
     <message>
         <source>Max Subproblems</source>
@@ -1553,7 +1553,7 @@ Para corrigir os links, selecionar uma única Planilha e clique em Editar víncu
     <message>
         <source>Upper</source>
         <comment>TX_SOLVER_UPPER</comment>
-        <translation>superior</translation>
+        <translation>Superior</translation>
     </message>
     <message>
         <source>Reduced</source>
@@ -1563,17 +1563,17 @@ Para corrigir os links, selecionar uma única Planilha e clique em Editar víncu
     <message>
         <source>Coefficient</source>
         <comment>TX_SOLVER_COEFFICIENT</comment>
-        <translation>coeficiente</translation>
+        <translation>Coeficiente</translation>
     </message>
     <message>
         <source>Allowable</source>
         <comment>TX_SOLVER_ALLOWABLE</comment>
-        <translation>permitida</translation>
+        <translation>Permitida</translation>
     </message>
     <message>
         <source>Increase</source>
         <comment>TX_SOLVER_INCREASE</comment>
-        <translation>aumentar</translation>
+        <translation>Aumentar</translation>
     </message>
     <message>
         <source>Decrease</source>
@@ -1593,7 +1593,7 @@ Para corrigir os links, selecionar uma única Planilha e clique em Editar víncu
     <message>
         <source>Cost</source>
         <comment>TX_SOLVER_COST</comment>
-        <translation>custo</translation>
+        <translation>Custo</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -1603,7 +1603,7 @@ Para corrigir os links, selecionar uma única Planilha e clique em Editar víncu
     <message>
         <source>Constraint</source>
         <comment>TX_SOLVER_CONSTRAINT</comment>
-        <translation>restrição</translation>
+        <translation>Restrição</translation>
     </message>
     <message>
         <source>Trail Solution</source>
@@ -1668,7 +1668,7 @@ Para corrigir os links, selecionar uma única Planilha e clique em Editar víncu
     <message>
         <source>Multistart</source>
         <comment>TX_SOLVER_MULTISTART</comment>
-        <translation>multi-partida</translation>
+        <translation>Multi-partida</translation>
     </message>
     <message>
         <source>Ipopt Nonlinear</source>
@@ -1732,7 +1732,7 @@ Verifique o servidor de banco de dados ou contate o administrador do banco de da
     <message>
         <source>Duplicate%s</source>
         <comment>TX_DUPLICATE_PROFIX</comment>
-        <translation>Duplicate%s</translation>
+        <translation>Duplicate %s</translation>
     </message>
     <message>
         <source>Selection is too large</source>
@@ -1751,7 +1751,7 @@ Verifique o servidor de banco de dados ou contate o administrador do banco de da
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation>Planilhas</translation>
+        <translation>Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot complete this task with available resources.
@@ -1782,7 +1782,7 @@ Continuar sem desfazer ?</translation>
     <message>
         <source>Invaild Cell Reference Error</source>
         <comment>TX_ERRORCHECK_ERR_REF</comment>
-        <translation>Invaild erro Referência Célula</translation>
+        <translation type="obsolete">Invaild erro Referência Célula</translation>
     </message>
     <message>
         <source>Invalid Name Error</source>
@@ -1792,7 +1792,7 @@ Continuar sem desfazer ?</translation>
     <message>
         <source>Number Error</source>
         <comment>TX_ERRORCHECK_ERR_NUM</comment>
-        <translation>número do erro</translation>
+        <translation>Número do erro</translation>
     </message>
     <message>
         <source>Value Not Available Error</source>
@@ -1897,353 +1897,356 @@ Continuar sem desfazer ?</translation>
     <message>
         <source>&amp;Ignore Error</source>
         <comment>TX_ERRORCHECK_REPAIR_IgnoreError</comment>
-        <translation>Ignorar Erro</translation>
+        <translation>&amp;Ignorar Erro</translation>
     </message>
     <message>
         <source>Edit in &amp;Formula Bar</source>
         <comment>TX_ERRORCHECK_REPAIR_EditinFmlaBar</comment>
-        <translation>Editar na barra de fórmulas</translation>
+        <translation>Editar na Barra de &amp;Fórmulas</translation>
     </message>
     <message>
         <source>Error Checking &amp;Options...</source>
         <comment>TX_ERRORCHECK_REPAIR_ErrorCheckOption</comment>
-        <translation>Verificação de erros Opções ...</translation>
+        <translation>&amp;Opções da Verificação de Erros...</translation>
     </message>
     <message>
         <source>&amp;Trace Error</source>
         <comment>TX_ERRORCHECK_REPAIR_TraceError</comment>
-        <translation>rastreamento de erro</translation>
+        <translation>&amp;Rastrear Erro</translation>
     </message>
     <message>
         <source>Show &amp;Calculation Steps...</source>
         <comment>TX_ERRORCHECK_REPAIR_ShowCalcStep</comment>
-        <translation>Mostrar etapas de cálculo ...</translation>
+        <translation>Mostrar etapas de &amp;cálculo...</translation>
     </message>
     <message>
         <source>&amp;Convert XX to 19XX</source>
         <comment>TX_ERRORCHECK_REPAIR_ConvertTo19xx</comment>
-        <translation>Converter XX 19XX</translation>
+        <translation>&amp;Converter XX para 19XX</translation>
     </message>
     <message>
         <source>Con&amp;vert XX to 20XX</source>
         <comment>TX_ERRORCHECK_REPAIR_ConvertTo20xx</comment>
-        <translation>Converter XX 20XX</translation>
+        <translation>Con&amp;verter XX para 20XX</translation>
     </message>
     <message>
         <source>&amp;Convert to Number</source>
         <comment>TX_ERRORCHECK_REPAIR_ConvertToNumber</comment>
-        <translation>Converter em Número</translation>
+        <translation>&amp;Converter em Número</translation>
     </message>
     <message>
         <source>Copy Formul&amp;a from Left</source>
         <comment>TX_ERRORCHECK_REPAIR_CopyFromLeft</comment>
-        <translation>Copiar Fórmula de Esquerda</translation>
+        <translation>Copiar Fórmula da &amp;Esquerda</translation>
     </message>
     <message>
         <source>Copy Formula from &amp;Above</source>
         <comment>TX_ERRORCHECK_REPAIR_CopyFromUp</comment>
-        <translation>Copiar Formula from Above</translation>
+        <translation>Copiar Fórmula &amp;Acima</translation>
     </message>
     <message>
         <source>&amp;Update Formula to include Cells</source>
         <comment>TX_ERRORCHECK_REPAIR_UpdateFmla</comment>
-        <translation>Atualize Fórmula para incluir células</translation>
+        <translation>&amp;Atualizar Fórmula para incluir Células</translation>
     </message>
     <message>
         <source>&amp;Lock Cell</source>
         <comment>TX_ERRORCHECK_REPAIR_LockCell</comment>
-        <translation>Bloqueio de Célula</translation>
+        <translation>&amp;Bloquear Células</translation>
     </message>
     <message>
         <source>&amp;Trace Empty Cell</source>
         <comment>TX_ERRORCHECK_REPAIR_TraceEmptyCell</comment>
-        <translation>Rastrear célula vazia</translation>
+        <translation>&amp;Rastrear Célula Vazia</translation>
     </message>
     <message>
         <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
 • To save it on the Clipboard so that you can paste it later, click Yes.
 • To delete it from the Clipboard and free memory, click No.</source>
         <comment>TX_WARNING_Large_Clipboard</comment>
-        <translation type="unfinished"></translation>
+        <translation>Há muita informação na Área de Transferência. Deseja poder colar essas informações em outro programa mais tarde?
+• Para salvá-las na Área de Transferência e poder colá-las mais tarde, clique em Sim.
+• Para excluí-las da Área de Transferência e liberar mais memória, clique em Não.</translation>
     </message>
     <message>
         <source>File not loaded completely.</source>
         <comment>TX_FILE_NOT_LOADED_COMPLETELY</comment>
-        <translation type="unfinished"></translation>
+        <translation>O arquivo não foi totalmente carregado.</translation>
     </message>
     <message>
         <source>%s on %s</source>
         <comment>TX_ACTIVE_PRINTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s em %s</translation>
     </message>
     <message>
         <source>unknown printer (check your Control Panel)</source>
         <comment>TX_UNKNOWN_PRINTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Impressora desconhecida (verifique o Painel de Controle)</translation>
     </message>
     <message>
         <source>General</source>
         <comment>TX_NUMFMTApi_BuildIn_00</comment>
-        <translation type="unfinished">Geral</translation>
+        <translation type="obsolete">Geral</translation>
     </message>
     <message>
         <source>0.00</source>
         <comment>TX_NUMFMTApi_BuildIn_02</comment>
-        <translation type="unfinished">0.00</translation>
+        <translation type="obsolete">0.00</translation>
     </message>
     <message>
         <source>#,##0</source>
         <comment>TX_NUMFMTApi_BuildIn_03</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">#,##0</translation>
     </message>
     <message>
         <source>#,##0.00</source>
         <comment>TX_NUMFMTApi_BuildIn_04</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">#,##0.00</translation>
     </message>
     <message>
         <source>$#,##0_);($#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_05</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">$#,##0_);($#,##0)</translation>
     </message>
     <message>
         <source>$#,##0_);[Red]($#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_06</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">$#,##0_);[Vermelho]($#,##0)</translation>
     </message>
     <message>
         <source>$#,##0.00_);($#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_07</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">$#,##0.00_);($#,##0.00)</translation>
     </message>
     <message>
         <source>$#,##0.00_);[Red]($#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_08</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">$#,##0.00_);[Vermelho]($#,##0.00)</translation>
     </message>
     <message>
         <source>0.00%</source>
         <comment>TX_NUMFMTApi_BuildIn_10</comment>
-        <translation type="unfinished">0.00%</translation>
+        <translation type="obsolete">0.00%</translation>
     </message>
     <message>
         <source>0.00E+00</source>
         <comment>TX_NUMFMTApi_BuildIn_11</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">0,00E+00</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_14</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">d/m/yyyy</translation>
     </message>
     <message>
         <source>d-mmm-yy</source>
         <comment>TX_NUMFMTApi_BuildIn_15</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">d-mmm-yy</translation>
     </message>
     <message>
         <source>d-mmm</source>
         <comment>TX_NUMFMTApi_BuildIn_16</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">d-mmm</translation>
     </message>
     <message>
         <source>h:mm</source>
         <comment>TX_NUMFMTApi_BuildIn_20</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">h:mm</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_21</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">h:mm:ss</translation>
     </message>
     <message>
         <source>m/d/yyyy h:mm</source>
         <comment>TX_NUMFMTApi_BuildIn_22</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">d/m/yyyy h:mm</translation>
     </message>
     <message>
         <source>\$#,##0_);(\$#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_23</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">\$#,##0_);(\$#,##0)</translation>
     </message>
     <message>
         <source>\$#,##0_);[Red](\$#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_24</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">\$#,##0_);[Vermelho](\$#,##0)</translation>
     </message>
     <message>
         <source>\$#,##0.00_);(\$#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_25</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">\$#,##0.00_);(\$#,##0.00)</translation>
     </message>
     <message>
         <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_26</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">\$#,##0.00_);[Vermelho](\$#,##0.00)</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_30</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">d/m/yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">d/m/yyyy</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">h:mm:ss</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">h:mm:ss</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">d/m/yyyy</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">h:mm:ss</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">h:mm:ss</translation>
     </message>
     <message>
         <source>#,##0_);(#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_37</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">#,##0_);(#,##0)</translation>
     </message>
     <message>
         <source>#,##0_);[Red](#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_38</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">#,##0_);[Vermelho](#,##0)</translation>
     </message>
     <message>
         <source>#,##0.00_);(#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_39</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">#,##0.00_);(#,##0.00)</translation>
     </message>
     <message>
         <source>#,##0.00_);[Red](#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_40</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">#,##0.00_);[Vermelho](#,##0.00)</translation>
     </message>
     <message>
         <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_41</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</translation>
     </message>
     <message>
         <source>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_42</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</translation>
     </message>
     <message>
         <source>_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_43</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</translation>
     </message>
     <message>
         <source>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_44</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</translation>
     </message>
     <message>
         <source>mm:ss.0</source>
         <comment>TX_NUMFMTApi_BuildIn_45</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">mm:ss.0</translation>
     </message>
     <message>
         <source>##0.0E+0</source>
         <comment>TX_NUMFMTApi_BuildIn_48</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">##0,0E+0</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">d/m/yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">d/m/yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">d/m/yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">d/m/yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">d/m/yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">d/m/yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">d/m/yyyy</translation>
     </message>
     <message>
         <source>m/dd/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">dd/m/yyyy</translation>
     </message>
     <message>
         <source>Your worksheet contains more than 255 invalid cells. Only the first 255 cells will be marked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua planilha possui mais de 255 células inválidas. Apenas as 255 primeiras serão marcadas.</translation>
     </message>
     <message>
         <source>All Files(*.*)| *.*</source>
         <comment>TX_App_GetSaveAsFileName_FileFilter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Todos os arquivos (*.*)| *.*</translation>
     </message>
     <message>
         <source>Dialog Title</source>
         <comment>Dialog Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Título da Caixa de Diálogo</translation>
     </message>
     <message>
         <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
         <comment>TX_CANNOTDELNUMFORMAT</comment>
-        <translation type="unfinished"></translation>
+        <translation>[%s]%s:
+Não é possível usar este comando em uma planilha protegida. Para remover a proteção, selecione Desproteger Planilha no submenu Proteção do menu Ferramentas. Talvez você precise digitar sua senha.</translation>
     </message>
     <message>
         <source>This data source contains no visible tables</source>
         <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Esta fonte de dados não contém tabelas visíveis</translation>
     </message>
     <message>
         <source>Modify existing outline?</source>
         <comment>TX_ChangeAutoOutline</comment>
-        <translation type="unfinished">Modificar esboço existente?</translation>
+        <translation>Modificar estrutura de tópicos existente?</translation>
     </message>
     <message>
         <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
         <comment>TX_BookReferencingByOther</comment>
-        <translation type="unfinished"></translation>
+        <translation>Esta pasta de trabalho está sendo consultada por outra pasta de trabalho e não pode ser fechada.</translation>
     </message>
     <message>
         <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; [ ] |.</source>
         <comment>TX_Confirm_Invalid_Char_In_BookName</comment>
-        <translation type="unfinished"></translation>
+        <translation>• Verifique se o nome contém algum dos seguintes caracteres: \ * / : ? &quot; &lt; &gt; [ ] |.</translation>
     </message>
     <message>
         <source>To paste all cells from an worksheet into the current worksheet, you must paste into the first cell (A1 or R1C1).</source>
@@ -2253,34 +2256,36 @@ Continuar sem desfazer ?</translation>
     <message>
         <source>Backup</source>
         <comment>TX_SaveAs_CreateBackup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Backup</translation>
     </message>
     <message>
         <source>Spreadsheets</source>
         <comment>TX_DESC_APP_NAME</comment>
-        <translation type="unfinished">Planilhas</translation>
+        <translation>Spreadsheets</translation>
     </message>
     <message>
         <source>The text file contains more data than will fit on a single worksheet.</source>
         <comment>TX_TextToColumns_Tip2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Os dados não dentro da planilha serão perdidos.</translation>
     </message>
     <message>
         <source>The formula in this cell differs from the formulas in this area of the spreadsheet.</source>
         <comment>TX_ERRORCHECK_ERRDESC_InconsistentFormula</comment>
-        <translation type="unfinished"></translation>
+        <translation>A fórmula nesta célula difere das fórmulas nesta aera da planilha.</translation>
     </message>
     <message>
         <source>The text file contains more data than will fit on a single worksheet.
 To continue and import as much of the data as will fit, click OK.</source>
         <comment>TX_ImportText_Overflowed_Tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Os dados não dentro da planilha serão perdidos.
+Para continuar e importar o máximo de dados que caibam, clique em OK.</translation>
     </message>
     <message>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
 This backup will be saved to (%s)</source>
         <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreram erros durante o backup. É possível que você não tenha permissão de gravação no diretório de backup no qual devia ser colocado. Tente alterar o diretório de backup.
+Este backup será salvo no (%s)</translation>
     </message>
     <message>
         <source>The query returned more data than will fit on a worksheet.
@@ -2288,59 +2293,260 @@ This backup will be saved to (%s)</source>
 To continue and display as much of the data as will fit, click OK.
 To cancel the query, click Cancel.</source>
         <comment>TX_ImportOtherData_Overflowed_Tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>A consulta retornou mais dados do que cabe em uma planilha.
+
+Para continuar e exibir o máximo de dados que caibam, clique em OK.
+Para cancelar a consulta, clique em Cancelar.</translation>
     </message>
     <message>
         <source>When the active sheet is a macro sheet, it cannot be saved as xml, prn, or dbf. Please save as other formats.</source>
         <comment>TX_MacroSheet_CannotSave_As</comment>
-        <translation type="unfinished"></translation>
+        <translation>Quando a planilha ativa for uma folha de macros, ela não poderá ser salva como xml, prn ou dbf. Salve como outros formatos.</translation>
     </message>
     <message>
         <source>No columns that WPS Spreadsheets can use were returned from this query.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma coluna que as WPS Spreadsheets podem usar foi retornada por meio desta consulta.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot insert columns because the last column contains data. You will not get any data.</source>
         <comment>TX_No_Available_Sheet_Columns</comment>
-        <translation type="unfinished"></translation>
+        <translation>As WPS Spreadsheets não podem inserir colunas porque a última coluna contém dados. Você não obterá nenhum dado.</translation>
     </message>
     <message>
         <source>Cannot create backup file. Save &quot;%s&quot; without backup?</source>
         <comment>TX_CreateBackup_Tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível criar arquivo de backup. Salvar &quot;%s&quot; sem arquivo de backup?</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
         <comment>TX_Find_DoNotExist</comment>
-        <translation type="unfinished">WPS Spreadsheets não é possível encontrar os dados que você está procurando. Por favor verifique as opções de busca .</translation>
+        <translation>O WPS Spreadsheets não pode encontrar os dados que você está procurando. Verifique as opções de busca.</translation>
     </message>
     <message>
         <source> [Compatibility Mode]</source>
         <comment>TX_CompatibilityMode</comment>
-        <translation type="unfinished"></translation>
+        <translation> [ Modo de Compatibilidade ]</translation>
     </message>
     <message>
         <source>Item</source>
         <comment>TX_Sharepoint_FSObjType_Item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Item</translation>
     </message>
     <message>
         <source>Folder</source>
         <comment>TX_Sharepoint_FSObjType_Folder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pasta</translation>
     </message>
     <message>
         <source>Enter your credentials:</source>
-        <translation type="unfinished"></translation>
+        <translation>Insira suas credenciais:</translation>
     </message>
     <message>
         <source>Connecting to %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectando-se a %s</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>TX_DESC_APP_OBJECT_NAME</comment>
-        <translation type="unfinished">WPS Planilhas</translation>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Error occurred during file backup. The backup directory might not have write permission. Try to change the backup directory.
+Save backup files to (%s).</source>
+        <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
+        <translation type="obsolete">Ocorreu um erro durante o backup do arquivo. Talvez o diretório de backup não tenha permissão de gravação. Tente alterar o diretório de backup.
+Salve os arquivos de backup no (%s).</translation>
+    </message>
+    <message>
+        <source>Invalid Cell Reference Error</source>
+        <comment>TX_ERRORCHECK_ERR_REF</comment>
+        <translation>Invaild erro Referência Célula</translation>
+    </message>
+    <message>
+        <source>The text file contains more data than will fit on a single worksheet. </source>
+        <comment>TX_TextToColumns_Tip2</comment>
+        <translation type="obsolete">Os dados não dentro da planilha serão perdidos.</translation>
+    </message>
+    <message>
+        <source>The text file contains more data than will fit on a single worksheet. To continue and import as much of the data as will fit, click OK. </source>
+        <comment>TX_ImportText_Overflowed_Tip</comment>
+        <translation type="obsolete">O arquivo de texto contém mais dados do que caberá em uma única planilha. Para continuar e importar a quantidade de dados que a planilha poderá conter, clique em OK. </translation>
+    </message>
+    <message>
+        <source>The query returned more data than will fit on a worksheet.
+To continue and display as much of the data as will fit, click OK.
+To cancel the query, click Cancel. </source>
+        <comment>TX_ImportOtherData_Overflowed_Tip</comment>
+        <translation type="obsolete">A consulta retornou mais dados do que cabe em uma planilha.
+Para continuar e exibir tantos dados quanto caberão, clique em OK.
+Para cancelar a consulta, clique em Cancelar. </translation>
+    </message>
+    <message>
+        <source>When the active sheet is a macro sheet, it cannot be saved as xml, prn, or dbf. Please save as other formats. </source>
+        <comment>TX_MacroSheet_CannotSave_As</comment>
+        <translation type="obsolete">Quando a planilha ativa for uma folha de macros, ela não poderá ser salva como xml, prn ou dbf. Salve como outros formatos. </translation>
+    </message>
+    <message>
+        <source>Opening...</source>
+        <comment>TX_PROGRESS_OPENING</comment>
+        <translation>Abrindo...</translation>
+    </message>
+    <message>
+        <source>Saving...</source>
+        <comment>TX_PROGRESS_SAVING</comment>
+        <translation>Salvando...</translation>
+    </message>
+    <message>
+        <source>You typed an invalid name for a sheet or chart. Make sure that:</source>
+        <comment>TX_Invalid_MoveChart_Sheet_Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>@Theme Title</source>
+        <comment>TX_OPTIONDLG_THEME_Title</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>@Theme Text</source>
+        <comment>TX_OPTIONDLG_THEME_Text</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[%s] %s: is being protected!</source>
+        <comment>TX_ShareWorkSheet_MsgWarnning</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets can not paste data.</source>
+        <comment>TX_Can_Not_Paste_Data</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The macro &apos;%s&apos; cannot be found.</source>
+        <comment>TX_Can_Not_RunMacro</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch Direction fail, series Count not fit chartType.</source>
+        <comment>TX_Chart_SwitchDirection_Warning</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HighLight Changed fail, series Count not fit chartType.</source>
+        <comment>TX_Chart_HighLightChanged_Warning</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid reference.To input a correct reference,you can click the target cell or drag mouse to select a range.</source>
+        <comment>TX_XlfDialogBox_InvalidRef</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It&apos;s not a valid Integer.</source>
+        <comment>TX_XlfDialogBox_InvalidInteger</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input invalid! Please input a integer or a decimal.</source>
+        <comment>TX_XlfDialogBox_InvalidNumber</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <comment>TX_XlfDialobBox_HelpButton</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This operation is not allowed. The operation is attempting to shift cells in a table on your worksheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The worksheet range for the table data must be on the same sheet as the table being created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>That command cannot be used on multiple selections.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multi-cell array formulas are not allowed in tables.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A table cannot overlap a range that contains PivotTable report, query results, protected cells or another table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A table cannot overlap another table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot complete operation: A table cannot overlap with a PivotTable report, query results, a table, merged cells, or an XML mapping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot make changes to a table or XML mapping when multiple sheet are selected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot complete operation: Operations that include cells both inside and outside a table range or XML mapping, and operations that affect cells that overlap multiple tables are not allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The range you have specified is invalid.the headers must remain in the same row and the resulting table must overlap the original table.The table must contain a header row,and at least one row of data.Please specify a vaild table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name that you entered is not valid.
+
+Reasons for this can include:
+ -The name does not begin with a letter or underscore
+ -The name contains a space or other invalid characters
+ -The name conflicts with an WPS built-in name or the name of another object in the workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot move a part of a PivotTable report,or insert worksheet cells,rows,or columns inside a PivotTable report.To insert worksheet cells,rows,or columns,first move the PivotTable report(with the PivotTable report selected,on the Options tab,in the Actions group,click Move PivotTable)To add,move,or remove cells within the report,do one of the following:
+Use the PivotTable Field List to add,move,or remove fields.
+Hide or froup items in a row or column field.
+Modify the source data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create a table in the last row of the workbook. A table must have at least two rows, one for the table header, and one for data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot complete operation: You are attempting to change a portion of a table row or column in a way that is not allowed.  This may occur when attempting to re-arrange cells within a table that affect other table cells in an unexpected way.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This operation is attempting to change a filtered range on your worksheet and cannot be completed. To complete this operation, AutoFilters in the sheet need to be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The range you have specified is invalid.the top of table must remain in the same row, and the resulting table must overlap the original table.Specify a valid range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formulas in the header row will be removed and converted to static text. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your selection overlaps one or more external data ranges. Do you want to convert the selection to a table and remove all external connections?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting this query range to a list query range may cause some macro code and/or formulas not to function properly. Do you still want to perform the conversion?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to paste! The source data contains merge cells.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A table with that name already exists. Select a different name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2353,12 +2559,12 @@ To cancel the query, click Cancel.</source>
     <message>
         <source>Move range</source>
         <comment>TX_RevisionTypeCellMove</comment>
-        <translation>faixa de movimento</translation>
+        <translation>Faixa de movimento</translation>
     </message>
     <message>
         <source>Insert Column</source>
         <comment>TX_RevisionTypeInsertCol</comment>
-        <translation>inserir coluna</translation>
+        <translation>Inserir coluna</translation>
     </message>
     <message>
         <source>Insert Row</source>
@@ -2373,7 +2579,7 @@ To cancel the query, click Cancel.</source>
     <message>
         <source>Delete Row</source>
         <comment>TX_RevisionTypeDeleteRow</comment>
-        <translation>excluir linha</translation>
+        <translation>Excluir linha</translation>
     </message>
     <message>
         <source>Insert Worksheet</source>
@@ -2383,7 +2589,7 @@ To cancel the query, click Cancel.</source>
     <message>
         <source>Rename Worksheet</source>
         <comment>TX_RevisionTypeRenameSheet</comment>
-        <translation>renomear Planilha</translation>
+        <translation>Renomear Planilha</translation>
     </message>
     <message>
         <source>Insert the %s row</source>
@@ -2413,7 +2619,7 @@ To cancel the query, click Cancel.</source>
     <message>
         <source>Change the cell %s from &quot;%s&quot; to &quot;%s&quot;</source>
         <comment>TX_RevisionDescCellChange</comment>
-        <translation>Altere as %s Células de &apos;%s &apos;para &apos;%s \&quot;</translation>
+        <translation>Altere as %s Células de &apos;%s &apos;para &apos;%s&quot;</translation>
     </message>
     <message>
         <source>&lt;Empty&gt;</source>
@@ -2508,17 +2714,17 @@ To cancel the query, click Cancel.</source>
     <message>
         <source>Column Delete</source>
         <comment>TX_Revision_Type_DeleteColumn</comment>
-        <translation>coluna Excluir</translation>
+        <translation>Coluna Excluir</translation>
     </message>
     <message>
         <source>Worksheet Insert</source>
         <comment>TX_Revision_Type_InsertSheet</comment>
-        <translation>planilha Insert</translation>
+        <translation>Planilha Insert</translation>
     </message>
     <message>
         <source>Worksheet Rename</source>
         <comment>TX_Revision_Type_RenameSheet</comment>
-        <translation>planilha Rename</translation>
+        <translation>Planilha Rename</translation>
     </message>
     <message>
         <source>Name Change</source>
@@ -2608,12 +2814,12 @@ To cancel the query, click Cancel.</source>
     <message>
         <source>Or</source>
         <comment>TX_AutoFilter_Or</comment>
-        <translation>ou</translation>
+        <translation>Ou</translation>
     </message>
     <message>
         <source>And</source>
         <comment>TX_AutoFilter_And</comment>
-        <translation>e</translation>
+        <translation>E</translation>
     </message>
     <message>
         <source>（Blank）</source>
@@ -2688,32 +2894,82 @@ To cancel the query, click Cancel.</source>
     <message>
         <source>You cannot change part of an array.</source>
         <comment>TX_RepeatWord_ArrayFormula</comment>
-        <translation type="unfinished">Não é possível alterar parte de uma matriz .</translation>
+        <translation>Não é possível alterar parte de uma matriz.</translation>
     </message>
     <message>
         <source>Table_</source>
         <comment>TX_ListObject_NamePrefix</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Tabela_</translation>
     </message>
     <message>
         <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, clear the outline and perform the remove duplicates operation again.</source>
         <comment>TX_RepeatWord_Group_Range</comment>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível remover informações duplicadas quando há um contorno no intervalo. Para removê-las, limpe o contorno e realize a operação de remoção novamente.</translation>
     </message>
     <message>
         <source>No Column has been selected.</source>
         <comment>TX_RepeatWord_No_Column</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma Coluna foi selecionada.</translation>
     </message>
     <message>
         <source>(Showing all)</source>
         <comment>TX_Show_All_DateItems</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Mostrando tudo )</translation>
     </message>
     <message>
         <source>Duplicates that you want to remove contain PivotTable.</source>
         <comment>TX_RepeatWord_PivotTable</comment>
+        <translation>As duplicatas que você deseja remover contêm uma tabela dinâmica.</translation>
+    </message>
+    <message>
+        <source>The selected range contains PivotTable.</source>
+        <comment>TX_RepeatWord_PivotTable</comment>
+        <translation type="obsolete">O intervalo selecionado contém TabelaDinâmica.</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <comment>TX_SortParam_KeyName_Column</comment>
+        <translation>Coluna</translation>
+    </message>
+    <message>
+        <source>Row</source>
+        <comment>TX_SortParam_KeyName_Row</comment>
+        <translation>Linha</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>TX_TableStyle_None</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Style</source>
+        <comment>TX_TableStyle_TableStyle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <comment>TX_TableStyle_Light</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <comment>TX_TableStyle_Medium</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <comment>TX_TableStyle_Dark</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <comment>TX_TableDefaultColumnName</comment>
+        <translation type="unfinished">Coluna</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_TableSubtotal_Sum</comment>
+        <translation type="unfinished">total</translation>
     </message>
 </context>
 <context>
@@ -2754,8 +3010,8 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <comment>TX_RECALC_ALL_QUESTION</comment>
         <translation>Nomes ou fórmulas nesta pasta de trabalho pode apresentar diferentes valores definidos quando são recalculadas em uma versão anterior do WPS Spreadsheets se :
 
-· Pilhas de referência fora do limite de linha e coluna de uma anterior do WPS Planilhas
-· Incluir funções que não são suportadas em uma versão anterior do WPS Planilhas
+· Pilhas de referência fora do limite de linha e coluna de uma anterior do WPS Spreadsheets
+· Incluir funções que não são suportadas em uma versão anterior do WPS Spreadsheets
 · Limites de Uso de fórmulas que não são suportados em uma versão anterior do WPS Spreadsheets (como maior do que sete níveis de aninhamento )
 
 Você quer WPS planilhas para recalcular todas as fórmulas , quando este Pasta de Trabalho for aberta ?</translation>
@@ -2763,51 +3019,81 @@ Você quer WPS planilhas para recalcular todas as fórmulas , quando este Pasta 
     <message>
         <source>The real-time data server &apos;%s&apos; is not responding. Would you like %s to attempt to restart the server?</source>
         <comment>TX_RTD_SERVER_NO_RESPONSE</comment>
-        <translation type="unfinished"></translation>
+        <translation>O servidor de dados em tempo real &apos;%s&apos; não está respondendo. Deseja que o %s tente reiniciar o servidor?</translation>
     </message>
     <message>
         <source>Macro Error</source>
         <comment>TX_MSF_RUN_ERR_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erro de Macro</translation>
     </message>
     <message>
         <source>Macro error at cell: </source>
         <comment>TX_MSF_RUN_ERR_ERROR_IN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erro de macro na célula: </translation>
     </message>
     <message>
         <source>Macro interrupted at cell:</source>
         <comment>TX_MSF_RUN_ERR_INTERRUPT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Macro interrompida na célula:</translation>
     </message>
     <message>
         <source>Missing NEXT function for loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Está faltando a função PRÓX para realizar o loop.</translation>
     </message>
     <message>
         <source>Missing loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Loop ausente.</translation>
     </message>
     <message>
         <source>Missing IF.</source>
         <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
-        <translation type="unfinished"></translation>
+        <translation>SE ausente.</translation>
     </message>
     <message>
         <source>Missing an END.IF function.</source>
         <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Função FIM.SE ausente.</translation>
     </message>
     <message>
         <source>Invalid reference argument at:</source>
         <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Argumento de referência inválido em:</translation>
     </message>
     <message>
         <source>No RETURN() or HALT() function found on macro sheet!</source>
         <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+        <translation>Nenhuma função RETORNO() ou PARADA() foi encontrada na folha de macros!</translation>
+    </message>
+    <message>
+        <source>No RETURN() or HALT() function fount on macro sheet.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+        <translation type="obsolete">Nenhuma função RETORNO() ou PARADA() foi encontrada na folha de macros.</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <comment>TX_TABLE_RANGE_ALL</comment>
+        <translation type="unfinished">Tudo</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <comment>TX_TABLE_RANGE_DATA</comment>
+        <translation type="unfinished">Dados</translation>
+    </message>
+    <message>
+        <source>Headers</source>
+        <comment>TX_TABLE_RANGE_HEADERS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Totals</source>
+        <comment>TX_TABLE_RANGE_TOTALS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>TX_TABLE_PREFIX_NAME</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2816,17 +3102,17 @@ Você quer WPS planilhas para recalcular todas as fórmulas , quando este Pasta 
     <message>
         <source>Average of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Average</comment>
-        <translation>média de</translation>
+        <translation>Média de</translation>
     </message>
     <message>
         <source>Count of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Count</comment>
-        <translation>contagem de</translation>
+        <translation>Contagem de</translation>
     </message>
     <message>
         <source>Count of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_CountNums</comment>
-        <translation>contagem de</translation>
+        <translation>Contagem de</translation>
     </message>
     <message>
         <source>Max of </source>
@@ -2836,12 +3122,12 @@ Você quer WPS planilhas para recalcular todas as fórmulas , quando este Pasta 
     <message>
         <source>Min of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Min</comment>
-        <translation>min de</translation>
+        <translation>Min de</translation>
     </message>
     <message>
         <source>Product of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Product</comment>
-        <translation>produto do</translation>
+        <translation>Produto do</translation>
     </message>
     <message>
         <source>StdDev of </source>
@@ -2856,12 +3142,12 @@ Você quer WPS planilhas para recalcular todas as fórmulas , quando este Pasta 
     <message>
         <source>Sum of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Sum</comment>
-        <translation>soma de</translation>
+        <translation>Soma de</translation>
     </message>
     <message>
         <source>Var of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Var</comment>
-        <translation>var de</translation>
+        <translation>Var de</translation>
     </message>
     <message>
         <source>Varp of</source>
@@ -2871,7 +3157,7 @@ Você quer WPS planilhas para recalcular todas as fórmulas , quando este Pasta 
     <message>
         <source>Grand Total</source>
         <comment>TX_DAP_GrandTotal</comment>
-        <translation>total geral</translation>
+        <translation>Total geral</translation>
     </message>
     <message>
         <source>Data</source>
@@ -2926,7 +3212,7 @@ Você quer WPS planilhas para recalcular todas as fórmulas , quando este Pasta 
     <message>
         <source>Total</source>
         <comment>TX_DAP_Total</comment>
-        <translation>total</translation>
+        <translation>Total</translation>
     </message>
     <message>
         <source>(All)</source>
@@ -3010,7 +3296,7 @@ Você quer WPS planilhas para recalcular todas as fórmulas , quando este Pasta 
     <message>
         <source>Cannot hide all the items of &apos;%s&apos; field in the  PivotTable report.</source>
         <comment>TX_DAP_DlgInfo_CannotHideAllFieldItems</comment>
-        <translation>Não posso Ocultar todos os itens do campo &apos; %s \&quot;no relatório de tabela dinâmica.</translation>
+        <translation>Não posso Ocultar todos os itens do campo &apos;%s&quot;no relatório de tabela dinâmica.</translation>
     </message>
     <message>
         <source>Average</source>
@@ -3056,6 +3342,11 @@ Você quer WPS planilhas para recalcular todas as fórmulas , quando este Pasta 
         <source>Sum</source>
         <comment>TX_DAP_FunctionItem_Sum</comment>
         <translation>Soma</translation>
+    </message>
+    <message>
+        <source>A PivotTable report cannot overlap a table or XML mapping.</source>
+        <comment>TX_DAP_DlgInfo_PTCannotOverloadListObj</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3117,7 +3408,7 @@ Você quer WPS planilhas para recalcular todas as fórmulas , quando este Pasta 
     <message>
         <source>Sort by</source>
         <comment>TX_ETDBE_FLTR_ORDER</comment>
-        <translation>ordenar por</translation>
+        <translation>Ordenar por</translation>
     </message>
     <message>
         <source>Ascending</source>
@@ -3127,17 +3418,17 @@ Você quer WPS planilhas para recalcular todas as fórmulas , quando este Pasta 
     <message>
         <source>Descending</source>
         <comment>TX_ETDBE_FLTR_ORDER_DESC</comment>
-        <translation>descendente</translation>
+        <translation>Descendente</translation>
     </message>
     <message>
         <source>Second operand</source>
         <comment>TX_ETDBE_FLTR_FILTER2</comment>
-        <translation>segundo operando</translation>
+        <translation>Segundo operando</translation>
     </message>
     <message>
         <source>Operation condition</source>
         <comment>TX_ETDBE_OPR</comment>
-        <translation>condição de operação</translation>
+        <translation>Condição de operação</translation>
     </message>
     <message>
         <source>greater than</source>
@@ -3182,17 +3473,17 @@ Você quer WPS planilhas para recalcular todas as fórmulas , quando este Pasta 
     <message>
         <source>Relation</source>
         <comment>TX_ETDBE_RELATION</comment>
-        <translation>relação</translation>
+        <translation>Relação</translation>
     </message>
     <message>
         <source>And</source>
         <comment>TX_ETDBE_RELATION_AND</comment>
-        <translation>e</translation>
+        <translation>E</translation>
     </message>
     <message>
         <source>Or</source>
         <comment>TX_ETDBE_RELATION_OR</comment>
-        <translation>ou</translation>
+        <translation>Ou</translation>
     </message>
     <message>
         <source>Connect string:</source>
@@ -3219,7 +3510,7 @@ Você quer WPS planilhas para recalcular todas as fórmulas , quando este Pasta 
     <message>
         <source>Operation condition</source>
         <comment>TX_ETDBE_STR_OPR</comment>
-        <translation>condição de operação</translation>
+        <translation>Condição de operação</translation>
     </message>
     <message>
         <source> &gt;,</source>
@@ -3269,7 +3560,7 @@ Você quer WPS planilhas para recalcular todas as fórmulas , quando este Pasta 
     <message>
         <source>Sort by</source>
         <comment>TX_ETDBE_STR_ORDR</comment>
-        <translation>ordenar por</translation>
+        <translation>Ordenar por</translation>
     </message>
     <message>
         <source>Field names</source>
@@ -3284,12 +3575,12 @@ Você quer WPS planilhas para recalcular todas as fórmulas , quando este Pasta 
     <message>
         <source>Descending</source>
         <comment>TX_ETDBE_STR_ORDR_DESC</comment>
-        <translation>descendente</translation>
+        <translation>Descendente</translation>
     </message>
     <message>
         <source>Relation</source>
         <comment>TX_ETDBE_STR_RELATION</comment>
-        <translation>relação</translation>
+        <translation>Relação</translation>
     </message>
     <message>
         <source> AND,</source>
@@ -3339,12 +3630,12 @@ Você quer WPS planilhas para recalcular todas as fórmulas , quando este Pasta 
     <message>
         <source>Connections:</source>
         <comment>TX_ETDBE_STR_CONNECT</comment>
-        <translation>conexões:</translation>
+        <translation>Conexões:</translation>
     </message>
     <message>
         <source>Query</source>
         <comment>TX_ETDBE_STR_QUERY</comment>
-        <translation>consulta</translation>
+        <translation>Consulta</translation>
     </message>
     <message>
         <source>Access Databases(*.mdb)|*.mdb|DBase Files(*.dbf)|*.dbf|Text Files(*.txt)|*.txt|All Files(*.*)|*.*||</source>
@@ -3425,57 +3716,62 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Connection</source>
         <comment>TX_ETDBE_STR_CONDEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conexão</translation>
     </message>
     <message>
         <source>Parameter</source>
         <comment>TX_ETDBE_STR_PARAMDEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetro</translation>
     </message>
     <message>
         <source>Unable to open %s. Cannot download the information you requested.</source>
         <comment>TX_ETDBE_STR_WEBDOWNLOADERROR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível abrir o %s. Não é possível baixar as informações solicitadas.</translation>
     </message>
     <message>
         <source>Cannot open the file because the specified file path is too long. Rename the file with less than 256 characters.</source>
         <comment>TX_ETDBE_STR_FILENAME_LENLIMIT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível abrir o arquivo porque o caminho de arquivo especificado é muito longo. Renomeie-o com menos de 256 caracteres.</translation>
     </message>
     <message>
         <source>Map</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mapear</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
         <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Todos os Arquivos (*.*)|*.*|Todas as Fontes de Dados (*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Bancos de Dados do Access (*.mdb,*.accdb)|*.mdb;*.accdb|Bancos de Dados FoxPro (*.dbc)|*.dbc|Arquivos do DBase (*.dbf)|*.dbf|Arquivos do Excel (*.xls)|*.xls|Arquivos de WPS Spreadsheets (*.et)|*.et|Arquivos de Texto do CSV (*.csv)|*.csv|Arquivos de Texto do PRN (*.prn)|*.prn|Arquivos de Texto (*.txt)|*.txt|Conexões de Banco de Dados do Office (*.odc)|*.odc|Vínculos do Microsoft Data (*.udl)|*.udl|DSNs de Arquivo ODBC (*.dsn)|*.dsn|Arquivo de Consulta (*.dqy)|*.dqy||</translation>
     </message>
     <message>
         <source>Running background query...(Click here to cancel)</source>
         <comment>TX_ETDBE_STR_BACKGROUND_QUERY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Executando consulta em segundo plano... (Clique aqui para cancelar)</translation>
     </message>
     <message>
         <source>:Getting Data ...</source>
         <comment>TX_ETDBE_STR_DESTINATE_TAG</comment>
-        <translation type="unfinished"></translation>
+        <translation>:Obtendo dados...</translation>
     </message>
     <message>
         <source>You cannot perform next operation due to one of the following reasons: You have not selected a valid data source. The connection string is blank. The string you typed is not correct. The generated connection failed.</source>
         <comment>TX_ETDBE_ERR_CONNECTFAIL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível realizar operação seguinte , devido a um dos seguintes motivos: Você não selecionou um válidos dados source.The seqüência de conexão é blank.The string que você digitou não é corret.The gerado conexão falhou .</translation>
     </message>
     <message>
         <source>Unable to open XML file. File does not exit or XML syntax error.</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível abrir o arquivo XML. O arquivo não existe ou há erro de sintaxe XML.</translation>
     </message>
     <message>
         <source>This will cancel a pending data refresh. Continue?</source>
         <comment>TX_ETDBE_STR_BACKGROUND_TTIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Esta ação cancelará uma atualização de dados pendente. Continuar?</translation>
+    </message>
+    <message>
+        <source>Unable to open XML file. File does not exit or XML syntax error.</source>
+        <comment>TX_ETDBE_STR_OPENXML_FAILD</comment>
+        <translation type="obsolete">Não é possível abrir o arquivo XML. O arquivo não existe ou erro de sintaxe XML.</translation>
     </message>
 </context>
 <context>
@@ -3493,7 +3789,7 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Financial</source>
         <comment>FuncCatName03</comment>
-        <translation>financeiro</translation>
+        <translation>Financeiro</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -3528,12 +3824,12 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Logical</source>
         <comment>FuncCatName10</comment>
-        <translation>lógico</translation>
+        <translation>Lógico</translation>
     </message>
     <message>
         <source>Information</source>
         <comment>FuncCatName11</comment>
-        <translation>informações</translation>
+        <translation>Informações</translation>
     </message>
     <message>
         <source>User Defined</source>
@@ -3608,7 +3904,7 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Returns the number of whole workdays between two dates.(Workdays don&apos;t include weekends and legal holidays.)</source>
         <comment>NETWORKDAYS_REMARK</comment>
-        <translation>Retorna o número de dias úteis inteiros entre duas datas. ( Dias úteis não incluem fins de semana e feriados oficiais ).</translation>
+        <translation>Retorna o número de dias úteis inteiros entre duas datas.(Dias úteis não incluem fins de semana e feriados oficiais.)</translation>
     </message>
     <message>
         <source>NOW()</source>
@@ -4193,12 +4489,12 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
-        <translation>COMBIN (número, número_seleccionado )</translation>
+        <translation type="unfinished">COMBIN (número, número_seleccionado )</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
-        <translation>Retorna o número de combinações de um determinado número de elementos .</translation>
+        <translation type="unfinished">Retorna o número de combinações de um determinado número de elementos .</translation>
     </message>
     <message>
         <source>COVAR(array1,array2)</source>
@@ -4598,7 +4894,7 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Returns the maximum value in a list of arguments. Ignores logical values and text.</source>
         <comment>MAX_REMARK</comment>
-        <translation>Retorna o valor máximo em uma lista de argumentos. Ignora valores lógicos e texto .</translation>
+        <translation>Retorna o valor máximo em uma lista de argumentos. Ignora valores lógicos e texto.</translation>
     </message>
     <message>
         <source>MAXA(number1,number2,...)</source>
@@ -4608,7 +4904,7 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Returns the maximum value in a list of arguments. Does not ignore logical values and text.</source>
         <comment>MAXA_REMARK</comment>
-        <translation>Retorna o valor máximo em uma lista de argumentos. Não ignora valores lógicos e texto .</translation>
+        <translation>Retorna o valor máximo em uma lista de argumentos. Não ignora valores lógicos e texto.</translation>
     </message>
     <message>
         <source>MEDIAN(number1,number2,...)</source>
@@ -4628,7 +4924,7 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Returns the minimum value in a list of arguments. Ignores logical values and text.</source>
         <comment>MIN_REMARK</comment>
-        <translation>Retorna o valor mínimo em uma lista de argumentos. Ignora valores lógicos e texto .</translation>
+        <translation>Retorna o valor mínimo em uma lista de argumentos. Ignora valores lógicos e texto.</translation>
     </message>
     <message>
         <source>MINA(number1,number2,...)</source>
@@ -4638,7 +4934,7 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Returns the minimum value in a list of arguments. Does not ignore logical values and text.</source>
         <comment>MINA_REMARK</comment>
-        <translation>Retorna o valor mínimo em uma lista de argumentos. Não ignora valores lógicos e texto .</translation>
+        <translation>Retorna o valor mínimo em uma lista de argumentos. Não ignora valores lógicos e texto.</translation>
     </message>
     <message>
         <source>MODE(number1,number2,...)</source>
@@ -4818,7 +5114,7 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Calculates standard deviation based on a sample. Doesn&apos;t ignore logical values and text.</source>
         <comment>STDEVA_REMARK</comment>
-        <translation>Calcula o desvio padrão com base numa amostra. Não ignora valores lógicos e texto .</translation>
+        <translation>Calcula o desvio padrão com base numa amostra. Não ignora valores lógicos e texto.</translation>
     </message>
     <message>
         <source>STDEVP(number1,number2,...)</source>
@@ -4838,7 +5134,7 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Calculates standard deviation based on the entire population. Doesn&apos;t ignore logical values and text.</source>
         <comment>STDEVPA_REMARK</comment>
-        <translation>Calcula o desvio padrão com base em toda a população. Não ignora valores lógicos e texto .</translation>
+        <translation>Calcula o desvio padrão com base em toda a população. Não ignora valores lógicos e texto.</translation>
     </message>
     <message>
         <source>TDIST(x,degrees_freedom,tails)</source>
@@ -5208,7 +5504,7 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Joins several text strings into one text string.</source>
         <comment>CONCATENATE_REMARK</comment>
-        <translation>Junta-se várias seqüências de texto em uma seqüência de texto .</translation>
+        <translation>Junta-se várias seqüências de texto em uma seqüência de texto.</translation>
     </message>
     <message>
         <source>EXACT(text1,text2)</source>
@@ -5258,17 +5554,17 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Returns the lower-case version of a text string.</source>
         <comment>LOWER_REMARK</comment>
-        <translation>Retorna a versão minúscula de uma cadeia de texto .</translation>
+        <translation>Retorna a versão minúscula de uma cadeia de texto.</translation>
     </message>
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation>LTRIM (texto)</translation>
+        <translation type="unfinished">LTRIM (texto)</translation>
     </message>
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
-        <translation>Remove os espaços à esquerda da seqüência de texto especificado.</translation>
+        <translation type="unfinished">Remove os espaços à esquerda da seqüência de texto especificado.</translation>
     </message>
     <message>
         <source>MID(text,start_num,num_chars)</source>
@@ -5278,7 +5574,7 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Returns the characters with a specified length from a given starting position in a text string.</source>
         <comment>MID_REMARK</comment>
-        <translation>Retorna os caracteres com um comprimento especificado de uma determinada posição de partida em uma seqüência de texto .</translation>
+        <translation>Retorna os caracteres com um comprimento especificado de uma determinada posição de partida em uma seqüência de texto.</translation>
     </message>
     <message>
         <source>REPLACE(old_text,start_num,num_chars,new_text)</source>
@@ -5308,17 +5604,17 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Returns the specified number of characters from the end of a text string.</source>
         <comment>RIGHT_REMARK</comment>
-        <translation>Retorna o número especificado de caracteres a partir do final de uma cadeia de texto .</translation>
+        <translation>Retorna o número especificado de caracteres a partir do final de uma cadeia de texto.</translation>
     </message>
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation>RTRIM (texto)</translation>
+        <translation type="unfinished">RTRIM (texto)</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
-        <translation>Remove os espaços à direita da cadeia de texto especificado.</translation>
+        <translation type="unfinished">Remove os espaços à direita da cadeia de texto especificado.</translation>
     </message>
     <message>
         <source>SEARCH(find_text,within_text,start_num)</source>
@@ -5368,7 +5664,7 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Returns the upper-case version of a text string.</source>
         <comment>UPPER_REMARK</comment>
-        <translation>Retorna a versão em maiúsculas de uma cadeia de texto .</translation>
+        <translation>Retorna a versão em maiúsculas de uma cadeia de texto.</translation>
     </message>
     <message>
         <source>VALUE(text)</source>
@@ -5378,7 +5674,7 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Returns the numeric value of a text string.</source>
         <comment>VALUE_REMARK</comment>
-        <translation>Retorna o valor numérico de uma cadeia de texto .</translation>
+        <translation>Retorna o valor numérico de uma cadeia de texto.</translation>
     </message>
     <message>
         <source>PROPER(text)</source>
@@ -6763,12 +7059,12 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>Extract the phonetic character of the text string.</source>
         <comment>PHONETIC_DESCRIPTION</comment>
-        <translation>Extraia o caráter fonético da cadeia de texto .</translation>
+        <translation>Extraia o caráter fonético da cadeia de texto.</translation>
     </message>
     <message>
         <source>Commands</source>
         <comment>FuncCatName14</comment>
-        <translation>comandos</translation>
+        <translation>Comandos</translation>
     </message>
     <message>
         <source>Customizing</source>
@@ -6868,450 +7164,510 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>RTD(progID, server, topic1, [topic2], ...)</source>
         <comment>RTD_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>RTD(IDdePrograma, servidor, tópico1, [tópico2], ...)</translation>
     </message>
     <message>
         <source>Retrieves real-time data from a program that supports COM automation.</source>
         <comment>RTD_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Recupera dados em tempo real de um programa que oferece suporte à automação COM.</translation>
     </message>
     <message>
         <source>See Help for help on this function and its arguments.</source>
         <comment>SEE_HELP_FORMORE_DESC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Consulte a Ajuda para obter informações sobre esta função e seus argumentos.</translation>
     </message>
     <message>
         <source>ARGUMENT(name_text, data_type_num, reference)</source>
         <comment>ARGUMENT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ARGUMENTO(nome_texto, núm_tipo_dados, referência)</translation>
     </message>
     <message>
         <source>BREAK()</source>
         <comment>BREAK_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>QUEBRA()</translation>
     </message>
     <message>
         <source>ELSE()</source>
         <comment>ELSE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>SENÃO()</translation>
     </message>
     <message>
         <source>ELSE.IF(logical_test)</source>
         <comment>ELSEIF_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>SENÃO.SE(teste_lógico)</translation>
     </message>
     <message>
         <source>END.IF()</source>
         <comment>ENDIF_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>FIM.SE()</translation>
     </message>
     <message>
         <source>FOR(counter_text, start_num, end_num, step_num)</source>
         <comment>FOR_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>PARA(nome_contador, núm_inicial, núm_final, núm_etapa)</translation>
     </message>
     <message>
         <source>FOR.CELL(ref_name, area_ref, skip_blanks)</source>
         <comment>FORCELL_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>PARA.CÉLULA(nome_ref, ref_área, pular_vazias)</translation>
     </message>
     <message>
         <source>GOTO(reference)</source>
         <comment>GOTO_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>IRPARA(referência)</translation>
     </message>
     <message>
         <source>HALT(cancel_close)</source>
         <comment>HALT_STNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>PARADA(cancelar_fechar)</translation>
     </message>
     <message>
         <source>NEXT()</source>
         <comment>NEXT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>PRÓX()</translation>
     </message>
     <message>
         <source>PAUSE(no_tool)</source>
         <comment>PAUSE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>PAUSA(sem_ferramenta)</translation>
     </message>
     <message>
         <source>RESTART(level_num)</source>
         <comment>RESTART_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>REINICIAR(núm_nível)</translation>
     </message>
     <message>
         <source>RESULT(type_num)</source>
         <comment>RESULT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>RESULTADO(núm_tipo)</translation>
     </message>
     <message>
         <source>RETURN(value)</source>
         <comment>RETURN_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>RETORNO(valor)</translation>
     </message>
     <message>
         <source>SET.NAME(name_text, value)</source>
         <comment>SETNAME_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>DEF.NOME(nome_texto, valor)</translation>
     </message>
     <message>
         <source>SET.VALUE(reference, values)</source>
         <comment>SETVALUE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>DEF.VALOR(referência, valores)</translation>
     </message>
     <message>
         <source>STEP()</source>
         <comment>STEP_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ETAPA()</translation>
     </message>
     <message>
         <source>VOLATILE(logical)</source>
         <comment>VOLATILE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>TEMPORÁRIO(lógica)</translation>
     </message>
     <message>
         <source>WHILE(logical_test)</source>
         <comment>WHILE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ENQUANTO(teste_lógico)</translation>
     </message>
     <message>
         <source>GET.NAME(name_text, info_type)</source>
         <comment>GETNAME_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INFO.NOME(nome_texto, tipo_info)</translation>
     </message>
     <message>
         <source>REGISTER(module_text, procedure, type_text, function_text,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>REGISTRO(texto_módulo, procedimento, tipo_texto, texto_função,...)</translation>
     </message>
     <message>
         <source>REGISTER.ID(module_text, procedure, type_text)</source>
         <comment>REGISTERID_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>IDENT.REGISTRO(texto_módulo, procedimento, tipo_texto)</translation>
     </message>
     <message>
         <source>UNREGISTER(register_id)</source>
         <comment>UNREGISTER_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>TIRAR.REGISTRO(ident_registro)</translation>
     </message>
     <message>
         <source>GET.DOCUMENT(type_num, name_text)</source>
         <comment>GETDOCUMENT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INFO.DOCUMENTO(núm_tipo, nome_texto)</translation>
     </message>
     <message>
         <source>GET.WORKBOOK(type_num, name_text)</source>
         <comment>GETWORKBOOK_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INFO.PASTA.TRABALHO(núm_tipo, nome_texto)</translation>
     </message>
     <message>
         <source>GET.WORKSPACE(type_num)</source>
         <comment>GETWORKSPACE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INFO.ÁREA.TRABALHO(núm_tipo)</translation>
     </message>
     <message>
         <source>APP.TITLE(text)</source>
         <comment>APPTITLE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>APL.TÍTULO(texto)</translation>
     </message>
     <message>
         <source>WINDOW.TITLE(text)</source>
         <comment>WINDOWTITLE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>JAN.TÍTULO(texto)</translation>
     </message>
     <message>
         <source>ACTIVE.CELL()</source>
         <comment>ACTIVECELL_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>CÉL.ATIVA()</translation>
     </message>
     <message>
         <source>DOCUMENTS(type_num, match_text)</source>
         <comment>DOCUMENTS_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>DOCUMENTOS(núm_tipo, coincidir_texto)</translation>
     </message>
     <message>
         <source>GET.FORMULA(reference)</source>
         <comment>GETFORMULA_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INFO.FÓRMULA(referência)</translation>
     </message>
     <message>
         <source>GET.NOTE(cell_ref, start_char, num_chars)</source>
         <comment>GETNOTE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INFO.NOTA(ref_cél, caract_inicial, núm_caract)</translation>
     </message>
     <message>
         <source>GET.WINDOW(type_num, window_text)</source>
         <comment>GETWINDOW_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INFO.JAN(núm_tipo, texto_janela)</translation>
     </message>
     <message>
         <source>WINDOWS(type_num, match_text)</source>
         <comment>WINDOWS_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>JAN(núm_tipo, coincidir_texto)</translation>
     </message>
     <message>
         <source>FORMULA.CONVERT(formula_text, from_a1, to_a1, to_ref_type, rel_to_ref)</source>
         <comment>FORMULACONVERT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>FÓRMULA.CONVERTER(texto_fórmula, de_a1, para_a1, para_tipo_ref, rel_para_ref)</translation>
     </message>
     <message>
         <source>TEXTREF(text, a1)</source>
         <comment>TEXTREF_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>REF.TEXTO(texto, a1)</translation>
     </message>
     <message>
         <source>REFTEXT(reference, a1)</source>
         <comment>REFTEXT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>TEXTO.REF(referência, a1)</translation>
     </message>
     <message>
         <source>GET.BAR(bar_num, menu, command, subcommand)</source>
         <comment>GETBAR_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INFO.BARRA(núm_barra, menu, comando, subcomando)</translation>
     </message>
     <message>
         <source>ADD.BAR(bar_num)</source>
         <comment>ADDBAR_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ADIC.BARRA(núm_barra)</translation>
     </message>
     <message>
         <source>ADD.MENU(bar_num, menu_ref, position1, position2)</source>
         <comment>ADDMENU_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ADIC.MENU(núm_barra, ref_menu, posição1, posição2)</translation>
     </message>
     <message>
         <source>DELETE.MENU(bar_num, menu, submenu)</source>
         <comment>DELETEMENU_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>EXCLUIR.MENU(núm_barra, menu, submenu)</translation>
     </message>
     <message>
         <source>GET.TOOLBAR(type_num, bar_id)</source>
         <comment>GETTOOLBAR_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INFO.BARRA.FERRAMENTAS(núm_tipo, ident_barra)</translation>
     </message>
     <message>
         <source>ALERT(message_text, type_num, help_ref)</source>
         <comment>ALERT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ALERTA(texto_mensagem, núm_tipo, ajuda_ref)</translation>
     </message>
     <message>
         <source>CALLER()</source>
         <comment>CALLER_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>CHAMAR.ESP()</translation>
     </message>
     <message>
         <source>ECHO(logical)</source>
         <comment>ECHO_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ECO(lógica)</translation>
     </message>
     <message>
         <source>NEW(type_num, xy_series, add_logical)</source>
         <comment>NEW_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>NOVO(núm_tipo, série_xy, adicionar_lógico)</translation>
     </message>
     <message>
         <source>CALCULATE.NOW()</source>
         <comment>CALCULATENOW_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>CALCULAR.AGORA()</translation>
     </message>
     <message>
         <source>CALCULATE.DOCUMENT()</source>
         <comment>CALCULATEDOCUMENT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>CALCULAR.DOCUMENTO()</translation>
     </message>
     <message>
         <source>ON.DATA(document_text, macro_text)</source>
         <comment>ONDATA_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INICIAR.DADOS(texto_documento, texto_macro)</translation>
     </message>
     <message>
         <source>ON.DOUBLECLICK(sheet_text, macro_text)</source>
         <comment>ONDOUBLECLICK_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INICIAR.DUPLOPRESS(texto_planilha, texto_macro)</translation>
     </message>
     <message>
         <source>ON.ENTRY(sheet_text, macro_text)</source>
         <comment>ONENTRY_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INICIAR.ENTRADA(texto_planilha, texto_macro)</translation>
     </message>
     <message>
         <source>ON.KEY(key_text, macro_text)</source>
         <comment>ONKEY_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INICIAR.TECLA(texto_tecla, texto_macro)</translation>
     </message>
     <message>
         <source>ON.RECALC(sheet_text, macro_text)</source>
         <comment>ONRECALC_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INICIAR.RECÁLCULO(texto_planilha, texto_macro)</translation>
     </message>
     <message>
         <source>ON.SHEET(sheet_text, macro_text, activate_logical)</source>
         <comment>ONSHEET_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INICIAR.PLANILHA(texto_planilha, texto_macro, lógica_ativada)</translation>
     </message>
     <message>
         <source>ON.TIME(time, macro_text, tolerance, insert_logical)</source>
         <comment>ONTIME_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INICIAR.TEMPO(hora, texto_macro, tolerância, inserir_lógico)</translation>
     </message>
     <message>
         <source>ON.WINDOW(window_text, macro_text)</source>
         <comment>ONWINDOW_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INICIAR.JAN(texto_janela, texto_macro)</translation>
     </message>
     <message>
         <source>QUIT()</source>
         <comment>QUIT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ENCERRAR()</translation>
     </message>
     <message>
         <source>SELECT(selection, active_cell)</source>
         <comment>SELECT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>SELEC(seleção, cél_ativa)</translation>
     </message>
     <message>
         <source>SELECT.LAST.CELL()</source>
         <comment>SELECTLASTCELL_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>SELEC.ÚLTIMA.CÉLULA()</translation>
     </message>
     <message>
         <source>COPY(from_reference, to_reference)</source>
         <comment>COPY_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>COPIAR(da_ref, para_ref)</translation>
     </message>
     <message>
         <source>PASTE.SPECIAL(paste_num, operation_num, skip_blanks, transpose)</source>
         <comment>PASTESPECIAL_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>COLAR.ESPECIAL(colar_núm, operação_núm, pular_vazias, transpor)</translation>
     </message>
     <message>
         <source>FORMULA(formula_text, reference)</source>
         <comment>FORMULA_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>FÓRMULA(texto_fórmula, referência)</translation>
     </message>
     <message>
         <source>DEFINE.NAME(name_text, refers_to, macro_type, shortcut_text, hidden, category, local)</source>
         <comment>DEFINENAME_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>DEFINIR.NOME(nome_texto, referir_a, tipo_macro, texto_atalho, oculto, categoria, local)</translation>
     </message>
     <message>
         <source>ROW.HEIGHT(height_num, reference, standard_height, type_num)</source>
         <comment>ROWHEIGHT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ALTURA.LIN(núm_altura, referência, altura_padrão, núm_tipo)</translation>
     </message>
     <message>
         <source>COLUMN.WIDTH(width_num, reference, standard, type_num, standard_num)</source>
         <comment>COLUMNWIDTH_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>LARGURA.COL(núm_largura, referência, padrão, núm_tipo, núm_padrão)</translation>
     </message>
     <message>
         <source>ERROR(enable_logical, macro_ref)</source>
         <comment>ERROR_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ERRO(habilitar_lógico, ref_macro)</translation>
     </message>
     <message>
         <source>RUN(reference, step)</source>
         <comment>RUN_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>EXECUTAR(referência, etapa)</translation>
     </message>
     <message>
         <source>FILE.CLOSE(save_logical, route_logical)</source>
         <comment>FILECLOSE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ARQ.FECHAR(salvar_lógico, encaminhar_lógico)</translation>
     </message>
     <message>
         <source>PRINT(range_num, from, to, copies,...)</source>
         <comment>PRINT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>IMPRIMIR(núm_intervalo, de, para, cópias,...)</translation>
     </message>
     <message>
         <source>CALL(module_text, procedure, type_text, argument1, ...)</source>
         <comment>CALL_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>CHAMAR(texto_módulo, procedimento, tipo_texto, argumento1, ...)</translation>
     </message>
     <message>
         <source>Calls a procedure in a dynamic link library or code resource.</source>
         <comment>CALL_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chama um procedimento em uma biblioteca de vínculo dinâmico ou um recurso de código.</translation>
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list.</source>
         <comment>RANK_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Retorna a posição de um número em uma lista de números: o seu tamanho em relação a outros valores da lista.</translation>
     </message>
     <message>
         <source>RANK.AVG(number,ref,order)</source>
         <comment>RANKAVG_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>ORDEM.MÉD(núm,ref,ordem)</translation>
     </message>
     <message>
         <source>RANK.EQ(number,ref,order)</source>
         <comment>RANKEQ_GRAMMER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</source>
-        <comment>VOLATILE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Returns the yields of regular payment securities.</source>
-        <comment>VOLATILE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ORDEM.EQ(núm,ref,ordem)</translation>
     </message>
     <message>
         <source>FILES(directory_text)</source>
         <comment>FILES_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ARQUIVOS(texto_diretório)</translation>
     </message>
     <message>
         <source>Returns the sum of the squares of all the arguments. The arguments may be varied as numbers, arrays, names or references to cells which contain numbers.</source>
         <comment>SUMSQ_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Retorna a soma dos quadrados de todos os argumentos . Os argumentos podem ser variados como números, vetores nomes ou referências a células que contian números.</translation>
     </message>
     <message>
         <source>Returns the inverse of the standard normal cumulative distribution function with a mean of zero and a standard deviation of one.</source>
         <comment>NORMSINV_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Retorna o inverso da distribuição cumulativa normal fuction padrão, com média zero e um desvio padrão de um.</translation>
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers: its size relative to other values in the list; if more than one value has the same rank, the average rank is returned.</source>
         <comment>RANKAVG_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Retorna a posição de um número em uma lista de números: o seu tamanho em relação a outros valores da lista; se mais de um valor tiver a mesma posição, será retornada uma posição média.</translation>
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers: its size relative to other values in the list; if more than one value has the same rank, the top rank of that set of values is returned.</source>
         <comment>RANKEQ_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Retorna a posição de um número em uma lista de números: o seu tamanho em relação a outros valores da lista; se mais de um valor tiver a mesma posição, será retornada a posição mais alta desse conjunto de valores.</translation>
     </message>
     <message>
         <source>Returns the first-found location of the specified character or string within a text string, reading from left to right (not case-sensitive).</source>
         <comment>SEARCH_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Retorna a primeira encontrada localização do charcter ou seqüência de caracteres especificada dentro de uma cadeia de texto, a leitura da esquerda para a direita ( não diferencia maiúsculas de minúsculas).</translation>
     </message>
     <message>
         <source>Returns the number of characters in the text. Use with double-byte characters(DBCS).</source>
         <comment>LENB_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Retorna o número de charcters no texto. Use com caracteres de bytes duplos (DBCS) .</translation>
     </message>
     <message>
         <source>Returns the first-found location of the specified character or string within a text string, reading from left to right (not case-sensitive). Use with double-byte character set(DBCS).</source>
         <comment>SEARCHB_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Retorna a primeira encontrada localização do charcter ou seqüência de caracteres especificada dentro de uma cadeia de texto, a leitura da esquerda para a direita ( não diferencia maiúsculas de minúsculas). Use com o conjunto de caracteres de bytes duplos (DBCS).</translation>
     </message>
     <message>
         <source>COUPDAYBS Returns the number of days from the beginning of the coupon period to the settlement date.</source>
         <comment>COUPDAYBS_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>COUPDAYBS Retorna o número de dias desde o início do cupom periond à data de liquidação .</translation>
     </message>
     <message>
         <source>FORMULA.FIND(text, in_num, at_num, by_num, dir_num, match_case)</source>
         <comment>FORMULAFIND_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>FÓRMULA.PROC(texto, núm_em, no_número, por_número, núm_dir, coinc_maiúsc_minúsc)</translation>
     </message>
     <message>
         <source>CALCULATION(type_num, iter, max_num, max_change, update, precision, date_1904, calc_save, save_values, alt_exp, alt_form)</source>
         <comment>CALCULATION_SYNTAX</comment>
+        <translation>CÁLCULO(núm_tipo, iteração, núm_máx, alter_máx, atualizar, precisão, data_1904, calc_salvar, salvar_valores, alt_exp, alt_form)</translation>
+    </message>
+    <message>
+        <source>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</source>
+        <comment>YIELD_SYNTAX</comment>
+        <translation>LUCRO(liquidação,vencimento, juros, pr, resgate, frequência, [base])</translation>
+    </message>
+    <message>
+        <source>Returns the yields of regular payment securities.</source>
+        <comment>YIELD_DESCRIPTION</comment>
+        <translation>Retorna o rendimento das garantias de pagamento regulares.</translation>
+    </message>
+    <message>
+        <source>DIALOGBOX(dialog_ref)</source>
+        <comment>DIALOGBOX_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WORKBOOKINSERT(type_num)</source>
+        <comment>WORKBOOKINSERT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SELECTION()</source>
+        <comment>SELECTION_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NAMES(document_text, type_num, match_text)</source>
+        <comment>NAMES_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.OBJECT(type_num, object_id_text, start_num, count_num, item_index)</source>
+        <comment>GETOBJECT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Options.Lists.Get(list_num)</source>
+        <comment>OPTIONSLISTSGET_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DEREF(reference)</source>
+        <comment>DEREF_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ABSREF(ref_text, reference)</source>
+        <comment>ABSREF_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RELREF(reference, rel_to_ref)</source>
+        <comment>RELREF_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</source>
+        <comment>SPELLINGCHECK_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XNPV(rate, values, dates)</source>
+        <comment>XNPV_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the net present value for a schedule of crash flows.</source>
+        <comment>XNPV_DESCRIPTION</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7422,7 +7778,7 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
     <message>
         <source>The current file is restricted by permission, which can only be protected when the format is WPS Spreadsheets. If the file is saved as the current format, any of the permission will be removed. Do you want to continue?</source>
         <comment>TX_Save_KRM_UnSuport_Format</comment>
-        <translation>O arquivo atual é restrita a permissão , o que só pode ser protegida quando o formato é Spreadsheets WPS . Se o arquivo é salvo como o formato atual, qualquer da permissão será removido . Você quer continuar?</translation>
+        <translation>O arquivo atual é restrita a permissão , o que só pode ser protegida quando o formato é WPS Spreadsheets. Se o arquivo é salvo como o formato atual, qualquer da permissão será removido . Você quer continuar?</translation>
     </message>
     <message>
         <source>Some data may be lost when a file of older version is opened.</source>
@@ -7474,14 +7830,14 @@ Aviso: se o segundo operando consulta o número como texto , as aspas simples de
 
 </source>
         <comment>TX_Save_Xml_Warning_1</comment>
-        <translation>Os seguintes recursos de sua pasta de trabalho não vão ser salvos em XML Planilhas :</translation>
+        <translation>Os seguintes recursos de sua pasta de trabalho não vão ser salvos em Spreadsheets XML:</translation>
     </message>
     <message>
         <source>
  Do you continue to save it as XML Spreadsheets?</source>
         <comment>TX_Save_Xml_Warning_2</comment>
         <translation>
-Você deseja continuar a salvá-lo como Planilhas XML?</translation>
+Você deseja continuar a salvá-lo como XML Spreadsheets?</translation>
     </message>
     <message>
         <source> · AutoShapes, other objects or charts
@@ -7492,12 +7848,12 @@ Você deseja continuar a salvá-lo como Planilhas XML?</translation>
     <message>
         <source>The worksheet you are trying to save is password-protected, which can not be saved as XML Spreadsheets.If you must save it as XML Spreadsheets, please delete the password first.</source>
         <comment>TX_Save_Xml_Warning_BookProt</comment>
-        <translation>A planilha que você está tentando salvar é protegido por senha, que não pode ser salvo como XML Spreadsheets.If você deve guardá-lo como planilhas XML , por favor, apague a senha primeiro .</translation>
+        <translation>A planilha que você está tentando salvar é protegido por senha, que não pode ser salvo como XML Spreadsheets. If você deve guardá-lo como XML Spreadsheets, por favor, apague a senha primeiro .</translation>
     </message>
     <message>
         <source>There is a password-protected worksheet in the workbook you are trying to save, which can not be saved as XML Spreadsheets. If you must save it as XML Spreadsheets, please delete the password first.</source>
         <comment>TX_Save_Xml_Warning_SheetProt</comment>
-        <translation>Há uma planilha protegida por senha na pasta de trabalho que você está tentando salvar, que não pode ser salvo como XML Spreadsheets. Se você deve guardá-lo como planilhas XML , por favor, apague a senha primeiro .</translation>
+        <translation>Há uma planilha protegida por senha na pasta de trabalho que você está tentando salvar, que não pode ser salvo como XML Spreadsheets. Se você deve guardá-lo como XML Spreadsheets, por favor, apague a senha primeiro .</translation>
     </message>
     <message>
         <source> · Refer to external sheet
@@ -7510,13 +7866,13 @@ Você deseja continuar a salvá-lo como Planilhas XML?</translation>
 
 </source>
         <comment>TX_Save_Html_Warning_1</comment>
-        <translation>Os seguintes recursos de sua pasta de trabalho não vão ser salvos em planilhas de HTML :</translation>
+        <translation>Os seguintes recursos de sua pasta de trabalho não vão ser salvos em HTML Spreadsheets:</translation>
     </message>
     <message>
         <source>
  Do you continue to save it as HTML Spreadsheets ?</source>
         <comment>TX_Save_Html_Warning_2</comment>
-        <translation>Você deseja continuar a salvá-lo como Planílha HTML ?</translation>
+        <translation>Você deseja continuar a salvá-lo como HTML Spreadsheets?</translation>
     </message>
     <message>
         <source>The worksheet you are trying to save is password-protected, which can not be saved as HTML Spreadsheets.If you must save it as HTML Spreadsheets, please delete the password first.</source>
@@ -7526,7 +7882,7 @@ Você deseja continuar a salvá-lo como Planilhas XML?</translation>
     <message>
         <source>There is a password-protected worksheet in the workbook you are trying to save, which can not be saved as HTML Spreadsheets. If you must save it as HTML Spreadsheets, please delete the password first.</source>
         <comment>TX_Save_Html_Warning_SheetProt</comment>
-        <translation>Há uma planilha protegida por senha na pasta de trabalho que você está tentando salvar, que não podem ser salvos como planilhas HTML. Se você deve guardá-lo como Spreadsheets HTML , por favor, apague a senha primeiro .</translation>
+        <translation>Há uma planilha protegida por senha na pasta de trabalho que você está tentando salvar, que não podem ser salvos como HTML Spreadsheets. Se você deve guardá-lo como HTML Spreadsheets , por favor, apague a senha primeiro .</translation>
     </message>
     <message>
         <source> · File Encryption
@@ -7626,7 +7982,7 @@ Você deseja continuar a salvá-lo como Planilhas XML?</translation>
 ·To use the name as defined in the destination sheet,click Yes.
 ·To rename the range referred to in the formula or worksheet,click No,and enter a new name in the Name Conflict dialog box.</source>
         <comment>TX_Name_Conflict_Exist</comment>
-        <translation>A fórmula ou planilha que deseja mover ou copiar contém o nome &apos; %s &apos; , que já existe no destino worksheet.Do você quiser usar esta versão do nome?
+        <translation>A fórmula ou planilha que deseja mover ou copiar contém o nome &apos;%s&apos; , que já existe no destino worksheet.Do você quiser usar esta versão do nome?
 
 · Para usar o nome , tal como definido na Planilha de destino, clique em Sim.
 · Para mudar o nome do intervalo referido na fórmula ou planilha, clique em Não e digite um novo nome na caixa de diálogo Nome de Conflitos.</translation>
@@ -7679,7 +8035,7 @@ Nota: alguns arquivos podem conter vírus de macro e execução deles pode causa
     <message>
         <source>Query Files(*.iqy)</source>
         <comment>TX_ssDesc_Iqy_</comment>
-        <translation type="unfinished">Arquivos de consulta (* . IQY )</translation>
+        <translation>Arquivos de Consulta (*.iqy)</translation>
     </message>
     <message>
         <source>Access Databases(*.mdb;*.accdb)</source>
@@ -7689,60 +8045,63 @@ Nota: alguns arquivos podem conter vírus de macro e execução deles pode causa
     <message>
         <source>%s is a Microsoft Excel 5.0/95 Workbook. Do you want to overwrite it with the latest %s format?</source>
         <comment>TX_UPDATE_OLD_FORMAT_TO_NEW_FORTMAT</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s é uma Pasta de Trabalho do Microsoft Excel 5.0/95. Deseja substituí-la pelo formato mais recente do %s?</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Files(*.etx)</source>
         <comment>TX_ssDesc_Etx</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arquivos de WPS Spreadsheets 2007/2010 (*.etx)</translation>
     </message>
     <message>
         <source>Query Files(*.iqy; *.dqy)</source>
         <comment>TX_ssDesc_Qy_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arquivos de Consulta (*.iqy; *.dqy)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Template(*.ettx)</source>
         <comment>TX_ssDesc_EtxTemp_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de WPS Spreadsheets 2007/2010 (*.ettx)</translation>
     </message>
     <message>
         <source>Data Interchange Format (*.dif)</source>
         <comment>TX_ssDesc_Dif_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formato de Troca de Dados (*.dif)</translation>
     </message>
     <message>
         <source>DIF (Data Interchange Format)(*.dif)</source>
         <comment>TX_ssDesc_Dif_Exp_</comment>
-        <translation type="unfinished"></translation>
+        <translation>DIF (Formato de Troca de Dados)(*.dif)</translation>
     </message>
     <message>
         <source>All Data Sources(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
         <comment>TX_ssDesc_DataSrcFile_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Todas as Fontes de Dados (*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
     </message>
     <message>
         <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm)</source>
         <comment>TX_ssDesc_Normal_</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Arquivos Comuns (*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm)</translation>
     </message>
     <message>
         <source> · VB project
 </source>
         <comment>TX_Save_Xlsx_Warning_VBA</comment>
-        <translation type="unfinished"></translation>
+        <translation> · Projeto do VB
+</translation>
     </message>
     <message>
         <source> · Excel 4.0 function stored in defined names.
 </source>
         <comment>TX_Save_Xlsx_Warning_MacroNames</comment>
-        <translation type="unfinished"></translation>
+        <translation> · Função do Excel 4.0 armazenada em nomes definidos.
+</translation>
     </message>
     <message>
         <source> · Excel 4.0 Macro Sheets(these will be converted to normal worksheets)
 </source>
         <comment>TX_Save_Xlsx_Warning_MacroSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation> · Folhas de Macro do Excel 4.0 (serão convertidas em planilhas normais)
+</translation>
     </message>
     <message>
         <source>Chinese Office Document Format 2.0(*.uos)</source>
@@ -7752,23 +8111,63 @@ Nota: alguns arquivos podem conter vírus de macro e execução deles pode causa
     <message>
         <source>The following features cannot be saved in macro-free workbooks:</source>
         <comment>TX_Save_Xlsx_Warning_1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Os seguintes recursos não podem ser salvos em pastas de trabalho desativadas para macro:
+</translation>
     </message>
     <message>
         <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
 To continue saving as a macro-free workbook, click Yes.</source>
         <comment>TX_Save_Xlsx_Warning_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Para salvar um arquivo com estes recursos, clique em Não e escolha um tipo de arquivo ativado para macro na lista Tipo de Arquivo.
+Para continuar salvando como uma pasta de trabalho sem macro, clique em Sim.</translation>
     </message>
     <message>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
 This backup will be saved to (%s)</source>
         <comment>TX_Persist_MsgBackupToDef</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreram erros durante o backup. Você pode não ter permissões de gravação no diretório de backup onde ele deveria ser colocado. Tente alterar o diretório de backup.
+Este backup será salvo em (%s)</translation>
     </message>
     <message>
         <source>The author would like you to open &quot;%s&quot; as read-only unless you need to make changes. Open as read-only?</source>
         <comment>TX_Recommended_Read_Only</comment>
+        <translation>O autor gostaria que você abrisse &quot;%s&quot; como somente leitura, a menos que precise fazer alterações. Abrir como somente leitura?</translation>
+    </message>
+    <message>
+        <source>The following features cannot be saved in macro-disabled workbooks:
+</source>
+        <comment>TX_Save_Xlsx_Warning_1</comment>
+        <translation type="obsolete">Os seguintes recursos não podem ser salvos em pastas de trabalho desativadas para macro:
+</translation>
+    </message>
+    <message>
+        <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list. To continue saving as a macro-free workbook, click Yes.</source>
+        <comment>TX_Save_Xlsx_Warning_2</comment>
+        <translation type="obsolete">Para salvar um arquivo com estes recursos, clique em Não e escolha um tipo de arquivo ativado para macro na lista Tipo de Arquivo. Para continuar salvando como uma pasta de trabalho sem macros, clique em Sim.</translation>
+    </message>
+    <message>
+        <source>File Unsaved</source>
+        <comment>TX_FILE_UNSAVED</comment>
+        <translation>Arquivo Não Salvo</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm)</source>
+        <comment>TX_ssDesc_Normal_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel2007 XML Template Macro Enabled(*.xltx)</source>
+        <comment>TX_ssDesc_XLTX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel2007 XML Template(*.xltm)</source>
+        <comment>TX_ssDesc_XLTM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Format(*.ofd)|*.ofd</source>
+        <comment>TX_ssDesc_Ofd_</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7810,7 +8209,7 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Comment:</source>
         <comment>TX_PrintComment_Comment</comment>
-        <translation>comentário:</translation>
+        <translation>Comentário:</translation>
     </message>
     <message>
         <source>/</source>
@@ -7833,42 +8232,42 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Normal</source>
         <comment>TX_StyleName_Normal</comment>
-        <translation>Normal</translation>
+        <translation type="obsolete">Normal</translation>
     </message>
     <message>
         <source>Comma</source>
         <comment>TX_StyleName_COMMA</comment>
-        <translation>Comma</translation>
+        <translation type="obsolete">Comma</translation>
     </message>
     <message>
         <source>Currency</source>
         <comment>TX_StyleName_CURRENCY</comment>
-        <translation>Moeda</translation>
+        <translation type="obsolete">Moeda</translation>
     </message>
     <message>
         <source>Percent</source>
         <comment>TX_StyleName_PERCENT</comment>
-        <translation>Porcentagem</translation>
+        <translation type="obsolete">Porcentagem</translation>
     </message>
     <message>
         <source>Comma[0]</source>
         <comment>TX_StyleName_COMMA0</comment>
-        <translation>Comma [0]</translation>
+        <translation type="obsolete">Comma [0]</translation>
     </message>
     <message>
         <source>Currency[0]</source>
         <comment>TX_StyleName_CURRENCY0</comment>
-        <translation>Moeda [0]</translation>
+        <translation type="obsolete">Moeda [0]</translation>
     </message>
     <message>
         <source>Hyperlink</source>
         <comment>TX_StyleName_HYPERLINK</comment>
-        <translation>Hyperlink</translation>
+        <translation type="obsolete">Hyperlink</translation>
     </message>
     <message>
         <source>Followed Hyperlink</source>
         <comment>TX_StyleName_FOLLOWED_HYPERLINK</comment>
-        <translation>Hyperlink seguido</translation>
+        <translation type="obsolete">Hyperlink seguido</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -7943,12 +8342,12 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Page %d</source>
         <comment>TX_PageNumberString1</comment>
-        <translation>página %d</translation>
+        <translation>Página %d</translation>
     </message>
     <message>
         <source>Page %d</source>
         <comment>TX_PageNumberString1_</comment>
-        <translation>página %d</translation>
+        <translation>Página %d</translation>
     </message>
     <message>
         <source>Page %d of %d</source>
@@ -7974,6 +8373,261 @@ This backup will be saved to (%s)</source>
         <source>Bold</source>
         <comment>TX_FontName_Bold5</comment>
         <translation>Negrito</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <comment>STR_STYLE_Normal</comment>
+        <translation>Normal</translation>
+    </message>
+    <message>
+        <source>Comma</source>
+        <comment>STR_STYLE_COMMA</comment>
+        <translation>Comma</translation>
+    </message>
+    <message>
+        <source>Currency</source>
+        <comment>STR_STYLE_CURRENCY</comment>
+        <translation>Moeda</translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <comment>STR_STYLE_PERCENT</comment>
+        <translation>Porcentagem</translation>
+    </message>
+    <message>
+        <source>Comma[0]</source>
+        <comment>STR_STYLE_COMMA0</comment>
+        <translation>Comma [0]</translation>
+    </message>
+    <message>
+        <source>Currency[0]</source>
+        <comment>STR_STYLE_CURRENCY0</comment>
+        <translation>Moeda [0]</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <comment>STR_STYLE_HYPERLINK</comment>
+        <translation>Hyperlink</translation>
+    </message>
+    <message>
+        <source>Followed Hyperlink</source>
+        <comment>STR_STYLE_FOLLOWED_HYPERLINK</comment>
+        <translation>Hyperlink seguido</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <comment>STR_STYLE_NOTE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning Text</source>
+        <comment>STR_STYLE_WARNING_TEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>STR_STYLE_TITLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading 1</source>
+        <comment>STR_STYLE_HEADING_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading 2</source>
+        <comment>STR_STYLE_HEADING_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading 3</source>
+        <comment>STR_STYLE_HEADING_3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading 4</source>
+        <comment>STR_STYLE_HEADING_4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input</source>
+        <comment>STR_STYLE_INPUT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output</source>
+        <comment>STR_STYLE_OUTPUT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculation</source>
+        <comment>STR_STYLE_CALCULATION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check Cell</source>
+        <comment>STR_STYLE_CHECK_CELL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Linked Cell</source>
+        <comment>STR_STYLE_LINKED_CELL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>STR_STYLE_TOTAL</comment>
+        <translation>Total</translation>
+    </message>
+    <message>
+        <source>Good</source>
+        <comment>STR_STYLE_GOOD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bad</source>
+        <comment>STR_STYLE_BAD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Neutral</source>
+        <comment>STR_STYLE_NEUTRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <comment>STR_STYLE_ACCENT1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>20% - Accent1</source>
+        <comment>STR_STYLE_20P_ACCENT_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>40% - Accent1</source>
+        <comment>STR_STYLE_40P_ACCENT_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>60% - Accent1</source>
+        <comment>STR_STYLE_60P_ACCENT_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <comment>STR_STYLE_ACCENT2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>20% - Accent2</source>
+        <comment>STR_STYLE_20P_ACCENT_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>40% - Accent2</source>
+        <comment>STR_STYLE_40P_ACCENT_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>60% - Accent2</source>
+        <comment>STR_STYLE_60P_ACCENT_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <comment>STR_STYLE_ACCENT3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>20% - Accent3</source>
+        <comment>STR_STYLE_20P_ACCENT_3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>40% - Accent3</source>
+        <comment>STR_STYLE_40P_ACCENT_3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>60% - Accent3</source>
+        <comment>STR_STYLE_60P_ACCENT_3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <comment>STR_STYLE_ACCENT4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>20% - Accent4</source>
+        <comment>STR_STYLE_20P_ACCENT_4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>40% - Accent4</source>
+        <comment>STR_STYLE_40P_ACCENT_4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>60% - Accent4</source>
+        <comment>STR_STYLE_60P_ACCENT_4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <comment>STR_STYLE_ACCENT5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>20% - Accent5</source>
+        <comment>STR_STYLE_20P_ACCENT_5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>40% - Accent5</source>
+        <comment>STR_STYLE_40P_ACCENT_5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>60% - Accent5</source>
+        <comment>STR_STYLE_60P_ACCENT_5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <comment>STR_STYLE_ACCENT6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>20% - Accent6</source>
+        <comment>STR_STYLE_20P_ACCENT_6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>40% - Accent6</source>
+        <comment>STR_STYLE_40P_ACCENT_6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>60% - Accent6</source>
+        <comment>STR_STYLE_60P_ACCENT_6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CExplanatory Text</source>
+        <comment>STR_STYLE_EXPLANATORY_TEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RowLevel</source>
+        <comment>STR_STYLE_ROWLEVEL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ColLevel</source>
+        <comment>STR_STYLE_COLLEVEL</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8029,7 +8683,7 @@ Há várias razões possíveis:
     <message>
         <source>Selection</source>
         <comment>TX_ZoomBox_Selection</comment>
-        <translation>seleção</translation>
+        <translation>Seleção</translation>
     </message>
     <message>
         <source>&quot;Selection&quot;, -1</source>
@@ -8179,7 +8833,7 @@ Por favor, certifique-se as regiões selecionadas são células contínuas.</tra
     <message>
         <source>Point</source>
         <comment>TX_SizeUint_Point</comment>
-        <translation>ponto</translation>
+        <translation>Ponto</translation>
     </message>
     <message>
         <source>=today()</source>
@@ -8195,28 +8849,26 @@ Por favor, certifique-se as regiões selecionadas são células contínuas.</tra
         <source>Protect 
 Sheet</source>
         <comment>TX_SheetProtection</comment>
-        <translation>proteger
-Planilha</translation>
+        <translation>Proteger Planilha</translation>
     </message>
     <message>
         <source>Unprotect 
 Sheet</source>
         <comment>TX_SheetUnProtect</comment>
-        <translation>desproteger
+        <translation>Desproteger
 Planilha</translation>
     </message>
     <message>
         <source>Protect 
 Workbook</source>
         <comment>TX_BookProtection</comment>
-        <translation>proteger
-Pasta de Trabalho</translation>
+        <translation>Proteger Pasta de Trabalho</translation>
     </message>
     <message>
         <source>Unprotect 
 Workbook</source>
         <comment>TX_BookUnProtect</comment>
-        <translation>desproteger
+        <translation>Desproteger
 Pasta de Trabalho</translation>
     </message>
     <message>
@@ -8228,7 +8880,7 @@ Pasta de Trabalho</translation>
         <source>Unprotect 
 Sheet</source>
         <comment>TX_SheetUnProtectHint</comment>
-        <translation>desproteger
+        <translation>Desproteger
 Planilha</translation>
     </message>
     <message>
@@ -8475,7 +9127,7 @@ Continue ?</source>
     <message>
         <source>Only integer can be used for Text length conditions.</source>
         <comment>TX_DV_MustTextLength</comment>
-        <translation>Só inteiro pode ser usado para condições comprimento do texto .</translation>
+        <translation>Só inteiro pode ser usado para condições comprimento do texto.</translation>
     </message>
     <message>
         <source>You must enter a Text length.</source>
@@ -8556,7 +9208,7 @@ Continue ?</source>
     <message>
         <source>Al</source>
         <comment>TX_ParaInfo_001</comment>
-        <translation>al</translation>
+        <translation>Al</translation>
     </message>
     <message>
         <source>Abs_num</source>
@@ -8571,22 +9223,22 @@ Continue ?</source>
     <message>
         <source>Array</source>
         <comment>TX_ParaInfo_004</comment>
-        <translation>matriz</translation>
+        <translation>Matriz</translation>
     </message>
     <message>
         <source>Array1</source>
         <comment>TX_ParaInfo_005</comment>
-        <translation>array1</translation>
+        <translation>Array1</translation>
     </message>
     <message>
         <source>Array2</source>
         <comment>TX_ParaInfo_006</comment>
-        <translation>array2</translation>
+        <translation>Array2</translation>
     </message>
     <message>
         <source>Array</source>
         <comment>TX_ParaInfo_007</comment>
-        <translation>matriz</translation>
+        <translation>Matriz</translation>
     </message>
     <message>
         <source>Base</source>
@@ -8601,32 +9253,32 @@ Continue ?</source>
     <message>
         <source>Col_index_num</source>
         <comment>TX_ParaInfo_010</comment>
-        <translation>núm_índice_coluna</translation>
+        <translation>Núm_índice_coluna</translation>
     </message>
     <message>
         <source>Cols</source>
         <comment>TX_ParaInfo_011</comment>
-        <translation>colunas</translation>
+        <translation>Colunas</translation>
     </message>
     <message>
         <source>Column_num</source>
         <comment>TX_ParaInfo_012</comment>
-        <translation>column_num</translation>
+        <translation>Column_num</translation>
     </message>
     <message>
         <source>Const</source>
         <comment>TX_ParaInfo_013</comment>
-        <translation>const</translation>
+        <translation>Const</translation>
     </message>
     <message>
         <source>Criteria</source>
         <comment>TX_ParaInfo_014</comment>
-        <translation>critérios</translation>
+        <translation>Critérios</translation>
     </message>
     <message>
         <source>Date_text</source>
         <comment>TX_ParaInfo_015</comment>
-        <translation>texto_data</translation>
+        <translation>Texto_data</translation>
     </message>
     <message>
         <source>Day</source>
@@ -8636,7 +9288,7 @@ Continue ?</source>
     <message>
         <source>Dividend</source>
         <comment>TX_ParaInfo_017</comment>
-        <translation>dividendo</translation>
+        <translation>Dividendo</translation>
     </message>
     <message>
         <source>Divisor</source>
@@ -8646,12 +9298,12 @@ Continue ?</source>
     <message>
         <source>End_date</source>
         <comment>TX_ParaInfo_019</comment>
-        <translation>end_date</translation>
+        <translation>End_date</translation>
     </message>
     <message>
         <source>Error_val</source>
         <comment>TX_ParaInfo_020</comment>
-        <translation>val_erro</translation>
+        <translation>Val_erro</translation>
     </message>
     <message>
         <source>Find_text</source>
@@ -8661,7 +9313,7 @@ Continue ?</source>
     <message>
         <source>Format_text</source>
         <comment>TX_ParaInfo_022</comment>
-        <translation>format_text</translation>
+        <translation>Format_text</translation>
     </message>
     <message>
         <source>Function_num</source>
@@ -8686,7 +9338,7 @@ Continue ?</source>
     <message>
         <source>Index_num</source>
         <comment>TX_ParaInfo_027</comment>
-        <translation>núm_índice</translation>
+        <translation>Núm_índice</translation>
     </message>
     <message>
         <source>Instance_num</source>
@@ -8701,32 +9353,32 @@ Continue ?</source>
     <message>
         <source>Known_x&apos;s</source>
         <comment>TX_ParaInfo_030</comment>
-        <translation>x&apos;s_conhecidos</translation>
+        <translation>X&apos;s_conhecidos</translation>
     </message>
     <message>
         <source>Known_y&apos;s</source>
         <comment>TX_ParaInfo_031</comment>
-        <translation>val_conhecidos_y</translation>
+        <translation>Val_conhecidos_y</translation>
     </message>
     <message>
         <source>Logical</source>
         <comment>TX_ParaInfo_032</comment>
-        <translation>lógico</translation>
+        <translation>Lógico</translation>
     </message>
     <message>
         <source>Logical_test</source>
         <comment>TX_ParaInfo_033</comment>
-        <translation>teste_lógico</translation>
+        <translation>Teste_lógico</translation>
     </message>
     <message>
         <source>Logical</source>
         <comment>TX_ParaInfo_034</comment>
-        <translation>lógico</translation>
+        <translation>Lógico</translation>
     </message>
     <message>
         <source>Logical</source>
         <comment>TX_ParaInfo_035</comment>
-        <translation>lógico</translation>
+        <translation>Lógico</translation>
     </message>
     <message>
         <source>Lookup_array</source>
@@ -8736,17 +9388,17 @@ Continue ?</source>
     <message>
         <source>Lookup_value</source>
         <comment>TX_ParaInfo_037</comment>
-        <translation>valor_procurado</translation>
+        <translation>Valor_procurado</translation>
     </message>
     <message>
         <source>Lookup_vector</source>
         <comment>TX_ParaInfo_038</comment>
-        <translation>lookup_vector</translation>
+        <translation>Lookup_vector</translation>
     </message>
     <message>
         <source>Match_type</source>
         <comment>TX_ParaInfo_039</comment>
-        <translation>tipo_correspondência</translation>
+        <translation>Tipo_correspondência</translation>
     </message>
     <message>
         <source>Minute</source>
@@ -8756,22 +9408,22 @@ Continue ?</source>
     <message>
         <source>Month</source>
         <comment>TX_ParaInfo_041</comment>
-        <translation>mês</translation>
+        <translation>Mês</translation>
     </message>
     <message>
         <source>New_text</source>
         <comment>TX_ParaInfo_042</comment>
-        <translation>novo_texto</translation>
+        <translation>Novo_texto</translation>
     </message>
     <message>
         <source>Num_chars</source>
         <comment>TX_ParaInfo_043</comment>
-        <translation>núm_caract</translation>
+        <translation>Núm_caract</translation>
     </message>
     <message>
         <source>Num_digits</source>
         <comment>TX_ParaInfo_044</comment>
-        <translation>núm_dígitos</translation>
+        <translation>Núm_dígitos</translation>
     </message>
     <message>
         <source>Number</source>
@@ -8781,7 +9433,7 @@ Continue ?</source>
     <message>
         <source>Number_times</source>
         <comment>TX_ParaInfo_046</comment>
-        <translation>núm_vezes</translation>
+        <translation>Núm_vezes</translation>
     </message>
     <message>
         <source>Number</source>
@@ -8796,7 +9448,7 @@ Continue ?</source>
     <message>
         <source>Old_text</source>
         <comment>TX_ParaInfo_049</comment>
-        <translation>old_text</translation>
+        <translation>Old_text</translation>
     </message>
     <message>
         <source>Order</source>
@@ -8806,7 +9458,7 @@ Continue ?</source>
     <message>
         <source>Power</source>
         <comment>TX_ParaInfo_051</comment>
-        <translation>poder</translation>
+        <translation>Poder</translation>
     </message>
     <message>
         <source>Range</source>
@@ -8816,7 +9468,7 @@ Continue ?</source>
     <message>
         <source>Range_lookup</source>
         <comment>TX_ParaInfo_053</comment>
-        <translation>procurar_intervalo</translation>
+        <translation>Procurar_intervalo</translation>
     </message>
     <message>
         <source>Ref</source>
@@ -8851,17 +9503,17 @@ Continue ?</source>
     <message>
         <source>Return_type</source>
         <comment>TX_ParaInfo_060</comment>
-        <translation>return_type</translation>
+        <translation>Return_type</translation>
     </message>
     <message>
         <source>Row_num</source>
         <comment>TX_ParaInfo_061</comment>
-        <translation>núm_linha</translation>
+        <translation>Núm_linha</translation>
     </message>
     <message>
         <source>Row_num</source>
         <comment>TX_ParaInfo_062</comment>
-        <translation>núm_linha</translation>
+        <translation>Núm_linha</translation>
     </message>
     <message>
         <source>Rows</source>
@@ -8876,12 +9528,12 @@ Continue ?</source>
     <message>
         <source>Serial_number</source>
         <comment>TX_ParaInfo_065</comment>
-        <translation>núm_série</translation>
+        <translation>Núm_série</translation>
     </message>
     <message>
         <source>Serial_number</source>
         <comment>TX_ParaInfo_066</comment>
-        <translation>núm_série</translation>
+        <translation>Núm_série</translation>
     </message>
     <message>
         <source>Sheet_text</source>
@@ -8891,17 +9543,17 @@ Continue ?</source>
     <message>
         <source>Significance</source>
         <comment>TX_ParaInfo_068</comment>
-        <translation>significado</translation>
+        <translation>Significado</translation>
     </message>
     <message>
         <source>Start_date</source>
         <comment>TX_ParaInfo_069</comment>
-        <translation>start_date</translation>
+        <translation>Start_date</translation>
     </message>
     <message>
         <source>Start_num</source>
         <comment>TX_ParaInfo_070</comment>
-        <translation>núm_inicial</translation>
+        <translation>Núm_inicial</translation>
     </message>
     <message>
         <source>Stats</source>
@@ -8911,12 +9563,12 @@ Continue ?</source>
     <message>
         <source>Sum_range</source>
         <comment>TX_ParaInfo_072</comment>
-        <translation>sum_range</translation>
+        <translation>Sum_range</translation>
     </message>
     <message>
         <source>Table_array</source>
         <comment>TX_ParaInfo_073</comment>
-        <translation>matriz_tabela</translation>
+        <translation>Matriz_tabela</translation>
     </message>
     <message>
         <source>Text</source>
@@ -8946,32 +9598,32 @@ Continue ?</source>
     <message>
         <source>Value</source>
         <comment>TX_ParaInfo_079</comment>
-        <translation>valor</translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <source>Value_if_false</source>
         <comment>TX_ParaInfo_080</comment>
-        <translation>valor_se_falso</translation>
+        <translation>Valor_se_falso</translation>
     </message>
     <message>
         <source>Value_if_true</source>
         <comment>TX_ParaInfo_081</comment>
-        <translation>valor_se_verdadeiro</translation>
+        <translation>Valor_se_verdadeiro</translation>
     </message>
     <message>
         <source>Value</source>
         <comment>TX_ParaInfo_082</comment>
-        <translation>valor</translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <source>Value</source>
         <comment>TX_ParaInfo_083</comment>
-        <translation>valor</translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <source>Within_text</source>
         <comment>TX_ParaInfo_084</comment>
-        <translation>dentro_de_texto</translation>
+        <translation>Dentro_de_texto</translation>
     </message>
     <message>
         <source>X_num</source>
@@ -8986,7 +9638,7 @@ Continue ?</source>
     <message>
         <source>Year</source>
         <comment>TX_ParaInfo_087</comment>
-        <translation>ano</translation>
+        <translation>Ano</translation>
     </message>
     <message>
         <source>Width</source>
@@ -9001,7 +9653,7 @@ Continue ?</source>
     <message>
         <source>Cost</source>
         <comment>TX_ParaInfo_090</comment>
-        <translation>custo</translation>
+        <translation>Custo</translation>
     </message>
     <message>
         <source>Salvage</source>
@@ -9016,17 +9668,17 @@ Continue ?</source>
     <message>
         <source>Period</source>
         <comment>TX_ParaInfo_093</comment>
-        <translation>período</translation>
+        <translation>Período</translation>
     </message>
     <message>
         <source>Month</source>
         <comment>TX_ParaInfo_094</comment>
-        <translation>mês</translation>
+        <translation>Mês</translation>
     </message>
     <message>
         <source>Factor</source>
         <comment>TX_ParaInfo_095</comment>
-        <translation>fator</translation>
+        <translation>Fator</translation>
     </message>
     <message>
         <source>Pv</source>
@@ -9046,7 +9698,7 @@ Continue ?</source>
     <message>
         <source>Rate</source>
         <comment>TX_ParaInfo_099</comment>
-        <translation>taxa</translation>
+        <translation>Taxa</translation>
     </message>
     <message>
         <source>Nper</source>
@@ -9056,7 +9708,7 @@ Continue ?</source>
     <message>
         <source>Rate</source>
         <comment>TX_ParaInfo_101</comment>
-        <translation>taxa</translation>
+        <translation>Taxa</translation>
     </message>
     <message>
         <source>Type</source>
@@ -9066,12 +9718,12 @@ Continue ?</source>
     <message>
         <source>Per</source>
         <comment>TX_ParaInfo_103</comment>
-        <translation>para</translation>
+        <translation>Para</translation>
     </message>
     <message>
         <source>Values</source>
         <comment>TX_ParaInfo_104</comment>
-        <translation>valores</translation>
+        <translation>Valores</translation>
     </message>
     <message>
         <source>Finance_rate</source>
@@ -9081,7 +9733,7 @@ Continue ?</source>
     <message>
         <source>Reinvest_rate</source>
         <comment>TX_ParaInfo_106</comment>
-        <translation>taxa_reinvestimento</translation>
+        <translation>Taxa_reinvestimento</translation>
     </message>
     <message>
         <source>Guess</source>
@@ -9116,22 +9768,22 @@ Continue ?</source>
     <message>
         <source>Quartile</source>
         <comment>TX_ParaInfo_113</comment>
-        <translation>quartil</translation>
+        <translation>Quartil</translation>
     </message>
     <message>
         <source>Const</source>
         <comment>TX_ParaInfo_114</comment>
-        <translation>const</translation>
+        <translation>Const</translation>
     </message>
     <message>
         <source>New_x&apos;s</source>
         <comment>TX_ParaInfo_115</comment>
-        <translation>novos_valores_x</translation>
+        <translation>Novos_valores_x</translation>
     </message>
     <message>
         <source>Value</source>
         <comment>TX_ParaInfo_116</comment>
-        <translation>valor</translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <source>Arithmetic Average</source>
@@ -9151,7 +9803,7 @@ Continue ?</source>
     <message>
         <source>Distribution Probability</source>
         <comment>TX_ParaInfo_120</comment>
-        <translation>distribuição de probabilidade</translation>
+        <translation>Distribuição de probabilidade</translation>
     </message>
     <message>
         <source>Degrees of freedom</source>
@@ -9176,12 +9828,12 @@ Continue ?</source>
     <message>
         <source>Number_s</source>
         <comment>TX_ParaInfo_125</comment>
-        <translation>núm_s</translation>
+        <translation>Núm_s</translation>
     </message>
     <message>
         <source>Probability_s</source>
         <comment>TX_ParaInfo_126</comment>
-        <translation>probabilidade_s</translation>
+        <translation>Probabilidade_s</translation>
     </message>
     <message>
         <source>Sample_s</source>
@@ -9191,17 +9843,17 @@ Continue ?</source>
     <message>
         <source>Number_sample</source>
         <comment>TX_ParaInfo_128</comment>
-        <translation>number_sample</translation>
+        <translation>Number_sample</translation>
     </message>
     <message>
         <source>Population_s</source>
         <comment>TX_ParaInfo_129</comment>
-        <translation>população_s</translation>
+        <translation>População_s</translation>
     </message>
     <message>
         <source>Number_population</source>
         <comment>TX_ParaInfo_130</comment>
-        <translation>núm_população</translation>
+        <translation>Núm_população</translation>
     </message>
     <message>
         <source>Alpha</source>
@@ -9211,7 +9863,7 @@ Continue ?</source>
     <message>
         <source>Standard_dev</source>
         <comment>TX_ParaInfo_132</comment>
-        <translation>desv_padrão</translation>
+        <translation>Desv_padrão</translation>
     </message>
     <message>
         <source>X</source>
@@ -9251,17 +9903,17 @@ Continue ?</source>
     <message>
         <source>Number_chosen</source>
         <comment>TX_ParaInfo_140</comment>
-        <translation>número_seleccionado</translation>
+        <translation>Número_seleccionado</translation>
     </message>
     <message>
         <source>Data_array</source>
         <comment>TX_ParaInfo_141</comment>
-        <translation>matriz_dados</translation>
+        <translation>Matriz_dados</translation>
     </message>
     <message>
         <source>Bins_array</source>
         <comment>TX_ParaInfo_142</comment>
-        <translation>matriz_bin</translation>
+        <translation>Matriz_bin</translation>
     </message>
     <message>
         <source>X</source>
@@ -9281,7 +9933,7 @@ Continue ?</source>
     <message>
         <source>Coefficients</source>
         <comment>TX_ParaInfo_146</comment>
-        <translation>coeficientes</translation>
+        <translation>Coeficientes</translation>
     </message>
     <message>
         <source>Type</source>
@@ -9291,7 +9943,7 @@ Continue ?</source>
     <message>
         <source>Value X</source>
         <comment>TX_ParaInfo_148</comment>
-        <translation>valor X</translation>
+        <translation>Valor X</translation>
     </message>
     <message>
         <source>Lower bound of the X range</source>
@@ -9311,17 +9963,17 @@ Continue ?</source>
     <message>
         <source>Degrees_freedom 1</source>
         <comment>TX_ParaInfo_152</comment>
-        <translation>graus_liberdade 1</translation>
+        <translation>Graus_liberdade 1</translation>
     </message>
     <message>
         <source>Degrees_freedom 2</source>
         <comment>TX_ParaInfo_153</comment>
-        <translation>graus_liberdade 2</translation>
+        <translation>Graus_liberdade 2</translation>
     </message>
     <message>
         <source>Number_s</source>
         <comment>TX_ParaInfo_154</comment>
-        <translation>núm_s</translation>
+        <translation>Núm_s</translation>
     </message>
     <message>
         <source>Trials</source>
@@ -9336,7 +9988,7 @@ Continue ?</source>
     <message>
         <source>X_range</source>
         <comment>TX_ParaInfo_157</comment>
-        <translation>x_range</translation>
+        <translation>X_range</translation>
     </message>
     <message>
         <source>Prob_range</source>
@@ -9346,7 +9998,7 @@ Continue ?</source>
     <message>
         <source>Lambda</source>
         <comment>TX_ParaInfo_159</comment>
-        <translation>lambda</translation>
+        <translation>Lambda</translation>
     </message>
     <message>
         <source>N</source>
@@ -9401,7 +10053,7 @@ Continue ?</source>
     <message>
         <source>Inumber</source>
         <comment>TX_ParaInfo_170</comment>
-        <translation>inúmero</translation>
+        <translation>Inúmero</translation>
     </message>
     <message>
         <source>From_unit</source>
@@ -9441,7 +10093,7 @@ Continue ?</source>
     <message>
         <source>Method</source>
         <comment>TX_ParaInfo_178</comment>
-        <translation>método</translation>
+        <translation>Método</translation>
     </message>
     <message>
         <source>Number of months</source>
@@ -9456,12 +10108,12 @@ Continue ?</source>
     <message>
         <source>Database range</source>
         <comment>TX_ParaInfo_181</comment>
-        <translation>intervalo de banco de dados</translation>
+        <translation>Intervalo de banco de dados</translation>
     </message>
     <message>
         <source>Operation field</source>
         <comment>TX_ParaInfo_182</comment>
-        <translation>campo Operação</translation>
+        <translation>Campo Operação</translation>
     </message>
     <message>
         <source>Date of issue</source>
@@ -9471,22 +10123,22 @@ Continue ?</source>
     <message>
         <source>Maturity date</source>
         <comment>TX_ParaInfo_184</comment>
-        <translation>data de vencimento</translation>
+        <translation>Data de vencimento</translation>
     </message>
     <message>
         <source>Face value</source>
         <comment>TX_ParaInfo_185</comment>
-        <translation>valor de face</translation>
+        <translation>Valor de face</translation>
     </message>
     <message>
         <source>decimal number</source>
         <comment>TX_ParaInfo_186</comment>
-        <translation>número decimal</translation>
+        <translation>Número decimal</translation>
     </message>
     <message>
         <source>binary number</source>
         <comment>TX_ParaInfo_187</comment>
-        <translation>número binário</translation>
+        <translation>Número binário</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -9496,47 +10148,47 @@ Continue ?</source>
     <message>
         <source>Up to one digit (%s)</source>
         <comment>TX_FRACTION_STYLE_01</comment>
-        <translation>Até um dígito (%s)</translation>
+        <translation type="obsolete">Até um dígito (%s)</translation>
     </message>
     <message>
         <source>Up to two digits (%s)</source>
         <comment>TX_FRACTION_STYLE_02</comment>
-        <translation>Até dois dígitos (%s)</translation>
+        <translation type="obsolete">Até dois dígitos (%s)</translation>
     </message>
     <message>
         <source>Up to three digits (%s)</source>
         <comment>TX_FRACTION_STYLE_03</comment>
-        <translation>Até três dígitos (%s)</translation>
+        <translation type="obsolete">Até três dígitos (%s)</translation>
     </message>
     <message>
         <source>As halves (%s)</source>
         <comment>TX_FRACTION_STYLE_04</comment>
-        <translation>Como as metades (%s)</translation>
+        <translation type="obsolete">Como as metades (%s)</translation>
     </message>
     <message>
         <source>As quarters (%s)</source>
         <comment>TX_FRACTION_STYLE_05</comment>
-        <translation>As quarters (%s)</translation>
+        <translation type="obsolete">As quarters (%s)</translation>
     </message>
     <message>
         <source>As eighths (%s)</source>
         <comment>TX_FRACTION_STYLE_06</comment>
-        <translation>Como oitavos (%s)</translation>
+        <translation type="obsolete">Como oitavos (%s)</translation>
     </message>
     <message>
         <source>As sixteenths (%s)</source>
         <comment>TX_FRACTION_STYLE_07</comment>
-        <translation>Como semicolcheias (%s)</translation>
+        <translation type="obsolete">Como semicolcheias (%s)</translation>
     </message>
     <message>
         <source>As tenths (%s)</source>
         <comment>TX_FRACTION_STYLE_08</comment>
-        <translation>Como décimos (%s)</translation>
+        <translation type="obsolete">Como décimos (%s)</translation>
     </message>
     <message>
         <source>As hundredths (%s)</source>
         <comment>TX_FRACTION_STYLE_09</comment>
-        <translation>Como centésimos (%s)</translation>
+        <translation type="obsolete">Como centésimos (%s)</translation>
     </message>
     <message>
         <source>Zip code</source>
@@ -9661,7 +10313,7 @@ Continue ?</source>
     <message>
         <source>Text box </source>
         <comment>TX_CHECKSPELLING_FROMTEXTBOX</comment>
-        <translation>caixa de texto</translation>
+        <translation>Caixa de texto</translation>
     </message>
     <message>
         <source>Left section </source>
@@ -9671,12 +10323,12 @@ Continue ?</source>
     <message>
         <source>Center section </source>
         <comment>TX_CHECKSPELLING_FROMCENTERHEADER</comment>
-        <translation>secção Centro</translation>
+        <translation>Secção Centro</translation>
     </message>
     <message>
         <source>Right section </source>
         <comment>TX_CHECKSPELLING_FROMRIGHTHEADER</comment>
-        <translation>seção de direito</translation>
+        <translation>Seção de direito</translation>
     </message>
     <message>
         <source>Left section </source>
@@ -9686,12 +10338,12 @@ Continue ?</source>
     <message>
         <source>Center section </source>
         <comment>TX_CHECKSPELLING_FROMCENTERFOOTER</comment>
-        <translation>secção Centro</translation>
+        <translation>Secção Centro</translation>
     </message>
     <message>
         <source>Right section </source>
         <comment>TX_CHECKSPELLING_FROMRIGHTFOOTER</comment>
-        <translation>seção de direito</translation>
+        <translation>Seção de direito</translation>
     </message>
     <message>
         <source>The comment of </source>
@@ -9701,7 +10353,7 @@ Continue ?</source>
     <message>
         <source>Chart </source>
         <comment>TX_CHECKSPELLING_FROMCHART</comment>
-        <translation>gráfico</translation>
+        <translation>Gráfico</translation>
     </message>
     <message>
         <source>This function is provided in WPS Office 2009 Professional Edition.</source>
@@ -9742,18 +10394,17 @@ Continue ?</source>
         <source>Import 
 Data</source>
         <comment>TXShell_ImportData_Caption</comment>
-        <translation>importação
-dados</translation>
+        <translation>Importação Dados</translation>
     </message>
     <message>
         <source>Validation</source>
         <comment>TXShell_Validation_Caption</comment>
-        <translation>validação</translation>
+        <translation>Validação</translation>
     </message>
     <message>
         <source>Assign Macro</source>
         <comment>TXShell_AssignMacro_Caption</comment>
-        <translation>atribuir Macro</translation>
+        <translation>Atribuir Macro</translation>
     </message>
     <message>
         <source>Spell 
@@ -9860,7 +10511,7 @@ Check</source>
     <message>
         <source>Hyperlink position</source>
         <comment>TX_ParaInfo_190</comment>
-        <translation>posição hyperlink</translation>
+        <translation>Posição hyperlink</translation>
     </message>
     <message>
         <source>Display text</source>
@@ -9885,12 +10536,12 @@ Check</source>
     <message>
         <source>Unprotect Sharing</source>
         <comment>TX_ShareWorkbook_DlgUnprotectSharingTitle</comment>
-        <translation>desproteger Sharing</translation>
+        <translation>Desproteger Sharing</translation>
     </message>
     <message>
         <source>Value Date</source>
         <comment>TX_ParaInfo_192</comment>
-        <translation>valor Data</translation>
+        <translation>Valor Data</translation>
     </message>
     <message>
         <source>Transaction Date</source>
@@ -9945,7 +10596,7 @@ Check</source>
     <message>
         <source>Draw Grid</source>
         <comment>TX_DrawBorderGrid</comment>
-        <translation>desenhar Grade</translation>
+        <translation>Desenhar Grade</translation>
     </message>
     <message>
         <source>Draw Border</source>
@@ -10010,7 +10661,7 @@ Check</source>
     <message>
         <source>is the text you want to convert to single-byte, or reference to text cell.</source>
         <comment>TX_ParaDesc_011</comment>
-        <translation>é o texto que você deseja converter para single-byte , ou referência a célula de texto .</translation>
+        <translation>é o texto que você deseja converter para single-byte, ou referência a célula de texto.</translation>
     </message>
     <message>
         <source>is the sine of the angle you want and must be from -1 to 1.</source>
@@ -10045,17 +10696,17 @@ Check</source>
     <message>
         <source>number1,number2,...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
         <comment>TX_ParaDesc_018</comment>
-        <translation type="unfinished">número1, número2, ... são 1 a 30 argumentos para os quais você deseja que a média dos desvios absolutos.</translation>
+        <translation type="obsolete">número1, número2, ... são 1 a 30 argumentos para os quais você deseja que a média dos desvios absolutos.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numeric arguments for which you want the average.</source>
         <comment>TX_ParaDesc_019</comment>
-        <translation type="unfinished">número1, número2 , ... são 1 a 30 argumentos numéricos para os quais você deseja que a média.</translation>
+        <translation type="obsolete">número1, número2 , ... são 1 a 30 argumentos numéricos para os quais você deseja que a média.</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 arguments for which you want the average.</source>
         <comment>TX_ParaDesc_020</comment>
-        <translation type="unfinished">valor1, valor2 , ... são 1 a 30 argumentos para os quais você deseja que a média.</translation>
+        <translation type="obsolete">valor1, valor2 , ... são 1 a 30 argumentos para os quais você deseja que a média.</translation>
     </message>
     <message>
         <source>the numbers you want to convert.</source>
@@ -10175,7 +10826,7 @@ Check</source>
     <message>
         <source>value 1, value 2,... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
         <comment>TX_ParaDesc_044</comment>
-        <translation type="unfinished">valor 1 , valor 2, ... são 1 a 29 números, referências de células, nomes definidos , fórmulas , funções ou argumentos de texto a partir do qual escolher seleccione .</translation>
+        <translation type="obsolete">valor 1 , valor 2, ... são 1 a 29 números, referências de células, nomes definidos , fórmulas , funções ou argumentos de texto a partir do qual escolher seleccione .</translation>
     </message>
     <message>
         <source>is any worksheet information from which you want to remove nonprintable characters.</source>
@@ -10210,7 +10861,7 @@ Check</source>
     <message>
         <source>text1, text2,... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
         <comment>TX_ParaDesc_051</comment>
-        <translation type="unfinished">text1 , text2 , ... são 1 a 30 seqüências de texto a serem unidas em uma única seqüência de texto e podem ser cadeias de texto , números ou referências de célula única .</translation>
+        <translation type="obsolete">text1 , text2 , ... são 1 a 30 seqüências de texto a serem unidas em uma única seqüência de texto e podem ser cadeias de texto , números ou referências de célula única .</translation>
     </message>
     <message>
         <source>is the significance level used to compute the confidence level, a number greater than 0 and less than 10.</source>
@@ -10250,7 +10901,7 @@ Check</source>
     <message>
         <source>value1,value2,... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
         <comment>TX_ParaDesc_059</comment>
-        <translation type="unfinished">valor1, valor2 , ... são 1 a 30 argumentos que podem conter ou se referir a uma variedade de diferentes tipos de dados , mas somente os números são contados.</translation>
+        <translation>valor1,valor2,... são de 1 a 30 argumentos que podem conter ou referir-se a diversos tipos de dados, mas somente os números são contados.</translation>
     </message>
     <message>
         <source>value1, value2,... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
@@ -10425,7 +11076,7 @@ Check</source>
     <message>
         <source>number1, number2,... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
         <comment>TX_ParaDesc_094</comment>
-        <translation type="unfinished">número1, número2, ... são 1 a 30 argumentos , ou um array ou uma matriz de referência, no qual você deseja DEVSQ de calcular.</translation>
+        <translation type="obsolete">número1, número2, ... são 1 a 30 argumentos , ou um array ou uma matriz de referência, no qual você deseja DEVSQ de calcular.</translation>
     </message>
     <message>
         <source>is the range of cells that makes up the list or database. A database is a list of related data.</source>
@@ -10720,7 +11371,7 @@ Check</source>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
         <comment>TX_ParaDesc_153</comment>
-        <translation type="unfinished">número1, número2 , ... são 1 a 30 números ou nomes , matrizes ou referências que contenham números para os quais você deseja que a média .</translation>
+        <translation type="obsolete">número1, número2 , ... são 1 a 30 números ou nomes , matrizes ou referências que contenham números para os quais você deseja que a média .</translation>
     </message>
     <message>
         <source>is the set of y-values you already know in the relationship y=b*m^x, an array or range of positive numbers.</source>
@@ -10755,12 +11406,12 @@ Check</source>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
         <comment>TX_ParaDesc_160</comment>
-        <translation type="unfinished">número1, número2 , ... são 1 a 30 números ou nome , matrizes ou referências que contenham números para os quais você deseja que a média harmônica .</translation>
+        <translation type="obsolete">número1, número2 , ... são 1 a 30 números ou nome , matrizes ou referências que contenham números para os quais você deseja que a média harmônica .</translation>
     </message>
     <message>
         <source>is the value to be found in the first row of the table and can be a value, a reference, or a text string.</source>
         <comment>TX_ParaDesc_161</comment>
-        <translation>é o valor a ser encontrado na primeira linha da tabela e pode ser um valor , de referência , ou uma cadeia de texto .</translation>
+        <translation>é o valor a ser encontrado na primeira linha da tabela e pode ser um valor, de referência, ou uma cadeia de texto.</translation>
     </message>
     <message>
         <source>is the table of text, numbers, or logical values, in which data is looked up. Table_array can be a reference to range or a range name.</source>
@@ -10780,7 +11431,7 @@ Check</source>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets, or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
         <comment>TX_ParaDesc_165</comment>
-        <translation>é um número no código de data-hora usado pelo WPS planilhas ou texto em formato de tempo, como 16:48:00 ou 04:48:00 .</translation>
+        <translation>é um número no código de data-hora usado pelo WPS Spreadsheets ou texto em formato de tempo, como 16:48:00 ou 04:48:00 .</translation>
     </message>
     <message>
         <source>is the text giving the path and file name to the document to be opened, a hard drive location, UNC address, or URL path.</source>
@@ -10860,12 +11511,12 @@ Check</source>
     <message>
         <source>selects a range in Reference from which to return a value. The first area selected or entered is area 1, the second area is area 2, and so on.</source>
         <comment>TX_ParaDesc_181</comment>
-        <translation>seleciona um intervalo de referência a partir da qual para retornar um valor . A primeira área seleccionada é inserido ou área 1 , a segunda área é a área de 2 , e assim por diante .</translation>
+        <translation>seleciona um intervalo de referência a partir da qual para retornar um valor. A primeira área seleccionada é inserido ou área 1, a segunda área é a área de 2, e assim por diante.</translation>
     </message>
     <message>
         <source>is a reference to a cell that contains an A1 or R1C1 style reference, a name defined as a reference, or a reference to a cell as a text string.</source>
         <comment>TX_ParaDesc_182</comment>
-        <translation>é uma referência a uma célula que contém uma referência A1 ou estilo L1C1 , um nome definido como uma referência , ou uma referência a uma célula como uma cadeia de texto .</translation>
+        <translation>é uma referência a uma célula que contém uma referência A1 ou estilo L1C1, um nome definido como uma referência, ou uma referência a uma célula como uma cadeia de texto.</translation>
     </message>
     <message>
         <source>is a logical value that specifies the type of reference in Ref_text: R1C1-style = FALSE; A1-style = TRUE or omitted.</source>
@@ -10970,7 +11621,7 @@ Check</source>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
         <comment>TX_ParaDesc_203</comment>
-        <translation type="unfinished">número1, número2 , ... são 1 a 30 números ou nomes , matrizes ou referências que contenham números para os quais você deseja que o achatamento .</translation>
+        <translation type="obsolete">número1, número2 , ... são 1 a 30 números ou nomes , matrizes ou referências que contenham números para os quais você deseja que o achatamento .</translation>
     </message>
     <message>
         <source>is the array or range of data for which you want to determine the k-th largest value.</source>
@@ -11125,12 +11776,12 @@ Check</source>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_234</comment>
-        <translation type="unfinished">número1, número2 , ... são 1 a 30 números, células vazias , valores lógicos ou números de texto para o qual deseja o máximo.</translation>
+        <translation type="obsolete">número1, número2 , ... são 1 a 30 números, células vazias , valores lógicos ou números de texto para o qual deseja o máximo.</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_235</comment>
-        <translation type="unfinished">valor1, valor2 , ... são 1 a 30 números, células vazias , valores lógicos ou números de texto para o qual deseja o máximo.</translation>
+        <translation type="obsolete">valor1, valor2 , ... são 1 a 30 números, células vazias , valores lógicos ou números de texto para o qual deseja o máximo.</translation>
     </message>
     <message>
         <source>is a numeric array with an equal number of rows and columns, either a cell range or an array constant.</source>
@@ -11140,7 +11791,7 @@ Check</source>
     <message>
         <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
         <comment>TX_ParaDesc_237</comment>
-        <translation type="unfinished">número1, número2 , ... são 1 a 30 números ou nomes , matrizes ou referências que contenham números para os quais você deseja que o mediano.</translation>
+        <translation type="obsolete">número1, número2 , ... são 1 a 30 números ou nomes , matrizes ou referências que contenham números para os quais você deseja que o mediano.</translation>
     </message>
     <message>
         <source>is the text string from which you want to extract the characters.</source>
@@ -11155,7 +11806,7 @@ Check</source>
     <message>
         <source>specifies how many characters to return from Text.</source>
         <comment>TX_ParaDesc_240</comment>
-        <translation>especifica quantos caracteres para retornar do texto .</translation>
+        <translation>especifica quantos caracteres para retornar do texto.</translation>
     </message>
     <message>
         <source>is the text from which you want to exact part of character strings.</source>
@@ -11175,17 +11826,17 @@ Check</source>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_244</comment>
-        <translation type="unfinished">número1, número2 , ... são 1 a 30 números, células vazias , valores lógicos ou números de texto para o qual você deseja que o mínimo.</translation>
+        <translation type="obsolete">número1, número2 , ... são 1 a 30 números, células vazias , valores lógicos ou números de texto para o qual você deseja que o mínimo.</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_245</comment>
-        <translation type="unfinished">valor1, valor2 , ... são 1 a 30 números, células vazias , valores lógicos ou números de texto para o qual você deseja que o mínimo.</translation>
+        <translation type="obsolete">valor1, valor2 , ... são 1 a 30 números, células vazias , valores lógicos ou números de texto para o qual você deseja que o mínimo.</translation>
     </message>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
         <comment>TX_ParaDesc_246</comment>
-        <translation>é um número no código de data-hora usado pelo WPS planilhas ou texto em formato de tempo, como 16:48:00 ou 04:48:00 .</translation>
+        <translation>é um número no código de data-hora usado pelo WPS Spreadsheets ou texto em formato de tempo, como 16:48:00 ou 04:48:00 .</translation>
     </message>
     <message>
         <source>is an array or a reference to cells that contain numbers that represent a series of payments (negative) and income (positive) at a regular periods.</source>
@@ -11225,7 +11876,7 @@ Check</source>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
         <comment>TX_ParaDesc_254</comment>
-        <translation type="unfinished">número1, número2 , ... são 1 a 30 números ou nomes , matrizes ou referências que contenham números para os quais você deseja que o modo.</translation>
+        <translation type="obsolete">número1, número2 , ... são 1 a 30 números ou nomes , matrizes ou referências que contenham números para os quais você deseja que o modo.</translation>
     </message>
     <message>
         <source>is number in the date-time code used by WPS Spreadsheets.</source>
@@ -11490,7 +12141,7 @@ Check</source>
     <message>
         <source>number 1, number 2,...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
         <comment>TX_ParaDesc_307</comment>
-        <translation type="unfinished">número 1, número 2, ... são 1 a 30 números, valores lógicos ou representações de números em texto que você deseja multiplicar.</translation>
+        <translation type="obsolete">número 1, número 2, ... são 1 a 30 números, valores lógicos ou representações de números em texto que você deseja multiplicar.</translation>
     </message>
     <message>
         <source>is text enclosed in quotation marks, a formula that returns text, or a reference to a cell containing text to partially capitalize.</source>
@@ -11570,7 +12221,7 @@ Check</source>
     <message>
         <source>is the position of the character in Old_text that you want to replace with New_text.</source>
         <comment>TX_ParaDesc_323</comment>
-        <translation>é a posição do personagem em old_text que você deseja substituir por novo_texto .</translation>
+        <translation>é a posição do personagem em old_text que você deseja substituir por novo_texto.</translation>
     </message>
     <message>
         <source>is the number of the characters in Old_text that you want to replace.</source>
@@ -11580,57 +12231,57 @@ Check</source>
     <message>
         <source>is the text that will replace characters in Old_text.</source>
         <comment>TX_ParaDesc_325</comment>
-        <translation>é o texto que irá substituir caracteres em old_text .</translation>
+        <translation>é o texto que irá substituir caracteres em old_text.</translation>
     </message>
     <message>
         <source>is the text in which you want to replace.</source>
         <comment>TX_ParaDesc_326</comment>
-        <translation>é o texto no qual deseja substituir .</translation>
+        <translation>é o texto no qual deseja substituir.</translation>
     </message>
     <message>
         <source>is the position of the character in Old_text that you want to replace with New_text.</source>
         <comment>TX_ParaDesc_327</comment>
-        <translation>é a posição do personagem em old_text que você deseja substituir por novo_texto .</translation>
+        <translation>é a posição do personagem em old_text que você deseja substituir por novo_texto.</translation>
     </message>
     <message>
         <source>is the number of the characters in Old_text that you want to replace with New_text.</source>
         <comment>TX_ParaDesc_328</comment>
-        <translation>é o número de caracteres em old_text que deseja substituir com novo_texto .</translation>
+        <translation>é o número de caracteres em old_text que deseja substituir com novo_texto.</translation>
     </message>
     <message>
         <source>is the text in which you want to replace.</source>
         <comment>TX_ParaDesc_329</comment>
-        <translation>é o texto no qual deseja substituir .</translation>
+        <translation>é o texto no qual deseja substituir.</translation>
     </message>
     <message>
         <source>is the text you want to repeat.</source>
         <comment>TX_ParaDesc_330</comment>
-        <translation>é o texto que deseja repetir .</translation>
+        <translation>é o texto que deseja repetir.</translation>
     </message>
     <message>
         <source>is a positive number specifying the number of times to repeat text.</source>
         <comment>TX_ParaDesc_331</comment>
-        <translation>é um número positivo que especifica o número de vezes para repetir texto .</translation>
+        <translation>é um número positivo que especifica o número de vezes para repetir texto.</translation>
     </message>
     <message>
         <source>is the text string containing the characters you want to extract.</source>
         <comment>TX_ParaDesc_332</comment>
-        <translation>é a seqüência de texto que contém os caracteres que você deseja extrair .</translation>
+        <translation>é a seqüência de texto que contém os caracteres que você deseja extrair.</translation>
     </message>
     <message>
         <source>specifies how many characters you want to extract, 1 if omitted.</source>
         <comment>TX_ParaDesc_333</comment>
-        <translation>especifica o número de caracteres que você deseja extrair , 1 se omitido .</translation>
+        <translation>especifica o número de caracteres que você deseja extrair, 1 se omitido.</translation>
     </message>
     <message>
         <source>is the text containing part characters you want to extract.</source>
         <comment>TX_ParaDesc_334</comment>
-        <translation>é o texto que contém caracteres parte que deseja extrair .</translation>
+        <translation>é o texto que contém caracteres parte que deseja extrair.</translation>
     </message>
     <message>
         <source>specifies how many characters you want to extract.</source>
         <comment>TX_ParaDesc_335</comment>
-        <translation>especifica o número de caracteres que você deseja extrair .</translation>
+        <translation>especifica o número de caracteres que você deseja extrair.</translation>
     </message>
     <message>
         <source>is an array, a reference to a cell with numbers, a formula which can import numbers.</source>
@@ -11640,12 +12291,12 @@ Check</source>
     <message>
         <source>is a number, a reference to a cell containing a number, or a formula that evalueates to a number, 2 if omitted.</source>
         <comment>TX_ParaDesc_337</comment>
-        <translation type="obsolete">é um número , uma referência a uma célula que contém um número , ou uma fórmula que evalueates para um número , 2 , se omitido .</translation>
+        <translation type="obsolete">é um número , uma referência a uma célula que contém um número , ou uma fórmula que evalueates para um número , 2 , se omitido.</translation>
     </message>
     <message>
         <source>is the Arabic numeral you want to convert.</source>
         <comment>TX_ParaDesc_338</comment>
-        <translation>é o numeral árabe que deseja converter .</translation>
+        <translation>é o numeral árabe que deseja converter.</translation>
     </message>
     <message>
         <source>is a number specifying the type of Roman numeral you want.</source>
@@ -11655,7 +12306,7 @@ Check</source>
     <message>
         <source>is the number you want to round.</source>
         <comment>TX_ParaDesc_340</comment>
-        <translation>é o número que você deseja arredondar .</translation>
+        <translation>é o número que você deseja arredondar.</translation>
     </message>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero to the nearst integer.</source>
@@ -11710,7 +12361,7 @@ Check</source>
     <message>
         <source>topic1,topic2,...are 1 to 28 parameters that specify a piece of data.</source>
         <comment>TX_ParaDesc_351</comment>
-        <translation type="unfinished">Topic1 , Topic2 , ... são 1 a 28 parâmetros que especificam um conjunto de dados .</translation>
+        <translation type="obsolete">Topic1 , Topic2 , ... são 1 a 28 parâmetros que especificam um conjunto de dados .</translation>
     </message>
     <message>
         <source>is the text you want to find. You can use the ? and * wildcard characters; use ~? and ~* to find the ? and * characters.</source>
@@ -11745,17 +12396,17 @@ Check</source>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:23 or 4:48:47 PM.</source>
         <comment>TX_ParaDesc_358</comment>
-        <translation>é um número no código de data-hora usado pelo WPS planilhas ou texto em formato de tempo, como 16:48:23 ou 04:48:47 .</translation>
+        <translation>é um número no código de data-hora usado pelo WPS Spreadsheets ou texto em formato de tempo, como 16:48:23 ou 04:48:47 .</translation>
     </message>
     <message>
         <source>is the angle in radians for which you want the sine. Degress *PI()/180 = radians.</source>
         <comment>TX_ParaDesc_359</comment>
-        <translation>é o ângulo em radianos para o qual você deseja que o sine . Degress * PI () /180 = radianos.</translation>
+        <translation type="obsolete">é o ângulo em radianos para o qual você deseja que o sine . Degress * PI () /180 = radianos.</translation>
     </message>
     <message>
         <source>number 1,number 2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
         <comment>TX_ParaDesc_360</comment>
-        <translation type="unfinished">número 1, número 2, ... são 1 a 30 números ou nomes , matrizes ou referências que contenham números para os quais você deseja que a assimetria .</translation>
+        <translation type="obsolete">número 1, número 2, ... são 1 a 30 números ou nomes , matrizes ou referências que contenham números para os quais você deseja que a assimetria .</translation>
     </message>
     <message>
         <source>is a logical value: payment at the beginning of the period =1; payment at the end of the period =0 or omitted.</source>
@@ -11815,22 +12466,22 @@ Check</source>
     <message>
         <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_372</comment>
-        <translation type="unfinished">número1, número2 , ... são 1 a 30 números correspondentes a uma amostra de uma população e podem ser números ou referências que contenham números.</translation>
+        <translation type="obsolete">número1, número2 , ... são 1 a 30 números correspondentes a uma amostra de uma população e podem ser números ou referências que contenham números.</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
         <comment>TX_ParaDesc_373</comment>
-        <translation type="unfinished">valor1, valor2 , ... são 1 a 30 valores correspondentes a uma amostra de uma população e podem ser valores ou nomes ou referências a valores.</translation>
+        <translation type="obsolete">valor1, valor2 , ... são 1 a 30 valores correspondentes a uma amostra de uma população e podem ser valores ou nomes ou referências a valores.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_374</comment>
-        <translation type="unfinished">número1, número2 , ... são 1 a 30 números correspondentes a uma população e podem ser números ou referências que contenham números.</translation>
+        <translation type="obsolete">número1, número2 , ... são 1 a 30 números correspondentes a uma população e podem ser números ou referências que contenham números.</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
         <comment>TX_ParaDesc_375</comment>
-        <translation type="unfinished">valor1, valor2 , ... são 1 a 30 valores correspondentes a uma população e podem ser valores , nomes , matrizes ou referências que contenham valores.</translation>
+        <translation type="obsolete">valor1, valor2 , ... são 1 a 30 valores correspondentes a uma população e podem ser valores , nomes , matrizes ou referências que contenham valores.</translation>
     </message>
     <message>
         <source>is the text or the reference to a cell containing text in which you want to substitute characters.</source>
@@ -11840,17 +12491,17 @@ Check</source>
     <message>
         <source>is the existing text you want to replace. If the case of Old_text does not match the case of text, SUBSTITUTE not replace the text.</source>
         <comment>TX_ParaDesc_377</comment>
-        <translation>é o texto existente que você deseja substituir. Se o caso de old_text não corresponde ao caso de texto, substituto não substituir o texto .</translation>
+        <translation>é o texto existente que você deseja substituir. Se o caso de old_text não corresponde ao caso de texto, substituto não substituir o texto.</translation>
     </message>
     <message>
         <source>is the text you want to replace Old_text.</source>
         <comment>TX_ParaDesc_378</comment>
-        <translation>é o texto que deseja substituir old_text .</translation>
+        <translation>é o texto que deseja substituir old_text.</translation>
     </message>
     <message>
         <source>specifies which occurrence of Old_text you want to replace. If omitted, every instance of Old_text is replaced.</source>
         <comment>TX_ParaDesc_379</comment>
-        <translation>especifica que ocorrência de old_text você deseja substituir. Se omitido, todos os casos de old_text é substituído .</translation>
+        <translation>especifica que ocorrência de old_text você deseja substituir. Se omitido, todos os casos de old_text é substituído.</translation>
     </message>
     <message>
         <source>is the number 1 to 11 that specifies the summary function for the subtotal.</source>
@@ -11860,7 +12511,7 @@ Check</source>
     <message>
         <source>ref 1, ref 2,...are 1 to 29 ranges or references for which you want the subtotal.</source>
         <comment>TX_ParaDesc_381</comment>
-        <translation type="unfinished">ref 1 , ref 2, ... são 1 a 29 intervalos ou referências para o qual você deseja que o subtotal.</translation>
+        <translation type="obsolete">ref 1 , ref 2, ... são 1 a 29 intervalos ou referências para o qual você deseja que o subtotal.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
@@ -11890,7 +12541,7 @@ Check</source>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
         <comment>TX_ParaDesc_387</comment>
-        <translation type="unfinished">número1, número2, ... são 1 a 30 números , matrizes , nomes ou referências a vetores para o qual você deseja que a soma dos quadrados .</translation>
+        <translation type="obsolete">número1, número2, ... são 1 a 30 números , matrizes , nomes ou referências a vetores para o qual você deseja que a soma dos quadrados .</translation>
     </message>
     <message>
         <source>is the first range or array of numbers and be a number or name, array, or reference that contains numbers.</source>
@@ -11930,7 +12581,7 @@ Check</source>
     <message>
         <source>is the angle in radians for which you want the sine. Degress *PI()/180 = radians.</source>
         <comment>TX_ParaDesc_395</comment>
-        <translation>é o ângulo em radianos para o qual você deseja que o sine . Degress * PI () /180 = radianos.</translation>
+        <translation type="obsolete">é o ângulo em radianos para o qual você deseja que o sine . Degress * PI () /180 = radianos.</translation>
     </message>
     <message>
         <source>is the numeric value at which to evaluate the distribution.</source>
@@ -11975,7 +12626,7 @@ Check</source>
     <message>
         <source>is a text string that gives a time in any one of the WPS Spreadsheets time formats (date information in the string is ignored).</source>
         <comment>TX_ParaDesc_404</comment>
-        <translation>é uma cadeia de texto que dá um tempo em qualquer um dos formatos de hora WPS Planilhas ( informações atualizadas na seqüência é ignorado) .</translation>
+        <translation>é uma cadeia de texto que dá um tempo em qualquer um dos formatos de hora WPS Spreadsheets ( informações atualizadas na seqüência é ignorado) .</translation>
     </message>
     <message>
         <source>is the probability associated with the two-tailed Student&apos;s t-distribution, a number between 0 and 1 inclusive.</source>
@@ -12060,7 +12711,7 @@ Check</source>
     <message>
         <source>is the text you want converted to uppercase, a reference or a text string.</source>
         <comment>TX_ParaDesc_421</comment>
-        <translation>é o texto que você deseja converter para maiúsculas , uma referência ou uma cadeia de texto .</translation>
+        <translation>é o texto que você deseja converter para maiúsculas, uma referência ou uma cadeia de texto.</translation>
     </message>
     <message>
         <source>is the text enclosed in quotation marks or a reference to a cell containing the text you want to convert.</source>
@@ -12075,17 +12726,17 @@ Check</source>
     <message>
         <source>value1,value2,... are 1 to 30 value arguments corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_424</comment>
-        <translation type="unfinished">valor1, valor2 , ... são 1 a 30 argumentos de valor correspondente a uma amostra de uma população.</translation>
+        <translation type="obsolete">valor1, valor2 , ... são 1 a 30 argumentos de valor correspondente a uma amostra de uma população.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_425</comment>
-        <translation type="unfinished">número1, número2, ... são 1 a 30 argumentos numéricos correspondentes a uma população .</translation>
+        <translation type="obsolete">número1, número2, ... são 1 a 30 argumentos numéricos correspondentes a uma população .</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_426</comment>
-        <translation type="unfinished">número1, número2, ... são 1 a 30 argumentos numéricos correspondentes a uma população .</translation>
+        <translation type="obsolete">número1, número2, ... são 1 a 30 argumentos numéricos correspondentes a uma população .</translation>
     </message>
     <message>
         <source>is the starting period for which you want to calculate the depreciation. Period must use the same units as life.</source>
@@ -12100,7 +12751,7 @@ Check</source>
     <message>
         <source>is the value to be found in the first column of the table, and can be a value, a reference, or a text string.</source>
         <comment>TX_ParaDesc_429</comment>
-        <translation>é o valor a ser encontrado na primeira coluna do quadro , e pode ser um valor , de referência , ou uma cadeia de texto .</translation>
+        <translation>é o valor a ser encontrado na primeira coluna do quadro, e pode ser um valor, de referência, ou uma cadeia de texto.</translation>
     </message>
     <message>
         <source>is a table of text, number, or logical values in which data is looked up. Table_array can be a reference to a range or a range name.</source>
@@ -12110,7 +12761,7 @@ Check</source>
     <message>
         <source>is the row number in table_array from which the matching value should be returned. The first row of values in the table is row 1.</source>
         <comment>TX_ParaDesc_431</comment>
-        <translation>é o número da linha em matriz_tabela de onde o valor correspondente deve ser retornado. A primeira linha de valores na tabela é a linha 1 .</translation>
+        <translation>é o número da linha em matriz_tabela de onde o valor correspondente deve ser retornado. A primeira linha de valores na tabela é a linha 1.</translation>
     </message>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in ascending order) = FALSE or omitted; find an exact match = TRUE.</source>
@@ -12140,12 +12791,12 @@ Check</source>
     <message>
         <source>is the text that you want to convert to double-byte, or references to text cells.</source>
         <comment>TX_ParaDesc_437</comment>
-        <translation>é o texto que você deseja converter para double- byte , ou referências a células de texto .</translation>
+        <translation>é o texto que você deseja converter para double- byte, ou referências a células de texto.</translation>
     </message>
     <message>
         <source>is the array or range of data against which to text X.</source>
         <comment>TX_ParaDesc_438</comment>
-        <translation>é a matriz ou intervalo de dados que sirvam para texto X.</translation>
+        <translation>é a matriz ou intervalo de dados que sirvam para testar X.</translation>
     </message>
     <message>
         <source>is the value to test.</source>
@@ -12225,7 +12876,7 @@ Check</source>
     <message>
         <source>logical values</source>
         <comment>TX_ParaType_003</comment>
-        <translation>valores lógicos</translation>
+        <translation>Valores lógicos</translation>
     </message>
     <message>
         <source>text</source>
@@ -12405,7 +13056,7 @@ Check</source>
     <message>
         <source>number1,number2,...are 1 to 255 values for which you want the multinomial.</source>
         <comment>TX_ParaDesc_476</comment>
-        <translation type="unfinished">número1, número2 , ... são 1 a 255 valores para os quais você deseja que o multinomial .</translation>
+        <translation type="obsolete">número1, número2 , ... são 1 a 255 valores para os quais você deseja que o multinomial .</translation>
     </message>
     <message>
         <source>is the smallest integer RANDBETWEEN will return.</source>
@@ -12485,7 +13136,7 @@ Check</source>
     <message>
         <source>value_if_error</source>
         <comment>TX_ParaInfo_199</comment>
-        <translation>value_if_error</translation>
+        <translation>Value_if_error</translation>
     </message>
     <message>
         <source>Average_range</source>
@@ -12515,7 +13166,7 @@ Check</source>
     <message>
         <source>Rate</source>
         <comment>TX_ParaInfo_201</comment>
-        <translation>taxa</translation>
+        <translation>Taxa</translation>
     </message>
     <message>
         <source>Yld</source>
@@ -12525,7 +13176,7 @@ Check</source>
     <message>
         <source>Redemption</source>
         <comment>TX_ParaInfo_203</comment>
-        <translation>redenção</translation>
+        <translation>Redenção</translation>
     </message>
     <message>
         <source>is the security&apos;s settlement date, expressed as a serial date number.</source>
@@ -12717,7 +13368,7 @@ Para modificar uma célula protegida ou gráfico , primeiro remova a proteção 
     <message>
         <source>Value 1,value 2,...1 to 30 of plural numbers, used to calculate the product.</source>
         <comment>TX_ParaDesc_522</comment>
-        <translation type="unfinished">Valor 1 , valor 2, ... 1-30 de vários números , usados ​​para calcular o produto .</translation>
+        <translation type="obsolete">Valor 1 , valor 2, ... 1-30 de vários números , usados ​​para calcular o produto .</translation>
     </message>
     <message>
         <source>Calculate the plural of its real coefficient</source>
@@ -12767,22 +13418,22 @@ Para modificar uma célula protegida ou gráfico , primeiro remova a proteção 
     <message>
         <source>Computing method</source>
         <comment>TX_ParaInfo_204</comment>
-        <translation>método Computing</translation>
+        <translation>Método Computing</translation>
     </message>
     <message>
         <source>Octal number</source>
         <comment>TX_ParaInfo_205</comment>
-        <translation>número octal</translation>
+        <translation>Número octal</translation>
     </message>
     <message>
         <source>Plural 1</source>
         <comment>TX_ParaInfo_206</comment>
-        <translation>plural 1</translation>
+        <translation>Plural 1</translation>
     </message>
     <message>
         <source>Plural 2</source>
         <comment>TX_ParaInfo_207</comment>
-        <translation>plural 2</translation>
+        <translation>Plural 2</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen?</source>
@@ -12847,12 +13498,12 @@ Para modificar uma célula protegida ou gráfico , primeiro remova a proteção 
     <message>
         <source>Data Field</source>
         <comment>TX_ParaInfo_208</comment>
-        <translation>campo de dados</translation>
+        <translation>Campo de dados</translation>
     </message>
     <message>
         <source>PivotTable area</source>
         <comment>TX_ParaInfo_209</comment>
-        <translation>área da tabela dinâmica</translation>
+        <translation>Area da tabela dinâmica</translation>
     </message>
     <message>
         <source>Field Name</source>
@@ -12862,7 +13513,7 @@ Para modificar uma célula protegida ou gráfico , primeiro remova a proteção 
     <message>
         <source>Field Value</source>
         <comment>TX_ParaInfo_211</comment>
-        <translation>campo Valor</translation>
+        <translation>Campo Valor</translation>
     </message>
     <message>
         <source>Import Text File</source>
@@ -12942,7 +13593,7 @@ Para modificar uma célula protegida ou gráfico , primeiro remova a proteção 
     <message>
         <source>Dates</source>
         <comment>TX_ParaInfo_216</comment>
-        <translation>datas</translation>
+        <translation>Datas</translation>
     </message>
     <message>
         <source>is a schedule of payment dates that corresponds to the cash flow payments.</source>
@@ -12970,727 +13621,727 @@ Para modificar uma célula protegida ou gráfico , primeiro remova a proteção 
     <message>
         <source>Logical_test</source>
         <comment>TX_ParaInfo_217</comment>
-        <translation type="unfinished">teste_lógico</translation>
+        <translation>Teste_lógico</translation>
     </message>
     <message>
         <source>Counter_text</source>
         <comment>TX_ParaInfo_218</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nome_contador</translation>
     </message>
     <message>
         <source>Start_num</source>
         <comment>TX_ParaInfo_219</comment>
-        <translation type="unfinished">núm_inicial</translation>
+        <translation>Núm_inicial</translation>
     </message>
     <message>
         <source>End_num</source>
         <comment>TX_ParaInfo_220</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_final</translation>
     </message>
     <message>
         <source>Step_num</source>
         <comment>TX_ParaInfo_221</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_etapa</translation>
     </message>
     <message>
         <source>Ref_name</source>
         <comment>TX_ParaInfo_222</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nome_ref</translation>
     </message>
     <message>
         <source>Area_ref</source>
         <comment>TX_ParaInfo_223</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ref_área</translation>
     </message>
     <message>
         <source>Skip_blanks</source>
         <comment>TX_ParaInfo_224</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pular_vazias</translation>
     </message>
     <message>
         <source>Logical_test</source>
         <comment>TX_ParaInfo_225</comment>
-        <translation type="unfinished">teste_lógico</translation>
+        <translation>Teste_lógico</translation>
     </message>
     <message>
         <source>Value</source>
         <comment>TX_ParaInfo_226</comment>
-        <translation type="unfinished">valor</translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <source>Name_text</source>
         <comment>TX_ParaInfo_227</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nome_texto</translation>
     </message>
     <message>
         <source>Data_type_num</source>
         <comment>TX_ParaInfo_228</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_tipo_dados</translation>
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_229</comment>
-        <translation type="unfinished">Referência</translation>
+        <translation>Referência</translation>
     </message>
     <message>
         <source>Cancel_close</source>
         <comment>TX_ParaInfo_230</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar_fechar</translation>
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_231</comment>
-        <translation type="unfinished">Referência</translation>
+        <translation>Referência</translation>
     </message>
     <message>
         <source>No_tool</source>
         <comment>TX_ParaInfo_232</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sem_ferramenta</translation>
     </message>
     <message>
         <source>Level_num</source>
         <comment>TX_ParaInfo_233</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_nível</translation>
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_234</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_tipo</translation>
     </message>
     <message>
         <source>Name_text</source>
         <comment>TX_ParaInfo_235</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nome_texto</translation>
     </message>
     <message>
         <source>Value</source>
         <comment>TX_ParaInfo_236</comment>
-        <translation type="unfinished">valor</translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_237</comment>
-        <translation type="unfinished">Referência</translation>
+        <translation>Referência</translation>
     </message>
     <message>
         <source>Values</source>
         <comment>TX_ParaInfo_238</comment>
-        <translation type="unfinished">valores</translation>
+        <translation>Valores</translation>
     </message>
     <message>
         <source>Name_text</source>
         <comment>TX_ParaInfo_239</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nome_texto</translation>
     </message>
     <message>
         <source>Info_type</source>
         <comment>TX_ParaInfo_240</comment>
-        <translation type="unfinished">Info_type</translation>
+        <translation>Tipo_info</translation>
     </message>
     <message>
         <source>Module_text</source>
         <comment>TX_ParaInfo_241</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto_módulo</translation>
     </message>
     <message>
         <source>Procedure</source>
         <comment>TX_ParaInfo_242</comment>
-        <translation type="unfinished"></translation>
+        <translation>Procedimento</translation>
     </message>
     <message>
         <source>Type_text</source>
         <comment>TX_ParaInfo_243</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tipo_texto</translation>
     </message>
     <message>
         <source>Function_text</source>
         <comment>TX_ParaInfo_244</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto_função</translation>
     </message>
     <message>
         <source>Argument_text</source>
         <comment>TX_ParaInfo_245</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto_argumento</translation>
     </message>
     <message>
         <source>Macro_type</source>
         <comment>TX_ParaInfo_246</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tipo_macro</translation>
     </message>
     <message>
         <source>Category</source>
         <comment>TX_ParaInfo_247</comment>
-        <translation type="unfinished"></translation>
+        <translation>Categoria</translation>
     </message>
     <message>
         <source>Shortcut_text</source>
         <comment>TX_ParaInfo_248</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto_atalho</translation>
     </message>
     <message>
         <source>Help_topic</source>
         <comment>TX_ParaInfo_249</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tópico_ajuda</translation>
     </message>
     <message>
         <source>Function_help</source>
         <comment>TX_ParaInfo_250</comment>
-        <translation type="unfinished"></translation>
+        <translation>Função_ajuda</translation>
     </message>
     <message>
         <source>Argument_help</source>
         <comment>TX_ParaInfo_251</comment>
-        <translation type="unfinished"></translation>
+        <translation>Argumento_ajuda</translation>
     </message>
     <message>
         <source>Register_id</source>
         <comment>TX_ParaInfo_252</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ident_registro</translation>
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_253</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_tipo</translation>
     </message>
     <message>
         <source>Name_text</source>
         <comment>TX_ParaInfo_254</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nome_texto</translation>
     </message>
     <message>
         <source>Text</source>
         <comment>TX_ParaInfo_255</comment>
-        <translation type="unfinished">Texto</translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>Match_text</source>
         <comment>TX_ParaInfo_256</comment>
-        <translation type="unfinished"></translation>
+        <translation>Coincidir_texto</translation>
     </message>
     <message>
         <source>Cell_ref</source>
         <comment>TX_ParaInfo_257</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ref_cél</translation>
     </message>
     <message>
         <source>Start_char</source>
         <comment>TX_ParaInfo_258</comment>
-        <translation type="unfinished"></translation>
+        <translation>Caract_inicial</translation>
     </message>
     <message>
         <source>Num_chars</source>
         <comment>TX_ParaInfo_259</comment>
-        <translation type="unfinished">núm_caract</translation>
+        <translation>Num_caract</translation>
     </message>
     <message>
         <source>Window_text</source>
         <comment>TX_ParaInfo_260</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto_janela</translation>
     </message>
     <message>
         <source>Formula_text</source>
         <comment>TX_ParaInfo_261</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto_fórmula</translation>
     </message>
     <message>
         <source>From_a1</source>
         <comment>TX_ParaInfo_262</comment>
-        <translation type="unfinished"></translation>
+        <translation>De_a1</translation>
     </message>
     <message>
         <source>To_a1</source>
         <comment>TX_ParaInfo_263</comment>
-        <translation type="unfinished"></translation>
+        <translation>Para_a1</translation>
     </message>
     <message>
         <source>To_ref_type</source>
         <comment>TX_ParaInfo_264</comment>
-        <translation type="unfinished"></translation>
+        <translation>Para_tipo_ref</translation>
     </message>
     <message>
         <source>Rel_to_ref</source>
         <comment>TX_ParaInfo_265</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rel_para_ref</translation>
     </message>
     <message>
         <source>A1</source>
         <comment>TX_ParaInfo_266</comment>
-        <translation type="unfinished"></translation>
+        <translation>A1</translation>
     </message>
     <message>
         <source>Bar_num</source>
         <comment>TX_ParaInfo_267</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_barra</translation>
     </message>
     <message>
         <source>Menu</source>
         <comment>TX_ParaInfo_268</comment>
-        <translation type="unfinished"></translation>
+        <translation>Menu</translation>
     </message>
     <message>
         <source>Command</source>
         <comment>TX_ParaInfo_269</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comando</translation>
     </message>
     <message>
         <source>Subcommand</source>
         <comment>TX_ParaInfo_270</comment>
-        <translation type="unfinished"></translation>
+        <translation>Subcomando</translation>
     </message>
     <message>
         <source>Menu_ref</source>
         <comment>TX_ParaInfo_271</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ref_menu</translation>
     </message>
     <message>
         <source>Position1</source>
         <comment>TX_ParaInfo_272</comment>
-        <translation type="unfinished"></translation>
+        <translation>Posição1</translation>
     </message>
     <message>
         <source>Position2</source>
         <comment>TX_ParaInfo_273</comment>
-        <translation type="unfinished"></translation>
+        <translation>Posição2</translation>
     </message>
     <message>
         <source>Submenu</source>
         <comment>TX_ParaInfo_274</comment>
-        <translation type="unfinished"></translation>
+        <translation>Submenu</translation>
     </message>
     <message>
         <source>Bar_id</source>
         <comment>TX_ParaInfo_275</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ident_barra</translation>
     </message>
     <message>
         <source>ProgID</source>
         <comment>TX_ParaInfo_217</comment>
-        <translation type="unfinished"></translation>
+        <translation>IDdePrograma</translation>
     </message>
     <message>
         <source>Server</source>
         <comment>TX_ParaInfo_218</comment>
-        <translation type="unfinished"></translation>
+        <translation>Servidor</translation>
     </message>
     <message>
         <source>Topic</source>
         <comment>TX_ParaInfo_219</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tópico</translation>
     </message>
     <message>
         <source>Topic</source>
         <comment>TX_ParaInfo_220</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tópico</translation>
     </message>
     <message>
         <source>topic1,topic2,...are 1 to 38 parameters that specify a piece of data.</source>
         <comment>TX_ParaInfo_548</comment>
-        <translation type="unfinished">Topic1 , Topic2 , ... são 1 a 28 parâmetros que especificam um conjunto de dados . {1,?} {2,?} {1 ?} {38 ?}</translation>
+        <translation type="obsolete">Topic1 , Topic2 , ... são 1 a 28 parâmetros que especificam um conjunto de dados . {1,?} {2,?} {1 ?} {38 ?}</translation>
     </message>
     <message>
         <source>Message_text</source>
         <comment>TX_ParaInfo_280</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto_mensagem</translation>
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_281</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_tipo</translation>
     </message>
     <message>
         <source>Help_ref</source>
         <comment>TX_ParaInfo_282</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ajuda_ref</translation>
     </message>
     <message>
         <source>Logical</source>
         <comment>TX_ParaInfo_283</comment>
-        <translation type="unfinished">lógico</translation>
+        <translation>Lógica</translation>
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_284</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_tipo</translation>
     </message>
     <message>
         <source>Xy_series</source>
         <comment>TX_ParaInfo_285</comment>
-        <translation type="unfinished"></translation>
+        <translation>Série_xy</translation>
     </message>
     <message>
         <source>Add_logical</source>
         <comment>TX_ParaInfo_286</comment>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar_lógico</translation>
     </message>
     <message>
         <source>Document_text</source>
         <comment>TX_ParaInfo_287</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto_documento</translation>
     </message>
     <message>
         <source>Macro_text</source>
         <comment>TX_ParaInfo_288</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto_macro</translation>
     </message>
     <message>
         <source>Sheet_text</source>
         <comment>TX_ParaInfo_289</comment>
-        <translation type="unfinished">Sheet_text</translation>
+        <translation>Texto_planilha</translation>
     </message>
     <message>
         <source>Key_text</source>
         <comment>TX_ParaInfo_290</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto_tecla</translation>
     </message>
     <message>
         <source>Activate_logical</source>
         <comment>TX_ParaInfo_291</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lógica_ativada</translation>
     </message>
     <message>
         <source>Time</source>
         <comment>TX_ParaInfo_292</comment>
-        <translation type="unfinished">Tempo</translation>
+        <translation>Hora</translation>
     </message>
     <message>
         <source>Tolerance</source>
         <comment>TX_ParaInfo_293</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tolerância</translation>
     </message>
     <message>
         <source>Insert_logical</source>
         <comment>TX_ParaInfo_294</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inserir_lógico</translation>
     </message>
     <message>
         <source>Window_text</source>
         <comment>TX_ParaInfo_295</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto_janela</translation>
     </message>
     <message>
         <source>Selection</source>
         <comment>TX_ParaInfo_296</comment>
-        <translation type="unfinished">seleção</translation>
+        <translation>Seleção</translation>
     </message>
     <message>
         <source>Active_cell</source>
         <comment>TX_ParaInfo_297</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cél_ativa</translation>
     </message>
     <message>
         <source>From_reference</source>
         <comment>TX_ParaInfo_298</comment>
-        <translation type="unfinished"></translation>
+        <translation>Da_ref</translation>
     </message>
     <message>
         <source>Paste_num</source>
         <comment>TX_ParaInfo_299</comment>
-        <translation type="unfinished"></translation>
+        <translation>Colar_núm</translation>
     </message>
     <message>
         <source>Operation_num</source>
         <comment>TX_ParaInfo_300</comment>
-        <translation type="unfinished"></translation>
+        <translation>Operação_núm</translation>
     </message>
     <message>
         <source>Skip_blanks</source>
         <comment>TX_ParaInfo_301</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pular_vazias</translation>
     </message>
     <message>
         <source>Transpose</source>
         <comment>TX_ParaInfo_302</comment>
-        <translation type="unfinished"></translation>
+        <translation>Transpor</translation>
     </message>
     <message>
         <source>Icon_number</source>
         <comment>TX_ParaInfo_303</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_ícone</translation>
     </message>
     <message>
         <source>Icon_label</source>
         <comment>TX_ParaInfo_304</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rótulo_ícone</translation>
     </message>
     <message>
         <source>Name_text</source>
         <comment>TX_ParaInfo_305</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nome_texto</translation>
     </message>
     <message>
         <source>Refers_to</source>
         <comment>TX_ParaInfo_306</comment>
-        <translation type="unfinished"></translation>
+        <translation>Referir_a</translation>
     </message>
     <message>
         <source>Macro_type</source>
         <comment>TX_ParaInfo_307</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tipo_macro</translation>
     </message>
     <message>
         <source>Shortcut_text</source>
         <comment>TX_ParaInfo_308</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto_atalho</translation>
     </message>
     <message>
         <source>Hidden</source>
         <comment>TX_ParaInfo_309</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oculto</translation>
     </message>
     <message>
         <source>Category</source>
         <comment>TX_ParaInfo_310</comment>
-        <translation type="unfinished"></translation>
+        <translation>Categoria</translation>
     </message>
     <message>
         <source>Local</source>
         <comment>TX_ParaInfo_311</comment>
-        <translation type="unfinished"></translation>
+        <translation>Localização</translation>
     </message>
     <message>
         <source>Height_num</source>
         <comment>TX_ParaInfo_312</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_altura</translation>
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_313</comment>
-        <translation type="unfinished">Referência</translation>
+        <translation>Referência</translation>
     </message>
     <message>
         <source>Standard_height</source>
         <comment>TX_ParaInfo_314</comment>
-        <translation type="unfinished"></translation>
+        <translation>Altura_padrão</translation>
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_315</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_tipo</translation>
     </message>
     <message>
         <source>Width_num</source>
         <comment>TX_ParaInfo_316</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_largura</translation>
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_317</comment>
-        <translation type="unfinished">Referência</translation>
+        <translation>Referência</translation>
     </message>
     <message>
         <source>Standard</source>
         <comment>TX_ParaInfo_318</comment>
-        <translation type="unfinished"></translation>
+        <translation>Padrão</translation>
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_319</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_tipo</translation>
     </message>
     <message>
         <source>Standard_num</source>
         <comment>TX_ParaInfo_320</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_padrão</translation>
     </message>
     <message>
         <source>Formula_text</source>
         <comment>TX_ParaInfo_321</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto_fórmula</translation>
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_322</comment>
-        <translation type="unfinished">Referência</translation>
+        <translation>Referência</translation>
     </message>
     <message>
         <source>To_reference</source>
         <comment>TX_ParaInfo_323</comment>
-        <translation type="unfinished"></translation>
+        <translation>Para_ref</translation>
     </message>
     <message>
         <source>Enable_logical</source>
         <comment>TX_ParaInfo_324</comment>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar_lógico</translation>
     </message>
     <message>
         <source>Macro_ref</source>
         <comment>TX_ParaInfo_325</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ref_macro</translation>
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_326</comment>
-        <translation type="unfinished">Referência</translation>
+        <translation>Referência</translation>
     </message>
     <message>
         <source>Step</source>
         <comment>TX_ParaInfo_327</comment>
-        <translation type="unfinished"></translation>
+        <translation>Etapa</translation>
     </message>
     <message>
         <source>Save_logical</source>
         <comment>TX_ParaInfo_328</comment>
-        <translation type="unfinished"></translation>
+        <translation>Salvar_lógico</translation>
     </message>
     <message>
         <source>Route_logical</source>
         <comment>TX_ParaInfo_329</comment>
-        <translation type="unfinished"></translation>
+        <translation>Encaminhar_lógico</translation>
     </message>
     <message>
         <source>Range_num</source>
         <comment>TX_ParaInfo_330</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_intervalo</translation>
     </message>
     <message>
         <source>From</source>
         <comment>TX_ParaInfo_331</comment>
-        <translation type="unfinished"></translation>
+        <translation>De</translation>
     </message>
     <message>
         <source>To</source>
         <comment>TX_ParaInfo_332</comment>
-        <translation type="unfinished"></translation>
+        <translation>Para</translation>
     </message>
     <message>
         <source>Copies</source>
         <comment>TX_ParaInfo_333</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cópias</translation>
     </message>
     <message>
         <source>Draft</source>
         <comment>TX_ParaInfo_334</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rascunho</translation>
     </message>
     <message>
         <source>Preview</source>
         <comment>TX_ParaInfo_335</comment>
-        <translation type="unfinished">Pré-Visualização</translation>
+        <translation>Visualização</translation>
     </message>
     <message>
         <source>Print_what</source>
         <comment>TX_ParaInfo_336</comment>
-        <translation type="unfinished"></translation>
+        <translation>O_que_imprimir</translation>
     </message>
     <message>
         <source>Color</source>
         <comment>TX_ParaInfo_337</comment>
-        <translation type="unfinished">Cor</translation>
+        <translation>Cor</translation>
     </message>
     <message>
         <source>Feed</source>
         <comment>TX_ParaInfo_338</comment>
-        <translation type="unfinished"></translation>
+        <translation>Feed</translation>
     </message>
     <message>
         <source>Quality</source>
         <comment>TX_ParaInfo_339</comment>
-        <translation type="unfinished"></translation>
+        <translation>Qualidade</translation>
     </message>
     <message>
         <source>Y_resolution</source>
         <comment>TX_ParaInfo_340</comment>
-        <translation type="unfinished"></translation>
+        <translation>Resolução_y</translation>
     </message>
     <message>
         <source>Selection</source>
         <comment>TX_ParaInfo_341</comment>
-        <translation type="unfinished">seleção</translation>
+        <translation>Seleção</translation>
     </message>
     <message>
         <source>Printer_text</source>
         <comment>TX_ParaInfo_342</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto_impressora</translation>
     </message>
     <message>
         <source>Print_to_file</source>
         <comment>TX_ParaInfo_343</comment>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir_em_arquivo</translation>
     </message>
     <message>
         <source>Collate</source>
         <comment>TX_ParaInfo_344</comment>
-        <translation type="unfinished"></translation>
+        <translation>Agrupar</translation>
     </message>
     <message>
         <source>Filename</source>
         <comment>TX_ParaInfo_345</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nome do arquivo</translation>
     </message>
     <message>
         <source>Ignore_print_area</source>
         <comment>TX_ParaInfo_346</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ignorar_área_imp</translation>
     </message>
     <message>
         <source>Module_text</source>
         <comment>TX_ParaInfo_347</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto_módulo</translation>
     </message>
     <message>
         <source>Procedure</source>
         <comment>TX_ParaInfo_348</comment>
-        <translation type="unfinished"></translation>
+        <translation>Procedimento</translation>
     </message>
     <message>
         <source>Type_text</source>
         <comment>TX_ParaInfo_349</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tipo_texto</translation>
     </message>
     <message>
         <source>Argument</source>
         <comment>TX_ParaInfo_350</comment>
-        <translation type="unfinished"></translation>
+        <translation>Argumento</translation>
     </message>
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
         <comment>TX_ParaInfo_546</comment>
-        <translation type="unfinished">é o nome do ProgID de uma marca registrada de automação COM add -in. Coloque o nome entre aspas.</translation>
-    </message>
-    <message>
-        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
-        <comment>TX_ParaInfo_547</comment>
-        <translation type="unfinished">é o nome do servidor em que o suplemento deve ser executado. Coloque o nome entre aspas. Se o suplemento é executado localmente , use uma string vazia.</translation>
-    </message>
-    <message>
-        <source>is the interest rate per period. For example, use 6%/4 for quarterly payment at 6% APR.</source>
-        <comment>TX_ParaDesc_139</comment>
-        <translation type="obsolete">é a taxa de juros por período . Por exemplo, use 6%4 para pagamento trimestral em 6% abril {6%/4 ?} {6%?}</translation>
-    </message>
-    <message>
-        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
-        <comment>TX_ParaDesc_546</comment>
         <translation type="obsolete">é o nome do ProgID de uma marca registrada de automação COM add -in. Coloque o nome entre aspas.</translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
-        <comment>TX_ParaDesc_547</comment>
+        <comment>TX_ParaInfo_547</comment>
         <translation type="obsolete">é o nome do servidor em que o suplemento deve ser executado. Coloque o nome entre aspas. Se o suplemento é executado localmente , use uma string vazia.</translation>
+    </message>
+    <message>
+        <source>is the interest rate per period. For example, use 6%/4 for quarterly payment at 6% APR.</source>
+        <comment>TX_ParaDesc_139</comment>
+        <translation type="obsolete">é a taxa de juros por período. Por exemplo, use 6%/4 para pagamentos trimestrais a uma taxa de 6% TPA.</translation>
+    </message>
+    <message>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
+        <comment>TX_ParaDesc_546</comment>
+        <translation>é o nome da identificação da programação de um suplemento de automação COM registrado. Coloque o nome entre aspas.</translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaDesc_547</comment>
+        <translation>é o nome do servidor no qual o suplemento deve ser executado. Coloque o nome entre aspas. Se o suplemento for executado localmente, use uma cadeia vazia.</translation>
     </message>
     <message>
         <source>Directory_text</source>
         <comment>TX_ParaInfo_351</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto_diretório</translation>
     </message>
     <message>
         <source>Permission to this workbook is currently restricted.</source>
         <comment>TX_IRMReadOnly</comment>
-        <translation type="unfinished"></translation>
+        <translation>A permissão para esta pasta de trabalho está restrita no momento.</translation>
     </message>
     <message>
         <source>First Page </source>
         <comment>TX_CHECKSPELLING_FromFirstPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Primeira página </translation>
     </message>
     <message>
         <source>Odd Page </source>
         <comment>TX_CHECKSPELLING_FromOddPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Página ímpar </translation>
     </message>
     <message>
         <source>Even Page </source>
         <comment>TX_CHECKSPELLING_FromEvenPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Página par </translation>
     </message>
     <message>
         <source>The information cannot be pasted because the copy area and the paste area are not of the same size and shape. Try one of the following: 
@@ -13698,7 +14349,10 @@ Para modificar uma célula protegida ou gráfico , primeiro remova a proteção 
 .Click a single cell, and then paste. 
 .Select a rectangle area of the same size and shape, and then paste.</source>
         <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
-        <translation type="unfinished"></translation>
+        <translation>A informação não pode ser colado , porque a área de cópia e área de colagem não são do mesmo tamanho e forma . Tente um dos seguintes procedimentos :
+
+.Clique Uma única célula, e em seguida, cole .
+.Selecione Um retângulo que é o mesmo tamanho e forma, e depois colar .</translation>
     </message>
     <message>
         <source>The selection is invalid.
@@ -13709,26 +14363,23 @@ There are several possible reasons:
 •If the specified name is in a row or a column, you must select more than one row or column.
 •If you click the Table command on the Data menu, the selected range must be a single rectangle, and the number of rows or columns must not be smaller than one.</source>
         <comment>TX_DESC_Paste_OverlapRange_ET</comment>
-        <translation type="unfinished"></translation>
+        <translation>A seleção é inválido.
+Há várias razões possíveis:
+
+• Copiar e colar áreas não podem ser sobrepostos a não ser que eles têm o mesmo tamanho e forma .
+• Se você selecionar Nome no menu Inserir e , em seguida, clique no comando Criar, as linhas ou colunas que contêm os nomes não serão incluídos no intervalo nomeado .
+• Se o nome especificado está em uma linha ou coluna , você deve selecionar mais de um linhas ou colunas.
+• Se você clicar no comando de mesa no menu dados, o intervalo selecionado deve ser um único retângulo, eo número de linhas ou colunas deve ser maior do que um.</translation>
     </message>
     <message>
         <source>Data may exist in the sheet(s) selected for deletion. To permanently delete the data, click OK or press Enter on the keyboard.</source>
         <comment>TX_Sheet_DEL_ContainsData_ET</comment>
-        <translation type="unfinished"></translation>
+        <translation>A Planilha (s) que você está excluindo não está vazio. Se você deseja excluir os dados de forma permanente , por favor, clique em OK ou pressione Enter no teclado.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot ungroup. To start an outline, select the detail rows or columns and group them.</source>
         <comment>TX_Data_Cannot_Ungroup</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The formula you entered contains errors. WPS Spreadsheets will automatically correct it as: 
-&apos;%s
-? To accept the correction, click OK.
-? To close this message and correct the formula by yourself, click Cancel.
-? If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
-        <comment>TX_InputFormula_Error</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets não é possível remover o agrupamento. Para iniciar um esboço , selecione as linhas ou colunas de detalhe e agrupá-los .</translation>
     </message>
     <message>
         <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
@@ -13737,309 +14388,597 @@ There are several possible reasons:
 • To close this message and correct the formula by yourself, click Cancel.
 • If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
         <comment>TX_InputFormulaStringTooLong_Error</comment>
-        <translation type="unfinished"></translation>
+        <translation>A cadeia de caracteres constante na fórmula é muito longa. O WPS Spreadsheets irá corrigi-lo automaticamente como:
+&apos;%s
+• Para aceitar a correção, clique em OK.
+• Para fechar esta mensagem e corrigir a fórmula sozinho, clique em Cancelar.
+• Se você não estiver digitando uma fórmula, evite começar a sua entrada com o sinal de igual(=), mais(+) ou menos(-).</translation>
     </message>
     <message>
         <source>You cannot modify the read-only cells on protected worksheet.</source>
         <comment>TX_CanNotEdit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Você não pode modificar as células somente leitura na planilha protegida.</translation>
     </message>
     <message>
         <source>You must enter a valid reference you want to go to, or type a valid name for the selection.</source>
         <comment>TX_Invalid_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, insira uma referência válida ou um nome válido da seleção.</translation>
     </message>
     <message>
         <source>The maximum number of data points you can use in a data series for a 2-D chart is 32,000. If you want to use more than 32,000 data points, you must create two or more series.</source>
         <comment>TX_Chart_DataOverflow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cada série de dados em um gráfico 2- D pode conter , no máximo, 32 mil pontos de dados. Se mais pontos de dados estão a ser analisadas , são necessárias duas ou mais séries de dados .</translation>
     </message>
     <message>
         <source>Cannot find help files, or help files encounter an error.</source>
         <comment>TX_Help_NoHelpFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arquivos de Ajuda Não Encontrado, Ou Os Arquivos de Ajuda Localizar Um Erro .</translation>
     </message>
     <message>
         <source>You may not use references to other workbooks for Data Validation criteria.</source>
         <comment>TX_DV_CrossSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>As referências a outras pastas de trabalho não podem ser utilizados como critérios de validação de dados .</translation>
     </message>
     <message>
         <source>The Minimum contains an error now. Do you want to continue?</source>
         <comment>TX_DV_WholeNumberErr1</comment>
-        <translation type="unfinished"></translation>
+        <translation>O Minumum contém um erro agora . Você quer continuar?</translation>
     </message>
     <message>
         <source>The Value must be an integer, numeric expression, or refer to a cell containing a numeric value.</source>
         <comment>TX_DV_WholeNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation>O valor deve ser um número inteiro , expressão numérica , ou referência a uma célula que contém valores numéricos.</translation>
     </message>
     <message>
         <source>The Minimum must be an integer, numeric expression, or refer to a cell containing a numeric value.</source>
         <comment>TX_DV_WholeNumber1</comment>
-        <translation type="unfinished"></translation>
+        <translation>A mínima deve ser um inteiro , expressão numérica , ou referência a uma célula que contém valores numéricos.</translation>
     </message>
     <message>
         <source>The Maximum must be an integer, numeric expression, or reference to a cell containing a numeric value.</source>
         <comment>TX_DV_WholeNumber2</comment>
-        <translation type="unfinished"></translation>
+        <translation>A máxima deve ser um número inteiro, expressão numérica , ou referência a uma célula que contém valores numéricos.</translation>
     </message>
     <message>
         <source>A named range you specified cannot be found.</source>
         <comment>TX_DV_List</comment>
-        <translation type="unfinished"></translation>
+        <translation>Não consegue encontrar o intervalo com nome que você especificou.</translation>
     </message>
     <message>
         <source>The List Source must be a delimited list, or a reference to single row or column.</source>
         <comment>TX_DV_ListMustSingleLine</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, creating a circular reference. Try one of the following:
-
-?If you do not want to create the circular reference, click OK, and correct the formula.
-?If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
-        <comment>TX_FORMULA_RECURSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>A fonte lista deve ser uma lista de dados delimitados , ou uma referência a uma única linha ou coluna .</translation>
     </message>
     <message>
         <source>Arithmetic Mean</source>
         <comment>TX_ParaInfo_117</comment>
-        <translation type="unfinished"></translation>
+        <translation>Média Aritmética</translation>
     </message>
     <message>
         <source>The selection contains some cells without Data Validation settings. Do you want to extend Data Validation to these cells?</source>
         <comment>TX_DV_APPLYVALIDATION</comment>
-        <translation type="unfinished"></translation>
+        <translation>A seleção contém algumas células sem as configurações de validação de dados . Você quer fazer essas configurações de validação de dados a essas células também?</translation>
     </message>
     <message>
         <source>The command you chose cannot be performed with multiple selections. Select a single range and click the command again.</source>
         <comment>TX_DS_MULSEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Este comando não pode ser usado em várias seleções. Selecione uma região e , em seguida, executar este comando novamente .</translation>
     </message>
     <message>
         <source>WPS Spreadsheets can only convert one column at a time. The selection can contain more than one row but only one column. Select cells only in one column and try again.</source>
         <comment>TX_DS_MULCOLS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Só WPS Spreadsheets pode converter uma coluna de cada vez. A selecção pode conter mais do que uma linha , mas apenas uma coluna . Selecione as células em apenas uma coluna e tente novamente.</translation>
     </message>
     <message>
         <source>The word you used exists in neither main dictionary or custom dictionary. Do you want to add it to the custom dictionary?</source>
         <comment>TX_CHECKSPELLING_ADDTODICTIONARY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Esta palavra que você usou não existe em ambos dicionário e personalizado dicionário principal . Você quer adicioná-lo ao dicionário personalizado ?</translation>
     </message>
     <message>
         <source>Spell Check</source>
         <comment>TX_SpellCheck_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verificação ortográfica</translation>
     </message>
     <message>
         <source>Closing the Track Change is to remove all the recorded changes. Do you want to close it anyway?</source>
         <comment>TX_RevisionMsgUnTrackChanges</comment>
-        <translation type="unfinished"></translation>
+        <translation>Feche a faixa Mudança é remover todas as alterações registradas . Você quer fechá-lo de qualquer maneira?</translation>
     </message>
     <message>
         <source>Press Alt and click the mouse to follow the link</source>
         <comment>TX_Hyperlink_Alt_Tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pressione a tecla Alt e clique com o mouse para traçar a ligação</translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE and can be logical values, arrays, or references.</source>
         <comment>TX_ParaDesc_009</comment>
-        <translation type="unfinished"></translation>
+        <translation>lógico1,lógico2,... são 1 a 30 condições que você deseja testar que podem ser tanto VERDADEIRO ou FALSO e podem ser valores lógicos, matrizes ou referências.</translation>
     </message>
     <message>
         <source>is any real number equal to or greater than 1.</source>
         <comment>TX_ParaDesc_013</comment>
-        <translation type="unfinished">é qualquer número real igual ou superior a 1.</translation>
+        <translation>é qualquer número real maior ou igual a 1 .</translation>
     </message>
     <message>
         <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range = 0.</source>
         <comment>TX_ParaDesc_024</comment>
-        <translation type="unfinished"></translation>
+        <translation>é um opcional limite superior do intervalo de x . Se omitido, limite superior do intervalo de x = 1, limite inferior do intervalo x = 0 .</translation>
     </message>
     <message>
         <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range = 0.</source>
         <comment>TX_ParaDesc_027</comment>
-        <translation type="unfinished"></translation>
+        <translation>é um opcional limite superior do intervalo de x . Se omitido, limite superior do intervalo de x = 1, limite inferior do intervalo x = 0 .</translation>
     </message>
     <message>
         <source>is the population standard deviation for the data range and is assumed to be known. Standard_dev must be greater than 0.</source>
         <comment>TX_ParaDesc_053</comment>
-        <translation type="unfinished"></translation>
+        <translation>é o desvio padrão da população para o intervalo de dados e é assumido ser conhecida . Desv_padrão deve ser maior do que 0 .</translation>
     </message>
     <message>
         <source>value1, value2,... are 1 to 30 arguments representing the values and cells you want to count. Values can be any type of information.</source>
         <comment>TX_ParaDesc_060</comment>
-        <translation type="unfinished"></translation>
+        <translation>valor1, valor2,... são de 1 a 30 argumentos que representam os valores e as células que deseja contar. Valores podem ser quaisquer tipos de informação.</translation>
     </message>
     <message>
         <source>is the condition in the form of a number, expression, or text that defines which cells will be counted</source>
         <comment>TX_ParaDesc_063</comment>
-        <translation type="unfinished"></translation>
+        <translation>é a condição como um número, uma expressão ou um texto que define quais células serão contadas</translation>
     </message>
     <message>
         <source>is the interest rate per period. For example, use 6%/4 for quarterly payments at 6% APR.</source>
         <comment>TX_ParaDesc_139</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
-        <comment>TX_ParaDesc_152</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the position (from the largest) in the array or cell range of the value to return.</source>
-        <comment>TX_ParaDesc_205</comment>
-        <translation type="unfinished"></translation>
+        <translation>é a taxa de juros por período . Por exemplo, use 6%/4 para pagamento trimestral a 6% APR.</translation>
     </message>
     <message>
         <source>is a logical value: return additional regression statistics = TRUE; return m-coefficient and the constant b = FALSE or omitted.</source>
         <comment>TX_ParaDesc_213</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value 1, value 2,... are 1 to 29 payments and income, equally spaced in time and occurring at the end of each period.</source>
-        <comment>TX_ParaDesc_274</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>logical1,logical2,... are 1 to 30 conditions that you want to test that can be either TRUE or FALSE</source>
-        <comment>TX_ParaDesc_281</comment>
-        <translation type="unfinished"></translation>
+        <translation>é um valor lógico : retornar estatísticas de regressão additonal = TRUE; retornar m - e o coeficiente constante b = FALSE ou omitido .</translation>
     </message>
     <message>
         <source>is an optional value that identifies the number of significant digits for the returned percentage, three digits if omitted(0.xxx%).</source>
         <comment>TX_ParaDesc_288</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the number of digits to the right of the decimal point. The number is rounded as necessary; if omitted, Decimals = 2!</source>
-        <comment>TX_ParaDesc_337</comment>
-        <translation type="unfinished"></translation>
+        <translation>Isto é um valor opcional que identificar o número de dígitos significantes para retornar uma porcentagem, três dígitos se omitido (0.xxx%).</translation>
     </message>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero to the nearest integer.</source>
         <comment>TX_ParaDesc_341</comment>
-        <translation type="unfinished"></translation>
+        <translation>é o número de dígitos para o qual você deseja arredondar . Rounds negativa à esquerda do ponto decimal ; zero para o número inteiro nearst .</translation>
     </message>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero or omitted, to the nearest integer.</source>
         <comment>TX_ParaDesc_343</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if typed as arguments!</source>
-        <comment>TX_ParaDesc_382</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the condition in the form of a number, expression, or text that defines which cells will be counted</source>
-        <comment>TX_ParaDesc_384</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>array1,array2,...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have the same dimensions.</source>
-        <comment>TX_ParaDesc_386</comment>
-        <translation type="unfinished"></translation>
+        <translation>é o número de dígitos para o qual você deseja arredondar . Rounds negativa à esquerda do ponto decimal ; zero ou omitidos , para o número inteiro nearst .</translation>
     </message>
     <message>
         <source>specifies the number of distribution tails to return: one-tailed distribution = 1; two-tailed distribution = 2.</source>
         <comment>TX_ParaDesc_398</comment>
-        <translation type="unfinished">Especifica o número de caudas de distribuição para retornar : uma cauda de distribuição = 1; distribuição bicaudal = 2 .</translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a sample of a population.</source>
-        <comment>TX_ParaDesc_423</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Especifica o número de caudas de distribuição para retornar : uma cauda de distribuição = 1; distribuição bicaudal = 2 .</translation>
     </message>
     <message>
         <source>The number used to be converted to Chinese string.</source>
         <comment>TX_ParaDesc_541</comment>
-        <translation type="unfinished"></translation>
+        <translation>O número utilizado para ser convertido para chinês string.</translation>
     </message>
     <message>
         <source>Text</source>
         <comment>TX_ParaInfo_352</comment>
-        <translation type="unfinished">Texto</translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>In_num</source>
         <comment>TX_ParaInfo_353</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_em</translation>
     </message>
     <message>
         <source>At_num</source>
         <comment>TX_ParaInfo_354</comment>
-        <translation type="unfinished"></translation>
+        <translation>No_número</translation>
     </message>
     <message>
         <source>By_num</source>
         <comment>TX_ParaInfo_355</comment>
-        <translation type="unfinished"></translation>
+        <translation>Por_número</translation>
     </message>
     <message>
         <source>Dir_num</source>
         <comment>TX_ParaInfo_356</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_dir</translation>
     </message>
     <message>
         <source>Match_case</source>
         <comment>TX_ParaInfo_357</comment>
-        <translation type="unfinished"></translation>
+        <translation>Coinc_maiúsc_minúsc</translation>
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_358</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_tipo</translation>
     </message>
     <message>
         <source>Iter</source>
         <comment>TX_ParaInfo_359</comment>
-        <translation type="unfinished"></translation>
+        <translation>Iteração</translation>
     </message>
     <message>
         <source>Max_num</source>
         <comment>TX_ParaInfo_360</comment>
-        <translation type="unfinished"></translation>
+        <translation>Núm_máx</translation>
     </message>
     <message>
         <source>Max_change</source>
         <comment>TX_ParaInfo_361</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alter_máx</translation>
     </message>
     <message>
         <source>Update</source>
         <comment>TX_ParaInfo_362</comment>
-        <translation type="unfinished"></translation>
+        <translation>Atualizar</translation>
     </message>
     <message>
         <source>Precision</source>
         <comment>TX_ParaInfo_363</comment>
-        <translation type="unfinished">Precision</translation>
+        <translation>Precision</translation>
     </message>
     <message>
         <source>Date_1904</source>
         <comment>TX_ParaInfo_364</comment>
-        <translation type="unfinished"></translation>
+        <translation>Data_1904</translation>
     </message>
     <message>
         <source>Calc_save</source>
         <comment>TX_ParaInfo_365</comment>
-        <translation type="unfinished"></translation>
+        <translation>Calc_salvar</translation>
     </message>
     <message>
         <source>Save_values</source>
         <comment>TX_ParaInfo_366</comment>
-        <translation type="unfinished"></translation>
+        <translation>Salvar_valores</translation>
     </message>
     <message>
         <source>Alt_exp</source>
         <comment>TX_ParaInfo_367</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alt_exp</translation>
     </message>
     <message>
         <source>Alt_form</source>
         <comment>TX_ParaInfo_368</comment>
+        <translation>Alt_form</translation>
+    </message>
+    <message>
+        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
+        <comment>TX_ParaDesc_009</comment>
+        <translation type="obsolete">lógico1%1lógico2%1... são 1 a 30 condições que você deseja testar que podem ser tanto VERDADEIRO ou FALSO e podem ser valores lógicos, matrizes ou referências.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
+        <comment>TX_ParaDesc_018</comment>
+        <translation>número1%1número2%1... são de 1 a 30 argumentos cuja média dos desvios absolutos se deseja calcular.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numeric arguments for which you want the average.</source>
+        <comment>TX_ParaDesc_019</comment>
+        <translation>número1%1número2%1... são de 1 a 30 argumentos numéricos cuja média se deseja obter.</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 arguments for which you want the average.</source>
+        <comment>TX_ParaDesc_020</comment>
+        <translation>valor1%1valor2%1... são de 1 a 30 argumentos cuja média se deseja obter.</translation>
+    </message>
+    <message>
+        <source>value 1%1 value 2%1... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
+        <comment>TX_ParaDesc_044</comment>
+        <translation>valor 1%1 valor 2%1... são de 1 a 29 números, referências de célula, nomes definidos, fórmulas, funções ou argumentos de texto dos quais ESCOLHER seleciona um valor.</translation>
+    </message>
+    <message>
+        <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
+        <comment>TX_ParaDesc_051</comment>
+        <translation>texto1%1 texto2%1... são de 1 a 30 cadeias de texto a serem agrupadas em uma única cadeia, podendo ser cadeias de texto, números ou referências a células únicas.</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
+        <comment>TX_ParaDesc_059</comment>
+        <translation type="obsolete">valor1%1valor2%1... são de 1 a 30 argumentos que podem conter ou referir-se a diversos tipos de dados, mas somente os números são contados.</translation>
+    </message>
+    <message>
+        <source>value1%1 value2%1... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
+        <comment>TX_ParaDesc_060</comment>
+        <translation type="obsolete">valor1%1 valor2%1... são de 1 a 30 argumentos que representam os valores e as células que deseja contar. Valores podem ser quaisquer tipos de informação.</translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
+        <comment>TX_ParaDesc_094</comment>
+        <translation>número1%1 número2%1... são de 1 a 30 argumentos, ou uma matriz ou referência de matriz, da qual se deseja calcular DESVQ.</translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
+        <comment>TX_ParaDesc_153</comment>
+        <translation>número1%1 número2%1... são de 1 a 30 números ou nomes, matrizes ou referências que contenham números cuja média você deseja calcular.</translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
+        <comment>TX_ParaDesc_160</comment>
+        <translation>número1%1 número2%1... são de 1 a 30 números ou nome, matrizes ou referências que contenham números cuja média harmônica você deseja calcular.</translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
+        <comment>TX_ParaDesc_203</comment>
+        <translation>número1%1 número2%1... são de 1 a 30 números ou nomes, matrizes ou referências que contenham números cuja curtose você deseja obter.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
+        <comment>TX_ParaDesc_234</comment>
+        <translation>número1%1número2%1... são de 1 a 30 números, células vazias, valores lógicos ou números em forma de texto cujo valor máximo você deseja obter.</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
+        <comment>TX_ParaDesc_235</comment>
+        <translation>valor1%1valor2%1... são de 1 a 30 números, células vazias, valores lógicos ou números em forma de texto cujo valor máximo você deseja obter.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
+        <comment>TX_ParaDesc_237</comment>
+        <translation>número1%1número2%1... são de 1 a 30 números ou nomes, matrizes ou referências que contêm números cuja mediana você deseja obter.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
+        <comment>TX_ParaDesc_244</comment>
+        <translation>número1%1número2%1... são de 1 a 30 números, células vazias, valores lógicos ou números em forma de texto cujo valor mínimo você deseja obter.</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
+        <comment>TX_ParaDesc_245</comment>
+        <translation>valor1%1valor2%1... são de 1 a 30 números, células vazias, valores lógicos ou números em forma de texto cujo valor mínimo você deseja obter.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
+        <comment>TX_ParaDesc_254</comment>
+        <translation>número1%1número2%1... são de 1 a 30 números ou nomes, matrizes ou referências que contenham números cujo modo você deseja obter.</translation>
+    </message>
+    <message>
+        <source>value 1%1 value 2%1... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
+        <comment>TX_ParaDesc_274</comment>
+        <translation>valor 1%1 valor 2%1... são de 1 a 29 pagamentos e rendas, distribuídos em espaços iguais, e que ocorrem ao final de cada período.</translation>
+    </message>
+    <message>
+        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
+        <comment>TX_ParaDesc_281</comment>
+        <translation>lógica1%1lógica2%1... são de 1 a 30 condições que você deseja testar e que podem ser VERDADEIRAS ou FALSAS</translation>
+    </message>
+    <message>
+        <source>number 1%1 number 2%1...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
+        <comment>TX_ParaDesc_307</comment>
+        <translation>número 1%1 número 2%1... são de 1 a 30 números, valores lógicos ou representações de número em forma de texto que você deseja multiplicar.</translation>
+    </message>
+    <message>
+        <source>topic1%1topic2%1...are 1 to 28 parameters that specify a piece of data.</source>
+        <comment>TX_ParaDesc_351</comment>
+        <translation>topic1%1topic2%1... são de 1 a 28 parâmetros que especificam um pedaço de dados.</translation>
+    </message>
+    <message>
+        <source>number 1%1number 2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
+        <comment>TX_ParaDesc_360</comment>
+        <translation>número 1%1número 2%1... são de 1 a 30 números ou nomes, matrizes ou referências que contenham números cuja distorção você deseja obter.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
+        <comment>TX_ParaDesc_372</comment>
+        <translation>número1%1número2%1... são de 1 a 30 números que correspondem a uma amostra de uma população, podendo ser números ou referências que contenham números.</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
+        <comment>TX_ParaDesc_373</comment>
+        <translation>valor1%1valor2%1... são de 1 a 30 valores que correspondem a uma amostra de uma população, podendo ser valores, nomes ou referências que contenham valores.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
+        <comment>TX_ParaDesc_374</comment>
+        <translation>número1%1número2%1... são de 1 a 30 números que correspondem a uma população, podendo ser números ou referências que contenham números.</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
+        <comment>TX_ParaDesc_375</comment>
+        <translation>valor1%1valor2%1... são de 1 a 30 valores que correspondem à população, podendo ser valores, nomes, matrizes ou referências que contenham valores.</translation>
+    </message>
+    <message>
+        <source>ref 1%1 ref 2%1...are 1 to 29 ranges or references for which you want the subtotal.</source>
+        <comment>TX_ParaDesc_381</comment>
+        <translation>ref 1%1 ref 2%1... são de 1 a 29 intervalos ou referências cujos subtotais você deseja calcular.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
+        <comment>TX_ParaDesc_382</comment>
+        <translation>número1%1número2%1... são de 1 a 30 números a serem somados. Valores lógicos e texto são ignorados, mesmo quando digitados como argumentos.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
+        <comment>TX_ParaDesc_387</comment>
+        <translation>número1%1número2%1... são de 1 a 30 números, matrizes, nomes ou referências a matrizes cuja soma dos quadrados você deseja calcular.</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 value arguments corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_424</comment>
+        <translation>valor1%1valor2%1... são de 1 a 30 argumentos de valor que correspondem a uma amostra de uma população.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
+        <comment>TX_ParaDesc_425</comment>
+        <translation>número1%1número2%1... são de 1 a 30 argumentos numéricos que correspondem a uma população.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
+        <comment>TX_ParaDesc_426</comment>
+        <translation>número1%1número2%1... são de 1 a 30 argumentos numéricos que correspondem a uma população.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 255 values for which you want the multinomial.</source>
+        <comment>TX_ParaDesc_476</comment>
+        <translation>número1%1número2%1... são de 1 a 255 valores cujos multinômios você deseja obter.</translation>
+    </message>
+    <message>
+        <source>topic1%1topic2%1...are 1 to 38 parameters that specify a piece of data.</source>
+        <comment>TX_ParaDesc_548</comment>
+        <translation>topic1%1topic2%1... são de 1 a 38 parâmetros que especificam um pedaço de dados.</translation>
+    </message>
+    <message>
+        <source>is a number, a reference to a cell containing a number, or a formula that evaluates to a number, 2 if omitted.</source>
+        <comment>TX_ParaDesc_337</comment>
+        <translation>é um número , uma referência a uma célula que contém um número , ou uma fórmula que evalueates para um número , 2 , se omitido .</translation>
+    </message>
+    <message>
+        <source>is the angle in radians for which you want the sine. Degrees *PI()/180 = radians.</source>
+        <comment>TX_ParaDesc_395</comment>
+        <translation>é o ângulo em radianos para o qual você deseja que o sine . Degress * PI () /180 = radianos.</translation>
+    </message>
+    <message>
+        <source>is the condition or criteria in the form of a number, expression, or text that defines which cells will be used to find the average.</source>
+        <comment>TX_ParaDesc_384</comment>
+        <translation>é a condição ou critérios na forma de um número , experession , ou texto que define quais as células irão ser utilizados para encontrar a média .</translation>
+    </message>
+    <message>
+        <source>specifies the number of distribution tails to return: one-tailed distribution = 1; tow-tailed distribution = 2.</source>
+        <comment>TX_ParaDesc_398</comment>
+        <translation>especifica o número de caudas de distribuição para retornar : distribuição de cauda ont = 1; rabo-de- reboque distribuição = 2 .</translation>
+    </message>
+    <message>
+        <source>is the condition or criteria in the form of a number, expression, or text that defines which cells will be used to find the average.</source>
+        <comment>TX_ParaDesc_063</comment>
+        <translation type="obsolete">é a condição ou os critérios expressos como um número, uma expressão ou um texto que define quais células serão usadas para calcular a média.</translation>
+    </message>
+    <message>
+        <source>is the angle in radians for which you want the sine. Degrees *PI()/180 = radians.</source>
+        <comment>TX_ParaDesc_359</comment>
+        <translation>é o ângulo em radianos cujo seno você deseja obter. Graus *PI()/180 = radianos.</translation>
+    </message>
+    <message>
+        <source>array1%1array2%1...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have the same dimensions.</source>
+        <comment>TX_ParaDesc_386</comment>
+        <translation>matriz1%1matriz2%1...de 2 a 30 matrizes para as quais você deseja multiplicar e somar componentes. Todas as matrizes devem ter as mesmas dimensões.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1…are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the average.</source>
+        <comment>TX_ParaDesc_152</comment>
+        <translation>número 1, %1número 2%1… são números de 1 a 30 ou nomes, matrizes ou referências que contêm os números que você deseja tirar a média.</translation>
+    </message>
+    <message>
+        <source>is the position (from the largest) in the array or cell range of the value to return</source>
+        <comment>TX_ParaDesc_205</comment>
+        <translation>é a posição (do maior) no intervalo de matriz ou de célula do valor a ser retornado</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 255 numeric arguments corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_423</comment>
+        <translation>número 1, %1número 2%1... são de 1 a 255 argumentos numéricos que correspondem a uma amostra de uma população.</translation>
+    </message>
+    <message>
+        <source>Value 1%1value 2%1… are 1 to 30 plural numbers, used to calculate the product.</source>
+        <comment>TX_ParaDesc_522</comment>
+        <translation>Valor 1, %1valor 2%1… são de 1 a 30 números, usados para calcular o produto.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 values.</source>
+        <comment>TX_ParaDesc_152</comment>
+        <translation type="obsolete">número1%1número2%1... são de 1 a 30 valores.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 255 values for which you want the least common multiple.</source>
+        <comment>TX_ParaDesc_205</comment>
+        <translation type="obsolete">número1%1número2%1... são de 1 a 255 valores cujos mínimos múltiplos comuns se deseja obter</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_423</comment>
+        <translation type="obsolete">número1%1número2%1... são de 1 a 30 argumentos numéricos que correspondem a uma amostra de uma população.</translation>
+    </message>
+    <message>
+        <source>Value 1%1value 2%1...1 to 30 of plural numbers, used to calculate the product.</source>
+        <comment>TX_ParaDesc_522</comment>
+        <translation type="obsolete">Valor 1%1valor 2%1... são números pares de 1 a 30 utilizados para calcular o produto.</translation>
+    </message>
+    <message>
+        <source>The formula you entered contains errors. WPS Spreadsheets will automatically correct it as: 
+&apos;%s
+• To accept the correction, click OK.
+• To close this message and correct the formula by yourself, click Cancel.
+• If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
+        <comment>TX_InputFormula_Error</comment>
+        <translation>A fórmula digitada contém erros. WPS Spreadsheets irá corrigi-lo automaticamente como :
+&apos; %s
+• Se você quiser aceitar a correção , clique em OK.
+• Se você quiser fechar esta mensagem e corrigir a fórmula por si mesmo, clique em Cancelar.
+• Se você não estiver digitando uma fórmula , por favor, evitar o uso de um sinal de igual ( =), sinal de mais (+) ou sinal de menos ( - ) no início .</translation>
+    </message>
+    <message>
+        <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
+&apos;%s
+• To accept the correction, click OK.
+• To close this message and correct the formula by yourself, click Cancel
+• If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
+        <comment>TX_InputFormulaStringTooLong_Error</comment>
+        <translation type="obsolete">A cadeia de caracteres constante na fórmula é muito longa. WPS Spreadsheets irá corrigi-lo automaticamente como :
+&apos; %s
+• Para aceitar a correção , clique em Sim .
+• Para fechar esta mensagem e corrigir a fórmula por si mesmo, clique em Cancelar.
+• Se você não estiver digitando uma fórmula, por favor, evite começar a sua entrada com o sinal de igual (=) , mais ( +) ou menos (- ) .</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, creating a circular reference. Try one of the following:
+
+•If you do not want to create the circular reference, click OK, and correct the formula.
+•If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
+        <comment>TX_FORMULA_RECURSION</comment>
+        <translation>WPS Spreadsheets não é possível calcular a fórmula. Célula referenciada na fórmula é a mesma célula que contém a fórmula , que faz com que uma referência circular . Tente um dos seguintes procedimentos :
+
+• Se você não quiser criar a referência circular , clique em OK , e corrigir a fórmula.
+• Se você quiser usar referência circular para calcular o resultado correto , por favor clique na caixa de seleção Iteração em Configurações no menu Ferramentas .</translation>
+    </message>
+    <message>
+        <source>To create a chart, select the cells that contain the data you&apos;d like to use. If you have names for the rows and columns and you&apos;d like to use them as labels, include them in you selection.</source>
+        <comment>TX_CHart_EmptyCell</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Excel 2007/2010 Workbook</source>
+        <comment>TX_NEWBLANKXLSXFILECAPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Excel 2003 Workbook</source>
+        <comment>TX_NEWBLANKXLSFILECAPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Shape</source>
+        <comment>TX_SETSHAPECAPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dialog_Ref</source>
+        <comment>TX_ParaInfo_369</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_370</comment>
+        <translation>Núm_tipo</translation>
+    </message>
+    <message>
+        <source>This workbook cannot be shared because it contains WPS tables or XML maps. To share this workbook, convert the tables to ranges and remove the XML maps.</source>
+        <comment>TX_RemoveTable_ShareBook</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>WP_NoSynonymsSuggestions_Caption</comment>
+        <translation type="obsolete">(Nenhuma sugestão de sinônimo)</translation>
+    </message>
+    <message>
+        <source>is the discount rate to apply to the cash flows.</source>
+        <comment>TX_ParaDesc_549</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a series of cash flows that correspond to a schedule of payments in dates.</source>
+        <comment>TX_ParaDesc_550</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14053,37 +14992,37 @@ There are several possible reasons:
     <message>
         <source>&amp;Undo</source>
         <comment>TX_Undo_Undo</comment>
-        <translation>desfazer</translation>
+        <translation>&amp;Desfazer</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
         <comment>TX_Undo_Redo</comment>
-        <translation>refazer</translation>
+        <translation>&amp;Refazer</translation>
     </message>
     <message>
         <source>Typing %s in &quot;%s&quot;</source>
         <comment>TX_Undo_SetCellValue</comment>
-        <translation>Digitando %s em &apos;%s \&quot;</translation>
+        <translation>Digitando %s em &apos;%s&quot;</translation>
     </message>
     <message>
         <source>Can&apos;t &amp;Undo </source>
         <comment>TX_Undo_CannotUndo</comment>
-        <translation>Não é possível anular</translation>
+        <translation>Não é Possí&amp;vel Anular</translation>
     </message>
     <message>
         <source>Can&apos;t &amp;Redo</source>
         <comment>TX_Undo_CannotRedo</comment>
-        <translation>Não é possível refazer</translation>
+        <translation>Não é possível &amp;Refazer</translation>
     </message>
     <message>
         <source>&amp;Undo %s </source>
         <comment>TX_Undo_UndoPrefix</comment>
-        <translation>Undo %s</translation>
+        <translation>&amp;Desfazer %s</translation>
     </message>
     <message>
         <source>&amp;Redo %s </source>
         <comment>TX_Undo_RedoPrefix</comment>
-        <translation>Redo %s</translation>
+        <translation>&amp;Refazer %s</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -14138,7 +15077,7 @@ There are several possible reasons:
     <message>
         <source>Delete Comments</source>
         <comment>TX_Undo_ClearComments</comment>
-        <translation>excluir comentários</translation>
+        <translation>Excluir comentários</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -14193,7 +15132,7 @@ There are several possible reasons:
     <message>
         <source>Define Name</source>
         <comment>TX_Undo_Name</comment>
-        <translation>definir nome</translation>
+        <translation>Definir nome</translation>
     </message>
     <message>
         <source>Insert Function</source>
@@ -14218,7 +15157,7 @@ There are several possible reasons:
     <message>
         <source>Delete Legend</source>
         <comment>TX_Undo_ChartHideLegend</comment>
-        <translation>excluir Legend</translation>
+        <translation>Excluir Legend</translation>
     </message>
     <message>
         <source>Series in Rows</source>
@@ -14298,27 +15237,27 @@ There are several possible reasons:
     <message>
         <source>Unhide Sheets</source>
         <comment>TX_Undo_UnhideSheets</comment>
-        <translation>reexibir planilhas</translation>
+        <translation>Reexibir Planilhas</translation>
     </message>
     <message>
         <source>Rename Sheet</source>
         <comment>TX_Undo_RenameSheet</comment>
-        <translation>renomear Planilha</translation>
+        <translation>Renomear Planilha</translation>
     </message>
     <message>
         <source>Background</source>
         <comment>TX_Undo_Background</comment>
-        <translation>Background</translation>
+        <translation>Plano de Fundo</translation>
     </message>
     <message>
         <source>Tab Color</source>
         <comment>TX_Undo_TabColor</comment>
-        <translation>tab Cor</translation>
+        <translation>Tab Cor</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
         <comment>TX_Undo_ConditionalFormat</comment>
-        <translation>formatação condicional</translation>
+        <translation>Formatação condicional</translation>
     </message>
     <message>
         <source>Hide Row</source>
@@ -14333,7 +15272,7 @@ There are several possible reasons:
     <message>
         <source>Unhide Rows</source>
         <comment>TX_Undo_UnhideRows</comment>
-        <translation>reexibir linhas</translation>
+        <translation>Reexibir linhas</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
@@ -14348,7 +15287,7 @@ There are several possible reasons:
     <message>
         <source>AutoFit Selection</source>
         <comment>TX_Undo_AutoFitSelection</comment>
-        <translation>Ajustar automaticamente a selecção</translation>
+        <translation type="obsolete">Ajustar automaticamente a selecção</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -14378,7 +15317,7 @@ There are several possible reasons:
     <message>
         <source>Consolidate</source>
         <comment>TX_Undo_Consolidate</comment>
-        <translation>consolidar</translation>
+        <translation>Consolidar</translation>
     </message>
     <message>
         <source>Group</source>
@@ -14408,7 +15347,7 @@ There are several possible reasons:
     <message>
         <source>Freeze Panes</source>
         <comment>TX_Undo_FreezePanes</comment>
-        <translation>congelar painéis</translation>
+        <translation>Congelar painéis</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -14519,7 +15458,7 @@ de Formatação</translation>
     <message>
         <source>Decrease Decimal</source>
         <comment>TX_Undo_DecreaseDecimal</comment>
-        <translation>diminuir Decimal</translation>
+        <translation>Diminuir Decimal</translation>
     </message>
     <message>
         <source>Format Cells</source>
@@ -14574,7 +15513,7 @@ de Formatação</translation>
     <message>
         <source>Name Box</source>
         <comment>TX_Undo_FormulaBarNameBox</comment>
-        <translation>nome Box</translation>
+        <translation>Nome Box</translation>
     </message>
     <message>
         <source>Enter</source>
@@ -14609,7 +15548,7 @@ de Formatação</translation>
     <message>
         <source>Auto Fill</source>
         <comment>TX_Undo_AutoFill</comment>
-        <translation>preenchimento automático</translation>
+        <translation>Preenchimento automático</translation>
     </message>
     <message>
         <source>Copy Range </source>
@@ -14729,12 +15668,12 @@ de Formatação</translation>
     <message>
         <source>Validation</source>
         <comment>TX_Undo_Validation</comment>
-        <translation>validação</translation>
+        <translation>Validação</translation>
     </message>
     <message>
         <source>Recalculate</source>
         <comment>TX_Undo_RecalculateBook</comment>
-        <translation>recalcular</translation>
+        <translation>Recalcular</translation>
     </message>
     <message>
         <source>Datasheet</source>
@@ -14769,6 +15708,36 @@ de Formatação</translation>
     <message>
         <source>PivotTable&apos;s field filter</source>
         <comment>TX_Undo_PivotTableFilter</comment>
+        <translation>Filtro de campo da tabela dinâmica</translation>
+    </message>
+    <message>
+        <source>AutoFitSelection</source>
+        <comment>TX_Undo_AutoFitSelection</comment>
+        <translation>AutoAjustar Seleção</translation>
+    </message>
+    <message>
+        <source>Insert New Chart</source>
+        <comment>TX_Undo_InsertNewChart</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Resize</source>
+        <comment>TX_Undo_ListObjectRBDrag</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Colunm</source>
+        <comment>TX_Undo_ListColumnDelete</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Row</source>
+        <comment>TX_Undo_ListRowDelete</comment>
+        <translation type="unfinished">excluir linha</translation>
+    </message>
+    <message>
+        <source>New Table Style</source>
+        <comment>TX_Undo_NewTableStyle</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14777,7 +15746,7 @@ de Formatação</translation>
     <message>
         <source>Blank Template</source>
         <comment>et_BlackTemplate</comment>
-        <translation>modelo em branco</translation>
+        <translation>Modelo em branco</translation>
     </message>
     <message>
         <source>AaBbCc</source>
@@ -14787,12 +15756,12 @@ de Formatação</translation>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>et_LocalString</comment>
-        <translation>WPS Planilhas</translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>Accepted changes</source>
         <comment>et_sAccept</comment>
-        <translation>alterações aceites</translation>
+        <translation>Alterações aceites</translation>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
@@ -14802,12 +15771,12 @@ de Formatação</translation>
     <message>
         <source>Op&amp;tions &lt;&lt;</source>
         <comment>et_sAdvancedModeCap</comment>
-        <translation>opções</translation>
+        <translation>Op&amp;ções &lt;&lt;</translation>
     </message>
     <message>
         <source>Ad&amp;vanced...</source>
         <comment>et_sAdvanceName</comment>
-        <translation>Avançado ...</translation>
+        <translation>A&amp;vançado...</translation>
     </message>
     <message>
         <source>(All)</source>
@@ -14817,7 +15786,7 @@ de Formatação</translation>
     <message>
         <source>Any value</source>
         <comment>et_sAny</comment>
-        <translation>qualquer valor</translation>
+        <translation>Qualquer valor</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -14887,7 +15856,7 @@ de Formatação</translation>
     <message>
         <source>Bottom Aligned</source>
         <comment>et_sBottomAligned</comment>
-        <translation>inferior Alinhados</translation>
+        <translation>Inferior Alinhados</translation>
     </message>
     <message>
         <source>(Custom...)</source>
@@ -14897,7 +15866,7 @@ de Formatação</translation>
     <message>
         <source>*.*</source>
         <comment>et_sBrowseDefaultExt</comment>
-        <translation>* *.</translation>
+        <translation>*.*</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
@@ -14953,12 +15922,12 @@ de Formatação</translation>
     <message>
         <source>&amp;Advanced</source>
         <comment>et_sCaptionMore</comment>
-        <translation>Avançado</translation>
+        <translation>&amp;Avançado</translation>
     </message>
     <message>
         <source>&amp;Normal</source>
         <comment>et_sCaptionNoMore</comment>
-        <translation>normal</translation>
+        <translation>&amp;Normal</translation>
     </message>
     <message>
         <source> - Reference:</source>
@@ -14998,7 +15967,7 @@ de Formatação</translation>
     <message>
         <source>Change &amp;to:</source>
         <comment>et_sChangeTo</comment>
-        <translation>Mudar Para:</translation>
+        <translation>&amp;Mudar para:</translation>
     </message>
     <message>
         <source>Close</source>
@@ -15023,7 +15992,7 @@ de Formatação</translation>
     <message>
         <source>Col %s</source>
         <comment>et_sColField</comment>
-        <translation>col %s</translation>
+        <translation>Col %s</translation>
     </message>
     <message>
         <source>(Col %s) %s</source>
@@ -15053,17 +16022,17 @@ de Formatação</translation>
     <message>
         <source>Condition &amp;1</source>
         <comment>et_sCondition1</comment>
-        <translation>condição 1</translation>
+        <translation>Condição &amp;1</translation>
     </message>
     <message>
         <source>Condition &amp;2</source>
         <comment>et_sCondition2</comment>
-        <translation>condição 2</translation>
+        <translation>Condição &amp;2</translation>
     </message>
     <message>
         <source>Condition &amp;3</source>
         <comment>et_sCondition3</comment>
-        <translation>condição 3</translation>
+        <translation>Condição &amp;3</translation>
     </message>
     <message>
         <source>Confirmation password is not identical.</source>
@@ -15118,17 +16087,17 @@ de Formatação</translation>
     <message>
         <source>Date</source>
         <comment>et_sDate</comment>
-        <translation>Data</translation>
+        <translation>Dados</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
         <comment>et_sDateS</comment>
-        <translation>Data:</translation>
+        <translation>Da&amp;ta:</translation>
     </message>
     <message>
         <source>Decimal</source>
         <comment>et_sDecimal</comment>
-        <translation>decimal</translation>
+        <translation>Decimal</translation>
     </message>
     <message>
         <source>Default book name &quot;%s&quot; is not valid, can&apos;t include &quot;%s&quot;.</source>
@@ -15148,7 +16117,7 @@ de Formatação</translation>
     <message>
         <source>Degrees</source>
         <comment>et_sDegrees</comment>
-        <translation>graus</translation>
+        <translation>Graus</translation>
     </message>
     <message>
         <source>List will be permanently deleted.</source>
@@ -15183,7 +16152,7 @@ de Formatação</translation>
     <message>
         <source>Vertically Distributed</source>
         <comment>et_sDistributedAligned</comment>
-        <translation>verticalmente Distribuído</translation>
+        <translation>Verticalmente Distribuído</translation>
     </message>
     <message>
         <source>begins with</source>
@@ -15193,7 +16162,7 @@ de Formatação</translation>
     <message>
         <source>contains</source>
         <comment>et_sDlgCustomAutoFilter_Contains</comment>
-        <translation>contém</translation>
+        <translation>ontém</translation>
     </message>
     <message>
         <source>does not begin with</source>
@@ -15273,12 +16242,12 @@ de Formatação</translation>
     <message>
         <source>E&amp;nd date:</source>
         <comment>et_sEndDate</comment>
-        <translation>Fim:</translation>
+        <translation>Data de &amp;fim:</translation>
     </message>
     <message>
         <source>E&amp;nd time:</source>
         <comment>et_sEndTime</comment>
-        <translation>Tempo do fim :</translation>
+        <translation>Hora de &amp;fim:</translation>
     </message>
     <message>
         <source>You must enter both an End Date and a Start Date.</source>
@@ -15423,7 +16392,7 @@ de Formatação</translation>
     <message>
         <source>&amp;Find/Replace...</source>
         <comment>et_sFindMenuCaption</comment>
-        <translation>Localizar/Substituir ...</translation>
+        <translation>&amp;Localizar/Substituir...</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find any data to replace. Check if your search formatting and criteria are defined correctly. If you are sure that matching data exists in this workbook, it may be on a protected sheet. WPS Spreadsheets cannot replace data on a protected worksheet.</source>
@@ -15463,27 +16432,27 @@ de Formatação</translation>
     <message>
         <source>&amp;[%s]</source>
         <comment>et_sFormat</comment>
-        <translation>[ %s ]</translation>
+        <translation>&amp;[%s]</translation>
     </message>
     <message>
         <source>&amp;Format...</source>
         <comment>et_sFormat1Caption</comment>
-        <translation>Formato ...</translation>
+        <translation>&amp;Formato...</translation>
     </message>
     <message>
         <source>F&amp;ormat...</source>
         <comment>et_sFormat2Caption</comment>
-        <translation>Formato ...</translation>
+        <translation>F&amp;ormato...</translation>
     </message>
     <message>
         <source>Fo&amp;rmat...</source>
         <comment>et_sFormat3Caption</comment>
-        <translation>Formato ...</translation>
+        <translation>Fo&amp;rmato...</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
         <comment>et_sFormula</comment>
-        <translation>fórmula:</translation>
+        <translation>&amp;Fórmula:</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has completed its search and has made %d replacements.</source>
@@ -15533,7 +16502,7 @@ de Formatação</translation>
     <message>
         <source>Information</source>
         <comment>et_sInfomation</comment>
-        <translation>informações</translation>
+        <translation>Informações</translation>
     </message>
     <message>
         <source>Integer is not valid.</source>
@@ -15607,12 +16576,12 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>List</source>
         <comment>et_sList</comment>
-        <translation>lista</translation>
+        <translation>Lista</translation>
     </message>
     <message>
         <source>Locked</source>
         <comment>et_sLocked</comment>
-        <translation>trancado</translation>
+        <translation>Trancado</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -15627,7 +16596,7 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>Values</source>
         <comment>et_sLookinValues</comment>
-        <translation>valores</translation>
+        <translation>Valores</translation>
     </message>
     <message>
         <source>less than or equal to</source>
@@ -15647,12 +16616,12 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>Ma&amp;ximum:</source>
         <comment>et_sMax</comment>
-        <translation>máxima:</translation>
+        <translation>Máx&amp;imo:</translation>
     </message>
     <message>
         <source>&amp;Minimum:</source>
         <comment>et_sMin</comment>
-        <translation>mínimo :</translation>
+        <translation>&amp;Mínimo:</translation>
     </message>
     <message>
         <source>Failed to modify the dictionary file you selected, make sure the file exists and is not read-only.</source>
@@ -15787,7 +16756,7 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>Op&amp;tions &gt;&gt;</source>
         <comment>et_sNormalModeCap</comment>
-        <translation>opções</translation>
+        <translation>Op&amp;ções &gt;&gt;</translation>
     </message>
     <message>
         <source>No scaling</source>
@@ -15837,7 +16806,7 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>The measurement must be between %d and %d.</source>
         <comment>et_sNumberOutOfRange</comment>
-        <translation>A Medição Deve Estar Entre %D e %D .</translation>
+        <translation>A Medição Deve Estar Entre %d e %d.</translation>
     </message>
     <message>
         <source>Incorrect input.The value must be a Number.</source>
@@ -15872,7 +16841,7 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>&amp;A</source>
         <comment>et_sPageA</comment>
-        <translation>A</translation>
+        <translation>&amp;A</translation>
     </message>
     <message>
         <source>Drop Page Fields Here</source>
@@ -15887,17 +16856,17 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>Page &amp;P</source>
         <comment>et_sPageP</comment>
-        <translation>página P</translation>
+        <translation>Página &amp;P</translation>
     </message>
     <message>
         <source>Page &amp;P &amp;A</source>
         <comment>et_sPagePA</comment>
-        <translation>Página P A</translation>
+        <translation>Página &amp;P &amp;A</translation>
     </message>
     <message>
         <source>Page &amp;P of &amp;N</source>
         <comment>et_sPagePofN</comment>
-        <translation>Página P de N</translation>
+        <translation>Página &amp;P de &amp;N</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -15917,7 +16886,7 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>Exporting PDF file is completed.</source>
         <comment>et_spdfCompleted</comment>
-        <translation>Exportando Arquivo Pdf Está Concluída.</translation>
+        <translation>A exportação do aquivo PDF está concluída.</translation>
     </message>
     <message>
         <source>Exporting page %d...</source>
@@ -15957,7 +16926,7 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>Reading Order</source>
         <comment>et_sReadingOrder</comment>
-        <translation>ordem de leitura</translation>
+        <translation>Ordem de leitura</translation>
     </message>
     <message>
         <source>Failed to delete dictionary files from disk, please delete the files manually.</source>
@@ -15967,12 +16936,12 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>Redo %d Action(s)</source>
         <comment>et_sRedoListCaption</comment>
-        <translation>Refazer %D Acção ( S)</translation>
+        <translation>Refazer %d Ação(es)</translation>
     </message>
     <message>
         <source>Rejected changes</source>
         <comment>et_sReject</comment>
-        <translation>alterações rejeitadas</translation>
+        <translation>Alterações rejeitadas</translation>
     </message>
     <message>
         <source>Related Acceptances</source>
@@ -15987,7 +16956,7 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
         <comment>et_sRemoveDefaultDict</comment>
-        <translation>Removendo O Dicionário Personalizado Pode Afetar O Dicionário Personalizado Usado Por Outros Programas Wps Office. Você Quer Continuar?</translation>
+        <translation>Removendo O Dicionário Personalizado Pode Afetar O Dicionário Personalizado Usado Por Outros Programas WPS Office. Você Quer Continuar?</translation>
     </message>
     <message>
         <source>Are you sure to send the dictionary %1 to the Recycle Bin?</source>
@@ -15997,7 +16966,7 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>WPS Spreadsheets cannot find a match.</source>
         <comment>et_sReplace_NotFind</comment>
-        <translation>WPS Planilha não pode encontrar a condição correspondente.</translation>
+        <translation>WPS Spreadsheets não pode encontrar a condição correspondente.</translation>
     </message>
     <message>
         <source>Find the matches, but fail to replace. The contents replaced may be invalid formulas.</source>
@@ -16072,12 +17041,12 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>Shaded</source>
         <comment>et_sShaded</comment>
-        <translation>sombreado</translation>
+        <translation>Sombreado</translation>
     </message>
     <message>
         <source>Tab</source>
         <comment>et_sSheet</comment>
-        <translation>tab</translation>
+        <translation>Tab</translation>
     </message>
     <message>
         <source>Show Items of %s:</source>
@@ -16140,17 +17109,17 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>&amp;Source:</source>
         <comment>et_sSource</comment>
-        <translation>fonte :</translation>
+        <translation>O&amp;rigem:</translation>
     </message>
     <message>
         <source>&amp;Start date:</source>
         <comment>et_sStartDate</comment>
-        <translation>Data de início :</translation>
+        <translation>Data de &amp;início:</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
         <comment>et_sStartTime</comment>
-        <translation>Hora de início :</translation>
+        <translation>Hora de &amp;início:</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -16190,7 +17159,7 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>Text length</source>
         <comment>et_sTextLen</comment>
-        <translation>comprimento do texto</translation>
+        <translation>Comprimento do texto</translation>
     </message>
     <message>
         <source>Time</source>
@@ -16200,7 +17169,7 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>&amp;Time:</source>
         <comment>et_sTimeS</comment>
-        <translation>Time:</translation>
+        <translation>&amp;Hora:</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
@@ -16235,7 +17204,7 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>Undo %d Action(s)</source>
         <comment>et_sUndoListCaption</comment>
-        <translation>Desfazer Ação %D (S)</translation>
+        <translation>Desfazer Ação(es) %d</translation>
     </message>
     <message>
         <source>Style Name Not Valid</source>
@@ -16245,12 +17214,12 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>&amp;Value:</source>
         <comment>et_sValue</comment>
-        <translation>valor:</translation>
+        <translation>&amp;Valor:</translation>
     </message>
     <message>
         <source>&apos;%s&apos; is an invalid integer.</source>
         <comment>et_sValueInValidInteger</comment>
-        <translation>&apos; %s &apos; é um número inteiro inválido .</translation>
+        <translation>&apos;%s&apos; é um número inteiro inválido .</translation>
     </message>
     <message>
         <source>The name is invalid or the formula contains an error.</source>
@@ -16265,12 +17234,12 @@ a categoria que deseja , e em seguida, escolha as outras opções.</translation>
     <message>
         <source>Warning</source>
         <comment>et_sWarning</comment>
-        <translation>aviso</translation>
+        <translation>Aviso</translation>
     </message>
     <message>
         <source>Whole number</source>
         <comment>et_sWhole</comment>
-        <translation>número inteiro</translation>
+        <translation>Número inteiro</translation>
     </message>
     <message>
         <source>Wrap</source>
@@ -16462,7 +17431,7 @@ Para inserir uma referência, clique na célula da planilha que deseja referir-s
     <message>
         <source>&amp;Standard column width:</source>
         <comment>et_sStandardColumnWidth</comment>
-        <translation>Largura da coluna padrão:</translation>
+        <translation>&amp;Largura padrão da coluna:</translation>
     </message>
     <message>
         <source>Standard Width</source>
@@ -16502,32 +17471,32 @@ Para inserir uma referência, clique na célula da planilha que deseja referir-s
     <message>
         <source>Delete(&amp;D)</source>
         <comment>et_sRecordFormDelete</comment>
-        <translation>Excluir (D)</translation>
+        <translation>Excluir (&amp;E)</translation>
     </message>
     <message>
         <source>Clear(&amp;C)</source>
         <comment>et_sRecordFormClear</comment>
-        <translation>Clear ( C)</translation>
+        <translation>Limpar (&amp;L)</translation>
     </message>
     <message>
         <source>Form(&amp;F)</source>
         <comment>et_sRecordFormForm</comment>
-        <translation>Forma ( F )</translation>
+        <translation>Formulário (&amp;F)</translation>
     </message>
     <message>
         <source>Criteria(&amp;C)</source>
         <comment>et_sRecordFormCriteria</comment>
-        <translation>Critérios (C)</translation>
+        <translation>Critérios (&amp;C)</translation>
     </message>
     <message>
         <source>New Record</source>
         <comment>et_sRecordFormNew</comment>
-        <translation>novo Registro</translation>
+        <translation>Novo Registro</translation>
     </message>
     <message>
         <source>Criteria</source>
         <comment>et_sRecordFormCriteriaCaption</comment>
-        <translation>critérios</translation>
+        <translation>Critérios</translation>
     </message>
     <message>
         <source>If there are repeated contents in cells in the following range,
@@ -16546,8 +17515,10 @@ following range,it reminds checking the correctness of the
 contents.
 (Note: Please select the range with a single row or column)</source>
         <comment>et_sRepeatWordInputDeny</comment>
-        <translation>Se houver valores duplicados quando adicionar o conteúdo no intervalo a seguir, ele lembra de verificar a exatidão do conteúdo 
-(Nota: Por favor, selecione o intervalo com uma única linha ou coluna).</translation>
+        <translation>Se houver valores duplicados quando inserir o conteúdo no intervalo no 
+seguinte intervalo,  relembra a verificação do nível de correção do 
+conteúdo.
+(Nota: Por favor, selecione o intervalo com uma única linha ou coluna)</translation>
     </message>
     <message>
         <source>It compares the contents by rows after click OK. The duplica
@@ -16576,6 +17547,20 @@ tically, only keep one row.
     <message>
         <source>Center Across</source>
         <comment>et_sCenterAcross</comment>
+        <translation>No Centro</translation>
+    </message>
+    <message>
+        <source>An unexpected error has occurred, Changes to your data cannot be saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table has been published successfully, the site is: &lt;a href=&quot;%s&quot;&gt;%s</source>
+        <comment>et_sListObjectPublishSuccessed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot connect to the server at this time. Your table cannot be published.</source>
+        <comment>et_sListobjectPublishHostNotFound</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

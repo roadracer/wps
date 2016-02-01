@@ -185,11 +185,11 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished">濃い色2　強調5/強調2 {2-?} {1/?}</translation>
+        <translation>濃い色2　強調1/強調2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished">濃い色2　強調5/強調4 {2-?} {3/?}</translation>
+        <translation>濃い色2　強調3/強調4</translation>
     </message>
 </context>
 <context>
@@ -371,23 +371,23 @@
     <name>DlgKxInvolvedTemplate</name>
     <message>
         <source>Involved Template</source>
-        <translation type="unfinished"></translation>
+        <translation>組込テンプレート</translation>
     </message>
     <message>
         <source>Select Involved Template</source>
-        <translation type="unfinished"></translation>
+        <translation>組込テンプレートを選択</translation>
     </message>
     <message>
         <source>Apply Current</source>
-        <translation type="unfinished"></translation>
+        <translation>現在のページに適用</translation>
     </message>
     <message>
         <source>Apply All</source>
-        <translation type="unfinished"></translation>
+        <translation>全てのページに適用</translation>
     </message>
     <message>
         <source>Apply Master</source>
-        <translation type="unfinished"></translation>
+        <translation>マスタに適用</translation>
     </message>
 </context>
 <context>
@@ -772,7 +772,7 @@
     </message>
     <message>
         <source>Unlocked</source>
-        <translation type="unfinished"></translation>
+        <translation>ロック解除</translation>
     </message>
 </context>
 <context>
@@ -924,11 +924,15 @@
     </message>
     <message>
         <source>Thousands of templates to create snazzy and distinctive  presentations</source>
-        <translation type="unfinished"></translation>
+        <translation>マジック背景ツールチップ</translation>
     </message>
     <message>
         <source>Try for magic!</source>
-        <translation type="unfinished"></translation>
+        <translation>背景テンプレートツールチップ</translation>
+    </message>
+    <message>
+        <source>bgMagic tooltip</source>
+        <translation type="obsolete">背景テンプレートツールチップ</translation>
     </message>
 </context>
 <context>
@@ -966,7 +970,7 @@
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation>背景, テキストと線, 影, タイトルテキスト, 塗りつぶし, 強調, 強調とハイパーリンク, 強調と表示済みハイパーリンク</translation>
+        <translation type="obsolete">背景, テキストと線, 影, タイトルテキスト, 塗りつぶし, 強調, 強調とハイパーリンク, 強調と表示済みハイパーリンク</translation>
     </message>
     <message>
         <source>Open Image</source>
@@ -1008,7 +1012,7 @@
     <name>KxColorSettingPanel</name>
     <message>
         <source>Accent</source>
-        <translation>強調</translation>
+        <translation type="obsolete">強調</translation>
     </message>
     <message>
         <source>Accent and followed hyperlink</source>
@@ -1020,24 +1024,64 @@
     </message>
     <message>
         <source>Background</source>
-        <translation>背景</translation>
+        <translation type="obsolete">背景</translation>
     </message>
     <message>
         <source>Fills</source>
-        <translation>塗りつぶし</translation>
+        <translation type="obsolete">塗りつぶし</translation>
     </message>
     <message>
         <source>Shadows</source>
-        <translation>影</translation>
+        <translation type="obsolete">影</translation>
     </message>
     <message>
         <source>Text and lines</source>
         <translatorcomment>タイトルテキスト</translatorcomment>
-        <translation>テキストと線</translation>
+        <translation type="obsolete">テキストと線</translation>
     </message>
     <message>
         <source>Title text</source>
-        <translation>タイトルテキスト</translation>
+        <translation type="obsolete">タイトルテキスト</translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <translation>強調1</translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <translation>強調2</translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <translation>強調3</translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <translation>強調4</translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <translation>強調5</translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <translation>強調6</translation>
+    </message>
+    <message>
+        <source>Dark1</source>
+        <translation>濃い1</translation>
+    </message>
+    <message>
+        <source>Dark2</source>
+        <translation>濃い2</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation>薄い色</translation>
+    </message>
+    <message>
+        <source>Light2</source>
+        <translation>薄い色2</translation>
     </message>
 </context>
 <context>
@@ -1157,15 +1201,19 @@
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>オプション</translation>
     </message>
     <message>
         <source>Template Background</source>
-        <translation type="unfinished"></translation>
+        <translation>マジック背景切り替え</translation>
     </message>
     <message>
         <source>Magic Background</source>
-        <translation type="unfinished"></translation>
+        <translation>背景テンプレート</translation>
+    </message>
+    <message>
+        <source>Magic Backgroud</source>
+        <translation type="obsolete">背景テンプレート</translation>
     </message>
 </context>
 <context>
@@ -1338,6 +1386,30 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
 </context>
 <context>
+    <name>KxDlgCompatibilityChecker</name>
+    <message>
+        <source>&amp;Continue</source>
+        <translation>続行(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Compatibility Checker</source>
+        <translation>互換性のチェック</translation>
+    </message>
+    <message>
+        <source>Summary:</source>
+        <translation>概要:</translation>
+    </message>
+    <message>
+        <source>The following features in this presentation are not supported by earlier versions of WPS Presentation.These features may be lost or degraded when you save this presentation in an earlier file format.Click Continue to save the presentation anyway. To retain all of your features click Cancel and save in one of the new file formats.</source>
+        <translation>このプレゼンテーションファイルの以下の機能は、WPS Presentationの古いバージョンでは非対応となっています。旧バージョンの形式で保存する場合、これらの機能が失われたり、劣化する可能性があります。
+「続行」をクリックすると、このプレゼンテーションを保存します。すべての機能を保存するには「キャンセル」をクリックして新しいファイル形式で保存してください。</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgDateAndTime</name>
     <message>
         <source>&amp;Available formats:</source>
@@ -1410,95 +1482,108 @@ the presentation file directly.You can put it with the presentation file in the 
     <name>KxDlgEmbedPrivateFonts</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">ダイアログ</translation>
+        <translation>ダイアログ</translation>
     </message>
     <message>
         <source>Text Label</source>
-        <translation type="unfinished">テキストラベル</translation>
+        <translation>テキストラベル</translation>
     </message>
     <message>
         <source>The document contains cloud fonts. For the convenience of your readers, 
 we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>クラウドフォントを含めるファイルを他人に送付する場合、そのフォントをドキュメントに保存することを推薦します。フォントをドキュメントにＨ損しますか？</translatorcomment>
+        <translation>クラウドフォントが含まれたファイルを他者に送付する場合、フォントをファイルに埋め込むことを推奨します。
+必要な場合は、「キャンセル」をクリックしてください。</translation>
     </message>
     <message>
         <source>Remember my choice, and don&apos;t prompt me again.</source>
-        <translation type="unfinished"></translation>
+        <translation>今回の操作を記憶し、次回から表示しない</translation>
+    </message>
+    <message>
+        <source>Application documents online font, if your document needs circulated others, 
+we recommend that you saved earlier document fonts. 
+If necessary, click Cancel</source>
+        <translation type="obsolete">クラウドフォントが含まれたファイルを他者に送付する場合、フォントをファイルに埋め込むことを推奨します。
+必要に応じて、「キャンセル」をクリックしてください。</translation>
+    </message>
+    <message>
+        <source>Remember this operation, do not remind anymore</source>
+        <translation type="obsolete">今回の操作を記憶し、次回から表示しない</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFont</name>
     <message>
         <source>&amp;Color:</source>
-        <translation>色(&amp;C):</translation>
+        <translation type="obsolete">色(&amp;C):</translation>
     </message>
     <message>
         <source>&amp;Default for new objects</source>
-        <translation>オブジェクトの既定値に設定する(&amp;D)</translation>
+        <translation type="obsolete">オブジェクトの既定値に設定する(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Emboss</source>
-        <translation>浮き出し(&amp;E)</translation>
+        <translation type="obsolete">浮き出し(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>サイズ(&amp;S):</translation>
+        <translation type="obsolete">サイズ(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation>下線(&amp;U)</translation>
+        <translation type="obsolete">下線(&amp;U)</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation>日本語用フォント(&amp;N)</translation>
+        <translation type="obsolete">日本語用フォント(&amp;N)</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>太字</translation>
+        <translation type="obsolete">太字</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation>太字斜体</translation>
+        <translation type="obsolete">太字斜体</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation>効果</translation>
+        <translation type="obsolete">効果</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
-        <translation>スタイル(&amp;O):</translation>
+        <translation type="obsolete">スタイル(&amp;O):</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>フォント</translation>
+        <translation type="obsolete">フォント</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>斜体</translation>
+        <translation type="obsolete">斜体</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation>英数字用フォント(&amp;F)</translation>
+        <translation type="obsolete">英数字用フォント(&amp;F)</translation>
     </message>
     <message>
         <source>Offse&amp;t:</source>
-        <translation>相対位置(&amp;T)</translation>
+        <translation type="obsolete">相対位置(&amp;T)</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Sh&amp;adow</source>
-        <translation>影(&amp;A)</translation>
+        <translation type="obsolete">影(&amp;A)</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation>下付き(&amp;B)</translation>
+        <translation type="obsolete">下付き(&amp;B)</translation>
     </message>
     <message>
         <source>Supe&amp;rscript</source>
-        <translation>上付き(&amp;R)</translation>
+        <translation type="obsolete">上付き(&amp;R)</translation>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
@@ -1506,7 +1591,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
-        <translation>これは True Type フォントです。プリンタと画面の両方で使えます</translation>
+        <translation type="obsolete">これは True Type フォントです。プリンタと画面の両方で使えます</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
@@ -1610,6 +1695,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <message>
         <source>Set as Default(&amp;C)</source>
         <translation>既定値に設定(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Enter 0.1 cm to 5.079 cm of value</source>
+        <translation> 0.1 cm から 5.079 cmの値を入力してください。</translation>
     </message>
 </context>
 <context>
@@ -1715,7 +1804,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation>Kingsoft プレビュー</translation>
+        <translation>Kingsoft Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation Preview</source>
@@ -1882,11 +1971,11 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>&amp;Save backup file every:</source>
-        <translation>バックアップ間隔の設定(&amp;S)</translation>
+        <translation>バックアップ間隔の設定(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Smart Backup</source>
-        <translation>自動バックアップ(&amp;S)</translation>
+        <translation>バックアップ(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Vertical ruler</source>
@@ -2118,7 +2207,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Start&amp;up task window</source>
-        <translation>スタートアップ時にワークウィンドウを表示する(&amp;U)</translation>
+        <translation>起動時にワークウィンドウを表示する(&amp;U)</translation>
     </message>
     <message>
         <source>Show menu on right mouse click(&amp;P)</source>
@@ -2130,7 +2219,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
-        <translation>自動バックアップを起動(&amp;T)</translation>
+        <translation>定期バックアップを起動(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;minutes</source>
@@ -2146,7 +2235,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Preserve &amp;fidelity when sharing this document:</source>
-        <translation type="unfinished"></translation>
+        <translation>次のプレゼンテーションを共有する時に再現性を保つ(&amp;F):</translation>
     </message>
     <message>
         <source>Start with</source>
@@ -2191,11 +2280,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Privacy</source>
-        <translation>プライバシー</translation>
+        <translation type="obsolete">プライバシー</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>Kingsoft Officeを改善するため、皆様のご意見をお待ちしております。</translation>
+        <translation type="unfinished">Kingsoft Officeを改善するため、皆様のご意見をお待ちしております。</translation>
     </message>
     <message>
         <source>&amp;Entries</source>
@@ -2211,43 +2300,95 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルで使用されている文字のみを埋め込む(ファイルサイズを縮小する場合)(&amp;J)</translation>
     </message>
     <message>
         <source>Embed fon&amp;ts in the file</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルにフォントを埋め込む(&amp;T)</translation>
     </message>
     <message>
         <source>Embed all &amp;characters (best for editing by other people)</source>
-        <translation type="unfinished"></translation>
+        <translation>すべての文字列を埋め込む（他のユーザーが編集する場合）(&amp;C)</translation>
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
-        <translation type="unfinished"></translation>
+        <translation>タスクバーにすべてのウィンドウを表示する(&amp;W)</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
-        <translation type="unfinished"></translation>
+        <translation>自動回復ファイルの保存場所(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>参照(&amp;B)...</translation>
     </message>
     <message>
         <source>Remind &amp;Me When Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存時にクラウドフォントの埋め込み有無を確認します(&amp;M)</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"></translation>
+        <translation>「詳細設定」をクリックすると、異なる種類の暗号を選択できます。</translation>
     </message>
     <message>
         <source>General options</source>
-        <translation type="unfinished"></translation>
+        <translation>全般オプション</translation>
     </message>
     <message>
         <source>Password protection</source>
-        <translation type="unfinished"></translation>
+        <translation>パスワード保護</translation>
+    </message>
+    <message>
+        <source>&amp;Just embed used chars</source>
+        <translation type="obsolete">使用されている文字だけを埋め込む。（ファイルサイズを縮小する場合）(&amp;J)</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;その他の広告はどのように削除しますか？更新情報をチェックします&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Embed &amp;True Type</source>
+        <translation type="obsolete">ファイルにフォントを埋め込む(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Embed all &amp;characters (best for editing)</source>
+        <translation type="obsolete">すべての文字を埋め込み(他のユーザーが編集する場合)(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>フィードバック</translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation>今後表示しない(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Password protect</source>
+        <translation type="obsolete">パスワード保護</translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation>一週間後に表示(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation>毎日表示(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation>右クリックでミニツールバーを表示(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation>選択時にミニツールバーを表示(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation>Kingsoftミニサイトを月額契約する</translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="obsolete">ユーザー体験向上プランを入り、Wps Officeの改善を協力する。</translation>
     </message>
 </context>
 <context>
@@ -2417,27 +2558,138 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Fullscreen(4:3)</source>
-        <translation type="unfinished"></translation>
+        <translation>画面に合わせる(4:3)</translation>
     </message>
     <message>
         <source>Overhead</source>
-        <translation type="unfinished"></translation>
+        <translation>オーバーヘッド</translation>
     </message>
     <message>
         <source>Fullscreen(16:9)</source>
-        <translation type="unfinished"></translation>
+        <translation>画面に合わせる(16:9)</translation>
     </message>
     <message>
         <source>Fullscreen(16:10)</source>
-        <translation type="unfinished"></translation>
+        <translation>画面に合わせる(16:10)</translation>
     </message>
     <message>
         <source>Widescreen</source>
-        <translation type="unfinished"></translation>
+        <translation>ワイドスクリーン</translation>
     </message>
     <message>
         <source>Notes, handouts and outline</source>
         <translation>配布資料、ノート、アウトライン</translation>
+    </message>
+    <message>
+        <source>Enter 2.54 to 142.22 cm of value</source>
+        <translation> 2.54 から142.22 cmの値を入力してください。</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgParagraph</name>
+    <message>
+        <source>&amp;At:</source>
+        <translation type="obsolete">設定(&amp;A):</translation>
+    </message>
+    <message>
+        <source>&amp;Before:</source>
+        <translation type="obsolete">段落前(&amp;B):</translation>
+    </message>
+    <message>
+        <source>&amp;Indents and Spacing</source>
+        <translation type="obsolete">インデントと行間(&amp;I)</translation>
+    </message>
+    <message>
+        <source>&amp;Special:</source>
+        <translation type="obsolete">特殊書式(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Standard</source>
+        <translation type="obsolete">標準(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Use Asian rules for controlling first and last characters</source>
+        <translation type="obsolete">禁則処理を行う(&amp;U)</translation>
+    </message>
+    <message>
+        <source>A&amp;fter:</source>
+        <translation type="obsolete">段落後(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Ali&amp;gnment:</source>
+        <translation type="obsolete">配置方式(&amp;G):</translation>
+    </message>
+    <message>
+        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
+        <translation type="obsolete">英単語の途中で改行する(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Allow hanging punctuatio&amp;n</source>
+        <translation type="obsolete">句読点のぶら下げを行う(&amp;N)</translation>
+    </message>
+    <message>
+        <source>B&amp;y:</source>
+        <translation type="obsolete">単位(&amp;Y):</translation>
+    </message>
+    <message>
+        <source>Befo&amp;re text:</source>
+        <translation type="obsolete">テキスト前(&amp;R):</translation>
+    </message>
+    <message>
+        <source>C&amp;hinese Format</source>
+        <translation type="obsolete">中国語書式(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Cann&amp;ot end line:</source>
+        <translation type="obsolete">行末禁則文字(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Cannot st&amp;art line:</source>
+        <translation type="obsolete">行頭禁則文字(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Custo&amp;m</source>
+        <translation type="obsolete">ユーザー設定(&amp;M)</translation>
+    </message>
+    <message>
+        <source>First and last characters</source>
+        <translation type="obsolete">禁則文字</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="obsolete">標準</translation>
+    </message>
+    <message>
+        <source>Indentation</source>
+        <translation type="obsolete">インデント</translation>
+    </message>
+    <message>
+        <source>Li&amp;ne spacing:</source>
+        <translation type="obsolete">行間(&amp;N):</translation>
+    </message>
+    <message>
+        <source>Line Break</source>
+        <translation type="obsolete">改行</translation>
+    </message>
+    <message>
+        <source>Line-breaking characters currently customized for:</source>
+        <translation type="obsolete">禁則の設定を変更した言語:</translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation type="obsolete">段落</translation>
+    </message>
+    <message>
+        <source>Spacing</source>
+        <translation type="obsolete">行間</translation>
+    </message>
+    <message>
+        <source>line, 2, 0, 9.99, 0.1</source>
+        <translation type="obsolete">行, 2, 0, 9.99, 0.1</translation>
+    </message>
+    <message>
+        <source>point, 2, 0, 1584, 1</source>
+        <translation type="obsolete">ポイント, 2, 0, 1584, 1</translation>
     </message>
 </context>
 <context>
@@ -2622,6 +2874,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Sound &amp;volume:</source>
         <translation>音量(&amp;V):</translation>
     </message>
+    <message>
+        <source>&amp;Hide icon on play</source>
+        <translation>再生時にアイコンを非表示(&amp;H)</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgSplitCells</name>
@@ -2636,6 +2892,33 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Split Cells</source>
         <translation>セルの分割</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTrimMedia</name>
+    <message>
+        <source>&amp;End Time</source>
+        <translation>終了時間(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Start Time</source>
+        <translation>開始時間(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>テキストラベル</translation>
+    </message>
+    <message>
+        <source>Trim Media</source>
+        <translation>メディアの編集</translation>
     </message>
 </context>
 <context>
@@ -2713,7 +2996,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Volume Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>音量改善</translation>
     </message>
 </context>
 <context>
@@ -3033,6 +3316,42 @@ This wizard will help you to understand the various settings of the double-scree
         <source>Enter slide numbers or slide ranges. For example, 1,3,5-12</source>
         <translation>印刷するスライドの範囲または番号を入力して下さい　例）1,3 5-12</translation>
     </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation>プリンタの問題をどのように解決しますか？</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWppScaleSlideMode</name>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Ensure Fit</source>
+        <translation>テキストに合わせる(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Maximize</source>
+        <translation>最大化(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Ensure Fit</source>
+        <translation>テキストに合わせる</translation>
+    </message>
+    <message>
+        <source>Maximize</source>
+        <translation>最大化</translation>
+    </message>
+    <message>
+        <source>Scale Slide Mode</source>
+        <translation>縮尺スライドモード</translation>
+    </message>
+    <message>
+        <source>You are scaling to a new slide size. Would you like to maximize the size of your content, or scale it down to ensure it will fit on the new slide ?</source>
+        <translatorcomment>新しいスライドサイズに拡大/縮小する中、新しいスライドに合わるため、内容を最大化、または倍率で縮小しますか？</translatorcomment>
+        <translation>新しいスライドサイズに縮尺中です。新しいスライドに合わせるため、スライド内容の最大化、または縮小しますか？</translation>
+    </message>
 </context>
 <context>
     <name>KxDlglineSpace</name>
@@ -3085,7 +3404,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished">パスワードが一致しません</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Input permission password.</source>
@@ -3428,11 +3747,11 @@ This wizard will help you to understand the various settings of the double-scree
     <name>KxFontDlg</name>
     <message>
         <source>(Use Asian text font)</source>
-        <translation>（日本語フォントを使用）</translation>
+        <translation type="obsolete">（日本語フォントを使用）</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation>背景, テキストと線, 影, タイトルテキスト, 塗りつぶし, 強調, 強調とハイパーリンク, 強調と表示済みハイパーリンク</translation>
+        <translation type="obsolete">背景, テキストと線, 影, タイトルテキスト, 塗りつぶし, 強調, 強調とハイパーリンク, 強調と表示済みハイパーリンク</translation>
     </message>
     <message>
         <source>There is no %1 font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
@@ -3448,22 +3767,51 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
-        <translation>システム上には %1 フォントが存在しません。代用フォントにて表示しますが、よろしいですか？</translation>
+        <translation type="obsolete">システム上には %1 フォントが存在しません。代用フォントにて表示しますが、よろしいですか？</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation>このフォントは存在しません</translation>
+        <translation type="obsolete">このフォントは存在しません</translation>
     </message>
     <message>
         <source>This font size is not available.</source>
-        <translation>このフォントサイズは利用できません</translation>
+        <translation type="obsolete">このフォントサイズは利用できません</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatOption_Background</name>
+    <message>
+        <source>BACKGROUND OPTIONS</source>
+        <translation>背景のオプション</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty</name>
+    <message>
+        <source>POSITION</source>
+        <translation>位置</translation>
+    </message>
+    <message>
+        <source>TRANSFORM</source>
+        <translation>転換</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_Background</name>
+    <message>
+        <source>FILL</source>
+        <translation>塗りつぶし</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation>塗りつぶし</translation>
     </message>
 </context>
 <context>
     <name>KxFormatTableDlg</name>
     <message>
         <source>Custom</source>
-        <translation>ユーザー設定</translation>
+        <translation type="obsolete">ユーザー設定</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
@@ -3483,7 +3831,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation>背景, テキストと線, 影, タイトルテキスト, 塗りつぶし, 強調, 強調とハイパーリンク, 強調と表示済みハイパーリンク</translation>
+        <translation type="obsolete">背景, テキストと線, 影, タイトルテキスト, 塗りつぶし, 強調, 強調とハイパーリンク, 強調と表示済みハイパーリンク</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
@@ -3500,6 +3848,61 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>Follow Title Text Scheme Color</source>
         <translation>タイトルテキスト</translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation>すべての図</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation>GIF 形式</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation>JPEG 形式</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation>PNG 形式</translation>
+    </message>
+    <message>
+        <source>Select Picture</source>
+        <translation>図の選択</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation>TIFF 形式</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation>Windows ビットマップ　</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation>Windows 拡張メタファイル</translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation>Windows メタファイル</translation>
+    </message>
+</context>
+<context>
+    <name>KxHexSpinBox</name>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation>数字のみを入力してください。</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
+        <translation> %1 と等しい、または以下の値を入力してください。</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation>%1と等しい、または以上の値を入力してください。</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation>整数を入力してください</translation>
     </message>
 </context>
 <context>
@@ -3556,14 +3959,21 @@ This wizard will help you to understand the various settings of the double-scree
     <name>KxInvolvedTemplateDlg</name>
     <message>
         <source>Blank Design</source>
-        <translation type="unfinished"></translation>
+        <translation>空白デザインテンプレート</translation>
     </message>
 </context>
 <context>
     <name>KxInvolvedTemplateView</name>
     <message>
         <source>Use Blank Template</source>
-        <translation type="unfinished"></translation>
+        <translation>空白テンプレートを適用</translation>
+    </message>
+</context>
+<context>
+    <name>KxKsoTableStyleItem</name>
+    <message>
+        <source>Set As Default</source>
+        <translation>既定値に設定</translation>
     </message>
 </context>
 <context>
@@ -3625,6 +4035,13 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
 </context>
 <context>
+    <name>KxNoneItem</name>
+    <message>
+        <source>None</source>
+        <translation>なし</translation>
+    </message>
+</context>
+<context>
     <name>KxOptionsDlg</name>
     <message>
         <source>Open</source>
@@ -3652,19 +4069,27 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>ディレクトリ &quot;%1&quot; が無効です。</translation>
     </message>
     <message>
         <source>Select Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>フォルダを選択:</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete"> &quot;%1&quot;ファイルを保存する権限がありません。</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished">パスワードが一致しません</translation>
+        <translation>再入力パスワードエラー</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
+        <translation> &quot;%1&quot;のバックアップファイルを保存する権限がありません。</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <translation type="obsolete"> &quot;%1&quot;ファイルを保存する権限がありません。</translation>
     </message>
 </context>
 <context>
@@ -3810,7 +4235,7 @@ This wizard will help you to understand the various settings of the double-scree
     <name>KxRenameMasterDlgClass</name>
     <message>
         <source>&amp;Master name:</source>
-        <translation>マスタの名前(&amp;M):</translation>
+        <translation type="obsolete">マスタの名前(&amp;M):</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
@@ -3818,7 +4243,15 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Rename Master</source>
-        <translation>マスタの名前変更</translation>
+        <translation type="obsolete">マスタの名前変更</translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation>名前(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>名前の変更</translation>
     </message>
 </context>
 <context>
@@ -3969,7 +4402,7 @@ This wizard will help you to understand the various settings of the double-scree
     <name>KxTpAnimationSchemeWidget</name>
     <message>
         <source>Color Schemes</source>
-        <translation>配色</translation>
+        <translation type="obsolete">配色</translation>
     </message>
     <message>
         <source>Design Templates</source>
@@ -3984,11 +4417,11 @@ This wizard will help you to understand the various settings of the double-scree
     <name>KxTpColorScheme</name>
     <message>
         <source>Apply a color scheme:</source>
-        <translation>配色の適用</translation>
+        <translation type="obsolete">配色の適用</translation>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation>配色</translation>
+        <translation type="obsolete">配色</translation>
     </message>
     <message>
         <source>Text Label</source>
@@ -4008,29 +4441,29 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Infotip</source>
-        <translation>テキストラベル</translation>
+        <translation type="obsolete">テキストラベル</translation>
     </message>
 </context>
 <context>
     <name>KxTpColorSchemeWidget</name>
     <message>
         <source>Animation Schemes</source>
-        <translation>アニメーションをまとめて設定</translation>
+        <translation type="obsolete">アニメーションをまとめて設定</translation>
     </message>
     <message>
         <source>Design Templates</source>
-        <translation>デザインテンプレート</translation>
+        <translation type="obsolete">デザインテンプレート</translation>
     </message>
     <message>
         <source>Edit Color Schemes...</source>
-        <translation>配色の編集</translation>
+        <translation type="obsolete">配色の編集...</translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideDesign</name>
     <message>
         <source>Apply a design template:</source>
-        <translation>スライドのレイアウトの適用</translation>
+        <translation type="obsolete">スライドのレイアウトの適用</translation>
     </message>
     <message>
         <source>Design Templates</source>
@@ -4056,6 +4489,10 @@ This wizard will help you to understand the various settings of the double-scree
         <source>Infotip</source>
         <translation>テキストラベル</translation>
     </message>
+    <message>
+        <source>Apply a design template</source>
+        <translation>スライドのレイアウトの適用</translation>
+    </message>
 </context>
 <context>
     <name>KxTpSlideDesignWidget</name>
@@ -4069,7 +4506,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation>配色</translation>
+        <translation type="obsolete">配色</translation>
     </message>
 </context>
 <context>
@@ -4084,7 +4521,11 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Apply a design template:</source>
-        <translation>スライドレイアウトの適用:</translation>
+        <translation type="obsolete">スライドレイアウトの適用:</translation>
+    </message>
+    <message>
+        <source>Apply a design template</source>
+        <translation>スライドレイアウトの適用</translation>
     </message>
 </context>
 <context>
@@ -4103,7 +4544,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Apply to selected slides:</source>
-        <translation>選択されたスライドに適用</translation>
+        <translation type="obsolete">選択されたスライドに適用</translation>
     </message>
     <message>
         <source>AutoPreview</source>
@@ -4161,12 +4602,16 @@ This wizard will help you to understand the various settings of the double-scree
         <source>Slide Transition</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Apply to selected slides</source>
+        <translation>選択されたスライドに適用</translation>
+    </message>
 </context>
 <context>
     <name>KxTpSlideTransitionWidget</name>
     <message>
         <source>Loop until next sound</source>
-        <translation>次のサウンドまで繰り返す</translation>
+        <translation type="obsolete">次のサウンドまで繰り返す</translation>
     </message>
     <message>
         <source>Play</source>
@@ -4186,6 +4631,21 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>Table Style:</source>
         <translation>表のスタイル</translation>
+    </message>
+</context>
+<context>
+    <name>KxTrimMediaDlg</name>
+    <message>
+        <source>Duration : </source>
+        <translation>継続時間:</translation>
+    </message>
+    <message>
+        <source>Trim Movie</source>
+        <translation>動画の編集</translation>
+    </message>
+    <message>
+        <source>Trim Sound</source>
+        <translation>音声の編集</translation>
     </message>
 </context>
 <context>
@@ -4344,6 +4804,56 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
 </context>
 <context>
+    <name>KxWppBorderStyleItem</name>
+    <message>
+        <source>No Border</source>
+        <translation>枠線なし</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppBorderWidthItem</name>
+    <message>
+        <source>0.25</source>
+        <translation>0.25</translation>
+    </message>
+    <message>
+        <source>0.5</source>
+        <translation>0.5</translation>
+    </message>
+    <message>
+        <source>0.75</source>
+        <translation>0.75</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation>1</translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation>1.5</translation>
+    </message>
+    <message>
+        <source>2.25</source>
+        <translation>2.25</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation>3</translation>
+    </message>
+    <message>
+        <source>4.5</source>
+        <translation>4.5</translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation>6</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation>pt</translation>
+    </message>
+</context>
+<context>
     <name>KxWppColorModel</name>
     <message>
         <source>Auto Color</source>
@@ -4351,11 +4861,11 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Automatic</source>
-        <translation>自動</translation>
+        <translation type="obsolete">自動</translation>
     </message>
     <message>
         <source>Custom Color</source>
-        <translation>その他</translation>
+        <translation type="obsolete">その他</translation>
     </message>
 </context>
 <context>
@@ -4614,11 +5124,11 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>No Color</source>
-        <translation type="obsolete">塗りつぶしなし</translation>
+        <translation>塗りつぶしなし</translation>
     </message>
     <message>
         <source>No Fill</source>
-        <translation>塗りつぶしなし</translation>
+        <translation type="obsolete">塗りつぶしなし</translation>
     </message>
 </context>
 <context>
@@ -4627,12 +5137,80 @@ This wizard will help you to understand the various settings of the double-scree
         <source>More Colors...</source>
         <translation type="obsolete">その他の色...</translation>
     </message>
+    <message>
+        <source>No Fill</source>
+        <translation>塗りつぶしなし</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFontOutlineColorModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation>線の色なし</translation>
+    </message>
 </context>
 <context>
     <name>KxWppFontSizeCommand</name>
     <message>
         <source>This is not a valid integer.</source>
         <translation>無効な整数です。</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatGroupContent_Fill</name>
+    <message>
+        <source>Slide background fill</source>
+        <translation>背景の塗りつぶし</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation>グラフのオプション</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>テキストのオプション</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation>図形のオプション</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>テキストのオプション</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatProperty_FillAndLine</name>
+    <message>
+        <source>FILL</source>
+        <translation>塗りつぶし</translation>
+    </message>
+    <message>
+        <source>TEXT FILL</source>
+        <translation>文字の塗りつぶし</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatRangeSaveAsCommand</name>
+    <message>
+        <source>Failed to setup Supporter of Video Export.</source>
+        <translation>ビデオ出力モジュールの設定に失敗しました。</translation>
+    </message>
+    <message>
+        <source>Preparing for Video Export</source>
+        <translation>ビデオ出力の準備中です。</translation>
     </message>
 </context>
 <context>
@@ -4648,6 +5226,154 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>No Line</source>
         <translation>なし</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppMediaBarWidget</name>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation>0.25秒後に移動</translation>
+    </message>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation>0.25秒前に移動</translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation>再生/一時停止</translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation>設定</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>音量</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppNewSlidesGalleryModel</name>
+    <message>
+        <source>Blank</source>
+        <translation>空白</translation>
+    </message>
+    <message>
+        <source>Blank Slides</source>
+        <translation>空白スライド</translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <translation>本文</translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation>目次</translation>
+    </message>
+    <message>
+        <source>Content Slides</source>
+        <translation>コンテンツスライド</translation>
+    </message>
+    <message>
+        <source>Cover</source>
+        <translation>表紙</translation>
+    </message>
+    <message>
+        <source>Ending</source>
+        <translation>最終スライド</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>その他</translation>
+    </message>
+    <message>
+        <source>Title Slide</source>
+        <translation>タイトルスライド</translation>
+    </message>
+    <message>
+        <source>Title and Content</source>
+        <translation>タイトルとコンテンツ</translation>
+    </message>
+    <message>
+        <source>Transition</source>
+        <translation>遷移</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPermissionInformationDlg</name>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">表示</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">編集</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished">印刷</translation>
+    </message>
+    <message>
+        <source>My Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPlayerMediaBar</name>
+    <message>
+        <source>Play/Pause</source>
+        <translation>再生/一時停止</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>音量</translation>
     </message>
 </context>
 <context>
@@ -4711,6 +5437,13 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
 </context>
 <context>
+    <name>KxWppPrstFillModel</name>
+    <message>
+        <source>Background Fill</source>
+        <translation>背景の塗りつぶし</translation>
+    </message>
+</context>
+<context>
     <name>KxWppShadowColorModel</name>
     <message>
         <source>More Shadow Colors...</source>
@@ -4719,6 +5452,95 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>Shadow Effect</source>
         <translation type="obsolete">影の効果</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppShowOffscreen</name>
+    <message>
+        <source>An Offscreen Show of this presentation is already running.
+Sure to close?</source>
+        <translation>このスライドの画面外スライドショーが実行中です。ファイルを閉じてよろしいですか？</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppSoundBarWidget</name>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation type="obsolete">0.25秒後に移動</translation>
+    </message>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation type="obsolete">0.25秒前に移動</translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation type="obsolete">再生/一時停止</translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="obsolete">設定</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="obsolete">音量</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>&amp;Fit Selection</source>
+        <translation>選択範囲に合わせる(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Percent:</source>
+        <translation type="obsolete">パーセンテージ(&amp;P):</translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation>パーセント(&amp;E):</translation>
+    </message>
+    <message>
+        <source>Zoom Level</source>
+        <translation>ズームレベル</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppTpFormatting</name>
+    <message>
+        <source>Apply to all</source>
+        <translation>すべてに適用</translation>
+    </message>
+    <message>
+        <source>Format Background</source>
+        <translation>背景の書式設定</translation>
+    </message>
+    <message>
+        <source>Format ControlObject</source>
+        <translation>コントロールオブジェクトの書式設定</translation>
+    </message>
+    <message>
+        <source>Format Ink</source>
+        <translation>インクの書式設定</translation>
+    </message>
+    <message>
+        <source>Format Media</source>
+        <translation>メディアの書式設定</translation>
+    </message>
+    <message>
+        <source>Format OleObject</source>
+        <translation>OLEオブジェクトの書式設定</translation>
+    </message>
+    <message>
+        <source>Format Picture</source>
+        <translation>図の書式設定</translation>
+    </message>
+    <message>
+        <source>Format Shape</source>
+        <translation>図形の書式設定</translation>
+    </message>
+    <message>
+        <source>Reset Background</source>
+        <translation>背景のリセット</translation>
     </message>
 </context>
 <context>
@@ -5155,35 +5977,35 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Follow Background Color</source>
-        <translation>背景</translation>
+        <translation type="obsolete">背景</translation>
     </message>
     <message>
         <source>Follow Text and Lines Sheme Color</source>
-        <translation>テキストと線</translation>
+        <translation type="obsolete">テキストと線</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
-        <translation>影</translation>
+        <translation type="obsolete">影</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
-        <translation>タイトル</translation>
+        <translation type="obsolete">タイトル</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
-        <translation>塗りつぶし</translation>
+        <translation type="obsolete">塗りつぶし</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
-        <translation>強調</translation>
+        <translation type="obsolete">強調</translation>
     </message>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation>強調とハイパーリンク</translation>
+        <translation type="obsolete">強調とハイパーリンク</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation>強調と表示済みハイパーリンク</translation>
+        <translation type="obsolete">強調と表示済みハイパーリンク</translation>
     </message>
     <message>
         <source>Default</source>
@@ -5241,32 +6063,108 @@ This wizard will help you to understand the various settings of the double-scree
         <source>Double Outline</source>
         <translation>二重アウトライン</translation>
     </message>
+    <message>
+        <source>(None)</source>
+        <translation type="obsolete">なし</translation>
+    </message>
+    <message>
+        <source>1.5 times</source>
+        <translation type="obsolete">1.5 倍行間</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="obsolete">左寄せ</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="obsolete">右寄せ</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="obsolete">中央寄せ</translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation type="obsolete">均等割付</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="obsolete">2 倍行間</translation>
+    </message>
+    <message>
+        <source>First line</source>
+        <translation type="obsolete">字下げ</translation>
+    </message>
+    <message>
+        <source>Fixed</source>
+        <translation type="obsolete">固定値</translation>
+    </message>
+    <message>
+        <source>Hanging</source>
+        <translation type="obsolete">ぶら下げ</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="obsolete">両端揃え</translation>
+    </message>
+    <message>
+        <source>Multiple</source>
+        <translation type="obsolete">多倍行間</translation>
+    </message>
+    <message>
+        <source>Please input value between 0 and 9.99</source>
+        <translation type="obsolete"> 0 から 9.99までの数値を入力してください。</translation>
+    </message>
+    <message>
+        <source>Please input value between 0cm and 21.35cm</source>
+        <translation type="obsolete"> 0cm から 21.35cmまでの数値を入力してください。</translation>
+    </message>
+    <message>
+        <source>Please input value between 0pt and 1584pt</source>
+        <translation type="obsolete"> 0pt から 1584ptまでの数値を入力してください。</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="obsolete">1 倍行間</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="obsolete">cm</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="obsolete">pt</translation>
+    </message>
+    <message>
+        <source>按文本和线条配色方案</source>
+        <translation type="obsolete">テキストと線</translation>
+    </message>
 </context>
 <context>
     <name>SchemeLayoutPanel</name>
     <message>
         <source>Apply to &amp;All Master</source>
-        <translation>すべてのマスタに適用(&amp;A)</translation>
+        <translation type="obsolete">すべてのマスタに適用(&amp;A)</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
-        <translation>すべてのスライドに適用(&amp;A)</translation>
+        <translation type="obsolete">すべてのスライドに適用(&amp;A)</translation>
     </message>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation>マスタに適用(&amp;M)</translation>
+        <translation type="obsolete">マスタに適用(&amp;M)</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Masters</source>
-        <translation>選択されたマスタに適用(&amp;S)</translation>
+        <translation type="obsolete">選択されたマスタに適用(&amp;S)</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation>選択されたスライドに適用(&amp;S)</translation>
+        <translation type="obsolete">選択されたスライドに適用(&amp;S)</translation>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
-        <translation>大きいプレビュー(&amp;L)</translation>
+        <translation type="obsolete">大きいプレビュー(&amp;L)</translation>
     </message>
 </context>
 <context>
@@ -5361,7 +6259,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Custom Animation:</source>
-        <translation>アニメーションのユーザー設定：</translation>
+        <translation type="obsolete">アニメーションのユーザー設定：</translation>
     </message>
     <message>
         <source>Re-order</source>
@@ -5447,7 +6345,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Color/&amp;Grayscale:</source>
-        <translation type="unfinished">カラー/グレースケール(&amp;G):</translation>
+        <translation type="unfinished">カラー(&amp;G):</translation>
     </message>
     <message>
         <source>Color</source>
@@ -5483,7 +6381,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">9</translation>
     </message>
     <message>
         <source>Order:</source>
@@ -5527,7 +6425,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">注意: アクセス制限のパスワードを設定した上で、以下の「読み取りパスワード」を設定すると、他人に変更されないようファイルを保護できます。</translation>
     </message>
     <message>
         <source>Permit to modify</source>
@@ -5572,6 +6470,18 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>Close when e&amp;xport completes</source>
         <translation type="unfinished">出力後に自動的に閉じる(&amp;X)</translation>
+    </message>
+    <message>
+        <source>Select OFD Service Provider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suwell&amp;K</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Foxit</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5657,7 +6567,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Color</source>
-        <translation>色</translation>
+        <translation>カラー</translation>
     </message>
     <message>
         <source>Color/&amp;grayscale:</source>
@@ -5817,7 +6727,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Color/&amp;Grayscale:</source>
-        <translation>カラー/グレースケール(&amp;G):</translation>
+        <translation>カラー(&amp;G):</translation>
     </message>
     <message>
         <source>Passw&amp;ord to protect permission settings</source>
@@ -5849,7 +6759,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation>注意: アクセス制限のパスワードを設定した上で、以下の「読み取りパスワード」を設定すると、他人に変更されないようファイルを保護できます。</translation>
     </message>
 </context>
 <context>
@@ -5875,7 +6785,7 @@ This wizard will help you to understand the various settings of the double-scree
     <name>kdlgFormatTable</name>
     <message>
         <source>&amp;Bottom:</source>
-        <translation>下(&amp;B)</translation>
+        <translation>下(&amp;B):</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
@@ -5931,7 +6841,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Fill &amp;color:</source>
-        <translation>塗りつぶしの色(&amp;C):</translation>
+        <translation type="obsolete">塗りつぶしの色(&amp;C):</translation>
     </message>
     <message>
         <source>Internal margin</source>
@@ -5951,7 +6861,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Semi&amp;transparent</source>
-        <translation>半透明にする(&amp;T)</translation>
+        <translation type="obsolete">半透明にする(&amp;T)</translation>
     </message>
     <message>
         <source>Text &amp;alignment:</source>
@@ -6003,7 +6913,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>cbFillColor</source>
-        <translation>塗りつぶしの色</translation>
+        <translation type="obsolete">塗りつぶしの色</translation>
     </message>
     <message>
         <source>cbOrientation</source>
@@ -6011,7 +6921,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>cbSemitransparent</source>
-        <translation>半透明にする</translation>
+        <translation type="obsolete">半透明にする</translation>
     </message>
     <message>
         <source>cbTextAlign</source>
@@ -6027,7 +6937,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>cmbFillColor</source>
-        <translation>塗りつぶしの色</translation>
+        <translation type="obsolete">塗りつぶしの色</translation>
     </message>
     <message>
         <source>lwLineStyle</source>
@@ -6048,6 +6958,121 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>Bottom Center</source>
         <translation>下中央</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>&amp;Angle</source>
+        <translation>角度(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Background</source>
+        <translation>背景色(&amp;B)</translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation>色(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;File...</source>
+        <translation>ファイル(&amp;F)...</translation>
+    </message>
+    <message>
+        <source>&amp;Fill</source>
+        <translation>塗りつぶし(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Pattern</source>
+        <translation>パターン(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;Style</source>
+        <translation>スタイル(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation>透過性(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Enter 0  to 359 Degrees of value</source>
+        <translation> 0 から359の値を入力してください。</translation>
+    </message>
+    <message>
+        <source>Enter 0%  to 100% of value</source>
+        <translation> 0% から100% の値を入力してください。</translation>
+    </message>
+    <message>
+        <source>Enter 0cm to 55.88cm of the Value</source>
+        <translation> 0cm から55.88cm の値を入力してください。</translation>
+    </message>
+    <message>
+        <source>Fore&amp;ground</source>
+        <translation>前景(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Gra&amp;dient stops</source>
+        <translation>グラデーションの分岐点(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Gradient Linear</source>
+        <translation>線形</translation>
+    </message>
+    <message>
+        <source>Gradient Path</source>
+        <translation>パス</translation>
+    </message>
+    <message>
+        <source>Gradient Radial</source>
+        <translation>放射</translation>
+    </message>
+    <message>
+        <source>Gradient Rect</source>
+        <translation>四角</translation>
+    </message>
+    <message>
+        <source>Gradient fill</source>
+        <translation>塗りつぶし(グラデーション)</translation>
+    </message>
+    <message>
+        <source>Pattern fill</source>
+        <translation>塗りつぶし(パターン)</translation>
+    </message>
+    <message>
+        <source>Picture or texture fill</source>
+        <translation>塗りつぶし(図またはテクスチャ)</translation>
+    </message>
+    <message>
+        <source>Solid fill</source>
+        <translation>塗りつぶし(単色)</translation>
+    </message>
+    <message>
+        <source>Source From &amp;Texture</source>
+        <translation>テクスチャ(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Source From File</source>
+        <translation>ファイル</translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation>°</translation>
+    </message>
+</context>
+<context>
+    <name>kxDlgThesaurus</name>
+    <message>
+        <source>Replace</source>
+        <translation type="obsolete">置換</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">キャンセル</translation>
+    </message>
+    <message>
+        <source>&amp;Replace</source>
+        <translation type="obsolete">置換(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -6090,6 +7115,41 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>WPS Presentation</source>
         <translation>Kingsoft Presentation</translation>
+    </message>
+</context>
+<context>
+    <name>wppContentPosition</name>
+    <message>
+        <source>&amp;From</source>
+        <translation>始点(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Horizontal position</source>
+        <translation>横方向(&amp;H)：</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical position</source>
+        <translation>縦方向(&amp;V)：</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>中央</translation>
+    </message>
+    <message>
+        <source>Enter -5963.92  to 5963.92 cm of value</source>
+        <translation> -5963.92 から5963.92 cmの値を入力してください。</translation>
+    </message>
+    <message>
+        <source>F&amp;rom</source>
+        <translation>始点(&amp;r)</translation>
+    </message>
+    <message>
+        <source>Top Left Corner</source>
+        <translation>左上隅</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>cm</translation>
     </message>
 </context>
 </TS>

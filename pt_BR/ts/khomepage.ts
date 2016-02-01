@@ -42,17 +42,17 @@
     <message>
         <source>Check Online Templates</source>
         <comment>tooltip</comment>
-        <translation>Verificar modelos on-line</translation>
+        <translation>Verificar Modelos Online</translation>
     </message>
     <message>
         <source>Online Templates</source>
         <comment>title</comment>
-        <translation>Modelos on-line</translation>
+        <translation>Modelos Online</translation>
     </message>
     <message>
         <source>Online Templates Pro</source>
         <comment>title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modelos Online Pro</translation>
     </message>
 </context>
 </TS>

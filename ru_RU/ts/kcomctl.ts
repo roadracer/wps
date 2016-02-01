@@ -3,6 +3,13 @@
 <TS version="2.0" language="en_US">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
+    <name>DownloadBubbleWidget</name>
+    <message>
+        <source>Download failed due to possible network problems. Please try again later.</source>
+        <translation>Сбой загрузки из-за возможных проблем в сети. Повторите попытку позже.</translation>
+    </message>
+</context>
+<context>
     <name>KApplication</name>
     <message>
         <source>Trial Version</source>
@@ -10,10 +17,83 @@
     </message>
 </context>
 <context>
+    <name>KBevelModel</name>
+    <message>
+        <source>No Bevel</source>
+        <translation>Без рельефа</translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <translation>Рельеф</translation>
+    </message>
+</context>
+<context>
     <name>KBorderPickCtrl</name>
     <message>
         <source>Text</source>
         <translation>Текст</translation>
+    </message>
+</context>
+<context>
+    <name>KCameraModel</name>
+    <message>
+        <source>No Rotation</source>
+        <translation>Без вращения</translation>
+    </message>
+    <message>
+        <source>Parallel</source>
+        <translation>Параллельно</translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <translation>Перспектива</translation>
+    </message>
+    <message>
+        <source>Oblique</source>
+        <translation>Наклонный</translation>
+    </message>
+</context>
+<context>
+    <name>KColorCombobox</name>
+    <message>
+        <source>&amp;Fill effects...</source>
+        <translation>&amp;Способы заливки...</translation>
+    </message>
+    <message>
+        <source>&amp;Patterned Lines...</source>
+        <translation>Узор&amp;ные линии...</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>Авто</translation>
+    </message>
+    <message>
+        <source>&amp;More Color...</source>
+        <translation>&amp;Другие цвета...</translation>
+    </message>
+    <message>
+        <source>Snapper Color(&amp;E)</source>
+        <translation>&amp;Пипетка</translation>
+    </message>
+    <message>
+        <source>Recent Colors</source>
+        <translation>Последние цвета</translation>
+    </message>
+    <message>
+        <source>Theme Colors</source>
+        <translation>Цвета темы</translation>
+    </message>
+    <message>
+        <source>Standard Colors</source>
+        <translation>Стандартные цвета</translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation type="obsolete">Без цвета</translation>
+    </message>
+    <message>
+        <source>&amp;No Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -32,7 +112,7 @@
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
-        <translation></translation>
+        <translation>&amp;Способы заливки...</translation>
     </message>
     <message>
         <source>&amp;Background</source>
@@ -40,7 +120,7 @@
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
-        <translation></translation>
+        <translation>Узор&amp;ные линии...</translation>
     </message>
     <message>
         <source>Black</source>
@@ -267,6 +347,223 @@
     </message>
 </context>
 <context>
+    <name>KFormatDoubleSpinBoxLineEdit</name>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation>Введенное значение должно быть положительным числом</translation>
+    </message>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation>Введенное значение должно содержать только цифры</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
+        <translation>Запись должна быть меньше или равна %1.</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation>Запись %1 должна быть больше или равна %1.</translation>
+    </message>
+</context>
+<context>
+    <name>KFormatScrollBar</name>
+    <message>
+        <source>Scroll here</source>
+        <translation>Прокрутить сюда</translation>
+    </message>
+    <message>
+        <source>Left edge</source>
+        <translation>По левому краю</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>По верхнему краю</translation>
+    </message>
+    <message>
+        <source>Right edge</source>
+        <translation>По правому краю</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>По нижнему краю</translation>
+    </message>
+    <message>
+        <source>Page left</source>
+        <translation>На страницу влево</translation>
+    </message>
+    <message>
+        <source>Page up</source>
+        <translation>На страницу вверх</translation>
+    </message>
+    <message>
+        <source>Page right</source>
+        <translation>На страницу вправо</translation>
+    </message>
+    <message>
+        <source>Page down</source>
+        <translation>На страницу вниз</translation>
+    </message>
+    <message>
+        <source>Scroll left</source>
+        <translation>Прокрутить влево</translation>
+    </message>
+    <message>
+        <source>Scroll up</source>
+        <translation>Прокрутить вверх</translation>
+    </message>
+    <message>
+        <source>Scroll right</source>
+        <translation>Прокрутить вправо</translation>
+    </message>
+    <message>
+        <source>Scroll down</source>
+        <translation>Прокрутить вниз</translation>
+    </message>
+</context>
+<context>
+    <name>KFormatSpinBoxLineEdit</name>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation>Введенное значение должно быть положительным числом</translation>
+    </message>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation>Введенное значение должно содержать только цифры</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
+        <translation>Запись должна быть меньше или равна %1.</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation>Запись %1 должна быть больше или равна %1.</translation>
+    </message>
+</context>
+<context>
+    <name>KFormatStylesTitle</name>
+    <message>
+        <source>Shape Styles</source>
+        <translation>Стили фигуры</translation>
+    </message>
+    <message>
+        <source>Line Styles</source>
+        <translation>Типы линии</translation>
+    </message>
+    <message>
+        <source>Picture Filters</source>
+        <translation>Фильтры рисунка</translation>
+    </message>
+</context>
+<context>
+    <name>KFormatStylesWidget</name>
+    <message>
+        <source>Style</source>
+        <translation>Стиль</translation>
+    </message>
+</context>
+<context>
+    <name>KGalleryAbstractModel</name>
+    <message>
+        <source>No Presets</source>
+        <translation>Без предустановленных</translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation>Предустановленные</translation>
+    </message>
+    <message>
+        <source>No Reflection</source>
+        <translation>Без отражения</translation>
+    </message>
+    <message>
+        <source>Reflection Variations</source>
+        <translation>Варианты отражения</translation>
+    </message>
+    <message>
+        <source>No Soft Edges</source>
+        <translation>Без сглаженных краев</translation>
+    </message>
+    <message>
+        <source>1 Point</source>
+        <translation>Точка 1</translation>
+    </message>
+    <message>
+        <source>2.5 Point</source>
+        <translation>Точка 2,5</translation>
+    </message>
+    <message>
+        <source>5 Point</source>
+        <translation>Точка 5</translation>
+    </message>
+    <message>
+        <source>10 Point</source>
+        <translation>Точка 10</translation>
+    </message>
+    <message>
+        <source>25 Point</source>
+        <translation>Точка 25</translation>
+    </message>
+    <message>
+        <source>50 Point</source>
+        <translation>Точка 50</translation>
+    </message>
+    <message>
+        <source>No Transform</source>
+        <translation>Без преобразования</translation>
+    </message>
+    <message>
+        <source>Follow Path</source>
+        <translation>Траектория движения</translation>
+    </message>
+    <message>
+        <source>Warp</source>
+        <translation>Искривление</translation>
+    </message>
+    <message>
+        <source>No Glow</source>
+        <translation>Без подсветки</translation>
+    </message>
+    <message>
+        <source>Glow Variations</source>
+        <translation>Вариации подсветки</translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation>Без тени</translation>
+    </message>
+    <message>
+        <source>Outer</source>
+        <translation>Внешний</translation>
+    </message>
+    <message>
+        <source>Inner</source>
+        <translation>Внутренний</translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <translation>Перспектива</translation>
+    </message>
+</context>
+<context>
+    <name>KLightingModel</name>
+    <message>
+        <source>Neutral</source>
+        <translation>Нейтральный</translation>
+    </message>
+    <message>
+        <source>Warm Effect</source>
+        <translation>Средний</translation>
+    </message>
+    <message>
+        <source>Cool</source>
+        <translation>Прохладный</translation>
+    </message>
+    <message>
+        <source>Special</source>
+        <translation>Дополнительный</translation>
+    </message>
+</context>
+<context>
     <name>KMDICloseCommand</name>
     <message>
         <source>Close</source>
@@ -329,6 +626,21 @@
     </message>
 </context>
 <context>
+    <name>KMaterialModel</name>
+    <message>
+        <source>Standard</source>
+        <translation>Стандартный</translation>
+    </message>
+    <message>
+        <source>Special Effect</source>
+        <translation>Специальный эффект</translation>
+    </message>
+    <message>
+        <source>Translucent</source>
+        <translation>Полупрозрачный</translation>
+    </message>
+</context>
+<context>
     <name>KMemberUser</name>
     <message>
         <source>Bronze</source>
@@ -355,6 +667,11 @@
         <comment>Member user type</comment>
         <translation>Платиновый</translation>
     </message>
+    <message>
+        <source>Registered user</source>
+        <comment>Member User type</comment>
+        <translation>Зарегистрированный пользователь</translation>
+    </message>
 </context>
 <context>
     <name>KMenuWidget</name>
@@ -364,10 +681,121 @@
     </message>
 </context>
 <context>
+    <name>KNoTabPageWidget</name>
+    <message>
+        <source>Last time encounter abnormal shutdown!</source>
+        <translation>WPS Office нашел исключение и будет перезагружен.</translation>
+    </message>
+    <message>
+        <source>WPS will recover files for you, you can uncheck the files that don&apos;t need to be recovered</source>
+        <translation>WPS восстановит файлы. Можно выделить файлы, &apos;которые не нужно восстанавливать</translation>
+    </message>
+    <message>
+        <source>FileName</source>
+        <translation>Имя файла</translation>
+    </message>
+    <message>
+        <source>Send error file to help WPS solve such issues</source>
+        <translation>Отправить файл ошибок, чтобы помочь WPS Office решить эти вопросы</translation>
+    </message>
+    <message>
+        <source>Recover</source>
+        <translation>Восстановить</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>Modified time: </source>
+        <translation>Изменено время: </translation>
+    </message>
+</context>
+<context>
     <name>KOrientationCtrl</name>
     <message>
         <source>Text </source>
         <translation>Текст </translation>
+    </message>
+</context>
+<context>
+    <name>KPluginDownloadingTipWidget</name>
+    <message>
+        <source>Initializing </source>
+        <translation>Инициализация </translation>
+    </message>
+    <message>
+        <source>, </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please wait...</source>
+        <translation>Подождите</translation>
+    </message>
+</context>
+<context>
+    <name>KPluginFailureTipWidget</name>
+    <message>
+        <source>Download failed due to possible network problems. Please try again later.</source>
+        <translation>Сбой загрузки. Могут возникнуть проблемы сети.
+Повторите попытку позже.</translation>
+    </message>
+</context>
+<context>
+    <name>KProgressBar</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>Multiple Tasks:</source>
+        <translation>Несколько задач:</translation>
+    </message>
+    <message>
+        <source>Show In Progress Tasks</source>
+        <translation>Показать выполняющиеся задачи</translation>
+    </message>
+    <message>
+        <source>Press &apos;Multiple Task&apos; button to display tasks</source>
+        <translation>Чтобы отобразить задачи, нажмите кнопку &quot;Несколько задач&quot;.</translation>
+    </message>
+    <message>
+        <source>Show Progress Tasks</source>
+        <translation type="obsolete">Показать ход выполнения задач</translation>
+    </message>
+    <message>
+        <source>Press &apos;Multiple Task&apos; button to Display Tasks</source>
+        <translation type="obsolete">Чтобы отобразить задачи, нажмите кнопку &quot;Несколько задач&quot;.</translation>
+    </message>
+</context>
+<context>
+    <name>KProgressListGalleryModelItem</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+</context>
+<context>
+    <name>KProxyCommandButton</name>
+    <message>
+        <source>(Download required)</source>
+        <translation>(требуется загрузка)</translation>
+    </message>
+    <message>
+        <source>(Initializing...)</source>
+        <translation>(инициализация...)</translation>
+    </message>
+    <message>
+        <source>(need download)</source>
+        <translation type="obsolete">(нужно загрузить)</translation>
+    </message>
+    <message>
+        <source>(initializing...)</source>
+        <translation type="obsolete">(инициализация...)</translation>
+    </message>
+    <message>
+        <source>(Upgrading...)</source>
+        <translation>(Обновление...)</translation>
     </message>
 </context>
 <context>
@@ -507,20 +935,52 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось открыть &quot;%1&quot;.
+Возможно, этот файл переименован, удален или перемещен.</translation>
     </message>
     <message>
         <source>
 
 Modified time:</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Изменено время: </translation>
     </message>
     <message>
         <source>
 
 
 Invalid record. This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Недопустимая запись. Возможно, этот файл переименован, удален или перемещен.</translation>
+    </message>
+    <message>
+        <source>
+
+Modified time: </source>
+        <translation type="obsolete">
+
+Изменено время: </translation>
+    </message>
+    <message>
+        <source>
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation type="obsolete">
+
+Недопустимая запись. Возможно, этот файл переименован, удален или перемещен.</translation>
+    </message>
+</context>
+<context>
+    <name>KShapeLineGalleryItem</name>
+    <message>
+        <source>No Line</source>
+        <translation>Линия отсутствует</translation>
+    </message>
+    <message>
+        <source>Preset Line</source>
+        <translation>Предустановленная линия</translation>
     </message>
 </context>
 <context>
@@ -531,10 +991,29 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
+    <name>KTextureModel</name>
+    <message>
+        <source>Picture Source</source>
+        <translation>Источник рисунка</translation>
+    </message>
+    <message>
+        <source>From &amp;Picture</source>
+        <translation>Из &amp;рисунка</translation>
+    </message>
+    <message>
+        <source>From &amp;Online Picture</source>
+        <translation>Из &amp;рисунка из Интернета</translation>
+    </message>
+    <message>
+        <source>Preset Texture</source>
+        <translation>Предустановленная текстура</translation>
+    </message>
+</context>
+<context>
     <name>KToolTipWidget</name>
     <message>
         <source>KToolTipWidget</source>
-        <translation></translation>
+        <translation>KToolTipWidget</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -579,7 +1058,7 @@ auto=auto
 [Multiple]
 multiple=multiple
 </source>
-        <translation>[Устройство] 
+        <translation type="obsolete">[Устройство] 
 pt=пт; п 
 д=дюйм;д 
 см=см;с 
@@ -603,23 +1082,80 @@ pt=пт; п
 [Несколько] 
 несколько=несколько</translation>
     </message>
+    <message>
+        <source>[Device]
+pt=pt;p
+in=inch;i
+cm=cm;c
+mm=mm;m
+
+[Percentage]
+%=%
+
+[Character]
+ch=char
+
+[Degree]
+degree=degree
+
+[Row]
+line=line
+
+[Auto]
+auto=auto
+
+[Multiple]
+multiple=multiple
+
+[Point]
+point=pt
+</source>
+        <translation>[Устройство]
+pt=pt;p
+in=inch;i
+cm=cm;c
+mm=mm;m
+
+[Процент]
+%=%
+
+[Символ]
+ch=char
+
+[Степень]
+degree=degree
+
+[Строка]
+line=line
+
+[Автоматически]
+auto=auto
+
+[Несколько]
+multiple=multiple
+
+[Пункт]
+point=pt
+</translation>
+    </message>
 </context>
 <context>
     <name>KWPSCloudSetup</name>
     <message>
         <source>WPS Office</source>
-        <translation></translation>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>Some components are not installed correctly,
 please reinstall WPS Office!</source>
-        <translation type="obsolete">Некоторые компоненты установлены с ошибками!
-Переустановите WPS Office.</translation>
+        <translation type="obsolete">Некоторые компоненты установлены неправильно.
+Переустановите WPS Office!</translation>
     </message>
     <message>
         <source>Some components are not installed correctly.
 Please reinstall WPS Office!</source>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые компоненты установлены с ошибками!
+Переустановите WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -638,6 +1174,40 @@ Please reinstall WPS Office!</source>
     </message>
 </context>
 <context>
+    <name>KxPrstFillModel</name>
+    <message>
+        <source>No Fill</source>
+        <translation>Нет заливки</translation>
+    </message>
+    <message>
+        <source>Theme Colors</source>
+        <translation>Цвета темы</translation>
+    </message>
+    <message>
+        <source>Gradient Fill</source>
+        <translation>Градиент заливки</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation>Градиент</translation>
+    </message>
+    <message>
+        <source>Pattern Fill</source>
+        <translation>Шаблон заливки</translation>
+    </message>
+    <message>
+        <source>texture Fill</source>
+        <translation>Текстура заливки</translation>
+    </message>
+</context>
+<context>
+    <name>KxQtKeySequenceEdit</name>
+    <message>
+        <source>%1, ...</source>
+        <translation type="obsolete">%1, ...</translation>
+    </message>
+</context>
+<context>
     <name>KxSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
@@ -650,6 +1220,17 @@ Please reinstall WPS Office!</source>
     <message>
         <source>This is not a valid integer.</source>
         <translation>Неверное целочисленное.</translation>
+    </message>
+</context>
+<context>
+    <name>QApplication</name>
+    <message>
+        <source>No Glow</source>
+        <translation>Без подсветки</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>Свечение</translation>
     </message>
 </context>
 <context>
@@ -705,7 +1286,7 @@ Please reinstall WPS Office!</source>
     <name>QObject</name>
     <message>
         <source>NumLock</source>
-        <translation></translation>
+        <translation>NumLock</translation>
     </message>
     <message>
         <source>NumLock: On</source>
@@ -717,7 +1298,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation></translation>
+        <translation>Caps Lock</translation>
     </message>
     <message>
         <source>CapsLock: On</source>
@@ -766,6 +1347,45 @@ Please reinstall WPS Office!</source>
     <message>
         <source>Delete from List</source>
         <translation>Удалить из списка</translation>
+    </message>
+</context>
+<context>
+    <name>gradientStopsPanel</name>
+    <message>
+        <source>Add Gradient Aperture</source>
+        <translation>Добавить ограничение градиента</translation>
+    </message>
+    <message>
+        <source>Delete Gradient Aperture</source>
+        <translation>Удалить ограничение градиента</translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation>&amp;Цвет</translation>
+    </message>
+    <message>
+        <source>P&amp;osition</source>
+        <translation>П&amp;оложение</translation>
+    </message>
+    <message>
+        <source>Enter  0% to 100% of the Value</source>
+        <translation>Введите значение от 0 до 100 %</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation>&amp;Прозрачность</translation>
+    </message>
+    <message>
+        <source>&amp;Brightness</source>
+        <translation>&amp;Яркость</translation>
+    </message>
+    <message>
+        <source>Enter -100% to 100% of the Value</source>
+        <translation>Введите значение от –100 до 100 %</translation>
     </message>
 </context>
 </TS>

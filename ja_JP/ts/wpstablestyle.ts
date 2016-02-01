@@ -363,11 +363,11 @@
     </message>
     <message>
         <source>Table Style Options:</source>
-        <translation>表のスタイルのオプション</translation>
+        <translation>表のスタイルのオプション:</translation>
     </message>
     <message>
         <source>Table Style:</source>
-        <translation>表のスタイル</translation>
+        <translation>表のスタイル:</translation>
     </message>
 </context>
 <context>

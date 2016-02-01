@@ -10,11 +10,11 @@
     </message>
     <message>
         <source>Being calculated</source>
-        <translation>wird berechnet</translation>
+        <translation>Wird berechnet</translation>
     </message>
     <message>
         <source>Being converted</source>
-        <translation>wird konvertiert</translation>
+        <translation>Wird konvertiert</translation>
     </message>
     <message>
         <source>Notes Page:</source>
@@ -22,7 +22,7 @@
     </message>
     <message>
         <source>Ready to convert, please wait</source>
-        <translation>Fertig zum konvertieren, bitte warten</translation>
+        <translation>Fertig zum konvertieren, bitte warten.</translation>
     </message>
     <message>
         <source>Second</source>
@@ -35,7 +35,7 @@
     <message>
         <source>Slide %1
 </source>
-        <translation type="unfinished">Schieben %1
+        <translation>Folie %1
 </translation>
     </message>
     <message>
@@ -75,11 +75,11 @@
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation>Dokument übersetzen</translation>
+        <translation>Dokument übersetzen ins WPS Writer</translation>
     </message>
     <message>
         <source>Still Need: being calculated</source>
-        <translation>Wird benötigt: wird berechnet</translation>
+        <translation>Restzeit: wird berechnet</translation>
     </message>
 </context>
 <context>
@@ -130,7 +130,7 @@
     </message>
     <message>
         <source>Converted Layout</source>
-        <translation>konvertiertes Layout</translation>
+        <translation>Konvertiertes Layout</translation>
     </message>
     <message>
         <source>Current Slide(&amp;C)</source>
@@ -186,7 +186,7 @@
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation>Dokument übersetzen</translation>
+        <translation>Dokument übersetzen ins WPS Writer</translation>
     </message>
     <message>
         <source>&amp;Current Slide</source>
@@ -252,11 +252,11 @@
     </message>
     <message>
         <source>The file &quot;</source>
-        <translation>Die Datei &quot;</translation>
+        <translation>Die Datei „</translation>
     </message>
     <message>
         <source>The number must be 1 or 2.</source>
-        <translation>Die Nummer muss 1 oder 2 sein</translation>
+        <translation>Die Nummer muss 1 oder 2 sein.</translation>
     </message>
     <message>
         <source>The number must be 1, 2, 3, or 4.</source>
@@ -276,7 +276,7 @@ Zum Beispiel, 1,3,5-9.</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation>Kingsoft Präsentation</translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Writer Document(*.wps)</source>
@@ -285,6 +285,10 @@ Zum Beispiel, 1,3,5-9.</translation>
     <message>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
         <translation>Existiert bereits. Sie können die Datei nicht unter gleichem Namen speichern, solange eine Datei mit dem selben Namen geöffnet ist. Wählen Sie einen anderen Namen oder schließen die geöffnete Datei.</translation>
+    </message>
+    <message>
+        <source>No Select Slide</source>
+        <translation>Kein &quot;Folie auswählen&quot;</translation>
     </message>
 </context>
 </TS>

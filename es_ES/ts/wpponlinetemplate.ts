@@ -6,52 +6,52 @@
     <name>KLiveService</name>
     <message>
         <source>Please install Klive manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instale Klive manualmente, por favor.</translation>
     </message>
     <message>
         <source>Please sign in Klive manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicie sesión en Klive manualmente, por favor.</translation>
     </message>
 </context>
 <context>
     <name>KWppOnlineTemplate</name>
     <message>
         <source>Blank Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseño en blanco</translation>
     </message>
 </context>
 <context>
     <name>KxTpOnlineTemplateWidget</name>
     <message>
         <source>Local Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantillas locales</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantillas en línea</translation>
     </message>
     <message>
         <source>Using Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar plantilla</translation>
     </message>
     <message>
         <source>My Favorite</source>
-        <translation type="unfinished"></translation>
+        <translation>Mi favorito</translation>
     </message>
 </context>
 <context>
     <name>QApplication</name>
     <message>
         <source>\WPS Office\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS</translation>
     </message>
     <message>
         <source>\WPS Office\Office Space\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS</translation>
     </message>
     <message>
         <source>\WPS Office\Office Space\My Templates\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS</translation>
     </message>
 </context>
 </TS>

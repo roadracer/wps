@@ -54,7 +54,7 @@
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -94,7 +94,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -186,6 +186,37 @@
     <message>
         <source>Ungroup</source>
         <translation>取消组合</translation>
+    </message>
+</context>
+<context>
+    <name>classics.chart</name>
+    <message>
+        <source>By Column</source>
+        <translation>按列</translation>
+    </message>
+    <message>
+        <source>By Row</source>
+        <translation>按行</translation>
+    </message>
+    <message>
+        <source>Chart Objects</source>
+        <translation>图表对象</translation>
+    </message>
+    <message>
+        <source>Chart Type</source>
+        <translation>图表类型</translation>
+    </message>
+    <message>
+        <source>Data Table</source>
+        <translation>数据表</translation>
+    </message>
+    <message>
+        <source>Format Chart</source>
+        <translation>设置图表格式</translation>
+    </message>
+    <message>
+        <source>Legend</source>
+        <translation>图例</translation>
     </message>
 </context>
 <context>
@@ -286,7 +317,7 @@
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation> 0.5 磅</translation>
+        <translation>0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
@@ -294,11 +325,11 @@
     </message>
     <message>
         <source>1 pt</source>
-        <translation>   1 磅</translation>
+        <translation>1 磅</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation> 1.5 磅</translation>
+        <translation>1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt</source>
@@ -306,7 +337,7 @@
     </message>
     <message>
         <source>3 pt</source>
-        <translation>   3 磅</translation>
+        <translation>3 磅</translation>
     </message>
     <message>
         <source>3-D Settings</source>
@@ -398,11 +429,11 @@
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation> 4.5 磅</translation>
+        <translation>4.5 磅</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>   6 磅</translation>
+        <translation>6 磅</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -690,7 +721,7 @@
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>其他线条颜色</translation>
+        <translation>其他轮廓颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -885,6 +916,10 @@
         <translation>阴影样式 9</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation>取色器</translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation>实线</translation>
     </message>
@@ -1063,6 +1098,10 @@
         <translation>90%</translation>
     </message>
     <message>
+        <source>Bold Square-Hollow Bullets</source>
+        <translation>加粗空心方形的项目符号</translation>
+    </message>
+    <message>
         <source>Bullets</source>
         <translation>项目符号</translation>
     </message>
@@ -1072,7 +1111,7 @@
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Font</source>
@@ -1107,8 +1146,16 @@
         <translation>其他字体颜色</translation>
     </message>
     <message>
+        <source>None</source>
+        <translation>无</translation>
+    </message>
+    <message>
+        <source>Sagittate Bullet </source>
+        <translation>箭头项目符号</translation>
+    </message>
+    <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Styles</source>
@@ -1121,6 +1168,26 @@
     <message>
         <source>Styles and Formatting</source>
         <translation>样式窗格</translation>
+    </message>
+    <message>
+        <source>The Check Mark-shaped Bullets</source>
+        <translation>选中标记项目符号</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Diamond-Shaped Bullets</source>
+        <translation>带填充效果的钻石菱形形项目符号</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Round-Shaped Bullets</source>
+        <translation>带填充效果的大圆形项目符号</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Square-Shaped Bullets</source>
+        <translation>带填充效果的大方形项目符号</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Round-Shaped Bullets</source>
+        <translation>带填充效果的圆形项目符号</translation>
     </message>
     <message>
         <source>bullets_0</source>
@@ -1158,8 +1225,20 @@
 <context>
     <name>classics.formatting.Num</name>
     <message>
+        <source>1.2.3.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>A.B.C.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>More Numbering</source>
         <translation>其他编号</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>无</translation>
     </message>
     <message>
         <source>Number</source>
@@ -1168,6 +1247,22 @@
     <message>
         <source>Numbering</source>
         <translation>编号</translation>
+    </message>
+    <message>
+        <source>Pictographic Number, Wide End</source>
+        <translation>象形编号，宽句号</translation>
+    </message>
+    <message>
+        <source>With The Circle Number.</source>
+        <translation>带圆圈的编号</translation>
+    </message>
+    <message>
+        <source>a).b).c).</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>a.b.c.</source>
+        <translation></translation>
     </message>
     <message>
         <source>numbering_0</source>
@@ -1200,6 +1295,10 @@
     <message>
         <source>numbering_7</source>
         <translation type="obsolete">CHS_WPS_Numbering_7</translation>
+    </message>
+    <message>
+        <source>Ⅰ.Ⅱ.Ⅲ.</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1492,7 +1591,7 @@ Merged Data</source>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation> 0.5 磅</translation>
+        <translation>0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
@@ -1500,11 +1599,11 @@ Merged Data</source>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>   1 磅</translation>
+        <translation>1 磅</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation> 1.5 磅</translation>
+        <translation>1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt</source>
@@ -1512,15 +1611,15 @@ Merged Data</source>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>   3 磅</translation>
+        <translation>3 磅</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation> 4.5 磅</translation>
+        <translation>4.5 磅</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>   6 磅</translation>
+        <translation>6 磅</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -1597,6 +1696,10 @@ Merged Data</source>
     <message>
         <source>Reset Picture</source>
         <translation>重设图片</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation>重设图片和大小</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -1750,7 +1853,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>审阅窗格</translation>
     </message>
     <message>
         <source>Show</source>
@@ -1766,23 +1869,35 @@ Merged Data</source>
     </message>
     <message>
         <source>Show Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>批注</translation>
     </message>
     <message>
         <source>Show Date</source>
         <translation>显示日期</translation>
     </message>
     <message>
+        <source>Show Format Change</source>
+        <translation type="obsolete">格式设置</translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="obsolete">格式设置</translation>
+    </message>
+    <message>
         <source>Show Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>格式设置</translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation type="obsolete">插入和删除</translation>
     </message>
     <message>
         <source>Show Insertions and Deletions</source>
-        <translation type="unfinished"></translation>
+        <translation>插入和删除</translation>
     </message>
     <message>
         <source>Show Reviewers</source>
-        <translation type="unfinished"></translation>
+        <translation>显示审阅者</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -1813,7 +1928,7 @@ Merged Data</source>
     <name>classics.shadow_settings</name>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -1865,7 +1980,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
 </context>
 <context>
@@ -1919,12 +2034,12 @@ Merged Data</source>
         <translation type="obsolete">无格式文本</translation>
     </message>
     <message>
-        <source>Export to PDF</source>
-        <translation>输出为PDF格式</translation>
+        <source>Export to OFD</source>
+        <translation type="obsolete">输出为OFD格式</translation>
     </message>
     <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <source>Export to PDF</source>
+        <translation>输出为PDF格式</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -1936,7 +2051,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation>带格式文本</translation>
+        <translation>带格式粘贴</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -2044,7 +2159,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>无格式文本</translation>
+        <translation>只粘贴文本</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
@@ -2063,6 +2178,16 @@ Merged Data</source>
     </message>
     <message>
         <source>Switch UI</source>
+        <translation type="obsolete">更改界面</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation>皮肤</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
         <translation>更改界面</translation>
     </message>
     <message>
@@ -2172,7 +2297,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -2216,7 +2341,7 @@ Merged Data</source>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>其他线条颜色</translation>
+        <translation>其他轮廓颜色</translation>
     </message>
     <message>
         <source>Rows</source>
@@ -2245,7 +2370,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -2632,6 +2757,294 @@ Merged Data</source>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_charttools</name>
+    <message>
+        <source>Above</source>
+        <translation>上方</translation>
+    </message>
+    <message>
+        <source>AboveChart</source>
+        <translation>图表上方</translation>
+    </message>
+    <message>
+        <source>AddAxis</source>
+        <translation>坐标轴</translation>
+    </message>
+    <message>
+        <source>AddAxisTitle</source>
+        <translation>轴标题</translation>
+    </message>
+    <message>
+        <source>AddChartElements</source>
+        <translation>添加元素</translation>
+    </message>
+    <message>
+        <source>AddChartLines</source>
+        <translation>线条</translation>
+    </message>
+    <message>
+        <source>AddChartTitle</source>
+        <translation>图表标题</translation>
+    </message>
+    <message>
+        <source>AddDataLabels</source>
+        <translation>数据标签</translation>
+    </message>
+    <message>
+        <source>AddDataTable</source>
+        <translation>数据表</translation>
+    </message>
+    <message>
+        <source>AddErrorBar</source>
+        <translation>误差线</translation>
+    </message>
+    <message>
+        <source>AddGridLine</source>
+        <translation>网格线</translation>
+    </message>
+    <message>
+        <source>AddLegend</source>
+        <translation>图例</translation>
+    </message>
+    <message>
+        <source>AddTrendLine</source>
+        <translation>趋势线</translation>
+    </message>
+    <message>
+        <source>AddUpDownBar</source>
+        <translation>涨/跌柱线</translation>
+    </message>
+    <message>
+        <source>Below</source>
+        <translation>下方</translation>
+    </message>
+    <message>
+        <source>BestFit</source>
+        <translation>最佳匹配</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>底部</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>居中</translation>
+    </message>
+    <message>
+        <source>CenteredOverlay</source>
+        <translation>居中覆盖</translation>
+    </message>
+    <message>
+        <source>ChangeChartType</source>
+        <translation>更改类型</translation>
+    </message>
+    <message>
+        <source>Chart Elements</source>
+        <translation>图表元素</translation>
+    </message>
+    <message>
+        <source>ChartStyle</source>
+        <translation>图表样式</translation>
+    </message>
+    <message>
+        <source>Current Selection</source>
+        <translation>当前所选内容</translation>
+    </message>
+    <message>
+        <source>DataCallout</source>
+        <translation>数据标注</translation>
+    </message>
+    <message>
+        <source>DataSection</source>
+        <translation>数据</translation>
+    </message>
+    <message>
+        <source>DropLines</source>
+        <translation>垂直线</translation>
+    </message>
+    <message>
+        <source>DropLinesAndHighLowLines</source>
+        <translation>垂直线和高低点连线</translation>
+    </message>
+    <message>
+        <source>Edit Data</source>
+        <translation>编辑数据</translation>
+    </message>
+    <message>
+        <source>Exponential</source>
+        <translation>指数</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <comment>Chart Element Format</comment>
+        <translation>设置格式</translation>
+    </message>
+    <message>
+        <source>Format Selection</source>
+        <translation type="obsolete">设置所选内容格式</translation>
+    </message>
+    <message>
+        <source>HighLowLines</source>
+        <translation>高低点连线</translation>
+    </message>
+    <message>
+        <source>InsideBase</source>
+        <translation>轴内</translation>
+    </message>
+    <message>
+        <source>InsideEnd</source>
+        <translation>数据标签内</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>左侧</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation>线性</translation>
+    </message>
+    <message>
+        <source>Linear Forecast</source>
+        <translation>线性预测</translation>
+    </message>
+    <message>
+        <source>Moving Average</source>
+        <translation>移动平均</translation>
+    </message>
+    <message>
+        <source>NoLegendKeys</source>
+        <translation>无图例项标示</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>无</translation>
+    </message>
+    <message>
+        <source>OutsideEnd</source>
+        <translation>数据标签外</translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <translation>百分比</translation>
+    </message>
+    <message>
+        <source>PrimaryHorizontalAxis</source>
+        <translation>主要横向坐标轴</translation>
+    </message>
+    <message>
+        <source>PrimaryMajorHorizontal</source>
+        <translation>主轴主要水平网格线</translation>
+    </message>
+    <message>
+        <source>PrimaryMajorVertical</source>
+        <translation>主轴主要垂直网格线</translation>
+    </message>
+    <message>
+        <source>PrimaryMinorHorizontal</source>
+        <translation>主轴次要水平网格线</translation>
+    </message>
+    <message>
+        <source>PrimaryMinorVertial</source>
+        <translation>主轴次要垂直网格线</translation>
+    </message>
+    <message>
+        <source>PrimaryVerticalAxis</source>
+        <translation>主要纵向坐标轴</translation>
+    </message>
+    <message>
+        <source>Reset Style</source>
+        <translation>重置样式</translation>
+    </message>
+    <message>
+        <source>Reset To Match Style</source>
+        <translation type="obsolete">重设以匹配样式</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>右侧</translation>
+    </message>
+    <message>
+        <source>SecondaryHorizontalAxis</source>
+        <translation>次要横向坐标轴</translation>
+    </message>
+    <message>
+        <source>SecondaryMajorHorizontal</source>
+        <translation>次轴主要水平网格线</translation>
+    </message>
+    <message>
+        <source>SecondaryMajorVertical</source>
+        <translation>次轴主要垂直网格线</translation>
+    </message>
+    <message>
+        <source>SecondaryMinorHorizontal</source>
+        <translation>次轴次要水平网格线</translation>
+    </message>
+    <message>
+        <source>SecondaryMinorVertial</source>
+        <translation>次轴次要垂直网格线</translation>
+    </message>
+    <message>
+        <source>SecondaryVerticalAxis</source>
+        <translation>次要纵向坐标轴</translation>
+    </message>
+    <message>
+        <source>Select Data</source>
+        <translation>选择数据</translation>
+    </message>
+    <message>
+        <source>SeriesLines</source>
+        <translation>系列线</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>显示</translation>
+    </message>
+    <message>
+        <source>StandardDeviation</source>
+        <translation>标准偏差</translation>
+    </message>
+    <message>
+        <source>StandardError</source>
+        <translation>标准误差</translation>
+    </message>
+    <message>
+        <source>Switch Column</source>
+        <translation type="obsolete">按列切换</translation>
+    </message>
+    <message>
+        <source>Switch Row</source>
+        <translation type="obsolete">按行切换</translation>
+    </message>
+    <message>
+        <source>SwitchRowCol</source>
+        <translation type="obsolete">切换行列</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>顶部</translation>
+    </message>
+    <message>
+        <source>TypeSection</source>
+        <translation>类型</translation>
+    </message>
+    <message>
+        <source>WithLegendKeys</source>
+        <translation>显示图例项标示</translation>
+    </message>
+    <message>
+        <source>changeColor</source>
+        <translation>更改颜色</translation>
+    </message>
+    <message>
+        <source>layoutSection</source>
+        <translation>图表布局</translation>
+    </message>
+    <message>
+        <source>speedLayout</source>
+        <translation>快速布局</translation>
+    </message>
+</context>
+<context>
     <name>ongmani.ct_design</name>
     <message>
         <source>All Borders</source>
@@ -2735,7 +3148,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>其他线条颜色</translation>
+        <translation>其他轮廓颜色</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -2752,6 +3165,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Shading</source>
         <translation>底纹</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -2809,6 +3226,18 @@ AddIns</source>
     <message>
         <source>Command Button</source>
         <translation>命令按钮</translation>
+    </message>
+    <message>
+        <source>ContentControlsGroup</source>
+        <translation>组合</translation>
+    </message>
+    <message>
+        <source>ContentControlsGroupMenu</source>
+        <translation>组合</translation>
+    </message>
+    <message>
+        <source>ContentControlsUngroup</source>
+        <translation>取消组合</translation>
     </message>
     <message>
         <source>Control 
@@ -2911,19 +3340,27 @@ Editor</source>
     </message>
     <message>
         <source>XML</source>
-        <translation type="unfinished"></translation>
+        <translation>XML</translation>
+    </message>
+    <message>
+        <source>XML Mapping Pane</source>
+        <translation>XML 映射窗格</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
-        <translation type="unfinished"></translation>
+        <translation>扩展包</translation>
+    </message>
+    <message>
+        <source>XmlMapping</source>
+        <translation>映射</translation>
     </message>
     <message>
         <source>XmlSchema</source>
-        <translation type="unfinished"></translation>
+        <translation>架构</translation>
     </message>
     <message>
         <source>XmlStructure</source>
-        <translation type="unfinished"></translation>
+        <translation>结构</translation>
     </message>
 </context>
 <context>
@@ -2934,7 +3371,7 @@ Editor</source>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation> 0.5 磅</translation>
+        <translation>0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
@@ -2942,7 +3379,7 @@ Editor</source>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>   1 磅</translation>
+        <translation>1 磅</translation>
     </message>
     <message>
         <source>1.0</source>
@@ -2954,7 +3391,7 @@ Editor</source>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation> 1.5 磅</translation>
+        <translation>1.5 磅</translation>
     </message>
     <message>
         <source>2.0</source>
@@ -2970,7 +3407,7 @@ Editor</source>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>   3 磅</translation>
+        <translation>3 磅</translation>
     </message>
     <message>
         <source>3-D
@@ -2983,12 +3420,16 @@ On</source>
         <translation>设置三维效果</translation>
     </message>
     <message>
+        <source>3-D Rotation</source>
+        <translation>三维旋转​</translation>
+    </message>
+    <message>
         <source>3.0</source>
         <translation>3.0</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation> 4.5 磅</translation>
+        <translation>4.5 磅</translation>
     </message>
     <message>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
@@ -2996,7 +3437,658 @@ On</source>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>   6 磅</translation>
+        <translation>6 磅</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>对齐</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>底端对齐</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>水平居中</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>左对齐</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>垂直居中</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>右对齐</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>顶端对齐</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation>排列</translation>
+    </message>
+    <message>
+        <source>Arrow Style</source>
+        <translation>箭头样式</translation>
+    </message>
+    <message>
+        <source>Arrow Style 1</source>
+        <translation>箭头样式 1</translation>
+    </message>
+    <message>
+        <source>Arrow Style 10</source>
+        <translation>箭头样式 10</translation>
+    </message>
+    <message>
+        <source>Arrow Style 11</source>
+        <translation>箭头样式 11</translation>
+    </message>
+    <message>
+        <source>Arrow Style 2</source>
+        <translation>箭头样式 2</translation>
+    </message>
+    <message>
+        <source>Arrow Style 3</source>
+        <translation>箭头样式 3</translation>
+    </message>
+    <message>
+        <source>Arrow Style 4</source>
+        <translation>箭头样式 4</translation>
+    </message>
+    <message>
+        <source>Arrow Style 5</source>
+        <translation>箭头样式 5</translation>
+    </message>
+    <message>
+        <source>Arrow Style 6</source>
+        <translation>箭头样式 6</translation>
+    </message>
+    <message>
+        <source>Arrow Style 7</source>
+        <translation>箭头样式 7</translation>
+    </message>
+    <message>
+        <source>Arrow Style 8</source>
+        <translation>箭头样式 8</translation>
+    </message>
+    <message>
+        <source>Arrow Style 9</source>
+        <translation>箭头样式 9</translation>
+    </message>
+    <message>
+        <source>Behind Text</source>
+        <translation>衬于文字下方</translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <translation type="obsolete">棱台</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>加粗</translation>
+    </message>
+    <message>
+        <source>Break Forward Link</source>
+        <translation>断开向前链接</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation>上移一层</translation>
+    </message>
+    <message>
+        <source>Bring in Front of Text</source>
+        <translation>浮于文字上方</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation>置于顶层</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>居中对齐</translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation type="obsolete">居中对齐</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation>更改形状</translation>
+    </message>
+    <message>
+        <source>Create Text Box Link</source>
+        <translation>创建文本框链接</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation>短划线</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <translation>划线-点</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation>虚线线型</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="obsolete">划线-点</translation>
+    </message>
+    <message>
+        <source>Detailed Settings</source>
+        <translation type="obsolete">详细设置</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>横向分布</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>纵向分布</translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation>分散对齐</translation>
+    </message>
+    <message>
+        <source>Edit Points</source>
+        <translation>编辑顶点</translation>
+    </message>
+    <message>
+        <source>Edit Shapes</source>
+        <translation>编辑形状</translation>
+    </message>
+    <message>
+        <source>Emphasis Mark</source>
+        <translation>着重号</translation>
+    </message>
+    <message>
+        <source>EmphasisMark</source>
+        <translation type="obsolete">着重号</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation>等高</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>等尺寸</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation>等宽</translation>
+    </message>
+    <message>
+        <source>Even Height</source>
+        <translation type="obsolete">等高</translation>
+    </message>
+    <message>
+        <source>Even Width</source>
+        <translation type="obsolete">等宽</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation>填充</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation>水平翻转</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation>垂直翻转</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation>字体</translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation type="obsolete">文本颜色</translation>
+    </message>
+    <message>
+        <source>Font Name</source>
+        <translation>字体名</translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation>字号</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation>设置对象格式</translation>
+    </message>
+    <message>
+        <source>Format Painter</source>
+        <translation>格式刷</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation>自由旋转</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>发光</translation>
+    </message>
+    <message>
+        <source>Gradiant</source>
+        <translation type="obsolete">渐变</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation>渐变</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation>绘图网格</translation>
+    </message>
+    <message>
+        <source>Gridlines</source>
+        <translation>网格线</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>组合</translation>
+    </message>
+    <message>
+        <source>Grow Font</source>
+        <translation>增大字体</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation>高度</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation>突出显示</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>横向文本框</translation>
+    </message>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation type="obsolete">横向文本框</translation>
+    </message>
+    <message>
+        <source>In Front of Text</source>
+        <translation>浮于文字上方</translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation>嵌入型</translation>
+    </message>
+    <message>
+        <source>Insert Shapes</source>
+        <translation>插入形状</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>倾斜</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation>两端对齐</translation>
+    </message>
+    <message>
+        <source>Line Effects</source>
+        <translation type="obsolete">带效果线条</translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <translation>行距</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation>长划线</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation>长划线-点-点</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="obsolete">长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot-Dot</source>
+        <translation type="obsolete">长划线-点-点</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>更多</translation>
+    </message>
+    <message>
+        <source>More Arrows</source>
+        <translation>其他箭头</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation>其他填充颜色</translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation>其他字体颜色</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation>其他轮廓颜色</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation>其他线条</translation>
+    </message>
+    <message>
+        <source>More Underline Colors</source>
+        <translation>其他下划线颜色</translation>
+    </message>
+    <message>
+        <source>More Underlines</source>
+        <translation>其他下划线</translation>
+    </message>
+    <message>
+        <source>Multi-line Text</source>
+        <translation>多行文字</translation>
+    </message>
+    <message>
+        <source>Next Text Box</source>
+        <translation>下一文本框</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation>轮廓</translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation>图案</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation>带图案线条</translation>
+    </message>
+    <message>
+        <source>PicOrTexture</source>
+        <translation>图片或纹理</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="obsolete">图片</translation>
+    </message>
+    <message>
+        <source>Previous Text Box</source>
+        <translation>前一文本框</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation>倒影</translation>
+    </message>
+    <message>
+        <source>Relative to Page</source>
+        <translation>相对于页</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>旋转</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation>向左旋转 90°</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation>向右旋转 90°</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation>圆点</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation>选择窗格</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation>下移一层</translation>
+    </message>
+    <message>
+        <source>Send Behind Text</source>
+        <translation>衬于文字下方</translation>
+    </message>
+    <message>
+        <source>Send To Back</source>
+        <translation>置于底层</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>详细设置</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation>阴影</translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation>设置阴影</translation>
+    </message>
+    <message>
+        <source>Shadow On</source>
+        <translation type="obsolete">设置阴影</translation>
+    </message>
+    <message>
+        <source>Shape Effects</source>
+        <translation>形状效果</translation>
+    </message>
+    <message>
+        <source>Shape Fill</source>
+        <translation type="obsolete">填充</translation>
+    </message>
+    <message>
+        <source>Shape Outline</source>
+        <translation type="obsolete">轮廓</translation>
+    </message>
+    <message>
+        <source>Shape Size</source>
+        <translation>形状大小</translation>
+    </message>
+    <message>
+        <source>Shape Styles</source>
+        <translation>形状样式</translation>
+    </message>
+    <message>
+        <source>Shrink Font</source>
+        <translation>减小字体</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>大小</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>取色器</translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation>柔化边缘</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation>实线</translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation>四周型环绕</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation>方点</translation>
+    </message>
+    <message>
+        <source>Strikethought</source>
+        <translation type="obsolete">删除线</translation>
+    </message>
+    <message>
+        <source>Strikethrough</source>
+        <translation>删除线</translation>
+    </message>
+    <message>
+        <source>Text
+Direction</source>
+        <translation>文字方向</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation>文本框</translation>
+    </message>
+    <message>
+        <source>Text Color</source>
+        <translation>文本颜色</translation>
+    </message>
+    <message>
+        <source>Text Direction</source>
+        <translation type="obsolete">文字方向</translation>
+    </message>
+    <message>
+        <source>Text Wrapping</source>
+        <translation>文字环绕</translation>
+    </message>
+    <message>
+        <source>Texture</source>
+        <translation type="obsolete">纹理</translation>
+    </message>
+    <message>
+        <source>Through</source>
+        <translation>穿越型环绕</translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <translation>紧密型环绕</translation>
+    </message>
+    <message>
+        <source>Top and Bottom</source>
+        <translation>上下型环绕</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation>下划线</translation>
+    </message>
+    <message>
+        <source>Underline Color</source>
+        <translation>下划线颜色</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>取消组合</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>竖向文本框</translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation type="obsolete">竖向文本框</translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation>线型</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>宽度</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="obsolete">文字环绕</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <comment>rainbow</comment>
+        <translation>环绕</translation>
+    </message>
+    <message>
+        <source>Wrapping Style</source>
+        <translation type="obsolete">环绕</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_drawingtools_vml</name>
+    <message>
+        <source>0.25 pt.</source>
+        <translation>0.25 磅</translation>
+    </message>
+    <message>
+        <source>0.5 pt.</source>
+        <translation>0.5 磅</translation>
+    </message>
+    <message>
+        <source>0.75 pt.</source>
+        <translation>0.75 磅</translation>
+    </message>
+    <message>
+        <source>1 pt.</source>
+        <translation>1 磅</translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>1.5 pt.</source>
+        <translation>1.5 磅</translation>
+    </message>
+    <message>
+        <source>2.0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>2.25 pt.</source>
+        <translation>2.25 磅</translation>
+    </message>
+    <message>
+        <source>2.5</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>3 pt.</source>
+        <translation>3 磅</translation>
+    </message>
+    <message>
+        <source>3-D
+On</source>
+        <translation>设置三维效果</translation>
+    </message>
+    <message>
+        <source>3-D On</source>
+        <translation>设置三维效果</translation>
+    </message>
+    <message>
+        <source>3.0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>4.5 pt.</source>
+        <translation>4.5 磅</translation>
+    </message>
+    <message>
+        <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translation>初号;小初;一号;小一;二号;小二;三号;小三;四号;小四;五号;小五;六号;小六;七号;八号:42;36;26;24;22;18;16;15;14;12;10.5;9;7.5;6.5;5.5;5:5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
+    </message>
+    <message>
+        <source>6 pt.</source>
+        <translation>6 磅</translation>
     </message>
     <message>
         <source>Align</source>
@@ -3095,27 +4187,27 @@ On</source>
         <translation>上移一层</translation>
     </message>
     <message>
-        <source>Bring in Front of Text</source>
+        <source>Bring In Front Of Text</source>
         <translation>浮于文字上方</translation>
     </message>
     <message>
-        <source>Bring to Front</source>
+        <source>Bring To Front</source>
         <translation>置于顶层</translation>
     </message>
     <message>
-        <source>Center</source>
+        <source>Centered</source>
         <translation>居中对齐</translation>
     </message>
     <message>
-        <source>Centered</source>
-        <translation type="obsolete">居中对齐</translation>
+        <source>Change Points</source>
+        <translation>更改顶点</translation>
     </message>
     <message>
         <source>Change Shapes</source>
         <translation>更改形状</translation>
     </message>
     <message>
-        <source>Create Text Box Link</source>
+        <source>Create TextBox Link</source>
         <translation>创建文本框链接</translation>
     </message>
     <message>
@@ -3123,20 +4215,16 @@ On</source>
         <translation>短划线</translation>
     </message>
     <message>
-        <source>Dash Dot</source>
-        <translation>划线-点</translation>
-    </message>
-    <message>
         <source>Dash Style</source>
         <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="obsolete">划线-点</translation>
+        <translation>划线-点</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation type="obsolete">详细设置</translation>
+        <translation>详细设置</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -3151,16 +4239,12 @@ On</source>
         <translation>分散对齐</translation>
     </message>
     <message>
-        <source>Edit Points</source>
-        <translation>编辑顶点</translation>
-    </message>
-    <message>
-        <source>Emphasis Mark</source>
-        <translation>着重号</translation>
+        <source>Edit Shapes</source>
+        <translation>编辑形状</translation>
     </message>
     <message>
         <source>EmphasisMark</source>
-        <translation type="obsolete">着重号</translation>
+        <translation>着重号</translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -3175,23 +4259,15 @@ On</source>
         <translation>等宽</translation>
     </message>
     <message>
-        <source>Even Height</source>
-        <translation type="obsolete">等高</translation>
-    </message>
-    <message>
-        <source>Even Width</source>
-        <translation type="obsolete">等宽</translation>
-    </message>
-    <message>
         <source>Fill</source>
         <translation>填充</translation>
     </message>
     <message>
-        <source>Flip Horizontal</source>
+        <source>Flip Horizontally</source>
         <translation>水平翻转</translation>
     </message>
     <message>
-        <source>Flip Vertical</source>
+        <source>Flip Vertically</source>
         <translation>垂直翻转</translation>
     </message>
     <message>
@@ -3200,7 +4276,7 @@ On</source>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="obsolete">文本颜色</translation>
+        <translation>字体颜色</translation>
     </message>
     <message>
         <source>Font Name</source>
@@ -3220,10 +4296,6 @@ On</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation type="obsolete">渐变</translation>
-    </message>
-    <message>
-        <source>Gradient</source>
         <translation>渐变</translation>
     </message>
     <message>
@@ -3243,27 +4315,27 @@ On</source>
         <translation>增大字体</translation>
     </message>
     <message>
+        <source>Height</source>
+        <translation>高度</translation>
+    </message>
+    <message>
         <source>Highlight</source>
         <translation>突出显示</translation>
     </message>
     <message>
-        <source>Horizontal</source>
-        <translation>横向文本框</translation>
-    </message>
-    <message>
         <source>Horizontal Text Box</source>
-        <translation type="obsolete">横向文本框</translation>
+        <translation>横向文本框</translation>
     </message>
     <message>
         <source>In Front of Text</source>
         <translation>浮于文字上方</translation>
     </message>
     <message>
-        <source>In Line with Text</source>
+        <source>In Line With Text</source>
         <translation>嵌入型</translation>
     </message>
     <message>
-        <source>Insert Shapes</source>
+        <source>Insert Shape</source>
         <translation>插入形状</translation>
     </message>
     <message>
@@ -3275,32 +4347,36 @@ On</source>
         <translation>两端对齐</translation>
     </message>
     <message>
+        <source>Line Effects</source>
+        <translation type="obsolete">带效果线条</translation>
+    </message>
+    <message>
         <source>Line Spacing</source>
         <translation>行距</translation>
+    </message>
+    <message>
+        <source>Line Style</source>
+        <translation>线型</translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation type="obsolete">线型</translation>
     </message>
     <message>
         <source>Long Dash</source>
         <translation>长划线</translation>
     </message>
     <message>
-        <source>Long Dash Dot</source>
+        <source>Long Dash-Dot</source>
         <translation>长划线-点</translation>
     </message>
     <message>
-        <source>Long Dash Dot Dot</source>
+        <source>Long Dash-Dot-Dot</source>
         <translation>长划线-点-点</translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
-        <translation type="obsolete">长划线-点</translation>
-    </message>
-    <message>
-        <source>Long Dash-Dot-Dot</source>
-        <translation type="obsolete">长划线-点-点</translation>
-    </message>
-    <message>
         <source>More</source>
-        <translation>更多</translation>
+        <translation>其他</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -3316,14 +4392,14 @@ On</source>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>其他线条颜色</translation>
+        <translation>其他轮廓颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
         <translation>其他线条</translation>
     </message>
     <message>
-        <source>More Underline Colors</source>
+        <source>More UnderLine Colors</source>
         <translation>其他下划线颜色</translation>
     </message>
     <message>
@@ -3331,12 +4407,16 @@ On</source>
         <translation>其他下划线</translation>
     </message>
     <message>
-        <source>Multi-line Text</source>
+        <source>MultiLine Text</source>
         <translation>多行文字</translation>
     </message>
     <message>
         <source>Next Text Box</source>
         <translation>下一文本框</translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation type="obsolete">选择窗格</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -3355,7 +4435,7 @@ On</source>
         <translation>图片</translation>
     </message>
     <message>
-        <source>Previous Text Box</source>
+        <source>Previous TextBox</source>
         <translation>前一文本框</translation>
     </message>
     <message>
@@ -3363,7 +4443,7 @@ On</source>
         <translation>相对于页</translation>
     </message>
     <message>
-        <source>Rotate</source>
+        <source>Rotate </source>
         <translation>旋转</translation>
     </message>
     <message>
@@ -3373,6 +4453,10 @@ On</source>
     <message>
         <source>Rotate Right 90°</source>
         <translation>向右旋转 90°</translation>
+    </message>
+    <message>
+        <source>Rotate Style</source>
+        <translation type="obsolete">旋转</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -3395,29 +4479,16 @@ On</source>
         <translation>置于底层</translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation>详细设置</translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
+        <source>Shadow On</source>
         <translation>设置阴影</translation>
     </message>
     <message>
-        <source>Shadow On</source>
-        <translation type="obsolete">设置阴影</translation>
-    </message>
-    <message>
         <source>Shape Fill</source>
-        <translation type="obsolete">填充</translation>
+        <translation type="obsolete">形状填充</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation type="obsolete">轮廓</translation>
-    </message>
-    <message>
-        <source>Shape Size</source>
-        <translation>形状大小</translation>
+        <translation type="obsolete">形状轮廓</translation>
     </message>
     <message>
         <source>Shape Styles</source>
@@ -3426,6 +4497,18 @@ On/Off</source>
     <message>
         <source>Shrink Font</source>
         <translation>减小字体</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>大小</translation>
+    </message>
+    <message>
+        <source>Size Object</source>
+        <translation>对象大小</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -3441,32 +4524,15 @@ On/Off</source>
     </message>
     <message>
         <source>Strikethought</source>
-        <translation type="obsolete">删除线</translation>
-    </message>
-    <message>
-        <source>Strikethrough</source>
         <translation>删除线</translation>
-    </message>
-    <message>
-        <source>Text
-Direction</source>
-        <translation>文字方向</translation>
     </message>
     <message>
         <source>Text Box</source>
         <translation>文本框</translation>
     </message>
     <message>
-        <source>Text Color</source>
-        <translation>文本颜色</translation>
-    </message>
-    <message>
         <source>Text Direction</source>
-        <translation type="obsolete">文字方向</translation>
-    </message>
-    <message>
-        <source>Text Wrapping</source>
-        <translation>文字环绕</translation>
+        <translation>文字方向</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -3485,41 +4551,36 @@ Direction</source>
         <translation>上下型环绕</translation>
     </message>
     <message>
+        <source>UnGroup</source>
+        <translation>取消组合</translation>
+    </message>
+    <message>
+        <source>UnderLine Color</source>
+        <translation>下划线颜色</translation>
+    </message>
+    <message>
         <source>Underline</source>
         <translation>下划线</translation>
     </message>
     <message>
-        <source>Underline Color</source>
-        <translation>下划线颜色</translation>
-    </message>
-    <message>
-        <source>Ungroup</source>
-        <translation>取消组合</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
+        <source>Vertical Text Box</source>
         <translation>竖向文本框</translation>
     </message>
     <message>
-        <source>Vertical Text Box</source>
-        <translation type="obsolete">竖向文本框</translation>
-    </message>
-    <message>
-        <source>Weight</source>
-        <translation>线型</translation>
+        <source>Width</source>
+        <translation>宽度</translation>
     </message>
     <message>
         <source>Wrap Text</source>
+        <translation>文字环绕</translation>
+    </message>
+    <message>
+        <source>Wrapping</source>
         <translation type="obsolete">文字环绕</translation>
     </message>
     <message>
-        <source>Wrap Text</source>
-        <comment>rainbow</comment>
-        <translation>环绕</translation>
-    </message>
-    <message>
         <source>Wrapping Style</source>
-        <translation type="obsolete">环绕</translation>
+        <translation>环绕</translation>
     </message>
 </context>
 <context>
@@ -3531,6 +4592,10 @@ Direction</source>
     <message>
         <source>About WPS Writer</source>
         <translation>关于 WPS 文字</translation>
+    </message>
+    <message>
+        <source>Backup And Recover</source>
+        <translation type="obsolete">备份与恢复</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -3549,12 +4614,20 @@ Direction</source>
         <translation>备份管理与数据恢复</translation>
     </message>
     <message>
+        <source>Backup and Recover</source>
+        <translation>备份与恢复</translation>
+    </message>
+    <message>
         <source>Change Version</source>
-        <translation>切换版本</translation>
+        <translation type="obsolete">切换版本</translation>
     </message>
     <message>
         <source>Check for Updates</source>
         <translation>检查更新</translation>
+    </message>
+    <message>
+        <source>Convert</source>
+        <translation>转换</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
@@ -3594,11 +4667,15 @@ Direction</source>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation>输入激活码</translation>
+        <translation>激活产品</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation>退出</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation>输出为 OFD 格式</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -3665,8 +4742,12 @@ Direction</source>
         <translation type="obsolete">WPS 文字 模板文件（*.wpt）</translation>
     </message>
     <message>
+        <source>Manage Credential</source>
+        <translation type="obsolete">管理凭据</translation>
+    </message>
+    <message>
         <source>Manage Credentials</source>
-        <translation type="unfinished"></translation>
+        <translation>管理凭据</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2010 Document</source>
@@ -3722,7 +4803,7 @@ Direction</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>本机上的模板...</translation>
+        <translation>本机上的模板</translation>
     </message>
     <message>
         <source>Open</source>
@@ -3735,6 +4816,10 @@ Direction</source>
     <message>
         <source>Open from Klive</source>
         <translation type="obsolete">从快盘打开</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>选项</translation>
     </message>
     <message>
         <source>Other Formats</source>
@@ -3770,11 +4855,11 @@ Direction</source>
     </message>
     <message>
         <source>Restrict Permission by People</source>
-        <translation type="unfinished"></translation>
+        <translation>按人员限制权限</translation>
     </message>
     <message>
         <source>Restricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>限制访问</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3806,11 +4891,15 @@ Direction</source>
     </message>
     <message>
         <source>Study Online</source>
-        <translation>WPS 学习网站</translation>
+        <translation>WPS 学习社区</translation>
+    </message>
+    <message>
+        <source>Support WPS</source>
+        <translation>支持 WPS</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>无限制的访问</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -3818,7 +4907,7 @@ Direction</source>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>查看权限</translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -3866,7 +4955,7 @@ Direction</source>
     </message>
     <message>
         <source>WPS Writer 2007-2010 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS 文字 2007/2010 文件（*.wpsx）</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -4069,11 +5158,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>100%</source>
-        <translation>100%</translation>
+        <translation type="obsolete">100%</translation>
     </message>
     <message>
         <source>150%</source>
-        <translation>150%</translation>
+        <translation type="obsolete">150%</translation>
     </message>
     <message>
         <source>2.0</source>
@@ -4085,7 +5174,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>200%</source>
-        <translation>200%</translation>
+        <translation type="obsolete">200%</translation>
     </message>
     <message>
         <source>3.0</source>
@@ -4093,11 +5182,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>33%</source>
-        <translation>33%</translation>
+        <translation type="obsolete">33%</translation>
     </message>
     <message>
         <source>50%</source>
-        <translation>50%</translation>
+        <translation type="obsolete">50%</translation>
     </message>
     <message>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
@@ -4105,15 +5194,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>66%</source>
-        <translation>66%</translation>
+        <translation type="obsolete">66%</translation>
     </message>
     <message>
         <source>80%</source>
-        <translation>80%</translation>
+        <translation type="obsolete">80%</translation>
     </message>
     <message>
         <source>90%</source>
-        <translation>90%</translation>
+        <translation type="obsolete">90%</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -4129,11 +5218,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>Asian Layout</source>
-        <translation>中文版式</translation>
+        <translation type="obsolete">中文版式</translation>
     </message>
     <message>
         <source>Bold</source>
         <translation>加粗</translation>
+    </message>
+    <message>
+        <source>Bold Square-Hollow Bullets</source>
+        <translation>加粗空心方形的项目符号</translation>
     </message>
     <message>
         <source>Border and shading</source>
@@ -4169,7 +5262,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Character Scaling</source>
-        <translation>字符缩放</translation>
+        <translation type="obsolete">字符缩放</translation>
     </message>
     <message>
         <source>Character Shading</source>
@@ -4189,7 +5282,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation>合并字符</translation>
+        <translation type="obsolete">合并字符</translation>
     </message>
     <message>
         <source>Convert Case</source>
@@ -4300,7 +5393,11 @@ Painter</source>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation>带格式文本</translation>
+        <translation>带格式粘贴</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>发光</translation>
     </message>
     <message>
         <source>Go to</source>
@@ -4383,12 +5480,21 @@ Painter</source>
         <translation>其他下划线</translation>
     </message>
     <message>
+        <source>New 
+Style</source>
+        <translation type="obsolete">新样式</translation>
+    </message>
+    <message>
         <source>New Style</source>
         <translation>新样式</translation>
     </message>
     <message>
         <source>No Border</source>
         <translation>无框线</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>无</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -4419,12 +5525,20 @@ Painter</source>
         <translation>拼音指南...</translation>
     </message>
     <message>
+        <source>Reflection</source>
+        <translation>倒影</translation>
+    </message>
+    <message>
         <source>Replace</source>
         <translation>替换</translation>
     </message>
     <message>
         <source>Right Border</source>
         <translation>右框线</translation>
+    </message>
+    <message>
+        <source>Sagittate Bullet </source>
+        <translation>箭头项目符号</translation>
     </message>
     <message>
         <source>Select</source>
@@ -4463,12 +5577,20 @@ Painter</source>
         <translation type="obsolete">底纹颜色</translation>
     </message>
     <message>
+        <source>Shadow</source>
+        <translation>阴影</translation>
+    </message>
+    <message>
         <source>Show / Hide Formatting Marks</source>
         <translation type="obsolete">显示/隐藏段落标记</translation>
     </message>
     <message>
         <source>Show / Hide Paragraph Layout</source>
         <translation type="obsolete">显示/隐藏段落布局按钮</translation>
+    </message>
+    <message>
+        <source>Show/Hide Edit Mark</source>
+        <translation>显示/隐藏编辑标记</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Layout</source>
@@ -4485,6 +5607,10 @@ Painter</source>
     <message>
         <source>Shrink Font</source>
         <translation>减小字体</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -4523,12 +5649,28 @@ Painter</source>
         <translation>文本颜色</translation>
     </message>
     <message>
+        <source>Text Effects</source>
+        <translation>文本效果</translation>
+    </message>
+    <message>
+        <source>The Check Mark-shaped Bullets</source>
+        <translation>选中标记项目符号</translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation>三维旋转</translation>
+    </message>
+    <message>
         <source>Top Border</source>
         <translation>上框线</translation>
     </message>
     <message>
+        <source>Transform</source>
+        <translation>转换</translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
-        <translation>双行合一</translation>
+        <translation type="obsolete">双行合一</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -4540,15 +5682,35 @@ Painter</source>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>无格式文本</translation>
+        <translation>只粘贴文本</translation>
     </message>
     <message>
         <source>Vertical Middle Border</source>
         <translation type="obsolete">内部竖框线</translation>
     </message>
     <message>
+        <source>With Filling Effect Of Diamond-Shaped Bullets</source>
+        <translation>带填充效果的钻石菱形形项目符号</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Round-Shaped Bullets</source>
+        <translation>带填充效果的大圆形项目符号</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Square-Shaped Bullets</source>
+        <translation>带填充效果的大方形项目符号</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Round-Shaped Bullets</source>
+        <translation>带填充效果的圆形项目符号</translation>
+    </message>
+    <message>
         <source>Word Tools</source>
         <translation>文字工具</translation>
+    </message>
+    <message>
+        <source>WordArt</source>
+        <translation>艺术字</translation>
     </message>
     <message>
         <source>bullets_0</source>
@@ -4586,8 +5748,20 @@ Painter</source>
 <context>
     <name>ongmani.ct_home.Num</name>
     <message>
+        <source>1.2.3.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>A.B.C.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>More Numbering</source>
         <translation>其他编号</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>无</translation>
     </message>
     <message>
         <source>Number</source>
@@ -4596,6 +5770,22 @@ Painter</source>
     <message>
         <source>Numbering</source>
         <translation>编号</translation>
+    </message>
+    <message>
+        <source>Pictographic Number, Wide End</source>
+        <translation>象形编号，宽句号</translation>
+    </message>
+    <message>
+        <source>With The Circle Number.</source>
+        <translation>带圆圈的编号</translation>
+    </message>
+    <message>
+        <source>a).b).c).</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>a.b.c.</source>
+        <translation></translation>
     </message>
     <message>
         <source>numbering_0</source>
@@ -4629,6 +5819,10 @@ Painter</source>
         <source>numbering_7</source>
         <translation type="obsolete">CHS_WPS_Numbering_7</translation>
     </message>
+    <message>
+        <source>Ⅰ.Ⅱ.Ⅲ.</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_insert</name>
@@ -4650,7 +5844,7 @@ Painter</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation>分隔符</translation>
+        <translation>分页</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -4706,7 +5900,7 @@ Painter</source>
     </message>
     <message>
         <source>DocumentField</source>
-        <translation type="unfinished"></translation>
+        <translation>公文域</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -4802,6 +5996,10 @@ Footer</source>
         <translation>插入剪贴画</translation>
     </message>
     <message>
+        <source>Insert Number</source>
+        <translation>插入数字</translation>
+    </message>
+    <message>
         <source>Insert Online Pictures</source>
         <translation>在线图片</translation>
     </message>
@@ -4858,12 +6056,16 @@ Footer</source>
         <translation>多行文字</translation>
     </message>
     <message>
+        <source>New Drawing Canvas</source>
+        <translation>新建绘图画布</translation>
+    </message>
+    <message>
         <source>Next Page Section Break</source>
         <translation>下一页分节符</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>数字</translation>
+        <translation type="obsolete">数字</translation>
     </message>
     <message>
         <source>Object</source>
@@ -4938,7 +6140,7 @@ bol</source>
     </message>
     <message>
         <source>Symbols</source>
-        <translation>符号</translation>
+        <translation type="obsolete">符号</translation>
     </message>
     <message>
         <source>Table</source>
@@ -4950,7 +6152,374 @@ bol</source>
     </message>
     <message>
         <source>Text</source>
-        <translation>文本</translation>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation>文本框</translation>
+    </message>
+    <message>
+        <source>Text Form Field</source>
+        <translation>文字型窗体域</translation>
+    </message>
+    <message>
+        <source>Text Wrapping Break</source>
+        <translation>换行符</translation>
+    </message>
+    <message>
+        <source>Text from File</source>
+        <translation type="obsolete">文件中的文字</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>竖向</translation>
+    </message>
+    <message>
+        <source>Vertical Blank Page</source>
+        <translation type="obsolete">竖向</translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation type="obsolete">竖向文本框</translation>
+    </message>
+    <message>
+        <source>Watermark</source>
+        <translation>水印</translation>
+    </message>
+    <message>
+        <source>WordArt</source>
+        <translation>艺术字</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_insert_vml</name>
+    <message>
+        <source>AutoShape</source>
+        <translation>自选图形</translation>
+    </message>
+    <message>
+        <source>Blank Page</source>
+        <translation>空白页</translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <translation>书签</translation>
+    </message>
+    <message>
+        <source>Bookmarks</source>
+        <translation type="obsolete">书签</translation>
+    </message>
+    <message>
+        <source>Breaks</source>
+        <translation>分隔符</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation>图表</translation>
+    </message>
+    <message>
+        <source>Check Box Form Field</source>
+        <translation>复选框型窗体域</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation>剪贴画</translation>
+    </message>
+    <message>
+        <source>Column Break</source>
+        <translation>分栏符</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation>批注</translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation type="obsolete">批注</translation>
+    </message>
+    <message>
+        <source>Continuous Section Break</source>
+        <translation>连续分节符</translation>
+    </message>
+    <message>
+        <source>Convert Table to Text</source>
+        <translation>表格转换成文本</translation>
+    </message>
+    <message>
+        <source>Convert Text to Table</source>
+        <translation>文本转换成表格</translation>
+    </message>
+    <message>
+        <source>Cross-reference</source>
+        <translation>交叉引用</translation>
+    </message>
+    <message>
+        <source>Custom Shape</source>
+        <translation type="obsolete">自选图形</translation>
+    </message>
+    <message>
+        <source>Date and Time</source>
+        <translation>日期</translation>
+    </message>
+    <message>
+        <source>Date/Time</source>
+        <translation type="obsolete">日期</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation>公文域</translation>
+    </message>
+    <message>
+        <source>Draw Table</source>
+        <translation>绘制表格</translation>
+    </message>
+    <message>
+        <source>Drop Cap</source>
+        <translation>首字下沉</translation>
+    </message>
+    <message>
+        <source>Drop-Down Form Field</source>
+        <translation>下拉型窗体域</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation>公式</translation>
+    </message>
+    <message>
+        <source>Even Page Section Break</source>
+        <translation>偶数页分节符</translation>
+    </message>
+    <message>
+        <source>Fields</source>
+        <translation>域</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation>文件</translation>
+    </message>
+    <message>
+        <source>File Object</source>
+        <translation>附件</translation>
+    </message>
+    <message>
+        <source>Form Field Option</source>
+        <translation type="obsolete">属性</translation>
+    </message>
+    <message>
+        <source>Form Field Options</source>
+        <translation>属性</translation>
+    </message>
+    <message>
+        <source>Form Field Shading</source>
+        <translation>窗体域底纹</translation>
+    </message>
+    <message>
+        <source>Forms</source>
+        <translation>窗体</translation>
+    </message>
+    <message>
+        <source>From File</source>
+        <translation>来自文件</translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation>来自扫描仪</translation>
+    </message>
+    <message>
+        <source>Gallery</source>
+        <translation type="obsolete">素材库</translation>
+    </message>
+    <message>
+        <source>Header and 
+Footer</source>
+        <translation>页眉和页脚</translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation type="obsolete">页眉和页脚</translation>
+    </message>
+    <message>
+        <source>Header/Footer</source>
+        <translation type="obsolete">页眉和页脚</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>横向</translation>
+    </message>
+    <message>
+        <source>Horizontal Blank Page</source>
+        <translation type="obsolete">横向</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <translation>超链接</translation>
+    </message>
+    <message>
+        <source>Illustrations</source>
+        <translation>插图</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation>插入剪贴画</translation>
+    </message>
+    <message>
+        <source>Insert Number</source>
+        <translation>插入数字</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation>插入图片</translation>
+    </message>
+    <message>
+        <source>Insert Picture From File</source>
+        <translation type="obsolete">来自文件</translation>
+    </message>
+    <message>
+        <source>Insert Picture From Scan</source>
+        <translation type="obsolete">来自扫描仪</translation>
+    </message>
+    <message>
+        <source>Insert Picture from File</source>
+        <translation type="obsolete">来自文件</translation>
+    </message>
+    <message>
+        <source>Insert Picture from Scanner</source>
+        <translation type="obsolete">来自扫描仪</translation>
+    </message>
+    <message>
+        <source>Insert Scan</source>
+        <translation type="obsolete">来自扫描仪</translation>
+    </message>
+    <message>
+        <source>Insert Table</source>
+        <translation>插入表格</translation>
+    </message>
+    <message>
+        <source>Insert Text from File</source>
+        <translation>文件中的文字</translation>
+    </message>
+    <message>
+        <source>Insert Watermark</source>
+        <translation>插入水印</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>链接</translation>
+    </message>
+    <message>
+        <source>More Symbols</source>
+        <translation>其他符号</translation>
+    </message>
+    <message>
+        <source>Multi-line Text</source>
+        <translation>多行文字</translation>
+    </message>
+    <message>
+        <source>New Drawing Canvas</source>
+        <translation>新建绘图画布</translation>
+    </message>
+    <message>
+        <source>Next Page Section Break</source>
+        <translation>下一页分节符</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="obsolete">数字</translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <translation>对象</translation>
+    </message>
+    <message>
+        <source>Odd Page Section Break</source>
+        <translation>奇数页分节符</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Page
+Number</source>
+        <translation>页码</translation>
+    </message>
+    <message>
+        <source>Page 
+Break</source>
+        <translation>分页符</translation>
+    </message>
+    <message>
+        <source>Page Break</source>
+        <translation type="obsolete">分页符</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation type="obsolete">页码</translation>
+    </message>
+    <message>
+        <source>Pages</source>
+        <translation>页</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>图片</translation>
+    </message>
+    <message>
+        <source>Protect Form</source>
+        <translation>保护窗体</translation>
+    </message>
+    <message>
+        <source>Remove Watermark</source>
+        <translation>删除文档中的水印</translation>
+    </message>
+    <message>
+        <source>Reset Form Field</source>
+        <translation type="obsolete">重置窗体域</translation>
+    </message>
+    <message>
+        <source>Reset Form Fields</source>
+        <translation>重置窗体域</translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation>形状</translation>
+    </message>
+    <message>
+        <source>Sym
+bol</source>
+        <translation type="obsolete">符号</translation>
+    </message>
+    <message>
+        <source>Symbol</source>
+        <translation>符号</translation>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation type="obsolete">符号</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation>表格</translation>
+    </message>
+    <message>
+        <source>Tables</source>
+        <translation>表格</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="obsolete">文本</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -5256,6 +6825,10 @@ Merged Data</source>
         <translation>更改文字方向</translation>
     </message>
     <message>
+        <source>Colors</source>
+        <translation>颜色</translation>
+    </message>
+    <message>
         <source>Column Break</source>
         <translation>分栏符</translation>
     </message>
@@ -5292,6 +6865,14 @@ Merged Data</source>
         <translation>空行不显示行号</translation>
     </message>
     <message>
+        <source>Edit Theme</source>
+        <translation>编辑主题</translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation>效果</translation>
+    </message>
+    <message>
         <source>Equal Height</source>
         <translation>等高</translation>
     </message>
@@ -5317,7 +6898,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -5326,6 +6907,10 @@ Merged Data</source>
     <message>
         <source>Flip Vertical</source>
         <translation>垂直翻转</translation>
+    </message>
+    <message>
+        <source>Fonts</source>
+        <translation>字体</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -5524,7 +7109,7 @@ Break</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Square</source>
@@ -5558,6 +7143,10 @@ Direction</source>
     <message>
         <source>Texture</source>
         <translation>纹理</translation>
+    </message>
+    <message>
+        <source>Themes</source>
+        <translation>主题</translation>
     </message>
     <message>
         <source>Three</source>
@@ -5609,6 +7198,10 @@ Direction</source>
     <message>
         <source>Bold</source>
         <translation>加粗</translation>
+    </message>
+    <message>
+        <source>Bold Square-Hollow Bullets</source>
+        <translation>加粗空心方形的项目符号</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -5668,7 +7261,7 @@ Direction</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Font</source>
@@ -5751,6 +7344,10 @@ Direction</source>
         <translation>新样式</translation>
     </message>
     <message>
+        <source>None</source>
+        <translation>无</translation>
+    </message>
+    <message>
         <source>Paragraph</source>
         <translation>段落</translation>
     </message>
@@ -5779,6 +7376,10 @@ Direction</source>
         <translation type="obsolete">减少行距</translation>
     </message>
     <message>
+        <source>Sagittate Bullet </source>
+        <translation>箭头项目符号</translation>
+    </message>
+    <message>
         <source>Settings</source>
         <translation>详细设置</translation>
     </message>
@@ -5788,7 +7389,7 @@ Direction</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Style</source>
@@ -5805,6 +7406,10 @@ Direction</source>
     <message>
         <source>TOC Level</source>
         <translation>目录级别</translation>
+    </message>
+    <message>
+        <source>The Check Mark-shaped Bullets</source>
+        <translation>选中标记项目符号</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -5826,12 +7431,40 @@ Direction</source>
         <source>Underline Color</source>
         <translation>下划线颜色</translation>
     </message>
+    <message>
+        <source>With Filling Effect Of Diamond-Shaped Bullets</source>
+        <translation>带填充效果的钻石菱形形项目符号</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Round-Shaped Bullets</source>
+        <translation>带填充效果的大圆形项目符号</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Square-Shaped Bullets</source>
+        <translation>带填充效果的大方形项目符号</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Round-Shaped Bullets</source>
+        <translation>带填充效果的圆形项目符号</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_paragraph.Num</name>
     <message>
+        <source>1.2.3.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>A.B.C.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>More Numbering</source>
         <translation>其他编号</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>无</translation>
     </message>
     <message>
         <source>Number</source>
@@ -5840,6 +7473,26 @@ Direction</source>
     <message>
         <source>Numbering</source>
         <translation>编号</translation>
+    </message>
+    <message>
+        <source>Pictographic Number, Wide End</source>
+        <translation>象形编号，宽句号</translation>
+    </message>
+    <message>
+        <source>With The Circle Number.</source>
+        <translation>带圆圈的编号</translation>
+    </message>
+    <message>
+        <source>a).b).c).</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>a.b.c.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ⅰ.Ⅱ.Ⅲ.</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -5850,7 +7503,7 @@ Direction</source>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation> 0.5 磅</translation>
+        <translation>0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
@@ -5858,11 +7511,11 @@ Direction</source>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>   1 磅</translation>
+        <translation>1 磅</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation> 1.5 磅</translation>
+        <translation>1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt</source>
@@ -5870,23 +7523,796 @@ Direction</source>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>   3 磅</translation>
+        <translation>3 磅</translation>
+    </message>
+    <message>
+        <source>3-D Rotation</source>
+        <translation>三维旋转</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation> 4.5 磅</translation>
+        <translation>4.5 磅</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>   6 磅</translation>
+        <translation>6 磅</translation>
     </message>
     <message>
         <source>Adjust</source>
-        <translation>图片调整</translation>
+        <translation type="obsolete">图片调整</translation>
     </message>
     <message>
         <source>Adjust Picture</source>
+        <translation>更正</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>对齐</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>底端对齐</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>水平居中</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>左对齐</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>垂直居中</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>右对齐</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>顶端对齐</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation>排列</translation>
+    </message>
+    <message>
+        <source>Atristic Clip</source>
+        <translation>剪贴画</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>自动</translation>
+    </message>
+    <message>
+        <source>Behind Text</source>
+        <translation>衬于文字下方</translation>
+    </message>
+    <message>
+        <source>Black and White</source>
+        <translation>黑白</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation>上移一层</translation>
+    </message>
+    <message>
+        <source>Bring in Front of Text</source>
+        <translation>浮于文字上方</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation>置于顶层</translation>
+    </message>
+    <message>
+        <source>Change
+Picture</source>
+        <translation type="obsolete">更改图片</translation>
+    </message>
+    <message>
+        <source>Change Picture</source>
+        <translation>更改图片</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="obsolete">插入剪贴画</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation>颜色</translation>
+    </message>
+    <message>
+        <source>Compress
+Pictures</source>
+        <translation type="obsolete">压缩图片</translation>
+    </message>
+    <message>
+        <source>Compress Pictures</source>
+        <translation>压缩图片</translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation>裁剪</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation>短划线</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <translation>划线-点</translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation>长划线-点-点</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation>虚线线型</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="obsolete">划线-点</translation>
+    </message>
+    <message>
+        <source>Detailed Settings</source>
+        <translation type="obsolete">详细设置</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>横向分布</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>纵向分布</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation>等高</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>等尺寸</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation>等宽</translation>
+    </message>
+    <message>
+        <source>Even Height</source>
+        <translation type="obsolete">等高</translation>
+    </message>
+    <message>
+        <source>Even Width</source>
+        <translation type="obsolete">等宽</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="obsolete">取色器</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation>填充</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation>水平翻转</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation>垂直翻转</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation>设置对象格式</translation>
+    </message>
+    <message>
+        <source>Format Painter</source>
+        <translation type="obsolete">格式刷</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation>自由旋转</translation>
+    </message>
+    <message>
+        <source>From File</source>
+        <translation>来自文件</translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation>来自扫描仪</translation>
+    </message>
+    <message>
+        <source>Gallery</source>
+        <translation type="obsolete">素材库</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>发光</translation>
+    </message>
+    <message>
+        <source>Gradiant</source>
+        <translation type="obsolete">渐变</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation>渐变</translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <translation>灰度</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation>绘图网格</translation>
+    </message>
+    <message>
+        <source>Gridlines</source>
+        <translation>网格线</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>组合</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation>高度</translation>
+    </message>
+    <message>
+        <source>In Front of Text</source>
+        <translation>浮于文字上方</translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation>嵌入型</translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation>插入</translation>
+    </message>
+    <message>
+        <source>Insert
+Picture</source>
+        <translation type="obsolete">插入图片</translation>
+    </message>
+    <message>
+        <source>Insert Atristic Clip</source>
+        <translation>插入剪贴画</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="obsolete">插入剪贴画</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation>插入图片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>InsertPicture</source>
+        <translation type="obsolete">插入图片</translation>
+    </message>
+    <message>
+        <source>Less Brightness</source>
+        <translation>降低亮度</translation>
+    </message>
+    <message>
+        <source>Less Contrast</source>
+        <translation>降低对比度</translation>
+    </message>
+    <message>
+        <source>Line Effects</source>
+        <translation type="obsolete">带效果线条</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation>长划线</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="obsolete">长划线-点-点</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="obsolete">长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot-Dot</source>
+        <translation type="obsolete">长划线-点-点</translation>
+    </message>
+    <message>
+        <source>More Brightness</source>
+        <translation>增加亮度</translation>
+    </message>
+    <message>
+        <source>More Contrast</source>
+        <translation>增加对比度</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation>其他填充颜色</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation>其他轮廓颜色</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation>其他线条</translation>
+    </message>
+    <message>
+        <source>More Shadow Colors</source>
+        <translation>其他阴影颜色</translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation>无阴影</translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Down</source>
+        <translation>略向下移</translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation>略向左移</translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation>略向右移</translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation>略向上移</translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation type="obsolete">选择窗格</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="obsolete">轮廓</translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation>图案</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation>带图案线条</translation>
+    </message>
+    <message>
+        <source>PicOrTexture</source>
+        <translation>图片或纹理</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="obsolete">图片</translation>
+    </message>
+    <message>
+        <source>Picture
+Size</source>
+        <translation>图片大小</translation>
+    </message>
+    <message>
+        <source>Picture Adjust</source>
+        <translation type="obsolete">图片调整</translation>
+    </message>
+    <message>
+        <source>Picture Effects</source>
+        <translation>图片效果</translation>
+    </message>
+    <message>
+        <source>Picture Fill</source>
+        <translation type="obsolete">填充</translation>
+    </message>
+    <message>
+        <source>Picture Outline</source>
+        <translation>图片轮廓</translation>
+    </message>
+    <message>
+        <source>Picture Size</source>
+        <translation type="obsolete">图片大小</translation>
+    </message>
+    <message>
+        <source>Picture Styles</source>
+        <translation>图片样式</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation>倒影</translation>
+    </message>
+    <message>
+        <source>Relative to Page</source>
+        <translation type="obsolete">相对于页</translation>
+    </message>
+    <message>
+        <source>Relative to Slide</source>
+        <translation>相对于页</translation>
+    </message>
+    <message>
+        <source>Reset
+Picture</source>
+        <translation type="obsolete">重设图片</translation>
+    </message>
+    <message>
+        <source>Reset Picture</source>
+        <translation>重设图片</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation>重设图片和大小</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>旋转</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation>向左旋转 90°</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation>向右旋转 90°</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation>圆点</translation>
+    </message>
+    <message>
+        <source>Selection
+Pane</source>
+        <translation type="obsolete">选择窗格</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation>选择窗格</translation>
+    </message>
+    <message>
+        <source>Semitransparent Shadow</source>
+        <translation>半透明阴影</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation>下移一层</translation>
+    </message>
+    <message>
+        <source>Send Behind Text</source>
+        <translation>衬于文字下方</translation>
+    </message>
+    <message>
+        <source>Send To Back</source>
+        <translation type="obsolete">置于底层</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation>置于底层</translation>
+    </message>
+    <message>
+        <source>Set Transparent Color</source>
+        <translation>设置透明色</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>详细设置</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation>阴影</translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation>设置阴影</translation>
+    </message>
+    <message>
+        <source>Shadow Color</source>
+        <translation>阴影颜色</translation>
+    </message>
+    <message>
+        <source>Shadow Effects</source>
+        <translation>阴影效果</translation>
+    </message>
+    <message>
+        <source>Shadow On</source>
+        <translation type="obsolete">设置阴影</translation>
+    </message>
+    <message>
+        <source>Shadow On/Off</source>
+        <translation type="obsolete">设置/取消阴影</translation>
+    </message>
+    <message>
+        <source>Shadow Settings</source>
+        <translation type="obsolete">阴影效果</translation>
+    </message>
+    <message>
+        <source>Shadow Style</source>
+        <translation type="obsolete">阴影效果</translation>
+    </message>
+    <message>
+        <source>Shadow Style 1</source>
+        <translation type="obsolete">阴影样式1</translation>
+    </message>
+    <message>
+        <source>Shadow Style 10</source>
+        <translation type="obsolete">阴影样式10</translation>
+    </message>
+    <message>
+        <source>Shadow Style 11</source>
+        <translation type="obsolete">阴影样式11</translation>
+    </message>
+    <message>
+        <source>Shadow Style 12</source>
+        <translation type="obsolete">阴影样式12</translation>
+    </message>
+    <message>
+        <source>Shadow Style 13</source>
+        <translation type="obsolete">阴影样式13</translation>
+    </message>
+    <message>
+        <source>Shadow Style 14</source>
+        <translation type="obsolete">阴影样式14</translation>
+    </message>
+    <message>
+        <source>Shadow Style 15</source>
+        <translation type="obsolete">阴影样式15</translation>
+    </message>
+    <message>
+        <source>Shadow Style 16</source>
+        <translation type="obsolete">阴影样式16</translation>
+    </message>
+    <message>
+        <source>Shadow Style 17</source>
+        <translation type="obsolete">阴影样式17</translation>
+    </message>
+    <message>
+        <source>Shadow Style 18</source>
+        <translation type="obsolete">阴影样式18</translation>
+    </message>
+    <message>
+        <source>Shadow Style 19</source>
+        <translation type="obsolete">阴影样式19</translation>
+    </message>
+    <message>
+        <source>Shadow Style 2</source>
+        <translation type="obsolete">阴影样式2</translation>
+    </message>
+    <message>
+        <source>Shadow Style 20</source>
+        <translation type="obsolete">阴影样式20</translation>
+    </message>
+    <message>
+        <source>Shadow Style 3</source>
+        <translation type="obsolete">阴影样式3</translation>
+    </message>
+    <message>
+        <source>Shadow Style 4</source>
+        <translation type="obsolete">阴影样式4</translation>
+    </message>
+    <message>
+        <source>Shadow Style 5</source>
+        <translation type="obsolete">阴影样式5</translation>
+    </message>
+    <message>
+        <source>Shadow Style 6</source>
+        <translation type="obsolete">阴影样式6</translation>
+    </message>
+    <message>
+        <source>Shadow Style 7</source>
+        <translation type="obsolete">阴影样式7</translation>
+    </message>
+    <message>
+        <source>Shadow Style 8</source>
+        <translation type="obsolete">阴影样式8</translation>
+    </message>
+    <message>
+        <source>Shadow Style 9</source>
+        <translation type="obsolete">阴影样式9</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Down</source>
+        <translation type="obsolete">略向下移</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Left</source>
+        <translation type="obsolete">略向左移</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Right</source>
+        <translation type="obsolete">略向右移</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Up</source>
+        <translation type="obsolete">略向上移</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>大小</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>取色器</translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation>柔化边缘</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation>实线</translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation>四周型环绕</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation>方点</translation>
+    </message>
+    <message>
+        <source>Text Wrapping</source>
+        <translation type="obsolete">文字环绕</translation>
+    </message>
+    <message>
+        <source>Texture</source>
+        <translation type="obsolete">纹理</translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation type="obsolete">三维旋转</translation>
+    </message>
+    <message>
+        <source>Through</source>
+        <translation>穿越型环绕</translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <translation>紧密型环绕</translation>
+    </message>
+    <message>
+        <source>Top and Bottom</source>
+        <translation>上下型环绕</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>取消组合</translation>
+    </message>
+    <message>
+        <source>Washout</source>
+        <translation>冲蚀</translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation>线型</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>宽度</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="obsolete">文字环绕</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <comment>rainbow</comment>
+        <translation type="obsolete">环绕</translation>
+    </message>
+    <message>
+        <source>Wrapping</source>
+        <translation>环绕</translation>
+    </message>
+    <message>
+        <source>Wrapping Style</source>
+        <translation>环绕</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_picturetools.Fill</name>
+    <message>
+        <source>Picture</source>
+        <translation type="obsolete">图片</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_picturetools.Picture</name>
+    <message>
+        <source>Adjust</source>
         <translation type="obsolete">更正</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_picturetools_vml</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation>0.25 磅</translation>
+    </message>
+    <message>
+        <source>0.25 pt.</source>
+        <translation type="obsolete">0.25 磅</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation>0.5 磅</translation>
+    </message>
+    <message>
+        <source>0.5 pt.</source>
+        <translation type="obsolete">0.5 磅</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation>0.75 磅</translation>
+    </message>
+    <message>
+        <source>0.75 pt.</source>
+        <translation type="obsolete">0.75 磅</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation>1 磅</translation>
+    </message>
+    <message>
+        <source>1 pt.</source>
+        <translation type="obsolete">1 磅</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation>1.5 磅</translation>
+    </message>
+    <message>
+        <source>1.5 pt.</source>
+        <translation type="obsolete">1.5 磅</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation>2.25 磅</translation>
+    </message>
+    <message>
+        <source>2.25 pt.</source>
+        <translation type="obsolete">2.25 磅</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation>3 磅</translation>
+    </message>
+    <message>
+        <source>3 pt.</source>
+        <translation type="obsolete">3 磅</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation>4.5 磅</translation>
+    </message>
+    <message>
+        <source>4.5 pt.</source>
+        <translation type="obsolete">4.5 磅</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation>6 磅</translation>
+    </message>
+    <message>
+        <source>6 pt.</source>
+        <translation type="obsolete">6 磅</translation>
     </message>
     <message>
         <source>Align</source>
@@ -5929,12 +8355,24 @@ Direction</source>
         <translation>衬于文字下方</translation>
     </message>
     <message>
+        <source>Black &amp; White</source>
+        <translation type="obsolete">黑白</translation>
+    </message>
+    <message>
         <source>Black and White</source>
         <translation>黑白</translation>
     </message>
     <message>
         <source>Bring Forward</source>
         <translation>上移一层</translation>
+    </message>
+    <message>
+        <source>Bring In Front Of Text</source>
+        <translation type="obsolete">浮于文字上方</translation>
+    </message>
+    <message>
+        <source>Bring To Front</source>
+        <translation type="obsolete">置于顶层</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -5945,30 +8383,20 @@ Direction</source>
         <translation>置于顶层</translation>
     </message>
     <message>
-        <source>Change
-Picture</source>
+        <source>Change Picture</source>
         <translation>更改图片</translation>
     </message>
     <message>
-        <source>Change Picture</source>
-        <translation type="obsolete">更改图片</translation>
-    </message>
-    <message>
         <source>Clip Art</source>
-        <translation>插入剪贴画</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Color</source>
         <translation>颜色</translation>
     </message>
     <message>
-        <source>Compress
-Pictures</source>
-        <translation>压缩图片</translation>
-    </message>
-    <message>
         <source>Compress Pictures</source>
-        <translation type="obsolete">压缩图片</translation>
+        <translation>压缩图片</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -5992,7 +8420,7 @@ Pictures</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation type="obsolete">详细设置</translation>
+        <translation>详细设置</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -6003,32 +8431,36 @@ Pictures</source>
         <translation>纵向分布</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation>等高</translation>
+    </message>
+    <message>
         <source>Equal Size</source>
         <translation>等尺寸</translation>
     </message>
     <message>
-        <source>Even Height</source>
-        <translation>等高</translation>
-    </message>
-    <message>
-        <source>Even Width</source>
+        <source>Equal Width</source>
         <translation>等宽</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fill</source>
-        <translation>填充</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
         <translation>水平翻转</translation>
     </message>
     <message>
+        <source>Flip Horizontally</source>
+        <translation type="obsolete">水平翻转</translation>
+    </message>
+    <message>
         <source>Flip Vertical</source>
         <translation>垂直翻转</translation>
+    </message>
+    <message>
+        <source>Flip Vertically</source>
+        <translation type="obsolete">垂直翻转</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -6048,7 +8480,7 @@ Pictures</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="obsolete">素材库</translation>
+        <translation>素材库</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -6075,8 +8507,16 @@ Pictures</source>
         <translation>组合</translation>
     </message>
     <message>
+        <source>Height</source>
+        <translation>高度</translation>
+    </message>
+    <message>
         <source>In Front of Text</source>
         <translation>浮于文字上方</translation>
+    </message>
+    <message>
+        <source>In Line With Text</source>
+        <translation type="obsolete">嵌入型</translation>
     </message>
     <message>
         <source>In Line with Text</source>
@@ -6087,17 +8527,8 @@ Pictures</source>
         <translation>插入</translation>
     </message>
     <message>
-        <source>Insert
-Picture</source>
-        <translation type="obsolete">插入图片</translation>
-    </message>
-    <message>
         <source>Insert Clip Art</source>
-        <translation>插入剪贴画</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>在线图片</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -6105,7 +8536,7 @@ Picture</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>InsertPicture</source>
@@ -6116,8 +8547,24 @@ Picture</source>
         <translation>降低亮度</translation>
     </message>
     <message>
+        <source>Less Brightneww</source>
+        <translation type="obsolete">降低亮度</translation>
+    </message>
+    <message>
         <source>Less Contrast</source>
         <translation>降低对比度</translation>
+    </message>
+    <message>
+        <source>Line Effects</source>
+        <translation type="obsolete">带效果线条</translation>
+    </message>
+    <message>
+        <source>Line Style</source>
+        <translation>线型</translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation type="obsolete">线型</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -6153,7 +8600,7 @@ Picture</source>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>其他线条颜色</translation>
+        <translation>其他轮廓颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -6184,16 +8631,12 @@ Picture</source>
         <translation>略向上移</translation>
     </message>
     <message>
+        <source>Object Select</source>
+        <translation type="obsolete">选择窗格</translation>
+    </message>
+    <message>
         <source>Online Picture</source>
-        <translation type="obsolete">在线图片</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
         <translation>在线图片</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>轮廓</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -6208,21 +8651,16 @@ Picture</source>
         <translation>图片</translation>
     </message>
     <message>
-        <source>Picture
-Size</source>
-        <translation>图片大小</translation>
-    </message>
-    <message>
         <source>Picture Adjust</source>
-        <translation type="obsolete">图片调整</translation>
+        <translation>图片调整</translation>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation type="obsolete">填充</translation>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation type="obsolete">轮廓</translation>
+        <translation>图片轮廓</translation>
     </message>
     <message>
         <source>Picture Size</source>
@@ -6233,20 +8671,23 @@ Size</source>
         <translation>图片样式</translation>
     </message>
     <message>
+        <source>PictureSize</source>
+        <translation>图片大小</translation>
+    </message>
+    <message>
         <source>Relative to Page</source>
         <translation>相对于页</translation>
     </message>
     <message>
-        <source>Reset
-Picture</source>
+        <source>Reset Picture</source>
         <translation>重设图片</translation>
     </message>
     <message>
-        <source>Reset Picture</source>
-        <translation type="obsolete">重设图片</translation>
+        <source>Reset Picture and Size</source>
+        <translation>重设图片和大小</translation>
     </message>
     <message>
-        <source>Rotate</source>
+        <source>Rotate </source>
         <translation>旋转</translation>
     </message>
     <message>
@@ -6258,17 +8699,16 @@ Picture</source>
         <translation>向右旋转 90°</translation>
     </message>
     <message>
+        <source>Rotate Style</source>
+        <translation type="obsolete">旋转</translation>
+    </message>
+    <message>
         <source>Round Dot</source>
         <translation>圆点</translation>
     </message>
     <message>
-        <source>Selection
-Pane</source>
-        <translation>选择窗格</translation>
-    </message>
-    <message>
         <source>Selection Pane</source>
-        <translation type="obsolete">选择窗格</translation>
+        <translation>选择窗格</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -6295,117 +8735,100 @@ Pane</source>
         <translation>设置透明色</translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation>详细设置</translation>
-    </message>
-    <message>
-        <source>Shadow
-On/Off</source>
-        <translation>设置阴影</translation>
-    </message>
-    <message>
         <source>Shadow Color</source>
         <translation>阴影颜色</translation>
     </message>
     <message>
-        <source>Shadow Effects</source>
-        <translation>阴影效果</translation>
-    </message>
-    <message>
         <source>Shadow On</source>
-        <translation type="obsolete">设置阴影</translation>
+        <translation>设置阴影</translation>
     </message>
     <message>
-        <source>Shadow On/Off</source>
-        <translation type="obsolete">设置/取消阴影</translation>
-    </message>
-    <message>
-        <source>Shadow Settings</source>
+        <source>Shadow Setting</source>
         <translation>阴影效果</translation>
     </message>
     <message>
         <source>Shadow Style</source>
-        <translation type="obsolete">阴影效果</translation>
+        <translation>阴影效果</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
-        <translation>阴影样式1</translation>
+        <translation>阴影样式 1</translation>
     </message>
     <message>
         <source>Shadow Style 10</source>
-        <translation>阴影样式10</translation>
+        <translation>阴影样式 10</translation>
     </message>
     <message>
         <source>Shadow Style 11</source>
-        <translation>阴影样式11</translation>
+        <translation>阴影样式 11</translation>
     </message>
     <message>
         <source>Shadow Style 12</source>
-        <translation>阴影样式12</translation>
+        <translation>阴影样式 12</translation>
     </message>
     <message>
         <source>Shadow Style 13</source>
-        <translation>阴影样式13</translation>
+        <translation>阴影样式 13</translation>
     </message>
     <message>
         <source>Shadow Style 14</source>
-        <translation>阴影样式14</translation>
+        <translation>阴影样式 14</translation>
     </message>
     <message>
         <source>Shadow Style 15</source>
-        <translation>阴影样式15</translation>
+        <translation>阴影样式 15</translation>
     </message>
     <message>
         <source>Shadow Style 16</source>
-        <translation>阴影样式16</translation>
+        <translation>阴影样式 16</translation>
     </message>
     <message>
         <source>Shadow Style 17</source>
-        <translation>阴影样式17</translation>
+        <translation>阴影样式 17</translation>
     </message>
     <message>
         <source>Shadow Style 18</source>
-        <translation>阴影样式18</translation>
+        <translation>阴影样式 18</translation>
     </message>
     <message>
         <source>Shadow Style 19</source>
-        <translation>阴影样式19</translation>
+        <translation>阴影样式 19</translation>
     </message>
     <message>
         <source>Shadow Style 2</source>
-        <translation>阴影样式2</translation>
+        <translation>阴影样式 2</translation>
     </message>
     <message>
         <source>Shadow Style 20</source>
-        <translation>阴影样式20</translation>
+        <translation>阴影样式 20</translation>
     </message>
     <message>
         <source>Shadow Style 3</source>
-        <translation>阴影样式3</translation>
+        <translation>阴影样式 3</translation>
     </message>
     <message>
         <source>Shadow Style 4</source>
-        <translation>阴影样式4</translation>
+        <translation>阴影样式 4</translation>
     </message>
     <message>
         <source>Shadow Style 5</source>
-        <translation>阴影样式5</translation>
+        <translation>阴影样式 5</translation>
     </message>
     <message>
         <source>Shadow Style 6</source>
-        <translation>阴影样式6</translation>
+        <translation>阴影样式 6</translation>
     </message>
     <message>
         <source>Shadow Style 7</source>
-        <translation>阴影样式7</translation>
+        <translation>阴影样式 7</translation>
     </message>
     <message>
         <source>Shadow Style 8</source>
-        <translation>阴影样式8</translation>
+        <translation>阴影样式 8</translation>
     </message>
     <message>
         <source>Shadow Style 9</source>
-        <translation>阴影样式9</translation>
+        <translation>阴影样式 9</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
@@ -6424,6 +8847,10 @@ On/Off</source>
         <translation type="obsolete">略向上移</translation>
     </message>
     <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Snapper</source>
         <translation type="obsolete">取色器</translation>
     </message>
@@ -6438,10 +8865,6 @@ On/Off</source>
     <message>
         <source>Square Dot</source>
         <translation>方点</translation>
-    </message>
-    <message>
-        <source>Text Wrapping</source>
-        <translation type="obsolete">文字环绕</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -6460,6 +8883,10 @@ On/Off</source>
         <translation>上下型环绕</translation>
     </message>
     <message>
+        <source>UnGroup</source>
+        <translation type="obsolete">取消组合</translation>
+    </message>
+    <message>
         <source>Ungroup</source>
         <translation>取消组合</translation>
     </message>
@@ -6468,17 +8895,16 @@ On/Off</source>
         <translation>冲蚀</translation>
     </message>
     <message>
-        <source>Weight</source>
-        <translation>线型</translation>
+        <source>Width</source>
+        <translation>宽度</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <translation>文字环绕</translation>
     </message>
     <message>
-        <source>Wrap Text</source>
-        <comment>rainbow</comment>
-        <translation>环绕</translation>
+        <source>Wrapping</source>
+        <translation type="obsolete">文字环绕</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
@@ -6751,7 +9177,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation type="unfinished">简繁转换</translation>
+        <translation>简繁转换</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -6877,19 +9303,19 @@ Comment</source>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>审阅窗格</translation>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>水平审阅窗格</translation>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直审阅窗格</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>显示</translation>
+        <translation type="obsolete">显示</translation>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
@@ -6901,7 +9327,7 @@ Comment</source>
     </message>
     <message>
         <source>Show Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>批注</translation>
     </message>
     <message>
         <source>Show Date</source>
@@ -6909,15 +9335,31 @@ Comment</source>
     </message>
     <message>
         <source>Show Format Change</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">格式设置</translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="obsolete">格式设置</translation>
+    </message>
+    <message>
+        <source>Show Formatting</source>
+        <translation>格式设置</translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation type="obsolete">插入和删除</translation>
     </message>
     <message>
         <source>Show Insertions and Deletions</source>
-        <translation type="unfinished"></translation>
+        <translation>插入和删除</translation>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
         <translation type="obsolete">在批注框中显示修订者信息</translation>
+    </message>
+    <message>
+        <source>Show Reviewers</source>
+        <translation>显示标记</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -6950,11 +9392,15 @@ Changes</source>
     </message>
     <message>
         <source>Track Changes Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>修订选项...</translation>
     </message>
     <message>
         <source>Tracking</source>
         <translation>修订</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation>翻译</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -7383,7 +9829,7 @@ Effects</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -7587,7 +10033,7 @@ Effects</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -7630,7 +10076,7 @@ Effects</source>
     </message>
     <message>
         <source>Align Bottom Justified</source>
-        <translation>靠下左对齐</translation>
+        <translation>靠下两端对齐</translation>
     </message>
     <message>
         <source>Align Bottom Right</source>
@@ -7642,7 +10088,7 @@ Effects</source>
     </message>
     <message>
         <source>Align Center Justified</source>
-        <translation>中部左对齐</translation>
+        <translation>中部两端对齐</translation>
     </message>
     <message>
         <source>Align Center Right</source>
@@ -7654,7 +10100,7 @@ Effects</source>
     </message>
     <message>
         <source>Align Top Justified</source>
-        <translation>靠上左对齐</translation>
+        <translation>靠上两端对齐</translation>
     </message>
     <message>
         <source>Align Top Right</source>
@@ -7674,7 +10120,7 @@ Effects</source>
     </message>
     <message>
         <source>AutoFit to Window</source>
-        <translation>根据窗口调整表格</translation>
+        <translation>适应窗口大小</translation>
     </message>
     <message>
         <source>Average</source>
@@ -7746,7 +10192,7 @@ Effects</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -7866,7 +10312,7 @@ Effects</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Split
@@ -7949,6 +10395,345 @@ Direction</source>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_texttool</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation type="obsolete">0.25 磅</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="obsolete">0.5 磅</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="obsolete">0.75 磅</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="obsolete">1 磅</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="obsolete">1.5 磅</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="obsolete">2.25 磅</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="obsolete">3 磅</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="obsolete">1.5 磅</translation>
+    </message>
+    <message>
+        <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translation type="obsolete">初号;小初;一号;小一;二号;小二;三号;小三;四号;小四;五号;小五;六号;小六;七号;八号:42;36;26;24;22;18;16;15;14;12;10.5;9;7.5;6.5;5.5;5:5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="obsolete">6 磅</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation type="obsolete">对齐</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="obsolete">靠下对齐</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation type="obsolete">水平居中</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="obsolete">左对齐</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation type="obsolete">垂直居中</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="obsolete">右对齐</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation type="obsolete">靠上对齐</translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <translation type="obsolete">棱台</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="obsolete">加粗</translation>
+    </message>
+    <message>
+        <source>Break Forward Link</source>
+        <translation type="obsolete">断开向前链接</translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation type="obsolete">居中</translation>
+    </message>
+    <message>
+        <source>Create Text Box Link</source>
+        <translation type="obsolete">创建文本框链接</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="obsolete">短划线</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation type="obsolete">虚线线型</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="obsolete">划线-点</translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation type="obsolete">长划线-点-点</translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation type="obsolete">减少缩进量</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation type="obsolete">横向分布</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation type="obsolete">纵向分布</translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation type="obsolete">分散对齐</translation>
+    </message>
+    <message>
+        <source>Emphasis mark</source>
+        <translation type="obsolete">着重号</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation type="obsolete">等尺寸</translation>
+    </message>
+    <message>
+        <source>Even Height</source>
+        <translation type="obsolete">等高</translation>
+    </message>
+    <message>
+        <source>Even Width</source>
+        <translation type="obsolete">等宽</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="obsolete">字体</translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation type="obsolete">字体颜色</translation>
+    </message>
+    <message>
+        <source>Font Fill Color</source>
+        <translation type="obsolete">文本填充</translation>
+    </message>
+    <message>
+        <source>Font Name</source>
+        <translation type="obsolete">字体名</translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation type="obsolete">字号</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation type="obsolete">发光</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation type="obsolete">绘图网格</translation>
+    </message>
+    <message>
+        <source>Gridlines</source>
+        <translation type="obsolete">网格线</translation>
+    </message>
+    <message>
+        <source>Grow Font</source>
+        <translation type="obsolete">增大字体</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation type="obsolete">突出显示</translation>
+    </message>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation type="obsolete">横向文本框</translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation type="obsolete">增加缩进量</translation>
+    </message>
+    <message>
+        <source>Insert Textbox</source>
+        <translation type="obsolete">插入文本框</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="obsolete">倾斜</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="obsolete">两端对齐</translation>
+    </message>
+    <message>
+        <source>Line Effects</source>
+        <translation type="obsolete">带效果线条</translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <translation type="obsolete">行距</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation type="obsolete">长划线</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="obsolete">长划线-点</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="obsolete">其他</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation type="obsolete">其他填充颜色</translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation type="obsolete">其他字体颜色</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation type="obsolete">其他轮廓颜色</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation type="obsolete">其他线条</translation>
+    </message>
+    <message>
+        <source>More Outline Colors</source>
+        <translation type="obsolete">其他轮廓颜色</translation>
+    </message>
+    <message>
+        <source>More Underline Colors</source>
+        <translation type="obsolete">其他下划线颜色</translation>
+    </message>
+    <message>
+        <source>More Underlines</source>
+        <translation type="obsolete">其他下划线</translation>
+    </message>
+    <message>
+        <source>Multi-line Text</source>
+        <translation type="obsolete">多行文字</translation>
+    </message>
+    <message>
+        <source>Next Text Box</source>
+        <translation type="obsolete">下一文本框</translation>
+    </message>
+    <message>
+        <source>Previous Text Box</source>
+        <translation type="obsolete">前一文本框</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation type="obsolete">倒影</translation>
+    </message>
+    <message>
+        <source>Relative to Page</source>
+        <translation type="obsolete">相对于页</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation type="obsolete">圆点</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation type="obsolete">阴影</translation>
+    </message>
+    <message>
+        <source>Shrink Font</source>
+        <translation type="obsolete">减小字体</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="obsolete">取色器</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation type="obsolete">实线</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation type="obsolete">方点</translation>
+    </message>
+    <message>
+        <source>Strikethrough</source>
+        <translation type="obsolete">删除线</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation type="obsolete">文本框</translation>
+    </message>
+    <message>
+        <source>Text Direction</source>
+        <translation type="obsolete">文字方向</translation>
+    </message>
+    <message>
+        <source>Text Effects</source>
+        <translation type="obsolete">文本效果</translation>
+    </message>
+    <message>
+        <source>Text Outline</source>
+        <translation type="obsolete">文本轮廓</translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation type="obsolete">三维旋转​​</translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation type="obsolete">转换</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="obsolete">下划线</translation>
+    </message>
+    <message>
+        <source>Underline Color</source>
+        <translation type="obsolete">下划线颜色</translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation type="obsolete">竖向文本框</translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation type="obsolete">线型</translation>
+    </message>
+    <message>
+        <source>WordArt Styles</source>
+        <translation type="obsolete">艺术字样式</translation>
+    </message>
+</context>
+<context>
     <name>ongmani.ct_view</name>
     <message>
         <source>100%</source>
@@ -7988,11 +10773,15 @@ Other Windows</source>
     </message>
     <message>
         <source>Close Other Windows</source>
-        <translation>关闭其他窗口</translation>
+        <translation type="unfinished">关闭其他窗口</translation>
     </message>
     <message>
         <source>Close Window</source>
         <translation>关闭当前窗口</translation>
+    </message>
+    <message>
+        <source>Compare</source>
+        <translation>比较</translation>
     </message>
     <message>
         <source>Compared Side By Side</source>
@@ -8021,7 +10810,7 @@ Map</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>护眼模式</translation>
     </message>
     <message>
         <source>Full 
@@ -8068,6 +10857,10 @@ Window</source>
     <message>
         <source>New Window</source>
         <translation type="obsolete">新建窗口</translation>
+    </message>
+    <message>
+        <source>Night Mode</source>
+        <translation>夜间模式</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -8349,7 +11142,7 @@ On/Off</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -8553,7 +11346,7 @@ Effects</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -8588,7 +11381,7 @@ Effects</source>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation> 0.5 磅</translation>
+        <translation>0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
@@ -8596,11 +11389,11 @@ Effects</source>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>   1 磅</translation>
+        <translation>1 磅</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation> 1.5 磅</translation>
+        <translation>1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt</source>
@@ -8608,7 +11401,7 @@ Effects</source>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>   3 磅</translation>
+        <translation>3 磅</translation>
     </message>
     <message>
         <source>3-D
@@ -8622,11 +11415,11 @@ On</source>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation> 4.5 磅</translation>
+        <translation>4.5 磅</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>   6 磅</translation>
+        <translation>6 磅</translation>
     </message>
     <message>
         <source>Align</source>
@@ -8950,6 +11743,10 @@ Spacing</source>
         <translation>字母调整</translation>
     </message>
     <message>
+        <source>Line Effects</source>
+        <translation type="obsolete">带效果线条</translation>
+    </message>
+    <message>
         <source>Long Dash</source>
         <translation>长划线</translation>
     </message>
@@ -8979,7 +11776,7 @@ Spacing</source>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>其他线条颜色</translation>
+        <translation>其他轮廓颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -9088,6 +11885,10 @@ Spacing</source>
     <message>
         <source>Slant Up</source>
         <translation>左领章</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -9280,6 +12081,14 @@ Shape</source>
         <translation>关闭自动备份</translation>
     </message>
     <message>
+        <source>Docer Entrance</source>
+        <translation>稻壳儿</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation>打赏</translation>
+    </message>
+    <message>
         <source>Enable AutoBackup</source>
         <translation>开启自动备份</translation>
     </message>
@@ -9301,7 +12110,11 @@ Shape</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished">护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
+    </message>
+    <message>
+        <source>Feedback and Support</source>
+        <translation>反馈与支持</translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -9377,15 +12190,15 @@ Shape</source>
     </message>
     <message>
         <source>KOS User cloud</source>
-        <translation type="obsolete">云文档</translation>
+        <translation type="obsolete">在线文档</translation>
     </message>
     <message>
         <source>KOS User cloud tip</source>
-        <translation type="obsolete">云文档</translation>
+        <translation type="obsolete">在线文档</translation>
     </message>
     <message>
         <source>KOS User guid</source>
-        <translation type="obsolete">站点</translation>
+        <translation type="obsolete">帮助</translation>
     </message>
     <message>
         <source>KOS User guid tip</source>
@@ -9413,7 +12226,11 @@ Shape</source>
     </message>
     <message>
         <source>More from Microblog</source>
-        <translation>长微博</translation>
+        <translation type="unfinished">长微博</translation>
+    </message>
+    <message>
+        <source>Night Mode</source>
+        <translation type="obsolete">夜间模式</translation>
     </message>
     <message>
         <source>Not Logged in</source>
@@ -9421,7 +12238,7 @@ Shape</source>
     </message>
     <message>
         <source>Online Documents</source>
-        <translation>云文档</translation>
+        <translation>在线文档</translation>
     </message>
     <message>
         <source>Online Picture</source>
@@ -9441,11 +12258,15 @@ Shape</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>打开云文档</translation>
+        <translation>从云文档打开</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
         <translation type="obsolete">护眼模式</translation>
+    </message>
+    <message>
+        <source>Protect Eyes and Night Mode</source>
+        <translation type="obsolete">护眼夜间模式</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -9465,7 +12286,7 @@ Shape</source>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>保存云文档</translation>
+        <translation>保存到云文档</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -9557,14 +12378,49 @@ Shape</source>
     </message>
 </context>
 <context>
+    <name>ongmani.proxycommands</name>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation>全文朗读</translation>
+    </message>
+    <message>
+        <source>Output Voice</source>
+        <translation>输出语音</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation>PDF转Word</translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation>选中朗读</translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation>显示工具栏</translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation>朗读</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation>翻译</translation>
+    </message>
+</context>
+<context>
     <name>popupmenu</name>
+    <message>
+        <source>&amp;Personal Center</source>
+        <translation type="obsolete">个人中心</translation>
+    </message>
     <message>
         <source>0 More Histories</source>
         <translation type="obsolete">更多历史记录</translation>
     </message>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 磅</translation>
     </message>
     <message>
         <source>0.25 pt.</source>
@@ -9572,7 +12428,7 @@ Shape</source>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 磅</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
@@ -9580,7 +12436,7 @@ Shape</source>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 磅</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
@@ -9588,7 +12444,7 @@ Shape</source>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 磅</translation>
     </message>
     <message>
         <source>1 pt.</source>
@@ -9604,7 +12460,7 @@ Shape</source>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 磅</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
@@ -9616,7 +12472,7 @@ Shape</source>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 磅</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
@@ -9628,7 +12484,7 @@ Shape</source>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 磅</translation>
     </message>
     <message>
         <source>3 pt.</source>
@@ -9640,7 +12496,7 @@ Shape</source>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 磅</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
@@ -9652,7 +12508,7 @@ Shape</source>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 磅</translation>
     </message>
     <message>
         <source>6 pt.</source>
@@ -9665,6 +12521,14 @@ Shape</source>
     <message>
         <source>About WPS Writer</source>
         <translation>关于 WPS 文字</translation>
+    </message>
+    <message>
+        <source>Above</source>
+        <translation>上方</translation>
+    </message>
+    <message>
+        <source>Above Chart</source>
+        <translation>图表上方</translation>
     </message>
     <message>
         <source>Accept Change</source>
@@ -9691,6 +12555,34 @@ Shape</source>
         <translation>激活 WPS Office</translation>
     </message>
     <message>
+        <source>Add Axis</source>
+        <translation>添加坐标轴</translation>
+    </message>
+    <message>
+        <source>Add Data Label</source>
+        <translation>添加数据标签</translation>
+    </message>
+    <message>
+        <source>Add DataLabel</source>
+        <translation type="obsolete">添加数据标签</translation>
+    </message>
+    <message>
+        <source>Add Major Gridlines</source>
+        <translation>添加主要网格线</translation>
+    </message>
+    <message>
+        <source>Add MajorGridline</source>
+        <translation type="obsolete">添加主要网格线</translation>
+    </message>
+    <message>
+        <source>Add Minor Gridlines</source>
+        <translation>添加次要网格线</translation>
+    </message>
+    <message>
+        <source>Add MinorGridline</source>
+        <translation type="obsolete">添加次要网格线</translation>
+    </message>
+    <message>
         <source>Add Point</source>
         <translation>添加顶点</translation>
     </message>
@@ -9699,12 +12591,20 @@ Shape</source>
         <translation>添加文字</translation>
     </message>
     <message>
+        <source>Add Trendline</source>
+        <translation>添加趋势线</translation>
+    </message>
+    <message>
         <source>Add to Dictionary</source>
         <translation>添加到词典</translation>
     </message>
     <message>
         <source>Add-Ins</source>
         <translation>加载项</translation>
+    </message>
+    <message>
+        <source>AddChartElements</source>
+        <translation>添加图表元素</translation>
     </message>
     <message>
         <source>Align</source>
@@ -9823,6 +12723,14 @@ Shape</source>
         <translation>平均值</translation>
     </message>
     <message>
+        <source>Axes</source>
+        <translation>坐标轴</translation>
+    </message>
+    <message>
+        <source>Axis Title</source>
+        <translation>轴标题</translation>
+    </message>
+    <message>
         <source>Background</source>
         <translation>背景</translation>
     </message>
@@ -9835,6 +12743,14 @@ Shape</source>
         <translation>衬于文字下方</translation>
     </message>
     <message>
+        <source>Below</source>
+        <translation>下方</translation>
+    </message>
+    <message>
+        <source>BestFit</source>
+        <translation>最佳匹配</translation>
+    </message>
+    <message>
         <source>Blank Page</source>
         <translation>空白页</translation>
     </message>
@@ -9843,12 +12759,20 @@ Shape</source>
         <translation>加粗</translation>
     </message>
     <message>
+        <source>Bold Square-Hollow Bullets</source>
+        <translation>加粗空心方形的项目符号</translation>
+    </message>
+    <message>
         <source>Border and shading</source>
-        <translation>边框和底纹</translation>
+        <translation type="obsolete">边框和底纹</translation>
     </message>
     <message>
         <source>Borders and Shading</source>
         <translation>边框和底纹</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>下部</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -9929,28 +12853,49 @@ Add-Ins</source>
         <translation>单元格</translation>
     </message>
     <message>
+        <source>Center</source>
+        <translation>居中对齐</translation>
+    </message>
+    <message>
         <source>Center Tab</source>
         <translation>居中对齐式制表位</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation>居中对齐</translation>
+        <translation type="obsolete">居中对齐</translation>
+    </message>
+    <message>
+        <source>Centered Overlay</source>
+        <translation>居中覆盖</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>切换账号</translation>
+        <translation type="obsolete">切换账号</translation>
     </message>
     <message>
         <source>Change Accout</source>
-        <translation type="obsolete">更改登录账户</translation>
+        <translation type="obsolete">切换账号</translation>
     </message>
     <message>
         <source>Change Case</source>
         <translation>更改大小写</translation>
     </message>
     <message>
+        <source>Change Chart Type</source>
+        <translation>更改图表
+类型</translation>
+    </message>
+    <message>
+        <source>Change DataLabel Geometry</source>
+        <translation>更改数据标签形状</translation>
+    </message>
+    <message>
         <source>Change Picture</source>
         <translation>更改图片</translation>
+    </message>
+    <message>
+        <source>Change Series Chart Type</source>
+        <translation>更改系列图表类型</translation>
     </message>
     <message>
         <source>Change Shapes</source>
@@ -9965,8 +12910,32 @@ Add-Ins</source>
         <translation>切换版本</translation>
     </message>
     <message>
+        <source>Character Shading</source>
+        <translation>字符底纹</translation>
+    </message>
+    <message>
         <source>Chart</source>
         <translation>图表</translation>
+    </message>
+    <message>
+        <source>Chart Elements</source>
+        <translation>图表元素</translation>
+    </message>
+    <message>
+        <source>Chart Filters</source>
+        <translation>图表筛选器</translation>
+    </message>
+    <message>
+        <source>Chart Objects</source>
+        <translation>图表对象</translation>
+    </message>
+    <message>
+        <source>Chart Styles</source>
+        <translation>图表样式</translation>
+    </message>
+    <message>
+        <source>Chart Title</source>
+        <translation>图表标题</translation>
     </message>
     <message>
         <source>Check Spelling As You Type</source>
@@ -10045,6 +13014,10 @@ Add-Ins</source>
         <translation>批注</translation>
     </message>
     <message>
+        <source>Compare Side by Side</source>
+        <translation type="obsolete">并排比较</translation>
+    </message>
+    <message>
         <source>Compared Side by Side</source>
         <translation>并排比较</translation>
     </message>
@@ -10101,6 +13074,14 @@ Add-Ins</source>
         <translation>转换至脚注</translation>
     </message>
     <message>
+        <source>Convert...</source>
+        <translation>转换...</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>复制</translation>
+    </message>
+    <message>
         <source>Copy Here</source>
         <translation>复制到此处</translation>
     </message>
@@ -10134,7 +13115,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Cross Border</source>
-        <translation>内部框线</translation>
+        <translation type="obsolete">内部框线</translation>
     </message>
     <message>
         <source>Cross-reference</source>
@@ -10149,12 +13130,16 @@ Add-Ins</source>
         <translation>曲线段</translation>
     </message>
     <message>
+        <source>Cut</source>
+        <translation>剪切</translation>
+    </message>
+    <message>
         <source>Dash</source>
         <translation>短划线</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>划线-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -10165,8 +13150,20 @@ Add-Ins</source>
         <translation type="obsolete">划线-点</translation>
     </message>
     <message>
+        <source>Data Callout</source>
+        <translation>数据标注</translation>
+    </message>
+    <message>
         <source>Data Chart</source>
         <translation type="obsolete">图表</translation>
+    </message>
+    <message>
+        <source>Data Labels</source>
+        <translation>数据标签</translation>
+    </message>
+    <message>
+        <source>Data Table</source>
+        <translation>数据表</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -10193,6 +13190,14 @@ Add-Ins</source>
         <translation>删除批注</translation>
     </message>
     <message>
+        <source>Delete Content Control</source>
+        <translation>删除内容控件</translation>
+    </message>
+    <message>
+        <source>Delete Item</source>
+        <translation>删除项目</translation>
+    </message>
+    <message>
         <source>Delete Page Numbers</source>
         <translation>无页码</translation>
     </message>
@@ -10207,6 +13212,10 @@ Add-Ins</source>
     <message>
         <source>Delete Segment</source>
         <translation>删除线段</translation>
+    </message>
+    <message>
+        <source>Delete Series</source>
+        <translation>删除系列</translation>
     </message>
     <message>
         <source>Delete Table</source>
@@ -10233,12 +13242,20 @@ Add-Ins</source>
         <translation>纵向分布</translation>
     </message>
     <message>
+        <source>Distributed</source>
+        <translation>分散对齐</translation>
+    </message>
+    <message>
         <source>Do not Show Line Number for Blank Line</source>
         <translation>空行不显示行号</translation>
     </message>
     <message>
         <source>Document Map</source>
         <translation>文档结构图</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation>打赏</translation>
     </message>
     <message>
         <source>Draw
@@ -10265,6 +13282,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Edit Comment</source>
         <translation>编辑批注</translation>
+    </message>
+    <message>
+        <source>Edit Data</source>
+        <translation>编辑数据</translation>
     </message>
     <message>
         <source>Edit Field</source>
@@ -10304,7 +13325,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation>输入激活码</translation>
+        <translation>激活产品</translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -10327,8 +13348,16 @@ Diagonal Line in Cell</source>
         <translation>清除</translation>
     </message>
     <message>
+        <source>Error Bars</source>
+        <translation>误差线</translation>
+    </message>
+    <message>
         <source>Even Page Section Break</source>
         <translation>偶数页分节符</translation>
+    </message>
+    <message>
+        <source>Exit Edit</source>
+        <translation>退出文本编辑</translation>
     </message>
     <message>
         <source>Exit Edit Point</source>
@@ -10355,12 +13384,16 @@ Diagonal Line in Cell</source>
         <translation type="obsolete">查看历史备份</translation>
     </message>
     <message>
+        <source>Exponential</source>
+        <translation>指数</translation>
+    </message>
+    <message>
         <source>Export as Image</source>
         <translation>输出为图片</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation>输出为OFD格式</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -10368,11 +13401,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>护眼模式</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -10400,7 +13433,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Fixed Text</source>
-        <translation type="unfinished"></translation>
+        <translation>固定在页面上</translation>
     </message>
     <message>
         <source>FixedText</source>
@@ -10408,7 +13441,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>水平翻转</translation>
     </message>
     <message>
         <source>Flip Horizontally</source>
@@ -10416,7 +13449,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直翻转</translation>
     </message>
     <message>
         <source>Flip Vertically</source>
@@ -10427,12 +13460,16 @@ Diagonal Line in Cell</source>
         <translation type="obsolete">随文字移动</translation>
     </message>
     <message>
+        <source>Font</source>
+        <translation>字体</translation>
+    </message>
+    <message>
         <source>Font Color</source>
         <translation>字体颜色</translation>
     </message>
     <message>
         <source>Font Name</source>
-        <translation>字体</translation>
+        <translation>字体名</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -10480,6 +13517,118 @@ Painter</source>
         <translation>格式刷</translation>
     </message>
     <message>
+        <source>Format Axis</source>
+        <translation>设置坐标轴格式</translation>
+    </message>
+    <message>
+        <source>Format Axis Title</source>
+        <translation>设置坐标轴标题格式</translation>
+    </message>
+    <message>
+        <source>Format Category Label</source>
+        <translation>设置分类标签格式</translation>
+    </message>
+    <message>
+        <source>Format Cells</source>
+        <translation type="obsolete">设置单元格格式</translation>
+    </message>
+    <message>
+        <source>Format Chart Area</source>
+        <translation>设置图表区域格式</translation>
+    </message>
+    <message>
+        <source>Format Chart Title</source>
+        <translation>设置图表标题格式</translation>
+    </message>
+    <message>
+        <source>Format Data Labels</source>
+        <translation>设置数据标签格式</translation>
+    </message>
+    <message>
+        <source>Format Data Point</source>
+        <translation>设置数据点格式</translation>
+    </message>
+    <message>
+        <source>Format Data Series</source>
+        <translation>设置数据系列格式</translation>
+    </message>
+    <message>
+        <source>Format Data Table</source>
+        <translation>设置模拟运算表格式</translation>
+    </message>
+    <message>
+        <source>Format DataLabel</source>
+        <translation type="obsolete">设置数据标签格式</translation>
+    </message>
+    <message>
+        <source>Format Display Unit</source>
+        <translation>设置显示单位格式</translation>
+    </message>
+    <message>
+        <source>Format Display Unit Label</source>
+        <translation type="obsolete">设置标签格式</translation>
+    </message>
+    <message>
+        <source>Format Down Bars</source>
+        <translation>设置跌柱线格式</translation>
+    </message>
+    <message>
+        <source>Format Drop Lines</source>
+        <translation>设置垂直线格式</translation>
+    </message>
+    <message>
+        <source>Format Error Bars</source>
+        <translation>设置错误栏格式</translation>
+    </message>
+    <message>
+        <source>Format ErrorBars</source>
+        <translation type="obsolete">设置错误栏格式</translation>
+    </message>
+    <message>
+        <source>Format Gridlines</source>
+        <translation>设置网格线格式</translation>
+    </message>
+    <message>
+        <source>Format High-Low Lines</source>
+        <translation>设置高低点连线格式</translation>
+    </message>
+    <message>
+        <source>Format Label</source>
+        <translation type="obsolete">设置标签格式</translation>
+    </message>
+    <message>
+        <source>Format Leader Lines</source>
+        <translation>设置引导线格式</translation>
+    </message>
+    <message>
+        <source>Format Legend</source>
+        <translation>设置图例格式</translation>
+    </message>
+    <message>
+        <source>Format Legend Entry</source>
+        <translation>设置图例项格式</translation>
+    </message>
+    <message>
+        <source>Format Legend Key</source>
+        <translation type="obsolete">图例项标示格式</translation>
+    </message>
+    <message>
+        <source>Format Major Gridlines</source>
+        <translation>设置主要网格线格式</translation>
+    </message>
+    <message>
+        <source>Format MajorGridline</source>
+        <translation type="obsolete">设置主要网格线格式</translation>
+    </message>
+    <message>
+        <source>Format Minor Gridlines</source>
+        <translation>设置次要网格线格式</translation>
+    </message>
+    <message>
+        <source>Format MinorGridline</source>
+        <translation type="obsolete">设置次要网格线格式</translation>
+    </message>
+    <message>
         <source>Format Object</source>
         <translation>设置对象格式</translation>
     </message>
@@ -10488,12 +13637,36 @@ Painter</source>
         <translation>格式刷</translation>
     </message>
     <message>
+        <source>Format Plot Area</source>
+        <translation>设置绘图区格式</translation>
+    </message>
+    <message>
+        <source>Format Series Lines</source>
+        <translation>设置系列线格式</translation>
+    </message>
+    <message>
+        <source>Format TrendLine Label</source>
+        <translation>设置趋势线标签格式</translation>
+    </message>
+    <message>
+        <source>Format Trendline</source>
+        <translation>设置趋势线格式</translation>
+    </message>
+    <message>
+        <source>Format UnitLabel</source>
+        <translation type="obsolete">设置显示单位格式</translation>
+    </message>
+    <message>
+        <source>Format Up Bars</source>
+        <translation>设置涨柱线格式</translation>
+    </message>
+    <message>
         <source>Formats</source>
         <translation>格式</translation>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation>带格式文本</translation>
+        <translation>带格式粘贴</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -10634,7 +13807,7 @@ Painter</source>
     </message>
     <message>
         <source>Horizontal Middle Border</source>
-        <translation>内部横框线</translation>
+        <translation type="obsolete">内部横框线</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -10650,11 +13823,15 @@ Painter</source>
     </message>
     <message>
         <source>In Line With Text</source>
+        <translation type="obsolete">嵌入型</translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
         <translation>嵌入型</translation>
     </message>
     <message>
         <source>In line with text</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">嵌入型</translation>
     </message>
     <message>
         <source>InlineWrapText</source>
@@ -10666,19 +13843,39 @@ Painter</source>
     </message>
     <message>
         <source>Insert Above</source>
-        <translation>在上方插入行</translation>
+        <translation type="obsolete">在上方插入行</translation>
     </message>
     <message>
         <source>Insert Below</source>
-        <translation>在下方插入行</translation>
+        <translation type="obsolete">在下方插入行</translation>
+    </message>
+    <message>
+        <source>Insert Canvas</source>
+        <translation>插入画布</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
         <translation>插入剪贴画</translation>
     </message>
     <message>
-        <source>Insert Left</source>
+        <source>Insert Column Left</source>
         <translation>在左侧插入列</translation>
+    </message>
+    <message>
+        <source>Insert Column Right</source>
+        <translation>在右侧插入列</translation>
+    </message>
+    <message>
+        <source>Insert Item After</source>
+        <translation>之后插入项目</translation>
+    </message>
+    <message>
+        <source>Insert Item Before</source>
+        <translation>之前插入项目</translation>
+    </message>
+    <message>
+        <source>Insert Left</source>
+        <translation type="obsolete">在左侧插入列</translation>
     </message>
     <message>
         <source>Insert Multiple Rows</source>
@@ -10690,7 +13887,15 @@ Painter</source>
     </message>
     <message>
         <source>Insert Right</source>
-        <translation>在右侧插入列</translation>
+        <translation type="obsolete">在右侧插入列</translation>
+    </message>
+    <message>
+        <source>Insert Row Above</source>
+        <translation>在上方插入行</translation>
+    </message>
+    <message>
+        <source>Insert Row Below</source>
+        <translation>在下方插入行</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -10709,12 +13914,36 @@ Painter</source>
         <translation type="obsolete">在线图片</translation>
     </message>
     <message>
+        <source>Inside Base</source>
+        <translation>轴内侧</translation>
+    </message>
+    <message>
+        <source>Inside Borders</source>
+        <translation>内部框线</translation>
+    </message>
+    <message>
+        <source>Inside End</source>
+        <translation>数据标签内</translation>
+    </message>
+    <message>
+        <source>Inside Horizontal Border</source>
+        <translation>内部横框线</translation>
+    </message>
+    <message>
+        <source>Inside Vertical Border</source>
+        <translation>内部竖框线</translation>
+    </message>
+    <message>
         <source>Invisible</source>
         <translation>隐藏</translation>
     </message>
     <message>
         <source>Italic</source>
         <translation>倾斜</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation>两端对齐</translation>
     </message>
     <message>
         <source>KOS Create Cloud Link</source>
@@ -10749,6 +13978,14 @@ Painter</source>
         <translation type="obsolete">WPS 文字 帮助</translation>
     </message>
     <message>
+        <source>Layout Object</source>
+        <translation type="obsolete">其他布局选项</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>左</translation>
+    </message>
+    <message>
         <source>Left Border</source>
         <translation>左框线</translation>
     </message>
@@ -10757,8 +13994,12 @@ Painter</source>
         <translation>左对齐式制表位</translation>
     </message>
     <message>
+        <source>Legend</source>
+        <translation>图例</translation>
+    </message>
+    <message>
         <source>Line Effects</source>
-        <translation type="obsolete">带图案线条</translation>
+        <translation type="obsolete">带效果线条</translation>
     </message>
     <message>
         <source>Line Number</source>
@@ -10778,11 +14019,23 @@ Painter</source>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
+        <translation>线型</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
         <translation type="obsolete">线型</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation>线性</translation>
+    </message>
+    <message>
+        <source>Linear Forecast</source>
+        <translation>线性预测</translation>
+    </message>
+    <message>
+        <source>Links...</source>
+        <translation>链接...</translation>
     </message>
     <message>
         <source>Login</source>
@@ -10798,11 +14051,11 @@ Painter</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>长划线-点</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>长划线-点-点</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -10821,8 +14074,12 @@ Painter</source>
         <translation>显示邮件合并工具栏</translation>
     </message>
     <message>
+        <source>Manage Credential</source>
+        <translation type="obsolete">管理凭据</translation>
+    </message>
+    <message>
         <source>Manage Credentials</source>
-        <translation type="unfinished"></translation>
+        <translation>管理凭据</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -10881,15 +14138,27 @@ Painter</source>
         <translation type="obsolete">更多历史记录</translation>
     </message>
     <message>
+        <source>More Layout Options</source>
+        <translation>其他布局选项</translation>
+    </message>
+    <message>
         <source>More Line Colors</source>
-        <translation>其他线条颜色</translation>
+        <translation>其他轮廓颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
         <translation>其他线条</translation>
     </message>
     <message>
+        <source>More Option...</source>
+        <translation>更多选项...</translation>
+    </message>
+    <message>
         <source>More UnderLine Colors</source>
+        <translation type="obsolete">其他下划线颜色</translation>
+    </message>
+    <message>
+        <source>More Underline Colors</source>
         <translation>其他下划线颜色</translation>
     </message>
     <message>
@@ -10898,7 +14167,7 @@ Painter</source>
     </message>
     <message>
         <source>More Wrap</source>
-        <translation>查看更多...</translation>
+        <translation type="obsolete">查看更多...</translation>
     </message>
     <message>
         <source>Move Here</source>
@@ -10906,7 +14175,7 @@ Painter</source>
     </message>
     <message>
         <source>Move With Text</source>
-        <translation type="unfinished"></translation>
+        <translation>随文字移动</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -10927,6 +14196,10 @@ Painter</source>
     <message>
         <source>No Border</source>
         <translation>无框线</translation>
+    </message>
+    <message>
+        <source>No Legend Keys</source>
+        <translation>无图例项标示</translation>
     </message>
     <message>
         <source>None</source>
@@ -11014,15 +14287,23 @@ Painter</source>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation>外侧框线</translation>
+        <translation type="obsolete">外侧框线</translation>
     </message>
     <message>
         <source>Outside Borders</source>
         <translation>外侧框线</translation>
     </message>
     <message>
+        <source>Outside End</source>
+        <translation>数据标签外</translation>
+    </message>
+    <message>
         <source>Over Type</source>
         <translation>改写</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation>PDF转Word</translation>
     </message>
     <message>
         <source>Page Area</source>
@@ -11049,6 +14330,10 @@ Painter</source>
         <translation>段落</translation>
     </message>
     <message>
+        <source>Paste</source>
+        <translation>粘贴</translation>
+    </message>
+    <message>
         <source>Paste Column</source>
         <translation>粘贴列</translation>
     </message>
@@ -11066,7 +14351,15 @@ Painter</source>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>带图案线条</translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <translation>百分比</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation>个人中心</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
@@ -11091,6 +14384,30 @@ Painter</source>
     <message>
         <source>Previous Text Box</source>
         <translation>前一文本框</translation>
+    </message>
+    <message>
+        <source>Primary Horizontal</source>
+        <translation>主要横坐标轴</translation>
+    </message>
+    <message>
+        <source>Primary Major Horizontal</source>
+        <translation>主轴主要水平网格线</translation>
+    </message>
+    <message>
+        <source>Primary Major Vertical</source>
+        <translation>主轴主要垂直网格线</translation>
+    </message>
+    <message>
+        <source>Primary Minor Horizontal</source>
+        <translation>主轴次要水平网格线</translation>
+    </message>
+    <message>
+        <source>Primary Minor Vertial</source>
+        <translation>主轴次要垂直网格线</translation>
+    </message>
+    <message>
+        <source>Primary Vertical</source>
+        <translation>主要纵坐标轴</translation>
     </message>
     <message>
         <source>Print Layout</source>
@@ -11185,6 +14502,14 @@ Painter</source>
         <translation>清除段落格式</translation>
     </message>
     <message>
+        <source>Reset To Fit Style</source>
+        <translation type="obsolete">重设以匹配样式</translation>
+    </message>
+    <message>
+        <source>Reset to Match Style</source>
+        <translation>重设以匹配样式</translation>
+    </message>
+    <message>
         <source>Restart Each Page</source>
         <translation>每页重编行号</translation>
     </message>
@@ -11202,11 +14527,11 @@ Painter</source>
     </message>
     <message>
         <source>Restrict Permission by People</source>
-        <translation type="unfinished"></translation>
+        <translation>按人员限制权限</translation>
     </message>
     <message>
         <source>Restricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>限制访问</translation>
     </message>
     <message>
         <source>ReviewPane</source>
@@ -11214,15 +14539,19 @@ Painter</source>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>审阅窗格</translation>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>水平审阅窗格</translation>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直审阅窗格</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>右</translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -11269,6 +14598,10 @@ Painter</source>
         <translation>标尺</translation>
     </message>
     <message>
+        <source>Sagittate Bullet </source>
+        <translation>箭头项目符号</translation>
+    </message>
+    <message>
         <source>Save All</source>
         <translation>保存所有文档</translation>
     </message>
@@ -11297,6 +14630,30 @@ Painter</source>
         <translation>截屏</translation>
     </message>
     <message>
+        <source>Secondary Horizontal</source>
+        <translation>次要横坐标轴</translation>
+    </message>
+    <message>
+        <source>Secondary Major Horizontal</source>
+        <translation>次轴主要水平网格线</translation>
+    </message>
+    <message>
+        <source>Secondary Major Vertical</source>
+        <translation>次轴主要垂直网格线</translation>
+    </message>
+    <message>
+        <source>Secondary Minor Horizontal</source>
+        <translation>次轴次要水平网格线</translation>
+    </message>
+    <message>
+        <source>Secondary Minor Vertial</source>
+        <translation>次轴次要垂直网格线</translation>
+    </message>
+    <message>
+        <source>Secondary Vertical</source>
+        <translation>次要纵坐标轴</translation>
+    </message>
+    <message>
         <source>Section</source>
         <translation>节</translation>
     </message>
@@ -11307,6 +14664,10 @@ Painter</source>
     <message>
         <source>Select</source>
         <translation>选择</translation>
+    </message>
+    <message>
+        <source>Select Data</source>
+        <translation>选择数据</translation>
     </message>
     <message>
         <source>Select Hyperlink</source>
@@ -11341,6 +14702,10 @@ Painter</source>
         <translation>设置自选图形的默认效果</translation>
     </message>
     <message>
+        <source>Set Default Paste</source>
+        <translation>设置默认粘贴</translation>
+    </message>
+    <message>
         <source>Shading Color</source>
         <translation>底纹颜色</translation>
     </message>
@@ -11358,7 +14723,7 @@ Painter</source>
     </message>
     <message>
         <source>Shape Style</source>
-        <translation type="unfinished"></translation>
+        <translation>样式</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -11371,6 +14736,10 @@ Painter</source>
     <message>
         <source>Share to Weibo</source>
         <translation type="obsolete">分享到微博</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>显示</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
@@ -11394,7 +14763,7 @@ Painter</source>
     </message>
     <message>
         <source>Shrink Font</source>
-        <translation>减小字体</translation>
+        <translation>縮小字型</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -11441,6 +14810,14 @@ Painter</source>
         <translation>方点</translation>
     </message>
     <message>
+        <source>Standard Deviation</source>
+        <translation>标准偏差</translation>
+    </message>
+    <message>
+        <source>Standard Error</source>
+        <translation>标准误差</translation>
+    </message>
+    <message>
         <source>Status Bar</source>
         <translation>状态栏</translation>
     </message>
@@ -11462,7 +14839,7 @@ Painter</source>
     </message>
     <message>
         <source>Study Online</source>
-        <translation>WPS 学习网站</translation>
+        <translation>WPS 学习社区</translation>
     </message>
     <message>
         <source>StudyOnline</source>
@@ -11479,6 +14856,10 @@ Painter</source>
     <message>
         <source>Sum</source>
         <translation>求和</translation>
+    </message>
+    <message>
+        <source>Support WPS</source>
+        <translation>支持 WPS</translation>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
@@ -11533,12 +14914,20 @@ Painter</source>
         <translation>纹理</translation>
     </message>
     <message>
+        <source>The Check Mark-shaped Bullets</source>
+        <translation>选中标记项目符号</translation>
+    </message>
+    <message>
         <source>Through</source>
         <translation>穿越型环绕</translation>
     </message>
     <message>
         <source>Tight</source>
         <translation>紧密型环绕</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>上部</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -11553,20 +14942,36 @@ Painter</source>
         <translation>修订</translation>
     </message>
     <message>
+        <source>Translation</source>
+        <translation>翻译</translation>
+    </message>
+    <message>
+        <source>TrendLine</source>
+        <translation>趋势线</translation>
+    </message>
+    <message>
         <source>Two Lines in One</source>
         <translation>双行合一</translation>
     </message>
     <message>
+        <source>Two Period Moving Average</source>
+        <translation>双周期移动平均</translation>
+    </message>
+    <message>
         <source>UnderLine Color</source>
-        <translation>下划线颜色</translation>
+        <translation type="obsolete">下划线颜色</translation>
     </message>
     <message>
         <source>Underline</source>
         <translation>下划线</translation>
     </message>
     <message>
+        <source>Underline Color</source>
+        <translation>下划线颜色</translation>
+    </message>
+    <message>
         <source>Unformatted Text</source>
-        <translation>无格式文本</translation>
+        <translation>只粘贴文本</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -11578,7 +14983,15 @@ Painter</source>
     </message>
     <message>
         <source>Unrestricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>无限制的访问</translation>
+    </message>
+    <message>
+        <source>Up/Down Bars</source>
+        <translation>涨/跌柱线</translation>
+    </message>
+    <message>
+        <source>Update Link</source>
+        <translation>更新链接</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -11606,7 +15019,7 @@ Painter</source>
     </message>
     <message>
         <source>Vertical Middle Border</source>
-        <translation>内部竖框线</translation>
+        <translation type="obsolete">内部竖框线</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -11626,7 +15039,7 @@ Painter</source>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>查看权限</translation>
     </message>
     <message>
         <source>View Shortcut</source>
@@ -11637,8 +15050,12 @@ Painter</source>
         <translation type="obsolete">并排比较</translation>
     </message>
     <message>
+        <source>View more</source>
+        <translation>查看更多...</translation>
+    </message>
+    <message>
         <source>WPS Business Version</source>
-        <translation>商业授权</translation>
+        <translation type="obsolete">商业授权</translation>
     </message>
     <message>
         <source>WPS Forum</source>
@@ -11685,6 +15102,26 @@ Painter</source>
         <translation>水印</translation>
     </message>
     <message>
+        <source>With Filling Effect Of Diamond-Shaped Bullets</source>
+        <translation>带填充效果的钻石菱形形项目符号</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Round-Shaped Bullets</source>
+        <translation>带填充效果的大圆形项目符号</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Square-Shaped Bullets</source>
+        <translation>带填充效果的大方形项目符号</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Round-Shaped Bullets</source>
+        <translation>带填充效果的圆形项目符号</translation>
+    </message>
+    <message>
+        <source>With Legend Keys</source>
+        <translation>显示图例项标示</translation>
+    </message>
+    <message>
         <source>Word Count</source>
         <translation>字数统计</translation>
     </message>
@@ -11697,8 +15134,12 @@ Painter</source>
         <translation>艺术字</translation>
     </message>
     <message>
-        <source>WrapText</source>
+        <source>Wrap Text</source>
         <translation>文字环绕</translation>
+    </message>
+    <message>
+        <source>WrapText</source>
+        <translation type="obsolete">文字环绕</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -11706,7 +15147,7 @@ Painter</source>
     </message>
     <message>
         <source>Zoom Ratio</source>
-        <translation>显示比例</translation>
+        <translation type="obsolete">显示比例</translation>
     </message>
     <message>
         <source>Zoom Slider</source>
@@ -11795,6 +15236,16 @@ Painter</source>
     </message>
     <message>
         <source>Switch UI</source>
+        <translation type="obsolete">更改界面</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation>皮肤</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
         <translation>更改界面</translation>
     </message>
     <message>
@@ -11812,13 +15263,40 @@ Painter</source>
 <context>
     <name>popupmenu.Num</name>
     <message>
+        <source>1.2.3.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>A.B.C.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>More Numbering</source>
-        <translation>
-其他编号</translation>
+        <translation>其他编号</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>无</translation>
     </message>
     <message>
         <source>Number</source>
         <translation>编号</translation>
+    </message>
+    <message>
+        <source>Pictographic Number, Wide End</source>
+        <translation>象形编号，宽句号</translation>
+    </message>
+    <message>
+        <source>With The Circle Number.</source>
+        <translation>带圆圈的编号</translation>
+    </message>
+    <message>
+        <source>a).b).c).</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>a.b.c.</source>
+        <translation></translation>
     </message>
     <message>
         <source>numbering_0</source>
@@ -11848,6 +15326,14 @@ Painter</source>
         <source>numbering_6</source>
         <translation type="obsolete">CHS_WPS_Numbering_6</translation>
     </message>
+    <message>
+        <source>numbering_7</source>
+        <translation type="obsolete">CHS_WPS_Numbering_7</translation>
+    </message>
+    <message>
+        <source>Ⅰ.Ⅱ.Ⅲ.</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_addons</name>
@@ -11866,6 +15352,296 @@ Painter</source>
     <message>
         <source>Toolbar Commands</source>
         <translation>工具栏命令</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_charttools</name>
+    <message>
+        <source>Above</source>
+        <translation>上方</translation>
+    </message>
+    <message>
+        <source>AboveChart</source>
+        <translation>图表上方</translation>
+    </message>
+    <message>
+        <source>AddAxis</source>
+        <translation>坐标轴</translation>
+    </message>
+    <message>
+        <source>AddAxisTitle</source>
+        <translation>轴标题</translation>
+    </message>
+    <message>
+        <source>AddChartElements</source>
+        <translation>添加图表
+元素</translation>
+    </message>
+    <message>
+        <source>AddChartLines</source>
+        <translation>线条</translation>
+    </message>
+    <message>
+        <source>AddChartTitle</source>
+        <translation>图表标题</translation>
+    </message>
+    <message>
+        <source>AddDataLabels</source>
+        <translation>数据标签</translation>
+    </message>
+    <message>
+        <source>AddDataTable</source>
+        <translation>数据表</translation>
+    </message>
+    <message>
+        <source>AddErrorBar</source>
+        <translation>误差线</translation>
+    </message>
+    <message>
+        <source>AddGridLine</source>
+        <translation>网格线</translation>
+    </message>
+    <message>
+        <source>AddLegend</source>
+        <translation>图例</translation>
+    </message>
+    <message>
+        <source>AddTrendLine</source>
+        <translation>趋势线</translation>
+    </message>
+    <message>
+        <source>AddUpDownBar</source>
+        <translation>涨/跌柱线</translation>
+    </message>
+    <message>
+        <source>Below</source>
+        <translation>下方</translation>
+    </message>
+    <message>
+        <source>BestFit</source>
+        <translation>最佳匹配</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>底部</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>居中</translation>
+    </message>
+    <message>
+        <source>CenteredOverlay</source>
+        <translation>居中覆盖</translation>
+    </message>
+    <message>
+        <source>ChangeChartType</source>
+        <translation>更改图表
+类型</translation>
+    </message>
+    <message>
+        <source>Chart Elements</source>
+        <translation>图表元素</translation>
+    </message>
+    <message>
+        <source>ChartStyle</source>
+        <translation>图表样式</translation>
+    </message>
+    <message>
+        <source>Current Selection</source>
+        <translation>当前所选内容</translation>
+    </message>
+    <message>
+        <source>DataCallout</source>
+        <translation>数据标注</translation>
+    </message>
+    <message>
+        <source>DataSection</source>
+        <translation>数据</translation>
+    </message>
+    <message>
+        <source>DropLines</source>
+        <translation>垂直线</translation>
+    </message>
+    <message>
+        <source>DropLinesAndHighLowLines</source>
+        <translation>垂直线和高低点连线</translation>
+    </message>
+    <message>
+        <source>Edit Data</source>
+        <translation>编辑数据</translation>
+    </message>
+    <message>
+        <source>Exponential</source>
+        <translation>指数</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <comment>Chart Element Format</comment>
+        <translation>设置格式</translation>
+    </message>
+    <message>
+        <source>Format Selection</source>
+        <translation type="obsolete">设置所选内容格式</translation>
+    </message>
+    <message>
+        <source>HighLowLines</source>
+        <translation>高低点连线</translation>
+    </message>
+    <message>
+        <source>InsideBase</source>
+        <translation>轴内</translation>
+    </message>
+    <message>
+        <source>InsideEnd</source>
+        <translation>数据标签内</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>左侧</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation>线性</translation>
+    </message>
+    <message>
+        <source>Linear Forecast</source>
+        <translation>线性预测</translation>
+    </message>
+    <message>
+        <source>Moving Average</source>
+        <translation>移动平均</translation>
+    </message>
+    <message>
+        <source>NoLegendKeys</source>
+        <translation>无图例项标示</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>无</translation>
+    </message>
+    <message>
+        <source>OutsideEnd</source>
+        <translation>数据标签外</translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <translation>百分比</translation>
+    </message>
+    <message>
+        <source>PrimaryHorizontalAxis</source>
+        <translation>主要横向坐标轴</translation>
+    </message>
+    <message>
+        <source>PrimaryMajorHorizontal</source>
+        <translation>主轴主要水平网格线</translation>
+    </message>
+    <message>
+        <source>PrimaryMajorVertical</source>
+        <translation>主轴主要垂直网格线</translation>
+    </message>
+    <message>
+        <source>PrimaryMinorHorizontal</source>
+        <translation>主轴次要水平网格线</translation>
+    </message>
+    <message>
+        <source>PrimaryMinorVertial</source>
+        <translation>主轴次要垂直网格线</translation>
+    </message>
+    <message>
+        <source>PrimaryVerticalAxis</source>
+        <translation>主要纵向坐标轴</translation>
+    </message>
+    <message>
+        <source>Reset Style</source>
+        <translation>重置样式</translation>
+    </message>
+    <message>
+        <source>Reset To Match Style</source>
+        <translation type="obsolete">重设以匹配样式</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>右侧</translation>
+    </message>
+    <message>
+        <source>SecondaryHorizontalAxis</source>
+        <translation>次要横向坐标轴</translation>
+    </message>
+    <message>
+        <source>SecondaryMajorHorizontal</source>
+        <translation>次轴主要水平网格线</translation>
+    </message>
+    <message>
+        <source>SecondaryMajorVertical</source>
+        <translation>次轴主要垂直网格线</translation>
+    </message>
+    <message>
+        <source>SecondaryMinorHorizontal</source>
+        <translation>次轴次要水平网格线</translation>
+    </message>
+    <message>
+        <source>SecondaryMinorVertial</source>
+        <translation>次轴次要垂直网格线</translation>
+    </message>
+    <message>
+        <source>SecondaryVerticalAxis</source>
+        <translation>次要纵向坐标轴</translation>
+    </message>
+    <message>
+        <source>Select Data</source>
+        <translation>选择数据</translation>
+    </message>
+    <message>
+        <source>SeriesLines</source>
+        <translation>系列线</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>显示</translation>
+    </message>
+    <message>
+        <source>StandardDeviation</source>
+        <translation>标准偏差</translation>
+    </message>
+    <message>
+        <source>StandardError</source>
+        <translation>标准误差</translation>
+    </message>
+    <message>
+        <source>Switch Column</source>
+        <translation type="obsolete">按列切换</translation>
+    </message>
+    <message>
+        <source>Switch Row</source>
+        <translation type="obsolete">按行切换</translation>
+    </message>
+    <message>
+        <source>SwitchRowCol</source>
+        <translation type="obsolete">切换行列</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>顶部</translation>
+    </message>
+    <message>
+        <source>TypeSection</source>
+        <translation>类型</translation>
+    </message>
+    <message>
+        <source>WithLegendKeys</source>
+        <translation>显示图例项标示</translation>
+    </message>
+    <message>
+        <source>changeColor</source>
+        <translation>更改颜色</translation>
+    </message>
+    <message>
+        <source>layoutSection</source>
+        <translation>图表布局</translation>
+    </message>
+    <message>
+        <source>speedLayout</source>
+        <translation>快速布局</translation>
     </message>
 </context>
 <context>
@@ -11918,7 +15694,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Horizontal Middle Border</source>
@@ -11954,7 +15730,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>其他线条颜色</translation>
+        <translation>其他轮廓颜色</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -11978,7 +15754,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Table Border</source>
@@ -12032,6 +15808,18 @@ Diagonal Line in Cell</source>
     <message>
         <source>Command Button</source>
         <translation>命令按钮</translation>
+    </message>
+    <message>
+        <source>ContentControlsGroup</source>
+        <translation>组合</translation>
+    </message>
+    <message>
+        <source>ContentControlsGroupMenu</source>
+        <translation>组合</translation>
+    </message>
+    <message>
+        <source>ContentControlsUngroup</source>
+        <translation>取消组合</translation>
     </message>
     <message>
         <source>Control List</source>
@@ -12123,19 +15911,27 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>XML</source>
-        <translation type="unfinished"></translation>
+        <translation>XML</translation>
+    </message>
+    <message>
+        <source>XML Mapping Pane</source>
+        <translation>XML 映射窗格</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
-        <translation type="unfinished"></translation>
+        <translation>扩展包</translation>
+    </message>
+    <message>
+        <source>XmlMapping</source>
+        <translation>映射</translation>
     </message>
     <message>
         <source>XmlSchema</source>
-        <translation type="unfinished"></translation>
+        <translation>架构</translation>
     </message>
     <message>
         <source>XmlStructure</source>
-        <translation type="unfinished"></translation>
+        <translation>结构</translation>
     </message>
 </context>
 <context>
@@ -12146,7 +15942,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation> 0.5 磅</translation>
+        <translation>0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
@@ -12154,27 +15950,727 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>   1 磅</translation>
+        <translation>1 磅</translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation>1.0</translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation>1.5</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation> 1.5 磅</translation>
+        <translation>1.5 磅</translation>
+    </message>
+    <message>
+        <source>2.0</source>
+        <translation>2.0</translation>
     </message>
     <message>
         <source>2.25 pt</source>
         <translation>2.25 磅</translation>
     </message>
     <message>
+        <source>2.5</source>
+        <translation>2.5</translation>
+    </message>
+    <message>
         <source>3 pt</source>
-        <translation>   3 磅</translation>
+        <translation>3 磅</translation>
+    </message>
+    <message>
+        <source>3-D
+On</source>
+        <translation>设置
+三维效果</translation>
+    </message>
+    <message>
+        <source>3-D On</source>
+        <translation>设置三维效果</translation>
+    </message>
+    <message>
+        <source>3-D Rotation</source>
+        <translation>三维旋转​</translation>
+    </message>
+    <message>
+        <source>3.0</source>
+        <translation>3.0</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation> 4.5 磅</translation>
+        <translation>4.5 磅</translation>
+    </message>
+    <message>
+        <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translation>初号;小初;一号;小一;二号;小二;三号;小三;四号;小四;五号;小五;六号;小六;七号;八号:42;36;26;24;22;18;16;15;14;12;10.5;9;7.5;6.5;5.5;5:5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>   6 磅</translation>
+        <translation>6 磅</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>对齐</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>底端对齐</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>水平居中</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>左对齐</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>垂直居中</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>右对齐</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>顶端对齐</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation>排列</translation>
+    </message>
+    <message>
+        <source>Arrow Style</source>
+        <translation>箭头样式</translation>
+    </message>
+    <message>
+        <source>Arrow Style 1</source>
+        <translation>箭头样式 1</translation>
+    </message>
+    <message>
+        <source>Arrow Style 10</source>
+        <translation>箭头样式 10</translation>
+    </message>
+    <message>
+        <source>Arrow Style 11</source>
+        <translation>箭头样式 11</translation>
+    </message>
+    <message>
+        <source>Arrow Style 2</source>
+        <translation>箭头样式 2</translation>
+    </message>
+    <message>
+        <source>Arrow Style 3</source>
+        <translation>箭头样式 3</translation>
+    </message>
+    <message>
+        <source>Arrow Style 4</source>
+        <translation>箭头样式 4</translation>
+    </message>
+    <message>
+        <source>Arrow Style 5</source>
+        <translation>箭头样式 5</translation>
+    </message>
+    <message>
+        <source>Arrow Style 6</source>
+        <translation>箭头样式 6</translation>
+    </message>
+    <message>
+        <source>Arrow Style 7</source>
+        <translation>箭头样式 7</translation>
+    </message>
+    <message>
+        <source>Arrow Style 8</source>
+        <translation>箭头样式 8</translation>
+    </message>
+    <message>
+        <source>Arrow Style 9</source>
+        <translation>箭头样式 9</translation>
+    </message>
+    <message>
+        <source>Behind Text</source>
+        <translation>衬于文字下方</translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <translation type="obsolete">棱台</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>加粗</translation>
+    </message>
+    <message>
+        <source>Break Forward Link</source>
+        <translation>断开向前链接</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation>上移一层</translation>
+    </message>
+    <message>
+        <source>Bring in Front of Text</source>
+        <translation>浮于文字上方</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation>置于顶层</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>居中对齐</translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation type="obsolete">居中对齐</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation>更改形状</translation>
+    </message>
+    <message>
+        <source>Create Text Box Link</source>
+        <translation>创建文本框链接</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation>短划线</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <translation>划线-点</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation>虚线线型</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="obsolete">划线-点</translation>
+    </message>
+    <message>
+        <source>Detailed Settings</source>
+        <translation type="obsolete">详细设置</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>横向分布</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>纵向分布</translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation>分散对齐</translation>
+    </message>
+    <message>
+        <source>Edit Points</source>
+        <translation>编辑顶点</translation>
+    </message>
+    <message>
+        <source>Edit Shapes</source>
+        <translation>编辑形状</translation>
+    </message>
+    <message>
+        <source>Emphasis Mark</source>
+        <translation>着重号</translation>
+    </message>
+    <message>
+        <source>EmphasisMark</source>
+        <translation type="obsolete">着重号</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation>等高</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>等尺寸</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation>等宽</translation>
+    </message>
+    <message>
+        <source>Even Height</source>
+        <translation type="obsolete">等高</translation>
+    </message>
+    <message>
+        <source>Even Width</source>
+        <translation type="obsolete">等宽</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="obsolete">取色器</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation>填充</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation>水平翻转</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation>垂直翻转</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation>字体</translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation type="obsolete">文本颜色</translation>
+    </message>
+    <message>
+        <source>Font Name</source>
+        <translation>字体名</translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation>字号</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation>设置对象格式</translation>
+    </message>
+    <message>
+        <source>Format Painter</source>
+        <translation>格式刷</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation>自由旋转</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>发光</translation>
+    </message>
+    <message>
+        <source>Gradiant</source>
+        <translation type="obsolete">渐变</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation>渐变</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation>绘图网格</translation>
+    </message>
+    <message>
+        <source>Gridlines</source>
+        <translation>网格线</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>组合</translation>
+    </message>
+    <message>
+        <source>Grow Font</source>
+        <translation>增大字体</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation>高度</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation>突出显示</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>横向文本框</translation>
+    </message>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation type="obsolete">横向文本框</translation>
+    </message>
+    <message>
+        <source>In Front of Text</source>
+        <translation>浮于文字上方</translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation>嵌入型</translation>
+    </message>
+    <message>
+        <source>Insert Shapes</source>
+        <translation>插入形状</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>倾斜</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation>两端对齐</translation>
+    </message>
+    <message>
+        <source>Line Effects</source>
+        <translation type="obsolete">带效果线条</translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <translation>行距</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation>长划线</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation>长划线-点-点</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="obsolete">长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot-Dot</source>
+        <translation type="obsolete">长划线-点-点</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>更多</translation>
+    </message>
+    <message>
+        <source>More Arrows</source>
+        <translation>其他箭头</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation>其他填充颜色</translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation>其他字体颜色</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation>其他轮廓颜色</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation>其他线条</translation>
+    </message>
+    <message>
+        <source>More Underline Colors</source>
+        <translation>其他下划线颜色</translation>
+    </message>
+    <message>
+        <source>More Underlines</source>
+        <translation>其他下划线</translation>
+    </message>
+    <message>
+        <source>Multi-line Text</source>
+        <translation>多行文字</translation>
+    </message>
+    <message>
+        <source>Next Text Box</source>
+        <translation>下一文本框</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation>轮廓</translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation>图案</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation>带图案线条</translation>
+    </message>
+    <message>
+        <source>PicOrTexture</source>
+        <translation>图片或纹理</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="obsolete">图片</translation>
+    </message>
+    <message>
+        <source>Previous Text Box</source>
+        <translation>前一文本框</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation>倒影</translation>
+    </message>
+    <message>
+        <source>Relative to Page</source>
+        <translation>相对于页</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>旋转</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation>向左旋转 90°</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation>向右旋转 90°</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation>圆点</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation>选择窗格</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation>下移一层</translation>
+    </message>
+    <message>
+        <source>Send Behind Text</source>
+        <translation>衬于文字下方</translation>
+    </message>
+    <message>
+        <source>Send To Back</source>
+        <translation>置于底层</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="obsolete">置于底层</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>详细设置</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation>阴影</translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation>设置阴影</translation>
+    </message>
+    <message>
+        <source>Shadow On</source>
+        <translation type="obsolete">设置阴影</translation>
+    </message>
+    <message>
+        <source>Shape Effects</source>
+        <translation>形状效果</translation>
+    </message>
+    <message>
+        <source>Shape Fill</source>
+        <translation type="obsolete">填充</translation>
+    </message>
+    <message>
+        <source>Shape Outline</source>
+        <translation type="obsolete">轮廓</translation>
+    </message>
+    <message>
+        <source>Shape Size</source>
+        <translation>形状大小</translation>
+    </message>
+    <message>
+        <source>Shape Styles</source>
+        <translation>形状样式</translation>
+    </message>
+    <message>
+        <source>Shrink Font</source>
+        <translation>减小字体</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>大小</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>取色器</translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation>柔化边缘</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation>实线</translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation>四周型环绕</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation>方点</translation>
+    </message>
+    <message>
+        <source>Strikethought</source>
+        <translation type="obsolete">删除线</translation>
+    </message>
+    <message>
+        <source>Strikethrough</source>
+        <translation>删除线</translation>
+    </message>
+    <message>
+        <source>Text
+Direction</source>
+        <translation>文字方向</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation>文本框</translation>
+    </message>
+    <message>
+        <source>Text Color</source>
+        <translation>文本颜色</translation>
+    </message>
+    <message>
+        <source>Text Direction</source>
+        <translation type="obsolete">文字方向</translation>
+    </message>
+    <message>
+        <source>Text Wrapping</source>
+        <translation>文字环绕</translation>
+    </message>
+    <message>
+        <source>Texture</source>
+        <translation type="obsolete">纹理</translation>
+    </message>
+    <message>
+        <source>Through</source>
+        <translation>穿越型环绕</translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <translation>紧密型环绕</translation>
+    </message>
+    <message>
+        <source>Top and Bottom</source>
+        <translation>上下型环绕</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation>下划线</translation>
+    </message>
+    <message>
+        <source>Underline Color</source>
+        <translation>下划线颜色</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>取消组合</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>竖向文本框</translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation type="obsolete">竖向文本框</translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation>线型</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>宽度</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="obsolete">文字环绕</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <comment>rainbow</comment>
+        <translation>环绕</translation>
+    </message>
+    <message>
+        <source>Wrapping Style</source>
+        <translation type="obsolete">环绕</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_drawingtools_vml</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation>0.25 磅</translation>
+    </message>
+    <message>
+        <source>0.25 pt.</source>
+        <translation type="obsolete">0.25 磅</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation>0.5 磅</translation>
+    </message>
+    <message>
+        <source>0.5 pt.</source>
+        <translation type="obsolete">0.5 磅</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation>0.75 磅</translation>
+    </message>
+    <message>
+        <source>0.75 pt.</source>
+        <translation type="obsolete">0.75 磅</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation>1 磅</translation>
+    </message>
+    <message>
+        <source>1 pt.</source>
+        <translation type="obsolete">1 磅</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation>1.5 磅</translation>
+    </message>
+    <message>
+        <source>1.5 pt.</source>
+        <translation type="obsolete">1.5 磅</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation>2.25 磅</translation>
+    </message>
+    <message>
+        <source>2.25 pt.</source>
+        <translation type="obsolete">2.25 磅</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation>3 磅</translation>
+    </message>
+    <message>
+        <source>3 pt.</source>
+        <translation type="obsolete">3 磅</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation>4.5 磅</translation>
+    </message>
+    <message>
+        <source>4.5 pt.</source>
+        <translation type="obsolete">4.5 磅</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation>6 磅</translation>
+    </message>
+    <message>
+        <source>6 pt.</source>
+        <translation type="obsolete">6 磅</translation>
     </message>
     <message>
         <source>Align</source>
@@ -12273,6 +16769,14 @@ Diagonal Line in Cell</source>
         <translation>上移一层</translation>
     </message>
     <message>
+        <source>Bring In Front Of Text</source>
+        <translation type="obsolete">浮于文字上方</translation>
+    </message>
+    <message>
+        <source>Bring To Front</source>
+        <translation type="obsolete">置于顶层</translation>
+    </message>
+    <message>
         <source>Bring in Front of Text</source>
         <translation>浮于文字上方</translation>
     </message>
@@ -12289,12 +16793,20 @@ Diagonal Line in Cell</source>
         <translation type="obsolete">居中对齐</translation>
     </message>
     <message>
+        <source>Change Points</source>
+        <translation>编辑顶点</translation>
+    </message>
+    <message>
         <source>Change Shapes</source>
         <translation>更改形状</translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
         <translation>创建文本框链接</translation>
+    </message>
+    <message>
+        <source>Create TextBox Link</source>
+        <translation type="obsolete">创建文本框链接</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -12314,7 +16826,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation type="obsolete">详细设置</translation>
+        <translation>详细设置</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -12329,8 +16841,8 @@ Diagonal Line in Cell</source>
         <translation>分散对齐</translation>
     </message>
     <message>
-        <source>Edit Points</source>
-        <translation>编辑顶点</translation>
+        <source>Edit Shapes</source>
+        <translation>编辑形状</translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -12345,32 +16857,32 @@ Diagonal Line in Cell</source>
         <translation>等宽</translation>
     </message>
     <message>
-        <source>Even Height</source>
-        <translation type="obsolete">等高</translation>
-    </message>
-    <message>
-        <source>Even Width</source>
-        <translation type="obsolete">等宽</translation>
-    </message>
-    <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fill</source>
-        <translation>形状填充</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
         <translation>水平翻转</translation>
     </message>
     <message>
+        <source>Flip Horizontally</source>
+        <translation type="obsolete">水平翻转</translation>
+    </message>
+    <message>
         <source>Flip Vertical</source>
         <translation>垂直翻转</translation>
     </message>
     <message>
+        <source>Flip Vertically</source>
+        <translation type="obsolete">垂直翻转</translation>
+    </message>
+    <message>
         <source>Font</source>
         <translation>字体</translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation>字体颜色</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -12409,12 +16921,24 @@ Diagonal Line in Cell</source>
         <translation>横向文本框</translation>
     </message>
     <message>
+        <source>Horizontal Text Box</source>
+        <translation type="obsolete">横向文本框</translation>
+    </message>
+    <message>
         <source>In Front of Text</source>
         <translation>浮于文字上方</translation>
     </message>
     <message>
+        <source>In Line With Text</source>
+        <translation type="obsolete">嵌入型</translation>
+    </message>
+    <message>
         <source>In Line with Text</source>
         <translation>嵌入型</translation>
+    </message>
+    <message>
+        <source>Insert Shape</source>
+        <translation type="obsolete">插入形状</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -12427,6 +16951,18 @@ Diagonal Line in Cell</source>
     <message>
         <source>Justify</source>
         <translation>两端对齐</translation>
+    </message>
+    <message>
+        <source>Line Effects</source>
+        <translation type="obsolete">带效果线条</translation>
+    </message>
+    <message>
+        <source>Line Style</source>
+        <translation>线型</translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation type="obsolete">线型</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -12462,14 +16998,14 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>其他线条颜色</translation>
+        <translation>其他轮廓颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
         <translation>其他线条</translation>
     </message>
     <message>
-        <source>More Underline Colors</source>
+        <source>More UnderLine Colors</source>
         <translation>其他下划线颜色</translation>
     </message>
     <message>
@@ -12481,12 +17017,16 @@ Diagonal Line in Cell</source>
         <translation>多行文字</translation>
     </message>
     <message>
+        <source>MultiLine Text</source>
+        <translation type="obsolete">多行文字</translation>
+    </message>
+    <message>
         <source>Next Text Box</source>
         <translation>下一文本框</translation>
     </message>
     <message>
-        <source>Outline</source>
-        <translation>形状轮廓</translation>
+        <source>Object Select</source>
+        <translation type="obsolete">选择窗格</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -12505,6 +17045,10 @@ Diagonal Line in Cell</source>
         <translation>前一文本框</translation>
     </message>
     <message>
+        <source>Previous TextBox</source>
+        <translation type="obsolete">前一文本框</translation>
+    </message>
+    <message>
         <source>Relative to Page</source>
         <translation>相对于页</translation>
     </message>
@@ -12519,6 +17063,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Rotate Right 90°</source>
         <translation>向右旋转 90°</translation>
+    </message>
+    <message>
+        <source>Rotate Style</source>
+        <translation type="obsolete">旋转</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -12545,32 +17093,24 @@ Diagonal Line in Cell</source>
         <translation>置于底层</translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation>详细设置</translation>
-    </message>
-    <message>
-        <source>Shape Effects</source>
-        <translation>形状样式</translation>
-    </message>
-    <message>
         <source>Shape Fill</source>
-        <translation type="obsolete">形状填充</translation>
+        <translation>形状填充</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation type="obsolete">形状轮廓</translation>
-    </message>
-    <message>
-        <source>Shape Size</source>
-        <translation>形状大小</translation>
+        <translation>形状轮廓</translation>
     </message>
     <message>
         <source>Shape Styles</source>
-        <translation type="obsolete">形状样式</translation>
+        <translation>形状样式</translation>
     </message>
     <message>
         <source>Shrink Font</source>
         <translation>减小字体</translation>
+    </message>
+    <message>
+        <source>Size Object</source>
+        <translation>对象大小</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -12593,16 +17133,8 @@ Diagonal Line in Cell</source>
         <translation>文本框</translation>
     </message>
     <message>
-        <source>Text Color</source>
-        <translation>文本颜色</translation>
-    </message>
-    <message>
         <source>Text Direction</source>
         <translation>文字方向</translation>
-    </message>
-    <message>
-        <source>Text Wrapping</source>
-        <translation type="obsolete">文字环绕</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -12621,6 +17153,14 @@ Diagonal Line in Cell</source>
         <translation>上下型环绕</translation>
     </message>
     <message>
+        <source>UnGroup</source>
+        <translation>取消组合</translation>
+    </message>
+    <message>
+        <source>UnderLine Color</source>
+        <translation type="obsolete">下划线颜色</translation>
+    </message>
+    <message>
         <source>Underline</source>
         <translation>下划线</translation>
     </message>
@@ -12629,25 +17169,16 @@ Diagonal Line in Cell</source>
         <translation>下划线颜色</translation>
     </message>
     <message>
-        <source>Ungroup</source>
-        <translation>取消组合</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
+        <source>Vertical Text Box</source>
         <translation>竖向文本框</translation>
-    </message>
-    <message>
-        <source>Weight</source>
-        <translation>线型</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <translation>文字环绕</translation>
     </message>
     <message>
-        <source>Wrap Text</source>
-        <comment>rainbow</comment>
-        <translation>环绕</translation>
+        <source>Wrapping</source>
+        <translation type="obsolete">文字环绕</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
@@ -12663,6 +17194,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>About WPS Writer</source>
         <translation>关于 WPS 文字</translation>
+    </message>
+    <message>
+        <source>Backup And Recover</source>
+        <translation type="obsolete">备份与恢复</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -12681,8 +17216,12 @@ Diagonal Line in Cell</source>
         <translation>备份管理与数据恢复</translation>
     </message>
     <message>
+        <source>Backup and Recover</source>
+        <translation>备份与恢复</translation>
+    </message>
+    <message>
         <source>Change Version</source>
-        <translation>切换版本</translation>
+        <translation type="obsolete">切换版本</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -12691,6 +17230,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Cloud Link</source>
         <translation>轻地址</translation>
+    </message>
+    <message>
+        <source>Convert</source>
+        <translation>转换</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
@@ -12734,11 +17277,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation>输入激活码</translation>
+        <translation>激活产品</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation>输出为 OFD 格式</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -12801,8 +17344,12 @@ Diagonal Line in Cell</source>
         <translation type="obsolete">WPS 文字 模板文件（*.wpt）</translation>
     </message>
     <message>
+        <source>Manage Credential</source>
+        <translation type="obsolete">管理凭据</translation>
+    </message>
+    <message>
         <source>Manage Credentials</source>
-        <translation type="unfinished"></translation>
+        <translation>管理凭据</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2010 Document</source>
@@ -12858,7 +17405,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>本机上的模板...</translation>
+        <translation>本机上的模板</translation>
     </message>
     <message>
         <source>Open</source>
@@ -12910,11 +17457,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Restrict Permission by People</source>
-        <translation type="unfinished"></translation>
+        <translation>按人员限制权限</translation>
     </message>
     <message>
         <source>Restricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>限制访问</translation>
     </message>
     <message>
         <source>Save</source>
@@ -12942,11 +17489,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Study Online</source>
-        <translation>WPS 学习网站</translation>
+        <translation>WPS 学习社区</translation>
+    </message>
+    <message>
+        <source>Support WPS</source>
+        <translation>支持 WPS</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>无限制的访问</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -12954,7 +17505,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>查看权限</translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -12998,7 +17549,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>WPS Writer 2007-2010 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS 文字 2007/2010 文件（*.wpsx）</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -13214,6 +17765,10 @@ Header and Footer</source>
         <translation>加粗</translation>
     </message>
     <message>
+        <source>Bold Square-Hollow Bullets</source>
+        <translation>加粗空心方形的项目符号</translation>
+    </message>
+    <message>
         <source>Border and shading</source>
         <translation type="obsolete">边框和底纹</translation>
     </message>
@@ -13331,11 +17886,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="obsolete">查找</translation>
+        <translation>查找</translation>
     </message>
     <message>
         <source>Find and Replace</source>
@@ -13364,6 +17919,10 @@ Header and Footer</source>
     <message>
         <source>Formatted Text</source>
         <translation>带格式文本</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>发光</translation>
     </message>
     <message>
         <source>Go to</source>
@@ -13450,6 +18009,10 @@ Header and Footer</source>
         <translation>无框线</translation>
     </message>
     <message>
+        <source>None</source>
+        <translation>无</translation>
+    </message>
+    <message>
         <source>Outside Border</source>
         <translation type="obsolete">外侧框线</translation>
     </message>
@@ -13482,12 +18045,20 @@ Header and Footer</source>
         <translation>拼音指南...</translation>
     </message>
     <message>
+        <source>Reflection</source>
+        <translation>倒影</translation>
+    </message>
+    <message>
         <source>Replace</source>
         <translation type="obsolete">替换</translation>
     </message>
     <message>
         <source>Right Border</source>
         <translation>右框线</translation>
+    </message>
+    <message>
+        <source>Sagittate Bullet </source>
+        <translation>箭头项目符号</translation>
     </message>
     <message>
         <source>Select</source>
@@ -13522,6 +18093,10 @@ Header and Footer</source>
         <translation>底纹颜色</translation>
     </message>
     <message>
+        <source>Shadow</source>
+        <translation>阴影</translation>
+    </message>
+    <message>
         <source>Show / Hide Formatting Marks</source>
         <translation type="obsolete">显示/隐藏段落标记</translation>
     </message>
@@ -13547,7 +18122,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -13582,8 +18157,24 @@ Header and Footer</source>
         <translation>文本颜色</translation>
     </message>
     <message>
+        <source>Text Effects</source>
+        <translation>文本效果</translation>
+    </message>
+    <message>
+        <source>The Check Mark-shaped Bullets</source>
+        <translation>选中标记项目符号</translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation>三维旋转</translation>
+    </message>
+    <message>
         <source>Top Border</source>
         <translation>上框线</translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation>转换</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -13606,8 +18197,28 @@ Header and Footer</source>
         <translation type="obsolete">内部竖框线</translation>
     </message>
     <message>
+        <source>With Filling Effect Of Diamond-Shaped Bullets</source>
+        <translation>带填充效果的钻石菱形形项目符号</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Round-Shaped Bullets</source>
+        <translation>带填充效果的大圆形项目符号</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Square-Shaped Bullets</source>
+        <translation>带填充效果的大方形项目符号</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Round-Shaped Bullets</source>
+        <translation>带填充效果的圆形项目符号</translation>
+    </message>
+    <message>
         <source>Word Tools</source>
         <translation>文字工具</translation>
+    </message>
+    <message>
+        <source>WordArt</source>
+        <translation>艺术字</translation>
     </message>
     <message>
         <source>bullets_0</source>
@@ -13645,8 +18256,20 @@ Header and Footer</source>
 <context>
     <name>rainbow.ct_home.Num</name>
     <message>
+        <source>1.2.3.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>A.B.C.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>More Numbering</source>
         <translation>其他编号</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>无</translation>
     </message>
     <message>
         <source>Number</source>
@@ -13655,6 +18278,22 @@ Header and Footer</source>
     <message>
         <source>Numbering</source>
         <translation>编号</translation>
+    </message>
+    <message>
+        <source>Pictographic Number, Wide End</source>
+        <translation>象形编号，宽句号</translation>
+    </message>
+    <message>
+        <source>With The Circle Number.</source>
+        <translation>带圆圈的编号</translation>
+    </message>
+    <message>
+        <source>a).b).c).</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>a.b.c.</source>
+        <translation></translation>
     </message>
     <message>
         <source>numbering_0</source>
@@ -13687,6 +18326,10 @@ Header and Footer</source>
     <message>
         <source>numbering_7</source>
         <translation type="obsolete">CHS_WPS_Numbering_7</translation>
+    </message>
+    <message>
+        <source>Ⅰ.Ⅱ.Ⅲ.</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -13765,7 +18408,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>DocumentField</source>
-        <translation type="unfinished"></translation>
+        <translation>公文域</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -13853,7 +18496,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -13910,6 +18553,10 @@ Header and Footer</source>
     <message>
         <source>Multi-line Text</source>
         <translation>多行文字</translation>
+    </message>
+    <message>
+        <source>New Drawing Canvas</source>
+        <translation>新建绘图画布</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -14038,6 +18685,388 @@ Break</source>
 </context>
 <context>
     <name>rainbow.ct_insert.TextBox</name>
+    <message>
+        <source>Horizontal</source>
+        <translation>横向文本框</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>竖向文本框</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_insert_vml</name>
+    <message>
+        <source>AutoShape</source>
+        <translation>自选图形</translation>
+    </message>
+    <message>
+        <source>Blank Page</source>
+        <translation>空白页</translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <translation>书签</translation>
+    </message>
+    <message>
+        <source>Bookmarks</source>
+        <translation type="obsolete">书签</translation>
+    </message>
+    <message>
+        <source>Breaks</source>
+        <translation>分隔符</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation>图表</translation>
+    </message>
+    <message>
+        <source>Check Box Form Field</source>
+        <translation>复选框型窗体域</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation>剪贴画</translation>
+    </message>
+    <message>
+        <source>Column Break</source>
+        <translation>分栏符</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation>批注</translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation>批注</translation>
+    </message>
+    <message>
+        <source>Continuous Section Break</source>
+        <translation>连续分节符</translation>
+    </message>
+    <message>
+        <source>Convert Table to Text</source>
+        <translation>表格转换成文本</translation>
+    </message>
+    <message>
+        <source>Convert Text to Table</source>
+        <translation>文本转换成表格</translation>
+    </message>
+    <message>
+        <source>Cross-reference</source>
+        <translation>交叉引用</translation>
+    </message>
+    <message>
+        <source>Custom Shape</source>
+        <translation type="obsolete">自选图形</translation>
+    </message>
+    <message>
+        <source>Date and Time</source>
+        <translation>日期</translation>
+    </message>
+    <message>
+        <source>Date/Time</source>
+        <translation type="obsolete">日期</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation>公文域</translation>
+    </message>
+    <message>
+        <source>Draw Table</source>
+        <translation>绘制表格</translation>
+    </message>
+    <message>
+        <source>Drop Cap</source>
+        <translation>首字下沉</translation>
+    </message>
+    <message>
+        <source>Drop-Down Form Field</source>
+        <translation>下拉型窗体域</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation>公式</translation>
+    </message>
+    <message>
+        <source>Even Page Section Break</source>
+        <translation>偶数页分节符</translation>
+    </message>
+    <message>
+        <source>Fields</source>
+        <translation>域</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation>文件</translation>
+    </message>
+    <message>
+        <source>File Object</source>
+        <translation>附件</translation>
+    </message>
+    <message>
+        <source>Form Field Option</source>
+        <translation type="obsolete">属性</translation>
+    </message>
+    <message>
+        <source>Form Field Options</source>
+        <translation>属性</translation>
+    </message>
+    <message>
+        <source>Form Field Shading</source>
+        <translation>窗体域底纹</translation>
+    </message>
+    <message>
+        <source>Forms</source>
+        <translation>窗体</translation>
+    </message>
+    <message>
+        <source>From File</source>
+        <translation>来自文件</translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation>来自扫描仪</translation>
+    </message>
+    <message>
+        <source>Gallery</source>
+        <translation type="obsolete">素材库</translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation>页眉和页脚</translation>
+    </message>
+    <message>
+        <source>Header/Footer</source>
+        <translation type="obsolete">页眉和页脚</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="obsolete">横向</translation>
+    </message>
+    <message>
+        <source>Horizontal Blank Page</source>
+        <translation type="obsolete">横向</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <translation>超链接</translation>
+    </message>
+    <message>
+        <source>Illustrations</source>
+        <translation>插图</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation>插入剪贴画</translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation>插入图片</translation>
+    </message>
+    <message>
+        <source>Insert Picture From File</source>
+        <translation type="obsolete">来自文件</translation>
+    </message>
+    <message>
+        <source>Insert Picture From Scan</source>
+        <translation type="obsolete">来自扫描仪</translation>
+    </message>
+    <message>
+        <source>Insert Picture from File</source>
+        <translation type="obsolete">来自文件</translation>
+    </message>
+    <message>
+        <source>Insert Picture from Scanner</source>
+        <translation type="obsolete">来自扫描仪</translation>
+    </message>
+    <message>
+        <source>Insert Scan</source>
+        <translation type="obsolete">来自扫描仪</translation>
+    </message>
+    <message>
+        <source>Insert Table</source>
+        <translation>插入表格</translation>
+    </message>
+    <message>
+        <source>Insert Text from File</source>
+        <translation>文件中的文字</translation>
+    </message>
+    <message>
+        <source>Insert Watermark</source>
+        <translation>插入水印</translation>
+    </message>
+    <message>
+        <source>Insert WordArt</source>
+        <translation>插入艺术字</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>链接</translation>
+    </message>
+    <message>
+        <source>More Symbols</source>
+        <translation>其他符号</translation>
+    </message>
+    <message>
+        <source>Multi-line Text</source>
+        <translation>多行文字</translation>
+    </message>
+    <message>
+        <source>New Drawing Canvas</source>
+        <translation>新建绘图画布</translation>
+    </message>
+    <message>
+        <source>Next Page Section Break</source>
+        <translation>下一页分节符</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation>数字</translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <translation>对象</translation>
+    </message>
+    <message>
+        <source>Odd Page Section Break</source>
+        <translation>奇数页分节符</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="obsolete">在线图片</translation>
+    </message>
+    <message>
+        <source>Page 
+Break</source>
+        <translation>分页符</translation>
+    </message>
+    <message>
+        <source>Page Break</source>
+        <translation type="obsolete">分页符</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation>页码</translation>
+    </message>
+    <message>
+        <source>Pages</source>
+        <translation>页</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>图片</translation>
+    </message>
+    <message>
+        <source>Protect Form</source>
+        <translation>保护窗体</translation>
+    </message>
+    <message>
+        <source>Remove Watermark</source>
+        <translation>删除文档中的水印</translation>
+    </message>
+    <message>
+        <source>Reset Form Field</source>
+        <translation type="obsolete">重置窗体域</translation>
+    </message>
+    <message>
+        <source>Reset Form Fields</source>
+        <translation>重置窗体域</translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation>形状</translation>
+    </message>
+    <message>
+        <source>Symbol</source>
+        <translation>符号</translation>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation>符号</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation>表格</translation>
+    </message>
+    <message>
+        <source>Tables</source>
+        <translation>表格</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>文本</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation>文本框</translation>
+    </message>
+    <message>
+        <source>Text Form Field</source>
+        <translation type="obsolete">文字型窗体域</translation>
+    </message>
+    <message>
+        <source>Text Form field</source>
+        <translation>文字型窗体域</translation>
+    </message>
+    <message>
+        <source>Text Wrapping Break</source>
+        <translation>换行符</translation>
+    </message>
+    <message>
+        <source>Text from File</source>
+        <translation type="obsolete">文件中的文字</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="obsolete">竖向</translation>
+    </message>
+    <message>
+        <source>Vertical Blank Page</source>
+        <translation type="obsolete">竖向</translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation type="obsolete">竖向文本框</translation>
+    </message>
+    <message>
+        <source>Watermark</source>
+        <translation>水印</translation>
+    </message>
+    <message>
+        <source>WordArt</source>
+        <translation>艺术字</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_insert_vml.BlankPage</name>
+    <message>
+        <source>Horizontal</source>
+        <translation>横向</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>竖向</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_insert_vml.TextBox</name>
     <message>
         <source>Horizontal</source>
         <translation>横向文本框</translation>
@@ -14315,6 +19344,10 @@ Merged Data</source>
         <translation>更改文字方向</translation>
     </message>
     <message>
+        <source>Colors</source>
+        <translation>颜色</translation>
+    </message>
+    <message>
         <source>Column Break</source>
         <translation>分栏符</translation>
     </message>
@@ -14351,6 +19384,14 @@ Merged Data</source>
         <translation>空行不显示行号</translation>
     </message>
     <message>
+        <source>Edit Theme</source>
+        <translation>编辑主题</translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation>效果</translation>
+    </message>
+    <message>
         <source>Equal Height</source>
         <translation>等高</translation>
     </message>
@@ -14381,6 +19422,10 @@ Merged Data</source>
     <message>
         <source>Flip Vertical</source>
         <translation>垂直翻转</translation>
+    </message>
+    <message>
+        <source>Fonts</source>
+        <translation>字体</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -14560,6 +19605,10 @@ Break</source>
         <translation>纸张大小</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation>取色器</translation>
+    </message>
+    <message>
         <source>Square</source>
         <translation>四周型环绕</translation>
     </message>
@@ -14586,6 +19635,10 @@ Break</source>
     <message>
         <source>Texture</source>
         <translation>纹理</translation>
+    </message>
+    <message>
+        <source>Themes</source>
+        <translation>主题</translation>
     </message>
     <message>
         <source>Three</source>
@@ -14760,7 +19813,7 @@ Text</source>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation> 0.5 磅</translation>
+        <translation>0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
@@ -14768,11 +19821,11 @@ Text</source>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>   1 磅</translation>
+        <translation>1 磅</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation> 1.5 磅</translation>
+        <translation>1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt</source>
@@ -14780,23 +19833,27 @@ Text</source>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>   3 磅</translation>
+        <translation>3 磅</translation>
+    </message>
+    <message>
+        <source>3-D Rotation</source>
+        <translation>三维旋转</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation> 4.5 磅</translation>
+        <translation>4.5 磅</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>   6 磅</translation>
+        <translation>6 磅</translation>
     </message>
     <message>
         <source>Adjust</source>
-        <translation>更正</translation>
+        <translation type="obsolete">更正</translation>
     </message>
     <message>
         <source>Adjust Picture</source>
-        <translation type="obsolete">图片调整</translation>
+        <translation>图片调整</translation>
     </message>
     <message>
         <source>Align</source>
@@ -14831,6 +19888,10 @@ Text</source>
         <translation>排列</translation>
     </message>
     <message>
+        <source>Atristic Clip</source>
+        <translation>剪贴画</translation>
+    </message>
+    <message>
         <source>Automatic</source>
         <translation>自动</translation>
     </message>
@@ -14860,7 +19921,7 @@ Text</source>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>剪贴画</translation>
+        <translation type="obsolete">剪贴画</translation>
     </message>
     <message>
         <source>Color</source>
@@ -14881,6 +19942,10 @@ Text</source>
     <message>
         <source>Dash Dot</source>
         <translation>划线-点</translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation>长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -14924,7 +19989,7 @@ Text</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -14943,6 +20008,10 @@ Text</source>
         <translation>设置对象格式</translation>
     </message>
     <message>
+        <source>Format Painter</source>
+        <translation>格式刷</translation>
+    </message>
+    <message>
         <source>Free Rotate</source>
         <translation>自由旋转</translation>
     </message>
@@ -14957,6 +20026,10 @@ Text</source>
     <message>
         <source>Gallery</source>
         <translation type="obsolete">素材库</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>发光</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -14983,6 +20056,10 @@ Text</source>
         <translation>组合</translation>
     </message>
     <message>
+        <source>Height</source>
+        <translation>高度</translation>
+    </message>
+    <message>
         <source>In Front of Text</source>
         <translation>浮于文字上方</translation>
     </message>
@@ -14995,8 +20072,12 @@ Text</source>
         <translation>插入</translation>
     </message>
     <message>
-        <source>Insert Clip Art</source>
+        <source>Insert Atristic Clip</source>
         <translation>插入剪贴画</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="obsolete">插入剪贴画</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -15024,7 +20105,7 @@ Text</source>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -15048,7 +20129,7 @@ Text</source>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>其他线条颜色</translation>
+        <translation>其他轮廓颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -15079,6 +20160,10 @@ Text</source>
         <translation>略向上移</translation>
     </message>
     <message>
+        <source>Object Select</source>
+        <translation>选择窗格</translation>
+    </message>
+    <message>
         <source>Online Picture</source>
         <translation>在线图片</translation>
     </message>
@@ -15095,12 +20180,25 @@ Text</source>
         <translation>带图案线条</translation>
     </message>
     <message>
+        <source>PicOrTexture</source>
+        <translation>图片或纹理</translation>
+    </message>
+    <message>
         <source>Picture</source>
         <translation>图片</translation>
     </message>
     <message>
+        <source>Picture
+Size</source>
+        <translation>图片大小</translation>
+    </message>
+    <message>
         <source>Picture Adjust</source>
         <translation type="obsolete">图片调整</translation>
+    </message>
+    <message>
+        <source>Picture Effects</source>
+        <translation>图片效果</translation>
     </message>
     <message>
         <source>Picture Fill</source>
@@ -15112,19 +20210,31 @@ Text</source>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>图片大小</translation>
+        <translation type="obsolete">图片大小</translation>
     </message>
     <message>
         <source>Picture Styles</source>
         <translation>图片样式</translation>
     </message>
     <message>
+        <source>Reflection</source>
+        <translation>倒影</translation>
+    </message>
+    <message>
         <source>Relative to Page</source>
+        <translation type="obsolete">相对于页</translation>
+    </message>
+    <message>
+        <source>Relative to Slide</source>
         <translation>相对于页</translation>
     </message>
     <message>
         <source>Reset Picture</source>
         <translation>重设图片</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation>重设图片和大小</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -15175,6 +20285,15 @@ Text</source>
         <translation>详细设置</translation>
     </message>
     <message>
+        <source>Shadow</source>
+        <translation>阴影</translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation>设置/取消阴影</translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
         <translation>阴影颜色</translation>
     </message>
@@ -15184,11 +20303,11 @@ Text</source>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>设置/取消阴影</translation>
+        <translation type="obsolete">设置/取消阴影</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>阴影效果</translation>
+        <translation type="obsolete">阴影效果</translation>
     </message>
     <message>
         <source>Shadow Style</source>
@@ -15196,83 +20315,781 @@ Text</source>
     </message>
     <message>
         <source>Shadow Style 1</source>
-        <translation>阴影样式1</translation>
+        <translation type="obsolete">阴影样式1</translation>
     </message>
     <message>
         <source>Shadow Style 10</source>
-        <translation>阴影样式10</translation>
+        <translation type="obsolete">阴影样式10</translation>
     </message>
     <message>
         <source>Shadow Style 11</source>
-        <translation>阴影样式11</translation>
+        <translation type="obsolete">阴影样式11</translation>
     </message>
     <message>
         <source>Shadow Style 12</source>
-        <translation>阴影样式12</translation>
+        <translation type="obsolete">阴影样式12</translation>
     </message>
     <message>
         <source>Shadow Style 13</source>
-        <translation>阴影样式13</translation>
+        <translation type="obsolete">阴影样式13</translation>
     </message>
     <message>
         <source>Shadow Style 14</source>
-        <translation>阴影样式14</translation>
+        <translation type="obsolete">阴影样式14</translation>
     </message>
     <message>
         <source>Shadow Style 15</source>
-        <translation>阴影样式15</translation>
+        <translation type="obsolete">阴影样式15</translation>
     </message>
     <message>
         <source>Shadow Style 16</source>
-        <translation>阴影样式16</translation>
+        <translation type="obsolete">阴影样式16</translation>
     </message>
     <message>
         <source>Shadow Style 17</source>
-        <translation>阴影样式17</translation>
+        <translation type="obsolete">阴影样式17</translation>
     </message>
     <message>
         <source>Shadow Style 18</source>
-        <translation>阴影样式18</translation>
+        <translation type="obsolete">阴影样式18</translation>
     </message>
     <message>
         <source>Shadow Style 19</source>
-        <translation>阴影样式19</translation>
+        <translation type="obsolete">阴影样式19</translation>
     </message>
     <message>
         <source>Shadow Style 2</source>
-        <translation>阴影样式2</translation>
+        <translation type="obsolete">阴影样式2</translation>
     </message>
     <message>
         <source>Shadow Style 20</source>
-        <translation>阴影样式20</translation>
+        <translation type="obsolete">阴影样式20</translation>
     </message>
     <message>
         <source>Shadow Style 3</source>
-        <translation>阴影样式3</translation>
+        <translation type="obsolete">阴影样式3</translation>
     </message>
     <message>
         <source>Shadow Style 4</source>
-        <translation>阴影样式4</translation>
+        <translation type="obsolete">阴影样式4</translation>
     </message>
     <message>
         <source>Shadow Style 5</source>
-        <translation>阴影样式5</translation>
+        <translation type="obsolete">阴影样式5</translation>
     </message>
     <message>
         <source>Shadow Style 6</source>
-        <translation>阴影样式6</translation>
+        <translation type="obsolete">阴影样式6</translation>
     </message>
     <message>
         <source>Shadow Style 7</source>
-        <translation>阴影样式7</translation>
+        <translation type="obsolete">阴影样式7</translation>
     </message>
     <message>
         <source>Shadow Style 8</source>
-        <translation>阴影样式8</translation>
+        <translation type="obsolete">阴影样式8</translation>
     </message>
     <message>
         <source>Shadow Style 9</source>
-        <translation>阴影样式9</translation>
+        <translation type="obsolete">阴影样式9</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Down</source>
+        <translation type="obsolete">略向下移</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Left</source>
+        <translation type="obsolete">略向左移</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Right</source>
+        <translation type="obsolete">略向右移</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Up</source>
+        <translation type="obsolete">略向上移</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>大小</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>取色器</translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation>柔化边缘</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation>实线</translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation>四周型环绕</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation>方点</translation>
+    </message>
+    <message>
+        <source>Text Wrapping</source>
+        <translation type="obsolete">文字环绕</translation>
+    </message>
+    <message>
+        <source>Texture</source>
+        <translation type="obsolete">纹理</translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation type="obsolete">三维旋转</translation>
+    </message>
+    <message>
+        <source>Through</source>
+        <translation>穿越型环绕</translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <translation>紧密型环绕</translation>
+    </message>
+    <message>
+        <source>Top and Bottom</source>
+        <translation>上下型环绕</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>取消组合</translation>
+    </message>
+    <message>
+        <source>Washout</source>
+        <translation>冲蚀</translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation>线型</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>宽度</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="obsolete">文字环绕</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <comment>rainbow</comment>
+        <translation type="obsolete">环绕</translation>
+    </message>
+    <message>
+        <source>Wrapping</source>
+        <translation>环绕</translation>
+    </message>
+    <message>
+        <source>Wrapping Style</source>
+        <translation>环绕</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_picturetools.Fill</name>
+    <message>
+        <source>Picture</source>
+        <translation type="obsolete">图片</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_picturetools.Picture</name>
+    <message>
+        <source>Adjust</source>
+        <translation>更正</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_picturetools_vml</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation>0.25 磅</translation>
+    </message>
+    <message>
+        <source>0.25 pt.</source>
+        <translation type="obsolete">0.25 磅</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation>0.5 磅</translation>
+    </message>
+    <message>
+        <source>0.5 pt.</source>
+        <translation type="obsolete">0.5 磅</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation>0.75 磅</translation>
+    </message>
+    <message>
+        <source>0.75 pt.</source>
+        <translation type="obsolete">0.75 磅</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation>1 磅</translation>
+    </message>
+    <message>
+        <source>1 pt.</source>
+        <translation type="obsolete">1 磅</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation>1.5 磅</translation>
+    </message>
+    <message>
+        <source>1.5 pt.</source>
+        <translation type="obsolete">1.5 磅</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation>2.25 磅</translation>
+    </message>
+    <message>
+        <source>2.25 pt.</source>
+        <translation type="obsolete">2.25 磅</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation>3 磅</translation>
+    </message>
+    <message>
+        <source>3 pt.</source>
+        <translation type="obsolete">3 磅</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation>4.5 磅</translation>
+    </message>
+    <message>
+        <source>4.5 pt.</source>
+        <translation type="obsolete">4.5 磅</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation>6 磅</translation>
+    </message>
+    <message>
+        <source>6 pt.</source>
+        <translation type="obsolete">6 磅</translation>
+    </message>
+    <message>
+        <source>Adjust Picture</source>
+        <translation>更正</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>对齐</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>底端对齐</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>水平居中</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>左对齐</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>垂直居中</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>右对齐</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>顶端对齐</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation>排列</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>自动</translation>
+    </message>
+    <message>
+        <source>Behind Text</source>
+        <translation>衬于文字下方</translation>
+    </message>
+    <message>
+        <source>Black &amp; White</source>
+        <translation type="obsolete">黑白</translation>
+    </message>
+    <message>
+        <source>Black and White</source>
+        <translation>黑白</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation>上移一层</translation>
+    </message>
+    <message>
+        <source>Bring In Front Of Text</source>
+        <translation type="obsolete">浮于文字上方</translation>
+    </message>
+    <message>
+        <source>Bring To Front</source>
+        <translation type="obsolete">置于顶层</translation>
+    </message>
+    <message>
+        <source>Bring in Front of Text</source>
+        <translation>浮于文字上方</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation>置于顶层</translation>
+    </message>
+    <message>
+        <source>Change Picture</source>
+        <translation>更改图片</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation>颜色</translation>
+    </message>
+    <message>
+        <source>Compress Pictures</source>
+        <translation>压缩图片</translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation>裁剪</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation>短划线</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <translation>划线-点</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation>虚线线型</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="obsolete">划线-点</translation>
+    </message>
+    <message>
+        <source>Detailed Settings</source>
+        <translation>详细设置</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>横向分布</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>纵向分布</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation>等高</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>等尺寸</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation>等宽</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation>取色器</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation>水平翻转</translation>
+    </message>
+    <message>
+        <source>Flip Horizontally</source>
+        <translation type="obsolete">水平翻转</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation>垂直翻转</translation>
+    </message>
+    <message>
+        <source>Flip Vertically</source>
+        <translation type="obsolete">垂直翻转</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation>设置对象格式</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation>自由旋转</translation>
+    </message>
+    <message>
+        <source>From File</source>
+        <translation>来自文件</translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation>来自扫描仪</translation>
+    </message>
+    <message>
+        <source>Gallery</source>
+        <translation>素材库</translation>
+    </message>
+    <message>
+        <source>Gradiant</source>
+        <translation type="obsolete">渐变</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation>渐变</translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <translation>灰度</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation>绘图网格</translation>
+    </message>
+    <message>
+        <source>Gridlines</source>
+        <translation>网格线</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>组合</translation>
+    </message>
+    <message>
+        <source>In Front of Text</source>
+        <translation>浮于文字上方</translation>
+    </message>
+    <message>
+        <source>In Line With Text</source>
+        <translation type="obsolete">嵌入型</translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation>嵌入型</translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation>插入</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation>插入图片</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Less Brightness</source>
+        <translation>降低亮度</translation>
+    </message>
+    <message>
+        <source>Less Brightneww</source>
+        <translation type="obsolete">降低亮度</translation>
+    </message>
+    <message>
+        <source>Less Contrast</source>
+        <translation>降低对比度</translation>
+    </message>
+    <message>
+        <source>Line Effects</source>
+        <translation type="obsolete">带效果线条</translation>
+    </message>
+    <message>
+        <source>Line Style</source>
+        <translation>线型</translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation type="obsolete">线型</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation>长划线</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation>长划线-点-点</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="obsolete">长划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot-Dot</source>
+        <translation type="obsolete">长划线-点-点</translation>
+    </message>
+    <message>
+        <source>More Brightness</source>
+        <translation>增加亮度</translation>
+    </message>
+    <message>
+        <source>More Contrast</source>
+        <translation>增加对比度</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation>其他填充颜色</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation>其他轮廓颜色</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation>其他线条</translation>
+    </message>
+    <message>
+        <source>More Shadow Colors</source>
+        <translation>其他阴影颜色</translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation>无阴影</translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Down</source>
+        <translation>略向下移</translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation>略向左移</translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation>略向右移</translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation>略向上移</translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation type="obsolete">选择窗格</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>在线图片</translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation>图案</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation>带图案线条</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>图片</translation>
+    </message>
+    <message>
+        <source>Picture Adjust</source>
+        <translation>图片调整</translation>
+    </message>
+    <message>
+        <source>Picture Fill</source>
+        <translation>填充</translation>
+    </message>
+    <message>
+        <source>Picture Outline</source>
+        <translation>轮廓</translation>
+    </message>
+    <message>
+        <source>Picture Size</source>
+        <translation type="obsolete">图片大小</translation>
+    </message>
+    <message>
+        <source>Picture Styles</source>
+        <translation>图片样式</translation>
+    </message>
+    <message>
+        <source>PictureSize</source>
+        <translation>图片大小</translation>
+    </message>
+    <message>
+        <source>Relative to Page</source>
+        <translation>相对于页</translation>
+    </message>
+    <message>
+        <source>Reset Picture</source>
+        <translation>重设图片</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation>重设图片和大小</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>旋转</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation>向左旋转 90°</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation>向右旋转 90°</translation>
+    </message>
+    <message>
+        <source>Rotate Style</source>
+        <translation type="obsolete">旋转</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation>圆点</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation>选择窗格</translation>
+    </message>
+    <message>
+        <source>Semitransparent Shadow</source>
+        <translation>半透明阴影</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation>下移一层</translation>
+    </message>
+    <message>
+        <source>Send Behind Text</source>
+        <translation>衬于文字下方</translation>
+    </message>
+    <message>
+        <source>Send To Back</source>
+        <translation type="obsolete">置于底层</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation>置于底层</translation>
+    </message>
+    <message>
+        <source>Set Transparent Color</source>
+        <translation>设置透明色</translation>
+    </message>
+    <message>
+        <source>Shadow Color</source>
+        <translation>阴影颜色</translation>
+    </message>
+    <message>
+        <source>Shadow On/Off</source>
+        <translation>设置/取消阴影</translation>
+    </message>
+    <message>
+        <source>Shadow Setting</source>
+        <translation>阴影效果</translation>
+    </message>
+    <message>
+        <source>Shadow Style</source>
+        <translation>阴影效果</translation>
+    </message>
+    <message>
+        <source>Shadow Style 1</source>
+        <translation>阴影样式 1</translation>
+    </message>
+    <message>
+        <source>Shadow Style 10</source>
+        <translation>阴影样式 10</translation>
+    </message>
+    <message>
+        <source>Shadow Style 11</source>
+        <translation>阴影样式 11</translation>
+    </message>
+    <message>
+        <source>Shadow Style 12</source>
+        <translation>阴影样式 12</translation>
+    </message>
+    <message>
+        <source>Shadow Style 13</source>
+        <translation>阴影样式 13</translation>
+    </message>
+    <message>
+        <source>Shadow Style 14</source>
+        <translation>阴影样式 14</translation>
+    </message>
+    <message>
+        <source>Shadow Style 15</source>
+        <translation>阴影样式 15</translation>
+    </message>
+    <message>
+        <source>Shadow Style 16</source>
+        <translation>阴影样式 16</translation>
+    </message>
+    <message>
+        <source>Shadow Style 17</source>
+        <translation>阴影样式 17</translation>
+    </message>
+    <message>
+        <source>Shadow Style 18</source>
+        <translation>阴影样式 18</translation>
+    </message>
+    <message>
+        <source>Shadow Style 19</source>
+        <translation>阴影样式 19</translation>
+    </message>
+    <message>
+        <source>Shadow Style 2</source>
+        <translation>阴影样式 2</translation>
+    </message>
+    <message>
+        <source>Shadow Style 20</source>
+        <translation>阴影样式 20</translation>
+    </message>
+    <message>
+        <source>Shadow Style 3</source>
+        <translation>阴影样式 3</translation>
+    </message>
+    <message>
+        <source>Shadow Style 4</source>
+        <translation>阴影样式 4</translation>
+    </message>
+    <message>
+        <source>Shadow Style 5</source>
+        <translation>阴影样式 5</translation>
+    </message>
+    <message>
+        <source>Shadow Style 6</source>
+        <translation>阴影样式 6</translation>
+    </message>
+    <message>
+        <source>Shadow Style 7</source>
+        <translation>阴影样式 7</translation>
+    </message>
+    <message>
+        <source>Shadow Style 8</source>
+        <translation>阴影样式 8</translation>
+    </message>
+    <message>
+        <source>Shadow Style 9</source>
+        <translation>阴影样式 9</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
@@ -15307,10 +21124,6 @@ Text</source>
         <translation>方点</translation>
     </message>
     <message>
-        <source>Text Wrapping</source>
-        <translation type="obsolete">文字环绕</translation>
-    </message>
-    <message>
         <source>Texture</source>
         <translation>纹理</translation>
     </message>
@@ -15327,6 +21140,10 @@ Text</source>
         <translation>上下型环绕</translation>
     </message>
     <message>
+        <source>UnGroup</source>
+        <translation type="obsolete">取消组合</translation>
+    </message>
+    <message>
         <source>Ungroup</source>
         <translation>取消组合</translation>
     </message>
@@ -15335,17 +21152,12 @@ Text</source>
         <translation>冲蚀</translation>
     </message>
     <message>
-        <source>Weight</source>
-        <translation>线型</translation>
-    </message>
-    <message>
         <source>Wrap Text</source>
         <translation>文字环绕</translation>
     </message>
     <message>
-        <source>Wrap Text</source>
-        <comment>rainbow</comment>
-        <translation>环绕</translation>
+        <source>Wrapping</source>
+        <translation type="obsolete">文字环绕</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
@@ -15574,7 +21386,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Accept Changes Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>接受所选修订</translation>
     </message>
     <message>
         <source>Accept Selected Change</source>
@@ -15745,15 +21557,15 @@ and Endnote</source>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>审阅窗格</translation>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>水平审阅窗格</translation>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直审阅窗格</translation>
     </message>
     <message>
         <source>Show</source>
@@ -15769,19 +21581,31 @@ and Endnote</source>
     </message>
     <message>
         <source>Show Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>批注</translation>
     </message>
     <message>
         <source>Show Date</source>
         <translation>显示日期</translation>
     </message>
     <message>
+        <source>Show Format Change</source>
+        <translation type="obsolete">格式设置</translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="obsolete">格式设置</translation>
+    </message>
+    <message>
         <source>Show Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>格式设置</translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation type="obsolete">插入和删除</translation>
     </message>
     <message>
         <source>Show Insertions and Deletions</source>
-        <translation type="unfinished"></translation>
+        <translation>插入和删除</translation>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
@@ -15813,11 +21637,15 @@ and Endnote</source>
     </message>
     <message>
         <source>Track Changes Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>修订选项...</translation>
     </message>
     <message>
         <source>Tracking</source>
         <translation>修订</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation>翻译</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -16167,7 +21995,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -16355,7 +22183,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -16614,6 +22442,417 @@ and Endnote</source>
     </message>
 </context>
 <context>
+    <name>rainbow.ct_texttool</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation>0.25 磅</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation>0.5 磅</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation>0.75 磅</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation>1 磅</translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation>1.5 磅</translation>
+    </message>
+    <message>
+        <source>2.0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation>2.25 磅</translation>
+    </message>
+    <message>
+        <source>2.5</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation>3 磅</translation>
+    </message>
+    <message>
+        <source>3.0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation>4.5 磅</translation>
+    </message>
+    <message>
+        <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation>6 磅</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>对齐</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>底端对齐</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>水平居中</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>左对齐</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>垂直居中</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>右对齐</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>顶端对齐</translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <translation type="obsolete">棱台</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>加粗</translation>
+    </message>
+    <message>
+        <source>Break Forward Link</source>
+        <translation>断开向前链接</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="obsolete">居中</translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation>居中</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="obsolete">清除</translation>
+    </message>
+    <message>
+        <source>Clear Formatting</source>
+        <translation>清除格式</translation>
+    </message>
+    <message>
+        <source>Create Text Box Link</source>
+        <translation>创建文本框链接</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation>短划线</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation>虚线线型</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation>划线-点</translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation>长划线-点-点</translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation type="obsolete">减小字号</translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation>减少缩进量</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>横向分布</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>纵向分布</translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation>分散对齐</translation>
+    </message>
+    <message>
+        <source>Emphasis mark</source>
+        <translation>着重号</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>等尺寸</translation>
+    </message>
+    <message>
+        <source>Even Height</source>
+        <translation>等高</translation>
+    </message>
+    <message>
+        <source>Even Width</source>
+        <translation>等宽</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation>字体</translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation type="obsolete">字体颜色</translation>
+    </message>
+    <message>
+        <source>Font Fill Color</source>
+        <translation>文本填充</translation>
+    </message>
+    <message>
+        <source>Font Name</source>
+        <translation>字体名</translation>
+    </message>
+    <message>
+        <source>Font Outline</source>
+        <translation type="obsolete">文本轮廓</translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation>字号</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>发光</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation>渐变</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation>绘图网格</translation>
+    </message>
+    <message>
+        <source>Gridlines</source>
+        <translation>显示网格线</translation>
+    </message>
+    <message>
+        <source>Grow Font</source>
+        <translation>增大字体</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation>突出显示</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="obsolete">横向文本框</translation>
+    </message>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation>横向文本框</translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation type="obsolete">增大字号</translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation>增加缩进量</translation>
+    </message>
+    <message>
+        <source>Insert Textbox</source>
+        <translation>插入文本框</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>倾斜</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation>两端对齐</translation>
+    </message>
+    <message>
+        <source>Line Effects</source>
+        <translation>带效果线条</translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <translation>行距</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation>长划线</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>更多</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation>其他填充颜色</translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation>其他字体颜色</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation>其他轮廓颜色</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation type="obsolete">其他线条</translation>
+    </message>
+    <message>
+        <source>More Outline Colors</source>
+        <translation>其他轮廓颜色</translation>
+    </message>
+    <message>
+        <source>More Underline Colors</source>
+        <translation>其他下划线颜色</translation>
+    </message>
+    <message>
+        <source>More Underlines</source>
+        <translation>其他下划线</translation>
+    </message>
+    <message>
+        <source>Multi-line Text</source>
+        <translation>多行文字</translation>
+    </message>
+    <message>
+        <source>Next Text Box</source>
+        <translation>下一文本框</translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation>段落</translation>
+    </message>
+    <message>
+        <source>Previous Text Box</source>
+        <translation>前一文本框</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation>倒影</translation>
+    </message>
+    <message>
+        <source>Relative to Page</source>
+        <translation>相对于页</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation>圆点</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation>阴影</translation>
+    </message>
+    <message>
+        <source>Shrink Font</source>
+        <translation>缩小字体</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>取色器</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation>实线</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation>方点</translation>
+    </message>
+    <message>
+        <source>Strikethrough</source>
+        <translation>删除线</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation>文本框</translation>
+    </message>
+    <message>
+        <source>Text Color</source>
+        <translation>字体颜色</translation>
+    </message>
+    <message>
+        <source>Text Direction</source>
+        <translation>文字方向</translation>
+    </message>
+    <message>
+        <source>Text Effects</source>
+        <translation>文本效果</translation>
+    </message>
+    <message>
+        <source>Text Fill</source>
+        <translation>文本填充</translation>
+    </message>
+    <message>
+        <source>Text Outline</source>
+        <translation>文本轮廓</translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation>三维旋转</translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation>转换</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation>下划线</translation>
+    </message>
+    <message>
+        <source>Underline Color</source>
+        <translation>下划线颜色</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="obsolete">竖向文本框</translation>
+    </message>
+    <message>
+        <source>Vertical Center</source>
+        <translation type="obsolete">垂直居中</translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation>竖排文本框</translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation>线型</translation>
+    </message>
+    <message>
+        <source>WordArt Styles</source>
+        <translation>艺术字样式</translation>
+    </message>
+</context>
+<context>
     <name>rainbow.ct_view</name>
     <message>
         <source>100%</source>
@@ -16665,7 +22904,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -16957,7 +23196,7 @@ Effects</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -17151,7 +23390,7 @@ Effects</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -17186,7 +23425,7 @@ Effects</source>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation> 0.5 磅</translation>
+        <translation>0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
@@ -17194,11 +23433,11 @@ Effects</source>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>   1 磅</translation>
+        <translation>1 磅</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation> 1.5 磅</translation>
+        <translation>1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt</source>
@@ -17206,15 +23445,15 @@ Effects</source>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>   3 磅</translation>
+        <translation>3 磅</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation> 4.5 磅</translation>
+        <translation>4.5 磅</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>   6 磅</translation>
+        <translation>6 磅</translation>
     </message>
     <message>
         <source>Align</source>
@@ -17434,7 +23673,7 @@ Effects</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">取色器</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -17554,7 +23793,7 @@ Effects</source>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>其他线条颜色</translation>
+        <translation>其他轮廓颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -17654,7 +23893,7 @@ Effects</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -17832,6 +24071,14 @@ Effects</source>
         <translation>关闭自动备份</translation>
     </message>
     <message>
+        <source>Docer Entrance</source>
+        <translation>Docer稻壳儿</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation>打赏</translation>
+    </message>
+    <message>
         <source>Enable AutoBackup</source>
         <translation>开启自动备份</translation>
     </message>
@@ -17853,7 +24100,11 @@ Effects</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished">护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
+    </message>
+    <message>
+        <source>Feedback and Support</source>
+        <translation>反馈与支持</translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -17869,7 +24120,7 @@ Effects</source>
     </message>
     <message>
         <source>Help</source>
-        <translation>站点</translation>
+        <translation>帮助</translation>
     </message>
     <message>
         <source>Help us improve our product.</source>
@@ -17941,7 +24192,7 @@ Effects</source>
     </message>
     <message>
         <source>Online Documents</source>
-        <translation>云文档</translation>
+        <translation>在线文档</translation>
     </message>
     <message>
         <source>Online Picture</source>
@@ -17957,7 +24208,7 @@ Effects</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>打开云文档</translation>
+        <translation>从云文档打开</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
@@ -17981,7 +24232,7 @@ Effects</source>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>保存云文档</translation>
+        <translation>保存到云文档</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -18066,6 +24317,37 @@ Effects</source>
     <message>
         <source>wpsweibolayout</source>
         <translation type="obsolete">适合微博显示的页面</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.proxycommands</name>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation>全文朗读</translation>
+    </message>
+    <message>
+        <source>Output Voice</source>
+        <translation>输出语音</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation>PDF转Word</translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation>选中朗读</translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation>显示工具栏</translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation>朗读</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation>翻译</translation>
     </message>
 </context>
 <context>
@@ -21461,6 +27743,10 @@ Click the arrow to select different background colors.</source>
         <translation type="obsolete">重设图片</translation>
     </message>
     <message>
+        <source>Reset Picture and Size</source>
+        <translation type="obsolete">重设图片和大小</translation>
+    </message>
+    <message>
         <source>http://help.kingsoftstore.com/writer</source>
         <translation type="obsolete">http://www.wps.cn/index.php?mod=knowledge&amp;act=searchWord&amp;word=重设图片</translation>
     </message>
@@ -22728,12 +29014,16 @@ You can also center them or distribute them evenly across the page.</source>
 <context>
     <name>workspacemenu</name>
     <message>
+        <source>&amp;Personal Center</source>
+        <translation type="obsolete">个人中心</translation>
+    </message>
+    <message>
         <source>Auto Backup</source>
         <translation type="obsolete">开启自动备份</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>切换账号</translation>
+        <translation type="obsolete">切换账号</translation>
     </message>
     <message>
         <source>Change User Information</source>
@@ -22760,6 +29050,10 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>关闭自动备份</translation>
     </message>
     <message>
+        <source>Docer Entrance</source>
+        <translation>Docer稻壳儿</translation>
+    </message>
+    <message>
         <source>Enable AutoBackup</source>
         <translation>开启自动备份</translation>
     </message>
@@ -22776,12 +29070,16 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>输出为图片</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="obsolete">输出为OFD格式</translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>输出为PDF格式</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -22849,7 +29147,11 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>打开云文档</translation>
+        <translation>从云文档打开</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation>个人中心</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
@@ -22873,7 +29175,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>保存云文档</translation>
+        <translation>保存到云文档</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -22909,7 +29211,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>用户反馈</translation>
+        <translation type="obsolete">用户反馈</translation>
     </message>
     <message>
         <source>User Login</source>
@@ -22929,7 +29231,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>商业授权</translation>
+        <translation type="obsolete">商业授权</translation>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
@@ -22960,6 +29262,10 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Align Objects</source>
         <translation>对象对齐</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation>图表</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
@@ -23027,7 +29333,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>特色功能</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -23059,7 +29365,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Work Space</source>
-        <translation type="obsolete">特色功能</translation>
+        <translation type="obsolete">办公空间</translation>
     </message>
 </context>
 <context>
@@ -23082,11 +29388,16 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>AutoShape</source>
-        <translation type="obsolete">自选图形</translation>
+        <translation type="obsolete">图形</translation>
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation>自选图形</translation>
+        <translation type="obsolete">自选图形</translation>
+    </message>
+    <message>
+        <source>AutoShapes Detail</source>
+        <translation type="obsolete">自选图形
+(可将本页拖至文档区)</translation>
     </message>
     <message>
         <source>AutoShapes and Materials</source>
@@ -23099,6 +29410,11 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Backup Management</source>
         <translation>备份管理</translation>
+    </message>
+    <message>
+        <source>Backup Management Detail</source>
+        <translation type="obsolete">备份管理
+(可将本页拖至文档区)</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -23205,6 +29521,10 @@ You can also center them or distribute them evenly across the page.</source>
         <translation type="obsolete">居中对齐</translation>
     </message>
     <message>
+        <source>Click to adjust Zoom level</source>
+        <translation>缩放级别。点击后调节显示比例。</translation>
+    </message>
+    <message>
         <source>Click to turn on/off AutoBackup</source>
         <translation>单击可打开/关闭自动备份</translation>
     </message>
@@ -23237,6 +29557,11 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>剪贴画</translation>
     </message>
     <message>
+        <source>Clip Art Detail</source>
+        <translation type="obsolete">剪贴画
+(可将本页拖至文档区)</translation>
+    </message>
+    <message>
         <source>Clipboard</source>
         <translation>剪贴板</translation>
     </message>
@@ -23249,16 +29574,29 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>关闭</translation>
     </message>
     <message>
+        <source>Cloud Link</source>
+        <translation type="obsolete">发射轻地址</translation>
+    </message>
+    <message>
         <source>CloudLink</source>
         <translation type="obsolete">发射轻地址</translation>
     </message>
     <message>
+        <source>CloudLink Detail</source>
+        <translation type="obsolete">发射轻地址
+(可将本页拖至文档区)</translation>
+    </message>
+    <message>
         <source>Collaboration</source>
-        <translation>协作</translation>
+        <translation type="obsolete">协作</translation>
     </message>
     <message>
         <source>Collapse</source>
         <translation>折叠 </translation>
+    </message>
+    <message>
+        <source>Color Schemes</source>
+        <translation>配色方案</translation>
     </message>
     <message>
         <source>Column StatusBar</source>
@@ -23271,6 +29609,10 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Compare</source>
         <translation>比较</translation>
+    </message>
+    <message>
+        <source>Compatibility Mode</source>
+        <translation>兼容模式</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -23294,7 +29636,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Create Cloud Link</source>
-        <translation>创建轻地址</translation>
+        <translation type="obsolete">发射</translation>
     </message>
     <message>
         <source>Curve</source>
@@ -23318,7 +29660,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Custom Style</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义样式</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -23366,7 +29708,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>DocumentField</source>
-        <translation type="unfinished"></translation>
+        <translation>公文域</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -23393,8 +29735,16 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>护眼模式</translation>
     </message>
     <message>
+        <source>Eye Protection Night Mode</source>
+        <translation>护眼夜间模式</translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation>反馈</translation>
+    </message>
+    <message>
+        <source>Feedback and Advice</source>
+        <translation>反馈与建议</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -23429,6 +29779,15 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>格式</translation>
     </message>
     <message>
+        <source>Formatting</source>
+        <translation>属性</translation>
+    </message>
+    <message>
+        <source>Formatting Detail</source>
+        <translation type="obsolete">对象属性
+(可将本页拖至文档区)</translation>
+    </message>
+    <message>
         <source>Frame Context Menu</source>
         <translation>图文框</translation>
     </message>
@@ -23438,11 +29797,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="obsolete">素材库</translation>
+        <translation type="obsolete">素材</translation>
     </message>
     <message>
         <source>Go To</source>
         <translation>定位</translation>
+    </message>
+    <message>
+        <source>Google Docs</source>
+        <translation>谷歌文档</translation>
     </message>
     <message>
         <source>Grab Screen</source>
@@ -23469,12 +29832,28 @@ You can also center them or distribute them evenly across the page.</source>
         <translation type="obsolete">截屏时隐藏当前窗口</translation>
     </message>
     <message>
+        <source>High Resolution Setting</source>
+        <translation>显示设置</translation>
+    </message>
+    <message>
+        <source>Horizon Line Context Menu</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>横向文本框</translation>
+    </message>
+    <message>
         <source>Hyperlink</source>
         <translation>超链接</translation>
     </message>
     <message>
         <source>Hyperlink Context Menu</source>
         <translation>超链接上下文菜单</translation>
+    </message>
+    <message>
+        <source>Image Previewer</source>
+        <translation>图片预览</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -23545,6 +29924,30 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>其他下划线</translation>
     </message>
     <message>
+        <source>MoreEffects</source>
+        <translation>更多设置</translation>
+    </message>
+    <message>
+        <source>MoreFill</source>
+        <translation>更多设置</translation>
+    </message>
+    <message>
+        <source>MoreFontEffects</source>
+        <translation>更多设置</translation>
+    </message>
+    <message>
+        <source>MoreFontFill</source>
+        <translation>更多设置</translation>
+    </message>
+    <message>
+        <source>MoreFontOutline</source>
+        <translation>更多设置</translation>
+    </message>
+    <message>
+        <source>MoreOutline</source>
+        <translation>更多设置</translation>
+    </message>
+    <message>
         <source>Move Down</source>
         <translation>下移 </translation>
     </message>
@@ -23573,6 +29976,11 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>新建文档</translation>
     </message>
     <message>
+        <source>New Document Detail</source>
+        <translation type="obsolete">新建文档
+(可将本页拖至文档区)</translation>
+    </message>
+    <message>
         <source>New From Online Templates</source>
         <translation type="obsolete">从在线模板新建</translation>
     </message>
@@ -23597,11 +30005,100 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>本机上的模板</translation>
     </message>
     <message>
+        <source>NewChart Axis</source>
+        <translation>坐标轴</translation>
+    </message>
+    <message>
+        <source>NewChart AxisTitle</source>
+        <translation>坐标轴标题</translation>
+    </message>
+    <message>
+        <source>NewChart ChartArea</source>
+        <translation>图表区域</translation>
+    </message>
+    <message>
+        <source>NewChart ChartTitle</source>
+        <translation>图表标题</translation>
+    </message>
+    <message>
+        <source>NewChart DataLabels</source>
+        <translation>数据标签​​</translation>
+    </message>
+    <message>
+        <source>NewChart DataTable</source>
+        <translation>数据表</translation>
+    </message>
+    <message>
+        <source>NewChart Datapoint</source>
+        <translation>数据点</translation>
+    </message>
+    <message>
+        <source>NewChart DownBar</source>
+        <translation>跌柱线</translation>
+    </message>
+    <message>
+        <source>NewChart DropLine</source>
+        <translation>垂直线</translation>
+    </message>
+    <message>
+        <source>NewChart ErrorBar</source>
+        <translation>误差线</translation>
+    </message>
+    <message>
+        <source>NewChart Gridline</source>
+        <translation>网格线</translation>
+    </message>
+    <message>
+        <source>NewChart HighLowLine</source>
+        <translation>高低点连线</translation>
+    </message>
+    <message>
+        <source>NewChart LeadLine</source>
+        <translation>引导线</translation>
+    </message>
+    <message>
+        <source>NewChart Legend</source>
+        <translation>图例</translation>
+    </message>
+    <message>
+        <source>NewChart LegendEntry</source>
+        <translation>图例项</translation>
+    </message>
+    <message>
+        <source>NewChart PlotArea</source>
+        <translation>绘图区</translation>
+    </message>
+    <message>
+        <source>NewChart Series</source>
+        <translation>系列</translation>
+    </message>
+    <message>
+        <source>NewChart SeriesLine</source>
+        <translation>系列线</translation>
+    </message>
+    <message>
+        <source>NewChart TrendLine Label</source>
+        <translation>趋势线标签</translation>
+    </message>
+    <message>
+        <source>NewChart UnitLabel</source>
+        <translation>单位标签</translation>
+    </message>
+    <message>
+        <source>NewChart UpBar</source>
+        <translation>涨柱线</translation>
+    </message>
+    <message>
         <source>Night Mode</source>
-        <translation type="obsolete">夜间模式</translation>
+        <translation>夜间模式</translation>
     </message>
     <message>
         <source>Note</source>
+        <translation>备注</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <comment>shortHint</comment>
         <translation>备注</translation>
     </message>
     <message>
@@ -23614,11 +30111,15 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Operation Document</source>
-        <translation type="unfinished"></translation>
+        <translation>文档操作</translation>
     </message>
     <message>
         <source>Opr</source>
-        <translation type="unfinished"></translation>
+        <translation>操作</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>选项</translation>
     </message>
     <message>
         <source>OutLine</source>
@@ -23735,12 +30236,21 @@ Directly</source>
         <translation>替换</translation>
     </message>
     <message>
+        <source>Reset Character Format</source>
+        <translation>重设字符格式</translation>
+    </message>
+    <message>
         <source>Restrict</source>
         <translation>限制</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
         <translation>限制编辑</translation>
+    </message>
+    <message>
+        <source>Restrict Editing Detail</source>
+        <translation type="obsolete">限制编辑
+(可将本页拖至文档区)</translation>
     </message>
     <message>
         <source>Rotate Mode</source>
@@ -23796,6 +30306,11 @@ Directly</source>
         <translation type="obsolete">选择窗格</translation>
     </message>
     <message>
+        <source>Selection and Visibility Detail</source>
+        <translation type="obsolete">选择窗格
+(可将本页拖至文档区)</translation>
+    </message>
+    <message>
         <source>Set Language</source>
         <translation>设置拼写检查语言</translation>
     </message>
@@ -23812,8 +30327,13 @@ Directly</source>
         <translation type="obsolete">形状和素材</translation>
     </message>
     <message>
+        <source>ShapeAndGallery Detail</source>
+        <translation type="obsolete">形状和素材
+(可将本页拖至文档区)</translation>
+    </message>
+    <message>
         <source>Shapes</source>
-        <translation>形状</translation>
+        <translation type="obsolete">形状</translation>
     </message>
     <message>
         <source>Shapes Context Menu</source>
@@ -23822,6 +30342,10 @@ Directly</source>
     <message>
         <source>Shapes and Material</source>
         <translation type="obsolete">形状和素材</translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>分享</translation>
     </message>
     <message>
         <source>Show Header Line</source>
@@ -23833,7 +30357,7 @@ Directly</source>
     </message>
     <message>
         <source>Speak</source>
-        <translation type="unfinished"></translation>
+        <translation>读出</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -23861,11 +30385,27 @@ Directly</source>
     </message>
     <message>
         <source>Start</source>
-        <translation>发射</translation>
+        <translation type="obsolete">发射</translation>
+    </message>
+    <message>
+        <source>Status Add Zoom</source>
+        <translation type="obsolete">放大</translation>
     </message>
     <message>
         <source>Status Bar</source>
         <translation>状态栏</translation>
+    </message>
+    <message>
+        <source>Status Sub Zoom</source>
+        <translation type="obsolete">缩小</translation>
+    </message>
+    <message>
+        <source>Status Zoom</source>
+        <translation type="obsolete">缩放级别。点击后调节显示比例。</translation>
+    </message>
+    <message>
+        <source>Status slide Zoom</source>
+        <translation type="obsolete">缩放</translation>
     </message>
     <message>
         <source>Style</source>
@@ -23878,6 +30418,11 @@ Directly</source>
     <message>
         <source>Styles and Formatting</source>
         <translation>样式和格式</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting Detail</source>
+        <translation type="obsolete">样式和格式
+(可将本页拖至文档区)</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -23902,6 +30447,11 @@ Directly</source>
     <message>
         <source>Table Style</source>
         <translation>表格样式</translation>
+    </message>
+    <message>
+        <source>Table Style Detail</source>
+        <translation type="obsolete">表格样式
+(可将本页拖至文档区)</translation>
     </message>
     <message>
         <source>Table Text</source>
@@ -23936,6 +30486,10 @@ Directly</source>
         <translation>工具</translation>
     </message>
     <message>
+        <source>TpXMLMapping</source>
+        <translation>XML 映射</translation>
+    </message>
+    <message>
         <source>Track Changes</source>
         <translation>修订</translation>
     </message>
@@ -23954,6 +30508,10 @@ Directly</source>
     <message>
         <source>Update Field</source>
         <translation>更新域</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>竖向文本框</translation>
     </message>
     <message>
         <source>View</source>
@@ -24000,16 +30558,28 @@ Directly</source>
         <translation>字数统计。单击可打开“字数统计”对话框。</translation>
     </message>
     <message>
+        <source>XMLMapping</source>
+        <translation>映射</translation>
+    </message>
+    <message>
         <source>XMLStructure</source>
-        <translation type="unfinished"></translation>
+        <translation>XML 结构</translation>
     </message>
     <message>
         <source>Zoom</source>
         <translation>显示比例</translation>
     </message>
     <message>
+        <source>Zoom In</source>
+        <translation>放大</translation>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translation>缩小</translation>
+    </message>
+    <message>
         <source>structure</source>
-        <translation type="unfinished"></translation>
+        <translation>结构</translation>
     </message>
 </context>
 <context>
@@ -24033,12 +30603,48 @@ Directly</source>
 <context>
     <name>wpsongmani.mainwindow.commands</name>
     <message>
+        <source>100%</source>
+        <translation>100%</translation>
+    </message>
+    <message>
+        <source>150%</source>
+        <translation>150%</translation>
+    </message>
+    <message>
+        <source>200%</source>
+        <translation>200%</translation>
+    </message>
+    <message>
+        <source>33%</source>
+        <translation>33%</translation>
+    </message>
+    <message>
+        <source>50%</source>
+        <translation>50%</translation>
+    </message>
+    <message>
+        <source>66%</source>
+        <translation>66%</translation>
+    </message>
+    <message>
+        <source>80%</source>
+        <translation>80%</translation>
+    </message>
+    <message>
+        <source>90%</source>
+        <translation>90%</translation>
+    </message>
+    <message>
         <source>Add-Ins</source>
         <translation>加载项</translation>
     </message>
     <message>
+        <source>Asian Layout</source>
+        <translation>中文版式</translation>
+    </message>
+    <message>
         <source>Change Account</source>
-        <translation>切换账号</translation>
+        <translation type="obsolete">切换账号</translation>
     </message>
     <message>
         <source>Change User Information</source>
@@ -24049,8 +30655,20 @@ Directly</source>
         <translation type="obsolete">切换账号</translation>
     </message>
     <message>
+        <source>Character Scaling</source>
+        <translation>字符缩放</translation>
+    </message>
+    <message>
+        <source>Chart Tools</source>
+        <translation>图表工具</translation>
+    </message>
+    <message>
         <source>Close Window</source>
         <translation>关闭</translation>
+    </message>
+    <message>
+        <source>Combine Characters</source>
+        <translation>合并字符</translation>
     </message>
     <message>
         <source>Customize Task Window</source>
@@ -24153,6 +30771,10 @@ Directly</source>
         <translation>WPS热点</translation>
     </message>
     <message>
+        <source>More</source>
+        <translation>其他</translation>
+    </message>
+    <message>
         <source>Navigation Pane</source>
         <translation>导航窗格</translation>
     </message>
@@ -24171,6 +30793,10 @@ Directly</source>
     <message>
         <source>New from Other Templates</source>
         <translation>从更多模板新建</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation>消息...</translation>
     </message>
     <message>
         <source>Not Logged in</source>
@@ -24197,12 +30823,20 @@ Directly</source>
         <translation>大纲</translation>
     </message>
     <message>
+        <source>PDF To Word</source>
+        <translation>PDF转Word</translation>
+    </message>
+    <message>
         <source>Page Layout</source>
         <translation>页面布局</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
         <translation>段落布局</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation>个人中心</translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -24266,7 +30900,7 @@ Directly</source>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>特色功能</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -24285,12 +30919,28 @@ Directly</source>
         <translation>表格工具</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation>朗读</translation>
+    </message>
+    <message>
+        <source>Text Tool</source>
+        <translation>文本工具</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="obsolete">触摸模式</translation>
+    </message>
+    <message>
+        <source>Two Lines in One</source>
+        <translation>双行合一</translation>
+    </message>
+    <message>
         <source>User Login</source>
         <translation type="obsolete">用户登录</translation>
     </message>
     <message>
         <source>User Sign in</source>
-        <translation>用户登录</translation>
+        <translation type="obsolete">用户登录</translation>
     </message>
     <message>
         <source>View</source>
@@ -24302,7 +30952,7 @@ Directly</source>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>商业授权</translation>
+        <translation type="obsolete">商业授权</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -24330,7 +30980,7 @@ Directly</source>
     </message>
     <message>
         <source>Work Space</source>
-        <translation type="obsolete">特色功能</translation>
+        <translation type="obsolete">办公空间</translation>
     </message>
     <message>
         <source>setting</source>
@@ -24359,7 +31009,7 @@ Directly</source>
     <message>
         <source>Switch UI</source>
         <comment>Professional Version</comment>
-        <translation type="unfinished"></translation>
+        <translation>更改界面</translation>
     </message>
     <message>
         <source>true</source>
@@ -24388,7 +31038,7 @@ Directly</source>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>切换账号</translation>
+        <translation type="obsolete">切换账号</translation>
     </message>
     <message>
         <source>Change User Information</source>
@@ -24397,6 +31047,10 @@ Directly</source>
     <message>
         <source>Change account</source>
         <translation type="obsolete">切换账号</translation>
+    </message>
+    <message>
+        <source>Chart Tools</source>
+        <translation>图表工具</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -24511,6 +31165,10 @@ Directly</source>
         <translation>导航窗格</translation>
     </message>
     <message>
+        <source>News</source>
+        <translation>消息...</translation>
+    </message>
+    <message>
         <source>Not Logged in</source>
         <translation type="obsolete">未登录</translation>
     </message>
@@ -24531,12 +31189,20 @@ Directly</source>
         <translation>大纲</translation>
     </message>
     <message>
+        <source>PDF To Word</source>
+        <translation>PDF转Word</translation>
+    </message>
+    <message>
         <source>Page Layout</source>
         <translation>页面布局</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
         <translation>段落布局</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation>个人中心</translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -24592,7 +31258,7 @@ Directly</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>登录</translation>
+        <translation type="obsolete">登录</translation>
     </message>
     <message>
         <source>Sign out</source>
@@ -24600,7 +31266,7 @@ Directly</source>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>特色功能</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -24623,6 +31289,14 @@ Directly</source>
         <translation>表格工具</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation>朗读</translation>
+    </message>
+    <message>
+        <source>Text Tool</source>
+        <translation>文本工具</translation>
+    </message>
+    <message>
         <source>User Login</source>
         <translation type="obsolete">用户登录</translation>
     </message>
@@ -24640,7 +31314,7 @@ Directly</source>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>商业授权</translation>
+        <translation type="obsolete">商业授权</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -24668,7 +31342,7 @@ Directly</source>
     </message>
     <message>
         <source>Work Space</source>
-        <translation type="obsolete">特色功能</translation>
+        <translation type="obsolete">办公空间</translation>
     </message>
     <message>
         <source>login</source>
@@ -24691,7 +31365,7 @@ Directly</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished">更改界面</translation>
+        <translation type="obsolete">更改界面</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -24701,7 +31375,7 @@ Directly</source>
     <message>
         <source>Switch UI</source>
         <comment>Professional Version</comment>
-        <translation type="unfinished"></translation>
+        <translation>更改界面</translation>
     </message>
     <message>
         <source>true</source>

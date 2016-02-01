@@ -117,19 +117,19 @@
     </message>
     <message>
         <source>1</source>
-        <translation></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>Number slides in the document</source>
@@ -215,7 +215,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&quot;</source>
-        <translation></translation>
+        <translation>&quot;</translation>
     </message>
     <message>
         <source>The number must be 1, 2, 3,or 4.</source>
@@ -223,7 +223,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation></translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Writer Document(*.wps)</source>
@@ -232,6 +232,10 @@ For example, 1,3,5-9.</source>
     <message>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
         <translation>Имя уже существует. Нельзя сохранить файл с тем же именем, что и другой открытый файл. Выберите другое имя, или закройте открытый файл перед сохранением.</translation>
+    </message>
+    <message>
+        <source>No Select Slide</source>
+        <translation>Слайд не выбран</translation>
     </message>
 </context>
 </TS>

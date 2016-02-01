@@ -304,5 +304,9 @@ For example, 1,3,5-9.</source>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
         <translation>与已打开的文档重名。有一个打开的文档使用了当前指定的名称。请选择其他名称，或先关闭打开的同名文档。</translation>
     </message>
+    <message>
+        <source>No Select Slide</source>
+        <translation>未选中幻灯片</translation>
+    </message>
 </context>
 </TS>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="zh_CN">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KdeImpl</name>
     <message>
@@ -43,7 +44,7 @@
     <message>
         <source>Shortcut key must be a letter.</source>
         <extracomment>et -&gt; developer -&gt; Macros -&gt; chooice a macro -&gt; Options -&gt; Shortcut key: = -&gt; OK</extracomment>
-        <translation type="unfinished">快捷键必须是英文字母。</translation>
+        <translation>快捷键必须是英文字母。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>

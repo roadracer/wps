@@ -69,7 +69,7 @@ Please check your system settings and ensure the temporary directory under the c
         <comment>_ksoErr_Environment_TempPath_NotExist</comment>
         <translation>临时目录不存在或建立临时目录失败。
 
-请检查您的系统设置，并确保临时目录在当前用户下可用，再重新启动WPS Office。</translation>
+请检查您的系统设置，并确保临时目录在当前用户下可用，再重新启动 WPS Office。</translation>
     </message>
     <message>
         <source>The current user does not have the permission to write in the temporary directory.
@@ -83,14 +83,474 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Value Out of Range</source>
         <comment>_ksoErr_Basic_ValueOutOfRange</comment>
-        <translation type="unfinished"></translation>
+        <translation>数值超出范围</translation>
     </message>
     <message>
         <source>The current user does not have the permission to write to the temporary directory.
 
 Please check your system settings and ensure that the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
-        <translation type="unfinished"></translation>
+        <translation>当前用户对临时目录无可写权限。
+
+请检查您的系统设置，并确保临时目录在当前用户下可用，再重新启动 WPS Office。</translation>
+    </message>
+</context>
+<context>
+    <name>kso_chart</name>
+    <message>
+        <source>Chart Area</source>
+        <comment>HINT_CHARTAREA</comment>
+        <translation>图表区</translation>
+    </message>
+    <message>
+        <source>Plot Area</source>
+        <comment>HINT_PLOTAREA</comment>
+        <translation>绘图区</translation>
+    </message>
+    <message>
+        <source>Data Table</source>
+        <comment>HINT_DATATABLE</comment>
+        <translation>数据表</translation>
+    </message>
+    <message>
+        <source>Chart Title</source>
+        <comment>HINT_CHARTTITLE</comment>
+        <translation>图表标题</translation>
+    </message>
+    <message>
+        <source>Legend</source>
+        <comment>HINT_LEGEND</comment>
+        <translation>图例</translation>
+    </message>
+    <message>
+        <source>Legend Entry</source>
+        <comment>HINT_LEGENDENTRY</comment>
+        <translation>图例项</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <comment>HINT_SERIES</comment>
+        <translation>系列</translation>
+    </message>
+    <message>
+        <source>Point</source>
+        <comment>HINT_POINT</comment>
+        <translation>点</translation>
+    </message>
+    <message>
+        <source>Data Label</source>
+        <comment>HINT_DATALABEL</comment>
+        <translation>数据标签</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <comment>HINT_VALUE</comment>
+        <translation>值</translation>
+    </message>
+    <message>
+        <source>Trendline</source>
+        <comment>HINT_TRENDLINE</comment>
+        <translation>趋势线</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <comment>HINT_EQUATION</comment>
+        <translation>公式</translation>
+    </message>
+    <message>
+        <source>Error Bar</source>
+        <comment>HINT_ERRORBAR</comment>
+        <translation>误差线</translation>
+    </message>
+    <message>
+        <source>Leader Line</source>
+        <comment>HINT_LEADERLINE</comment>
+        <translation>引导线</translation>
+    </message>
+    <message>
+        <source>Unit Label</source>
+        <comment>HINT_UNITLABEL</comment>
+        <translation>单位标签</translation>
+    </message>
+    <message>
+        <source>Category Label</source>
+        <comment>HINT_CATEGORYLABEL</comment>
+        <translation>分类标签</translation>
+    </message>
+    <message>
+        <source>Secondary</source>
+        <comment>HINT_SECONDARY</comment>
+        <translation>次要</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <comment>HINT_VERTICAL</comment>
+        <translation>垂直</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <comment>HINT_HORIZONTAL</comment>
+        <translation>水平</translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <comment>HINT_CATEGORY</comment>
+        <translation>类别</translation>
+    </message>
+    <message>
+        <source>Axis</source>
+        <comment>HINT_AXIS</comment>
+        <translation>轴</translation>
+    </message>
+    <message>
+        <source>Major Gridline</source>
+        <comment>HINT_MAJORGRIDLINE</comment>
+        <translation>主要网格线</translation>
+    </message>
+    <message>
+        <source>Minor Gridline</source>
+        <comment>HINT_MINORGRIDLINE</comment>
+        <translation>次要网格线</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>HINT_TITLE</comment>
+        <translation>标题</translation>
+    </message>
+    <message>
+        <source>Series Lines</source>
+        <comment>HINT_SERIESLINES</comment>
+        <translation>系列线</translation>
+    </message>
+    <message>
+        <source>Drop Lines</source>
+        <comment>HINT_DROPLINES</comment>
+        <translation>垂直线</translation>
+    </message>
+    <message>
+        <source>Up-Bars</source>
+        <comment>HINT_UPBARS</comment>
+        <translation>涨柱线</translation>
+    </message>
+    <message>
+        <source>Down-Bars</source>
+        <comment>HINT_DOWNBARS</comment>
+        <translation>跌柱线</translation>
+    </message>
+    <message>
+        <source> OPTIONS</source>
+        <comment>CHART_FORMATTING_OPTION</comment>
+        <translation>选项</translation>
+    </message>
+    <message>
+        <source>CAHRT</source>
+        <comment>CHART_FORMATTING_CHART</comment>
+        <translation>图表</translation>
+    </message>
+    <message>
+        <source>TITLE</source>
+        <comment>CHART_FORMATTING_TITLE</comment>
+        <translation>标题</translation>
+    </message>
+    <message>
+        <source>AXIS</source>
+        <comment>CHART_FORMATTING_AXIS</comment>
+        <translation>坐标轴</translation>
+    </message>
+    <message>
+        <source>LEGEND</source>
+        <comment>CHART_FORMATTING_LEGEND</comment>
+        <translation>图例</translation>
+    </message>
+    <message>
+        <source>PLOT AREA</source>
+        <comment>CHART_FORMATTING_PLOTAREA</comment>
+        <translation>绘图区</translation>
+    </message>
+    <message>
+        <source>MAJOR GRIDLINES</source>
+        <comment>CHART_FORMATTING_MAJORGRIDLINES</comment>
+        <translation>主要网格线</translation>
+    </message>
+    <message>
+        <source>SERIES</source>
+        <comment>CHART_FORMATTING_SERIES</comment>
+        <translation>系列</translation>
+    </message>
+    <message>
+        <source>MINOR GRIDLINES</source>
+        <comment>CHART_FORMATTING_MINORGRIDLINES</comment>
+        <translation>次要网格线</translation>
+    </message>
+    <message>
+        <source>LEGEND ENTRY</source>
+        <comment>CHART_FORMATTING_LEGENDENTRY</comment>
+        <translation>图例项</translation>
+    </message>
+    <message>
+        <source>POINT</source>
+        <comment>CHART_FORMATTING_POINT</comment>
+        <translation>点</translation>
+    </message>
+    <message>
+        <source>DATA LABEL</source>
+        <comment>CHART_FORMATTING_DATALABEL</comment>
+        <translation>数据标签</translation>
+    </message>
+    <message>
+        <source>TRENDLINE</source>
+        <comment>CHART_FORMATTING_TRENDLINE</comment>
+        <translation>趋势线</translation>
+    </message>
+    <message>
+        <source>ERROR BAR</source>
+        <comment>CHART_FORMATTING_ERRORBAR</comment>
+        <translation>误差线</translation>
+    </message>
+    <message>
+        <source>LEADER LINE</source>
+        <comment>CHART_FORMATTING_LEADERLINES</comment>
+        <translation>引导线</translation>
+    </message>
+    <message>
+        <source>CATEGORY LABEL</source>
+        <comment>CHART_FORMATTING_CATEGORYLABEL</comment>
+        <translation>分类标签</translation>
+    </message>
+    <message>
+        <source>SERIES LINE</source>
+        <comment>CHART_FORMATTING_SERIESLINES</comment>
+        <translation>系列线</translation>
+    </message>
+    <message>
+        <source>DROP LINE</source>
+        <comment>CHART_FORMATTING_DROPLINES</comment>
+        <translation>垂直线</translation>
+    </message>
+    <message>
+        <source>HIGH_LOW LINE</source>
+        <comment>CHART_FORMATTING_HIGTLOWLINES</comment>
+        <translation>高低点连线</translation>
+    </message>
+    <message>
+        <source>UP-BARS</source>
+        <comment>CHART_FORMATTING_UPBARS</comment>
+        <translation>涨柱线</translation>
+    </message>
+    <message>
+        <source>DOWN-BARS</source>
+        <comment>CHART_FORMATTING_DOWNBARS</comment>
+        <translation>跌柱线</translation>
+    </message>
+    <message>
+        <source>LABEL</source>
+        <comment>CHART_FORMATTING_LABEL</comment>
+        <translation>标签</translation>
+    </message>
+    <message>
+        <source>TABEL</source>
+        <comment>CHART_FORMATTING_TABLE</comment>
+        <translation>表格</translation>
+    </message>
+    <message>
+        <source>Radar</source>
+        <comment>HINT_RADAR</comment>
+        <translation>雷达轴</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <comment>HINT_TEXT</comment>
+        <translation>文本</translation>
+    </message>
+    <message>
+        <source>High-Low Lines</source>
+        <comment>HINT_HIGTLOWLINES</comment>
+        <translation>高低点连线</translation>
+    </message>
+    <message>
+        <source>Gridline</source>
+        <comment>HINT_GRIDLINE</comment>
+        <translation>网格线</translation>
+    </message>
+    <message>
+        <source>Chart Title</source>
+        <comment>CHART_DEFAULTTEXT_CHARTTITLE</comment>
+        <translation>图表标题</translation>
+    </message>
+    <message>
+        <source>Axis Title</source>
+        <comment>CHART_DEFAULTTEXT_AXISTITLE</comment>
+        <translation>坐标轴标题</translation>
+    </message>
+    <message>
+        <source>Sales</source>
+        <comment>CHART_DEFAULTTEXT_SALES</comment>
+        <translation>销售额</translation>
+    </message>
+    <message>
+        <source>1st Qtr</source>
+        <comment>CHART_DEFAULTTEXT_FIRSTQUARTER</comment>
+        <translation>第一季度</translation>
+    </message>
+    <message>
+        <source>2nd Qtr</source>
+        <comment>CHART_DEFAULTTEXT_SECONDQUARTER</comment>
+        <translation>第二季度</translation>
+    </message>
+    <message>
+        <source>3rd Qtr</source>
+        <comment>CHART_DEFAULTTEXT_THIRDQUARTER</comment>
+        <translation>第三季度</translation>
+    </message>
+    <message>
+        <source>4th Qtr</source>
+        <comment>CHART_DEFAULTTEXT_FOURTHQUARTER</comment>
+        <translation>第四季度</translation>
+    </message>
+    <message>
+        <source>Series 1</source>
+        <comment>CHART_DEFAULTTEXT_SERIES1</comment>
+        <translation>系列 1</translation>
+    </message>
+    <message>
+        <source>Series 2</source>
+        <comment>CHART_DEFAULTTEXT_SERIES2</comment>
+        <translation>系列 2</translation>
+    </message>
+    <message>
+        <source>Series 3</source>
+        <comment>CHART_DEFAULTTEXT_SERIES3</comment>
+        <translation>系列 3</translation>
+    </message>
+    <message>
+        <source>Series 4</source>
+        <comment>CHART_DEFAULTTEXT_SERIES4</comment>
+        <translation>系列 4</translation>
+    </message>
+    <message>
+        <source>Category 1</source>
+        <comment>CHART_DEFAULTTEXT_CATEGORY1</comment>
+        <translation>类别1</translation>
+    </message>
+    <message>
+        <source>Category 2</source>
+        <comment>CHART_DEFAULTTEXT_CATEGORY2</comment>
+        <translation>类别2</translation>
+    </message>
+    <message>
+        <source>Category 3</source>
+        <comment>CHART_DEFAULTTEXT_CATEGORY3</comment>
+        <translation>类别3</translation>
+    </message>
+    <message>
+        <source>Category 4</source>
+        <comment>CHART_DEFAULTTEXT_CATEGORY4</comment>
+        <translation>类别4</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_VOLUME</comment>
+        <translation>成交量</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_OPEN</comment>
+        <translation>开盘</translation>
+    </message>
+    <message>
+        <source>High</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_HIGH</comment>
+        <translation>盘高</translation>
+    </message>
+    <message>
+        <source>Low</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_LOW</comment>
+        <translation>盘低</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_CLOSE</comment>
+        <translation>收盘</translation>
+    </message>
+    <message>
+        <source>Y-Values</source>
+        <comment>CHART_DEFAULTTEXT_Y_VALUES</comment>
+        <translation>Y 值</translation>
+    </message>
+    <message>
+        <source>Expon</source>
+        <comment>CHART_DEFAULTTEXT_LINE_EXPON</comment>
+        <translation>指数</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <comment>CHART_DEFAULTTEXT_LINE_LINEAR</comment>
+        <translation>线性</translation>
+    </message>
+    <message>
+        <source>Log</source>
+        <comment>CHART_DEFAULTTEXT_LINE_LOG</comment>
+        <translation>对数</translation>
+    </message>
+    <message>
+        <source>Poly</source>
+        <comment>CHART_DEFAULTTEXT_LINE_POLY</comment>
+        <translation>多项式</translation>
+    </message>
+    <message>
+        <source>Power </source>
+        <comment>CHART_DEFAULTTEXT_LINE_POWER</comment>
+        <translation>乘幂</translation>
+    </message>
+    <message>
+        <source>per. Mov. Avg.</source>
+        <comment>CHART_DEFAULTTEXT_LINE_AVGMOV</comment>
+        <translation>移动平均</translation>
+    </message>
+    <message>
+        <source>Hundreds</source>
+        <comment>CHART_UNITLABEL_HUNDREDS</comment>
+        <translation>百</translation>
+    </message>
+    <message>
+        <source>Thousands</source>
+        <comment>CHART_UNITLABEL_THOUSANDS</comment>
+        <translation>千</translation>
+    </message>
+    <message>
+        <source>Millions</source>
+        <comment>CHART_UNITLABEL_MILLIONS</comment>
+        <translation>百万</translation>
+    </message>
+    <message>
+        <source>Billions</source>
+        <comment>CHART_UNITLABEL_BILLIONS</comment>
+        <translation>十亿</translation>
+    </message>
+    <message>
+        <source>Trillions</source>
+        <comment>CHART_UNITLABEL_TRILLIONS</comment>
+        <translation>兆</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>CHART_UNITLABEL_NONE</comment>
+        <translation>无</translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <comment>CHART_DATALABELTEXT_OTHER</comment>
+        <translation>其他</translation>
+    </message>
+    <message>
+        <source>The linked file is not available.</source>
+        <comment>CHART_UnavailableChartLinkPath</comment>
+        <translation>链接文件不可用。</translation>
+    </message>
+    <message>
+        <source>To Insert a Chart,you must first close any open dialog boxes or cancel editing mode in WPS Spreadsheets.</source>
+        <comment>CHART_CanNotWriteChartLinkPath</comment>
+        <translation>若要插入图表，必须首先关闭任何打开的对话框，或者取消WPS表格的编辑模式</translation>
     </message>
 </context>
 <context>
@@ -143,7 +603,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>FILES</source>
         <comment>TX_KSO_CF_HDROP_DISPNAME</comment>
-        <translation>FILES</translation>
+        <translation>文件</translation>
     </message>
     <message>
         <source>Formatted Text (RTF)</source>
@@ -365,6 +825,66 @@ Please check your system settings and ensure that the temporary directory under 
         <comment>TX_KSO_CF_UNICODE_TEXT</comment>
         <translation>Unicode 文本</translation>
     </message>
+    <message>
+        <source>Data of Kingsoft Drawing</source>
+        <comment>TX_KSO_CF_DRAWING_DISPNAME</comment>
+        <translation>WPS图形数据</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Drawing.</source>
+        <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
+        <translation>以“WPS图形数据”插入剪贴板的内容。</translation>
+    </message>
+    <message>
+        <source>New Data of Kingsoft Writer</source>
+        <comment>TX_KSO_CF_WPS_DOCX_DISPNAME</comment>
+        <translation>WPS文字新数据</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as New Data of Kingsoft Writer.</source>
+        <comment>TX_KSO_CF_WPS_DOCX_RESULTNAME</comment>
+        <translation>以“WPS文字新数据”插入剪贴板的内容。</translation>
+    </message>
+    <message>
+        <source>Data of Kingsoft Presentation Slide.</source>
+        <comment>TX_KSO_CF_SLIDES_DISPNAME</comment>
+        <translation>演示幻灯片</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Presentation Slide.</source>
+        <comment>TX_KSO_CF_SLIDES_RESULTNAME</comment>
+        <translation>以“演示幻灯片”插入剪贴板的内容。</translation>
+    </message>
+    <message>
+        <source>ET Internal Shape</source>
+        <comment>TX_KSO_CF_ET_INTERNAL_SHAPE_DISPNAME</comment>
+        <translation type="obsolete">WPS新图形数据</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Spreadsheet Drawing.</source>
+        <comment>TX_KSO_CF_ET_INTERNAL_SHAPE_RESULTNAME</comment>
+        <translation type="obsolete">以“WPS新图形数据”格式插入剪贴板的内容。</translation>
+    </message>
+    <message>
+        <source>Art::GVML ClipBoard</source>
+        <comment>TX_KSO_CF_GVML_SHAPE_DISPNAME</comment>
+        <translation type="obsolete">GVML图形数据</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of GVML Drawing.</source>
+        <comment>TX_KSO_CF_GVML_SHAPE_RESULTNAME</comment>
+        <translation type="obsolete">以“GVML图形数据”格式插入剪贴板的内容。</translation>
+    </message>
+    <message>
+        <source>ET Drag Drawing</source>
+        <comment>TX_KSO_CF_ET_DRAG_SHAPE_DISPNAME</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Drag Drawing.</source>
+        <comment>TX_KSO_CF_ET_DRAG_SHAPE_RESULTNAME</comment>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>kso_dguil</name>
@@ -511,7 +1031,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
         <comment>DgAllPicture</comment>
-        <translation>所有图片(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
+        <translation type="obsolete">所有图片(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Auto Point</source>
@@ -576,7 +1096,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Change To Autoshape</source>
         <comment>DgUil_KSO_Cmd_ChangeAutoShape</comment>
-        <translation type="obsolete">改为自选图形</translation>
+        <translation>改为自选图形</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -976,7 +1496,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Lines</source>
         <comment>DgUil_KSO_Cmd_DynamicShape</comment>
-        <translation type="obsolete">自选图形</translation>
+        <translation>自选图形</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -1403,12 +1923,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Change to Autoshape</source>
         <comment>DgUil_KSO_Cmd_ChangeAutoShape</comment>
-        <translation>改为自选图形</translation>
+        <translation type="obsolete">改为自选图形</translation>
     </message>
     <message>
         <source>AutoShape</source>
         <comment>DgUil_KSO_Cmd_DynamicShape</comment>
-        <translation>自选图形</translation>
+        <translation type="obsolete">自选图形</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -1429,6 +1949,46 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>WPS Office cannot start the source application of the object.</source>
         <comment>DgUil_KSO_NotStartUpProcess</comment>
         <translation>不能启动此对象的源应用程序。</translation>
+    </message>
+    <message>
+        <source>Reset Picture And Size</source>
+        <comment>DgUil_KSO_Cmd_ResetPictureAndSize</comment>
+        <translation>重设图片和大小</translation>
+    </message>
+    <message>
+        <source>Edit Series</source>
+        <comment>DgUil_KSO_Cmd_EditChartDataSource</comment>
+        <translation>编辑数据</translation>
+    </message>
+    <message>
+        <source>Select Data</source>
+        <comment>DgUil_KSO_Cmd_ChooseChartDataSource</comment>
+        <translation>选择数据</translation>
+    </message>
+    <message>
+        <source>Aspect Ratio</source>
+        <comment>DgUil_KSO_Cmd_PictureScaleCrop</comment>
+        <translation>纵横比</translation>
+    </message>
+    <message>
+        <source>Crop to Shape</source>
+        <comment>DgUil_KSO_Cmd_PictureShapeCrop</comment>
+        <translation>裁剪为形状</translation>
+    </message>
+    <message>
+        <source>Other Layout Options</source>
+        <comment>DgUil_KSO_Cmd_LayoutObject</comment>
+        <translation>其他布局选项</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp</source>
+        <comment>DgAllPicture</comment>
+        <translation>所有图片(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp</translation>
+    </message>
+    <message>
+        <source>There is not enough memory, Create Object Failed!</source>
+        <comment>DgUil_KSO_Cmd_OleCreateFailedByOutOfMemory</comment>
+        <translation>内存不足，对象创建失败</translation>
     </message>
 </context>
 <context>
@@ -2056,7 +2616,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>FreeForm</source>
         <comment>DRAWINGSTR_FREEFORM</comment>
-        <translation>FreeForm</translation>
+        <translation>任意多边形</translation>
     </message>
     <message>
         <source>Gear</source>
@@ -3093,13 +3653,4171 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
         <translation>流程图: 顺序访问存储器</translation>
     </message>
+    <message>
+        <source>Convert OLE Object</source>
+        <comment>DRAWING2_CONVERTOLEOBJECT</comment>
+        <translation>转换对象</translation>
+    </message>
+    <message>
+        <source>Straight Connector</source>
+        <comment>DRAWING2STR_STRAIGHT_CONNECTOR</comment>
+        <translation>直接连接符</translation>
+    </message>
+    <message>
+        <source>Isosceles Triangle</source>
+        <comment>DRAWING2STR_ISOSCELES_TRIANGLE</comment>
+        <translation>等腰三角形</translation>
+    </message>
+    <message>
+        <source>Right Triangle</source>
+        <comment>DRAWING2STR_RIGHT_TRIANGLE</comment>
+        <translation>直角三角形</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <comment>DRAWING2STR_RECTANGLE</comment>
+        <translation>矩形</translation>
+    </message>
+    <message>
+        <source>Diamond</source>
+        <comment>DRAWING2STR_DIAMOND</comment>
+        <translation>菱形</translation>
+    </message>
+    <message>
+        <source>Parallelogram</source>
+        <comment>DRAWING2STR_PARALLELOGRAM</comment>
+        <translation>平行四边形</translation>
+    </message>
+    <message>
+        <source>Trapezoid</source>
+        <comment>DRAWING2STR_TRAPEZOID</comment>
+        <translation>梯形</translation>
+    </message>
+    <message>
+        <source>Shape</source>
+        <comment>DRAWING2STR_SHAPE</comment>
+        <translation>形状</translation>
+    </message>
+    <message>
+        <source>Regular Pentagon</source>
+        <comment>DRAWING2STR_REGULAR_PENTAGON</comment>
+        <translation>正五边形</translation>
+    </message>
+    <message>
+        <source>Hexagon</source>
+        <comment>DRAWING2STR_HEXAGON</comment>
+        <translation>六边形</translation>
+    </message>
+    <message>
+        <source>Heptagon</source>
+        <comment>DRAWING2STR_HEPTAGON</comment>
+        <translation>七边形</translation>
+    </message>
+    <message>
+        <source>Octagon</source>
+        <comment>DRAWING2STR_OCTAGON</comment>
+        <translation>八边形</translation>
+    </message>
+    <message>
+        <source>Decagon</source>
+        <comment>DRAWING2STR_DECAGON</comment>
+        <translation>十边形</translation>
+    </message>
+    <message>
+        <source>Dodecagon</source>
+        <comment>DRAWING2STR_DODECAGON</comment>
+        <translation>十二边形</translation>
+    </message>
+    <message>
+        <source>4-Point Star</source>
+        <comment>DRAWING2STR_4_POINT_STAR</comment>
+        <translation>十字星</translation>
+    </message>
+    <message>
+        <source>5-Point Star</source>
+        <comment>DRAWING2STR_5_POINT_STAR</comment>
+        <translation>五角星</translation>
+    </message>
+    <message>
+        <source>6-Point Star</source>
+        <comment>DRAWING2STR_6_POINT_STAR</comment>
+        <translation>六角星</translation>
+    </message>
+    <message>
+        <source>7-Point Star</source>
+        <comment>DRAWING2STR_7_POINT_STAR</comment>
+        <translation>七角星</translation>
+    </message>
+    <message>
+        <source>8-Point Star</source>
+        <comment>DRAWING2STR_8_POINT_STAR</comment>
+        <translation>八角星</translation>
+    </message>
+    <message>
+        <source>10-Point Star</source>
+        <comment>DRAWING2STR_10_POINT_STAR</comment>
+        <translation>十角星</translation>
+    </message>
+    <message>
+        <source>12-Point Star</source>
+        <comment>DRAWING2STR_12_POINT_STAR</comment>
+        <translation>十二角星</translation>
+    </message>
+    <message>
+        <source>16-Point Star</source>
+        <comment>DRAWING2STR_16_POINT_STAR</comment>
+        <translation>十六角星</translation>
+    </message>
+    <message>
+        <source>24-Point Star</source>
+        <comment>DRAWING2STR_24_POINT_STAR</comment>
+        <translation>二十四角星</translation>
+    </message>
+    <message>
+        <source>32-Point Star</source>
+        <comment>DRAWING2STR_32_POINT_STAR</comment>
+        <translation>三十二角星</translation>
+    </message>
+    <message>
+        <source>Rounded Rectangle</source>
+        <comment>DRAWING2STR_ROUNDED_RECTANGLE</comment>
+        <translation>圆角矩形</translation>
+    </message>
+    <message>
+        <source>Round Single Corner Rectangle</source>
+        <comment>DRAWING2STR_ROUND_SINGLE_CORNER_RECTANGLE</comment>
+        <translation>单圆角矩形</translation>
+    </message>
+    <message>
+        <source>Round Same Side Corner Rectangle</source>
+        <comment>DRAWING2STR_ROUND_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation>同侧圆角矩形</translation>
+    </message>
+    <message>
+        <source>Round Diagonal Corner Rectangle</source>
+        <comment>DRAWING2STR_ROUND_DIAGONAL_CORNER_RECTANGLE</comment>
+        <translation>对角圆角矩形</translation>
+    </message>
+    <message>
+        <source>Snip and Round Single Corner Rectangle</source>
+        <comment>DRAWING2STR_SNIP_AND_ROUND_SINGLE_CORNER_RECTANGLE</comment>
+        <translation>单圆角矩形</translation>
+    </message>
+    <message>
+        <source>Snip Single Corner Rectangle</source>
+        <comment>DRAWING2STR_SNIP_SINGLE_CORNER_RECTANGLE</comment>
+        <translation>剪去单角的矩形</translation>
+    </message>
+    <message>
+        <source>Snip Same Side Corner Rectangle</source>
+        <comment>DRAWING2STR_SNIP_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation>剪去同侧角的矩形</translation>
+    </message>
+    <message>
+        <source>Snip Diagonal Corner Rectangle</source>
+        <comment>DRAWING2STR_SNIP_DIAGONAL_CORNER_RECTANGLE</comment>
+        <translation>剪去对角的矩形</translation>
+    </message>
+    <message>
+        <source>Plaque</source>
+        <comment>DRAWING2STR_PLAQUE</comment>
+        <translation>缺角矩形</translation>
+    </message>
+    <message>
+        <source>Oval</source>
+        <comment>DRAWING2STR_OVAL</comment>
+        <translation>椭圆</translation>
+    </message>
+    <message>
+        <source>Teardrop</source>
+        <comment>DRAWING2STR_TEARDROP</comment>
+        <translation>泪滴形</translation>
+    </message>
+    <message>
+        <source>Pentagon</source>
+        <comment>DRAWING2STR_PENTAGON</comment>
+        <translation>五边形</translation>
+    </message>
+    <message>
+        <source>Chevron</source>
+        <comment>DRAWING2STR_CHEVRON</comment>
+        <translation>燕尾形</translation>
+    </message>
+    <message>
+        <source>Pie</source>
+        <comment>DRAWING2STR_PIE</comment>
+        <translation>饼形</translation>
+    </message>
+    <message>
+        <source>Block Arc</source>
+        <comment>DRAWING2STR_BLOCK_ARC</comment>
+        <translation>空心弧</translation>
+    </message>
+    <message>
+        <source>Donut</source>
+        <comment>DRAWING2STR_DONUT</comment>
+        <translation>同心圆</translation>
+    </message>
+    <message>
+        <source>&quot;No&quot; Symbol</source>
+        <comment>DRAWING2STR_NO_SYMBOL</comment>
+        <translation>禁止符</translation>
+    </message>
+    <message>
+        <source>Right Arrow</source>
+        <comment>DRAWING2STR_RIGHT_ARROW</comment>
+        <translation>右箭头</translation>
+    </message>
+    <message>
+        <source>Left Arrow</source>
+        <comment>DRAWING2STR_LEFT_ARROW</comment>
+        <translation>左箭头</translation>
+    </message>
+    <message>
+        <source>Up Arrow</source>
+        <comment>DRAWING2STR_UP_ARROW</comment>
+        <translation>上箭头</translation>
+    </message>
+    <message>
+        <source>Down Arrow</source>
+        <comment>DRAWING2STR_DOWN_ARROW</comment>
+        <translation>下箭头</translation>
+    </message>
+    <message>
+        <source>Striped Right Arrow</source>
+        <comment>DRAWING2STR_STRIPED_RIGHT_ARROW</comment>
+        <translation>虚尾箭头</translation>
+    </message>
+    <message>
+        <source>Notched Right Arrow</source>
+        <comment>DRAWING2STR_NOTCHED_RIGHT_ARROW</comment>
+        <translation>燕尾形箭头</translation>
+    </message>
+    <message>
+        <source>Bent-Up Arrow</source>
+        <comment>DRAWING2STR_BENT_UP_ARROW</comment>
+        <translation>直角上箭头</translation>
+    </message>
+    <message>
+        <source>Left-Right Arrow</source>
+        <comment>DRAWING2STR_LEFT_RIGHT_ARROW</comment>
+        <translation>左右箭头</translation>
+    </message>
+    <message>
+        <source>Up-Down Arrow</source>
+        <comment>DRAWING2STR_UP_DOWN_ARROW</comment>
+        <translation>上下箭头</translation>
+    </message>
+    <message>
+        <source>Left-Up Arrow</source>
+        <comment>DRAWING2STR_LEFT_UP_ARROW</comment>
+        <translation>直角双向箭头</translation>
+    </message>
+    <message>
+        <source>Left-Right-Up Arrow</source>
+        <comment>DRAWING2STR_LEFT_RIGHT_UP_ARROW</comment>
+        <translation>丁字箭头</translation>
+    </message>
+    <message>
+        <source>Quad Arrow</source>
+        <comment>DRAWING2STR_QUAD_ARROW</comment>
+        <translation>十字箭头</translation>
+    </message>
+    <message>
+        <source>Left Arrow Callout</source>
+        <comment>DRAWING2STR_LEFT_ARROW_CALLOUT</comment>
+        <translation>左箭头标注</translation>
+    </message>
+    <message>
+        <source>Right Arrow Callout</source>
+        <comment>DRAWING2STR_RIGHT_ARROW_CALLOUT</comment>
+        <translation>右箭头标注</translation>
+    </message>
+    <message>
+        <source>Up Arrow Callout</source>
+        <comment>DRAWING2STR_UP_ARROW_CALLOUT</comment>
+        <translation>上箭头标注</translation>
+    </message>
+    <message>
+        <source>Down Arrow Callout</source>
+        <comment>DRAWING2STR_DOWN_ARROW_CALLOUT</comment>
+        <translation>下箭头标注</translation>
+    </message>
+    <message>
+        <source>Left-Right Arrow Callout</source>
+        <comment>DRAWING2STR_LEFT_RIGHT_ARROW_CALLOUT</comment>
+        <translation>左右箭头标注</translation>
+    </message>
+    <message>
+        <source>Up-Down Arrow Callout</source>
+        <comment>DRAWING2STR_UP_DOWN_ARROW_CALLOUT</comment>
+        <translation>上下箭头标注</translation>
+    </message>
+    <message>
+        <source>Quad Arrow Callout</source>
+        <comment>DRAWING2STR_QUAD_ARROW_CALLOUT</comment>
+        <translation>十字箭头标注</translation>
+    </message>
+    <message>
+        <source>Bent Arrow</source>
+        <comment>DRAWING2STR_BENT_ARROW</comment>
+        <translation>圆角右箭头</translation>
+    </message>
+    <message>
+        <source>U-Turn Arrow</source>
+        <comment>DRAWING2STR_U_TURN_ARROW</comment>
+        <translation>手杖形箭头</translation>
+    </message>
+    <message>
+        <source>Circular Arrow</source>
+        <comment>DRAWING2STR_CIRCULAR_ARROW</comment>
+        <translation>环形箭头</translation>
+    </message>
+    <message>
+        <source>Curved Right Arrow</source>
+        <comment>DRAWING2STR_CURVED_RIGHT_ARROW</comment>
+        <translation>左弧形箭头</translation>
+    </message>
+    <message>
+        <source>Curved Left Arrow</source>
+        <comment>DRAWING2STR_CURVED_LEFT_ARROW</comment>
+        <translation>右弧形箭头</translation>
+    </message>
+    <message>
+        <source>Curved Up Arrow</source>
+        <comment>DRAWING2STR_CURVED_UP_ARROW</comment>
+        <translation>下弧形箭头</translation>
+    </message>
+    <message>
+        <source>Curved Down Arrow</source>
+        <comment>DRAWING2STR_CURVED_DOWN_ARROW</comment>
+        <translation>上弧形箭头</translation>
+    </message>
+    <message>
+        <source>Cube</source>
+        <comment>DRAWING2STR_CUBE</comment>
+        <translation>立方体</translation>
+    </message>
+    <message>
+        <source>Can</source>
+        <comment>DRAWING2STR_CAN</comment>
+        <translation>圆柱形</translation>
+    </message>
+    <message>
+        <source>Lightning Bolt</source>
+        <comment>DRAWING2STR_LIGHTNING_BOLT</comment>
+        <translation>闪电形</translation>
+    </message>
+    <message>
+        <source>Heart</source>
+        <comment>DRAWING2STR_HEART</comment>
+        <translation>心形</translation>
+    </message>
+    <message>
+        <source>Sun</source>
+        <comment>DRAWING2STR_SUN</comment>
+        <translation>太阳形</translation>
+    </message>
+    <message>
+        <source>Moon</source>
+        <comment>DRAWING2STR_MOON</comment>
+        <translation>新月形</translation>
+    </message>
+    <message>
+        <source>Smiley Face</source>
+        <comment>DRAWING2STR_SMILEY_FACE</comment>
+        <translation>笑脸</translation>
+    </message>
+    <message>
+        <source>Explosion 1</source>
+        <comment>DRAWING2STR_EXPLOSION_1</comment>
+        <translation>爆炸形 1</translation>
+    </message>
+    <message>
+        <source>Explosion 2</source>
+        <comment>DRAWING2STR_EXPLOSION_2</comment>
+        <translation>爆炸形 2</translation>
+    </message>
+    <message>
+        <source>Folded Corner</source>
+        <comment>DRAWING2STR_FOLDED_CORNER</comment>
+        <translation>折角形</translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <comment>DRAWING2STR_BEVEL</comment>
+        <translation>棱台</translation>
+    </message>
+    <message>
+        <source>Frame</source>
+        <comment>DRAWING2STR_FRAME</comment>
+        <translation>图文框</translation>
+    </message>
+    <message>
+        <source>Half Frame</source>
+        <comment>DRAWING2STR_HALF_FRAME</comment>
+        <translation>半闭框</translation>
+    </message>
+    <message>
+        <source>L-Shape</source>
+        <comment>DRAWING2STR_L_SHAPE</comment>
+        <translation>L 形</translation>
+    </message>
+    <message>
+        <source>Diagonal Stripe</source>
+        <comment>DRAWING2STR_DIAGONAL_STRIPE</comment>
+        <translation>斜纹</translation>
+    </message>
+    <message>
+        <source>Chord</source>
+        <comment>DRAWING2STR_CHORD</comment>
+        <translation>弦形</translation>
+    </message>
+    <message>
+        <source>Arc</source>
+        <comment>DRAWING2STR_ARC</comment>
+        <translation>弧形</translation>
+    </message>
+    <message>
+        <source>Left Bracket</source>
+        <comment>DRAWING2STR_LEFT_BRACKET</comment>
+        <translation>左中括号</translation>
+    </message>
+    <message>
+        <source>Right Bracket</source>
+        <comment>DRAWING2STR_RIGHT_BRACKET</comment>
+        <translation>右中括号</translation>
+    </message>
+    <message>
+        <source>Left Brace</source>
+        <comment>DRAWING2STR_LEFT_BRACE</comment>
+        <translation>左大括号</translation>
+    </message>
+    <message>
+        <source>Right Brace</source>
+        <comment>DRAWING2STR_RIGHT_BRACE</comment>
+        <translation>右大括号</translation>
+    </message>
+    <message>
+        <source>Double Bracket</source>
+        <comment>DRAWING2STR_DOUBLE_BRACKET</comment>
+        <translation>双括号</translation>
+    </message>
+    <message>
+        <source>Double Brace</source>
+        <comment>DRAWING2STR_DOUBLE_BRACE</comment>
+        <translation>双大括号</translation>
+    </message>
+    <message>
+        <source>Straight Arrow Connector</source>
+        <comment>DRAWING2STR_STRAIGHT_ARROW_CONNECTOR</comment>
+        <translation>直接箭头连接符</translation>
+    </message>
+    <message>
+        <source>Elbow Connector</source>
+        <comment>DRAWING2STR_ELBOW_CONNECTOR</comment>
+        <translation>肘形连接符</translation>
+    </message>
+    <message>
+        <source>Curved Connector</source>
+        <comment>DRAWING2STR_CURVED_CONNECTOR</comment>
+        <translation>曲线连接符</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (No Border)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1_NO_BORDER</comment>
+        <translation>线形标注 1(无边框)</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (No Border)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2_NO_BORDER</comment>
+        <translation>线形标注 2(无边框)</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (No Border)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3_NO_BORDER</comment>
+        <translation>线形标注 3(无边框)</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1_ACCENT_BAR</comment>
+        <translation>线形标注 1(带强调线)</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2_ACCENT_BAR</comment>
+        <translation>线形标注 2(带强调线)</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3_ACCENT_BAR</comment>
+        <translation>线形标注 3(带强调线)</translation>
+    </message>
+    <message>
+        <source>Line Callout 1</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1</comment>
+        <translation>线形标注 1</translation>
+    </message>
+    <message>
+        <source>Line Callout 2</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2</comment>
+        <translation>线形标注 2</translation>
+    </message>
+    <message>
+        <source>Line Callout 3</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3</comment>
+        <translation>线形标注 3</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (Border and Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1_BORDER_AND_ACCENT_BAR</comment>
+        <translation>线形标注 1(带边框和强调线)</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (Border and Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2_BORDER_AND_ACCENT_BAR</comment>
+        <translation>线形标注 2(带边框和强调线)</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (Border and Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3_BORDER_AND_ACCENT_BAR</comment>
+        <translation>线形标注 3(带边框和强调线)</translation>
+    </message>
+    <message>
+        <source>Rectangular Callout</source>
+        <comment>DRAWING2STR_RECTANGULAR_CALLOUT</comment>
+        <translation>矩形标注</translation>
+    </message>
+    <message>
+        <source>Rounded Rectangular Callout</source>
+        <comment>DRAWING2STR_ROUNDED_RECTANGULAR_CALLOUT</comment>
+        <translation>圆角矩形标注</translation>
+    </message>
+    <message>
+        <source>Oval Callout</source>
+        <comment>DRAWING2STR_OVAL_CALLOUT</comment>
+        <translation>椭圆形标注</translation>
+    </message>
+    <message>
+        <source>Cloud Callout</source>
+        <comment>DRAWING2STR_CLOUD_CALLOUT</comment>
+        <translation>云形标注</translation>
+    </message>
+    <message>
+        <source>Cloud</source>
+        <comment>DRAWING2STR_CLOUD</comment>
+        <translation>云形</translation>
+    </message>
+    <message>
+        <source>Down Ribbon</source>
+        <comment>DRAWING2STR_DOWN_RIBBON</comment>
+        <translation>前凸带形</translation>
+    </message>
+    <message>
+        <source>Up Ribbon</source>
+        <comment>DRAWING2STR_UP_RIBBON</comment>
+        <translation>上凸带形</translation>
+    </message>
+    <message>
+        <source>Curved Down Ribbon</source>
+        <comment>DRAWING2STR_CURVED_DOWN_RIBBON</comment>
+        <translation>前凸弯带形</translation>
+    </message>
+    <message>
+        <source>Curved Up Ribbon</source>
+        <comment>DRAWING2STR_CURVED_UP_RIBBON</comment>
+        <translation>上凸弯带形</translation>
+    </message>
+    <message>
+        <source>Vertical Scroll</source>
+        <comment>DRAWING2STR_VERTICAL_SCROLL</comment>
+        <translation>竖卷形</translation>
+    </message>
+    <message>
+        <source>Horizontal Scroll</source>
+        <comment>DRAWING2STR_HORIZONTAL_SCROLL</comment>
+        <translation>横卷形</translation>
+    </message>
+    <message>
+        <source>Wave</source>
+        <comment>DRAWING2STR_WAVE</comment>
+        <translation>波形</translation>
+    </message>
+    <message>
+        <source>Double Wave</source>
+        <comment>DRAWING2STR_DOUBLE_WAVE</comment>
+        <translation>双波形</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>DRAWING2STR_CROSS</comment>
+        <translation>十字形</translation>
+    </message>
+    <message>
+        <source>Flowchart: Process</source>
+        <comment>DRAWING2STR_FLOWCHART_PROCESS</comment>
+        <translation>流程图: 过程</translation>
+    </message>
+    <message>
+        <source>Flowchart: Decision</source>
+        <comment>DRAWING2STR_FLOWCHART_DECISION</comment>
+        <translation>流程图: 决策</translation>
+    </message>
+    <message>
+        <source>Flowchart: Data</source>
+        <comment>DRAWING2STR_FLOWCHART_DATA</comment>
+        <translation>流程图: 数据</translation>
+    </message>
+    <message>
+        <source>Flowchart: Predefined Process</source>
+        <comment>DRAWING2STR_FLOWCHART_PREDEFINED_PROCESS</comment>
+        <translation>流程图: 预定义过程</translation>
+    </message>
+    <message>
+        <source>Flowchart: Internal Storage</source>
+        <comment>DRAWING2STR_FLOWCHART_INTERNAL_STORAGE</comment>
+        <translation>流程图: 内部贮存</translation>
+    </message>
+    <message>
+        <source>Flowchart: Document</source>
+        <comment>DRAWING2STR_FLOWCHART_DOCUMENT</comment>
+        <translation>流程图: 文档</translation>
+    </message>
+    <message>
+        <source>Flowchart: Multidocument</source>
+        <comment>DRAWING2STR_FLOWCHART_MULTIDOCUMENT</comment>
+        <translation>流程图: 多文档</translation>
+    </message>
+    <message>
+        <source>Flowchart: Terminator</source>
+        <comment>DRAWING2STR_FLOWCHART_TERMINATOR</comment>
+        <translation>流程图: 终止</translation>
+    </message>
+    <message>
+        <source>Flowchart: Preparation</source>
+        <comment>DRAWING2STR_FLOWCHART_PREPARATION</comment>
+        <translation>流程图: 准备</translation>
+    </message>
+    <message>
+        <source>Flowchart: Manual Input</source>
+        <comment>DRAWING2STR_FLOWCHART_MANUAL_INPUT</comment>
+        <translation>流程图: 手动输入</translation>
+    </message>
+    <message>
+        <source>Flowchart: Manual Operation</source>
+        <comment>DRAWING2STR_FLOWCHART_MANUAL_OPERATION</comment>
+        <translation>流程图: 手动操作</translation>
+    </message>
+    <message>
+        <source>Flowchart: Connector</source>
+        <comment>DRAWING2STR_FLOWCHART_CONNECTOR</comment>
+        <translation>流程图: 联系</translation>
+    </message>
+    <message>
+        <source>Flowchart: Card</source>
+        <comment>DRAWING2STR_FLOWCHART_CARD</comment>
+        <translation>流程图: 卡片</translation>
+    </message>
+    <message>
+        <source>Flowchart: Punched Tape</source>
+        <comment>DRAWING2STR_FLOWCHART_PUNCHED_TAPE</comment>
+        <translation>流程图: 资料带</translation>
+    </message>
+    <message>
+        <source>Flowchart: Summing Junction</source>
+        <comment>DRAWING2STR_FLOWCHART_SUMMING_JUNCTION</comment>
+        <translation>流程图: 汇总连接</translation>
+    </message>
+    <message>
+        <source>Flowchart: Or</source>
+        <comment>DRAWING2STR_FLOWCHART_OR</comment>
+        <translation>流程图: 或者</translation>
+    </message>
+    <message>
+        <source>Flowchart: Collate</source>
+        <comment>DRAWING2STR_FLOWCHART_COLLATE</comment>
+        <translation>流程图: 对照</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sort</source>
+        <comment>DRAWING2STR_FLOWCHART_SORT</comment>
+        <translation>流程图: 排序</translation>
+    </message>
+    <message>
+        <source>Flowchart: Extract</source>
+        <comment>DRAWING2STR_FLOWCHART_EXTRACT</comment>
+        <translation>流程图: 摘录</translation>
+    </message>
+    <message>
+        <source>Flowchart: Merge</source>
+        <comment>DRAWING2STR_FLOWCHART_MERGE</comment>
+        <translation>流程图: 合并</translation>
+    </message>
+    <message>
+        <source>Flowchart: Stored Data</source>
+        <comment>DRAWING2STR_FLOWCHART_STORED_DATA</comment>
+        <translation>流程图: 库存数据</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWING2STR_FLOWCHART_SEQUENTIAL_ACCESS_STORAGE</comment>
+        <translation>流程图: 顺序访问存储器</translation>
+    </message>
+    <message>
+        <source>Flowchart: Magnetic Disk</source>
+        <comment>DRAWING2STR_FLOWCHART_MAGNETIC_DISK</comment>
+        <translation>流程图: 磁盘</translation>
+    </message>
+    <message>
+        <source>Flowchart: Direct Access Storage</source>
+        <comment>DRAWING2STR_FLOWCHART_DIRECT_ACCESS_STORAGE</comment>
+        <translation>流程图: 直接访问存储器</translation>
+    </message>
+    <message>
+        <source>Flowchart: Display</source>
+        <comment>DRAWING2STR_FLOWCHART_DISPLAY</comment>
+        <translation>流程图: 显示</translation>
+    </message>
+    <message>
+        <source>Flowchart: Delay</source>
+        <comment>DRAWING2STR_FLOWCHART_DELAY</comment>
+        <translation>流程图: 延期</translation>
+    </message>
+    <message>
+        <source>Flowchart: Alternate Process</source>
+        <comment>DRAWING2STR_FLOWCHART_ALTERNATE_PROCESS</comment>
+        <translation>流程图: 可选过程</translation>
+    </message>
+    <message>
+        <source>Flowchart: Off-page Connector</source>
+        <comment>DRAWING2STR_FLOWCHART_OFF_PAGE_CONNECTOR</comment>
+        <translation>流程图: 离页连接符</translation>
+    </message>
+    <message>
+        <source>Action Button: Custom</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_CUSTOM</comment>
+        <translation>动作按钮: 自定义</translation>
+    </message>
+    <message>
+        <source>Action Button: Home</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_HOME</comment>
+        <translation>动作按钮: 第一张</translation>
+    </message>
+    <message>
+        <source>Action Button: Help</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_HELP</comment>
+        <translation>动作按钮: 帮助</translation>
+    </message>
+    <message>
+        <source>Action Button: Information</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_INFORMATION</comment>
+        <translation>动作按钮: 信息</translation>
+    </message>
+    <message>
+        <source>Action Button: Forward or Next</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_FORWARD_OR_NEXT</comment>
+        <translation>动作按钮: 前进或下一项</translation>
+    </message>
+    <message>
+        <source>Action Button: Back or Previous</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_BACK_OR_PREVIOUS</comment>
+        <translation>动作按钮: 后退或前一项</translation>
+    </message>
+    <message>
+        <source>Action Button: End</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_END</comment>
+        <translation>动作按钮: 结束</translation>
+    </message>
+    <message>
+        <source>Action Button: Beginning</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_BEGINNING</comment>
+        <translation>动作按钮: 开始</translation>
+    </message>
+    <message>
+        <source>Action Button: Return</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_RETURN</comment>
+        <translation>动作按钮: 上一张</translation>
+    </message>
+    <message>
+        <source>Action Button: Document</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_DOCUMENT</comment>
+        <translation>动作按钮: 文档</translation>
+    </message>
+    <message>
+        <source>Action Button: Sound</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_SOUND</comment>
+        <translation>动作按钮: 声音</translation>
+    </message>
+    <message>
+        <source>Action Button: Movie</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_MOVIE</comment>
+        <translation>动作按钮: 影片</translation>
+    </message>
+    <message>
+        <source>Plus</source>
+        <comment>DRAWING2STR_PLUS</comment>
+        <translation>加号</translation>
+    </message>
+    <message>
+        <source>Minus</source>
+        <comment>DRAWING2STR_MINUS</comment>
+        <translation>减号</translation>
+    </message>
+    <message>
+        <source>Multiply</source>
+        <comment>DRAWING2STR_MULTIPLY</comment>
+        <translation>乘号</translation>
+    </message>
+    <message>
+        <source>Division</source>
+        <comment>DRAWING2STR_DIVISION</comment>
+        <translation>除号</translation>
+    </message>
+    <message>
+        <source>Equal</source>
+        <comment>DRAWING2STR_EQUAL</comment>
+        <translation>等于号</translation>
+    </message>
+    <message>
+        <source>Not Equal</source>
+        <comment>DRAWING2STR_NOT_EQUAL</comment>
+        <translation>不等于号</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <comment>DRAWING2STR_GROUP</comment>
+        <translation>组合</translation>
+    </message>
+    <message>
+        <source>TextBox</source>
+        <comment>DRAWING2STR_TEXTBOX</comment>
+        <translation>文本框</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>DRAWING2STR_TABLE</comment>
+        <translation>表格</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <comment>DRAWING2STR_PICTURE</comment>
+        <translation>图片</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <comment>DRAWING2STR_CHART</comment>
+        <translation>图表</translation>
+    </message>
+    <message>
+        <source>Diagram</source>
+        <comment>DRAWING2STR_DIAGRAM</comment>
+        <translation>图示</translation>
+    </message>
+    <message>
+        <source>Ink</source>
+        <comment>DRAWING2STR_INK</comment>
+        <translation>墨迹</translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <comment>DRAWING2STR_OLE</comment>
+        <translation>对象</translation>
+    </message>
+    <message>
+        <source>Freeform</source>
+        <comment>DRAWING2STR_FREEFORM</comment>
+        <translation>任意多边形</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <comment>DRAWING2_TOOLTIP_LINE</comment>
+        <translation>直线</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <comment>DRAWING2_TOOLTIP_ARROW</comment>
+        <translation>箭头</translation>
+    </message>
+    <message>
+        <source>Double Arrow</source>
+        <comment>DRAWING2_TOOLTIP_ELBOW_CONNECTOR</comment>
+        <translation>双箭头</translation>
+    </message>
+    <message>
+        <source>Elbow Connector</source>
+        <comment>DRAWING2_TOOLTIP_ELBOW_ARROW_CONNECTOR</comment>
+        <translation>肘形连接符</translation>
+    </message>
+    <message>
+        <source>Elbow Arrow Connector</source>
+        <comment>DRAWING2_TOOLTIP_ELBOW_ARROW_CONNECTOR</comment>
+        <translation>肘形箭头连接符</translation>
+    </message>
+    <message>
+        <source>Elbow Double Arrow Connector</source>
+        <comment>DRAWING2_TOOLTIP_ELBOW_DOUBLE_ARROW_CONNECTOR</comment>
+        <translation>肘形双箭头连接符</translation>
+    </message>
+    <message>
+        <source>Curved Connector</source>
+        <comment>DRAWING2_TOOLTIP_CURVED_CONNECTOR</comment>
+        <translation>曲线连接符</translation>
+    </message>
+    <message>
+        <source>Curved Arrow Connector</source>
+        <comment>DRAWING2_TOOLTIP_CURVED_ARROW_CONNECTOR</comment>
+        <translation>曲线箭头连接符</translation>
+    </message>
+    <message>
+        <source>Curved Double Arrow Connector</source>
+        <comment>DRAWING2_TOOLTIP_CURVED_DOUBLE_ARROW_CONNECTOR</comment>
+        <translation>曲线双箭头连接符</translation>
+    </message>
+    <message>
+        <source>Curve</source>
+        <comment>DRAWING2_TOOLTIP_CURVE</comment>
+        <translation>曲线</translation>
+    </message>
+    <message>
+        <source>Arbitrary Polygon</source>
+        <comment>DRAWING2_TOOLTIP_ARBITRARY_POLYGON</comment>
+        <translation>任意多边形</translation>
+    </message>
+    <message>
+        <source>Free Curve</source>
+        <comment>DRAWING2_TOOLTIP_FREE_CURVE</comment>
+        <translation>自由曲线</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_RECTANGLE</comment>
+        <translation>矩形</translation>
+    </message>
+    <message>
+        <source>Rounded Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_ROUNDED_RECTANGLE</comment>
+        <translation>圆角矩形</translation>
+    </message>
+    <message>
+        <source>Snip Single Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_SNIP_SINGLE_CORNER_RECTANGLE</comment>
+        <translation>剪去单角的矩形</translation>
+    </message>
+    <message>
+        <source>Snip Same Side Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_SNIP_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation>剪去同侧角的矩形</translation>
+    </message>
+    <message>
+        <source>Snip Diagonal Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_SNIP_DIAGONAL_CORNER_RECTANGLE</comment>
+        <translation>剪去对角的矩形</translation>
+    </message>
+    <message>
+        <source>Round Single Corner Rectangle 1</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_SINGLE_CORNER_RECTANGLE_1</comment>
+        <translation>单圆角矩形１</translation>
+    </message>
+    <message>
+        <source>Round Single Corner Rectangle 2</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_SINGLE_CORNER_RECTANGLE_2</comment>
+        <translation>单圆角矩形２</translation>
+    </message>
+    <message>
+        <source>Round Same Side Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation>同侧圆角矩形</translation>
+    </message>
+    <message>
+        <source>Round Diagonal Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_DIAGONAL_CORNER_RECTANGLE</comment>
+        <translation>对角圆角矩形</translation>
+    </message>
+    <message>
+        <source>TextBox</source>
+        <comment>DRAWING2_TOOLTIP_TEXTBOX</comment>
+        <translation>文本框</translation>
+    </message>
+    <message>
+        <source>Vertical TextBox</source>
+        <comment>DRAWING2_TOOLTIP_VERTICALTEXTBOX</comment>
+        <translation>垂直文本框</translation>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <comment>DRAWING2_TOOLTIP_ELLIPSE</comment>
+        <translation>椭圆</translation>
+    </message>
+    <message>
+        <source>Isosceles Triangle</source>
+        <comment>DRAWING2_TOOLTIP_ISOSCELES_TRIANGLE</comment>
+        <translation>等腰三角形</translation>
+    </message>
+    <message>
+        <source>Right Triangle</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_TRIANGLE</comment>
+        <translation>直角三角形</translation>
+    </message>
+    <message>
+        <source>Parallelogram</source>
+        <comment>DRAWING2_TOOLTIP_PARALLELOGRAM</comment>
+        <translation>平行四边形</translation>
+    </message>
+    <message>
+        <source>Trapezoid</source>
+        <comment>DRAWING2_TOOLTIP_TRAPEZOID</comment>
+        <translation>梯形</translation>
+    </message>
+    <message>
+        <source>Diamond</source>
+        <comment>DRAWING2_TOOLTIP_DIAMOND</comment>
+        <translation>菱形</translation>
+    </message>
+    <message>
+        <source>Regular Pentagon</source>
+        <comment>DRAWING2_TOOLTIP_REGULAR_PENTAGON</comment>
+        <translation>正五边形</translation>
+    </message>
+    <message>
+        <source>Hexagon</source>
+        <comment>DRAWING2_TOOLTIP_HEXAGON</comment>
+        <translation>六边形</translation>
+    </message>
+    <message>
+        <source>Heptagonal</source>
+        <comment>DRAWING2_TOOLTIP_HEPTAGONAL</comment>
+        <translation>七边形</translation>
+    </message>
+    <message>
+        <source>Octagon</source>
+        <comment>DRAWING2_TOOLTIP_OCTAGON</comment>
+        <translation>八边形</translation>
+    </message>
+    <message>
+        <source>Dodecagon</source>
+        <comment>DRAWING2_TOOLTIP_DECAGON</comment>
+        <translation type="obsolete">十边形</translation>
+    </message>
+    <message>
+        <source>Dodecagon</source>
+        <comment>DRAWING2_TOOLTIP_DODECAGON</comment>
+        <translation>十二边形</translation>
+    </message>
+    <message>
+        <source>Pie</source>
+        <comment>DRAWING2_TOOLTIP_PIE</comment>
+        <translation>饼形</translation>
+    </message>
+    <message>
+        <source>Chord</source>
+        <comment>DRAWING2_TOOLTIP_CHORD</comment>
+        <translation>弦形</translation>
+    </message>
+    <message>
+        <source>Teardrop</source>
+        <comment>DRAWING2_TOOLTIP_TEARDROP</comment>
+        <translation>泪滴形</translation>
+    </message>
+    <message>
+        <source>Frame</source>
+        <comment>DRAWING2_TOOLTIP_FRAME</comment>
+        <translation>图文框</translation>
+    </message>
+    <message>
+        <source>Half Frame</source>
+        <comment>DRAWING2_TOOLTIP_HALF_FRAME</comment>
+        <translation>半闭框</translation>
+    </message>
+    <message>
+        <source>L-Shape</source>
+        <comment>DRAWING2_TOOLTIP_L_SHAPE</comment>
+        <translation>L 形</translation>
+    </message>
+    <message>
+        <source>Diagonal Stripe</source>
+        <comment>DRAWING2_TOOLTIP_DIAGONAL_STRIPE</comment>
+        <translation>斜纹</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>DRAWING2_TOOLTIP_CROSS</comment>
+        <translation>十字形</translation>
+    </message>
+    <message>
+        <source>Missing Corner Rectangular</source>
+        <comment>DRAWING2_TOOLTIP_MISSING_CORNER_RECTANGULAR</comment>
+        <translation>缺角矩形</translation>
+    </message>
+    <message>
+        <source>Can</source>
+        <comment>DRAWING2_TOOLTIP_CAN</comment>
+        <translation>圆柱形</translation>
+    </message>
+    <message>
+        <source>Cube</source>
+        <comment>DRAWING2_TOOLTIP_CUBE</comment>
+        <translation>立方体</translation>
+    </message>
+    <message>
+        <source>Frustum</source>
+        <comment>DRAWING2_TOOLTIP_FRUSTUM</comment>
+        <translation>棱台</translation>
+    </message>
+    <message>
+        <source>Concentric Circle</source>
+        <comment>DRAWING2_TOOLTIP_CONCENTRIC_CIRCLE</comment>
+        <translation>同心圆</translation>
+    </message>
+    <message>
+        <source>Forbidden Symbols</source>
+        <comment>DRAWING2_TOOLTIP_FORBIDDENSYMBOLS</comment>
+        <translation>禁止符</translation>
+    </message>
+    <message>
+        <source>Hollow Arc</source>
+        <comment>DRAWING2_TOOLTIP_HOLLOW_ARC</comment>
+        <translation>空心弧</translation>
+    </message>
+    <message>
+        <source>Fold Angle</source>
+        <comment>DRAWING2_TOOLTIP_FOLDA_NGLE</comment>
+        <translation>折角形</translation>
+    </message>
+    <message>
+        <source>Smiley Face</source>
+        <comment>DRAWING2_TOOLTIP_SMILEY_FACE</comment>
+        <translation>笑脸</translation>
+    </message>
+    <message>
+        <source>Heart</source>
+        <comment>DRAWING2_TOOLTIP_HEART</comment>
+        <translation>心形</translation>
+    </message>
+    <message>
+        <source>Lightning Bolt</source>
+        <comment>DRAWING2_TOOLTIP_LIGHTNING_BOLT</comment>
+        <translation>闪电形</translation>
+    </message>
+    <message>
+        <source>Sun</source>
+        <comment>DRAWING2_TOOLTIP_SUN</comment>
+        <translation>太阳形</translation>
+    </message>
+    <message>
+        <source>Moon</source>
+        <comment>DRAWING2_TOOLTIP_MOON</comment>
+        <translation>新月形</translation>
+    </message>
+    <message>
+        <source>Cloud</source>
+        <comment>DRAWING2_TOOLTIP_CLOUD</comment>
+        <translation>云形</translation>
+    </message>
+    <message>
+        <source>Arc</source>
+        <comment>DRAWING2_TOOLTIP_ARC</comment>
+        <translation>弧形</translation>
+    </message>
+    <message>
+        <source>Double Bracket</source>
+        <comment>DRAWING2_TOOLTIP_DOUBLE_BRACKET</comment>
+        <translation>双括号</translation>
+    </message>
+    <message>
+        <source>Double Brace</source>
+        <comment>DRAWING2_TOOLTIP_DOUBLE_BRACE</comment>
+        <translation>双大括号</translation>
+    </message>
+    <message>
+        <source>Left Bracket</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_BRACKET</comment>
+        <translation>左中括号</translation>
+    </message>
+    <message>
+        <source>Right Bracket</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_BRACKET</comment>
+        <translation>右中括号</translation>
+    </message>
+    <message>
+        <source>Left Brace</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_BRACE</comment>
+        <translation>左大括号</translation>
+    </message>
+    <message>
+        <source>Right Brace</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_BRACE</comment>
+        <translation>右大括号</translation>
+    </message>
+    <message>
+        <source>Right Arrow</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_ARROW</comment>
+        <translation>右箭头</translation>
+    </message>
+    <message>
+        <source>Left Arrow</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_ARROW</comment>
+        <translation>左箭头</translation>
+    </message>
+    <message>
+        <source>Up Arrow</source>
+        <comment>DRAWING2_TOOLTIP_UP_ARROW</comment>
+        <translation>上箭头</translation>
+    </message>
+    <message>
+        <source>Down Arrow</source>
+        <comment>DRAWING2_TOOLTIP_DOWN_ARROW</comment>
+        <translation>下箭头</translation>
+    </message>
+    <message>
+        <source>Left And Right Arrow</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_AND_RIGHT_ARROW</comment>
+        <translation>左右箭头</translation>
+    </message>
+    <message>
+        <source>Up And Down Arrow</source>
+        <comment>DRAWING2_TOOLTIP_UP_AND_DOWN_ARROW</comment>
+        <translation>上下箭头</translation>
+    </message>
+    <message>
+        <source>Cross Arrow</source>
+        <comment>DRAWING2_TOOLTIP_CROSS_ARROW</comment>
+        <translation>十字箭头</translation>
+    </message>
+    <message>
+        <source>J-shape Arrow</source>
+        <comment>DRAWING2_TOOLTIP_J_SHAPE_ARROW</comment>
+        <translation>丁字箭头</translation>
+    </message>
+    <message>
+        <source>Fillet Right Arrow</source>
+        <comment>DRAWING2_TOOLTIP_FILLET_RIGHT_ARROW</comment>
+        <translation>圆角右箭头</translation>
+    </message>
+    <message>
+        <source>Stick Arrow</source>
+        <comment>DRAWING2_TOOLTIP_STICK_ARROW</comment>
+        <translation>手杖形箭头</translation>
+    </message>
+    <message>
+        <source>Right Angle Two-way Arrow</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_ANGLE_TWOWAY_ARROW</comment>
+        <translation>直角双向箭头</translation>
+    </message>
+    <message>
+        <source>Right Angle Up Arrow</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_ANGLE_UP_ARROW</comment>
+        <translation>直角上箭头</translation>
+    </message>
+    <message>
+        <source>Left Curved Arrow</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_CURVED_ARROW</comment>
+        <translation>左弧形箭头</translation>
+    </message>
+    <message>
+        <source>Right Curved Arrow</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_CURVED_ARROW</comment>
+        <translation>右弧形箭头</translation>
+    </message>
+    <message>
+        <source>Down Curved Arrow</source>
+        <comment>DRAWING2_TOOLTIP_DOWN_CURVED_ARROW</comment>
+        <translation>下弧形箭头</translation>
+    </message>
+    <message>
+        <source>Up Curved Arrow</source>
+        <comment>DRAWING2_TOOLTIP_UP_CURVED_ARROW</comment>
+        <translation>上弧形箭头</translation>
+    </message>
+    <message>
+        <source>Virtual Tail Arrow</source>
+        <comment>DRAWING2_TOOLTIP_VIRTUAL_TAIL_ARROW</comment>
+        <translation>虚尾箭头</translation>
+    </message>
+    <message>
+        <source>Dove Tail Arrow</source>
+        <comment>DRAWING2_TOOLTIP_DOVE_TAIL_ARROW</comment>
+        <translation>燕尾形箭头</translation>
+    </message>
+    <message>
+        <source>Arrow Pentagon</source>
+        <comment>DRAWING2_TOOLTIP_ARROW_PENTAGON</comment>
+        <translation>五边形</translation>
+    </message>
+    <message>
+        <source>Dove Tail</source>
+        <comment>DRAWING2_TOOLTIP_DOVE_TAIL</comment>
+        <translation>燕尾形</translation>
+    </message>
+    <message>
+        <source>Right Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_ARROW_CALLOUT</comment>
+        <translation>右箭头标注</translation>
+    </message>
+    <message>
+        <source>Down Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_DOWN_ARROW_CALLOUT</comment>
+        <translation>下箭头标注</translation>
+    </message>
+    <message>
+        <source>Left Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_ARROW_CALLOUT</comment>
+        <translation>左箭头标注</translation>
+    </message>
+    <message>
+        <source>Up Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_UP_ARROW_CALLOUT</comment>
+        <translation>上箭头标注</translation>
+    </message>
+    <message>
+        <source>Left-Right Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_RIGHT_ARROW_CALLOUT</comment>
+        <translation>左右箭头标注</translation>
+    </message>
+    <message>
+        <source>Cross Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_CROSS_ARROW_CALLOUT</comment>
+        <translation>十字箭头标注</translation>
+    </message>
+    <message>
+        <source>Circular Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_CIRCULAR_ARROW_CALLOUT</comment>
+        <translation>环形箭头</translation>
+    </message>
+    <message>
+        <source>Plus</source>
+        <comment>DRAWING2_TOOLTIP_PLUS</comment>
+        <translation>加号</translation>
+    </message>
+    <message>
+        <source>Minus</source>
+        <comment>DRAWING2_TOOLTIP_MINUS</comment>
+        <translation>减号</translation>
+    </message>
+    <message>
+        <source>Multiply</source>
+        <comment>DRAWING2_TOOLTIP_MULTIPLY</comment>
+        <translation>乘号</translation>
+    </message>
+    <message>
+        <source>Division</source>
+        <comment>DRAWING2_TOOLTIP_DIVISION</comment>
+        <translation>除号</translation>
+    </message>
+    <message>
+        <source>Equal</source>
+        <comment>DRAWING2_TOOLTIP_EQUAL</comment>
+        <translation>等于号</translation>
+    </message>
+    <message>
+        <source>Not Equal</source>
+        <comment>DRAWING2_TOOLTIP_NOT_EQUAL</comment>
+        <translation>不等于号</translation>
+    </message>
+    <message>
+        <source>Flowchart: Process</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PROCESS</comment>
+        <translation>流程图: 过程</translation>
+    </message>
+    <message>
+        <source>Flowchart: Alternate Process</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_ALTERNATE_PROCESS</comment>
+        <translation>流程图: 可选过程</translation>
+    </message>
+    <message>
+        <source>Flowchart: Decision</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DECISION</comment>
+        <translation>流程图: 决策</translation>
+    </message>
+    <message>
+        <source>Flowchart: Data</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DATA</comment>
+        <translation>流程图: 数据</translation>
+    </message>
+    <message>
+        <source>Flowchart: Predefined Process</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PREDEFINED_PROCESS</comment>
+        <translation>流程图: 预定义过程</translation>
+    </message>
+    <message>
+        <source>Flowchart: Internal Storage</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_INTERNAL_STORAGE</comment>
+        <translation>流程图: 内部贮存</translation>
+    </message>
+    <message>
+        <source>Flowchart: Document</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DOCUMENT</comment>
+        <translation>流程图: 文档</translation>
+    </message>
+    <message>
+        <source>Flowchart: Multidocument</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MULTIDOCUMENT</comment>
+        <translation>流程图: 多文档</translation>
+    </message>
+    <message>
+        <source>Flowchart: Terminator</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_TERMINATOR</comment>
+        <translation>流程图: 终止</translation>
+    </message>
+    <message>
+        <source>Flowchart: Preparation</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PREPARATION</comment>
+        <translation>流程图: 准备</translation>
+    </message>
+    <message>
+        <source>Flowchart: Manual Input</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MANUAL_INPUT</comment>
+        <translation>流程图：手动输入</translation>
+    </message>
+    <message>
+        <source>Flowchart: Manual Operation</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MANUAL_OPERATION</comment>
+        <translation>流程图：手动操作</translation>
+    </message>
+    <message>
+        <source>Flowchart: Connector</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_CONNECTOR</comment>
+        <translation>流程图: 联系</translation>
+    </message>
+    <message>
+        <source>Flowchart: Off-Page Connector</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_OFF_PAGE_CONNECTOR</comment>
+        <translation>流程图：离页连接符</translation>
+    </message>
+    <message>
+        <source>Flowchart: Card</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_CARD</comment>
+        <translation>流程图: 卡片</translation>
+    </message>
+    <message>
+        <source>Flowchart: Punched Tape</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PUNCHED_TAPE</comment>
+        <translation>流程图: 资料带</translation>
+    </message>
+    <message>
+        <source>Flowchart: Summing Junction</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_SUMMING_JUNCTION</comment>
+        <translation>流程图: 汇总连接</translation>
+    </message>
+    <message>
+        <source>Flowchart: Or</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_OR</comment>
+        <translation>流程图: 或者</translation>
+    </message>
+    <message>
+        <source>Flowchart: Collate</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_COLLATE</comment>
+        <translation>流程图: 对照</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sort</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_SORT</comment>
+        <translation>流程图: 排序</translation>
+    </message>
+    <message>
+        <source>Flowchart: Extract</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_EXTRACT</comment>
+        <translation>流程图: 摘录</translation>
+    </message>
+    <message>
+        <source>Flowchart: Merge</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MERGE</comment>
+        <translation>流程图: 合并</translation>
+    </message>
+    <message>
+        <source>Flowchart: Stored Data</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_STORED_DATA</comment>
+        <translation>流程图: 库存数据</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_SEQUENTIAL_ACCESS_STORAGE</comment>
+        <translation>流程图: 顺序访问存储器</translation>
+    </message>
+    <message>
+        <source>Flowchart: Magnetic Disk</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MAGNETIC_DISK</comment>
+        <translation>流程图: 磁盘</translation>
+    </message>
+    <message>
+        <source>Flowchart: Direct Access Storage</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DIRECT_ACCESS_STORAGE</comment>
+        <translation>流程图: 直接访问存储器</translation>
+    </message>
+    <message>
+        <source>Flowchart: Display</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DISPLAY</comment>
+        <translation>流程图: 显示</translation>
+    </message>
+    <message>
+        <source>Explosion 1</source>
+        <comment>DRAWING2_TOOLTIP_EXPLOSION_1</comment>
+        <translation>爆炸形 1</translation>
+    </message>
+    <message>
+        <source>Explosion 2</source>
+        <comment>DRAWING2_TOOLTIP_EXPLOSION_2</comment>
+        <translation>爆炸形　2</translation>
+    </message>
+    <message>
+        <source>4-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_4_POINT_STAR</comment>
+        <translation>十字星</translation>
+    </message>
+    <message>
+        <source>5-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_5_POINT_STAR</comment>
+        <translation>五角星</translation>
+    </message>
+    <message>
+        <source>6-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_6_POINT_STAR</comment>
+        <translation>六角星</translation>
+    </message>
+    <message>
+        <source>7-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_7_POINT_STAR</comment>
+        <translation>七角星</translation>
+    </message>
+    <message>
+        <source>8-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_8_POINT_STAR</comment>
+        <translation>八角星</translation>
+    </message>
+    <message>
+        <source>10-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_10_POINT_STAR</comment>
+        <translation>十角星</translation>
+    </message>
+    <message>
+        <source>12-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_12_POINT_STAR</comment>
+        <translation>十二角星</translation>
+    </message>
+    <message>
+        <source>16-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_16_POINT_STAR</comment>
+        <translation>十六角星</translation>
+    </message>
+    <message>
+        <source>24-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_24_POINT_STAR</comment>
+        <translation>二十四角星</translation>
+    </message>
+    <message>
+        <source>32-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_32_POINT_STAR</comment>
+        <translation>三十二角星</translation>
+    </message>
+    <message>
+        <source>Convex Strip</source>
+        <comment>DRAWING2_TOOLTIP_CONVEX_STRIP</comment>
+        <translation>上凸带形</translation>
+    </message>
+    <message>
+        <source>Lordosis Strip</source>
+        <comment>DRAWING2_TOOLTIP_LORDOSIS_TRIP</comment>
+        <translation>前凸带形</translation>
+    </message>
+    <message>
+        <source>Convex Curved Strip</source>
+        <comment>DRAWING2_TOOLTIP_CONVEX_CURVED_STRIP</comment>
+        <translation>上凸弯带形</translation>
+    </message>
+    <message>
+        <source>Lordosis Bending Strip</source>
+        <comment>DRAWING2_TOOLTIP_Lordosis_Bending_Strip</comment>
+        <translation>前凸弯带形</translation>
+    </message>
+    <message>
+        <source>VerticalS Scroll</source>
+        <comment>DRAWING2_TOOLTIP_VERTICALS_SCROLL</comment>
+        <translation>竖卷轴</translation>
+    </message>
+    <message>
+        <source>Horizontal Scroll</source>
+        <comment>DRAWING2_TOOLTIP_HORIZONTAL_SCROLL</comment>
+        <translation>横卷形</translation>
+    </message>
+    <message>
+        <source>Wave</source>
+        <comment>DRAWING2_TOOLTIP_WAVE</comment>
+        <translation>波形</translation>
+    </message>
+    <message>
+        <source>Double Wave</source>
+        <comment>DRAWING2_TOOLTIP_DOUBLE_WAVE</comment>
+        <translation>双波形</translation>
+    </message>
+    <message>
+        <source>Rectangular Callout</source>
+        <comment>DRAWING2_TOOLTIP_RECTANGULAR_CALLOUT</comment>
+        <translation>矩形标注</translation>
+    </message>
+    <message>
+        <source>Rounded Rectangular Callout</source>
+        <comment>DDRAWING2_TOOLTIP_ROUNDED_RECTANGULAR_CALLOUT</comment>
+        <translation>圆角矩形标注</translation>
+    </message>
+    <message>
+        <source>Oval Callout</source>
+        <comment>DRAWING2_TOOLTIP_OVAL_CALLOUT</comment>
+        <translation>椭圆形标注</translation>
+    </message>
+    <message>
+        <source>Cloud Callout</source>
+        <comment>DRAWING2_TOOLTIP_CLOUD_CALLOUT</comment>
+        <translation>云形标注</translation>
+    </message>
+    <message>
+        <source>Line Callout 1</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1</comment>
+        <translation>线形标注 1</translation>
+    </message>
+    <message>
+        <source>Line Callout 2</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2</comment>
+        <translation>线形标注 2</translation>
+    </message>
+    <message>
+        <source>Line Callout 3</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3</comment>
+        <translation>线形标注 3</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1_ACCENT_BAR</comment>
+        <translation>线形标注 １（带强调线)</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2_ACCENT_BAR</comment>
+        <translation>线形标注 2(带强调线)</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3_ACCENT_BAR</comment>
+        <translation>线形标注 3(带强调线)</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (No Border)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1_NO_BORDER</comment>
+        <translation>线形标注 1(无边框)</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (No Border)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2_NO_BORDER</comment>
+        <translation>线形标注 2(无边框)</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (No Border)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3_NO_BORDER</comment>
+        <translation>线形标注 3(无边框)</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (Border and Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1_BORDER_AND_ACCENT_BAR</comment>
+        <translation>线形标注 1(带边框和强调线)</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (Border and Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2_BORDER_AND_ACCENT_BAR</comment>
+        <translation>线形标注 2(带边框和强调线)</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (Border and Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3_BORDER_AND_ACCENT_BAR</comment>
+        <translation>线形标注 3(带边框和强调线)</translation>
+    </message>
+    <message>
+        <source>Action Button: Back or Previous</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_BACK_OR_PREVIOUS</comment>
+        <translation>动作按钮: 后退或前一项</translation>
+    </message>
+    <message>
+        <source>Action Button: Forward or Next</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_FORWARD_OR_NEXT</comment>
+        <translation>动作按钮: 前进或下一项</translation>
+    </message>
+    <message>
+        <source>Action Button: Beginning</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_BEGINNING</comment>
+        <translation>动作按钮: 开始</translation>
+    </message>
+    <message>
+        <source>Action Button: End</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_END</comment>
+        <translation>动作按钮: 结束</translation>
+    </message>
+    <message>
+        <source>Action Button: Home</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_HOME</comment>
+        <translation>动作按钮: 第一张</translation>
+    </message>
+    <message>
+        <source>Action Button: Information</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_INFORMATION</comment>
+        <translation>动作按钮: 信息</translation>
+    </message>
+    <message>
+        <source>Action Button: Return</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_RETURN</comment>
+        <translation>动作按钮: 上一张</translation>
+    </message>
+    <message>
+        <source>Action Button: Movie</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_MOVIE</comment>
+        <translation>动作按钮: 影片</translation>
+    </message>
+    <message>
+        <source>Action Button: Document</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_DOCUMENT</comment>
+        <translation>动作按钮: 文档</translation>
+    </message>
+    <message>
+        <source>Action Button: Sound</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_SOUND</comment>
+        <translation>动作按钮: 声音</translation>
+    </message>
+    <message>
+        <source>Action Button: Help</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_HELP</comment>
+        <translation>动作按钮: 帮助</translation>
+    </message>
+    <message>
+        <source>Action Button: Custom</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_CUSTOM</comment>
+        <translation>动作按钮: 自定义</translation>
+    </message>
+    <message>
+        <source>LightPink</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BUTTON_LIGHTPINK</comment>
+        <translation>浅粉红</translation>
+    </message>
+    <message>
+        <source>Pink</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PINK</comment>
+        <translation>粉红</translation>
+    </message>
+    <message>
+        <source>Crimson</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CRIMSON</comment>
+        <translation>猩红</translation>
+    </message>
+    <message>
+        <source>LavenderBlush</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LAVENDERBLUSH</comment>
+        <translation>淡紫红</translation>
+    </message>
+    <message>
+        <source>PaleVioletRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PALEVIOLETRED</comment>
+        <translation>弱紫罗兰红</translation>
+    </message>
+    <message>
+        <source>HotPink</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_HOTPINK</comment>
+        <translation>热情的粉红</translation>
+    </message>
+    <message>
+        <source>DeepPink</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DEEPPINK</comment>
+        <translation>深粉红</translation>
+    </message>
+    <message>
+        <source>MediumVioletRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMVIOLETRED</comment>
+        <translation>中紫罗兰红</translation>
+    </message>
+    <message>
+        <source>Orchid</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ORCHID</comment>
+        <translation>兰花紫</translation>
+    </message>
+    <message>
+        <source>Thistle</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_THISTLE</comment>
+        <translation>蓟灰色</translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PLUM</comment>
+        <translation>李子紫</translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_VIOLET</comment>
+        <translation>紫罗兰</translation>
+    </message>
+    <message>
+        <source>Magenta</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MAGENTA</comment>
+        <translation>品红</translation>
+    </message>
+    <message>
+        <source>Fuchsia</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_FUCHSIA</comment>
+        <translation>紫红色</translation>
+    </message>
+    <message>
+        <source>DarkMagenta</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKMAGENTA</comment>
+        <translation>深洋红</translation>
+    </message>
+    <message>
+        <source>Purple</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PURPLE</comment>
+        <translation>紫色</translation>
+    </message>
+    <message>
+        <source>MediumOrchid</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMORCHID</comment>
+        <translation>中兰花紫</translation>
+    </message>
+    <message>
+        <source>DarkViolet</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKVIOLET</comment>
+        <translation>暗紫罗兰</translation>
+    </message>
+    <message>
+        <source>DarkOrchid</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKORCHID</comment>
+        <translation>暗兰花紫</translation>
+    </message>
+    <message>
+        <source>Indigo</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_INDIGO</comment>
+        <translation>靛蓝</translation>
+    </message>
+    <message>
+        <source>BlueViolet</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BLUEVIOLET</comment>
+        <translation>蓝紫罗兰</translation>
+    </message>
+    <message>
+        <source>MediumPurple</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMPURPLE</comment>
+        <translation>中紫色</translation>
+    </message>
+    <message>
+        <source>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSLATEBLUE</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_CUSTOM</comment>
+        <translation>中板岩蓝</translation>
+    </message>
+    <message>
+        <source>SlateBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SLATEBLUE</comment>
+        <translation>板岩蓝</translation>
+    </message>
+    <message>
+        <source>DarkSlateBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSLATEBLUE</comment>
+        <translation>暗板岩蓝</translation>
+    </message>
+    <message>
+        <source>Lavender</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LAVENDER</comment>
+        <translation>浅紫</translation>
+    </message>
+    <message>
+        <source>GhostWhite</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GHOSTWHITE</comment>
+        <translation>幽灵白</translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BLUE</comment>
+        <translation>蓝色</translation>
+    </message>
+    <message>
+        <source>MediumBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMBLUE</comment>
+        <translation>中蓝色</translation>
+    </message>
+    <message>
+        <source>MidnightBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MIDNIGHTBLUE</comment>
+        <translation>午夜蓝</translation>
+    </message>
+    <message>
+        <source>DarkBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKBLUE</comment>
+        <translation>暗蓝色</translation>
+    </message>
+    <message>
+        <source>Navy</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_NAVY</comment>
+        <translation>海军蓝</translation>
+    </message>
+    <message>
+        <source>RoyalBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ROYALBLUE</comment>
+        <translation>皇家蓝</translation>
+    </message>
+    <message>
+        <source>CornflowerBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CORNFLOWERBLUE</comment>
+        <translation>矢车菊蓝</translation>
+    </message>
+    <message>
+        <source>LightSteelBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSTEELBLUE</comment>
+        <translation>亮钢蓝</translation>
+    </message>
+    <message>
+        <source>LightSlateGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSLATEGRAY</comment>
+        <translation>亮石板灰</translation>
+    </message>
+    <message>
+        <source>SlateGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SLATEGRAY</comment>
+        <translation>培安紫</translation>
+    </message>
+    <message>
+        <source>DodgerBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DODGERBLUE</comment>
+        <translation>道奇蓝</translation>
+    </message>
+    <message>
+        <source>AliceBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ALICEBLUE</comment>
+        <translation>爱丽丝蓝</translation>
+    </message>
+    <message>
+        <source>SteelBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_STEELBLUE</comment>
+        <translation>钢蓝</translation>
+    </message>
+    <message>
+        <source>LightSkyBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSKYBLUE</comment>
+        <translation>亮天蓝色</translation>
+    </message>
+    <message>
+        <source>SkyBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SKYBLUE</comment>
+        <translation>天蓝色</translation>
+    </message>
+    <message>
+        <source>DeepSkyBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DEEPSKYBLUE</comment>
+        <translation>深天蓝</translation>
+    </message>
+    <message>
+        <source>LightBlue</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_CUSTOM</comment>
+        <translation>亮蓝</translation>
+    </message>
+    <message>
+        <source>PowderBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_POWDERBLUE</comment>
+        <translation>火药青</translation>
+    </message>
+    <message>
+        <source>CadetBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CADETBLUE</comment>
+        <translation>军服蓝</translation>
+    </message>
+    <message>
+        <source>Azure</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_AZURE</comment>
+        <translation>蔚蓝色</translation>
+    </message>
+    <message>
+        <source>LightCyan</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTCYAN</comment>
+        <translation>淡青色</translation>
+    </message>
+    <message>
+        <source>PaleTurquoise</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PALETURQUOISE</comment>
+        <translation>弱绿宝石</translation>
+    </message>
+    <message>
+        <source>Cyan</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CYAN</comment>
+        <translation>青色</translation>
+    </message>
+    <message>
+        <source>Aqua</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_AQUA</comment>
+        <translation>水绿色</translation>
+    </message>
+    <message>
+        <source>DarkTurquoise</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKTURQUOISE</comment>
+        <translation>暗绿宝石</translation>
+    </message>
+    <message>
+        <source>DarkSlateGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSLATEGRAY</comment>
+        <translation>暗石板灰</translation>
+    </message>
+    <message>
+        <source>DarkCyan</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKCYAN</comment>
+        <translation>暗青色</translation>
+    </message>
+    <message>
+        <source>Teal</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_TEAL</comment>
+        <translation>水鸭色</translation>
+    </message>
+    <message>
+        <source>MediumTurquoise</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMTURQUOISE</comment>
+        <translation>中绿宝石</translation>
+    </message>
+    <message>
+        <source>LightSeaGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSEAGREEN</comment>
+        <translation>浅海洋绿</translation>
+    </message>
+    <message>
+        <source>Turquoise</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_TURQUOISE</comment>
+        <translation>绿宝石</translation>
+    </message>
+    <message>
+        <source>Aquamarine</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_AQUAMARINE</comment>
+        <translation>宝石碧绿</translation>
+    </message>
+    <message>
+        <source>MediumAquamarine</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMAQUAMARINE</comment>
+        <translation>中宝石碧绿</translation>
+    </message>
+    <message>
+        <source>MediumSpringGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSPRINGGREEN</comment>
+        <translation>中春绿色</translation>
+    </message>
+    <message>
+        <source>MintCream</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MINTCREAM</comment>
+        <translation>薄荷奶油</translation>
+    </message>
+    <message>
+        <source>SpringGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SPRINGGREEN</comment>
+        <translation>春绿色</translation>
+    </message>
+    <message>
+        <source>MediumSeaGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSEAGREEN</comment>
+        <translation>中海洋绿</translation>
+    </message>
+    <message>
+        <source>SeaGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SEAGREEN</comment>
+        <translation>海洋绿</translation>
+    </message>
+    <message>
+        <source>Honeydew</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_HONEYDEW</comment>
+        <translation>蜜瓜色</translation>
+    </message>
+    <message>
+        <source>LightGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTGREEN</comment>
+        <translation>淡绿色</translation>
+    </message>
+    <message>
+        <source>PaleGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PALEGREEN</comment>
+        <translation>弱绿色</translation>
+    </message>
+    <message>
+        <source>DarkSeaGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSEAGREEN</comment>
+        <translation>暗海洋绿</translation>
+    </message>
+    <message>
+        <source>LimeGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIMEGREEN</comment>
+        <translation>闪光深绿</translation>
+    </message>
+    <message>
+        <source>Lime</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIME</comment>
+        <translation>闪光绿</translation>
+    </message>
+    <message>
+        <source>ForestGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_FORESTGREEN</comment>
+        <translation>森林绿</translation>
+    </message>
+    <message>
+        <source>Green</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GREEN</comment>
+        <translation>绿色</translation>
+    </message>
+    <message>
+        <source>DarkGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKGREEN</comment>
+        <translation>暗绿色</translation>
+    </message>
+    <message>
+        <source>Chartreuse</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CHARTREUSE</comment>
+        <translation>查特酒绿</translation>
+    </message>
+    <message>
+        <source>LawnGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LAWNGREEN</comment>
+        <translation>草坪绿</translation>
+    </message>
+    <message>
+        <source>GreenYellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GREENYELLOW</comment>
+        <translation>绿黄色</translation>
+    </message>
+    <message>
+        <source>DarkOliveGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKOLIVEGREEN</comment>
+        <translation>暗橄榄绿</translation>
+    </message>
+    <message>
+        <source>YellowGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_YELLOWGREEN</comment>
+        <translation>黄绿色</translation>
+    </message>
+    <message>
+        <source>OliveDrab</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_OLIVEDRAB</comment>
+        <translation>橄榄褐色</translation>
+    </message>
+    <message>
+        <source>Beige</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BEIGE</comment>
+        <translation>米色</translation>
+    </message>
+    <message>
+        <source>LightGoldenrodYellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTGOLDENRODYELLOW</comment>
+        <translation>亮菊黄</translation>
+    </message>
+    <message>
+        <source>Ivory</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_IVORY</comment>
+        <translation>象牙色</translation>
+    </message>
+    <message>
+        <source>LightYellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTYELLOW</comment>
+        <translation>浅黄色</translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_YELLOW</comment>
+        <translation>黄色</translation>
+    </message>
+    <message>
+        <source>Olive</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_OLIVE</comment>
+        <translation>橄榄绿</translation>
+    </message>
+    <message>
+        <source>DarkKhaki</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKKHAKI</comment>
+        <translation>深灰绿</translation>
+    </message>
+    <message>
+        <source>LemonChiffon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LEMONCHIFFON</comment>
+        <translation>柠檬绸</translation>
+    </message>
+    <message>
+        <source>PaleGoldenrod</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PALEGOLDENROD</comment>
+        <translation>灰菊黄</translation>
+    </message>
+    <message>
+        <source>Khaki</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_KHAKI</comment>
+        <translation>黄绿色</translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GOLD</comment>
+        <translation>金色</translation>
+    </message>
+    <message>
+        <source>Cornsilk</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CORNSILK</comment>
+        <translation>玉米丝色</translation>
+    </message>
+    <message>
+        <source>Goldenrod</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GOLDENROD</comment>
+        <translation>金菊黄</translation>
+    </message>
+    <message>
+        <source>DarkGoldenrod</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKGOLDENROD</comment>
+        <translation>暗金菊黄</translation>
+    </message>
+    <message>
+        <source>FloralWhite</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_FLORALWHITE</comment>
+        <translation>花白色</translation>
+    </message>
+    <message>
+        <source>OldLace</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_OLDLACE</comment>
+        <translation>旧蕾丝</translation>
+    </message>
+    <message>
+        <source>Wheat</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_WHEAT</comment>
+        <translation>小麦色</translation>
+    </message>
+    <message>
+        <source>Moccasin</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MOCCASIN</comment>
+        <translation>鹿皮靴</translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ORANGE</comment>
+        <translation>橙色</translation>
+    </message>
+    <message>
+        <source>PapayaWhip</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PAPAYAWHIP</comment>
+        <translation>番木瓜</translation>
+    </message>
+    <message>
+        <source>BlanchedAlmond</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BLANCHEDALMON</comment>
+        <translation>发白的杏仁色</translation>
+    </message>
+    <message>
+        <source>NavajoWhite</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_NAVAJOWHITE</comment>
+        <translation>土著白</translation>
+    </message>
+    <message>
+        <source>AntiqueWhite</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ANTIQUEWHITE</comment>
+        <translation>古董白</translation>
+    </message>
+    <message>
+        <source>Tan</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_TAN</comment>
+        <translation>茶色</translation>
+    </message>
+    <message>
+        <source>BurlyWood</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BURLYWOOD</comment>
+        <translation>硬木色</translation>
+    </message>
+    <message>
+        <source>Bisque</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BISQUE</comment>
+        <translation>陶坯黄</translation>
+    </message>
+    <message>
+        <source>DarkOrange</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKORANGE</comment>
+        <translation>深橙色</translation>
+    </message>
+    <message>
+        <source>Linen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LINEN</comment>
+        <translation>亚麻布</translation>
+    </message>
+    <message>
+        <source>Peru</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PERU</comment>
+        <translation>秘鲁</translation>
+    </message>
+    <message>
+        <source>PeachPuff</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PEACHPUFF</comment>
+        <translation>桃肉色</translation>
+    </message>
+    <message>
+        <source>SandyBrown</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SANDYBROWN</comment>
+        <translation>沙棕色</translation>
+    </message>
+    <message>
+        <source>Chocolate</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CHOCOLATE</comment>
+        <translation>巧克力黄</translation>
+    </message>
+    <message>
+        <source>SaddleBrown</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SADDLEBROWN</comment>
+        <translation>马鞍棕色</translation>
+    </message>
+    <message>
+        <source>Seashell</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SEASHELL</comment>
+        <translation>海贝壳</translation>
+    </message>
+    <message>
+        <source>Sienna</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SIENNA</comment>
+        <translation>黄土赭色</translation>
+    </message>
+    <message>
+        <source>LightSalmon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSALMON</comment>
+        <translation>浅鲑鱼肉色</translation>
+    </message>
+    <message>
+        <source>Coral</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CORAL</comment>
+        <translation>珊瑚红</translation>
+    </message>
+    <message>
+        <source>OrangeRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ORANGERED</comment>
+        <translation>橙红色</translation>
+    </message>
+    <message>
+        <source>DarkSalmon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSALMON</comment>
+        <translation>深鲜肉色</translation>
+    </message>
+    <message>
+        <source>Tomato</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_TOMATO</comment>
+        <translation>番茄红</translation>
+    </message>
+    <message>
+        <source>MistyRose</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MISTYROSE</comment>
+        <translation>薄雾玫瑰</translation>
+    </message>
+    <message>
+        <source>Salmon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SALMON</comment>
+        <translation>鲜肉色</translation>
+    </message>
+    <message>
+        <source>Snow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SNOW</comment>
+        <translation>雪</translation>
+    </message>
+    <message>
+        <source>LightCoral</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTCORAL</comment>
+        <translation>淡珊瑚色</translation>
+    </message>
+    <message>
+        <source>RosyBrown</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ROSYBROWN</comment>
+        <translation>玫瑰棕色</translation>
+    </message>
+    <message>
+        <source>IndianRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_INDIANRED</comment>
+        <translation>印度红</translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_RED</comment>
+        <translation>红色</translation>
+    </message>
+    <message>
+        <source>Brown</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BROWN</comment>
+        <translation>褐色</translation>
+    </message>
+    <message>
+        <source>FireBrick</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_FIREBRICK</comment>
+        <translation>耐火砖</translation>
+    </message>
+    <message>
+        <source>DarkRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKRED</comment>
+        <translation>深红色</translation>
+    </message>
+    <message>
+        <source>Maroon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MAROON</comment>
+        <translation>栗色</translation>
+    </message>
+    <message>
+        <source>White</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_WHITE</comment>
+        <translation>白色</translation>
+    </message>
+    <message>
+        <source>WhiteSmoke</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_WHITESMOKE</comment>
+        <translation>白烟</translation>
+    </message>
+    <message>
+        <source>Gainsboro</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GAINSBORO</comment>
+        <translation>庚斯博罗灰色</translation>
+    </message>
+    <message>
+        <source>LightGrey</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTGREY</comment>
+        <translation>浅灰色</translation>
+    </message>
+    <message>
+        <source>Silver</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SILVER</comment>
+        <translation>银灰色</translation>
+    </message>
+    <message>
+        <source>DarkGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKGRAY</comment>
+        <translation>深灰色</translation>
+    </message>
+    <message>
+        <source>Gray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GRAY</comment>
+        <translation>灰色</translation>
+    </message>
+    <message>
+        <source>DimGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DIMGRAY</comment>
+        <translation>暗淡的灰色</translation>
+    </message>
+    <message>
+        <source>Black</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BLACK</comment>
+        <translation>黑色</translation>
+    </message>
+    <message>
+        <source>Gray-25%</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_Gray_25</comment>
+        <translation>灰色-25%</translation>
+    </message>
+    <message>
+        <source>Gray-50%</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_Gray_50</comment>
+        <translation>灰色-50%</translation>
+    </message>
+    <message>
+        <source>Top-Left To Bottom-Right</source>
+        <comment>wpp_sTooltipGradientLinearTopLefttoBottomRight</comment>
+        <translation>左上到右下</translation>
+    </message>
+    <message>
+        <source>To Down</source>
+        <comment>wpp_sTooltipGradientLinearTopRighttoBottomLeft</comment>
+        <translation>向下</translation>
+    </message>
+    <message>
+        <source>Top-Right To Bottom-Left</source>
+        <comment>wpp_sTooltipGradientLinearTopRighttoBottomLeft</comment>
+        <translation>右上到左下</translation>
+    </message>
+    <message>
+        <source>To Right</source>
+        <comment>wpp_sTooltipGradientlinearRight</comment>
+        <translation>到右侧</translation>
+    </message>
+    <message>
+        <source>To Left</source>
+        <comment>wpp_sTooltipGradientlinearLeft</comment>
+        <translation>到左侧</translation>
+    </message>
+    <message>
+        <source>Bottom-Left To Top-Right</source>
+        <comment>wpp_sTooltipGradientLinearBottomLefttoTopRight</comment>
+        <translation>左下到右上</translation>
+    </message>
+    <message>
+        <source>To Up</source>
+        <comment>wpp_sTooltipGradientLinearUp</comment>
+        <translation>向上</translation>
+    </message>
+    <message>
+        <source>Bottom-Right To Top-Left</source>
+        <comment>wpp_sTooltipGradientLinearBottomRighttoTopLeft</comment>
+        <translation>右下到左上</translation>
+    </message>
+    <message>
+        <source>From Bottom-Right Corner</source>
+        <comment>wpp_sTooltipGradientFromBottomRightCorner</comment>
+        <translation>从右下角</translation>
+    </message>
+    <message>
+        <source>From Bottom-Left Corne</source>
+        <comment>wpp_sTooltipGradientFromBottomLeftCorner</comment>
+        <translation>从左下角</translation>
+    </message>
+    <message>
+        <source>From Center</source>
+        <comment>wpp_sTooltipGradientFromCenter</comment>
+        <translation>中心辐射</translation>
+    </message>
+    <message>
+        <source>From Top-Right Corner</source>
+        <comment>wpp_sTooltipGradientFromTopRightCorner</comment>
+        <translation>从右上角</translation>
+    </message>
+    <message>
+        <source>From Top-Left Corner</source>
+        <comment>wpp_sTooltipGradientFromTopLeftCorner</comment>
+        <translation>从左上角</translation>
+    </message>
+    <message>
+        <source>Dark1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>深色1</translation>
+    </message>
+    <message>
+        <source>Light1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>浅色1</translation>
+    </message>
+    <message>
+        <source>Dark2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>深色2</translation>
+    </message>
+    <message>
+        <source>Light2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>浅色2</translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>着色1</translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>着色2</translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>着色3</translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>着色4</translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>着色5</translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>着色6</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>超链接</translation>
+    </message>
+    <message>
+        <source>FollowedHyperlink1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>已访问的超链接</translation>
+    </message>
+    <message>
+        <source>Text1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>文本1</translation>
+    </message>
+    <message>
+        <source>Background1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>背景1</translation>
+    </message>
+    <message>
+        <source>Text2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>文本2</translation>
+    </message>
+    <message>
+        <source>Background2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>背景2</translation>
+    </message>
+    <message>
+        <source> stop: %1(belong to %2)
+ position:%3% 
+ color: %4</source>
+        <comment>wpp_sTooltipGradientStops</comment>
+        <translation>停止点：%1(属于 %2)
+位置：%3
+颜色：%4</translation>
+    </message>
+    <message>
+        <source> Light Color %1%</source>
+        <comment>wpp_sTooltipGradientLightColour</comment>
+        <translation>浅色 %1</translation>
+    </message>
+    <message>
+        <source> Dark Color %1%</source>
+        <comment>wpp_sTooltipGradientDarkColour</comment>
+        <translation>深色 %1</translation>
+    </message>
+    <message>
+        <source> Fill-</source>
+        <comment>wpp_sTooltipArtWordSolidFill</comment>
+        <translation>填充-</translation>
+    </message>
+    <message>
+        <source> GradientFill-</source>
+        <comment>wpp_sTooltipArtWordGradientFill</comment>
+        <translation>渐变填充-</translation>
+    </message>
+    <message>
+        <source> PatternFill-</source>
+        <comment>wpp_sTooltipArtWordPatternFill</comment>
+        <translation>图案填充-</translation>
+    </message>
+    <message>
+        <source> OutLine-</source>
+        <comment>wpp_sTooltipArtWordOutLine</comment>
+        <translation>轮廊-</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <comment>wpp_sTooltipPatternHorizontal</comment>
+        <translation>横线</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <comment>wpp_sTooltipPatternVertical</comment>
+        <translation>竖线</translation>
+    </message>
+    <message>
+        <source>ForwardDiagonal</source>
+        <comment>wpp_sTooltipPatternForwardDiagonal</comment>
+        <translation>前向对角线</translation>
+    </message>
+    <message>
+        <source>BackwardDiagonal</source>
+        <comment>wpp_sTooltipPatternBackwardDiagonal</comment>
+        <translation>后向对角线</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>wpp_sTooltipPatternDiagonalCross</comment>
+        <translation type="obsolete">十字</translation>
+    </message>
+    <message>
+        <source>DiagonalCross</source>
+        <comment>wpp_sTooltipPatternDiagonalCross</comment>
+        <translation>交叉对角线</translation>
+    </message>
+    <message>
+        <source>5%</source>
+        <comment>wpp_sTooltipPattern05Percent</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>10%</source>
+        <comment>wpp_sTooltipPattern10Percent</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>20%</source>
+        <comment>wpp_sTooltipPattern20Percent</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>25%</source>
+        <comment>wpp_sTooltipPattern25Percent</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>30%</source>
+        <comment>wpp_sTooltipPattern30Percent</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>40%</source>
+        <comment>wpp_sTooltipPattern40Percent</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>50%</source>
+        <comment>wpp_sTooltipPattern50Percent</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>60%</source>
+        <comment>wpp_sTooltipPattern60Percent</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>70%</source>
+        <comment>wpp_sTooltipPattern70Percent</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>75%</source>
+        <comment>wpp_sTooltipPattern75Percent</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>80%</source>
+        <comment>wpp_sTooltipPattern80Percent</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>90%</source>
+        <comment>wpp_sTooltipPattern90Percent</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>LightDownwardDiagonal</source>
+        <comment>wpp_sTooltipPatternLightDownwardDiagonal</comment>
+        <translation>浅色下对角线</translation>
+    </message>
+    <message>
+        <source>LightUpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternLightUpwardDiagonal</comment>
+        <translation>浅色上对角线</translation>
+    </message>
+    <message>
+        <source>DarkDownwardDiagonal	</source>
+        <comment>wpp_sTooltipPatternDarkDownwardDiagonal</comment>
+        <translation>深色下对角线</translation>
+    </message>
+    <message>
+        <source>DarkUpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternDarkUpwardDiagonal</comment>
+        <translation>深色上对角线</translation>
+    </message>
+    <message>
+        <source>WideDownwardDiagonal</source>
+        <comment>wpp_sTooltipPatternWideDownwardDiagonal</comment>
+        <translation>宽下对角线</translation>
+    </message>
+    <message>
+        <source>WideUpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternWideUpwardDiagonal</comment>
+        <translation>宽上对角线</translation>
+    </message>
+    <message>
+        <source>LightVertical</source>
+        <comment>wpp_sTooltipPatternLightVertical</comment>
+        <translation>浅色竖线</translation>
+    </message>
+    <message>
+        <source>LightHorizontal</source>
+        <comment>wpp_sTooltipPatternLightHorizontal</comment>
+        <translation>浅色横线</translation>
+    </message>
+    <message>
+        <source>NarrowVertical</source>
+        <comment>wpp_sTooltipPatternNarrowVertical</comment>
+        <translation>窄竖线</translation>
+    </message>
+    <message>
+        <source>NarrowHorizontal</source>
+        <comment>wpp_sTooltipPatternNarrowHorizontal</comment>
+        <translation type="obsolete">窄横线</translation>
+    </message>
+    <message>
+        <source>DarkVertical </source>
+        <comment>wpp_sTooltipPatternDarkVertical</comment>
+        <translation type="obsolete">深色竖线</translation>
+    </message>
+    <message>
+        <source>DarkHorizontal</source>
+        <comment>wpp_sTooltipPatternDarkHorizontal</comment>
+        <translation>深色横线</translation>
+    </message>
+    <message>
+        <source>DashedDownwardDiagonal</source>
+        <comment>wpp_sTooltipPatternDashedDownwardDiagonal</comment>
+        <translation>下对角虚线</translation>
+    </message>
+    <message>
+        <source>DashedUpwardDiagonal	</source>
+        <comment>wpp_sTooltipPatternDashedUpwardDiagonal</comment>
+        <translation>上对角虚线</translation>
+    </message>
+    <message>
+        <source>DashedHorizontal	</source>
+        <comment>wpp_sTooltipPatternDashedHorizontal</comment>
+        <translation>横虚线</translation>
+    </message>
+    <message>
+        <source>DashedVertical</source>
+        <comment>wpp_sTooltipPatternDashedVertical</comment>
+        <translation>竖虚线</translation>
+    </message>
+    <message>
+        <source>SmallConfetti</source>
+        <comment>wpp_sTooltipPatternSmallConfetti</comment>
+        <translation>小纸屑</translation>
+    </message>
+    <message>
+        <source>LargeConfetti</source>
+        <comment>wpp_sTooltipPatternLargeConfetti</comment>
+        <translation>大纸屑</translation>
+    </message>
+    <message>
+        <source>ZigZag</source>
+        <comment>wpp_sTooltipPatternZigZag</comment>
+        <translation>之字形</translation>
+    </message>
+    <message>
+        <source>Wave	</source>
+        <comment>wpp_sTooltipPatternWave	</comment>
+        <translation>波形</translation>
+    </message>
+    <message>
+        <source>DiagonalBrick</source>
+        <comment>wpp_sTooltipPatternDiagonalBrick</comment>
+        <translation>对角砖形</translation>
+    </message>
+    <message>
+        <source>HorizontalBrick</source>
+        <comment>wpp_sTooltipPatternHorizontalBrick</comment>
+        <translation>横向砖形</translation>
+    </message>
+    <message>
+        <source>PatternWeave</source>
+        <comment>wpp_sTooltipPatternWeave</comment>
+        <translation>编织物</translation>
+    </message>
+    <message>
+        <source>PatternPlaid</source>
+        <comment>wpp_sTooltipPatternPlaid</comment>
+        <translation>苏格兰方格呢</translation>
+    </message>
+    <message>
+        <source>PatternDivot</source>
+        <comment>wpp_sTooltipPatternDivot</comment>
+        <translation>草皮</translation>
+    </message>
+    <message>
+        <source>DottedGrid</source>
+        <comment>wpp_sTooltipPatternDottedGrid</comment>
+        <translation>点网格</translation>
+    </message>
+    <message>
+        <source>DottedDiamond</source>
+        <comment>wpp_sTooltipPatternDottedDiamond</comment>
+        <translation>点菱形</translation>
+    </message>
+    <message>
+        <source>PatternShingle</source>
+        <comment>wpp_sTooltipPatternShingle</comment>
+        <translation>木瓦板</translation>
+    </message>
+    <message>
+        <source>PatternTrellis</source>
+        <comment>wpp_sTooltipPatternTrellis</comment>
+        <translation>格架</translation>
+    </message>
+    <message>
+        <source>PatternSphere</source>
+        <comment>wpp_sTooltipPatternSphere</comment>
+        <translation>球体</translation>
+    </message>
+    <message>
+        <source>SmallGrid</source>
+        <comment>wpp_sToolwpp_sTooltipPatternSmallGridtipPatternSmallGrid</comment>
+        <translation>小网格</translation>
+    </message>
+    <message>
+        <source>SmallCheckerBoard</source>
+        <comment>wpp_sTooltipPatternSmallCheckerBoard</comment>
+        <translation>小棋盘</translation>
+    </message>
+    <message>
+        <source>LargeCheckerBoard</source>
+        <comment>wpp_sTooltipPatternLargeCheckerBoard</comment>
+        <translation>大棋盘</translation>
+    </message>
+    <message>
+        <source>OutlinedDiamond</source>
+        <comment>wpp_sTooltipPatternOutlinedDiamond</comment>
+        <translation>轮廊式菱形</translation>
+    </message>
+    <message>
+        <source>SolidDiamond</source>
+        <comment>wpp_sTooltipPatternSolidDiamond</comment>
+        <translation>实心菱形</translation>
+    </message>
+    <message>
+        <source>DownwardDiagnal</source>
+        <comment>wpp_sTooltipPatternDownwardDiagnal</comment>
+        <translation>下对角线</translation>
+    </message>
+    <message>
+        <source>UpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternUpwardDiagonal</comment>
+        <translation>上对角线</translation>
+    </message>
+    <message>
+        <source>LargeGrid</source>
+        <comment>wpp_sTooltipPatternLargeGrid</comment>
+        <translation>大网格</translation>
+    </message>
+    <message>
+        <source> InnerShadow</source>
+        <comment>wpp_sTooltipEffectInnerShadow</comment>
+        <translation> 内部阴影</translation>
+    </message>
+    <message>
+        <source> Shadow</source>
+        <comment>wpp_sTooltipEffectInnerShadow</comment>
+        <translation> 阴影</translation>
+    </message>
+    <message>
+        <source> ClearShadow-%1</source>
+        <comment>wpp_sTooltipEffectClearShadow</comment>
+        <translation>清晰阴影-%1</translation>
+    </message>
+    <message>
+        <source>Clear </source>
+        <comment>wpp_sTooltipMaterialTypeClear</comment>
+        <translation>清晰</translation>
+    </message>
+    <message>
+        <source>DarkEdge </source>
+        <comment>wpp_sTooltipMaterialTypeDarkEdge</comment>
+        <translation>硬边缘</translation>
+    </message>
+    <message>
+        <source>Flat </source>
+        <comment>wpp_sTooltipMaterialTypeFlat</comment>
+        <translation>平面</translation>
+    </message>
+    <message>
+        <source>Matte </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyMatte</comment>
+        <translation>磨砂</translation>
+    </message>
+    <message>
+        <source>Metal </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyMetal</comment>
+        <translation>金属效果</translation>
+    </message>
+    <message>
+        <source>Plastic </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyPlastic</comment>
+        <translation>塑料</translation>
+    </message>
+    <message>
+        <source>Wireframe </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyWireframe</comment>
+        <translation>线框</translation>
+    </message>
+    <message>
+        <source>Matte </source>
+        <comment>wpp_sTooltipMaterialTypeMatte</comment>
+        <translation>粗糙</translation>
+    </message>
+    <message>
+        <source>Metal </source>
+        <comment>wpp_sTooltipMaterialTypeMetal</comment>
+        <translation>金属</translation>
+    </message>
+    <message>
+        <source>Plastic </source>
+        <comment>wpp_sTooltipMaterialTypePlastic</comment>
+        <translation>塑料</translation>
+    </message>
+    <message>
+        <source>Powder </source>
+        <comment>wpp_sTooltipMaterialTypePowder</comment>
+        <translation>粉</translation>
+    </message>
+    <message>
+        <source>SoftEdge </source>
+        <comment>wpp_sTooltipMaterialTypeSoftEdge</comment>
+        <translation>软边缘</translation>
+    </message>
+    <message>
+        <source>SoftMetal </source>
+        <comment>wpp_sTooltipMaterialTypeSoftMetal</comment>
+        <translation>软金属</translation>
+    </message>
+    <message>
+        <source>TranslucentPowder </source>
+        <comment>wpp_sTooltipMaterialTypeTranslucentPowder</comment>
+        <translation>半透明粉</translation>
+    </message>
+    <message>
+        <source>WarmMatte </source>
+        <comment>wpp_sTooltipMaterialTypeWarmMatte</comment>
+        <translation>暖色粗糙</translation>
+    </message>
+    <message>
+        <source>DarkColor%1</source>
+        <comment>wpp_sTooltipShapeStyleDarkColor</comment>
+        <translation>深色%1</translation>
+    </message>
+    <message>
+        <source>HightLight%1</source>
+        <comment>wpp_sTooltipShapeStyleHightlightColor</comment>
+        <translation>强调颜色%1</translation>
+    </message>
+    <message>
+        <source>ColorOutLine-</source>
+        <comment>wpp_sTooltipShapeStyleColorOutLine</comment>
+        <translation>彩色轮廊-</translation>
+    </message>
+    <message>
+        <source>ColorFill-</source>
+        <comment>wpp_sTooltipShapeStyleColorFill</comment>
+        <translation>纯色填充-</translation>
+    </message>
+    <message>
+        <source>LightColor_1_OutLine,Color Fill-</source>
+        <comment>wpp_sTooltipShapeStyleLightColor_1_OutLineFill</comment>
+        <translation>浅色1 轮廊，彩色填充-</translation>
+    </message>
+    <message>
+        <source>SubtleEffect-</source>
+        <comment>wpp_sTooltipShapeStyleSubtleEffect</comment>
+        <translation>细微效果-</translation>
+    </message>
+    <message>
+        <source>ModerateEffect-</source>
+        <comment>wpp_sTooltipShapeStyleModerateEffect</comment>
+        <translation>中等效果-</translation>
+    </message>
+    <message>
+        <source>IntenseEffect-</source>
+        <comment>wpp_sTooltipShapeStyleIntenseEffect</comment>
+        <translation>强烈效果-</translation>
+    </message>
+    <message>
+        <source>SubtleLine-</source>
+        <comment>wpp_sTooltipShapeStyleIntenseLine</comment>
+        <translation>细微线-</translation>
+    </message>
+    <message>
+        <source>ModerateLine-</source>
+        <comment>wpp_sTooltipShapeStyleModerateLine</comment>
+        <translation>中等线-</translation>
+    </message>
+    <message>
+        <source>IntenseLine-</source>
+        <comment>wpp_sTooltipShapeStyleIntenseLine</comment>
+        <translation>强调线-</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>wpp_sTooltipArtWordPatternFill</comment>
+        <translation>十字线</translation>
+    </message>
+    <message>
+        <source>NarrowHorizontal</source>
+        <comment>wpp_sTooltipPatternDarkVertical</comment>
+        <translation>窄横线</translation>
+    </message>
+    <message>
+        <source>DarkVertical </source>
+        <comment>wpp_sTooltipPatternDarkHorizontal</comment>
+        <translation>深色竖线</translation>
+    </message>
+    <message>
+        <source>Decagon</source>
+        <comment>DRAWING2_TOOLTIP_DECAGON</comment>
+        <translation>十边形</translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_NONE</comment>
+        <translation>无阴影</translation>
+    </message>
+    <message>
+        <source>Right-Down Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTDOWNOFFSET</comment>
+        <translation>右下斜偏移</translation>
+    </message>
+    <message>
+        <source>Down Offset	</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_DOWNOFFSET</comment>
+        <translation>向下偏移</translation>
+    </message>
+    <message>
+        <source>Left-Down Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTDOWNOFFSET</comment>
+        <translation>左下斜偏移</translation>
+    </message>
+    <message>
+        <source>Right Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTOFFSET</comment>
+        <translation>向右偏移</translation>
+    </message>
+    <message>
+        <source>Center Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_CENTEROFFSET</comment>
+        <translation>居中偏移</translation>
+    </message>
+    <message>
+        <source>Left Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTOFFSET</comment>
+        <translation>向左偏移</translation>
+    </message>
+    <message>
+        <source>Right-Up Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTUPOFFSET</comment>
+        <translation>右上斜偏移</translation>
+    </message>
+    <message>
+        <source>Up Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_UPOFFSET</comment>
+        <translation>向上偏移</translation>
+    </message>
+    <message>
+        <source>Left-Up Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTUPOFFSET</comment>
+        <translation>左上斜偏移</translation>
+    </message>
+    <message>
+        <source>Inner Left-UP Corner</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFTUP</comment>
+        <translation>内部左上角</translation>
+    </message>
+    <message>
+        <source>InnerUp</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERUP</comment>
+        <translation>内部向上</translation>
+    </message>
+    <message>
+        <source>Inner Right-Up Corner</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHTUP</comment>
+        <translation>内部右上角</translation>
+    </message>
+    <message>
+        <source>Inner Left</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFT</comment>
+        <translation>内部向左</translation>
+    </message>
+    <message>
+        <source>Inner Center</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERCENTER</comment>
+        <translation>内部居中</translation>
+    </message>
+    <message>
+        <source>Inner Right</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHT</comment>
+        <translation>内部向右</translation>
+    </message>
+    <message>
+        <source>Inner Left-Down Corner</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFTDOWN</comment>
+        <translation>内部左下角</translation>
+    </message>
+    <message>
+        <source>Inner Down</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERDOWN</comment>
+        <translation>内部向下</translation>
+    </message>
+    <message>
+        <source>Inner Right-Down Corner</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHTDOWN</comment>
+        <translation>内部右下角</translation>
+    </message>
+    <message>
+        <source>Left-Up Corner Perspective</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTUPCORNERPERSPECTIVE</comment>
+        <translation>左上对角透视</translation>
+    </message>
+    <message>
+        <source>Right-Up Corner Perspective</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTUPCORNERPERSPECTIVE</comment>
+        <translation>右上对角透视</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_DOWN</comment>
+        <translation>靠下</translation>
+    </message>
+    <message>
+        <source>Left-Down Corner Perspective</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTDOWNCORNERPERSPECTIVE</comment>
+        <translation>左下对角透视</translation>
+    </message>
+    <message>
+        <source>Right-Down Corner Perspective</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTDOWNCORNERPERSPECTIVE</comment>
+        <translation>右下对角透视</translation>
+    </message>
+    <message>
+        <source>No Reflection</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_NONE</comment>
+        <translation>无倒影</translation>
+    </message>
+    <message>
+        <source>Close-Image,Touch</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_TOUCH</comment>
+        <translation>紧密倒影，接触</translation>
+    </message>
+    <message>
+        <source>Hla-fImage,Touch</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_TOUCH</comment>
+        <translation>半倒影，接触</translation>
+    </message>
+    <message>
+        <source>Whole-Iamge,Touch</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_TOUCH</comment>
+        <translation>全倒影，接触</translation>
+    </message>
+    <message>
+        <source>Close-Image,4 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_4PT_OFFSET</comment>
+        <translation>紧密倒影，4 pt 偏移量</translation>
+    </message>
+    <message>
+        <source>Hlaf-Image,4 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_4PT_OFFSET</comment>
+        <translation>半倒影，4 pt 偏移量</translation>
+    </message>
+    <message>
+        <source>Whole-Iamge,4 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_4PT_OFFSET</comment>
+        <translation>全倒影，4 pt 偏移量</translation>
+    </message>
+    <message>
+        <source>Close-Image,8 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_8PT_OFFSET</comment>
+        <translation>紧密倒影，8 pt 偏移量</translation>
+    </message>
+    <message>
+        <source>Hlaf-Image,8 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_8PT_OFFSET</comment>
+        <translation>半倒影，8 pt 偏移量</translation>
+    </message>
+    <message>
+        <source>Whole-Iamge,8 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_8PT_OFFSET</comment>
+        <translation>全倒影，8 pt 偏移量</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_NONE</comment>
+        <translation>无</translation>
+    </message>
+    <message>
+        <source>Up Arc</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_UPARC</comment>
+        <translation>上弯弧</translation>
+    </message>
+    <message>
+        <source>Down Arc</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_DOWNARC</comment>
+        <translation>下弯弧</translation>
+    </message>
+    <message>
+        <source>Circle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_CIRCLE</comment>
+        <translation>圆</translation>
+    </message>
+    <message>
+        <source>Button</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_BUTTON</comment>
+        <translation>按钮</translation>
+    </message>
+    <message>
+        <source>Rectuangle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_RECTUANGLE</comment>
+        <translation>正方形</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_STOP</comment>
+        <translation>停止</translation>
+    </message>
+    <message>
+        <source>Triangle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_TRIANGLE</comment>
+        <translation>正三角</translation>
+    </message>
+    <message>
+        <source>Inverted Triangle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_INVERTEDTRIANGLE</comment>
+        <translation>倒三角</translation>
+    </message>
+    <message>
+        <source>V-shape</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_VSHAPE</comment>
+        <translation>倒V形</translation>
+    </message>
+    <message>
+        <source>Inverted V-shape</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_INVERTEDVSHAPE</comment>
+        <translation>正V形</translation>
+    </message>
+    <message>
+        <source>Clockwise</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_CLOCKWISE</comment>
+        <translation>顺时针</translation>
+    </message>
+    <message>
+        <source>Anti-Clockwise</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_ANTICLOCKWISE</comment>
+        <translation>逆时针</translation>
+    </message>
+    <message>
+        <source>UpArc</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_UPARC</comment>
+        <translation>上弯弧</translation>
+    </message>
+    <message>
+        <source>DownArc</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOWNARC</comment>
+        <translation>下弯弧</translation>
+    </message>
+    <message>
+        <source>Circle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_CIRCLE</comment>
+        <translation>圆形</translation>
+    </message>
+    <message>
+        <source>Button</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BUTTON</comment>
+        <translation>按钮形</translation>
+    </message>
+    <message>
+        <source>Left Horn</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTHORN</comment>
+        <translation>左牛角形</translation>
+    </message>
+    <message>
+        <source>Right Horn</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_RIGHTHORN</comment>
+        <translation>右牛角形</translation>
+    </message>
+    <message>
+        <source>Both Ends Near</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BOTHENDSNEAR</comment>
+        <translation>两端近</translation>
+    </message>
+    <message>
+        <source>Both Ends Far</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BOTHENDSFAR</comment>
+        <translation>两端远</translation>
+    </message>
+    <message>
+        <source>Wave1</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_WAVE1</comment>
+        <translation>波形1</translation>
+    </message>
+    <message>
+        <source>Wave2</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_WAVE2</comment>
+        <translation>波形2</translation>
+    </message>
+    <message>
+        <source>DoubleWave1</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOUBLEWAVE1</comment>
+        <translation>双波形1</translation>
+    </message>
+    <message>
+        <source>DoubleWave2</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOUBLEWAVE2</comment>
+        <translation>双波形2</translation>
+    </message>
+    <message>
+        <source>Waist Drum</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_WAISTDRUM</comment>
+        <translation>腰鼓</translation>
+    </message>
+    <message>
+        <source>korean Drum</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_KOREANDRUM</comment>
+        <translation>朝鲜鼓</translation>
+    </message>
+    <message>
+        <source>Top-Shape</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_TOPSHAPE</comment>
+        <translation>陀螺形</translation>
+    </message>
+    <message>
+        <source>Brige-Shape</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BRIGESHAPE</comment>
+        <translation>桥形</translation>
+    </message>
+    <message>
+        <source>Mountain</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_MOUNTAIN</comment>
+        <translation>山形</translation>
+    </message>
+    <message>
+        <source>Groove</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_GROOVE</comment>
+        <translation>槽形</translation>
+    </message>
+    <message>
+        <source>Sigle Tunnel</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_SIGLETUNNEL</comment>
+        <translation>单地道</translation>
+    </message>
+    <message>
+        <source>Double Turnnel</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOUBLETURNNEL</comment>
+        <translation>双地道</translation>
+    </message>
+    <message>
+        <source>Left-Near Right-Far</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTNEARRIGHTFAR</comment>
+        <translation>左近右远</translation>
+    </message>
+    <message>
+        <source>Left-Far Right-Near</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTFARRIGHTNEAR</comment>
+        <translation>左远右近</translation>
+    </message>
+    <message>
+        <source>Trapezoid</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_TRAPEZOID</comment>
+        <translation>梯形</translation>
+    </message>
+    <message>
+        <source>Inverted Trapezoid</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_INVERTEDTRAPEZOID</comment>
+        <translation>倒梯形</translation>
+    </message>
+    <message>
+        <source>Left Collar</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTCOLLAR</comment>
+        <translation>左领章</translation>
+    </message>
+    <message>
+        <source>Right Collar</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_RIGHTCOLLAR</comment>
+        <translation>右领章</translation>
+    </message>
+    <message>
+        <source>Forward-Near BakckWord-Far</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_FORWARDNEARBAKCKWORDFAR</comment>
+        <translation>前近后远</translation>
+    </message>
+    <message>
+        <source>Forward-Far BakckWord-Near</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_FORWARDFARBAKCKWORDNEAR</comment>
+        <translation>前远后近</translation>
+    </message>
+    <message>
+        <source>No Bevel</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_None</comment>
+        <translation>无棱台</translation>
+    </message>
+    <message>
+        <source>Circle</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Circle</comment>
+        <translation>圆</translation>
+    </message>
+    <message>
+        <source>Loose Embedded</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_LooseEmbedded</comment>
+        <translation>松散嵌入</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Cross</comment>
+        <translation>十字</translation>
+    </message>
+    <message>
+        <source>CoolSlope</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_CoolSlope</comment>
+        <translation>冷色斜面</translation>
+    </message>
+    <message>
+        <source>Angle</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Angle</comment>
+        <translation>角度</translation>
+    </message>
+    <message>
+        <source>Soft Circle	</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_SoftCircle</comment>
+        <translation>柔圆</translation>
+    </message>
+    <message>
+        <source>Heave</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Heave</comment>
+        <translation>凸起</translation>
+    </message>
+    <message>
+        <source>Slope</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Slope</comment>
+        <translation>斜面</translation>
+    </message>
+    <message>
+        <source>Turf</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Turf</comment>
+        <translation>草皮</translation>
+    </message>
+    <message>
+        <source>Ribbed</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Ribbed</comment>
+        <translation>棱纹</translation>
+    </message>
+    <message>
+        <source>Hard Edge</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_HardEdge</comment>
+        <translation>硬边缘</translation>
+    </message>
+    <message>
+        <source>Art Decoration</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_ArtDecoration</comment>
+        <translation>艺术装饰</translation>
+    </message>
+    <message>
+        <source>Matt Effect</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_MATT</comment>
+        <translation>亚光效果</translation>
+    </message>
+    <message>
+        <source>Warm Rough</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_WARMROUGH</comment>
+        <translation>暖色粗糙</translation>
+    </message>
+    <message>
+        <source>Plastic Effect</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_PLASTICEFFECT</comment>
+        <translation>塑料效果</translation>
+    </message>
+    <message>
+        <source>MetalEffect</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_METALEFFECT</comment>
+        <translation>金属效果</translation>
+    </message>
+    <message>
+        <source>Hard Edge</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_HARDEDGE</comment>
+        <translation>硬边缘</translation>
+    </message>
+    <message>
+        <source>Soft Edge</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_SOFTEDGE</comment>
+        <translation>软边缘</translation>
+    </message>
+    <message>
+        <source>Plane</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_PLANE</comment>
+        <translation>平面</translation>
+    </message>
+    <message>
+        <source>Wire Frame</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_WIREFRAME</comment>
+        <translation>线框</translation>
+    </message>
+    <message>
+        <source>Powder</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_POWDER</comment>
+        <translation>粉</translation>
+    </message>
+    <message>
+        <source>Translucent Powder</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_TRANSLUCENTPOWDER</comment>
+        <translation>半透明粉</translation>
+    </message>
+    <message>
+        <source>MostsSperficial</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_MOSTSSPERFICIAL</comment>
+        <translation>最浅</translation>
+    </message>
+    <message>
+        <source>Three Points</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_THREEPOINTS</comment>
+        <translation>三点</translation>
+    </message>
+    <message>
+        <source>Blance</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_BLANCE</comment>
+        <translation>平衡</translation>
+    </message>
+    <message>
+        <source>Soft</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_SOFT</comment>
+        <translation>柔和</translation>
+    </message>
+    <message>
+        <source>Rough</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_ROUGH</comment>
+        <translation>粗糙</translation>
+    </message>
+    <message>
+        <source>Strong</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_STRONG</comment>
+        <translation>强烈</translation>
+    </message>
+    <message>
+        <source>Contrast</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_CONTRAST</comment>
+        <translation>对比</translation>
+    </message>
+    <message>
+        <source>Mornning</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_MORNNING</comment>
+        <translation>早晨</translation>
+    </message>
+    <message>
+        <source>SunRise</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_SUNRISE</comment>
+        <translation>日出</translation>
+    </message>
+    <message>
+        <source>SunSet</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_SUNSET</comment>
+        <translation>日落</translation>
+    </message>
+    <message>
+        <source>Cold</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_COLD</comment>
+        <translation>寒冷</translation>
+    </message>
+    <message>
+        <source>Ice Cold</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_ICE</comment>
+        <translation>冰冷</translation>
+    </message>
+    <message>
+        <source>Plane</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_PLANE</comment>
+        <translation>平面</translation>
+    </message>
+    <message>
+        <source>Two Points</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_TWOPOINTS</comment>
+        <translation>两点</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_GLOW</comment>
+        <translation>发光</translation>
+    </message>
+    <message>
+        <source>Bright Room</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_BRIGHTROOM</comment>
+        <translation>明亮的房间</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_NONE</comment>
+        <translation>无</translation>
+    </message>
+    <message>
+        <source>Isometric Lft-Down</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_ISOMETRICLFTDOWN</comment>
+        <translation>等轴左下</translation>
+    </message>
+    <message>
+        <source>Isometric Right-Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_ISOMETRICRIGHTUP</comment>
+        <translation>等轴右上</translation>
+    </message>
+    <message>
+        <source>Equiaxial Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_EQUIAXIALUP</comment>
+        <translation>等长轴朝上</translation>
+    </message>
+    <message>
+        <source>Equiaxia Down</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_EQUIAXIADOWN</comment>
+        <translation>等长轴朝下</translation>
+    </message>
+    <message>
+        <source>Off-Axis 1 Left</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1LEFT</comment>
+        <translation>离轴 1 左</translation>
+    </message>
+    <message>
+        <source>Off-Axis 1 Right</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1RIGHT</comment>
+        <translation>离轴 1 右</translation>
+    </message>
+    <message>
+        <source>Off-Axis 1 Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1UP</comment>
+        <translation>离轴 1 上</translation>
+    </message>
+    <message>
+        <source>Off-Axis 2 Left</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2LEFT</comment>
+        <translation>离轴 2 左</translation>
+    </message>
+    <message>
+        <source>Off-Axis 2 Right</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2RIGHT</comment>
+        <translation>离轴 2 右</translation>
+    </message>
+    <message>
+        <source>Off-Axis 2 Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2UP</comment>
+        <translation>离轴 2 上</translation>
+    </message>
+    <message>
+        <source>Forwoar Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_FORWOARPERSPECTIVE</comment>
+        <translation>前透视</translation>
+    </message>
+    <message>
+        <source>Left Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_LEFTPERSPECTIVE</comment>
+        <translation>左透视</translation>
+    </message>
+    <message>
+        <source>Right Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_RIGHTPERSPECTIVE</comment>
+        <translation>右透视</translation>
+    </message>
+    <message>
+        <source>Down Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_DOWNPERSPECTIVE</comment>
+        <translation>下透视</translation>
+    </message>
+    <message>
+        <source>Up Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_UPPERSPECTIVE</comment>
+        <translation>上透视</translation>
+    </message>
+    <message>
+        <source>ModeratelyLoose</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MODERATELYLOOSE</comment>
+        <translation>适度宽松</translation>
+    </message>
+    <message>
+        <source>Loose</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_LOOSE</comment>
+        <translation>宽松</translation>
+    </message>
+    <message>
+        <source>Left Right Compare Pespective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_LEFTRIGHTCOMPAREPESPECTIVE</comment>
+        <translation>左向对比透视</translation>
+    </message>
+    <message>
+        <source>Right Compare Pespective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_RIGHTCOMPAREPESPECTIVE</comment>
+        <translation>右向对比透视</translation>
+    </message>
+    <message>
+        <source>Most Left Most Big</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MOSTLEFTMOSTBIG</comment>
+        <translation>极左极大</translation>
+    </message>
+    <message>
+        <source>MostRightMostBig</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MOSTRIGHTMOSTBIG</comment>
+        <translation>极右极大</translation>
+    </message>
+    <message>
+        <source>Tilt Left Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTLEFTUP</comment>
+        <translation>倾斜左上</translation>
+    </message>
+    <message>
+        <source>Tilt Right Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTRIGHTUP</comment>
+        <translation>倾斜右上</translation>
+    </message>
+    <message>
+        <source>Tilt Left Down</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTLEFTDOWN</comment>
+        <translation>倾斜左下</translation>
+    </message>
+    <message>
+        <source>Tilt Right Down</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTRIGHTDOWN</comment>
+        <translation>倾斜右下</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SOLID</comment>
+        <translation>实线</translation>
+    </message>
+    <message>
+        <source>System Dot</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SYSDOT</comment>
+        <translation>系统点线</translation>
+    </message>
+    <message>
+        <source>System Dash</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SYSDASH</comment>
+        <translation>系统短划线</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_DASH</comment>
+        <translation>短划线</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_DASHDOT</comment>
+        <translation>短划线-点线</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_LONGDASH</comment>
+        <translation>长划线</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_LONGDASHDOT</comment>
+        <translation>长划线-点线</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_LONGDASHDOTDOT</comment>
+        <translation>长划线-点线-点线</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SINGLE</comment>
+        <translation>单线</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_DOUBLE</comment>
+        <translation>双线</translation>
+    </message>
+    <message>
+        <source>Thick-Thin </source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_THICKTHIN</comment>
+        <translation>厚薄线</translation>
+    </message>
+    <message>
+        <source>Thin-Thick</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_THINTHICK</comment>
+        <translation>薄厚线</translation>
+    </message>
+    <message>
+        <source>Triple Line</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_TRIPLE</comment>
+        <translation>三线</translation>
+    </message>
+    <message>
+        <source>Line-Style: %1
+Line-Width: %2 pt
+Line-type: %3</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SHOW</comment>
+        <translation>线条样式：%1
+线条宽度：%2 磅
+线条类型：%3</translation>
+    </message>
+    <message>
+        <source>Flowchart: Delay</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DELAY</comment>
+        <translation>流程图: 延期</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_LINE</comment>
+        <translation>线条</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_RECTANGLE</comment>
+        <translation>矩形</translation>
+    </message>
+    <message>
+        <source>Base Shape</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_NORMAL</comment>
+        <translation>基本形状</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_ARROW</comment>
+        <translation>箭头总汇</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_FORMULA</comment>
+        <translation>公式形状</translation>
+    </message>
+    <message>
+        <source>Process</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_PROCESS</comment>
+        <translation>流程图</translation>
+    </message>
+    <message>
+        <source>Star And Flag</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_STARANDFLAG</comment>
+        <translation>星与旗帜</translation>
+    </message>
+    <message>
+        <source>Callout</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_CALLOUT</comment>
+        <translation>标注</translation>
+    </message>
+    <message>
+        <source>Action Button</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_ACTION</comment>
+        <translation>动作按钮</translation>
+    </message>
+    <message>
+        <source>Single Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_SINGLE</comment>
+        <translation>单线</translation>
+    </message>
+    <message>
+        <source>Double Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOUBLE</comment>
+        <translation>双线</translation>
+    </message>
+    <message>
+        <source>Heavy Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY</comment>
+        <translation>粗线</translation>
+    </message>
+    <message>
+        <source>Dot Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOT</comment>
+        <translation>点线</translation>
+    </message>
+    <message>
+        <source>Heavy Dot Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DOT</comment>
+        <translation>粗点线</translation>
+    </message>
+    <message>
+        <source>Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DASH</comment>
+        <translation>短划线</translation>
+    </message>
+    <message>
+        <source>Heavy Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DASH</comment>
+        <translation>粗短划线</translation>
+    </message>
+    <message>
+        <source>Long Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_LONG_DASH</comment>
+        <translation>长短划线</translation>
+    </message>
+    <message>
+        <source>Heavy Long Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_LONG_DASH</comment>
+        <translation>粗长划线</translation>
+    </message>
+    <message>
+        <source>Dot Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOT_DASH</comment>
+        <translation>点划线</translation>
+    </message>
+    <message>
+        <source>Heavy Dot Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DOT_DASH</comment>
+        <translation>粗点划线</translation>
+    </message>
+    <message>
+        <source>Double Dot Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOUBLE_DOT_DASH</comment>
+        <translation>双点划线</translation>
+    </message>
+    <message>
+        <source>Heavy Double Dot Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DOUBLE_DOT_DASH</comment>
+        <translation>粗双点划线</translation>
+    </message>
+    <message>
+        <source>Wavy Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_WAVY</comment>
+        <translation>波浪线</translation>
+    </message>
+    <message>
+        <source>Heavy Wavy Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_WAVY</comment>
+        <translation>粗波浪线</translation>
+    </message>
+    <message>
+        <source>Double Wavy Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOUBLE_WAVY</comment>
+        <translation>双波浪线</translation>
+    </message>
+    <message>
+        <source>The font &apos;</source>
+        <comment>DRAWING2_FontNameNotExisitFirstHalf</comment>
+        <translation>您设置的字体 “</translation>
+    </message>
+    <message>
+        <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
+        <comment>DRAWING2_FontNameNotExisitSecondHalf</comment>
+        <translation>” 对您的系统无效,是否继续使用该字体?</translation>
+    </message>
+    <message>
+        <source>Solid Line</source>
+        <comment>DRAWING2_LINE_NAME_SOLID</comment>
+        <translation>实线</translation>
+    </message>
+    <message>
+        <source>Circle Point</source>
+        <comment>DRAWING2_LINE_NAME_CIRCLEPOINT</comment>
+        <translation>圆点</translation>
+    </message>
+    <message>
+        <source>Square Point</source>
+        <comment> DRAWING2_LINE_NAME_SQUAREPOINT</comment>
+        <translation>方点</translation>
+    </message>
+    <message>
+        <source>Dash line</source>
+        <comment>DRAWING2_LINE_NAME_DASHLINE</comment>
+        <translation>短划线</translation>
+    </message>
+    <message>
+        <source>Dash Line-Point</source>
+        <comment>DRAWING2_LINE_NAME_DASHLINEPOINT</comment>
+        <translation>划线-点</translation>
+    </message>
+    <message>
+        <source>Lone Dash Line</source>
+        <comment>DRAWING2_LINE_NAME_LONGDASHLINE</comment>
+        <translation>长划线</translation>
+    </message>
+    <message>
+        <source>Lone Dash Line-Point</source>
+        <comment>DRAWING2_LINE_NAME_LONGDASHLINEPOINT</comment>
+        <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>Lone Dash Line-Point-Point</source>
+        <comment>DRAWING2_LINE_NAME_LONGDASHLINEPOINTPOINT</comment>
+        <translation>长划线-点-点</translation>
+    </message>
+    <message>
+        <source>Sigle Line</source>
+        <comment>DRAWING2_LINE_TYPE_SIGLELINE</comment>
+        <translation>单线</translation>
+    </message>
+    <message>
+        <source>Double Lines</source>
+        <comment>DRAWING2_LINE_TYPE_DOUBLEINE</comment>
+        <translation>双线</translation>
+    </message>
+    <message>
+        <source>Coarse To Fine</source>
+        <comment>DRAWING2_LINE_TYPE_COARSETOFINE</comment>
+        <translation>由粗到细</translation>
+    </message>
+    <message>
+        <source>Fine To Coarse</source>
+        <comment>DRAWING2_LINE_TYPE_FINETOCOARSE</comment>
+        <translation>由细到粗</translation>
+    </message>
+    <message>
+        <source>Three Lines</source>
+        <comment>DRAWING2_LINE_TYPE_THREELINE</comment>
+        <translation>三线</translation>
+    </message>
+    <message>
+        <source>No Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_NONE</comment>
+        <translation>无箭头</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_ARROE</comment>
+        <translation>箭头</translation>
+    </message>
+    <message>
+        <source>Open Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_OPEN</comment>
+        <translation>开放型箭头</translation>
+    </message>
+    <message>
+        <source>Dovetail Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_DOVETAIL</comment>
+        <translation>燕尾型箭头</translation>
+    </message>
+    <message>
+        <source>Diamond Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_DIAMOND</comment>
+        <translation>钻石型箭头</translation>
+    </message>
+    <message>
+        <source>Circle Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_CIRCLE</comment>
+        <translation>圆型箭头</translation>
+    </message>
+    <message>
+        <source>Left Arrow %1</source>
+        <comment>DRAWING2_LINE_ARROW_LEFT</comment>
+        <translation>左箭头 %1</translation>
+    </message>
+    <message>
+        <source>Right Arrow %1</source>
+        <comment>DRAWING2_LINE_ARROW_RIGHT</comment>
+        <translation>右箭头 %1</translation>
+    </message>
+    <message>
+        <source>AutoShape</source>
+        <comment>DRAWINGSTR_AUTOSHAPE</comment>
+        <translation>自选图形</translation>
+    </message>
+    <message>
+        <source>WordArt</source>
+        <comment>DRAWINGSTR_WORDART</comment>
+        <translation>艺术字</translation>
+    </message>
+    <message>
+        <source>Deep Red</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_DEEPRED</comment>
+        <translation>深红</translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_RED</comment>
+        <translation>红色</translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_ORANGE</comment>
+        <translation>橙色</translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_YELLOW</comment>
+        <translation>黄色</translation>
+    </message>
+    <message>
+        <source>Micro Green</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_MICROGREEN</comment>
+        <translation>浅绿</translation>
+    </message>
+    <message>
+        <source>Greeen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_GREEEN</comment>
+        <translation>绿色</translation>
+    </message>
+    <message>
+        <source>Micro Blue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_MICROBLUE</comment>
+        <translation>浅蓝</translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_BLUE</comment>
+        <translation>蓝色</translation>
+    </message>
+    <message>
+        <source>Deep Blue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_DEEPBLUE</comment>
+        <translation>深蓝</translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_VIOLET</comment>
+        <translation>紫色</translation>
+    </message>
+    <message>
+        <source>Canvas</source>
+        <comment>DRAWING2STR_CANVAS</comment>
+        <translation>画布</translation>
+    </message>
 </context>
 <context>
     <name>kso_filter</name>
     <message>
         <source>(beta) Single Web Page File</source>
         <comment>_KsoFileFormatDesc_MHT_File</comment>
-        <translation>单一网页文件</translation>
+        <translation type="obsolete">单一网页文件</translation>
     </message>
     <message>
         <source>All Writer Documents</source>
@@ -3274,12 +7992,22 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Chinese Office Software Document Format 2.0</source>
         <comment>_WpioDesc_UOF2</comment>
-        <translation type="unfinished"></translation>
+        <translation>中文办公软件文档格式 2.0</translation>
     </message>
     <message>
         <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
         <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
-        <translation type="unfinished"></translation>
+        <translation>作者希望您以只读方式打开此文件，除非您需要进行更改。是否以只读方式打开?</translation>
+    </message>
+    <message>
+        <source>Single Web Page File</source>
+        <comment>_KsoFileFormatDesc_MHT_File</comment>
+        <translation>单一网页文件</translation>
+    </message>
+    <message>
+        <source>Word XML Document</source>
+        <comment>_KsoDesc_07Xml</comment>
+        <translation>Word XML 文档</translation>
     </message>
 </context>
 <context>
@@ -4051,82 +8779,82 @@ File: %s
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PER_VN</comment>
-        <translation>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</translation>
+        <translation type="obsolete">This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_Debug</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_EDU_CHN</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_OEM_CHN</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_CHN</comment>
-        <translation>本软件产品仅限于个人用户基于个人目的使用，禁止将本软件用于生产、经营等商业用途或者其它用途。||本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件产品仅限于个人用户基于个人目的使用，禁止将本软件用于生产、经营等商业用途或者其它用途。||本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_USA</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN_TEST</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_JPN</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_USA</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_VN</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_for_windows_version</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
         <comment>_kso_ksoThanksTo_for_linux_version</comment>
-        <translation>本软件包括: The FreeType Project, 根据其The FreeType License的授权条款获得免费授权;哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术;Hunspell拼写检查库, Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码;方正字体，根据方正官方授权用于WPS Office Linux版使用。</translation>
+        <translation>本软件包括: The FreeType Project, 根据其The FreeType License的授权条款获得免费授权;哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术;Hunspell拼写检查库, Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码;方正字体，根据方正官方授权用于 WPS Office Linux 版使用。</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT</comment>
-        <translation>本軟體包括：The FreeType Project，根據其The FreeType License的授權條款獲得免費授權； 哈工大資訊檢索研究所提供中文分詞、拼寫檢查、拼音標注和中文簡繁轉換技術。</translation>
+        <translation type="obsolete">本軟體包括：The FreeType Project，根據其The FreeType License的授權條款獲得免費授權； 哈工大資訊檢索研究所提供中文分詞、拼寫檢查、拼音標注和中文簡繁轉換技術。</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Home</comment>
-        <translation>本軟體包括：The FreeType Project，根據其The FreeType License的授權條款獲得免費授權； 哈工大資訊檢索研究所提供中文分詞、拼寫檢查、拼音標注和中文簡繁轉換技術。</translation>
+        <translation type="obsolete">本軟體包括：The FreeType Project，根據其The FreeType License的授權條款獲得免費授權； 哈工大資訊檢索研究所提供中文分詞、拼寫檢查、拼音標注和中文簡繁轉換技術。</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Standard</comment>
-        <translation>本軟體包括：The FreeType Project，根據其The FreeType License的授權條款獲得免費授權； 哈工大資訊檢索研究所提供中文分詞、拼寫檢查、拼音標注和中文簡繁轉換技術。</translation>
+        <translation type="obsolete">本軟體包括：The FreeType Project，根據其The FreeType License的授權條款獲得免費授權； 哈工大資訊檢索研究所提供中文分詞、拼寫檢查、拼音標注和中文簡繁轉換技術。</translation>
     </message>
     <message>
         <source>Visio Files</source>
@@ -4273,257 +9001,257 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Office (Beta)</source>
         <comment>_kso_ksoProductName_Debug</comment>
-        <translation>WPS Office (Beta)</translation>
+        <translation type="obsolete">WPS Office (Beta)</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_CHN</comment>
-        <translation>WPS Office 专业版</translation>
+        <translation type="obsolete">WPS Office 专业版</translation>
     </message>
     <message>
         <source>WPS Office (test)</source>
         <comment>_kso_ksoProductName_PRO_CHN_TEST</comment>
-        <translation>WPS Office (测试版)</translation>
+        <translation type="obsolete">WPS Office (测试版)</translation>
     </message>
     <message>
         <source>WPS Office OEM</source>
         <comment>_kso_ksoProductName_OEM_CHN</comment>
-        <translation>WPS Office OEM版</translation>
+        <translation type="obsolete">WPS Office OEM版</translation>
     </message>
     <message>
         <source>WPS Office Personal</source>
         <comment>_kso_ksoProductName_PER_CHN</comment>
-        <translation>WPS Office 个人版</translation>
+        <translation type="obsolete">WPS Office 个人版</translation>
     </message>
     <message>
         <source>WPS Office Education</source>
         <comment>_kso_ksoProductName_EDU_CHN</comment>
-        <translation>WPS Office 教育版</translation>
+        <translation type="obsolete">WPS Office 教育版</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_USA</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PER_USA</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_JPN</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_VN</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer (Beta)</source>
         <comment>_kso_wpsProductName_Debug</comment>
-        <translation>WPS Writer (Beta)</translation>
+        <translation type="obsolete">WPS Writer (Beta)</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHN</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHN_TEST</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_OEM_CHN</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_CHN</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_EDU_CHN</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_USA</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_USA</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_JPN</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_VN</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Presentation (Beta)</source>
         <comment>_kso_wppProductName_Debug</comment>
-        <translation>WPS Presentation (Beta)</translation>
+        <translation type="obsolete">WPS Presentation (Beta)</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHN</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHN_TEST</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_OEM_CHN</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PER_CHN</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_EDU_CHN</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_USA</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PER_USA</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wpp_ProductName_PRO_JPN</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_VN</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Spreadsheets (Beta)</source>
         <comment>_kso_etProductName_Debug</comment>
-        <translation>WPS Spreadsheets (Beta)</translation>
+        <translation type="obsolete">WPS Spreadsheets (Beta)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHN</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHN_TEST</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_OEM_CHN</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PER_CHN</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_EDU_CHN</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_USA</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PER_USA</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_JPN</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_VN</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_CHT</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHT</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHT</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHT</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Office Personal</source>
         <comment>_kso_ksoProductName_PER_VN</comment>
-        <translation>WPS Office Personal</translation>
+        <translation type="obsolete">WPS Office Personal</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_VN</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRE_VN</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRE_VN</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office 2010 Professional Edition</source>
         <comment>_kso_ksoProductName_dev_cn</comment>
-        <translation>WPS Office 2009 专业增强版</translation>
+        <translation type="obsolete">WPS Office 2009 专业增强版</translation>
     </message>
     <message>
         <source>WPS Office Standard</source>
         <comment>_kso_ksoProductName_PRO_CHT_Standard</comment>
-        <translation>WPS Office 标准版</translation>
+        <translation type="obsolete">WPS Office 标准版</translation>
     </message>
     <message>
         <source>WPS Office Home</source>
         <comment>_kso_ksoProductName_PRO_CHT_Home</comment>
-        <translation>WPS Office 家庭版</translation>
+        <translation type="obsolete">WPS Office 家庭版</translation>
     </message>
     <message>
         <source>WPS Office Crashing Information</source>
@@ -4592,195 +9320,198 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Are you sure you want to remove permission?</source>
         <comment>_kso_kirm_Remove_Permission</comment>
-        <translation type="unfinished"></translation>
+        <translation>是否确定要删除权限？</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this stored credential? You will not be able to use this credential unless you re-enable it.</source>
         <comment>_kso_kirm_Remove_Credential</comment>
-        <translation type="unfinished"></translation>
+        <translation>是否删除已储存的凭据？您将不能使用此凭据，除非重新将其激活。</translation>
     </message>
     <message>
         <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy setting are preventing your connection, or you are experiencing intermittent network issues.</source>
         <comment>_kso_krim_Error_SelectAuthor</comment>
-        <translation type="unfinished"></translation>
+        <translation>此服务器暂时不可用。请确认已连接到此服务器。脱机工作、代理服务器设置阻止连接、遇到间歇性的网络错误时，都可能导致此错误。</translation>
     </message>
     <message>
         <source>E-mail addresses must be in the form of &apos;someone@example.com&apos;. The following e-mail address is not valid or could not be resolved: &apos;%1&apos;. Verify that this is a valid e-mail address.</source>
         <comment>_kso_krim_Error_EmailFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation>电子邮件地址必须为“someone@example.com”形式。以下电子邮件地址无效或无法解析：&apos;%1&apos;。请验证该电子邮件地址是否有效。</translation>
     </message>
     <message>
         <source>You cannot change your access level. If you want to change your access level, request that another user with Full Control change your access level.</source>
         <comment>_kso_krim_Error_ChangeOwnPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>您不能更改自己的访问权限。如果您希望修改，可请另一位具有“完全控制”权限的用户来更改您的访问权限。</translation>
     </message>
     <message>
         <source>Everyone</source>
         <comment>_kso_krim_User_Everyone</comment>
-        <translation type="unfinished"></translation>
+        <translation>所有人</translation>
     </message>
     <message>
         <source>Read</source>
         <comment>_kso_krim_Permission_Read</comment>
-        <translation type="unfinished"></translation>
+        <translation>读取</translation>
     </message>
     <message>
         <source>Change</source>
         <comment>_kso_krim_Permission_Change</comment>
-        <translation type="unfinished"></translation>
+        <translation>更改</translation>
     </message>
     <message>
         <source>Full Control</source>
         <comment>_kso_krim_Permission_FullControl</comment>
-        <translation type="unfinished"></translation>
+        <translation>完全控制</translation>
     </message>
     <message>
         <source>Custom</source>
         <comment>_kso_krim_Permission_Custom</comment>
-        <translation type="unfinished"></translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Name</source>
         <comment>_kso_krim_TableHeader_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>Access Level</source>
         <comment>_kso_krim_TableHeader_AccessLevel</comment>
-        <translation type="unfinished"></translation>
+        <translation>访问级别</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the user?</source>
         <comment>_kso_krim_Question_RemoveUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>确定要删除该用户？</translation>
     </message>
     <message>
         <source>This will set the default permission policy for all documents, workbooks, forms and presentations with restricted permission.</source>
         <comment>_kso_krim_Permission_SetDefault</comment>
-        <translation type="unfinished"></translation>
+        <translation>此操作将为所有带有受限权限的文档、工作簿、表单和演示文稿设置默认权限策略。</translation>
     </message>
     <message>
         <source>The address to request additional permissions is invalid. Enter a valid e-mail or Web address. Example: someone@example.com.</source>
         <comment>_kso_krim_Error_EmailInvalid</comment>
-        <translation type="unfinished"></translation>
+        <translation>请求附加权限的地址无效。请输入有效的电子邮件地址。例如：someone@example.com。</translation>
     </message>
     <message>
         <source>The expiration date is not valid. Enter a date between tomorrow and 2100/12/31.</source>
         <comment>_kso_krim_Error_DateInvalid</comment>
-        <translation type="unfinished"></translation>
+        <translation>到期日期无效。请输入在明天和2100/12/31之间的日期。</translation>
     </message>
     <message>
         <source>Change user...</source>
         <comment>_kso_krim_Permission_ChangeUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>换个身份...</translation>
     </message>
     <message>
         <source>Unrestricted</source>
         <comment>_kso_krim_Permission_NoExpireDate</comment>
-        <translation type="unfinished"></translation>
+        <translation>无限制</translation>
     </message>
     <message>
         <source>Yes</source>
         <comment>_kso_krim_Permission_Yes</comment>
-        <translation type="unfinished">是</translation>
+        <translation>是</translation>
     </message>
     <message>
         <source>No</source>
         <comment>_kso_krim_Permission_No</comment>
-        <translation type="unfinished">否</translation>
+        <translation>否</translation>
     </message>
     <message>
         <source>Select Names</source>
         <comment>_kso_krim_Permission_SelectNames</comment>
-        <translation type="unfinished"></translation>
+        <translation>选择名称</translation>
     </message>
     <message>
         <source>&amp;Change User</source>
         <comment>_kso_irmio_Button_ChangeUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>换个账号(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
         <comment>_kso_irmio_Button_Yes</comment>
-        <translation type="unfinished"></translation>
+        <translation>是(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
         <comment>_kso_irmio_Button_No</comment>
-        <translation type="unfinished"></translation>
+        <translation>否(&amp;N)</translation>
     </message>
     <message>
         <source>Unexpected error occurred. Please try again later or contact your system administrator.</source>
         <comment>_kso_irmio_Error_Unexpected</comment>
-        <translation type="unfinished"></translation>
+        <translation>发生意外错误。请稍后再试或联系您的系统管理员。</translation>
     </message>
     <message>
         <source>Cannot use test manifests against production servers.</source>
         <comment>_kso_irmio_Error_Production</comment>
-        <translation type="unfinished"></translation>
+        <translation>不能对生产服务器使用测试清单</translation>
     </message>
     <message>
         <source>Information Rights Management cannot operate in the presence of a debugger. Please close your debugger and try again.</source>
         <comment>_kso_irmio_Error_Debugging</comment>
-        <translation type="unfinished"></translation>
+        <translation>调试程序运行时信息权限管理不能操作。请关闭调试程序然后重试。</translation>
     </message>
     <message>
         <source>You do not have credentials that allow you to open this document.
 Do you want to open it using a different set of credentials?</source>
         <comment>_kso_irmio_Error_NoPermissionEmail</comment>
-        <translation type="unfinished"></translation>
+        <translation>您没有允许打开文档的凭据。
+是否希望使用其他系列的凭据打开？</translation>
     </message>
     <message>
         <source>Verifying your logon information for opening content with restricted permission</source>
         <comment>_kso_irmio_Verifying</comment>
-        <translation type="unfinished"></translation>
+        <translation>正在验证您的登录信息已打开受限权限内容</translation>
     </message>
     <message>
         <source>Information Rights Management(IRM) in Microsoft Office helps prevent sensitive documents and e-mail messages form being forwarded, edited or copied by unauthorized people.
 
 To use IRM you need to install the Windows Rights Management client. If you have an existing version of the Windows Rights Management client installed you will need to uninstall it first and then download the lastest version of the Windows Rights Management client. Do you want to download the lastest version now? </source>
         <comment>_kso_irmio_No_Install_IRM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office中的“信息权限管理（IRM）”有助于防止敏感文档和电子邮件被未经授权的人员转发、编辑或复制。
+
+若要使用IRM，需要先安装Windows Rights Management客户端软件。如果已安装了现有版本的Windows Rights Management客户端软件，则需要先将其卸载，然后下载最新版本的Windows Rights Management客户端软件。是否立刻下载最新版本？</translation>
     </message>
     <message>
         <source>Your session with the user account %1 has timed out. The service must verify your credentials again before you continue. If prompted, enter the username and password for %1 or loss of the document may occur.</source>
         <comment>_kso_krim_SaveNeedVerifyCredential</comment>
-        <translation type="unfinished"></translation>
+        <translation>您使用用户账户 %1 进行的会话已超时。该服务必须再次验证您的凭据，您才可继续。提示时，请输入 %1 的用户名和密码，否则可能会造成文档丢失。</translation>
     </message>
     <message>
         <source>Change Permission...</source>
         <comment>_kso_krim_Permission_ChangePermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>更改权限...</translation>
     </message>
     <message>
         <source>View Permission...</source>
         <comment>_kso_krim_Permission_ViewPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>查看权限...</translation>
     </message>
     <message>
         <source>Permission will expire within %1 days. </source>
         <comment>_kso_krim_Permission_ExpirationHint</comment>
-        <translation type="unfinished"></translation>
+        <translation>权限将在%1天后过期</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
         <comment>_kso_krim_UnrestrictedAccess</comment>
-        <translation type="unfinished"></translation>
+        <translation>未限制访问</translation>
     </message>
     <message>
         <source>Restricted Access(Read)</source>
         <comment>_kso_krim_RestrictedAccess_Read</comment>
-        <translation type="unfinished"></translation>
+        <translation>限制访问（读取）</translation>
     </message>
     <message>
         <source>Restricted Access(Change)</source>
         <comment>_kso_krim_RestrictedAccess_Change</comment>
-        <translation type="unfinished"></translation>
+        <translation>限制访问（更改）</translation>
     </message>
     <message>
         <source>Restricted Access(Full Control)</source>
         <comment>_kso_krim_RestrictedAccess_FullControl</comment>
-        <translation type="unfinished"></translation>
+        <translation>限制访问（完全控制）</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the following operations: 
@@ -4791,7 +9522,13 @@ To use IRM you need to install the Windows Rights Management client. If you have
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s 在进行定时备份操作时发生错误！您可以尝试以下操作：
+·检查备份目录的是否具有可写权限，或尝试更改备份目录；
+·[撤消]之前的操作，然后执行[保存]；
+·[另存为...]文本文件（*.txt）；
+·将内容[复制/粘贴]到新文件；
+·放弃对文件的修改。
+(%s)</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the  following operations: 
@@ -4801,54 +9538,443 @@ To use IRM you need to install the Windows Rights Management client. If you have
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s 在进行定时备份操作时发生错误！您可以尝试以下操作：
+·检查备份目录的是否具有可写权限，或尝试更改备份目录；
+·[撤消]之前的操作，然后执行[保存]；
+·将内容[复制/粘贴]到新文件；
+·放弃对文件的修改。</translation>
     </message>
     <message>
         <source>Request additional permissions...</source>
         <comment>_kso_krim_Permission_RequestPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>申请更新权限...</translation>
     </message>
     <message>
         <source>R&amp;equest permissions</source>
         <comment>_kso_irmio_Button_RequestPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>申请权限(&amp;E)</translation>
     </message>
     <message>
         <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within the Control Panel.</source>
         <comment>_kso_irmio_Error_Configuration</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS检测到您的信息权限管理配置存在问题。如果此问题继续存在，请从控制面板修复您的产品。</translation>
     </message>
     <message>
         <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
         <comment>_kso_irmio_Error_Connection</comment>
-        <translation type="unfinished"></translation>
+        <translation>此服务器暂时不可用。请确认已连接到此服务器。脱机工作、代理服务器设置阻止连接、遇到间歇性的网络错误时，都可能导致此错误。</translation>
     </message>
     <message>
         <source>The service at %1 is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
         <comment>_kso_irmio_Error_Location</comment>
-        <translation type="unfinished"></translation>
+        <translation>服务%1暂时不可用。请确认已连接到此服务器。脱机工作、代理服务器设置阻止连接、遇到间歇性的网络错误时，都可能导致此错误。</translation>
     </message>
     <message>
         <source>Cannot use feature without credentials</source>
         <comment>_kso_irmio_Error_Credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>没有凭证无法使用此功能</translation>
     </message>
     <message>
         <source>Permission for this document is currently restricted. You do not have credentials that allow you to open this document. You can: 
 1. Try changing to another user account to open the document;
 2. Request permission update from %1.</source>
         <comment>_kso_irmio_Error_No_Permission</comment>
-        <translation type="unfinished"></translation>
+        <translation>本文档已设置保护。您没有权限打开本文档。您可以选择    
+·尝试用另外一个账号打开文档；
+·向%1申请更新权限。</translation>
     </message>
     <message>
         <source>Restricted Access</source>
         <comment>_kso_kirm_Policy_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>限制访问</translation>
     </message>
     <message>
         <source>Permission is currently restricted. Only specified users can access this content. </source>
         <comment>_kso_kirm_Policy_Description</comment>
-        <translation type="unfinished"></translation>
+        <translation>权限已设限制。只有指定的用户才可访问此内容。</translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <comment>_kso_krim_Permission_RequestPermission</comment>
+        <translation type="obsolete">申请更新权限...</translation>
+    </message>
+    <message>
+        <source>R&amp;esquest permissions</source>
+        <comment>_kso_irmio_Button_RequestPermission</comment>
+        <translation type="obsolete">申请权限(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <comment>_kso_irmio_Button_Yes</comment>
+        <translation type="obsolete">是</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <comment>_kso_irmio_Button_No</comment>
+        <translation type="obsolete">否</translation>
+    </message>
+    <message>
+        <source>This service is temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Connection</comment>
+        <translation type="obsolete">此服务器暂时不可用。请确认已连接到此服务器。脱机工作、代理服务器设置阻止连接、遇到间歇性的网络错误时，都可能导致此错误。</translation>
+    </message>
+    <message>
+        <source>The service at %1 temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Location</comment>
+        <translation type="obsolete">服务%1暂时不可用。请确认已连接到此服务器。脱机工作、代理服务器设置阻止连接、遇到间歇性的网络错误时，都可能导致此错误。</translation>
+    </message>
+    <message>
+        <source>This document is currently restricted. You do not have credentials that allow you to open this document. You can choose 
+~try changing another user to open the document;
+~request updated permission from %1.</source>
+        <comment>_kso_irmio_Error_No_Permission</comment>
+        <translation type="obsolete">本文档已设置保护。您没有权限打开本文档。您可以选择    
+·尝试用另外一个账号打开文档；
+·向%1申请更新权限。</translation>
+    </message>
+    <message>
+        <source>Verifying your logon information for opening content with restricted permission&quot;</source>
+        <comment>_kso_irmio_Verifying</comment>
+        <translation type="obsolete">正在验证您的登录信息已打开受限权限内容</translation>
+    </message>
+    <message>
+        <source>Your session with the user account %1 has timed out. The service must verify your credentials again before you continue. If prompted, enter the username and password for %1 or loss of the document may occur.</source>
+        <comment>_kso_irmio_SaveNeedVerifyCredential</comment>
+        <translation type="obsolete">您使用用户账户 %1 进行的会话已超时。该服务必须再次验证您的凭据，您才可继续。提示时，请输入 %1 的用户名和密码，否则可能会造成文档丢失。</translation>
+    </message>
+    <message>
+        <source>Permission of (%1)</source>
+        <comment>_kso_krim_RestrictedAccess_Template</comment>
+        <translation>（%1）的权限</translation>
+    </message>
+    <message>
+        <source>Permission is currently restricted by a permission policy. Do you want to stop using a permission policy and specify permission for individual users or groups?</source>
+        <comment>_kso_kirm_PermissionPolicyToIndividual</comment>
+        <translation>权限当前受权限策略的限制。是否希望停止使用权限策略，并为单独用户或组指定权限？</translation>
+    </message>
+    <message>
+        <source>Selecting a permission policy will replace any existing permission that you&apos;ve set for this document. Do you want to continue?</source>
+        <comment>_kso_kirm_PermissionIndividualToPolicy</comment>
+        <translation>选择权限策略将替换已为此文档设置的任何现有权限。是否继续？</translation>
+    </message>
+    <message>
+        <source>WPS office has identified a potential safety problems.
+This position may not be safe.</source>
+        <comment>_kso_Warnning_MessageBox_HyperLinksSend_Title</comment>
+        <translation>WPS office 已经确认了一个潜在的安全问题。
+这个位置可能不安全。</translation>
+    </message>
+    <message>
+        <source>Hyperlinks may harm your computer and data. For the protection of computer, super link please click only trusted sources. Do you want to continue?</source>
+        <comment>_kso_Warnning_MessageBox_HyperLinksSend_Content</comment>
+        <translation>超链接可能会危害您的计算机和数据。为保护计算机，请仅单击受信任来源的超链接。
+是否继续？</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations:
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="obsolete">%s 在进行定时备份操作时发生错误！您可以尝试以下操作：
+·检查备份目录的是否具有可写权限，或尝试更改备份目录；
+·[撤消]之前的操作，然后执行[保存]；
+·[另存为...]文本文件（*.txt）；
+·将内容[复制/粘贴]到新文件；
+·放弃对文件的修改。</translation>
+    </message>
+    <message>
+        <source>Ribbon Tabs</source>
+        <translatorcomment>兼容MSO IAccessible接口中的命名。</translatorcomment>
+        <translation>功能区选项卡</translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PRO</comment>
+        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation type="obsolete">本软件产品仅限于个人用户基于个人目的使用，禁止将本软件用于生产、经营等商业用途或者其它用途。||本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files (*.txt); 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="obsolete">%s 在进行定时备份操作时发生错误！您可以尝试以下操作：
+·检查备份目录的是否具有可写权限，或尝试更改备份目录；
+·[撤消]之前的操作，然后执行[保存]；
+·[另存为...]文本文件（*.txt）；
+·将内容[复制/粘贴]到新文件；
+·放弃对文件的修改。
+(%s)</translation>
+    </message>
+    <message>
+        <source>This software is for personal use based on personal purpose only. It is strictly forbidden to use this software on production, business operation and other commercial purposes. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation>本软件产品仅限于个人用户基于个人目的使用，禁止将本软件用于生产、经营等商业用途或者其它用途。||本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+    </message>
+    <message>
+        <source>Opening</source>
+        <comment>_kso_io_Progress_Opening</comment>
+        <translation>正在打开文件</translation>
+    </message>
+    <message>
+        <source>Saving</source>
+        <comment>_kso_io_Progress_Saving</comment>
+        <translation>正在保存文件</translation>
+    </message>
+    <message>
+        <source>Backing up</source>
+        <comment>_kso_io_Progress_AutoSaving</comment>
+        <translation>正在备份</translation>
+    </message>
+    <message>
+        <source>(Press ESC to cancel)</source>
+        <comment>_kso_io_Progress_Discontinue_ByEsc</comment>
+        <translation>（按ESC取消）</translation>
+    </message>
+    <message>
+        <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this presentation.</source>
+        <comment>_kso_krim_Error_insertOleInvalid</comment>
+        <translation>文件 %1 设置了限制权限，不能插入到该演示文稿中。</translation>
+    </message>
+</context>
+<context>
+    <name>kso_numfmtapi</name>
+    <message>
+        <source>General</source>
+        <comment>TX_NUMFMTApi_BuildIn_00</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>0.00</source>
+        <comment>TX_NUMFMTApi_BuildIn_02</comment>
+        <translation>0.00</translation>
+    </message>
+    <message>
+        <source>#,##0</source>
+        <comment>TX_NUMFMTApi_BuildIn_03</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>#,##0.00</source>
+        <comment>TX_NUMFMTApi_BuildIn_04</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>$#,##0_);($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_05</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>$#,##0_);[Red]($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_06</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_07</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);[Red]($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_08</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>0.00%</source>
+        <comment>TX_NUMFMTApi_BuildIn_10</comment>
+        <translation>0.00%</translation>
+    </message>
+    <message>
+        <source>0.00E+00</source>
+        <comment>TX_NUMFMTApi_BuildIn_11</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_14</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>d-mmm-yy</source>
+        <comment>TX_NUMFMTApi_BuildIn_15</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>d-mmm</source>
+        <comment>TX_NUMFMTApi_BuildIn_16</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>h:mm</source>
+        <comment>TX_NUMFMTApi_BuildIn_20</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_21</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy h:mm</source>
+        <comment>TX_NUMFMTApi_BuildIn_22</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>\$#,##0_);(\$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_23</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>\$#,##0_);[Red](\$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_24</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>\$#,##0.00_);(\$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_25</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_26</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_30</comment>
+        <translation>m/d/yy</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_31</comment>
+        <translation>m&quot;月&quot;d&quot;日&quot;yyyy&quot;年&quot;</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_32</comment>
+        <translation>h&quot;时&quot;mm&quot;分&quot;</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_33</comment>
+        <translation>h&quot;时&quot;mm&quot;分&quot;ss&quot;秒&quot;</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
+        <translation>m月d日yyyy年</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
+        <translation>h时mm分</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
+        <translation>h时mm分ss秒</translation>
+    </message>
+    <message>
+        <source>#,##0_);(#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_37</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>#,##0_);[Red](#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_38</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>#,##0.00_);(#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_39</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>#,##0.00_);[Red](#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_40</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_41</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_42</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_43</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_44</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>mm:ss.0</source>
+        <comment>TX_NUMFMTApi_BuildIn_45</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>##0.0E+0</source>
+        <comment>TX_NUMFMTApi_BuildIn_48</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_55</comment>
+        <translation>上午/下午h&quot;时&quot;mm&quot;分&quot;</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_56</comment>
+        <translation>上午/下午h&quot;时&quot;mm&quot;分&quot;ss&quot;秒&quot;</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_57</comment>
+        <translation>yyyy&quot;年&quot;m&quot;月&quot;</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_58</comment>
+        <translation>m&quot;月&quot;d&quot;日&quot;</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
+        <translation>上午/下午h时mm分</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
+        <translation>上午/下午h时mm分ss秒</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
+        <translation>yyyy年m月</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
+        <translation>m月d日</translation>
     </message>
 </context>
 <context>
@@ -4917,7 +10043,7 @@ Do you want to continue?</source>
         <source>WPS Office cannot print. Please check whether the printer is turned on or connected.
 If the problem still exists, you can print a test page by right-clicking the printer icon in Windows and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
         <comment>_ksoErr_Print_InvalidPrinter</comment>
-        <translation>WPS Office无法启动打印作业，请检查打印机是否开机并且联机。
+        <translation>WPS Office 无法启动打印作业，请检查打印机是否开机并且联机。
 如果问题没有解决，您可以通过 Windows 的打印机属性打印测试页，检查打印机是否正确安装。</translation>
     </message>
     <message>
@@ -4932,14 +10058,21 @@ Do you want to continue?</source>
     <message>
         <source>Unable to find the cups library, make sure you have installed!</source>
         <comment>_ksoErr_Print_NoCupsLibrary</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法找到cups库，请确保您已安装！</translation>
     </message>
     <message>
         <source>The printer does not support the current paper size. Continue printing may not result in satisfying quality.
 You can add the customized paper %dmm x %dmm in printer properties and print again.
 Continue printing?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation type="unfinished"></translation>
+        <translation>打印机对当前的纸型不支持！继续打印，效果可能不理想。
+您可以在打印机属性中，添加大小为%dmm×%dmm的自定义纸张后再打印。
+是否继续打印？</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|PDF Files(*.pdf)|*.pdf|Postscript Files(*.ps)|*.ps</source>
+        <comment>_kso_Print_OutputFileDialog_Linux_Filter</comment>
+        <translation>所有文件(*.*)|*.*|PDF文件(*.pdf)|*.pdf|Postscript文件(*.ps)|*.ps</translation>
     </message>
 </context>
 <context>
@@ -5671,12 +10804,12 @@ cycle</source>
     <message>
         <source>Dash-Dot</source>
         <comment>kso_sLineDashDot</comment>
-        <translation>划线-点</translation>
+        <translation type="obsolete">划线-点</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
         <comment>kso_sLineDashDotDot</comment>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dashed downward diagonal</source>
@@ -6096,7 +11229,7 @@ cycle</source>
     <message>
         <source>Help file does not exist or occurs an error!</source>
         <comment>kso_sHelpNotFound</comment>
-        <translation>没有找到帮助文件或帮助文件出错！</translation>
+        <translation type="obsolete">没有找到帮助文件或帮助文件出错！</translation>
     </message>
     <message>
         <source>Horizontal brick</source>
@@ -6386,7 +11519,7 @@ cycle</source>
     <message>
         <source>Long Dash-Dot</source>
         <comment>kso_sLineLongDashDot</comment>
-        <translation>长划线-点</translation>
+        <translation type="obsolete">长划线-点</translation>
     </message>
     <message>
         <source>MB</source>
@@ -7297,7 +12430,7 @@ elements</source>
     <message>
         <source>You have reached the max retry step, program will terminate.</source>
         <comment>kso_sMaxStep</comment>
-        <translation>您的输入不正确，程序将退出。</translation>
+        <translation type="obsolete">您的输入不正确，程序将退出。</translation>
     </message>
     <message>
         <source>You will close %d tabs, are you sure you want to continue?</source>
@@ -7468,7 +12601,7 @@ For better service, please update the trial edition to standard edition by:
 1. Click the &quot;Validate Your WPS Passport&quot;. If you have not registered a WPS Passport, please click the&quot;Register WPS Passport&quot; first;
 2. Click the &quot;WPS Passport&quot; under &quot;Help&quot; menu.</source>
         <comment>kso_sTrialNotification</comment>
-        <translation>感谢使用WPS Office系列产品！
+        <translation>感谢使用 WPS Office 系列产品！
 
 您现在安装的是 WPS Office 2005 个人版 的试用版本。
 为方便我们更好的给您提供服务，您可以选择以下方式中的一种升级为 WPS Office 2005 个人版 的正式版用户：
@@ -7523,12 +12656,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Error happens when application tries to register. Error code: 0x%8.8x.</source>
         <comment>kso_sAppRegisterError</comment>
-        <translation type="unfinished"></translation>
+        <translation>应用程序尝试注册时发生错误。错误码：0x%8.8x。</translation>
     </message>
     <message>
         <source>Error happens when application tries to logout. Error code: 0x%8.8x.</source>
         <comment>kso_sAppUnRegisterError</comment>
-        <translation type="unfinished"></translation>
+        <translation>应用程序尝试注销时发生错误。错误码：0x%8.8x。</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyze meet the following conditions:
@@ -7536,84 +12669,1073 @@ For better service, please update the trial edition to standard edition by:
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
         <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>您选择的数据透视表的数据源不正确。
+请检查您要分析的数据是否满足以下几个条件：
+1.确认引用区域是存在的，如果是名称，请确认该名称引用的是一个合法的区域。
+2.确认引用区域是单一的区域，并且至少有两行。
+3.确认引用区域的第一行不存在空白单元格，不包含错误值，而且每个单元格内的字符数不超过255个。</translation>
     </message>
     <message>
         <source>Unknown Format Source.</source>
         <comment>kso_sErrPasteLink</comment>
-        <translation type="unfinished"></translation>
+        <translation>未知格式粘贴源。</translation>
     </message>
     <message>
         <source>Solid</source>
         <comment>kso_sLineSolid</comment>
-        <translation type="unfinished"></translation>
+        <translation>实线</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
         <comment>kso_sRefIsNotValid</comment>
-        <translation type="unfinished">引用无效。</translation>
+        <translation>引用无效。</translation>
     </message>
     <message>
         <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sWpsLinkAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>将代表文件内容的图标插入到您的文档，对源文件的更改将反映到您的文档中。</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an existing sheet or unprotect this book.</source>
         <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
-        <translation type="unfinished"></translation>
+        <translation>不能在新工作表上创建数据透视表，因为当前工作薄已经被保护。请您选择一个已经存在的工作表或者取消工作薄保护。</translation>
     </message>
     <message>
         <source>Forward</source>
         <comment>kso_Nav_Forword</comment>
-        <translation type="unfinished"></translation>
+        <translation>前进</translation>
     </message>
     <message>
         <source>The file cannot be deleted. It may be occupied.</source>
         <comment>kso_sCannotRemoveBackupFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>该文件无法删除，可能正被占用。</translation>
     </message>
     <message>
         <source>Some files cannot be deleted. They may be occupied.</source>
         <comment>kso_sCannotRemoveAllBackupFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>一些文件无法删除，可能正被占用。</translation>
     </message>
     <message>
         <source>Dowload XML expansion</source>
         <comment>kso_Smartdoc_DowloadXmlExpasionCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>下载 XML 扩展包</translation>
     </message>
     <message>
         <source>Using the latest XML expansion pack from the following locations, the effect of this document will be the best:
  %1 
 Download the XML expansion pack?</source>
         <comment>kso_Smartdoc_DowloadXmlExpasion</comment>
-        <translation type="unfinished"></translation>
+        <translation>使用来自以下位置的最新 XML 扩展包时，此文档的效果将最佳：
+ %1 
+是否下载该 XML 扩展包？</translation>
     </message>
     <message>
         <source>The XML expansion pack or smart document program has been lost or invalid.Please contact the system administrator or the personnel who provide this document</source>
         <comment>kso_Smartdoc_XMLExpansionLost</comment>
-        <translation type="unfinished"></translation>
+        <translation>XML 扩展包或智能文档程序已丢失或无效。请与系统管理员或提供此文档的人员联系。</translation>
     </message>
     <message>
         <source>You are currently viewing this document in multiple windows. If you wanna attach XML expansion, you must close all other windows first to ensure that you view this document only in one window.</source>
         <comment>kso_Smartdoc_XmlExpansionRefuse</comment>
-        <translation type="unfinished"></translation>
+        <translation>您当前正在多个窗口中查看此文档。若要附加 XML 扩展包，您必须首先关闭所有其它窗口，保证您只在一个窗口中查看此文档。</translation>
     </message>
     <message>
         <source>This document has attached a XML expansion. If You wanna view this document in multiple windows, you must delete the XML expansion first.</source>
         <comment>kso_Smartdoc_NewWindowRefuse</comment>
-        <translation type="unfinished"></translation>
+        <translation>此文档附加了 XML 扩展包。若要在多个窗口中查看此文档，您必须首先删除 XML 扩展包。</translation>
     </message>
     <message>
         <source>Cannot install this file, because the security certificate has some problems. This XML expansion pack may won&apos;t run as expecte.For more information, please contact your administrator.</source>
         <comment>kso_Smartdoc_XMLCertificateError</comment>
-        <translation type="unfinished"></translation>
+        <translation>无法安装该文件，因为安全证书存在问题。该 XML 扩展包可能不能按预期效果运行。有关详细信息，请与您的管理员联系</translation>
     </message>
     <message>
         <source>Install this XML expansion pack failed.</source>
         <comment>kso_Smartdoc_installManifestError</comment>
-        <translation type="unfinished"></translation>
+        <translation>安装 XML 扩展包失败</translation>
+    </message>
+    <message>
+        <source>Help file does not exist or encounters an error.</source>
+        <comment>kso_sHelpNotFound</comment>
+        <translation>没有找到帮助文件或帮助文件出错！</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <comment>kso_sLineDashDot</comment>
+        <translation>划线-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <comment>kso_sLineDashDotDot</comment>
+        <translation>长划线-点-点</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <comment>kso_sLineLongDashDot</comment>
+        <translation>长划线-点</translation>
+    </message>
+    <message>
+        <source>You have reached the maximum number of retries. Program will terminate.</source>
+        <comment>kso_sMaxStep</comment>
+        <translation>您的输入不正确，程序将退出。</translation>
+    </message>
+    <message>
+        <source>Up to one digit (%s)</source>
+        <comment>kso_sNnumberFormatter_style_01</comment>
+        <translation>分母为一位数 (%s)</translation>
+    </message>
+    <message>
+        <source>Up to two digits (%s)</source>
+        <comment>kso_sNnumberFormatter_style_02</comment>
+        <translation>分母为两位数 (%s)</translation>
+    </message>
+    <message>
+        <source>Up to three digits (%s)</source>
+        <comment>kso_sNnumberFormatter_style_03</comment>
+        <translation>分母为三位数 (%s)</translation>
+    </message>
+    <message>
+        <source>As halves (%s)</source>
+        <comment>kso_sNnumberFormatter_style_04</comment>
+        <translation>以 2 为分母 (%s)</translation>
+    </message>
+    <message>
+        <source>As quarters (%s)</source>
+        <comment>kso_sNnumberFormatter_style_05</comment>
+        <translation>以 4 为分母 (%s)</translation>
+    </message>
+    <message>
+        <source>As eighths (%s)</source>
+        <comment>kso_sNnumberFormatter_style_06</comment>
+        <translation>以 8 为分母 (%s)</translation>
+    </message>
+    <message>
+        <source>As sixteenths (%s)</source>
+        <comment>kso_sNnumberFormatter_style_07</comment>
+        <translation>以 16 为分母 (%s)</translation>
+    </message>
+    <message>
+        <source>As tenths (%s)</source>
+        <comment>kso_sNnumberFormatter_style_08</comment>
+        <translation>以 10 为分母 (%s)</translation>
+    </message>
+    <message>
+        <source>As hundredths (%s)</source>
+        <comment>kso_sNnumberFormatter_style_09</comment>
+        <translation>百分之几 (%s)</translation>
+    </message>
+</context>
+<context>
+    <name>kso_theme</name>
+    <message>
+        <source>Adjacency</source>
+        <comment>THEME_THEME_ADJACENCY</comment>
+        <translation>相邻</translation>
+    </message>
+    <message>
+        <source>Angles</source>
+        <comment>THEME_THEME_ANGLES</comment>
+        <translation>角度</translation>
+    </message>
+    <message>
+        <source>Apex</source>
+        <comment>THEME_THEME_APEX</comment>
+        <translation>顶峰</translation>
+    </message>
+    <message>
+        <source>Apothecary</source>
+        <comment>THEME_THEME_APOTHECARY</comment>
+        <translation>药剂师</translation>
+    </message>
+    <message>
+        <source>Aspect</source>
+        <comment>THEME_THEME_ASPECT</comment>
+        <translation>视点</translation>
+    </message>
+    <message>
+        <source>Austin</source>
+        <comment>THEME_THEME_AUSTIN</comment>
+        <translation>奥斯汀</translation>
+    </message>
+    <message>
+        <source>Black Tie</source>
+        <comment>THEME_THEME_BLACKTIE</comment>
+        <translation type="obsolete">黑领结</translation>
+    </message>
+    <message>
+        <source>Calligraphy</source>
+        <comment>THEME_THEME_CALLIGRAPHY</comment>
+        <translation>行云流水</translation>
+    </message>
+    <message>
+        <source>Civic</source>
+        <comment>THEME_THEME_CIVIC</comment>
+        <translation>市镇</translation>
+    </message>
+    <message>
+        <source>Clarity</source>
+        <comment>THEME_THEME_CLARITY</comment>
+        <translation>透明</translation>
+    </message>
+    <message>
+        <source>Composite</source>
+        <comment>THEME_THEME_COMPOSITE</comment>
+        <translation>复合</translation>
+    </message>
+    <message>
+        <source>Concourse</source>
+        <comment>THEME_THEME_CONCOURSE</comment>
+        <translation>聚合</translation>
+    </message>
+    <message>
+        <source>Couture</source>
+        <comment>THEME_THEME_COUTURE</comment>
+        <translation>时装设计</translation>
+    </message>
+    <message>
+        <source>Dragon</source>
+        <comment>THEME_THEME_DRAGON</comment>
+        <translation>龙腾四海</translation>
+    </message>
+    <message>
+        <source>Elemental</source>
+        <comment>THEME_THEME_ELEMENTAL</comment>
+        <translation>元素</translation>
+    </message>
+    <message>
+        <source>Equity</source>
+        <comment>THEME_THEME_EQUITY</comment>
+        <translation>平衡</translation>
+    </message>
+    <message>
+        <source>Essential</source>
+        <comment>THEME_THEME_ESSENTIAL</comment>
+        <translation>基本</translation>
+    </message>
+    <message>
+        <source>Executive</source>
+        <comment>THEME_THEME_EXECUTIVE</comment>
+        <translation>行政公文纸</translation>
+    </message>
+    <message>
+        <source>Fan</source>
+        <comment>THEME_THEME_FAN</comment>
+        <translation>暗香扑面</translation>
+    </message>
+    <message>
+        <source>Flow</source>
+        <comment>THEME_THEME_FLOW</comment>
+        <translation>流畅</translation>
+    </message>
+    <message>
+        <source>Foundry</source>
+        <comment>THEME_THEME_FOUNDRY</comment>
+        <translation>沉稳</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <comment>THEME_THEME_GRID</comment>
+        <translation>网格</translation>
+    </message>
+    <message>
+        <source>Hardcover</source>
+        <comment>THEME_THEME_HARDCOVER</comment>
+        <translation>精装书</translation>
+    </message>
+    <message>
+        <source>Horizon</source>
+        <comment>THEME_THEME_HORIZON</comment>
+        <translation>极目远眺</translation>
+    </message>
+    <message>
+        <source>Median</source>
+        <comment>THEME_THEME_MEDIAN</comment>
+        <translation>中性</translation>
+    </message>
+    <message>
+        <source>Metro</source>
+        <comment>THEME_THEME_METRO</comment>
+        <translation>穿越</translation>
+    </message>
+    <message>
+        <source>Module</source>
+        <comment>THEME_THEME_MODULE</comment>
+        <translation>模块</translation>
+    </message>
+    <message>
+        <source>Newsprint</source>
+        <comment>THEME_THEME_NEWSPRINT</comment>
+        <translation>新闻纸</translation>
+    </message>
+    <message>
+        <source>Opulent</source>
+        <comment>THEME_THEME_OPULENT</comment>
+        <translation>华丽</translation>
+    </message>
+    <message>
+        <source>Oriel</source>
+        <comment>THEME_THEME_ORIEL</comment>
+        <translation>凸显</translation>
+    </message>
+    <message>
+        <source>Origin</source>
+        <comment>THEME_THEME_ORIGIN</comment>
+        <translation>质朴</translation>
+    </message>
+    <message>
+        <source>Paper</source>
+        <comment>THEME_THEME_PAPER</comment>
+        <translation>纸张</translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <comment>THEME_THEME_PERSPECTIVE</comment>
+        <translation>透视</translation>
+    </message>
+    <message>
+        <source>Phoenix</source>
+        <comment>THEME_THEME_PHOENIX</comment>
+        <translation>凤舞九天</translation>
+    </message>
+    <message>
+        <source>Pushpin</source>
+        <comment>THEME_THEME_PUSHPIN</comment>
+        <translation>图钉</translation>
+    </message>
+    <message>
+        <source>Slipstream</source>
+        <comment>THEME_THEME_SLIPSTREAM</comment>
+        <translation>气流</translation>
+    </message>
+    <message>
+        <source>Solstice</source>
+        <comment>THEME_THEME_SOLSTICE</comment>
+        <translation>夏至</translation>
+    </message>
+    <message>
+        <source>Technic</source>
+        <comment>THEME_THEME_TECHNIC</comment>
+        <translation>技巧</translation>
+    </message>
+    <message>
+        <source>Thatch</source>
+        <comment>THEME_THEME_THATCH</comment>
+        <translation>茅草</translation>
+    </message>
+    <message>
+        <source>Trek</source>
+        <comment>THEME_THEME_TREK</comment>
+        <translation>跋涉</translation>
+    </message>
+    <message>
+        <source>Urban</source>
+        <comment>THEME_THEME_URBAN</comment>
+        <translation>都市</translation>
+    </message>
+    <message>
+        <source>Verve</source>
+        <comment>THEME_THEME_VERVE</comment>
+        <translation>活力</translation>
+    </message>
+    <message>
+        <source>Waveform</source>
+        <comment>THEME_THEME_WAVEFORM</comment>
+        <translation>波形</translation>
+    </message>
+    <message>
+        <source>Adjacency</source>
+        <comment>THEME_THEMECOLORS_ADJACENCY</comment>
+        <translation type="obsolete">相邻</translation>
+    </message>
+    <message>
+        <source>Angles</source>
+        <comment>THEME_THEMECOLORS_ANGLES</comment>
+        <translation type="obsolete">角度</translation>
+    </message>
+    <message>
+        <source>Apex</source>
+        <comment>THEME_THEMECOLORS_APEX</comment>
+        <translation type="obsolete">顶峰</translation>
+    </message>
+    <message>
+        <source>Apothecary</source>
+        <comment>THEME_THEMECOLORS_APOTHECARY</comment>
+        <translation type="obsolete">药剂师</translation>
+    </message>
+    <message>
+        <source>Aspect</source>
+        <comment>THEME_THEMECOLORS_ASPECT</comment>
+        <translation type="obsolete">视点</translation>
+    </message>
+    <message>
+        <source>Austin</source>
+        <comment>THEME_THEMECOLORS_AUSTIN</comment>
+        <translation type="obsolete">奥斯汀</translation>
+    </message>
+    <message>
+        <source>Black Tie</source>
+        <comment>THEME_THEMECOLORS_BLACKTIE</comment>
+        <translation type="obsolete">黑领结</translation>
+    </message>
+    <message>
+        <source>Calligraphy</source>
+        <comment>THEME_THEMECOLORS_CALLIGRAPHY</comment>
+        <translation type="obsolete">行云流水</translation>
+    </message>
+    <message>
+        <source>Civic</source>
+        <comment>THEME_THEMECOLORS_CIVIC</comment>
+        <translation type="obsolete">市镇</translation>
+    </message>
+    <message>
+        <source>Clarity</source>
+        <comment>THEME_THEMECOLORS_CLARITY</comment>
+        <translation type="obsolete">透明</translation>
+    </message>
+    <message>
+        <source>Composite</source>
+        <comment>THEME_THEMECOLORS_COMPOSITE</comment>
+        <translation type="obsolete">复合</translation>
+    </message>
+    <message>
+        <source>Concourse</source>
+        <comment>THEME_THEMECOLORS_CONCOURSE</comment>
+        <translation type="obsolete">聚合</translation>
+    </message>
+    <message>
+        <source>Couture</source>
+        <comment>THEME_THEMECOLORS_COUTURE</comment>
+        <translation type="obsolete">时装设计</translation>
+    </message>
+    <message>
+        <source>Dragon</source>
+        <comment>THEME_THEMECOLORS_DRAGON</comment>
+        <translation type="obsolete">龙腾四海</translation>
+    </message>
+    <message>
+        <source>Elemental</source>
+        <comment>THEME_THEMECOLORS_ELEMENTAL</comment>
+        <translation type="obsolete">元素</translation>
+    </message>
+    <message>
+        <source>Equity</source>
+        <comment>THEME_THEMECOLORS_EQUITY</comment>
+        <translation type="obsolete">平衡</translation>
+    </message>
+    <message>
+        <source>Essential</source>
+        <comment>THEME_THEMECOLORS_ESSENTIAL</comment>
+        <translation type="obsolete">基本</translation>
+    </message>
+    <message>
+        <source>Executive</source>
+        <comment>THEME_THEMECOLORS_EXECUTIVE</comment>
+        <translation type="obsolete">行政公文纸</translation>
+    </message>
+    <message>
+        <source>Fan</source>
+        <comment>THEME_THEMECOLORS_FAN</comment>
+        <translation type="obsolete">暗香扑面</translation>
+    </message>
+    <message>
+        <source>Flow</source>
+        <comment>THEME_THEMECOLORS_FLOW</comment>
+        <translation type="obsolete">流畅</translation>
+    </message>
+    <message>
+        <source>Foundry</source>
+        <comment>THEME_THEMECOLORS_FOUNDRY</comment>
+        <translation type="obsolete">沉稳</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <comment>THEME_THEMECOLORS_GRID</comment>
+        <translation type="obsolete">网格</translation>
+    </message>
+    <message>
+        <source>Hardcover</source>
+        <comment>THEME_THEMECOLORS_HARDCOVER</comment>
+        <translation type="obsolete">精装书</translation>
+    </message>
+    <message>
+        <source>Horizon</source>
+        <comment>THEME_THEMECOLORS_HORIZON</comment>
+        <translation type="obsolete">极目远眺</translation>
+    </message>
+    <message>
+        <source>Median</source>
+        <comment>THEME_THEMECOLORS_MEDIAN</comment>
+        <translation type="obsolete">中性</translation>
+    </message>
+    <message>
+        <source>Metro</source>
+        <comment>THEME_THEMECOLORS_METRO</comment>
+        <translation type="obsolete">穿越</translation>
+    </message>
+    <message>
+        <source>Module</source>
+        <comment>THEME_THEMECOLORS_MODULE</comment>
+        <translation type="obsolete">模块</translation>
+    </message>
+    <message>
+        <source>Newsprint</source>
+        <comment>THEME_THEMECOLORS_NEWSPRINT</comment>
+        <translation type="obsolete">新闻纸</translation>
+    </message>
+    <message>
+        <source>Opulent</source>
+        <comment>THEME_THEMECOLORS_OPULENT</comment>
+        <translation type="obsolete">华丽</translation>
+    </message>
+    <message>
+        <source>Oriel</source>
+        <comment>THEME_THEMECOLORS_ORIEL</comment>
+        <translation type="obsolete">凸显</translation>
+    </message>
+    <message>
+        <source>Origin</source>
+        <comment>THEME_THEMECOLORS_ORIGIN</comment>
+        <translation type="obsolete">质朴</translation>
+    </message>
+    <message>
+        <source>Paper</source>
+        <comment>THEME_THEMECOLORS_PAPER</comment>
+        <translation type="obsolete">纸张</translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <comment>THEME_THEMECOLORS_PERSPECTIVE</comment>
+        <translation type="obsolete">透视</translation>
+    </message>
+    <message>
+        <source>Phoenix</source>
+        <comment>THEME_THEMECOLORS_PHOENIX</comment>
+        <translation type="obsolete">凤舞九天</translation>
+    </message>
+    <message>
+        <source>Pushpin</source>
+        <comment>THEME_THEMECOLORS_PUSHPIN</comment>
+        <translation type="obsolete">图钉</translation>
+    </message>
+    <message>
+        <source>Slipstream</source>
+        <comment>THEME_THEMECOLORS_SLIPSTREAM</comment>
+        <translation type="obsolete">气流</translation>
+    </message>
+    <message>
+        <source>Solstice</source>
+        <comment>THEME_THEMECOLORS_SOLSTICE</comment>
+        <translation type="obsolete">夏至</translation>
+    </message>
+    <message>
+        <source>Technic</source>
+        <comment>THEME_THEMECOLORS_TECHNIC</comment>
+        <translation type="obsolete">技巧</translation>
+    </message>
+    <message>
+        <source>Thatch</source>
+        <comment>THEME_THEMECOLORS_THATCH</comment>
+        <translation type="obsolete">茅草</translation>
+    </message>
+    <message>
+        <source>Trek</source>
+        <comment>THEME_THEMECOLORS_TREK</comment>
+        <translation type="obsolete">跋涉</translation>
+    </message>
+    <message>
+        <source>Urban</source>
+        <comment>THEME_THEMECOLORS_URBAN</comment>
+        <translation type="obsolete">都市</translation>
+    </message>
+    <message>
+        <source>Verve</source>
+        <comment>THEME_THEMECOLORS_VERVE</comment>
+        <translation type="obsolete">活力</translation>
+    </message>
+    <message>
+        <source>Waveform</source>
+        <comment>THEME_THEMECOLORS_WAVEFORM</comment>
+        <translation type="obsolete">波形</translation>
+    </message>
+    <message>
+        <source>Adjacency</source>
+        <comment>THEME_THEMEEFFECTS_ADJACENCY</comment>
+        <translation type="obsolete">相邻</translation>
+    </message>
+    <message>
+        <source>Angles</source>
+        <comment>THEME_THEMEEFFECTS_ANGLES</comment>
+        <translation type="obsolete">角度</translation>
+    </message>
+    <message>
+        <source>Apex</source>
+        <comment>THEME_THEMEEFFECTS_APEX</comment>
+        <translation type="obsolete">顶峰</translation>
+    </message>
+    <message>
+        <source>Apothecary</source>
+        <comment>THEME_THEMEEFFECTS_APOTHECARY</comment>
+        <translation type="obsolete">药剂师</translation>
+    </message>
+    <message>
+        <source>Aspect</source>
+        <comment>THEME_THEMEEFFECTS_ASPECT</comment>
+        <translation type="obsolete">视点</translation>
+    </message>
+    <message>
+        <source>Austin</source>
+        <comment>THEME_THEMEEFFECTS_AUSTIN</comment>
+        <translation type="obsolete">奥斯汀</translation>
+    </message>
+    <message>
+        <source>BlackTie</source>
+        <comment>THEME_THEMEEFFECTS_BLACKTIE</comment>
+        <translation type="obsolete">黑领结</translation>
+    </message>
+    <message>
+        <source>Calligraphy</source>
+        <comment>THEME_THEMEEFFECTS_CALLIGRAPHY</comment>
+        <translation type="obsolete">行云流水</translation>
+    </message>
+    <message>
+        <source>Civic</source>
+        <comment>THEME_THEMEEFFECTS_CIVIC</comment>
+        <translation type="obsolete">市镇</translation>
+    </message>
+    <message>
+        <source>Clarity</source>
+        <comment>THEME_THEMEEFFECTS_CLARITY</comment>
+        <translation type="obsolete">透明</translation>
+    </message>
+    <message>
+        <source>Composite</source>
+        <comment>THEME_THEMEEFFECTS_COMPOSITE</comment>
+        <translation type="obsolete">复合</translation>
+    </message>
+    <message>
+        <source>Concourse</source>
+        <comment>THEME_THEMEEFFECTS_CONCOURSE</comment>
+        <translation type="obsolete">聚合</translation>
+    </message>
+    <message>
+        <source>Couture</source>
+        <comment>THEME_THEMEEFFECTS_COUTURE</comment>
+        <translation type="obsolete">时装设计</translation>
+    </message>
+    <message>
+        <source>Dragon</source>
+        <comment>THEME_THEMEEFFECTS_DRAGON</comment>
+        <translation type="obsolete">龙腾四海</translation>
+    </message>
+    <message>
+        <source>Elemental</source>
+        <comment>THEME_THEMEEFFECTS_ELEMENTAL</comment>
+        <translation type="obsolete">元素</translation>
+    </message>
+    <message>
+        <source>Equity</source>
+        <comment>THEME_THEMEEFFECTS_EQUITY</comment>
+        <translation type="obsolete">平衡</translation>
+    </message>
+    <message>
+        <source>Essential</source>
+        <comment>THEME_THEMEEFFECTS_ESSENTIAL</comment>
+        <translation type="obsolete">基本</translation>
+    </message>
+    <message>
+        <source>Executive</source>
+        <comment>THEME_THEMEEFFECTS_EXECUTIVE</comment>
+        <translation type="obsolete">行政公文纸</translation>
+    </message>
+    <message>
+        <source>Fan</source>
+        <comment>THEME_THEMEEFFECTS_FAN</comment>
+        <translation type="obsolete">暗香扑面</translation>
+    </message>
+    <message>
+        <source>Flow</source>
+        <comment>THEME_THEMEEFFECTS_FLOW</comment>
+        <translation type="obsolete">流畅</translation>
+    </message>
+    <message>
+        <source>Foundry</source>
+        <comment>THEME_THEMEEFFECTS_FOUNDRY</comment>
+        <translation type="obsolete">沉稳</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <comment>THEME_THEMEEFFECTS_GRID</comment>
+        <translation type="obsolete">网格</translation>
+    </message>
+    <message>
+        <source>Hardcover</source>
+        <comment>THEME_THEMEEFFECTS_HARDCOVER</comment>
+        <translation type="obsolete">精装书</translation>
+    </message>
+    <message>
+        <source>Horizon</source>
+        <comment>THEME_THEMEEFFECTS_HORIZON</comment>
+        <translation type="obsolete">极目远眺</translation>
+    </message>
+    <message>
+        <source>Median</source>
+        <comment>THEME_THEMEEFFECTS_MEDIAN</comment>
+        <translation type="obsolete">中性</translation>
+    </message>
+    <message>
+        <source>Metro</source>
+        <comment>THEME_THEMEEFFECTS_METRO</comment>
+        <translation type="obsolete">穿越</translation>
+    </message>
+    <message>
+        <source>Module</source>
+        <comment>THEME_THEMEEFFECTS_MODULE</comment>
+        <translation type="obsolete">模块</translation>
+    </message>
+    <message>
+        <source>NewsPrint</source>
+        <comment>THEME_THEMEEFFECTS_NEWSPRINT</comment>
+        <translation type="obsolete">新闻纸</translation>
+    </message>
+    <message>
+        <source>Opulent</source>
+        <comment>THEME_THEMEEFFECTS_OPULENT</comment>
+        <translation type="obsolete">华丽</translation>
+    </message>
+    <message>
+        <source>Oriel</source>
+        <comment>THEME_THEMEEFFECTS_ORIEL</comment>
+        <translation type="obsolete">凸显</translation>
+    </message>
+    <message>
+        <source>Origin</source>
+        <comment>THEME_THEMEEFFECTS_ORIGIN</comment>
+        <translation type="obsolete">质朴</translation>
+    </message>
+    <message>
+        <source>Paper</source>
+        <comment>THEME_THEMEEFFECTS_PAPER</comment>
+        <translation type="obsolete">纸张</translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <comment>THEME_THEMEEFFECTS_PERSPECTIVE</comment>
+        <translation type="obsolete">透视</translation>
+    </message>
+    <message>
+        <source>Phoenix</source>
+        <comment>THEME_THEMEEFFECTS_PHOENIX</comment>
+        <translation type="obsolete">凤舞九天</translation>
+    </message>
+    <message>
+        <source>Pushpin</source>
+        <comment>THEME_THEMEEFFECTS_PUSHPIN</comment>
+        <translation type="obsolete">图钉</translation>
+    </message>
+    <message>
+        <source>Slipstream</source>
+        <comment>THEME_THEMEEFFECTS_SLIPSTREAM</comment>
+        <translation type="obsolete">气流</translation>
+    </message>
+    <message>
+        <source>Solstice</source>
+        <comment>THEME_THEMEEFFECTS_SOLSTICE</comment>
+        <translation type="obsolete">夏至</translation>
+    </message>
+    <message>
+        <source>Technic</source>
+        <comment>THEME_THEMEEFFECTS_TECHNIC</comment>
+        <translation type="obsolete">技巧</translation>
+    </message>
+    <message>
+        <source>Thatch</source>
+        <comment>THEME_THEMEEFFECTS_THATCH</comment>
+        <translation type="obsolete">茅草</translation>
+    </message>
+    <message>
+        <source>Trek</source>
+        <comment>THEME_THEMEEFFECTS_TREK</comment>
+        <translation type="obsolete">跋涉</translation>
+    </message>
+    <message>
+        <source>Urban</source>
+        <comment>THEME_THEMEEFFECTS_URBAN</comment>
+        <translation type="obsolete">都市</translation>
+    </message>
+    <message>
+        <source>Verve</source>
+        <comment>THEME_THEMEEFFECTS_VERVE</comment>
+        <translation type="obsolete">活力</translation>
+    </message>
+    <message>
+        <source>Waveform</source>
+        <comment>THEME_THEMEEFFECTS_WAVEFORM</comment>
+        <translation type="obsolete">波形</translation>
+    </message>
+    <message>
+        <source>Adjacency</source>
+        <comment>THEME_THEMEFONTS_ADJACENCY</comment>
+        <translation type="obsolete">相邻</translation>
+    </message>
+    <message>
+        <source>Angles</source>
+        <comment>THEME_THEMEFONTS_ANGLES</comment>
+        <translation type="obsolete">角度</translation>
+    </message>
+    <message>
+        <source>Apex</source>
+        <comment>THEME_THEMEFONTS_APEX</comment>
+        <translation type="obsolete">顶峰</translation>
+    </message>
+    <message>
+        <source>Apothecary</source>
+        <comment>THEME_THEMEFONTS_APOTHECARY</comment>
+        <translation type="obsolete">药剂师</translation>
+    </message>
+    <message>
+        <source>Aspect</source>
+        <comment>THEME_THEMEFONTS_ASPECT</comment>
+        <translation type="obsolete">视点</translation>
+    </message>
+    <message>
+        <source>Austin</source>
+        <comment>THEME_THEMEFONTS_AUSTIN</comment>
+        <translation type="obsolete">奥斯汀</translation>
+    </message>
+    <message>
+        <source>Black Tie</source>
+        <comment>THEME_THEMEFONTS_BLACKTIE</comment>
+        <translation type="obsolete">黑领结</translation>
+    </message>
+    <message>
+        <source>Calligraphy</source>
+        <comment>THEME_THEMEFONTS_CALLIGRAPHY</comment>
+        <translation type="obsolete">行云流水</translation>
+    </message>
+    <message>
+        <source>Civic</source>
+        <comment>THEME_THEMEFONTS_CIVIC</comment>
+        <translation type="obsolete">市镇</translation>
+    </message>
+    <message>
+        <source>Clarity</source>
+        <comment>THEME_THEMEFONTS_CLARITY</comment>
+        <translation type="obsolete">透明</translation>
+    </message>
+    <message>
+        <source>Composite</source>
+        <comment>THEME_THEMEFONTS_COMPOSITE</comment>
+        <translation type="obsolete">复合</translation>
+    </message>
+    <message>
+        <source>Concourse</source>
+        <comment>THEME_THEMEFONTS_CONCOURSE</comment>
+        <translation type="obsolete">聚合</translation>
+    </message>
+    <message>
+        <source>Couture</source>
+        <comment>THEME_THEMEFONTS_COUTURE</comment>
+        <translation type="obsolete">时装设计</translation>
+    </message>
+    <message>
+        <source>Dragon</source>
+        <comment>THEME_THEMEFONTS_DRAGON</comment>
+        <translation type="obsolete">龙腾四海</translation>
+    </message>
+    <message>
+        <source>Elemental</source>
+        <comment>THEME_THEMEFONTS_ELEMENTAL</comment>
+        <translation type="obsolete">元素</translation>
+    </message>
+    <message>
+        <source>Equity</source>
+        <comment>THEME_THEMEFONTS_EQUITY</comment>
+        <translation type="obsolete">平衡</translation>
+    </message>
+    <message>
+        <source>Essential</source>
+        <comment>THEME_THEMEFONTS_ESSENTIAL</comment>
+        <translation type="obsolete">基本</translation>
+    </message>
+    <message>
+        <source>Executive</source>
+        <comment>THEME_THEMEFONTS_EXECUTIVE</comment>
+        <translation type="obsolete">行政公文纸</translation>
+    </message>
+    <message>
+        <source>Fan</source>
+        <comment>THEME_THEMEFONTS_FAN</comment>
+        <translation type="obsolete">暗香扑面</translation>
+    </message>
+    <message>
+        <source>Flow</source>
+        <comment>THEME_THEMEFONTS_FLOW</comment>
+        <translation type="obsolete">流畅</translation>
+    </message>
+    <message>
+        <source>Foundry</source>
+        <comment>THEME_THEMEFONTS_FOUNDRY</comment>
+        <translation type="obsolete">沉稳</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <comment>THEME_THEMEFONTS_GRID</comment>
+        <translation type="obsolete">网格</translation>
+    </message>
+    <message>
+        <source>Hardcover</source>
+        <comment>THEME_THEMEFONTS_HARDCOVER</comment>
+        <translation type="obsolete">精装书</translation>
+    </message>
+    <message>
+        <source>Horizon</source>
+        <comment>THEME_THEMEFONTS_HORIZON</comment>
+        <translation type="obsolete">极目远眺</translation>
+    </message>
+    <message>
+        <source>Median</source>
+        <comment>THEME_THEMEFONTS_MEDIAN</comment>
+        <translation type="obsolete">中性</translation>
+    </message>
+    <message>
+        <source>Metro</source>
+        <comment>THEME_THEMEFONTS_METRO</comment>
+        <translation type="obsolete">穿越</translation>
+    </message>
+    <message>
+        <source>Module</source>
+        <comment>THEME_THEMEFONTS_MODULE</comment>
+        <translation type="obsolete">模块</translation>
+    </message>
+    <message>
+        <source>Newsprint</source>
+        <comment>THEME_THEMEFONTS_NEWSPRINT</comment>
+        <translation type="obsolete">新闻纸</translation>
+    </message>
+    <message>
+        <source>Office 2</source>
+        <comment>THEME_THEMEFONTS_OFFICE2</comment>
+        <translation>Office 2</translation>
+    </message>
+    <message>
+        <source>Office Classic 2</source>
+        <comment>THEME_THEMEFONTS_OFFICECLASSIC2</comment>
+        <translation>Office 经典 2</translation>
+    </message>
+    <message>
+        <source>Office Classic</source>
+        <comment>THEME_THEMEFONTS_OFFICECLASSIC</comment>
+        <translation>Office 经典</translation>
+    </message>
+    <message>
+        <source>Opulent</source>
+        <comment>THEME_THEMEFONTS_OPULENT</comment>
+        <translation type="obsolete">华丽</translation>
+    </message>
+    <message>
+        <source>Oriel</source>
+        <comment>THEME_THEMEFONTS_ORIEL</comment>
+        <translation type="obsolete">凸显</translation>
+    </message>
+    <message>
+        <source>Origin</source>
+        <comment>THEME_THEMEFONTS_ORIGIN</comment>
+        <translation type="obsolete">质朴</translation>
+    </message>
+    <message>
+        <source>Paper</source>
+        <comment>THEME_THEMEFONTS_PAPER</comment>
+        <translation type="obsolete">纸张</translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <comment>THEME_THEMEFONTS_PERSPECTIVE</comment>
+        <translation type="obsolete">透视</translation>
+    </message>
+    <message>
+        <source>Phoenix</source>
+        <comment>THEME_THEMEFONTS_PHOENIX</comment>
+        <translation type="obsolete">凤舞九天</translation>
+    </message>
+    <message>
+        <source>Pushpin</source>
+        <comment>THEME_THEMEFONTS_PUSHPIN</comment>
+        <translation type="obsolete">图钉</translation>
+    </message>
+    <message>
+        <source>Slipstream</source>
+        <comment>THEME_THEMEFONTS_SLIPSTREAM</comment>
+        <translation type="obsolete">气流</translation>
+    </message>
+    <message>
+        <source>Solstice</source>
+        <comment>THEME_THEMEFONTS_SOLSTICE</comment>
+        <translation type="obsolete">夏至</translation>
+    </message>
+    <message>
+        <source>Technic</source>
+        <comment>THEME_THEMEFONTS_TECHNIC</comment>
+        <translation type="obsolete">技巧</translation>
+    </message>
+    <message>
+        <source>Thatch</source>
+        <comment>THEME_THEMEFONTS_THATCH</comment>
+        <translation type="obsolete">茅草</translation>
+    </message>
+    <message>
+        <source>Trek</source>
+        <comment>THEME_THEMEFONTS_TREK</comment>
+        <translation type="obsolete">跋涉</translation>
+    </message>
+    <message>
+        <source>Urban</source>
+        <comment>THEME_THEMEFONTS_URBAN</comment>
+        <translation type="obsolete">都市</translation>
+    </message>
+    <message>
+        <source>Verve</source>
+        <comment>THEME_THEMEFONTS_VERVE</comment>
+        <translation type="obsolete">活力</translation>
+    </message>
+    <message>
+        <source>Waveform</source>
+        <comment>THEME_THEMEFONTS_WAVEFORM</comment>
+        <translation type="obsolete">波形</translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <comment>THEME_THEMECOLORS_GRAYSCALE</comment>
+        <translation>灰度</translation>
+    </message>
+    <message>
+        <source>BlackTie</source>
+        <comment>THEME_THEME_BLACKTIE</comment>
+        <translation>黑领结</translation>
+    </message>
+    <message>
+        <source>NewsPrint</source>
+        <comment>THEME_THEME_NEWSPRINT</comment>
+        <translation type="obsolete">新闻纸</translation>
+    </message>
+    <message>
+        <source>Black Tie</source>
+        <comment>THEME_THEME_BLACK_TIE</comment>
+        <translation>黑领结</translation>
+    </message>
+    <message>
+        <source>Office Theme</source>
+        <comment>THEME_NAME_OFFICE_2007_2010</comment>
+        <translation>Office 主题</translation>
+    </message>
+    <message>
+        <source>Office</source>
+        <comment>THEME_NAME_OFFICE</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>NewsPrint</source>
+        <comment>THEME_THEME_NEWSPRINT1</comment>
+        <translation>新闻纸</translation>
     </message>
 </context>
 </TS>

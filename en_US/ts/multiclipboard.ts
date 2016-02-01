@@ -14,11 +14,11 @@
     </message>
     <message>
         <source>Click to enlarge preview item.</source>
-        <translation>Click to enlarge preview item.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Click to show additional options.</source>
-        <translation>Click to show additional options.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Lock item to LockList.</source>
@@ -26,7 +26,7 @@
     </message>
     <message>
         <source>Lock this item to the list.</source>
-        <translation>Lock this item to the list.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Reached max lock count.</source>
@@ -34,7 +34,7 @@
     </message>
     <message>
         <source>Reached the maximum number of items locked.</source>
-        <translation>Reached the maximum number of items locked.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Unlock item form LockList.</source>
@@ -42,14 +42,14 @@
     </message>
     <message>
         <source>Unlock this item from the list.</source>
-        <translation>Unlock this item from the list.</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KxTpClipboard</name>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Click item to paste:</source>
@@ -57,15 +57,15 @@
     </message>
     <message>
         <source>Click to Paste:</source>
-        <translation>Click to Paste:</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -76,7 +76,7 @@
     </message>
     <message>
         <source>&amp;Collect Data Without Showing Clipboard</source>
-        <translation>&amp;Collect Data Without Showing Clipboard</translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Collect data but don&apos;t display WPS clipboard</source>
@@ -84,7 +84,7 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Enter Ctrl+C two times to display WPS clipboard</source>
@@ -92,7 +92,7 @@
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Lock the Item.</source>
@@ -100,15 +100,15 @@
     </message>
     <message>
         <source>Lock this item to the list.</source>
-        <translation>Lock this item to the list.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Press Ctrl+C Twice to Show Clipboard</source>
-        <translation>Press Ctrl+C Twice to Show Clipboard</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Show Clipboard &amp;Automatically When Copying</source>
-        <translation>Show Clipboard &amp;Automatically When Copying</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Unlock the Item.</source>
@@ -116,7 +116,7 @@
     </message>
     <message>
         <source>Unlock this item from the list.</source>
-        <translation>Unlock this item from the list.</translation>
+        <translation></translation>
     </message>
 </context>
 </TS>

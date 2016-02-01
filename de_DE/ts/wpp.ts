@@ -137,7 +137,7 @@
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Mittlere Formatvorlage</translation>
     </message>
     <message>
         <source>moderate color style</source>
@@ -145,11 +145,11 @@
     </message>
     <message>
         <source>No Style, No Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Formatvorlage, kein Raster</translation>
     </message>
     <message>
         <source>No Style, Table Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Formatvorlage, Tabellenraster</translation>
     </message>
     <message>
         <source>styless,no grid</source>
@@ -165,15 +165,15 @@
     </message>
     <message>
         <source>Themed Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatvorlage mit Designs</translation>
     </message>
     <message>
         <source>3-</source>
-        <translation type="unfinished">2- {3-?}</translation>
+        <translation>3-</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunkle Formatvorlage 2-Hervorheben 5/Hervorheben 6</translation>
     </message>
     <message>
         <source>No Style,No Grid</source>
@@ -185,42 +185,42 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunkle Formatvorlage 2-Hervorgehoben 1/Hervorgehoben 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunkle Formatvorlage 2-Hervorgehoben 3/Hervorgehoben 4</translation>
     </message>
 </context>
 <context>
     <name>DesignLayoutPanel</name>
     <message>
         <source>Apply to &amp;All</source>
-        <translation type="unfinished">Für alle Folien übernehmen</translation>
+        <translation>Für &amp;alle übernehmen</translation>
     </message>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation type="unfinished">Für Master übernehmen</translation>
+        <translation>Für &amp;Master übernehmen</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished">Für ausgewählte Folien übernehmen</translation>
+        <translation>Für ausge&amp;wählte Folien übernehmen</translation>
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation type="unfinished">Alle Entwürfe ersetzen</translation>
+        <translation>&amp;Alle ersetzen</translation>
     </message>
     <message>
         <source>Replace &amp;Selected Designs</source>
-        <translation type="unfinished">Markierte Entwürfe ersetzen</translation>
+        <translation>Ausgewählte &amp;Designs ersetzen</translation>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
-        <translation type="unfinished">Große Vorschau anzeigen</translation>
+        <translation>&amp;Große Vorschau anzeigen</translation>
     </message>
     <message>
         <source>Add &amp;Design</source>
-        <translation type="obsolete">Entwurf hinzufügen</translation>
+        <translation type="obsolete">&amp;Design hinzufügen</translation>
     </message>
     <message>
         <source>Add Design</source>
@@ -231,7 +231,7 @@
     <name>DlgAsianLineBreak</name>
     <message>
         <source>&amp;Preview</source>
-        <translation type="unfinished">Vorschau</translation>
+        <translation>&amp;Vorschau</translation>
     </message>
     <message>
         <source>&amp;Typography...</source>
@@ -239,7 +239,7 @@
     </message>
     <message>
         <source>All&amp;ow hanging punctuation</source>
-        <translation type="unfinished">Hängende Interpunktion zulassen</translation>
+        <translation>&amp;Hängende Interpunktion zulassen</translation>
     </message>
     <message>
         <source>Allow Latin text to &amp;wrap in the middle of a word</source>
@@ -262,7 +262,7 @@
     <name>DlgFindReplace</name>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished">Weitersuchen</translation>
+        <translation>&amp;Weitersuchen</translation>
     </message>
     <message>
         <source>&amp;Replace...</source>
@@ -309,7 +309,7 @@
     </message>
     <message>
         <source>&amp;Edit...</source>
-        <translation type="unfinished">Bearbeiten...</translation>
+        <translation>&amp;Bearbeiten...</translation>
     </message>
     <message>
         <source>&amp;New...</source>
@@ -317,11 +317,11 @@
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">Entfernen</translation>
+        <translation>&amp;Entfernen</translation>
     </message>
     <message>
         <source>&amp;Show</source>
-        <translation type="unfinished">Wiedergeben</translation>
+        <translation>V&amp;orführen</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
@@ -329,7 +329,7 @@
     </message>
     <message>
         <source>Cop&amp;y</source>
-        <translation type="unfinished">Kopieren</translation>
+        <translation>&amp;Kopieren</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
@@ -356,38 +356,38 @@
     </message>
     <message>
         <source>S&amp;lides in custom show:</source>
-        <translation type="unfinished">Folien in der zielgruppenorientierten Präsentation:</translation>
+        <translation>Folien in der &amp;zielgruppenorientierten Präsentation:</translation>
     </message>
     <message>
         <source>Slide show &amp;name:</source>
-        <translation type="unfinished">Name der Bildschirmpräsentation:</translation>
+        <translation>Name der &amp;Bildschirmpräsentation:</translation>
     </message>
     <message>
         <source>Slides in &amp;presentation:</source>
-        <translation type="unfinished">Folien in der Präsentation:</translation>
+        <translation>Folien in der &amp;Präsentation:</translation>
     </message>
 </context>
 <context>
     <name>DlgKxInvolvedTemplate</name>
     <message>
         <source>Involved Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwendete Vorlage</translation>
     </message>
     <message>
         <source>Select Involved Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwendete Vorlage auswählen</translation>
     </message>
     <message>
         <source>Apply Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelle übernehmen</translation>
     </message>
     <message>
         <source>Apply All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle übernehmen</translation>
     </message>
     <message>
         <source>Apply Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Master anwenden</translation>
     </message>
 </context>
 <context>
@@ -399,7 +399,7 @@
     </message>
     <message>
         <source>&amp;Browsed by an individual(window)</source>
-        <translation>Ansicht durch ein Individuum (Fenster)</translation>
+        <translation>Ansicht durch ein Individuum (Fenster)（&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Custom show:</source>
@@ -411,7 +411,7 @@
     </message>
     <message>
         <source>&amp;Loop continuously until &apos;Esc&apos;</source>
-        <translation>&amp;Wiedergeben, bis &quot;ESC&quot; gedrückt wird</translation>
+        <translation>&amp;Wiedergeben, bis „ESC“ gedrückt wird</translation>
     </message>
     <message>
         <source>&amp;Manually</source>
@@ -427,7 +427,7 @@
     </message>
     <message>
         <source>&amp;to:</source>
-        <translation>&amp;Bis:</translation>
+        <translation>&amp;bis:</translation>
     </message>
     <message>
         <source>&amp;Using timings, if present</source>
@@ -483,14 +483,14 @@
     </message>
     <message>
         <source>Double-&amp;Screen Extend Mode Wizard</source>
-        <translation type="unfinished">Doppelte-Bildschirm-Erweiterungsmodus-Assistent</translation>
+        <translation>Assistent des erweiterten Modus für zwei &amp;Bildschirme</translation>
     </message>
 </context>
 <context>
     <name>DlgWppAnimationEffects</name>
     <message>
         <source>&amp;Preview Effects</source>
-        <translation type="unfinished">Effekte vorschauen</translation>
+        <translation>&amp;Effektvorschau</translation>
     </message>
     <message>
         <source>Add Effects</source>
@@ -505,7 +505,7 @@
     </message>
     <message>
         <source>&amp;After animation:</source>
-        <translation>Nach Ani&amp;mation:</translation>
+        <translation>Nach &amp;Ani&amp;mation:</translation>
     </message>
     <message>
         <source>&amp;Animate as part of click sequence</source>
@@ -513,11 +513,11 @@
     </message>
     <message>
         <source>&amp;Delay:</source>
-        <translation type="unfinished">Verz&amp;ögerung:</translation>
+        <translation>&amp;Verzögerung:</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished">Schriftart:</translation>
+        <translation>&amp;Schriftart:</translation>
     </message>
     <message>
         <source>&amp;Group Chart:</source>
@@ -533,15 +533,15 @@
     </message>
     <message>
         <source>&amp;Hide sound icon during slide show</source>
-        <translation type="unfinished">Soundsymbol während der Bildschirmpräsentation verbergen</translation>
+        <translation>&amp;Tonsymbol während Bildschirmpräsentation ausblenden</translation>
     </message>
     <message>
         <source>&amp;Hide while not playing</source>
-        <translation type="unfinished">Nur bei Wiedergabe anzeigen</translation>
+        <translation>&amp;Außerhalb der Wiedergabe ausblenden</translation>
     </message>
     <message>
         <source>&amp;Repeat:</source>
-        <translation type="unfinished">Wiederholen:</translation>
+        <translation>Wieder&amp;holen:</translation>
     </message>
     <message>
         <source>&amp;Sound:</source>
@@ -549,7 +549,7 @@
     </message>
     <message>
         <source>&amp;Sp&amp;eed:</source>
-        <translation type="unfinished">Geschwindigkeit:</translation>
+        <translation>&amp;Geschwindigkeit:</translation>
     </message>
     <message>
         <source>&amp;Start:</source>
@@ -561,7 +561,7 @@
     </message>
     <message>
         <source>&amp;Zoom to full screen</source>
-        <translation type="unfinished">Vollbildmodus</translation>
+        <translation>&amp;Auf Vollbild zoomen</translation>
     </message>
     <message>
         <source>% &amp;delay between letters</source>
@@ -569,19 +569,19 @@
     </message>
     <message>
         <source>A&amp;fter:</source>
-        <translation type="unfinished">Nach:</translation>
+        <translation>N&amp;ach:</translation>
     </message>
     <message>
         <source>A&amp;uto-reverse</source>
-        <translation type="unfinished">Automatisch umkehren</translation>
+        <translation>Automatisch &amp;umkehren</translation>
     </message>
     <message>
         <source>A&amp;utomatically After</source>
-        <translation type="unfinished">Automatisch nach</translation>
+        <translation>Aut&amp;omatisch nach</translation>
     </message>
     <message>
         <source>After &amp;Current Slide</source>
-        <translation type="unfinished">Nach aktueller Folie</translation>
+        <translation>Nac&amp;h aktueller Folie</translation>
     </message>
     <message>
         <source>After Previous</source>
@@ -589,7 +589,7 @@
     </message>
     <message>
         <source>All at once</source>
-        <translation type="unfinished">Alles einmalig senden</translation>
+        <translation>Alle gleichzeitig</translation>
     </message>
     <message>
         <source>Animate Te&amp;xt:</source>
@@ -597,7 +597,7 @@
     </message>
     <message>
         <source>By Letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeichenweise</translation>
     </message>
     <message>
         <source>Chart Animation</source>
@@ -629,7 +629,7 @@
     </message>
     <message>
         <source>F&amp;irst Color:</source>
-        <translation type="unfinished">Erste Farbe:</translation>
+        <translation>Erste &amp;Farbe:</translation>
     </message>
     <message>
         <source>File:</source>
@@ -637,15 +637,15 @@
     </message>
     <message>
         <source>From &amp;Beginning</source>
-        <translation type="unfinished">Von Beginn an</translation>
+        <translation>V&amp;on Beginn an</translation>
     </message>
     <message>
         <source>From &amp;Last Postion</source>
-        <translation type="unfinished">Von letzter Position an</translation>
+        <translation>Von letzter &amp;Position</translation>
     </message>
     <message>
         <source>From Ti&amp;me:</source>
-        <translation type="unfinished">Von:</translation>
+        <translation>Ab Z&amp;eit:</translation>
     </message>
     <message>
         <source>Information</source>
@@ -661,7 +661,7 @@
     </message>
     <message>
         <source>On clic&amp;k</source>
-        <translation type="unfinished">Beim Klicken</translation>
+        <translation>Beim &amp;Klicken</translation>
     </message>
     <message>
         <source>On Click</source>
@@ -669,7 +669,7 @@
     </message>
     <message>
         <source>Pat&amp;h:</source>
-        <translation type="unfinished">Pfad:</translation>
+        <translation>&amp;Pfad:</translation>
     </message>
     <message>
         <source>Play options</source>
@@ -677,7 +677,7 @@
     </message>
     <message>
         <source>S&amp;mooth Start</source>
-        <translation type="unfinished">Reibungsloser Start</translation>
+        <translation>Reibungsl&amp;oser Start</translation>
     </message>
     <message>
         <source>Se&amp;cond Color:</source>
@@ -697,7 +697,7 @@
     </message>
     <message>
         <source>Smooth E&amp;nd</source>
-        <translation type="unfinished">Reibungsloses Ende</translation>
+        <translation>Reibungsl&amp;oses Ende</translation>
     </message>
     <message>
         <source>Sound Settings</source>
@@ -705,7 +705,7 @@
     </message>
     <message>
         <source>St&amp;yle:</source>
-        <translation type="unfinished">Formatvorlage:</translation>
+        <translation>Format&amp;vorlage:</translation>
     </message>
     <message>
         <source>Start Effects on &amp;Click of:</source>
@@ -749,30 +749,30 @@
     </message>
     <message>
         <source>&amp;Animate gridline and legend</source>
-        <translation type="unfinished">Gitternetzlinie und Legende animieren</translation>
+        <translation>&amp;Raster und Legende animieren</translation>
     </message>
     <message>
         <source>Sound &amp;volume:</source>
-        <translation type="unfinished">Lautstärke:</translation>
+        <translation>Lautst&amp;ärke:</translation>
     </message>
     <message>
         <source>Unlocked</source>
-        <translation type="unfinished"></translation>
+        <translation>Entsperrt</translation>
     </message>
 </context>
 <context>
     <name>Dlgtypography</name>
     <message>
         <source>&amp;Custom</source>
-        <translation type="unfinished">Benutzerdefiniert</translation>
+        <translation>&amp;Benutzerdefiniert</translation>
     </message>
     <message>
         <source>Cannot &amp;end line:</source>
-        <translation type="unfinished">Zeile nicht beenden mit:</translation>
+        <translation>&amp;Kein Zeilenende:</translation>
     </message>
     <message>
         <source>Cannot &amp;start line:</source>
-        <translation type="unfinished">Zeile nicht beginnen mit:</translation>
+        <translation>Kein &amp;Zeilenbeginn:</translation>
     </message>
     <message>
         <source>First and last characters</source>
@@ -799,7 +799,7 @@
     </message>
     <message>
         <source>Loading KUI</source>
-        <translation>Benutzeroberfläche wird geladen</translation>
+        <translation>GUI wird geladen</translation>
     </message>
 </context>
 <context>
@@ -814,22 +814,22 @@
     <message>
         <source>&amp;Begin style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished">Startlinienart:</translation>
+        <translation>Sta&amp;rtlinienart:</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished">Gestrichelt:</translation>
+        <translation>Gestric&amp;helt:</translation>
     </message>
     <message>
         <source>&amp;End style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished">Endlinienart:</translation>
+        <translation>Lini&amp;enende:</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished">Formatvorlage:</translation>
+        <translation>&amp;Formatvorlage:</translation>
     </message>
     <message>
         <source>Begin s&amp;ize:</source>
@@ -839,7 +839,7 @@
     <message>
         <source>De&amp;fault for new objects</source>
         <comment>formatshape</comment>
-        <translation type="unfinished">Standard für neue &amp;Objekte</translation>
+        <translation>&amp;Standard für neue Objekte</translation>
     </message>
     <message>
         <source>End si&amp;ze:</source>
@@ -879,7 +879,7 @@
     <name>KxApplication</name>
     <message>
         <source>WPS Presentation</source>
-        <translation>WPS-Präsentation</translation>
+        <translation>WPS Presentation</translation>
     </message>
 </context>
 <context>
@@ -890,11 +890,15 @@
     </message>
     <message>
         <source>Thousands of templates to create snazzy and distinctive  presentations</source>
-        <translation type="unfinished"></translation>
+        <translation>Tausende von Vorlagen für pfiffige Präsentationen mit dem besonderen Touch</translation>
     </message>
     <message>
         <source>Try for magic!</source>
-        <translation type="unfinished"></translation>
+        <translation>Versuchen Sie für Magie!</translation>
+    </message>
+    <message>
+        <source>bgMagic tooltip</source>
+        <translation type="obsolete">bgMagic-QuickInfo</translation>
     </message>
 </context>
 <context>
@@ -932,7 +936,7 @@
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation>Hintergrundfarbschema,Text- und Zeilenfarbe,Schattenfarbe,Titeltextfarbe,Füllbereichsfarbe,Akzentfarbe,Akzentfarbe und Hyperlinkfarbe,Akzentfarbe und besuchte Hyperlinkfarbe</translation>
+        <translation type="obsolete">Hintergrundfarbschema,Text- und Zeilenfarbe,Schattenfarbe,Titeltextfarbe,Füllbereichsfarbe,Akzentfarbe,Akzentfarbe und Hyperlinkfarbe,Akzentfarbe und besuchte Hyperlinkfarbe</translation>
     </message>
     <message>
         <source>Open Image</source>
@@ -955,18 +959,18 @@
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
-        <translation type="unfinished">Immer Korrekturvorschläge unterbreiten</translation>
+        <translation>&amp;Immer Korrekturvorschläge unterbreiten</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished">Wörter in GROSSBUCHSTABEN ignorieren</translation>
+        <translation>Wörter in GROSSBUCHSTABEN ig&amp;norieren</translation>
     </message>
 </context>
 <context>
     <name>KxColorSettingPanel</name>
     <message>
         <source>Accent</source>
-        <translation>Akzent</translation>
+        <translation type="obsolete">Akzent</translation>
     </message>
     <message>
         <source>Accent and followed hyperlink</source>
@@ -978,30 +982,70 @@
     </message>
     <message>
         <source>Background</source>
-        <translation>Hintergrund</translation>
+        <translation type="obsolete">Hintergrund</translation>
     </message>
     <message>
         <source>Fills</source>
-        <translation>Füllbereiche</translation>
+        <translation type="obsolete">Füllbereiche</translation>
     </message>
     <message>
         <source>Shadows</source>
-        <translation>Schatten</translation>
+        <translation type="obsolete">Schatten</translation>
     </message>
     <message>
         <source>Text and lines</source>
-        <translation>Text und Linien</translation>
+        <translation type="obsolete">Text und Linien</translation>
     </message>
     <message>
         <source>Title text</source>
-        <translation>Titeltext</translation>
+        <translation type="obsolete">Titeltext</translation>
+    </message>
+    <message>
+        <source>Dark1</source>
+        <translation>Dunkel1</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation>Hell</translation>
+    </message>
+    <message>
+        <source>Dark2</source>
+        <translation>Dunkel2</translation>
+    </message>
+    <message>
+        <source>Light2</source>
+        <translation>Hell2</translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <translation>Akzent1</translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <translation>Akzent2</translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <translation>Akzent3</translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <translation>Akzent4</translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <translation>Akzent5</translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <translation>Akzent6</translation>
     </message>
 </context>
 <context>
     <name>KxCommentWidget</name>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished">Weiter</translation>
+        <translation>&amp;Weiter</translation>
     </message>
     <message>
         <source>Delete all comments and ink annotations in this presentation?</source>
@@ -1009,11 +1053,11 @@
     </message>
     <message>
         <source>WPS Presentation reached the beginning of the slide. Do you want to continue from the end?</source>
-        <translation>WPS-Präsentation hat den Anfang der Folie erreicht. Möchten Sie vom Ende fortsetzen?</translation>
+        <translation>WPS Presentation hat den Anfang der Folie erreicht. Möchten Sie vom Ende fortsetzen?</translation>
     </message>
     <message>
         <source>WPS Presentation reached the end of the slide. Do you want to continue from the beginning?</source>
-        <translation>WPS-Präsentation hat den Anfang der Folie erreicht. Möchten Sie vom Anfang fortsetzen?</translation>
+        <translation>WPS Presentation hat den Anfang der Folie erreicht. Möchten Sie vom Anfang fortsetzen?</translation>
     </message>
 </context>
 <context>
@@ -1066,7 +1110,7 @@
     </message>
     <message>
         <source>&amp;Background fill</source>
-        <translation>Hintergrundfüllbereich</translation>
+        <translation>Hintergrundfüll&amp;bereich</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
@@ -1074,7 +1118,7 @@
     </message>
     <message>
         <source>Apply &amp;to All</source>
-        <translation type="unfinished">Für alles übernehmen</translation>
+        <translation>&amp;Auf alle anwenden</translation>
     </message>
     <message>
         <source>Background</source>
@@ -1102,14 +1146,14 @@
     </message>
     <message>
         <source>Magic Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorlagenhintergrund</translation>
     </message>
 </context>
 <context>
     <name>KxDlgBkgndMusicTip</name>
     <message>
         <source>&amp;Do not prompt next time.</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Beim nächsten Mal nicht auffordern</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -1133,26 +1177,26 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>&amp;Show:</source>
-        <translation type="unfinished">Wiedergabe:</translation>
+        <translation>V&amp;orführen:</translation>
     </message>
     <message>
         <source>S&amp;lide titles:</source>
-        <translation type="unfinished">Folientitel:</translation>
+        <translation>&amp;Folientitel:</translation>
     </message>
     <message>
         <source>Slides Roaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Roaming-Folien</translation>
     </message>
 </context>
 <context>
     <name>KxDlgBulletsNumbering</name>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished">Farbe:</translation>
+        <translation>&amp;Farbe:</translation>
     </message>
     <message>
         <source>&amp;Picture...</source>
-        <translation type="unfinished">Grafik...</translation>
+        <translation>&amp;Bild...</translation>
     </message>
     <message>
         <source>% of text</source>
@@ -1168,7 +1212,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>C&amp;ustomize...</source>
-        <translation type="unfinished">Anpassen...</translation>
+        <translation>A&amp;npassen...</translation>
     </message>
     <message>
         <source>Numbered</source>
@@ -1176,30 +1220,30 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>R&amp;eset</source>
-        <translation type="unfinished">Zurücksetzen</translation>
+        <translation>&amp;Zurücksetzen</translation>
     </message>
     <message>
         <source>S&amp;ize:</source>
-        <translation type="unfinished">Größe:</translation>
+        <translation>&amp;Größe:</translation>
     </message>
     <message>
         <source>&amp;Begin a&amp;t:</source>
-        <translation type="unfinished">Beginnen mit:</translation>
+        <translation>&amp;Start bei:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCheckSpelling</name>
     <message>
         <source>&amp;Add to Dictionary</source>
-        <translation type="unfinished">Zum Wörterbuch hinzufügen</translation>
+        <translation>Zum Wörterbuch &amp;hinzufügen</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished">Ändern</translation>
+        <translation>Än&amp;dern</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">Löschen</translation>
+        <translation>&amp;Löschen</translation>
     </message>
     <message>
         <source>&amp;Ignore</source>
@@ -1211,7 +1255,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>&amp;Paragraph:</source>
-        <translation type="unfinished">Absatz:</translation>
+        <translation>&amp;Absatz:</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
@@ -1219,11 +1263,11 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Change &amp;to:</source>
-        <translation type="unfinished">Ändern als:</translation>
+        <translation>Ändern &amp;zu:</translation>
     </message>
     <message>
         <source>Change A&amp;ll</source>
-        <translation type="unfinished">Alles ändern</translation>
+        <translation>A&amp;lle ändern</translation>
     </message>
     <message>
         <source>Close</source>
@@ -1231,11 +1275,11 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>I&amp;gnore All</source>
-        <translation type="unfinished">ALees ignorieren</translation>
+        <translation>Alle i&amp;gnorieren</translation>
     </message>
     <message>
         <source>Suggestio&amp;ns:</source>
-        <translation type="unfinished">Vorschläge:</translation>
+        <translation>&amp;Vorschläge:</translation>
     </message>
     <message>
         <source>The word is not in the dictionary</source>
@@ -1247,22 +1291,45 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>&amp;Set Language</source>
-        <translation type="unfinished">Sprachen einstellen</translation>
+        <translation>&amp;Sprache festlegen</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCompatibilityChecker</name>
+    <message>
+        <source>Compatibility Checker</source>
+        <translation>Kompatibilitätsprüfung</translation>
+    </message>
+    <message>
+        <source>The following features in this presentation are not supported by earlier versions of WPS Presentation.These features may be lost or degraded when you save this presentation in an earlier file format.Click Continue to save the presentation anyway. To retain all of your features click Cancel and save in one of the new file formats.</source>
+        <translation>Die folgenden Features in dieser Präsentation werden von früheren WPS Presentation-Versionen nicht unterstützt. Beim Speichern der Präsentation in einem früheren Dateiformat gehen diese Features möglicherweise verloren oder werden heruntergestuft. Klicken Sie auf &apos;Weiter&apos;, um die Präsentation trotzdem zu speichern. Klicken Sie auf &apos;Abbrechen&apos;, und speichern Sie die Präsentation in einem der neuen Dateiformate, um alle Features beizubehalten.</translation>
+    </message>
+    <message>
+        <source>Summary:</source>
+        <translation>Zusammenfassung:</translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation>&amp;Weiter</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
     <name>KxDlgDateAndTime</name>
     <message>
         <source>&amp;Available formats:</source>
-        <translation type="unfinished">Verfügbare Formate:</translation>
+        <translation>&amp;Verfügbare Formate:</translation>
     </message>
     <message>
         <source>&amp;Language(Country/Area):</source>
-        <translation type="unfinished">Sprache(Land/Region):</translation>
+        <translation>&amp;Sprache (Land/Region):</translation>
     </message>
     <message>
         <source>&amp;Update automatically</source>
-        <translation type="unfinished">Automatisch aktualisieren</translation>
+        <translation>&amp;Automatisch aktualisieren</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -1273,7 +1340,7 @@ the presentation file directly.You can put it with the presentation file in the 
     <name>KxDlgDeletebkmusic</name>
     <message>
         <source>&amp;Do not prompt next time.</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Beim nächsten Mal nicht auffordern</translation>
     </message>
     <message>
         <source>Are you sure to delete the background music from current slide?</source>
@@ -1292,99 +1359,109 @@ the presentation file directly.You can put it with the presentation file in the 
     <name>KxDlgEmbedPrivateFonts</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialogfeld</translation>
     </message>
     <message>
         <source>Text Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Textetikett</translation>
     </message>
     <message>
         <source>The document contains cloud fonts. For the convenience of your readers, 
 we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
-        <translation type="unfinished"></translation>
+        <translation>Online-Schriftarten für Anwendungsdokumente: Wenn Ihr Dokument weitergegeben werden muss, 
+sollten Sie die Schriftart im Dokument speichern. 
+Wenn dies nicht nötig ist, klicken Sie auf „Abbrechen“.</translation>
     </message>
     <message>
         <source>Remember my choice, and don&apos;t prompt me again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswahl merken und nicht mehr erinnern.</translation>
+    </message>
+    <message>
+        <source>Application documents online font, if your document needs circulated others, 
+we recommend that you saved earlier document fonts. 
+If necessary, click Cancel</source>
+        <translation type="obsolete">Online-Schriftarten für Anwendungsdokumente: Wenn Ihr Dokument weitergegeben werden muss, 
+sollten Sie die Schriftart im Dokument speichern. 
+Wenn dies nicht nötig ist, klicken Sie auf &quot;Abbrechen&quot;.</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFont</name>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished">Farbe:</translation>
+        <translation type="obsolete">&amp;Farbe:</translation>
     </message>
     <message>
         <source>&amp;Default for new objects</source>
-        <translation>Standard für neue &amp;Objekte</translation>
+        <translation type="obsolete">Standard für neue &amp;Objekte</translation>
     </message>
     <message>
         <source>&amp;Emboss</source>
-        <translation type="unfinished">Relief</translation>
+        <translation type="obsolete">Re&amp;lief</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished">Schriftgrad:</translation>
+        <translation type="obsolete">&amp;Größe:</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation>&amp;Unterstrichen</translation>
+        <translation type="obsolete">&amp;Unterstrichen</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation type="unfinished">Schriftart für asiatischen Text:</translation>
+        <translation type="obsolete">Schriftart für asiatische&amp;n Text:</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>Fett</translation>
+        <translation type="obsolete">Fett</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation>Fett Kursiv</translation>
+        <translation type="obsolete">Fett Kursiv</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation>Effekte</translation>
+        <translation type="obsolete">Effekte</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
-        <translation type="unfinished">Schriftschnitt:</translation>
+        <translation type="obsolete">&amp;Schriftschnitt:</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Schriftart</translation>
+        <translation type="obsolete">Schriftart</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Kursiv</translation>
+        <translation type="obsolete">Kursiv</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation type="unfinished">Schriftart für westlichen Text:</translation>
+        <translation type="obsolete">Schriftart für &amp;westlichen Text:</translation>
     </message>
     <message>
         <source>Offse&amp;t:</source>
-        <translation type="unfinished">Versatz:</translation>
+        <translation type="obsolete">&amp;Versetzt:</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation>Normal</translation>
+        <translation type="obsolete">Normal</translation>
     </message>
     <message>
         <source>Sh&amp;adow</source>
-        <translation type="unfinished">Schatten</translation>
+        <translation type="obsolete">Sch&amp;atten</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation>&amp;Tiefgestellt</translation>
+        <translation type="obsolete">&amp;Tiefgestellt</translation>
     </message>
     <message>
         <source>Supe&amp;rscript</source>
-        <translation type="unfinished">Hochgestellt</translation>
+        <translation type="obsolete">&amp;Hochgestellt</translation>
     </message>
     <message>
         <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
-        <translation>TrueType-Schriftart: Für Ausdruck und Bildschirmanzeige wird dieselbe Schriftart verwendet.</translation>
+        <translation type="obsolete">TrueType-Schriftart: Für Ausdruck und Bildschirmanzeige wird dieselbe Schriftart verwendet.</translation>
     </message>
 </context>
 <context>
@@ -1396,7 +1473,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>&amp;Objects follow with guides       </source>
-        <translation>Objekte folgen den Zeichnungslinien</translation>
+        <translation>&amp;Objekte folgen den Zeichnungslinien</translation>
     </message>
     <message>
         <source>&amp;Snap objects to other objects</source>
@@ -1482,6 +1559,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <source>Set as Default(&amp;C)</source>
         <translation>&amp;Als Standard festlegen</translation>
     </message>
+    <message>
+        <source>Enter 0.1 cm to 5.079 cm of value</source>
+        <translation>Wert zwischen 0,1 cm und 5,079 cm eingeben</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgHeaderFooter</name>
@@ -1491,7 +1572,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>&amp;Date and time</source>
-        <translation type="unfinished">Datum und Uhrzeit</translation>
+        <translation>Datum &amp;und Uhrzeit</translation>
     </message>
     <message>
         <source>&amp;Footer</source>
@@ -1499,23 +1580,23 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>&amp;Header</source>
-        <translation type="unfinished">Kopfzeile</translation>
+        <translation>Kopf&amp;zeile</translation>
     </message>
     <message>
         <source>&amp;Language:</source>
-        <translation type="unfinished">Sprache (Land/Region):</translation>
+        <translation>&amp;Sprache:</translation>
     </message>
     <message>
         <source>&amp;Page number</source>
-        <translation type="unfinished">Seitenzahl</translation>
+        <translation>S&amp;eitenzahl</translation>
     </message>
     <message>
         <source>&amp;Update automatically</source>
-        <translation type="unfinished">Automatisch aktualisieren</translation>
+        <translation>&amp;Automatisch aktualisieren</translation>
     </message>
     <message>
         <source>Appl&amp;y to All</source>
-        <translation type="unfinished">Für Alles übernehmen</translation>
+        <translation>Für &amp;alle übernehmen</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1523,7 +1604,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Do not show on title &amp;slide</source>
-        <translation type="unfinished">Titelfolie ausblenden</translation>
+        <translation>Auf &amp;Titelfolie nicht anzeigen</translation>
     </message>
     <message>
         <source>Fi&amp;xed</source>
@@ -1574,11 +1655,11 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation>WPS-Präsentation</translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>When &amp;Clicked</source>
-        <translation type="unfinished">Beim Klicken</translation>
+        <translation>Beim &amp;Klicken</translation>
     </message>
 </context>
 <context>
@@ -1589,18 +1670,18 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Number of &amp;rows:</source>
-        <translation type="unfinished">Zeilenanzahl:</translation>
+        <translation>Zeilena&amp;nzahl:</translation>
     </message>
     <message>
         <source>Number of &amp;columns:</source>
-        <translation type="unfinished">Spaltenanzahl:</translation>
+        <translation>Spaltenan&amp;zahl:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgLecturerRemark</name>
     <message>
         <source>&amp;Slide:</source>
-        <translation type="unfinished">Folie:</translation>
+        <translation>&amp;Folie:</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
@@ -1623,7 +1704,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>&amp;Slide number</source>
-        <translation type="unfinished">Foliennummer</translation>
+        <translation>Foli&amp;ennummer</translation>
     </message>
     <message>
         <source>&amp;Title</source>
@@ -1646,15 +1727,15 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>KxDlgMovieOptions</name>
     <message>
         <source>&amp;Loop until stopped</source>
-        <translation type="unfinished">Endlos weiterspielen</translation>
+        <translation>&amp;Wiederholen, bis angehalten wird</translation>
     </message>
     <message>
         <source>&amp;Rewind movie after playing</source>
-        <translation type="unfinished">Nach Wiedergabe zurückspulen</translation>
+        <translation>&amp;Nach der Wiedergabe Film zurückspulen</translation>
     </message>
     <message>
         <source>&amp;Zoom to full screen</source>
-        <translation type="unfinished">Vollbildmodus</translation>
+        <translation>&amp;Auf Vollbild zoomen</translation>
     </message>
     <message>
         <source>Display options</source>
@@ -1682,7 +1763,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Sound &amp;volume:</source>
-        <translation type="unfinished">Lautstärke:</translation>
+        <translation>Lautst&amp;ärke:</translation>
     </message>
 </context>
 <context>
@@ -1693,15 +1774,15 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>&amp;Adjust title text by placeholder automatically</source>
-        <translation type="unfinished">Titeltext an Platzhalter automatisch anpassen</translation>
+        <translation>&amp;Überschriftentext nach Platzhaltern automatisch anpassen</translation>
     </message>
     <message>
         <source>&amp;Advanced</source>
-        <translation type="unfinished">Erweitert</translation>
+        <translation>&amp;Weitere</translation>
     </message>
     <message>
         <source>&amp;Default file location:</source>
-        <translation type="unfinished">Standardspeicherort:</translation>
+        <translation>&amp;Standardspeicherort:</translation>
     </message>
     <message>
         <source>&amp;End with black slide</source>
@@ -1713,19 +1794,19 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation type="unfinished">Liste zuletzt geöffneter Dateien:</translation>
+        <translation>Liste zuletzt ge&amp;öffneter Dateien:</translation>
     </message>
     <message>
         <source>&amp;Reenter password:</source>
-        <translation type="unfinished">Kennwort erneut eingeben:</translation>
+        <translation>&amp;Kennwort erneut eingeben:</translation>
     </message>
     <message>
         <source>&amp;Right of slide</source>
-        <translation type="unfinished">Reche Seite der Folie</translation>
+        <translation>&amp;Rechts der Folie</translation>
     </message>
     <message>
         <source>&amp;Save backup file every:</source>
-        <translation type="unfinished">Sicherungsdatei speichern jede:</translation>
+        <translation>&amp;Sicherungsdateien speichern alle:</translation>
     </message>
     <message>
         <source>&amp;Smart Backup</source>
@@ -1733,19 +1814,19 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>&amp;Vertical ruler</source>
-        <translation type="unfinished">Vertikales Lineal</translation>
+        <translation>&amp;Vertikales Lineal</translation>
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
-        <translation type="unfinished">Immer Korrekturvorschläge unterbreiten</translation>
+        <translation>&amp;Immer Korrekturvorschläge unterbreiten</translation>
     </message>
     <message>
         <source>Adj&amp;ust normal text by placeholder automatically</source>
-        <translation type="unfinished">Untertiteltext an Platzhalter automatisch anpassen</translation>
+        <translation>&amp;Normalen Text nach Platzhaltern automatisch anpassen</translation>
     </message>
     <message>
         <source>Apply Auto&amp;Layout to new objects.</source>
-        <translation type="unfinished">Auto&amp;Layout für neue Objekte übernehmen.</translation>
+        <translation>Auto&amp;Layouts für neue Objekte übernehmen.</translation>
     </message>
     <message>
         <source>Apply when typing</source>
@@ -1761,11 +1842,11 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation type="unfinished">Sicherungsdatei beim ersten Speichern erstellen</translation>
+        <translation>&amp;Sicherungsdatei beim ersten Speichern erstellen</translation>
     </message>
     <message>
         <source>Custom &amp;Dictionaries...</source>
-        <translation type="unfinished">Benutzerwörterbücher...</translation>
+        <translation>Benutzer&amp;wörterbücher...</translation>
     </message>
     <message>
         <source>Default print setting for this document</source>
@@ -1813,11 +1894,11 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Le&amp;ft of slide</source>
-        <translation type="unfinished">Linke Seite der Folie</translation>
+        <translation>&amp;Links der Folie</translation>
     </message>
     <message>
         <source>New Doc&amp;ument</source>
-        <translation type="unfinished">Neues Dokument</translation>
+        <translation>Neues Dok&amp;ument</translation>
     </message>
     <message>
         <source>Notes pages</source>
@@ -1833,7 +1914,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Password to &amp;modify:</source>
-        <translation type="unfinished">Kennwort zum Ändern:</translation>
+        <translation>Kennw&amp;ort zum Ändern:</translation>
     </message>
     <message>
         <source>PowerPoint Presentation</source>
@@ -1845,15 +1926,15 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
-        <translation type="unfinished">Ausgeblendete Folien drucken</translation>
+        <translation>&amp;Ausgeblendete Folien drucken</translation>
     </message>
     <message>
         <source>Print &amp;what:</source>
-        <translation type="unfinished">&amp;Drucken:</translation>
+        <translation>&amp;Drucken:</translation>
     </message>
     <message>
         <source>Prompt to &amp;keep ink when exiting</source>
-        <translation type="unfinished">Freihandanmerkungen beim Abbrechen beibehalten</translation>
+        <translation>&amp;Beim Beenden Aufforderung zum Beibehalten der Freihandanmerkungen anzeigen</translation>
     </message>
     <message>
         <source>Recovery options</source>
@@ -1861,11 +1942,11 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Reenter &amp;password:</source>
-        <translation type="unfinished">Kennwort erneut eingeben:</translation>
+        <translation>Kennwort &amp;erneut eingeben:</translation>
     </message>
     <message>
         <source>Save &amp;presentation files as:</source>
-        <translation type="unfinished">Präsentationsdatei speichern als:</translation>
+        <translation>&amp;Präsentationsdateien speichern unter:</translation>
     </message>
     <message>
         <source>Save options</source>
@@ -1881,7 +1962,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Slide &amp;layout task pane while insert new slides</source>
-        <translation type="unfinished">Folienlayout-Aufgabenbereich beim Einfügen neuer Folie anzeigen</translation>
+        <translation>&amp;Layout-Arbeitsbereich beim Einfügen neuer Folien verschieben</translation>
     </message>
     <message>
         <source>Slide show</source>
@@ -1893,7 +1974,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Status &amp;bar</source>
-        <translation type="unfinished">Statusleiste</translation>
+        <translation>Status&amp;leiste</translation>
     </message>
     <message>
         <source>Thumbnail and outline position</source>
@@ -1905,7 +1986,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Use the most &amp;recently print settings</source>
-        <translation type="unfinished">Letzte Druckeinstellungen verwenden</translation>
+        <translation>Die &amp;letzten Druckeinstellungen verwenden</translation>
     </message>
     <message>
         <source>User Information</source>
@@ -1917,11 +1998,11 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Start&amp;up task window</source>
-        <translation type="unfinished">Aufgabenbereich starten</translation>
+        <translation>&amp;Startaufgabenfenster</translation>
     </message>
     <message>
         <source>Show menu on right mouse click(&amp;P)</source>
-        <translation type="unfinished">Menü beim Klicken mit der rechten Maustaste anzeigen</translation>
+        <translation>Menü beim Klicken mit der rechten Maustaste anzeigen (&amp;M)</translation>
     </message>
     <message>
         <source>&amp;entries</source>
@@ -1929,7 +2010,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
-        <translation type="unfinished">Zeit-Sicherung aktivieren</translation>
+        <translation>&amp;Zeitgesteuerte Sicherungskopie aktivieren</translation>
     </message>
     <message>
         <source>&amp;minutes</source>
@@ -1941,11 +2022,11 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>WPS Presentation File</source>
-        <translation>WPS-Präsentationsdatei</translation>
+        <translation>WPS Presentationsdatei</translation>
     </message>
     <message>
         <source>Preserve &amp;fidelity when sharing this document:</source>
-        <translation type="unfinished">Genauigkeit beim Freigeben dieses Dokuments beibehalten:</translation>
+        <translation>&amp;Genauigkeit beim Freigeben dieses Dokuments beibehalten:</translation>
     </message>
     <message>
         <source>Embed &amp;True Type</source>
@@ -1969,11 +2050,11 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Online Templates(&amp;G)</source>
-        <translation type="unfinished">Onlinevorlagen</translation>
+        <translation>Online-Vorlagen (&amp;G)</translation>
     </message>
     <message>
         <source>&amp;Color/Grayscale:</source>
-        <translation type="unfinished">Farbe/Graustufe:</translation>
+        <translation>&amp;Farbe und Graustufe:</translation>
     </message>
     <message>
         <source>Pure black and white</source>
@@ -1987,7 +2068,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Document passw&amp;ord:</source>
-        <translation type="unfinished">Dokumentkennwort:</translation>
+        <translation>Dokument&amp;kennwort:</translation>
     </message>
     <message>
         <source>Caution: please keep your password properly. File will never be recovered if you lose or forget the password.(Remember that passwords are case-sensitive.)</source>
@@ -1999,62 +2080,126 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished">Wörter in Grossbuchstaben ignorieren</translation>
+        <translation>Wörter in GROSSBUCHSTABEN ig&amp;norieren</translation>
     </message>
     <message>
         <source>Privacy</source>
-        <translation>Datenschutz</translation>
+        <translation type="obsolete">Datenschutz</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>Helfen Sie bitte uns dabei, WPS-Office zu verbessern</translation>
+        <translation type="unfinished">Helfen Sie bitte uns dabei, WPS Office zu verbessern</translation>
     </message>
     <message>
         <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nur im Dokument verwendete Zeichen einbetten (zum Reduzieren der Dateigröße)</translation>
     </message>
     <message>
         <source>Embed fon&amp;ts in the file</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Schriftarten in die Datei einbetten</translation>
     </message>
     <message>
         <source>Embed all &amp;characters (best for editing by other people)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle &amp;Zeichen einbetten (zum Bearbeiten durch andere Personen)</translation>
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fenster in Taskleiste anzeigen</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Automatische Wiederherstellung des Dateispeicherorts:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">Durchsuchen...</translation>
+        <translation>&amp;Durchsuchen...</translation>
     </message>
     <message>
         <source>Remind &amp;Me When Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Beim Speichern &amp;erinnern</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mit der Schaltfläche „Erweitert“ können Sie aus verschiedenen Verschlüsselungsarten auswählen.</translation>
     </message>
     <message>
         <source>General options</source>
-        <translation type="unfinished"></translation>
+        <translation>Allgemeine Optionen</translation>
     </message>
     <message>
         <source>Password protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Kennwortschutz</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation>Minisymbolleiste für die Auswahl anzeigen (&amp;D)</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation>Minisymbolleiste bei Rec&amp;htsklick anzeigen</translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation>WPS Minisite abonnieren</translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation>Je&amp;den Tag anzeigen</translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation>Nach einer Woche anzeigen (&amp;Y)</translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation>Nicht &amp;erneut anzeigen</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Zu viel Werbung? Suchen Sie nach neuen Änderungen&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>Feedback</translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="obsolete">Teilnehmen Sie am Programm zur Verbesserung der Erfahrung und helfen uns dabei.</translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="obsolete">Sprache</translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
+        <translation type="obsolete">Laden Sie Sprachpakete automatisch herunter und aktualisieren Sie diese</translation>
+    </message>
+    <message>
+        <source>Choose Display and Help Languages</source>
+        <translation type="obsolete">Sprache der Anzeige und Hilfe auswählen</translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation type="obsolete">Auswählen...</translation>
+    </message>
+    <message>
+        <source>Shortcuts</source>
+        <translation type="obsolete">Verknüpfungen</translation>
+    </message>
+    <message>
+        <source>Custom Shortcuts:</source>
+        <translation type="obsolete">Benutzerdefinierte Verknüpfungen:</translation>
+    </message>
+    <message>
+        <source>&amp;Shortcuts</source>
+        <translation type="obsolete">&amp;Verknüpfungen</translation>
     </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
     <message>
         <source>&amp;Location:</source>
-        <translation type="unfinished">Speicherort:</translation>
+        <translation>&amp;Speicherort:</translation>
     </message>
     <message>
         <source>Presentation Package</source>
@@ -2066,11 +2211,11 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Folder &amp;name:</source>
-        <translation type="unfinished">Ordnername:</translation>
+        <translation>&amp;Ordnername:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">Durchsuchen...</translation>
+        <translation>&amp;Durchsuchen...</translation>
     </message>
     <message>
         <source>&amp;Also packaged as compressed file</source>
@@ -2199,6 +2344,121 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
         <source>Notes, handouts and outline</source>
         <translation>Notizen, Handzettel und Gliederung</translation>
     </message>
+    <message>
+        <source>Enter 2.54 to 142.22 cm of value</source>
+        <translation>Wert zwischen 2,54 und 142,22 cm eingeben</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgParagraph</name>
+    <message>
+        <source>Paragraph</source>
+        <translation type="obsolete">Absatz</translation>
+    </message>
+    <message>
+        <source>&amp;Indents and Spacing</source>
+        <translation type="obsolete">&amp;Einzüge und Abstände</translation>
+    </message>
+    <message>
+        <source>point, 2, 0, 1584, 1</source>
+        <translation type="obsolete">Punkt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>line, 2, 0, 9.99, 0.1</source>
+        <translation type="obsolete">Zeile, 2, 0, 9.99, 0.1</translation>
+    </message>
+    <message>
+        <source>A&amp;fter:</source>
+        <translation type="obsolete">Nach:(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;At:</source>
+        <translation type="obsolete">Vo&amp;n:</translation>
+    </message>
+    <message>
+        <source>&amp;Before:</source>
+        <translation type="obsolete">&amp;Vor:</translation>
+    </message>
+    <message>
+        <source>Li&amp;ne spacing:</source>
+        <translation type="obsolete">&amp;Zeilenabstand:</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="obsolete">Allgemein</translation>
+    </message>
+    <message>
+        <source>Spacing</source>
+        <translation type="obsolete">Abstand</translation>
+    </message>
+    <message>
+        <source>Ali&amp;gnment:</source>
+        <translation type="obsolete">A&amp;usrichtung:</translation>
+    </message>
+    <message>
+        <source>Indentation</source>
+        <translation type="obsolete">Einzug</translation>
+    </message>
+    <message>
+        <source>Befo&amp;re text:</source>
+        <translation type="obsolete">Vo&amp;r Text:</translation>
+    </message>
+    <message>
+        <source>&amp;Special:</source>
+        <translation type="obsolete">&amp;Sondereinzug:</translation>
+    </message>
+    <message>
+        <source>B&amp;y:</source>
+        <translation type="obsolete">V&amp;on:</translation>
+    </message>
+    <message>
+        <source>C&amp;hinese Format</source>
+        <translation type="obsolete">C&amp;hinesisches Format</translation>
+    </message>
+    <message>
+        <source>Line Break</source>
+        <translation type="obsolete">Zeilenumbruch</translation>
+    </message>
+    <message>
+        <source>&amp;Use Asian rules for controlling first and last characters</source>
+        <translation type="obsolete">&amp;Asiatische Regeln zum Steuern von Anfangs- und Endzeichen verwenden</translation>
+    </message>
+    <message>
+        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
+        <translation type="obsolete">Textumbruch für lateinischen Zeichensatz in der Mitte des Wortes zulassen</translation>
+    </message>
+    <message>
+        <source>Allow hanging punctuatio&amp;n</source>
+        <translation type="obsolete">Hängende Interpunktio&amp;n zulassen</translation>
+    </message>
+    <message>
+        <source>First and last characters</source>
+        <translation type="obsolete">Erste und letzte Zeichen</translation>
+    </message>
+    <message>
+        <source>&amp;Standard</source>
+        <translation type="obsolete">&amp;Standard</translation>
+    </message>
+    <message>
+        <source>Custo&amp;m</source>
+        <translation type="obsolete">&amp;Anpassen</translation>
+    </message>
+    <message>
+        <source>Cannot st&amp;art line:</source>
+        <translation type="obsolete">Kein Zeilenbe&amp;ginn:</translation>
+    </message>
+    <message>
+        <source>Cann&amp;ot end line:</source>
+        <translation type="obsolete">Kein &amp;Zeilenende:</translation>
+    </message>
+    <message>
+        <source>Line-breaking characters currently customized for:</source>
+        <translation type="obsolete">Zeilenumbruchzeichen momentan eingestellt für:</translation>
+    </message>
+    <message>
+        <source>&amp;Layout</source>
+        <translation type="obsolete">&amp;Layout</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgProgress</name>
@@ -2238,11 +2498,11 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <name>KxDlgSaveInk</name>
     <message>
         <source>&amp;Discard</source>
-        <translation type="unfinished">Verwerfen</translation>
+        <translation>&amp;Verwerfen</translation>
     </message>
     <message>
         <source>&amp;Keep</source>
-        <translation type="unfinished">Beibehalten</translation>
+        <translation>&amp;Beibehalten</translation>
     </message>
     <message>
         <source>Do you want to keep your ink annotations?</source>
@@ -2250,7 +2510,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation>WPS-Präsentation</translation>
+        <translation>WPS Presentation</translation>
     </message>
 </context>
 <context>
@@ -2301,7 +2561,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Backspace, &apos;P&apos;, left or up arrow, or page up</source>
-        <translation>Rücktaste, &quot;P&quot;, Nach-Links oder Nach-Oben-Taste, oder Bild-Nach-Oben-Taste</translation>
+        <translation>Rücktaste, „P“, Nach-Links oder Nach-Oben-Taste, oder Bild-Nach-Oben-Taste</translation>
     </message>
     <message>
         <source>Press Esc</source>
@@ -2320,7 +2580,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <name>KxDlgSoundOptions</name>
     <message>
         <source>&amp;Loop until stopped</source>
-        <translation type="unfinished">Endlos weiterspielen</translation>
+        <translation>&amp;Wiederholen, bis angehalten wird</translation>
     </message>
     <message>
         <source>File:</source>
@@ -2340,18 +2600,22 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Sound &amp;volume:</source>
-        <translation type="unfinished">Lautstärke:</translation>
+        <translation>Lautst&amp;ärke:</translation>
     </message>
     <message>
         <source>Total Playing Time:</source>
         <translation>Gesamtspielzeit:</translation>
+    </message>
+    <message>
+        <source>&amp;Hide icon on play</source>
+        <translation>&amp;Symbol beim Abspielen ausblenden</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSplitCells</name>
     <message>
         <source>Number of &amp;rows:</source>
-        <translation type="unfinished">Zeilenanzahl:</translation>
+        <translation>Zeilena&amp;nzahl:</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -2359,7 +2623,34 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Number of &amp;columns:</source>
-        <translation type="unfinished">Spaltenanzahl:</translation>
+        <translation>Spaltenan&amp;zahl:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTrimMedia</name>
+    <message>
+        <source>Trim Media</source>
+        <translation>Medium kürzen</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>Textetikett</translation>
+    </message>
+    <message>
+        <source>&amp;Start Time</source>
+        <translation>&amp;Startzeit</translation>
+    </message>
+    <message>
+        <source>&amp;End Time</source>
+        <translation>&amp;Endzeit</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -2390,7 +2681,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>&amp;Percent</source>
-        <translation>&amp;Perzent</translation>
+        <translation>&amp;Prozent</translation>
     </message>
     <message>
         <source>%</source>
@@ -2406,26 +2697,26 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>&amp;Fit</source>
-        <translation type="unfinished">Anpassen</translation>
+        <translation>&amp;Anpassen</translation>
     </message>
 </context>
 <context>
     <name>KxDlgVolumeRedress</name>
     <message>
         <source>&amp;Mute</source>
-        <translation type="unfinished">Ton aus</translation>
+        <translation>&amp;Ton aus</translation>
     </message>
     <message>
         <source>&amp;Volume</source>
-        <translation type="unfinished">Lautstärke</translation>
+        <translation>Lautst&amp;ärke</translation>
     </message>
     <message>
         <source>cbMute</source>
-        <translation type="unfinished"></translation>
+        <translation>cbMute</translation>
     </message>
     <message>
         <source>tbVolume</source>
-        <translation type="unfinished"></translation>
+        <translation>tbVolume</translation>
     </message>
     <message>
         <source>Volume Redress</source>
@@ -2433,30 +2724,30 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Volume Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Lautstärkeregelung</translation>
     </message>
 </context>
 <context>
     <name>KxDlgWppActionSettings</name>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">Durchsuchen...</translation>
+        <translation>&amp;Durchsuchen...</translation>
     </message>
     <message>
         <source>&amp;Hyperlink to:</source>
-        <translation type="unfinished">Hyperlink zu:</translation>
+        <translation>&amp;Hyperlink zu:</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished">Keine</translation>
+        <translation>O&amp;hne</translation>
     </message>
     <message>
         <source>&amp;Play sound:</source>
-        <translation type="unfinished">Sound wiedergeben:</translation>
+        <translation>Sound &amp;wiedergeben:</translation>
     </message>
     <message>
         <source>&amp;Run program</source>
-        <translation type="unfinished">Programm ausführen</translation>
+        <translation>&amp;Programm ausführen</translation>
     </message>
     <message>
         <source>Action on click</source>
@@ -2516,7 +2807,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Run &amp;macro:</source>
-        <translation type="unfinished">Makro ausführen:</translation>
+        <translation>&amp;Makro ausführen:</translation>
     </message>
     <message>
         <source>Slide...</source>
@@ -2524,14 +2815,14 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Other WPS Presentation file...</source>
-        <translation>Weitere WPS-Präsentationsdatei...</translation>
+        <translation>Weitere WPS Presentation Datei...</translation>
     </message>
 </context>
 <context>
     <name>KxDlgWppColorScheme</name>
     <message>
         <source> Change C&amp;olor... </source>
-        <translation type="unfinished">Farbe ändern... </translation>
+        <translation> &amp;Farbe ändern... </translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -2539,11 +2830,11 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>&amp;Color schemes</source>
-        <translation type="unfinished">Farbschemas</translation>
+        <translation>F&amp;arbschemen</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation type="unfinished">Vorschau</translation>
+        <translation>&amp;Vorschau</translation>
     </message>
     <message>
         <source>&amp;Scheme colors</source>
@@ -2563,7 +2854,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source> De&amp;lete Color Scheme </source>
-        <translation type="unfinished">Farbschemas löschen </translation>
+        <translation> &amp;Farbschema löschen </translation>
     </message>
 </context>
 <context>
@@ -2582,18 +2873,18 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>   Use extend mode to show the speaker view and playing view on different monitors. The audience can only see the process of slide shows and the operation of drawing marks. The speaker can run other programs or perform other operations without the audience&apos;s noticing</source>
-        <translation type="unfinished"></translation>
+        <translation>   Erweiterten Modus verwenden, um die Redner- und Wiedergabeansicht auf verschiedenen Bildschirmen anzuzeigen. Das Publikum kann nur die Bildschirmpräsentation und die Bewegung der Zeichnungsmarkierungen sehen. Der Redner kann andere Programme oder Vorgänge ausführen, die das Publikum nicht sieht.</translation>
     </message>
     <message>
         <source>   This wizard will help you to understand the various settings of the double-screen extended mode. Please use the following links to view the help files:</source>
-        <translation type="unfinished"></translation>
+        <translation>   Dieser Assistent vermittelt Ihnen die verschiedenen Einstellungen des erweiterten Modus für zwei Bildschirme. Mit folgenden Verknüpfungen können Sie die Hilfedateien aufrufen:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgWppLinkToCustomShows</name>
     <message>
         <source>&amp;Show and return</source>
-        <translation type="unfinished">Anzeigen und zurückkehren</translation>
+        <translation>&amp;Anzeigen und zurückkehren</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
@@ -2722,16 +3013,51 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
         <source>Enter slide numbers or slide ranges. For example, 1,3,5-12</source>
         <translation>Geben Sie die Foliennummern und/oder den Folienbereich an. Zum Beispiel: 1,3,5-12</translation>
     </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation>Wie löse ich Probleme des Druckers?</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWppScaleSlideMode</name>
+    <message>
+        <source>Scale Slide Mode</source>
+        <translation>Foliengröße</translation>
+    </message>
+    <message>
+        <source>You are scaling to a new slide size. Would you like to maximize the size of your content, or scale it down to ensure it will fit on the new slide ?</source>
+        <translation>Sie sind im Begriff, auf eine neue Foliengröße zu skalieren. Möchten Sie die Größe Ihrer Inhalte maximieren oder sie herunterskalieren, um sicherzustellen, dass sie in jedem Fall auf die neue Folie passen?</translation>
+    </message>
+    <message>
+        <source>Maximize</source>
+        <translation>Maximieren</translation>
+    </message>
+    <message>
+        <source>Ensure Fit</source>
+        <translation>Passend skalieren</translation>
+    </message>
+    <message>
+        <source>&amp;Maximize</source>
+        <translation>&amp;Maximieren</translation>
+    </message>
+    <message>
+        <source>&amp;Ensure Fit</source>
+        <translation>Pass&amp;end skalieren</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Abbrechen</translation>
+    </message>
 </context>
 <context>
     <name>KxDlglineSpace</name>
     <message>
         <source>&amp;After paragraph</source>
-        <translation type="unfinished">Absatz nach</translation>
+        <translation>&amp;Nach dem Absatz</translation>
     </message>
     <message>
         <source>&amp;Before paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vor dem Absatz</translation>
     </message>
     <message>
         <source>&amp;Line spacing</source>
@@ -2774,7 +3100,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished">Das Kennwort und die Bestätigung stimmen nicht überein.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Input permission password.</source>
@@ -2940,7 +3266,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source> Page...</source>
-        <translation type="unfinished">Seite...</translation>
+        <translation type="unfinished"> Seite...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
@@ -2967,7 +3293,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <name>KxExportToPDFProgressDlg</name>
     <message>
         <source> Page...</source>
-        <translation>Seite...</translation>
+        <translation> Seite...</translation>
     </message>
     <message>
         <source>Close</source>
@@ -3045,30 +3371,59 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <name>KxFontDlg</name>
     <message>
         <source>(Use Asian text font)</source>
-        <translation>(Schriftart für asiatischen Text)</translation>
+        <translation type="obsolete">(Schriftart für asiatischen Text)</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation>Hintergrundfarbschema,Text- und Zeilenfarbe,Schattenfarbe,Titeltextfarbe,Füllbereichsfarbe,Akzentfarbe,Akzentfarbe und Hyperlinkfarbe,Akzentfarbe und besuchte Hyperlinkfarbe</translation>
+        <translation type="obsolete">Hintergrundfarbschema,Text- und Zeilenfarbe,Schattenfarbe,Titeltextfarbe,Füllbereichsfarbe,Akzentfarbe,Akzentfarbe und Hyperlinkfarbe,Akzentfarbe und besuchte Hyperlinkfarbe</translation>
     </message>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
-        <translation>Die Schriftart %1 ist auf Ihrem System nicht verfügbar, und eine Ersatzschriftart wird angezeigt. Möchten Sie diese Schriftart trotzdem verwenden?</translation>
+        <translation type="obsolete">Die Schriftart %1 ist auf Ihrem System nicht verfügbar, und eine Ersatzschriftart wird angezeigt. Möchten Sie diese Schriftart trotzdem verwenden?</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation>Der Schriftschnitt ist nicht verfügbar.</translation>
+        <translation type="obsolete">Der Schriftschnitt ist nicht verfügbar.</translation>
     </message>
     <message>
         <source>This font size is not available.</source>
-        <translation>Der Schriftgrad ist nicht verfügbar.</translation>
+        <translation type="obsolete">Der Schriftgrad ist nicht verfügbar.</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatOption_Background</name>
+    <message>
+        <source>BACKGROUND OPTIONS</source>
+        <translation>HINTERGRUNDOPTIONEN</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty</name>
+    <message>
+        <source>TRANSFORM</source>
+        <translation>TRANSFORMIEREN</translation>
+    </message>
+    <message>
+        <source>POSITION</source>
+        <translation>POSITION</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_Background</name>
+    <message>
+        <source>FILL</source>
+        <translation>FÜLLUNG</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation>Füllung</translation>
     </message>
 </context>
 <context>
     <name>KxFormatTableDlg</name>
     <message>
         <source>Custom</source>
-        <translation>Benutzerdefiniert</translation>
+        <translation type="obsolete">Benutzerdefiniert</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
@@ -3088,7 +3443,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation>Hintergrundfarbschema,Text- und Zeilenfarbe,Schattenfarbe,Titeltextfarbe,Füllbereichsfarbe,Akzentfarbe,Akzentfarbe und Hyperlinkfarbe,Akzent- und Farbe eines besuchten Hyperlinks</translation>
+        <translation type="obsolete">Hintergrundfarbschema,Text- und Zeilenfarbe,Schattenfarbe,Titeltextfarbe,Füllbereichsfarbe,Akzentfarbe,Akzentfarbe und Hyperlinkfarbe,Akzent- und Farbe eines besuchten Hyperlinks</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
@@ -3106,6 +3461,61 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
         <source>Follow Title Text Scheme Color</source>
         <translation>Titeltextfarbe</translation>
     </message>
+    <message>
+        <source>Select Picture</source>
+        <translation>Bild auswählen</translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation>Alle Grafiken</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation>Erweiterte Windows-Metadatei</translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation>Windows-Metadatei</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation>JPEG-Dateiformat</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation>Portable Network Graphics</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation>Windows-Bitmap</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation>Graphics Interchange Format</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation>Tag Image File Format</translation>
+    </message>
+</context>
+<context>
+    <name>KxHexSpinBox</name>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation>Der Eintrag muss eine positive Zahl sein.</translation>
+    </message>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation>Der Eintrag darf keine nicht-numerischen Zeichen enthalten.</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation>Der Eintrag muss größer oder gleich %1 sein.</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
+        <translation>Der Eintrag muss kleiner oder gleich %1 sein.</translation>
+    </message>
 </context>
 <context>
     <name>KxHyperlinkWppPage</name>
@@ -3115,7 +3525,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>First Slide</source>
-        <translation>erste Folie</translation>
+        <translation>Erste Folie</translation>
     </message>
     <message>
         <source>Last Slide</source>
@@ -3157,14 +3567,21 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <name>KxInvolvedTemplateDlg</name>
     <message>
         <source>Blank Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Leeres Design</translation>
     </message>
 </context>
 <context>
     <name>KxInvolvedTemplateView</name>
     <message>
         <source>Use Blank Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Leere Vorlage benutzen</translation>
+    </message>
+</context>
+<context>
+    <name>KxKsoTableStyleItem</name>
+    <message>
+        <source>Set As Default</source>
+        <translation>Als Standard festlegen</translation>
     </message>
 </context>
 <context>
@@ -3187,7 +3604,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Medium</source>
-        <translation></translation>
+        <translation>Mittel</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -3238,6 +3655,13 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
 </context>
 <context>
+    <name>KxNoneItem</name>
+    <message>
+        <source>None</source>
+        <translation>Keine</translation>
+    </message>
+</context>
+<context>
     <name>KxOptionsDlg</name>
     <message>
         <source>Open</source>
@@ -3245,7 +3669,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
-        <translation type="unfinished">Wählen Sie einen Ordner aus:</translation>
+        <translation>Wählen Sie einen &amp;Ordner aus:</translation>
     </message>
     <message>
         <source>The path or name of &quot;%1&quot; is invalid. Please check that the path and file name are correct.</source>
@@ -3257,19 +3681,19 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Verzeichnis „%1“ ist ungültig.</translation>
     </message>
     <message>
         <source>Select Folder:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordner auswählen:</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished">Das Kennwort und die Bestätigung stimmen nicht überein.</translation>
+        <translation>Die Kennwortbestätigung stimmt nicht überein.</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
+        <translation>Sie haben nicht die Berechtigung, Sicherungsdateien auf „%1“ zu speichern.</translation>
     </message>
 </context>
 <context>
@@ -3360,22 +3784,30 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <name>KxRenameMasterDlg</name>
     <message>
         <source>The name &quot;%1&quot; is already in use. Please modify the name by changing at least 1 of the first 20 characters of &quot;%2&quot;.</source>
-        <translation>Der Name &quot;%1&quot; ist bereits in Benutzung. Bitte ändern Sie zumindest eines der ersten 20 Zeichen von &quot;%2&quot;.</translation>
+        <translation>Der Name „%1“ ist bereits in Benutzung. Bitte ändern Sie zumindest eines der ersten 20 Zeichen von „%2“.</translation>
     </message>
 </context>
 <context>
     <name>KxRenameMasterDlgClass</name>
     <message>
         <source>&amp;Master name:</source>
-        <translation>&amp;Mastername:</translation>
+        <translation type="obsolete">&amp;Mastername:</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished">Umbenennen</translation>
+        <translation>&amp;Umbenennen</translation>
     </message>
     <message>
         <source>Rename Master</source>
-        <translation>Master umbenennen</translation>
+        <translation type="obsolete">Master umbenennen</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Umbenennen</translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation>&amp;Name:</translation>
     </message>
 </context>
 <context>
@@ -3510,7 +3942,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <name>KxTpAnimationSchemeWidget</name>
     <message>
         <source>Color Schemes</source>
-        <translation>Farbschemas</translation>
+        <translation type="obsolete">Farbschemas</translation>
     </message>
     <message>
         <source>Design Templates</source>
@@ -3521,37 +3953,37 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <name>KxTpColorScheme</name>
     <message>
         <source>Apply a color scheme:</source>
-        <translation>Farbschema anwenden:</translation>
+        <translation type="obsolete">Farbschema anwenden:</translation>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation>Farbschemas</translation>
+        <translation type="obsolete">Farbschemas</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation>Infotipp</translation>
+        <translation type="obsolete">Infotipp</translation>
     </message>
 </context>
 <context>
     <name>KxTpColorSchemeWidget</name>
     <message>
         <source>Animation Schemes</source>
-        <translation>Animationsschemas</translation>
+        <translation type="obsolete">Animationsschemas</translation>
     </message>
     <message>
         <source>Design Templates</source>
-        <translation>Entwurfsvorlagen</translation>
+        <translation type="obsolete">Entwurfsvorlagen</translation>
     </message>
     <message>
         <source>Edit Color Schemes...</source>
-        <translation>Farbschemas bearbeiten...</translation>
+        <translation type="obsolete">Farbschemas bearbeiten...</translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideDesign</name>
     <message>
         <source>Apply a design template:</source>
-        <translation>Entwurfsvorlage hinzufügen:</translation>
+        <translation type="obsolete">Entwurfsvorlage hinzufügen:</translation>
     </message>
     <message>
         <source>Design Templates</source>
@@ -3560,6 +3992,10 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <message>
         <source>Infotip</source>
         <translation>Infotipp</translation>
+    </message>
+    <message>
+        <source>Apply a design template</source>
+        <translation>Entwurfsvorlage hinzufügen</translation>
     </message>
 </context>
 <context>
@@ -3574,7 +4010,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation>Farbschemas</translation>
+        <translation type="obsolete">Farbschemas</translation>
     </message>
 </context>
 <context>
@@ -3585,7 +4021,11 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Apply a design template:</source>
-        <translation>Entwurfsvorlagen übernehmen:</translation>
+        <translation type="obsolete">Entwurfsvorlagen übernehmen:</translation>
+    </message>
+    <message>
+        <source>Apply a design template</source>
+        <translation>Entwurfsvorlagen übernehmen</translation>
     </message>
 </context>
 <context>
@@ -3604,7 +4044,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Apply to selected slides:</source>
-        <translation>Für ausgewählte Folien übernehmen:</translation>
+        <translation type="obsolete">Für ausgewählte Folien übernehmen:</translation>
     </message>
     <message>
         <source>Automatically after</source>
@@ -3654,12 +4094,16 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
         <source>Slide Transition</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Apply to selected slides</source>
+        <translation>Für ausgewählte Folien übernehmen</translation>
+    </message>
 </context>
 <context>
     <name>KxTpSlideTransitionWidget</name>
     <message>
         <source>Loop until next sound</source>
-        <translation>Wiederholen bis zum nächsten Sound</translation>
+        <translation type="obsolete">Wiederholen bis zum nächsten Sound</translation>
     </message>
     <message>
         <source>Play</source>
@@ -3679,6 +4123,21 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <message>
         <source>Table Style:</source>
         <translation>Tabellenstil:</translation>
+    </message>
+</context>
+<context>
+    <name>KxTrimMediaDlg</name>
+    <message>
+        <source>Trim Movie</source>
+        <translation>Film kürzen</translation>
+    </message>
+    <message>
+        <source>Trim Sound</source>
+        <translation>Sound kürzen</translation>
+    </message>
+    <message>
+        <source>Duration : </source>
+        <translation>Dauer: </translation>
     </message>
 </context>
 <context>
@@ -3771,14 +4230,18 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Hyperlink to Other WPS Presentation Files</source>
-        <translation>Hyperlink zur anderen WPS-Präsentationsdateien</translation>
+        <translation>Hyperlink zur anderen WPS Presentationsdateien</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="obsolete">Öffnen</translation>
     </message>
 </context>
 <context>
     <name>KxWppAnimationOptionsDlg</name>
     <message>
         <source>&amp;Don&apos;t Dim</source>
-        <translation type="unfinished">Nicht Abblenden</translation>
+        <translation>&amp;Nicht abblenden</translation>
     </message>
     <message>
         <source>&amp;Hide on Next Mouse Click</source>
@@ -3798,25 +4261,75 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
 </context>
 <context>
+    <name>KxWppBorderStyleItem</name>
+    <message>
+        <source>No Border</source>
+        <translation>Kein Rahmen</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppBorderWidthItem</name>
+    <message>
+        <source>2.25</source>
+        <translation>2.25</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation>pt</translation>
+    </message>
+    <message>
+        <source>0.25</source>
+        <translation>0.25</translation>
+    </message>
+    <message>
+        <source>0.5</source>
+        <translation>0.5</translation>
+    </message>
+    <message>
+        <source>0.75</source>
+        <translation>0.75</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation>1</translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation>1.5</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation>3</translation>
+    </message>
+    <message>
+        <source>4.5</source>
+        <translation>4.5</translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation>6</translation>
+    </message>
+</context>
+<context>
     <name>KxWppColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>Automatisch</translation>
+        <translation type="obsolete">Automatisch</translation>
     </message>
     <message>
         <source>Custom Color</source>
-        <translation>Benutzerdefinierte Farbe</translation>
+        <translation type="obsolete">Benutzerdefinierte Farbe</translation>
     </message>
 </context>
 <context>
     <name>KxWppColorSchemeDlg</name>
     <message>
         <source> A&amp;dd As Standard Scheme </source>
-        <translation type="unfinished">Als Standardschema hinzufügen </translation>
+        <translation> A&amp;ls Standardschema hinzufügen </translation>
     </message>
     <message>
         <source> De&amp;lete Color Scheme </source>
-        <translation type="unfinished">Farbschema löschen</translation>
+        <translation> &amp;Farbschema löschen </translation>
     </message>
     <message>
         <source>The last color scheme cannot be deleted. A presentation must always contain at least one standard color scheme.</source>
@@ -3827,123 +4340,123 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <name>KxWppCustomAnimationTp</name>
     <message>
         <source>&amp;Convert Object to Path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Objekt in Pfad konvertieren</translation>
     </message>
     <message>
         <source>&amp;Curve</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kreisbogen</translation>
     </message>
     <message>
         <source>&amp;Draw Custom Path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Benutzerdefinierten Pfad zeichnen</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bearbeiten</translation>
     </message>
     <message>
         <source>&amp;Edit Points</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Punkte bearbeiten</translation>
     </message>
     <message>
         <source>&amp;Effect Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Effektoptionen...</translation>
     </message>
     <message>
         <source>&amp;Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Eingang</translation>
     </message>
     <message>
         <source>&amp;Freeform</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Freihandform</translation>
     </message>
     <message>
         <source>&amp;Hide Advanced Timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte &amp;Zeitachse ausblenden</translation>
     </message>
     <message>
         <source>&amp;Line</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Linie</translation>
     </message>
     <message>
         <source>&amp;Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gesperrt</translation>
     </message>
     <message>
         <source>&amp;More Effects ...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Weitere Effekte ...</translation>
     </message>
     <message>
         <source>&amp;More Motion Paths ...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Weitere Animationspfade ...</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished">&amp;Öffnen</translation>
+        <translation>Ö&amp;ffnen</translation>
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wiedergabe</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Entfernen</translation>
     </message>
     <message>
         <source>&amp;Reverse Path Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pfadrichtung umkehren</translation>
     </message>
     <message>
         <source>&amp;Scribble</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Freihandzeichnen</translation>
     </message>
     <message>
         <source>&amp;Show Advanced Timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte &amp;Zeitachse anzeigen</translation>
     </message>
     <message>
         <source>&amp;Timing...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Anzeigedauer...</translation>
     </message>
     <message>
         <source>&amp;Unlocked</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nicht gesperrt</translation>
     </message>
     <message>
         <source>&amp;View Slide Master</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Folienmaster anzeigen</translation>
     </message>
     <message>
         <source>Copy &amp;Effects to Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Effekte auf &amp;Folie kopieren</translation>
     </message>
     <message>
         <source>E&amp;mphasis</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hervorhebung</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bee&amp;nden</translation>
     </message>
     <message>
         <source>Motion &amp;Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Animationspfade</translation>
     </message>
     <message>
         <source>Movie &amp;Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Film&amp;aktionen</translation>
     </message>
     <message>
         <source>Object Oper&amp;ate</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt&amp;vorgang</translation>
     </message>
     <message>
         <source>Pau&amp;se</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Anhalten</translation>
     </message>
     <message>
         <source>S&amp;top</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stopp</translation>
     </message>
     <message>
         <source>Seconds</source>
@@ -3951,54 +4464,54 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswahlbereich</translation>
     </message>
     <message>
         <source>Start &amp;After Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach &amp;Vorheriger starten</translation>
     </message>
     <message>
         <source>Start &amp;With Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Mit &amp;Vorheriger starten</translation>
     </message>
     <message>
         <source>Start On &amp;Click</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Beim Klicken starten</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Heranzoomen</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wegzoomen</translation>
     </message>
 </context>
 <context>
     <name>KxWppDesignItem</name>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation type="unfinished">Für Master übernehmen</translation>
+        <translation>Für &amp;Master übernehmen</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
-        <translation type="unfinished">Für alle Folien übernehmen</translation>
+        <translation>Für &amp;alle Folien übernehmen</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished">Für ausgewählte Folien übernehmen</translation>
+        <translation>Für ausge&amp;wählte Folien übernehmen</translation>
     </message>
     <message>
         <source>Replace &amp;All Designs</source>
-        <translation type="unfinished">Alle Entwürfe ersetzen</translation>
+        <translation>&amp;Alle Designs ersetzen</translation>
     </message>
     <message>
         <source>Replace &amp;Selected Designs</source>
-        <translation type="unfinished">Markierten Entwurf ersetzen</translation>
+        <translation>Ausgewählte &amp;Designs ersetzen</translation>
     </message>
     <message>
         <source>Add &amp;Design</source>
-        <translation type="unfinished">Entwurf hinzufügen</translation>
+        <translation>&amp;Design hinzufügen</translation>
     </message>
 </context>
 <context>
@@ -4024,7 +4537,25 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <name>KxWppFillColorModel</name>
     <message>
         <source>No Fill</source>
+        <translation type="obsolete">Keine Füllung</translation>
+    </message>
+    <message>
+        <source>No Color</source>
         <translation>Keine Füllung</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFontColorModel</name>
+    <message>
+        <source>No Fill</source>
+        <translation>Keine Füllung</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFontOutlineColorModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation>Keine Kontur</translation>
     </message>
 </context>
 <context>
@@ -4032,6 +4563,63 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <message>
         <source>This is not a valid integer.</source>
         <translation>Es ist keine gültige ganze Zahl.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatGroupContent_Fill</name>
+    <message>
+        <source>Slide background fill</source>
+        <translation>Folienhintergrundfüllung</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation>DIAGRAMMOPIONEN</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>TEXTOPTIONEN</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation>FORMOPTIONEN</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>TEXTOPTIONEN</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatProperty_FillAndLine</name>
+    <message>
+        <source>TEXT FILL</source>
+        <translation>TEXTFÜLLUNG</translation>
+    </message>
+    <message>
+        <source>FILL</source>
+        <translation>FÜLLUNG</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatRangeSaveAsCommand</name>
+    <message>
+        <source>Preparing for Video Export</source>
+        <translation>Videoexport wird vorbereitet</translation>
+    </message>
+    <message>
+        <source>Failed to setup Supporter of Video Export.</source>
+        <translation>Fehler beim Einrichten der Unterstützung für Videoexport.</translation>
     </message>
 </context>
 <context>
@@ -4043,6 +4631,154 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <message>
         <source>No Line Fill</source>
         <translation type="obsolete">Keine Linienfüllung</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppMediaBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation>0,25 Sekunden vorspulen</translation>
+    </message>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation>0,25 Sekunden zurückspulen</translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation>Wiedergabe/Pause</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>Lautstärke</translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation>Einstellung</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppNewSlidesGalleryModel</name>
+    <message>
+        <source>Blank Slides</source>
+        <translation>Leere Folien</translation>
+    </message>
+    <message>
+        <source>Content Slides</source>
+        <translation>Inhaltsfolien</translation>
+    </message>
+    <message>
+        <source>Title and Content</source>
+        <translation>Titel und Inhalt</translation>
+    </message>
+    <message>
+        <source>Title Slide</source>
+        <translation>Titelfolie</translation>
+    </message>
+    <message>
+        <source>Blank</source>
+        <translation>Leer</translation>
+    </message>
+    <message>
+        <source>Cover</source>
+        <translation>Deckblatt</translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation>Katalog</translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <translation>Text</translation>
+    </message>
+    <message>
+        <source>Transition</source>
+        <translation>Übergang</translation>
+    </message>
+    <message>
+        <source>Ending</source>
+        <translation>Ende</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Mehr</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation>Meine Berechtigung</translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation>Sie sind derzeit authentifiziert, dieses Dokument anzusehen als:		</translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation>Benutzername</translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation>Benutzer ändern...</translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation>Sie haben folgende Berechtigungen:</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation>Ansicht</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Bearbeiten</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Kopieren</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>Drucken</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Speichern</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>Exportieren</translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation>Auf das Dokument programmgesteuert zugreifen</translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation>Vollzugriff</translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation>Berechtigung erlischt am:</translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation>(N/A)</translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
+        <translation>Weitere Berechtigungen anfordern…</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPlayerMediaBar</name>
+    <message>
+        <source>Play/Pause</source>
+        <translation>Wiedergabe/Pause</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>Lautstärke</translation>
     </message>
 </context>
 <context>
@@ -4093,6 +4829,99 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
 </context>
 <context>
+    <name>KxWppPrstFillModel</name>
+    <message>
+        <source>Background Fill</source>
+        <translation>Hintergrundfüllbereich</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppShowOffscreen</name>
+    <message>
+        <source>An Offscreen Show of this presentation is already running.
+Sure to close?</source>
+        <translation>Diese Präsentation wird bereits im Hintergrund ausgeführt.
+Möchten Sie sie wirklich schließen?</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppSoundBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation type="obsolete">0,25 Sekunden vorspulen</translation>
+    </message>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation type="obsolete">0,25 Sekunden zurückspulen</translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation type="obsolete">Wiedergabe/Pause</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="obsolete">Lautstärke</translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="obsolete">Einstellung</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation>Zoomfaktor</translation>
+    </message>
+    <message>
+        <source>&amp;Fit Selection</source>
+        <translation>P&amp;rozent:</translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation>&amp;Auswahl anpassen</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppTpFormatting</name>
+    <message>
+        <source>Format Shape</source>
+        <translation>Form formatieren</translation>
+    </message>
+    <message>
+        <source>Format Picture</source>
+        <translation>Bild formatieren</translation>
+    </message>
+    <message>
+        <source>Format Media</source>
+        <translation>Medien formatieren</translation>
+    </message>
+    <message>
+        <source>Format OleObject</source>
+        <translation>OLE-Objekt formatieren</translation>
+    </message>
+    <message>
+        <source>Format ControlObject</source>
+        <translation>Steuerobjekt formatieren</translation>
+    </message>
+    <message>
+        <source>Format Background</source>
+        <translation>Hintergrund formatieren</translation>
+    </message>
+    <message>
+        <source>Format Ink</source>
+        <translation>Freihand formatieren</translation>
+    </message>
+    <message>
+        <source>Apply to all</source>
+        <translation>Für alle übernehmen</translation>
+    </message>
+    <message>
+        <source>Reset Background</source>
+        <translation>Hintergrund zurücksetzen</translation>
+    </message>
+</context>
+<context>
     <name>KxWppTransModel</name>
     <message>
         <source>Transition Group 01</source>
@@ -4120,27 +4949,27 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>None</source>
-        <translation>Transition-Gruppe 1</translation>
+        <translation>Keine</translation>
     </message>
     <message>
         <source>Fade and Dissolve</source>
-        <translation>Transition-Gruppe 02</translation>
+        <translation>Ausblenden und Auflösen</translation>
     </message>
     <message>
         <source>Wipe</source>
-        <translation>Transition-Gruppe 03</translation>
+        <translation>Wischen</translation>
     </message>
     <message>
         <source>Push and Cover</source>
-        <translation>Transition-Gruppe 04</translation>
+        <translation>Stoß und Bedecken</translation>
     </message>
     <message>
         <source>Stripe and Cross</source>
-        <translation>Transition-Gruppe 05</translation>
+        <translation>Streifen und Kreuz</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation>Transition-Gruppe 06</translation>
+        <translation>Zufällig</translation>
     </message>
 </context>
 <context>
@@ -4176,7 +5005,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <name>LayoutPanel</name>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished">Für ausgewählte Folien übernehmen</translation>
+        <translation>Für ausge&amp;wählte Folien übernehmen</translation>
     </message>
     <message>
         <source>Insert &amp;New Slide</source>
@@ -4184,7 +5013,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Reapply &amp;Layout</source>
-        <translation type="unfinished">Layout neu anwenden</translation>
+        <translation>&amp;Layout erneut übernehmen</translation>
     </message>
 </context>
 <context>
@@ -4195,7 +5024,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Open the compressed file</source>
-        <translation>komprimierte Datei öffnen</translation>
+        <translation>Komprimierte Datei öffnen</translation>
     </message>
     <message>
         <source>Open the folder</source>
@@ -4478,43 +5307,43 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>You cannot use a date format in a different language than the slide master. The current date on the master is formatted for %1. To change the master, click Apply to All instead of Apply.</source>
-        <translation>Sie können kein Datumsformat verwenden, das in einer anderen Sprache als der des Folienmasters erstellt worden ist. Das aktuelle Datum auf dem Master ist formatiert für %1. Um den Master zu ändern, benutzen Sie &quot;Für alle übernehmen&quot; anstatt von &quot;Übernehmen&quot;.</translation>
+        <translation>Sie können kein Datumsformat verwenden, das in einer anderen Sprache als der des Folienmasters erstellt worden ist. Das aktuelle Datum auf dem Master ist formatiert für %1. Um den Master zu ändern, benutzen Sie „Für alle übernehmen“ anstatt von „Übernehmen“.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
-        <translation>&quot;%1&quot; ist bereits geöffnet. Wenn Sie es erneut öffnen, verlieren Sie damit alle Änderungen, die Sie eingegeben haben. Soll &quot;%2&quot; erneut geöffnet werden?</translation>
+        <translation>„%1“ ist bereits geöffnet. Wenn Sie es erneut öffnen, verlieren Sie damit alle Änderungen, die Sie eingegeben haben. Soll „%2“ erneut geöffnet werden?</translation>
     </message>
     <message>
         <source>Follow Background Color</source>
-        <translation>Hintergrundfarbschema</translation>
+        <translation type="obsolete">Hintergrundfarbschema</translation>
     </message>
     <message>
         <source>Follow Text and Lines Sheme Color</source>
-        <translation>Text- und Zeilenfarbe</translation>
+        <translation type="obsolete">Text- und Zeilenfarbe</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
-        <translation>Schattenfarbe</translation>
+        <translation type="obsolete">Schattenfarbe</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
-        <translation>Titeltextfarbe</translation>
+        <translation type="obsolete">Titeltextfarbe</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
-        <translation>Füllbereichsfarbe</translation>
+        <translation type="obsolete">Füllbereichsfarbe</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
-        <translation>Akzentfarbe</translation>
+        <translation type="obsolete">Akzentfarbe</translation>
     </message>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation>Akzentfarbe und Hyperlinkfarbe</translation>
+        <translation type="obsolete">Akzentfarbe und Hyperlinkfarbe</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation>Akzentfarbe und Farbe eines besuchten Hyperlinks</translation>
+        <translation type="obsolete">Akzentfarbe und Farbe eines besuchten Hyperlinks</translation>
     </message>
     <message>
         <source>Default</source>
@@ -4572,32 +5401,108 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
         <source>Double Outline</source>
         <translation>Doppelter Umriss</translation>
     </message>
+    <message>
+        <source>按文本和线条配色方案</source>
+        <translation type="obsolete">Text- und Zeilenfarbe</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="obsolete">Linksbündig</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="obsolete">Zentriert</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="obsolete">Rechtsbündig</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="obsolete">Blocksatz</translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation type="obsolete">Blocksatz</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation type="obsolete">(Keine)</translation>
+    </message>
+    <message>
+        <source>First line</source>
+        <translation type="obsolete">Erste Zeile</translation>
+    </message>
+    <message>
+        <source>Hanging</source>
+        <translation type="obsolete">Hängend</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="obsolete">cm</translation>
+    </message>
+    <message>
+        <source>Please input value between 0cm and 21.35cm</source>
+        <translation type="obsolete">Geben Sie einen Wert zwischen 0 cm und 21,35 cm ein</translation>
+    </message>
+    <message>
+        <source>Please input value between 0 and 9.99</source>
+        <translation type="obsolete">Geben Sie einen Wert zwischen 0 und 9,99 ein</translation>
+    </message>
+    <message>
+        <source>Please input value between 0pt and 1584pt</source>
+        <translation type="obsolete">Geben Sie einen Wert zwischen 0pt und 1584pt ein</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="obsolete">Einfach</translation>
+    </message>
+    <message>
+        <source>1.5 times</source>
+        <translation type="obsolete">1,5 Mal</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="obsolete">Doppelt</translation>
+    </message>
+    <message>
+        <source>Fixed</source>
+        <translation type="obsolete">Fest</translation>
+    </message>
+    <message>
+        <source>Multiple</source>
+        <translation type="obsolete">Mehrfach</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="obsolete">pt</translation>
+    </message>
 </context>
 <context>
     <name>SchemeLayoutPanel</name>
     <message>
         <source>Apply to &amp;All Master</source>
-        <translation type="unfinished">Für Notizenmaster übernehmen</translation>
+        <translation type="obsolete">Für &amp;alle Master übernehmen</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
-        <translation type="unfinished">Für alle Folien übernehmen</translation>
+        <translation type="obsolete">Für &amp;alle Folien übernehmen</translation>
     </message>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation type="unfinished">Für alle Master übernehmen</translation>
+        <translation type="obsolete">Für &amp;Master übernehmen</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Masters</source>
-        <translation type="unfinished">Für ausgewählte Master übernehmen</translation>
+        <translation type="obsolete">Für ausgewählte &amp;Master übernehmen</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished">Für ausgewählte Folien übernehmen</translation>
+        <translation type="obsolete">Für ausge&amp;wählte Folien übernehmen</translation>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
-        <translation type="unfinished">Große Vorschau anzeigen</translation>
+        <translation type="obsolete">&amp;Große Vorschau anzeigen</translation>
     </message>
 </context>
 <context>
@@ -4676,7 +5581,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Custom Animation:</source>
-        <translation>Benutzerdefinierte Animation:</translation>
+        <translation type="obsolete">Benutzerdefinierte Animation:</translation>
     </message>
     <message>
         <source>Re-order</source>
@@ -4687,7 +5592,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <name>dialogstestClass</name>
     <message>
         <source>Dialogstest</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialogfeldtest</translation>
     </message>
 </context>
 <context>
@@ -4702,11 +5607,11 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished">Speichern unter</translation>
+        <translation type="unfinished">Speichern &amp;unter</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">Durchsuchen...</translation>
+        <translation type="unfinished">&amp;Durchsuchen...</translation>
     </message>
     <message>
         <source>Export range</source>
@@ -4714,7 +5619,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>A&amp;ll</source>
-        <translation type="unfinished">Alles</translation>
+        <translation type="unfinished">&amp;Alle</translation>
     </message>
     <message>
         <source>&amp;Current slide</source>
@@ -4722,7 +5627,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>&amp;Selection</source>
-        <translation type="unfinished">Markierung</translation>
+        <translation type="unfinished">Au&amp;swahl</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
@@ -4730,7 +5635,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Sl&amp;ides:</source>
-        <translation type="unfinished">Folien:</translation>
+        <translation type="unfinished">Fol&amp;ien:</translation>
     </message>
     <message>
         <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
@@ -4742,7 +5647,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Export &amp;what:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zu exportierende Daten:</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -4762,7 +5667,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Color/&amp;Grayscale:</source>
-        <translation type="unfinished">Farbe/Graustufe:</translation>
+        <translation type="unfinished">Farbe und &amp;Graustufe:</translation>
     </message>
     <message>
         <source>Color</source>
@@ -4774,7 +5679,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Slides p&amp;er page:</source>
-        <translation type="unfinished">Folien pri Seite:</translation>
+        <translation type="unfinished">Folien &amp;pro Seite:</translation>
     </message>
     <message>
         <source>1</source>
@@ -4798,7 +5703,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">9</translation>
     </message>
     <message>
         <source>Order:</source>
@@ -4830,31 +5735,31 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Passw&amp;ord to protect permission settings</source>
-        <translation type="unfinished">Kennwort für Berechtigungseinstellungen</translation>
+        <translation type="unfinished">&amp;Kennwort zum Schutz der Berechtigungseinstellungen</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished">Kennwort:</translation>
+        <translation type="unfinished">&amp;Kennwort:</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished">Bestätigen:</translation>
+        <translation type="unfinished">&amp;Bestätigen:</translation>
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hinweis: Nur durch das Einrichten eines Kennworts können die nachstehenden Einstellungen in Kraft treten und von anderen Benutzern nicht mehr geändert werden.</translation>
     </message>
     <message>
         <source>Permit to modify</source>
-        <translation type="unfinished">Es wird zugelassen zu ändern</translation>
+        <translation type="unfinished">Ändern zulassen</translation>
     </message>
     <message>
         <source>Permit to copy</source>
-        <translation type="unfinished">Es wird zugelassen zu kopieren</translation>
+        <translation type="unfinished">Kopieren zulassen</translation>
     </message>
     <message>
         <source>Permit to add comments</source>
-        <translation type="unfinished">Es wird zugelassen, Kommentare hinzuzufügen</translation>
+        <translation type="unfinished">Hinzufügen von Kommentaren zulassen</translation>
     </message>
     <message>
         <source>Printing permission:</source>
@@ -4862,7 +5767,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished">Drucken nicht zulässig</translation>
+        <translation type="unfinished">Drucken nicht zugelassen</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
@@ -4878,15 +5783,27 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Passwor&amp;d:</source>
-        <translation type="unfinished">Kennwort:</translation>
+        <translation type="unfinished">&amp;Kennwort:</translation>
     </message>
     <message>
         <source>Confi&amp;rm:</source>
-        <translation type="unfinished">Bestätigen:</translation>
+        <translation type="unfinished">&amp;Bestätigen:</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation type="unfinished">Nach dem Export Schließen</translation>
+        <translation type="unfinished">Nach dem E&amp;xport Schließen</translation>
+    </message>
+    <message>
+        <source>Select OFD Service Provider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suwell&amp;K</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Foxit</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4901,7 +5818,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished">Datei öffnen</translation>
+        <translation type="unfinished">&amp;Datei öffnen</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4912,15 +5829,15 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <name>kdlgExportToPDF</name>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">Durchsuchen...</translation>
+        <translation>&amp;Durchsuchen...</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished">Kennwort:</translation>
+        <translation>&amp;Kennwort:</translation>
     </message>
     <message>
         <source>&amp;Selection</source>
-        <translation type="unfinished">Markierung</translation>
+        <translation>Au&amp;swahl</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
@@ -4952,11 +5869,11 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>A&amp;ll</source>
-        <translation type="unfinished">Alles</translation>
+        <translation>&amp;Alle</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation>Nach dem Export Schließen</translation>
+        <translation>Nach dem E&amp;xport Schließen</translation>
     </message>
     <message>
         <source>Color</source>
@@ -4964,15 +5881,15 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished">Bestätigen:</translation>
+        <translation>&amp;Bestätigen:</translation>
     </message>
     <message>
         <source>Confi&amp;rm:</source>
-        <translation type="unfinished">Bestätigen:</translation>
+        <translation>&amp;Bestätigen:</translation>
     </message>
     <message>
         <source>Export &amp;what:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zu exportierende Daten:</translation>
     </message>
     <message>
         <source>Fra&amp;me slides</source>
@@ -5000,7 +5917,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Passwor&amp;d:</source>
-        <translation type="unfinished">Kennwort:</translation>
+        <translation>&amp;Kennwort:</translation>
     </message>
     <message>
         <source>Permission Settings</source>
@@ -5008,31 +5925,31 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Permit to add comments</source>
-        <translation type="unfinished">Es wird zugelassen, Kommentare hinzuzufügen</translation>
+        <translation>Hinzufügen von Kommentaren zulassen</translation>
     </message>
     <message>
         <source>Permit to copy</source>
-        <translation type="unfinished">Es wird zugelassen zu kopieren</translation>
+        <translation>Kopieren zulassen</translation>
     </message>
     <message>
         <source>Permit to modify</source>
-        <translation type="unfinished">Es wird zugelassen zu ändern</translation>
+        <translation>Ändern zulassen</translation>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
-        <translation type="unfinished">Ausgeblendete Folien drucken</translation>
+        <translation>&amp;Ausgeblendete Folien drucken</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished">Drucken nicht zulässig</translation>
+        <translation>Drucken nicht zugelassen</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished">Speichern unter</translation>
+        <translation>Speichern &amp;unter</translation>
     </message>
     <message>
         <source>Sl&amp;ides:</source>
-        <translation type="unfinished">Folien:</translation>
+        <translation>Fol&amp;ien:</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -5040,7 +5957,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Slides p&amp;er page:</source>
-        <translation type="unfinished">Folien pri Seite:</translation>
+        <translation>Folien &amp;pro Seite:</translation>
     </message>
     <message>
         <source>Export range</source>
@@ -5072,7 +5989,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Color/&amp;Grayscale:</source>
-        <translation type="unfinished">Farbe/Graustufe:</translation>
+        <translation>Farbe und &amp;Graustufe:</translation>
     </message>
     <message>
         <source>Pure black and white</source>
@@ -5080,7 +5997,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Passw&amp;ord to protect permission settings</source>
-        <translation type="unfinished">Kennwort für Berechtigungseinstellungen</translation>
+        <translation>&amp;Kennwort zum Schutz der Berechtigungseinstellungen</translation>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
@@ -5108,14 +6025,14 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinweis: Nur durch das Einrichten eines Kennworts können die nachstehenden Einstellungen in Kraft treten und von anderen Benutzern nicht mehr geändert werden.</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished">Datei öffnen</translation>
+        <translation>&amp;Datei öffnen</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5134,31 +6051,31 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     <name>kdlgFormatTable</name>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished">Unten:</translation>
+        <translation>&amp;Unten:</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished">Farbe:</translation>
+        <translation>&amp;Farbe:</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished">Links:</translation>
+        <translation>&amp;Links:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished">Rechts:</translation>
+        <translation>&amp;Rechts:</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
-        <translation type="unfinished">Formatvorlage:</translation>
+        <translation>&amp;Formatvorlage:</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished">Oben:</translation>
+        <translation>&amp;Oben:</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished">Breite:</translation>
+        <translation>&amp;Breite:</translation>
     </message>
     <message>
         <source>Border Preview</source>
@@ -5174,51 +6091,51 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>btnBorderBackSlash</source>
-        <translation type="unfinished"></translation>
+        <translation>btnBorderBackSlash</translation>
     </message>
     <message>
         <source>btnBorderLeft</source>
-        <translation type="unfinished"></translation>
+        <translation>btnBorderLeft</translation>
     </message>
     <message>
         <source>btnBorderMidHor</source>
-        <translation type="unfinished"></translation>
+        <translation>btnBorderMidHor</translation>
     </message>
     <message>
         <source>btnBorderMidVer</source>
-        <translation type="unfinished"></translation>
+        <translation>btnBorderMidVer</translation>
     </message>
     <message>
         <source>btnBorderRight</source>
-        <translation type="unfinished"></translation>
+        <translation>btnBorderRight</translation>
     </message>
     <message>
         <source>btnBorderSlash</source>
-        <translation type="unfinished"></translation>
+        <translation>btnBorderSlash</translation>
     </message>
     <message>
         <source>btnBorderUnder</source>
-        <translation type="unfinished"></translation>
+        <translation>btnBorderUnder</translation>
     </message>
     <message>
         <source>btnBorderUp</source>
-        <translation type="unfinished"></translation>
+        <translation>btnBorderUp</translation>
     </message>
     <message>
         <source>cbFillColor</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">cbFillColor</translation>
     </message>
     <message>
         <source>cbOrientation</source>
-        <translation type="unfinished"></translation>
+        <translation>cbOrientation</translation>
     </message>
     <message>
         <source>cbSemitransparent</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">cbSemitransparent</translation>
     </message>
     <message>
         <source>cbTextAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>cbTextAlign</translation>
     </message>
     <message>
         <source>Click on diagram below or use buttons to apply borders</source>
@@ -5226,15 +6143,15 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>cmbBorderColor</source>
-        <translation type="unfinished"></translation>
+        <translation>cmbBorderColor</translation>
     </message>
     <message>
         <source>cmbBorderWidth</source>
-        <translation type="unfinished"></translation>
+        <translation>cmbBorderWidth</translation>
     </message>
     <message>
         <source>cmbFillColor</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">cmbFillColor</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -5242,7 +6159,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Fill &amp;color:</source>
-        <translation type="unfinished">Füllfarbe:</translation>
+        <translation type="obsolete">&amp;Füllfarbe:</translation>
     </message>
     <message>
         <source>Internal margin</source>
@@ -5250,7 +6167,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>lwLineStyle</source>
-        <translation type="unfinished"></translation>
+        <translation>lwLineStyle</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -5258,15 +6175,15 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>Rotat&amp;e text within cell by 90 degrees</source>
-        <translation type="unfinished">Text in Zelle mit 90 Grad drehen</translation>
+        <translation>&amp;Text in Zelle um 90 Grad drehen</translation>
     </message>
     <message>
         <source>Semi&amp;transparent</source>
-        <translation type="unfinished">Semitransparent</translation>
+        <translation type="obsolete">Halb&amp;transparent</translation>
     </message>
     <message>
         <source>Text &amp;alignment:</source>
-        <translation type="unfinished">Textausrichtung:</translation>
+        <translation>Textaus&amp;richtung:</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -5292,12 +6209,155 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
         <source>Bottom Center</source>
         <translation>Unten zentriert</translation>
     </message>
+    <message>
+        <source>&amp;Fill</source>
+        <translation>&amp;Füllung</translation>
+    </message>
+    <message>
+        <source>Solid fill</source>
+        <translation>Einfarbige Füllung</translation>
+    </message>
+    <message>
+        <source>Gradient fill</source>
+        <translation>Graduelle Füllung</translation>
+    </message>
+    <message>
+        <source>Picture or texture fill</source>
+        <translation>Bild- oder Texturfüllung</translation>
+    </message>
+    <message>
+        <source>Pattern fill</source>
+        <translation>Musterfüllung</translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation>&amp;Farbe</translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation>&amp;Transparenz</translation>
+    </message>
+    <message>
+        <source>Enter 0%  to 100% of value</source>
+        <translation>Wert zwischen 0 % und 100 % eingeben</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>&amp;Style</source>
+        <translation>&amp;Formatvorlage</translation>
+    </message>
+    <message>
+        <source>Gradient Linear</source>
+        <translation>Linearer Farbverlauf</translation>
+    </message>
+    <message>
+        <source>Gradient Radial</source>
+        <translation>Radialer Farbverlauf</translation>
+    </message>
+    <message>
+        <source>Gradient Rect</source>
+        <translation>Rechteckiger zentrierter Farbverlauf</translation>
+    </message>
+    <message>
+        <source>Gradient Path</source>
+        <translation>Pfadfarbverlauf</translation>
+    </message>
+    <message>
+        <source>&amp;Angle</source>
+        <translation>&amp;Winkel</translation>
+    </message>
+    <message>
+        <source>Enter 0  to 359 Degrees of value</source>
+        <translation>Wert zwischen 0 und 359 Grad eingeben</translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation>°</translation>
+    </message>
+    <message>
+        <source>Gra&amp;dient stops</source>
+        <translation>&amp;Farbverlaufstopps</translation>
+    </message>
+    <message>
+        <source>Source From File</source>
+        <translation>Quelle aus &amp;Datei</translation>
+    </message>
+    <message>
+        <source>&amp;File...</source>
+        <translation>&amp;Datei:</translation>
+    </message>
+    <message>
+        <source>Source From &amp;Texture</source>
+        <translation>Quelle aus &amp;Textur</translation>
+    </message>
+    <message>
+        <source>&amp;Pattern</source>
+        <translation>&amp;Muster</translation>
+    </message>
+    <message>
+        <source>Fore&amp;ground</source>
+        <translation>Vorder&amp;grund</translation>
+    </message>
+    <message>
+        <source>&amp;Background</source>
+        <translation>&amp;Hintergrund</translation>
+    </message>
+    <message>
+        <source>Enter 0cm to 55.88cm of the Value</source>
+        <translation>Wert zwischen 0 cm und 55,88 cm eingeben</translation>
+    </message>
+</context>
+<context>
+    <name>kxDlgThesaurus</name>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="obsolete">Thesaurus</translation>
+    </message>
+    <message>
+        <source>Current word:</source>
+        <translation type="obsolete">Aktuelles Wort:</translation>
+    </message>
+    <message>
+        <source>Alternatives:</source>
+        <translation type="obsolete">Alternativen:</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="obsolete">Ersetzen</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">Abbrechen</translation>
+    </message>
+    <message>
+        <source>&amp;Current word:</source>
+        <translation type="obsolete">&amp;Aktuelles Wort:</translation>
+    </message>
+    <message>
+        <source>&amp;Language</source>
+        <translation type="obsolete">&amp;Sprache</translation>
+    </message>
+    <message>
+        <source>&amp;Alternatives:</source>
+        <translation type="obsolete">&amp;Alternativen:</translation>
+    </message>
+    <message>
+        <source>&amp;Replace</source>
+        <translation type="obsolete">Erset&amp;zen</translation>
+    </message>
+    <message>
+        <source>Ca&amp;ncel</source>
+        <translation type="obsolete">Abbreche&amp;n</translation>
+    </message>
 </context>
 <context>
     <name>kxUiHyperlinkwpp</name>
     <message>
         <source>&amp;Show and return</source>
-        <translation type="unfinished">Anzeigen und zurückkehren</translation>
+        <translation>&amp;Anzeigen und zurückkehren</translation>
     </message>
     <message>
         <source>Select a pla&amp;ce in this document:</source>
@@ -5316,7 +6376,7 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>&amp;Every Slide</source>
-        <translation type="unfinished">Jede Folie</translation>
+        <translation>&amp;Jede Folie</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5328,7 +6388,42 @@ Mit der Schaltfläche &quot;Erweitert&quot; können Sie verschiedenen Verschlüs
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation>WPS-Präsentation</translation>
+        <translation>WPS Presentation</translation>
+    </message>
+</context>
+<context>
+    <name>wppContentPosition</name>
+    <message>
+        <source>&amp;Horizontal position</source>
+        <translation>&amp;Horizontale Position</translation>
+    </message>
+    <message>
+        <source>Enter -5963.92  to 5963.92 cm of value</source>
+        <translation>Wert zwischen -5963,92 und 5963,92 cm eingeben</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>cm</translation>
+    </message>
+    <message>
+        <source>&amp;From</source>
+        <translation>&amp;Von</translation>
+    </message>
+    <message>
+        <source>Top Left Corner</source>
+        <translation>Obere linke Ecke</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>Zentriert</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical position</source>
+        <translation>&amp;Vertikale Position</translation>
+    </message>
+    <message>
+        <source>F&amp;rom</source>
+        <translation>V&amp;on</translation>
     </message>
 </context>
 </TS>

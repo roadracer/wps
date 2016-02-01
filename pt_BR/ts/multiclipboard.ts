@@ -48,7 +48,7 @@
     <name>KxTpClipboardPanel</name>
     <message>
         <source>&amp;Collect Data Without Showing Clipboard</source>
-        <translation>Coletar dados sem mostrar Área de Transferência</translation>
+        <translation>&amp;Coletar Dados sem Mostrar Área de Transferência</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -68,7 +68,7 @@
     </message>
     <message>
         <source>Show Clipboard &amp;Automatically When Copying</source>
-        <translation>Mostrar área de transferência automaticamente ao copiar</translation>
+        <translation>Mostrar Área de Transferência &amp;Automaticamente ao Copiar</translation>
     </message>
     <message>
         <source>Unlock this item from the list.</source>

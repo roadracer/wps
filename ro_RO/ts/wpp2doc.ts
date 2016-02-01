@@ -233,5 +233,9 @@ De exemplu, 1,3,5-9.</translation>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
         <translation>Numele există deja. Nu puteți salva fișierul cu același numa ca a unui alt fișier deschis. Alegeți un nume diferit, sau închideți fișierul deschis înainte să salvați.</translation>
     </message>
+    <message>
+        <source>No Select Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

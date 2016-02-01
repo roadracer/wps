@@ -119,6 +119,22 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>KS Biaoge.lnk</source>
         <translation>WPS Spreadsheets.lnk</translation>
     </message>
+    <message>
+        <source>WPS Cloud.lnk</source>
+        <translation>WPS Cloud.lnk</translation>
+    </message>
+    <message>
+        <source>Pin to tas&amp;kbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin from tas&amp;kbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office.lnk</source>
+        <translation type="obsolete">Kingsoft Office.lnk</translation>
+    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -236,11 +252,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Office.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office.lnk</translation>
     </message>
     <message>
         <source>Launch WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Officeを起動</translation>
     </message>
 </context>
 <context>
@@ -252,8 +268,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>An error occured when repairing, please retry.</source>
-        <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
-        <translation>修復するときに、エラーが発生しました。再度やってみてください。</translation>
+        <translation type="obsolete">修復するときに、エラーが発生しました。再度やってみてください。</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -313,7 +328,13 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>利用するアカウントは管理者のアカウントではないため、ある機能を利用できなくなります。</translatorcomment>
+        <translation>管理者権限でログインしていない場合、一部機能が利用できません</translation>
+    </message>
+    <message>
+        <source>An error occurred when repairing, please retry.</source>
+        <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
+        <translation>修復するときに、エラーが発生しました。再度やってみてください。</translation>
     </message>
 </context>
 <context>
@@ -478,7 +499,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2007</source>
-        <translation>Microsoft Office 2003などとの互換性(&amp;R)</translation>
+        <translation>Microsoft Office 2007などとの互換性(&amp;R)</translation>
     </message>
     <message>
         <source>Check the check boxes below, the specified files will be opened by WPS Office Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
@@ -504,15 +525,15 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
-        <translation>Microsoft Excel ドキュメント(&amp;E)(*.xls,*.xltファイル)</translation>
+        <translation>Microsoft Excel ドキュメント(&amp;E)(*.xls,*.xlt,*.xlsx,*.xlsmファイル)</translation>
     </message>
     <message>
         <source>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</source>
-        <translation>Microsoft PowerPoint ドキュメント(&amp;P)(*.ppt,*.pot,*.ppsファイル)</translation>
+        <translation>Microsoft PowerPoint ドキュメント(&amp;P)(*.ppt,*.pot,*.pps,*.pptxファイル)</translation>
     </message>
     <message>
         <source>Microsoft &amp;Word Documents (*.doc, *.dot, *.docx files) and RTF Documents</source>
-        <translation>Microsoft Word ドキュメント(&amp;W)(*.doc,*.dotファイル)、RTF ドキュメント</translation>
+        <translation>Microsoft Word ドキュメント(&amp;W)(*.doc,*.dot,*.docxファイル)、RTF ドキュメント</translation>
     </message>
     <message>
         <source>The option &quot;Compatible with third-party software&quot;
@@ -532,22 +553,42 @@ needs restarting Windows to take effect.</source>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;t format by default</source>
-        <translation>Kingsoft Presentation 新規文書のデフォルト形式*.ppt(&amp;T)</translation>
+        <translation type="obsolete">Kingsoft Presentation 新規文書のデフォルト形式*.ppt(&amp;T)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xls format by default</source>
-        <translation>Kingsoft Spreadsheets 新規文書のデフォルト形式*.xls(&amp;X)</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets 新規文書のデフォルト形式*.xls(&amp;X)</translation>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;doc format by default</source>
-        <translation>Kingsoft Writer 新規文書のデフォルト形式*.doc(&amp;D)</translation>
+        <translation type="obsolete">Kingsoft Writer 新規文書のデフォルト形式*.doc(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2010</source>
+        <translation>Microsoft Office 2010などとの互換性(&amp;D)</translation>
+    </message>
+    <message>
+        <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
+        <translation>Kingsoft Presentation 新規文書のデフォルト形式*.pptx(&amp;T)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets new documents saved as *.&amp;xlsx format by default</source>
+        <translation>Kingsoft Spreadsheets 新規文書のデフォルト形式*.xlsx(&amp;X)</translation>
+    </message>
+    <message>
+        <source>WPS Writer new documents saved as *.&amp;docx format by default</source>
+        <translation>Kingsoft Writer 新規文書のデフォルト形式*.docx(&amp;D)</translation>
+    </message>
+    <message>
+        <source>PD&amp;F Documents (*.pdf files)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KPageHomePage</name>
     <message>
         <source>Unlock completed</source>
-        <translation>ホームページのロックを解除しました</translation>
+        <translation type="obsolete">ホームページのロックを解除しました</translation>
     </message>
     <message>
         <source>Unlock the website navigation page(&amp;R)</source>
@@ -559,6 +600,16 @@ needs restarting Windows to take effect.</source>
     </message>
     <message>
         <source>You can unlock the IE homepage if you don&apos;t like. Note: unlock the homepage may have virus infection and your accounts hacked.</source>
+        <translation type="obsolete">IEホームページが気に入らない場合、IEホームページのロックを解除できます。
+注意： ホームページのロックを解除することにより、ウィルス感染、アカウント情報が漏えいすることもございます。</translation>
+    </message>
+    <message>
+        <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
+        <translation>WPS Officeはフリーソフトです。製品を改善するため、皆様のサポートが不可欠です。</translation>
+    </message>
+    <message>
+        <source>You can change the IE homepage anytime.
+Notice that doing so exposes you to risks of virus infection and hacking.</source>
         <translation>IEホームページが気に入らない場合、IEホームページのロックを解除できます。
 注意： ホームページのロックを解除することにより、ウィルス感染、アカウント情報が漏えいすることもございます。</translation>
     </message>
@@ -632,56 +683,104 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
         <source>·Failed to register WPS Presentation
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·Kingsoft Presentation が登録できません。
+        <translation type="obsolete">·Kingsoft Presentation が登録できません。
 </translation>
     </message>
     <message>
         <source>·Failed to register WPS Spreadsheets
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·Kingsoft Spreadsheetsが登録できません。</translation>
+        <translation type="obsolete">·Kingsoft Spreadsheetsが登録できません。</translation>
     </message>
     <message>
         <source>·Failed to register WPS Writer
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·Kingsoft Writer が登録できません。
+        <translation type="obsolete">·Kingsoft Writer が登録できません。
 </translation>
     </message>
     <message>
         <source>·Registering WPS Equation Editor failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>Kingsoft Equation Editorが登録できません。
+        <translation type="obsolete">Kingsoft Equation Editorが登録できません。
 </translation>
     </message>
     <message>
         <source>·Registering kso.dll failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·kso.dll登録できません。
+        <translation type="obsolete">·kso.dll登録できません。
 </translation>
     </message>
     <message>
         <source>·WPS Presentation not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·Kingsoft Presentation が見つかりません。
+        <translation type="obsolete">·Kingsoft Presentation が見つかりません。
 </translation>
     </message>
     <message>
         <source>·WPS Spreadsheets not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·Kingsoft Spreadsheets が見つかりません。
+        <translation type="obsolete">·Kingsoft Spreadsheets が見つかりません。
 </translation>
     </message>
     <message>
         <source>·WPS Writer not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·Kingsoft Writer が見つかりません。
+        <translation type="obsolete">·Kingsoft Writer が見つかりません。
 </translation>
+    </message>
+    <message>
+        <source> Registering kso.dll failed
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation>kso.dllの登録に失敗しました。</translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Writer
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation>WPS Writerの登録に失敗しました。</translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Presentation
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation>WPS Presentationの登録に失敗しました。</translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Spreadsheets
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation>WPS Spreadsheetsの登録に失敗しました。</translation>
+    </message>
+    <message>
+        <source> Registering WPS Equation Editor failed
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation>WPS 数式エディターの登録に失敗しました。</translation>
+    </message>
+    <message>
+        <source> WPS Writer not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation>WPS Writerが見つかりません。</translation>
+    </message>
+    <message>
+        <source> WPS Presentation not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation>WPS Presentationが見つかりません</translation>
+    </message>
+    <message>
+        <source> WPS Spreadsheets not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation>WPS Spreadsheetsが見つかりません。</translation>
     </message>
 </context>
 <context>
@@ -889,11 +988,11 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft Office Excel Web Query File</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office Excel Webクエリファイル</translation>
     </message>
     <message>
         <source>&amp;Open in WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheetsから開く(&amp;O)</translation>
     </message>
     <message>
         <source>Microsoft Excel Workbook</source>
@@ -1069,71 +1168,91 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>&amp;Edit,0,2</source>
-        <translation type="unfinished"></translation>
+        <translation>編集(&amp;E),0,2</translation>
     </message>
     <message>
         <source>&amp;Open,0,2</source>
-        <translation type="unfinished"></translation>
+        <translation>開く(&amp;O),0,2</translation>
     </message>
     <message>
         <source>WPS Equation 3.0</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS 数式 3.0</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>数式</translation>
     </message>
     <message>
         <source>OpenAsReadOnly</source>
-        <translation type="unfinished"></translation>
+        <translation>読み取り専用として開く</translation>
     </message>
     <message>
         <source>Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>ワークブック</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>文書</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>画像</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Macro-Enabled Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint マクロ有効プレゼンテーション</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Data Interchange Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office Excel データ交換形式</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Worksheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 97-2003 ワークシート</translation>
     </message>
     <message>
         <source>Microsoft Excel Macro-Enabled Worksheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel マクロ有効ワークシート</translation>
     </message>
     <message>
         <source>Microsoft Word 97 - 2003 Document</source>
-        <translation type="unfinished">Microsoft Word 6.0 - 7.0 文書 {97 ?} {2003 ?}</translation>
+        <translation>Microsoft Word 97-2003 文書</translation>
     </message>
     <message>
         <source>Microsoft Word 97 - 2003 Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word 97-2003 テンプレート</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 SlideShow</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint 97-2003 スライドショー</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Template</source>
-        <translation type="unfinished">Microsoft PowerPoint 07 テンプレート {97-2003 ?}</translation>
+        <translation>Microsoft PowerPoint 97-2003 テンプレート</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Macro-Enabled Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint マクロ有効スライド</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Backup File</source>
+        <translation>Microsoft Excel バックアップファイル</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Preview Handler</source>
+        <translation>WPS Presentation プレビューハンドラ</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Preview Handler</source>
+        <translation>WPS Spreadsheets プレビューハンドラ</translation>
+    </message>
+    <message>
+        <source>WPS Writer Preview Handler</source>
+        <translation>WPS Writer プレビューハンドラ</translation>
+    </message>
+    <message>
+        <source>WPS PDF Document</source>
+        <translation>WPS PDF ドキュメント　</translation>
     </message>
 </context>
 <context>
@@ -1156,7 +1275,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Programs that can be actiavted</source>
-        <translation>起動可能なプログラム</translation>
+        <translation type="obsolete">起動可能なプログラム</translation>
     </message>
     <message>
         <source>Serial Number</source>
@@ -1166,12 +1285,16 @@ The button icon, command group and task window position of each scheme are diffe
         <source>Subtotal:</source>
         <translation>現状：</translation>
     </message>
+    <message>
+        <source>Programs that can be activated</source>
+        <translation>起動可能なプログラム</translation>
+    </message>
 </context>
 <context>
     <name>KUpDate</name>
     <message>
         <source>&amp;Download updates but let me choose whether to install them</source>
-        <translation>アップデートファイルをダウンロードして通知(&amp;D)</translation>
+        <translation type="unfinished">アップデートファイルをダウンロードして通知(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Show information bar</source>
@@ -1187,7 +1310,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>
-        <translation>自動アップデートを行わない(&amp;C)</translation>
+        <translation type="obsolete">自動アップデートを行わない(&amp;C)</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
@@ -1260,15 +1383,20 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Software recommend：</source>
-        <translation type="unfinished"></translation>
+        <translation>ソフトウェア推薦</translation>
     </message>
     <message>
         <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>アップデート完了してから、人気ソフト推薦</translatorcomment>
+        <translation>アップグレード完了後に、ソフトウェア推奨(&amp;W)</translation>
     </message>
     <message>
         <source>The port must be a number between 1 and 65535.</source>
-        <translation type="unfinished"></translation>
+        <translation>ポート番号は1から65535までの値を指定してください。</translation>
+    </message>
+    <message>
+        <source>Do not &amp;check for updates automatically (not recommended)</source>
+        <translation>自動アップデートを行わない(&amp;C)</translation>
     </message>
 </context>
 <context>

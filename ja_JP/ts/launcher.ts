@@ -6,27 +6,35 @@
     <name>KLauncherWidgetClass</name>
     <message>
         <source>KLauncherWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>Kランチャーウィジェット</translation>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Officeをご利用していただきありがとうございます</translation>
     </message>
     <message>
         <source>Create desktop shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>デスクトップショートカットを作成</translation>
+    </message>
+    <message>
+        <source>Welcome to the WPS Office</source>
+        <translation type="obsolete">WPS Officeをご利用いただきありがとうございます</translation>
+    </message>
+    <message>
+        <source>Create shortcuts to desktop</source>
+        <translation type="obsolete">デスクトップアイコンを作成</translation>
     </message>
 </context>
 <context>
@@ -34,16 +42,17 @@
     <message>
         <source>Usage: %1 
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用量: %1
+</translation>
     </message>
     <message>
         <source>    or %1 &lt;wps|wpp|et&gt; [document_path]
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">    or %1 &lt;wps|wpp|et&gt; [document_path]</translation>
     </message>
     <message>
         <source>:/qm/%1.qm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">:/qm/%1.qm</translation>
     </message>
 </context>
 </TS>

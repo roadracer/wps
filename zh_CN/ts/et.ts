@@ -170,7 +170,7 @@
     </message>
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
-        <translation>可以选择三种连接数据源的方式中的一种来进行和数据源的连接。</translation>
+        <translation type="obsolete">可以选择三种连接数据源的方式中的一种来进行和数据源的连接。</translation>
     </message>
     <message>
         <source>&amp;Open data file directly</source>
@@ -186,7 +186,27 @@
     </message>
     <message>
         <source>Use ODBC data source connection guide(&amp;W)</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">使用ODBC数据源连接向导(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Use ODBC data source connection guide (&amp;W)</source>
+        <translation type="obsolete">使用ODBC数据源连接向导(&amp;W)</translation>
+    </message>
+    <message>
+        <source>ODBC DSN</source>
+        <translation type="obsolete">ODBC DSN</translation>
+    </message>
+    <message>
+        <source>Other/Advanced(&amp;W)</source>
+        <translation>其他/高级(&amp;W)</translation>
+    </message>
+    <message>
+        <source>You can choose from four different ways to connect to your chosen data source.</source>
+        <translation>可以选择四种连接数据源的方式中的一种来进行和数据源的连接。</translation>
+    </message>
+    <message>
+        <source>O&amp;DBC DSN</source>
+        <translation>ODBC DSN(&amp;D)</translation>
     </message>
 </context>
 <context>
@@ -474,7 +494,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Comment function</source>
-        <translation type="unfinished"></translation>
+        <translation>我要点评功能</translation>
     </message>
 </context>
 <context>
@@ -1055,39 +1075,47 @@ condition is true:</source>
     </message>
     <message>
         <source>Number &amp;Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>数字筛选(F)</translation>
     </message>
     <message>
         <source>Date &amp;Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>日期筛选(F)</translation>
     </message>
     <message>
         <source>Label Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>标签筛选</translation>
     </message>
     <message>
         <source>&amp;Label Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>标签筛选(&amp;L)</translation>
     </message>
     <message>
         <source>Text &amp;Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>文本筛选(F)</translation>
     </message>
     <message>
         <source>Not Begin With</source>
-        <translation type="unfinished"></translation>
+        <translation>开头不是</translation>
     </message>
     <message>
         <source>Not End With</source>
-        <translation type="unfinished"></translation>
+        <translation>结尾不是</translation>
     </message>
     <message>
         <source>Not Between</source>
-        <translation type="unfinished"></translation>
+        <translation>未介于</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation type="unfinished">清除(&amp;C)</translation>
+        <translation>清空条件(C)</translation>
+    </message>
+    <message>
+        <source>A&amp;scending</source>
+        <translation type="obsolete">升序(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Descending (&amp;O)</source>
+        <translation type="obsolete">降序(&amp;O)</translation>
     </message>
 </context>
 <context>
@@ -1332,7 +1360,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Valid username and password required to access the database:</source>
-        <translation type="unfinished"></translation>
+        <translation>您所访问的数据库需要有正确的用户和密码才能访问：</translation>
     </message>
 </context>
 <context>
@@ -1373,7 +1401,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Queries currently being executed in the background:</source>
-        <translation type="unfinished"></translation>
+        <translation>当前在后台执行的查询：</translation>
     </message>
 </context>
 <context>
@@ -1418,6 +1446,560 @@ condition is true:</source>
     </message>
 </context>
 <context>
+    <name>KxCellFormatCombobox</name>
+    <message>
+        <source>No Cell Color</source>
+        <translation>无单元格颜色</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>自动</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation>渐变</translation>
+    </message>
+</context>
+<context>
+    <name>KxCellStyleDlg</name>
+    <message>
+        <source>Style</source>
+        <translation>样式</translation>
+    </message>
+    <message>
+        <source>&amp;Style name:</source>
+        <translation>样式名(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Style includes</source>
+        <translation>样式包括</translation>
+    </message>
+    <message>
+        <source>Number:</source>
+        <translation>数字:</translation>
+    </message>
+    <message>
+        <source>Alignment:</source>
+        <translation>对齐:</translation>
+    </message>
+    <message>
+        <source>Font:</source>
+        <translation>字体:</translation>
+    </message>
+    <message>
+        <source>Border:</source>
+        <translation>边框:</translation>
+    </message>
+    <message>
+        <source>Patterns:</source>
+        <translation>图案:</translation>
+    </message>
+    <message>
+        <source>Protection:</source>
+        <translation>保护:</translation>
+    </message>
+    <message>
+        <source>&amp;Format...</source>
+        <translation>格式(&amp;F)...</translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>No Number Format</source>
+        <translation>无数字格式</translation>
+    </message>
+    <message>
+        <source>You are not allowed to add the default style name.</source>
+        <translation>不允许添加内建样式名。</translation>
+    </message>
+    <message>
+        <source>Style Name Not Valid</source>
+        <translation>样式名无效</translation>
+    </message>
+    <message>
+        <source>No Alignment</source>
+        <translation>不对齐</translation>
+    </message>
+    <message>
+        <source>Shrink To fit</source>
+        <translation>缩小字体填充</translation>
+    </message>
+    <message>
+        <source>Right-to-Left Reading Order</source>
+        <translation>总是从右到左</translation>
+    </message>
+    <message>
+        <source>Left-to-Right Reading Order</source>
+        <translation>总是从左到右</translation>
+    </message>
+    <message>
+        <source>Context Reading Order</source>
+        <translation>根据内容</translation>
+    </message>
+    <message>
+        <source>ReadingOrder</source>
+        <translation>读取顺序</translation>
+    </message>
+    <message>
+        <source>Rotated down %1 Degrees</source>
+        <translation>旋转 向下 %1 度</translation>
+    </message>
+    <message>
+        <source>Degrees</source>
+        <translation>度</translation>
+    </message>
+    <message>
+        <source>Rotated up %1 Degrees</source>
+        <translation>旋转 向上 %1 度</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>垂直对齐</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>水平对齐</translation>
+    </message>
+    <message>
+        <source>Orientation</source>
+        <translation>方向</translation>
+    </message>
+    <message>
+        <source>Wrap</source>
+        <translation>换行</translation>
+    </message>
+    <message>
+        <source>Indents</source>
+        <translation>缩进</translation>
+    </message>
+    <message>
+        <source>Top Aligned</source>
+        <translation>上 对齐</translation>
+    </message>
+    <message>
+        <source>Vertical Justify Aligned</source>
+        <translation>垂直两端对齐</translation>
+    </message>
+    <message>
+        <source>Vertical Distributed Aligned</source>
+        <translation>垂直分散对齐</translation>
+    </message>
+    <message>
+        <source>Vertical Center Aligned</source>
+        <translation>垂直居中</translation>
+    </message>
+    <message>
+        <source>Bottom Aligned</source>
+        <translation>下 对齐</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation>两端对齐</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>常规</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation>填充</translation>
+    </message>
+    <message>
+        <source>Horizontal Distributed</source>
+        <translation>水平分散对齐</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation>跨列居中</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>居中</translation>
+    </message>
+    <message>
+        <source>No Font</source>
+        <translation>无字体</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation>颜色</translation>
+    </message>
+    <message>
+        <source>Subscript</source>
+        <translation>下标</translation>
+    </message>
+    <message>
+        <source>Superscript</source>
+        <translation>上标</translation>
+    </message>
+    <message>
+        <source>Strikethrough</source>
+        <translation>删除线</translation>
+    </message>
+    <message>
+        <source>Single Accounting</source>
+        <translation>单下划线</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation>单下划线</translation>
+    </message>
+    <message>
+        <source>Double Accounting</source>
+        <translation>会计用双下划线</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation>双下划线</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation>下划线</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>斜体</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>粗体</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>字号</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation>字体</translation>
+    </message>
+    <message>
+        <source>No Borders</source>
+        <translation>无边框</translation>
+    </message>
+    <message>
+        <source>Border</source>
+        <translation>边框</translation>
+    </message>
+    <message>
+        <source>Shaded</source>
+        <translation>底纹</translation>
+    </message>
+    <message>
+        <source>No Shading</source>
+        <translation>无底纹</translation>
+    </message>
+    <message>
+        <source>No Protection</source>
+        <translation>无保护</translation>
+    </message>
+    <message>
+        <source>Locked</source>
+        <translation>锁定</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>左</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>右</translation>
+    </message>
+    <message>
+        <source>DiagonalDown</source>
+        <translation>下斜线</translation>
+    </message>
+    <message>
+        <source>DiagonalUp</source>
+        <translation>上斜线</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation>上</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>下</translation>
+    </message>
+    <message>
+        <source>This format name already exists.</source>
+        <translation>当前样式名称已经存在。</translation>
+    </message>
+    <message>
+        <source>Black</source>
+        <translation type="obsolete">黑色</translation>
+    </message>
+    <message>
+        <source>White</source>
+        <translation type="obsolete">白色</translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <translation type="obsolete">红色</translation>
+    </message>
+    <message>
+        <source>Bright Green</source>
+        <translation type="obsolete">鲜绿</translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <translation type="obsolete">蓝色</translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <translation type="obsolete">黄色</translation>
+    </message>
+    <message>
+        <source>Pink</source>
+        <translation type="obsolete">粉红</translation>
+    </message>
+    <message>
+        <source>Turquoise</source>
+        <translation type="obsolete">青绿</translation>
+    </message>
+    <message>
+        <source>Dark Red</source>
+        <translation type="obsolete">深红</translation>
+    </message>
+    <message>
+        <source>Green</source>
+        <translation type="obsolete">绿色</translation>
+    </message>
+    <message>
+        <source>Dark Blue</source>
+        <translation type="obsolete">深蓝</translation>
+    </message>
+    <message>
+        <source>Dark Yellow</source>
+        <translation type="obsolete">深黄</translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <translation type="obsolete">紫罗兰</translation>
+    </message>
+    <message>
+        <source>Teal</source>
+        <translation type="obsolete">青色</translation>
+    </message>
+    <message>
+        <source>Gray-25%</source>
+        <translation type="obsolete">灰色-25%</translation>
+    </message>
+    <message>
+        <source>Gray-50%</source>
+        <translation type="obsolete">灰色-50%</translation>
+    </message>
+    <message>
+        <source>Periwinkle</source>
+        <translation type="obsolete">海螺</translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <translation type="obsolete">梅红</translation>
+    </message>
+    <message>
+        <source>vIvory</source>
+        <translation type="obsolete">象牙色</translation>
+    </message>
+    <message>
+        <source>Light Turquoise</source>
+        <translation type="obsolete">浅青绿</translation>
+    </message>
+    <message>
+        <source>Dark Purple</source>
+        <translation type="obsolete">深紫</translation>
+    </message>
+    <message>
+        <source>Coral</source>
+        <translation type="obsolete">珊瑚红</translation>
+    </message>
+    <message>
+        <source>OceanBlue</source>
+        <translation type="obsolete">海蓝</translation>
+    </message>
+    <message>
+        <source>IceBlue</source>
+        <translation type="obsolete">冰蓝</translation>
+    </message>
+    <message>
+        <source>Sky Blue</source>
+        <translation type="obsolete">天蓝</translation>
+    </message>
+    <message>
+        <source>Light Green</source>
+        <translation type="obsolete">浅绿</translation>
+    </message>
+    <message>
+        <source>Light Yellow</source>
+        <translation type="obsolete">浅黄</translation>
+    </message>
+    <message>
+        <source>Pale Blue</source>
+        <translation type="obsolete">淡蓝</translation>
+    </message>
+    <message>
+        <source>Rose</source>
+        <translation type="obsolete">玫瑰红</translation>
+    </message>
+    <message>
+        <source>Lavender</source>
+        <translation type="obsolete">浅紫</translation>
+    </message>
+    <message>
+        <source>Tan</source>
+        <translation type="obsolete">茶色</translation>
+    </message>
+    <message>
+        <source>Light Blue</source>
+        <translation type="obsolete">浅蓝</translation>
+    </message>
+    <message>
+        <source>Aqua</source>
+        <translation type="obsolete">水绿色</translation>
+    </message>
+    <message>
+        <source>Lime</source>
+        <translation type="obsolete">酸橙色</translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <translation type="obsolete">金色</translation>
+    </message>
+    <message>
+        <source>Light Orange</source>
+        <translation type="obsolete">浅橙色</translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <translation type="obsolete">橙色</translation>
+    </message>
+    <message>
+        <source>Blue-Gray</source>
+        <translation type="obsolete">蓝-灰</translation>
+    </message>
+    <message>
+        <source>Gray-40%</source>
+        <translation type="obsolete">灰色-40%</translation>
+    </message>
+    <message>
+        <source>Dark Teal</source>
+        <translation type="obsolete">深青</translation>
+    </message>
+    <message>
+        <source>Sea Green</source>
+        <translation type="obsolete">海绿</translation>
+    </message>
+    <message>
+        <source>Dark Green</source>
+        <translation type="obsolete">深绿</translation>
+    </message>
+    <message>
+        <source>Olive Green</source>
+        <translation type="obsolete">橄榄绿</translation>
+    </message>
+    <message>
+        <source>Brown</source>
+        <translation type="obsolete">褐色</translation>
+    </message>
+    <message>
+        <source>Indigo</source>
+        <translation type="obsolete">靛蓝</translation>
+    </message>
+    <message>
+        <source>Gray-80%</source>
+        <translation type="obsolete">灰色-80%</translation>
+    </message>
+    <message>
+        <source>Gray-5%</source>
+        <translation type="obsolete">灰色-5%</translation>
+    </message>
+    <message>
+        <source>Gray-10%</source>
+        <translation type="obsolete">灰色-10%</translation>
+    </message>
+    <message>
+        <source>Gray-12.5%</source>
+        <translation type="obsolete">灰色-12.5%</translation>
+    </message>
+    <message>
+        <source>Gray-15%</source>
+        <translation type="obsolete">灰色-15%</translation>
+    </message>
+    <message>
+        <source>Gray-20%</source>
+        <translation type="obsolete">灰色-20%</translation>
+    </message>
+    <message>
+        <source>Gray-30%</source>
+        <translation type="obsolete">灰色-30%</translation>
+    </message>
+    <message>
+        <source>Gray-35%</source>
+        <translation type="obsolete">灰色-35%</translation>
+    </message>
+    <message>
+        <source>Gray-37.5%</source>
+        <translation type="obsolete">灰色-37.5%</translation>
+    </message>
+    <message>
+        <source>Gray-45%</source>
+        <translation type="obsolete">灰色-45%</translation>
+    </message>
+    <message>
+        <source>Gray-55%</source>
+        <translation type="obsolete">灰色-55%</translation>
+    </message>
+    <message>
+        <source>Gray-60%</source>
+        <translation type="obsolete">灰色-60%</translation>
+    </message>
+    <message>
+        <source>Gray-62.5%</source>
+        <translation type="obsolete">灰色-62.5%</translation>
+    </message>
+    <message>
+        <source>Gray-65%</source>
+        <translation type="obsolete">灰色-65%</translation>
+    </message>
+    <message>
+        <source>Gray-70%</source>
+        <translation type="obsolete">灰色-70%</translation>
+    </message>
+    <message>
+        <source>Gray-75%</source>
+        <translation type="obsolete">灰色-75%</translation>
+    </message>
+    <message>
+        <source>Gray-85%</source>
+        <translation type="obsolete">灰色-85%</translation>
+    </message>
+    <message>
+        <source>Gray-87.5%</source>
+        <translation type="obsolete">灰色-87.5%</translation>
+    </message>
+    <message>
+        <source>Gray-90%</source>
+        <translation type="obsolete">灰色-90%</translation>
+    </message>
+    <message>
+        <source>Gray-95%</source>
+        <translation type="obsolete">灰色-95%</translation>
+    </message>
+    <message>
+        <source>MarjorFont</source>
+        <translation>(标题)</translation>
+    </message>
+    <message>
+        <source>TextFont</source>
+        <translation>(正文)</translation>
+    </message>
+</context>
+<context>
     <name>KxChangeFileAccessDlg</name>
     <message>
         <source>file have benn changed.</source>
@@ -1433,6 +2015,581 @@ condition is true:</source>
     <message>
         <source>Confirmation password is not identical.</source>
         <translation>确认的密码与先前输入的不一致。</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeGalleryCommand</name>
+    <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: </source>
+        <translation>若要创建此股价图，请按如下顺序安排工作表中的数据：</translation>
+    </message>
+    <message>
+        <source> Use dates or stock names as labels.</source>
+        <translation>使用日期或股票名称作为标签。</translation>
+    </message>
+    <message>
+        <source>high price, low price, closing price. </source>
+        <translation>盘高-盘低-收盘价。</translation>
+    </message>
+    <message>
+        <source>opening price, high price, low price, closing price. </source>
+        <translation>开盘价-盘高-盘低-收盘价。</translation>
+    </message>
+    <message>
+        <source>volume traded, high price, low price, closing price. </source>
+        <translation>成交量-盘高-盘低-收盘价。</translation>
+    </message>
+    <message>
+        <source>volume traded, opening price, high price, low price, closing price. </source>
+        <translation>成交量-开盘价-盘高-盘低-收盘价。</translation>
+    </message>
+    <message>
+        <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
+        <translation>部分图表类型不能与其他图表类型组合。请选择其他图表类型。</translation>
+    </message>
+    <message>
+        <source>To create a combination chart, select at least two series of data.</source>
+        <translation>若要创建组合图，请至少选择两个数据系列。</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeGalleryModel</name>
+    <message>
+        <source>2-D Column</source>
+        <translation>二维柱形图</translation>
+    </message>
+    <message>
+        <source>2-D Bar</source>
+        <translation>二维条形图</translation>
+    </message>
+    <message>
+        <source>2-D Line</source>
+        <translation>二维折线图</translation>
+    </message>
+    <message>
+        <source>Stock</source>
+        <translation>股价图</translation>
+    </message>
+    <message>
+        <source>Radar</source>
+        <translation>雷达图</translation>
+    </message>
+    <message>
+        <source>2-D Area</source>
+        <translation>二维面积图</translation>
+    </message>
+    <message>
+        <source>Combo</source>
+        <translation>组合图</translation>
+    </message>
+    <message>
+        <source>2-D Pie</source>
+        <translation>二维饼图</translation>
+    </message>
+    <message>
+        <source>X Y (Scatter)</source>
+        <translation>X Y（散点图）</translation>
+    </message>
+    <message>
+        <source>Clustered Column</source>
+        <translation>簇状柱形图</translation>
+    </message>
+    <message>
+        <source>Stacked Column</source>
+        <translation>堆积柱形图</translation>
+    </message>
+    <message>
+        <source>100% Stacked Column</source>
+        <translation>百分比堆积柱形图</translation>
+    </message>
+    <message>
+        <source>Clustered Bar</source>
+        <translation>簇状条形图</translation>
+    </message>
+    <message>
+        <source>Stacked Bar</source>
+        <translation>堆积条形图</translation>
+    </message>
+    <message>
+        <source>100% Stacked Bar</source>
+        <translation>百分比堆积条形图</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation>折线图</translation>
+    </message>
+    <message>
+        <source>Stacked Line</source>
+        <translation>堆积折线图</translation>
+    </message>
+    <message>
+        <source>100% Stacked Line</source>
+        <translation>百分比堆积折线图</translation>
+    </message>
+    <message>
+        <source>Line with Markers</source>
+        <translation>带数据标记的折线图</translation>
+    </message>
+    <message>
+        <source>Stacked Line with Markers</source>
+        <translation>带数据标记的堆积折线图</translation>
+    </message>
+    <message>
+        <source>100% Stacked Line with Markers</source>
+        <translation>带数据标记的百分比堆积折线图</translation>
+    </message>
+    <message>
+        <source>High-Low-Close</source>
+        <translation>盘高-盘低-收盘图</translation>
+    </message>
+    <message>
+        <source>Open-High-Low-Close</source>
+        <translation>开盘-盘高-盘低-收盘图</translation>
+    </message>
+    <message>
+        <source>Volume-High-Low-Close</source>
+        <translation>成交量-盘高-盘低-收盘图</translation>
+    </message>
+    <message>
+        <source>Volume-Open-High-Low-Close</source>
+        <translation>成交量-开盘-盘高-盘低-收盘图</translation>
+    </message>
+    <message>
+        <source>Radar with Markers</source>
+        <translation>带数据标记的雷达图</translation>
+    </message>
+    <message>
+        <source>Filled Radar</source>
+        <translation>填充雷达图</translation>
+    </message>
+    <message>
+        <source>Area</source>
+        <translation>面积图</translation>
+    </message>
+    <message>
+        <source>Stacked Area</source>
+        <translation>堆积面积图</translation>
+    </message>
+    <message>
+        <source>100% Stacked Area</source>
+        <translation>百分比堆积面积图</translation>
+    </message>
+    <message>
+        <source>Clustered Column Line</source>
+        <translation>簇状柱形图-折线图</translation>
+    </message>
+    <message>
+        <source>Clustered Column - Line on Secondary Axis</source>
+        <translation>簇状柱形图-次坐标轴上的折线图</translation>
+    </message>
+    <message>
+        <source>Stacked Area - Clustered Column</source>
+        <translation>堆积面积图-簇状柱形图</translation>
+    </message>
+    <message>
+        <source>Pie</source>
+        <translation>饼图</translation>
+    </message>
+    <message>
+        <source>Pie Of Pie</source>
+        <translation>复合饼图</translation>
+    </message>
+    <message>
+        <source>Bar Of Pie</source>
+        <translation>复合条饼图</translation>
+    </message>
+    <message>
+        <source>Doughnut</source>
+        <translation>圆环图</translation>
+    </message>
+    <message>
+        <source>Scatter</source>
+        <translation>散点图</translation>
+    </message>
+    <message>
+        <source>Scatter with Smooth Lines and Markers</source>
+        <translation>带平滑线和数据标记的散点图</translation>
+    </message>
+    <message>
+        <source>Scatter with Smooth Lines</source>
+        <translation>带平滑线的散点图</translation>
+    </message>
+    <message>
+        <source>Scatter with Straight Lines and Markers</source>
+        <translation>带直线和数据标记的散点图</translation>
+    </message>
+    <message>
+        <source>Scatter with Straight Lines</source>
+        <translation>带直线的散点图</translation>
+    </message>
+    <message>
+        <source>Bubble</source>
+        <translation>气泡图</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeItem</name>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The order of categories is not important.</source>
+        <translation>使用此图表类型:
+• 跨若干类别比较值。
+
+在下列情况下使用它:
+• 类别的顺序不重要。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole.
+• Show how parts of a whole change over time.</source>
+        <translation>使用此图表类型:
+• 比较整体的各个部分。
+• 显示整体的各个部分如何随时间而变化。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentages that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.</source>
+        <translation>使用此图表类型:
+• 比较各个值占总计的百分比。
+• 显示每个值的百分比如何随时间而变化。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The chart shows duration.
+• The category text is long.</source>
+        <translation>使用此图表类型:
+• 跨若干类别比较值。
+
+在下列情况下使用它:
+• 图表显示持续时间。
+• 类别文本很长。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole across categories.
+• Show how parts of a whole change over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation>使用此图表类型:
+• 比较相交于类别轴的整体的各个部分。
+• 显示整体的各个部分如何随时间而变化。
+
+在下列情况下使用它:
+• 类别文本很长。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentage that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation>使用此图表类型:
+• 比较各个值占总计的百分比。
+• 显示每个值的百分比如何随时间而变化。
+
+在下列情况下使用它:
+• 类别文本较长。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are many data points.</source>
+        <translation>使用此图表类型:
+• 按时间(年、月和日)或类别显示趋势。
+
+在下列情况下使用它:
+• 类别顺序很重要。
+• 存在许多数据点。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show how parts of a whole change over time.
+
+Consider using a stacked area chart instead as stacked line charts can be hard to read.</source>
+        <translation>使用此图表类型:
+• 显示整体的各个部分如何随时间而变化。
+
+考虑改用堆积面积图，因为堆积折线图难于阅读。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Show the change to the percentage that each value contributes over time.
+
+Consider using a 100% stacked area chart because stacked line charts can be hard to read.</source>
+        <translation>使用此图表类型:
+• 按时间或类别显示占整体的百分比。
+• 显示每个值所占百分比如何随时间而变化。
+
+考虑改用百分比堆积面积图，因为堆积折线图难于阅读。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are few data points.</source>
+        <translation>使用此图表类型:
+• 按时间(年、月和日)或类别显示趋势。
+
+在下列情况下使用它:
+• 类别顺序很重要。
+• 存在很少的数据点。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock&apos;s performance over time.
+
+Use it when:
+• You have three series of price values: High, Low, Close.</source>
+        <translation>使用此图表类型:
+• 显示股票随时间的表现趋势。
+
+在下列情况下使用它:
+• 拥有三个系列的价格值: 盘高、盘低和收盘。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock&apos;s performance over time.
+
+Use it when:
+• You have four series of price values: Open, High, Low, Close.</source>
+        <translation>使用此图表类型:
+• 显示股票随时间的表现趋势。
+
+在下列情况下使用它:
+• 拥有四个系列的价格值: 开盘、盘高、盘低和收盘。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock&apos;s performance over time.
+
+Use it when:
+• You have four series of values: Volume, High, Low, Close.</source>
+        <translation>使用此图表类型:
+• 显示股票随时间的表现趋势。
+
+在下列情况下使用它:
+• 拥有四个系列的值: 成交量、盘高、盘低和收盘。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock&apos;s performance over time.
+
+Use it when:
+• You have five series of values: Volume, Open, High, Low, Close.</source>
+        <translation>使用此图表类型:
+• 显示股票随时间的表现趋势。
+
+在下列情况下使用它:
+• 拥有五个系列的值: 成交量、开盘、盘高、盘低和收盘。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show values relative to a center point.
+
+Use it when:
+• Categories are not directly comparable.</source>
+        <translation>使用此图表类型：
+• 显示相对于中心点的值。
+
+在下列情况下使用它：
+• 不能直接比较类别。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• Category order is important.
+• To highlight the magnitude of change over time.</source>
+        <translation>使用此图表：
+• 按时间（年、月和日）或类型显示趋势。
+
+在下列情况下使用它：
+• 类别顺序很重要。
+• 强调随时间的变化幅度。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the relationship of parts to a whole over time or categories.
+• Highlight the magnitude of change over time.
+• Draw attention to the total value across a trend.</source>
+        <translation>使用此图表类型:
+• 按时间或类别显示各部分与整体的关系。
+• 强调随时间的变化幅度。
+• 跨趋势强调总值。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Highlight the magnitude of change to the percentage that each value contributes over time.</source>
+        <translation>使用此图表类型：
+• 按时间或类别显示占整体的百分比。
+• 强调每个值所占百分比随时间的变化幅度。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• You have mixed types of data.</source>
+        <translation>使用此图表类型：
+• 突出显示不同类型的信息。
+
+在下列情况下使用它：
+• 具有混合类型的数据。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• The range of values in the chart varies widely.
+• You have mixed types of data.</source>
+        <translation>使用此图表类型：
+• 突出显示不同类型的信息。
+
+在下列情况下使用它：
+• 图表中的值的范围变化很大。
+• 具有混合类型的数据。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it when:
+• Numbers equal 100%.
+• The chart contains only a few pie slices (many slices make the angles hard to estimate).</source>
+        <translation>使用此图表类型:
+• 显示整体的比例。
+
+在下列情况下使用它:
+• 数字等于 100%。
+• 图表仅包含几个饼图切片(太多切片造成难以估计角度)。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a second pie to make small percentages more readable or highlight the values in the second pie.</source>
+        <translation>使用此图表类型:
+• 显示整体的比例。
+• 从第一个饼图中提取一些值，将其合并在第二个饼图中，使较小百分比更具可读性或突出强调第二个饼图中的值。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a stacked bar to make small percentages more readable or highlight the values in the stacked bar.</source>
+        <translation>使用此图表类型:
+• 显示整体的比例。
+• 从第一个饼图中提取一些值，将其合并在堆积条形图中，使较小百分比更具可读性或突出强调堆积条形图中的值。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it instead of a pie chart when there are multiple series that relate to a larger sum.</source>
+        <translation>使用此图表类型：
+• 显示整体的比例。
+
+当存在与较大的总和相关的多个系列时，请使用它，而不要使用饼图。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• The data represents separate measurements.</source>
+        <translation>使用此图表类型：
+• 比较至少两组值或两对数据。
+• 显示值集之间的关系。
+
+在下列情况下使用它：
+• 数据代表单独的测量。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation>使用此图表类型：
+• 比较至少两组值或两对数据。
+
+在下列情况下使用它：
+• 存在较少数据点。
+• 数据代表一组根据公式计算的x、y数对</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation>使用此图表类型：
+• 比较至少两组值或两对数据。
+
+在下列情况下使用它：
+• 存在许多数据点。
+• 数据代表一组根据公式计算的x、y数对</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents separate measurements.</source>
+        <translation>使用此图表类型：
+• 比较至少两组值或两对数据。
+
+在下列情况下使用它：
+• 存在较少数据点。
+• 数据代表单独的测量。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents separate measurements.</source>
+        <translation>使用此图表类型：
+• 比较至少两组值或两对数据。
+
+在下列情况下使用它：
+• 存在许多数据点。
+• 数据代表单独的测量。</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least three sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• You have a third value that can be used to determine the relative size of the bubble.</source>
+        <translation>使用此图表类型：
+• 比较至少三组值或三对数据。
+• 显示值集之间的关系
+
+在下列情况下使用它:
+• 有第三个值可以用来确定气泡的相对大小。</translation>
     </message>
 </context>
 <context>
@@ -1452,6 +2609,308 @@ condition is true:</source>
     <message>
         <source>Workbook</source>
         <translation>工作簿</translation>
+    </message>
+</context>
+<context>
+    <name>KxColorStyle</name>
+    <message>
+        <source>Black</source>
+        <translation type="obsolete">黑色</translation>
+    </message>
+    <message>
+        <source>White</source>
+        <translation type="obsolete">白色</translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <translation type="obsolete">红色</translation>
+    </message>
+    <message>
+        <source>Bright Green</source>
+        <translation type="obsolete">鲜绿</translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <translation type="obsolete">蓝色</translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <translation type="obsolete">黄色</translation>
+    </message>
+    <message>
+        <source>Pink</source>
+        <translation type="obsolete">粉红</translation>
+    </message>
+    <message>
+        <source>Turquoise</source>
+        <translation type="obsolete">青绿</translation>
+    </message>
+    <message>
+        <source>Dark Red</source>
+        <translation type="obsolete">深红</translation>
+    </message>
+    <message>
+        <source>Green</source>
+        <translation type="obsolete">绿色</translation>
+    </message>
+    <message>
+        <source>Dark Blue</source>
+        <translation type="obsolete">深蓝</translation>
+    </message>
+    <message>
+        <source>Dark Yellow</source>
+        <translation type="obsolete">深黄</translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <translation type="obsolete">紫罗兰</translation>
+    </message>
+    <message>
+        <source>Teal</source>
+        <translation type="obsolete">青色</translation>
+    </message>
+    <message>
+        <source>Gray-25%</source>
+        <translation type="obsolete">灰色-25%</translation>
+    </message>
+    <message>
+        <source>Gray-50%</source>
+        <translation type="obsolete">灰色-50%</translation>
+    </message>
+    <message>
+        <source>Periwinkle</source>
+        <translation type="obsolete">海螺</translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <translation type="obsolete">梅红</translation>
+    </message>
+    <message>
+        <source>vIvory</source>
+        <translation type="obsolete">象牙色</translation>
+    </message>
+    <message>
+        <source>Light Turquoise</source>
+        <translation type="obsolete">浅青绿</translation>
+    </message>
+    <message>
+        <source>Dark Purple</source>
+        <translation type="obsolete">深紫</translation>
+    </message>
+    <message>
+        <source>Coral</source>
+        <translation type="obsolete">珊瑚红</translation>
+    </message>
+    <message>
+        <source>OceanBlue</source>
+        <translation type="obsolete">海蓝</translation>
+    </message>
+    <message>
+        <source>IceBlue</source>
+        <translation type="obsolete">冰蓝</translation>
+    </message>
+    <message>
+        <source>Sky Blue</source>
+        <translation type="obsolete">天蓝</translation>
+    </message>
+    <message>
+        <source>Light Green</source>
+        <translation type="obsolete">浅绿</translation>
+    </message>
+    <message>
+        <source>Light Yellow</source>
+        <translation type="obsolete">浅黄</translation>
+    </message>
+    <message>
+        <source>Pale Blue</source>
+        <translation type="obsolete">淡蓝</translation>
+    </message>
+    <message>
+        <source>Rose</source>
+        <translation type="obsolete">玫瑰红</translation>
+    </message>
+    <message>
+        <source>Lavender</source>
+        <translation type="obsolete">浅紫</translation>
+    </message>
+    <message>
+        <source>Tan</source>
+        <translation type="obsolete">茶色</translation>
+    </message>
+    <message>
+        <source>Light Blue</source>
+        <translation type="obsolete">浅蓝</translation>
+    </message>
+    <message>
+        <source>Aqua</source>
+        <translation type="obsolete">水绿色</translation>
+    </message>
+    <message>
+        <source>Lime</source>
+        <translation type="obsolete">酸橙色</translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <translation type="obsolete">金色</translation>
+    </message>
+    <message>
+        <source>Light Orange</source>
+        <translation type="obsolete">浅橙色</translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <translation type="obsolete">橙色</translation>
+    </message>
+    <message>
+        <source>Blue-Gray</source>
+        <translation type="obsolete">蓝-灰</translation>
+    </message>
+    <message>
+        <source>Gray-40%</source>
+        <translation type="obsolete">灰色-40%</translation>
+    </message>
+    <message>
+        <source>Dark Teal</source>
+        <translation type="obsolete">深青</translation>
+    </message>
+    <message>
+        <source>Sea Green</source>
+        <translation type="obsolete">海绿</translation>
+    </message>
+    <message>
+        <source>Dark Green</source>
+        <translation type="obsolete">深绿</translation>
+    </message>
+    <message>
+        <source>Olive Green</source>
+        <translation type="obsolete">橄榄绿</translation>
+    </message>
+    <message>
+        <source>Brown</source>
+        <translation type="obsolete">褐色</translation>
+    </message>
+    <message>
+        <source>Indigo</source>
+        <translation type="obsolete">靛蓝</translation>
+    </message>
+    <message>
+        <source>Gray-80%</source>
+        <translation type="obsolete">灰色-80%</translation>
+    </message>
+    <message>
+        <source>Gray-5%</source>
+        <translation type="obsolete">灰色-5%</translation>
+    </message>
+    <message>
+        <source>Gray-10%</source>
+        <translation type="obsolete">灰色-10%</translation>
+    </message>
+    <message>
+        <source>Gray-12.5%</source>
+        <translation type="obsolete">灰色-12.5%</translation>
+    </message>
+    <message>
+        <source>Gray-15%</source>
+        <translation type="obsolete">灰色-15%</translation>
+    </message>
+    <message>
+        <source>Gray-20%</source>
+        <translation type="obsolete">灰色-20%</translation>
+    </message>
+    <message>
+        <source>Gray-30%</source>
+        <translation type="obsolete">灰色-30%</translation>
+    </message>
+    <message>
+        <source>Gray-35%</source>
+        <translation type="obsolete">灰色-35%</translation>
+    </message>
+    <message>
+        <source>Gray-37.5%</source>
+        <translation type="obsolete">灰色-37.5%</translation>
+    </message>
+    <message>
+        <source>Gray-45%</source>
+        <translation type="obsolete">灰色-45%</translation>
+    </message>
+    <message>
+        <source>Gray-55%</source>
+        <translation type="obsolete">灰色-55%</translation>
+    </message>
+    <message>
+        <source>Gray-60%</source>
+        <translation type="obsolete">灰色-60%</translation>
+    </message>
+    <message>
+        <source>Gray-62.5%</source>
+        <translation type="obsolete">灰色-62.5%</translation>
+    </message>
+    <message>
+        <source>Gray-65%</source>
+        <translation type="obsolete">灰色-65%</translation>
+    </message>
+    <message>
+        <source>Gray-70%</source>
+        <translation type="obsolete">灰色-70%</translation>
+    </message>
+    <message>
+        <source>Gray-75%</source>
+        <translation type="obsolete">灰色-75%</translation>
+    </message>
+    <message>
+        <source>Gray-85%</source>
+        <translation type="obsolete">灰色-85%</translation>
+    </message>
+    <message>
+        <source>Gray-87.5%</source>
+        <translation type="obsolete">灰色-87.5%</translation>
+    </message>
+    <message>
+        <source>Gray-90%</source>
+        <translation type="obsolete">灰色-90%</translation>
+    </message>
+    <message>
+        <source>Gray-95%</source>
+        <translation type="obsolete">灰色-95%</translation>
+    </message>
+</context>
+<context>
+    <name>KxColumnWidthFieldInfo</name>
+    <message>
+        <source>General</source>
+        <translation>常规</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>文本</translation>
+    </message>
+    <message>
+        <source>MDY</source>
+        <translation>MDY</translation>
+    </message>
+    <message>
+        <source>DMY</source>
+        <translation>DMY</translation>
+    </message>
+    <message>
+        <source>YMD</source>
+        <translation>YMD</translation>
+    </message>
+    <message>
+        <source>MYD</source>
+        <translation>MYD</translation>
+    </message>
+    <message>
+        <source>DYM</source>
+        <translation>DYM</translation>
+    </message>
+    <message>
+        <source>YDM</source>
+        <translation>YDM</translation>
+    </message>
+    <message>
+        <source>Skip</source>
+        <translation>忽略列</translation>
     </message>
 </context>
 <context>
@@ -1669,63 +3128,63 @@ condition is true:</source>
     </message>
     <message>
         <source>Equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>等于</translation>
     </message>
     <message>
         <source>Not equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>不等于</translation>
     </message>
     <message>
         <source>Greater than</source>
-        <translation type="unfinished">大于</translation>
+        <translation>大于</translation>
     </message>
     <message>
         <source>Less than</source>
-        <translation type="unfinished">小于</translation>
+        <translation>小于</translation>
     </message>
     <message>
         <source>and</source>
-        <translation type="unfinished">与</translation>
+        <translation>和</translation>
     </message>
     <message>
         <source>Between</source>
-        <translation type="unfinished">介于</translation>
+        <translation>介于</translation>
     </message>
     <message>
         <source>Not between</source>
-        <translation type="unfinished"></translation>
+        <translation>未介于</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>最大的</translation>
     </message>
     <message>
         <source>Items</source>
-        <translation type="unfinished">项</translation>
+        <translation>个值</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>最小的</translation>
     </message>
     <message>
         <source>% Items</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">%的值</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished">平均值</translation>
+        <translation>平均值</translation>
     </message>
     <message>
         <source>Above</source>
-        <translation type="unfinished"></translation>
+        <translation>高于</translation>
     </message>
     <message>
         <source>Below</source>
-        <translation type="unfinished"></translation>
+        <translation>低于</translation>
     </message>
     <message>
         <source>Does not contain</source>
-        <translation type="unfinished"></translation>
+        <translation>不包含</translation>
     </message>
     <message>
         <source>Begin with</source>
@@ -1737,103 +3196,115 @@ condition is true:</source>
     </message>
     <message>
         <source>A Date Occurring</source>
-        <translation type="unfinished"></translation>
+        <translation>日期是</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished">昨天</translation>
+        <translation>昨天</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished">今天</translation>
+        <translation>今天</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished">明天</translation>
+        <translation>明天</translation>
     </message>
     <message>
         <source>In the last 7 days</source>
-        <translation type="unfinished"></translation>
+        <translation>最近7天</translation>
     </message>
     <message>
         <source>Last week</source>
-        <translation type="unfinished"></translation>
+        <translation>上周</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation type="unfinished"></translation>
+        <translation>本周</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation>下周</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation type="unfinished"></translation>
+        <translation>上个月</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation type="unfinished"></translation>
+        <translation>本月</translation>
     </message>
     <message>
         <source>Next month</source>
-        <translation type="unfinished"></translation>
+        <translation>下个月</translation>
     </message>
     <message>
         <source>Weekend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Highlight-Special Value</source>
-        <translation type="unfinished"></translation>
+        <translation>周末</translation>
     </message>
     <message>
         <source>Empty Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>空单元格</translation>
     </message>
     <message>
         <source>Error value </source>
-        <translation type="unfinished"></translation>
+        <translation>错误值</translation>
     </message>
     <message>
         <source>Lack input value</source>
-        <translation type="unfinished"></translation>
+        <translation>缺少输入值</translation>
     </message>
     <message>
         <source>The required range value is insufficient</source>
-        <translation type="unfinished"></translation>
+        <translation>所需的范围值不足</translation>
     </message>
     <message>
         <source>Highlight - Value</source>
-        <translation type="unfinished"></translation>
+        <translation>突出显示 - 数值</translation>
     </message>
     <message>
         <source>Greater than or equal to</source>
-        <translation type="unfinished">大于或等于</translation>
+        <translation>大于等于</translation>
     </message>
     <message>
         <source>Less than or equal to</source>
-        <translation type="unfinished">小于或等于</translation>
+        <translation>小于等于</translation>
     </message>
     <message>
         <source>Highlight - Text</source>
-        <translation type="unfinished"></translation>
+        <translation>突出显示 - 文本</translation>
     </message>
     <message>
         <source>Contains</source>
-        <translation type="unfinished">包含</translation>
+        <translation>包含</translation>
     </message>
     <message>
         <source>Begins with</source>
-        <translation type="unfinished"></translation>
+        <translation>开头是</translation>
     </message>
     <message>
         <source>Ends with</source>
-        <translation type="unfinished"></translation>
+        <translation>结尾是</translation>
     </message>
     <message>
         <source>Highlight - Date</source>
-        <translation type="unfinished"></translation>
+        <translation>突出显示 - 日期</translation>
+    </message>
+    <message>
+        <source>Minimum of %</source>
+        <translation type="obsolete">% 项</translation>
+    </message>
+    <message>
+        <source>Highlight - Special Value</source>
+        <translation>突出显示 - 特殊值</translation>
+    </message>
+    <message>
+        <source>% Max Items</source>
+        <translation>%的值</translation>
+    </message>
+    <message>
+        <source>% Min Items</source>
+        <translation>%的值</translation>
     </message>
 </context>
 <context>
@@ -1998,6 +3469,22 @@ condition is true:</source>
     </message>
 </context>
 <context>
+    <name>KxConvertToRangeDlg</name>
+    <message>
+        <source>Do you want to convert the table to a normal range?</source>
+        <translation>  是否将表转化为普通区域？</translation>
+    </message>
+    <message>
+        <source>SpreadSheets</source>
+        <translation>WPS 表格</translation>
+    </message>
+    <message>
+        <source>This will permanently remove the query definition from the select sheet and convert the table to a normal range.Continue?</source>
+        <comment>TX_TableConver2Range_DelQuery</comment>
+        <translation>这将从工作表中永久删除查询定义，并将表转换为普通区域。是否继续？</translation>
+    </message>
+</context>
+<context>
     <name>KxCreatePivotTableDlg</name>
     <message>
         <source>Data fields have been retrieved.</source>
@@ -2051,7 +3538,7 @@ condition is true:</source>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because current workbook is in protection. Please select an existing sheet or unprotect this workbook.</source>
-        <translation>不能在新工作表上创建数据透视表，因为当前工作薄已经被保护。请您选择一个已经存在的工作表或者取消工作薄保护。</translation>
+        <translation>不能在新工作表上创建数据透视表，因为当前工作簿已经被保护。请您选择一个已经存在的工作表或者取消工作簿保护。</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range and not in a hidden sheet.</source>
@@ -2070,7 +3557,33 @@ condition is true:</source>
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>您选择的数据透视表的数据源不正确。请检查您要分析的数据是否满足以下几个条件：
+1.确认引用区域是存在的。如果是名称，请确认该名称引用的是一个合法的区域；
+2.确认引用区域是单一的区域，并且至少有两行；
+3.确认引用区域是第一行且不存在空白的单元格，不包含错误值，而且每个单元格内的字符数不超过255个。</translation>
+    </message>
+</context>
+<context>
+    <name>KxCreateTableDlg</name>
+    <message>
+        <source>Create Table</source>
+        <translation>创建表</translation>
+    </message>
+    <message>
+        <source>Where is the data for your table?</source>
+        <translation>表数据的来源(W):</translation>
+    </message>
+    <message>
+        <source>My table has headers</source>
+        <translation>表包含标题(M)</translation>
+    </message>
+    <message>
+        <source>Reference is not valid.</source>
+        <translation>引用无效。</translation>
+    </message>
+    <message>
+        <source>Format As Table</source>
+        <translation>套用表格样式</translation>
     </message>
 </context>
 <context>
@@ -2243,7 +3756,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>An error occurred when delete.</source>
-        <translation type="unfinished"></translation>
+        <translation>删除时发生错误。</translation>
     </message>
 </context>
 <context>
@@ -2618,19 +4131,19 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Condition Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>条件格式高亮</translation>
     </message>
     <message>
         <source>Cells subjected to the following conditions</source>
-        <translation type="unfinished"></translation>
+        <translation>符合以下条件的单元格</translation>
     </message>
     <message>
         <source>Keep the cell to its former setting</source>
-        <translation type="unfinished"></translation>
+        <translation>保留单元格原有设置</translation>
     </message>
     <message>
         <source>Display the following effect</source>
-        <translation type="unfinished"></translation>
+        <translation>将显示以下效果</translation>
     </message>
 </context>
 <context>
@@ -2893,7 +4406,7 @@ place.(Remember that passwords are case-sensitive.)</source>
     </message>
     <message>
         <source>Choose where you want the pivotTable to be placed</source>
-        <translation>请选择放置数据透视表的位置</translation>
+        <translation type="obsolete">请选择放置数据透视表的位置</translation>
     </message>
     <message>
         <source>&amp;New worksheet</source>
@@ -2909,7 +4422,15 @@ place.(Remember that passwords are case-sensitive.)</source>
     </message>
     <message>
         <source>Use another &amp;PivotTable:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用另一个数据透视表(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Choose where you want the PivotTable to be placed</source>
+        <translation type="obsolete">请选择放置数据透视表的位置</translation>
+    </message>
+    <message>
+        <source>Choose where you want the PivotTable report to be placed</source>
+        <translation>请选择放置数据透视表的位置</translation>
     </message>
 </context>
 <context>
@@ -2996,7 +4517,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished">页眉/页脚</translation>
+        <translation>页眉/页脚</translation>
+    </message>
+    <message>
+        <source>input</source>
+        <translation type="obsolete">输入</translation>
     </message>
 </context>
 <context>
@@ -3176,6 +4701,159 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
 </context>
 <context>
+    <name>KxDlgEditAxisLable</name>
+    <message>
+        <source>Axis Labels</source>
+        <translation>轴标签</translation>
+    </message>
+    <message>
+        <source>&amp;Axis label range:</source>
+        <translation>轴标签区域(&amp;A):</translation>
+    </message>
+    <message>
+        <source>Select Range</source>
+        <translation>选择区域</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditDataSeries</name>
+    <message>
+        <source>Edit Series</source>
+        <translation>编辑数据系列</translation>
+    </message>
+    <message>
+        <source>Series &amp;name:</source>
+        <translation>系列名称(&amp;N):</translation>
+    </message>
+    <message>
+        <source>Select Range</source>
+        <translation>选择区域</translation>
+    </message>
+    <message>
+        <source>Series &amp;X values:</source>
+        <translation>X 轴系列值(&amp;X):</translation>
+    </message>
+    <message>
+        <source>Series &amp;values:</source>
+        <translation>系列值(&amp;V):</translation>
+    </message>
+    <message>
+        <source>Series bubble &amp;size:</source>
+        <translation>系列气泡大小(&amp;S)</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Series &amp;Y values:</source>
+        <translation type="obsolete">Y 轴系列值(&amp;Y):</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditDataSource</name>
+    <message>
+        <source>编辑数据源</source>
+        <translation>编辑数据源</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="obsolete">预览</translation>
+    </message>
+    <message>
+        <source>Chart Data Source</source>
+        <translation type="obsolete">图表数据源</translation>
+    </message>
+    <message>
+        <source>The data range is too complex to be displayed.</source>
+        <translation>数据区太复杂而无法显示。</translation>
+    </message>
+    <message>
+        <source>Chart &amp;Data Range:</source>
+        <translation>图表数据区域(&amp;D)：</translation>
+    </message>
+    <message>
+        <source>Series Creation &amp;Direction:</source>
+        <translation>系列生成方向：</translation>
+    </message>
+    <message>
+        <source>Each row of data as a series</source>
+        <translation>每行数据作为一个系列</translation>
+    </message>
+    <message>
+        <source>Each col of data as a series</source>
+        <translation>每列数据作为一个系列</translation>
+    </message>
+    <message>
+        <source>Legend Entries(&amp;Series)</source>
+        <translation>图例项(系列)(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Axis Labels(&amp;Category)</source>
+        <translation>轴标签(分类)(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Series</source>
+        <translation>系列(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Category</source>
+        <translation>类别(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Advanced Setting &gt;&gt;</source>
+        <translation>高级设置(&amp;A) &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Show empty cells as:</source>
+        <translation>空单元格显示为：</translation>
+    </message>
+    <message>
+        <source>&amp;Gaps</source>
+        <translation>空距(&amp;G)</translation>
+    </message>
+    <message>
+        <source>&amp;Zero</source>
+        <translation>零值(&amp;Z)</translation>
+    </message>
+    <message>
+        <source>&amp;Connect data points with line</source>
+        <translation>用直线连接数据点(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Show data in &amp;hidden rows and columns</source>
+        <translation>显示隐藏行列中的数据(&amp;H)</translation>
+    </message>
+    <message>
+        <source>&amp;Advanced Setting &lt;&lt;</source>
+        <translation type="obsolete">高级设置(&amp;A) &lt;&lt;</translation>
+    </message>
+    <message>
+        <source>&lt;blank series&gt;</source>
+        <translation type="obsolete">&lt;空白系列&gt;</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgEditOLEDBQuery</name>
     <message>
         <source>&amp;Connection:</source>
@@ -3215,7 +4893,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished">序列</translation>
+        <translation>列表</translation>
     </message>
 </context>
 <context>
@@ -3578,146 +5256,78 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Ro&amp;w differences</source>
-        <translation type="unfinished"></translation>
+        <translation>行内容差异单元格(&amp;W)</translation>
     </message>
     <message>
         <source>Colu&amp;mn differences</source>
-        <translation type="unfinished"></translation>
+        <translation>列内容差异单元格(&amp;M)</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFont</name>
     <message>
         <source>&amp;Font:</source>
-        <translation>字体(&amp;F):</translation>
+        <translation type="obsolete">字体(&amp;F):</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>大小(&amp;S):</translation>
+        <translation type="obsolete">大小(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Underline:</source>
-        <translation>下划线(&amp;U):</translation>
-    </message>
-    <message>
-        <source>10</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>11</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>12</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>14</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>16</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>18</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>20</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>22</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>24</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>26</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>28</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>36</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>48</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>6</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>72</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>8</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>9</source>
-        <translation></translation>
+        <translation type="obsolete">下划线(&amp;U):</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>加粗</translation>
+        <translation type="obsolete">加粗</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation>加粗 倾斜</translation>
+        <translation type="obsolete">加粗 倾斜</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation>特殊效果</translation>
+        <translation type="obsolete">特殊效果</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
-        <translation>字形(&amp;O):</translation>
+        <translation type="obsolete">字形(&amp;O):</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>字体</translation>
+        <translation type="obsolete">字体</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>倾斜</translation>
+        <translation type="obsolete">倾斜</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>无</translation>
+        <translation type="obsolete">无</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>预览</translation>
+        <translation type="obsolete">预览</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation>常规</translation>
+        <translation type="obsolete">常规</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation>单下划线</translation>
+        <translation type="obsolete">单下划线</translation>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
-        <translation>删除线(&amp;K)</translation>
+        <translation type="obsolete">删除线(&amp;K)</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation>下标(&amp;B)</translation>
+        <translation type="obsolete">下标(&amp;B)</translation>
     </message>
     <message>
         <source>Sup&amp;erscript</source>
-        <translation>上标(&amp;E)</translation>
+        <translation type="obsolete">上标(&amp;E)</translation>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your 
@@ -3726,7 +5336,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
-        <translation>这是一种 TrueType 字体，同时适用于屏幕和打印机。</translation>
+        <translation type="obsolete">这是一种 TrueType 字体，同时适用于屏幕和打印机。</translation>
     </message>
 </context>
 <context>
@@ -3734,6 +5344,13 @@ printer and your screen.</source>
     <message>
         <source>Format Cells</source>
         <translation>单元格格式</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFormatFormControlText</name>
+    <message>
+        <source>Format Form Control Text</source>
+        <translation>设置控件格式</translation>
     </message>
 </context>
 <context>
@@ -3940,6 +5557,89 @@ printer and your screen.</source>
     </message>
 </context>
 <context>
+    <name>KxDlgGradientFill</name>
+    <message>
+        <source>Fill Effects</source>
+        <translation>填充效果</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="obsolete">渐变</translation>
+    </message>
+    <message>
+        <source>V&amp;ariants</source>
+        <translation>变形(A)</translation>
+    </message>
+    <message>
+        <source>Colors</source>
+        <translation>颜色</translation>
+    </message>
+    <message>
+        <source>O&amp;ne color</source>
+        <translation>单色(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Two colors</source>
+        <translation>双色(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Pre&amp;set</source>
+        <translation>预设(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Color &amp;1:</source>
+        <translation>颜色 1(1):</translation>
+    </message>
+    <message>
+        <source>Color &amp;2:</source>
+        <translation>颜色 2(2):</translation>
+    </message>
+    <message>
+        <source>Shading styles</source>
+        <translation>底纹样式</translation>
+    </message>
+    <message>
+        <source>Hori&amp;zontal</source>
+        <translation>水平(&amp;Z)</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical</source>
+        <translation>垂直(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Diagonal &amp;up</source>
+        <translation>斜上(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Diagonal &amp;down</source>
+        <translation>斜下(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;From corner</source>
+        <translation>角部辐射(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Fro&amp;m center</source>
+        <translation>中心辐射(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Sample:</source>
+        <translation>示例</translation>
+    </message>
+    <message>
+        <source>Dar&amp;k</source>
+        <translation>深</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation>浅</translation>
+    </message>
+    <message>
+        <source>Pres&amp;et colors:</source>
+        <translation>预设色</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgGroupOutlineSettings</name>
     <message>
         <source>Direction</source>
@@ -3962,71 +5662,87 @@ printer and your screen.</source>
     <name>KxDlgHeaderFooterWidget</name>
     <message>
         <source>input</source>
-        <translation type="unfinished">输入</translation>
+        <translation></translation>
     </message>
     <message>
         <source>To format text: select the text, then click the font button.</source>
-        <translation type="unfinished">    如果要设置文本格式，请将插入点移至编辑框内，然后按“字体”按钮。</translation>
+        <translation>    如果要设置文本格式，请将插入点移至编辑框内，然后按“字体”按钮。</translation>
     </message>
     <message>
         <source>To insert a page number, date, time, filename: position the insertion point in the  edit
 box, then choose the appropriate button.</source>
-        <translation type="unfinished">    如果要加入页码、日期、时间、文件名、工作表名，请将插入点移至编辑
+        <translation>    如果要加入页码、日期、时间、文件名、工作表名，请将插入点移至编辑
 框内，然后选择相应按钮。</translation>
     </message>
     <message>
         <source>To insert picture: press the Insert Picture button. To format your picture, place the
 cursor in the edit box and press the Format Picture button.</source>
-        <translation type="unfinished">    如果要插入图片，请按“插入图片”按钮。如果要设置图片格式，请将光
+        <translation>    如果要插入图片，请按“插入图片”按钮。如果要设置图片格式，请将光
 标放到编辑框中，然后按“设置图片格式”按钮。</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished">字体</translation>
+        <translation>字体</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished">页码</translation>
+        <translation>页码</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation type="unfinished">总页数</translation>
+        <translation>总页数</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished">日期</translation>
+        <translation>日期</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished">时间</translation>
+        <translation>时间</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>文件名</translation>
     </message>
     <message>
         <source>Sheet Name</source>
-        <translation type="unfinished"></translation>
+        <translation>工作表名</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished">插入图片</translation>
+        <translation>插入图片</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="unfinished">设置图片格式</translation>
+        <translation>设置图片格式</translation>
     </message>
     <message>
         <source>&amp;Left section:</source>
-        <translation type="unfinished">左(&amp;L):</translation>
+        <translation>左(&amp;L):</translation>
     </message>
     <message>
         <source>&amp;Center section:</source>
-        <translation type="unfinished">中(&amp;C):</translation>
+        <translation>中(&amp;C):</translation>
     </message>
     <message>
         <source>&amp;Right section:</source>
-        <translation type="unfinished">右(&amp;R):</translation>
+        <translation>右(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <translation type="obsolete">页码</translation>
+    </message>
+    <message>
+        <source>Pages</source>
+        <translation type="obsolete">总页数</translation>
+    </message>
+    <message>
+        <source>Tab</source>
+        <translation type="obsolete">工作表名</translation>
+    </message>
+    <message>
+        <source>To format text: select the text, then choose the font button.</source>
+        <translation type="obsolete">    如果要设置文本格式，请将插入点移至编辑框内，然后按“字体”按钮。</translation>
     </message>
 </context>
 <context>
@@ -4057,7 +5773,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Import lists from</source>
-        <translation type="unfinished"></translation>
+        <translation>导入序列来自</translation>
     </message>
 </context>
 <context>
@@ -4276,6 +5992,25 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxDlgMoveChart</name>
+    <message>
+        <source>Move Chart</source>
+        <translation>移动图表</translation>
+    </message>
+    <message>
+        <source>Choose where you want the chart to be placed:</source>
+        <translation>选择放置图表的位置：</translation>
+    </message>
+    <message>
+        <source>New &amp;Sheet:</source>
+        <translation>新工作表(&amp;S)：</translation>
+    </message>
+    <message>
+        <source>&amp;Object In:</source>
+        <translation>对象位于(&amp;O)：</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgMoveOrCopySheet</name>
     <message>
         <source>&amp;Before sheet:</source>
@@ -4381,6 +6116,133 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>&amp;Refer to cells:</source>
         <translation>引用单元格(&amp;R):</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgNewTableStyle</name>
+    <message>
+        <source>New Table Style</source>
+        <translation>新建表样式</translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation>名称(&amp;N):</translation>
+    </message>
+    <message>
+        <source>Table Element:</source>
+        <translation>表元素(&amp;T)：</translation>
+    </message>
+    <message>
+        <source>Whole Table</source>
+        <translation>整个表</translation>
+    </message>
+    <message>
+        <source>First Column Stripe</source>
+        <translation>第一列条纹</translation>
+    </message>
+    <message>
+        <source>Second Column Stripe</source>
+        <translation>第二列条纹</translation>
+    </message>
+    <message>
+        <source>First Row Stripe</source>
+        <translation>第一行条纹</translation>
+    </message>
+    <message>
+        <source>Second Row Stripe</source>
+        <translation>第二行条纹</translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation>最后一列</translation>
+    </message>
+    <message>
+        <source>First Column</source>
+        <translation>第一列</translation>
+    </message>
+    <message>
+        <source>Header Row</source>
+        <translation>标题行</translation>
+    </message>
+    <message>
+        <source>Total Row</source>
+        <translation>汇总行</translation>
+    </message>
+    <message>
+        <source>First Header Cell</source>
+        <translation>第一个标题单元格</translation>
+    </message>
+    <message>
+        <source>Last Header Cell</source>
+        <translation>最后一个标题单元格</translation>
+    </message>
+    <message>
+        <source>First Total Cell</source>
+        <translation>第一个汇总单元格</translation>
+    </message>
+    <message>
+        <source>Last Total Cell</source>
+        <translation>最后一个汇总单元格</translation>
+    </message>
+    <message>
+        <source>&amp;Format</source>
+        <translation>格式(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Clear</source>
+        <translation>清除(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation>预览</translation>
+    </message>
+    <message>
+        <source>StripeSize</source>
+        <translation>条纹尺寸(&amp;R)</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation>1</translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation>2</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation>3</translation>
+    </message>
+    <message>
+        <source>4</source>
+        <translation>4</translation>
+    </message>
+    <message>
+        <source>5</source>
+        <translation>5</translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation>6</translation>
+    </message>
+    <message>
+        <source>7</source>
+        <translation>7</translation>
+    </message>
+    <message>
+        <source>8</source>
+        <translation>8</translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation>9</translation>
+    </message>
+    <message>
+        <source>Element Formatting:</source>
+        <translation>元素格式：</translation>
+    </message>
+    <message>
+        <source>Set as default table style for this document</source>
+        <translation>设置为此文档的默认表格样式(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -4754,7 +6616,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit</source>
-        <translation>编辑与显示</translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <source>Edit settings</source>
@@ -5066,7 +6928,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Start&amp;up task window</source>
-        <translation>启动任务窗格(&amp;U)</translation>
+        <translation>启动时展开任务窗格(&amp;U)</translation>
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
@@ -5138,7 +7000,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>拼写</translation>
+        <translation>拼写检查</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
@@ -5158,11 +7020,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Privacy</source>
-        <translation>隐私</translation>
+        <translation type="obsolete">隐私</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>帮助我们改进WPS Office</translation>
+        <translation type="unfinished">帮助我们改进 WPS Office</translation>
     </message>
     <message>
         <source>Double-click in the space to create a &amp;new document</source>
@@ -5206,19 +7068,119 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Save As Create Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>备份文件选项</translation>
     </message>
     <message>
         <source>Always create &amp;backup</source>
-        <translation type="unfinished"></translation>
+        <translation>生成备份文件(&amp;B)</translation>
     </message>
     <message>
         <source>Read-only &amp;recommended Option</source>
-        <translation type="unfinished"></translation>
+        <translation>只读选项</translation>
     </message>
     <message>
         <source>Read-only &amp;recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>建议只读(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Selecte&amp;d content minitool bar</source>
+        <translation type="obsolete">选择时显示浮动工具栏(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Rig&amp;htClicked minitool</source>
+        <translation type="obsolete">右键时显示浮动工具栏(&amp;H)</translation>
+    </message>
+    <message>
+        <source>SaveAsCreateBackup</source>
+        <translation type="obsolete">备份文件选项</translation>
+    </message>
+    <message>
+        <source>Create&amp;Backup</source>
+        <translation type="obsolete">生成备份文件(&amp;B)</translation>
+    </message>
+    <message>
+        <source>RecommendedReadOnlyOption</source>
+        <translation type="obsolete">只读选项</translation>
+    </message>
+    <message>
+        <source>&amp;RecommendedReadOnly</source>
+        <translation type="obsolete">建议只读(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Checkbox</source>
+        <translation type="obsolete">复选框</translation>
+    </message>
+    <message>
+        <source>Use 1904 date s&amp;ystem</source>
+        <translation>使用 1904 日期系统(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>WPSMinisite</source>
+        <translation type="obsolete">订阅WPS热点</translation>
+    </message>
+    <message>
+        <source>E&amp;verydayShow</source>
+        <translation type="obsolete">当天显示(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Ever&amp;yweekShow</source>
+        <translation type="obsolete">一周后显示(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>Never&amp;AutoShow</source>
+        <translation type="obsolete">不再显示(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation>订阅WPS热点</translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation>当天显示(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation>一周后显示(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation>不再显示(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection</source>
+        <translation type="obsolete">选择时显示浮动工具栏(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation>右键时显示浮动工具栏(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation>选择时显示浮动工具栏(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;其他广告如何去除？了解新的变化&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>反馈</translation>
+    </message>
+    <message>
+        <source>Select an earlier version of the spreadsheet can color</source>
+        <translation>选择在早期版本的电子表格中可用的颜色</translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="obsolete">加入用户体验改进计划，帮助改进和完善WPS Office</translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="obsolete">语言</translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
+        <translation type="obsolete">自动下载和更新语言包</translation>
     </message>
 </context>
 <context>
@@ -5501,19 +7463,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Different odd and even pages</source>
-        <translation type="unfinished"></translation>
+        <translation>奇偶页不同(&amp;D)</translation>
     </message>
     <message>
         <source>D&amp;ifferent first page</source>
-        <translation type="unfinished"></translation>
+        <translation>首页不同(&amp;I)</translation>
     </message>
     <message>
         <source>Sca&amp;le with document</source>
-        <translation type="unfinished"></translation>
+        <translation>随文档自动缩放(&amp;L)</translation>
     </message>
     <message>
         <source>Align with page &amp;margins</source>
-        <translation type="unfinished"></translation>
+        <translation>与页边距对齐(&amp;M)</translation>
     </message>
 </context>
 <context>
@@ -5679,7 +7641,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Repeat Item Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>重复项目标签(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -5870,6 +7832,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Order</source>
         <translation>并打顺序</translation>
+    </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation>如何解决打印机各种问题？</translation>
     </message>
 </context>
 <context>
@@ -6071,7 +8037,8 @@ Only %d unique value can be keep after delete.</source>
     <message>
         <source>%1 duplicates are found;
 Only %2 unique values will be left after delete.</source>
-        <translation type="unfinished"></translation>
+        <translation>找到 %1 条重复项；
+删除后将保留 %2 条唯一项。</translation>
     </message>
 </context>
 <context>
@@ -6109,7 +8076,7 @@ Only %2 unique values will be left after delete.</source>
     </message>
     <message>
         <source>It compares the contents by rows after clicking OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>点击[确定]后，将逐行进行内容比较。</translation>
     </message>
 </context>
 <context>
@@ -6144,7 +8111,7 @@ Only %2 unique values will be left after delete.</source>
     </message>
     <message>
         <source>Other Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>其他用户的修改</translation>
     </message>
     <message>
         <source>Accept Other Users</source>
@@ -6160,15 +8127,15 @@ Only %2 unique values will be left after delete.</source>
     </message>
     <message>
         <source>Your Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>本用户的修改</translation>
     </message>
     <message>
         <source>&amp;Accept All of Current User</source>
-        <translation type="unfinished"></translation>
+        <translation>全部接受本用户(&amp;A)</translation>
     </message>
     <message>
         <source>Accept All of Other U&amp;sers</source>
-        <translation type="unfinished"></translation>
+        <translation>全部接受其他用户(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -6207,11 +8174,11 @@ Only %2 unique values will be left after delete.</source>
     </message>
     <message>
         <source>&amp;Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为(&amp;S)</translation>
     </message>
     <message>
         <source>Other users may have submmitted some changes which cannot be identified by WPS Spreadsheets. To save the file and discard the changes, click Continue; to save a copy of the current file, click Save As.</source>
-        <translation type="unfinished"></translation>
+        <translation>其他用户可能提交了WPS表格不能识别的操作，点击“继续”将保存文档丢弃该操作，点击“另存为”将当前文档另存一个拷贝。</translation>
     </message>
 </context>
 <context>
@@ -6261,15 +8228,15 @@ Only %2 unique values will be left after delete.</source>
     <name>KxDlgScreenTip</name>
     <message>
         <source>Hyperlink ScreenTip</source>
-        <translation type="unfinished"></translation>
+        <translation>超链接屏幕提示</translation>
     </message>
     <message>
         <source>Screen&amp;Tip text:</source>
-        <translation type="unfinished"></translation>
+        <translation>屏幕提示文字(&amp;T):</translation>
     </message>
     <message>
         <source>Set Hyperlink ScreenTip</source>
-        <translation type="unfinished"></translation>
+        <translation>设置超链接屏幕提示</translation>
     </message>
 </context>
 <context>
@@ -6409,11 +8376,11 @@ This also allows workbook merging.</source>
     <name>KxDlgSort</name>
     <message>
         <source>&amp;Ascending</source>
-        <translation>升序(&amp;A)</translation>
+        <translation type="obsolete">升序(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Descending</source>
-        <translation>降序(&amp;D)</translation>
+        <translation type="obsolete">降序(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -6421,31 +8388,31 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>As&amp;cending</source>
-        <translation>升序(&amp;C)</translation>
+        <translation type="obsolete">升序(&amp;C)</translation>
     </message>
     <message>
         <source>Ascend&amp;ing</source>
-        <translation>升序(&amp;I)</translation>
+        <translation type="obsolete">升序(&amp;I)</translation>
     </message>
     <message>
         <source>Desce&amp;nding</source>
-        <translation>降序(&amp;N)</translation>
+        <translation type="obsolete">降序(&amp;N)</translation>
     </message>
     <message>
         <source>Descendin&amp;g</source>
-        <translation>降序(&amp;G)</translation>
+        <translation type="obsolete">降序(&amp;G)</translation>
     </message>
     <message>
         <source>Header &amp;row</source>
-        <translation>有标题行(&amp;R)</translation>
+        <translation type="obsolete">有标题行(&amp;R)</translation>
     </message>
     <message>
         <source>My data range has</source>
-        <translation>列表</translation>
+        <translation type="obsolete">列表</translation>
     </message>
     <message>
         <source>No header ro&amp;w</source>
-        <translation>无标题行(&amp;W)</translation>
+        <translation type="obsolete">无标题行(&amp;W)</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -6453,15 +8420,78 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Sort by</source>
-        <translation>主要关键字</translation>
+        <translation type="obsolete">主要关键字</translation>
     </message>
     <message>
         <source>Then by</source>
-        <translation>次要关键字</translation>
+        <translation type="obsolete">次要关键字</translation>
     </message>
     <message>
         <source>Then by </source>
-        <translation>第三关键字</translation>
+        <translation type="obsolete">第三关键字</translation>
+    </message>
+    <message>
+        <source>&amp;Add Level</source>
+        <translation>添加条件(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Delete Level</source>
+        <translation>删除条件(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Copy Level</source>
+        <translation>复制条件(&amp;C)</translation>
+    </message>
+    <message>
+        <source>My data has &amp;header</source>
+        <translation>数据包含标题(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Move Up(Ctrl+Up Arrow)</source>
+        <translation>上移(Ctrl+向上键)</translation>
+    </message>
+    <message>
+        <source>Ctrl+Up</source>
+        <translation>Ctrl + 上</translation>
+    </message>
+    <message>
+        <source>Move Down(Ctrl+Down Arrow)</source>
+        <translation>下移(Ctrl+向下键)</translation>
+    </message>
+    <message>
+        <source>Ctrl+Down</source>
+        <translation>Ctrl + 下</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSortCustomlist</name>
+    <message>
+        <source>Custom lists</source>
+        <translation>自定义序列</translation>
+    </message>
+    <message>
+        <source>Custom Lists</source>
+        <translation>自定义序列</translation>
+    </message>
+    <message>
+        <source>Custom &amp;lists:</source>
+        <translation>自定义序列(&amp;L):</translation>
+    </message>
+    <message>
+        <source>List &amp;entries:</source>
+        <translation>输入序列(&amp;E):</translation>
+    </message>
+    <message>
+        <source>I&amp;mport</source>
+        <translation>导入(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>添加(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation>删除(&amp;D)</translation>
     </message>
 </context>
 <context>
@@ -6476,7 +8506,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>C&amp;ustom sort order</source>
-        <translation>自定义排序次序(&amp;U)</translation>
+        <translation type="obsolete">自定义排序次序(&amp;U)</translation>
     </message>
     <message>
         <source>Method</source>
@@ -6863,7 +8893,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Data preview: </source>
-        <translation>数据预览:</translation>
+        <translation type="obsolete">数据预览:</translation>
     </message>
     <message>
         <source>Delimiters </source>
@@ -6968,7 +8998,8 @@ If this is correct, choose Next, or choose the data type that best describes you
     <message>
         <source>The Text Wizard has determined that your data is Delimited. 
 If this is correct, choose Next. If not, choose the data type that best describes your data.</source>
-        <translation type="unfinished"></translation>
+        <translation>文本分列向导判定您的数据有分隔符。
+若一切设置无误，请单击“下一步”，否则请选择最合适的数据类型。</translation>
     </message>
 </context>
 <context>
@@ -7305,7 +9336,18 @@ protected.</source>
     </message>
     <message>
         <source>A query with this name already exists on this worksheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>工作表中存在同名查询。</translation>
+    </message>
+</context>
+<context>
+    <name>KxEditAxisLableDlg</name>
+    <message>
+        <source>#ERROR</source>
+        <translation>#错误</translation>
+    </message>
+    <message>
+        <source>Select Range</source>
+        <translation>选择区域</translation>
     </message>
 </context>
 <context>
@@ -7353,6 +9395,72 @@ protected.</source>
     <message>
         <source>Warning: Values not updated</source>
         <translation>警告: 值未更新</translation>
+    </message>
+</context>
+<context>
+    <name>KxEditDataSeriesDlg</name>
+    <message>
+        <source>Select Range</source>
+        <translation>选择区域</translation>
+    </message>
+    <message>
+        <source>Series &amp;X values:</source>
+        <translation type="obsolete">X 轴系列值(&amp;X):</translation>
+    </message>
+    <message>
+        <source>Series &amp;Y values:</source>
+        <translation>Y 轴系列值(&amp;Y):</translation>
+    </message>
+    <message>
+        <source>Series &amp;values:</source>
+        <translation>系列值(&amp;V)</translation>
+    </message>
+    <message>
+        <source>#ERROR!</source>
+        <translation>#错误</translation>
+    </message>
+</context>
+<context>
+    <name>KxEditDataSourceDlg</name>
+    <message>
+        <source>&amp;Advanced Setting &lt;&lt;</source>
+        <translation>高级设置(&amp;A) &lt;&lt;</translation>
+    </message>
+    <message>
+        <source>&amp;Advanced Setting &gt;&gt;</source>
+        <translation>高级设置(&amp;A) &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;blank series&gt;</source>
+        <translation>&lt;空白系列&gt;</translation>
+    </message>
+    <message>
+        <source>#ERROR!</source>
+        <translation>#错误</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>编辑</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>添加</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>删除</translation>
+    </message>
+    <message>
+        <source>Move Up</source>
+        <translation>上移</translation>
+    </message>
+    <message>
+        <source>Move Down</source>
+        <translation>下移</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <translation>系列</translation>
     </message>
 </context>
 <context>
@@ -7514,6 +9622,40 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtCellFillThemeModel</name>
+    <message>
+        <source>No Fill</source>
+        <translation type="obsolete">无填充颜色</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtCellStyleModel</name>
+    <message>
+        <source>User Define</source>
+        <translation>自定义</translation>
+    </message>
+    <message>
+        <source>Good bad And moderate</source>
+        <translation>好, 差和适中</translation>
+    </message>
+    <message>
+        <source>Data and Model</source>
+        <translation>数据和模型</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <translation>标题</translation>
+    </message>
+    <message>
+        <source>Theme Cell</source>
+        <translation>主题单元格样式</translation>
+    </message>
+    <message>
+        <source>Number Format</source>
+        <translation>数字格式</translation>
+    </message>
+</context>
+<context>
     <name>KxEtCfCalendarWidget</name>
     <message>
         <source>&amp;Today</source>
@@ -7529,6 +9671,13 @@ protected.</source>
     <message>
         <source>This is not a valid integer.</source>
         <translation>您输入的内容不是合法的整数值。</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtColorCtrl</name>
+    <message>
+        <source>Automatic</source>
+        <translation>自动</translation>
     </message>
 </context>
 <context>
@@ -7730,6 +9879,13 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     </message>
 </context>
 <context>
+    <name>KxEtFillThemeModel</name>
+    <message>
+        <source>No Fill</source>
+        <translation>无填充颜色</translation>
+    </message>
+</context>
+<context>
     <name>KxEtFontColorModel</name>
     <message>
         <source>Automatic</source>
@@ -7738,6 +9894,92 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     <message>
         <source>auto</source>
         <translation type="obsolete">自动</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatGroupContent_TextBox</name>
+    <message>
+        <source>Top</source>
+        <translation>顶端对齐</translation>
+    </message>
+    <message>
+        <source>Middle</source>
+        <translation>中部对齐</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>底端对齐</translation>
+    </message>
+    <message>
+        <source>Top Centered</source>
+        <translation>顶端居中</translation>
+    </message>
+    <message>
+        <source>Middle Centered</source>
+        <translation>中部居中</translation>
+    </message>
+    <message>
+        <source>Bottom Centered</source>
+        <translation>底部居中</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>右对齐</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>居中</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>左对齐</translation>
+    </message>
+    <message>
+        <source>Right Middle</source>
+        <translation>中部靠右</translation>
+    </message>
+    <message>
+        <source>Center Middle</source>
+        <translation>中部居中</translation>
+    </message>
+    <message>
+        <source>Left Middle</source>
+        <translation>中部靠左</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation>图表选项</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>文本选项</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation>形状选项</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>文本选项</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatProperty_SizePro</name>
+    <message>
+        <source>PROPERTY</source>
+        <translation>属性</translation>
     </message>
 </context>
 <context>
@@ -7911,67 +10153,79 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     <name>KxEtPermissionInformationDlg</name>
     <message>
         <source>My Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>我的权限</translation>
     </message>
     <message>
         <source>You are currently authenticated to view this document as:	</source>
-        <translation type="unfinished"></translation>
+        <translation>您正在以如下身份查看此文档：</translation>
     </message>
     <message>
         <source>Change user...</source>
-        <translation type="unfinished"></translation>
+        <translation>换个身份...</translation>
     </message>
     <message>
         <source>You have the following permissions:</source>
-        <translation type="unfinished"></translation>
+        <translation>您对本文档拥有以下权限：</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">视图</translation>
+        <translation>查看</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>复制</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished">打印</translation>
+        <translation>打印</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">保存</translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>导出</translation>
     </message>
     <message>
         <source>Access the document programmatically</source>
-        <translation type="unfinished"></translation>
+        <translation>以程序手段访问文档</translation>
     </message>
     <message>
         <source>Full Control</source>
-        <translation type="unfinished"></translation>
+        <translation>完全控制</translation>
     </message>
     <message>
         <source>(N/A)</source>
-        <translation type="unfinished"></translation>
+        <translation>(N/A)</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名</translation>
     </message>
     <message>
         <source>Permission expires on:</source>
-        <translation type="unfinished"></translation>
+        <translation>权限到期时间：</translation>
     </message>
     <message>
         <source>Request additional permissions...</source>
-        <translation type="unfinished"></translation>
+        <translation>申请更新权限...</translation>
+    </message>
+    <message>
+        <source>userName</source>
+        <translation type="obsolete">用户名</translation>
+    </message>
+    <message>
+        <source>Permission expiration date:</source>
+        <translation type="obsolete">权限到期时间：</translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <translation type="obsolete">申请更新权限...</translation>
     </message>
 </context>
 <context>
@@ -8024,11 +10278,11 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     </message>
     <message>
         <source>New Workbook</source>
-        <translation>新工作薄</translation>
+        <translation>新工作簿</translation>
     </message>
     <message>
         <source>This Workbook</source>
-        <translation>当前工作薄</translation>
+        <translation>当前工作簿</translation>
     </message>
     <message>
         <source>Macro recorded %2 by %1</source>
@@ -8044,7 +10298,7 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     </message>
     <message>
         <source>This command cannot be applied in shared workbook and you cannot record.</source>
-        <translation>此命令不适用于共享工作薄，不能录制。</translation>
+        <translation>此命令不适用于共享工作簿，不能录制。</translation>
     </message>
     <message>
         <source>Macro &quot;%1&quot; already exists. Do you want to replace the existing macro?</source>
@@ -8064,6 +10318,27 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     <message>
         <source>other shadow color</source>
         <translation type="obsolete">其他阴影颜色</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtShapeFontOutlineThemeModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation>无轮廓</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtShapeFontThemeModel</name>
+    <message>
+        <source>No Fill</source>
+        <translation>无填充颜色</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtShapeLineThemeModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation>无轮廓</translation>
     </message>
 </context>
 <context>
@@ -8087,6 +10362,22 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     <message>
         <source>Switch Sheet</source>
         <translation>切换工作表</translation>
+    </message>
+    <message>
+        <source>To Start</source>
+        <translation>第一个</translation>
+    </message>
+    <message>
+        <source>To End</source>
+        <translation>最后一个</translation>
+    </message>
+    <message>
+        <source>Backward</source>
+        <translation>前一个</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>后一个</translation>
     </message>
 </context>
 <context>
@@ -8176,6 +10467,33 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     </message>
 </context>
 <context>
+    <name>KxEtStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>ZoomOption_ViewingScales</source>
+        <translation type="obsolete">缩放</translation>
+    </message>
+    <message>
+        <source>ZoomOption_SelfDefine</source>
+        <translation type="obsolete">自定义(C)</translation>
+    </message>
+    <message>
+        <source>ZoomOption_BestFit</source>
+        <translation type="obsolete">恰好容纳选定区域(F)</translation>
+    </message>
+    <message>
+        <source>Zoom Level</source>
+        <translation>缩放</translation>
+    </message>
+    <message>
+        <source>&amp;Custom:</source>
+        <translation>自定义(C)</translation>
+    </message>
+    <message>
+        <source>&amp;Fit Selection</source>
+        <translation>恰好容纳选定区域(F)</translation>
+    </message>
+</context>
+<context>
     <name>KxEtSubWindow</name>
     <message>
         <source> (Compatible mode)</source>
@@ -8192,6 +10510,14 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     <message>
         <source> *</source>
         <translation> *</translation>
+    </message>
+    <message>
+        <source>Chart%1 in WPS Writer</source>
+        <translation>WPS 文字中的图表</translation>
+    </message>
+    <message>
+        <source>Chart%1 in WPS Presentation</source>
+        <translation>WPS 演示中的图表</translation>
     </message>
 </context>
 <context>
@@ -8211,6 +10537,52 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     <message>
         <source>To Start</source>
         <translation type="obsolete">第一个</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtTableNameCommand</name>
+    <message>
+        <source>The name that you entered is not valid.							 Reasons for this can include:							 -The name does not begin with a letter or underscore.							 -The name contains a space or other include characters							 -The name conflicts with an Excel built-in name or the name of another object in the workbook.</source>
+        <translation type="obsolete">输入的名称无效。
+原因如下：
+        -名称未以字母或者下划线开头
+        -名称包含空格或其他无效字符
+        -名称与 Excel 内部名称或工作簿中其他对象的名称冲突</translation>
+    </message>
+    <message>
+        <source>Table Name:</source>
+        <translation type="obsolete">表名称:</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtTableStyleCommand</name>
+    <message>
+        <source>More
+
+Choose a visual
+style for the table</source>
+        <translation>其他
+
+选择表的外观样式。</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtTableStyleModel</name>
+    <message>
+        <source>Custom</source>
+        <translation>自定义</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation>浅</translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <translation>中等</translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation>深</translation>
     </message>
 </context>
 <context>
@@ -8238,6 +10610,21 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     <message>
         <source>The number must be between 1 and 500.</source>
         <translation>输入的值应该介于1和500之间。</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtTpTableStyle</name>
+    <message>
+        <source>Clear Table Style</source>
+        <translation>清除</translation>
+    </message>
+    <message>
+        <source>Table Style:</source>
+        <translation>表格样式</translation>
+    </message>
+    <message>
+        <source>Table Style Options:</source>
+        <translation>表格样式选项</translation>
     </message>
 </context>
 <context>
@@ -8305,31 +10692,103 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     <name>KxExportOFDDlg</name>
     <message>
         <source>Save OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>另存 OFD 文件为</translation>
     </message>
     <message>
         <source>OFD File(*.ofd)|*.ofd</source>
-        <translation type="unfinished"></translation>
+        <translation>OFD 文件(*.ofd)|*.ofd</translation>
     </message>
     <message>
         <source>The specified path does not exist, enter a valid one please.</source>
-        <translation type="unfinished">你指定的路径不存在，请键入一个合法的路径。</translation>
+        <translation>你指定的路径不存在，请键入一个合法的路径。</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
-        <translation type="unfinished">您指定的文件已经存在，确认要覆盖该文件吗？</translation>
+        <translation>您指定的文件已经存在，确认要覆盖该文件吗？</translation>
     </message>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation type="unfinished">确认的密码与先前输入的不一致。</translation>
+        <translation>确认的密码与先前输入的不一致。</translation>
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
-        <translation type="unfinished">请输入权限设置密码！</translation>
+        <translation>请输入权限设置密码！</translation>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
-        <translation type="unfinished">文件打开密码必须与权限设置密码不同，请重新输入。</translation>
+        <translation>文件打开密码必须与权限设置密码不同，请重新输入。</translation>
+    </message>
+    <message>
+        <source>&amp;Advanced</source>
+        <translation type="obsolete">高级(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Normal</source>
+        <translation type="obsolete">常规(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Advanced(&amp;A)</source>
+        <translation type="obsolete">高级(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Allows copy(&amp;Y)</source>
+        <translation type="obsolete">允许复制（&amp;Y）</translation>
+    </message>
+    <message>
+        <source>Confirm password is not the same as previously</source>
+        <translation type="obsolete">确认的密码与先前输入的不一致。</translation>
+    </message>
+    <message>
+        <source>Conve&amp;ntional</source>
+        <translation type="obsolete">常规(&amp;N)</translation>
+    </message>
+    <message>
+        <source>File open password must be different form permission password, please enter again.</source>
+        <translation type="obsolete">文件打开密码必须与权限设置密码不同，请重新输入。</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="obsolete">确定</translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)</source>
+        <translation type="obsolete">OFD 文件(*.ofd)</translation>
+    </message>
+    <message>
+        <source>Please enter permission password!</source>
+        <translation type="obsolete">请输入权限设置密码！</translation>
+    </message>
+    <message>
+        <source>Please input the password of permission setting!</source>
+        <translation type="obsolete">请输入权限设置密码！</translation>
+    </message>
+    <message>
+        <source>Please select file name</source>
+        <translation type="obsolete">请先指定输出文件名。</translation>
+    </message>
+    <message>
+        <source>Please specify a file name first.</source>
+        <translation type="obsolete">请先指定输出文件名。</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist, enter a valid directory please.</source>
+        <translation type="obsolete">你指定的路径不存在，请键入一个合法的路径。</translation>
+    </message>
+    <message>
+        <source>The file is exist, are you sure to overwrite the file?</source>
+        <translation type="obsolete">您指定的文件已经存在，确认要覆盖该文件吗？</translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Are you sure to replace the existing one?</source>
+        <translation type="obsolete">您指定的文件已经存在，确认要覆盖该文件吗？</translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Are you sure to replace the existing one?).utf16()),</source>
+        <translation type="obsolete">您指定的文件已经存在，确认要覆盖该文件吗？</translation>
+    </message>
+    <message>
+        <source>WPS Form</source>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
 </context>
 <context>
@@ -8439,47 +10898,91 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     <name>KxExportToOFDProgressDlg</name>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在准备导出 OFD 文件...</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
-        <translation type="unfinished">正在导出文档属性...</translation>
+        <translation>正在导出文档属性...</translation>
     </message>
     <message>
         <source>Exporting page </source>
-        <translation type="unfinished">正在处理第 </translation>
+        <translation>正在处理第 </translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation> 页...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
-        <translation type="unfinished">正在导出标签...</translation>
+        <translation>正在导出标签...</translation>
     </message>
     <message>
         <source>Exporting OFD file is completing...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在完成...</translation>
     </message>
     <message>
         <source>Encountered an error when opening OFD file!</source>
-        <translation type="unfinished"></translation>
+        <translation>打开 OFD 文件时发生错误！</translation>
     </message>
     <message>
         <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
-        <translation type="unfinished"></translation>
+        <translation>OFD转换器遇到了内存分配问题，请缩小文档大小或者图片大小！</translation>
     </message>
     <message>
         <source>WPS Spreadsheets encountered an error while trying exporting to OFD.</source>
-        <translation type="unfinished"></translation>
+        <translation>导出 OFD 文件的过程中发生错误！</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Exporting OFD file is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>导出完成。</translation>
+    </message>
+    <message>
+        <source> page...</source>
+        <translation type="obsolete"> 页...</translation>
+    </message>
+    <message>
+        <source>Export complete.</source>
+        <translation type="obsolete">导出完成。</translation>
+    </message>
+    <message>
+        <source>Exporting No.</source>
+        <translation type="obsolete">正在处理第 </translation>
+    </message>
+    <message>
+        <source>Exporting No.%d page...</source>
+        <translation type="obsolete">正在处理第 %d 页...</translation>
+    </message>
+    <message>
+        <source>Exporting document information...</source>
+        <translation type="obsolete">正在导出文档属性...</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets encountered an error while trying exporting to OFD. Please provide a filename for your OFD.</source>
+        <translation type="obsolete">导出 OFD 文件的过程中发生错误！</translation>
+    </message>
+    <message>
+        <source>Ofd Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
+        <translation type="obsolete">OFD转换器遇到了内存分配问题，请缩小文档大小或者图片大小！</translation>
+    </message>
+    <message>
+        <source>Preparing to export OFD file...</source>
+        <translation type="obsolete">正在准备导出 OFD 文件...</translation>
+    </message>
+    <message>
+        <source>WPS Form</source>
+        <translation type="obsolete">WPS 表格</translation>
+    </message>
+    <message>
+        <source> Page...</source>
+        <translation type="obsolete"> 页...</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets encountered an error while trying exporting to OFD. Please provide a filename for your OFD.</source>
+        <translation type="obsolete">导出 OFD 文件的过程中发生错误！</translation>
     </message>
 </context>
 <context>
@@ -8834,7 +11337,7 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     <name>KxFontDlg</name>
     <message>
         <source>Font size must be between %1 and %2 points.</source>
-        <translation>字号必须介于 %1 到 %2 磅之间。</translation>
+        <translation type="obsolete">字号必须介于 %1 到 %2 磅之间。</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets</source>
@@ -8860,27 +11363,27 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>您的输入无效，要求输入内容为整数或者小数。</translation>
+        <translation type="obsolete">您的输入无效，要求输入内容为整数或者小数。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation>WPS表格</translation>
+        <translation type="obsolete">WPS表格</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
-        <translation>系统中未安装此字体，打印时将采用最相近的有效字体。</translation>
+        <translation type="obsolete">系统中未安装此字体，打印时将采用最相近的有效字体。</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
-        <translation>这是一种 TrueType 字体，同时适用于屏幕和打印机。</translation>
+        <translation type="obsolete">这是一种 TrueType 字体，同时适用于屏幕和打印机。</translation>
     </message>
     <message>
         <source>The font is designed for plotter.</source>
-        <translation>该字体是为笔式绘图仪所设计的。</translation>
+        <translation type="obsolete">该字体是为笔式绘图仪所设计的。</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation>此字体样式名不存在。</translation>
+        <translation type="obsolete">此字体样式名不存在。</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The closest matching style will be used for printing.</source>
@@ -8891,7 +11394,7 @@ printer and your screen.</source>
     <name>KxFontWidget</name>
     <message>
         <source>Automatic</source>
-        <translation>自动</translation>
+        <translation type="obsolete">自动</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -9059,6 +11562,21 @@ printer and your screen.</source>
         <source>This font style is imitated for the display. The closest matching style will be used for printing.</source>
         <translation type="obsolete">系统中未安装此字体，打印时将采用最相近的有效字体。</translation>
     </message>
+    <message>
+        <source> (title)</source>
+        <translation> (标题)</translation>
+    </message>
+    <message>
+        <source> (text)</source>
+        <translation> (正文)</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatFormControlTextDlg</name>
+    <message>
+        <source>Font</source>
+        <translation>字体</translation>
+    </message>
 </context>
 <context>
     <name>KxFormatGraphicDlg</name>
@@ -9085,6 +11603,21 @@ printer and your screen.</source>
     <message>
         <source>inch</source>
         <translation>英寸</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_Shape</name>
+    <message>
+        <source>ARTISTIC EFFECTS</source>
+        <translation type="obsolete">艺术效果</translation>
+    </message>
+    <message>
+        <source>SIZE</source>
+        <translation type="obsolete">大小</translation>
+    </message>
+    <message>
+        <source>PROPERTY</source>
+        <translation type="obsolete">属性</translation>
     </message>
 </context>
 <context>
@@ -9130,11 +11663,11 @@ printer and your screen.</source>
     </message>
     <message>
         <source>&amp;Help about this Function</source>
-        <translation type="unfinished"></translation>
+        <translation>有关该函数的帮助(H)</translation>
     </message>
     <message>
         <source>No further information.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有帮助信息</translation>
     </message>
 </context>
 <context>
@@ -9227,112 +11760,217 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Goal Seeking with Cell %1 may not have found a solution.</source>
-        <translation type="unfinished"></translation>
+        <translation>对单元格 %1 进行单变量求解
+仍不能获得满足条件的解。</translation>
     </message>
 </context>
 <context>
     <name>KxHeaderFooterDlg</name>
     <message>
         <source>Header</source>
-        <translation type="unfinished">页眉</translation>
+        <translation>页眉</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished">页脚</translation>
+        <translation>页脚</translation>
     </message>
     <message>
         <source>Odd Page %1</source>
-        <translation type="unfinished"></translation>
+        <translation>奇数页%1</translation>
     </message>
     <message>
         <source>Even Page %1</source>
-        <translation type="unfinished"></translation>
+        <translation>偶数页%1</translation>
     </message>
     <message>
         <source>First Page %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxHeaderFooterWidget</name>
-    <message>
-        <source>File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page Number</source>
-        <translation type="unfinished">页码</translation>
-    </message>
-    <message>
-        <source>Number of Pages</source>
-        <translation type="unfinished">总页数</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation type="unfinished">日期</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation type="unfinished">时间</translation>
-    </message>
-    <message>
-        <source>Sheet Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture</source>
-        <translation type="unfinished">图片</translation>
+        <translation>首页%1</translation>
     </message>
     <message>
         <source>&amp;[%1]</source>
-        <translation type="unfinished">&amp;[%1]</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation type="unfinished">打开</translation>
+        <translation type="obsolete">&amp;[%1]</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished">所有图片</translation>
+        <translation type="obsolete">所有图片</translation>
     </message>
     <message>
-        <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished">增强型图元文件</translation>
+        <source>Date</source>
+        <translation type="obsolete">日期</translation>
     </message>
     <message>
-        <source>Windows Metafile</source>
-        <translation type="unfinished">图元文件</translation>
-    </message>
-    <message>
-        <source>JPEG File InterChange Format</source>
-        <translation type="unfinished">文件交换格式</translation>
-    </message>
-    <message>
-        <source>Portable Network Graphics</source>
-        <translation type="unfinished">可移植网络图形</translation>
-    </message>
-    <message>
-        <source>Windows Bitmap</source>
-        <translation type="unfinished">位图</translation>
+        <source>File</source>
+        <translation type="obsolete">文件</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation type="unfinished">图形交换格式</translation>
+        <translation type="obsolete">图形交换格式</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation type="obsolete">文件交换格式</translation>
+    </message>
+    <message>
+        <source>Only one picture can be inserted in each section of the %1.
+
+To replace existing picture, click OK.
+To keep existing picture, click Cancel button.</source>
+        <translation type="obsolete">在 %1 的每一节中只能插入一张图片。
+
+如果要替换现有图片，请按“确定”。
+如果要保留现有图片，请按“取消”。</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="obsolete">打开</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <translation type="obsolete">页码</translation>
+    </message>
+    <message>
+        <source>Pages</source>
+        <translation type="obsolete">总页数</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="obsolete">图片</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation type="obsolete">可移植网络图形</translation>
+    </message>
+    <message>
+        <source>Tab</source>
+        <translation type="obsolete">标签名</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation type="unfinished">图像文件格式</translation>
+        <translation type="obsolete">图像文件格式</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
-        <translation type="unfinished">页眉或页脚的长度（左、中、右的总和）不能大于 255 个字符。删除一些文字，或使格式简单些。</translation>
+        <translation type="obsolete">页眉或页脚的长度（左、中、右的总和）不能大于 255 个字符。删除一些文字，或使格式简单些。</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="obsolete">时间</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation type="obsolete">位图</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation type="obsolete">增强型图元文件</translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation type="obsolete">图元文件</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation type="obsolete">页码</translation>
+    </message>
+    <message>
+        <source>Number of Pages</source>
+        <translation type="obsolete">总页数</translation>
+    </message>
+    <message>
+        <source>Sheet Name</source>
+        <translation type="obsolete">标签名</translation>
     </message>
     <message>
         <source>Only one picture can be inserted in each section of the %1.
 
 To replace existing picture, press OK.
 To keep existing picture, press Cancel.</source>
-        <translation type="unfinished">在 %1 的每一节中只能插入一张图片。
+        <translation type="obsolete">在 %1 的每一节中只能插入一张图片。
+
+如果要替换现有图片，请按“确定”。
+如果要保留现有图片，请按“取消”。</translation>
+    </message>
+</context>
+<context>
+    <name>KxHeaderFooterWidget</name>
+    <message>
+        <source>File</source>
+        <translation>文件</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation>页码</translation>
+    </message>
+    <message>
+        <source>Number of Pages</source>
+        <translation>总页数</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>日期</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation>时间</translation>
+    </message>
+    <message>
+        <source>Sheet Name</source>
+        <translation>标签名</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>图片</translation>
+    </message>
+    <message>
+        <source>&amp;[%1]</source>
+        <translation>&amp;[%1]</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>打开</translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation>所有图片</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation>增强型图元文件</translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation>图元文件</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation>文件交换格式</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation>可移植网络图形</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation>位图</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation>图形交换格式</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation>图像文件格式</translation>
+    </message>
+    <message>
+        <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
+        <translation>页眉或页脚的长度（左、中、右的总和）不能大于 255 个字符。删除一些文字，或使格式简单些。</translation>
+    </message>
+    <message>
+        <source>Only one picture can be inserted in each section of the %1.
+
+To replace existing picture, press OK.
+To keep existing picture, press Cancel.</source>
+        <translation>在 %1 的每一节中只能插入一张图片。
 
 如果要替换现有图片，请按“确定”。
 如果要保留现有图片，请按“取消”。</translation>
@@ -9485,6 +12123,21 @@ To keep existing picture, press Cancel.</source>
     </message>
 </context>
 <context>
+    <name>KxMoveChartDlg</name>
+    <message>
+        <source>The Sheet already exists.Do you want to place the chart embedded in hte existing sheet?</source>
+        <translation>此工作表已经存在，是否要在其中插入嵌入式图表？</translation>
+    </message>
+    <message>
+        <source>An error occurred during the operation of chart move, Please try again.</source>
+        <translation>此图表在移动过程中发生错误，请重试。</translation>
+    </message>
+    <message>
+        <source>This Sheet exists and your chart is embedded in it. Specify a different sheet name.</source>
+        <translation>此工作表已存在，您的图表就内嵌其中。请指定不同的工作表名称。</translation>
+    </message>
+</context>
+<context>
     <name>KxMoveOrCopySheetDlg</name>
     <message>
         <source>(Move to end)</source>
@@ -9530,7 +12183,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>The default Workbook name %1 is not valid, can&apos;t include %2.</source>
-        <translation>默认的工作薄名称“%1”无效，不可包含“%2”字符。</translation>
+        <translation>默认的工作簿名称“%1”无效，不可包含“%2”字符。</translation>
     </message>
 </context>
 <context>
@@ -9575,6 +12228,112 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>To enter a reference using the mouse, click in the edit box, and then click the cell in the sheet you want to refer to, or drag through the range you want to select.</source>
+        <translation>要输入引用，可以单击目标单元格，或拖动鼠标选定整个区域。此方法对于同一工作单元格或同一工作簿的不同工作表中的单元格均有效。对其他工作簿的引用被称作外部引用。</translation>
+    </message>
+</context>
+<context>
+    <name>KxNewTableStyleDlg</name>
+    <message>
+        <source>Enter a table style name.</source>
+        <translation>请输入表样式名称。</translation>
+    </message>
+    <message>
+        <source>This style name already exists.</source>
+        <translation>此样式名已存在。</translation>
+    </message>
+    <message>
+        <source>Table Style</source>
+        <translation>表样式</translation>
+    </message>
+    <message>
+        <source>,</source>
+        <translation>,</translation>
+    </message>
+    <message>
+        <source>;</source>
+        <translation>;</translation>
+    </message>
+    <message>
+        <source> </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>加粗</translation>
+    </message>
+    <message>
+        <source>Bold Italic</source>
+        <translation>加粗 倾斜</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation>下划线</translation>
+    </message>
+    <message>
+        <source>Double Underline</source>
+        <translation>双下划线</translation>
+    </message>
+    <message>
+        <source>StrikeThrough</source>
+        <translation>删除线</translation>
+    </message>
+    <message>
+        <source>No Borders</source>
+        <translation>无边框</translation>
+    </message>
+    <message>
+        <source>Borders</source>
+        <translation>边框</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>左</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>右</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>上</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>下</translation>
+    </message>
+    <message>
+        <source>InsideVertical</source>
+        <translation>内部垂直</translation>
+    </message>
+    <message>
+        <source>InsideHorizontal</source>
+        <translation>内部水平</translation>
+    </message>
+    <message>
+        <source>Shaded</source>
+        <translation>底纹</translation>
+    </message>
+    <message>
+        <source>No Shading</source>
+        <translation>无底纹</translation>
+    </message>
+    <message>
+        <source>New Table Style</source>
+        <translation>新建表样式</translation>
+    </message>
+    <message>
+        <source>Modify Table Style</source>
+        <translation>修改表格样式</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="obsolete">斜体</translation>
+    </message>
+</context>
+<context>
+    <name>KxNewTableStyleDlg::KxNewTableStyleDlg</name>
+    <message>
+        <source>Italic</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9701,7 +12460,8 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>%1 If you need to edit this file in WPS Spreadsheets, please make sure that others are no longer editing, and transform the file %2 to a shared workbook %3 of WPS Spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 如果您需要用WPS表格编辑此文件，请务必确保其他人已经退出编
+辑，然后将该文件%2转换%3为WPS表格共享工作簿文件。</translation>
     </message>
 </context>
 <context>
@@ -9972,7 +12732,11 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>您没有权限将备份文件保存在 &quot;%1&quot; 中。</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
+        <translation type="obsolete">您没有权限将备份文件保存在 &quot;%1&quot; 中。</translation>
     </message>
 </context>
 <context>
@@ -10478,6 +13242,41 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
 </context>
 <context>
+    <name>KxPublishTableDlg</name>
+    <message>
+        <source>Export Table to SharePoint List</source>
+        <translation>将表导出为SharePoint列表</translation>
+    </message>
+    <message>
+        <source>Where do you want to publish your table?</source>
+        <translation>请指定表的发布位置：</translation>
+    </message>
+    <message>
+        <source>&amp;Address:</source>
+        <translation>地址(&amp;A):</translation>
+    </message>
+    <message>
+        <source>http://</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Creat a read-only connection to the new SharePoint list</source>
+        <translation>创建到新SharePoint列表的只读连接(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Provide a name and description for your table.</source>
+        <translation>请提供表的名称和说明。</translation>
+    </message>
+    <message>
+        <source>Na&amp;me:</source>
+        <translation>名称(&amp;M):</translation>
+    </message>
+    <message>
+        <source>&amp;Description:</source>
+        <translation>描述(&amp;D):</translation>
+    </message>
+</context>
+<context>
     <name>KxReadOnlyFileDlg</name>
     <message>
         <source>file is editing</source>
@@ -10486,6 +13285,14 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>File in use</source>
         <translation>文件正在使用</translation>
+    </message>
+    <message>
+        <source>other user</source>
+        <translation>另一用户</translation>
+    </message>
+    <message>
+        <source> is editing.</source>
+        <translation>正在编辑</translation>
     </message>
 </context>
 <context>
@@ -10546,11 +13353,12 @@ Only %2 unique value can be keep after delete.</source>
     <message>
         <source>%1 duplicates are found;
 %2 unique values will be left after delete.</source>
-        <translation type="unfinished"></translation>
+        <translation>找到 %1 条重复项；
+删除后将保留 %2 条唯一项。</translation>
     </message>
     <message>
         <source>%1 duplicates are found and have been deleted, %2 unique values are remained.</source>
-        <translation type="unfinished"></translation>
+        <translation>发现了 %1 个重复项，已将其删除；保留了 %2 个唯一值。</translation>
     </message>
 </context>
 <context>
@@ -10612,7 +13420,36 @@ system will remind checking the correctness of the contents.
 system will remind you to check the correctness of the contents.
 
 (Note: The function only supports single range)</source>
-        <translation type="unfinished"></translation>
+        <translation>在以下区域输入内容的时候，如果出现重复，则提醒
+检查输入内容的正确性。
+
+（注：请选择单个区域）</translation>
+    </message>
+</context>
+<context>
+    <name>KxResizeTableDlg</name>
+    <message>
+        <source>Table Resize</source>
+        <translation>调整表大小</translation>
+    </message>
+    <message>
+        <source>Reference is not valid.</source>
+        <translation>引用无效。</translation>
+    </message>
+    <message>
+        <source>The text you entered is not a valid reference or defined name.</source>
+        <translation type="obsolete">输入的内容为非法引用或名称。</translation>
+    </message>
+    <message>
+        <source>Select the new data range for your table:</source>
+        <translation>为表选择新的数据区域（S）：</translation>
+    </message>
+    <message>
+        <source>Note: The headers must remain in the same row,
+      and the resulting table tange must overlap 
+      the original table range.</source>
+        <translation>注释：标题必须保留在同一行上，结果表区域必
+      须重叠原始表区域。</translation>
     </message>
 </context>
 <context>
@@ -10955,6 +13792,17 @@ system will remind you to check the correctness of the contents.
     </message>
 </context>
 <context>
+    <name>KxSortCustomlistDlg</name>
+    <message>
+        <source>NEW LIST</source>
+        <translation>新序列</translation>
+    </message>
+    <message>
+        <source>List will be permanently deleted.</source>
+        <translation>选定序列将永远删除。</translation>
+    </message>
+</context>
+<context>
     <name>KxSortDlg</name>
     <message>
         <source>(%1) %2</source>
@@ -10983,6 +13831,81 @@ system will remind you to check the correctness of the contents.
 %1 “主要关键字”空缺。
 %1 两个排序引用雷同。
 %1 所输入的排序引用位于当前选定区域之外。</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <translation>列</translation>
+    </message>
+    <message>
+        <source>Sort On</source>
+        <translation>排序依据</translation>
+    </message>
+    <message>
+        <source>Order</source>
+        <translation>次序</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <translation>数值</translation>
+    </message>
+    <message>
+        <source>Cell Color</source>
+        <translation>单元格颜色</translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation>字体颜色</translation>
+    </message>
+    <message>
+        <source>On Top</source>
+        <translation>在顶端</translation>
+    </message>
+    <message>
+        <source>On Bottom</source>
+        <translation>在底端</translation>
+    </message>
+    <message>
+        <source>On Left</source>
+        <translation>在左侧</translation>
+    </message>
+    <message>
+        <source>On Right</source>
+        <translation>在右侧</translation>
+    </message>
+    <message>
+        <source>Smallest to Largest</source>
+        <translation>升序</translation>
+    </message>
+    <message>
+        <source>Largest to Smallest</source>
+        <translation>降序</translation>
+    </message>
+    <message>
+        <source>A to Z</source>
+        <translation>升序</translation>
+    </message>
+    <message>
+        <source>Z to A</source>
+        <translation>降序</translation>
+    </message>
+    <message>
+        <source>Custom List...</source>
+        <translation>自定义序列...</translation>
+    </message>
+    <message>
+        <source>Row</source>
+        <translation>行</translation>
+    </message>
+</context>
+<context>
+    <name>KxSortKeyWidget</name>
+    <message>
+        <source>Sort by</source>
+        <translation>主要关键字</translation>
+    </message>
+    <message>
+        <source>Then by</source>
+        <translation>次要关键字</translation>
     </message>
 </context>
 <context>
@@ -11013,6 +13936,38 @@ system will remind you to check the correctness of the contents.
     <message>
         <source>Ignore words in &amp;uppercase</source>
         <translation>忽略所有字母都大写的单词(&amp;U)</translation>
+    </message>
+</context>
+<context>
+    <name>KxStyleAddLegacyTriggerCommand</name>
+    <message>
+        <source>add new style</source>
+        <translation>新建单元格样式</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation>样式</translation>
+    </message>
+</context>
+<context>
+    <name>KxStyleApplyLegacyTriggerCommand</name>
+    <message>
+        <source>Apply</source>
+        <translation>应用</translation>
+    </message>
+</context>
+<context>
+    <name>KxStyleCopyLegacyTriggerCommand</name>
+    <message>
+        <source>Copy</source>
+        <translation>复制</translation>
+    </message>
+</context>
+<context>
+    <name>KxStyleDeleteLegacyTriggerCommand</name>
+    <message>
+        <source>Delete</source>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
@@ -11259,6 +14214,20 @@ system will remind you to check the correctness of the contents.
     </message>
 </context>
 <context>
+    <name>KxStyleMergeLegacyTriggerCommand</name>
+    <message>
+        <source>Merge Style</source>
+        <translation>合并样式</translation>
+    </message>
+</context>
+<context>
+    <name>KxStyleModifyLegacyTriggerCommand</name>
+    <message>
+        <source>Modify</source>
+        <translation>修改</translation>
+    </message>
+</context>
+<context>
     <name>KxStylesMergeDlg</name>
     <message>
         <source>Too many different cell formats.</source>
@@ -11270,6 +14239,315 @@ system will remind you to check the correctness of the contents.
     <message>
         <source>column </source>
         <translation>列 </translation>
+    </message>
+</context>
+<context>
+    <name>KxTableColorStyle</name>
+    <message>
+        <source>Black</source>
+        <translation>黑色</translation>
+    </message>
+    <message>
+        <source>White</source>
+        <translation>白色</translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <translation>红色</translation>
+    </message>
+    <message>
+        <source>Bright Green</source>
+        <translation>鲜绿</translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <translation>蓝色</translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <translation>黄色</translation>
+    </message>
+    <message>
+        <source>Pink</source>
+        <translation>粉红</translation>
+    </message>
+    <message>
+        <source>Turquoise</source>
+        <translation>青绿</translation>
+    </message>
+    <message>
+        <source>Dark Red</source>
+        <translation>深红</translation>
+    </message>
+    <message>
+        <source>Green</source>
+        <translation>绿色</translation>
+    </message>
+    <message>
+        <source>Dark Blue</source>
+        <translation>深蓝</translation>
+    </message>
+    <message>
+        <source>Dark Yellow</source>
+        <translation>深黄</translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <translation>紫罗兰</translation>
+    </message>
+    <message>
+        <source>Teal</source>
+        <translation>青色</translation>
+    </message>
+    <message>
+        <source>Gray-25%</source>
+        <translation>灰色-25%</translation>
+    </message>
+    <message>
+        <source>Gray-50%</source>
+        <translation>灰色-50%</translation>
+    </message>
+    <message>
+        <source>Periwinkle</source>
+        <translation>海螺</translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <translation>梅红</translation>
+    </message>
+    <message>
+        <source>vIvory</source>
+        <translation>象牙色</translation>
+    </message>
+    <message>
+        <source>Light Turquoise</source>
+        <translation>浅青绿</translation>
+    </message>
+    <message>
+        <source>Dark Purple</source>
+        <translation>深紫</translation>
+    </message>
+    <message>
+        <source>Coral</source>
+        <translation>珊瑚红</translation>
+    </message>
+    <message>
+        <source>OceanBlue</source>
+        <translation>海蓝</translation>
+    </message>
+    <message>
+        <source>IceBlue</source>
+        <translation>冰蓝</translation>
+    </message>
+    <message>
+        <source>Sky Blue</source>
+        <translation>天蓝</translation>
+    </message>
+    <message>
+        <source>Light Green</source>
+        <translation>浅绿</translation>
+    </message>
+    <message>
+        <source>Light Yellow</source>
+        <translation>浅黄</translation>
+    </message>
+    <message>
+        <source>Pale Blue</source>
+        <translation>淡蓝</translation>
+    </message>
+    <message>
+        <source>Rose</source>
+        <translation>玫瑰红</translation>
+    </message>
+    <message>
+        <source>Lavender</source>
+        <translation>浅紫</translation>
+    </message>
+    <message>
+        <source>Tan</source>
+        <translation>茶色</translation>
+    </message>
+    <message>
+        <source>Light Blue</source>
+        <translation>浅蓝</translation>
+    </message>
+    <message>
+        <source>Aqua</source>
+        <translation>水绿色</translation>
+    </message>
+    <message>
+        <source>Lime</source>
+        <translation>酸橙色</translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <translation>金色</translation>
+    </message>
+    <message>
+        <source>Light Orange</source>
+        <translation>浅橙色</translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <translation>橙色</translation>
+    </message>
+    <message>
+        <source>Blue-Gray</source>
+        <translation>蓝-灰</translation>
+    </message>
+    <message>
+        <source>Gray-40%</source>
+        <translation>灰色-40%</translation>
+    </message>
+    <message>
+        <source>Dark Teal</source>
+        <translation>深青</translation>
+    </message>
+    <message>
+        <source>Sea Green</source>
+        <translation>海绿</translation>
+    </message>
+    <message>
+        <source>Dark Green</source>
+        <translation>深绿</translation>
+    </message>
+    <message>
+        <source>Olive Green</source>
+        <translation>橄榄绿</translation>
+    </message>
+    <message>
+        <source>Brown</source>
+        <translation>褐色</translation>
+    </message>
+    <message>
+        <source>Indigo</source>
+        <translation>靛蓝</translation>
+    </message>
+    <message>
+        <source>Gray-80%</source>
+        <translation>灰色-80%</translation>
+    </message>
+    <message>
+        <source>Gray-5%</source>
+        <translation>灰色-5%</translation>
+    </message>
+    <message>
+        <source>Gray-10%</source>
+        <translation>灰色-10%</translation>
+    </message>
+    <message>
+        <source>Gray-12.5%</source>
+        <translation>灰色-12.5%</translation>
+    </message>
+    <message>
+        <source>Gray-15%</source>
+        <translation>灰色-15%</translation>
+    </message>
+    <message>
+        <source>Gray-20%</source>
+        <translation>灰色-20%</translation>
+    </message>
+    <message>
+        <source>Gray-30%</source>
+        <translation>灰色-30%</translation>
+    </message>
+    <message>
+        <source>Gray-35%</source>
+        <translation>灰色-35%</translation>
+    </message>
+    <message>
+        <source>Gray-37.5%</source>
+        <translation>灰色-37.5%</translation>
+    </message>
+    <message>
+        <source>Gray-45%</source>
+        <translation>灰色-45%</translation>
+    </message>
+    <message>
+        <source>Gray-55%</source>
+        <translation>灰色-55%</translation>
+    </message>
+    <message>
+        <source>Gray-60%</source>
+        <translation>灰色-60%</translation>
+    </message>
+    <message>
+        <source>Gray-62.5%</source>
+        <translation>灰色-62.5%</translation>
+    </message>
+    <message>
+        <source>Gray-65%</source>
+        <translation>灰色-65%</translation>
+    </message>
+    <message>
+        <source>Gray-70%</source>
+        <translation>灰色-70%</translation>
+    </message>
+    <message>
+        <source>Gray-75%</source>
+        <translation>灰色-75%</translation>
+    </message>
+    <message>
+        <source>Gray-85%</source>
+        <translation>灰色-85%</translation>
+    </message>
+    <message>
+        <source>Gray-87.5%</source>
+        <translation>灰色-87.5%</translation>
+    </message>
+    <message>
+        <source>Gray-90%</source>
+        <translation>灰色-90%</translation>
+    </message>
+    <message>
+        <source>Gray-95%</source>
+        <translation>灰色-95%</translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleApplyClearFmtTriggerCommand</name>
+    <message>
+        <source>Apply and Clear Formatting</source>
+        <translation>应用并清除格式</translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleApplyMaintainFmtTriggerCommand</name>
+    <message>
+        <source>Apply (and Maintain Formatting)</source>
+        <translation>应用并保留格式</translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleDeleteTriggerCommand</name>
+    <message>
+        <source>Delete</source>
+        <translation>删除</translation>
+    </message>
+    <message>
+        <source>Do you want to delete style %1</source>
+        <translation>是否删除样式 %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleDuplicateTriggerCommand</name>
+    <message>
+        <source>Duplicate</source>
+        <translation>复制</translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleModifyTriggerCommand</name>
+    <message>
+        <source>Modify</source>
+        <translation>修改</translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleSetDefaultTriggerCommand</name>
+    <message>
+        <source>Set As Default</source>
+        <translation>设置为默认值</translation>
     </message>
 </context>
 <context>
@@ -11325,6 +14603,57 @@ system will remind you to check the correctness of the contents.
     <message>
         <source>YMD</source>
         <translation>YMD</translation>
+    </message>
+    <message>
+        <source>Preview selected data</source>
+        <translation>预览选定数据</translation>
+    </message>
+    <message>
+        <source>Data preview:</source>
+        <translation>数据预览</translation>
+    </message>
+</context>
+<context>
+    <name>KxTotalsList</name>
+    <message>
+        <source>Average</source>
+        <translation>平均值</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <translation>计数</translation>
+    </message>
+    <message>
+        <source>Count Numbers</source>
+        <translation>数值计数</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <translation>最大值</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <translation>最小值</translation>
+    </message>
+    <message>
+        <source>More Functions...</source>
+        <translation>其他函数...</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>无</translation>
+    </message>
+    <message>
+        <source>StdDev</source>
+        <translation>标准偏差</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <translation>求和</translation>
+    </message>
+    <message>
+        <source>Var</source>
+        <translation>方差</translation>
     </message>
 </context>
 <context>
@@ -11451,7 +14780,11 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
     </message>
     <message>
         <source>Drag fields onto PivotTable area</source>
-        <translation type="unfinished"></translation>
+        <translation>将字段拖动至数据透视表区域</translation>
+    </message>
+    <message>
+        <source>Drag items to the PivotTable areas</source>
+        <translation type="obsolete">将字段拖动至数据透视表区域</translation>
     </message>
 </context>
 <context>
@@ -11581,107 +14914,107 @@ You may still need to manually update any references to this name used in VBA co
     <name>KxValidationDlg</name>
     <message>
         <source>&amp;Minimum:</source>
-        <translation type="unfinished">最小值(&amp;M):</translation>
+        <translation>最小值(&amp;M):</translation>
     </message>
     <message>
         <source>Ma&amp;ximum:</source>
-        <translation type="unfinished">最大值(&amp;X):</translation>
+        <translation>最大值(&amp;X):</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
-        <translation type="unfinished">来源(&amp;S):</translation>
+        <translation>来源(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Start date:</source>
-        <translation type="unfinished">开始日期(&amp;S):</translation>
+        <translation>开始日期(&amp;S):</translation>
     </message>
     <message>
         <source>E&amp;nd date:</source>
-        <translation type="unfinished">结束日期(&amp;N):</translation>
+        <translation>结束日期(&amp;N):</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
-        <translation type="unfinished">开始时间(&amp;S):</translation>
+        <translation>开始时间(&amp;S):</translation>
     </message>
     <message>
         <source>E&amp;nd time:</source>
-        <translation type="unfinished">结束时间(&amp;N):</translation>
+        <translation>结束时间(&amp;N):</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
-        <translation type="unfinished">公式(&amp;F):</translation>
+        <translation>公式(&amp;F):</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
-        <translation type="unfinished">数值(&amp;V):</translation>
+        <translation>数值(&amp;V):</translation>
     </message>
     <message>
         <source>&amp;Time:</source>
-        <translation type="unfinished">时间(&amp;T):</translation>
+        <translation>时间(&amp;T):</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
-        <translation type="unfinished">日期(&amp;T):</translation>
+        <translation>日期(&amp;T):</translation>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
-        <translation type="unfinished">必须输入最大值和最小值。</translation>
+        <translation>必须输入最大值和最小值。</translation>
     </message>
     <message>
         <source>You must enter a Value.</source>
-        <translation type="unfinished">必须输入数值。</translation>
+        <translation>必须输入数值。</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
-        <translation type="unfinished">必须输入最小值。</translation>
+        <translation>必须输入最小值。</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
-        <translation type="unfinished">必须输入最大值。</translation>
+        <translation>必须输入最大值。</translation>
     </message>
     <message>
         <source>You must enter a Source.</source>
-        <translation type="unfinished">必须输入来源。</translation>
+        <translation>必须输入来源。</translation>
     </message>
     <message>
         <source>The Formula cannot be longer than 255 characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入内容不能大于 255 个字符。</translation>
     </message>
     <message>
         <source>You must enter a Date.</source>
-        <translation type="unfinished">必须输入日期。</translation>
+        <translation>必须输入日期。</translation>
     </message>
     <message>
         <source>You must enter both an End Date and a Start Date.</source>
-        <translation type="unfinished">必须输入开始日期和结束日期。</translation>
+        <translation>必须输入开始日期和结束日期。</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
-        <translation type="unfinished">必须输入结束日期。</translation>
+        <translation>必须输入结束日期。</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
-        <translation type="unfinished">必须输入开始日期。</translation>
+        <translation>必须输入开始日期。</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
-        <translation type="unfinished">必须输入开始时间和结束时间。</translation>
+        <translation>必须输入开始时间和结束时间。</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
-        <translation type="unfinished">必须输入时间。</translation>
+        <translation>必须输入时间。</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
-        <translation type="unfinished">必须输入开始时间。</translation>
+        <translation>必须输入开始时间。</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
-        <translation type="unfinished">必须输入结束时间。</translation>
+        <translation>必须输入结束时间。</translation>
     </message>
     <message>
         <source>You must enter a Formula.</source>
-        <translation type="unfinished">必须输入公式。</translation>
+        <translation>必须输入公式。</translation>
     </message>
 </context>
 <context>
@@ -11954,6 +15287,69 @@ t</source>
     </message>
 </context>
 <context>
+    <name>KxWidgetCellsFont</name>
+    <message>
+        <source>Format Cells</source>
+        <translation>设置单元格格式</translation>
+    </message>
+    <message>
+        <source>&amp;Font:</source>
+        <translation>字体(&amp;F):</translation>
+    </message>
+    <message>
+        <source>F&amp;ont style:</source>
+        <translation>字形(&amp;O):</translation>
+    </message>
+    <message>
+        <source>&amp;Size:</source>
+        <translation>字号(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Underline:</source>
+        <translation>下划线(&amp;U):</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>无</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation>单下划线</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation>双下划线</translation>
+    </message>
+    <message>
+        <source>&amp;Color:</source>
+        <translation>颜色(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation>特殊效果</translation>
+    </message>
+    <message>
+        <source>Stri&amp;kethrough</source>
+        <translation>删除线(&amp;K)</translation>
+    </message>
+    <message>
+        <source>Sup&amp;erscript</source>
+        <translation>上标(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Su&amp;bscript</source>
+        <translation>下标(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation>预览</translation>
+    </message>
+    <message>
+        <source>Clea&amp;r</source>
+        <translation>清除(&amp;R)</translation>
+    </message>
+</context>
+<context>
     <name>KxWidgetFont</name>
     <message>
         <source>&amp;Color:</source>
@@ -12014,6 +15410,65 @@ t</source>
     <message>
         <source>Sup&amp;erscript</source>
         <translation>上标(&amp;E)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetHeaderFont</name>
+    <message>
+        <source>Format Cells</source>
+        <translation>字体</translation>
+    </message>
+    <message>
+        <source>&amp;Font:</source>
+        <translation>字体(&amp;F):</translation>
+    </message>
+    <message>
+        <source>F&amp;ont style:</source>
+        <translation>字形(&amp;O):</translation>
+    </message>
+    <message>
+        <source>&amp;Size:</source>
+        <translation>大小(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Underline:</source>
+        <translation>下划线(&amp;U):</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>无</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation>单下划线</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation>双下划线</translation>
+    </message>
+    <message>
+        <source>&amp;Color:</source>
+        <translation>颜色(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation>特殊效果</translation>
+    </message>
+    <message>
+        <source>Stri&amp;kethrough</source>
+        <translation>删除线(&amp;K)</translation>
+    </message>
+    <message>
+        <source>Sup&amp;erscript</source>
+        <translation>上标(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Su&amp;bscript</source>
+        <translation>下标(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation>预览</translation>
     </message>
 </context>
 <context>
@@ -12165,6 +15620,14 @@ t</source>
         <source>Sample</source>
         <translation>示例</translation>
     </message>
+    <message>
+        <source>gradientFill</source>
+        <translation>填充效果(&amp;I)...</translation>
+    </message>
+    <message>
+        <source>moreColor</source>
+        <translation>其他颜色(&amp;M)...</translation>
+    </message>
 </context>
 <context>
     <name>KxWidgetProtection</name>
@@ -12218,6 +15681,17 @@ t</source>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
         <translation>输入不正确。要求输入内容为整数或小数。</translation>
+    </message>
+</context>
+<context>
+    <name>KxetDlgCheckCompatibility</name>
+    <message>
+        <source>Compatibility Checker</source>
+        <translation>兼容性检查器</translation>
+    </message>
+    <message>
+        <source>C&amp;heck compatibility when saving this workbook.</source>
+        <translation>保存此工作簿时检查兼容性(&amp;H)。</translation>
     </message>
 </context>
 <context>
@@ -12313,7 +15787,7 @@ t</source>
     </message>
     <message>
         <source>@ET_Style?</source>
-        <translation>@ET_Style?</translation>
+        <translation type="obsolete">@ET_Style?</translation>
     </message>
     <message>
         <source>Add Constraint</source>
@@ -12325,23 +15799,23 @@ t</source>
     </message>
     <message>
         <source>Aqua</source>
-        <translation>水绿色</translation>
+        <translation type="obsolete">水绿色</translation>
     </message>
     <message>
         <source>Backward</source>
-        <translation>前一个</translation>
+        <translation type="obsolete">前一个</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>黑色</translation>
+        <translation type="obsolete">黑色</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>蓝色</translation>
+        <translation type="obsolete">蓝色</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translation>蓝-灰</translation>
+        <translation type="obsolete">蓝-灰</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -12361,11 +15835,11 @@ t</source>
     </message>
     <message>
         <source>Bright Green</source>
-        <translation>鲜绿</translation>
+        <translation type="obsolete">鲜绿</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation>褐色</translation>
+        <translation type="obsolete">褐色</translation>
     </message>
     <message>
         <source>Center</source>
@@ -12405,7 +15879,7 @@ t</source>
     </message>
     <message>
         <source>Coral</source>
-        <translation>珊瑚红</translation>
+        <translation type="obsolete">珊瑚红</translation>
     </message>
     <message>
         <source>Create a linearity report to see where the problem is.</source>
@@ -12429,27 +15903,27 @@ t</source>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation>深蓝</translation>
+        <translation type="obsolete">深蓝</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation>深绿</translation>
+        <translation type="obsolete">深绿</translation>
     </message>
     <message>
         <source>Dark Purple</source>
-        <translation>深紫</translation>
+        <translation type="obsolete">深紫</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation>深红</translation>
+        <translation type="obsolete">深红</translation>
     </message>
     <message>
         <source>Dark Teal</source>
-        <translation>深青</translation>
+        <translation type="obsolete">深青</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation>深黄</translation>
+        <translation type="obsolete">深黄</translation>
     </message>
     <message>
         <source>Degrees</source>
@@ -12502,7 +15976,7 @@ t</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation>后一个</translation>
+        <translation type="obsolete">后一个</translation>
     </message>
     <message>
         <source>General</source>
@@ -12510,103 +15984,103 @@ t</source>
     </message>
     <message>
         <source>Gold</source>
-        <translation>金色</translation>
+        <translation type="obsolete">金色</translation>
     </message>
     <message>
         <source>Gray-10%</source>
-        <translation>灰色-10%</translation>
+        <translation type="obsolete">灰色-10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation>灰色-12.5%</translation>
+        <translation type="obsolete">灰色-12.5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation>灰色-15%</translation>
+        <translation type="obsolete">灰色-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation>灰色-20%</translation>
+        <translation type="obsolete">灰色-20%</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation>灰色-25%</translation>
+        <translation type="obsolete">灰色-25%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation>灰色-30%</translation>
+        <translation type="obsolete">灰色-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation>灰色-35%</translation>
+        <translation type="obsolete">灰色-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation>灰色-37.5%</translation>
+        <translation type="obsolete">灰色-37.5%</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation>灰色-40%</translation>
+        <translation type="obsolete">灰色-40%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation>灰色-45%</translation>
+        <translation type="obsolete">灰色-45%</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation>灰色-5%</translation>
+        <translation type="obsolete">灰色-5%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation>灰色-50%</translation>
+        <translation type="obsolete">灰色-50%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation>灰色-55%</translation>
+        <translation type="obsolete">灰色-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation>灰色-60%</translation>
+        <translation type="obsolete">灰色-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation>灰色-62.5%</translation>
+        <translation type="obsolete">灰色-62.5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation>灰色-65%</translation>
+        <translation type="obsolete">灰色-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation>灰色-70%</translation>
+        <translation type="obsolete">灰色-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation>灰色-75%</translation>
+        <translation type="obsolete">灰色-75%</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation>灰色-80%</translation>
+        <translation type="obsolete">灰色-80%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation>灰色-85%</translation>
+        <translation type="obsolete">灰色-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation>灰色-87.5%</translation>
+        <translation type="obsolete">灰色-87.5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation>灰色-90%</translation>
+        <translation type="obsolete">灰色-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation>灰色-95%</translation>
+        <translation type="obsolete">灰色-95%</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>绿色</translation>
+        <translation type="obsolete">绿色</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -12630,7 +16104,7 @@ t</source>
     </message>
     <message>
         <source>Indigo</source>
-        <translation>靛蓝</translation>
+        <translation type="obsolete">靛蓝</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -12638,7 +16112,7 @@ t</source>
     </message>
     <message>
         <source>Ivory</source>
-        <translation>象牙色</translation>
+        <translation type="obsolete">象牙色</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -12654,7 +16128,7 @@ t</source>
     </message>
     <message>
         <source>Lavender</source>
-        <translation>浅紫</translation>
+        <translation type="obsolete">浅紫</translation>
     </message>
     <message>
         <source>Left</source>
@@ -12666,27 +16140,27 @@ t</source>
     </message>
     <message>
         <source>Light Blue</source>
-        <translation>浅蓝</translation>
+        <translation type="obsolete">浅蓝</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translation>浅绿</translation>
+        <translation type="obsolete">浅绿</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation>浅橙色</translation>
+        <translation type="obsolete">浅橙色</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation>浅青绿</translation>
+        <translation type="obsolete">浅青绿</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation>浅黄</translation>
+        <translation type="obsolete">浅黄</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation>酸橙色</translation>
+        <translation type="obsolete">酸橙色</translation>
     </message>
     <message>
         <source>Limits</source>
@@ -12742,7 +16216,7 @@ t</source>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation>橄榄绿</translation>
+        <translation type="obsolete">橄榄绿</translation>
     </message>
     <message>
         <source>One of the cells in the worksheet became an error value when Solver tried certain values for the Variable Cells.</source>
@@ -12750,7 +16224,7 @@ t</source>
     </message>
     <message>
         <source>Orange</source>
-        <translation>橙色</translation>
+        <translation type="obsolete">橙色</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -12758,7 +16232,7 @@ t</source>
     </message>
     <message>
         <source>Pale Blue</source>
-        <translation>淡蓝</translation>
+        <translation type="obsolete">淡蓝</translation>
     </message>
     <message>
         <source>Percent</source>
@@ -12770,15 +16244,15 @@ t</source>
     </message>
     <message>
         <source>Periwinkle</source>
-        <translation>海螺</translation>
+        <translation type="obsolete">海螺</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation>粉红</translation>
+        <translation type="obsolete">粉红</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translation>梅红</translation>
+        <translation type="obsolete">梅红</translation>
     </message>
     <message>
         <source>ReadingOrder</source>
@@ -12786,7 +16260,7 @@ t</source>
     </message>
     <message>
         <source>Red</source>
-        <translation>红色</translation>
+        <translation type="obsolete">红色</translation>
     </message>
     <message>
         <source>Reports</source>
@@ -12806,7 +16280,7 @@ t</source>
     </message>
     <message>
         <source>Rose</source>
-        <translation>玫瑰红</translation>
+        <translation type="obsolete">玫瑰红</translation>
     </message>
     <message>
         <source>Rotated down %1 Degrees</source>
@@ -12818,7 +16292,7 @@ t</source>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation>海绿</translation>
+        <translation type="obsolete">海绿</translation>
     </message>
     <message>
         <source>Sensitivity</source>
@@ -12846,7 +16320,7 @@ t</source>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation>天蓝</translation>
+        <translation type="obsolete">天蓝</translation>
     </message>
     <message>
         <source>Solver can make the Objective Cell as large (or small when minimizing) as it wants.</source>
@@ -12918,15 +16392,15 @@ t</source>
     </message>
     <message>
         <source>Switch Sheet</source>
-        <translation>切换工作表</translation>
+        <translation type="obsolete">切换工作表</translation>
     </message>
     <message>
         <source>Tan</source>
-        <translation>茶色</translation>
+        <translation type="obsolete">茶色</translation>
     </message>
     <message>
         <source>Teal</source>
-        <translation>青色</translation>
+        <translation type="obsolete">青色</translation>
     </message>
     <message>
         <source>The Objective Cell values do not converge.</source>
@@ -12963,11 +16437,11 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>To End</source>
-        <translation>最后一个</translation>
+        <translation type="obsolete">最后一个</translation>
     </message>
     <message>
         <source>To Start</source>
-        <translation>第一个</translation>
+        <translation type="obsolete">第一个</translation>
     </message>
     <message>
         <source>Top Aligned</source>
@@ -12975,7 +16449,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Turquoise</source>
-        <translation>青绿</translation>
+        <translation type="obsolete">青绿</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -13003,7 +16477,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Violet</source>
-        <translation>紫罗兰</translation>
+        <translation type="obsolete">紫罗兰</translation>
     </message>
     <message>
         <source>When Simplex LP is used, this means Solver has found a global optimal solution.</source>
@@ -13011,7 +16485,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>White</source>
-        <translation>白色</translation>
+        <translation type="obsolete">白色</translation>
     </message>
     <message>
         <source>Wrap</source>
@@ -13019,7 +16493,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Yellow</source>
-        <translation>黄色</translation>
+        <translation type="obsolete">黄色</translation>
     </message>
     <message>
         <source>You are not allowed to add the default style name.</source>
@@ -13127,11 +16601,11 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Sea</source>
-        <translation>海蓝</translation>
+        <translation type="obsolete">海蓝</translation>
     </message>
     <message>
         <source>Ice Blue</source>
-        <translation>冰蓝</translation>
+        <translation type="obsolete">冰蓝</translation>
     </message>
     <message>
         <source>Click to accept the solution and place the resulting values in the adjustable cells.</source>
@@ -13183,15 +16657,15 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Shrink to Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>缩小字体填充</translation>
     </message>
     <message>
         <source>Context</source>
-        <translation type="unfinished">根据内容</translation>
+        <translation>根据内容</translation>
     </message>
     <message>
         <source>No macro is currently recording. Click to begin recording a new macro.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前未在录制任何宏，单击此处录制新宏。</translation>
     </message>
 </context>
 <context>
@@ -13222,7 +16696,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>&quot;Another user&quot; is editing.</source>
-        <translation>&quot;另一用户&quot;正在编辑。</translation>
+        <translation type="obsolete">&quot;另一用户&quot;正在编辑。</translation>
     </message>
     <message>
         <source>Click Notify to open a read-only copy of the document and receive notification when the document is no longer in use.</source>
@@ -13235,6 +16709,35 @@ and cannot generate reports.</source>
     <message>
         <source>Open Read-Only or click Notify to open read-only and receive notification when the document is no longer in use.</source>
         <translation type="obsolete">单击&quot;通知&quot;按钮可打开文档的只读副本，并会在文档不再使用时收到通知。</translation>
+    </message>
+    <message>
+        <source>&quot;%s&quot;</source>
+        <translation>&quot;%s&quot;</translation>
+    </message>
+</context>
+<context>
+    <name>SelectODBCDSNUi</name>
+    <message>
+        <source>Data Connection Wizard</source>
+        <translation>数据连接向导</translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Connect to ODBC Data Source&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;  &lt;/span&gt;Choose the ODBC data source you want to connect to.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;连接 ODBC 数据源&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;  &lt;/span&gt;请选择需要连接的 ODBC 数据源。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>ODBC data sources:</source>
+        <translation>ODBC 数据源</translation>
     </message>
 </context>
 <context>
@@ -13301,7 +16804,11 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Please select the target table to be imported from the combo box. All fields will be listed in the left list box. Select the fields needed to be imported there, and the selected fields will be listed in the right list box.</source>
-        <translation type="unfinished"></translation>
+        <translation>先从组合框中选择需要导入的目标表名，选择后左边的列表框会列出表中所有的字段名，选择需要导入的字段名，选定的字段会在右边列表框中显示。</translation>
+    </message>
+    <message>
+        <source>Catalog name:</source>
+        <translation>数据库名：</translation>
     </message>
 </context>
 <context>
@@ -13534,7 +17041,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>S&amp;ubject to the Constraints:</source>
-        <translation type="unfinished"></translation>
+        <translation>遵守约束(&amp;U):</translation>
     </message>
 </context>
 <context>
@@ -13795,6 +17302,171 @@ and cannot generate reports.</source>
     </message>
 </context>
 <context>
+    <name>etContentPosition</name>
+    <message>
+        <source>PROPERTY</source>
+        <translation>属性</translation>
+    </message>
+    <message>
+        <source>Move and &amp;size with cells</source>
+        <translation>大小和位置随单元格而变(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Move but don&apos;t &amp;size with cells</source>
+        <translation>大小固定，位置随单元格而变(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Don&apos;t move or size with cells</source>
+        <translation>大小和位置均固定(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Print object</source>
+        <translation>打印对象(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Lock</source>
+        <translation>锁定(&amp;L)</translation>
+    </message>
+</context>
+<context>
+    <name>etContentTextbox</name>
+    <message>
+        <source>&amp;Vertical alignment</source>
+        <translation>垂直对齐方式(&amp;V)：</translation>
+    </message>
+    <message>
+        <source>Te&amp;xt direction</source>
+        <translation>文字方向(&amp;X)：</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>横排</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>竖排</translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation>旋转90°</translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation>旋转270°</translation>
+    </message>
+    <message>
+        <source>Stacked</source>
+        <translation>堆积</translation>
+    </message>
+    <message>
+        <source>Text margin</source>
+        <translation>文字边距：</translation>
+    </message>
+    <message>
+        <source>Borderless</source>
+        <translation>无边距</translation>
+    </message>
+    <message>
+        <source>Narrow Margins</source>
+        <translation>窄边距</translation>
+    </message>
+    <message>
+        <source>Standard Margins</source>
+        <translation>标准边距</translation>
+    </message>
+    <message>
+        <source>Wide Margins</source>
+        <translation>宽边距</translation>
+    </message>
+    <message>
+        <source>Widening Margins</source>
+        <translation>加宽加距</translation>
+    </message>
+    <message>
+        <source>Custom...</source>
+        <translation>自定义边距</translation>
+    </message>
+    <message>
+        <source>&amp;Left Margin</source>
+        <translation>左边距(&amp;L)：</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>厘米</translation>
+    </message>
+    <message>
+        <source>&amp;Right margin</source>
+        <translation>右边距(&amp;R)：</translation>
+    </message>
+    <message>
+        <source>&amp;Top margin</source>
+        <translation>上边距(&amp;T)：</translation>
+    </message>
+    <message>
+        <source>&amp;Bottom margin</source>
+        <translation>下边距(&amp;B)：</translation>
+    </message>
+    <message>
+        <source>Auto Fit</source>
+        <translation>根据文字调整形状大小(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Overflow</source>
+        <translation>允许文本溢出形状(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Wrap text in shape</source>
+        <translation>形状中的文字自动换行(&amp;W)</translation>
+    </message>
+    <message>
+        <source>&amp;Columns...</source>
+        <translation>分栏(&amp;C)...</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 55.88 cm of value</source>
+        <translation>输入从 0厘米 到 55.88厘米的值</translation>
+    </message>
+    <message>
+        <source>Text c&amp;ustom angle</source>
+        <translation>自定义角度(&amp;U)</translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Order of lines</source>
+        <translation>行顺序</translation>
+    </message>
+    <message>
+        <source>Right-to-left</source>
+        <translation>从右到左</translation>
+    </message>
+    <message>
+        <source>Left-to-right</source>
+        <translation>从左到右</translation>
+    </message>
+</context>
+<context>
+    <name>etTableStyle</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Table Style:&lt;/b&gt;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Table Style Options:&lt;/b&gt;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>evaluateFormula</name>
     <message>
         <source>&amp;Close</source>
@@ -13899,134 +17571,254 @@ and cannot generate reports.</source>
     <name>kdlgExportToOFD</name>
     <message>
         <source>Export to OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>输出 OFD 文件</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished">保存到(&amp;T)</translation>
+        <translation>保存到(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">浏览(&amp;B)...</translation>
+        <translation>浏览(&amp;B)...</translation>
     </message>
     <message>
         <source>Export range</source>
-        <translation type="unfinished">输出范围</translation>
+        <translation>输出范围</translation>
     </message>
     <message>
         <source>Active &amp;Sheet</source>
-        <translation type="unfinished">选定工作表(&amp;S)</translation>
+        <translation>选定工作表(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Entire Workbook</source>
-        <translation type="unfinished">整个工作簿(&amp;E)</translation>
+        <translation>整个工作簿(&amp;E)</translation>
     </message>
     <message>
         <source>Export options</source>
-        <translation type="unfinished">输出选项</translation>
+        <translation>输出选项</translation>
     </message>
     <message>
         <source>Summary &amp;information</source>
-        <translation type="unfinished">文档信息(&amp;I)</translation>
+        <translation>文档信息(&amp;I)</translation>
     </message>
     <message>
         <source>Hyper&amp;link</source>
-        <translation type="unfinished">超链接(&amp;L)</translation>
+        <translation>超链接(&amp;L)</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
-        <translation type="unfinished">批注(&amp;C)</translation>
+        <translation>批注(&amp;C)</translation>
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation type="unfinished">权限设置</translation>
+        <translation>权限设置</translation>
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation type="unfinished">权限设置密码(&amp;R)(使以下权限设置生效)</translation>
+        <translation>权限设置密码(&amp;R)(使以下权限设置生效)</translation>
     </message>
     <message>
         <source>Pass&amp;word:</source>
-        <translation type="unfinished">密码(&amp;W):</translation>
+        <translation>密码(&amp;W):</translation>
     </message>
     <message>
         <source>C&amp;onfirm:</source>
-        <translation type="unfinished">确认(&amp;O):</translation>
+        <translation>确认(&amp;O):</translation>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
-        <translation type="unfinished">注意：只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
+        <translation>注意：只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
     </message>
     <message>
         <source>Permit to modi&amp;fy</source>
-        <translation type="unfinished">允许修改(&amp;F)</translation>
+        <translation>允许修改(&amp;F)</translation>
     </message>
     <message>
         <source>Permit to cop&amp;y</source>
-        <translation type="unfinished">允许复制(&amp;Y)</translation>
+        <translation>允许复制(&amp;Y)</translation>
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation type="unfinished">允许添加批注(&amp;A)</translation>
+        <translation>允许添加批注(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Printing permission:</source>
-        <translation type="unfinished">打印权限(&amp;P):</translation>
+        <translation>打印权限(&amp;P):</translation>
     </message>
     <message>
         <source>Printing Permission</source>
-        <translation type="unfinished">打印权限</translation>
+        <translation>打印权限</translation>
     </message>
     <message>
         <source>Free printing</source>
-        <translation type="unfinished">不受限打印</translation>
+        <translation>不受限打印</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished">不允许打印</translation>
+        <translation>不允许打印</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
-        <translation type="unfinished">低质量打印</translation>
+        <translation>低质量打印</translation>
     </message>
     <message>
         <source>File password:</source>
-        <translation type="unfinished">文件打开密码:</translation>
+        <translation>文件打开密码:</translation>
     </message>
     <message>
         <source>Passwor&amp;d:</source>
-        <translation type="unfinished">密码(&amp;D):</translation>
+        <translation>密码(&amp;D):</translation>
     </message>
     <message>
         <source>Confir&amp;m:</source>
-        <translation type="unfinished">确认(&amp;M):</translation>
+        <translation>确认(&amp;M):</translation>
     </message>
     <message>
         <source>Close w&amp;hen export completes</source>
-        <translation type="unfinished">输出成功后自动关闭(&amp;H)</translation>
+        <translation>输出成功后自动关闭(&amp;H)</translation>
+    </message>
+    <message>
+        <source>&amp;Advanced</source>
+        <translation type="obsolete">高级(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Comment</source>
+        <translation type="obsolete">批注(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Advanced(&amp;A)</source>
+        <translation type="obsolete">高级(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Allows copy(&amp;Y)</source>
+        <translation type="obsolete">允许复制（&amp;Y）</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">取消</translation>
+    </message>
+    <message>
+        <source>Confirm password is not the same as previously</source>
+        <translation type="obsolete">确认的密码与先前输入的不一致。</translation>
+    </message>
+    <message>
+        <source>Conventional(&amp;N)</source>
+        <translation type="obsolete">常规(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Select OFD Service Provider</source>
+        <translation>选择 OFD 服务商</translation>
+    </message>
+    <message>
+        <source>Suwell&amp;K</source>
+        <translation>数科(&amp;K)</translation>
+    </message>
+    <message>
+        <source>&amp;Foxit</source>
+        <translation>福昕(&amp;F)</translation>
+    </message>
+    <message>
+        <source>File open password must be different form permission password, please enter again.</source>
+        <translation type="obsolete">文件打开密码必须与权限设置密码不同，请重新输入。</translation>
+    </message>
+    <message>
+        <source>Free Print</source>
+        <translation type="obsolete">不受限打印</translation>
+    </message>
+    <message>
+        <source>Note: only if you set the password, the following permission settings will take effect, and will prevent the settings from being changed by others.</source>
+        <translation type="obsolete">注意：只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="obsolete">确定</translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)</source>
+        <translation type="obsolete">OFD 文件(*.ofd)</translation>
+    </message>
+    <message>
+        <source>Pe&amp;rmissions password:</source>
+        <translation type="obsolete">权限设置密码(&amp;R)(使以下权限设置生效)</translation>
+    </message>
+    <message>
+        <source>Permission &amp;print:</source>
+        <translation type="obsolete">打印权限(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Permissions Settings</source>
+        <translation type="obsolete">权限设置</translation>
+    </message>
+    <message>
+        <source>Please enter permission password!</source>
+        <translation type="obsolete">请输入权限设置密码！</translation>
+    </message>
+    <message>
+        <source>Please select file name</source>
+        <translation type="obsolete">请先指定输出文件名。</translation>
+    </message>
+    <message>
+        <source>Print Low Qulity Only</source>
+        <translation type="obsolete">低质量打印</translation>
+    </message>
+    <message>
+        <source>The file is exist, are you sure to overwrite the file?</source>
+        <translation type="obsolete">您指定的文件已经存在，确认要覆盖该文件吗？</translation>
+    </message>
+    <message>
+        <source>WPS Form</source>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToOFDProgress</name>
     <message>
         <source>Export to OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>输出 OFD 文件</translation>
     </message>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在准备导出 OFD 文件...</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished">打开文件(&amp;O)</translation>
+        <translation>打开文件(&amp;O)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source> page...</source>
+        <translation type="obsolete"> 页...</translation>
+    </message>
+    <message>
+        <source>Export complete.</source>
+        <translation type="obsolete">导出完成。</translation>
+    </message>
+    <message>
+        <source>Exporting No.</source>
+        <translation type="obsolete">正在处理第 </translation>
+    </message>
+    <message>
+        <source>Exporting document information...</source>
+        <translation type="obsolete">正在导出文档属性...</translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="obsolete">正在导出标签...</translation>
+    </message>
+    <message>
+        <source>Open File(&amp;O)</source>
+        <translation type="obsolete">打开文件(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Preparing to export OFD file...</source>
+        <translation type="obsolete">正在准备导出 OFD 文件...</translation>
     </message>
 </context>
 <context>
@@ -14225,7 +18017,11 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Password to prot&amp;ect permission settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">权限设置密码(&amp;R)(使以下权限设置生效)</translation>
+    </message>
+    <message>
+        <source>Password to protect pe&amp;rmission settings</source>
+        <translation>权限设置密码(&amp;R)(使以下权限设置生效)</translation>
     </message>
 </context>
 <context>
@@ -14279,19 +18075,19 @@ and cannot generate reports.</source>
     <name>kxDlgHyperlink</name>
     <message>
         <source>&amp;E-mail address:</source>
-        <translation type="unfinished"></translation>
+        <translation>电子邮件地址(&amp;E):</translation>
     </message>
     <message>
         <source>&amp;Remove Link</source>
-        <translation type="unfinished"></translation>
+        <translation>删除超链接(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Text to display:</source>
-        <translation type="unfinished"></translation>
+        <translation>要显示的文字(&amp;T):</translation>
     </message>
     <message>
         <source>Addr&amp;ess:</source>
-        <translation type="unfinished"></translation>
+        <translation>地址(&amp;E):</translation>
     </message>
     <message>
         <source>Browse File</source>
@@ -14304,15 +18100,15 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Home Page</source>
-        <translation type="unfinished">主页</translation>
+        <translation>主页</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished">超链接</translation>
+        <translation>超链接</translation>
     </message>
     <message>
         <source>Link to:</source>
-        <translation type="unfinished"></translation>
+        <translation>链接到：</translation>
     </message>
     <message>
         <source>Pl&amp;ace in this
@@ -14322,15 +18118,15 @@ Document</source>
     </message>
     <message>
         <source>S&amp;ubject:</source>
-        <translation type="unfinished"></translation>
+        <translation>主题(&amp;U):</translation>
     </message>
     <message>
         <source>ScreenTi&amp;p...</source>
-        <translation type="unfinished"></translation>
+        <translation>屏幕提示(&amp;P)...</translation>
     </message>
     <message>
         <source>Up One Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>上一级文件夹</translation>
     </message>
     <message>
         <source>E&amp;xisting File
@@ -14340,15 +18136,81 @@ or Web Page</source>
     </message>
     <message>
         <source>Browse for File</source>
-        <translation type="unfinished">浏览文件</translation>
+        <translation>浏览文件</translation>
     </message>
     <message>
         <source>Re&amp;cently used E-mail addresses:</source>
-        <translation type="unfinished"></translation>
+        <translation>最近用过的电子邮件地址(&amp;C):</translation>
     </message>
     <message>
         <source>Email Button</source>
-        <translation type="unfinished"></translation>
+        <translation>邮件按钮</translation>
+    </message>
+</context>
+<context>
+    <name>kxDlgThesaurus</name>
+    <message>
+        <source>Replace</source>
+        <translation type="obsolete">替换</translation>
+    </message>
+</context>
+<context>
+    <name>kxEtHeadFontDlg</name>
+    <message>
+        <source> (title)</source>
+        <translation>(标题)</translation>
+    </message>
+    <message>
+        <source> (text)</source>
+        <translation>(正文)</translation>
+    </message>
+    <message>
+        <source>Regular</source>
+        <translation>常规</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>倾斜</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>加粗</translation>
+    </message>
+    <message>
+        <source>Bold Italic</source>
+        <translation>加粗倾斜</translation>
+    </message>
+    <message>
+        <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
+        <translation>系统中未安装此字体，打印时将采用最相近的有效字体。</translation>
+    </message>
+    <message>
+        <source>This is a TrueType font. This font will be used on both printer and screen.</source>
+        <translation>这是一种 TrueType 字体，同时适用于屏幕和打印机。</translation>
+    </message>
+    <message>
+        <source>The font is designed for plotter.</source>
+        <translation>该字体是为笔式绘图仪所设计的。</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>自动</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation>WPS表格</translation>
+    </message>
+    <message>
+        <source>This font style is not available.</source>
+        <translation>此字体样式名不存在。</translation>
+    </message>
+    <message>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation>您的输入无效，要求输入内容为整数或者小数</translation>
+    </message>
+    <message>
+        <source>Font size must be between %1 and %2 points.</source>
+        <translation>字号必须介于 %1 到 %2 磅之间。</translation>
     </message>
 </context>
 <context>
@@ -14493,15 +18355,15 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Unchecked</source>
-        <translation type="unfinished"></translation>
+        <translation>未选择(&amp;U)</translation>
     </message>
     <message>
         <source>By (&amp;I):</source>
-        <translation type="unfinished"></translation>
+        <translation>步长(&amp;I):</translation>
     </message>
     <message>
         <source>&amp;Page change:</source>
-        <translation type="unfinished"></translation>
+        <translation>页步长(&amp;P):</translation>
     </message>
 </context>
 <context>
@@ -14674,7 +18536,7 @@ or Web Page</source>
     </message>
     <message>
         <source>Kingsoft Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
-        <translation type="obsolete">WPS表格 发现在选定区域旁边还有数据，这些数据将不参与排序。</translation>
+        <translation>WPS表格 发现在选定区域旁边还有数据，这些数据将不参与排序。</translation>
     </message>
     <message>
         <source>Sort Warning</source>
@@ -14751,7 +18613,9 @@ Do you want to change to Manual?</source>
     <message>
         <source>The file you are opening changes the option of Automatic to Manual, which will prevent the current file and other files from getting the correct results in time during the editing process.
 Do you want to change to Manual?</source>
-        <translation type="unfinished"></translation>
+        <translation>您打开的文件，正在将程序从‘自动重算’改成‘手动重算’；这会导致该文件以及其他文件在编辑的过程中无法及时得到正确的计算结果。
+
+请您确认：是否要改成‘手动重算’？</translation>
     </message>
 </context>
 </TS>

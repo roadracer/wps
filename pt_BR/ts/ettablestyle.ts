@@ -243,11 +243,11 @@
     <name>KxTpTableStyle</name>
     <message>
         <source>Table Style:</source>
-        <translation>Estilo da tabela:</translation>
+        <translation>Estilo da Tabela:</translation>
     </message>
     <message>
         <source>Table Style Options:</source>
-        <translation>Opções de estilo da tabela:</translation>
+        <translation>Opções do Estilo da Tabela:</translation>
     </message>
     <message>
         <source>Clear Table Style</source>

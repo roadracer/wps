@@ -6,7 +6,7 @@
     <name>KxItemWebView</name>
     <message>
         <source>Unlock this item from the list.</source>
-        <translation>リストからこの項目のロックを解除します。</translation>
+        <translation>リストからこの項目を解除します。</translation>
     </message>
     <message>
         <source>Reached the maximum number of items locked.</source>
@@ -22,7 +22,7 @@
     </message>
     <message>
         <source>Click to show additional options.</source>
-        <translation>クリックすると、その他のオプションが表示されます。</translation>
+        <translation>クリックすると、追加オプションが表示されます。</translation>
     </message>
 </context>
 <context>
@@ -41,7 +41,7 @@
     </message>
     <message>
         <source>Click to Paste:</source>
-        <translation>クリックして貼り付け</translation>
+        <translation>クリックして貼り付け:</translation>
     </message>
 </context>
 <context>
@@ -56,19 +56,19 @@
     </message>
     <message>
         <source>Show Clipboard &amp;Automatically When Copying</source>
-        <translation>コピーすると自動的にリップボードに表示します(&amp;A)</translation>
+        <translation>コピー時に自動的にリップボードに表示します(&amp;A)</translation>
     </message>
     <message>
         <source>Press Ctrl+C Twice to Show Clipboard</source>
-        <translation> Ctrl + Cを二回押すとクリップボードが表示されます</translation>
+        <translation>Ctrl + Cを二回押すとクリップボードが表示されます</translation>
     </message>
     <message>
         <source>&amp;Collect Data Without Showing Clipboard</source>
-        <translation>表示されたクリップボード以外のデータを集める(&amp;C)</translation>
+        <translation>クリップボードに表示されないデータを収集(&amp;C)</translation>
     </message>
     <message>
         <source>Unlock this item from the list.</source>
-        <translation>リストからこの項目のロックを解除します</translation>
+        <translation>リストからこの項目を解除します</translation>
     </message>
     <message>
         <source>Lock this item to the list.</source>

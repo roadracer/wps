@@ -6,47 +6,87 @@
     <name>field_parser_index</name>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished">插入符號</translation>
+        <translation>符號</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>筆劃</translation>
     </message>
     <message>
         <source>Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>中文</translation>
     </message>
     <message>
         <source>Alphanumeric</source>
-        <translation type="unfinished"></translation>
+        <translation>字母</translation>
     </message>
     <message>
         <source>Error. Index not allowed in footnote, endnote, header, footer, or comment.</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤! 註腳、章節附註、頁首、頁尾或批註中不允許有索引。</translation>
     </message>
     <message>
         <source>Error. Not a valid bookmark in entry on page .</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤! 頁面書籤項目無效。</translation>
     </message>
     <message>
         <source>Error. No index entries found.</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤! 找不到索引項目。</translation>
     </message>
     <message>
         <source>Error. Not a valid range of characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤! 字元範圍無效。</translation>
     </message>
     <message>
         <source>Error. Switch argument not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤! 尚未指定引數選項。</translation>
     </message>
     <message>
         <source>Error. Unknown switch argument.</source>
-        <translation type="unfinished"></translation>
+        <translation>錯誤! 未知的選項引數。</translation>
     </message>
     <message>
         <source>WPS Writer cannot update Index.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS 無法更新索引。</translation>
+    </message>
+    <message>
+        <source>Error!Can not find xe.</source>
+        <translation type="obsolete">錯誤! 找不到索引項目。</translation>
+    </message>
+    <message>
+        <source>Error!Switch parameter is not specified.</source>
+        <translation type="obsolete">錯誤! 尚未指定引數選項。</translation>
+    </message>
+    <message>
+        <source>Error!Bookmark the page of an invalid.</source>
+        <translation type="obsolete">錯誤! 頁面書籤項目無效。</translation>
+    </message>
+    <message>
+        <source>Alphabet</source>
+        <translation type="obsolete">字母</translation>
+    </message>
+    <message>
+        <source>Error!Switch parameter unrecognizable.</source>
+        <translation type="obsolete">錯誤! 未知的選項引數。</translation>
+    </message>
+    <message>
+        <source>Error!Is not a valid character range.</source>
+        <translation type="obsolete">錯誤! 字元範圍無效。</translation>
+    </message>
+    <message>
+        <source>Error! Index not allowed in footnote, endnote, header, footer, comment, or text box.</source>
+        <translation type="obsolete">錯誤! 註腳、章節附註、頁首、頁尾或批註中不允許有索引。</translation>
+    </message>
+    <message>
+        <source>wps can not update index!</source>
+        <translation type="obsolete">WPS 無法更新索引。</translation>
+    </message>
+</context>
+<context>
+    <name>io_string</name>
+    <message>
+        <source>Author</source>
+        <comment>IO_String_Author</comment>
+        <translation>作者</translation>
     </message>
 </context>
 <context>
@@ -157,11 +197,11 @@ Try one or more of the following:
 2、Check whether the source file is protected.
 3、Ensure that the source file is in the appropriate directory.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation type="obsolete">WPS文字在试图更新源文件时遇到错误。
-请尝试下列方法：
-1、检查源文件是否已被打开或被其它程序占用。
-2、检查源文件是否处于保护状态。
-3、确保源文件存在相应目录下。</translation>
+        <translation type="obsolete">WPS Writer 在嘗試更新來源檔案时發生錯誤。
+請嘗試使用下列方式:
+1、檢查來源檔案是否已被打開或被其他程序佔用。
+2、檢查來源檔案是否處於保護狀態。
+3、確保來源檔案存在相應目錄下。</translation>
     </message>
     <message>
         <source>WPS Writer encountered an error when trying to update source file.
@@ -171,6 +211,34 @@ Try one or more of the following:
 3. Make sure that the source file is in the appropriate directory.
 4. Make sure that the source file&apos;s format is supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation>WPS Writer 在嘗試更新來源檔案时發生錯誤。
+請嘗試使用下列方式:
+1、檢查來源檔案是否已被打開或被其他程序佔用。
+2、檢查來源檔案是否處於保護狀態。
+3、確保來源檔案存在相應目錄下。</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1、Check whether the source file has been opened or occupied by other programs.
+2、Check whether the source file is protected.
+3、Ensure that the source file is in the appropriate directory.
+4、Ensure that the source file can be supported by WPS.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation type="obsolete">WPS Writer 在嘗試更新來源檔案时發生錯誤。
+請嘗試使用下列方式:
+1、檢查來源檔案是否已被打開或被其他程序佔用。
+2、檢查來源檔案是否處於保護狀態。
+3、確保來源檔案存在相應目錄下。</translation>
+    </message>
+    <message>
+        <source>Error! Number cannot be represented in specified format.</source>
+        <comment>TX_FIELD_ERR_NUM_CANNOT_BE_SPECIFIED_FORMAT</comment>
+        <translation>錯誤！數字無法以指定格式顯示。</translation>
+    </message>
+    <message>
+        <source>Error! The style has no specified text.</source>
+        <comment>TX_FIELD_ERR_STYLE_NO_SPECIFIED_STYLE_TEXT</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -224,22 +292,42 @@ Try one or more of the following:
     <message>
         <source>Error. Unknown op code for conditional.</source>
         <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
-        <translation type="unfinished"></translation>
+        <translation>錯誤! 條件的操作代碼無法識別。</translation>
     </message>
     <message>
         <source>Error. Missing test condition.</source>
         <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
-        <translation type="unfinished"></translation>
+        <translation>錯誤! 遺漏測試條件。</translation>
     </message>
     <message>
         <source>Error. Missing second part of test condition.</source>
         <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
-        <translation type="unfinished"></translation>
+        <translation>錯誤! 遺漏測試條件的第二部份。</translation>
     </message>
     <message>
         <source>Main Document Only.</source>
         <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>僅主文件。</translation>
+    </message>
+    <message>
+        <source>Only main text.</source>
+        <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
+        <translation type="obsolete">僅主文件。</translation>
+    </message>
+    <message>
+        <source>Error! lack of test conditions.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
+        <translation type="obsolete">錯誤! 遺漏測試條件。</translation>
+    </message>
+    <message>
+        <source>Error! cannot recognize the condition operation code.</source>
+        <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
+        <translation type="obsolete">錯誤! 條件的操作代碼無法識別。</translation>
+    </message>
+    <message>
+        <source>Error! lack of the second part test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
+        <translation type="obsolete">錯誤! 遺漏測試條件的第二部份。</translation>
     </message>
 </context>
 <context>
@@ -340,17 +428,17 @@ Try one or more of the following:
     <message>
         <source>Error! Invalid file name.</source>
         <comment>TX_FIELD_ERR_FILENAME_NOT_EXISTED</comment>
-        <translation>错误！文件名无效。</translation>
+        <translation>錯誤! 此檔名無效。</translation>
     </message>
     <message>
         <source>Error! Include may not refer to itself.</source>
         <comment>TX_FIELD_ERR_CANNOT_INCLUDE_ITSELF</comment>
-        <translation>错误！Include 不能引用自身。</translation>
+        <translation>錯誤! 無法指定已包含的項目。</translation>
     </message>
     <message>
         <source>Fields are nested too deeply.</source>
         <comment>TX_FIELD_ERR_NESTED_TOO_MUCH</comment>
-        <translation>域嵌套太深。</translation>
+        <translation>功能變數巢狀結構過大。</translation>
     </message>
 </context>
 <context>
@@ -942,7 +1030,7 @@ Do you want to replace it?</source>
     <message>
         <source>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</source>
         <comment>TxRevision_Color_ColorNameReplacedList</comment>
-        <translation>黑色;深青綠;深藍;靛藍;藍色;淺藍;藍灰色;淺紫;灰-80%;青色;水綠色;天藍;淡藍;淺青綠;粉紅色;玫瑰紅;灰-50%;海綠;青綠;淺綠;白色;淺黃;茶色;紫蘿蘭色;灰-40%;深綠;鮮綠;黄色;金色;淺橙;紅色;梅紅;灰-25%;綠色;酸橙色;深黃色;橄欖綠;橙色;褐色;深紅:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</translation>
+        <translation type="obsolete">黑色;深青綠;深藍;靛藍;藍色;淺藍;藍灰色;淺紫;灰-80%;青色;水綠色;天藍;淡藍;淺青綠;粉紅色;玫瑰紅;灰-50%;海綠;青綠;淺綠;白色;淺黃;茶色;紫蘿蘭色;灰-40%;深綠;鮮綠;黄色;金色;淺橙;紅色;梅紅;灰-25%;綠色;酸橙色;深黃色;橄欖綠;橙色;褐色;深紅:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -2431,17 +2519,17 @@ Do you want to replace it?</source>
     <message>
         <source>The Replace With text contains a group number which is out of range.</source>
         <comment>_TxFind_MoreReplacementGroups</comment>
-        <translation>(empty)</translation>
+        <translation>[取代為] 的字串包含一組超出範圍的數字。</translation>
     </message>
     <message>
         <source>Invalid Add-In Template.</source>
         <comment>_TxAddin_InvalidAddinTemplate</comment>
-        <translation>(empty)</translation>
+        <translation>增益集範本無效。</translation>
     </message>
     <message>
         <source>Cannot Load this Add-In.</source>
         <comment>_TxAddin_CannotLoadAddIn</comment>
-        <translation>(empty)</translation>
+        <translation>WPS 無法載入此增益集程式。</translation>
     </message>
     <message>
         <source>WPS Writer cannot merge the main document with the data source, because the date record is empty or unmatched with the inquiry.</source>
@@ -2450,30 +2538,30 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
-        <translation type="unfinished"></translation>
+        <translation>此文件包含可能參照到其他檔案的連結。您是否要使用連結檔案的資料來更新此文件?</translation>
     </message>
     <message>
         <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
         <comment>_TxSaveMHTHTMLWarning</comment>
-        <translation type="unfinished">單一檔案網頁會在儲存路徑中使用字元 「!」、「#」、「%20」、「%23」、或 「%25」，並且在某些瀏覽器中可能無法正常顯示。是否要繼續?</translation>
+        <translation>單一檔案網頁會在儲存路徑中使用字元 「!」、「#」、「%20」、「%23」、或 「%25」，並且在某些瀏覽器中可能無法正常顯示。是否要繼續?</translation>
     </message>
     <message>
         <source>Do you wish to discard changes to &quot;%s&quot; and load the latest version?</source>
         <comment>TxReload_ConfirmDropChanges</comment>
-        <translation type="unfinished"></translation>
+        <translation>是否放棄對“%s”的更新並加載最新版本?</translation>
     </message>
     <message>
         <source>You cannot merge these documents because document protection is in effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>您無法合併這些文件，因為文件保護作用中。</translation>
     </message>
     <message>
         <source>One or both of the compared documents contain tracked changes. For the purpose of the comparison, WPS will consider these changes to have been accepted. Continue with the comparison?</source>
-        <translation type="unfinished"></translation>
+        <translation>進行版本比較的文件之一 (或兩者) 含有追蹤修訂。為了進行比較，WPS 會將這些修訂視為已接受。要繼續比較嗎?</translation>
     </message>
     <message>
         <source>Make office work easier</source>
         <comment>_TxDlg_EmptyStringPreview</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS 讓辦公更輕鬆</translation>
     </message>
     <message>
         <source>(no proofing)</source>
@@ -2483,30 +2571,388 @@ Do you want to replace it?</source>
     <message>
         <source>Recorded %d too much data fields.</source>
         <comment>_TxMailMerge_FieldsTooMuch</comment>
-        <translation type="unfinished"></translation>
+        <translation>記錄 %d 包含太多資料欄位。</translation>
     </message>
     <message>
         <source>Recorded %d too few data fields.</source>
         <comment>_TxMailMerge_FieldsTooFew</comment>
-        <translation type="unfinished"></translation>
+        <translation>記錄 %d 的資料欄位太少。</translation>
     </message>
     <message>
         <source>Recorded %d is empty.</source>
         <comment>_TxMailMerge_FieldsEmpty</comment>
-        <translation type="unfinished"></translation>
+        <translation>記錄 &lt;d&gt; 是空的記錄。</translation>
     </message>
     <message>
         <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
         <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation type="unfinished">WPS Writer 無法以資料來源合併主文件，因為資料記錄為空白，或沒有符合查詢選項的資料記錄。</translation>
+        <translation>WPS Writer 無法以資料來源合併主文件，因為資料記錄為空白，或沒有符合查詢選項的資料記錄。</translation>
     </message>
     <message>
         <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
         <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS 無法將 %s 開啟為一資料或欄位名稱來源，因為它是使用中的合併列印主文件。</translation>
     </message>
     <message>
         <source>You cannot compare these documents because the document contain XML Nodes</source>
+        <translation>您無法比較這些文件，因為文件中含有 Xml 節點。</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
+        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
+        <translation type="obsolete">WPS Writer 無法以資料來源合併主文件，因為資料記錄為空白，或沒有符合查詢選項的資料記錄。</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open %s as Data or Header Source, because it is an active mail merge main document.</source>
+        <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
+        <translation type="obsolete">WPS 無法將 %s 開啟為一資料或欄位名稱來源，因為它是使用中的合併列印主文件。</translation>
+    </message>
+    <message>
+        <source>Record %d contained too many data fields.</source>
+        <comment>_TxMailMerge_FieldsTooMuch</comment>
+        <translation type="obsolete">記錄 %d 包含太多資料欄位。</translation>
+    </message>
+    <message>
+        <source>Record %d contained too few data fields.</source>
+        <comment>_TxMailMerge_FieldsTooFew</comment>
+        <translation type="obsolete">記錄 %d 的資料欄位太少。</translation>
+    </message>
+    <message>
+        <source>Record %d is empty.</source>
+        <comment>_TxMailMerge_FieldsEmpty</comment>
+        <translation type="obsolete">記錄 &lt;d&gt; 是空的記錄。</translation>
+    </message>
+    <message>
+        <source>WPS Writer AaBbCc</source>
+        <translation>WPS讓辦公更輕鬆</translation>
+    </message>
+    <message>
+        <source>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red;Dark Red;Orange;Light Green;Green;Light Blue;Blue;Dark Blue;Purple;Dark1;Light1;Dark2;Light2;Accent1;Accent2;Accent3;Accent4;Accent5;Accent6;Hyperlink;FollowedHyperlink;Background1;Text1;Background2;Text2:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000;C00000;FFC000;92D050;00B050;00B0F0;0070C0;002060;7030A0;dark1;light1;dark2;light2;accent1;accent2;accent3;accent4;accent5;accent6;hyperlink;followedHyperlink;background1;text1;background2;text2</source>
+        <comment>TxRevision_Color_ColorNameReplacedList</comment>
+        <translation>黑色;深青;深蓝;靛蓝;蓝色;浅蓝;蓝-灰;浅紫;灰色-80%;青色;水绿色;天蓝;淡蓝;浅青绿;粉红;玫瑰红;灰色-50%;海绿;青绿;浅绿;白色;浅黄;茶色;紫罗兰;灰色-40%;深绿;鲜绿;黄色;金色;浅橙色;红色;梅红;灰色-25%;绿色;酸橙色;深黄;橄榄绿;橙色;褐色;深红;深红;橙色;浅绿;绿色;浅蓝;蓝色;深蓝;紫色;文字/背景1;文字/背景2;文字/背景3;文字/背景4;着色1;着色2;着色3;着色4;着色5;着色6;超链接;访问过的超链接;背景1;背景2;文字1;文字2:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000;C00000;FFC000;92D050;00B050;00B0F0;0070C0;002060;7030A0;dark1;light1;dark2;light2;accent1;accent2;accent3;accent4;accent5;accent6;hyperlink;followedHyperlink;background1;text1;background2;text2</translation>
+    </message>
+    <message>
+        <source>White</source>
+        <comment>TxRevision_Shp_Background_White</comment>
+        <translation>白色</translation>
+    </message>
+    <message>
+        <source>Text Outline</source>
+        <comment>TxRevision_Chp_TextOutline_Effect</comment>
+        <translation>文字外框</translation>
+    </message>
+    <message>
+        <source>Text Fill</source>
+        <comment>TxRevision_Chp_TextFill_Effect</comment>
+        <translation>文字填滿</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <comment>TxRevision_Chp_Glow_Effect</comment>
+        <translation>光暈</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <comment>TxRevision_Chp_Reflection_Effect</comment>
+        <translation>反射</translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <comment>TxRevision_Chp_Props3D_Effect</comment>
+        <translation>浮凸</translation>
+    </message>
+    <message>
+        <source>Click here to enter text.</source>
+        <comment>TxTextControl_HdrText</comment>
+        <translation>按一下這裡以輸入文字。</translation>
+    </message>
+    <message>
+        <source>Choose one.</source>
+        <comment>TxDropdownControl_HdrText</comment>
+        <translation>選擇一個。</translation>
+    </message>
+    <message>
+        <source>Select a building block.</source>
+        <comment>TxBuildingControl_HdrText</comment>
+        <translation>選取一個建置組塊。</translation>
+    </message>
+    <message>
+        <source>Click here to enter a date.</source>
+        <comment>TxDateControl_HdrText</comment>
+        <translation>按一下這裡以輸入日期。</translation>
+    </message>
+    <message>
+        <source>Enter to repeat any content (including other content controls). You can also insert this control around a table row to repeat part of the table.</source>
+        <comment>TxRepeatSecControl_HdrText</comment>
+        <translation>輸入要重複的任何內容，包括其他內容控制項。您也可以在表格列周圍插入此控制項，以便重複部分的表格。</translation>
+    </message>
+    <message>
+        <source>group</source>
+        <comment>TxGroupControl_Name</comment>
+        <translation>群組</translation>
+    </message>
+    <message>
+        <source>Rich text controls</source>
+        <comment>TxRichTextControl_Name</comment>
+        <translation>RTF 控制項</translation>
+    </message>
+    <message>
+        <source>Plain text controls</source>
+        <comment>TxPlainTextControl_Name</comment>
+        <translation>純文字控制項</translation>
+    </message>
+    <message>
+        <source>Picture controls</source>
+        <comment>TxPictureControl_Name</comment>
+        <translation>圖片控制項</translation>
+    </message>
+    <message>
+        <source>Document building block controls</source>
+        <comment>TxDocumentBuildingBlockControl_Name</comment>
+        <translation>文件建置組塊控制項</translation>
+    </message>
+    <message>
+        <source>Check box controls</source>
+        <comment>TxCheckboxControl_Name</comment>
+        <translation>核取方塊控制項</translation>
+    </message>
+    <message>
+        <source>Combo box controls</source>
+        <comment>TxComboboxControl_Name</comment>
+        <translation>下拉式方塊控制項</translation>
+    </message>
+    <message>
+        <source>Drop-down list controls</source>
+        <comment>TxDropDownListControl_Name</comment>
+        <translation>下拉式清單控制項</translation>
+    </message>
+    <message>
+        <source>Date picker controls</source>
+        <comment>TxDatePickerControl_Name</comment>
+        <translation>日期選擇器控制項</translation>
+    </message>
+    <message>
+        <source>Repeating section controls</source>
+        <comment>TxRepeatingSectionControl_Name</comment>
+        <translation>重複區段控制項</translation>
+    </message>
+    <message>
+        <source>%s cannot be applied here.</source>
+        <comment>TxContentControls_Add_Warning1</comment>
+        <translation>此處無法套用 %s。</translation>
+    </message>
+    <message>
+        <source>%s cannot be inserted around multiple selections.</source>
+        <comment>TxContentControls_Add_Warning2</comment>
+        <translation>無法在多重選取周圍插入 %s。</translation>
+    </message>
+    <message>
+        <source>Quick Parts</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>快速組件</translation>
+    </message>
+    <message>
+        <source>Cover Pages</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>封面</translation>
+    </message>
+    <message>
+        <source>Equations</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>方程式</translation>
+    </message>
+    <message>
+        <source>Footers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>頁尾</translation>
+    </message>
+    <message>
+        <source>Headers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>頁首</translation>
+    </message>
+    <message>
+        <source>Page Numbers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>頁碼</translation>
+    </message>
+    <message>
+        <source>Tables</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>表格</translation>
+    </message>
+    <message>
+        <source>Watermarks</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>浮水印</translation>
+    </message>
+    <message>
+        <source>AutoText</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自動圖文集</translation>
+    </message>
+    <message>
+        <source>Text Boxes</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>文字方塊</translation>
+    </message>
+    <message>
+        <source>Page Numbers (Top of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂頁碼 (頁的頂端)</translation>
+    </message>
+    <message>
+        <source>Page Numbers (Bottom of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂頁碼 (頁的底端)</translation>
+    </message>
+    <message>
+        <source>Page Numbers (Margins)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>頁碼 (邊界)</translation>
+    </message>
+    <message>
+        <source>Table of Contents</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>目錄</translation>
+    </message>
+    <message>
+        <source>Custom Quick Parts</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂快速組件</translation>
+    </message>
+    <message>
+        <source>Custom Cover Pages</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂封面頁</translation>
+    </message>
+    <message>
+        <source>Custom Equations</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂方程式</translation>
+    </message>
+    <message>
+        <source>Custom Footers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂頁尾</translation>
+    </message>
+    <message>
+        <source>Custom Headers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂頁首</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂頁碼</translation>
+    </message>
+    <message>
+        <source>Custom Tables</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂表格</translation>
+    </message>
+    <message>
+        <source>Custom Watermarks</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂浮水印</translation>
+    </message>
+    <message>
+        <source>Custom AutoText</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂自動圖文集</translation>
+    </message>
+    <message>
+        <source>Custom Text Boxes</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂文字方塊</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers (Top of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂頁碼 (頁的頂端)</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers (Bottom of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂頁碼 (頁的底端)</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers (Margins)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂頁碼 (邊界)</translation>
+    </message>
+    <message>
+        <source>Custom Table of Contents</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂目錄</translation>
+    </message>
+    <message>
+        <source>Custom 1</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂 1</translation>
+    </message>
+    <message>
+        <source>Custom 2</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂 2</translation>
+    </message>
+    <message>
+        <source>Custom 3</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂 3</translation>
+    </message>
+    <message>
+        <source>Custom 4</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂 4</translation>
+    </message>
+    <message>
+        <source>Custom 5</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂 6</translation>
+    </message>
+    <message>
+        <source>Bibliographies</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>書目</translation>
+    </message>
+    <message>
+        <source>Custom Bibliographies</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>自訂書目</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <comment>TxBBCategoryName_General</comment>
+        <translation>一般</translation>
+    </message>
+    <message>
+        <source>%s cannot be inserted around table columns.</source>
+        <comment>TxContentControls_Add_Warning3</comment>
+        <translation>無法在表格欄周圍插入 %s。</translation>
+    </message>
+    <message>
+        <source>Repeating section controls can only be inserted around entire paragraphs or rows.</source>
+        <comment>TxContentControls_Add_Warning4</comment>
+        <translation>重複區段控制項只能插入在整個段落或列的周圍。</translation>
+    </message>
+    <message>
+        <source>Picture controls cannot be inserted around a selection which contains non-image content, floating images, or more than a single inline image.</source>
+        <comment>TxContentControls_Add_Warning5</comment>
+        <translation>當選取範圍周圍含有非圖像內容、浮動圖像或超過一個以上的內嵌圖像，無法插入圖片控制項。</translation>
+    </message>
+    <message>
+        <source>%s cannot be inserted around the current selection.</source>
+        <comment>TxContentControls_Add_Warning6</comment>
+        <translation>在当前所选内容周围無法插入%s</translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <comment>TxUserInfo_DefaultUserName</comment>
+        <translation type="obsolete">未知</translation>
+    </message>
+    <message>
+        <source>Objects in this document contain links to files that cannot be found. The linked information will not be updated.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2617,7 +3063,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>You cannot put drawing objects into a text box, callout, comment, footnote, or endnote.</source>
         <comment>_TxErr_InvalidAnchorPosition</comment>
-        <translation>不可将图形对象置于文本框、标注批注、脚注或尾注中。</translation>
+        <translation>您無法將繪圖物件放入文字方塊、圖說文字、註解、註腳或章節附註中。</translation>
     </message>
     <message>
         <source>You want to paste one or more tables to a vertical textbox or frame, but the vertical text box and frame do not support tables. Therefore the tables will be deleted. Do you want to continue? </source>
@@ -2637,12 +3083,17 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>The measurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation type="unfinished"></translation>
+        <translation>度量值必須介於 -1584 點 和 1584 點 之間。</translation>
     </message>
     <message>
         <source>The measurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation type="unfinished"></translation>
+        <translation>度量值必須介於 0.5 和 600 之間。</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot turn off design mode because placeholder text in a content control contains invalid items. Placeholder text cannot contain items such as floating objects, revision marks, or content controls. Remove these items from the placeholder text and try again.</source>
+        <comment>_TxErr_InvalidPHdrText</comment>
+        <translation>WPS Writer 無法關閉設計模式，因為內容控制項的預留位置文字包含無效的項目。預留位置文字不能包含例如浮動物件、修訂標記或內容控制項等項目。請從預留位置文字移除這些項目，然後再試一次。</translation>
     </message>
 </context>
 <context>
@@ -2731,7 +3182,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPS</comment>
-        <translation>常用檔案 (*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
+        <translation type="obsolete">常用檔案 (*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
@@ -2829,7 +3280,7 @@ Please try one of the following.
     <message>
         <source>Normal.wpt</source>
         <comment>_TxDocument_NormalTemplate</comment>
-        <translation>Normal.wpt</translation>
+        <translation type="obsolete">Normal.wpt</translation>
     </message>
     <message>
         <source>Objects of the paste contents will be lost when pasting in text box, comment box, footnote and endnote.</source>
@@ -2979,7 +3430,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>builtin.wpt</source>
         <comment>_TxDocument_BuiltInTemplate</comment>
-        <translation>builtin.wpt</translation>
+        <translation type="unfinished">builtin.wpt</translation>
     </message>
     <message>
         <source>templates</source>
@@ -2989,7 +3440,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</source>
         <comment>TxExts_AllWPS</comment>
-        <translation>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</translation>
+        <translation type="obsolete">*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</translation>
     </message>
     <message>
         <source>Errors occur when WPS Writer is opening this file.
@@ -3106,12 +3557,12 @@ Type a different name for the document you want to save.
     <message>
         <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPSEx</comment>
-        <translation type="unfinished"></translation>
+        <translation>常用檔案(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
         <source>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</source>
         <comment>TxExts_AllWPSEx</comment>
-        <translation type="unfinished"></translation>
+        <translation>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</translation>
     </message>
     <message>
         <source>WPS Writer cannot open this file, because the current user does not have enough permission to access.
@@ -3161,6 +3612,28 @@ This backup will be saved to(%s)</source>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
 This backup will be saved to (%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
+        <translation>在進行文件備份時發生錯誤！可能是由於您設置的備份目錄沒有寫權限，請嘗試更改備份目錄。
+此次備份將保存到(%s)。</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</source>
+        <comment>TxDesc_AllWPS</comment>
+        <translation>常用檔案 (*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</translation>
+    </message>
+    <message>
+        <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</source>
+        <comment>TxExts_AllWPS</comment>
+        <translation>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</translation>
+    </message>
+    <message>
+        <source>Normal.dotm</source>
+        <comment>_TxDocument_NormalTemplate</comment>
+        <translation type="unfinished">Normal.dotm</translation>
+    </message>
+    <message>
+        <source>Document has been locked by %s. Do you want to open it as read-only?
+(%s)</source>
+        <comment>_TxDocument_SaveFailureLocked</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3916,7 +4389,8 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Formula</source>
         <comment>wps_FormulaDlgCaption</comment>
-        <translation>公式</translation>
+        <translation>
+公式</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -5251,22 +5725,45 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
         <comment>wps_sFinishHighlightAllNotFound</comment>
-        <translation type="unfinished">已完成搜尋「%s」，找不到搜尋目標。</translation>
+        <translation>已完成搜尋「%s」，找不到搜尋目標。</translation>
     </message>
     <message>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sValidValue</comment>
-        <translation type="unfinished">數字必須介於 %d 和 %d 之間。</translation>
+        <translation>數字必須介於 %d 和 %d 之間。</translation>
     </message>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed.</source>
         <comment>wps_sVBAMacroSecurityError</comment>
-        <translation type="unfinished"></translation>
+        <translation>調整巨集安全性時發生錯誤，可能是由於您没有安裝 VBA 環境。</translation>
     </message>
     <message>
         <source>This shortcut key already exists. Please set another key.</source>
         <comment>wps_sAppShortcutExisted</comment>
-        <translation type="unfinished"></translation>
+        <translation>應用程式已經使用此快速鍵，請設定其他的快速鍵。</translation>
+    </message>
+    <message>
+        <source>Open and activate the file Kingsoft.wps under the C drive.</source>
+        <comment>wps_sPreviewNumFormat</comment>
+        <translation type="obsolete">開啟並啟動 C 磁碟機中的 Kingsoft.wps 檔案。</translation>
+    </message>
+    <message>
+        <source>Presume set the Kingsoft variable assignment as 100 in VBA. Field code:DOCVARIABLE Kingsoft</source>
+        <comment>wps_sDocVariableExalple</comment>
+        <translation type="obsolete">假設先在 VBA 中為 Kingsoft 變數指派指定 100。功能變數代碼: DOCVARIABLE Kingsoft</translation>
+    </message>
+    <message>
+        <source>Presume the Kingsoft.wps is in C drive. Field code:HYPERLINK &quot;C:\\Kingsoft.wps&quot;</source>
+        <comment>wps_sHyperLinkExample</comment>
+        <translation type="obsolete">假設 C 磁碟機中有 Kingsoft.wps 檔案。功能變數代碼: HYPERLINK &quot;C:\\Kingsoft.wps&quot;</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
+        <translation>對某些節的頁寬而言，您所選擇的左右邊界、欄寬或段落縮排的設定都太大了。</translation>
+    </message>
+    <message>
+        <source>The objects or tables in a scalable text box will be removed. Do you want to continue?</source>
+        <translation>可縮放的文字方塊​​內不能包含物件或表格。若要設定該屬性，物件或表格將被刪除。是否繼續？</translation>
     </message>
 </context>
 <context>
@@ -5311,12 +5808,12 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>.</source>
         <comment>TxAboutCaption</comment>
-        <translation>浴火重生之 wps-v6</translation>
+        <translation type="unfinished">浴火重生之 wps-v6</translation>
     </message>
     <message>
         <source>.</source>
         <comment>TxAboutText</comment>
-        <translation>代號名稱: fenix -
+        <translation type="unfinished">代號名稱: fenix -
 A bird in Egyptian mythology that lived in the desert for 500 years and then consumed itself by fire, later to rise renewed from its ashes.
 不死鳥或長生鳥，埃及神話中的一種鳥，相傳這種鳥在沙漠中生活五百年後自焚，然後又從其灰燼中重生。</translation>
     </message>
@@ -6894,752 +7391,752 @@ Check</source>
     <message>
         <source>Table Normal</source>
         <comment>TxTableStyle_TableNormal</comment>
-        <translation type="unfinished"></translation>
+        <translation>純表格</translation>
     </message>
     <message>
         <source>Table Simple 1</source>
         <comment>TxTableStyle_TableSimple1</comment>
-        <translation type="unfinished"></translation>
+        <translation>簡單 1</translation>
     </message>
     <message>
         <source>Table Simple 2</source>
         <comment>TxTableStyle_TableSimple2</comment>
-        <translation type="unfinished"></translation>
+        <translation>簡單 2</translation>
     </message>
     <message>
         <source>Table Simple 3</source>
         <comment>TxTableStyle_TableSimple3</comment>
-        <translation type="unfinished"></translation>
+        <translation>簡單 3</translation>
     </message>
     <message>
         <source>Table Classic 1</source>
         <comment>TxTableStyle_TableClassic1</comment>
-        <translation type="unfinished"></translation>
+        <translation>傳統 1</translation>
     </message>
     <message>
         <source>Table Classic 2</source>
         <comment>TxTableStyle_TableClassic2</comment>
-        <translation type="unfinished"></translation>
+        <translation>傳統 2</translation>
     </message>
     <message>
         <source>Table Classic 3</source>
         <comment>TxTableStyle_TableClassic3</comment>
-        <translation type="unfinished"></translation>
+        <translation>傳統 3</translation>
     </message>
     <message>
         <source>Table Classic 4</source>
         <comment>TxTableStyle_TableClassic4</comment>
-        <translation type="unfinished"></translation>
+        <translation>傳統 4</translation>
     </message>
     <message>
         <source>Table Colorful 1</source>
         <comment>TxTableStyle_TableColorful1</comment>
-        <translation type="unfinished"></translation>
+        <translation>色彩 1</translation>
     </message>
     <message>
         <source>Table Colorful 2</source>
         <comment>TxTableStyle_TableColorful2</comment>
-        <translation type="unfinished"></translation>
+        <translation>色彩 2</translation>
     </message>
     <message>
         <source>Table Colorful 3</source>
         <comment>TxTableStyle_TableColorful3</comment>
-        <translation type="unfinished"></translation>
+        <translation>色彩 3</translation>
     </message>
     <message>
         <source>Table Columns 1</source>
         <comment>TxTableStyle_TableColumns1</comment>
-        <translation type="unfinished"></translation>
+        <translation>直欄 1</translation>
     </message>
     <message>
         <source>Table Columns 2</source>
         <comment>TxTableStyle_TableColumns2</comment>
-        <translation type="unfinished"></translation>
+        <translation>直欄 2</translation>
     </message>
     <message>
         <source>Table Columns 3</source>
         <comment>TxTableStyle_TableColumns3</comment>
-        <translation type="unfinished"></translation>
+        <translation>直欄 3</translation>
     </message>
     <message>
         <source>Table Columns 4</source>
         <comment>TxTableStyle_TableColumns4</comment>
-        <translation type="unfinished"></translation>
+        <translation>直欄 4</translation>
     </message>
     <message>
         <source>Table Columns 5</source>
         <comment>TxTableStyle_TableColumns5</comment>
-        <translation type="unfinished"></translation>
+        <translation>直欄 5</translation>
     </message>
     <message>
         <source>Table Grid 1</source>
         <comment>TxTableStyle_TableGrid1</comment>
-        <translation type="unfinished"></translation>
+        <translation>格線 1</translation>
     </message>
     <message>
         <source>Table Grid 2</source>
         <comment>TxTableStyle_TableGrid2</comment>
-        <translation type="unfinished"></translation>
+        <translation>格線 2</translation>
     </message>
     <message>
         <source>Table Grid 3</source>
         <comment>TxTableStyle_TableGrid3</comment>
-        <translation type="unfinished"></translation>
+        <translation>格線 3</translation>
     </message>
     <message>
         <source>Table Grid 4</source>
         <comment>TxTableStyle_TableGrid4</comment>
-        <translation type="unfinished"></translation>
+        <translation>格線 4</translation>
     </message>
     <message>
         <source>Table Grid 5</source>
         <comment>TxTableStyle_TableGrid5</comment>
-        <translation type="unfinished"></translation>
+        <translation>格線 5</translation>
     </message>
     <message>
         <source>Table Grid 6</source>
         <comment>TxTableStyle_TableGrid6</comment>
-        <translation type="unfinished"></translation>
+        <translation>格線 6</translation>
     </message>
     <message>
         <source>Table Grid 7</source>
         <comment>TxTableStyle_TableGrid7</comment>
-        <translation type="unfinished"></translation>
+        <translation>格線 7</translation>
     </message>
     <message>
         <source>Table Grid 8</source>
         <comment>TxTableStyle_TableGrid8</comment>
-        <translation type="unfinished"></translation>
+        <translation>格線 8</translation>
     </message>
     <message>
         <source>Table List 1</source>
         <comment>TxTableStyle_TableList1</comment>
-        <translation type="unfinished"></translation>
+        <translation>清單 1</translation>
     </message>
     <message>
         <source>Table List 2</source>
         <comment>TxTableStyle_TableList2</comment>
-        <translation type="unfinished"></translation>
+        <translation>清單 2</translation>
     </message>
     <message>
         <source>Table List 3</source>
         <comment>TxTableStyle_TableList3</comment>
-        <translation type="unfinished"></translation>
+        <translation>清單 3</translation>
     </message>
     <message>
         <source>Table List 4</source>
         <comment>TxTableStyle_TableList4</comment>
-        <translation type="unfinished"></translation>
+        <translation>清單 4</translation>
     </message>
     <message>
         <source>Table List 5</source>
         <comment>TxTableStyle_TableList5</comment>
-        <translation type="unfinished"></translation>
+        <translation>清單 5</translation>
     </message>
     <message>
         <source>Table List 6</source>
         <comment>TxTableStyle_TableList6</comment>
-        <translation type="unfinished"></translation>
+        <translation>清單 6</translation>
     </message>
     <message>
         <source>Table List 7</source>
         <comment>TxTableStyle_TableList7</comment>
-        <translation type="unfinished"></translation>
+        <translation>清單 7</translation>
     </message>
     <message>
         <source>Table List 8</source>
         <comment>TxTableStyle_TableList8</comment>
-        <translation type="unfinished"></translation>
+        <translation>清單 8</translation>
     </message>
     <message>
         <source>Table 3D effects 1</source>
         <comment>TxTableStyle_Table3dfx1</comment>
-        <translation type="unfinished"></translation>
+        <translation>立體效果 1</translation>
     </message>
     <message>
         <source>Table 3D effects 2</source>
         <comment>TxTableStyle_Table3dfx2</comment>
-        <translation type="unfinished"></translation>
+        <translation>立體效果 2</translation>
     </message>
     <message>
         <source>Table 3D effects 3</source>
         <comment>TxTableStyle_Table3dfx3</comment>
-        <translation type="unfinished"></translation>
+        <translation>立體效果 3</translation>
     </message>
     <message>
         <source>Table Contemporary</source>
         <comment>TxTableStyle_TableContemporary</comment>
-        <translation type="unfinished"></translation>
+        <translation>現代</translation>
     </message>
     <message>
         <source>Table Elegant</source>
         <comment>TxTableStyle_TableElegant</comment>
-        <translation type="unfinished"></translation>
+        <translation>典雅</translation>
     </message>
     <message>
         <source>Table Professional</source>
         <comment>TxTableStyle_TableProfessional</comment>
-        <translation type="unfinished"></translation>
+        <translation>專業</translation>
     </message>
     <message>
         <source>Table Subtle1</source>
         <comment>TxTableStyle_TableSubtle1</comment>
-        <translation type="unfinished"></translation>
+        <translation>區別 1</translation>
     </message>
     <message>
         <source>Table Subtle2</source>
         <comment>TxTableStyle_TableSubtle2</comment>
-        <translation type="unfinished"></translation>
+        <translation>區別 2</translation>
     </message>
     <message>
         <source>Table Web 1</source>
         <comment>TxTableStyle_TableWeb1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表格 Web 1</translation>
     </message>
     <message>
         <source>Table Web 2</source>
         <comment>TxTableStyle_TableWeb2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表格 Web 2</translation>
     </message>
     <message>
         <source>Table Web 3</source>
         <comment>TxTableStyle_TableWeb3</comment>
-        <translation type="unfinished"></translation>
+        <translation>表格 Web 3</translation>
     </message>
     <message>
         <source>Table Grid</source>
         <comment>TxTableStyle_TableGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>格線</translation>
     </message>
     <message>
         <source>Table Theme</source>
         <comment>TxTableStyle_TabelTheme</comment>
-        <translation type="unfinished"></translation>
+        <translation>表格佈景主題</translation>
     </message>
     <message>
         <source>Date/Time</source>
         <comment>TxVersion_InsDateTime</comment>
-        <translation type="unfinished">插入日期及時間</translation>
+        <translation>插入日期及時間</translation>
     </message>
     <message>
         <source>WPS Writer 2007/2010 Template(*.wptx)</source>
         <comment>TxDesc_DataSource_wptx</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer 2007/2010 範本檔案(*.wptx)</translation>
     </message>
     <message>
         <source>Light Shading</source>
         <comment>TxTableStyle_LightShading</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色網底</translation>
     </message>
     <message>
         <source>Light List</source>
         <comment>TxTableStyle_LightList</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色清單</translation>
     </message>
     <message>
         <source>Light Grid</source>
         <comment>TxTableStyle_LightGrid</comment>
-        <translation type="unfinished">細格線</translation>
+        <translation>淺色格線</translation>
     </message>
     <message>
         <source>Medium Shading 1</source>
         <comment>TxTableStyle_MediumShading1</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色網底 1</translation>
     </message>
     <message>
         <source>Medium Shading 2</source>
         <comment>TxTableStyle_MediumShading2</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色網底 2</translation>
     </message>
     <message>
         <source>Medium List 1</source>
         <comment>TxTableStyle_MediumList1</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色清單 1</translation>
     </message>
     <message>
         <source>Medium List 2</source>
         <comment>TxTableStyle_MediumList2</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色清單 2</translation>
     </message>
     <message>
         <source>Medium Grid 1</source>
         <comment>TxTableStyle_MediumGrid1</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 1</translation>
     </message>
     <message>
         <source>Medium Grid 2</source>
         <comment>TxTableStyle_MediumGrid2</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 2</translation>
     </message>
     <message>
         <source>Medium Grid 3</source>
         <comment>TxTableStyle_MediumGrid3</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 3</translation>
     </message>
     <message>
         <source>Dark List</source>
         <comment>TxTableStyle_DarkList</comment>
-        <translation type="unfinished"></translation>
+        <translation>深色清單</translation>
     </message>
     <message>
         <source>Colorful Shading</source>
         <comment>TxTableStyle_ColorfulShading</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色網底</translation>
     </message>
     <message>
         <source>Colorful List</source>
         <comment>TxTableStyle_ColorfulList</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色清單</translation>
     </message>
     <message>
         <source>Colorful Grid</source>
         <comment>TxTableStyle_ColorfulGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色格線</translation>
     </message>
     <message>
         <source>Light Shading Accent 1</source>
         <comment>TxTableStyle_LightShadingAccent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色網底 - 輔色 1</translation>
     </message>
     <message>
         <source>Light List Accent 1</source>
         <comment>TxTableStyle_LightListAccent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色清單 - 輔色 1</translation>
     </message>
     <message>
         <source>Light Grid Accent 1</source>
         <comment>TxTableStyle_LightGridAccent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色格線 - 輔色 1</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 1</source>
         <comment>TxTableStyle_MediumShading1Accent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色網底 1 - 輔色 1</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 1</source>
         <comment>TxTableStyle_MediumShading2Accent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色網底 2 - 輔色 1</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 1</source>
         <comment>TxTableStyle_MediumList1Accent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色清單 1 - 輔色 1 </translation>
     </message>
     <message>
         <source>Medium List 2 Accent 1</source>
         <comment>TxTableStyle_MediumList2Accent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色清單 2 - 輔色 1</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 1</source>
         <comment>TxTableStyle_MediumGrid1Accent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 1 - 輔色 1</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 1</source>
         <comment>TxTableStyle_MediumGrid2Accent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 2 - 輔色 1</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 1</source>
         <comment>TxTableStyle_MediumGrid3Accent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 3 - 輔色 1</translation>
     </message>
     <message>
         <source>Dark List Accent 1</source>
         <comment>TxTableStyle_DarkListAccent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>深色清單 - 輔色 1</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 1</source>
         <comment>TxTableStyle_ColorfulShadingAccent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色網底 - 輔色 1</translation>
     </message>
     <message>
         <source>Colorful List Accent 1</source>
         <comment>TxTableStyle_ColorfulListAccent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色清單 - 輔色 1</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 1</source>
         <comment>TxTableStyle_ColorfulGridAccent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色格線 - 輔色 1</translation>
     </message>
     <message>
         <source>Light Shading Accent 2</source>
         <comment>TxTableStyle_LightShadingAccent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色網底 - 輔色 2</translation>
     </message>
     <message>
         <source>Light List Accent 2</source>
         <comment>TxTableStyle_LightListAccent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色清單 - 輔色 2</translation>
     </message>
     <message>
         <source>Light Grid Accent 2</source>
         <comment>TxTableStyle_LightGridAccent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色格線 - 輔色 2</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 2</source>
         <comment>TxTableStyle_MediumShading1Accent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色網底 1 - 輔色 2</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 2</source>
         <comment>TxTableStyle_MediumShading2Accent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色網底 2 - 輔色 2</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 2</source>
         <comment>TxTableStyle_MediumList1Accent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色清單 1 - 輔色 2</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 2</source>
         <comment>TxTableStyle_MediumList2Accent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色清單 2 - 輔色 2</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 2</source>
         <comment>TxTableStyle_MediumGrid1Accent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 1 - 輔色 2</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 2</source>
         <comment>TxTableStyle_MediumGrid2Accent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 2 - 輔色 2</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 2</source>
         <comment>TxTableStyle_MediumGrid3Accent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 3 - 輔色 2</translation>
     </message>
     <message>
         <source>Dark List Accent 2</source>
         <comment>TxTableStyle_DarkListAccent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>深色清單 - 輔色 2</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 2</source>
         <comment>TxTableStyle_ColorfulShadingAccent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色網底 - 輔色 2</translation>
     </message>
     <message>
         <source>Colorful List Accent 2</source>
         <comment>TxTableStyle_ColorfulListAccent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色清單 - 輔色 2</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 2</source>
         <comment>TxTableStyle_ColorfulGridAccent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色格線 - 輔色 2</translation>
     </message>
     <message>
         <source>Light Shading Accent 3</source>
         <comment>TxTableStyle_LightShadingAccent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色網底 - 輔色 3</translation>
     </message>
     <message>
         <source>Light List Accent 3</source>
         <comment>TxTableStyle_LightListAccent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色清單 - 輔色 3</translation>
     </message>
     <message>
         <source>Light Grid Accent 3</source>
         <comment>TxTableStyle_LightGridAccent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色格線 - 輔色 3</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 3</source>
         <comment>TxTableStyle_MediumShading1Accent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色網底 1 - 輔色 3</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 3</source>
         <comment>TxTableStyle_MediumShading2Accent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色網底 2 - 輔色 3</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 3</source>
         <comment>TxTableStyle_MediumList1Accent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色清單 1 - 輔色 3</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 3</source>
         <comment>TxTableStyle_MediumList2Accent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色清單 2 - 輔色 3</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 3</source>
         <comment>TxTableStyle_MediumGrid1Accent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 1 - 輔色 3</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 3</source>
         <comment>TxTableStyle_MediumGrid2Accent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 2 - 輔色 3</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 3</source>
         <comment>TxTableStyle_MediumGrid3Accent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 3 - 輔色 3</translation>
     </message>
     <message>
         <source>Dark List Accent 3</source>
         <comment>TxTableStyle_DarkListAccent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>深色清單 - 輔色 3</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 3</source>
         <comment>TxTableStyle_ColorfulShadingAccent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色網底 - 輔色 3</translation>
     </message>
     <message>
         <source>Colorful List Accent 3</source>
         <comment>TxTableStyle_ColorfulListAccent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色清單 - 輔色 3</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 3</source>
         <comment>TxTableStyle_ColorfulGridAccent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色格線 - 輔色 3</translation>
     </message>
     <message>
         <source>Light Shading Accent 4</source>
         <comment>TxTableStyle_LightShadingAccent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色網底 - 輔色 4</translation>
     </message>
     <message>
         <source>Light List Accent 4</source>
         <comment>TxTableStyle_LightListAccent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色清單 - 輔色 4</translation>
     </message>
     <message>
         <source>Light Grid Accent 4</source>
         <comment>TxTableStyle_LightGridAccent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色格線 - 輔色 4</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 4</source>
         <comment>TxTableStyle_MediumShading1Accent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色網底 1 - 輔色 4</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 4</source>
         <comment>TxTableStyle_MediumShading2Accent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色網底 2 - 輔色 4</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 4</source>
         <comment>TxTableStyle_MediumList1Accent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色清單 1 - 輔色 4</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 4</source>
         <comment>TxTableStyle_MediumList2Accent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色清單 2 - 輔色 4</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 4</source>
         <comment>TxTableStyle_MediumGrid1Accent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 1 - 輔色 4</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 4</source>
         <comment>TxTableStyle_MediumGrid2Accent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 2 - 輔色 4</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 4</source>
         <comment>TxTableStyle_MediumGrid3Accent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 3 - 輔色 4</translation>
     </message>
     <message>
         <source>Dark List Accent 4</source>
         <comment>TxTableStyle_DarkListAccent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>深色清單 - 輔色 4</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 4</source>
         <comment>TxTableStyle_ColorfulShadingAccent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色網底 - 輔色 4</translation>
     </message>
     <message>
         <source>Colorful List Accent 4</source>
         <comment>TxTableStyle_ColorfulListAccent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色清單 - 輔色 4</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 4</source>
         <comment>TxTableStyle_ColorfulGridAccent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色格線 - 輔色 4</translation>
     </message>
     <message>
         <source>Light Shading Accent 5</source>
         <comment>TxTableStyle_LightShadingAccent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色網底 - 輔色 5</translation>
     </message>
     <message>
         <source>Light List Accent 5</source>
         <comment>TxTableStyle_LightListAccent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色清單 - 輔色 5</translation>
     </message>
     <message>
         <source>Light Grid Accent 5</source>
         <comment>TxTableStyle_LightGridAccent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色格線 - 輔色 5</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 5</source>
         <comment>TxTableStyle_MediumShading1Accent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色網底 1 - 輔色 5</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 5</source>
         <comment>TxTableStyle_MediumShading2Accent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色網底 2 - 輔色 5</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 5</source>
         <comment>TxTableStyle_MediumList1Accent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色清單 1 - 輔色 5</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 5</source>
         <comment>TxTableStyle_MediumList2Accent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色清單 2 - 輔色 5</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 5</source>
         <comment>TxTableStyle_MediumGrid1Accent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 1 - 輔色 5</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 5</source>
         <comment>TxTableStyle_MediumGrid2Accent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 2 - 輔色 5</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 5</source>
         <comment>TxTableStyle_MediumGrid3Accent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 3 - 輔色 5</translation>
     </message>
     <message>
         <source>Dark List Accent 5</source>
         <comment>TxTableStyle_DarkListAccent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>深色清單 - 輔色 5</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 5</source>
         <comment>TxTableStyle_ColorfulShadingAccent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色網底 - 輔色 5</translation>
     </message>
     <message>
         <source>Colorful List Accent 5</source>
         <comment>TxTableStyle_ColorfulListAccent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色清單 - 輔色 5</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 5</source>
         <comment>TxTableStyle_ColorfulGridAccent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色格線 - 輔色 5</translation>
     </message>
     <message>
         <source>Light Shading Accent 6</source>
         <comment>TxTableStyle_LightShadingAccent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色網底 - 輔色 6</translation>
     </message>
     <message>
         <source>Light List Accent 6</source>
         <comment>TxTableStyle_LightListAccent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色清單 - 輔色 6</translation>
     </message>
     <message>
         <source>Light Grid Accent 6</source>
         <comment>TxTableStyle_LightGridAccent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>淺色格線 - 輔色 6</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 6</source>
         <comment>TxTableStyle_MediumShading1Accent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色網底 1 - 輔色 6</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 6</source>
         <comment>TxTableStyle_MediumShading2Accent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色網底 2 - 輔色 6</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 6</source>
         <comment>TxTableStyle_MediumList1Accent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色清單 1 - 輔色 6</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 6</source>
         <comment>TxTableStyle_MediumList2Accent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色清單 2 - 輔色 6</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 6</source>
         <comment>TxTableStyle_MediumGrid1Accent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 1 - 輔色 6</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 6</source>
         <comment>TxTableStyle_MediumGrid2Accent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 2 - 輔色 6</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 6</source>
         <comment>TxTableStyle_MediumGrid3Accent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗色格線 3 - 輔色 6</translation>
     </message>
     <message>
         <source>Dark List Accent 6</source>
         <comment>TxTableStyle_DarkListAccent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>深色清單 - 輔色 6</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 6</source>
         <comment>TxTableStyle_ColorfulShadingAccent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色網底 - 輔色 6</translation>
     </message>
     <message>
         <source>Colorful List Accent 6</source>
         <comment>TxTableStyle_ColorfulListAccent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色清單 - 輔色 6</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 6</source>
         <comment>TxTableStyle_ColorfulGridAccent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>彩色格線 - 輔色 6</translation>
     </message>
     <message>
         <source>AutoFit to Content</source>
         <comment>TxVersion_AutoFitContent</comment>
-        <translation type="unfinished"></translation>
+        <translation>自動調整成內容大小</translation>
     </message>
     <message>
         <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
         <comment>TxDesc_DataSource_AllDataSource</comment>
-        <translation type="unfinished"></translation>
+        <translation>所有資料來源(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
     </message>
     <message>
         <source>Word Documents(*.docx; *.doc; *.docm) | *.docx; *.doc; *.docm; |</source>
         <comment>TxDesc_DataSource_doc</comment>
-        <translation type="unfinished"></translation>
+        <translation>Word 文件(*.docx; *.doc; *.docm) | *.docx; *.doc; *.docm; |</translation>
     </message>
     <message>
         <source>All Word Documents(*.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html) | *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html; |</source>
         <comment>TxDesc_DataSource_alldoc</comment>
-        <translation type="unfinished"></translation>
+        <translation>所有Word 文件(*.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html) | *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html; |</translation>
     </message>
     <message>
         <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt |</source>
         <comment>TxDesc_DataSource_allwps</comment>
-        <translation type="unfinished"></translation>
+        <translation>所有 WPS Writer 文件(*.wps; *.wpt) | *.wps; *.wpt |</translation>
     </message>
     <message>
         <source>Insert DocumentField</source>
@@ -7649,7 +8146,72 @@ Check</source>
     <message>
         <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
-        <translation type="unfinished"></translation>
+        <translation>Outlook 個人通訊錄(*.pab) | *.pab; |</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
+        <comment>TxDesc_DataSource_wptx</comment>
+        <translation type="obsolete">WPS Writer 2007/2010 範本檔案(*.wptx)</translation>
+    </message>
+    <message>
+        <source>PDF Files(*.pdf) | *.pdf; |</source>
+        <comment>TxDesc_DataSource_pdf</comment>
+        <translation>PDF 檔案(*.pdf) | *.pdf; |</translation>
+    </message>
+    <message>
+        <source>The linked file is not available.</source>
+        <comment>TxTableStyle_UnavailableChartLinkPath</comment>
+        <translation type="obsolete">連結的檔案無法使用。</translation>
+    </message>
+    <message>
+        <source>The target text box is different format than your current text box. You can only link text boxes that are the same format.</source>
+        <comment>TxMessage_CreateTextboxLinkError5</comment>
+        <translation>目的地文字方塊的格式跟您目前的文字方塊不同。您只能連結格式相同的文字方塊。</translation>
+    </message>
+    <message>
+        <source>Set AutoShape Defaults</source>
+        <comment>TxCaption_ShapeAutoShapeDefaults</comment>
+        <translation>設定為快取圖案預設值</translation>
+    </message>
+    <message>
+        <source>Set as Default Shape</source>
+        <comment>TxCaption_DmlShapeAutoShapeDefaults</comment>
+        <translation>設定為預設圖案</translation>
+    </message>
+    <message>
+        <source>Set as Default Text Box</source>
+        <comment>TxCaption_DmlTextboxAutoShapeDefaults</comment>
+        <translation>設定為預設文字方塊</translation>
+    </message>
+    <message>
+        <source>InsertBefore</source>
+        <comment>TxCaption_ContentControlInsertBefore</comment>
+        <translation>插在前面</translation>
+    </message>
+    <message>
+        <source>InsertAfter</source>
+        <comment>TxCaption_ContentControlInsertAfter</comment>
+        <translation>插在後面</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <comment>TxCaption_ContentControlDelete</comment>
+        <translation>刪除</translation>
+    </message>
+    <message>
+        <source>Item</source>
+        <comment>TxCaption_ContentControlItem</comment>
+        <translation>項目</translation>
+    </message>
+    <message>
+        <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
+        <comment>TxError_EditChartDataSource</comment>
+        <translation>圖表資料格已在 [%s] 中開啟。若要插入新圖表，您必須先將其關閉。</translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>TxCaption_NoSynonymsSuggestions</comment>
+        <translation type="obsolete">(無同義字建議)</translation>
     </message>
 </context>
 </TS>

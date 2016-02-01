@@ -6,52 +6,52 @@
     <name>KLiveService</name>
     <message>
         <source>Please install Klive manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installieren Sie Klive manuell.</translation>
     </message>
     <message>
         <source>Please sign in Klive manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Melden Sie sich manuell bei Klive an.</translation>
     </message>
 </context>
 <context>
     <name>KWppOnlineTemplate</name>
     <message>
         <source>Blank Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Leeres Design</translation>
     </message>
 </context>
 <context>
     <name>KxTpOnlineTemplateWidget</name>
     <message>
         <source>Local Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokale Vorlagen</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Online-Vorlagen</translation>
     </message>
     <message>
         <source>Using Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorlage wird verwendet</translation>
     </message>
     <message>
         <source>My Favorite</source>
-        <translation type="unfinished"></translation>
+        <translation>Mein Favorit</translation>
     </message>
 </context>
 <context>
     <name>QApplication</name>
     <message>
         <source>\WPS Office\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\WPS Office\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\WPS Office\Office Space\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\WPS Office\Office Space\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\WPS Office\Office Space\My Templates\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\WPS Office\Office Space\My Templates\Desktop.ini name.</translation>
     </message>
 </context>
 </TS>

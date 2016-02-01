@@ -6,47 +6,83 @@
     <name>field_parser_index</name>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished">記号と特殊文字の挿入</translation>
+        <translation>記号と特殊文字</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>引く</translation>
     </message>
     <message>
         <source>Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>中国語</translation>
     </message>
     <message>
         <source>Alphanumeric</source>
-        <translation type="unfinished"></translation>
+        <translation>英語文字</translation>
     </message>
     <message>
         <source>Error. Index not allowed in footnote, endnote, header, footer, or comment.</source>
-        <translation type="unfinished"></translation>
+        <translation>エラー：索引には脚注、文末脚注、ヘッダー・フッター、コメント、テキストボックスを使用できません。</translation>
     </message>
     <message>
         <source>Error. Not a valid bookmark in entry on page .</source>
-        <translation type="unfinished"></translation>
+        <translation>エラー!スイッチパラメータが認識されていません</translation>
     </message>
     <message>
         <source>Error. No index entries found.</source>
-        <translation type="unfinished"></translation>
+        <translation>ストローク</translation>
     </message>
     <message>
         <source>Error. Not a valid range of characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>中国語</translation>
     </message>
     <message>
         <source>Error. Switch argument not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>エラー!範囲は正しくありません</translation>
     </message>
     <message>
         <source>Error. Unknown switch argument.</source>
-        <translation type="unfinished"></translation>
+        <translation>エラー!脚注、文末脚注、ヘッダー・フッター、コメントにインデックスを許可しません。</translation>
     </message>
     <message>
         <source>WPS Writer cannot update Index.</source>
-        <translation type="unfinished"></translation>
+        <translation>インデックスが更新できません</translation>
+    </message>
+    <message>
+        <source>Alphabet</source>
+        <translation type="obsolete">アルファベット</translation>
+    </message>
+    <message>
+        <source>Error! Index not allowed in footnote, endnote, header, footer, comment, or text box.</source>
+        <translation type="obsolete">エラー！ インデックスでは脚注、文末脚注、ヘッダー・フッター、コメント、テキストボックスを使用できません。</translation>
+    </message>
+    <message>
+        <source>Error!Bookmark the page of an invalid.</source>
+        <translation type="obsolete">エラー！無効なページのブックマークです。</translation>
+    </message>
+    <message>
+        <source>Error!Can not find xe.</source>
+        <translation type="obsolete">エラー！検索項目が見つかりませんでした</translation>
+    </message>
+    <message>
+        <source>Error!Is not a valid character range.</source>
+        <translation type="obsolete">エラー！ 文字の範囲が無効です。</translation>
+    </message>
+    <message>
+        <source>Error!Switch parameter is not specified.</source>
+        <translation type="obsolete">エラー！ スイッチパラメータが指定されていません。</translation>
+    </message>
+    <message>
+        <source>Error!Switch parameter unrecognizable.</source>
+        <translation type="obsolete">エラー！スイッチパラメータが認識されていません。</translation>
+    </message>
+</context>
+<context>
+    <name>io_string</name>
+    <message>
+        <source>Author</source>
+        <comment>IO_String_Author</comment>
+        <translation>作者</translation>
     </message>
 </context>
 <context>
@@ -171,6 +207,37 @@ Try one or more of the following:
 3. Make sure that the source file is in the appropriate directory.
 4. Make sure that the source file&apos;s format is supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation>Kingsoft Writer はソースファイルを更新する時にエラーが発生しました。
+以下のいずれかの操作をお試しください。
+
+1.　ソースファイルが開いているか、他のプログラムで使用されていないか確認してください。
+2.　ソースファイルは保護されているかどうか確認してください。
+3.　ソースファイルの保存先が正しいかどうか確認してください。
+4.　ソースファイルがKingsoft Writerに対応する形式であるか確認してください。</translation>
+    </message>
+    <message>
+        <source>Error! Number cannot be represented in specified format.</source>
+        <comment>TX_FIELD_ERR_NUM_CANNOT_BE_SPECIFIED_FORMAT</comment>
+        <translation>エラー：数字は指定された書式で表示することができません。</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1、Check whether the source file has been opened or occupied by other programs.
+2、Check whether the source file is protected.
+3、Ensure that the source file is in the appropriate directory.
+4、Ensure that the source file can be supported by WPS.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation type="obsolete">Kingsoft Writer上でエラーが発生しました。ソース・ファイルをアップデートし、以下の操作をお試しください。
+1.　ソースファイルが開いているか、他のプログラムで使用されているかどうか確認してください。
+2.　ソースファイルが保護されているかどうかご確認ください。
+3.　ソースファイルが特定のフォルダに存在するかどうかご確認ください。
+4.　ソースファイルがKingsoft Writerがサポートしているファイル形式かどうかご確認ください。
+</translation>
+    </message>
+    <message>
+        <source>Error! The style has no specified text.</source>
+        <comment>TX_FIELD_ERR_STYLE_NO_SPECIFIED_STYLE_TEXT</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -224,22 +291,42 @@ Try one or more of the following:
     <message>
         <source>Error. Unknown op code for conditional.</source>
         <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
-        <translation type="unfinished"></translation>
+        <translation>メインドキュメントだけ</translation>
     </message>
     <message>
         <source>Error. Missing test condition.</source>
         <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
-        <translation type="unfinished"></translation>
+        <translation>エラー!検証条件が不足です</translation>
     </message>
     <message>
         <source>Error. Missing second part of test condition.</source>
         <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
-        <translation type="unfinished"></translation>
+        <translation>エラーr!認識されていない操作条件です。</translation>
     </message>
     <message>
         <source>Main Document Only.</source>
         <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>エラー!検証条件の第二分がありません。</translation>
+    </message>
+    <message>
+        <source>Error! cannot recognize the condition operation code.</source>
+        <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
+        <translation type="obsolete">エラー！ 認識されていない操作条件です。</translation>
+    </message>
+    <message>
+        <source>Error! lack of test conditions.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
+        <translation type="obsolete">エラー！検証条件が不足しています。</translation>
+    </message>
+    <message>
+        <source>Error! lack of the second part test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
+        <translation type="obsolete">エラー！ 検証条件の第二項目が不足しています。</translation>
+    </message>
+    <message>
+        <source>Only main text.</source>
+        <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
+        <translation type="obsolete">メイン文書のみ</translation>
     </message>
 </context>
 <context>
@@ -940,7 +1027,7 @@ Do you want to replace it?</source>
     <message>
         <source>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</source>
         <comment>TxRevision_Color_ColorNameReplacedList</comment>
-        <translation>黒;濃い緑;濃い青;濃い青緑;ブルー;薄い青;ブール-グレー;薄い紫;灰色ー80%;青緑;アクア;スカイブルー;ペールブルー;薄い水色;ピンク;ローズ;灰色ー50%;シーグリーン;水色;薄い緑;白;薄い黄;ベージュ;紫;灰色-40%;濃い緑;明るい緑;黄;ゴールド;薄いオレンジ;赤;プラム;灰色-25%;緑;ライム;濃い黄;オリーブ;オレンジ;茶;濃い赤:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</translation>
+        <translation type="obsolete">黒;濃い緑;濃い青;濃い青緑;ブルー;薄い青;ブール-グレー;薄い紫;灰色ー80%;青緑;アクア;スカイブルー;ペールブルー;薄い水色;ピンク;ローズ;灰色ー50%;シーグリーン;水色;薄い緑;白;薄い黄;ベージュ;紫;灰色-40%;濃い緑;明るい緑;黄;ゴールド;薄いオレンジ;赤;プラム;灰色-25%;緑;ライム;濃い黄;オリーブ;オレンジ;茶;濃い赤:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -2443,63 +2530,444 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>ファイル内のリンクに別のファイルが参照される可能性があります。リンクされたファイルからこのファイルを更新しますか？</translatorcomment>
+        <translation>この文書は外部ファイルへのリンクを含んでいます。リンクされたファイルからこのファイルを更新しますか？</translation>
     </message>
     <message>
         <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
         <comment>_TxSaveMHTHTMLWarning</comment>
-        <translation type="unfinished">パスの中に“!”、“#”、“%20”、“%23”、“%25”などが含まれている“単一のホームページ”について、ブラウザによっては正しく表示できないことがあります。,続行しますか？</translation>
+        <translation>パスの中に “!”、“#”、“%20”、“%23”、“%25”などが含まれている“単一のホームページ”について、ブラウザによっては正しく表示できないことがあります。,続行しますか？</translation>
     </message>
     <message>
         <source>Do you wish to discard changes to &quot;%s&quot; and load the latest version?</source>
         <comment>TxReload_ConfirmDropChanges</comment>
-        <translation type="unfinished"></translation>
+        <translation>「%s」に対する変更を破棄し、最新バージョンを読み込みますか？</translation>
     </message>
     <message>
         <source>You cannot merge these documents because document protection is in effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルが保護されているため、結合できません。</translation>
     </message>
     <message>
         <source>One or both of the compared documents contain tracked changes. For the purpose of the comparison, WPS will consider these changes to have been accepted. Continue with the comparison?</source>
-        <translation type="unfinished"></translation>
+        <translation>比較対象の一方または両方の文書に変更履歴が含まれています。文書を比較するためには、これらの変更履歴は承諾されたものと見なします。文書の比較を続けますか？</translation>
     </message>
     <message>
         <source>Make office work easier</source>
         <comment>_TxDlg_EmptyStringPreview</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Officeは事務処理をより簡単にします</translation>
     </message>
     <message>
         <source>(no proofing)</source>
         <comment>TxLanguage_NoProofing</comment>
-        <translation type="unfinished"></translation>
+        <translation>(校正しない)</translation>
     </message>
     <message>
         <source>Recorded %d too much data fields.</source>
         <comment>_TxMailMerge_FieldsTooMuch</comment>
-        <translation type="unfinished"></translation>
+        <translation>%dはデータフィールドが多すぎます</translation>
     </message>
     <message>
         <source>Recorded %d too few data fields.</source>
         <comment>_TxMailMerge_FieldsTooFew</comment>
-        <translation type="unfinished"></translation>
+        <translation>%dはデータフィールドが少なすぎます</translation>
     </message>
     <message>
         <source>Recorded %d is empty.</source>
         <comment>_TxMailMerge_FieldsEmpty</comment>
-        <translation type="unfinished"></translation>
+        <translation> %dは空白のレコードです</translation>
     </message>
     <message>
         <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
         <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation type="unfinished">データがない、あるいは検索文字列と一致するデータがないため、データソースで文書を組み合わせることができません。</translation>
+        <translation>データがない、あるいは検索文字列と一致するデータがないため、データソースで文書を組み合わせることができません。</translation>
     </message>
     <message>
         <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
         <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Kingsoft Writerは %sをデータまたはヘッダーのソースとして開くことができません。当該ファイルは差し込み印刷が機能しているためです。</translatorcomment>
+        <translation>Kingsoft Writerは、ファイル内に差し込みが行われているため %sをデータやヘッダーのソースとして開くことができません。</translation>
     </message>
     <message>
         <source>You cannot compare these documents because the document contain XML Nodes</source>
+        <translation>文書に XMLノードが含まれているため、これらの文書を比較できません。</translation>
+    </message>
+    <message>
+        <source>%s cannot be applied here.</source>
+        <comment>TxContentControls_Add_Warning1</comment>
+        <translation>%s はここに適用できません。</translation>
+    </message>
+    <message>
+        <source>%s cannot be inserted around multiple selections.</source>
+        <comment>TxContentControls_Add_Warning2</comment>
+        <translation>複数選択範囲に %sを挿入できません</translation>
+    </message>
+    <message>
+        <source>%s cannot be inserted around table columns.</source>
+        <comment>TxContentControls_Add_Warning3</comment>
+        <translation>表の列に %sを挿入できません。</translation>
+    </message>
+    <message>
+        <source>%s cannot be inserted around the current selection.</source>
+        <comment>TxContentControls_Add_Warning6</comment>
+        <translation>現在の選択範囲に %sを挿入できません。</translation>
+    </message>
+    <message>
+        <source>Are you sure to discard the changes made to &quot;%s&quot; and load the latest version?</source>
+        <comment>TxReload_ConfirmDropChanges</comment>
+        <translatorcomment>「%s」に対して更新を廃棄しますか？</translatorcomment>
+        <translation type="obsolete">「%s」に対する変更を破棄し、最新バージョンを読み込みますか？</translation>
+    </message>
+    <message>
+        <source>AutoText</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>定型句</translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <comment>TxRevision_Chp_Props3D_Effect</comment>
+        <translation>面取り</translation>
+    </message>
+    <message>
+        <source>Bibliographies</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>文献目録</translation>
+    </message>
+    <message>
+        <source>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red;Dark Red;Orange;Light Green;Green;Light Blue;Blue;Dark Blue;Purple;Dark1;Light1;Dark2;Light2;Accent1;Accent2;Accent3;Accent4;Accent5;Accent6;Hyperlink;FollowedHyperlink;Background1;Text1;Background2;Text2:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000;C00000;FFC000;92D050;00B050;00B0F0;0070C0;002060;7030A0;dark1;light1;dark2;light2;accent1;accent2;accent3;accent4;accent5;accent6;hyperlink;followedHyperlink;background1;text1;background2;text2</source>
+        <comment>TxRevision_Color_ColorNameReplacedList</comment>
+        <translation>黒;濃い緑;濃い青;濃い青緑;ブルー;薄い青;ブール-グレー;薄い紫;灰色ー80%;青緑;アクア;スカイブルー;ペールブルー;薄い水色;ピンク;ローズ;灰色ー50%;シーグリーン;水色;薄い緑;白;薄い黄;ベージュ;紫;灰色-40%;濃い緑;明るい緑;黄;ゴールド;薄いオレンジ;赤;プラム;灰色-25%;緑;ライム;濃い黄;オリーブ;オレンジ;茶;濃い赤;オレンジ;薄いミドリ;ミドリ;薄い青;青;濃い青;紫;文字/背景1;文字/背景2;文字/背景3;着色1;着色2;着色3;着色4;着色5;着色6;ハイパーリンク;アクセスしたハイパーリンク;背景1;背景2;文字1;文字2;000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000;C00000;FFC000;92D050;00B050;00B0F0;0070C0;002060;7030A0;dark1;light1;dark2;light2;accent1;accent2;accent3;accent4;accent5;accent6;hyperlink;followedHyperlink;background1;text1;background2;text2</translation>
+    </message>
+    <message>
+        <source>Check box controls</source>
+        <comment>TxCheckboxControl_Name</comment>
+        <translation>チェックボックスのコントロール</translation>
+    </message>
+    <message>
+        <source>Choose one.</source>
+        <comment>TxDropdownControl_HdrText</comment>
+        <translation>1つ選択</translation>
+    </message>
+    <message>
+        <source>Click here to enter a date.</source>
+        <comment>TxDateControl_HdrText</comment>
+        <translation>クリックして日付を入力</translation>
+    </message>
+    <message>
+        <source>Click here to enter text.</source>
+        <comment>TxTextControl_HdrText</comment>
+        <translation>クリックして文字を入力</translation>
+    </message>
+    <message>
+        <source>Combo box controls</source>
+        <comment>TxComboboxControl_Name</comment>
+        <translation>コンポボックスのコントロール</translation>
+    </message>
+    <message>
+        <source>Cover Pages</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>表紙</translation>
+    </message>
+    <message>
+        <source>Custom 1</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定 1</translation>
+    </message>
+    <message>
+        <source>Custom 2</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定 2</translation>
+    </message>
+    <message>
+        <source>Custom 3</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定 3</translation>
+    </message>
+    <message>
+        <source>Custom 4</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定 4</translation>
+    </message>
+    <message>
+        <source>Custom 5</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定 5</translation>
+    </message>
+    <message>
+        <source>Custom AutoText</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定定型句</translation>
+    </message>
+    <message>
+        <source>Custom Bibliographies</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定文献目録</translation>
+    </message>
+    <message>
+        <source>Custom Cover Pages</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定の表紙</translation>
+    </message>
+    <message>
+        <source>Custom Equations</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定の数式</translation>
+    </message>
+    <message>
+        <source>Custom Footers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定のフッター</translation>
+    </message>
+    <message>
+        <source>Custom Headers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定のヘッダー</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定のベージ番号</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers (Bottom of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定のページ番号(ページの下部)</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers (Margins)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定のページ番号(余白)</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers (Top of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定のページ番号(ページの上部)</translation>
+    </message>
+    <message>
+        <source>Custom Quick Parts</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定のクイックパーツ</translation>
+    </message>
+    <message>
+        <source>Custom Table of Contents</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定の目次</translation>
+    </message>
+    <message>
+        <source>Custom Tables</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定の表</translation>
+    </message>
+    <message>
+        <source>Custom Text Boxes</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定のテキストボックス</translation>
+    </message>
+    <message>
+        <source>Custom Watermarks</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ユーザー設定の透かし</translation>
+    </message>
+    <message>
+        <source>Date picker controls</source>
+        <comment>TxDatePickerControl_Name</comment>
+        <translation>日付選択コントロール</translation>
+    </message>
+    <message>
+        <source>Document building block controls</source>
+        <comment>TxDocumentBuildingBlockControl_Name</comment>
+        <translation>文書作成ブロックコントロール</translation>
+    </message>
+    <message>
+        <source>Document is under protected, can not be merged</source>
+        <translation type="obsolete">ドキュメントが保護されているため、結合することができません。</translation>
+    </message>
+    <message>
+        <source>Drop-down list controls</source>
+        <comment>TxDropDownListControl_Name</comment>
+        <translation>ドロップダウンロードリストコントロール</translation>
+    </message>
+    <message>
+        <source>Enter to repeat any content (including other content controls). You can also insert this control around a table row to repeat part of the table.</source>
+        <comment>TxRepeatSecControl_HdrText</comment>
+        <translation>繰り返す内容を入力してください（その他のコンテンツコントロールを含む)。表の一部を繰り返す表の行の回りにこのコントロールを挿入することができます。</translation>
+    </message>
+    <message>
+        <source>Equations</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>数式</translation>
+    </message>
+    <message>
+        <source>Footers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>フッター</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <comment>TxBBCategoryName_General</comment>
+        <translation>標準</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <comment>TxRevision_Chp_Glow_Effect</comment>
+        <translation>光彩</translation>
+    </message>
+    <message>
+        <source>Headers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ヘッダー</translation>
+    </message>
+    <message>
+        <source>Page Numbers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ページ番号の挿入</translation>
+    </message>
+    <message>
+        <source>Page Numbers (Bottom of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ページ番号(ページの下部)</translation>
+    </message>
+    <message>
+        <source>Page Numbers (Margins)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ページ番号(余白)</translation>
+    </message>
+    <message>
+        <source>Page Numbers (Top of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ページ番号(ページの上部)</translation>
+    </message>
+    <message>
+        <source>Picture controls</source>
+        <comment>TxPictureControl_Name</comment>
+        <translation>画像コントロール</translation>
+    </message>
+    <message>
+        <source>Picture controls cannot be inserted around a selection which contains non-image content, floating images, or more than a single inline image.</source>
+        <comment>TxContentControls_Add_Warning5</comment>
+        <translatorcomment>画像コンテンツではない、フローティングイメージまたは複数の埋め込み画像を含める内容に画像コンテンツコントロールを挿入できません。</translatorcomment>
+        <translation>非画像コンテンツや浮動画像、埋め込み画像を含む選択範囲に画像コントロールを挿入できません。</translation>
+    </message>
+    <message>
+        <source>Plain text controls</source>
+        <comment>TxPlainTextControl_Name</comment>
+        <translation>テキスト形式コントロール</translation>
+    </message>
+    <message>
+        <source>Quick Parts</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>クイックパーツ</translation>
+    </message>
+    <message>
+        <source>Record %d contained too few data fields.</source>
+        <comment>_TxMailMerge_FieldsTooFew</comment>
+        <translation type="obsolete">%d はデータフィールドが少なすぎます。</translation>
+    </message>
+    <message>
+        <source>Record %d contained too many data fields.</source>
+        <comment>_TxMailMerge_FieldsTooMuch</comment>
+        <translation type="obsolete">%d はデータフィールドが多すぎます。</translation>
+    </message>
+    <message>
+        <source>Record %d is empty.</source>
+        <comment>_TxMailMerge_FieldsEmpty</comment>
+        <translation type="obsolete">%d は空白のレコードです。</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <comment>TxRevision_Chp_Reflection_Effect</comment>
+        <translation>反射</translation>
+    </message>
+    <message>
+        <source>Repeating section controls</source>
+        <comment>TxRepeatingSectionControl_Name</comment>
+        <translation>セクションコントロールの繰り返し</translation>
+    </message>
+    <message>
+        <source>Repeating section controls can only be inserted around entire paragraphs or rows.</source>
+        <comment>TxContentControls_Add_Warning4</comment>
+        <translation>セクションコントロールの繰り返しは、段落全体や行の周辺に挿入できます。</translation>
+    </message>
+    <message>
+        <source>Rich text controls</source>
+        <comment>TxRichTextControl_Name</comment>
+        <translation>RTFコントロール</translation>
+    </message>
+    <message>
+        <source>Select a building block.</source>
+        <comment>TxBuildingControl_HdrText</comment>
+        <translation>ビルディングブロックを選択してください。</translation>
+    </message>
+    <message>
+        <source>Table of Contents</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>目次</translation>
+    </message>
+    <message>
+        <source>Tables</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>表</translation>
+    </message>
+    <message>
+        <source>Text Boxes</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>テクストボックス</translation>
+    </message>
+    <message>
+        <source>Text Fill</source>
+        <comment>TxRevision_Chp_TextFill_Effect</comment>
+        <translation>塗りつぶし</translation>
+    </message>
+    <message>
+        <source>Text Outline</source>
+        <comment>TxRevision_Chp_TextOutline_Effect</comment>
+        <translation>輪郭</translation>
+    </message>
+    <message>
+        <source>There are one or all documents contain revsions, continue compare or not?</source>
+        <translation type="obsolete">1つまたはすべての文書に変更履歴が含まれています。比較を続行しますか？</translation>
+    </message>
+    <message>
+        <source>WPS Make the office more relaxed</source>
+        <comment>_TxDlg_EmptyStringPreview</comment>
+        <translation type="obsolete">WPSはオフィスをより快適しますに</translation>
+    </message>
+    <message>
+        <source>WPS Writer AaBbCc</source>
+        <translation>Kingsoft Writer AaBbCc</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
+        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
+        <translation type="obsolete">Kingsoft Writerはメイン文書とデータ・ソースを結合できません。
+データレコードが空白であるか、検索オプションに適合するレコードがありません。</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open %s as Data or Header Source, because it is active mail merge main document.</source>
+        <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
+        <translation type="obsolete">Kingsoft Writerは %sをデータまたはヘッダーのソースとして開くことができません。差し込み印刷が機能しているメイン文書だからです。</translation>
+    </message>
+    <message>
+        <source>Watermarks</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>透かし</translation>
+    </message>
+    <message>
+        <source>White</source>
+        <comment>TxRevision_Shp_Background_White</comment>
+        <translation>白</translation>
+    </message>
+    <message>
+        <source>group</source>
+        <comment>TxGroupControl_Name</comment>
+        <translation>グループ化</translation>
+    </message>
+    <message>
+        <source>no proofing</source>
+        <comment>TxLanguage_NoProofing</comment>
+        <translation type="obsolete">証明なし</translation>
+    </message>
+    <message>
+        <source>Objects in this document contain links to files that cannot be found. The linked information will not be updated.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2629,12 +3097,19 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>The measurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation type="unfinished"></translation>
+        <translation> -1584 から 1584 ptまでの数値を指定してください。</translation>
     </message>
     <message>
         <source>The measurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation type="unfinished"></translation>
+        <translation>0.5から600までの数値を指定してください。</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot turn off design mode because placeholder text in a content control contains invalid items. Placeholder text cannot contain items such as floating objects, revision marks, or content controls. Remove these items from the placeholder text and try again.</source>
+        <comment>_TxErr_InvalidPHdrText</comment>
+        <translatorcomment>コンテンツコントロールのプレースホルダに無効な項目を含めるため、WPS Writerがデザインモードを閉じられなくなります。プレースホルダにフローティングオブジェクト、コメント履歴またはコンテンツコントロールなどを含めていません、プレースホルダからそれらの項目を削除してから、再実行してください。</translatorcomment>
+        <translation>WPS Writerは、コンテンツコントロール内のプレースホルダのテキストが無効なアイテムを含んでいるため、デザインモードを終了できません。
+プレーすホルダーのテキストには、浮動オブジェクトや変更履歴、コントロールを含むことができません。これらの項目をプレースホルダを削除し、再試行してください。</translation>
     </message>
 </context>
 <context>
@@ -2719,7 +3194,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPS</comment>
-        <translation>一般のファイル(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
+        <translation type="obsolete">一般のファイル(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
@@ -2817,7 +3292,7 @@ Please try one of the following.
     <message>
         <source>Normal.wpt</source>
         <comment>_TxDocument_NormalTemplate</comment>
-        <translation>Normal.wpt</translation>
+        <translation type="obsolete">Normal.wpt</translation>
     </message>
     <message>
         <source>Objects of the paste contents will be lost when pasting in text box, comment box, footnote and endnote.</source>
@@ -2965,7 +3440,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>builtin.wpt</source>
         <comment>_TxDocument_BuiltInTemplate</comment>
-        <translation>builtin.wpt</translation>
+        <translation type="unfinished">builtin.wpt</translation>
     </message>
     <message>
         <source>templates</source>
@@ -2975,7 +3450,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</source>
         <comment>TxExts_AllWPS</comment>
-        <translation>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</translation>
+        <translation type="obsolete">*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</translation>
     </message>
     <message>
         <source>Errors occur when WPS Writer is opening this file.
@@ -3091,12 +3566,12 @@ Type a different name for the document you want to save.
     <message>
         <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPSEx</comment>
-        <translation type="unfinished"></translation>
+        <translation>標準ファイル(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
         <source>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</source>
         <comment>TxExts_AllWPSEx</comment>
-        <translation type="unfinished"></translation>
+        <translation>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</translation>
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.wpsx; *.doc; *.dot; *.rtf; *.docx)</source>
@@ -3132,6 +3607,35 @@ Please try one of the following.
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
 This backup will be saved to (%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
+        <translation>ファイルのバックアップ中にエラーが発生しました。設定されたバックアップフォルダに書き込み権限がない可能性が考えられます。
+保存先を変更してください。今回、バックアップしたファイルは(%s)に保存します。</translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>_TxDocument_MsgBackupToDef</comment>
+        <translation type="obsolete">ファイルのバックアップ中にエラーが発生しました。設定されたバックアップフォルダに書き込み権限がない可能性が考えられます。
+保存先を変更してください。今回、バックアップしたファイルは(%s)に保存します。</translation>
+    </message>
+    <message>
+        <source>Normal.dotm</source>
+        <comment>_TxDocument_NormalTemplate</comment>
+        <translation type="unfinished">Normal.dotm</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</source>
+        <comment>TxDesc_AllWPS</comment>
+        <translation>標準ファイル(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</translation>
+    </message>
+    <message>
+        <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</source>
+        <comment>TxExts_AllWPS</comment>
+        <translation>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</translation>
+    </message>
+    <message>
+        <source>Document has been locked by %s. Do you want to open it as read-only?
+(%s)</source>
+        <comment>_TxDocument_SaveFailureLocked</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5219,22 +5723,30 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
         <comment>wps_sFinishHighlightAllNotFound</comment>
-        <translation type="unfinished">“%s”の検索が完了しました。条件に合う項目は見つかりませんでした。</translation>
+        <translation>“%s”の検索が完了しました。条件に合う項目は見つかりませんでした。</translation>
     </message>
     <message>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sValidValue</comment>
-        <translation type="unfinished"></translation>
+        <translation>%d から %d までの数値を指定してください。</translation>
     </message>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed.</source>
         <comment>wps_sVBAMacroSecurityError</comment>
-        <translation type="unfinished"></translation>
+        <translation>マクロのセキュリティを調整する時にエラーが発生しました。VBA環境がインストールされていないためかもしれません。</translation>
     </message>
     <message>
         <source>This shortcut key already exists. Please set another key.</source>
         <comment>wps_sAppShortcutExisted</comment>
-        <translation type="unfinished"></translation>
+        <translation>アプリケーションにはこのショートカットキーがあります。他のショートカットキーを指定して下さい。</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
+        <translation>あるセクションで、左右の余白、段組みの間隔または段落インデントがページの幅より大きくなっています。</translation>
+    </message>
+    <message>
+        <source>The objects or tables in a scalable text box will be removed. Do you want to continue?</source>
+        <translation>拡張テキストボックス内のオブジェクトや表を削除します。続行してもよろしいですか？</translation>
     </message>
 </context>
 <context>
@@ -5244,7 +5756,7 @@ Cancel:	Return to the dialog.</source>
 To follow this link, please hold down Ctrl and click.</source>
         <comment>TxMessage_Hyperlink_ToClick</comment>
         <translation>
- CTRLキーを押しながらクリックしてリンク先を表示します</translation>
+ CTRLキーを押しながらクリックすると、リンク先を表示します</translation>
     </message>
     <message>
         <source>&quot;Page Width&quot;,-1</source>
@@ -5269,7 +5781,7 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
         <comment>TxMessage_FontNameNotExisitSecondHalf</comment>
-        <translation>” システムに対しては無効なフォントです。このフォントを続けて使用しますか。</translation>
+        <translation>” システムに対しては無効なフォントです。このフォントを引き続き使用しますか。</translation>
     </message>
     <message>
         <source>(no spelling suggestions)</source>
@@ -5279,12 +5791,12 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>.</source>
         <comment>TxAboutCaption</comment>
-        <translation>火を経歴して再度生まれたwps-v6</translation>
+        <translation type="unfinished">火を経歴して再度生まれたwps-v6</translation>
     </message>
     <message>
         <source>.</source>
         <comment>TxAboutText</comment>
-        <translation>略称: fenix -
+        <translation type="unfinished">略称: fenix -
 A bird in Egyptian mythology that lived in the desert for 500 years and then consumed itself by fire, later to rise renewed from its ashes.
 不死鳥。エジプト神話に登場する鳥です。砂漠で500年間暮らしてから体を燃やし、火の塵から再生すると言われています。</translation>
     </message>
@@ -5743,7 +6255,7 @@ Spelling</source>
     <message>
         <source>Do you want to delete the header and footer, and connect to the previous section?</source>
         <comment>TxMessge_DelHeaderFooter</comment>
-        <translation>このヘッダー/フッターを削除して、前のセクションのヘッダー/フッターと一致にしますか。</translation>
+        <translation>このヘッダー/フッターを削除し、前のセクションのヘッダー/フッターと同一にしますか？</translation>
     </message>
     <message>
         <source>Document 
@@ -6867,752 +7379,752 @@ Check</source>
     <message>
         <source>Table Normal</source>
         <comment>TxTableStyle_TableNormal</comment>
-        <translation type="unfinished"></translation>
+        <translation>標準の表</translation>
     </message>
     <message>
         <source>Table Simple 1</source>
         <comment>TxTableStyle_TableSimple1</comment>
-        <translation type="unfinished"></translation>
+        <translation>シンプル 1</translation>
     </message>
     <message>
         <source>Table Simple 2</source>
         <comment>TxTableStyle_TableSimple2</comment>
-        <translation type="unfinished"></translation>
+        <translation>シンプル 2</translation>
     </message>
     <message>
         <source>Table Simple 3</source>
         <comment>TxTableStyle_TableSimple3</comment>
-        <translation type="unfinished"></translation>
+        <translation>シンプル 3</translation>
     </message>
     <message>
         <source>Table Classic 1</source>
         <comment>TxTableStyle_TableClassic1</comment>
-        <translation type="unfinished"></translation>
+        <translation>クラシック 1</translation>
     </message>
     <message>
         <source>Table Classic 2</source>
         <comment>TxTableStyle_TableClassic2</comment>
-        <translation type="unfinished"></translation>
+        <translation>クラシック 2</translation>
     </message>
     <message>
         <source>Table Classic 3</source>
         <comment>TxTableStyle_TableClassic3</comment>
-        <translation type="unfinished"></translation>
+        <translation>クラシック 3</translation>
     </message>
     <message>
         <source>Table Classic 4</source>
         <comment>TxTableStyle_TableClassic4</comment>
-        <translation type="unfinished"></translation>
+        <translation>クラシック 4</translation>
     </message>
     <message>
         <source>Table Colorful 1</source>
         <comment>TxTableStyle_TableColorful1</comment>
-        <translation type="unfinished"></translation>
+        <translation>カラフル 1</translation>
     </message>
     <message>
         <source>Table Colorful 2</source>
         <comment>TxTableStyle_TableColorful2</comment>
-        <translation type="unfinished"></translation>
+        <translation>カラフル 2</translation>
     </message>
     <message>
         <source>Table Colorful 3</source>
         <comment>TxTableStyle_TableColorful3</comment>
-        <translation type="unfinished"></translation>
+        <translation>カラフル 3</translation>
     </message>
     <message>
         <source>Table Columns 1</source>
         <comment>TxTableStyle_TableColumns1</comment>
-        <translation type="unfinished"></translation>
+        <translation>列 1</translation>
     </message>
     <message>
         <source>Table Columns 2</source>
         <comment>TxTableStyle_TableColumns2</comment>
-        <translation type="unfinished"></translation>
+        <translation>列 2</translation>
     </message>
     <message>
         <source>Table Columns 3</source>
         <comment>TxTableStyle_TableColumns3</comment>
-        <translation type="unfinished"></translation>
+        <translation>列 3</translation>
     </message>
     <message>
         <source>Table Columns 4</source>
         <comment>TxTableStyle_TableColumns4</comment>
-        <translation type="unfinished"></translation>
+        <translation>列 4</translation>
     </message>
     <message>
         <source>Table Columns 5</source>
         <comment>TxTableStyle_TableColumns5</comment>
-        <translation type="unfinished"></translation>
+        <translation>列 5</translation>
     </message>
     <message>
         <source>Table Grid 1</source>
         <comment>TxTableStyle_TableGrid1</comment>
-        <translation type="unfinished"></translation>
+        <translation>グリッド 1</translation>
     </message>
     <message>
         <source>Table Grid 2</source>
         <comment>TxTableStyle_TableGrid2</comment>
-        <translation type="unfinished"></translation>
+        <translation>グリッド 2</translation>
     </message>
     <message>
         <source>Table Grid 3</source>
         <comment>TxTableStyle_TableGrid3</comment>
-        <translation type="unfinished"></translation>
+        <translation>グリッド 3</translation>
     </message>
     <message>
         <source>Table Grid 4</source>
         <comment>TxTableStyle_TableGrid4</comment>
-        <translation type="unfinished"></translation>
+        <translation>グリッド 4</translation>
     </message>
     <message>
         <source>Table Grid 5</source>
         <comment>TxTableStyle_TableGrid5</comment>
-        <translation type="unfinished"></translation>
+        <translation>グリッド 5</translation>
     </message>
     <message>
         <source>Table Grid 6</source>
         <comment>TxTableStyle_TableGrid6</comment>
-        <translation type="unfinished"></translation>
+        <translation>グリッド 6</translation>
     </message>
     <message>
         <source>Table Grid 7</source>
         <comment>TxTableStyle_TableGrid7</comment>
-        <translation type="unfinished"></translation>
+        <translation>グリッド 7</translation>
     </message>
     <message>
         <source>Table Grid 8</source>
         <comment>TxTableStyle_TableGrid8</comment>
-        <translation type="unfinished"></translation>
+        <translation>グリッド 8</translation>
     </message>
     <message>
         <source>Table List 1</source>
         <comment>TxTableStyle_TableList1</comment>
-        <translation type="unfinished"></translation>
+        <translation>リスト 1</translation>
     </message>
     <message>
         <source>Table List 2</source>
         <comment>TxTableStyle_TableList2</comment>
-        <translation type="unfinished"></translation>
+        <translation>リスト 2</translation>
     </message>
     <message>
         <source>Table List 3</source>
         <comment>TxTableStyle_TableList3</comment>
-        <translation type="unfinished"></translation>
+        <translation>リスト 3</translation>
     </message>
     <message>
         <source>Table List 4</source>
         <comment>TxTableStyle_TableList4</comment>
-        <translation type="unfinished"></translation>
+        <translation>リスト 4</translation>
     </message>
     <message>
         <source>Table List 5</source>
         <comment>TxTableStyle_TableList5</comment>
-        <translation type="unfinished"></translation>
+        <translation>リスト 5</translation>
     </message>
     <message>
         <source>Table List 6</source>
         <comment>TxTableStyle_TableList6</comment>
-        <translation type="unfinished"></translation>
+        <translation>リスト 6</translation>
     </message>
     <message>
         <source>Table List 7</source>
         <comment>TxTableStyle_TableList7</comment>
-        <translation type="unfinished"></translation>
+        <translation>リスト 7</translation>
     </message>
     <message>
         <source>Table List 8</source>
         <comment>TxTableStyle_TableList8</comment>
-        <translation type="unfinished"></translation>
+        <translation>リスト 8</translation>
     </message>
     <message>
         <source>Table 3D effects 1</source>
         <comment>TxTableStyle_Table3dfx1</comment>
-        <translation type="unfinished"></translation>
+        <translation>3D効果 1</translation>
     </message>
     <message>
         <source>Table 3D effects 2</source>
         <comment>TxTableStyle_Table3dfx2</comment>
-        <translation type="unfinished"></translation>
+        <translation>3D効果 2</translation>
     </message>
     <message>
         <source>Table 3D effects 3</source>
         <comment>TxTableStyle_Table3dfx3</comment>
-        <translation type="unfinished"></translation>
+        <translation>3D効果 3</translation>
     </message>
     <message>
         <source>Table Contemporary</source>
         <comment>TxTableStyle_TableContemporary</comment>
-        <translation type="unfinished"></translation>
+        <translation>コンテンポラリー</translation>
     </message>
     <message>
         <source>Table Elegant</source>
         <comment>TxTableStyle_TableElegant</comment>
-        <translation type="unfinished"></translation>
+        <translation>エレガント</translation>
     </message>
     <message>
         <source>Table Professional</source>
         <comment>TxTableStyle_TableProfessional</comment>
-        <translation type="unfinished"></translation>
+        <translation>プロフェッショナル</translation>
     </message>
     <message>
         <source>Table Subtle1</source>
         <comment>TxTableStyle_TableSubtle1</comment>
-        <translation type="unfinished"></translation>
+        <translation>繊細 1</translation>
     </message>
     <message>
         <source>Table Subtle2</source>
         <comment>TxTableStyle_TableSubtle2</comment>
-        <translation type="unfinished"></translation>
+        <translation>繊細 2</translation>
     </message>
     <message>
         <source>Table Web 1</source>
         <comment>TxTableStyle_TableWeb1</comment>
-        <translation type="unfinished"></translation>
+        <translation>ウェブ 1</translation>
     </message>
     <message>
         <source>Table Web 2</source>
         <comment>TxTableStyle_TableWeb2</comment>
-        <translation type="unfinished"></translation>
+        <translation>ウェブ 2</translation>
     </message>
     <message>
         <source>Table Web 3</source>
         <comment>TxTableStyle_TableWeb3</comment>
-        <translation type="unfinished"></translation>
+        <translation>ウェブ 3</translation>
     </message>
     <message>
         <source>Table Grid</source>
         <comment>TxTableStyle_TableGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>グリッド</translation>
     </message>
     <message>
         <source>Table Theme</source>
         <comment>TxTableStyle_TabelTheme</comment>
-        <translation type="unfinished"></translation>
+        <translation>テーマ</translation>
     </message>
     <message>
         <source>Date/Time</source>
         <comment>TxVersion_InsDateTime</comment>
-        <translation type="unfinished">日時の挿入</translation>
+        <translation>日時</translation>
     </message>
     <message>
         <source>WPS Writer 2007/2010 Template(*.wptx)</source>
         <comment>TxDesc_DataSource_wptx</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer 2007/2010 テンプレートファイル(*.wptx)</translation>
     </message>
     <message>
         <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
         <comment>TxDesc_DataSource_AllDataSource</comment>
-        <translation type="unfinished"></translation>
+        <translation>すべてのデータソース(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
     </message>
     <message>
         <source>Word Documents(*.docx; *.doc; *.docm) | *.docx; *.doc; *.docm; |</source>
         <comment>TxDesc_DataSource_doc</comment>
-        <translation type="unfinished"></translation>
+        <translation>Word 文書(*.docx; *.doc; *.docm) | *.docx; *.doc; *.docm; |</translation>
     </message>
     <message>
         <source>All Word Documents(*.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html) | *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html; |</source>
         <comment>TxDesc_DataSource_alldoc</comment>
-        <translation type="unfinished"></translation>
+        <translation>すべての Word ドキュメント(*.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html) | *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html; |</translation>
     </message>
     <message>
         <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt |</source>
         <comment>TxDesc_DataSource_allwps</comment>
-        <translation type="unfinished"></translation>
+        <translation>すべての Kingsoft Writer ドキュメント(*.wps; *.wpt) | *.wps; *.wpt |</translation>
     </message>
     <message>
         <source>AutoFit to Content</source>
         <comment>TxVersion_AutoFitContent</comment>
-        <translation type="unfinished"></translation>
+        <translation>コンテンツに合わせて自動調整</translation>
     </message>
     <message>
         <source>Light Shading</source>
         <comment>TxTableStyle_LightShading</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(モノトーン) 1</translation>
     </message>
     <message>
         <source>Light List</source>
         <comment>TxTableStyle_LightList</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(モノトーン) 2</translation>
     </message>
     <message>
         <source>Light Grid</source>
         <comment>TxTableStyle_LightGrid</comment>
-        <translation type="unfinished">薄い格子</translation>
+        <translation>薄い格子</translation>
     </message>
     <message>
         <source>Medium Shading 1</source>
         <comment>TxTableStyle_MediumShading1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(モノトーン) 4</translation>
     </message>
     <message>
         <source>Medium Shading 2</source>
         <comment>TxTableStyle_MediumShading2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(モノトーン) 5</translation>
     </message>
     <message>
         <source>Medium List 1</source>
         <comment>TxTableStyle_MediumList1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(モノトーン) 6</translation>
     </message>
     <message>
         <source>Medium List 2</source>
         <comment>TxTableStyle_MediumList2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(モノトーン) 7</translation>
     </message>
     <message>
         <source>Medium Grid 1</source>
         <comment>TxTableStyle_MediumGrid1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(モノトーン) 8</translation>
     </message>
     <message>
         <source>Medium Grid 2</source>
         <comment>TxTableStyle_MediumGrid2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(モノトーン) 9</translation>
     </message>
     <message>
         <source>Medium Grid 3</source>
         <comment>TxTableStyle_MediumGrid3</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(モノトーン) 10</translation>
     </message>
     <message>
         <source>Dark List</source>
         <comment>TxTableStyle_DarkList</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(モノトーン) 11</translation>
     </message>
     <message>
         <source>Colorful Shading</source>
         <comment>TxTableStyle_ColorfulShading</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(モノトーン) 12</translation>
     </message>
     <message>
         <source>Colorful List</source>
         <comment>TxTableStyle_ColorfulList</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(モノトーン) 13</translation>
     </message>
     <message>
         <source>Colorful Grid</source>
         <comment>TxTableStyle_ColorfulGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(モノトーン) 14</translation>
     </message>
     <message>
         <source>Light Shading Accent 1</source>
         <comment>TxTableStyle_LightShadingAccent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(青) 1</translation>
     </message>
     <message>
         <source>Light List Accent 1</source>
         <comment>TxTableStyle_LightListAccent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(青) 2</translation>
     </message>
     <message>
         <source>Light Grid Accent 1</source>
         <comment>TxTableStyle_LightGridAccent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(青) 3</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 1</source>
         <comment>TxTableStyle_MediumShading1Accent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(青) 4</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 1</source>
         <comment>TxTableStyle_MediumShading2Accent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(青) 5</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 1</source>
         <comment>TxTableStyle_MediumList1Accent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(青) 6</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 1</source>
         <comment>TxTableStyle_MediumList2Accent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(青) 7</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 1</source>
         <comment>TxTableStyle_MediumGrid1Accent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(青) 8</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 1</source>
         <comment>TxTableStyle_MediumGrid2Accent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(青) 9</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 1</source>
         <comment>TxTableStyle_MediumGrid3Accent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(青) 10</translation>
     </message>
     <message>
         <source>Dark List Accent 1</source>
         <comment>TxTableStyle_DarkListAccent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(青) 11</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 1</source>
         <comment>TxTableStyle_ColorfulShadingAccent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(青) 12</translation>
     </message>
     <message>
         <source>Colorful List Accent 1</source>
         <comment>TxTableStyle_ColorfulListAccent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(青) 13</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 1</source>
         <comment>TxTableStyle_ColorfulGridAccent1</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(青) 14</translation>
     </message>
     <message>
         <source>Light Shading Accent 2</source>
         <comment>TxTableStyle_LightShadingAccent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(赤) 1</translation>
     </message>
     <message>
         <source>Light List Accent 2</source>
         <comment>TxTableStyle_LightListAccent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(赤) 2</translation>
     </message>
     <message>
         <source>Light Grid Accent 2</source>
         <comment>TxTableStyle_LightGridAccent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(赤) 3</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 2</source>
         <comment>TxTableStyle_MediumShading1Accent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(赤) 4</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 2</source>
         <comment>TxTableStyle_MediumShading2Accent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(赤) 5</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 2</source>
         <comment>TxTableStyle_MediumList1Accent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(赤) 6</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 2</source>
         <comment>TxTableStyle_MediumList2Accent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(赤) 7</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 2</source>
         <comment>TxTableStyle_MediumGrid1Accent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(赤) 8</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 2</source>
         <comment>TxTableStyle_MediumGrid2Accent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(赤) 9</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 2</source>
         <comment>TxTableStyle_MediumGrid3Accent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(赤) 10</translation>
     </message>
     <message>
         <source>Dark List Accent 2</source>
         <comment>TxTableStyle_DarkListAccent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(赤) 11</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 2</source>
         <comment>TxTableStyle_ColorfulShadingAccent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(赤) 12</translation>
     </message>
     <message>
         <source>Colorful List Accent 2</source>
         <comment>TxTableStyle_ColorfulListAccent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(赤) 13</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 2</source>
         <comment>TxTableStyle_ColorfulGridAccent2</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(赤) 14</translation>
     </message>
     <message>
         <source>Light Shading Accent 3</source>
         <comment>TxTableStyle_LightShadingAccent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(緑) 1</translation>
     </message>
     <message>
         <source>Light List Accent 3</source>
         <comment>TxTableStyle_LightListAccent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(緑) 2</translation>
     </message>
     <message>
         <source>Light Grid Accent 3</source>
         <comment>TxTableStyle_LightGridAccent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(緑) 3</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 3</source>
         <comment>TxTableStyle_MediumShading1Accent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(緑) 4</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 3</source>
         <comment>TxTableStyle_MediumShading2Accent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(緑) 5</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 3</source>
         <comment>TxTableStyle_MediumList1Accent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(緑) 6</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 3</source>
         <comment>TxTableStyle_MediumList2Accent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(緑) 7</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 3</source>
         <comment>TxTableStyle_MediumGrid1Accent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(緑) 8</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 3</source>
         <comment>TxTableStyle_MediumGrid2Accent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(緑) 9</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 3</source>
         <comment>TxTableStyle_MediumGrid3Accent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(緑) 10</translation>
     </message>
     <message>
         <source>Dark List Accent 3</source>
         <comment>TxTableStyle_DarkListAccent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(緑) 11</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 3</source>
         <comment>TxTableStyle_ColorfulShadingAccent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(緑) 12</translation>
     </message>
     <message>
         <source>Colorful List Accent 3</source>
         <comment>TxTableStyle_ColorfulListAccent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(緑) 13</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 3</source>
         <comment>TxTableStyle_ColorfulGridAccent3</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(緑) 14</translation>
     </message>
     <message>
         <source>Light Shading Accent 4</source>
         <comment>TxTableStyle_LightShadingAccent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(紫) 1</translation>
     </message>
     <message>
         <source>Light List Accent 4</source>
         <comment>TxTableStyle_LightListAccent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(紫) 2</translation>
     </message>
     <message>
         <source>Light Grid Accent 4</source>
         <comment>TxTableStyle_LightGridAccent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(紫) 3</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 4</source>
         <comment>TxTableStyle_MediumShading1Accent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(紫) 4</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 4</source>
         <comment>TxTableStyle_MediumShading2Accent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(紫) 5</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 4</source>
         <comment>TxTableStyle_MediumList1Accent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(紫) 6</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 4</source>
         <comment>TxTableStyle_MediumList2Accent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(紫) 7</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 4</source>
         <comment>TxTableStyle_MediumGrid1Accent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(紫) 8</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 4</source>
         <comment>TxTableStyle_MediumGrid2Accent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(紫) 9</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 4</source>
         <comment>TxTableStyle_MediumGrid3Accent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(紫) 10</translation>
     </message>
     <message>
         <source>Dark List Accent 4</source>
         <comment>TxTableStyle_DarkListAccent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(紫) 11</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 4</source>
         <comment>TxTableStyle_ColorfulShadingAccent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(紫) 12</translation>
     </message>
     <message>
         <source>Colorful List Accent 4</source>
         <comment>TxTableStyle_ColorfulListAccent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(紫) 13</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 4</source>
         <comment>TxTableStyle_ColorfulGridAccent4</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(紫) 14</translation>
     </message>
     <message>
         <source>Light Shading Accent 5</source>
         <comment>TxTableStyle_LightShadingAccent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(水色) 1</translation>
     </message>
     <message>
         <source>Light List Accent 5</source>
         <comment>TxTableStyle_LightListAccent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(水色) 2</translation>
     </message>
     <message>
         <source>Light Grid Accent 5</source>
         <comment>TxTableStyle_LightGridAccent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(水色) 3</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 5</source>
         <comment>TxTableStyle_MediumShading1Accent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(水色) 4</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 5</source>
         <comment>TxTableStyle_MediumShading2Accent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(水色) 5</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 5</source>
         <comment>TxTableStyle_MediumList1Accent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(水色) 6</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 5</source>
         <comment>TxTableStyle_MediumList2Accent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(水色) 7</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 5</source>
         <comment>TxTableStyle_MediumGrid1Accent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(水色) 8</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 5</source>
         <comment>TxTableStyle_MediumGrid2Accent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(水色) 9</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 5</source>
         <comment>TxTableStyle_MediumGrid3Accent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(水色) 10</translation>
     </message>
     <message>
         <source>Dark List Accent 5</source>
         <comment>TxTableStyle_DarkListAccent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(水色) 11</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 5</source>
         <comment>TxTableStyle_ColorfulShadingAccent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(水色) 12</translation>
     </message>
     <message>
         <source>Colorful List Accent 5</source>
         <comment>TxTableStyle_ColorfulListAccent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(水色) 13</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 5</source>
         <comment>TxTableStyle_ColorfulGridAccent5</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(水色) 14</translation>
     </message>
     <message>
         <source>Light Shading Accent 6</source>
         <comment>TxTableStyle_LightShadingAccent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(オレンジ) 1</translation>
     </message>
     <message>
         <source>Light List Accent 6</source>
         <comment>TxTableStyle_LightListAccent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(オレンジ) 2</translation>
     </message>
     <message>
         <source>Light Grid Accent 6</source>
         <comment>TxTableStyle_LightGridAccent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(オレンジ) 3</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 6</source>
         <comment>TxTableStyle_MediumShading1Accent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(オレンジ) 4</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 6</source>
         <comment>TxTableStyle_MediumShading2Accent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(オレンジ) 5</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 6</source>
         <comment>TxTableStyle_MediumList1Accent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(オレンジ) 6</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 6</source>
         <comment>TxTableStyle_MediumList2Accent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(オレンジ) 7</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 6</source>
         <comment>TxTableStyle_MediumGrid1Accent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(オレンジ) 8</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 6</source>
         <comment>TxTableStyle_MediumGrid2Accent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(オレンジ) 9</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 6</source>
         <comment>TxTableStyle_MediumGrid3Accent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(オレンジ) 10</translation>
     </message>
     <message>
         <source>Dark List Accent 6</source>
         <comment>TxTableStyle_DarkListAccent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(オレンジ) 11</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 6</source>
         <comment>TxTableStyle_ColorfulShadingAccent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(オレンジ) 12</translation>
     </message>
     <message>
         <source>Colorful List Accent 6</source>
         <comment>TxTableStyle_ColorfulListAccent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(オレンジ) 13</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 6</source>
         <comment>TxTableStyle_ColorfulGridAccent6</comment>
-        <translation type="unfinished"></translation>
+        <translation>表(オレンジ) 14</translation>
     </message>
     <message>
         <source>Insert DocumentField</source>
@@ -7622,7 +8134,67 @@ Check</source>
     <message>
         <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
-        <translation type="unfinished"></translation>
+        <translation>Outlook 個人アドレス帳(*.pab) | *.pab; |</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <comment>TxCaption_ContentControlDelete</comment>
+        <translation>削除</translation>
+    </message>
+    <message>
+        <source>InsertAfter</source>
+        <comment>TxCaption_ContentControlInsertAfter</comment>
+        <translation>その後に挿入</translation>
+    </message>
+    <message>
+        <source>InsertBefore</source>
+        <comment>TxCaption_ContentControlInsertBefore</comment>
+        <translation>その前に挿入</translation>
+    </message>
+    <message>
+        <source>Item</source>
+        <comment>TxCaption_ContentControlItem</comment>
+        <translation>項目</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
+        <comment>TxDesc_DataSource_wptx</comment>
+        <translation type="obsolete">Kingsoft Writer 2007/2010 テンプレート(*.wptx)</translation>
+    </message>
+    <message>
+        <source>Set AutoShape Defaults</source>
+        <comment>TxCaption_ShapeAutoShapeDefaults</comment>
+        <translation>図形の既定値に設定</translation>
+    </message>
+    <message>
+        <source>Set as Default Shape</source>
+        <comment>TxCaption_DmlShapeAutoShapeDefaults</comment>
+        <translation>既定の図形に設定</translation>
+    </message>
+    <message>
+        <source>Set as Default Text Box</source>
+        <comment>TxCaption_DmlTextboxAutoShapeDefaults</comment>
+        <translation>既定のテキストボックスに設定</translation>
+    </message>
+    <message>
+        <source>The linked file is not available.</source>
+        <comment>TxTableStyle_UnavailableChartLinkPath</comment>
+        <translation type="obsolete">リンクファイルを利用できません</translation>
+    </message>
+    <message>
+        <source>The target text box is different format than your current text box. You can only link text boxes that are the same format.</source>
+        <comment>TxMessage_CreateTextboxLinkError5</comment>
+        <translation>目標テキストボックスと現在のテキストボックスの書式が異なります。同じ書式のテキストボックスのみリンク可能です。</translation>
+    </message>
+    <message>
+        <source>PDF Files(*.pdf) | *.pdf; |</source>
+        <comment>TxDesc_DataSource_pdf</comment>
+        <translation>PDF ファイル(*.pdf) | *.pdf; |</translation>
+    </message>
+    <message>
+        <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
+        <comment>TxError_EditChartDataSource</comment>
+        <translation>データグリッドが%sで開かれています。このグラフのデータを編集するには、データグリッドを閉じてください。</translation>
     </message>
 </context>
 </TS>

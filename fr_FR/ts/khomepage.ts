@@ -52,7 +52,7 @@
     <message>
         <source>Online Templates Pro</source>
         <comment>title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modèles en ligne Pro</translation>
     </message>
 </context>
 </TS>

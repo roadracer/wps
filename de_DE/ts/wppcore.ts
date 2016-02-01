@@ -647,7 +647,7 @@
     <message>
         <source>This function is offered in WPS Office 2009 Professional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diese Funktion wird durch WPS Office 2012 Professional angeboten.</translation>
     </message>
 </context>
 <context>
@@ -800,7 +800,7 @@ Esc					Ende der Bildschirmpräsentation</translation>
     <message>
         <source>May our software run on every computer</source>
         <comment>WpWPSFuture</comment>
-        <translation type="unfinished">Möge unser Software auf jedem Computer zur Zufriedenheit der Nutzer arbeiten</translation>
+        <translation>Unsere Software kann auf jedem Computer laufen</translation>
     </message>
     <message>
         <source>Opening %s
@@ -856,7 +856,7 @@ Möchten Sie die Datei öffnen?</translation>
     <message>
         <source>”does not exist.</source>
         <comment>WpInvalidateNameSlideShowEnd</comment>
-        <translation>&quot; nicht vorhanden.</translation>
+        <translation>“ nicht vorhanden.</translation>
     </message>
     <message>
         <source>WPS Presentation cannot be found or start %s. </source>
@@ -1106,6 +1106,41 @@ Möchten Sie die Datei öffnen?</translation>
         <comment>TXTRANS_PARA_TEXTALIGN_UPHOLDINGFIXED</comment>
         <translation>Aufrecht definiert</translation>
     </message>
+    <message>
+        <source>Left Indent</source>
+        <comment>TXTRANS_PARA_TEXTINDENT_LEFT</comment>
+        <translation>Linker Einzug</translation>
+    </message>
+    <message>
+        <source>First Line Indent</source>
+        <comment>TXTRANS_PARA_TEXTINDENT_FIRSTLINE</comment>
+        <translation>Erstzeileneinzug</translation>
+    </message>
+    <message>
+        <source>LangID</source>
+        <comment>TXTRANS_SPAN_FONT_LANGID</comment>
+        <translation>LangID</translation>
+    </message>
+    <message>
+        <source>AltLangID</source>
+        <comment>TXTRANS_SPAN_FONT_ALTLANGID</comment>
+        <translation>AltLangID</translation>
+    </message>
+    <message>
+        <source>UnderlineStyle</source>
+        <comment>TXTRANS_SPAN_FONT_UNDERLINE_STYLE</comment>
+        <translation>Unterstreichungstil</translation>
+    </message>
+    <message>
+        <source>spacing</source>
+        <comment>TXTRANS_SPAN_FONT_SPACING</comment>
+        <translation>Abstand</translation>
+    </message>
+    <message>
+        <source>kerning</source>
+        <comment>TXTRANS_SPAN_FONT_KERNING</comment>
+        <translation>Kerning</translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppcore</name>
@@ -1162,7 +1197,7 @@ Möchten Sie die Datei öffnen?</translation>
     <message>
         <source>Available for Use</source>
         <comment>WP_TP_DESIGNCATEGORY3</comment>
-        <translation>verfügbar</translation>
+        <translation>Verfügbar</translation>
     </message>
     <message>
         <source>Best Match for Document</source>
@@ -1302,7 +1337,7 @@ Möchten Sie die Datei öffnen?</translation>
     <message>
         <source>Click to edit Master subtitle Style</source>
         <comment>WP_TEXT_OF_SUBTITLE_IN_MASTER</comment>
-        <translation>Formatvorlage des Untertitelmasters durch Klicken bearbeiten</translation>
+        <translation type="obsolete">Formatvorlage des Untertitelmasters durch Klicken bearbeiten</translation>
     </message>
     <message>
         <source>Click to edit Master text styles
@@ -1999,7 +2034,7 @@ Fünfte Ebene</translation>
     <message>
         <source>Object Out Of Slide</source>
         <comment>WP_SECURITY_OutOfSlideObj</comment>
-        <translation type="unfinished">Objekt außerhalb Folie</translation>
+        <translation>Objekt außerhalb der Folie</translation>
     </message>
     <message>
         <source>Opening the file, please wait...</source>
@@ -2014,7 +2049,7 @@ Fünfte Ebene</translation>
     <message>
         <source>Other Sound...</source>
         <comment>WP_SOUNDEFFECT_OTHER</comment>
-        <translation>Anderer Sound ...</translation>
+        <translation>Anderer Sound...</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -2034,6 +2069,7 @@ Fünfte Ebene</translation>
     <message>
         <source>Presentation</source>
         <comment>WP_DEFAULT_PRESNAME</comment>
+        <translatorcomment>新建的文档名称，需翻译</translatorcomment>
         <translation>Präsentation</translation>
     </message>
     <message>
@@ -2918,7 +2954,7 @@ Textkörper: Zoom</translation>
     <message>
         <source>default.dpt</source>
         <comment>WpStartandFile</comment>
-        <translation>default.dpt</translation>
+        <translation type="obsolete">default.dpt</translation>
     </message>
     <message>
         <source>Errors occur when WPS Presentation is opening this file.
@@ -2928,13 +2964,18 @@ Please try one of the following.
 •Make sure this file is recognizable format.
 (%s)</source>
         <comment>WP_OpenFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler treten auf, wenn WPS Presentation diese Datei öffnet.
+Sie können Folgendes versuchen:
+•Vergewissern Sie sich, dass Sie die Berechtigung für den Zugriff auf diese Datei oder dieses Laufwerk haben.
+•Vergewissern Sie sich, dass genügend Arbeitsspeicher und Festplattenspeicher vorhanden ist.	
+•Vergewissern Sie sich, dass diese Datei ein erkennbares Format hat.
+(%s)</translation>
     </message>
     <message>
         <source>WPS Presentation cannot open this file, because the password is not correct.
 (%s)</source>
         <comment>WP_OpenPasswordFailure</comment>
-        <translation>Aufgrund des falschen Kennworts kann WPS-Präsentation die Datei nicht öffnen.
+        <translation>Aufgrund des falschen Kennworts kann WPS Presentation die Datei nicht öffnen.
 (%s)</translation>
     </message>
     <message>
@@ -2950,8 +2991,8 @@ Note that some files may contain macro viruses and possibly perform other harmfu
         <translation>Bei Überprüfung der Datei wurden Fehler im Virenschutzprogramm gefunden. (Fehlercode:  0x%08X).  Wenden Sie sich bitte den Agent des Virenschutzprogramms. 
 Möchten Sie trotzdem die Datei öffnen?
 
-Clicken Sie auf „Ja“, WPS-Präsentation wird die Datei weiter öffnen.
-Clicken Sie auf „Nein“, WPS-Präsentation wird die Datei nicht öffnen.
+Clicken Sie auf „Ja“, WPS-Presentation wird die Datei weiter öffnen.
+Clicken Sie auf „Nein“, WPS-Presentation wird die Datei nicht öffnen.
 
 Einige Dateien können Makro-Viren enthalten und möglicherweise andere schädigende Aktionen durchführen. Wenn Sie der Datei nicht vertrauen, bitte die Datei nicht öffnen.
 (%s)</translation>
@@ -2964,7 +3005,7 @@ Einige Dateien können Makro-Viren enthalten und möglicherweise andere schädig
     <message>
         <source>Permission for this file is currently restricted. Only WPS Presentation file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
         <comment>WPPKRMSAVEPROMPT</comment>
-        <translation>Die Berechtigungen für diese Datei sind momentan eingeschränkt. Nur mit WPS-Präsentations-Dateiformat kann diese Eistellungen beibehalten werden. Wenn Sie die Datei als aktuellen Dateityp speichern,wären alle Berechtigungseinstellungen verloren. Möchten Sie den Vorgang fortsetzen?</translation>
+        <translation>Die Berechtigungen für diese Datei sind momentan eingeschränkt. Nur mit WPS Presentation Dateiformat kann diese Eistellungen beibehalten werden. Wenn Sie die Datei als aktuellen Dateityp speichern,wären alle Berechtigungseinstellungen verloren. Möchten Sie den Vorgang fortsetzen?</translation>
     </message>
     <message>
         <source>WPS Presentation cannot open this file, because the current user does not have enough permission to access.
@@ -2973,7 +3014,7 @@ Please try one of the following.
 •Ask its creator to change the permission control level of this file.
 (%s)</source>
         <comment>WPPKRMOPENNOOWNER</comment>
-        <translation>WPS-Präsentation kann die Datei nicht öffnen, weil der aktuelle Benutzer über keine genug Berechtigung verfügen.
+        <translation>WPS Presentation kann die Datei nicht öffnen, weil der aktuelle Benutzer über keine genug Berechtigung verfügen.
 Versuchen Sie eine der folgenden Vorgehensweisen:
   Wechseln Sie zu einem anderen Benutzerkonto.
   Wenden Sie sich an den Ersteller, um die Steuerungsebene der Berechtigung der Datei zu ändern.
@@ -2982,42 +3023,528 @@ Versuchen Sie eine der folgenden Vorgehensweisen:
     <message>
         <source>The design template contains multiple masters. WPS Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
         <comment>WP_APPLYMULTIPLEMASTERS</comment>
-        <translation>Die Entwurfsvorlage enthält mehrere Master. WPS-Präsentation hat den ersten Master in Vorlagen übernommen. Möchten Sie andere Master zur späteren Nutzung zur Verfügung stellen?</translation>
+        <translation>Die Entwurfsvorlage enthält mehrere Master. WPS Presentation hat den ersten Master in Vorlagen übernommen. Möchten Sie andere Master zur späteren Nutzung zur Verfügung stellen?</translation>
     </message>
     <message>
         <source>%s cannot play audio file “%s. Please make sure that the audio file is formatted with .wav, and that there is a normal audio system in your computer.</source>
         <comment>WP_CannotPlaySoundFile</comment>
-        <translation>%s kann die Audiodatei nicht abspielen. Stellen Sie sicher, dass die Audiodatei mit .wav formatiert und dass das Audiosystem im Computer normal ist. </translation>
+        <translation>%s kann die Audiodatei %s nicht abspielen. Stellen Sie sicher, dass die Audiodatei mit .wav formatiert und dass das Audiosystem im Computer normal ist. </translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation type="obsolete">Zurzeit wird von WPS-Office nur Anzeige von Microsofot Office 2010 Dokumenten unterstützt. Es kann nicht gespeichert werden.</translation>
+        <translation>Zurzeit wird von WPS-Office nur Anzeige von Microsofot Office 2010 Dokumenten unterstützt. Es kann nicht gespeichert werden.</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;WPS Office hat ein mögliches Sicherheitsproblem erkannt.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Diese Präsentation enthält Verknüpfungen mit anderen Dateien.&lt;/p&gt;&lt;p&gt;&amp;bull;Wenn Sie die Verknüpfungen aktualisieren, versucht WPS Presentation, die neuesten Daten einzulesen.&lt;br&gt;&amp;bull;Wenn Sie die Verknüpfungen nicht aktualisieren, verwendet WPS Presentation die vorhandenen Daten.&lt;/p&gt;&lt;p&gt;Beachten Sie, dass über Dateiverknüpfungen der Zugriff auf vertrauliche Daten ohne Ihre Erlaubnis möglich ist und eventuell auch andere unerwünschte Handlungen durchgeführt werden können. Aktualisieren Sie die Verknüpfungen nicht, wenn Sie der Quelle dieser Präsentation nicht vertrauen.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>WPS Presentation cannot save or create this file.
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>WP_SAVE_PPT_FAILURE</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation kann diese Datei nicht speichern oder erstellen.
+Vergewissern Sie sich, dass die Datei nicht von einem anderen Benutzer gesperrt wurde, die Zielfestplatte freien Speicherplatz hat und unbeschädigt ist.
+(%s)</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
         <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Derzeit unterstützt WPS Office nur die Anzeige von Microsoft Office 2010-Dokumenten. Bearbeiten oder Speichern ist nicht möglich. Möchten Sie das Dokument im Ansichtsmodus öffnen?</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Zurzeit wird von WPS Office nur Anzeige von Microsofot Office 2010 Dokumenten unterstützt. Es kann nicht gespeichert werden.</translation>
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished">Präsentation</translation>
+        <translation>Presentation</translation>
+    </message>
+    <message>
+        <source>Handout Master</source>
+        <comment>WP_SB_VIEW_HANDOUTMASTER</comment>
+        <translation>Handzettelmaster</translation>
+    </message>
+    <message>
+        <source>Notes Master</source>
+        <comment>WP_SB_VIEW_NOTESMASTER</comment>
+        <translation>Notizenmaster</translation>
+    </message>
+    <message>
+        <source>Notes Page</source>
+        <comment>WP_SB_VIEW_NOTESPAGE</comment>
+        <translation>Notizenseite</translation>
+    </message>
+    <message>
+        <source>Click to edit Master text styles</source>
+        <comment>WP_LEVER_TEXT_OF_FIRST_LEVER</comment>
+        <translation>Textmasterformate durch Klicken bearbeiten</translation>
+    </message>
+    <message>
+        <source>Second level</source>
+        <comment>WP_LEVER_TEXT_OF_SECOND_LEVER</comment>
+        <translation>Zweite Ebene</translation>
+    </message>
+    <message>
+        <source>Third level</source>
+        <comment>WP_LEVER_TEXT_OF_THIRD_LEVER</comment>
+        <translation>Dritte Ebene</translation>
+    </message>
+    <message>
+        <source>Fourth level</source>
+        <comment>WP_LEVER_TEXT_OF_FORTH_LEVER</comment>
+        <translation>Vierte Ebene</translation>
+    </message>
+    <message>
+        <source>Fifth level</source>
+        <comment>WP_LEVER_TEXT_OF_FIFTH_LEVER</comment>
+        <translation>Fünfte Ebene</translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <comment>WP_TEXT_OF_HEADER</comment>
+        <translation>Kopfzeile</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <comment>WP_TEXT_OF_FOOTER</comment>
+        <translation>Fußzeile</translation>
+    </message>
+    <message>
+        <source>newfile.pptx</source>
+        <comment>WpStartandFile</comment>
+        <translation>newfile.pptx</translation>
+    </message>
+    <message>
+        <source>Custom Layout</source>
+        <comment>WP_CUSTOM_LAYOUT</comment>
+        <translation>Benutzerdefiniertes Layout</translation>
+    </message>
+    <message>
+        <source>Slide Layout</source>
+        <comment>WP_SB_VIEW_SLIDELAYOUT</comment>
+        <translation>Folienlayout</translation>
+    </message>
+    <message>
+        <source>Click to add notes</source>
+        <comment>WP_ADD_NOTES</comment>
+        <translation>Klicken Sie, um Notizen hinzuzufügen</translation>
+    </message>
+    <message>
+        <source>No Notes</source>
+        <comment>WP_ADD_NOTES</comment>
+        <translation>Keine Notizen</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>WP_PH_SPNAME_TITLE</comment>
+        <translation>Titel</translation>
+    </message>
+    <message>
+        <source>Text Placeholder</source>
+        <comment>WP_PH_SPNAME_TEXT_PLACEHOLDER</comment>
+        <translation>Textplatzhalter</translation>
+    </message>
+    <message>
+        <source>Subtitle</source>
+        <comment>WP_PH_SPNAME_SUBTITLE</comment>
+        <translation>Untertitel</translation>
+    </message>
+    <message>
+        <source>Date Placeholder</source>
+        <comment>WP_PH_SPNAME_DATE_PLACEHOLDER</comment>
+        <translation>Datumsplatzhalter</translation>
+    </message>
+    <message>
+        <source>Slide Number Placeholder</source>
+        <comment>WP_PH_SPNAME_SLIDE_NUMBER_PLACEHOLDER</comment>
+        <translation>Foliennummernplatzhalter</translation>
+    </message>
+    <message>
+        <source>Footer Placeholder</source>
+        <comment>WP_PH_SPNAME_FOOTER_PLACEHOLDER</comment>
+        <translation>Fußzeilenplatzhalter</translation>
+    </message>
+    <message>
+        <source>Header Placeholder</source>
+        <comment>WP_PH_SPNAME_HEADER_PLACEHOLDER</comment>
+        <translation>Kopfzeilenplatzhalter</translation>
+    </message>
+    <message>
+        <source>Content Placeholder</source>
+        <comment>WP_PH_SPNAME_CONTENT_PLACEHOLDER</comment>
+        <translation>Inhaltsplatzhalter</translation>
+    </message>
+    <message>
+        <source>Chart Placeholder</source>
+        <comment>WP_PH_SPNAME_CHART_PLACEHOLDER</comment>
+        <translation>Diagrammplatzhalter</translation>
+    </message>
+    <message>
+        <source>Table Placeholder</source>
+        <comment>WP_PH_SPNAME_TABLE_PLACEHOLDER</comment>
+        <translation>Tabellenplatzhalter</translation>
+    </message>
+    <message>
+        <source>ClipArt Placeholder</source>
+        <comment>WP_PH_SPNAME_CLIPART_PLACEHOLDER</comment>
+        <translation>Onlinebild-Platzhalter</translation>
+    </message>
+    <message>
+        <source>SmartArt Placeholder</source>
+        <comment>WP_PH_SPNAME_SMARTART_PLACEHOLDER</comment>
+        <translation>SmartArt-Platzhalter</translation>
+    </message>
+    <message>
+        <source>Media Placeholder</source>
+        <comment>WP_PH_SPNAME_MEDIA_PLACEHOLDER</comment>
+        <translation>Medienplatzhalter</translation>
+    </message>
+    <message>
+        <source>Slide Image Placeholder</source>
+        <comment>WP_PH_SPNAME_SLIDE_IMAGE_PLACEHOLDER</comment>
+        <translation>Folienbildplatzhalter</translation>
+    </message>
+    <message>
+        <source>Picture Placeholder</source>
+        <comment>WP_PH_SPNAME_PICTURE_PLACEHOLDER</comment>
+        <translation>Bildplatzhalter</translation>
+    </message>
+    <message>
+        <source> The Slide Master: </source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_MASTER</comment>
+        <translation> Folienmaster: </translation>
+    </message>
+    <message>
+        <source> The Layout: </source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_LAYOUT</comment>
+        <translation> Layout:</translation>
+    </message>
+    <message>
+        <source>By using the slide %1</source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_USING_SLIDE</comment>
+        <translation>Verwendet von Folie %1</translation>
+    </message>
+    <message>
+        <source>No Slide Using</source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_NO_SLIDE_USING</comment>
+        <translation>Keine Folienverwendung</translation>
+    </message>
+    <message>
+        <source>No Title</source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_NO_TITLE</comment>
+        <translation>Kein Titel</translation>
+    </message>
+    <message>
+        <source>The following features cannot be saved in macro-free workbooks:
+ · VB project
+To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.
+</source>
+        <comment>WP_SAVEMACROWARNING</comment>
+        <translation>Die folgenden Features können in Arbeitsmappen ohne Makros nicht gespeichert werden:
+ · VB-Projekt
+Zum Speichern einer Datei mit diesen Features klicken Sie auf &apos;Nein&apos;. Wählen Sie dann einen Dateityp mit aktivierten Makros in der Liste &apos;Dateityp&apos; aus.
+Klicken Sie auf &apos;Ja&apos;, um die Datei als Arbeitsmappe ohne Makros zu speichern.
+</translation>
+    </message>
+    <message>
+        <source>We&apos;re sorry, something went wrong that might make WPS Presentation unstable. Please save your presentations and restart WPS Presentation</source>
+        <comment>WP_PASTEWARNING</comment>
+        <translation>Tut uns leid! Leider hat etwas nicht funktioniert, und WPS Presentation ist jetzt möglicherweise nicht mehr stabil. Bitte schließen Sie Ihre Präsentationen, und starten Sie WPS Presentation dann erneut.</translation>
+    </message>
+    <message>
+        <source>The media clips in this version of WPS Presentation will be lost (slide %1)</source>
+        <comment>WP_COMPATIBILITYCHECKER_MEDIACLIPS</comment>
+        <translation>Die Medienclips in dieser Version von WPS Presentation gehen verloren (Folie %1)</translation>
+    </message>
+    <message>
+        <source>default</source>
+        <comment>wpp_sLoaclTemplate_default</comment>
+        <translation>default</translation>
+    </message>
+    <message>
+        <source>3d map</source>
+        <comment>wpp_sLoaclTemplate_3d_map</comment>
+        <translation>3d map</translation>
+    </message>
+    <message>
+        <source>art_mountaineering</source>
+        <comment>wpp_sLoaclTemplate_art_mountaineering</comment>
+        <translation>art_mountaineering</translation>
+    </message>
+    <message>
+        <source>blue background</source>
+        <comment>wpp_sLoaclTemplate_blue_background</comment>
+        <translation>blue background</translation>
+    </message>
+    <message>
+        <source>blue crystal lattice</source>
+        <comment>wpp_sLoaclTemplate_blue_crystal_lattice</comment>
+        <translation>blue crystal lattice</translation>
+    </message>
+    <message>
+        <source>blue longing</source>
+        <comment>wpp_sLoaclTemplate_blue_longing</comment>
+        <translation>blue longing</translation>
+    </message>
+    <message>
+        <source>blue waves</source>
+        <comment>wpp_sLoaclTemplate_blue_waves</comment>
+        <translation>blue waves</translation>
+    </message>
+    <message>
+        <source>books</source>
+        <comment>wpp_sLoaclTemplate_books</comment>
+        <translation>books</translation>
+    </message>
+    <message>
+        <source>business calculation</source>
+        <comment>wpp_sLoaclTemplate_business_calculation</comment>
+        <translation>business calculation</translation>
+    </message>
+    <message>
+        <source>business cooperate</source>
+        <comment>wpp_sLoaclTemplate_business_cooperate</comment>
+        <translation>business cooperate</translation>
+    </message>
+    <message>
+        <source>business index</source>
+        <comment>wpp_sLoaclTemplate_business_index</comment>
+        <translation>business index</translation>
+    </message>
+    <message>
+        <source>business technology</source>
+        <comment>wpp_sLoaclTemplate_business_technolog_</comment>
+        <translation>business technology</translation>
+    </message>
+    <message>
+        <source>business_business affair</source>
+        <comment>wpp_sLoaclTemplate_business_business_affair</comment>
+        <translation>business_business affair</translation>
+    </message>
+    <message>
+        <source>business_stock fluctuation</source>
+        <comment>wpp_sLoaclTemplate_business_stock_fluctuation</comment>
+        <translation>business_stock fluctuation</translation>
+    </message>
+    <message>
+        <source>city silhouette</source>
+        <comment>wpp_sLoaclTemplate_city_silhouette</comment>
+        <translation>city silhouette</translation>
+    </message>
+    <message>
+        <source>classical_pelycosaur</source>
+        <comment>wpp_sLoaclTemplate_</comment>
+        <translation>classical_pelycosaur</translation>
+    </message>
+    <message>
+        <source>colourful</source>
+        <comment>wpp_sLoaclTemplate_colourful</comment>
+        <translation>colourful</translation>
+    </message>
+    <message>
+        <source>communications and dialogues</source>
+        <comment>wpp_sLoaclTemplate_communications_and_dialogues</comment>
+        <translation>communications and dialogues</translation>
+    </message>
+    <message>
+        <source>curtain background</source>
+        <comment>wpp_sLoaclTemplate_curtain_background</comment>
+        <translation>curtain background</translation>
+    </message>
+    <message>
+        <source>daily_loose-leaf binder</source>
+        <comment>wpp_sLoaclTemplate_daily_loose_leaf_binder</comment>
+        <translation>daily_loose-leaf binder</translation>
+    </message>
+    <message>
+        <source>data pie charts</source>
+        <comment>wpp_sLoaclTemplate_data_pie_charts</comment>
+        <translation>data pie charts</translation>
+    </message>
+    <message>
+        <source>dazzle dance smooth shadow</source>
+        <comment>wpp_sLoaclTemplate_dance_dazzle_smooth_shadow</comment>
+        <translation>dazzle dance smooth shadow</translation>
+    </message>
+    <message>
+        <source>deep blue technology</source>
+        <comment>wpp_sLoaclTemplate_deep_blue_technology</comment>
+        <translation>deep blue technology</translation>
+    </message>
+    <message>
+        <source>direction</source>
+        <comment>wpp_sLoaclTemplate_direction</comment>
+        <translation>direction</translation>
+    </message>
+    <message>
+        <source>friendly cooperation</source>
+        <comment>wpp_sLoaclTemplate_friendly_cooperation</comment>
+        <translation>friendly cooperation</translation>
+    </message>
+    <message>
+        <source>gear drawings</source>
+        <comment>wpp_sLoaclTemplate_gear_drawings</comment>
+        <translation>gear drawings</translation>
+    </message>
+    <message>
+        <source>gear drives</source>
+        <comment>wpp_sLoaclTemplate_gear_drives</comment>
+        <translation>gear drives</translation>
+    </message>
+    <message>
+        <source>global plan</source>
+        <comment>wpp_sLoaclTemplate_global_plan</comment>
+        <translation>global plan</translation>
+    </message>
+    <message>
+        <source>global trade</source>
+        <comment>wpp_sLoaclTemplate_global_trade</comment>
+        <translation>global trade</translation>
+    </message>
+    <message>
+        <source>government_celebration</source>
+        <comment>wpp_sLoaclTemplate_government_celebration</comment>
+        <translation>government_celebration</translation>
+    </message>
+    <message>
+        <source>government_five-pointed_red star</source>
+        <comment>wpp_sLoaclTemplate_government_five_pointed_red_star</comment>
+        <translation>government_five-pointed_red star</translation>
+    </message>
+    <message>
+        <source>green color</source>
+        <comment>wpp_sLoaclTemplate_green_color</comment>
+        <translation>green color</translation>
+    </message>
+    <message>
+        <source>green technology</source>
+        <comment>wpp_sLoaclTemplate_green_technology</comment>
+        <translation>green technology</translation>
+    </message>
+    <message>
+        <source>interpersonal relation</source>
+        <comment>wpp_sLoaclTemplate_interpersonal_relation</comment>
+        <translation>interpersonal relation</translation>
+    </message>
+    <message>
+        <source>landscape painting</source>
+        <comment>wpp_sLoaclTemplate_landscape_painting</comment>
+        <translation>landscape painting</translation>
+    </message>
+    <message>
+        <source>mythic curve</source>
+        <comment>wpp_sLoaclTemplate_mythic_curve</comment>
+        <translation>mythic curve</translation>
+    </message>
+    <message>
+        <source>new charpter</source>
+        <comment>wpp_sLoaclTemplate_new_charpter</comment>
+        <translation>new charpter</translation>
+    </message>
+    <message>
+        <source>new energe</source>
+        <comment>wpp_sLoaclTemplate_new_energe</comment>
+        <translation>new energe</translation>
+    </message>
+    <message>
+        <source>orange waves</source>
+        <comment>wpp_sLoaclTemplate_orange_waves</comment>
+        <translation>orange waves</translation>
+    </message>
+    <message>
+        <source>phantom effect</source>
+        <comment>wpp_sLoaclTemplate_phantom_effect</comment>
+        <translation>phantom effect</translation>
+    </message>
+    <message>
+        <source>pleasant garden</source>
+        <comment>wpp_sLoaclTemplate_pleasant_garden</comment>
+        <translation>pleasant garden</translation>
+    </message>
+    <message>
+        <source>red background</source>
+        <comment>wpp_sLoaclTemplate_red_background</comment>
+        <translation>red background</translation>
+    </message>
+    <message>
+        <source>red curtain</source>
+        <comment>wpp_sLoaclTemplate_red_curtain</comment>
+        <translation>red curtain</translation>
+    </message>
+    <message>
+        <source>science and technology preach</source>
+        <comment>wpp_sLoaclTemplate_science_and_technology_preach</comment>
+        <translation>science and technology preach</translation>
+    </message>
+    <message>
+        <source>sea widen sky</source>
+        <comment>wpp_sLoaclTemplate_sea_widen_sky</comment>
+        <translation>sea widen sky</translation>
+    </message>
+    <message>
+        <source>simple green</source>
+        <comment>wpp_sLoaclTemplate_simple_green</comment>
+        <translation>simple green</translation>
+    </message>
+    <message>
+        <source>small blackbord</source>
+        <comment>wpp_sLoaclTemplate_small_blackbord</comment>
+        <translation>small blackbord</translation>
+    </message>
+    <message>
+        <source>stationery</source>
+        <comment>wpp_sLoaclTemplate_stationery</comment>
+        <translation>stationery</translation>
+    </message>
+    <message>
+        <source>sweet memories</source>
+        <comment>wpp_sLoaclTemplate_sweet_memories</comment>
+        <translation>sweet memories</translation>
+    </message>
+    <message>
+        <source>time revolution</source>
+        <comment>wpp_sLoaclTemplate_time_revolution</comment>
+        <translation>time revolution</translation>
+    </message>
+    <message>
+        <source>training course</source>
+        <comment>wpp_sLoaclTemplate_training_course</comment>
+        <translation>training course</translation>
+    </message>
+    <message>
+        <source>up arrow</source>
+        <comment>wpp_sLoaclTemplate_up_arrow</comment>
+        <translation>up arrow</translation>
+    </message>
+    <message>
+        <source>world map</source>
+        <comment>wpp_sLoaclTemplate_world_map</comment>
+        <translation>world map</translation>
+    </message>
+    <message>
+        <source>Objects in this document contain links to files that cannot be found. The linked information will not be updated.</source>
+        <translation>Objekte in diesem Dokument enthalten Verknüpfungen zu nicht vorhandenen Dateien. Die verknüpften Informationen werden nicht aktualisiert.</translation>
+    </message>
+    <message>
+        <source>The linked file is unavailable and can&apos;t be updated.</source>
+        <comment>WP_LINKEDFILENOTAVALILABLE</comment>
+        <translation>Die verknüpfte Datei war nicht verfügbar und konnte nicht aktualisiert werden.</translation>
+    </message>
+    <message>
+        <source>Document has been locked by %s, Do you want to open it as read-only?
+(%s)</source>
+        <comment>WP_SaveFailureLockedByUser</comment>
+        <translation>Das Dokument wurde von %s gesperrt. Möchten Sie es schreibgeschützt öffnen?
+(%s)</translation>
+    </message>
+    <message>
+        <source>Click to edit Master subtitle style</source>
+        <comment>WP_TEXT_OF_SUBTITLE_IN_MASTER</comment>
+        <translation>Formatvorlage des Untertitelmasters durch Klicken bearbeiten</translation>
     </message>
 </context>
 <context>
@@ -3050,27 +3577,27 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Double-click to add chart</source>
         <comment>WpPLACEHOLDER_ADD_CHART</comment>
-        <translation>Diagramm durch Doppelklicken hinzufügen</translation>
+        <translation type="obsolete">Diagramm durch Doppelklicken hinzufügen</translation>
     </message>
     <message>
         <source>Double-click to add clip art</source>
         <comment>WpPLACEHOLDER_ADD_PICTURE</comment>
-        <translation>ClipArt durch Doppelklicken hinzufügen</translation>
+        <translation type="obsolete">ClipArt durch Doppelklicken hinzufügen</translation>
     </message>
     <message>
         <source>Double-click to add diagram or organization chart</source>
         <comment>WpPLACEHOLDER_ADD_ORGCHART</comment>
-        <translation>Diagramm oder Organigramm durch Doppelklicken hinzufügen</translation>
+        <translation type="obsolete">Diagramm oder Organigramm durch Doppelklicken hinzufügen</translation>
     </message>
     <message>
         <source>Double-click to add media clip</source>
         <comment>WpPLACEHOLDER_ADD_MEDIA</comment>
-        <translation>MediaClip durch Doppelklicken hinzufügen</translation>
+        <translation type="obsolete">MediaClip durch Doppelklicken hinzufügen</translation>
     </message>
     <message>
         <source>Double-click to add table</source>
         <comment>WpPLACEHOLDER_ADD_TABLE</comment>
-        <translation>Tabelle durch Doppelklicken hinzufügen</translation>
+        <translation type="obsolete">Tabelle durch Doppelklicken hinzufügen</translation>
     </message>
     <message>
         <source>Footer Area</source>
@@ -3101,6 +3628,36 @@ Please make sure the file is not locked by another user, or the target disk is n
         <source>Title Area for AutoLayouts</source>
         <comment>WpPLACEHOLDER_MST_TITLE</comment>
         <translation>Titelbereich für AutoLayouts</translation>
+    </message>
+    <message>
+        <source>Click icon to add chart</source>
+        <comment>WpPLACEHOLDER_ADD_CHART</comment>
+        <translation>Diagramm durch Klicken auf Symbol hinzufügen</translation>
+    </message>
+    <message>
+        <source>Click icon to add picture</source>
+        <comment>WpPLACEHOLDER_ADD_PICTURE</comment>
+        <translation>Bild durch Klicken auf Symbol hinzufügen</translation>
+    </message>
+    <message>
+        <source>Click icon to add media clip</source>
+        <comment>WpPLACEHOLDER_ADD_MEDIA</comment>
+        <translation>Medienclip durch Klicken auf Symbol hinzufügen</translation>
+    </message>
+    <message>
+        <source>Click icon to add table</source>
+        <comment>WpPLACEHOLDER_ADD_TABLE</comment>
+        <translation>Tabelle durch Klicken auf Symbol hinzufügen</translation>
+    </message>
+    <message>
+        <source>Click icon to add smartArt</source>
+        <comment>WpPLACEHOLDER_ADD_ORGCHART</comment>
+        <translation>SmartArt-Grafik durch Klicken auf Symbol hinzufügen</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <comment>WpPLACEHOLDER_MST_PICTURE</comment>
+        <translation>Grafik</translation>
     </message>
 </context>
 <context>
@@ -3226,7 +3783,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>&amp;Advanced</source>
         <comment>wpp_sCaptionAdvanced</comment>
-        <translation type="unfinished">Erweitert</translation>
+        <translation>&amp;Weitere</translation>
     </message>
     <message>
         <source>&amp;Bold</source>
@@ -3241,22 +3798,22 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>&amp;Clockwise</source>
         <comment>wpp_sAnimDirectionClockwise2</comment>
-        <translation type="unfinished">Uhrzeigersinn</translation>
+        <translation>&amp;Uhrzeigersinn</translation>
     </message>
     <message>
         <source>&amp;Color</source>
         <comment>wpp_sMenuDescriptionColor2</comment>
-        <translation type="unfinished">Farbe</translation>
+        <translation>&amp;Farbe</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
         <comment>wpp_sbtnCaptionContinue</comment>
-        <translation type="unfinished">Weiter</translation>
+        <translation>&amp;Weiter</translation>
     </message>
     <message>
         <source>&amp;Down</source>
         <comment>wpp_sAnimDirectionDown2</comment>
-        <translation type="unfinished">Nach unten</translation>
+        <translation>&amp;Nach unten</translation>
     </message>
     <message>
         <source>&amp;Fill Color</source>
@@ -3271,22 +3828,22 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>&amp;Font Color</source>
         <comment>wpp_sMenuDescriptionFontColor2</comment>
-        <translation type="unfinished">Schriftfarbe</translation>
+        <translation>Schri&amp;ftfarbe</translation>
     </message>
     <message>
         <source>&amp;Font Size</source>
         <comment>wpp_sMenuDescriptionFontSize2</comment>
-        <translation type="unfinished">Schriftgrad</translation>
+        <translation>S&amp;chriftgrad</translation>
     </message>
     <message>
         <source>&amp;Font Style</source>
         <comment>wpp_sMenuDescriptionFontStyle2</comment>
-        <translation type="unfinished">Schriftschnitt</translation>
+        <translation>S&amp;chriftschnitt</translation>
     </message>
     <message>
         <source>&amp;Full Spin</source>
         <comment>wpp_sAnimCircleFullSpin2</comment>
-        <translation type="unfinished">Komplette Drehung</translation>
+        <translation>&amp;Volle Drehung</translation>
     </message>
     <message>
         <source>&amp;Half Spin</source>
@@ -3296,7 +3853,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>&amp;Hide Advanced Timeline</source>
         <comment>wpp_sHideAdvancedTimeline</comment>
-        <translation type="unfinished">Erweiterte Zeitachse ausblenden</translation>
+        <translation>Erweiterte &amp;Zeitachse ausblenden</translation>
     </message>
     <message>
         <source>&amp;Horizontal</source>
@@ -3311,7 +3868,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>&amp;In</source>
         <comment>wpp_sAnimDirectionIn2</comment>
-        <translation type="unfinished">Nach oben</translation>
+        <translation>&amp;Hinein</translation>
     </message>
     <message>
         <source>&amp;Italic</source>
@@ -3321,12 +3878,12 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>&amp;Larger</source>
         <comment>wpp_sAnimDimensionLarger2</comment>
-        <translation type="unfinished">&amp;Größer</translation>
+        <translation>&amp;Größer</translation>
     </message>
     <message>
         <source>&amp;Left Up</source>
         <comment>wpp_sAnimDirectionLeftUp2</comment>
-        <translation type="unfinished">&amp;Links aufwärts</translation>
+        <translation>&amp;Nach links oben</translation>
     </message>
     <message>
         <source>&amp;Line Color</source>
@@ -3336,7 +3893,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>&amp;More Colors(&amp;M)...</source>
         <comment>wpp_sAnimMoreColor2</comment>
-        <translation type="unfinished">Weitere Farben...</translation>
+        <translation>&amp;Weitere Farben(&amp;W)...</translation>
     </message>
     <message>
         <source>&amp;Normal</source>
@@ -3346,7 +3903,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>&amp;Out</source>
         <comment>wpp_sAnimDirectionOut2</comment>
-        <translation type="unfinished">Nach außen</translation>
+        <translation>H&amp;eraus</translation>
     </message>
     <message>
         <source>&amp;Quarter Spin</source>
@@ -3371,22 +3928,22 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>&amp;Show Advanced Timeline</source>
         <comment>wpp_sShowAdvancedTimeline</comment>
-        <translation type="unfinished">Erweiterte Zeitachse anzeigen</translation>
+        <translation>Erweiterte &amp;Zeitachse anzeigen</translation>
     </message>
     <message>
         <source>&amp;Smaller</source>
         <comment>wpp_sAnimDimensionSmaller2</comment>
-        <translation type="unfinished">&amp;Kleiner</translation>
+        <translation>&amp;Kleiner</translation>
     </message>
     <message>
         <source>&amp;Tiny</source>
         <comment>wpp_sAnimDimensionTiny2</comment>
-        <translation type="unfinished">Winzig</translation>
+        <translation>&amp;Sehr klein</translation>
     </message>
     <message>
         <source>&amp;Two Spin</source>
         <comment>wpp_sAnimCircleTwoSpins2</comment>
-        <translation type="unfinished">Zwei Drehungen</translation>
+        <translation>&amp;Zwei Drehungen</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
@@ -3396,7 +3953,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>&amp;Up</source>
         <comment>wpp_sAnimDirectionUp2</comment>
-        <translation type="unfinished">Nach oben</translation>
+        <translation>Nach &amp;oben</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
@@ -3416,7 +3973,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>(None)</source>
         <comment>wpp_sBracketNone</comment>
-        <translation>(keine)</translation>
+        <translation>(Keine)</translation>
     </message>
     <message>
         <source>(Use Asian text font)</source>
@@ -3636,7 +4193,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Am&amp;ount</source>
         <comment>wpp_sMenuDescriptionAmount2</comment>
-        <translation type="unfinished">Betrag</translation>
+        <translation>Betra&amp;g</translation>
     </message>
     <message>
         <source>Amount</source>
@@ -3846,7 +4403,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>C&amp;ounterclockwise</source>
         <comment>wpp_sAnimDirectionCounterclockwise2</comment>
-        <translation type="unfinished">Gegen Uhrzeigersinn</translation>
+        <translation>&amp;Gegen Uhrzeigersinn</translation>
     </message>
     <message>
         <source>C&amp;ustom(&amp;U): </source>
@@ -3866,7 +4423,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Cannot add word“%s”.</source>
         <comment>wpp_sAddWordFailed</comment>
-        <translation>“%s” kann nicht hinzugefügt werden.</translation>
+        <translation>„%s“ kann nicht hinzugefügt werden.</translation>
     </message>
     <message>
         <source>Cannot locate the path. Please input a full path.</source>
@@ -4271,7 +4828,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Duratio&amp;n:</source>
         <comment>wpp_sDurationAndKey</comment>
-        <translation type="unfinished">Dauer:</translation>
+        <translation>&amp;Dauer:</translation>
     </message>
     <message>
         <source>Duration:</source>
@@ -4692,12 +5249,12 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>Grow and Turn</source>
         <comment>wpp_sAnimEnterEffectTextGrowAndTurn</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vergrößern und drehen</translation>
     </message>
     <message>
         <source>Grow and Turn</source>
         <comment>wpp_sAnimExitEffectTextGrowAndTurn</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vergrößern und drehen</translation>
     </message>
     <message>
         <source>Grow/Shrink</source>
@@ -4757,7 +5314,7 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>Hug&amp;e</source>
         <comment>wpp_sAnimDimensionHuge2</comment>
-        <translation type="unfinished">Riesengroß</translation>
+        <translation>&amp;Sehr groß</translation>
     </message>
     <message>
         <source>Hyperlink to Other File</source>
@@ -4772,17 +5329,17 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>I&amp;n Slightly</source>
         <comment>wpp_sAnimDirectionOutSlightly2</comment>
-        <translation type="unfinished">Etwas nach innen</translation>
+        <translation>Leicht &amp;herein</translation>
     </message>
     <message>
         <source>In</source>
         <comment>wpp_sAnimDirectionIn</comment>
-        <translation type="unfinished">Nach innen</translation>
+        <translation>Herein</translation>
     </message>
     <message>
         <source>In From Screen &amp;Bottom</source>
         <comment>wpp_sAnimDirectionOutFromScreenBottom2</comment>
-        <translation type="unfinished">Nach innen vom unteren Bildschirmbereich</translation>
+        <translation>Herein aus Bildschirm und von &amp;unten</translation>
     </message>
     <message>
         <source>In From Screen Bottom</source>
@@ -4797,12 +5354,12 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>In To Screen &amp;Bottom</source>
         <comment>wpp_sAnimDirectionInToScreenBottom2</comment>
-        <translation type="unfinished">Nach innen zum unteren Bildschirmbereich</translation>
+        <translation>Herein zum Bildschirm und von &amp;unten</translation>
     </message>
     <message>
         <source>In To Screen &amp;Center</source>
         <comment>wpp_sAnimDirectionOutToScreenCenter2</comment>
-        <translation>Nach innen zur Bildschirmmitte</translation>
+        <translation>&amp;Nach innen zur Bildschirmmitte</translation>
     </message>
     <message>
         <source>In To Screen Center</source>
@@ -4857,7 +5414,7 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>L&amp;eft Down</source>
         <comment>wpp_sAnimDirectionLeftDown2</comment>
-        <translation type="unfinished">Nach links unten</translation>
+        <translation>&amp;Nach links unten</translation>
     </message>
     <message>
         <source>Ledger Paper(11x17 in)</source>
@@ -4942,12 +5499,12 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>Master: Body</source>
         <comment>wpp_sMasterText</comment>
-        <translation>Master: Textkörper</translation>
+        <translation type="obsolete">Master: Textkörper</translation>
     </message>
     <message>
         <source>Master: Title</source>
         <comment>wpp_sMasterTitle</comment>
-        <translation>Master: Titel</translation>
+        <translation type="obsolete">Master: Titel</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -5007,7 +5564,7 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>Movie Oper&amp;ation</source>
         <comment>wpp_sMovieOperation</comment>
-        <translation>Filmoperation</translation>
+        <translation>Filmoper&amp;ation</translation>
     </message>
     <message>
         <source>Neutron</source>
@@ -5042,7 +5599,7 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>O&amp;ut Slightly</source>
         <comment>wpp_sAnimDirectionInSlightly2</comment>
-        <translation type="unfinished">Etwas nach außen</translation>
+        <translation>Leicht &amp;heraus</translation>
     </message>
     <message>
         <source>Octagon</source>
@@ -5072,7 +5629,7 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>Out From Screen &amp;Center</source>
         <comment>wpp_sAnimDirectionInFromScreenCenter2</comment>
-        <translation type="unfinished">Nach außen von Bildschirmmitte</translation>
+        <translation>Heraus vom Bildschirm und &amp;zentriert</translation>
     </message>
     <message>
         <source>Out From Screen Center</source>
@@ -5442,12 +5999,12 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>Sound Oper&amp;ation</source>
         <comment>wpp_sSoundOperation</comment>
-        <translation>Soundoperation</translation>
+        <translation>Soundoper&amp;ation</translation>
     </message>
     <message>
         <source>Sp&amp;eed:</source>
         <comment>wpp_sSpeedAndKey</comment>
-        <translation type="unfinished">Geschwindigkeit:</translation>
+        <translation>&amp;Geschwindigkeit:</translation>
     </message>
     <message>
         <source>Special</source>
@@ -5507,17 +6064,17 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>Split &amp;Horizontal In</source>
         <comment>wpp_sAnimDirectionHorizontalIn2</comment>
-        <translation type="unfinished">Horizontal schließen</translation>
+        <translation>&amp;Horizontal geteilt herein</translation>
     </message>
     <message>
         <source>Split &amp;Vertical In</source>
         <comment>wpp_sAnimDirectionVerticalIn2</comment>
-        <translation type="unfinished">Vertikal schließen</translation>
+        <translation>&amp;Vertikal geteilt herein</translation>
     </message>
     <message>
         <source>Split H&amp;orizontal Out</source>
         <comment>wpp_sAnimDirectionHorizontalOut2</comment>
-        <translation type="unfinished">Horizontal entfalten</translation>
+        <translation>&amp;Horizontal geteilt heraus</translation>
     </message>
     <message>
         <source>Split Horizontal In</source>
@@ -5532,7 +6089,7 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>Split V&amp;ertical Out</source>
         <comment>wpp_sAnimDirectionVerticalOut2</comment>
-        <translation type="unfinished">Vertikal entfalten</translation>
+        <translation>&amp;Vertikal geteilt heraus</translation>
     </message>
     <message>
         <source>Split Vertical In</source>
@@ -5677,7 +6234,7 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>The file %s has not been saved, so you cannot restore it back to the list. Are you sure to remove it from the list?</source>
         <comment>wpp_sNotSavedFile</comment>
-        <translation>Weil die Datei noch nicht gespeichert wird, können Sie sie nicht zurück auf die Liste wiederherstellen. Möchten Sie die Datei wirklich von der Liste entfernen?</translation>
+        <translation>Weil die Datei %s noch nicht gespeichert wird, können Sie sie nicht zurück auf die Liste wiederherstellen. Möchten Sie die Datei wirklich von der Liste entfernen?</translation>
     </message>
     <message>
         <source>The file or folder that you named already exists. Please use another name.</source>
@@ -5692,7 +6249,7 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>The last color scheme cannot be deleted. A presentation must always contain at least one standard color scheme.</source>
         <comment>wpp_sCannotBeDelete</comment>
-        <translation>Löschen des letzten Farbschemas nicht möglich.<byte value="x17"/>Eine Präsentation muss immer mindestens ein Standardfarbschema enthalten.</translation>
+        <translation>Löschen des letzten Farbschemas nicht möglich.Eine Präsentation muss immer mindestens ein Standardfarbschema enthalten.</translation>
     </message>
     <message>
         <source>The length of the folder path bellow is %d, but it cannot be longer than 255. Please modify it.
@@ -5706,7 +6263,7 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>The name &quot;%s&quot; is already in use. Please modify the name by changing at least 1 of the first 20 characters of &quot;%s&quot;.</source>
         <comment>wpp_sNameAlreadyInUse</comment>
-        <translation>Der Name &quot;%s&quot; ist bereits in Benutzung. Bitte ändern Sie zumindest eines der ersten 20 Zeichen von &quot;%s&quot;. </translation>
+        <translation>Der Name „%s“ ist bereits in Benutzung. Bitte ändern Sie zumindest eines der ersten 20 Zeichen von „%s“. </translation>
     </message>
     <message>
         <source>The password confirmation does not match.</source>
@@ -5771,22 +6328,22 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>To &amp;Bottom</source>
         <comment>wpp_sAnimDirectionToBottom2</comment>
-        <translation type="unfinished">Nach &amp;unten</translation>
+        <translation>Nach &amp;unten</translation>
     </message>
     <message>
         <source>To &amp;Left</source>
         <comment>wpp_sAnimDirectionToLeft2</comment>
-        <translation type="unfinished">Nach &amp;links</translation>
+        <translation>Nach &amp;links</translation>
     </message>
     <message>
         <source>To &amp;Right</source>
         <comment>wpp_sAnimDirectionToRight2</comment>
-        <translation type="unfinished">Nach &amp;rechts</translation>
+        <translation>Nach &amp;rechts</translation>
     </message>
     <message>
         <source>To &amp;Top</source>
         <comment>wpp_sAnimDirectionToTop2</comment>
-        <translation type="unfinished">Nach &amp;oben</translation>
+        <translation>Nach &amp;oben</translation>
     </message>
     <message>
         <source>To Bottom</source>
@@ -5806,12 +6363,12 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>To Bottom-L&amp;eft</source>
         <comment>wpp_sAnimDirectionToBottomLeft2</comment>
-        <translation type="unfinished">Nach unten l&amp;inks</translation>
+        <translation>Nach &amp;unten links</translation>
     </message>
     <message>
         <source>To Bottom-R&amp;ight</source>
         <comment>wpp_sAnimDirectionToBottomRight2</comment>
-        <translation type="unfinished">Nach unten r&amp;echts</translation>
+        <translation>Nach u&amp;nten rechts</translation>
     </message>
     <message>
         <source>To Left</source>
@@ -5826,12 +6383,12 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>To T&amp;op-Left</source>
         <comment>wpp_sAnimDirectionToTopLeft2</comment>
-        <translation type="unfinished">Nach o&amp;ben links</translation>
+        <translation>Nach &amp;oben links</translation>
     </message>
     <message>
         <source>To To&amp;p-Right</source>
         <comment>wpp_sAnimDirectionToTopRight2</comment>
-        <translation type="unfinished">Nach ob&amp;en rechts</translation>
+        <translation>Nach o&amp;ben rechts</translation>
     </message>
     <message>
         <source>To Top</source>
@@ -6061,7 +6618,7 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>pt</source>
         <comment>wpp_sPt</comment>
-        <translation>pt</translation>
+        <translation>Pt</translation>
     </message>
     <message>
         <source>WPS Presentation encountered an error while trying exporting to PDF.</source>
@@ -6071,17 +6628,17 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>WPS Presentation has finished searching the presentation.</source>
         <comment>wpp_sFindComplete</comment>
-        <translation>WPs-Präsentation hat die Suche in der Präsentation beendet.</translation>
+        <translation>WPS Presentation hat die Suche in der Präsentation beendet.</translation>
     </message>
     <message>
         <source>Hyperlink to Other WPS Presentation Files</source>
         <comment>wpp_sLinkToWppFileCaption</comment>
-        <translation>Hyperlink zur anderen WPS-Präsentation-Dateien</translation>
+        <translation>Hyperlink zur anderen WPS Presentation Dateien</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the presentation. The search item was not found.</source>
         <comment>wpp_sNotFound</comment>
-        <translation>WPS-Präsentation hat die Suche in der Präsentation beendet. Das gesuchte Element wurde nicht gefunden.</translation>
+        <translation>WPS Presentation hat die Suche in der Präsentation beendet. Das gesuchte Element wurde nicht gefunden.</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the presentation. %d replacements were made.</source>
@@ -6091,22 +6648,57 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
         <comment>wpp_sRemoveDefaultDict</comment>
-        <translation>Das Entfernen des Benutzerwörterbuchs kann die Verwendung des Benutzerwörterbuchs in anderen WPS-Office-Anwendungen beeinträchtigen. Möchten Sie den Vorgang fortsetzen?</translation>
+        <translation>Das Entfernen des Benutzerwörterbuchs kann die Verwendung des Benutzerwörterbuchs in anderen WPS Office-Anwendungen beeinträchtigen. Möchten Sie den Vorgang fortsetzen?</translation>
     </message>
     <message>
         <source>Out Slightly</source>
         <comment>wpp_sAnimDirectionInSlightly</comment>
-        <translation type="unfinished"></translation>
+        <translation>Etwas nach außen</translation>
     </message>
     <message>
         <source>Canceled by user.</source>
         <comment>wpp_sCancelByUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vom Benutzer abgebrochen.</translation>
     </message>
     <message>
         <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
         <comment>wpp_sCanNotOpenFolder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Der Ordner %s kann nicht geöffnet werden. Es ist vielleicht nicht in einem gültigen Pfad, oder mit Kennwort geschützt, oder der Ordnerpfad ist nicht vorhanden, oder der Ordnerpfad ist zu lang.</translation>
+    </message>
+    <message>
+        <source>Master: %1</source>
+        <comment>wpp_sMasterType_Master</comment>
+        <translation>Master: %1</translation>
+    </message>
+    <message>
+        <source>Layout: %1</source>
+        <comment>wpp_sMasterType_Layout</comment>
+        <translation>Layout: %1</translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <comment>wpp_sMasterText</comment>
+        <translation>Textkörper</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>wpp_sMasterTitle</comment>
+        <translation>Titel</translation>
+    </message>
+    <message>
+        <source>date</source>
+        <comment>wpp_sMasterDate</comment>
+        <translation>Datum</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <comment>wpp_sMasterFooter</comment>
+        <translation>Fußzeile</translation>
+    </message>
+    <message>
+        <source>Slider Number</source>
+        <comment>wpp_sMasterSliderNumber</comment>
+        <translation>Schiebereglernummer</translation>
     </message>
 </context>
 <context>
@@ -6115,13 +6707,13 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
         <source>&quot;%s&quot; is read-only.
  Do you want to save your changes to another file?</source>
         <comment>WpREADONLYSAVEAS</comment>
-        <translation>&quot;%s&quot; ist Schreibgeschützt.
+        <translation>„%s“ ist Schreibgeschützt.
 Möchten Sie die Änderungen unter einer anderen Datei Speichern?</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
         <comment>WP_FontNameNotExisitSecondHalf</comment>
-        <translation>Diese Schriftart ist im System nicht verfügbar. Möchten Sie das trotzdem verwenden?</translation>
+        <translation>“ diese Schriftart ist im System nicht verfügbar. Möchten Sie das trotzdem verwenden?</translation>
     </message>
     <message>
         <source>*.*</source>
@@ -6474,8 +7066,10 @@ Möchten Sie die Änderungen unter einer anderen Datei Speichern?</translation>
 •Please copy the contents and paste them into a new file.
 •Give up the changes to this file.</source>
         <comment>WpSAVEFILEFAIL</comment>
-        <translation type="unfinished">Speichern fehlgeschlagen. Versuchen Sie eine der folgenden Vorgehensweisen:
-</translation>
+        <translation>Speichern fehlgeschlagen. Sie können Folgendes versuchen: 
+•Vorherige Vorgänge [Rückgängig] machen und dann erneut [Speichern].
+•Inhalt kopieren und in eine neue Datei einfügen.
+•Änderungen an dieser Datei verwerfen.</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -6930,7 +7524,7 @@ Möchten Sie die Änderungen unter einer anderen Datei Speichern?</translation>
     <message>
         <source>Searching to the whole file is completed, and has replaced %i items.</source>
         <comment>WP_REPLACEALL_OKFORMAT</comment>
-        <translation>Durchsuchen der Datei abgeschlossen. %s Elements werden ersetzt.</translation>
+        <translation>Durchsuchen der Datei abgeschlossen. %d Elements werden ersetzt.</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed, and no search item was found.</source>
@@ -6982,7 +7576,8 @@ Layout</source>
         <source>Slide 
 Layout</source>
         <comment>WpSLIDELAYOUT_CAPTION</comment>
-        <translation></translation>
+        <translation>Folien- 
+layout</translation>
     </message>
     <message>
         <source>Slide Number</source>
@@ -7117,12 +7712,12 @@ Layout</source>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
         <comment>WP_OPENFILE</comment>
-        <translation type="obsolete">Alle Dateien(*.*)|*.*|Gemeinsame Dateien(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS-Präsentationsdateien(*.dps)|*.dps|WPS-Präsentationsvorlagen(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003-Präsentationen(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Präsentationsvorlagen(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Präsentationen(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
+        <translation type="obsolete">Alle Dateien(*.*)|*.*|Gemeinsame Dateien(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentationsdateien(*.dps)|*.dps|WPS Presentationsvorlagen(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003-Präsentationen(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Präsentationsvorlagen(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Präsentationen(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
     </message>
     <message>
         <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
         <comment>WP_SAVEFILE</comment>
-        <translation type="obsolete">WPS-Präsentationsdatei(*.dps)|*.dps|WPS-Präsentationsvorlage(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Präsentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003-Präsentationsvorlage(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003-Bildschirmpräsentationsdateien (*.pps)|*.pps|JPEG-Dateiformat(*.jpg)|*.jpg|PNG-Format(*.png)|*.png|TIFF Tag Image File Format (*.tif)|*.tif|Geräteunabhängige Bitmap(*.bmp)|*.bmp</translation>
+        <translation type="obsolete">WPS-Präsentationsdatei(*.dps)|*.dps|WPS-Präsentationsvorlage(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003-Präsentationsvorlage(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003-Bildschirmpräsentationsdateien (*.pps)|*.pps|JPEG-Dateiformat(*.jpg)|*.jpg|PNG-Format(*.png)|*.png|TIFF Tag Image File Format (*.tif)|*.tif|Geräteunabhängige Bitmap(*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
@@ -7153,42 +7748,23 @@ Check</source>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
         <comment>WP_TEMPLATEFILE</comment>
-        <translation>Gemeinsame Dateien(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</translation>
+        <translation type="obsolete">Gemeinsame Dateien(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</translation>
     </message>
     <message>
         <source>Involved Template</source>
         <comment>WpINVOLVEDTEMPLATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verwendete Vorlage</translation>
     </message>
     <message>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>WpMsgBackupToDef</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler während der Sicherung aufgetreten. Dies liegt womöglich daran, dass für das von Ihnen verwendete Sicherungsverzeichnis keine Schreibberechtigung vorliegt. Verwenden Sie ein anderes Sicherungsverzeichnis.
+Diese Sicherung wird unter (%s) gespeichert.</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
         <comment>WpDescAll</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</source>
-        <comment>WpDescCommon</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation Files(*.dps)</source>
-        <comment>WpDescWPP</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation Templates(*.dpt)</source>
-        <comment>WpDescWPPTemp</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
-        <comment>WpDescPptPps</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7199,16 +7775,6 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
         <comment>WpDescPps</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
-        <comment>WpDescPptTemp</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)</source>
-        <comment>WpDescPptx</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7245,6 +7811,217 @@ This backup will be saved to(%s)</source>
         <source>Each slide in your presentation has been saved as a separate file in the folder
 %s .</source>
         <comment>WpSAVEIMAGEHINT</comment>
+        <translation>Jede Folie in der Präsentation wurde als separate Datei im Ordner 
+%s gespeichert.</translation>
+    </message>
+    <message>
+        <source>Paragraphs</source>
+        <comment>WpPARAGRAPHS</comment>
+        <translation>Absätze</translation>
+    </message>
+    <message>
+        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps</source>
+        <comment>WP_SAVEFILE</comment>
+        <translation type="obsolete">WPS Presentation datei(*.dps)|*.dps|WPS Presentation svorlage(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003-Präsentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003-Präsentationsvorlage(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003-Bildschirmpräsentation(*.pps)|*.pps</translation>
+    </message>
+    <message>
+        <source>JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
+        <comment>WP_SAVEFILE_IMAGES</comment>
+        <translation>JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Geräteunabhängige Bitmap(*.bmp)|*.bmp</translation>
+    </message>
+    <message>
+        <source>MPEG-4 Video(*.mp4)|*.mp4</source>
+        <comment>WP_SAVEFILE_VIDEO_MP4</comment>
+        <translation>MPEG-4 Video(*.mp4)|*.mp4</translation>
+    </message>
+    <message>
+        <source>Windows Media Video(*.wmv)|*.wmv</source>
+        <comment>WP_SAVEFILE_VIDEO_WMV</comment>
+        <translation>Windows Media Video(*.wmv)|*.wmv</translation>
+    </message>
+    <message>
+        <source>Audio Video Interleave(*.avi)|*.avi</source>
+        <comment>WP_SAVEFILE_VIDEO_AVI</comment>
+        <translation>Audio Video Interleave(*.avi)|*.avi</translation>
+    </message>
+    <message>
+        <source>Open Web Media Video(*.webm)|*.webm</source>
+        <comment>WP_SAVEFILE_VIDEO_WEBM</comment>
+        <translation>Open Web Media Video(*.webm)|*.webm</translation>
+    </message>
+    <message>
+        <source>|</source>
+        <comment>WpOpenSaveFilterSeperator</comment>
+        <translation>|</translation>
+    </message>
+    <message>
+        <source>\WPS Video\WPS Video</source>
+        <comment>WpVideoSaveRelativePath</comment>
+        <translation>\WPS-Video\WPS-Video</translation>
+    </message>
+    <message>
+        <source>\WPS Image\WPS Image</source>
+        <comment>WpImageSaveRelativePath</comment>
+        <translation>\WPS-Bild\WPS-Bild</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)|*.pptx; *.ppsx; *.pptm; *.ppsm|Microsoft PowerPoint 2007/2010 Presentation Templates(*.potx; *.potm)|*.potx; *.potm</source>
+        <comment>WP_OPENFILE</comment>
+        <translation type="obsolete">Alle Dateien (*.*)|*.*|Gemeinsame Dateien (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx|WPS Presentation-Dateien (*.dps)|*.dps|WPS Presentation-Vorlagen (*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003-Präsentationen (*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003-Präsentationsvorlagen (*.pot)|*.pot|Microsoft PowerPoint 2007/2010-Präsentationen (*.pptx; *.ppsx; *.pptm; *.ppsm)|*.pptx; *.ppsx; *.pptm; *.ppsm|Microsoft PowerPoint 2007/2010-Präsentationsvorlagen (*.potx; *.potm)|*.potx; *.potm</translation>
+    </message>
+    <message>
+        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|Microsoft PowerPoint 2007/2010 Presentation(*.pptx)|*.pptx|Microsoft PowerPoint 2007/2010 Macro Enabled Presentation(*.pptm)|*.pptm|Microsoft PowerPoint 2007/2010 Presentation Template(*.potx)|*.potx|Microsoft PowerPoint 2007/2010 Macro Enabled Presentation Template(*.potm)|*.potm|Microsoft PowerPoint 2007/2010 Show(*.ppsx)|*.ppsx|Microsoft PowerPoint 2007/2010 Macro Enabled Show(*.ppsm)|*.ppsm</source>
+        <comment>WP_SAVEFILE</comment>
+        <translation type="obsolete">WPS Presentation-Datei (*.dps)|*.dps|WPS Presentation-Vorlage (*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003-Präsentation (*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003-Präsentationsvorlage (*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003-Präsentation (*.pps)|*.pps|Microsoft PowerPoint 2007/2010-Präsentationh (*.pptx)|*.pptx|Microsoft PowerPoint 2007/2010-Präsentation mit Makro (*.pptm)|*.pptm|Microsoft PowerPoint 2007/2010-Präsentationsvorlage (*.potx)|*.potx|Microsoft PowerPoint 2007/2010-Präsentationsvorlage mit Makro (*.potm)|*.potm|Microsoft PowerPoint 2007/2010-Präsentation (*.ppsx)|*.ppsx|Microsoft PowerPoint 2007/2010-Präsentations mit Makro (*.ppsm)|*.ppsm</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|WPS Presentation 2007/2010 Files(*.dpsx)|*.dpsx|WPS Presentation 2007/2010 Templates(*.dptx)|*.dptx|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
+        <comment>WP_OPENFILEEX</comment>
+        <translation type="obsolete">Alle Dateien (*.*)|*.*|Gemeinsame Dateien (*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation-Dateien (*.dps)|*.dps|WPS Presentation-Vorlagen (*.dpt)|*.dpt|WPS Presentation 2007/2010-Dateien (*.dpsx)|*.dpsx|WPS Presentation 2007/2010-Vorlagen (*.dptx)|*.dptx|Microsoft PowerPoint 97/2000/XP/2003-Präsentationen (*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003-Präsentationsvorlagen (*.pot)|*.pot|Microsoft PowerPoint 2007/2010-Präsentationsvorlagen (*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
+    </message>
+    <message>
+        <source>WPS Presentation 2007/2010 Files(*.dpsx)|*.dpsx|WPS Presentation 2007/2010 Templates(*.dptx)|*.dptx|WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 2007/2010 Presentation(*.pptx)|*.pptx|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps</source>
+        <comment>WP_SAVEFILEEX</comment>
+        <translation type="obsolete">WPS Presentation 2007/2010-Dateien (*.dpsx)|*.dpsx|WPS Presentation 2007/2010-Vorlagen (*.dptx)|*.dptx|WPS Presentation-Datei (*.dps)|*.dps|WPS Presentation-Vorlage (*.dpt)|*.dpt|Microsoft PowerPoint 2007/2010-Präsentation (*.pptx)|*.pptx|Microsoft PowerPoint 97/2000/XP/2003-Präsentation (*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003-Präsentationsvorlage (*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003-Präsentation (*.pps)|*.pps</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*.potx;*.potm;*.thmx)|*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*potx;*.potm;*.thmx</source>
+        <comment>WP_TEMPLATEFILE</comment>
+        <translation>Gemeinsame Dateien (*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*.potx;*.potm;*.thmx)|*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*potx;*.potm;*.thmx</translation>
+    </message>
+    <message>
+        <source>Edit Chart Datasource</source>
+        <comment>WpEDITCHARTDATASOURCE</comment>
+        <translation>Diagrammdatenquelle bearbeiten</translation>
+    </message>
+    <message>
+        <source>Insert Layout</source>
+        <comment>WpINSERTLAYOUT</comment>
+        <translation>Layout einfügen</translation>
+    </message>
+    <message>
+        <source>Format Text</source>
+        <comment>WpFormatText</comment>
+        <translation>Text formatieren</translation>
+    </message>
+    <message>
+        <source>Edit Table Borders</source>
+        <comment>WpEditTableBorders</comment>
+        <translation>Tabellenrahmen bearbeiten</translation>
+    </message>
+    <message>
+        <source>AddPlaceholder</source>
+        <comment>WpAddPlaceHolder</comment>
+        <translation>Platzhalter hinzufügen</translation>
+    </message>
+    <message>
+        <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
+        <comment>WpChartEditDataSourceErr</comment>
+        <translation>Das Diagrammdatenraster ist bereits in &quot;%s&quot; geöffnet. Um die Daten für dieses Diagramm zu bearbeiten, müssen Sie es zunächst schließen.</translation>
+    </message>
+    <message>
+        <source>Update Link</source>
+        <comment>WpUPDATELINK</comment>
+        <translation>Verknüpfung aktualisieren</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <comment>TX_WPP_CF_HYPERLINK</comment>
+        <translation>Hyperlink</translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format(*.uof)|*.uof</source>
+        <comment>WP_SAVEFILE_UOF</comment>
+        <translation type="obsolete">Chinese Office Document Format (*.uof)|*.uof</translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>WP_NoSynonymsSuggestions_Caption</comment>
+        <translation type="obsolete">(Keine Vorschläge für Synonyme)</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)</source>
+        <comment>WpDescCommon</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)</source>
+        <comment>WpDescCommonEX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Files(*.dps)</source>
+        <comment>WpDescDps</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Templates(*.dpt)</source>
+        <comment>WpDescDpt</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation 2007/2010 Files(*.dpsx)</source>
+        <comment>WpDescDpsx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation 2007/2010 Templates(*.dptx)</source>
+        <comment>WpDescDptx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
+        <comment>WpDescMPP2003</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
+        <comment>WpDescPot</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)</source>
+        <comment>WpDescMPP2010</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentation(*.pptx)</source>
+        <comment>WpDescPptx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Macro Enabled Presentation(*.pptm)</source>
+        <comment>WpDescPptm</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Show(*.ppsx)</source>
+        <comment>WpDescPpsx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Macro Enabled Show(*.ppsm)</source>
+        <comment>WpDescPpsm</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentation Templates(*.potx; *.potm)</source>
+        <comment>WpDescMPP2010Temp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentation Template(*.potx)</source>
+        <comment>WpDescPotx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Macro Enabled Presentation Template(*.potm)</source>
+        <comment>WpDescPotm</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Format(*.ofd)|*.ofd</source>
+        <comment>WpDescOFD</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

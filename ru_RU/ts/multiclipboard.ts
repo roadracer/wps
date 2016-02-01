@@ -6,23 +6,23 @@
     <name>KxItemWebView</name>
     <message>
         <source>Unlock this item from the list.</source>
-        <translation>Разблокировать элемент списка.</translation>
+        <translation>Разблокировать этот элемент в списке.</translation>
     </message>
     <message>
         <source>Reached the maximum number of items locked.</source>
-        <translation>Достигнуто максимальное количество закреплённых элементов.</translation>
+        <translation>Достигнуто максимальное количество заблокированных элементов.</translation>
     </message>
     <message>
         <source>Lock this item to the list.</source>
-        <translation>Закрпить элемент списка.</translation>
+        <translation>Заблокировать этот элемент в списке.</translation>
     </message>
     <message>
         <source>Click to enlarge preview item.</source>
-        <translation>Щёлкните для увеличения элемента просмотра.</translation>
+        <translation>Щелкните, чтобы увеличить элемент предварительного просмотра.</translation>
     </message>
     <message>
         <source>Click to show additional options.</source>
-        <translation>Щёлкните для показа дополнительных параметров.</translation>
+        <translation>Щелкните, чтобы открыть дополнительные параметры.</translation>
     </message>
 </context>
 <context>
@@ -33,11 +33,11 @@
     </message>
     <message>
         <source>Click to Paste:</source>
-        <translation>Щёлкните для вставки:</translation>
+        <translation>Щелкните, чтобы вставить:</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation>Параметр</translation>
+        <translation>Настройка</translation>
     </message>
     <message>
         <source>Clear All</source>
@@ -56,23 +56,23 @@
     </message>
     <message>
         <source>Show Clipboard &amp;Automatically When Copying</source>
-        <translation>Показать буфер обмена &amp;автоматически при копировании</translation>
+        <translation>Показывать буфер обмена &amp;автоматически при копировании</translation>
     </message>
     <message>
         <source>Press Ctrl+C Twice to Show Clipboard</source>
-        <translation>Для показа буфера обмена дважды нажмите Ctrl+C</translation>
+        <translation>Чтобы отобразить буфер обмена, дважды нажмите клавиши Ctrl+C.</translation>
     </message>
     <message>
         <source>&amp;Collect Data Without Showing Clipboard</source>
-        <translation>&amp;Сбор данных без показа буфера обмена</translation>
+        <translation>&amp;Собирать данные, не отображая буфер обмена</translation>
     </message>
     <message>
         <source>Unlock this item from the list.</source>
-        <translation>Разблокировать элемент списка.</translation>
+        <translation>Разблокировать этот элемент в списке.</translation>
     </message>
     <message>
         <source>Lock this item to the list.</source>
-        <translation>Закрпить элемент списка.</translation>
+        <translation>Заблокировать этот элемент в списке.</translation>
     </message>
 </context>
 </TS>

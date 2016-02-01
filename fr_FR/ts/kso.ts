@@ -65,14 +65,474 @@ Veuillez vérifier vos paramètres système et assurez-vous que le répertoire t
     <message>
         <source>Value Out of Range</source>
         <comment>_ksoErr_Basic_ValueOutOfRange</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valeur en dehors des limites</translation>
     </message>
     <message>
         <source>The current user does not have the permission to write to the temporary directory.
 
 Please check your system settings and ensure that the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
+        <translation>L&apos;utilisateur actuel ne dispose pas d&apos;autorisation en écriture pour le répertoire temporaire.
+
+Veuillez vérifier vos paramètres système et assurez-vous que le répertoire temporaire est disponible pour l&apos;utilisateur actuel, puis redémarrez WPS Office.</translation>
+    </message>
+</context>
+<context>
+    <name>kso_chart</name>
+    <message>
+        <source>Chart Area</source>
+        <comment>HINT_CHARTAREA</comment>
+        <translation>Zone de graphique</translation>
+    </message>
+    <message>
+        <source>Plot Area</source>
+        <comment>HINT_PLOTAREA</comment>
+        <translation>Zone de traçage</translation>
+    </message>
+    <message>
+        <source>Data Table</source>
+        <comment>HINT_DATATABLE</comment>
+        <translation>Table de données</translation>
+    </message>
+    <message>
+        <source>Chart Title</source>
+        <comment>HINT_CHARTTITLE</comment>
+        <translation>Titre du graphique</translation>
+    </message>
+    <message>
+        <source>Legend</source>
+        <comment>HINT_LEGEND</comment>
+        <translation>Légende</translation>
+    </message>
+    <message>
+        <source>Legend Entry</source>
+        <comment>HINT_LEGENDENTRY</comment>
+        <translation>Élément de légende</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <comment>HINT_SERIES</comment>
+        <translation>Série</translation>
+    </message>
+    <message>
+        <source>Point</source>
+        <comment>HINT_POINT</comment>
+        <translation>Point</translation>
+    </message>
+    <message>
+        <source>Data Label</source>
+        <comment>HINT_DATALABEL</comment>
+        <translation>Étiquette de données</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <comment>HINT_VALUE</comment>
+        <translation>Valeur</translation>
+    </message>
+    <message>
+        <source>Trendline</source>
+        <comment>HINT_TRENDLINE</comment>
+        <translation>Courbe de tendance</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <comment>HINT_EQUATION</comment>
+        <translation>Équation</translation>
+    </message>
+    <message>
+        <source>Error Bar</source>
+        <comment>HINT_ERRORBAR</comment>
+        <translation>Barre d&apos;erreur</translation>
+    </message>
+    <message>
+        <source>Leader Line</source>
+        <comment>HINT_LEADERLINE</comment>
+        <translation>Ligne d&apos;étiquette</translation>
+    </message>
+    <message>
+        <source>Unit Label</source>
+        <comment>HINT_UNITLABEL</comment>
+        <translation>Étiquette d&apos;unité</translation>
+    </message>
+    <message>
+        <source>Category Label</source>
+        <comment>HINT_CATEGORYLABEL</comment>
+        <translation>Étiquette de catégorie</translation>
+    </message>
+    <message>
+        <source>Secondary</source>
+        <comment>HINT_SECONDARY</comment>
+        <translation>Secondaire</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <comment>HINT_VERTICAL</comment>
+        <translation>Vertical</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <comment>HINT_HORIZONTAL</comment>
+        <translation>Horizontal</translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <comment>HINT_CATEGORY</comment>
+        <translation>Catégorie</translation>
+    </message>
+    <message>
+        <source>Axis</source>
+        <comment>HINT_AXIS</comment>
+        <translation>Axe</translation>
+    </message>
+    <message>
+        <source>Major Gridline</source>
+        <comment>HINT_MAJORGRIDLINE</comment>
+        <translation>Quadrillage principal</translation>
+    </message>
+    <message>
+        <source>Minor Gridline</source>
+        <comment>HINT_MINORGRIDLINE</comment>
+        <translation>Quadrillage secondaire</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>HINT_TITLE</comment>
+        <translation>Titre</translation>
+    </message>
+    <message>
+        <source>Series Lines</source>
+        <comment>HINT_SERIESLINES</comment>
+        <translation>Lignes de série</translation>
+    </message>
+    <message>
+        <source>Drop Lines</source>
+        <comment>HINT_DROPLINES</comment>
+        <translation>Lignes de projection</translation>
+    </message>
+    <message>
+        <source>High-Low Lines</source>
+        <comment>HINT_HIGTLOWLINES</comment>
+        <translation>Lignes haut/bas</translation>
+    </message>
+    <message>
+        <source>Up-Bars</source>
+        <comment>HINT_UPBARS</comment>
+        <translation>Barres de hausse</translation>
+    </message>
+    <message>
+        <source>Down-Bars</source>
+        <comment>HINT_DOWNBARS</comment>
+        <translation>Barres Baisse</translation>
+    </message>
+    <message>
+        <source>Radar</source>
+        <comment>HINT_RADAR</comment>
+        <translation>Radar</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <comment>HINT_TEXT</comment>
+        <translation>Texte</translation>
+    </message>
+    <message>
+        <source>Gridline</source>
+        <comment>HINT_GRIDLINE</comment>
+        <translation>Quadrillage</translation>
+    </message>
+    <message>
+        <source> OPTIONS</source>
+        <comment>CHART_FORMATTING_OPTION</comment>
+        <translation> OPTIONS</translation>
+    </message>
+    <message>
+        <source>CAHRT</source>
+        <comment>CHART_FORMATTING_CHART</comment>
+        <translation>GRAPHIQUE</translation>
+    </message>
+    <message>
+        <source>TITLE</source>
+        <comment>CHART_FORMATTING_TITLE</comment>
+        <translation>TITRE</translation>
+    </message>
+    <message>
+        <source>AXIS</source>
+        <comment>CHART_FORMATTING_AXIS</comment>
+        <translation>AXE</translation>
+    </message>
+    <message>
+        <source>LEGEND</source>
+        <comment>CHART_FORMATTING_LEGEND</comment>
+        <translation>LÉGENDE</translation>
+    </message>
+    <message>
+        <source>PLOT AREA</source>
+        <comment>CHART_FORMATTING_PLOTAREA</comment>
+        <translation>ZONE DE TRAÇAGE</translation>
+    </message>
+    <message>
+        <source>MAJOR GRIDLINES</source>
+        <comment>CHART_FORMATTING_MAJORGRIDLINES</comment>
+        <translation>QUADRILLAGE PRINCIPAL</translation>
+    </message>
+    <message>
+        <source>SERIES</source>
+        <comment>CHART_FORMATTING_SERIES</comment>
+        <translation>SÉRIE</translation>
+    </message>
+    <message>
+        <source>MINOR GRIDLINES</source>
+        <comment>CHART_FORMATTING_MINORGRIDLINES</comment>
+        <translation>QUADRILLAGE SECONDAIRE</translation>
+    </message>
+    <message>
+        <source>LEGEND ENTRY</source>
+        <comment>CHART_FORMATTING_LEGENDENTRY</comment>
+        <translation>ÉLEMENT DE LEGENDE</translation>
+    </message>
+    <message>
+        <source>POINT</source>
+        <comment>CHART_FORMATTING_POINT</comment>
+        <translation>POINT</translation>
+    </message>
+    <message>
+        <source>DATA LABEL</source>
+        <comment>CHART_FORMATTING_DATALABEL</comment>
+        <translation>ÉLEMENT DE LEGENDE</translation>
+    </message>
+    <message>
+        <source>TRENDLINE</source>
+        <comment>CHART_FORMATTING_TRENDLINE</comment>
+        <translation>COURBE DE TENDANCE</translation>
+    </message>
+    <message>
+        <source>ERROR BAR</source>
+        <comment>CHART_FORMATTING_ERRORBAR</comment>
+        <translation>BARRE D&apos;ERREUR</translation>
+    </message>
+    <message>
+        <source>LEADER LINE</source>
+        <comment>CHART_FORMATTING_LEADERLINES</comment>
+        <translation>LIGNE D&apos;ÉTIQUETTE</translation>
+    </message>
+    <message>
+        <source>CATEGORY LABEL</source>
+        <comment>CHART_FORMATTING_CATEGORYLABEL</comment>
+        <translation>ÉTIQUETTE DE CATEGORIE</translation>
+    </message>
+    <message>
+        <source>SERIES LINE</source>
+        <comment>CHART_FORMATTING_SERIESLINES</comment>
+        <translation>LIGNES DE SÉRIE</translation>
+    </message>
+    <message>
+        <source>DROP LINE</source>
+        <comment>CHART_FORMATTING_DROPLINES</comment>
+        <translation>LIGNES DE PROJECTION</translation>
+    </message>
+    <message>
+        <source>HIGH_LOW LINE</source>
+        <comment>CHART_FORMATTING_HIGTLOWLINES</comment>
+        <translation>LIGNES HAUT/BAS</translation>
+    </message>
+    <message>
+        <source>UP-BARS</source>
+        <comment>CHART_FORMATTING_UPBARS</comment>
+        <translation>BARRES DE HAUSSE</translation>
+    </message>
+    <message>
+        <source>DOWN-BARS</source>
+        <comment>CHART_FORMATTING_DOWNBARS</comment>
+        <translation>BARRES BAISSE</translation>
+    </message>
+    <message>
+        <source>LABEL</source>
+        <comment>CHART_FORMATTING_LABEL</comment>
+        <translation>ÉTIQUETTE</translation>
+    </message>
+    <message>
+        <source>TABEL</source>
+        <comment>CHART_FORMATTING_TABLE</comment>
+        <translation>TABLEAU</translation>
+    </message>
+    <message>
+        <source>Chart Title</source>
+        <comment>CHART_DEFAULTTEXT_CHARTTITLE</comment>
+        <translation>Titre du graphique</translation>
+    </message>
+    <message>
+        <source>Axis Title</source>
+        <comment>CHART_DEFAULTTEXT_AXISTITLE</comment>
+        <translation>Titre de l&apos;axe</translation>
+    </message>
+    <message>
+        <source>Sales</source>
+        <comment>CHART_DEFAULTTEXT_SALES</comment>
+        <translation>Ventes</translation>
+    </message>
+    <message>
+        <source>1st Qtr</source>
+        <comment>CHART_DEFAULTTEXT_FIRSTQUARTER</comment>
+        <translation>1er trim.</translation>
+    </message>
+    <message>
+        <source>2nd Qtr</source>
+        <comment>CHART_DEFAULTTEXT_SECONDQUARTER</comment>
+        <translation>2e trim.</translation>
+    </message>
+    <message>
+        <source>3rd Qtr</source>
+        <comment>CHART_DEFAULTTEXT_THIRDQUARTER</comment>
+        <translation>3e trim.</translation>
+    </message>
+    <message>
+        <source>4th Qtr</source>
+        <comment>CHART_DEFAULTTEXT_FOURTHQUARTER</comment>
+        <translation>4e trim.</translation>
+    </message>
+    <message>
+        <source>Series 1</source>
+        <comment>CHART_DEFAULTTEXT_SERIES1</comment>
+        <translation>Série 1</translation>
+    </message>
+    <message>
+        <source>Series 2</source>
+        <comment>CHART_DEFAULTTEXT_SERIES2</comment>
+        <translation>Série 2</translation>
+    </message>
+    <message>
+        <source>Series 3</source>
+        <comment>CHART_DEFAULTTEXT_SERIES3</comment>
+        <translation>Série 3</translation>
+    </message>
+    <message>
+        <source>Series 4</source>
+        <comment>CHART_DEFAULTTEXT_SERIES4</comment>
+        <translation>Série 4</translation>
+    </message>
+    <message>
+        <source>Category 1</source>
+        <comment>CHART_DEFAULTTEXT_CATEGORY1</comment>
+        <translation>Catégorie 1</translation>
+    </message>
+    <message>
+        <source>Category 2</source>
+        <comment>CHART_DEFAULTTEXT_CATEGORY2</comment>
+        <translation>Catégorie 2</translation>
+    </message>
+    <message>
+        <source>Category 3</source>
+        <comment>CHART_DEFAULTTEXT_CATEGORY3</comment>
+        <translation>Catégorie 3</translation>
+    </message>
+    <message>
+        <source>Category 4</source>
+        <comment>CHART_DEFAULTTEXT_CATEGORY4</comment>
+        <translation>Catégorie 4</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_VOLUME</comment>
+        <translation>Volume</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_OPEN</comment>
+        <translation>Ouvrir</translation>
+    </message>
+    <message>
+        <source>High</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_HIGH</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_LOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_CLOSE</comment>
+        <translation>Fermer</translation>
+    </message>
+    <message>
+        <source>Y-Values</source>
+        <comment>CHART_DEFAULTTEXT_Y_VALUES</comment>
+        <translation>Valeur des Y</translation>
+    </message>
+    <message>
+        <source>Expon</source>
+        <comment>CHART_DEFAULTTEXT_LINE_EXPON</comment>
+        <translation>Expon.</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <comment>CHART_DEFAULTTEXT_LINE_LINEAR</comment>
+        <translation>Linéaire</translation>
+    </message>
+    <message>
+        <source>Log</source>
+        <comment>CHART_DEFAULTTEXT_LINE_LOG</comment>
+        <translation>Log</translation>
+    </message>
+    <message>
+        <source>Poly</source>
+        <comment>CHART_DEFAULTTEXT_LINE_POLY</comment>
+        <translation>Poly.</translation>
+    </message>
+    <message>
+        <source>Power </source>
+        <comment>CHART_DEFAULTTEXT_LINE_POWER</comment>
+        <translation>Puissance </translation>
+    </message>
+    <message>
+        <source>per. Mov. Avg.</source>
+        <comment>CHART_DEFAULTTEXT_LINE_AVGMOV</comment>
+        <translation>Moy. mobile sur pér.</translation>
+    </message>
+    <message>
+        <source>Hundreds</source>
+        <comment>CHART_UNITLABEL_HUNDREDS</comment>
+        <translation>Centaines</translation>
+    </message>
+    <message>
+        <source>Thousands</source>
+        <comment>CHART_UNITLABEL_THOUSANDS</comment>
+        <translation>Milliers</translation>
+    </message>
+    <message>
+        <source>Millions</source>
+        <comment>CHART_UNITLABEL_MILLIONS</comment>
+        <translation>Millions</translation>
+    </message>
+    <message>
+        <source>Billions</source>
+        <comment>CHART_UNITLABEL_BILLIONS</comment>
+        <translation>Milliards</translation>
+    </message>
+    <message>
+        <source>Trillions</source>
+        <comment>CHART_UNITLABEL_TRILLIONS</comment>
+        <translation>Trillions</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>CHART_UNITLABEL_NONE</comment>
+        <translation>Aucun</translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <comment>CHART_DATALABELTEXT_OTHER</comment>
+        <translation>Autres</translation>
+    </message>
+    <message>
+        <source>The linked file is not available.</source>
+        <comment>CHART_UnavailableChartLinkPath</comment>
+        <translation>Le fichier lié n’est pas disponible.</translation>
+    </message>
+    <message>
+        <source>To Insert a Chart,you must first close any open dialog boxes or cancel editing mode in WPS Spreadsheets.</source>
+        <comment>CHART_CanNotWriteChartLinkPath</comment>
+        <translation>Pour insérer un graphique, vous devez d’abord fermer toutes les boîtes de dialogue ouvertes ou annuler le mode modification dans WPS Spreadsheets.</translation>
     </message>
 </context>
 <context>
@@ -130,12 +590,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Data of WPS Drawing</source>
         <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
-        <translation>Données de WPS Drawing</translation>
+        <translation type="unfinished">Données de WPS Drawing</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Drawing.</source>
         <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
-        <translation>Le contenu du Presse-papier sera inséré comme données de WPS Drawing.</translation>
+        <translation type="unfinished">Le contenu du Presse-papier sera inséré comme données de WPS Drawing.</translation>
     </message>
     <message>
         <source>%s Object</source>
@@ -290,6 +750,46 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Unicode Text</source>
         <comment>TX_KSO_CF_UNICODE_TEXT</comment>
+        <translation>Texte Unicode</translation>
+    </message>
+    <message>
+        <source>New Data of Kingsoft Writer</source>
+        <comment>TX_KSO_CF_WPS_DOCX_DISPNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as New Data of Kingsoft Writer.</source>
+        <comment>TX_KSO_CF_WPS_DOCX_RESULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data of Kingsoft Presentation Slide.</source>
+        <comment>TX_KSO_CF_SLIDES_DISPNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Presentation Slide.</source>
+        <comment>TX_KSO_CF_SLIDES_RESULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ET Drag Drawing</source>
+        <comment>TX_KSO_CF_ET_DRAG_SHAPE_DISPNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Drag Drawing.</source>
+        <comment>TX_KSO_CF_ET_DRAG_SHAPE_RESULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data of Kingsoft Drawing</source>
+        <comment>TX_KSO_CF_DRAWING_DISPNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Drawing.</source>
+        <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -298,7 +798,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
         <comment>DgAllPicture</comment>
-        <translation>Toutes les images(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
+        <translation type="obsolete">Toutes les images(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
@@ -1163,7 +1663,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Reset Picture</source>
         <comment>DgUil_KSO_Cmd_ResetPicture</comment>
-        <translation>Rétablir l’image</translation>
+        <translation>Rétablir l&apos;image</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -1235,12 +1735,12 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Change Picture</source>
         <comment>DgUil_KSO_Cmd_ChangePicture</comment>
-        <translation>Changer d’image</translation>
+        <translation>Changer d&apos;image</translation>
     </message>
     <message>
         <source>Change Picture</source>
         <comment>DgUil_DlgChangePictureTitle</comment>
-        <translation>Changer d’image</translation>
+        <translation>Changer d&apos;image</translation>
     </message>
     <message>
         <source>The server application, source file, or item cannot be found, or returned an unknown error. You may need to reinstall the server application</source>
@@ -1250,7 +1750,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Save as Picture</source>
         <comment>DgUil_Cmd_SaveAsPicture</comment>
-        <translation>Enregistrer en tant qu’image</translation>
+        <translation>Enregistrer en tant qu&apos;image</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -1320,12 +1820,62 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Change to Autoshape</source>
         <comment>DgUil_KSO_Cmd_ChangeAutoShape</comment>
-        <translation>Changer pour la forme automatique</translation>
+        <translation type="obsolete">Changer pour la forme automatique</translation>
     </message>
     <message>
         <source>AutoShape</source>
         <comment>DgUil_KSO_Cmd_DynamicShape</comment>
-        <translation>Forme automatique</translation>
+        <translation type="obsolete">Forme automatique</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp</source>
+        <comment>DgAllPicture</comment>
+        <translation>Toutes les images(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp</translation>
+    </message>
+    <message>
+        <source>Change To Autoshape</source>
+        <comment>DgUil_KSO_Cmd_ChangeAutoShape</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lines</source>
+        <comment>DgUil_KSO_Cmd_DynamicShape</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset Picture And Size</source>
+        <comment>DgUil_KSO_Cmd_ResetPictureAndSize</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Series</source>
+        <comment>DgUil_KSO_Cmd_EditChartDataSource</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Data</source>
+        <comment>DgUil_KSO_Cmd_ChooseChartDataSource</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aspect Ratio</source>
+        <comment>DgUil_KSO_Cmd_PictureScaleCrop</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crop to Shape</source>
+        <comment>DgUil_KSO_Cmd_PictureShapeCrop</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other Layout Options</source>
+        <comment>DgUil_KSO_Cmd_LayoutObject</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is not enough memory, Create Object Failed!</source>
+        <comment>DgUil_KSO_Cmd_OleCreateFailedByOutOfMemory</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2848,7 +3398,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Change Picture</source>
         <comment>DRAWINGSTR_CHANGE_PICTURE</comment>
-        <translation>Changer d’image</translation>
+        <translation>Changer d&apos;image</translation>
     </message>
     <message>
         <source>Click to add text</source>
@@ -2973,6 +3523,4140 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Flowchart: Sequential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
+        <translation>Organigramme : Stockage à accès séquentiel</translation>
+    </message>
+    <message>
+        <source>AutoShape</source>
+        <comment>DRAWINGSTR_AUTOSHAPE</comment>
+        <translation>Forme automatique</translation>
+    </message>
+    <message>
+        <source>WordArt</source>
+        <comment>DRAWINGSTR_WORDART</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Straight Connector</source>
+        <comment>DRAWING2STR_STRAIGHT_CONNECTOR</comment>
+        <translation>Connecteur droit</translation>
+    </message>
+    <message>
+        <source>Isosceles Triangle</source>
+        <comment>DRAWING2STR_ISOSCELES_TRIANGLE</comment>
+        <translation>Triangle isocèle</translation>
+    </message>
+    <message>
+        <source>Right Triangle</source>
+        <comment>DRAWING2STR_RIGHT_TRIANGLE</comment>
+        <translation>Triangle rectangle</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <comment>DRAWING2STR_RECTANGLE</comment>
+        <translation>Rectangle</translation>
+    </message>
+    <message>
+        <source>Diamond</source>
+        <comment>DRAWING2STR_DIAMOND</comment>
+        <translation>Losange</translation>
+    </message>
+    <message>
+        <source>Parallelogram</source>
+        <comment>DRAWING2STR_PARALLELOGRAM</comment>
+        <translation>Parallélogramme</translation>
+    </message>
+    <message>
+        <source>Trapezoid</source>
+        <comment>DRAWING2STR_TRAPEZOID</comment>
+        <translation>Trapèze</translation>
+    </message>
+    <message>
+        <source>Shape</source>
+        <comment>DRAWING2STR_SHAPE</comment>
+        <translation>Forme</translation>
+    </message>
+    <message>
+        <source>Regular Pentagon</source>
+        <comment>DRAWING2STR_REGULAR_PENTAGON</comment>
+        <translation>Pentagone régulier</translation>
+    </message>
+    <message>
+        <source>Hexagon</source>
+        <comment>DRAWING2STR_HEXAGON</comment>
+        <translation>Hexagone</translation>
+    </message>
+    <message>
+        <source>Heptagon</source>
+        <comment>DRAWING2STR_HEPTAGON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Octagon</source>
+        <comment>DRAWING2STR_OCTAGON</comment>
+        <translation>Octogone</translation>
+    </message>
+    <message>
+        <source>Decagon</source>
+        <comment>DRAWING2STR_DECAGON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dodecagon</source>
+        <comment>DRAWING2STR_DODECAGON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4-Point Star</source>
+        <comment>DRAWING2STR_4_POINT_STAR</comment>
+        <translation>Étoile à 4 branches</translation>
+    </message>
+    <message>
+        <source>5-Point Star</source>
+        <comment>DRAWING2STR_5_POINT_STAR</comment>
+        <translation>Étoile à 5 branches</translation>
+    </message>
+    <message>
+        <source>6-Point Star</source>
+        <comment>DRAWING2STR_6_POINT_STAR</comment>
+        <translation>Étoile à 6 branches</translation>
+    </message>
+    <message>
+        <source>7-Point Star</source>
+        <comment>DRAWING2STR_7_POINT_STAR</comment>
+        <translation>Étoile à 7 branches</translation>
+    </message>
+    <message>
+        <source>8-Point Star</source>
+        <comment>DRAWING2STR_8_POINT_STAR</comment>
+        <translation>Étoile à 8 branches</translation>
+    </message>
+    <message>
+        <source>10-Point Star</source>
+        <comment>DRAWING2STR_10_POINT_STAR</comment>
+        <translation>Étoile à 10 branches</translation>
+    </message>
+    <message>
+        <source>12-Point Star</source>
+        <comment>DRAWING2STR_12_POINT_STAR</comment>
+        <translation>Étoile à 12 branches</translation>
+    </message>
+    <message>
+        <source>16-Point Star</source>
+        <comment>DRAWING2STR_16_POINT_STAR</comment>
+        <translation>Étoile à 16 branches</translation>
+    </message>
+    <message>
+        <source>24-Point Star</source>
+        <comment>DRAWING2STR_24_POINT_STAR</comment>
+        <translation>Étoile à 24 branches</translation>
+    </message>
+    <message>
+        <source>32-Point Star</source>
+        <comment>DRAWING2STR_32_POINT_STAR</comment>
+        <translation>Étoile à 32 branches</translation>
+    </message>
+    <message>
+        <source>Rounded Rectangle</source>
+        <comment>DRAWING2STR_ROUNDED_RECTANGLE</comment>
+        <translation>Rectangle à coins arrondi</translation>
+    </message>
+    <message>
+        <source>Round Single Corner Rectangle</source>
+        <comment>DRAWING2STR_ROUND_SINGLE_CORNER_RECTANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Round Same Side Corner Rectangle</source>
+        <comment>DRAWING2STR_ROUND_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Round Diagonal Corner Rectangle</source>
+        <comment>DRAWING2STR_ROUND_DIAGONAL_CORNER_RECTANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip and Round Single Corner Rectangle</source>
+        <comment>DRAWING2STR_SNIP_AND_ROUND_SINGLE_CORNER_RECTANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip Single Corner Rectangle</source>
+        <comment>DRAWING2STR_SNIP_SINGLE_CORNER_RECTANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip Same Side Corner Rectangle</source>
+        <comment>DRAWING2STR_SNIP_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip Diagonal Corner Rectangle</source>
+        <comment>DRAWING2STR_SNIP_DIAGONAL_CORNER_RECTANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plaque</source>
+        <comment>DRAWING2STR_PLAQUE</comment>
+        <translation>Plaque</translation>
+    </message>
+    <message>
+        <source>Oval</source>
+        <comment>DRAWING2STR_OVAL</comment>
+        <translation>Ellipse</translation>
+    </message>
+    <message>
+        <source>Teardrop</source>
+        <comment>DRAWING2STR_TEARDROP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pentagon</source>
+        <comment>DRAWING2STR_PENTAGON</comment>
+        <translation>Pentagone</translation>
+    </message>
+    <message>
+        <source>Chevron</source>
+        <comment>DRAWING2STR_CHEVRON</comment>
+        <translation>Chevron</translation>
+    </message>
+    <message>
+        <source>Pie</source>
+        <comment>DRAWING2STR_PIE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Block Arc</source>
+        <comment>DRAWING2STR_BLOCK_ARC</comment>
+        <translation>Arc plein</translation>
+    </message>
+    <message>
+        <source>Donut</source>
+        <comment>DRAWING2STR_DONUT</comment>
+        <translation>Bouée</translation>
+    </message>
+    <message>
+        <source>&quot;No&quot; Symbol</source>
+        <comment>DRAWING2STR_NO_SYMBOL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Arrow</source>
+        <comment>DRAWING2STR_RIGHT_ARROW</comment>
+        <translation>Flèche droite</translation>
+    </message>
+    <message>
+        <source>Left Arrow</source>
+        <comment>DRAWING2STR_LEFT_ARROW</comment>
+        <translation>Flèche gauche</translation>
+    </message>
+    <message>
+        <source>Up Arrow</source>
+        <comment>DRAWING2STR_UP_ARROW</comment>
+        <translation>Flèche vers le haut</translation>
+    </message>
+    <message>
+        <source>Down Arrow</source>
+        <comment>DRAWING2STR_DOWN_ARROW</comment>
+        <translation>Flèche vers le bas</translation>
+    </message>
+    <message>
+        <source>Striped Right Arrow</source>
+        <comment>DRAWING2STR_STRIPED_RIGHT_ARROW</comment>
+        <translation>Flèche droite rayée</translation>
+    </message>
+    <message>
+        <source>Notched Right Arrow</source>
+        <comment>DRAWING2STR_NOTCHED_RIGHT_ARROW</comment>
+        <translation>Flèche droite à entaille</translation>
+    </message>
+    <message>
+        <source>Bent-Up Arrow</source>
+        <comment>DRAWING2STR_BENT_UP_ARROW</comment>
+        <translation>Flèche à angle droit</translation>
+    </message>
+    <message>
+        <source>Left-Right Arrow</source>
+        <comment>DRAWING2STR_LEFT_RIGHT_ARROW</comment>
+        <translation>Double flèche horizontale</translation>
+    </message>
+    <message>
+        <source>Up-Down Arrow</source>
+        <comment>DRAWING2STR_UP_DOWN_ARROW</comment>
+        <translation>Double flèche verticale</translation>
+    </message>
+    <message>
+        <source>Left-Up Arrow</source>
+        <comment>DRAWING2STR_LEFT_UP_ARROW</comment>
+        <translation>Flèche angle droit à deux pointes</translation>
+    </message>
+    <message>
+        <source>Left-Right-Up Arrow</source>
+        <comment>DRAWING2STR_LEFT_RIGHT_UP_ARROW</comment>
+        <translation>Flèche à trois pointes</translation>
+    </message>
+    <message>
+        <source>Quad Arrow</source>
+        <comment>DRAWING2STR_QUAD_ARROW</comment>
+        <translation>Flèche à quatre pointes</translation>
+    </message>
+    <message>
+        <source>Left Arrow Callout</source>
+        <comment>DRAWING2STR_LEFT_ARROW_CALLOUT</comment>
+        <translation>Rectangle avec flèche vers la gauche</translation>
+    </message>
+    <message>
+        <source>Right Arrow Callout</source>
+        <comment>DRAWING2STR_RIGHT_ARROW_CALLOUT</comment>
+        <translation>Rectangle avec flèche vers la droite</translation>
+    </message>
+    <message>
+        <source>Up Arrow Callout</source>
+        <comment>DRAWING2STR_UP_ARROW_CALLOUT</comment>
+        <translation>Rectangle avec flèche vers le haut</translation>
+    </message>
+    <message>
+        <source>Down Arrow Callout</source>
+        <comment>DRAWING2STR_DOWN_ARROW_CALLOUT</comment>
+        <translation>Rectangle avec flèche vers le bas</translation>
+    </message>
+    <message>
+        <source>Left-Right Arrow Callout</source>
+        <comment>DRAWING2STR_LEFT_RIGHT_ARROW_CALLOUT</comment>
+        <translation>Rectangle horizontal à deux flèches</translation>
+    </message>
+    <message>
+        <source>Up-Down Arrow Callout</source>
+        <comment>DRAWING2STR_UP_DOWN_ARROW_CALLOUT</comment>
+        <translation>Rectangle vertical à deux flèches</translation>
+    </message>
+    <message>
+        <source>Quad Arrow Callout</source>
+        <comment>DRAWING2STR_QUAD_ARROW_CALLOUT</comment>
+        <translation>Rectangle à quatre flèches</translation>
+    </message>
+    <message>
+        <source>Bent Arrow</source>
+        <comment>DRAWING2STR_BENT_ARROW</comment>
+        <translation>Virage</translation>
+    </message>
+    <message>
+        <source>U-Turn Arrow</source>
+        <comment>DRAWING2STR_U_TURN_ARROW</comment>
+        <translation>Demi-tour</translation>
+    </message>
+    <message>
+        <source>Circular Arrow</source>
+        <comment>DRAWING2STR_CIRCULAR_ARROW</comment>
+        <translation>Flèche en arc</translation>
+    </message>
+    <message>
+        <source>Curved Right Arrow</source>
+        <comment>DRAWING2STR_CURVED_RIGHT_ARROW</comment>
+        <translation>Flèche courbée vers la gauche</translation>
+    </message>
+    <message>
+        <source>Curved Left Arrow</source>
+        <comment>DRAWING2STR_CURVED_LEFT_ARROW</comment>
+        <translation>Flèche courbée vers la droite</translation>
+    </message>
+    <message>
+        <source>Curved Up Arrow</source>
+        <comment>DRAWING2STR_CURVED_UP_ARROW</comment>
+        <translation>Flèche courbée vers le bas</translation>
+    </message>
+    <message>
+        <source>Curved Down Arrow</source>
+        <comment>DRAWING2STR_CURVED_DOWN_ARROW</comment>
+        <translation>Flèche courbée vers le haut</translation>
+    </message>
+    <message>
+        <source>Cube</source>
+        <comment>DRAWING2STR_CUBE</comment>
+        <translation>Cube</translation>
+    </message>
+    <message>
+        <source>Can</source>
+        <comment>DRAWING2STR_CAN</comment>
+        <translation>Cylindre</translation>
+    </message>
+    <message>
+        <source>Lightning Bolt</source>
+        <comment>DRAWING2STR_LIGHTNING_BOLT</comment>
+        <translation>Éclair</translation>
+    </message>
+    <message>
+        <source>Heart</source>
+        <comment>DRAWING2STR_HEART</comment>
+        <translation>Cœur</translation>
+    </message>
+    <message>
+        <source>Sun</source>
+        <comment>DRAWING2STR_SUN</comment>
+        <translation>Soleil</translation>
+    </message>
+    <message>
+        <source>Moon</source>
+        <comment>DRAWING2STR_MOON</comment>
+        <translation>Lune</translation>
+    </message>
+    <message>
+        <source>Smiley Face</source>
+        <comment>DRAWING2STR_SMILEY_FACE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Explosion 1</source>
+        <comment>DRAWING2STR_EXPLOSION_1</comment>
+        <translation>Explosion 1</translation>
+    </message>
+    <message>
+        <source>Explosion 2</source>
+        <comment>DRAWING2STR_EXPLOSION_2</comment>
+        <translation>Explosion 2</translation>
+    </message>
+    <message>
+        <source>Folded Corner</source>
+        <comment>DRAWING2STR_FOLDED_CORNER</comment>
+        <translation>Carré corné</translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <comment>DRAWING2STR_BEVEL</comment>
+        <translation>Biseau</translation>
+    </message>
+    <message>
+        <source>Frame</source>
+        <comment>DRAWING2STR_FRAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Half Frame</source>
+        <comment>DRAWING2STR_HALF_FRAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>L-Shape</source>
+        <comment>DRAWING2STR_L_SHAPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagonal Stripe</source>
+        <comment>DRAWING2STR_DIAGONAL_STRIPE</comment>
+        <translation>Rayure diagonale</translation>
+    </message>
+    <message>
+        <source>Chord</source>
+        <comment>DRAWING2STR_CHORD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc</source>
+        <comment>DRAWING2STR_ARC</comment>
+        <translation>Arc</translation>
+    </message>
+    <message>
+        <source>Left Bracket</source>
+        <comment>DRAWING2STR_LEFT_BRACKET</comment>
+        <translation>Parenthèse ouvrante</translation>
+    </message>
+    <message>
+        <source>Right Bracket</source>
+        <comment>DRAWING2STR_RIGHT_BRACKET</comment>
+        <translation>Parenthèse fermante</translation>
+    </message>
+    <message>
+        <source>Left Brace</source>
+        <comment>DRAWING2STR_LEFT_BRACE</comment>
+        <translation>Accolade ouvrante</translation>
+    </message>
+    <message>
+        <source>Right Brace</source>
+        <comment>DRAWING2STR_RIGHT_BRACE</comment>
+        <translation>Accolade fermante</translation>
+    </message>
+    <message>
+        <source>Double Bracket</source>
+        <comment>DRAWING2STR_DOUBLE_BRACKET</comment>
+        <translation>Parenthèse</translation>
+    </message>
+    <message>
+        <source>Double Brace</source>
+        <comment>DRAWING2STR_DOUBLE_BRACE</comment>
+        <translation>Accolades</translation>
+    </message>
+    <message>
+        <source>Straight Arrow Connector</source>
+        <comment>DRAWING2STR_STRAIGHT_ARROW_CONNECTOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Elbow Connector</source>
+        <comment>DRAWING2STR_ELBOW_CONNECTOR</comment>
+        <translation>Connecteur en angle</translation>
+    </message>
+    <message>
+        <source>Curved Connector</source>
+        <comment>DRAWING2STR_CURVED_CONNECTOR</comment>
+        <translation>Connecteur en arc</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (No Border)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1_NO_BORDER</comment>
+        <translation>Connecteur page suivante 1</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (No Border)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2_NO_BORDER</comment>
+        <translation>Légende sans bordure 2</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (No Border)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3_NO_BORDER</comment>
+        <translation>Légende sans bordure 3</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1_ACCENT_BAR</comment>
+        <translation>Légende à une bordure 1</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2_ACCENT_BAR</comment>
+        <translation>Légende à une bordure 2</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3_ACCENT_BAR</comment>
+        <translation>Légende à une bordure 3</translation>
+    </message>
+    <message>
+        <source>Line Callout 1</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1</comment>
+        <translation>Légende encadrée 1</translation>
+    </message>
+    <message>
+        <source>Line Callout 2</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2</comment>
+        <translation>Légende encadrée 2</translation>
+    </message>
+    <message>
+        <source>Line Callout 3</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3</comment>
+        <translation>Légende encadrée 3</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (Border and Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1_BORDER_AND_ACCENT_BAR</comment>
+        <translation>Légende encadrée avec une bordure 1</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (Border and Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2_BORDER_AND_ACCENT_BAR</comment>
+        <translation>Légende encadrée avec une bordure 2</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (Border and Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3_BORDER_AND_ACCENT_BAR</comment>
+        <translation>Légende encadrée avec une bordure 3</translation>
+    </message>
+    <message>
+        <source>Rectangular Callout</source>
+        <comment>DRAWING2STR_RECTANGULAR_CALLOUT</comment>
+        <translation>Légende rectangulaire</translation>
+    </message>
+    <message>
+        <source>Rounded Rectangular Callout</source>
+        <comment>DRAWING2STR_ROUNDED_RECTANGULAR_CALLOUT</comment>
+        <translation>Légende rectangulaire à coins arrondis</translation>
+    </message>
+    <message>
+        <source>Oval Callout</source>
+        <comment>DRAWING2STR_OVAL_CALLOUT</comment>
+        <translation>Bulle ronde</translation>
+    </message>
+    <message>
+        <source>Cloud Callout</source>
+        <comment>DRAWING2STR_CLOUD_CALLOUT</comment>
+        <translation>Pensées</translation>
+    </message>
+    <message>
+        <source>Cloud</source>
+        <comment>DRAWING2STR_CLOUD</comment>
+        <translation>Nuage</translation>
+    </message>
+    <message>
+        <source>Down Ribbon</source>
+        <comment>DRAWING2STR_DOWN_RIBBON</comment>
+        <translation>Ruban vers le bas</translation>
+    </message>
+    <message>
+        <source>Up Ribbon</source>
+        <comment>DRAWING2STR_UP_RIBBON</comment>
+        <translation>Ruban vers le haut</translation>
+    </message>
+    <message>
+        <source>Curved Down Ribbon</source>
+        <comment>DRAWING2STR_CURVED_DOWN_RIBBON</comment>
+        <translation>Ruban courbé vers le bas</translation>
+    </message>
+    <message>
+        <source>Curved Up Ribbon</source>
+        <comment>DRAWING2STR_CURVED_UP_RIBBON</comment>
+        <translation>Ruban courbé vers le haut</translation>
+    </message>
+    <message>
+        <source>Vertical Scroll</source>
+        <comment>DRAWING2STR_VERTICAL_SCROLL</comment>
+        <translation>Parchemin vertical</translation>
+    </message>
+    <message>
+        <source>Horizontal Scroll</source>
+        <comment>DRAWING2STR_HORIZONTAL_SCROLL</comment>
+        <translation>Parchemin horizontal</translation>
+    </message>
+    <message>
+        <source>Wave</source>
+        <comment>DRAWING2STR_WAVE</comment>
+        <translation>Vague</translation>
+    </message>
+    <message>
+        <source>Double Wave</source>
+        <comment>DRAWING2STR_DOUBLE_WAVE</comment>
+        <translation>Double vague</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>DRAWING2STR_CROSS</comment>
+        <translation>Croix</translation>
+    </message>
+    <message>
+        <source>Flowchart: Process</source>
+        <comment>DRAWING2STR_FLOWCHART_PROCESS</comment>
+        <translation>Organigramme : Processus</translation>
+    </message>
+    <message>
+        <source>Flowchart: Decision</source>
+        <comment>DRAWING2STR_FLOWCHART_DECISION</comment>
+        <translation>Organigramme : Décision</translation>
+    </message>
+    <message>
+        <source>Flowchart: Data</source>
+        <comment>DRAWING2STR_FLOWCHART_DATA</comment>
+        <translation>Organigramme : Données</translation>
+    </message>
+    <message>
+        <source>Flowchart: Predefined Process</source>
+        <comment>DRAWING2STR_FLOWCHART_PREDEFINED_PROCESS</comment>
+        <translation>Organigramme : Procédé prédéfini</translation>
+    </message>
+    <message>
+        <source>Flowchart: Internal Storage</source>
+        <comment>DRAWING2STR_FLOWCHART_INTERNAL_STORAGE</comment>
+        <translation>Organigramme : Stockage interne</translation>
+    </message>
+    <message>
+        <source>Flowchart: Document</source>
+        <comment>DRAWING2STR_FLOWCHART_DOCUMENT</comment>
+        <translation>Organigramme : Document</translation>
+    </message>
+    <message>
+        <source>Flowchart: Multidocument</source>
+        <comment>DRAWING2STR_FLOWCHART_MULTIDOCUMENT</comment>
+        <translation>Organigramme : Multidocument</translation>
+    </message>
+    <message>
+        <source>Flowchart: Terminator</source>
+        <comment>DRAWING2STR_FLOWCHART_TERMINATOR</comment>
+        <translation>Organigramme : Terminateur</translation>
+    </message>
+    <message>
+        <source>Flowchart: Preparation</source>
+        <comment>DRAWING2STR_FLOWCHART_PREPARATION</comment>
+        <translation>Organigramme : Préparation</translation>
+    </message>
+    <message>
+        <source>Flowchart: Manual Input</source>
+        <comment>DRAWING2STR_FLOWCHART_MANUAL_INPUT</comment>
+        <translation>Organigramme : Entrée manuelle</translation>
+    </message>
+    <message>
+        <source>Flowchart: Manual Operation</source>
+        <comment>DRAWING2STR_FLOWCHART_MANUAL_OPERATION</comment>
+        <translation>Organigramme : Opération manuelle</translation>
+    </message>
+    <message>
+        <source>Flowchart: Connector</source>
+        <comment>DRAWING2STR_FLOWCHART_CONNECTOR</comment>
+        <translation>Organigramme : Connecteur</translation>
+    </message>
+    <message>
+        <source>Flowchart: Card</source>
+        <comment>DRAWING2STR_FLOWCHART_CARD</comment>
+        <translation>Organigramme : Carte perforée</translation>
+    </message>
+    <message>
+        <source>Flowchart: Punched Tape</source>
+        <comment>DRAWING2STR_FLOWCHART_PUNCHED_TAPE</comment>
+        <translation>Organigramme : Bande perforée</translation>
+    </message>
+    <message>
+        <source>Flowchart: Summing Junction</source>
+        <comment>DRAWING2STR_FLOWCHART_SUMMING_JUNCTION</comment>
+        <translation>Organigramme : Jonction de sommaire</translation>
+    </message>
+    <message>
+        <source>Flowchart: Or</source>
+        <comment>DRAWING2STR_FLOWCHART_OR</comment>
+        <translation>Organigramme : Ou</translation>
+    </message>
+    <message>
+        <source>Flowchart: Collate</source>
+        <comment>DRAWING2STR_FLOWCHART_COLLATE</comment>
+        <translation>Organigramme : Joindre</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sort</source>
+        <comment>DRAWING2STR_FLOWCHART_SORT</comment>
+        <translation>Organigramme : Trier</translation>
+    </message>
+    <message>
+        <source>Flowchart: Extract</source>
+        <comment>DRAWING2STR_FLOWCHART_EXTRACT</comment>
+        <translation>Organigramme : Extraire</translation>
+    </message>
+    <message>
+        <source>Flowchart: Merge</source>
+        <comment>DRAWING2STR_FLOWCHART_MERGE</comment>
+        <translation>Organigramme : Fusion</translation>
+    </message>
+    <message>
+        <source>Flowchart: Stored Data</source>
+        <comment>DRAWING2STR_FLOWCHART_STORED_DATA</comment>
+        <translation>Organigramme : Données stockées</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWING2STR_FLOWCHART_SEQUENTIAL_ACCESS_STORAGE</comment>
+        <translation>Organigramme : Stockage à accès séquentiel</translation>
+    </message>
+    <message>
+        <source>Flowchart: Magnetic Disk</source>
+        <comment>DRAWING2STR_FLOWCHART_MAGNETIC_DISK</comment>
+        <translation>Organigramme : Disque magnétique</translation>
+    </message>
+    <message>
+        <source>Flowchart: Direct Access Storage</source>
+        <comment>DRAWING2STR_FLOWCHART_DIRECT_ACCESS_STORAGE</comment>
+        <translation>Organigramme : Stockage à accès direct</translation>
+    </message>
+    <message>
+        <source>Flowchart: Display</source>
+        <comment>DRAWING2STR_FLOWCHART_DISPLAY</comment>
+        <translation>Organigramme : Affichage</translation>
+    </message>
+    <message>
+        <source>Flowchart: Delay</source>
+        <comment>DRAWING2STR_FLOWCHART_DELAY</comment>
+        <translation>Organigramme : Délai</translation>
+    </message>
+    <message>
+        <source>Flowchart: Alternate Process</source>
+        <comment>DRAWING2STR_FLOWCHART_ALTERNATE_PROCESS</comment>
+        <translation>Organigramme : Alternative</translation>
+    </message>
+    <message>
+        <source>Flowchart: Off-page Connector</source>
+        <comment>DRAWING2STR_FLOWCHART_OFF_PAGE_CONNECTOR</comment>
+        <translation>Organigramme : Connecteur page suivante</translation>
+    </message>
+    <message>
+        <source>Action Button: Custom</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_CUSTOM</comment>
+        <translation>Bouton d&apos;action : Personnalisé</translation>
+    </message>
+    <message>
+        <source>Action Button: Home</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_HOME</comment>
+        <translation>Bouton d&apos;action : Accueil</translation>
+    </message>
+    <message>
+        <source>Action Button: Help</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_HELP</comment>
+        <translation>Bouton d&apos;action : Aide</translation>
+    </message>
+    <message>
+        <source>Action Button: Information</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_INFORMATION</comment>
+        <translation>Bouton d&apos;action : Informations</translation>
+    </message>
+    <message>
+        <source>Action Button: Forward or Next</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_FORWARD_OR_NEXT</comment>
+        <translation>Bouton d&apos;action : Prochain ou Suivant</translation>
+    </message>
+    <message>
+        <source>Action Button: Back or Previous</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_BACK_OR_PREVIOUS</comment>
+        <translation>Bouton d&apos;action : Retour ou Précédent</translation>
+    </message>
+    <message>
+        <source>Action Button: End</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_END</comment>
+        <translation>Bouton d&apos;action : Fin</translation>
+    </message>
+    <message>
+        <source>Action Button: Beginning</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_BEGINNING</comment>
+        <translation>Bouton d&apos;action : Début</translation>
+    </message>
+    <message>
+        <source>Action Button: Return</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_RETURN</comment>
+        <translation>Bouton d&apos;action : Retour</translation>
+    </message>
+    <message>
+        <source>Action Button: Document</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_DOCUMENT</comment>
+        <translation>Bouton d&apos;action : Document</translation>
+    </message>
+    <message>
+        <source>Action Button: Sound</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_SOUND</comment>
+        <translation>Bouton d&apos;action : Son</translation>
+    </message>
+    <message>
+        <source>Action Button: Movie</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_MOVIE</comment>
+        <translation>Bouton d&apos;action : Film</translation>
+    </message>
+    <message>
+        <source>Plus</source>
+        <comment>DRAWING2STR_PLUS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minus</source>
+        <comment>DRAWING2STR_MINUS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multiply</source>
+        <comment>DRAWING2STR_MULTIPLY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Division</source>
+        <comment>DRAWING2STR_DIVISION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal</source>
+        <comment>DRAWING2STR_EQUAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Equal</source>
+        <comment>DRAWING2STR_NOT_EQUAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <comment>DRAWING2STR_GROUP</comment>
+        <translation>Grouper</translation>
+    </message>
+    <message>
+        <source>TextBox</source>
+        <comment>DRAWING2STR_TEXTBOX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>DRAWING2STR_TABLE</comment>
+        <translation>Table</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <comment>DRAWING2STR_PICTURE</comment>
+        <translation>Image</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <comment>DRAWING2STR_CHART</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ink</source>
+        <comment>DRAWING2STR_INK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <comment>DRAWING2STR_OLE</comment>
+        <translation>Objet</translation>
+    </message>
+    <message>
+        <source>Diagram</source>
+        <comment>DRAWING2STR_DIAGRAM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Freeform</source>
+        <comment>DRAWING2STR_FREEFORM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canvas</source>
+        <comment>DRAWING2STR_CANVAS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <comment>DRAWING2_TOOLTIP_LINE</comment>
+        <translation>Ligne</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <comment>DRAWING2_TOOLTIP_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Arrow</source>
+        <comment>DRAWING2_TOOLTIP_ELBOW_CONNECTOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Elbow Connector</source>
+        <comment>DRAWING2_TOOLTIP_ELBOW_ARROW_CONNECTOR</comment>
+        <translation>Connecteur en angle</translation>
+    </message>
+    <message>
+        <source>Elbow Arrow Connector</source>
+        <comment>DRAWING2_TOOLTIP_ELBOW_ARROW_CONNECTOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Elbow Double Arrow Connector</source>
+        <comment>DRAWING2_TOOLTIP_ELBOW_DOUBLE_ARROW_CONNECTOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curved Connector</source>
+        <comment>DRAWING2_TOOLTIP_CURVED_CONNECTOR</comment>
+        <translation>Connecteur en arc</translation>
+    </message>
+    <message>
+        <source>Curved Arrow Connector</source>
+        <comment>DRAWING2_TOOLTIP_CURVED_ARROW_CONNECTOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curved Double Arrow Connector</source>
+        <comment>DRAWING2_TOOLTIP_CURVED_DOUBLE_ARROW_CONNECTOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curve</source>
+        <comment>DRAWING2_TOOLTIP_CURVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arbitrary Polygon</source>
+        <comment>DRAWING2_TOOLTIP_ARBITRARY_POLYGON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free Curve</source>
+        <comment>DRAWING2_TOOLTIP_FREE_CURVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_RECTANGLE</comment>
+        <translation>Rectangle</translation>
+    </message>
+    <message>
+        <source>Rounded Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_ROUNDED_RECTANGLE</comment>
+        <translation>Rectangle à coins arrondi</translation>
+    </message>
+    <message>
+        <source>Snip Single Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_SNIP_SINGLE_CORNER_RECTANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip Same Side Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_SNIP_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snip Diagonal Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_SNIP_DIAGONAL_CORNER_RECTANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Round Single Corner Rectangle 1</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_SINGLE_CORNER_RECTANGLE_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Round Single Corner Rectangle 2</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_SINGLE_CORNER_RECTANGLE_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Round Same Side Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Round Diagonal Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_DIAGONAL_CORNER_RECTANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextBox</source>
+        <comment>DRAWING2_TOOLTIP_TEXTBOX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical TextBox</source>
+        <comment>DRAWING2_TOOLTIP_VERTICALTEXTBOX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <comment>DRAWING2_TOOLTIP_ELLIPSE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Isosceles Triangle</source>
+        <comment>DRAWING2_TOOLTIP_ISOSCELES_TRIANGLE</comment>
+        <translation>Triangle isocèle</translation>
+    </message>
+    <message>
+        <source>Right Triangle</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_TRIANGLE</comment>
+        <translation>Triangle rectangle</translation>
+    </message>
+    <message>
+        <source>Parallelogram</source>
+        <comment>DRAWING2_TOOLTIP_PARALLELOGRAM</comment>
+        <translation>Parallélogramme</translation>
+    </message>
+    <message>
+        <source>Trapezoid</source>
+        <comment>DRAWING2_TOOLTIP_TRAPEZOID</comment>
+        <translation>Trapèze</translation>
+    </message>
+    <message>
+        <source>Diamond</source>
+        <comment>DRAWING2_TOOLTIP_DIAMOND</comment>
+        <translation>Losange</translation>
+    </message>
+    <message>
+        <source>Regular Pentagon</source>
+        <comment>DRAWING2_TOOLTIP_REGULAR_PENTAGON</comment>
+        <translation>Pentagone régulier</translation>
+    </message>
+    <message>
+        <source>Hexagon</source>
+        <comment>DRAWING2_TOOLTIP_HEXAGON</comment>
+        <translation>Hexagone</translation>
+    </message>
+    <message>
+        <source>Heptagonal</source>
+        <comment>DRAWING2_TOOLTIP_HEPTAGONAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Octagon</source>
+        <comment>DRAWING2_TOOLTIP_OCTAGON</comment>
+        <translation>Octogone</translation>
+    </message>
+    <message>
+        <source>Decagon</source>
+        <comment>DRAWING2_TOOLTIP_DECAGON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dodecagon</source>
+        <comment>DRAWING2_TOOLTIP_DODECAGON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pie</source>
+        <comment>DRAWING2_TOOLTIP_PIE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chord</source>
+        <comment>DRAWING2_TOOLTIP_CHORD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Teardrop</source>
+        <comment>DRAWING2_TOOLTIP_TEARDROP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Frame</source>
+        <comment>DRAWING2_TOOLTIP_FRAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Half Frame</source>
+        <comment>DRAWING2_TOOLTIP_HALF_FRAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>L-Shape</source>
+        <comment>DRAWING2_TOOLTIP_L_SHAPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagonal Stripe</source>
+        <comment>DRAWING2_TOOLTIP_DIAGONAL_STRIPE</comment>
+        <translation>Rayure diagonale</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>DRAWING2_TOOLTIP_CROSS</comment>
+        <translation>Croix</translation>
+    </message>
+    <message>
+        <source>Missing Corner Rectangular</source>
+        <comment>DRAWING2_TOOLTIP_MISSING_CORNER_RECTANGULAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can</source>
+        <comment>DRAWING2_TOOLTIP_CAN</comment>
+        <translation>Cylindre</translation>
+    </message>
+    <message>
+        <source>Cube</source>
+        <comment>DRAWING2_TOOLTIP_CUBE</comment>
+        <translation>Cube</translation>
+    </message>
+    <message>
+        <source>Frustum</source>
+        <comment>DRAWING2_TOOLTIP_FRUSTUM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Concentric Circle</source>
+        <comment>DRAWING2_TOOLTIP_CONCENTRIC_CIRCLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forbidden Symbols</source>
+        <comment>DRAWING2_TOOLTIP_FORBIDDENSYMBOLS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hollow Arc</source>
+        <comment>DRAWING2_TOOLTIP_HOLLOW_ARC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fold Angle</source>
+        <comment>DRAWING2_TOOLTIP_FOLDA_NGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smiley Face</source>
+        <comment>DRAWING2_TOOLTIP_SMILEY_FACE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heart</source>
+        <comment>DRAWING2_TOOLTIP_HEART</comment>
+        <translation>Cœur</translation>
+    </message>
+    <message>
+        <source>Lightning Bolt</source>
+        <comment>DRAWING2_TOOLTIP_LIGHTNING_BOLT</comment>
+        <translation>Éclair</translation>
+    </message>
+    <message>
+        <source>Sun</source>
+        <comment>DRAWING2_TOOLTIP_SUN</comment>
+        <translation>Soleil</translation>
+    </message>
+    <message>
+        <source>Moon</source>
+        <comment>DRAWING2_TOOLTIP_MOON</comment>
+        <translation>Lune</translation>
+    </message>
+    <message>
+        <source>Cloud</source>
+        <comment>DRAWING2_TOOLTIP_CLOUD</comment>
+        <translation>Nuage</translation>
+    </message>
+    <message>
+        <source>Arc</source>
+        <comment>DRAWING2_TOOLTIP_ARC</comment>
+        <translation>Arc</translation>
+    </message>
+    <message>
+        <source>Double Bracket</source>
+        <comment>DRAWING2_TOOLTIP_DOUBLE_BRACKET</comment>
+        <translation>Parenthèse</translation>
+    </message>
+    <message>
+        <source>Double Brace</source>
+        <comment>DRAWING2_TOOLTIP_DOUBLE_BRACE</comment>
+        <translation>Accolades</translation>
+    </message>
+    <message>
+        <source>Left Bracket</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_BRACKET</comment>
+        <translation>Parenthèse ouvrante</translation>
+    </message>
+    <message>
+        <source>Right Bracket</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_BRACKET</comment>
+        <translation>Parenthèse fermante</translation>
+    </message>
+    <message>
+        <source>Left Brace</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_BRACE</comment>
+        <translation>Accolade ouvrante</translation>
+    </message>
+    <message>
+        <source>Right Brace</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_BRACE</comment>
+        <translation>Accolade fermante</translation>
+    </message>
+    <message>
+        <source>Right Arrow</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_ARROW</comment>
+        <translation>Flèche droite</translation>
+    </message>
+    <message>
+        <source>Left Arrow</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_ARROW</comment>
+        <translation>Flèche gauche</translation>
+    </message>
+    <message>
+        <source>Up Arrow</source>
+        <comment>DRAWING2_TOOLTIP_UP_ARROW</comment>
+        <translation>Flèche vers le haut</translation>
+    </message>
+    <message>
+        <source>Down Arrow</source>
+        <comment>DRAWING2_TOOLTIP_DOWN_ARROW</comment>
+        <translation>Flèche vers le bas</translation>
+    </message>
+    <message>
+        <source>Left And Right Arrow</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_AND_RIGHT_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up And Down Arrow</source>
+        <comment>DRAWING2_TOOLTIP_UP_AND_DOWN_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cross Arrow</source>
+        <comment>DRAWING2_TOOLTIP_CROSS_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>J-shape Arrow</source>
+        <comment>DRAWING2_TOOLTIP_J_SHAPE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fillet Right Arrow</source>
+        <comment>DRAWING2_TOOLTIP_FILLET_RIGHT_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stick Arrow</source>
+        <comment>DRAWING2_TOOLTIP_STICK_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Angle Two-way Arrow</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_ANGLE_TWOWAY_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Angle Up Arrow</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_ANGLE_UP_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Curved Arrow</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_CURVED_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Curved Arrow</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_CURVED_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down Curved Arrow</source>
+        <comment>DRAWING2_TOOLTIP_DOWN_CURVED_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up Curved Arrow</source>
+        <comment>DRAWING2_TOOLTIP_UP_CURVED_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Virtual Tail Arrow</source>
+        <comment>DRAWING2_TOOLTIP_VIRTUAL_TAIL_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dove Tail Arrow</source>
+        <comment>DRAWING2_TOOLTIP_DOVE_TAIL_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Pentagon</source>
+        <comment>DRAWING2_TOOLTIP_ARROW_PENTAGON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dove Tail</source>
+        <comment>DRAWING2_TOOLTIP_DOVE_TAIL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_ARROW_CALLOUT</comment>
+        <translation>Rectangle avec flèche vers la droite</translation>
+    </message>
+    <message>
+        <source>Down Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_DOWN_ARROW_CALLOUT</comment>
+        <translation>Rectangle avec flèche vers le bas</translation>
+    </message>
+    <message>
+        <source>Left Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_ARROW_CALLOUT</comment>
+        <translation>Rectangle avec flèche vers la gauche</translation>
+    </message>
+    <message>
+        <source>Up Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_UP_ARROW_CALLOUT</comment>
+        <translation>Rectangle avec flèche vers le haut</translation>
+    </message>
+    <message>
+        <source>Left-Right Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_RIGHT_ARROW_CALLOUT</comment>
+        <translation>Rectangle horizontal à deux flèches</translation>
+    </message>
+    <message>
+        <source>Cross Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_CROSS_ARROW_CALLOUT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circular Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_CIRCULAR_ARROW_CALLOUT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plus</source>
+        <comment>DRAWING2_TOOLTIP_PLUS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minus</source>
+        <comment>DRAWING2_TOOLTIP_MINUS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multiply</source>
+        <comment>DRAWING2_TOOLTIP_MULTIPLY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Division</source>
+        <comment>DRAWING2_TOOLTIP_DIVISION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal</source>
+        <comment>DRAWING2_TOOLTIP_EQUAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Equal</source>
+        <comment>DRAWING2_TOOLTIP_NOT_EQUAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flowchart: Process</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PROCESS</comment>
+        <translation>Organigramme : Processus</translation>
+    </message>
+    <message>
+        <source>Flowchart: Alternate Process</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_ALTERNATE_PROCESS</comment>
+        <translation>Organigramme : Alternative</translation>
+    </message>
+    <message>
+        <source>Flowchart: Decision</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DECISION</comment>
+        <translation>Organigramme : Décision</translation>
+    </message>
+    <message>
+        <source>Flowchart: Data</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DATA</comment>
+        <translation>Organigramme : Données</translation>
+    </message>
+    <message>
+        <source>Flowchart: Predefined Process</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PREDEFINED_PROCESS</comment>
+        <translation>Organigramme : Procédé prédéfini</translation>
+    </message>
+    <message>
+        <source>Flowchart: Internal Storage</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_INTERNAL_STORAGE</comment>
+        <translation>Organigramme : Stockage interne</translation>
+    </message>
+    <message>
+        <source>Flowchart: Document</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DOCUMENT</comment>
+        <translation>Organigramme : Document</translation>
+    </message>
+    <message>
+        <source>Flowchart: Multidocument</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MULTIDOCUMENT</comment>
+        <translation>Organigramme : Multidocument</translation>
+    </message>
+    <message>
+        <source>Flowchart: Terminator</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_TERMINATOR</comment>
+        <translation>Organigramme : Terminateur</translation>
+    </message>
+    <message>
+        <source>Flowchart: Preparation</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PREPARATION</comment>
+        <translation>Organigramme : Préparation</translation>
+    </message>
+    <message>
+        <source>Flowchart: Manual Input</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MANUAL_INPUT</comment>
+        <translation>Organigramme : Entrée manuelle</translation>
+    </message>
+    <message>
+        <source>Flowchart: Manual Operation</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MANUAL_OPERATION</comment>
+        <translation>Organigramme : Opération manuelle</translation>
+    </message>
+    <message>
+        <source>Flowchart: Connector</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_CONNECTOR</comment>
+        <translation>Organigramme : Connecteur</translation>
+    </message>
+    <message>
+        <source>Flowchart: Off-Page Connector</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_OFF_PAGE_CONNECTOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flowchart: Card</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_CARD</comment>
+        <translation>Organigramme : Carte perforée</translation>
+    </message>
+    <message>
+        <source>Flowchart: Punched Tape</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PUNCHED_TAPE</comment>
+        <translation>Organigramme : Bande perforée</translation>
+    </message>
+    <message>
+        <source>Flowchart: Summing Junction</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_SUMMING_JUNCTION</comment>
+        <translation>Organigramme : Jonction de sommaire</translation>
+    </message>
+    <message>
+        <source>Flowchart: Or</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_OR</comment>
+        <translation>Organigramme : Ou</translation>
+    </message>
+    <message>
+        <source>Flowchart: Collate</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_COLLATE</comment>
+        <translation>Organigramme : Joindre</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sort</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_SORT</comment>
+        <translation>Organigramme : Trier</translation>
+    </message>
+    <message>
+        <source>Flowchart: Extract</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_EXTRACT</comment>
+        <translation>Organigramme : Extraire</translation>
+    </message>
+    <message>
+        <source>Flowchart: Merge</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MERGE</comment>
+        <translation>Organigramme : Fusion</translation>
+    </message>
+    <message>
+        <source>Flowchart: Stored Data</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_STORED_DATA</comment>
+        <translation>Organigramme : Données stockées</translation>
+    </message>
+    <message>
+        <source>Flowchart: Delay</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DELAY</comment>
+        <translation>Organigramme : Délai</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_SEQUENTIAL_ACCESS_STORAGE</comment>
+        <translation>Organigramme : Stockage à accès séquentiel</translation>
+    </message>
+    <message>
+        <source>Flowchart: Magnetic Disk</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MAGNETIC_DISK</comment>
+        <translation>Organigramme : Disque magnétique</translation>
+    </message>
+    <message>
+        <source>Flowchart: Direct Access Storage</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DIRECT_ACCESS_STORAGE</comment>
+        <translation>Organigramme : Stockage à accès direct</translation>
+    </message>
+    <message>
+        <source>Flowchart: Display</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DISPLAY</comment>
+        <translation>Organigramme : Affichage</translation>
+    </message>
+    <message>
+        <source>Explosion 1</source>
+        <comment>DRAWING2_TOOLTIP_EXPLOSION_1</comment>
+        <translation>Explosion 1</translation>
+    </message>
+    <message>
+        <source>Explosion 2</source>
+        <comment>DRAWING2_TOOLTIP_EXPLOSION_2</comment>
+        <translation>Explosion 2</translation>
+    </message>
+    <message>
+        <source>4-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_4_POINT_STAR</comment>
+        <translation>Étoile à 4 branches</translation>
+    </message>
+    <message>
+        <source>5-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_5_POINT_STAR</comment>
+        <translation>Étoile à 5 branches</translation>
+    </message>
+    <message>
+        <source>6-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_6_POINT_STAR</comment>
+        <translation>Étoile à 6 branches</translation>
+    </message>
+    <message>
+        <source>7-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_7_POINT_STAR</comment>
+        <translation>Étoile à 7 branches</translation>
+    </message>
+    <message>
+        <source>8-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_8_POINT_STAR</comment>
+        <translation>Étoile à 8 branches</translation>
+    </message>
+    <message>
+        <source>10-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_10_POINT_STAR</comment>
+        <translation>Étoile à 10 branches</translation>
+    </message>
+    <message>
+        <source>12-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_12_POINT_STAR</comment>
+        <translation>Étoile à 12 branches</translation>
+    </message>
+    <message>
+        <source>16-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_16_POINT_STAR</comment>
+        <translation>Étoile à 16 branches</translation>
+    </message>
+    <message>
+        <source>24-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_24_POINT_STAR</comment>
+        <translation>Étoile à 24 branches</translation>
+    </message>
+    <message>
+        <source>32-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_32_POINT_STAR</comment>
+        <translation>Étoile à 32 branches</translation>
+    </message>
+    <message>
+        <source>Convex Strip</source>
+        <comment>DRAWING2_TOOLTIP_CONVEX_STRIP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lordosis Strip</source>
+        <comment>DRAWING2_TOOLTIP_LORDOSIS_TRIP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convex Curved Strip</source>
+        <comment>DRAWING2_TOOLTIP_CONVEX_CURVED_STRIP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lordosis Bending Strip</source>
+        <comment>DRAWING2_TOOLTIP_Lordosis_Bending_Strip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VerticalS Scroll</source>
+        <comment>DRAWING2_TOOLTIP_VERTICALS_SCROLL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal Scroll</source>
+        <comment>DRAWING2_TOOLTIP_HORIZONTAL_SCROLL</comment>
+        <translation>Parchemin horizontal</translation>
+    </message>
+    <message>
+        <source>Wave</source>
+        <comment>DRAWING2_TOOLTIP_WAVE</comment>
+        <translation>Vague</translation>
+    </message>
+    <message>
+        <source>Double Wave</source>
+        <comment>DRAWING2_TOOLTIP_DOUBLE_WAVE</comment>
+        <translation>Double vague</translation>
+    </message>
+    <message>
+        <source>Rectangular Callout</source>
+        <comment>DRAWING2_TOOLTIP_RECTANGULAR_CALLOUT</comment>
+        <translation>Légende rectangulaire</translation>
+    </message>
+    <message>
+        <source>Rounded Rectangular Callout</source>
+        <comment>DDRAWING2_TOOLTIP_ROUNDED_RECTANGULAR_CALLOUT</comment>
+        <translation>Légende rectangulaire à coins arrondis</translation>
+    </message>
+    <message>
+        <source>Oval Callout</source>
+        <comment>DRAWING2_TOOLTIP_OVAL_CALLOUT</comment>
+        <translation>Bulle ronde</translation>
+    </message>
+    <message>
+        <source>Cloud Callout</source>
+        <comment>DRAWING2_TOOLTIP_CLOUD_CALLOUT</comment>
+        <translation>Pensées</translation>
+    </message>
+    <message>
+        <source>Line Callout 1</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1</comment>
+        <translation>Légende encadrée 1</translation>
+    </message>
+    <message>
+        <source>Line Callout 2</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2</comment>
+        <translation>Légende encadrée 2</translation>
+    </message>
+    <message>
+        <source>Line Callout 3</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3</comment>
+        <translation>Légende encadrée 3</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1_ACCENT_BAR</comment>
+        <translation>Légende à une bordure 1</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2_ACCENT_BAR</comment>
+        <translation>Légende à une bordure 2</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3_ACCENT_BAR</comment>
+        <translation>Légende à une bordure 3</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (No Border)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1_NO_BORDER</comment>
+        <translation>Connecteur page suivante 1</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (No Border)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2_NO_BORDER</comment>
+        <translation>Légende sans bordure 2</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (No Border)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3_NO_BORDER</comment>
+        <translation>Légende sans bordure 3</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (Border and Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1_BORDER_AND_ACCENT_BAR</comment>
+        <translation>Légende encadrée avec une bordure 1</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (Border and Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2_BORDER_AND_ACCENT_BAR</comment>
+        <translation>Légende encadrée avec une bordure 2</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (Border and Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3_BORDER_AND_ACCENT_BAR</comment>
+        <translation>Légende encadrée avec une bordure 3</translation>
+    </message>
+    <message>
+        <source>Action Button: Back or Previous</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_BACK_OR_PREVIOUS</comment>
+        <translation>Bouton d&apos;action : Retour ou Précédent</translation>
+    </message>
+    <message>
+        <source>Action Button: Forward or Next</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_FORWARD_OR_NEXT</comment>
+        <translation>Bouton d&apos;action : Prochain ou Suivant</translation>
+    </message>
+    <message>
+        <source>Action Button: Beginning</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_BEGINNING</comment>
+        <translation>Bouton d&apos;action : Début</translation>
+    </message>
+    <message>
+        <source>Action Button: End</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_END</comment>
+        <translation>Bouton d&apos;action : Fin</translation>
+    </message>
+    <message>
+        <source>Action Button: Home</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_HOME</comment>
+        <translation>Bouton d&apos;action : Accueil</translation>
+    </message>
+    <message>
+        <source>Action Button: Information</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_INFORMATION</comment>
+        <translation>Bouton d&apos;action : Informations</translation>
+    </message>
+    <message>
+        <source>Action Button: Return</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_RETURN</comment>
+        <translation>Bouton d&apos;action : Retour</translation>
+    </message>
+    <message>
+        <source>Action Button: Movie</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_MOVIE</comment>
+        <translation>Bouton d&apos;action : Film</translation>
+    </message>
+    <message>
+        <source>Action Button: Document</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_DOCUMENT</comment>
+        <translation>Bouton d&apos;action : Document</translation>
+    </message>
+    <message>
+        <source>Action Button: Sound</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_SOUND</comment>
+        <translation>Bouton d&apos;action : Son</translation>
+    </message>
+    <message>
+        <source>Action Button: Help</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_HELP</comment>
+        <translation>Bouton d&apos;action : Aide</translation>
+    </message>
+    <message>
+        <source>Action Button: Custom</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_CUSTOM</comment>
+        <translation>Bouton d&apos;action : Personnalisé</translation>
+    </message>
+    <message>
+        <source>LightPink</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BUTTON_LIGHTPINK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pink</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PINK</comment>
+        <translation>Rose</translation>
+    </message>
+    <message>
+        <source>Crimson</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CRIMSON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LavenderBlush</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LAVENDERBLUSH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PaleVioletRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PALEVIOLETRED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HotPink</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_HOTPINK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DeepPink</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DEEPPINK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MediumVioletRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMVIOLETRED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Orchid</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ORCHID</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thistle</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_THISTLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PLUM</comment>
+        <translation>Prune</translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_VIOLET</comment>
+        <translation>Violet</translation>
+    </message>
+    <message>
+        <source>Magenta</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MAGENTA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fuchsia</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_FUCHSIA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkMagenta</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKMAGENTA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purple</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PURPLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MediumOrchid</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMORCHID</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkViolet</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKVIOLET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkOrchid</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKORCHID</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Indigo</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_INDIGO</comment>
+        <translation>Indigo</translation>
+    </message>
+    <message>
+        <source>BlueViolet</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BLUEVIOLET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MediumPurple</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMPURPLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSLATEBLUE</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_CUSTOM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SlateBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SLATEBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkSlateBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSLATEBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lavender</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LAVENDER</comment>
+        <translation>Lavande</translation>
+    </message>
+    <message>
+        <source>GhostWhite</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GHOSTWHITE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BLUE</comment>
+        <translation>Bleu</translation>
+    </message>
+    <message>
+        <source>MediumBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MidnightBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MIDNIGHTBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Navy</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_NAVY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RoyalBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ROYALBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CornflowerBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CORNFLOWERBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LightSteelBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSTEELBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LightSlateGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSLATEGRAY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SlateGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SLATEGRAY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DodgerBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DODGERBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AliceBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ALICEBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SteelBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_STEELBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LightSkyBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSKYBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SkyBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SKYBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DeepSkyBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DEEPSKYBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LightBlue</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_CUSTOM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PowderBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_POWDERBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CadetBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CADETBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Azure</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_AZURE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LightCyan</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTCYAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PaleTurquoise</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PALETURQUOISE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cyan</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CYAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aqua</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_AQUA</comment>
+        <translation>Vert d&apos;eau</translation>
+    </message>
+    <message>
+        <source>DarkTurquoise</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKTURQUOISE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkSlateGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSLATEGRAY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkCyan</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKCYAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Teal</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_TEAL</comment>
+        <translation>Bleu-vert</translation>
+    </message>
+    <message>
+        <source>MediumTurquoise</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMTURQUOISE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LightSeaGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSEAGREEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turquoise</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_TURQUOISE</comment>
+        <translation>Turquoise</translation>
+    </message>
+    <message>
+        <source>Aquamarine</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_AQUAMARINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MediumAquamarine</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMAQUAMARINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MediumSpringGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSPRINGGREEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MintCream</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MINTCREAM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SpringGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SPRINGGREEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MediumSeaGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSEAGREEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SeaGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SEAGREEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Honeydew</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_HONEYDEW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LightGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTGREEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PaleGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PALEGREEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkSeaGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSEAGREEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LimeGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIMEGREEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lime</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIME</comment>
+        <translation>Citron vert</translation>
+    </message>
+    <message>
+        <source>ForestGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_FORESTGREEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Green</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GREEN</comment>
+        <translation>Vert</translation>
+    </message>
+    <message>
+        <source>DarkGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKGREEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chartreuse</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CHARTREUSE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LawnGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LAWNGREEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GreenYellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GREENYELLOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkOliveGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKOLIVEGREEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YellowGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_YELLOWGREEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OliveDrab</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_OLIVEDRAB</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Beige</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BEIGE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LightGoldenrodYellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTGOLDENRODYELLOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ivory</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_IVORY</comment>
+        <translation>Ivoire</translation>
+    </message>
+    <message>
+        <source>LightYellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTYELLOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_YELLOW</comment>
+        <translation>Jaune</translation>
+    </message>
+    <message>
+        <source>Olive</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_OLIVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkKhaki</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKKHAKI</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LemonChiffon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LEMONCHIFFON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PaleGoldenrod</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PALEGOLDENROD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Khaki</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_KHAKI</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GOLD</comment>
+        <translation>Or</translation>
+    </message>
+    <message>
+        <source>Cornsilk</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CORNSILK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goldenrod</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GOLDENROD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkGoldenrod</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKGOLDENROD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FloralWhite</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_FLORALWHITE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OldLace</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_OLDLACE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheat</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_WHEAT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Moccasin</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MOCCASIN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ORANGE</comment>
+        <translation>Orange</translation>
+    </message>
+    <message>
+        <source>PapayaWhip</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PAPAYAWHIP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BlanchedAlmond</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BLANCHEDALMON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NavajoWhite</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_NAVAJOWHITE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AntiqueWhite</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ANTIQUEWHITE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tan</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_TAN</comment>
+        <translation>Brun tanné</translation>
+    </message>
+    <message>
+        <source>BurlyWood</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BURLYWOOD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bisque</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BISQUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkOrange</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKORANGE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Linen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LINEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Peru</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PERU</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PeachPuff</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PEACHPUFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SandyBrown</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SANDYBROWN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chocolate</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CHOCOLATE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SaddleBrown</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SADDLEBROWN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seashell</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SEASHELL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sienna</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SIENNA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LightSalmon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSALMON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Coral</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CORAL</comment>
+        <translation>Corail</translation>
+    </message>
+    <message>
+        <source>OrangeRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ORANGERED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkSalmon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSALMON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tomato</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_TOMATO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MistyRose</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MISTYROSE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Salmon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SALMON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SNOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LightCoral</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTCORAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RosyBrown</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ROSYBROWN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IndianRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_INDIANRED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_RED</comment>
+        <translation>Rouge</translation>
+    </message>
+    <message>
+        <source>Brown</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BROWN</comment>
+        <translation>Marron</translation>
+    </message>
+    <message>
+        <source>FireBrick</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_FIREBRICK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKRED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maroon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MAROON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>White</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_WHITE</comment>
+        <translation>Blanc</translation>
+    </message>
+    <message>
+        <source>WhiteSmoke</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_WHITESMOKE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gainsboro</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GAINSBORO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LightGrey</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTGREY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Silver</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SILVER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKGRAY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GRAY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DimGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DIMGRAY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Black</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BLACK</comment>
+        <translation>Noir</translation>
+    </message>
+    <message>
+        <source>Gray-25%</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_Gray_25</comment>
+        <translation>Gris-25%</translation>
+    </message>
+    <message>
+        <source>Gray-50%</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_Gray_50</comment>
+        <translation>Gris-50%</translation>
+    </message>
+    <message>
+        <source>Deep Red</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_DEEPRED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_RED</comment>
+        <translation>Rouge</translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_ORANGE</comment>
+        <translation>Orange</translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_YELLOW</comment>
+        <translation>Jaune</translation>
+    </message>
+    <message>
+        <source>Micro Green</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_MICROGREEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greeen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_GREEEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Micro Blue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_MICROBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_BLUE</comment>
+        <translation>Bleu</translation>
+    </message>
+    <message>
+        <source>Deep Blue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_DEEPBLUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_VIOLET</comment>
+        <translation>Violet</translation>
+    </message>
+    <message>
+        <source>Top-Left To Bottom-Right</source>
+        <comment>wpp_sTooltipGradientLinearTopLefttoBottomRight</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To Down</source>
+        <comment>wpp_sTooltipGradientLinearTopRighttoBottomLeft</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Right To Bottom-Left</source>
+        <comment>wpp_sTooltipGradientLinearTopRighttoBottomLeft</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To Right</source>
+        <comment>wpp_sTooltipGradientlinearRight</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To Left</source>
+        <comment>wpp_sTooltipGradientlinearLeft</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom-Left To Top-Right</source>
+        <comment>wpp_sTooltipGradientLinearBottomLefttoTopRight</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To Up</source>
+        <comment>wpp_sTooltipGradientLinearUp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom-Right To Top-Left</source>
+        <comment>wpp_sTooltipGradientLinearBottomRighttoTopLeft</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Bottom-Right Corner</source>
+        <comment>wpp_sTooltipGradientFromBottomRightCorner</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Bottom-Left Corne</source>
+        <comment>wpp_sTooltipGradientFromBottomLeftCorner</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Center</source>
+        <comment>wpp_sTooltipGradientFromCenter</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Top-Right Corner</source>
+        <comment>wpp_sTooltipGradientFromTopRightCorner</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Top-Left Corner</source>
+        <comment>wpp_sTooltipGradientFromTopLeftCorner</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FollowedHyperlink1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Background1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Background2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> stop: %1(belong to %2)
+ position:%3% 
+ color: %4</source>
+        <comment>wpp_sTooltipGradientStops</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Fill-</source>
+        <comment>wpp_sTooltipArtWordSolidFill</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> GradientFill-</source>
+        <comment>wpp_sTooltipArtWordGradientFill</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> PatternFill-</source>
+        <comment>wpp_sTooltipArtWordPatternFill</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> OutLine-</source>
+        <comment>wpp_sTooltipArtWordOutLine</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <comment>wpp_sTooltipPatternHorizontal</comment>
+        <translation type="unfinished">Horizontal</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <comment>wpp_sTooltipPatternVertical</comment>
+        <translation type="unfinished">Vertical</translation>
+    </message>
+    <message>
+        <source>ForwardDiagonal</source>
+        <comment>wpp_sTooltipPatternForwardDiagonal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BackwardDiagonal</source>
+        <comment>wpp_sTooltipPatternBackwardDiagonal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>wpp_sTooltipArtWordPatternFill</comment>
+        <translation>Croix</translation>
+    </message>
+    <message>
+        <source>DiagonalCross</source>
+        <comment>wpp_sTooltipPatternDiagonalCross</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5%</source>
+        <comment>wpp_sTooltipPattern05Percent</comment>
+        <translation>5%</translation>
+    </message>
+    <message>
+        <source>10%</source>
+        <comment>wpp_sTooltipPattern10Percent</comment>
+        <translation>10%</translation>
+    </message>
+    <message>
+        <source>20%</source>
+        <comment>wpp_sTooltipPattern20Percent</comment>
+        <translation>20%</translation>
+    </message>
+    <message>
+        <source>25%</source>
+        <comment>wpp_sTooltipPattern25Percent</comment>
+        <translation>25%</translation>
+    </message>
+    <message>
+        <source>30%</source>
+        <comment>wpp_sTooltipPattern30Percent</comment>
+        <translation>30%</translation>
+    </message>
+    <message>
+        <source>40%</source>
+        <comment>wpp_sTooltipPattern40Percent</comment>
+        <translation>40%</translation>
+    </message>
+    <message>
+        <source>50%</source>
+        <comment>wpp_sTooltipPattern50Percent</comment>
+        <translation>50%</translation>
+    </message>
+    <message>
+        <source>60%</source>
+        <comment>wpp_sTooltipPattern60Percent</comment>
+        <translation>60%</translation>
+    </message>
+    <message>
+        <source>70%</source>
+        <comment>wpp_sTooltipPattern70Percent</comment>
+        <translation>70%</translation>
+    </message>
+    <message>
+        <source>75%</source>
+        <comment>wpp_sTooltipPattern75Percent</comment>
+        <translation>75%</translation>
+    </message>
+    <message>
+        <source>80%</source>
+        <comment>wpp_sTooltipPattern80Percent</comment>
+        <translation>80%</translation>
+    </message>
+    <message>
+        <source>90%</source>
+        <comment>wpp_sTooltipPattern90Percent</comment>
+        <translation>90%</translation>
+    </message>
+    <message>
+        <source>LightDownwardDiagonal</source>
+        <comment>wpp_sTooltipPatternLightDownwardDiagonal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LightUpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternLightUpwardDiagonal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkDownwardDiagonal	</source>
+        <comment>wpp_sTooltipPatternDarkDownwardDiagonal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkUpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternDarkUpwardDiagonal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WideDownwardDiagonal</source>
+        <comment>wpp_sTooltipPatternWideDownwardDiagonal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WideUpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternWideUpwardDiagonal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LightVertical</source>
+        <comment>wpp_sTooltipPatternLightVertical</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LightHorizontal</source>
+        <comment>wpp_sTooltipPatternLightHorizontal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NarrowVertical</source>
+        <comment>wpp_sTooltipPatternNarrowVertical</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NarrowHorizontal</source>
+        <comment>wpp_sTooltipPatternDarkVertical</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkVertical </source>
+        <comment>wpp_sTooltipPatternDarkHorizontal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkHorizontal</source>
+        <comment>wpp_sTooltipPatternDarkHorizontal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DashedDownwardDiagonal</source>
+        <comment>wpp_sTooltipPatternDashedDownwardDiagonal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DashedUpwardDiagonal	</source>
+        <comment>wpp_sTooltipPatternDashedUpwardDiagonal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DashedHorizontal	</source>
+        <comment>wpp_sTooltipPatternDashedHorizontal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DashedVertical</source>
+        <comment>wpp_sTooltipPatternDashedVertical</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SmallConfetti</source>
+        <comment>wpp_sTooltipPatternSmallConfetti</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LargeConfetti</source>
+        <comment>wpp_sTooltipPatternLargeConfetti</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ZigZag</source>
+        <comment>wpp_sTooltipPatternZigZag</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wave	</source>
+        <comment>wpp_sTooltipPatternWave	</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DiagonalBrick</source>
+        <comment>wpp_sTooltipPatternDiagonalBrick</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HorizontalBrick</source>
+        <comment>wpp_sTooltipPatternHorizontalBrick</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PatternWeave</source>
+        <comment>wpp_sTooltipPatternWeave</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PatternPlaid</source>
+        <comment>wpp_sTooltipPatternPlaid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PatternDivot</source>
+        <comment>wpp_sTooltipPatternDivot</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DottedGrid</source>
+        <comment>wpp_sTooltipPatternDottedGrid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DottedDiamond</source>
+        <comment>wpp_sTooltipPatternDottedDiamond</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PatternShingle</source>
+        <comment>wpp_sTooltipPatternShingle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PatternTrellis</source>
+        <comment>wpp_sTooltipPatternTrellis</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PatternSphere</source>
+        <comment>wpp_sTooltipPatternSphere</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SmallGrid</source>
+        <comment>wpp_sToolwpp_sTooltipPatternSmallGridtipPatternSmallGrid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SmallCheckerBoard</source>
+        <comment>wpp_sTooltipPatternSmallCheckerBoard</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LargeCheckerBoard</source>
+        <comment>wpp_sTooltipPatternLargeCheckerBoard</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OutlinedDiamond</source>
+        <comment>wpp_sTooltipPatternOutlinedDiamond</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SolidDiamond</source>
+        <comment>wpp_sTooltipPatternSolidDiamond</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DownwardDiagnal</source>
+        <comment>wpp_sTooltipPatternDownwardDiagnal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternUpwardDiagonal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LargeGrid</source>
+        <comment>wpp_sTooltipPatternLargeGrid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> InnerShadow</source>
+        <comment>wpp_sTooltipEffectInnerShadow</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Shadow</source>
+        <comment>wpp_sTooltipEffectInnerShadow</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> ClearShadow-%1</source>
+        <comment>wpp_sTooltipEffectClearShadow</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear </source>
+        <comment>wpp_sTooltipMaterialTypeClear</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkEdge </source>
+        <comment>wpp_sTooltipMaterialTypeDarkEdge</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flat </source>
+        <comment>wpp_sTooltipMaterialTypeFlat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matte </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyMatte</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metal </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyMetal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plastic </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyPlastic</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wireframe </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyWireframe</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matte </source>
+        <comment>wpp_sTooltipMaterialTypeMatte</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metal </source>
+        <comment>wpp_sTooltipMaterialTypeMetal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plastic </source>
+        <comment>wpp_sTooltipMaterialTypePlastic</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Powder </source>
+        <comment>wpp_sTooltipMaterialTypePowder</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SoftEdge </source>
+        <comment>wpp_sTooltipMaterialTypeSoftEdge</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SoftMetal </source>
+        <comment>wpp_sTooltipMaterialTypeSoftMetal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TranslucentPowder </source>
+        <comment>wpp_sTooltipMaterialTypeTranslucentPowder</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WarmMatte </source>
+        <comment>wpp_sTooltipMaterialTypeWarmMatte</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkColor%1</source>
+        <comment>wpp_sTooltipShapeStyleDarkColor</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HightLight%1</source>
+        <comment>wpp_sTooltipShapeStyleHightlightColor</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ColorOutLine-</source>
+        <comment>wpp_sTooltipShapeStyleColorOutLine</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ColorFill-</source>
+        <comment>wpp_sTooltipShapeStyleColorFill</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LightColor_1_OutLine,Color Fill-</source>
+        <comment>wpp_sTooltipShapeStyleLightColor_1_OutLineFill</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SubtleEffect-</source>
+        <comment>wpp_sTooltipShapeStyleSubtleEffect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ModerateEffect-</source>
+        <comment>wpp_sTooltipShapeStyleModerateEffect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IntenseEffect-</source>
+        <comment>wpp_sTooltipShapeStyleIntenseEffect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SubtleLine-</source>
+        <comment>wpp_sTooltipShapeStyleIntenseLine</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ModerateLine-</source>
+        <comment>wpp_sTooltipShapeStyleModerateLine</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IntenseLine-</source>
+        <comment>wpp_sTooltipShapeStyleIntenseLine</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_NONE</comment>
+        <translation>Pas d&apos;ombre</translation>
+    </message>
+    <message>
+        <source>Right-Down Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTDOWNOFFSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down Offset	</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_DOWNOFFSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left-Down Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTDOWNOFFSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTOFFSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_CENTEROFFSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTOFFSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-Up Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTUPOFFSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_UPOFFSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left-Up Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTUPOFFSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inner Left-UP Corner</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFTUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InnerUp</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inner Right-Up Corner</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHTUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inner Left</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inner Center</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERCENTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inner Right</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inner Left-Down Corner</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFTDOWN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inner Down</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERDOWN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inner Right-Down Corner</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHTDOWN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left-Up Corner Perspective</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTUPCORNERPERSPECTIVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-Up Corner Perspective</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTUPCORNERPERSPECTIVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_DOWN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left-Down Corner Perspective</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTDOWNCORNERPERSPECTIVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-Down Corner Perspective</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTDOWNCORNERPERSPECTIVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Reflection</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_NONE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close-Image,Touch</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_TOUCH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hla-fImage,Touch</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_TOUCH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whole-Iamge,Touch</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_TOUCH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close-Image,4 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_4PT_OFFSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hlaf-Image,4 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_4PT_OFFSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whole-Iamge,4 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_4PT_OFFSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close-Image,8 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_8PT_OFFSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hlaf-Image,8 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_8PT_OFFSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whole-Iamge,8 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_8PT_OFFSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_NONE</comment>
+        <translation>Aucun</translation>
+    </message>
+    <message>
+        <source>Up Arc</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_UPARC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down Arc</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_DOWNARC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_CIRCLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Button</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_BUTTON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rectuangle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_RECTUANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_STOP</comment>
+        <translation>Arrêter</translation>
+    </message>
+    <message>
+        <source>Triangle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_TRIANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverted Triangle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_INVERTEDTRIANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>V-shape</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_VSHAPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverted V-shape</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_INVERTEDVSHAPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clockwise</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_CLOCKWISE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Anti-Clockwise</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_ANTICLOCKWISE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UpArc</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_UPARC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DownArc</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOWNARC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_CIRCLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Button</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BUTTON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Horn</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTHORN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Horn</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_RIGHTHORN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Both Ends Near</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BOTHENDSNEAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Both Ends Far</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BOTHENDSFAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wave1</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_WAVE1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wave2</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_WAVE2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DoubleWave1</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOUBLEWAVE1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DoubleWave2</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOUBLEWAVE2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waist Drum</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_WAISTDRUM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>korean Drum</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_KOREANDRUM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Shape</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_TOPSHAPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Brige-Shape</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BRIGESHAPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mountain</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_MOUNTAIN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Groove</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_GROOVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sigle Tunnel</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_SIGLETUNNEL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Turnnel</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOUBLETURNNEL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left-Near Right-Far</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTNEARRIGHTFAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left-Far Right-Near</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTFARRIGHTNEAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trapezoid</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_TRAPEZOID</comment>
+        <translation>Trapèze</translation>
+    </message>
+    <message>
+        <source>Inverted Trapezoid</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_INVERTEDTRAPEZOID</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Collar</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTCOLLAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Collar</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_RIGHTCOLLAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward-Near BakckWord-Far</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_FORWARDNEARBAKCKWORDFAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward-Far BakckWord-Near</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_FORWARDFARBAKCKWORDNEAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Bevel</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_None</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circle</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Circle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loose Embedded</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_LooseEmbedded</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Cross</comment>
+        <translation>Croix</translation>
+    </message>
+    <message>
+        <source>CoolSlope</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_CoolSlope</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Angle</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Angle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Soft Circle	</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_SoftCircle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heave</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Heave</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slope</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Slope</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turf</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Turf</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ribbed</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Ribbed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hard Edge</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_HardEdge</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Art Decoration</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_ArtDecoration</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matt Effect</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_MATT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warm Rough</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_WARMROUGH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plastic Effect</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_PLASTICEFFECT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MetalEffect</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_METALEFFECT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hard Edge</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_HARDEDGE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Soft Edge</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_SOFTEDGE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plane</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_PLANE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wire Frame</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_WIREFRAME</comment>
+        <translation>Maquette</translation>
+    </message>
+    <message>
+        <source>Powder</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_POWDER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translucent Powder</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_TRANSLUCENTPOWDER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MostsSperficial</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_MOSTSSPERFICIAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Three Points</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_THREEPOINTS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blance</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_BLANCE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Soft</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_SOFT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rough</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_ROUGH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strong</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_STRONG</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contrast</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_CONTRAST</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mornning</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_MORNNING</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SunRise</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_SUNRISE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SunSet</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_SUNSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cold</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_COLD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ice Cold</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_ICE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plane</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_PLANE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Two Points</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_TWOPOINTS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_GLOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bright Room</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_BRIGHTROOM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_NONE</comment>
+        <translation>Non</translation>
+    </message>
+    <message>
+        <source>Isometric Lft-Down</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_ISOMETRICLFTDOWN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Isometric Right-Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_ISOMETRICRIGHTUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equiaxial Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_EQUIAXIALUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equiaxia Down</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_EQUIAXIADOWN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Off-Axis 1 Left</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1LEFT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Off-Axis 1 Right</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1RIGHT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Off-Axis 1 Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1UP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Off-Axis 2 Left</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2LEFT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Off-Axis 2 Right</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2RIGHT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Off-Axis 2 Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2UP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forwoar Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_FORWOARPERSPECTIVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_LEFTPERSPECTIVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_RIGHTPERSPECTIVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_DOWNPERSPECTIVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_UPPERSPECTIVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ModeratelyLoose</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MODERATELYLOOSE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loose</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_LOOSE</comment>
+        <translation>Perspective relâchée</translation>
+    </message>
+    <message>
+        <source>Left Right Compare Pespective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_LEFTRIGHTCOMPAREPESPECTIVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Compare Pespective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_RIGHTCOMPAREPESPECTIVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Most Left Most Big</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MOSTLEFTMOSTBIG</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MostRightMostBig</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MOSTRIGHTMOSTBIG</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tilt Left Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTLEFTUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tilt Right Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTRIGHTUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tilt Left Down</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTLEFTDOWN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tilt Right Down</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTRIGHTDOWN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SOLID</comment>
+        <translation>Solide</translation>
+    </message>
+    <message>
+        <source>System Dot</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SYSDOT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System Dash</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SYSDASH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_DASH</comment>
+        <translation>Tiret</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_DASHDOT</comment>
+        <translation>Tiret-point</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_LONGDASH</comment>
+        <translation>Tiret cadratin</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_LONGDASHDOT</comment>
+        <translation>Tiret cadratin-point</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_LONGDASHDOTDOT</comment>
+        <translation>Tiret-point-point</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SINGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_DOUBLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thick-Thin </source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_THICKTHIN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thin-Thick</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_THINTHICK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Triple Line</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_TRIPLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line-Style: %1
+Line-Width: %2 pt
+Line-type: %3</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SHOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_LINE</comment>
+        <translation>Ligne</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_RECTANGLE</comment>
+        <translation>Rectangle</translation>
+    </message>
+    <message>
+        <source>Base Shape</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_NORMAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_FORMULA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Process</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_PROCESS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Star And Flag</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_STARANDFLAG</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Callout</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_CALLOUT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action Button</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_ACTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Single Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_SINGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOUBLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heavy Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dot Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heavy Dot Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DOT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DASH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heavy Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DASH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_LONG_DASH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heavy Long Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_LONG_DASH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dot Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOT_DASH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heavy Dot Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DOT_DASH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Dot Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOUBLE_DOT_DASH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heavy Double Dot Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DOUBLE_DOT_DASH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wavy Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_WAVY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heavy Wavy Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_WAVY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Wavy Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOUBLE_WAVY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid Line</source>
+        <comment>DRAWING2_LINE_NAME_SOLID</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circle Point</source>
+        <comment>DRAWING2_LINE_NAME_CIRCLEPOINT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Point</source>
+        <comment> DRAWING2_LINE_NAME_SQUAREPOINT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash line</source>
+        <comment>DRAWING2_LINE_NAME_DASHLINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Line-Point</source>
+        <comment>DRAWING2_LINE_NAME_DASHLINEPOINT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lone Dash Line</source>
+        <comment>DRAWING2_LINE_NAME_LONGDASHLINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lone Dash Line-Point</source>
+        <comment>DRAWING2_LINE_NAME_LONGDASHLINEPOINT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lone Dash Line-Point-Point</source>
+        <comment>DRAWING2_LINE_NAME_LONGDASHLINEPOINTPOINT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sigle Line</source>
+        <comment>DRAWING2_LINE_TYPE_SIGLELINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Lines</source>
+        <comment>DRAWING2_LINE_TYPE_DOUBLEINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Coarse To Fine</source>
+        <comment>DRAWING2_LINE_TYPE_COARSETOFINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fine To Coarse</source>
+        <comment>DRAWING2_LINE_TYPE_FINETOCOARSE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Three Lines</source>
+        <comment>DRAWING2_LINE_TYPE_THREELINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_NONE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_ARROE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_OPEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dovetail Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_DOVETAIL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diamond Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_DIAMOND</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circle Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_CIRCLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Arrow %1</source>
+        <comment>DRAWING2_LINE_ARROW_LEFT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Arrow %1</source>
+        <comment>DRAWING2_LINE_ARROW_RIGHT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The font &apos;</source>
+        <comment>DRAWING2_FontNameNotExisitFirstHalf</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
+        <comment>DRAWING2_FontNameNotExisitSecondHalf</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert OLE Object</source>
+        <comment>DRAWING2_CONVERTOLEOBJECT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Light Color %1%</source>
+        <comment>wpp_sTooltipGradientLightColour</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Dark Color %1%</source>
+        <comment>wpp_sTooltipGradientDarkColour</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3081,7 +7765,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>(beta) Single Web Page File</source>
         <comment>_KsoFileFormatDesc_MHT_File</comment>
-        <translation>Un seul fichier de page Web (bêta)</translation>
+        <translation type="obsolete">Un seul fichier de page Web (bêta)</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Document</source>
@@ -3126,6 +7810,16 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
         <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
+        <translation>L&apos;auteur souhaite que ce fichier soit ouvert en lecture seule, sauf si vous devez y apporter des modifications. Voulez-vous l&apos;ouvrir en lecture seule ?</translation>
+    </message>
+    <message>
+        <source>Word XML Document</source>
+        <comment>_KsoDesc_07Xml</comment>
+        <translation>Document XML Word</translation>
+    </message>
+    <message>
+        <source>Single Web Page File</source>
+        <comment>_KsoFileFormatDesc_MHT_File</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3230,7 +7924,7 @@ File: %s
         <comment>_kso_Addins_AVScan_Failed</comment>
         <translation>Le complément suivant a échoué la vérification antivirus. Pour assurer la sécurité, %s refusera de le charger. 
 
-Nom : %s
+Nom : %s
 Description : %s
 Fichier : %s
 </translation>
@@ -3473,7 +8167,7 @@ Fichier : %s
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_for_windows_version</comment>
-        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
@@ -3483,327 +8177,327 @@ Fichier : %s
     <message>
         <source>WPS Office (Beta)</source>
         <comment>_kso_ksoProductName_Debug</comment>
-        <translation>WPS Office (Bêta)</translation>
+        <translation type="obsolete">WPS Office (Bêta)</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_CHN</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office (test)</source>
         <comment>_kso_ksoProductName_PRO_CHN_TEST</comment>
-        <translation>WPS Office (test)</translation>
+        <translation type="obsolete">WPS Office (test)</translation>
     </message>
     <message>
         <source>WPS Office OEM</source>
         <comment>_kso_ksoProductName_OEM_CHN</comment>
-        <translation>WPS Office OEM</translation>
+        <translation type="obsolete">WPS Office OEM</translation>
     </message>
     <message>
         <source>WPS Office Personal</source>
         <comment>_kso_ksoProductName_PER_CHN</comment>
-        <translation>WPS Office Personal</translation>
+        <translation type="obsolete">WPS Office Personal</translation>
     </message>
     <message>
         <source>WPS Office Education</source>
         <comment>_kso_ksoProductName_EDU_CHN</comment>
-        <translation>WPS Office Education</translation>
+        <translation type="obsolete">WPS Office Education</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_USA</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PER_USA</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_JPN</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_VN</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_Debug</comment>
-        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN</comment>
-        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN_TEST</comment>
-        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_OEM_CHN</comment>
-        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_CHN</comment>
-        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_EDU_CHN</comment>
-        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_USA</comment>
-        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_USA</comment>
-        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_JPN</comment>
-        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_VN</comment>
-        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>WPS Writer (Beta)</source>
         <comment>_kso_wpsProductName_Debug</comment>
-        <translation>WPS Writer (Bêta)</translation>
+        <translation type="obsolete">WPS Writer (Bêta)</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHN</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHN_TEST</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_OEM_CHN</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_CHN</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_EDU_CHN</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_USA</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_USA</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_JPN</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_VN</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation (Beta)</source>
         <comment>_kso_wppProductName_Debug</comment>
-        <translation>WPS Presentation (Bêta)</translation>
+        <translation type="obsolete">WPS Presentation (Bêta)</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHN</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHN_TEST</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_OEM_CHN</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PER_CHN</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_EDU_CHN</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_USA</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PER_USA</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wpp_ProductName_PRO_JPN</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_VN</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets (Beta)</source>
         <comment>_kso_etProductName_Debug</comment>
-        <translation>WPS Spreadsheets (Bêta)</translation>
+        <translation type="obsolete">WPS Spreadsheets (Bêta)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHN</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHN_TEST</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_OEM_CHN</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PER_CHN</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_EDU_CHN</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_USA</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PER_USA</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_JPN</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_VN</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_CHT</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT</comment>
-        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Lab, Harbin Institute of Technology.</translation>
+        <translation type="obsolete">Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Lab, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHT</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHT</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHT</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office Personal</source>
         <comment>_kso_ksoProductName_PER_VN</comment>
-        <translation>WPS Office Personal</translation>
+        <translation type="obsolete">WPS Office Personal</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PER_VN</comment>
-        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Lab, Harbin Institute of Technology.</translation>
+        <translation type="obsolete">Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Lab, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_VN</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRE_VN</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRE_VN</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office 2010 Professional Edition</source>
         <comment>_kso_ksoProductName_dev_cn</comment>
-        <translation>WPS Office 2010 Professional Edition</translation>
+        <translation type="obsolete">WPS Office 2010 Professional Edition</translation>
     </message>
     <message>
         <source>WPS Office Standard</source>
         <comment>_kso_ksoProductName_PRO_CHT_Standard</comment>
-        <translation>WPS Office Standard</translation>
+        <translation type="obsolete">WPS Office Standard</translation>
     </message>
     <message>
         <source>WPS Office Home</source>
         <comment>_kso_ksoProductName_PRO_CHT_Home</comment>
-        <translation>WPS Office Home</translation>
+        <translation type="obsolete">WPS Office Home</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Home</comment>
-        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Lab, Harbin Institute of Technology.</translation>
+        <translation type="obsolete">Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Lab, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Standard</comment>
-        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Lab, Harbin Institute of Technology.</translation>
+        <translation type="obsolete">Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Lab, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>New Workbook.xls</source>
@@ -4047,200 +8741,203 @@ Vous pouvez choisir le bouton Lecture seule pour l&apos;ouvrir en lecture seule.
     <message>
         <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
         <comment>_kso_FileFormatNotSupport</comment>
-        <translation type="unfinished"></translation>
+        <translation>Le format de fichier que vous sélectionnez n&apos;est pas le format de fichier WPS. Ce n&apos;est peut-être pas conforme aux politiques de votre organisation. Confirmez-vous l&apos;enregistrement dans ce format de fichier ?</translation>
     </message>
     <message>
         <source>Are you sure you want to remove permission?</source>
         <comment>_kso_kirm_Remove_Permission</comment>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir supprimer l&apos;autorisation ?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this stored credential? You will not be able to use this credential unless you re-enable it.</source>
         <comment>_kso_kirm_Remove_Credential</comment>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir supprimer cette référence stockée ? Vous ne pourrez plus la réutiliser, sauf si vous la réactivez.</translation>
     </message>
     <message>
         <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy setting are preventing your connection, or you are experiencing intermittent network issues.</source>
         <comment>_kso_krim_Error_SelectAuthor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ce service est temporairement indisponible. Vérifiez que vous avez accès à ce serveur. Cette erreur peut se produire dans les circonstances suivantes : vous travaillez hors connexion, vos paramètres de proxy vous empêchent d&apos;établir la connexion, ou vous rencontrez des problèmes réseau intermittents.</translation>
     </message>
     <message>
         <source>E-mail addresses must be in the form of &apos;someone@example.com&apos;. The following e-mail address is not valid or could not be resolved: &apos;%1&apos;. Verify that this is a valid e-mail address.</source>
         <comment>_kso_krim_Error_EmailFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation>Les adresses de messagerie doivent être au format &apos;xyz@example.com&apos;. L&apos;adresse de messagerie suivante n&apos;est pas valide ou n&apos;a pas pu être résolue : &apos;%1&apos;. Vérifiez qu&apos;il s&apos;agit d&apos;une adresse valide.</translation>
     </message>
     <message>
         <source>You cannot change your access level. If you want to change your access level, request that another user with Full Control change your access level.</source>
         <comment>_kso_krim_Error_ChangeOwnPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas modifier votre niveau d&apos;accès. Vous devez demander à un autre utilisateur disposant du contrôle total de le faire.</translation>
     </message>
     <message>
         <source>Everyone</source>
         <comment>_kso_krim_User_Everyone</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tout le monde</translation>
     </message>
     <message>
         <source>Read</source>
         <comment>_kso_krim_Permission_Read</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lecture</translation>
     </message>
     <message>
         <source>Change</source>
         <comment>_kso_krim_Permission_Change</comment>
-        <translation type="unfinished"></translation>
+        <translation>Variation</translation>
     </message>
     <message>
         <source>Full Control</source>
         <comment>_kso_krim_Permission_FullControl</comment>
-        <translation type="unfinished"></translation>
+        <translation>Contrôle total</translation>
     </message>
     <message>
         <source>Custom</source>
         <comment>_kso_krim_Permission_Custom</comment>
-        <translation type="unfinished">Personnalisé</translation>
+        <translation>Personnalisé</translation>
     </message>
     <message>
         <source>Name</source>
         <comment>_kso_krim_TableHeader_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Access Level</source>
         <comment>_kso_krim_TableHeader_AccessLevel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Niveau d&apos;accès</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the user?</source>
         <comment>_kso_krim_Question_RemoveUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir supprimer l&apos;utilisateur ?</translation>
     </message>
     <message>
         <source>This will set the default permission policy for all documents, workbooks, forms and presentations with restricted permission.</source>
         <comment>_kso_krim_Permission_SetDefault</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ceci définit la stratégie d&apos;autorisation par défaut pour tous les documents, classeurs, formulaires et présentations à accès restreint.</translation>
     </message>
     <message>
         <source>The address to request additional permissions is invalid. Enter a valid e-mail or Web address. Example: someone@example.com.</source>
         <comment>_kso_krim_Error_EmailInvalid</comment>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;adresse de demande d&apos;autorisations supplémentaires n&apos;est pas valide. Entrez une adresse de messagerie ou de site Web valide. Exemple : xyz@example.com.</translation>
     </message>
     <message>
         <source>The expiration date is not valid. Enter a date between tomorrow and 2100/12/31.</source>
         <comment>_kso_krim_Error_DateInvalid</comment>
-        <translation type="unfinished"></translation>
+        <translation>La date d&apos;expiration n&apos;est pas valide. Tapez une date entre la date de demain et le 31/12/2100.</translation>
     </message>
     <message>
         <source>Change user...</source>
         <comment>_kso_krim_Permission_ChangeUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>Changer d&apos;utilisateur...</translation>
     </message>
     <message>
         <source>Unrestricted</source>
         <comment>_kso_krim_Permission_NoExpireDate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Non restreint</translation>
     </message>
     <message>
         <source>Yes</source>
         <comment>_kso_krim_Permission_Yes</comment>
-        <translation type="unfinished">Oui</translation>
+        <translation>Oui</translation>
     </message>
     <message>
         <source>No</source>
         <comment>_kso_krim_Permission_No</comment>
-        <translation type="unfinished">Non</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <source>Select Names</source>
         <comment>_kso_krim_Permission_SelectNames</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner des noms</translation>
     </message>
     <message>
         <source>&amp;Change User</source>
         <comment>_kso_irmio_Button_ChangeUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modifier l&apos;utilisateur</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
         <comment>_kso_irmio_Button_Yes</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oui</translation>
     </message>
     <message>
         <source>&amp;No</source>
         <comment>_kso_irmio_Button_No</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Non</translation>
     </message>
     <message>
         <source>Unexpected error occurred. Please try again later or contact your system administrator.</source>
         <comment>_kso_irmio_Error_Unexpected</comment>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur inattendue s&apos;est produite. Réessayez ultérieurement ou contactez votre administrateur système.</translation>
     </message>
     <message>
         <source>Cannot use test manifests against production servers.</source>
         <comment>_kso_irmio_Error_Production</comment>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;utiliser des manifestes de test contre les serveurs de production.</translation>
     </message>
     <message>
         <source>Information Rights Management cannot operate in the presence of a debugger. Please close your debugger and try again.</source>
         <comment>_kso_irmio_Error_Debugging</comment>
-        <translation type="unfinished"></translation>
+        <translation>La Gestion des droits relatifs à l&apos;information ne peut s&apos;exécuter en la présence d&apos;un débogueur. Fermez ce dernier et réessayez.</translation>
     </message>
     <message>
         <source>You do not have credentials that allow you to open this document.
 Do you want to open it using a different set of credentials?</source>
         <comment>_kso_irmio_Error_NoPermissionEmail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vos informations d&apos;identification ne vous autorisent pas à ouvrir ce document.
+Voulez-vous l&apos;ouvrir avec d&apos;autres informations d&apos;identification ?</translation>
     </message>
     <message>
         <source>Verifying your logon information for opening content with restricted permission</source>
         <comment>_kso_irmio_Verifying</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vérification de vos informations de connexion en vue d&apos;ouvrir un contenu à accès restreint</translation>
     </message>
     <message>
         <source>Information Rights Management(IRM) in Microsoft Office helps prevent sensitive documents and e-mail messages form being forwarded, edited or copied by unauthorized people.
 
 To use IRM you need to install the Windows Rights Management client. If you have an existing version of the Windows Rights Management client installed you will need to uninstall it first and then download the lastest version of the Windows Rights Management client. Do you want to download the lastest version now? </source>
         <comment>_kso_irmio_No_Install_IRM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Le service Gestion des droits relatifs à l&apos;information (IRM) de Microsoft Office dispose d&apos;outils visant à empêcher le transfert, la modification ou la copie de documents critiques et des messages électroniques par des personnes non autorisées.
+
+Pour utiliser ce service, vous devez installer le Client Windows Rights Management. Si vous disposez déjà d&apos;une version de ce programme, vous devez le désinstaller avant de télécharger la version la plus récente. Voulez-vous télécharger la dernière version maintenant ? </translation>
     </message>
     <message>
         <source>Your session with the user account %1 has timed out. The service must verify your credentials again before you continue. If prompted, enter the username and password for %1 or loss of the document may occur.</source>
         <comment>_kso_krim_SaveNeedVerifyCredential</comment>
-        <translation type="unfinished"></translation>
+        <translation>Votre session avec le compte d&apos;utilisateur %1 a expiré. Le service doit vérifier à nouveau vos informations d&apos;identification pour que vous puissiez continuer. Si un message vous y invite, entrez le nom d&apos;utilisateur et le mot de passe de %1, faute de quoi vous risquez de perdre le document.</translation>
     </message>
     <message>
         <source>Change Permission...</source>
         <comment>_kso_krim_Permission_ChangePermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modifier l&apos;autorisation...</translation>
     </message>
     <message>
         <source>View Permission...</source>
         <comment>_kso_krim_Permission_ViewPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher l&apos;autorisation...</translation>
     </message>
     <message>
         <source>Permission will expire within %1 days. </source>
         <comment>_kso_krim_Permission_ExpirationHint</comment>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;autorisation expire dans %1 jours. </translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
         <comment>_kso_krim_UnrestrictedAccess</comment>
-        <translation type="unfinished"></translation>
+        <translation>Accès illimité</translation>
     </message>
     <message>
         <source>Restricted Access(Read)</source>
         <comment>_kso_krim_RestrictedAccess_Read</comment>
-        <translation type="unfinished"></translation>
+        <translation>Accès restreint (lecture)</translation>
     </message>
     <message>
         <source>Restricted Access(Change)</source>
         <comment>_kso_krim_RestrictedAccess_Change</comment>
-        <translation type="unfinished"></translation>
+        <translation>Accès restreint (modification)</translation>
     </message>
     <message>
         <source>Restricted Access(Full Control)</source>
         <comment>_kso_krim_RestrictedAccess_FullControl</comment>
-        <translation type="unfinished"></translation>
+        <translation>Accès restreint (contrôle total)</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the following operations: 
@@ -4251,7 +8948,13 @@ To use IRM you need to install the Windows Rights Management client. If you have
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s erreurs se produisent lors de l&apos;exécution de la sauvegarde régulière. Essayez les actions suivantes : 
+•Vérifiez que le répertoire de sauvegarde bénéficie d&apos;un accès en écriture ou essayez de changer de répertoire.
+•[Annulez] les opérations précédentes et [Enregistrez] le fichier ; 
+•[Enregistrez sous...] les fichiers texte (*.txt) ; 
+•[Copiez/Collez] le contenu dans le nouveau fichier ; 
+•Abandonnez la révision du fichier. 
+(%s)</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the  following operations: 
@@ -4261,53 +8964,400 @@ To use IRM you need to install the Windows Rights Management client. If you have
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s Des erreurs se sont produites lors de l&apos;exécution d&apos;une sauvegarde régulière ! Essayez les actions suivantes : 
+• Vérifiez que le répertoire de sauvegarde bénéficie d&apos;un accès en écriture ou essayez de changer le répertoire de sauvegarde.
+• [Annulez] les opérations précédentes et [Enregistrez] le fichier ; 
+• [Copiez/Collez] le contenu dans le nouveau fichier ; 
+• Abandonnez la révision du fichier. 
+(%s)</translation>
     </message>
     <message>
         <source>Request additional permissions...</source>
         <comment>_kso_krim_Permission_RequestPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>Demander des autorisations supplémentaires...</translation>
     </message>
     <message>
         <source>R&amp;equest permissions</source>
         <comment>_kso_irmio_Button_RequestPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;amp;demander des autorisations</translation>
     </message>
     <message>
         <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within the Control Panel.</source>
         <comment>_kso_irmio_Error_Configuration</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS a détecté un problème avec la configuration de votre composant Gestion des droits relatifs à l&apos;information. Si le problème persiste, réparez le produit à partir du Panneau de configuration.</translation>
     </message>
     <message>
         <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
         <comment>_kso_irmio_Error_Connection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ce service est temporairement indisponible. Vérifiez que vous avez accès à ce serveur. Cette erreur peut se produire dans les circonstances suivantes : vous travaillez hors connexion, vos paramètres de proxy vous empêchent d&apos;établir la connexion, ou vous rencontrez des problèmes réseau intermittents.</translation>
     </message>
     <message>
         <source>The service at %1 is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
         <comment>_kso_irmio_Error_Location</comment>
-        <translation type="unfinished"></translation>
+        <translation>Le service sur %1 est temporairement indisponible. Vérifiez que vous avez accès à ce serveur. Cette erreur peut se produire dans les circonstances suivantes : vous travaillez hors connexion, vos paramètres de proxy vous empêchent d&apos;établir la connexion, ou vous rencontrez des problèmes réseau intermittents.</translation>
     </message>
     <message>
         <source>Cannot use feature without credentials</source>
         <comment>_kso_irmio_Error_Credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;utiliser cette fonctionnalité sans informations d&apos;identification</translation>
     </message>
     <message>
         <source>Permission for this document is currently restricted. You do not have credentials that allow you to open this document. You can: 
 1. Try changing to another user account to open the document;
 2. Request permission update from %1.</source>
         <comment>_kso_irmio_Error_No_Permission</comment>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;accès à ce document est actuellement restreint. Vos informations d&apos;identification ne vous autorisent pas à ouvrir ce document. Vous pouvez : 
+1. essayer de changer de compte d&apos;utilisateur pour ouvrir le document ;
+2. demander une autorisation de mise à jour à %1.</translation>
     </message>
     <message>
         <source>Restricted Access</source>
         <comment>_kso_kirm_Policy_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Accès restreint</translation>
     </message>
     <message>
         <source>Permission is currently restricted. Only specified users can access this content. </source>
         <comment>_kso_kirm_Policy_Description</comment>
+        <translation>L&apos;autorisation est actuellement restreinte. Seuls les utilisateurs spécifiés peuvent accéder à ce contenu. </translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PRO</comment>
+        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation type="obsolete">Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+    </message>
+    <message>
+        <source>Cannot user feature without credentials</source>
+        <comment>_kso_irmio_Error_Credentials</comment>
+        <translation type="obsolete">Impossible d&apos;utiliser cette fonctionnalité sans informations d&apos;identification</translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <comment>_kso_kirm_Permission_RestrictedAccess</comment>
+        <translation type="obsolete">Accès restreint</translation>
+    </message>
+    <message>
+        <source>Permission is currently restricted. Only specified users can access this content. </source>
+        <comment>_kso_krim_Permission_PermissionHint</comment>
+        <translation type="obsolete">Autorisation actuellement restreinte. Seuls les utilisateurs spécifiés peuvent accéder à ce contenu. </translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files (*.txt); 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="obsolete">%s Des erreurs se sont produites lors de l&apos;exécution d&apos;une sauvegarde régulière ! Essayez les actions suivantes : 
+• Vérifiez que le répertoire de sauvegarde bénéficie d&apos;un accès en écriture ou essayez de changer le répertoire de sauvegarde.
+• [Annulez] les opérations précédentes et [Enregistrez] le fichier ; 
+• [Enregistrez sous...] les fichiers texte (*.txt) ; 
+• [Copiez/Collez] le contenu dans le nouveau fichier ; 
+• Abandonnez la révision du fichier. 
+(%s)</translation>
+    </message>
+    <message>
+        <source>R&amp;esquest permissions</source>
+        <comment>_kso_irmio_Button_RequestPermission</comment>
+        <translation type="obsolete">D&amp;emander l&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within th Control Panel.</source>
+        <comment>_kso_irmio_Error_Configuration</comment>
+        <translation type="obsolete">WPS a détecté un problème lié à la configuration de la Gestion des droits relatifs à l&apos;information. Si le problème persiste, réparez le produit à partir du Panneau de configuration.</translation>
+    </message>
+    <message>
+        <source>This software is for personal use based on personal purpose only. It is strictly forbidden to use this software on production, business operation and other commercial purposes. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation type="unfinished">Le logiciel est pour un usage personnel basé sur des fins personnelles Il est strictement interdit de l&apos;utiliser sur la production, l&apos;exploitation de l&apos;entreprise et d&apos;autres fins commerciales.||Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1 ; </translation>
+    </message>
+    <message>
+        <source>Ribbon Tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opening</source>
+        <comment>_kso_io_Progress_Opening</comment>
+        <translation>Ouverture</translation>
+    </message>
+    <message>
+        <source>Saving</source>
+        <comment>_kso_io_Progress_Saving</comment>
+        <translation>Enregistrement</translation>
+    </message>
+    <message>
+        <source>Backing up</source>
+        <comment>_kso_io_Progress_AutoSaving</comment>
+        <translation>Sauvegarde en cours</translation>
+    </message>
+    <message>
+        <source>(Press ESC to cancel)</source>
+        <comment>_kso_io_Progress_Discontinue_ByEsc</comment>
+        <translation>(Appuyez sur Échap pour annuler)</translation>
+    </message>
+    <message>
+        <source>Permission of (%1)</source>
+        <comment>_kso_krim_RestrictedAccess_Template</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission is currently restricted by a permission policy. Do you want to stop using a permission policy and specify permission for individual users or groups?</source>
+        <comment>_kso_kirm_PermissionPolicyToIndividual</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selecting a permission policy will replace any existing permission that you&apos;ve set for this document. Do you want to continue?</source>
+        <comment>_kso_kirm_PermissionIndividualToPolicy</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS office has identified a potential safety problems.
+This position may not be safe.</source>
+        <comment>_kso_Warnning_MessageBox_HyperLinksSend_Title</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hyperlinks may harm your computer and data. For the protection of computer, super link please click only trusted sources. Do you want to continue?</source>
+        <comment>_kso_Warnning_MessageBox_HyperLinksSend_Content</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this presentation.</source>
+        <comment>_kso_krim_Error_insertOleInvalid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kso_numfmtapi</name>
+    <message>
+        <source>General</source>
+        <comment>TX_NUMFMTApi_BuildIn_00</comment>
+        <translation>Général</translation>
+    </message>
+    <message>
+        <source>0.00</source>
+        <comment>TX_NUMFMTApi_BuildIn_02</comment>
+        <translation>0.00</translation>
+    </message>
+    <message>
+        <source>#,##0</source>
+        <comment>TX_NUMFMTApi_BuildIn_03</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0.00</source>
+        <comment>TX_NUMFMTApi_BuildIn_04</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$#,##0_);($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_05</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$#,##0_);[Red]($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_06</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_07</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);[Red]($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_08</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.00%</source>
+        <comment>TX_NUMFMTApi_BuildIn_10</comment>
+        <translation>0.00%</translation>
+    </message>
+    <message>
+        <source>0.00E+00</source>
+        <comment>TX_NUMFMTApi_BuildIn_11</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_14</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>d-mmm-yy</source>
+        <comment>TX_NUMFMTApi_BuildIn_15</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>d-mmm</source>
+        <comment>TX_NUMFMTApi_BuildIn_16</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm</source>
+        <comment>TX_NUMFMTApi_BuildIn_20</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_21</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy h:mm</source>
+        <comment>TX_NUMFMTApi_BuildIn_22</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\$#,##0_);(\$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_23</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\$#,##0_);[Red](\$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_24</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\$#,##0.00_);(\$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_25</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_26</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_30</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_31</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_32</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_33</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0_);(#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_37</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0_);[Red](#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_38</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0.00_);(#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_39</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0.00_);[Red](#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_40</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_41</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_42</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_43</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_44</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>mm:ss.0</source>
+        <comment>TX_NUMFMTApi_BuildIn_45</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##0.0E+0</source>
+        <comment>TX_NUMFMTApi_BuildIn_48</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_55</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_56</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_57</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_58</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4378,6 +9428,13 @@ Voulez-vous continuer ?</translation>
 You can add the customized paper %dmm x %dmm in printer properties and print again.
 Continue printing?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
+        <translation>L&apos;imprimante ne prend pas en charge la taille actuelle du papier. Si vous continuez l&apos;impression, la qualité risque de ne pas être satisfaisante.
+Vous pouvez ajouter le papier personnalisé %dmm x %dmm dans les propriétés de l&apos;imprimante et recommencer l&apos;impression.
+Voulez-vous poursuivre l&apos;impression ?</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|PDF Files(*.pdf)|*.pdf|Postscript Files(*.ps)|*.ps</source>
+        <comment>_kso_Print_OutputFileDialog_Linux_Filter</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4992,7 +10049,7 @@ Continue printing?</source>
     <message>
         <source>Help file does not exist or occurs an error!</source>
         <comment>kso_sHelpNotFound</comment>
-        <translation>Le fichier d&apos;aide n&apos;existe pas ou a rencontré une erreur !</translation>
+        <translation type="obsolete">Le fichier d&apos;aide n&apos;existe pas ou a rencontré une erreur !</translation>
     </message>
     <message>
         <source>Horizontal brick</source>
@@ -5061,7 +10118,7 @@ Si vous changez le nom d&apos;un champ de tableau croisé dynamique, vous devez 
     <message>
         <source>Aqua</source>
         <comment>kso_sKclAqua</comment>
-        <translation>Vert d’eau</translation>
+        <translation>Vert d&apos;eau</translation>
     </message>
     <message>
         <source>Black</source>
@@ -5426,12 +10483,12 @@ Si vous changez le nom d&apos;un champ de tableau croisé dynamique, vous devez 
     <message>
         <source>Dash-Dot</source>
         <comment>kso_sLineDashDot</comment>
-        <translation>Tiret-point</translation>
+        <translation type="obsolete">Tiret-point</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
         <comment>kso_sLineDashDotDot</comment>
-        <translation>Tiret-point-point</translation>
+        <translation type="obsolete">Tiret-point-point</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -5446,7 +10503,7 @@ Si vous changez le nom d&apos;un champ de tableau croisé dynamique, vous devez 
     <message>
         <source>Long Dash-Dot</source>
         <comment>kso_sLineLongDashDot</comment>
-        <translation>Tiret cadratin-point</translation>
+        <translation type="obsolete">Tiret cadratin-point</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -5481,7 +10538,7 @@ Si vous changez le nom d&apos;un champ de tableau croisé dynamique, vous devez 
     <message>
         <source>You have reached the max retry step, program will terminate.</source>
         <comment>kso_sMaxStep</comment>
-        <translation>Vous avez l&apos;étape de nouvelle tentative maximum, le programme va se fermer.</translation>
+        <translation type="obsolete">Vous avez l&apos;étape de nouvelle tentative maximum, le programme va se fermer.</translation>
     </message>
     <message>
         <source>MB</source>
@@ -5691,7 +10748,7 @@ Si vous changez le nom d&apos;un champ de tableau croisé dynamique, vous devez 
     <message>
         <source>Are you sure you want to reset the &apos;%s&apos; toolbar?</source>
         <comment>kso_sResetToolbar</comment>
-        <translation>Êtes-vous sûr de vouloir réinitialiser la barre d&apos;outils &apos;%s&apos; ?</translation>
+        <translation>Voulez-vous vraiment réinitialiser la barre d&apos;outils « %s » ?</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
@@ -6391,7 +11448,7 @@ Pour un meilleur service, veuillez mettre à jour l&apos;édition d&apos;essai v
     <message>
         <source>Are you sure you want to reset the &apos;%s&apos; command?</source>
         <comment>kso_sResetCommand</comment>
-        <translation>Êtes-vous sûr de vouloir réinitialiser la commande &apos;%s&apos; ?</translation>
+        <translation>Voulez-vous vraiment réinitialiser la commande « %s » ?</translation>
     </message>
     <message>
         <source>---Translate Selection---</source>
@@ -6781,12 +11838,12 @@ Vérifiez vos données et assurez-vous que la référence est valide et que la f
     <message>
         <source>Error happens when application tries to register. Error code: 0x%8.8x.</source>
         <comment>kso_sAppRegisterError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur survient lorsque l&apos;application essaie d&apos;enregistrer. Code d&apos;erreur : 0x%8.8x.</translation>
     </message>
     <message>
         <source>Error happens when application tries to logout. Error code: 0x%8.8x.</source>
         <comment>kso_sAppUnRegisterError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur survient lorsque l&apos;application essaie de se déconnecter. Code d&apos;erreur : 0x%8.8x.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyze meet the following conditions:
@@ -6794,83 +11851,416 @@ Vérifiez vos données et assurez-vous que la référence est valide et que la f
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
         <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez pas créer un tableau croisé dynamique avec ces données. Vérifiez que les données que vous souhaitez analyser respectent les conditions suivantes :
+1.Assurez-vous que la référence existe. Si c&apos;est un nom, il doit s&apos;agir d&apos;une plage valide ;
+2.Assurez-vous que la référence est unique et qu&apos;elle contient au moins deux lignes ;
+3.Assurez-vous que la première ligne de la plage de référence ne contient aucune cellule vide ni aucune valeur d&apos;erreur et que chaque cellule ne contient pas plus de 255 caractères.</translation>
     </message>
     <message>
         <source>Unknown Format Source.</source>
         <comment>kso_sErrPasteLink</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format source inconnu.</translation>
     </message>
     <message>
         <source>Solid</source>
         <comment>kso_sLineSolid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Solide</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
         <comment>kso_sRefIsNotValid</comment>
-        <translation type="unfinished">Référence non valide.</translation>
+        <translation>Référence non valide.</translation>
     </message>
     <message>
         <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sWpsLinkAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Insérez une icône représentant le contenu du fichier dans votre document. Les modifications apportées au fichier auxiliaire seront reflétées dans votre document.</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an existing sheet or unprotect this book.</source>
         <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
-        <translation type="unfinished"></translation>
+        <translation>Le tableau croisé dynamique ne peut être créé dans une nouvelle feuille, car ce classeur est protégé. Sélectionnez une feuille existante ou ôtez la protection de ce classeur.</translation>
     </message>
     <message>
         <source>Forward</source>
         <comment>kso_Nav_Forword</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suivant</translation>
     </message>
     <message>
         <source>The file cannot be deleted. It may be occupied.</source>
         <comment>kso_sCannotRemoveBackupFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier ne peut pas être supprimé, il est peut-être en cours d&apos;utilisation.</translation>
     </message>
     <message>
         <source>Some files cannot be deleted. They may be occupied.</source>
         <comment>kso_sCannotRemoveAllBackupFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Certains fichiers ne peuvent pas être supprimés, ils sont peut-être en cours d&apos;utilisation.</translation>
     </message>
     <message>
         <source>Dowload XML expansion</source>
         <comment>kso_Smartdoc_DowloadXmlExpasionCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger un kit d&apos;extension XML</translation>
     </message>
     <message>
         <source>Using the latest XML expansion pack from the following locations, the effect of this document will be the best:
  %1 
 Download the XML expansion pack?</source>
         <comment>kso_Smartdoc_DowloadXmlExpasion</comment>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;impact de ce document sera optimal si vous utilisez le tout dernier kit d&apos;extension XML qui se trouve aux emplacements suivants :
+ %1 
+Voulez-vous télécharger le kit d&apos;extension XML ?</translation>
     </message>
     <message>
         <source>The XML expansion pack or smart document program has been lost or invalid.Please contact the system administrator or the personnel who provide this document</source>
         <comment>kso_Smartdoc_XMLExpansionLost</comment>
-        <translation type="unfinished"></translation>
+        <translation>Le kit d&apos;extension XML ou le programme Smart Document est manquant ou non valide. Contactez l&apos;administrateur système ou la personne qui vous a fourni ce document.</translation>
     </message>
     <message>
         <source>You are currently viewing this document in multiple windows. If you wanna attach XML expansion, you must close all other windows first to ensure that you view this document only in one window.</source>
         <comment>kso_Smartdoc_XmlExpansionRefuse</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ce document est actuellement affiché dans plusieurs fenêtres. Pour joindre un kit d&apos;extension XML, vous devez d&apos;abord fermer les fenêtres supplémentaires, afin que le document n&apos;apparaisse que dans une seule fenêtre.</translation>
     </message>
     <message>
         <source>This document has attached a XML expansion. If You wanna view this document in multiple windows, you must delete the XML expansion first.</source>
         <comment>kso_Smartdoc_NewWindowRefuse</comment>
-        <translation type="unfinished"></translation>
+        <translation>Un kit d&apos;extension XML est associé à ce document. Pour afficher ce document dans plusieurs fenêtres, supprimez d&apos;abord le kit d&apos;extension XML.</translation>
     </message>
     <message>
         <source>Cannot install this file, because the security certificate has some problems. This XML expansion pack may won&apos;t run as expecte.For more information, please contact your administrator.</source>
         <comment>kso_Smartdoc_XMLCertificateError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;installer le fichier, car un problème de certificat de sécurité est survenu. Le kit d&apos;extension XML risque de ne pas fonctionner comme prévu. Pour plus d&apos;informations, contactez votre administrateur.</translation>
     </message>
     <message>
         <source>Install this XML expansion pack failed.</source>
         <comment>kso_Smartdoc_installManifestError</comment>
+        <translation>Échec de l&apos;installation du kit d&apos;extension XML.</translation>
+    </message>
+    <message>
+        <source>Help file does not exist or encounters an error.</source>
+        <comment>kso_sHelpNotFound</comment>
+        <translation>Le fichier d&apos;aide n&apos;existe pas ou a rencontré une erreur !</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <comment>kso_sLineDashDot</comment>
+        <translation>Tiret-point</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <comment>kso_sLineDashDotDot</comment>
+        <translation>Tiret-point-point</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <comment>kso_sLineLongDashDot</comment>
+        <translation>Tiret cadratin-point</translation>
+    </message>
+    <message>
+        <source>You have reached the maximum number of retries. Program will terminate.</source>
+        <comment>kso_sMaxStep</comment>
+        <translation>Vous avez l&apos;étape de nouvelle tentative maximum, le programme va se fermer.</translation>
+    </message>
+    <message>
+        <source>Up to one digit (%s)</source>
+        <comment>kso_sNnumberFormatter_style_01</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up to two digits (%s)</source>
+        <comment>kso_sNnumberFormatter_style_02</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up to three digits (%s)</source>
+        <comment>kso_sNnumberFormatter_style_03</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>As halves (%s)</source>
+        <comment>kso_sNnumberFormatter_style_04</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>As quarters (%s)</source>
+        <comment>kso_sNnumberFormatter_style_05</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>As eighths (%s)</source>
+        <comment>kso_sNnumberFormatter_style_06</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>As sixteenths (%s)</source>
+        <comment>kso_sNnumberFormatter_style_07</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>As tenths (%s)</source>
+        <comment>kso_sNnumberFormatter_style_08</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>As hundredths (%s)</source>
+        <comment>kso_sNnumberFormatter_style_09</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kso_theme</name>
+    <message>
+        <source>Adjacency</source>
+        <comment>THEME_THEME_ADJACENCY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Angles</source>
+        <comment>THEME_THEME_ANGLES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apex</source>
+        <comment>THEME_THEME_APEX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apothecary</source>
+        <comment>THEME_THEME_APOTHECARY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aspect</source>
+        <comment>THEME_THEME_ASPECT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Austin</source>
+        <comment>THEME_THEME_AUSTIN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BlackTie</source>
+        <comment>THEME_THEME_BLACKTIE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calligraphy</source>
+        <comment>THEME_THEME_CALLIGRAPHY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Civic</source>
+        <comment>THEME_THEME_CIVIC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clarity</source>
+        <comment>THEME_THEME_CLARITY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Composite</source>
+        <comment>THEME_THEME_COMPOSITE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Concourse</source>
+        <comment>THEME_THEME_CONCOURSE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Couture</source>
+        <comment>THEME_THEME_COUTURE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dragon</source>
+        <comment>THEME_THEME_DRAGON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Elemental</source>
+        <comment>THEME_THEME_ELEMENTAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equity</source>
+        <comment>THEME_THEME_EQUITY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Essential</source>
+        <comment>THEME_THEME_ESSENTIAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Executive</source>
+        <comment>THEME_THEME_EXECUTIVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fan</source>
+        <comment>THEME_THEME_FAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flow</source>
+        <comment>THEME_THEME_FLOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Foundry</source>
+        <comment>THEME_THEME_FOUNDRY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <comment>THEME_THEME_GRID</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hardcover</source>
+        <comment>THEME_THEME_HARDCOVER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizon</source>
+        <comment>THEME_THEME_HORIZON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Median</source>
+        <comment>THEME_THEME_MEDIAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metro</source>
+        <comment>THEME_THEME_METRO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Module</source>
+        <comment>THEME_THEME_MODULE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opulent</source>
+        <comment>THEME_THEME_OPULENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Oriel</source>
+        <comment>THEME_THEME_ORIEL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Origin</source>
+        <comment>THEME_THEME_ORIGIN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paper</source>
+        <comment>THEME_THEME_PAPER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <comment>THEME_THEME_PERSPECTIVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phoenix</source>
+        <comment>THEME_THEME_PHOENIX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pushpin</source>
+        <comment>THEME_THEME_PUSHPIN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slipstream</source>
+        <comment>THEME_THEME_SLIPSTREAM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solstice</source>
+        <comment>THEME_THEME_SOLSTICE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Technic</source>
+        <comment>THEME_THEME_TECHNIC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thatch</source>
+        <comment>THEME_THEME_THATCH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trek</source>
+        <comment>THEME_THEME_TREK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Urban</source>
+        <comment>THEME_THEME_URBAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verve</source>
+        <comment>THEME_THEME_VERVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waveform</source>
+        <comment>THEME_THEME_WAVEFORM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <comment>THEME_THEMECOLORS_GRAYSCALE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Office 2</source>
+        <comment>THEME_THEMEFONTS_OFFICE2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Office Classic 2</source>
+        <comment>THEME_THEMEFONTS_OFFICECLASSIC2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Office Classic</source>
+        <comment>THEME_THEMEFONTS_OFFICECLASSIC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Black Tie</source>
+        <comment>THEME_THEME_BLACK_TIE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Office Theme</source>
+        <comment>THEME_NAME_OFFICE_2007_2010</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Office</source>
+        <comment>THEME_NAME_OFFICE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Newsprint</source>
+        <comment>THEME_THEME_NEWSPRINT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewsPrint</source>
+        <comment>THEME_THEME_NEWSPRINT1</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

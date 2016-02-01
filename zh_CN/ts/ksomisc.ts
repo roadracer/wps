@@ -119,6 +119,18 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>KS Biaoge.lnk</source>
         <translation>金山表格.lnk</translation>
     </message>
+    <message>
+        <source>WPS Cloud.lnk</source>
+        <translation>WPS轻办公.lnk</translation>
+    </message>
+    <message>
+        <source>Pin to tas&amp;kbar</source>
+        <translation>固定到任务栏(&amp;K)</translation>
+    </message>
+    <message>
+        <source>Unpin from tas&amp;kbar</source>
+        <translation>从任务栏取消固定(&amp;K)</translation>
+    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -224,11 +236,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>What&apos;s New.lnk</source>
-        <translation type="unfinished">产品更新信息.lnk</translation>
+        <translation>产品更新信息.lnk</translation>
     </message>
     <message>
         <source>View what&apos;s new file</source>
-        <translation type="unfinished">查看WPS产品的更新信息</translation>
+        <translation>查看WPS产品的更新信息</translation>
     </message>
     <message>
         <source>WPS Cloud.lnk</source>
@@ -240,11 +252,23 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Office.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Launch WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动 WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS Office Configuration Tools.lnk</source>
+        <translation type="obsolete">WPS Office 配置工具.lnk</translation>
+    </message>
+    <message>
+        <source>Check for WPS Office Updates.lnk</source>
+        <translation type="obsolete">检查 WPS Office 更新.lnk</translation>
+    </message>
+    <message>
+        <source>Uninstall WPS Office.lnk</source>
+        <translation type="obsolete">卸载 WPS Office.lnk</translation>
     </message>
 </context>
 <context>
@@ -256,8 +280,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>An error occured when repairing, please retry.</source>
-        <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
-        <translation>修复时出现异常，请重试！</translation>
+        <translation type="obsolete">修复时出现异常，请重试！</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -273,7 +296,7 @@ You can fix the errors encountered when using WPS Office or make advanced settin
         <source>General Repair/Configuration Tools
 You can fix the errors encountered when using WPS Office or make advanced settings here.</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation>您在此可以修复，在使用WPS Office 中遇到的异常情况，并进行高级配置。</translation>
+        <translation>您在此可以修复，在使用 WPS Office 中遇到的异常情况，并进行高级配置。</translation>
     </message>
     <message>
         <source>If you can&apos;t fix the errors using the Start Repairing button, or you need to configure other advanced settings, please click the Advanced button below, then configure the settings in the corresponding tabs.</source>
@@ -316,6 +339,11 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
         <translation>您当前使用的是非管理员账号。部分功能将不能够使用。</translation>
+    </message>
+    <message>
+        <source>An error occurred when repairing, please retry.</source>
+        <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
+        <translation>修复时出现异常，请重试！</translation>
     </message>
 </context>
 <context>
@@ -506,15 +534,15 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
-        <translation>Microsoft Excel文档(&amp;E)(*.xls,*.xlt文件)</translation>
+        <translation>Microsoft Excel文档(&amp;E)(*.xls,*.xlt,*.xlsx,*.xlsm文件)</translation>
     </message>
     <message>
         <source>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</source>
-        <translation>Microsoft PowerPoint文档(&amp;P)(*.ppt,*.pot,*.pps文件)</translation>
+        <translation>Microsoft PowerPoint文档(&amp;P)(*.ppt,*.pot,*.pps,*.pptx文件)</translation>
     </message>
     <message>
         <source>Microsoft &amp;Word Documents (*.doc, *.dot, *.docx files) and RTF Documents</source>
-        <translation>Microsoft Word文档(&amp;W)(*.doc,*.dot文件)及RTF文档</translation>
+        <translation>Microsoft Word文档(&amp;W)(*.doc,*.dot,*.docx文件)及RTF文档</translation>
     </message>
     <message>
         <source>The option &quot;Compat with third party softwares&quot;
@@ -540,22 +568,42 @@ needs restarting Windows to take effect.</source>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;t format by default</source>
-        <translation>WPS演示 新建立文档默认保存为*.ppt格式(&amp;T)</translation>
+        <translation type="obsolete">WPS演示 新建立文档默认保存为*.ppt格式(&amp;T)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xls format by default</source>
-        <translation>WPS表格 新建立文档默认保存为*.xls格式(&amp;X)</translation>
+        <translation type="obsolete">WPS表格 新建立文档默认保存为*.xls格式(&amp;X)</translation>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;doc format by default</source>
-        <translation>WPS文字 新建立文档默认保存为*.doc格式(&amp;D)</translation>
+        <translation type="obsolete">WPS文字 新建立文档默认保存为*.doc格式(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2010</source>
+        <translation>与 Microsoft Office 2010 兼容(&amp;D)</translation>
+    </message>
+    <message>
+        <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
+        <translation>WPS演示 新建立文档默认保存为*.pptx格式(&amp;T)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets new documents saved as *.&amp;xlsx format by default</source>
+        <translation>WPS表格 新建立文档默认保存为*.xlsx格式(&amp;X)</translation>
+    </message>
+    <message>
+        <source>WPS Writer new documents saved as *.&amp;docx format by default</source>
+        <translation>WPS文字 新建立文档默认保存为*.docx格式(&amp;D)</translation>
+    </message>
+    <message>
+        <source>PD&amp;F Documents (*.pdf files)</source>
+        <translation>PDF文档(&amp;F)(*.pdf文件)</translation>
     </message>
 </context>
 <context>
     <name>KPageHomePage</name>
     <message>
         <source>Unlock completed</source>
-        <translation>解除主页锁定成功</translation>
+        <translation type="obsolete">解除主页锁定成功</translation>
     </message>
     <message>
         <source>Unlock the website navigation page(&amp;R)</source>
@@ -567,11 +615,27 @@ needs restarting Windows to take effect.</source>
     </message>
     <message>
         <source>You can unlock the IE homepage if you don&apos;t like. Note: unlock the homepage may have virus infection and your accounts hacked.</source>
-        <translation>如果你不喜欢金山网址大全，可解除IE主页锁定。温馨提示：解除主页锁定将面临感染病毒、账号被盗的风险。</translation>
+        <translation type="obsolete">如果你不喜欢金山网址大全，可解除IE主页锁定。温馨提示：解除主页锁定将面临感染病毒、账号被盗的风险。</translation>
     </message>
     <message>
         <source>You can unlock the IE homepage if you don’t like. Note: unlock the homepage may have virus infection and your accounts hacked.</source>
         <translation type="obsolete">如果你不喜欢金山网址大全，可解除IE主页锁定。温馨提示：解除主页锁定将面临感染病毒、账号被盗的风险。</translation>
+    </message>
+    <message>
+        <source>You can change the IE homepage anytime.
+Notice that doing so exposes you to risks of virus infection and hacking.</source>
+        <translation>如果你不喜欢金山网址大全，可解除IE主页锁定。
+温馨提示：解除主页锁定将面临感染病毒、账号被盗的风险。</translation>
+    </message>
+    <message>
+        <source>You can unlock the IE homepage if you don&apos;t like.
+Note: unlock the homepage may have virus infection and your accounts hacked.</source>
+        <translation type="obsolete">如果你不喜欢金山网址大全，可解除IE主页锁定。
+温馨提示：解除主页锁定将面临感染病毒、账号被盗的风险。</translation>
+    </message>
+    <message>
+        <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
+        <translation>WPS是免费软件，有你支持才能更好成长！</translation>
     </message>
 </context>
 <context>
@@ -643,56 +707,112 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
         <source>·Failed to register WPS Presentation
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·金山演示注册失败
+        <translation type="obsolete">·金山演示注册失败
 </translation>
     </message>
     <message>
         <source>·Failed to register WPS Spreadsheets
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·金山表格注册失败
+        <translation type="obsolete">·金山表格注册失败
 </translation>
     </message>
     <message>
         <source>·Failed to register WPS Writer
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·金山文字注册失败
+        <translation type="obsolete">·金山文字注册失败
 </translation>
     </message>
     <message>
         <source>·Registering WPS Equation Editor failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·公式编辑器注册失败
+        <translation type="obsolete">·公式编辑器注册失败
 </translation>
     </message>
     <message>
         <source>·Registering kso.dll failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·kso.dll注册失败
+        <translation type="obsolete">·kso.dll注册失败
 </translation>
     </message>
     <message>
         <source>·WPS Presentation not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·没有找到金山演示
+        <translation type="obsolete">·没有找到金山演示
 </translation>
     </message>
     <message>
         <source>·WPS Spreadsheets not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·没有找到金山表格
+        <translation type="obsolete">·没有找到金山表格
 </translation>
     </message>
     <message>
         <source>·WPS Writer not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>·没有找到金山文字
+        <translation type="obsolete">·没有找到金山文字
+</translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Writer
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> 金山文字注册失败
+</translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Presentation
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> 金山演示注册失败
+</translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Spreadsheets
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> 金山表格注册失败
+</translation>
+    </message>
+    <message>
+        <source> Registering WPS Equation Editor failed
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> 公式编辑器注册失败
+</translation>
+    </message>
+    <message>
+        <source> WPS Writer not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> 没有找到金山文字
+</translation>
+    </message>
+    <message>
+        <source> WPS Presentation not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> 没有找到金山演示
+</translation>
+    </message>
+    <message>
+        <source> WPS Spreadsheets not found
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> 没有找到金山表格
+</translation>
+    </message>
+    <message>
+        <source> Registering kso.dll failed
+</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translation> kso.dll注册失败
 </translation>
     </message>
 </context>
@@ -731,7 +851,7 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
     </message>
     <message>
         <source>Caution:After clicking the Change Scheme button, changes may take effect after restarting WPS Office.</source>
-        <translation>注意：更换方案之后，需要重新启动WPS Office后更改才能生效。</translation>
+        <translation>注意：更换方案之后，需要重新启动 WPS Office 后更改才能生效。</translation>
     </message>
     <message>
         <source>Caution:After clicking the Change Scheme button, changes may take effect after restarting WPS Office. Any changes made to the button’s icons, command groups, and task window’s positions will be cleared.</source>
@@ -949,7 +1069,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft PowerPoint Slide Show	</source>
-        <translation type="obsolete">Microsoft PowerPoint 演示文稿</translation>
+        <translation type="obsolete">Microsoft PowerPoint 幻灯片放映</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Application</source>
@@ -1117,7 +1237,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft PowerPoint Slide Show</source>
-        <translation>Microsoft PowerPoint 演示文稿</translation>
+        <translation>Microsoft PowerPoint 幻灯片放映</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
@@ -1159,6 +1279,26 @@ The button icon, command group and task window position of each scheme are diffe
         <source>Microsoft PowerPoint Macro-Enabled Presentation</source>
         <translation>Microsoft PowerPoint 启用宏的演示文稿</translation>
     </message>
+    <message>
+        <source>Microsoft Excel Backup File</source>
+        <translation>Microsoft Excel 备份文件</translation>
+    </message>
+    <message>
+        <source>WPS Writer Preview Handler</source>
+        <translation>WPS文字 预览器</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Preview Handler</source>
+        <translation>WPS表格 预览器</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Preview Handler</source>
+        <translation>WPS演示 预览器</translation>
+    </message>
+    <message>
+        <source>WPS PDF Document</source>
+        <translation>WPS PDF 文档</translation>
+    </message>
 </context>
 <context>
     <name>KSNManagerDlg</name>
@@ -1180,7 +1320,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Programs that can be actiavted</source>
-        <translation>可激活程序</translation>
+        <translation type="obsolete">可激活程序</translation>
     </message>
     <message>
         <source>Serial Number</source>
@@ -1190,12 +1330,16 @@ The button icon, command group and task window position of each scheme are diffe
         <source>Subtotal:</source>
         <translation>汇总：</translation>
     </message>
+    <message>
+        <source>Programs that can be activated</source>
+        <translation>可激活程序</translation>
+    </message>
 </context>
 <context>
     <name>KUpDate</name>
     <message>
         <source>&amp;Download updates but let me choose whether to install them</source>
-        <translation>自动下载升级包，但是由我来决定什么时候安装(&amp;D)</translation>
+        <translation type="unfinished">自动下载升级包，但是由我来决定什么时候安装(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Show information bar</source>
@@ -1211,7 +1355,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>
-        <translation>关闭自动升级(&amp;C)</translation>
+        <translation type="obsolete">关闭自动升级(&amp;C)</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
@@ -1293,6 +1437,26 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>The port must be a number between 1 and 65535.</source>
         <translation>端口号必须是介于1到65535之间的数字。</translation>
+    </message>
+    <message>
+        <source>Do not &amp;check for updates automatically (not recommended)</source>
+        <translation>关闭自动升级(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Do not check for updates automatically (not recommended)</source>
+        <translation type="obsolete">关闭自动升级(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Update Items:</source>
+        <translation type="obsolete">升级内容：</translation>
+    </message>
+    <message>
+        <source>All new releases</source>
+        <translation type="obsolete">全部新版本</translation>
+    </message>
+    <message>
+        <source>Recommended new releases</source>
+        <translation type="obsolete">推荐安装的新版本</translation>
     </message>
 </context>
 <context>

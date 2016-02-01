@@ -3,6 +3,13 @@
 <TS version="2.0" language="ja_JP">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
+    <name>DownloadBubbleWidget</name>
+    <message>
+        <source>Download failed due to possible network problems. Please try again later.</source>
+        <translation>ネットワークの問題によりダウンロードに失敗しました。再試行してください。</translation>
+    </message>
+</context>
+<context>
     <name>KApplication</name>
     <message>
         <source>Critical</source>
@@ -18,10 +25,83 @@
     </message>
 </context>
 <context>
+    <name>KBevelModel</name>
+    <message>
+        <source>Bevel</source>
+        <translation>面取り</translation>
+    </message>
+    <message>
+        <source>No Bevel</source>
+        <translation>面取りなし</translation>
+    </message>
+</context>
+<context>
     <name>KBorderPickCtrl</name>
     <message>
         <source>Text</source>
         <translation>テキスト</translation>
+    </message>
+</context>
+<context>
+    <name>KCameraModel</name>
+    <message>
+        <source>No Rotation</source>
+        <translation>回転なし</translation>
+    </message>
+    <message>
+        <source>Oblique</source>
+        <translation>斜投影</translation>
+    </message>
+    <message>
+        <source>Parallel</source>
+        <translation>平行投影</translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <translation>透視投影</translation>
+    </message>
+</context>
+<context>
+    <name>KColorCombobox</name>
+    <message>
+        <source>&amp;Fill effects...</source>
+        <translation>効果の塗りつぶし(&amp;F)...</translation>
+    </message>
+    <message>
+        <source>&amp;More Color...</source>
+        <translation>その他の色(&amp;M)...</translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation type="obsolete">色なし</translation>
+    </message>
+    <message>
+        <source>&amp;Patterned Lines...</source>
+        <translation>線のパターン(&amp;P)...</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>自動</translation>
+    </message>
+    <message>
+        <source>Recent Colors</source>
+        <translation>最近使用している色</translation>
+    </message>
+    <message>
+        <source>Snapper Color(&amp;E)</source>
+        <translation>スナッパーの色(&amp;E)...</translation>
+    </message>
+    <message>
+        <source>Standard Colors</source>
+        <translation>標準色</translation>
+    </message>
+    <message>
+        <source>Theme Colors</source>
+        <translation>テーマの色</translation>
+    </message>
+    <message>
+        <source>&amp;No Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -256,11 +336,11 @@
     <name>KDocTabbarStickerCommand</name>
     <message>
         <source>Lock tabbar</source>
-        <translation type="unfinished"></translation>
+        <translation>ラベルロック</translation>
     </message>
     <message>
         <source>UnLock tabbar</source>
-        <translation type="unfinished"></translation>
+        <translation>ラベルロックの解除</translation>
     </message>
 </context>
 <context>
@@ -274,18 +354,216 @@
     <name>KFilePageCloseButton</name>
     <message>
         <source>Clear Record from List</source>
-        <translation type="unfinished">リストから削除</translation>
+        <translation>リストから削除</translation>
     </message>
 </context>
 <context>
     <name>KFilePageFixedButton</name>
     <message>
         <source>unfixed from list</source>
-        <translation type="unfinished"></translation>
+        <translation>リストから解除</translation>
     </message>
     <message>
         <source>fixed to list</source>
-        <translation type="unfinished"></translation>
+        <translation>リストに固定</translation>
+    </message>
+</context>
+<context>
+    <name>KFormatDoubleSpinBoxLineEdit</name>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation>この項目には数字以外を含むことができません。</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
+        <translation>この項目は %1または %1以下にする必要があります。</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation>この項目は %1または %1以上にする必要があります。</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation>この項目には必ず整数を入力してください</translation>
+    </message>
+</context>
+<context>
+    <name>KFormatScrollBar</name>
+    <message>
+        <source>Bottom</source>
+        <translation>下</translation>
+    </message>
+    <message>
+        <source>Left edge</source>
+        <translation>左端</translation>
+    </message>
+    <message>
+        <source>Page down</source>
+        <translation>下のページ</translation>
+    </message>
+    <message>
+        <source>Page left</source>
+        <translation>左のページ</translation>
+    </message>
+    <message>
+        <source>Page right</source>
+        <translation>右のページ</translation>
+    </message>
+    <message>
+        <source>Page up</source>
+        <translation>上のページ</translation>
+    </message>
+    <message>
+        <source>Right edge</source>
+        <translation>右端</translation>
+    </message>
+    <message>
+        <source>Scroll down</source>
+        <translation>下にスクロール</translation>
+    </message>
+    <message>
+        <source>Scroll here</source>
+        <translation>ここでスクロール</translation>
+    </message>
+    <message>
+        <source>Scroll left</source>
+        <translation>左にスクロール</translation>
+    </message>
+    <message>
+        <source>Scroll right</source>
+        <translation>右にスクロール</translation>
+    </message>
+    <message>
+        <source>Scroll up</source>
+        <translation>上にスクロール</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>上</translation>
+    </message>
+</context>
+<context>
+    <name>KFormatSpinBoxLineEdit</name>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation>この項目には数字以外を含むことができません。</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
+        <translation>この項目は %1または %1以下にする必要があります。</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation>この項目は %1または %1以上にする必要があります。</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation>この項目には必ず整数を入力してください。</translation>
+    </message>
+</context>
+<context>
+    <name>KFormatStylesTitle</name>
+    <message>
+        <source>Line Styles</source>
+        <translation>線のスタイル</translation>
+    </message>
+    <message>
+        <source>Picture Filters</source>
+        <translation>図のフィルタ</translation>
+    </message>
+    <message>
+        <source>Shape Styles</source>
+        <translation>オブジェクトのスタイル</translation>
+    </message>
+</context>
+<context>
+    <name>KFormatStylesWidget</name>
+    <message>
+        <source>Style</source>
+        <translation>スタイル</translation>
+    </message>
+</context>
+<context>
+    <name>KGalleryAbstractModel</name>
+    <message>
+        <source>1 Point</source>
+        <translation>1 ポイント</translation>
+    </message>
+    <message>
+        <source>10 Point</source>
+        <translation>10 ポイント</translation>
+    </message>
+    <message>
+        <source>2.5 Point</source>
+        <translation>2.5 ポイント</translation>
+    </message>
+    <message>
+        <source>25 Point</source>
+        <translation>25 ポイント</translation>
+    </message>
+    <message>
+        <source>5 Point</source>
+        <translation>5 ポイント</translation>
+    </message>
+    <message>
+        <source>50 Point</source>
+        <translation>50 ポイント</translation>
+    </message>
+    <message>
+        <source>Follow Path</source>
+        <translation>枠線に合わせて配置</translation>
+    </message>
+    <message>
+        <source>Glow Variations</source>
+        <translation>光彩の種類</translation>
+    </message>
+    <message>
+        <source>Inner</source>
+        <translation>内側</translation>
+    </message>
+    <message>
+        <source>No Glow</source>
+        <translation>光彩なし</translation>
+    </message>
+    <message>
+        <source>No Presets</source>
+        <translation>標準スタイルなし</translation>
+    </message>
+    <message>
+        <source>No Reflection</source>
+        <translation>反射なし</translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation>影なし</translation>
+    </message>
+    <message>
+        <source>No Soft Edges</source>
+        <translation>ぼかしなし</translation>
+    </message>
+    <message>
+        <source>No Transform</source>
+        <translation>変形なし</translation>
+    </message>
+    <message>
+        <source>Outer</source>
+        <translation>外側</translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <translation>透視投影</translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation>標準スタイル</translation>
+    </message>
+    <message>
+        <source>Reflection Variations</source>
+        <translation>反射の種類</translation>
+    </message>
+    <message>
+        <source>Warp</source>
+        <translation>ワープ</translation>
     </message>
 </context>
 <context>
@@ -305,6 +583,25 @@
     <message>
         <source>Settings will be effected after application restarted.</source>
         <translation type="obsolete">セットには、起動後に有効になります。</translation>
+    </message>
+</context>
+<context>
+    <name>KLightingModel</name>
+    <message>
+        <source>Cool</source>
+        <translation>クール</translation>
+    </message>
+    <message>
+        <source>Neutral</source>
+        <translation>中性</translation>
+    </message>
+    <message>
+        <source>Special</source>
+        <translation>特殊書式</translation>
+    </message>
+    <message>
+        <source>Warm Effect</source>
+        <translation>暖かい効果</translation>
     </message>
 </context>
 <context>
@@ -366,31 +663,51 @@
     </message>
 </context>
 <context>
+    <name>KMaterialModel</name>
+    <message>
+        <source>Special Effect</source>
+        <translation>特殊効果</translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <translation>標準</translation>
+    </message>
+    <message>
+        <source>Translucent</source>
+        <translation>透明</translation>
+    </message>
+</context>
+<context>
     <name>KMemberUser</name>
     <message>
         <source>Bronze</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>ブロンズ</translation>
     </message>
     <message>
         <source>Plate with silver</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>シルバープレート</translation>
     </message>
     <message>
         <source>Silver</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>シルバー</translation>
     </message>
     <message>
         <source>Gold</source>
         <comment>Member user type</comment>
-        <translation type="unfinished">ゴールド</translation>
+        <translation>ゴールド</translation>
     </message>
     <message>
         <source>Platina</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>プラチナ</translation>
+    </message>
+    <message>
+        <source>Registered user</source>
+        <comment>Member User type</comment>
+        <translation>登録されたユーザー</translation>
     </message>
 </context>
 <context>
@@ -401,10 +718,106 @@
     </message>
 </context>
 <context>
+    <name>KNoTabPageWidget</name>
+    <message>
+        <source>Last time encounter abnormal shutdown!</source>
+        <translatorcomment>エラーのため、前回で異常終了されました。</translatorcomment>
+        <translation>前回プログラムの異常終了となりました。</translation>
+    </message>
+    <message>
+        <source>WPS will recover files for you, you can uncheck the files that don&apos;t need to be recovered</source>
+        <translatorcomment>WPSよりファイルを回復する場合、回復する必要ないのファイルのチェックをキャンセルできません。</translatorcomment>
+        <translation>WPSは回復不要なファイルについてはチェックを外して、回復します</translation>
+    </message>
+    <message>
+        <source>FileName</source>
+        <translation>ファイル名</translation>
+    </message>
+    <message>
+        <source>Send error file to help WPS solve such issues</source>
+        <translation>WPSの問題解消のため、エラーファイルを送付してください。</translation>
+    </message>
+    <message>
+        <source>Recover</source>
+        <translation>回復</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Modified time: </source>
+        <translation>更新日時:</translation>
+    </message>
+</context>
+<context>
     <name>KOrientationCtrl</name>
     <message>
         <source>Text </source>
         <translation>テキスト</translation>
+    </message>
+</context>
+<context>
+    <name>KPluginDownloadingTipWidget</name>
+    <message>
+        <source>Initializing </source>
+        <translation>初期化</translation>
+    </message>
+    <message>
+        <source>, </source>
+        <translation>,</translation>
+    </message>
+    <message>
+        <source>Please wait...</source>
+        <translation>お待ちください...</translation>
+    </message>
+</context>
+<context>
+    <name>KPluginFailureTipWidget</name>
+    <message>
+        <source>Download failed due to possible network problems. Please try again later.</source>
+        <translation>ネットワークの問題によりダウンロードに失敗しました。再試行してください。</translation>
+    </message>
+</context>
+<context>
+    <name>KProgressBar</name>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Multiple Tasks:</source>
+        <translation>複数タスク:</translation>
+    </message>
+    <message>
+        <source>Show In Progress Tasks</source>
+        <translation>進行中のタスクを表示</translation>
+    </message>
+    <message>
+        <source>Press &apos;Multiple Task&apos; button to display tasks</source>
+        <translation>「複数タスク」ボタンをクリックすると、タスクが表示されます</translation>
+    </message>
+</context>
+<context>
+    <name>KProgressListGalleryModelItem</name>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+</context>
+<context>
+    <name>KProxyCommandButton</name>
+    <message>
+        <source>(Download required)</source>
+        <translation>（ダウンロードが必要です）</translation>
+    </message>
+    <message>
+        <source>(Initializing...)</source>
+        <translation>（初期化中です...）</translation>
+    </message>
+    <message>
+        <source>(Upgrading...)</source>
+        <translation>（アップTデート中です...）</translation>
     </message>
 </context>
 <context>
@@ -488,23 +901,23 @@
     </message>
     <message>
         <source>Recent Documents: </source>
-        <translation type="unfinished">最近使用したドキュメント</translation>
+        <translation>最近使用したドキュメント</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">開く</translation>
+        <translation>開く</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished">すべての削除</translation>
+        <translation>すべての削除</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">フォルダを開く</translation>
+        <translation>フォルダを開く</translation>
     </message>
     <message>
         <source>Clear Invalid File</source>
-        <translation type="unfinished"></translation>
+        <translation>無効なファイルを削除</translation>
     </message>
     <message>
         <source>Unpinned from List</source>
@@ -541,20 +954,52 @@
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”を開けません。ファイルは名前が変更されたか、削除されたか、場所の移動が行われました。</translation>
     </message>
     <message>
         <source>
 
 Modified time:</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+更新時間:</translation>
     </message>
     <message>
         <source>
 
 
 Invalid record. This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>この履歴は無効です。ファイルが削除・移動されるか、または、ファイル名前が同名される可能です。</translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid, the file may be renamed,deleted or moved the location</source>
+        <translation type="obsolete">この履歴は無効です。ファイルが削除・移動されるか、または、ファイル名前が同名される可能です。</translation>
+    </message>
+    <message>
+        <source>
+
+modify time: </source>
+        <translation type="obsolete">
+
+更新時間:</translation>
+    </message>
+    <message>
+        <source>Can not find the file &quot;%1&quot;.
+the file may be renamed,deleted or moved the location.</source>
+        <translation type="obsolete">“%1”を開けません。ファイルは名前が変更されたか、削除されたか、場所の移動が行われました。</translation>
+    </message>
+</context>
+<context>
+    <name>KShapeLineGalleryItem</name>
+    <message>
+        <source>No Line</source>
+        <translation>線なし</translation>
+    </message>
+    <message>
+        <source>Preset Line</source>
+        <translation>標準スタイル</translation>
     </message>
 </context>
 <context>
@@ -566,6 +1011,25 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <message>
         <source>System Menu</source>
         <translation>システム メニュー</translation>
+    </message>
+</context>
+<context>
+    <name>KTextureModel</name>
+    <message>
+        <source>From &amp;Online Picture</source>
+        <translation>オンラインから(&amp;O)</translation>
+    </message>
+    <message>
+        <source>From &amp;Picture</source>
+        <translation>このコンピュータから(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Picture Source</source>
+        <translation>図のソース</translation>
+    </message>
+    <message>
+        <source>Preset Texture</source>
+        <translation>標準テクスチャ</translation>
     </message>
 </context>
 <context>
@@ -621,6 +1085,58 @@ auto=auto
 [Multiple]
 multiple=multiple
 </source>
+        <translation type="obsolete">[Device]
+pt=pt;p
+in=inch;i
+cm=cm;c
+mm=mm;m
+
+[Percentage]
+%=%
+
+[Character]
+ch=char
+
+[Degree]
+degree=°
+
+[Row]
+line=line
+
+[Auto]
+auto=auto
+
+[Multiple]
+multiple=multiple</translation>
+    </message>
+    <message>
+        <source>[Device]
+pt=pt;p
+in=inch;i
+cm=cm;c
+mm=mm;m
+
+[Percentage]
+%=%
+
+[Character]
+ch=char
+
+[Degree]
+degree=degree
+
+[Row]
+line=line
+
+[Auto]
+auto=auto
+
+[Multiple]
+multiple=multiple
+
+[Point]
+point=pt
+</source>
         <translation>[Device]
 pt=pt;p
 in=inch;i
@@ -650,12 +1166,17 @@ multiple=multiple</translation>
     <name>KWPSCloudSetup</name>
     <message>
         <source>WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office</translation>
     </message>
     <message>
         <source>Some components are not installed correctly.
 Please reinstall WPS Office!</source>
-        <translation type="unfinished"></translation>
+        <translation>一部コンポーネントが正常にインストールできませんでした。Kingsoft Officeの再インストールを行ってください。</translation>
+    </message>
+    <message>
+        <source>Some components are not installed correctly,
+please reinstall WPS Office!</source>
+        <translation type="obsolete">一部コンポーネントが正常にインストールできませんでした。Kingsoft Officeの再インストールを行ってください。</translation>
     </message>
 </context>
 <context>
@@ -674,6 +1195,37 @@ Please reinstall WPS Office!</source>
     </message>
 </context>
 <context>
+    <name>KxPrstFillModel</name>
+    <message>
+        <source>Gradient</source>
+        <translation>グラデーション</translation>
+    </message>
+    <message>
+        <source>Gradient Fill</source>
+        <translation>塗りつぶし(グラデーション)</translation>
+    </message>
+    <message>
+        <source>No Fill</source>
+        <translation>塗りつぶしなし</translation>
+    </message>
+    <message>
+        <source>Pattern Fill</source>
+        <translation>塗りつぶし(パータン)</translation>
+    </message>
+    <message>
+        <source>Picture or texture Fill</source>
+        <translation type="obsolete">塗りつぶし(図とテクスチャ)</translation>
+    </message>
+    <message>
+        <source>Theme Colors</source>
+        <translation>テーマの色</translation>
+    </message>
+    <message>
+        <source>texture Fill</source>
+        <translation>塗りつぶし（テクスチャ）</translation>
+    </message>
+</context>
+<context>
     <name>KxSpinBoxCtrl</name>
     <message>
         <source>Illegal integer text.</source>
@@ -686,6 +1238,17 @@ Please reinstall WPS Office!</source>
     <message>
         <source>This is not a valid integer.</source>
         <translation>無効な整数文字列です</translation>
+    </message>
+</context>
+<context>
+    <name>QApplication</name>
+    <message>
+        <source>Glow</source>
+        <translation>光彩</translation>
+    </message>
+    <message>
+        <source>No Glow</source>
+        <translation>光彩なし</translation>
     </message>
 </context>
 <context>
@@ -826,6 +1389,45 @@ Please reinstall WPS Office!</source>
     <message>
         <source>Clear Record from List</source>
         <translation type="obsolete">リストから削除</translation>
+    </message>
+</context>
+<context>
+    <name>gradientStopsPanel</name>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>&amp;Brightness</source>
+        <translation>明るさ(&amp;B)</translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation>色(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation>透過性(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Add Gradient Aperture</source>
+        <translation>グラデーションの隙間を追加</translation>
+    </message>
+    <message>
+        <source>Delete Gradient Aperture</source>
+        <translation>グラデーションの隙間を削除</translation>
+    </message>
+    <message>
+        <source>Enter  0% to 100% of the Value</source>
+        <translation>0%～100%までの値を入力してください</translation>
+    </message>
+    <message>
+        <source>Enter -100% to 100% of the Value</source>
+        <translation>-100% から 100%までの値を入力してください</translation>
+    </message>
+    <message>
+        <source>P&amp;osition</source>
+        <translation>位置(&amp;O)</translation>
     </message>
 </context>
 </TS>

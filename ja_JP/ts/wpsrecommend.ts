@@ -24,7 +24,7 @@
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>はい</translation>
     </message>
     <message>
         <source>No, thanks</source>

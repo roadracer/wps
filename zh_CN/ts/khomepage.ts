@@ -33,7 +33,7 @@
     <message>
         <source>Check Online Templates</source>
         <comment>tooltip</comment>
-        <translation type="unfinished">检查在线模板</translation>
+        <translation>检查在线模板</translation>
     </message>
     <message>
         <source>Create a blank document at startup</source>
@@ -76,7 +76,16 @@
     <message>
         <source>Online Templates Pro</source>
         <comment>title</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS 办公资源门户</translation>
+    </message>
+    <message>
+        <source>Online Templates Pro</source>
+        <translation type="obsolete">WPS 办公资源门户</translation>
+    </message>
+    <message>
+        <source>Online Templates Pro</source>
+        <comment>tooltip</comment>
+        <translation type="obsolete">WPS 办公资源门户</translation>
     </message>
 </context>
 <context>

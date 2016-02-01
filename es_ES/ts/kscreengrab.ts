@@ -6,91 +6,92 @@
     <name>KScreenGrabDialog</name>
     <message>
         <source>Rect Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Herramienta Rectángulo</translation>
     </message>
     <message>
         <source>Ellipse Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Herramienta Elipse</translation>
     </message>
     <message>
         <source>Arrow Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Herramienta Flecha</translation>
     </message>
     <message>
         <source>Brush Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Herramienta Pincel</translation>
     </message>
     <message>
         <source>Text Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Herramienta de texto</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshacer</translation>
     </message>
     <message>
         <source>Copy to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar al Portapapeles</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Salir</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista</translation>
     </message>
     <message>
         <source>Reselect Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a seleccionar región</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar barra de herramientas</translation>
     </message>
     <message>
         <source>%1 * %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 * %2</translation>
     </message>
     <message>
         <source>(%1, %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>(%1, %2)</translation>
     </message>
     <message>
         <source>RGB:(%1, %2, %3)</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB:(%1, %2, %3)</translation>
     </message>
     <message>
         <source>Press Alt
 to Adsorb Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Presione Alt 
+para absorber línea</translation>
     </message>
     <message>
         <source>Capture%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura%1</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar como</translation>
     </message>
     <message>
         <source>%1;;%2;;%3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1;;%2;;%3</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar barra de herramientas</translation>
     </message>
 </context>
 <context>
     <name>KScreenGrabHint</name>
     <message>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Copiado en el Portapapeles!</translation>
     </message>
 </context>
 </TS>

@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Styless, No grid</source>
-        <translation></translation>
+        <translation>Без стиля, скрыть сетку</translation>
     </message>
     <message>
         <source>Theme Style</source>

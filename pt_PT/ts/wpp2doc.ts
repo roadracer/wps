@@ -7,7 +7,8 @@
     <message>
         <source>Slide %1
 </source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Diapositivo %1
+</translation>
     </message>
     <message>
         <source>Notes Page:</source>
@@ -43,11 +44,11 @@
     </message>
     <message>
         <source>Note;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota;</translation>
     </message>
     <message>
         <source> Minute</source>
-        <translation type="unfinished"></translation>
+        <translation> Minuto</translation>
     </message>
 </context>
 <context>
@@ -74,11 +75,11 @@
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Converter em Documento do WPS Writer</translation>
     </message>
     <message>
         <source>Still Need: being calculated</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainda Necessário: a ser calculado</translation>
     </message>
 </context>
 <context>
@@ -105,7 +106,7 @@
     </message>
     <message>
         <source>Slides(&amp;P):</source>
-        <translation>Diapositivos(&amp;D)</translation>
+        <translation>Diapositivos(&amp;P):</translation>
     </message>
     <message>
         <source>Converted Layout</source>
@@ -113,11 +114,11 @@
     </message>
     <message>
         <source>According to original layout(&amp;O)</source>
-        <translation>De acordo com o original</translation>
+        <translation>De acordo com o esquema original(&amp;O)</translation>
     </message>
     <message>
         <source>Add notes to slide:</source>
-        <translation>Adicione as notas ao diapositivo</translation>
+        <translation>Adicione as notas ao diapositivo:</translation>
     </message>
     <message>
         <source>Right(&amp;R)</source>
@@ -173,7 +174,7 @@
     </message>
     <message>
         <source>Text(&amp;T)</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Texto (&amp;T)</translation>
     </message>
     <message>
         <source>Table(&amp;L)</source>
@@ -181,23 +182,23 @@
     </message>
     <message>
         <source>Picture(&amp;I)</source>
-        <translation>Imagens(&amp;I)&quot;</translation>
+        <translation>Imagens(&amp;I)</translation>
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Converter em Documento do WPS Writer</translation>
     </message>
     <message>
         <source>&amp;Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Diapositivo Atual</translation>
     </message>
     <message>
         <source>Slide per page</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapositivo por página</translation>
     </message>
     <message>
         <source>Converted Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Conteúdo Convertido</translation>
     </message>
 </context>
 <context>
@@ -216,7 +217,7 @@
     </message>
     <message>
         <source>Converting to WPS Writer document encountered an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>A conversão em documento do WPS Writer detetou um erro.</translation>
     </message>
 </context>
 <context>
@@ -267,24 +268,30 @@
     </message>
     <message>
         <source>The number must be 1, 2, 3,or 4.</source>
-        <translation type="unfinished">O número deve ser 1 ou 2. {1, 2, 3,?} {4.?}</translation>
+        <translation>O número tem de ser 1, 2, 3 ou 4.</translation>
     </message>
     <message>
         <source>This is a valid number.
 Please input slide number or slide range. 
 For example, 1,3,5-9.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este número é válido.
+Introduza o número do diapositivo ou o intervalo de diapositivos. 
+Por exemplo, 1,3,5-9.</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Writer Document(*.wps)</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento do WPS Writer (*.wps)</translation>
     </message>
     <message>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
+        <translation>O nome já existe. Não é possível guardar o ficheiro com o mesmo nome de outro ficheiro aberto. Escolha um nome diferente ou feche o ficheiro aberto antes de guardar.</translation>
+    </message>
+    <message>
+        <source>No Select Slide</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

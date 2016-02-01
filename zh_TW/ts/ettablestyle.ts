@@ -50,15 +50,15 @@
     </message>
     <message>
         <source>First Row</source>
-        <translation>首列</translation>
+        <translation>首列:</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation>末欄</translation>
+        <translation>最後一欄</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation>末列</translation>
+        <translation>最後一列</translation>
     </message>
     <message>
         <source>Light Style</source>

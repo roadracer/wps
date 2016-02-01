@@ -122,7 +122,7 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished">深色样式 2-强调 1/强调 2</translation>
+        <translation>深色样式 2-强调 1/强调 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>

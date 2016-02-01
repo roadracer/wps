@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ar">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KTranslator</name>
     <message>
@@ -228,6 +229,10 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Select Slide</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

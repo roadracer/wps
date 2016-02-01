@@ -609,7 +609,7 @@ Please try one of the following.
     <message>
         <source>File not loaded completely.</source>
         <comment>TX_FILE_NOT_LOADED_COMPLETELY</comment>
-        <translation type="unfinished">ファイルが完全にロードされていません。</translation>
+        <translation>ファイルが完全にロードされていません。</translation>
     </message>
     <message>
         <source>Fill failed due to there is an array in source area.</source>
@@ -714,7 +714,7 @@ Please try one of the following.
     <message>
         <source>Invaild Cell Reference Error</source>
         <comment>TX_ERRORCHECK_ERR_REF</comment>
-        <translation>無効なセル参照エラー</translation>
+        <translation type="obsolete">無効なセル参照エラー</translation>
     </message>
     <message>
         <source>Invalid Name Error</source>
@@ -933,7 +933,7 @@ Please try one of the following.
     <message>
         <source>Module</source>
         <comment>TX_DESC_KDE_CODEMODULE_NAME</comment>
-        <translation>モジュール</translation>
+        <translation>Module</translation>
     </message>
     <message>
         <source>Moving or deleting cells caused an invalid cell reference, or function is returning reference error.</source>
@@ -1980,42 +1980,12 @@ Microsoft Excel でファイルを開い、保存した後Kingsoft Spreadsheets�
     <message>
         <source>%s on %s</source>
         <comment>TX_ACTIVE_PRINTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s on %s</translation>
     </message>
     <message>
         <source>unknown printer (check your Control Panel)</source>
         <comment>TX_UNKNOWN_PRINTER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>$#,##0_);($#,##0)</source>
-        <comment>TX_NUMFMTApi_BuildIn_05</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>$#,##0_);[Red]($#,##0)</source>
-        <comment>TX_NUMFMTApi_BuildIn_06</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>$#,##0.00_);($#,##0.00)</source>
-        <comment>TX_NUMFMTApi_BuildIn_07</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>$#,##0.00_);[Red]($#,##0.00)</source>
-        <comment>TX_NUMFMTApi_BuildIn_08</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_14</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>m/d/yyyy h:mm</source>
-        <comment>TX_NUMFMTApi_BuildIn_22</comment>
-        <translation></translation>
+        <translation>印刷機が認識できません（コントロールパネルからチェックします）</translation>
     </message>
     <message>
         <source>$#,##0_);($#,##0)</source>
@@ -2040,122 +2010,52 @@ Microsoft Excel でファイルを開い、保存した後Kingsoft Spreadsheets�
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57</comment>
-        <translation>[$-411]m.d.ge</translation>
+        <translation type="obsolete">[$-411]m.d.ge</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58</comment>
-        <translation>[$-411]m&quot;月&quot;d&quot;日&quot;ggge&quot;年&quot;</translation>
+        <translation type="obsolete">[$-411]m&quot;月&quot;d&quot;日&quot;ggge&quot;年&quot;</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_30</comment>
-        <translation>m/d/yy</translation>
+        <translation type="obsolete">m/d/yy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31</comment>
-        <translation>m&quot;月&quot;d&quot;日&quot;yyyy&quot;年&quot;</translation>
+        <translation type="obsolete">m&quot;月&quot;d&quot;日&quot;yyyy&quot;年&quot;</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32</comment>
-        <translation>h&quot;時&quot;mm&quot;分&quot;</translation>
+        <translation type="obsolete">h&quot;時&quot;mm&quot;分&quot;</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33</comment>
-        <translation>h&quot;時&quot;mm&quot;分&quot;ss&quot;秒&quot;</translation>
-    </message>
-    <message>
-        <source>#,##0_);(#,##0)</source>
-        <comment>TX_NUMFMTApi_BuildIn_37</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>#,##0_);[Red](#,##0)</source>
-        <comment>TX_NUMFMTApi_BuildIn_38</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>#,##0.00_);(#,##0.00)</source>
-        <comment>TX_NUMFMTApi_BuildIn_39</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>#,##0.00_);[Red](#,##0.00)</source>
-        <comment>TX_NUMFMTApi_BuildIn_40</comment>
-        <translation></translation>
+        <translation type="obsolete">h&quot;時&quot;mm&quot;分&quot;ss&quot;秒&quot;</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55</comment>
-        <translation>yyyy&quot;年&quot;m&quot;月&quot;</translation>
+        <translation type="obsolete">yyyy&quot;年&quot;m&quot;月&quot;</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56</comment>
-        <translation>m&quot;月&quot;d&quot;日&quot;</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <comment>TX_NUMFMTApi_BuildIn_00</comment>
-        <translation></translation>
+        <translation type="obsolete">m&quot;月&quot;d&quot;日&quot;</translation>
     </message>
     <message>
         <source>0.00</source>
         <comment>TX_NUMFMTApi_BuildIn_02</comment>
-        <translation>0.00</translation>
-    </message>
-    <message>
-        <source>#,##0</source>
-        <comment>TX_NUMFMTApi_BuildIn_03</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>#,##0.00</source>
-        <comment>TX_NUMFMTApi_BuildIn_04</comment>
-        <translation></translation>
+        <translation type="obsolete">0.00</translation>
     </message>
     <message>
         <source>0.00%</source>
         <comment>TX_NUMFMTApi_BuildIn_10</comment>
-        <translation>0.00%</translation>
-    </message>
-    <message>
-        <source>0.00E+00</source>
-        <comment>TX_NUMFMTApi_BuildIn_11</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>d-mmm-yy</source>
-        <comment>TX_NUMFMTApi_BuildIn_15</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>d-mmm</source>
-        <comment>TX_NUMFMTApi_BuildIn_16</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>h:mm</source>
-        <comment>TX_NUMFMTApi_BuildIn_20</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>h:mm:ss</source>
-        <comment>TX_NUMFMTApi_BuildIn_21</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>mm:ss.0</source>
-        <comment>TX_NUMFMTApi_BuildIn_45</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>##0.0E+0</source>
-        <comment>TX_NUMFMTApi_BuildIn_48</comment>
-        <translation></translation>
+        <translation type="obsolete">0.00%</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -2437,46 +2337,16 @@ Continue without Undo?</source>
     <message>
         <source>\$#,##0_);(\$#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_23</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">\$#,##0_);(\$#,##0)</translation>
     </message>
     <message>
         <source>\$#,##0_);[Red](\$#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_24</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>\$#,##0.00_);(\$#,##0.00)</source>
-        <comment>TX_NUMFMTApi_BuildIn_25</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
-        <comment>TX_NUMFMTApi_BuildIn_26</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
-        <comment>TX_NUMFMTApi_BuildIn_41</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</source>
-        <comment>TX_NUMFMTApi_BuildIn_42</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</source>
-        <comment>TX_NUMFMTApi_BuildIn_43</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</source>
-        <comment>TX_NUMFMTApi_BuildIn_44</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">\$#,##0_);[Red](\$#,##0)</translation>
     </message>
     <message>
         <source>Your worksheet contains more than 255 invalid cells. Only the first 255 cells will be marked.</source>
-        <translation type="unfinished"></translation>
+        <translation>シートに255個以上の無効なセルが含まれています。最初の255個のセルだけマークされます。</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is read-only.  If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
@@ -2514,67 +2384,69 @@ Please try one of the following.
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
-        <translation>m月d日yyyy年</translation>
+        <translation type="obsolete">m月d日yyyy年</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
-        <translation>h時mm分</translation>
+        <translation type="obsolete">h時mm分</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
-        <translation>h時mm分ss秒</translation>
+        <translation type="obsolete">h時mm分ss秒</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
-        <translation>yyyy年m月</translation>
+        <translation type="obsolete">yyyy年m月</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
-        <translation>m月d日</translation>
+        <translation type="obsolete">m月d日</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
-        <translation>[$-411]m.d.ge</translation>
+        <translation type="obsolete">[$-411]m.d.ge</translation>
     </message>
     <message>
         <source>m/dd/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
-        <translation>[$-411]m月d日ggge年</translation>
+        <translation type="obsolete">[$-411]m月d日ggge年</translation>
     </message>
     <message>
         <source>Dialog Title</source>
         <comment>Dialog Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>ダイアログボックスタイトル</translation>
     </message>
     <message>
         <source>This data source contains no visible tables</source>
         <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
-        <translation type="unfinished"></translation>
+        <translation>データソースに表が含まれていません</translation>
     </message>
     <message>
         <source>Modify existing outline?</source>
         <comment>TX_ChangeAutoOutline</comment>
-        <translation type="unfinished">現在のアウトラインを変更しますか。</translation>
+        <translation>アウトラインを変更しますか？</translation>
     </message>
     <message>
         <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
         <comment>TX_CANNOTDELNUMFORMAT</comment>
-        <translation type="unfinished"></translation>
+        <translation>[%s]%s:
+このコマンドを保護されたシートに使用できません、保護シートをキャンセルするには、「ツール」→「保護」→「シート保護の解除」をクリックして、パスワーとを入力して、保護を解除できます。</translation>
     </message>
     <message>
         <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
         <comment>TX_BookReferencingByOther</comment>
-        <translation type="unfinished"></translation>
+        <translation>このワークボックはその他のブックより参照するため、終了できません。
+</translation>
     </message>
     <message>
         <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; [ ] |.</source>
         <comment>TX_Confirm_Invalid_Char_In_BookName</comment>
-        <translation type="unfinished"></translation>
+        <translation>·入力した名前に次の文字が含まれていないことを確認してください:  \ / :疑問符（?）、ダブル　フォーテーション（&quot;） 括弧（&lt; &gt;）、 左角かっこ([)、 右角かっこ(])、 あるいは |。</translation>
     </message>
     <message>
         <source>To paste all cells from an worksheet into the current worksheet, you must paste into the first cell (A1 or R1C1).</source>
@@ -2584,34 +2456,36 @@ Please try one of the following.
     <message>
         <source>Backup</source>
         <comment>TX_SaveAs_CreateBackup</comment>
-        <translation type="unfinished"></translation>
+        <translation>バックアップ</translation>
     </message>
     <message>
         <source>Spreadsheets</source>
         <comment>TX_DESC_APP_NAME</comment>
-        <translation type="unfinished">Kingsoft Spreadsheets</translation>
+        <translation>Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>The text file contains more data than will fit on a single worksheet.</source>
         <comment>TX_TextToColumns_Tip2</comment>
-        <translation type="unfinished"></translation>
+        <translation>データの長さが許容範囲を超えています。データを失う可能性があります。続けますか。</translation>
     </message>
     <message>
         <source>The formula in this cell differs from the formulas in this area of the spreadsheet.</source>
         <comment>TX_ERRORCHECK_ERRDESC_InconsistentFormula</comment>
-        <translation type="unfinished"></translation>
+        <translation>このセル内の数式は、スプレッドシートの該当範囲の数式と一致しません。</translation>
     </message>
     <message>
         <source>The text file contains more data than will fit on a single worksheet.
 To continue and import as much of the data as will fit, click OK.</source>
         <comment>TX_ImportText_Overflowed_Tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>データ長さはワークシート範囲以外にする場合、データを失われる可能性があります。
+データを続けてインポートするには、「はい）をクリックしてください。</translation>
     </message>
     <message>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
 This backup will be saved to (%s)</source>
         <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
-        <translation type="unfinished"></translation>
+        <translation>ファイルをバックアップする時にエラーが発生されました、設定されたバックアップフォルダは書き込み権限がない可能です、バックアップフォルダを変更してみてください。
+今回、バックアップしたファイルを(%s)に保存します。</translation>
     </message>
     <message>
         <source>The query returned more data than will fit on a worksheet.
@@ -2619,58 +2493,289 @@ This backup will be saved to (%s)</source>
 To continue and display as much of the data as will fit, click OK.
 To cancel the query, click Cancel.</source>
         <comment>TX_ImportOtherData_Overflowed_Tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>クエリから返されたデータは多すぎ為、一つのシートに入れません
+続けて操作する場合は、「はい」をクリックしてください。
+キャンセルする場合は、「いいえ）をクリックしてください。</translation>
     </message>
     <message>
         <source>When the active sheet is a macro sheet, it cannot be saved as xml, prn, or dbf. Please save as other formats.</source>
         <comment>TX_MacroSheet_CannotSave_As</comment>
-        <translation type="unfinished"></translation>
+        <translation>マクロシートはxml、prn、dbf形式ファイルを名前を付けて保存できません、その他の形式を選択して保存してください。</translation>
     </message>
     <message>
         <source>No columns that WPS Spreadsheets can use were returned from this query.</source>
-        <translation type="unfinished"></translation>
+        <translation>クエリからWPS Spreadsheetsで使用可能なデータ列を返しません。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot insert columns because the last column contains data. You will not get any data.</source>
         <comment>TX_No_Available_Sheet_Columns</comment>
-        <translation type="unfinished"></translation>
+        <translation>最後の列にデータを含めているため、WPS Spreadsheetsより列を挿入できません。</translation>
     </message>
     <message>
         <source>Cannot create backup file. Save &quot;%s&quot; without backup?</source>
         <comment>TX_CreateBackup_Tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>バックアップを作成できません、バックアップしない&quot;%s&quot;を保存しますか？</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
         <comment>TX_Find_DoNotExist</comment>
-        <translation type="unfinished">検索条件に一致するデータは見つかりません。検索項目と位置をチェックしてください。</translation>
+        <translation>Kingsoft Spreadsheetsは探しているデータを見つけることができません。検索オプションを確認してください。</translation>
     </message>
     <message>
         <source> [Compatibility Mode]</source>
         <comment>TX_CompatibilityMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>[互換モード]</translation>
     </message>
     <message>
         <source>Item</source>
         <comment>TX_Sharepoint_FSObjType_Item</comment>
-        <translation type="unfinished"></translation>
+        <translation>項目</translation>
     </message>
     <message>
         <source>Folder</source>
         <comment>TX_Sharepoint_FSObjType_Folder</comment>
-        <translation type="unfinished"></translation>
+        <translation>フォルダ</translation>
     </message>
     <message>
         <source>Enter your credentials:</source>
-        <translation type="unfinished"></translation>
+        <translation>認証情報を入力してください:</translation>
     </message>
     <message>
         <source>Connecting to %s</source>
-        <translation type="unfinished"></translation>
+        <translation> %s に接続中です</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>TX_DESC_APP_OBJECT_NAME</comment>
+        <translation>Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>@Theme Text</source>
+        <comment>TX_OPTIONDLG_THEME_Text</comment>
+        <translation>テーマテキスト</translation>
+    </message>
+    <message>
+        <source>@Theme Title</source>
+        <comment>TX_OPTIONDLG_THEME_Title</comment>
+        <translation>デーマタイトル</translation>
+    </message>
+    <message>
+        <source>DialogFrame</source>
+        <comment>Dialog Caption</comment>
+        <translation type="obsolete">ダイアログタイトル</translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
+        <translation type="obsolete">ファイルをバックアップする時にエラーが発生されました、設定されたバックアップフォルダは書き込み権限がない可能です、バックアップフォルダを変更してみてください。
+今回、バックアップしたファイルを(%s)に保存します。</translation>
+    </message>
+    <message>
+        <source>Failed to create a backup file, would you save &quot; %s &quot; without backup ?</source>
+        <comment>TX_CreateBackup_Tip</comment>
+        <translation type="obsolete">バックアップを作成できません、バックアップしない&quot;%s&quot;を保存しますか？</translation>
+    </message>
+    <message>
+        <source>HighLight Changed fail, series Count not fit chartType.</source>
+        <comment>TX_Chart_HighLightChanged_Warning</comment>
+        <translatorcomment>系列数はグラフの種類を満足できませんため、強調表示ができません</translatorcomment>
+        <translation>系列数がグラフの種類に適合しないため、強調表示の変更に失敗しました。</translation>
+    </message>
+    <message>
+        <source>Since the last one column contains data, WPS Spreadsheets can not insert columns. You will not get any data.</source>
+        <comment>TX_No_Available_Sheet_Columns</comment>
+        <translation type="obsolete">最後の列にデータを含めているため、WPS Spreadsheetsより列を挿入できません。</translation>
+    </message>
+    <message>
+        <source>Switch Direction fail, series Count not fit chartType.</source>
+        <comment>TX_Chart_SwitchDirection_Warning</comment>
+        <translatorcomment>系列数はグラフの種類を満足できませんため、行列を切り替えことができません、</translatorcomment>
+        <translation>系列数がグラフの種類に適合しないため、方向の切り替えに失敗しました。</translation>
+    </message>
+    <message>
+        <source>The data not within the worksheet will be lost.
+If you want to continue importing the data can be accommodated, click &quot;OK&quot;</source>
+        <comment>TX_ImportText_Overflowed_Tip</comment>
+        <translation type="obsolete">データ長さはワークシート範囲以外にする場合、データを失われる可能性があります。
+データを続けてインポートするには、「はい）をクリックしてください。</translation>
+    </message>
+    <message>
+        <source>The data source contains no visible form</source>
+        <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
+        <translation type="obsolete">データソースに表が含まれていません</translation>
+    </message>
+    <message>
+        <source>The macro &apos;%s&apos; cannot be found.</source>
+        <comment>TX_Can_Not_RunMacro</comment>
+        <translatorcomment>このマクロをブックに利用できません。または、すべてのマクロが禁止されているため、「%s」マクロが実行できなくなります</translatorcomment>
+        <translation>マクロ %s が見つかりませんでした。</translation>
+    </message>
+    <message>
+        <source>The query does not return data columns that can be used in WPS Spreadsheets.</source>
+        <translation type="obsolete">クエリからWPS Spreadsheetsで使用可能なデータ列を返しません。</translation>
+    </message>
+    <message>
+        <source>Too much data returned by the query, can not be contained in a worksheet.
+
+To continue operating, and show as much data, click &quot;OK&quot;.
+To cancel the query, click &quot;Cancel&quot;.</source>
+        <comment>TX_ImportOtherData_Overflowed_Tip</comment>
+        <translation type="obsolete">クエリから返されたデータは多すぎ為、一つのシートに入れません
+続けて操作する場合は、「はい」をクリックしてください。
+キャンセルする場合は、「いいえ）をクリックしてください。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets can not paste data.</source>
+        <comment>TX_Can_Not_Paste_Data</comment>
+        <translation>Kingsoft Spreadsheetsはデータを貼り付けることができません</translation>
+    </message>
+    <message>
+        <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet command on the Protection submenu of Tools menu. You may be prompted for a password.</source>
+        <comment>TX_CANNOTDELNUMFORMAT</comment>
+        <translation type="obsolete">保護されたシートに対してこのコマンドを使用できません。シートの保護を解除してください。　｢ツール｣メニューの｢保護｣にある｢シート保護の解除｣コマンドをクリックして、パスワードを入力してください。</translation>
+    </message>
+    <message>
+        <source>You typed an invalid name for a sheet or chart. Make sure that:</source>
+        <comment>TX_Invalid_MoveChart_Sheet_Name</comment>
+        <translation>シート、またはグラフに入力した名前が無効です。以下を確認してください。</translation>
+    </message>
+    <message>
+        <source>[%s] %s: is being protected!</source>
+        <comment>TX_ShareWorkSheet_MsgWarnning</comment>
+        <translation>[%s]%s：は保護されています。</translation>
+    </message>
+    <message>
+        <source>macrosheet can not be save as xml, prn, dbf fileformat. please choose another format.</source>
+        <comment>TX_MacroSheet_CannotSave_As</comment>
+        <translation type="obsolete">マクロシートはxml、prn、dbf形式ファイルを名前を付けて保存できません、その他の形式を選択して保存してください。</translation>
+    </message>
+    <message>
+        <source>Invalid Cell Reference Error</source>
+        <comment>TX_ERRORCHECK_ERR_REF</comment>
+        <translation>無効なセル参照です。</translation>
+    </message>
+    <message>
+        <source>Opening...</source>
+        <comment>TX_PROGRESS_OPENING</comment>
+        <translation>開いています...</translation>
+    </message>
+    <message>
+        <source>Saving...</source>
+        <comment>TX_PROGRESS_SAVING</comment>
+        <translation>保存しています...</translation>
+    </message>
+    <message>
+        <source>Invalid reference.To input a correct reference,you can click the target cell or drag mouse to select a range.</source>
+        <comment>TX_XlfDialogBox_InvalidRef</comment>
+        <translatorcomment>入力した参照は正しくありません、参照を入力することには、目標セルをクリックしたり、または選択した範囲をマウスでドラックします。</translatorcomment>
+        <translation>無効な参照です。正しい参照を入力することにより、目的セルをクリックしたり、選択範囲をマウスでドラッグできるようになります。</translation>
+    </message>
+    <message>
+        <source>It&apos;s not a valid Integer.</source>
+        <comment>TX_XlfDialogBox_InvalidInteger</comment>
+        <translation>正しくない整数です</translation>
+    </message>
+    <message>
+        <source>Input invalid! Please input a integer or a decimal.</source>
+        <comment>TX_XlfDialogBox_InvalidNumber</comment>
+        <translation>入力した内容は正しくありません.。整数または小数を入力してください。</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <comment>TX_XlfDialobBox_HelpButton</comment>
+        <translation>ヘルプ</translation>
+    </message>
+    <message>
+        <source>This operation is not allowed. The operation is attempting to shift cells in a table on your worksheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The worksheet range for the table data must be on the same sheet as the table being created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>That command cannot be used on multiple selections.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multi-cell array formulas are not allowed in tables.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A table cannot overlap a range that contains PivotTable report, query results, protected cells or another table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A table cannot overlap another table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot complete operation: A table cannot overlap with a PivotTable report, query results, a table, merged cells, or an XML mapping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot make changes to a table or XML mapping when multiple sheet are selected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot complete operation: Operations that include cells both inside and outside a table range or XML mapping, and operations that affect cells that overlap multiple tables are not allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The range you have specified is invalid.the headers must remain in the same row and the resulting table must overlap the original table.The table must contain a header row,and at least one row of data.Please specify a vaild table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name that you entered is not valid.
+
+Reasons for this can include:
+ -The name does not begin with a letter or underscore
+ -The name contains a space or other invalid characters
+ -The name conflicts with an WPS built-in name or the name of another object in the workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot move a part of a PivotTable report,or insert worksheet cells,rows,or columns inside a PivotTable report.To insert worksheet cells,rows,or columns,first move the PivotTable report(with the PivotTable report selected,on the Options tab,in the Actions group,click Move PivotTable)To add,move,or remove cells within the report,do one of the following:
+Use the PivotTable Field List to add,move,or remove fields.
+Hide or froup items in a row or column field.
+Modify the source data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create a table in the last row of the workbook. A table must have at least two rows, one for the table header, and one for data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot complete operation: You are attempting to change a portion of a table row or column in a way that is not allowed.  This may occur when attempting to re-arrange cells within a table that affect other table cells in an unexpected way.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This operation is attempting to change a filtered range on your worksheet and cannot be completed. To complete this operation, AutoFilters in the sheet need to be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The range you have specified is invalid.the top of table must remain in the same row, and the resulting table must overlap the original table.Specify a valid range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formulas in the header row will be removed and converted to static text. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your selection overlaps one or more external data ranges. Do you want to convert the selection to a table and remove all external connections?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting this query range to a list query range may cause some macro code and/or formulas not to function properly. Do you still want to perform the conversion?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to paste! The source data contains merge cells.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A table with that name already exists. Select a different name.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3019,32 +3124,77 @@ To cancel the query, click Cancel.</source>
     <message>
         <source>You cannot change part of an array.</source>
         <comment>TX_RepeatWord_ArrayFormula</comment>
-        <translation type="unfinished">配列の一部を変更できません。</translation>
+        <translation>配列の一部を変更できません。</translation>
     </message>
     <message>
         <source>Table_</source>
         <comment>TX_ListObject_NamePrefix</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">指定された範囲にアウトラインがある場合重複値を削除できません。重複値を削除するにはアウトラインをクリアしてから重複値操作を実行してください。</translation>
     </message>
     <message>
         <source>No Column has been selected.</source>
         <comment>TX_RepeatWord_No_Column</comment>
-        <translation type="unfinished"></translation>
+        <translation>指定列を選択しません</translation>
     </message>
     <message>
         <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, clear the outline and perform the remove duplicates operation again.</source>
         <comment>TX_RepeatWord_Group_Range</comment>
-        <translation type="unfinished"></translation>
+        <translation>表_</translation>
     </message>
     <message>
         <source>(Showing all)</source>
         <comment>TX_Show_All_DateItems</comment>
-        <translation type="unfinished"></translation>
+        <translation>（すべて表示）</translation>
     </message>
     <message>
         <source>Duplicates that you want to remove contain PivotTable.</source>
         <comment>TX_RepeatWord_PivotTable</comment>
+        <translation>選択範囲にはピボットテーブルが含まれています。</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <comment>TX_SortParam_KeyName_Column</comment>
+        <translation>列</translation>
+    </message>
+    <message>
+        <source>Row</source>
+        <comment>TX_SortParam_KeyName_Row</comment>
+        <translation>行</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>TX_TableStyle_None</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Style</source>
+        <comment>TX_TableStyle_TableStyle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <comment>TX_TableStyle_Light</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <comment>TX_TableStyle_Medium</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <comment>TX_TableStyle_Dark</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <comment>TX_TableDefaultColumnName</comment>
+        <translation type="unfinished">列</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_TableSubtotal_Sum</comment>
+        <translation type="unfinished">集計</translation>
     </message>
 </context>
 <context>
@@ -3094,17 +3244,17 @@ Spreadsheetsを開き再計算を行いますか？</translation>
     <message>
         <source>The real-time data server &apos;%s&apos; is not responding. Would you like %s to attempt to restart the server?</source>
         <comment>TX_RTD_SERVER_NO_RESPONSE</comment>
-        <translation type="unfinished"></translation>
+        <translation>リアルタイムデータサーバ%sが応答していません。 %s を利用してそのサーバーを起動しますか？</translation>
     </message>
     <message>
         <source>Macro Error</source>
         <comment>TX_MSF_RUN_ERR_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>マクロエラー</translation>
     </message>
     <message>
         <source>Macro error at cell: </source>
         <comment>TX_MSF_RUN_ERR_ERROR_IN</comment>
-        <translation type="unfinished"></translation>
+        <translation>マクロエラーセル：</translation>
     </message>
     <message>
         <source>Defined names or formulas in this workbook may display different values when they are recalculated in an earlier version of WPS Spreadsheets if they:
@@ -3126,7 +3276,7 @@ Spreadsheetsを開き再計算を行いますか？</translation>
     <message>
         <source>Macro interrupted at cell:</source>
         <comment>TX_MSF_RUN_ERR_INTERRUPT</comment>
-        <translation type="unfinished"></translation>
+        <translation>マクロ中断セル：</translation>
     </message>
     <message>
         <source>Defined names or formulas in this workbook may display differrent values when they are recalculated in an earlier version of WPS Spreadsheets if they:
@@ -3148,31 +3298,91 @@ Spreadsheetsを開き再計算を行いますか？</translation>
     <message>
         <source>Missing loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Loopをミッシング</translation>
     </message>
     <message>
         <source>Missing NEXT function for loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation> NEXTをミッシング</translation>
     </message>
     <message>
         <source>Missing IF.</source>
         <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
-        <translation type="unfinished"></translation>
+        <translation>IFをミッシング</translation>
     </message>
     <message>
         <source>Missing an END.IF function.</source>
         <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
-        <translation type="unfinished"></translation>
+        <translation>END.IFをミッシング</translation>
     </message>
     <message>
         <source>Invalid reference argument at:</source>
         <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
-        <translation type="unfinished"></translation>
+        <translation>無効な参照引数：</translation>
     </message>
     <message>
         <source>No RETURN() or HALT() function found on macro sheet!</source>
         <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+        <translation>マクロシートにRETURN() 或いはHALT() 関数が見つかりませんでした。</translation>
+    </message>
+    <message>
+        <source>Illegal reference argument at:</source>
+        <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
+        <translation type="obsolete">無効な参照パラメータ場所：</translation>
+    </message>
+    <message>
+        <source>Miss END.IF function!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
+        <translation type="obsolete">END.IF関数エラー！</translation>
+    </message>
+    <message>
+        <source>Miss IF function!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
+        <translation type="obsolete">IF関数エラー！</translation>
+    </message>
+    <message>
+        <source>Miss Loop!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
+        <translation type="obsolete">循環エラ-！</translation>
+    </message>
+    <message>
+        <source>Miss Next function for loop!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
+        <translation type="obsolete">次の関数が循環しています！</translation>
+    </message>
+    <message>
+        <source>No RETURN() or HALT() function fount on macro sheet!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+        <translation type="obsolete">シートに RETURN()あるいは HALT()が見つかりませんでした</translation>
+    </message>
+    <message>
+        <source>No RETURN() or HALT() function fount on macro sheet.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+        <translation type="obsolete">マクロシートにRETURN() 或いはHALT() 関数が見つかりませんでした。</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <comment>TX_TABLE_RANGE_ALL</comment>
+        <translation type="unfinished">すべて表示</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <comment>TX_TABLE_RANGE_DATA</comment>
+        <translation type="unfinished">データ</translation>
+    </message>
+    <message>
+        <source>Headers</source>
+        <comment>TX_TABLE_RANGE_HEADERS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Totals</source>
+        <comment>TX_TABLE_RANGE_TOTALS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>TX_TABLE_PREFIX_NAME</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3421,6 +3631,11 @@ Spreadsheetsを開き再計算を行いますか？</translation>
  レポートにフィールドを追加するには、ピボットテーブルウィザードを使用します。
  行フィールドまたは列フィールドのアイテムを非表示またはグループ化します。
  元のデータを編集します。</translation>
+    </message>
+    <message>
+        <source>A PivotTable report cannot overlap a table or XML mapping.</source>
+        <comment>TX_DAP_DlgInfo_PTCannotOverloadListObj</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3692,7 +3907,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>The range you deleted is associated with a query that retrieves data from an external source. Do you want to delete the query in addition to the range? If you click No, the query will retrieve new data to the worksheet the next time the query is refreshed.</source>
         <comment>TX_ETDBE_STR_DELETEQT</comment>
-        <translation>删除的区域与从外部源中提取数据的查询相关。是否与也删除该查询？如果单击“否”，则下次刷新时，查询将向工作表中提取新数据。</translation>
+        <translation>削除するエリアは外部ソースからのデータクエリと関連性があります。このクエリを削除してよろしいですか？ 「いいえ」をクリックすると、次回更新時にクエリはシートから最新データを取得します。</translation>
     </message>
     <message>
         <source>This Web query returned no data.</source>
@@ -3795,7 +4010,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Connection</source>
         <comment>TX_ETDBE_STR_CONDEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>コレクション</translation>
     </message>
     <message>
         <source>WPS Spreadsheets could not open or read this query file. Either the file has been damaged or the file format is not valid.</source>
@@ -3815,52 +4030,84 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Parameter</source>
         <comment>TX_ETDBE_STR_PARAMDEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>パラメータ</translation>
     </message>
     <message>
         <source>Unable to open %s. Cannot download the information you requested.</source>
         <comment>TX_ETDBE_STR_WEBDOWNLOADERROR</comment>
-        <translation type="unfinished"></translation>
+        <translation> %s を開くことが出来ません、インターネットサーバーまたはプロキシサーバが見つかりませんでした。</translation>
     </message>
     <message>
         <source>Cannot open the file because the specified file path is too long. Rename the file with less than 256 characters.</source>
         <comment>TX_ETDBE_STR_FILENAME_LENLIMIT</comment>
-        <translation type="unfinished"></translation>
+        <translation>指定したファイルのパスが長すぎるためファイルを開けません。256文字以下に指定してください。</translation>
     </message>
     <message>
         <source>Map</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>マップ</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
         <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation type="unfinished"></translation>
+        <translation>すべてのファイル(*.*)|*.*|全てのデータソース(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access データベース(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro データベース(*.dbc)|*.dbc|DBase ファイル(*.dbf)|*.dbf|Excel ファイル(*.xls)|*.xls|Spreadsheets ファイル(*.et)|*.et|CSV テキストファイル(*.csv)|*.csv|テキストファイル(*.txt)|*.txt|Office データベースコレクション(*.odc)|*.odc|Microsoft データベースコレクション(*.udl)|*.udl|ODBC データベース名前(*.dsn)|*.dsn|クエリファイル(*.dqy)|*.dqy||</translation>
     </message>
     <message>
         <source>Running background query...(Click here to cancel)</source>
         <comment>TX_ETDBE_STR_BACKGROUND_QUERY</comment>
-        <translation type="unfinished"></translation>
+        <translation>バックグラウンドクエリを実行中（ここをクリックするとキャンセルします）</translation>
     </message>
     <message>
         <source>:Getting Data ...</source>
         <comment>TX_ETDBE_STR_DESTINATE_TAG</comment>
-        <translation type="unfinished"></translation>
+        <translation>データを取り込む中</translation>
     </message>
     <message>
         <source>You cannot perform next operation due to one of the following reasons: You have not selected a valid data source. The connection string is blank. The string you typed is not correct. The generated connection failed.</source>
         <comment>TX_ETDBE_ERR_CONNECTFAIL</comment>
-        <translation type="unfinished"></translation>
+        <translation>以下の原因で次の操作ができません：
+ 
+1. データソースを選択しませんでした。または、接続文字を入力しませんでした。
+ 
+2. 入力した文字列は正しくありません。
+ 
+3. リンクを作成できません。
+</translation>
     </message>
     <message>
         <source>Unable to open XML file. File does not exit or XML syntax error.</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>xmlデータファイルを開けません、ファイルは存在しないまたは、xmlの文法が間違いました。</translation>
     </message>
     <message>
         <source>This will cancel a pending data refresh. Continue?</source>
         <comment>TX_ETDBE_STR_BACKGROUND_TTIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>ペンディングデータリフレッシュコマンドをキャンセルします。続けますか？</translation>
+    </message>
+    <message>
+        <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="obsolete">xmlデータファイルを開けません、ファイルは存在しないまたは、xmlの文法が間違いました。</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="obsolete">すべてのファイル(*.*)|*.*|全てのデータソース(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access データベース(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro データベース(*.dbc)|*.dbc|DBase ファイル(*.dbf)|*.dbf|Excel ファイル(*.xls)|*.xls|Spreadsheets ファイル(*.et)|*.et|CSV テキストファイル(*.csv)|*.csv|テキストファイル(*.txt)|*.txt|Office データベースコレクション(*.odc)|*.odc|Microsoft データベースコレクション(*.udl)|*.udl|ODBC データベース名前(*.dsn)|*.dsn|クエリファイル(*.dqy)|*.dqy||</translation>
+    </message>
+    <message>
+        <source>Fail to open xml file. file not exit or syntax error</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="obsolete">xmlデータファイルを開けません。ファイルが存在しない、または、xmlエラーです。</translation>
+    </message>
+    <message>
+        <source>This action will cancel a pending Refresh Data command. Continue?</source>
+        <comment>TX_ETDBE_STR_BACKGROUND_TTIP</comment>
+        <translation type="obsolete">ペンディングデータリフレッシュコマンドをキャンセルします。続けますか？</translation>
+    </message>
+    <message>
+        <source>map</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="obsolete">マップ</translation>
     </message>
 </context>
 <context>
@@ -4103,7 +4350,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
-        <translation>COMBIN(number,number_chosen)</translation>
+        <translation type="unfinished">COMBIN(number,number_chosen)</translation>
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
@@ -5188,7 +5435,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation>LTRIM(text)</translation>
+        <translation type="unfinished">LTRIM(text)</translation>
     </message>
     <message>
         <source>Logical</source>
@@ -5613,7 +5860,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation>RTRIM(text)</translation>
+        <translation type="unfinished">RTRIM(text)</translation>
     </message>
     <message>
         <source>Recently Used</source>
@@ -5628,12 +5875,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
-        <translation>テキストの左側の空白を削除します。</translation>
+        <translation type="unfinished">テキストの左側の空白を削除します。</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
-        <translation>テキストの右側の空白を削除します。</translation>
+        <translation type="unfinished">テキストの右側の空白を削除します。</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string.</source>
@@ -6453,7 +6700,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
-        <translation>順不同で、指定された個数の対象から指定された数の対象を抽出する組み合わせを返します。</translation>
+        <translation type="unfinished">順不同で、指定された個数の対象から指定された数の対象を抽出する組み合わせを返します。</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of items.</source>
@@ -7233,226 +7480,226 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RTD(progID, server, topic1, [topic2], ...)</source>
         <comment>RTD_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Retrieves real-time data from a program that supports COM automation.</source>
         <comment>RTD_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>COMオートメーションをサポートするプログラムから、リアルタイムにデータを取得します。</translation>
     </message>
     <message>
         <source>See Help for help on this function and its arguments.</source>
         <comment>SEE_HELP_FORMORE_DESC</comment>
-        <translation type="unfinished"></translation>
+        <translation>関数およびパラメータの詳細はヘルプにご参照くさい</translation>
     </message>
     <message>
         <source>ARGUMENT(name_text, data_type_num, reference)</source>
         <comment>ARGUMENT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ARGUMENT(name_text, data_type_num, reference)</translation>
     </message>
     <message>
         <source>BREAK()</source>
         <comment>BREAK_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>BREAK()</translation>
     </message>
     <message>
         <source>ELSE()</source>
         <comment>ELSE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ELSE()</translation>
     </message>
     <message>
         <source>ELSE.IF(logical_test)</source>
         <comment>ELSEIF_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ELSE.IF(logical_test)</translation>
     </message>
     <message>
         <source>END.IF()</source>
         <comment>ENDIF_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>END.IF()</translation>
     </message>
     <message>
         <source>FOR(counter_text, start_num, end_num, step_num)</source>
         <comment>FOR_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>FOR(counter_text, start_num, end_num, step_num</translation>
     </message>
     <message>
         <source>FOR.CELL(ref_name, area_ref, skip_blanks)</source>
         <comment>FORCELL_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>FOR.CELL(ref_name, area_ref, skip_blanks)</translation>
     </message>
     <message>
         <source>GOTO(reference)</source>
         <comment>GOTO_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>GOTO(reference)</translation>
     </message>
     <message>
         <source>HALT(cancel_close)</source>
         <comment>HALT_STNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>HALT(cancel_close)</translation>
     </message>
     <message>
         <source>NEXT()</source>
         <comment>NEXT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>NEXT()</translation>
     </message>
     <message>
         <source>PAUSE(no_tool)</source>
         <comment>PAUSE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>PAUSE(no_tool)</translation>
     </message>
     <message>
         <source>RESTART(level_num)</source>
         <comment>RESTART_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>RESTART(level_num)</translation>
     </message>
     <message>
         <source>RESULT(type_num)</source>
         <comment>RESULT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>RESULT(type_num)</translation>
     </message>
     <message>
         <source>RETURN(value)</source>
         <comment>RETURN_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>RETURN(value)</translation>
     </message>
     <message>
         <source>SET.NAME(name_text, value)</source>
         <comment>SETNAME_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>SET.NAME(name_text, value)</translation>
     </message>
     <message>
         <source>SET.VALUE(reference, values)</source>
         <comment>SETVALUE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>SET.VALUE(reference, values)</translation>
     </message>
     <message>
         <source>STEP()</source>
         <comment>STEP_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>STEP()</translation>
     </message>
     <message>
         <source>VOLATILE(logical)</source>
         <comment>VOLATILE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>VOLATILE(logical)</translation>
     </message>
     <message>
         <source>WHILE(logical_test)</source>
         <comment>WHILE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>WHILE(logical_test)</translation>
     </message>
     <message>
         <source>GET.NAME(name_text, info_type)</source>
         <comment>GETNAME_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>GET.NAME(name_text, info_type)</translation>
     </message>
     <message>
         <source>REGISTER(module_text, procedure, type_text, function_text,...)</source>
-        <translation type="unfinished"></translation>
+        <translation>REGISTER(module_text, procedure, type_text, function_text,...)</translation>
     </message>
     <message>
         <source>REGISTER.ID(module_text, procedure, type_text)</source>
         <comment>REGISTERID_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>REGISTER.ID(module_text, procedure, type_text)</translation>
     </message>
     <message>
         <source>UNREGISTER(register_id)</source>
         <comment>UNREGISTER_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>UNREGISTER(register_id)</translation>
     </message>
     <message>
         <source>GET.DOCUMENT(type_num, name_text)</source>
         <comment>GETDOCUMENT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>GET.DOCUMENT(type_num, name_text)</translation>
     </message>
     <message>
         <source>GET.WORKBOOK(type_num, name_text)</source>
         <comment>GETWORKBOOK_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>GET.WORKBOOK(type_num, name_text)</translation>
     </message>
     <message>
         <source>GET.WORKSPACE(type_num)</source>
         <comment>GETWORKSPACE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>GET.WORKSPACE(type_num)</translation>
     </message>
     <message>
         <source>APP.TITLE(text)</source>
         <comment>APPTITLE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>APP.TITLE(text)</translation>
     </message>
     <message>
         <source>WINDOW.TITLE(text)</source>
         <comment>WINDOWTITLE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>WINDOW.TITLE(text)</translation>
     </message>
     <message>
         <source>ACTIVE.CELL()</source>
         <comment>ACTIVECELL_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ACTIVE.CELL()</translation>
     </message>
     <message>
         <source>DOCUMENTS(type_num, match_text)</source>
         <comment>DOCUMENTS_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>DOCUMENTS(type_num, match_text)</translation>
     </message>
     <message>
         <source>GET.FORMULA(reference)</source>
         <comment>GETFORMULA_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>GET.FORMULA(reference)</translation>
     </message>
     <message>
         <source>GET.NOTE(cell_ref, start_char, num_chars)</source>
         <comment>GETNOTE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>GET.NOTE(cell_ref, start_char, num_chars)</translation>
     </message>
     <message>
         <source>GET.WINDOW(type_num, window_text)</source>
         <comment>GETWINDOW_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>GET.WINDOW(type_num, window_text)</translation>
     </message>
     <message>
         <source>WINDOWS(type_num, match_text)</source>
         <comment>WINDOWS_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>WINDOWS(type_num, match_text)</translation>
     </message>
     <message>
         <source>FORMULA.CONVERT(formula_text, from_a1, to_a1, to_ref_type, rel_to_ref)</source>
         <comment>FORMULACONVERT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>FORMULA.CONVERT(formula_text, from_a1, to_a1, to_ref_type, rel_to_ref)</translation>
     </message>
     <message>
         <source>TEXTREF(text, a1)</source>
         <comment>TEXTREF_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>TEXTREF(text, a1)</translation>
     </message>
     <message>
         <source>REFTEXT(reference, a1)</source>
         <comment>REFTEXT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>REFTEXT(reference, a1)</translation>
     </message>
     <message>
         <source>GET.BAR(bar_num, menu, command, subcommand)</source>
         <comment>GETBAR_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>GET.BAR(bar_num, menu, command, subcommand)</translation>
     </message>
     <message>
         <source>ADD.BAR(bar_num)</source>
         <comment>ADDBAR_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ADD.BAR(bar_num)</translation>
     </message>
     <message>
         <source>ADD.MENU(bar_num, menu_ref, position1, position2)</source>
         <comment>ADDMENU_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ADD.MENU(bar_num, menu_ref, position1, position2)</translation>
     </message>
     <message>
         <source>DELETE.MENU(bar_num, menu, submenu)</source>
         <comment>DELETEMENU_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>DELETE.MENU(bar_num, menu, submenu)</translation>
     </message>
     <message>
         <source>GET.TOOLBAR(type_num, bar_id)</source>
         <comment>GETTOOLBAR_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>GET.TOOLBAR(type_num, bar_id)</translation>
     </message>
     <message>
         <source>Returns the number that represents the date in WPS Spreadsheets date-time code.</source>
@@ -7507,226 +7754,310 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ALERT(message_text, type_num, help_ref)</source>
         <comment>ALERT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ALERT(message_text, type_num, help_ref)</translation>
     </message>
     <message>
         <source>CALLER()</source>
         <comment>CALLER_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>CALLER()</translation>
     </message>
     <message>
         <source>ECHO(logical)</source>
         <comment>ECHO_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ECHO(logical)</translation>
     </message>
     <message>
         <source>NEW(type_num, xy_series, add_logical)</source>
         <comment>NEW_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>NEW(type_num, xy_series, add_logical)</translation>
     </message>
     <message>
         <source>CALCULATE.NOW()</source>
         <comment>CALCULATENOW_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>CALCULATE.NOW()</translation>
     </message>
     <message>
         <source>CALCULATE.DOCUMENT()</source>
         <comment>CALCULATEDOCUMENT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>CALCULATE.DOCUMENT()</translation>
     </message>
     <message>
         <source>ON.DATA(document_text, macro_text)</source>
         <comment>ONDATA_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ON.DATA(document_text, macro_text)</translation>
     </message>
     <message>
         <source>ON.DOUBLECLICK(sheet_text, macro_text)</source>
         <comment>ONDOUBLECLICK_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ON.DOUBLECLICK(sheet_text, macro_text)</translation>
     </message>
     <message>
         <source>ON.ENTRY(sheet_text, macro_text)</source>
         <comment>ONENTRY_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ON.ENTRY(sheet_text, macro_text)</translation>
     </message>
     <message>
         <source>ON.KEY(key_text, macro_text)</source>
         <comment>ONKEY_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ON.KEY(key_text, macro_text)</translation>
     </message>
     <message>
         <source>ON.RECALC(sheet_text, macro_text)</source>
         <comment>ONRECALC_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ON.RECALC(sheet_text, macro_text)</translation>
     </message>
     <message>
         <source>ON.SHEET(sheet_text, macro_text, activate_logical)</source>
         <comment>ONSHEET_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ON.SHEET(sheet_text, macro_text, activate_logical)</translation>
     </message>
     <message>
         <source>ON.TIME(time, macro_text, tolerance, insert_logical)</source>
         <comment>ONTIME_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ON.TIME(time, macro_text, tolerance, insert_logical)</translation>
     </message>
     <message>
         <source>ON.WINDOW(window_text, macro_text)</source>
         <comment>ONWINDOW_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ON.WINDOW(window_text, macro_text)</translation>
     </message>
     <message>
         <source>QUIT()</source>
         <comment>QUIT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>QUIT()</translation>
     </message>
     <message>
         <source>SELECT(selection, active_cell)</source>
         <comment>SELECT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>SELECT(selection, active_cell)</translation>
     </message>
     <message>
         <source>SELECT.LAST.CELL()</source>
         <comment>SELECTLASTCELL_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>SELECT.LAST.CELL()</translation>
     </message>
     <message>
         <source>COPY(from_reference, to_reference)</source>
         <comment>COPY_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>COPY(from_reference, to_reference)</translation>
     </message>
     <message>
         <source>FORMULA(formula_text, reference)</source>
         <comment>FORMULA_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>FORMULA(formula_text, reference)</translation>
     </message>
     <message>
         <source>DEFINE.NAME(name_text, refers_to, macro_type, shortcut_text, hidden, category, local)</source>
         <comment>DEFINENAME_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>DEFINE.NAME(name_text, refers_to, macro_type, shortcut_text, hidden, category, local)</translation>
     </message>
     <message>
         <source>ROW.HEIGHT(height_num, reference, standard_height, type_num)</source>
         <comment>ROWHEIGHT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ROW.HEIGHT(height_num, reference, standard_height, type_num)</translation>
     </message>
     <message>
         <source>COLUMN.WIDTH(width_num, reference, standard, type_num, standard_num)</source>
         <comment>COLUMNWIDTH_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>COLUMN.WIDTH(width_num, reference, standard, type_num, standard_num)</translation>
     </message>
     <message>
         <source>PASTE.SPECIAL(paste_num, operation_num, skip_blanks, transpose)</source>
         <comment>PASTESPECIAL_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>PASTE.SPECIAL(paste_num, operation_num, skip_blanks, transpose)</translation>
     </message>
     <message>
         <source>ERROR(enable_logical, macro_ref)</source>
         <comment>ERROR_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ERROR(enable_logical, macro_ref)</translation>
     </message>
     <message>
         <source>RUN(reference, step)</source>
         <comment>RUN_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>RUN(reference, step)</translation>
     </message>
     <message>
         <source>FILE.CLOSE(save_logical, route_logical)</source>
         <comment>FILECLOSE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>FILE.CLOSE(save_logical, route_logical)</translation>
     </message>
     <message>
         <source>PRINT(range_num, from, to, copies,...)</source>
         <comment>PRINT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>PRINT(range_num, from, to, copies,...)</translation>
     </message>
     <message>
         <source>CALL(module_text, procedure, type_text, argument1, ...)</source>
         <comment>CALL_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>CALL(module_text, procedure, type_text, argument1, ...)</translation>
     </message>
     <message>
         <source>Calls a procedure in a dynamic link library or code resource.</source>
         <comment>CALL_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>ダイナミックリンクライブラリまたはコードリソースのプロシージャをコールします。</translation>
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list.</source>
         <comment>RANK_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>順序に従って範囲内の数値を並べたとき、数値が何番目に位置するかを返します</translation>
     </message>
     <message>
         <source>RANK.AVG(number,ref,order)</source>
         <comment>RANKAVG_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>RANK.EQ(number,ref,order)</source>
         <comment>RANKEQ_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</source>
         <comment>VOLATILE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</translation>
     </message>
     <message>
         <source>Returns the yields of regular payment securities.</source>
         <comment>VOLATILE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">定期的に利息が支払われる証券の利回りを計算します。</translation>
     </message>
     <message>
         <source>FILES(directory_text)</source>
         <comment>FILES_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Returns the sum of the squares of all the arguments. The arguments may be varied as numbers, arrays, names or references to cells which contain numbers.</source>
         <comment>SUMSQ_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>すべてのパラメーターの平方の合計を返します。パラメーターには、数値、配列、数値を含む名前、セル参照を指定可能です。</translation>
     </message>
     <message>
         <source>Returns the inverse of the standard normal cumulative distribution function with a mean of zero and a standard deviation of one.</source>
         <comment>NORMSINV_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>標準正規累積分布の逆関数を返します。この分布の平均値は0で、標準偏差は1です。</translation>
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers: its size relative to other values in the list; if more than one value has the same rank, the average rank is returned.</source>
         <comment>RANKAVG_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>順序に従って範囲内の数値を並べたとき、数値が何番目に位置するかを返します。
+複数の数値が同じ順位にある場合、順位の平均を返します。</translation>
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers: its size relative to other values in the list; if more than one value has the same rank, the top rank of that set of values is returned.</source>
         <comment>RANKEQ_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>順序に従って範囲内の数値を並べたとき、数値が何番目に位置するかを返します。
+複数の数値が同じ順位にある場合、その値の中の最上位を返します。</translation>
     </message>
     <message>
         <source>Returns the first-found location of the specified character or string within a text string, reading from left to right (not case-sensitive).</source>
         <comment>SEARCH_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>指定された文字、または文字列が最初に出現した位置を返します。左から右へ検索します。(大文字、小文字は区別されません。)</translation>
     </message>
     <message>
         <source>Returns the number of characters in the text. Use with double-byte characters(DBCS).</source>
         <comment>LENB_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>文字列の文字数を返します。DBCS文字コード体系で使います。</translation>
     </message>
     <message>
         <source>Returns the first-found location of the specified character or string within a text string, reading from left to right (not case-sensitive). Use with double-byte character set(DBCS).</source>
         <comment>SEARCHB_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>指定された文字、あるいは文字列がはじめて出現した位置を返します。左から右へ検索します(大文字と小文字の区別なし)。DBCS文字コード体系で使います。</translation>
     </message>
     <message>
         <source>COUPDAYBS Returns the number of days from the beginning of the coupon period to the settlement date.</source>
         <comment>COUPDAYBS_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>利払期間の第 1 日目から受渡日までの日数を計算します。</translation>
     </message>
     <message>
         <source>FORMULA.FIND(text, in_num, at_num, by_num, dir_num, match_case)</source>
         <comment>FORMULAFIND_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>FORMULA FIND(text, in_num, by_num, dir_num, match_case)</translation>
     </message>
     <message>
         <source>CALCULATION(type_num, iter, max_num, max_change, update, precision, date_1904, calc_save, save_values, alt_exp, alt_form)</source>
         <comment>CALCULATION_SYNTAX</comment>
+        <translation>CALCULATION(type_num, iter, max_num, max_change, update, precision, date_1904, calc_save, save_values, alt_exp, alt_form)</translation>
+    </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the average rank is returned.</source>
+        <comment>RANKAVG_REMARK</comment>
+        <translation type="obsolete">順序に従って範囲内の数値を並べたとき、数値が何番目に位置するかを返します。
+複数の数値が同じ順位にある場合、順位の平均を返します。</translation>
+    </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the top rank of that set of values is returned.</source>
+        <comment>RANKEQ_REMARK</comment>
+        <translation type="obsolete">順序に従って範囲内の数値を並べたとき、数値が何番目に位置するかを返します。
+複数の数値が同じ順位にある場合、その値の中の最上位を返します。</translation>
+    </message>
+    <message>
+        <source>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</source>
+        <comment>YIELD_SYNTAX</comment>
+        <translation>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</translation>
+    </message>
+    <message>
+        <source>Returns the yields of regular payment securities.</source>
+        <comment>YIELD_DESCRIPTION</comment>
+        <translation>定期的に利息が支払われる証券の利回りを計算します。</translation>
+    </message>
+    <message>
+        <source>DIALOGBOX(dialog_ref)</source>
+        <comment>DIALOGBOX_SYNTAX</comment>
+        <translation>DIALOGBOX (dialog_ref)</translation>
+    </message>
+    <message>
+        <source>WORKBOOKINSERT(type_num)</source>
+        <comment>WORKBOOKINSERT_SYNTAX</comment>
+        <translation>WORKBOOKINSERT(type_num)</translation>
+    </message>
+    <message>
+        <source>SELECTION()</source>
+        <comment>SELECTION_SYNTAX</comment>
+        <translation>SELECTION()</translation>
+    </message>
+    <message>
+        <source>NAMES(document_text, type_num, match_text)</source>
+        <comment>NAMES_SYNTAX</comment>
+        <translation>NAMES(document_text, type_num, match_text)</translation>
+    </message>
+    <message>
+        <source>GET.OBJECT(type_num, object_id_text, start_num, count_num, item_index)</source>
+        <comment>GETOBJECT_SYNTAX</comment>
+        <translation>GET.OBJECT(type_num, object_id_text, start_num, count_num, item_index)</translation>
+    </message>
+    <message>
+        <source>Options.Lists.Get(list_num)</source>
+        <comment>OPTIONSLISTSGET_SYNTAX</comment>
+        <translation>Options.Lists.Get(list_num)</translation>
+    </message>
+    <message>
+        <source>DEREF(reference)</source>
+        <comment>DEREF_SYNTAX</comment>
+        <translation>DEREF(reference)</translation>
+    </message>
+    <message>
+        <source>ABSREF(ref_text, reference)</source>
+        <comment>ABSREF_SYNTAX</comment>
+        <translation>ABSREF(ref_text, reference)</translation>
+    </message>
+    <message>
+        <source>RELREF(reference, rel_to_ref)</source>
+        <comment>RELREF_SYNTAX</comment>
+        <translation>RELREF(reference, rel_to_ref)</translation>
+    </message>
+    <message>
+        <source>SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</source>
+        <comment>SPELLINGCHECK_SYNTAX</comment>
+        <translation>SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</translation>
+    </message>
+    <message>
+        <source>XNPV(rate, values, dates)</source>
+        <comment>XNPV_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the net present value for a schedule of crash flows.</source>
+        <comment>XNPV_DESCRIPTION</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8131,7 +8462,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>Query Files(*.iqy; *.dqy)</source>
         <comment>TX_ssDesc_Qy_</comment>
-        <translation type="unfinished">クエリファイル(*.iqy; *.dqy)</translation>
+        <translation>クエリファイル(*.iqy; *.dqy)</translation>
     </message>
     <message>
         <source>All Data Source(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
@@ -8177,7 +8508,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>%s is a Microsoft Excel 5.0/95 Workbook. Do you want to overwrite it with the latest %s format?</source>
         <comment>TX_UPDATE_OLD_FORMAT_TO_NEW_FORTMAT</comment>
-        <translation type="unfinished"></translation>
+        <translation>%sはMicrosoft Excel 5.0/95 ワークブックです。 %s 書式に切り替えますか？</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files(*.et)</source>
@@ -8240,7 +8571,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>Query Files(*.iqy)</source>
         <comment>TX_ssDesc_Iqy_</comment>
-        <translation type="unfinished">クエリファイル（*.iqy）</translation>
+        <translation>クエリファイル（*.iqy）</translation>
     </message>
     <message>
         <source>The current file is restricted by permission, which can only be protected when the format is WPS Spreadsheets. If the file is saved as the current format， any of the permission will be removed. Do you want to continue?</source>
@@ -8261,45 +8592,47 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>All Data Sources(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
         <comment>TX_ssDesc_DataSrcFile_</comment>
-        <translation type="unfinished">すべてのデータ·ソース(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
+        <translation>すべてのデータ·ソース(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
     </message>
     <message>
         <source>DIF (Data Interchange Format)(*.dif)</source>
         <comment>TX_ssDesc_Dif_Exp_</comment>
-        <translation type="unfinished">DIF (データ交換ファイル)(*.dif)</translation>
+        <translation>DIF (データ交換ファイル)(*.dif)</translation>
     </message>
     <message>
         <source>Data Interchange Format (*.dif)</source>
         <comment>TX_ssDesc_Dif_</comment>
-        <translation type="unfinished">DIF データ交換ファイル(*.dif)</translation>
+        <translation>DIF データ交換ファイル(*.dif)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Template(*.ettx)</source>
         <comment>TX_ssDesc_EtxTemp_</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets 2007/2010 テンプレートファイル(*.ettx)</translation>
     </message>
     <message>
         <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm)</source>
         <comment>TX_ssDesc_Normal_</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">一般のファイル(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm)</translation>
     </message>
     <message>
         <source> · VB project
 </source>
         <comment>TX_Save_Xlsx_Warning_VBA</comment>
-        <translation type="unfinished"></translation>
+        <translation>
+ · VBAプロジェクト
+</translation>
     </message>
     <message>
         <source> · Excel 4.0 function stored in defined names.
 </source>
         <comment>TX_Save_Xlsx_Warning_MacroNames</comment>
-        <translation type="unfinished"></translation>
+        <translation> · Excel 4.0関数定義名称として保存</translation>
     </message>
     <message>
         <source> · Excel 4.0 Macro Sheets(these will be converted to normal worksheets)
 </source>
         <comment>TX_Save_Xlsx_Warning_MacroSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation> · Excel 4.0マクロ表（これらの表を普通表に転換）</translation>
     </message>
     <message>
         <source>Chinese Office Document Format 2.0(*.uos)</source>
@@ -8309,23 +8642,85 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>The following features cannot be saved in macro-free workbooks:</source>
         <comment>TX_Save_Xlsx_Warning_1</comment>
-        <translation type="unfinished"></translation>
+        <translation>以下の機能はマクロ無効のブックに保存できません。</translation>
     </message>
     <message>
         <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
 To continue saving as a macro-free workbook, click Yes.</source>
         <comment>TX_Save_Xlsx_Warning_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>この機能を保存する場合は、「いいえ」をクリックし、ファイルの種類から「「Microsoft Excel 2007/2010マクロ有効ブック(*.xlsm)」を選択してください。 
+マクロ無効のブックで保存を続ける場合は、「はい」をクリックしてください。</translation>
     </message>
     <message>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
 This backup will be saved to (%s)</source>
         <comment>TX_Persist_MsgBackupToDef</comment>
-        <translation type="unfinished"></translation>
+        <translation>ファイルをバックアップする時にエラーが発生しました、設定されたバックアップフォルダに書き込み権限がない可能性があります、バックアップフォルダを変更してみてください。
+今回、(%s)に保存します。</translation>
     </message>
     <message>
         <source>The author would like you to open &quot;%s&quot; as read-only unless you need to make changes. Open as read-only?</source>
         <comment>TX_Recommended_Read_Only</comment>
+        <translation>作者は読み取り専用で&quot;%s&quot;を開いてほしいです、読み取り専用として開きますか？</translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>TX_Persist_MsgBackupToDef</comment>
+        <translation type="obsolete">ファイルをバックアップする時にエラーが発生しました、設定されたバックアップフォルダに書き込み権限がない可能性があります、バックアップフォルダを変更してみてください。
+今回、(%s)に保存します。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets 2007/2010 Template(*.ettx)</source>
+        <comment>TX_ssDesc_EtxTemp_</comment>
+        <translation type="obsolete">Spreadsheets 2007/2010テンプレートファイル(*.ettx)</translation>
+    </message>
+    <message>
+        <source>The author supports opening &quot;%s&quot; with read-only way unless you need to modify.Do open with read-only mode?</source>
+        <comment>TX_Recommended_Read_Only</comment>
+        <translation type="obsolete">作者は読み取り専用で&quot;%s&quot;を開いてほしいです、読み取り専用として開きますか？</translation>
+    </message>
+    <message>
+        <source>The following features cannot be saved in macro-disabled workbooks:
+</source>
+        <comment>TX_Save_Xlsx_Warning_1</comment>
+        <translation type="obsolete">以下の機能はマクロ無効のブックに保存できません。</translation>
+    </message>
+    <message>
+        <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-disabled workbook, click Yes.</source>
+        <comment>TX_Save_Xlsx_Warning_2</comment>
+        <translation type="obsolete">この機能を保存する場合は、「いいえ」をクリックし、ファイルの種類から「「Microsoft Excel 2007/2010マクロ有効ブック(*.xlsm)」を選択してください。 
+マクロ無効のブックで保存を続ける場合は、「はい」をクリックしてください。</translation>
+    </message>
+    <message>
+        <source>File Unsaved</source>
+        <comment>TX_FILE_UNSAVED</comment>
+        <translation>未保存ファイル</translation>
+    </message>
+    <message>
+        <source>Excel2007 XML Template</source>
+        <comment>TX_ssDesc_XLTX</comment>
+        <translation type="obsolete">Excel2007 XML テンプレート</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm)</source>
+        <comment>TX_ssDesc_Normal_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel2007 XML Template Macro Enabled(*.xltx)</source>
+        <comment>TX_ssDesc_XLTX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel2007 XML Template(*.xltm)</source>
+        <comment>TX_ssDesc_XLTM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Format(*.ofd)|*.ofd</source>
+        <comment>TX_ssDesc_Ofd_</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8433,32 +8828,32 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Comma</source>
         <comment>TX_StyleName_COMMA</comment>
-        <translation>桁区切り</translation>
+        <translation type="obsolete">桁区切り</translation>
     </message>
     <message>
         <source>Comma[0]</source>
         <comment>TX_StyleName_COMMA0</comment>
-        <translation>桁区切り[0]</translation>
+        <translation type="obsolete">桁区切り[0]</translation>
     </message>
     <message>
         <source>Currency</source>
         <comment>TX_StyleName_CURRENCY</comment>
-        <translation>通貨</translation>
+        <translation type="obsolete">通貨</translation>
     </message>
     <message>
         <source>Currency[0]</source>
         <comment>TX_StyleName_CURRENCY0</comment>
-        <translation>通貨[0]</translation>
+        <translation type="obsolete">通貨[0]</translation>
     </message>
     <message>
         <source>Followed Hyperlink</source>
         <comment>TX_StyleName_FOLLOWED_HYPERLINK</comment>
-        <translation>アクセスしたハイパーリンク</translation>
+        <translation type="obsolete">アクセスしたハイパーリンク</translation>
     </message>
     <message>
         <source>Hyperlink</source>
         <comment>TX_StyleName_HYPERLINK</comment>
-        <translation>ハイパーリンク</translation>
+        <translation type="obsolete">ハイパーリンク</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -8483,7 +8878,7 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Normal</source>
         <comment>TX_StyleName_Normal</comment>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Page %d</source>
@@ -8508,7 +8903,7 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Percent</source>
         <comment>TX_StyleName_PERCENT</comment>
-        <translation>パーセント</translation>
+        <translation type="obsolete">パーセント</translation>
     </message>
     <message>
         <source>Regular</source>
@@ -8534,6 +8929,261 @@ This backup will be saved to (%s)</source>
         <source>regular</source>
         <comment>TX_FontName_Regular3</comment>
         <translation>標準</translation>
+    </message>
+    <message>
+        <source>20% - Accent1</source>
+        <comment>STR_STYLE_20P_ACCENT_1</comment>
+        <translation>20% - アクセント 1</translation>
+    </message>
+    <message>
+        <source>20% - Accent2</source>
+        <comment>STR_STYLE_20P_ACCENT_2</comment>
+        <translation>20% - アクセント 2</translation>
+    </message>
+    <message>
+        <source>20% - Accent3</source>
+        <comment>STR_STYLE_20P_ACCENT_3</comment>
+        <translation>20% - アクセント 3</translation>
+    </message>
+    <message>
+        <source>20% - Accent4</source>
+        <comment>STR_STYLE_20P_ACCENT_4</comment>
+        <translation>20% - アクセント 4</translation>
+    </message>
+    <message>
+        <source>20% - Accent5</source>
+        <comment>STR_STYLE_20P_ACCENT_5</comment>
+        <translation>20% - アクセント 5</translation>
+    </message>
+    <message>
+        <source>20% - Accent6</source>
+        <comment>STR_STYLE_20P_ACCENT_6</comment>
+        <translation>20% - アクセント 6</translation>
+    </message>
+    <message>
+        <source>40% - Accent1</source>
+        <comment>STR_STYLE_40P_ACCENT_1</comment>
+        <translation>40% - アクセント 1</translation>
+    </message>
+    <message>
+        <source>40% - Accent2</source>
+        <comment>STR_STYLE_40P_ACCENT_2</comment>
+        <translation>40% - アクセント 2</translation>
+    </message>
+    <message>
+        <source>40% - Accent3</source>
+        <comment>STR_STYLE_40P_ACCENT_3</comment>
+        <translation>40% - アクセント 3</translation>
+    </message>
+    <message>
+        <source>40% - Accent4</source>
+        <comment>STR_STYLE_40P_ACCENT_4</comment>
+        <translation>40% - アクセント 4</translation>
+    </message>
+    <message>
+        <source>40% - Accent5</source>
+        <comment>STR_STYLE_40P_ACCENT_5</comment>
+        <translation>40% - アクセント 5</translation>
+    </message>
+    <message>
+        <source>40% - Accent6</source>
+        <comment>STR_STYLE_40P_ACCENT_6</comment>
+        <translation>40% - アクセント 6</translation>
+    </message>
+    <message>
+        <source>60% - Accent1</source>
+        <comment>STR_STYLE_60P_ACCENT_1</comment>
+        <translation>60% - アクセント 1</translation>
+    </message>
+    <message>
+        <source>60% - Accent2</source>
+        <comment>STR_STYLE_60P_ACCENT_2</comment>
+        <translation>60% - アクセント 2</translation>
+    </message>
+    <message>
+        <source>60% - Accent3</source>
+        <comment>STR_STYLE_60P_ACCENT_3</comment>
+        <translation>60% - アクセント 3</translation>
+    </message>
+    <message>
+        <source>60% - Accent4</source>
+        <comment>STR_STYLE_60P_ACCENT_4</comment>
+        <translation>60% - アクセント 4</translation>
+    </message>
+    <message>
+        <source>60% - Accent5</source>
+        <comment>STR_STYLE_60P_ACCENT_5</comment>
+        <translation>60% - アクセント 5</translation>
+    </message>
+    <message>
+        <source>60% - Accent6</source>
+        <comment>STR_STYLE_60P_ACCENT_6</comment>
+        <translation>60% - アクセント 6</translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <comment>STR_STYLE_ACCENT1</comment>
+        <translation>アクセント 1</translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <comment>STR_STYLE_ACCENT2</comment>
+        <translation>アクセント 2</translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <comment>STR_STYLE_ACCENT3</comment>
+        <translation>アクセント 3</translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <comment>STR_STYLE_ACCENT4</comment>
+        <translation>アクセント 4</translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <comment>STR_STYLE_ACCENT5</comment>
+        <translation>アクセント 5</translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <comment>STR_STYLE_ACCENT6</comment>
+        <translation>アクセント 6</translation>
+    </message>
+    <message>
+        <source>Bad</source>
+        <comment>STR_STYLE_BAD</comment>
+        <translation>悪い</translation>
+    </message>
+    <message>
+        <source>CExplanatory Text</source>
+        <comment>STR_STYLE_EXPLANATORY_TEXT</comment>
+        <translation>説明性テキスト</translation>
+    </message>
+    <message>
+        <source>Calculation</source>
+        <comment>STR_STYLE_CALCULATION</comment>
+        <translation>計算</translation>
+    </message>
+    <message>
+        <source>Check Cell</source>
+        <comment>STR_STYLE_CHECK_CELL</comment>
+        <translation>セルの確認</translation>
+    </message>
+    <message>
+        <source>ColLevel</source>
+        <comment>STR_STYLE_COLLEVEL</comment>
+        <translation>列レベル</translation>
+    </message>
+    <message>
+        <source>Comma</source>
+        <comment>STR_STYLE_COMMA</comment>
+        <translation>桁区切り</translation>
+    </message>
+    <message>
+        <source>Comma[0]</source>
+        <comment>STR_STYLE_COMMA0</comment>
+        <translation>桁区切り[0]</translation>
+    </message>
+    <message>
+        <source>Currency</source>
+        <comment>STR_STYLE_CURRENCY</comment>
+        <translation>通貨</translation>
+    </message>
+    <message>
+        <source>Currency[0]</source>
+        <comment>STR_STYLE_CURRENCY0</comment>
+        <translation>通貨[0]</translation>
+    </message>
+    <message>
+        <source>Followed Hyperlink</source>
+        <comment>STR_STYLE_FOLLOWED_HYPERLINK</comment>
+        <translation>訪問済ハイパーリンク</translation>
+    </message>
+    <message>
+        <source>Good</source>
+        <comment>STR_STYLE_GOOD</comment>
+        <translation>良い</translation>
+    </message>
+    <message>
+        <source>Heading 1</source>
+        <comment>STR_STYLE_HEADING_1</comment>
+        <translation>タイトル 1</translation>
+    </message>
+    <message>
+        <source>Heading 2</source>
+        <comment>STR_STYLE_HEADING_2</comment>
+        <translation>タイトル 2</translation>
+    </message>
+    <message>
+        <source>Heading 3</source>
+        <comment>STR_STYLE_HEADING_3</comment>
+        <translation>タイトル 3</translation>
+    </message>
+    <message>
+        <source>Heading 4</source>
+        <comment>STR_STYLE_HEADING_4</comment>
+        <translation>タイトル 4</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <comment>STR_STYLE_HYPERLINK</comment>
+        <translation>ハイパーリンク</translation>
+    </message>
+    <message>
+        <source>Input</source>
+        <comment>STR_STYLE_INPUT</comment>
+        <translation>インプット</translation>
+    </message>
+    <message>
+        <source>Linked Cell</source>
+        <comment>STR_STYLE_LINKED_CELL</comment>
+        <translation>リンクされたセル</translation>
+    </message>
+    <message>
+        <source>Neutral</source>
+        <comment>STR_STYLE_NEUTRAL</comment>
+        <translation>中間色</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <comment>STR_STYLE_Normal</comment>
+        <translation>標準</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <comment>STR_STYLE_NOTE</comment>
+        <translation>ノート</translation>
+    </message>
+    <message>
+        <source>Output</source>
+        <comment>STR_STYLE_OUTPUT</comment>
+        <translation>アウトプット</translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <comment>STR_STYLE_PERCENT</comment>
+        <translation>パーセント</translation>
+    </message>
+    <message>
+        <source>RowLevel</source>
+        <comment>STR_STYLE_ROWLEVEL</comment>
+        <translation>行レベル</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>STR_STYLE_TITLE</comment>
+        <translation>タイトル</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>STR_STYLE_TOTAL</comment>
+        <translation>集計</translation>
+    </message>
+    <message>
+        <source>Warning Text</source>
+        <comment>STR_STYLE_WARNING_TEXT</comment>
+        <translation>警告テキスト</translation>
     </message>
 </context>
 <context>
@@ -8763,32 +9413,32 @@ frequency = 1；半年単位として支払とfrequency = 2；四半期単位と
     <message>
         <source>As eighths (%s)</source>
         <comment>TX_FRACTION_STYLE_06</comment>
-        <translation>分母を8にする (%s)</translation>
+        <translation type="obsolete">分母を8にする (%s)</translation>
     </message>
     <message>
         <source>As halves (%s)</source>
         <comment>TX_FRACTION_STYLE_04</comment>
-        <translation>分母を2にする (%s)</translation>
+        <translation type="obsolete">分母を2にする (%s)</translation>
     </message>
     <message>
         <source>As hundredths (%s)</source>
         <comment>TX_FRACTION_STYLE_09</comment>
-        <translation>分母を100にする (%s)</translation>
+        <translation type="obsolete">分母を100にする (%s)</translation>
     </message>
     <message>
         <source>As quarters (%s)</source>
         <comment>TX_FRACTION_STYLE_05</comment>
-        <translation>分母を4にする (%s)</translation>
+        <translation type="obsolete">分母を4にする (%s)</translation>
     </message>
     <message>
         <source>As sixteenths (%s)</source>
         <comment>TX_FRACTION_STYLE_07</comment>
-        <translation>分母を16にする (%s)</translation>
+        <translation type="obsolete">分母を16にする (%s)</translation>
     </message>
     <message>
         <source>As tenths (%s)</source>
         <comment>TX_FRACTION_STYLE_08</comment>
-        <translation>分母を10にする (%s)</translation>
+        <translation type="obsolete">分母を10にする (%s)</translation>
     </message>
     <message>
         <source>As the array of dependent variable data point or area</source>
@@ -9211,7 +9861,7 @@ Spelling</source>
     <message>
         <source>Face value</source>
         <comment>TX_ParaInfo_185</comment>
-        <translation>額面</translation>
+        <translation>現在価値</translation>
     </message>
     <message>
         <source>Factor</source>
@@ -9716,7 +10366,7 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>Number of paying interest annually</source>
         <comment>TX_ParaInfo_194</comment>
-        <translation>利率</translation>
+        <translation>頻度</translation>
     </message>
     <message>
         <source>Number_chosen</source>
@@ -9974,7 +10624,7 @@ Workbook</source>
     <message>
         <source>Redemption</source>
         <comment>TX_ParaInfo_203</comment>
-        <translation>額面価格￥100の証券の弁済価値</translation>
+        <translation>償還価額</translation>
     </message>
     <message>
         <source>Ref</source>
@@ -10725,17 +11375,17 @@ Workbook</source>
     <message>
         <source>Up to one digit (%s)</source>
         <comment>TX_FRACTION_STYLE_01</comment>
-        <translation>1桁増加 (%s)</translation>
+        <translation type="obsolete">1桁増加 (%s)</translation>
     </message>
     <message>
         <source>Up to three digits (%s)</source>
         <comment>TX_FRACTION_STYLE_03</comment>
-        <translation>3桁増加 (%s)</translation>
+        <translation type="obsolete">3桁増加 (%s)</translation>
     </message>
     <message>
         <source>Up to two digits (%s)</source>
         <comment>TX_FRACTION_STYLE_02</comment>
-        <translation>2桁増加 (%s)</translation>
+        <translation type="obsolete">2桁増加 (%s)</translation>
     </message>
     <message>
         <source>Upper Case Chinese number</source>
@@ -10790,7 +11440,7 @@ Workbook</source>
     <message>
         <source>Value 1,value 2,...1 to 30 of plural numbers, used to calculate the product.</source>
         <comment>TX_ParaDesc_522</comment>
-        <translation type="unfinished">Value1,Value2,... 1から30の複素数は、積を計算するために使用されます。</translation>
+        <translation type="obsolete">Value1,Value2,... 1から30の複素数は、積を計算するために使用されます。</translation>
     </message>
     <message>
         <source>Value Date</source>
@@ -11745,12 +12395,12 @@ Workbook</source>
     <message>
         <source>is the angle in radians for which you want the sine. Degress *PI()/180 = radians.</source>
         <comment>TX_ParaDesc_359</comment>
-        <translation>にはサインを求める角度をラジアンを単位として指定します。角度が度を単位として表されている場合は、PI()/180 を掛けるとラジアンに変換されます</translation>
+        <translation type="obsolete">にはサインを求める角度をラジアンを単位として指定します。角度が度を単位として表されている場合は、PI()/180 を掛けるとラジアンに変換されます</translation>
     </message>
     <message>
         <source>is the angle in radians for which you want the sine. Degress *PI()/180 = radians.</source>
         <comment>TX_ParaDesc_395</comment>
-        <translation>にはサインを求める角度をラジアンを単位として指定します。角度が度を単位として表されている場合は、PI()/180 を掛けるとラジアンに変換されます</translation>
+        <translation type="obsolete">にはサインを求める角度をラジアンを単位として指定します。角度が度を単位として表されている場合は、PI()/180 を掛けるとラジアンに変換されます</translation>
     </message>
     <message>
         <source>is the angle in radians that you want to convert.</source>
@@ -13205,12 +13855,12 @@ Workbook</source>
     <message>
         <source>number 1, number 2,...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
         <comment>TX_ParaDesc_307</comment>
-        <translation type="unfinished">数値1,数値2,... には積を積を求めたい数値、論理値又は数値を表す文字列を 1 ～ 255 指定できます</translation>
+        <translation type="obsolete">数値1,数値2,... には積を積を求めたい数値、論理値又は数値を表す文字列を 1 ～ 255 指定できます</translation>
     </message>
     <message>
         <source>number 1,number 2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
         <comment>TX_ParaDesc_360</comment>
-        <translation type="unfinished">数値1,数値2,... には分布の歪度を求めたい数値、名前、配列、又は数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
+        <translation type="obsolete">数値1,数値2,... には分布の歪度を求めたい数値、名前、配列、又は数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number of payment periods in an investment.</source>
@@ -13225,22 +13875,22 @@ Workbook</source>
     <message>
         <source>number1, number2,... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
         <comment>TX_ParaDesc_094</comment>
-        <translation type="unfinished">数値1,数値2,...には偏差の平方和を求めるために使用する数値を、 1 から 255 個まで指定できます。</translation>
+        <translation type="obsolete">数値1,数値2,...には偏差の平方和を求めるために使用する数値を、 1 から 255 個まで指定できます。</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
         <comment>TX_ParaDesc_160</comment>
-        <translation type="unfinished">数値1,数値2,...には調和平均を求めたい数値、名前、配列、又は数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
+        <translation type="obsolete">数値1,数値2,...には調和平均を求めたい数値、名前、配列、又は数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
         <comment>TX_ParaDesc_203</comment>
-        <translation type="unfinished">数値1,数値2,...には尖度を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個までを指定できます</translation>
+        <translation type="obsolete">数値1,数値2,...には尖度を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個までを指定できます</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
         <comment>TX_ParaDesc_153</comment>
-        <translation type="unfinished">数値1,数値2,...には幾何平均を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
+        <translation type="obsolete">数値1,数値2,...には幾何平均を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 255 values for which you want the least common multiple.</source>
@@ -13250,7 +13900,7 @@ Workbook</source>
     <message>
         <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_372</comment>
-        <translation type="unfinished">数値1,数値2,... には母集団の標本に対応する数値、または数値を含む参照を、1 ～ 255 個まで指定します</translation>
+        <translation type="obsolete">数値1,数値2,... には母集団の標本に対応する数値、または数値を含む参照を、1 ～ 255 個まで指定します</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
@@ -13260,47 +13910,47 @@ Workbook</source>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_234</comment>
-        <translation type="unfinished">数値1,数値2,... には最大値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
+        <translation type="obsolete">数値1,数値2,... には最大値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
         <comment>TX_ParaDesc_254</comment>
-        <translation type="unfinished">数値1,数値2,...には数値、名前、配列、数値を含むセル参照を 1 ～ 255 個までを指定できます</translation>
+        <translation type="obsolete">数値1,数値2,...には数値、名前、配列、数値を含むセル参照を 1 ～ 255 個までを指定できます</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numeric arguments for which you want the average.</source>
         <comment>TX_ParaDesc_019</comment>
-        <translation type="unfinished">数値1,数値2,... には平均を求めたい数値を、 1 から 255 個まで指定します。</translation>
+        <translation type="obsolete">数値1,数値2,... には平均を求めたい数値を、 1 から 255 個まで指定します。</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 255 values for which you want the multinomial.</source>
         <comment>TX_ParaDesc_476</comment>
-        <translation type="unfinished">数値1,数値2,... には1～255まで多項式を計算する値を指定します</translation>
+        <translation type="obsolete">数値1,数値2,... には1～255まで多項式を計算する値を指定します</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
         <comment>TX_ParaDesc_018</comment>
-        <translation type="unfinished">数値1,数値2,... には数値を 255 個まで指定できます。この引数をもとに、絶対偏差の平均が求められます。</translation>
+        <translation type="obsolete">数値1,数値2,... には数値を 255 個まで指定できます。この引数をもとに、絶対偏差の平均が求められます。</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_374</comment>
-        <translation type="unfinished">数値1,数値2,... には母集団の全体に対応する数値、数値を含む参照を、1 ～ 255 個まで指定します</translation>
+        <translation type="obsolete">数値1,数値2,... には母集団の全体に対応する数値、数値を含む参照を、1 ～ 255 個まで指定します</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
         <comment>TX_ParaDesc_237</comment>
-        <translation type="unfinished">数値1,数値2,...には中央値を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個までを指定できます</translation>
+        <translation type="obsolete">数値1,数値2,...には中央値を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個までを指定できます</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
         <comment>TX_ParaDesc_387</comment>
-        <translation type="unfinished">数値1,数値1,... には平方和を求めたい数値、又は数値を含む名前、配列、セル参照を 2 ～ 255 個まで指定できます</translation>
+        <translation type="obsolete">数値1,数値1,... には平方和を求めたい数値、又は数値を含む名前、配列、セル参照を 2 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_244</comment>
-        <translation type="unfinished">数値1,数値2,... には最小値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
+        <translation type="obsolete">数値1,数値2,... には最小値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
@@ -13310,12 +13960,12 @@ Workbook</source>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_425</comment>
-        <translation type="unfinished">数値1,数値2,... には母集団の全体に対応する数値を 1 ～ 255 個まで指定できます</translation>
+        <translation type="obsolete">数値1,数値2,... には母集団の全体に対応する数値を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_426</comment>
-        <translation type="unfinished">数値1,数値2,... には母集団の全体に対応する数値を 1 ～ 255 個まで指定できます</translation>
+        <translation type="obsolete">数値1,数値2,... には母集団の全体に対応する数値を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 values.</source>
@@ -13335,7 +13985,7 @@ Workbook</source>
     <message>
         <source>ref 1, ref 2,...are 1 to 29 ranges or references for which you want the subtotal.</source>
         <comment>TX_ParaDesc_381</comment>
-        <translation type="unfinished">参照1, 参照2, ... には集計するリストの範囲又は参照を 1 ～　29 個まで指定します。</translation>
+        <translation type="obsolete">参照1, 参照2, ... には集計するリストの範囲又は参照を 1 ～　29 個まで指定します。</translation>
     </message>
     <message>
         <source>reference</source>
@@ -13460,7 +14110,7 @@ Workbook</source>
     <message>
         <source>text1, text2,... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
         <comment>TX_ParaDesc_051</comment>
-        <translation type="unfinished">文字列1,文字列2,...には1つにまとめたい文字列を指定します。引数は 1 から 255 個まで指定できます。</translation>
+        <translation type="obsolete">文字列1,文字列2,...には1つにまとめたい文字列を指定します。引数は 1 から 255 個まで指定できます。</translation>
     </message>
     <message>
         <source>the numbers you want to convert.</source>
@@ -13470,17 +14120,17 @@ Workbook</source>
     <message>
         <source>topic1,topic2,...are 1 to 28 parameters that specify a piece of data.</source>
         <comment>TX_ParaDesc_351</comment>
-        <translation type="unfinished">トピック 1,トピック 2,...  にはデータの一部を指定する 1 ～28 個の引数を指定します</translation>
+        <translation type="obsolete">トピック 1,トピック 2,...  にはデータの一部を指定する 1 ～28 個の引数を指定します</translation>
     </message>
     <message>
         <source>topic1,topic2,...are 1 to 38 parameters that specify a piece of data.</source>
         <comment>TX_ParaInfo_548</comment>
-        <translation type="unfinished">トピック 1,トピック 2,...  にはデータの一部を指定する 1 ～28 個の引数を指定します {1,?} {2,?} {1 ?} {38 ?}</translation>
+        <translation type="obsolete">トピック 1,トピック 2,...  にはデータの一部を指定する 1 ～28 個の引数を指定します {1,?} {2,?} {1 ?} {38 ?}</translation>
     </message>
     <message>
         <source>value 1, value 2,... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
         <comment>TX_ParaDesc_044</comment>
-        <translation type="unfinished">値1,値2,...には  1 から 29 個の引数を指定します。ここからインデックスで指定した値が返されます。</translation>
+        <translation type="obsolete">値1,値2,...には  1 から 29 個の引数を指定します。ここからインデックスで指定した値が返されます。</translation>
     </message>
     <message>
         <source>value 1, value 2,... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
@@ -13495,37 +14145,37 @@ Workbook</source>
     <message>
         <source>value1,value2,... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
         <comment>TX_ParaDesc_059</comment>
-        <translation type="unfinished">値1,値2,...にはデータまたはデータが入力したセルの参照を 1 から 255 個まで指定します。数値データだけがカウントされます。</translation>
+        <translation>値1,値2,...にはデータまたはデータが入力したセルの参照を 1 から 255 個まで指定します。数値データだけがカウントされます。</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_235</comment>
-        <translation type="unfinished">数値1,数値2,... には最大値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
+        <translation type="obsolete">数値1,数値2,... には最大値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 value arguments corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_424</comment>
-        <translation type="unfinished">数値1,数値2,... には母集団の標本に対応する数値を 1 ～ 255 個まで指定できます</translation>
+        <translation type="obsolete">数値1,数値2,... には母集団の標本に対応する数値を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
         <comment>TX_ParaDesc_373</comment>
-        <translation type="unfinished">数値1,数値2,... には母集団の標本に対応する値、名前、又は値をへの参照を、1 ～ 255 個まで指定します</translation>
+        <translation type="obsolete">数値1,数値2,... には母集団の標本に対応する値、名前、又は値をへの参照を、1 ～ 255 個まで指定します</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 arguments for which you want the average.</source>
         <comment>TX_ParaDesc_020</comment>
-        <translation type="unfinished">数値1,数値2,... には平均を算出する値を、 1 から 255 個まで指定します。</translation>
+        <translation type="obsolete">数値1,数値2,... には平均を算出する値を、 1 から 255 個まで指定します。</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_245</comment>
-        <translation type="unfinished">数値1,数値2,... には最小値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
+        <translation type="obsolete">数値1,数値2,... には最小値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
         <comment>TX_ParaDesc_375</comment>
-        <translation type="unfinished">数値1,数値2,... には母集団の全体に対応する数値、名前、又は数値を含む参照を、1 ～ 255 個まで指定します</translation>
+        <translation type="obsolete">数値1,数値2,... には母集団の全体に対応する数値、名前、又は数値を含む参照を、1 ～ 255 個まで指定します</translation>
     </message>
     <message>
         <source>value_if_error</source>
@@ -13540,317 +14190,317 @@ Workbook</source>
     <message>
         <source>Topic</source>
         <comment>TX_ParaInfo_219</comment>
-        <translation type="unfinished"></translation>
+        <translation>トピック</translation>
     </message>
     <message>
         <source>Topic</source>
         <comment>TX_ParaInfo_220</comment>
-        <translation type="unfinished"></translation>
+        <translation>トピック</translation>
     </message>
     <message>
         <source>Logical_test</source>
         <comment>TX_ParaInfo_217</comment>
-        <translation type="unfinished">論理式</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Counter_text</source>
         <comment>TX_ParaInfo_218</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Start_num</source>
         <comment>TX_ParaInfo_219</comment>
-        <translation type="unfinished">開始位置</translation>
+        <translation>開始位置</translation>
     </message>
     <message>
         <source>End_num</source>
         <comment>TX_ParaInfo_220</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Step_num</source>
         <comment>TX_ParaInfo_221</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ref_name</source>
         <comment>TX_ParaInfo_222</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Area_ref</source>
         <comment>TX_ParaInfo_223</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Skip_blanks</source>
         <comment>TX_ParaInfo_224</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Logical_test</source>
         <comment>TX_ParaInfo_225</comment>
-        <translation type="unfinished">論理式</translation>
+        <translation>論理式</translation>
     </message>
     <message>
         <source>Value</source>
         <comment>TX_ParaInfo_226</comment>
-        <translation type="unfinished">値</translation>
+        <translation>値</translation>
     </message>
     <message>
         <source>Name_text</source>
         <comment>TX_ParaInfo_227</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Data_type_num</source>
         <comment>TX_ParaInfo_228</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_229</comment>
-        <translation type="unfinished">範囲</translation>
+        <translation>範囲</translation>
     </message>
     <message>
         <source>Cancel_close</source>
         <comment>TX_ParaInfo_230</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_231</comment>
-        <translation type="unfinished">範囲</translation>
+        <translation>範囲</translation>
     </message>
     <message>
         <source>No_tool</source>
         <comment>TX_ParaInfo_232</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Level_num</source>
         <comment>TX_ParaInfo_233</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_234</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Name_text</source>
         <comment>TX_ParaInfo_235</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Value</source>
         <comment>TX_ParaInfo_236</comment>
-        <translation type="unfinished">値</translation>
+        <translation>値</translation>
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_237</comment>
-        <translation type="unfinished">範囲</translation>
+        <translation>範囲</translation>
     </message>
     <message>
         <source>Values</source>
         <comment>TX_ParaInfo_238</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Name_text</source>
         <comment>TX_ParaInfo_239</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Info_type</source>
         <comment>TX_ParaInfo_240</comment>
-        <translation type="unfinished">検査の種類</translation>
+        <translation>検査の種類</translation>
     </message>
     <message>
         <source>Module_text</source>
         <comment>TX_ParaInfo_241</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Procedure</source>
         <comment>TX_ParaInfo_242</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Type_text</source>
         <comment>TX_ParaInfo_243</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Function_text</source>
         <comment>TX_ParaInfo_244</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Argument_text</source>
         <comment>TX_ParaInfo_245</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Macro_type</source>
         <comment>TX_ParaInfo_246</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Category</source>
         <comment>TX_ParaInfo_247</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Shortcut_text</source>
         <comment>TX_ParaInfo_248</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Help_topic</source>
         <comment>TX_ParaInfo_249</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Function_help</source>
         <comment>TX_ParaInfo_250</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Argument_help</source>
         <comment>TX_ParaInfo_251</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Register_id</source>
         <comment>TX_ParaInfo_252</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_253</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Name_text</source>
         <comment>TX_ParaInfo_254</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Text</source>
         <comment>TX_ParaInfo_255</comment>
-        <translation type="unfinished">文字列</translation>
+        <translation>文字列</translation>
     </message>
     <message>
         <source>Match_text</source>
         <comment>TX_ParaInfo_256</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cell_ref</source>
         <comment>TX_ParaInfo_257</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Start_char</source>
         <comment>TX_ParaInfo_258</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Num_chars</source>
         <comment>TX_ParaInfo_259</comment>
-        <translation type="unfinished">文字数</translation>
+        <translation>文字数</translation>
     </message>
     <message>
         <source>Window_text</source>
         <comment>TX_ParaInfo_260</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Formula_text</source>
         <comment>TX_ParaInfo_261</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>From_a1</source>
         <comment>TX_ParaInfo_262</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>To_a1</source>
         <comment>TX_ParaInfo_263</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>To_ref_type</source>
         <comment>TX_ParaInfo_264</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Rel_to_ref</source>
         <comment>TX_ParaInfo_265</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>A1</source>
         <comment>TX_ParaInfo_266</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Bar_num</source>
         <comment>TX_ParaInfo_267</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Menu</source>
         <comment>TX_ParaInfo_268</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Command</source>
         <comment>TX_ParaInfo_269</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Subcommand</source>
         <comment>TX_ParaInfo_270</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Menu_ref</source>
         <comment>TX_ParaInfo_271</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Position1</source>
         <comment>TX_ParaInfo_272</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Position2</source>
         <comment>TX_ParaInfo_273</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Submenu</source>
         <comment>TX_ParaInfo_274</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Bar_id</source>
         <comment>TX_ParaInfo_275</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>ProgID</source>
         <comment>TX_ParaInfo_217</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Server</source>
         <comment>TX_ParaInfo_218</comment>
-        <translation type="unfinished"></translation>
+        <translation>サーバー</translation>
     </message>
     <message>
         <source>The information cannot be pasted because the copy area and the paste area are not the same size and shape. Try one of the following: 
@@ -14042,7 +14692,6 @@ Check</source>
     <message>
         <source>is a probability corresponding to the normal distribution, a number between 0 and 1 inclusive.</source>
         <comment>TX_ParaDesc_263</comment>
-        <translatorcomment>には正規分布における確率(0 から 1 の数値)を指定します</translatorcomment>
         <translation>には正規分布における確率(0 から 1 の数値)を指定します</translation>
     </message>
     <message>
@@ -14099,19 +14748,17 @@ Check</source>
     <message>
         <source>is an optional set of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays and floating holidays.</source>
         <comment>TX_ParaDesc_460</comment>
-        <translatorcomment>には国民の祝日などの日数を計算に入れないため対応する日付のシリアル値を指定します</translatorcomment>
         <translation>には国民の祝日などの日数を計算に入れないため対応する日付のシリアル値を指定します</translation>
     </message>
     <message>
         <source>is an optional array of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays and floating holidays.</source>
         <comment>TX_ParaDesc_467</comment>
-        <translatorcomment>には国民の祝日などの日数を計算に含めないよう対応する日付のシリアル値を指定します</translatorcomment>
         <translation>には国民の祝日などの日数を計算に含めないよう対応する日付のシリアル値を指定します</translation>
     </message>
     <message>
         <source>is the security&apos;s settlement date, expressed as a serial date number.</source>
         <comment>TX_ParaDesc_488</comment>
-        <translation>証券の受渡日、つまり証券を購入した発行日以降の日付を指定します。</translation>
+        <translation>には、証券の受渡日の日付のシリアル値で指定します。</translation>
     </message>
     <message>
         <source>is the security&apos;s maturity date, expressed as a serial date number.</source>
@@ -14179,97 +14826,97 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Message_text</source>
         <comment>TX_ParaInfo_280</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_281</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Help_ref</source>
         <comment>TX_ParaInfo_282</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Logical</source>
         <comment>TX_ParaInfo_283</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_284</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Xy_series</source>
         <comment>TX_ParaInfo_285</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Add_logical</source>
         <comment>TX_ParaInfo_286</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Document_text</source>
         <comment>TX_ParaInfo_287</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Macro_text</source>
         <comment>TX_ParaInfo_288</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Sheet_text</source>
         <comment>TX_ParaInfo_289</comment>
-        <translation type="unfinished">シートの名前</translation>
+        <translation>シートの名前</translation>
     </message>
     <message>
         <source>Key_text</source>
         <comment>TX_ParaInfo_290</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Activate_logical</source>
         <comment>TX_ParaInfo_291</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Time</source>
         <comment>TX_ParaInfo_292</comment>
-        <translation type="unfinished">時刻</translation>
+        <translation>時刻</translation>
     </message>
     <message>
         <source>Tolerance</source>
         <comment>TX_ParaInfo_293</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Insert_logical</source>
         <comment>TX_ParaInfo_294</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Window_text</source>
         <comment>TX_ParaInfo_295</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Selection</source>
         <comment>TX_ParaInfo_296</comment>
-        <translation type="unfinished">選択範囲</translation>
+        <translation>選択範囲</translation>
     </message>
     <message>
         <source>Active_cell</source>
         <comment>TX_ParaInfo_297</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>From_reference</source>
         <comment>TX_ParaInfo_298</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Format_text</source>
@@ -14279,107 +14926,107 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Icon_number</source>
         <comment>TX_ParaInfo_303</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Icon_label</source>
         <comment>TX_ParaInfo_304</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Name_text</source>
         <comment>TX_ParaInfo_305</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Refers_to</source>
         <comment>TX_ParaInfo_306</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Macro_type</source>
         <comment>TX_ParaInfo_307</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Shortcut_text</source>
         <comment>TX_ParaInfo_308</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Hidden</source>
         <comment>TX_ParaInfo_309</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Category</source>
         <comment>TX_ParaInfo_310</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Local</source>
         <comment>TX_ParaInfo_311</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Height_num</source>
         <comment>TX_ParaInfo_312</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_313</comment>
-        <translation type="unfinished">範囲</translation>
+        <translation>範囲</translation>
     </message>
     <message>
         <source>Standard_height</source>
         <comment>TX_ParaInfo_314</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_315</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Width_num</source>
         <comment>TX_ParaInfo_316</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_317</comment>
-        <translation type="unfinished">範囲</translation>
+        <translation>範囲</translation>
     </message>
     <message>
         <source>Standard</source>
         <comment>TX_ParaInfo_318</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_319</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Standard_num</source>
         <comment>TX_ParaInfo_320</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Formula_text</source>
         <comment>TX_ParaInfo_321</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_322</comment>
-        <translation type="unfinished">範囲</translation>
+        <translation>範囲</translation>
     </message>
     <message>
         <source>To_reference</source>
         <comment>TX_ParaInfo_323</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot paste the information, because the size and shape of the paste area are different from the copy area. To continue pasting, please try one of the following:
@@ -14399,167 +15046,167 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Paste_num</source>
         <comment>TX_ParaInfo_299</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Operation_num</source>
         <comment>TX_ParaInfo_300</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Skip_blanks</source>
         <comment>TX_ParaInfo_301</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Transpose</source>
         <comment>TX_ParaInfo_302</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Enable_logical</source>
         <comment>TX_ParaInfo_324</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Macro_ref</source>
         <comment>TX_ParaInfo_325</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_326</comment>
-        <translation type="unfinished">範囲</translation>
+        <translation>範囲</translation>
     </message>
     <message>
         <source>Step</source>
         <comment>TX_ParaInfo_327</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Save_logical</source>
         <comment>TX_ParaInfo_328</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Route_logical</source>
         <comment>TX_ParaInfo_329</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Range_num</source>
         <comment>TX_ParaInfo_330</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>From</source>
         <comment>TX_ParaInfo_331</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>To</source>
         <comment>TX_ParaInfo_332</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Copies</source>
         <comment>TX_ParaInfo_333</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Draft</source>
         <comment>TX_ParaInfo_334</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Preview</source>
         <comment>TX_ParaInfo_335</comment>
-        <translation type="unfinished">プレピュー</translation>
+        <translation>プレピュー</translation>
     </message>
     <message>
         <source>Print_what</source>
         <comment>TX_ParaInfo_336</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Color</source>
         <comment>TX_ParaInfo_337</comment>
-        <translation type="unfinished">色</translation>
+        <translation>色</translation>
     </message>
     <message>
         <source>Feed</source>
         <comment>TX_ParaInfo_338</comment>
-        <translation type="unfinished"></translation>
+        <translation>フィード</translation>
     </message>
     <message>
         <source>Quality</source>
         <comment>TX_ParaInfo_339</comment>
-        <translation type="unfinished"></translation>
+        <translation>クオリティ</translation>
     </message>
     <message>
         <source>Y_resolution</source>
         <comment>TX_ParaInfo_340</comment>
-        <translation type="unfinished"></translation>
+        <translation>Y_解像度</translation>
     </message>
     <message>
         <source>Selection</source>
         <comment>TX_ParaInfo_341</comment>
-        <translation type="unfinished">選択範囲</translation>
+        <translation>選択範囲</translation>
     </message>
     <message>
         <source>Printer_text</source>
         <comment>TX_ParaInfo_342</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Print_to_file</source>
         <comment>TX_ParaInfo_343</comment>
-        <translation type="unfinished"></translation>
+        <translation>ファイルを印刷</translation>
     </message>
     <message>
         <source>Collate</source>
         <comment>TX_ParaInfo_344</comment>
-        <translation type="unfinished"></translation>
+        <translation>照合</translation>
     </message>
     <message>
         <source>Filename</source>
         <comment>TX_ParaInfo_345</comment>
-        <translation type="unfinished"></translation>
+        <translation>ファイル名</translation>
     </message>
     <message>
         <source>Ignore_print_area</source>
         <comment>TX_ParaInfo_346</comment>
-        <translation type="unfinished"></translation>
+        <translation>プリントエリアの無視</translation>
     </message>
     <message>
         <source>Module_text</source>
         <comment>TX_ParaInfo_347</comment>
-        <translation type="unfinished"></translation>
+        <translation>モジュールテキスト</translation>
     </message>
     <message>
         <source>Procedure</source>
         <comment>TX_ParaInfo_348</comment>
-        <translation type="unfinished"></translation>
+        <translation>手順</translation>
     </message>
     <message>
         <source>Type_text</source>
         <comment>TX_ParaInfo_349</comment>
-        <translation type="unfinished"></translation>
+        <translation>テキストを入力</translation>
     </message>
     <message>
         <source>Argument</source>
         <comment>TX_ParaInfo_350</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
         <comment>TX_ParaInfo_546</comment>
-        <translation type="unfinished">には登録された COM オートメーション アドインのプログラム ProgID の名前を指定します。名前は二重引用符で囲みます</translation>
+        <translation type="obsolete">には登録された COM オートメーション アドインのプログラム ProgID の名前を指定します。名前は二重引用符で囲みます</translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaInfo_547</comment>
-        <translation type="unfinished">にはアドインを実行するサーバーの名前を指定します。名前は二重引用符で囲みます。アドインをローカルで実行する場合は、空文字列を使用します</translation>
+        <translation type="obsolete">にはアドインを実行するサーバーの名前を指定します。名前は二重引用符で囲みます。アドインをローカルで実行する場合は、空文字列を使用します</translation>
     </message>
     <message>
         <source>is the interest rate per period. For example, use 6%/4 for quarterly payment at 6% APR.</source>
@@ -14569,37 +15216,37 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
         <comment>TX_ParaDesc_546</comment>
-        <translation type="obsolete">には登録された COM オートメーション アドインのプログラム ProgID の名前を指定します。名前は二重引用符で囲みます</translation>
+        <translation>には登録された COM オートメーション アドインのプログラム ProgID の名前を指定します。名前は二重引用符で囲みます</translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaDesc_547</comment>
-        <translation type="obsolete">にはアドインを実行するサーバーの名前を指定します。名前は二重引用符で囲みます。アドインをローカルで実行する場合は、空文字列を使用します</translation>
+        <translation>にはアドインを実行するサーバーの名前を指定します。名前は二重引用符で囲みます。アドインをローカルで実行する場合は、空文字列を使用します</translation>
     </message>
     <message>
         <source>Directory_text</source>
         <comment>TX_ParaInfo_351</comment>
-        <translation type="unfinished"></translation>
+        <translation>Directory_text</translation>
     </message>
     <message>
         <source>Permission to this workbook is currently restricted.</source>
         <comment>TX_IRMReadOnly</comment>
-        <translation type="unfinished"></translation>
+        <translation>このブックの権限は制限しています。</translation>
     </message>
     <message>
         <source>First Page </source>
         <comment>TX_CHECKSPELLING_FromFirstPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>先頭ページ</translation>
     </message>
     <message>
         <source>Odd Page </source>
         <comment>TX_CHECKSPELLING_FromOddPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>奇数ページ</translation>
     </message>
     <message>
         <source>Even Page </source>
         <comment>TX_CHECKSPELLING_FromEvenPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>偶数ページ</translation>
     </message>
     <message>
         <source>The information cannot be pasted because the copy area and the paste area are not of the same size and shape. Try one of the following: 
@@ -14607,7 +15254,9 @@ To modify a protected cell or chart, first remove protection using the Unprotect
 .Click a single cell, and then paste. 
 .Select a rectangle area of the same size and shape, and then paste.</source>
         <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets　コピー領域と貼り付け領域の形式が違うため、情報を貼り付けできません。情報を貼り付けるには、次のいずれかの操作を試してください：	
+.1つのセルをクリックし、貼り付けてみてください。
+. 貼り付け元の形式を確かめ、適切な範囲を選択してから、貼り付けてみてください。</translation>
     </message>
     <message>
         <source>The selection is invalid.
@@ -14618,26 +15267,23 @@ There are several possible reasons:
 •If the specified name is in a row or a column, you must select more than one row or column.
 •If you click the Table command on the Data menu, the selected range must be a single rectangle, and the number of rows or columns must not be smaller than one.</source>
         <comment>TX_DESC_Paste_OverlapRange_ET</comment>
-        <translation type="unfinished"></translation>
+        <translation>選択が無効です。
+次のいくつかの理由が考えられます。：
+
+.コピーした領域と貼り付けた領域が違うため、貼り付けできません。
+.「挿入」－「名前」サブメニューの「作成」コマンドを使う場合は、名前が付いている行または列が、名前の定義に含まれていません。
+.作成する名前が行または列にある場合は、もう1行またはもう1列を選択しなければいけません。
+. 「データ」メニューの「テーブル」コマンドを使う場合は、2行ⅹ2列以上のサイズを持つ四角形の範囲を1つしか選択できません。　　</translation>
     </message>
     <message>
         <source>Data may exist in the sheet(s) selected for deletion. To permanently delete the data, click OK or press Enter on the keyboard.</source>
         <comment>TX_Sheet_DEL_ContainsData_ET</comment>
-        <translation type="unfinished"></translation>
+        <translation>選択したシートに、データが存在する可能性があります。データを永遠に削除するには、「OK」をクリックしてください。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot ungroup. To start an outline, select the detail rows or columns and group them.</source>
         <comment>TX_Data_Cannot_Ungroup</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The formula you entered contains errors. WPS Spreadsheets will automatically correct it as: 
-&apos;%s
-? To accept the correction, click OK.
-? To close this message and correct the formula by yourself, click Cancel.
-? If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
-        <comment>TX_InputFormula_Error</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Spreadsheets　グループを解除できません。アウトラインを作成するには、まず詳細行または列を選択してからグループ化してください。</translation>
     </message>
     <message>
         <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
@@ -14646,309 +15292,608 @@ There are several possible reasons:
 • To close this message and correct the formula by yourself, click Cancel.
 • If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
         <comment>TX_InputFormulaStringTooLong_Error</comment>
-        <translation type="unfinished"></translation>
+        <translation>入力した数式の定量文字が長すぎます。次の操作を試してください：
+&apos;%s
+·修正を適用する場合は、[はい]をクリックします。
+· この表示を閉じて、自分で数式を修正する場合は、[いいえ]をクリックします。
+·数式を入力していない場合は、入力した数値の先頭に等号(=)、プラス記号(+)やマイナス記号(-)を使わないでください。</translation>
     </message>
     <message>
         <source>You cannot modify the read-only cells on protected worksheet.</source>
         <comment>TX_CanNotEdit</comment>
-        <translation type="unfinished"></translation>
+        <translation>セルを保護されているため、変更できません。</translation>
     </message>
     <message>
         <source>You must enter a valid reference you want to go to, or type a valid name for the selection.</source>
         <comment>TX_Invalid_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>参照位置または選択範囲の名前を正しく入力してください。</translation>
     </message>
     <message>
         <source>The maximum number of data points you can use in a data series for a 2-D chart is 32,000. If you want to use more than 32,000 data points, you must create two or more series.</source>
         <comment>TX_Chart_DataOverflow</comment>
-        <translation type="unfinished"></translation>
+        <translation>2D グラフで入力できるデータ要素の数は、1 系列あたり最大 32000 個です。32000 個以上のデータ要素を使用する場合は、複数の系列を作成してください。</translation>
     </message>
     <message>
         <source>Cannot find help files, or help files encounter an error.</source>
         <comment>TX_Help_NoHelpFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>ヘルプファイルが見つかりませんでした。または、エラーが発生しました。</translation>
     </message>
     <message>
         <source>You may not use references to other workbooks for Data Validation criteria.</source>
         <comment>TX_DV_CrossSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>データの入力規則で、他のワークシートまたはブックへの参照は使えません。</translation>
     </message>
     <message>
         <source>The Minimum contains an error now. Do you want to continue?</source>
         <comment>TX_DV_WholeNumberErr1</comment>
-        <translation type="unfinished"></translation>
+        <translation>最小値は正しくありません。続けますか。</translation>
     </message>
     <message>
         <source>The Value must be an integer, numeric expression, or refer to a cell containing a numeric value.</source>
         <comment>TX_DV_WholeNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation>数値は整数、数式、または数値を含むセル参照でなければなりません。</translation>
     </message>
     <message>
         <source>The Minimum must be an integer, numeric expression, or refer to a cell containing a numeric value.</source>
         <comment>TX_DV_WholeNumber1</comment>
-        <translation type="unfinished"></translation>
+        <translation>最小値は数値、数式、または数値含むセル参照でなければなりません。</translation>
     </message>
     <message>
         <source>The Maximum must be an integer, numeric expression, or reference to a cell containing a numeric value.</source>
         <comment>TX_DV_WholeNumber2</comment>
-        <translation type="unfinished"></translation>
+        <translation>最大値は数値、数式、または数値含むセル参照でなければなりません。</translation>
     </message>
     <message>
         <source>A named range you specified cannot be found.</source>
         <comment>TX_DV_List</comment>
-        <translation type="unfinished"></translation>
+        <translation>指定した名前の範囲は見つかりません。</translation>
     </message>
     <message>
         <source>The List Source must be a delimited list, or a reference to single row or column.</source>
         <comment>TX_DV_ListMustSingleLine</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, creating a circular reference. Try one of the following:
-
-?If you do not want to create the circular reference, click OK, and correct the formula.
-?If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
-        <comment>TX_FORMULA_RECURSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>「リスト ソース」は区切られたデータの並び、または一つの行か列の参照でなければいけません。</translation>
     </message>
     <message>
         <source>Arithmetic Mean</source>
         <comment>TX_ParaInfo_117</comment>
-        <translation type="unfinished"></translation>
+        <translation>平均</translation>
     </message>
     <message>
         <source>The selection contains some cells without Data Validation settings. Do you want to extend Data Validation to these cells?</source>
         <comment>TX_DV_APPLYVALIDATION</comment>
-        <translation type="unfinished"></translation>
+        <translation>選択範囲には、データの入力規則が設定されていないセルが含まれています。それらのセルにデータの入力規則を設定しますか。</translation>
     </message>
     <message>
         <source>The command you chose cannot be performed with multiple selections. Select a single range and click the command again.</source>
         <comment>TX_DS_MULSEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>複数の選択範囲に対してこのコマンドは実行できません。単一の選択範囲に実行して下さい。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets can only convert one column at a time. The selection can contain more than one row but only one column. Select cells only in one column and try again.</source>
         <comment>TX_DS_MULCOLS</comment>
-        <translation type="unfinished"></translation>
+        <translation>一度に一列のデータのみの変換ができます。選択範囲は複数の行を選択できますが、複数の列を選択できません。単一の列を選択してください。</translation>
     </message>
     <message>
         <source>The word you used exists in neither main dictionary or custom dictionary. Do you want to add it to the custom dictionary?</source>
         <comment>TX_CHECKSPELLING_ADDTODICTIONARY</comment>
-        <translation type="unfinished"></translation>
+        <translation>これは辞書に登録されていない単語です。ユーザー設定の辞書に追加しますか。</translation>
     </message>
     <message>
         <source>Spell Check</source>
         <comment>TX_SpellCheck_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>スペル
+チェック</translation>
     </message>
     <message>
         <source>Closing the Track Change is to remove all the recorded changes. Do you want to close it anyway?</source>
         <comment>TX_RevisionMsgUnTrackChanges</comment>
-        <translation type="unfinished"></translation>
+        <translation>変更を閉じると、すべての変更履歴の記録が削除されます。変更を閉じますか？</translation>
     </message>
     <message>
         <source>Press Alt and click the mouse to follow the link</source>
         <comment>TX_Hyperlink_Alt_Tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Altキーを押しながらクリックしてリンク先を表示します</translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE and can be logical values, arrays, or references.</source>
         <comment>TX_ParaDesc_009</comment>
-        <translation type="unfinished"></translation>
+        <translation>論理式1,論理式2,...には結果が TRUE または FALSE になる、1 から 255 個の条件式を指定できます。</translation>
     </message>
     <message>
         <source>is any real number equal to or greater than 1.</source>
         <comment>TX_ParaDesc_013</comment>
-        <translation type="unfinished">1. 以上の実数</translation>
+        <translation>には 1 以上の実数を指定します。</translation>
     </message>
     <message>
         <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range = 0.</source>
         <comment>TX_ParaDesc_024</comment>
-        <translation type="unfinished"></translation>
+        <translation>には X を含む区間の上限値を指定します。省略すると、1 を指定したと見なされます。</translation>
     </message>
     <message>
         <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range = 0.</source>
         <comment>TX_ParaDesc_027</comment>
-        <translation type="unfinished"></translation>
+        <translation>には x を含む区間の上限値を指定します。上限を省略すると、1 を指定したと見なされます。</translation>
     </message>
     <message>
         <source>is the population standard deviation for the data range and is assumed to be known. Standard_dev must be greater than 0.</source>
         <comment>TX_ParaDesc_053</comment>
-        <translation type="unfinished"></translation>
+        <translation>にはデータ範囲に対する母集団の標準偏差を指定します。</translation>
     </message>
     <message>
         <source>value1, value2,... are 1 to 30 arguments representing the values and cells you want to count. Values can be any type of information.</source>
         <comment>TX_ParaDesc_060</comment>
-        <translation type="unfinished"></translation>
+        <translation>値1,値2,...にはカウントしたい値を表す引数を 1 から 255 個まで指定します。</translation>
     </message>
     <message>
         <source>is the condition in the form of a number, expression, or text that defines which cells will be counted</source>
         <comment>TX_ParaDesc_063</comment>
-        <translation type="unfinished"></translation>
+        <translation>には計算の対象となるセルを定義する条件を、数値、式、または文字列で指定します。</translation>
     </message>
     <message>
         <source>is the interest rate per period. For example, use 6%/4 for quarterly payments at 6% APR.</source>
         <comment>TX_ParaDesc_139</comment>
-        <translation type="unfinished"></translation>
+        <translation>には 1 期間あたりの利率を指定します。たとえば、年率 6% の ローンを四半期払いで返済する場合、利率に  6%/4 を指定します</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
         <comment>TX_ParaDesc_152</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">数値1,数値2,...には幾何平均を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>is the position (from the largest) in the array or cell range of the value to return.</source>
         <comment>TX_ParaDesc_205</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">には抽出する値の大きい方から数えた順位を数値で指定します</translation>
     </message>
     <message>
         <source>is a logical value: return additional regression statistics = TRUE; return m-coefficient and the constant b = FALSE or omitted.</source>
         <comment>TX_ParaDesc_213</comment>
-        <translation type="unfinished"></translation>
+        <translation>には回帰直線の補正項を追加情報として返すかどうかを論理値で指定します。TRUE を指定すると、回帰指数直線の補正項が返され、FALSE を指定すると、m 係数と定数 b のみが返されます</translation>
     </message>
     <message>
         <source>value 1, value 2,... are 1 to 29 payments and income, equally spaced in time and occurring at the end of each period.</source>
         <comment>TX_ParaDesc_274</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">数値1,数値2,... には支払額 と収益額を表す 1 ～ 29 個の引数を指定します。 数値は定期的に、各期末に発生するものです</translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions that you want to test that can be either TRUE or FALSE</source>
         <comment>TX_ParaDesc_281</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">論理式1,論理式2,... には結果が TRUE 又は FALSE になる、 1 ～ 255 個の論理式を指定します</translation>
     </message>
     <message>
         <source>is an optional value that identifies the number of significant digits for the returned percentage, three digits if omitted(0.xxx%).</source>
         <comment>TX_ParaDesc_288</comment>
-        <translation type="unfinished"></translation>
+        <translation>には計算結果として返される百分率の有効桁数を指定します。省略すると、小数点以下第三位 (0.xxx) まで計算されます</translation>
     </message>
     <message>
         <source>is the number of digits to the right of the decimal point. The number is rounded as necessary; if omitted, Decimals = 2!</source>
         <comment>TX_ParaDesc_337</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">には小数点以下の桁数を指定します。必要であれば、数値を四捨五入します。省略すると、桁数を 2 に指定した見なされます</translation>
     </message>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero to the nearest integer.</source>
         <comment>TX_ParaDesc_341</comment>
-        <translation type="unfinished"></translation>
+        <translation>には数値を四捨五入した結果の桁数を指定します。桁数に負の数を指定すると、数値は小数点の左側の指定した桁に四捨五入されます。桁数に 0 を指定すると、数値は最も近い整数として四捨五入されます</translation>
     </message>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero or omitted, to the nearest integer.</source>
         <comment>TX_ParaDesc_343</comment>
-        <translation type="unfinished"></translation>
+        <translation>には数値を切り捨てた結果の桁数を指定します。桁数に負の数を指定すると、数値は小数点の左側の 1 の位に切り捨てられます。桁数に 0 を指定すると、数値は最も近い整数として切り捨てられます</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if typed as arguments!</source>
         <comment>TX_ParaDesc_382</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">数値1,数値1,... には合計を求めたい数値を 1 ～ 255 個まで指定できます。論理値及び文字列が無視されますが、引数として入力されていれば計算の対象となります</translation>
     </message>
     <message>
         <source>is the condition in the form of a number, expression, or text that defines which cells will be counted</source>
         <comment>TX_ParaDesc_384</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">には計算の対象となるセルを定義する条件を数値、式、又は文字列で指定します。</translation>
     </message>
     <message>
         <source>array1,array2,...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have the same dimensions.</source>
         <comment>TX_ParaDesc_386</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">配列1,配列2,...には要素の積の合計を求めたい配列を 2 ～ 255 個まで指定できます。引数となる配列は、行数と列数が等しい配列である必要があります。</translation>
     </message>
     <message>
         <source>specifies the number of distribution tails to return: one-tailed distribution = 1; two-tailed distribution = 2.</source>
         <comment>TX_ParaDesc_398</comment>
-        <translation type="unfinished">には片側検定の場合は 1、両側検定の場合は 2 を指定します</translation>
+        <translation type="obsolete">には関数の形式を指定します。1 を指定した場合は片側スチューデントの t-分布が返されます；2 を指定した場合は両側スチューデントの t-分布が返されます</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_423</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">数値1,数値2,... には母集団の標本に対応する数値を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>The number used to be converted to Chinese string.</source>
         <comment>TX_ParaDesc_541</comment>
-        <translation type="unfinished"></translation>
+        <translation>中国語文字列に変換された数値</translation>
     </message>
     <message>
         <source>Text</source>
         <comment>TX_ParaInfo_352</comment>
-        <translation type="unfinished">文字列</translation>
+        <translation>文字列</translation>
     </message>
     <message>
         <source>In_num</source>
         <comment>TX_ParaInfo_353</comment>
-        <translation type="unfinished"></translation>
+        <translation>In_num</translation>
     </message>
     <message>
         <source>At_num</source>
         <comment>TX_ParaInfo_354</comment>
-        <translation type="unfinished"></translation>
+        <translation>At_num</translation>
     </message>
     <message>
         <source>By_num</source>
         <comment>TX_ParaInfo_355</comment>
-        <translation type="unfinished"></translation>
+        <translation>By_num</translation>
     </message>
     <message>
         <source>Dir_num</source>
         <comment>TX_ParaInfo_356</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dir_num</translation>
     </message>
     <message>
         <source>Match_case</source>
         <comment>TX_ParaInfo_357</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_358</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Iter</source>
         <comment>TX_ParaInfo_359</comment>
-        <translation type="unfinished"></translation>
+        <translation>Iter</translation>
     </message>
     <message>
         <source>Max_num</source>
         <comment>TX_ParaInfo_360</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Max_change</source>
         <comment>TX_ParaInfo_361</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Update</source>
         <comment>TX_ParaInfo_362</comment>
-        <translation type="unfinished"></translation>
+        <translation>アップデート</translation>
     </message>
     <message>
         <source>Precision</source>
         <comment>TX_ParaInfo_363</comment>
-        <translation type="unfinished">精度</translation>
+        <translation>精度</translation>
     </message>
     <message>
         <source>Date_1904</source>
         <comment>TX_ParaInfo_364</comment>
-        <translation type="unfinished"></translation>
+        <translation>Date_1904</translation>
     </message>
     <message>
         <source>Calc_save</source>
         <comment>TX_ParaInfo_365</comment>
-        <translation type="unfinished"></translation>
+        <translation>Calc_save</translation>
     </message>
     <message>
         <source>Save_values</source>
         <comment>TX_ParaInfo_366</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Alt_exp</source>
         <comment>TX_ParaInfo_367</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alt_exp</translation>
     </message>
     <message>
         <source>Alt_form</source>
         <comment>TX_ParaInfo_368</comment>
+        <translation>Alt_form</translation>
+    </message>
+    <message>
+        <source>Format Shape</source>
+        <comment>TX_SETSHAPECAPTION</comment>
+        <translation>オブジェクトの書式設定</translation>
+    </message>
+    <message>
+        <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
+&apos;%s
+• To accept the correction, click OK.
+• To close this message and correct the formula by yourself, click Cancel
+• If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
+        <comment>TX_InputFormulaStringTooLong_Error</comment>
+        <translation type="obsolete">入力した数式の定量文字が長すぎます。次の操作を試してください：
+&apos;%s
+·修正を適用する場合は、[はい]をクリックします。
+· この表示を閉じて、自分で数式を修正する場合は、[いいえ]をクリックします。
+·数式を入力していない場合は、入力した数値の先頭に等号(=)、プラス記号(+)やマイナス記号(-)を使わないでください。</translation>
+    </message>
+    <message>
+        <source>The formula you entered contains errors. WPS Spreadsheets will automatically correct it as: 
+&apos;%s
+• To accept the correction, click OK.
+• To close this message and correct the formula by yourself, click Cancel.
+• If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
+        <comment>TX_InputFormula_Error</comment>
+        <translation>入力した数式にエラーが見つかりました。次の操作を試してください：
+&apos;%s
+·修正を適用する場合は、[はい]をクリックします。
+· この表示を閉じて、自分で数式を修正する場合は、[いいえ]をクリックします。
+·数式を入力していない場合は、入力した数値の先頭に等号(=)、プラス記号(+)やマイナス記号(-)を使わないでください。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, creating a circular reference. Try one of the following:
+
+•If you do not want to create the circular reference, click OK, and correct the formula.
+•If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
+        <comment>TX_FORMULA_RECURSION</comment>
+        <translation>Kingsoft Spreadsheets　この数式を計算できません。数式のセルの参照は計算結果を参照しているため、循環参照になります。次の操作を試してください。
+
+· 循環参照を解決する場合は、[OK]をクリックしてください。
+·[循環参照]ツールが表示されるので、ツールを使って数式を修正してください。</translation>
+    </message>
+    <message>
+        <source>is the name of the progID of a registered COM automation add-in. Enclose the name in qoutation marks.</source>
+        <comment>TX_ParaInfo_546</comment>
+        <translation type="obsolete">登録するCOM自動化アドインのProgID名称をタブル引用符で囲みます。</translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in qoutation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaInfo_547</comment>
+        <translation type="obsolete">このアドインのサーバー名称を実行します。サーバー名称をタブル引用符で囲みます。アドインをローカルで実行する場合、空白の文字を使用してください。</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
+        <comment>TX_ParaDesc_018</comment>
+        <translation>数値1,数値2,... には数値を1から30まで指定できます。この引数をもとに、絶対偏差の平均が求められます。</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numeric arguments for which you want the average.</source>
+        <comment>TX_ParaDesc_019</comment>
+        <translation>数値1,数値2,... には平均を求めたい数値を、 1から30まで指定します。</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 arguments for which you want the average.</source>
+        <comment>TX_ParaDesc_020</comment>
+        <translation>数値1,数値2,... には平均を算出する値を、 1から30まで指定します。</translation>
+    </message>
+    <message>
+        <source>value 1%1 value 2%1... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
+        <comment>TX_ParaDesc_044</comment>
+        <translation>値1,値2,...には  1から29の引数を指定します。ここからインデックスで指定した値が返されます。</translation>
+    </message>
+    <message>
+        <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
+        <comment>TX_ParaDesc_051</comment>
+        <translation>文字列1,文字列2,...には1つにまとめたい文字列を指定します。引数は 1から30まで指定できます。</translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
+        <comment>TX_ParaDesc_094</comment>
+        <translation>数値1,数値2,...には偏差の平方和を求めるために使用する数値を、 1から30まで指定できます。</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1…are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the average.</source>
+        <comment>TX_ParaDesc_152</comment>
+        <translation>数値1,数値2,...には幾何平均を求めたい数値、名前、配列、数値を含むセル参照を 1から30まで指定できます</translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
+        <comment>TX_ParaDesc_153</comment>
+        <translation>数値1,数値2,...には中央値を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個までを指定できます</translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
+        <comment>TX_ParaDesc_160</comment>
+        <translation>数値1,数値2,...には調和平均を求めたい数値、名前、配列、又は数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
+        <comment>TX_ParaDesc_203</comment>
+        <translation>数値1,数値2,...には尖度を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個までを指定できます</translation>
+    </message>
+    <message>
+        <source>is the position (from the largest) in the array or cell range of the value to return</source>
+        <comment>TX_ParaDesc_205</comment>
+        <translation>には抽出する値の大きい方から数えた順位を数値で指定します</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
+        <comment>TX_ParaDesc_234</comment>
+        <translation>数値1,数値2,... には最大値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
+        <comment>TX_ParaDesc_235</comment>
+        <translation>数値1,数値2,... には最大値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
+        <comment>TX_ParaDesc_237</comment>
+        <translation>数値1,数値2,...には中央値を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個までを指定できます</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
+        <comment>TX_ParaDesc_244</comment>
+        <translation>数値1,数値2,... には最小値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
+        <comment>TX_ParaDesc_245</comment>
+        <translation>数値1,数値2,... には最小値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
+        <comment>TX_ParaDesc_254</comment>
+        <translation>数値1,数値2,...には中央値を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個までを指定できます</translation>
+    </message>
+    <message>
+        <source>value 1%1 value 2%1... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
+        <comment>TX_ParaDesc_274</comment>
+        <translation>数値1,数値2,... には支払額 と収益額を表す 1 ～ 29 個の引数を指定します。 数値は定期的に、各期末に発生するものです</translation>
+    </message>
+    <message>
+        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
+        <comment>TX_ParaDesc_281</comment>
+        <translation>論理式1,論理式2,... には結果が TRUE 又は FALSE になる、 1 ～ 255 個の論理式を指定します</translation>
+    </message>
+    <message>
+        <source>number 1%1 number 2%1...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
+        <comment>TX_ParaDesc_307</comment>
+        <translation>数値1,数値2,... には積を積を求めたい数値、論理値又は数値を表す文字列を 1 から 255 まで指定できます</translation>
+    </message>
+    <message>
+        <source>is a number, a reference to a cell containing a number, or a formula that evaluates to a number, 2 if omitted.</source>
+        <comment>TX_ParaDesc_337</comment>
+        <translation>には小数点以下の桁数を指定します。必要であれば、数値を四捨五入します。省略した場合は、桁数を 2 に指定したとみなします。</translation>
+    </message>
+    <message>
+        <source>topic1%1topic2%1...are 1 to 28 parameters that specify a piece of data.</source>
+        <comment>TX_ParaDesc_351</comment>
+        <translation>トピック 1,トピック 2,...  にはデータの一部を指定する 1 ～28 個の引数を指定します</translation>
+    </message>
+    <message>
+        <source>is the angle in radians for which you want the sine. Degrees *PI()/180 = radians.</source>
+        <comment>TX_ParaDesc_359</comment>
+        <translation>にはサインを求める角度をラジアンを単位として指定します。角度が度を単位として表されている場合は、PI()/180 を掛けるとラジアンに変換されます</translation>
+    </message>
+    <message>
+        <source>number 1%1number 2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
+        <comment>TX_ParaDesc_360</comment>
+        <translation>数値1,数値2,... には分布の歪度を求めたい数値、名前、配列、又は数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
+        <comment>TX_ParaDesc_372</comment>
+        <translation>数値1,数値2,... には母集団の標本に対応する数値、または数値を含む参照を、1 ～ 255 個まで指定します</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
+        <comment>TX_ParaDesc_373</comment>
+        <translation>数値1,数値2,... には母集団の標本に対応する値、名前、又は値をへの参照を、1 ～ 255 個まで指定します</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
+        <comment>TX_ParaDesc_374</comment>
+        <translation>数値1,数値2,... には母集団の全体に対応する数値、数値を含む参照を、1 ～ 255 個まで指定します</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
+        <comment>TX_ParaDesc_375</comment>
+        <translation>数値1,数値2,... には母集団の全体に対応する数値、名前、又は数値を含む参照を、1 ～ 255 個まで指定します</translation>
+    </message>
+    <message>
+        <source>ref 1%1 ref 2%1...are 1 to 29 ranges or references for which you want the subtotal.</source>
+        <comment>TX_ParaDesc_381</comment>
+        <translation>参照1, 参照2, ... には集計するリストの範囲又は参照を 1 ～　29 個まで指定します。</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
+        <comment>TX_ParaDesc_382</comment>
+        <translation>数値1,数値1,... には合計を求めたい数値を 1 ～ 255 個まで指定できます。論理値及び文字列が無視されますが、引数として入力されていれば計算の対象となります</translation>
+    </message>
+    <message>
+        <source>is the condition or criteria in the form of a number, expression, or text that defines which cells will be used to find the average.</source>
+        <comment>TX_ParaDesc_384</comment>
+        <translation>には計算の対象となるセルを定義する条件を、数値、式、または文字列で指定します。</translation>
+    </message>
+    <message>
+        <source>array1%1array2%1...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have the same dimensions.</source>
+        <comment>TX_ParaDesc_386</comment>
+        <translation>配列1,配列2,...には要素の積の合計を求めたい配列を 2 ～ 255 個まで指定できます。引数となる配列は、行数と列数が等しい配列である必要があります。</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
+        <comment>TX_ParaDesc_387</comment>
+        <translation>数値1,数値1,... には平方和を求めたい数値、又は数値を含む名前、配列、セル参照を 2 ～ 255 個まで指定できます</translation>
+    </message>
+    <message>
+        <source>is the angle in radians for which you want the sine. Degrees *PI()/180 = radians.</source>
+        <comment>TX_ParaDesc_395</comment>
+        <translation>にはサインを求める角度をラジアンを単位として指定します。角度が度を単位として表されている場合は、PI()/180 を掛けるとラジアンに変換されます</translation>
+    </message>
+    <message>
+        <source>specifies the number of distribution tails to return: one-tailed distribution = 1; tow-tailed distribution = 2.</source>
+        <comment>TX_ParaDesc_398</comment>
+        <translation>には関数の形式を指定します。1 を指定した場合は片側スチューデントの t-分布が返されます；2 を指定した場合は両側スチューデントの t-分布が返されます</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 255 numeric arguments corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_423</comment>
+        <translation>数値1,数値2,... には母集団の標本に対応する数値を 1 ～ 255 個まで指定できます</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 value arguments corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_424</comment>
+        <translation>数値1,数値2,... には母集団の標本に対応する数値を 1 ～ 255 個まで指定できます</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
+        <comment>TX_ParaDesc_425</comment>
+        <translation>数値1,数値2,... には母集団の全体に対応する数値を 1 ～ 255 個まで指定できます</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
+        <comment>TX_ParaDesc_426</comment>
+        <translation>数値1,数値2,... には母集団の全体に対応する数値を 1 ～ 255 個まで指定できます</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 255 values for which you want the multinomial.</source>
+        <comment>TX_ParaDesc_476</comment>
+        <translation>数値1,数値2,... には1～255まで多項式を計算する値を指定します</translation>
+    </message>
+    <message>
+        <source>Value 1%1value 2%1… are 1 to 30 plural numbers, used to calculate the product.</source>
+        <comment>TX_ParaDesc_522</comment>
+        <translation>Value1,Value2,... 1から30の複素数は、積を計算するために使用されます。</translation>
+    </message>
+    <message>
+        <source>topic1%1topic2%1...are 1 to 38 parameters that specify a piece of data.</source>
+        <comment>TX_ParaDesc_548</comment>
+        <translation>トピック 1,トピック 2,...  にはデータの一部を指定する 1 ～28 個の引数を指定します {1,?} {2,?} {1 ?} {38 ?}</translation>
+    </message>
+    <message>
+        <source>New Excel 2007/2010 Workbook</source>
+        <comment>TX_NEWBLANKXLSXFILECAPTION</comment>
+        <translation>Excel2007/2010 ワークブックの新規作成</translation>
+    </message>
+    <message>
+        <source>New Excel 2003 Workbook</source>
+        <comment>TX_NEWBLANKXLSFILECAPTION</comment>
+        <translation>Excel2003 ワークブックの新規作成</translation>
+    </message>
+    <message>
+        <source>To create a chart, select the cells that contain the data you&apos;d like to use. If you have names for the rows and columns and you&apos;d like to use them as labels, include them in you selection.</source>
+        <comment>TX_CHart_EmptyCell</comment>
+        <translation>グラフを作成するには、使用したいデータ範囲のセルを選択してください。</translation>
+    </message>
+    <message>
+        <source>Dialog_Ref</source>
+        <comment>TX_ParaInfo_369</comment>
+        <translation>Dialog_Ref</translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_370</comment>
+        <translation>Type_num</translation>
+    </message>
+    <message>
+        <source>This workbook cannot be shared because it contains WPS tables or XML maps. To share this workbook, convert the tables to ranges and remove the XML maps.</source>
+        <comment>TX_RemoveTable_ShareBook</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the discount rate to apply to the cash flows.</source>
+        <comment>TX_ParaDesc_549</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a series of cash flows that correspond to a schedule of payments in dates.</source>
+        <comment>TX_ParaDesc_550</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15032,7 +15977,7 @@ There are several possible reasons:
     <message>
         <source>AutoFitSelection</source>
         <comment>TX_Undo_AutoFitSelection</comment>
-        <translation type="obsolete">選択範囲に合わせる</translation>
+        <translation>選択範囲に合わせる</translation>
     </message>
     <message>
         <source>AutoSum</source>
@@ -15677,11 +16622,36 @@ There are several possible reasons:
     <message>
         <source>AutoFit Selection</source>
         <comment>TX_Undo_AutoFitSelection</comment>
-        <translation>選択範囲に合わせる</translation>
+        <translation type="obsolete">選択範囲に合わせる</translation>
     </message>
     <message>
         <source>PivotTable&apos;s field filter</source>
         <comment>TX_Undo_PivotTableFilter</comment>
+        <translation>ピボットテーブルのフィールドのフィルタ</translation>
+    </message>
+    <message>
+        <source>Insert New Chart</source>
+        <comment>TX_Undo_InsertNewChart</comment>
+        <translation>新しいグラフを挿入</translation>
+    </message>
+    <message>
+        <source>Table Resize</source>
+        <comment>TX_Undo_ListObjectRBDrag</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Colunm</source>
+        <comment>TX_Undo_ListColumnDelete</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Row</source>
+        <comment>TX_Undo_ListRowDelete</comment>
+        <translation type="unfinished">行の削除</translation>
+    </message>
+    <message>
+        <source>New Table Style</source>
+        <comment>TX_Undo_NewTableStyle</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17586,6 +18556,20 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Center Across</source>
         <comment>et_sCenterAcross</comment>
+        <translation>選択範囲内で中央</translation>
+    </message>
+    <message>
+        <source>An unexpected error has occurred, Changes to your data cannot be saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table has been published successfully, the site is: &lt;a href=&quot;%s&quot;&gt;%s</source>
+        <comment>et_sListObjectPublishSuccessed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot connect to the server at this time. Your table cannot be published.</source>
+        <comment>et_sListobjectPublishHostNotFound</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -51,7 +51,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Unknown Error</source>
         <comment>_ksoErr_Basic_UnknownError</comment>
-        <translation>知らないエラーが発生しました。</translation>
+        <translation>未知のエラー</translation>
     </message>
     <message>
         <source>Value Out Of Range</source>
@@ -63,7 +63,9 @@ Please check your system settings and ensure the temporary directory under the c
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_NotExist</comment>
-        <translation>テンポラリーディレクトリーが存在しません、又はテンポラリーディレクトリーの作成に失敗しました。システム設定とユーザ権限を確認して、Kingsoft Officeを再起動してください。</translation>
+        <translation>テンポラリーディレクトリーが存在しません、又はテンポラリーディレクトリーの作成に失敗しました。
+
+システム設定とユーザ権限を確認して、Kingsoft Officeを再起動してください。</translation>
     </message>
     <message>
         <source>The current user does not have the permission to write in the temporary directory.
@@ -75,13 +77,473 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Value Out of Range</source>
         <comment>_ksoErr_Basic_ValueOutOfRange</comment>
-        <translation type="unfinished"></translation>
+        <translation>有効範囲外の数値です。</translation>
     </message>
     <message>
         <source>The current user does not have the permission to write to the temporary directory.
 
 Please check your system settings and ensure that the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
+        <translation>現在のユーザにはテンポラリーディレクトリーに書き込み権限がありません。
+
+システム設定とユーザ権限を確認して、Kingsoft Officeを再起動してください。</translation>
+    </message>
+</context>
+<context>
+    <name>kso_chart</name>
+    <message>
+        <source> OPTIONS</source>
+        <comment>CHART_FORMATTING_OPTION</comment>
+        <translation>オプション</translation>
+    </message>
+    <message>
+        <source>1st Qtr</source>
+        <comment>CHART_DEFAULTTEXT_FIRSTQUARTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2nd Qtr</source>
+        <comment>CHART_DEFAULTTEXT_SECONDQUARTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3rd Qtr</source>
+        <comment>CHART_DEFAULTTEXT_THIRDQUARTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4th Qtr</source>
+        <comment>CHART_DEFAULTTEXT_FOURTHQUARTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AXIS</source>
+        <comment>CHART_FORMATTING_AXIS</comment>
+        <translation>軸</translation>
+    </message>
+    <message>
+        <source>Axis</source>
+        <comment>HINT_AXIS</comment>
+        <translation>軸</translation>
+    </message>
+    <message>
+        <source>Axis Title</source>
+        <comment>CHART_DEFAULTTEXT_AXISTITLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Billions</source>
+        <comment>CHART_UNITLABEL_BILLIONS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CAHRT</source>
+        <comment>CHART_FORMATTING_CHART</comment>
+        <translation>グラフ</translation>
+    </message>
+    <message>
+        <source>CATEGORY LABEL</source>
+        <comment>CHART_FORMATTING_CATEGORYLABEL</comment>
+        <translation>カテゴリーラベル</translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <comment>HINT_CATEGORY</comment>
+        <translation>カテゴリー</translation>
+    </message>
+    <message>
+        <source>Category 1</source>
+        <comment>CHART_DEFAULTTEXT_CATEGORY1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Category 2</source>
+        <comment>CHART_DEFAULTTEXT_CATEGORY2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Category 3</source>
+        <comment>CHART_DEFAULTTEXT_CATEGORY3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Category 4</source>
+        <comment>CHART_DEFAULTTEXT_CATEGORY4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Category Label</source>
+        <comment>HINT_CATEGORYLABEL</comment>
+        <translation>カテゴリーラベル</translation>
+    </message>
+    <message>
+        <source>Chart Area</source>
+        <comment>HINT_CHARTAREA</comment>
+        <translation>グラフエリア</translation>
+    </message>
+    <message>
+        <source>Chart Title</source>
+        <comment>CHART_DEFAULTTEXT_CHARTTITLE</comment>
+        <translation type="unfinished">グラフタイトル</translation>
+    </message>
+    <message>
+        <source>Chart Title</source>
+        <comment>HINT_CHARTTITLE</comment>
+        <translation>グラフタイトル</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_CLOSE</comment>
+        <translation type="unfinished">閉じる</translation>
+    </message>
+    <message>
+        <source>DATA LABEL</source>
+        <comment>CHART_FORMATTING_DATALABEL</comment>
+        <translation>データラベル</translation>
+    </message>
+    <message>
+        <source>DOWN-BARS</source>
+        <comment>CHART_FORMATTING_DOWNBARS</comment>
+        <translation>ローソク（下）</translation>
+    </message>
+    <message>
+        <source>DROP LINE</source>
+        <comment>CHART_FORMATTING_DROPLINES</comment>
+        <translation>降下線</translation>
+    </message>
+    <message>
+        <source>Data Label</source>
+        <comment>HINT_DATALABEL</comment>
+        <translation>データラベル</translation>
+    </message>
+    <message>
+        <source>Data Table</source>
+        <comment>HINT_DATATABLE</comment>
+        <translation>データテーブル</translation>
+    </message>
+    <message>
+        <source>Down-Bars</source>
+        <comment>HINT_DOWNBARS</comment>
+        <translation>ローソク（下）</translation>
+    </message>
+    <message>
+        <source>Drop Lines</source>
+        <comment>HINT_DROPLINES</comment>
+        <translation>降下線</translation>
+    </message>
+    <message>
+        <source>ERROR BAR</source>
+        <comment>CHART_FORMATTING_ERRORBAR</comment>
+        <translation>誤差範囲</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <comment>HINT_EQUATION</comment>
+        <translation>数式</translation>
+    </message>
+    <message>
+        <source>Error Bar</source>
+        <comment>HINT_ERRORBAR</comment>
+        <translation>誤差範囲</translation>
+    </message>
+    <message>
+        <source>Expon</source>
+        <comment>CHART_DEFAULTTEXT_LINE_EXPON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gridline</source>
+        <comment>HINT_GRIDLINE</comment>
+        <translation>目盛線</translation>
+    </message>
+    <message>
+        <source>HIGH_LOW LINE</source>
+        <comment>CHART_FORMATTING_HIGTLOWLINES</comment>
+        <translation>高低線</translation>
+    </message>
+    <message>
+        <source>High</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_HIGH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>High-Low Lines</source>
+        <comment>HINT_HIGTLOWLINES</comment>
+        <translation>高低線</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <comment>HINT_HORIZONTAL</comment>
+        <translation>横</translation>
+    </message>
+    <message>
+        <source>Hundreds</source>
+        <comment>CHART_UNITLABEL_HUNDREDS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LABEL</source>
+        <comment>CHART_FORMATTING_LABEL</comment>
+        <translation>ラベル</translation>
+    </message>
+    <message>
+        <source>LEADER LINE</source>
+        <comment>CHART_FORMATTING_LEADERLINES</comment>
+        <translation>引き出し線</translation>
+    </message>
+    <message>
+        <source>LEGEND</source>
+        <comment>CHART_FORMATTING_LEGEND</comment>
+        <translation>凡例</translation>
+    </message>
+    <message>
+        <source>LEGEND ENTRY</source>
+        <comment>CHART_FORMATTING_LEGENDENTRY</comment>
+        <translation>凡例項目</translation>
+    </message>
+    <message>
+        <source>Leader Line</source>
+        <comment>HINT_LEADERLINE</comment>
+        <translation>引き出し線</translation>
+    </message>
+    <message>
+        <source>Legend</source>
+        <comment>HINT_LEGEND</comment>
+        <translation>凡例</translation>
+    </message>
+    <message>
+        <source>Legend Entry</source>
+        <comment>HINT_LEGENDENTRY</comment>
+        <translation>凡例項目</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <comment>CHART_DEFAULTTEXT_LINE_LINEAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Log</source>
+        <comment>CHART_DEFAULTTEXT_LINE_LOG</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_LOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MAJOR GRIDLINES</source>
+        <comment>CHART_FORMATTING_MAJORGRIDLINES</comment>
+        <translation>目盛線</translation>
+    </message>
+    <message>
+        <source>MINOR GRIDLINES</source>
+        <comment>CHART_FORMATTING_MINORGRIDLINES</comment>
+        <translation>補助目盛線</translation>
+    </message>
+    <message>
+        <source>Major Gridline</source>
+        <comment>HINT_MAJORGRIDLINE</comment>
+        <translation>目盛線</translation>
+    </message>
+    <message>
+        <source>Millions</source>
+        <comment>CHART_UNITLABEL_MILLIONS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minor Gridline</source>
+        <comment>HINT_MINORGRIDLINE</comment>
+        <translation>補助目盛線</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>CHART_UNITLABEL_NONE</comment>
+        <translation type="unfinished">なし</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_OPEN</comment>
+        <translation type="unfinished">開く</translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <comment>CHART_DATALABELTEXT_OTHER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PLOT AREA</source>
+        <comment>CHART_FORMATTING_PLOTAREA</comment>
+        <translation>プロットエリア</translation>
+    </message>
+    <message>
+        <source>POINT</source>
+        <comment>CHART_FORMATTING_POINT</comment>
+        <translation>点</translation>
+    </message>
+    <message>
+        <source>Plot Area</source>
+        <comment>HINT_PLOTAREA</comment>
+        <translation>プロットエリア</translation>
+    </message>
+    <message>
+        <source>Point</source>
+        <comment>HINT_POINT</comment>
+        <translation>点</translation>
+    </message>
+    <message>
+        <source>Poly</source>
+        <comment>CHART_DEFAULTTEXT_LINE_POLY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Power </source>
+        <comment>CHART_DEFAULTTEXT_LINE_POWER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radar</source>
+        <comment>HINT_RADAR</comment>
+        <translation>レーダー</translation>
+    </message>
+    <message>
+        <source>SERIES</source>
+        <comment>CHART_FORMATTING_SERIES</comment>
+        <translation>系列</translation>
+    </message>
+    <message>
+        <source>SERIES LINE</source>
+        <comment>CHART_FORMATTING_SERIESLINES</comment>
+        <translation>系列線</translation>
+    </message>
+    <message>
+        <source>Sales</source>
+        <comment>CHART_DEFAULTTEXT_SALES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secondary</source>
+        <comment>HINT_SECONDARY</comment>
+        <translation>補助線</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <comment>HINT_SERIES</comment>
+        <translation>系列</translation>
+    </message>
+    <message>
+        <source>Series 1</source>
+        <comment>CHART_DEFAULTTEXT_SERIES1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series 2</source>
+        <comment>CHART_DEFAULTTEXT_SERIES2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series 3</source>
+        <comment>CHART_DEFAULTTEXT_SERIES3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series 4</source>
+        <comment>CHART_DEFAULTTEXT_SERIES4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series Lines</source>
+        <comment>HINT_SERIESLINES</comment>
+        <translation>系列線</translation>
+    </message>
+    <message>
+        <source>TABEL</source>
+        <comment>CHART_FORMATTING_TABLE</comment>
+        <translation>テーブル</translation>
+    </message>
+    <message>
+        <source>TITLE</source>
+        <comment>CHART_FORMATTING_TITLE</comment>
+        <translation>タイトル</translation>
+    </message>
+    <message>
+        <source>TRENDLINE</source>
+        <comment>CHART_FORMATTING_TRENDLINE</comment>
+        <translation>近似曲線</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <comment>HINT_TEXT</comment>
+        <translation>テキスト</translation>
+    </message>
+    <message>
+        <source>The linked file is not available.</source>
+        <comment>CHART_UnavailableChartLinkPath</comment>
+        <translation>リンクファイルを使用できません</translation>
+    </message>
+    <message>
+        <source>Thousands</source>
+        <comment>CHART_UNITLABEL_THOUSANDS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>HINT_TITLE</comment>
+        <translation>タイトル</translation>
+    </message>
+    <message>
+        <source>To Insert a Chart,you must first close any open dialog boxes or cancel editing mode in WPS Spreadsheets.</source>
+        <comment>CHART_CanNotWriteChartLinkPath</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trendline</source>
+        <comment>HINT_TRENDLINE</comment>
+        <translation>近似曲線</translation>
+    </message>
+    <message>
+        <source>Trillions</source>
+        <comment>CHART_UNITLABEL_TRILLIONS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UP-BARS</source>
+        <comment>CHART_FORMATTING_UPBARS</comment>
+        <translation>ローソク（上）</translation>
+    </message>
+    <message>
+        <source>Unit Label</source>
+        <comment>HINT_UNITLABEL</comment>
+        <translation>ユニットラベル</translation>
+    </message>
+    <message>
+        <source>Up-Bars</source>
+        <comment>HINT_UPBARS</comment>
+        <translation>ローソク（上）</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <comment>HINT_VALUE</comment>
+        <translation>値</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <comment>HINT_VERTICAL</comment>
+        <translation>縦</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_VOLUME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Y-Values</source>
+        <comment>CHART_DEFAULTTEXT_Y_VALUES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>per. Mov. Avg.</source>
+        <comment>CHART_DEFAULTTEXT_LINE_AVGMOV</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -130,7 +592,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Device Independent Bitmap</source>
         <comment>TX_KSO_CF_PIC_DIB_DISPNAME</comment>
-        <translation>DIBビットマップ</translation>
+        <translation>DIビットマップ</translation>
     </message>
     <message>
         <source>FILES</source>
@@ -225,7 +687,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>The contents of the clipboard will be inserted as FILES Format.</source>
         <comment>TX_KSO_CF_HDROP_RESULTNAME</comment>
-        <translation>クリップボードの内容を「ファイル」の形式として挿入します。</translation>
+        <translation>クリップボードの内容をファイル形式として挿入します。</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as HTML Format.</source>
@@ -235,7 +697,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>The contents of the clipboard will be inserted as Picture (Windows Metafile).</source>
         <comment>TX_KSO_CF_PIC_METAFILEPICT_RESULTNAME</comment>
-        <translation>クリップボードの内容をWindowsメタファイル形式の図として挿入します。</translation>
+        <translation>クリップボードの内容をWindowsメタファイル形式として挿入します。</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Text with Font and Table Formatting.</source>
@@ -340,12 +802,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Data of WPS Drawing</source>
         <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
-        <translation>Kingsoft Office　図形データ</translation>
+        <translation type="unfinished">Kingsoft Office　図形データ</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Drawing.</source>
         <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
-        <translation>クリップボードの内容を“Kingsoft Office　図形データ”の形式として挿入します。</translation>
+        <translation type="unfinished">クリップボードの内容を“Kingsoft Office　図形データ”の形式として挿入します。</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JPG picture.</source>
@@ -355,7 +817,67 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Unicode Text</source>
         <comment>TX_KSO_CF_UNICODE_TEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unicodeテキスト</translation>
+    </message>
+    <message>
+        <source>Data of Kingsoft Drawing</source>
+        <comment>TX_KSO_CF_DRAWING_DISPNAME</comment>
+        <translation type="unfinished">Kingsoft Office 図形データ</translation>
+    </message>
+    <message>
+        <source>Data of Kingsoft Presentation Slide.</source>
+        <comment>TX_KSO_CF_SLIDES_DISPNAME</comment>
+        <translation>Kingsoft Presentationのデータ</translation>
+    </message>
+    <message>
+        <source>ET Drag Drawing</source>
+        <comment>TX_KSO_CF_ET_DRAG_SHAPE_DISPNAME</comment>
+        <translation>ET 図形データ</translation>
+    </message>
+    <message>
+        <source>New Data of Kingsoft Writer</source>
+        <comment>TX_KSO_CF_WPS_DOCX_DISPNAME</comment>
+        <translation>Kingsoft Writer データ</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Drag Drawing.</source>
+        <comment>TX_KSO_CF_ET_DRAG_SHAPE_RESULTNAME</comment>
+        <translation>クリップボードの内容を“Kingsoft Office　図形データ”の形式として挿入します。</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Drawing.</source>
+        <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
+        <translation type="unfinished">クリップボードの内容を“Kingsoft Office　図形データ”の形式として挿入します。</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Presentation Slide.</source>
+        <comment>TX_KSO_CF_SLIDES_RESULTNAME</comment>
+        <translation>クリップボードの内容を“Kingsoft Presentation　データ”の形式として挿入します。</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as New Data of Kingsoft Writer.</source>
+        <comment>TX_KSO_CF_WPS_DOCX_RESULTNAME</comment>
+        <translation>クリップボードの内容を“Kingsoft Writer データ”の形式として挿入します。</translation>
+    </message>
+    <message>
+        <source>WPS Office Graphic Object</source>
+        <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
+        <translation type="obsolete">Kingsoft Office　図形データ</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as WPS Office Graphic Object.</source>
+        <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
+        <translation type="obsolete">クリップボードの内容を“Kingsoft Office　図形データ”の形式として挿入します。</translation>
+    </message>
+    <message>
+        <source>WPS Office Graphic Object</source>
+        <comment>TX_KSO_CF_DRAWING_DISPNAME</comment>
+        <translation type="obsolete">Kingsoft Office　図形データ</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as WPS Office Graphic Object.</source>
+        <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
+        <translation type="obsolete">クリップボードの内容を“Kingsoft Office　図形データ”の形式として挿入します。</translation>
     </message>
 </context>
 <context>
@@ -503,7 +1025,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
         <comment>DgAllPicture</comment>
-        <translation>すべての図(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
+        <translation type="obsolete">すべての図(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Auto Point</source>
@@ -568,7 +1090,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Change To Autoshape</source>
         <comment>DgUil_KSO_Cmd_ChangeAutoShape</comment>
-        <translation type="obsolete">図形への変更</translation>
+        <translation>図形に変更</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -968,7 +1490,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Lines</source>
         <comment>DgUil_KSO_Cmd_DynamicShape</comment>
-        <translation type="obsolete">図形選択</translation>
+        <translation>図形選択</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -1375,7 +1897,9 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>You are about to activate an embedded object, which may contain viruses or damage your computer. Please make sure it is safe before continuing. Do you want to continue?</source>
         <comment>DgUil_KSO_ActivatPackageObject</comment>
-        <translation>プラグインオブジェクトをオンにしようします。それはウィルスを持つ可能です、またはおコンピュータに危害かもしれないのでちゃんとファイルの出所を確認して継続かどうか決めます。</translation>
+        <translatorcomment>プラグインオブジェクトをオンにしようします。それはウィルスを持つ可能です、またはおコンピュータに危害かもしれないのでちゃんとファイルの出所を確認して継続かどうか決めます。</translatorcomment>
+        <translation>ウイルスが含まれているか、コンピュータに損害を与える可能性がある埋め込みオブジェクトを有効にしようとしています。
+続行する前に安全かどうかを確認してください。続行してもよろしいですか？</translation>
     </message>
     <message>
         <source>Your Text Here</source>
@@ -1395,12 +1919,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Change to Autoshape</source>
         <comment>DgUil_KSO_Cmd_ChangeAutoShape</comment>
-        <translation>図形への変更</translation>
+        <translation type="obsolete">図形に変更</translation>
     </message>
     <message>
         <source>AutoShape</source>
         <comment>DgUil_KSO_Cmd_DynamicShape</comment>
-        <translation>図形選択</translation>
+        <translation type="obsolete">図形選択</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -1420,7 +1944,47 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>WPS Office cannot start the source application of the object.</source>
         <comment>DgUil_KSO_NotStartUpProcess</comment>
-        <translation>不能启动此对象的源应用程序。</translation>
+        <translation>Kingsoft Officeはオブジェクトのソースアプリケーションを起動することができません。</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp</source>
+        <comment>DgAllPicture</comment>
+        <translation>すべての図(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff; *wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp</translation>
+    </message>
+    <message>
+        <source>Aspect Ratio</source>
+        <comment>DgUil_KSO_Cmd_PictureScaleCrop</comment>
+        <translation>縦横比</translation>
+    </message>
+    <message>
+        <source>Crop to Shape</source>
+        <comment>DgUil_KSO_Cmd_PictureShapeCrop</comment>
+        <translation>トリミング</translation>
+    </message>
+    <message>
+        <source>Edit Series</source>
+        <comment>DgUil_KSO_Cmd_EditChartDataSource</comment>
+        <translation>列の編集</translation>
+    </message>
+    <message>
+        <source>Other Layout Options</source>
+        <comment>DgUil_KSO_Cmd_LayoutObject</comment>
+        <translation>その他のレイアウトオプション</translation>
+    </message>
+    <message>
+        <source>Reset Picture And Size</source>
+        <comment>DgUil_KSO_Cmd_ResetPictureAndSize</comment>
+        <translation>図とサイズのリセット</translation>
+    </message>
+    <message>
+        <source>Select Data</source>
+        <comment>DgUil_KSO_Cmd_ChooseChartDataSource</comment>
+        <translation>データの選択</translation>
+    </message>
+    <message>
+        <source>There is not enough memory, Create Object Failed!</source>
+        <comment>DgUil_KSO_Cmd_OleCreateFailedByOutOfMemory</comment>
+        <translation>メモリ容量不足により、オブジェクトの作成に失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -3085,13 +3649,4161 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
         <translation>フローチャート：テープ</translation>
     </message>
+    <message>
+        <source> ClearShadow-%1</source>
+        <comment>wpp_sTooltipEffectClearShadow</comment>
+        <translation>影のクリア-%1</translation>
+    </message>
+    <message>
+        <source> Dark Color %1%</source>
+        <comment>wpp_sTooltipGradientDarkColour</comment>
+        <translation type="unfinished">暗い色 %1%</translation>
+    </message>
+    <message>
+        <source> Fill-</source>
+        <comment>wpp_sTooltipArtWordSolidFill</comment>
+        <translation>塗りつぶし</translation>
+    </message>
+    <message>
+        <source> GradientFill-</source>
+        <comment>wpp_sTooltipArtWordGradientFill</comment>
+        <translation>塗りつぶし(グラデーション)</translation>
+    </message>
+    <message>
+        <source> InnerShadow</source>
+        <comment>wpp_sTooltipEffectInnerShadow</comment>
+        <translation>内部の影</translation>
+    </message>
+    <message>
+        <source> Light Color %1%</source>
+        <comment>wpp_sTooltipGradientLightColour</comment>
+        <translation type="unfinished">明るい色 %1%</translation>
+    </message>
+    <message>
+        <source> OutLine-</source>
+        <comment>wpp_sTooltipArtWordOutLine</comment>
+        <translation>アウトライン-</translation>
+    </message>
+    <message>
+        <source> PatternFill-</source>
+        <comment>wpp_sTooltipArtWordPatternFill</comment>
+        <translation>塗りつぶし（パターン）</translation>
+    </message>
+    <message>
+        <source> Shadow</source>
+        <comment>wpp_sTooltipEffectInnerShadow</comment>
+        <translation>影</translation>
+    </message>
+    <message>
+        <source> stop: %1(belong to %2)
+ position:%3% 
+ color: %4</source>
+        <comment>wpp_sTooltipGradientStops</comment>
+        <translation> stop: %1 (belong to %2)
+ position: %3%
+ color: %4</translation>
+    </message>
+    <message>
+        <source>&quot;No&quot; Symbol</source>
+        <comment>DRAWING2STR_NO_SYMBOL</comment>
+        <translation>禁止</translation>
+    </message>
+    <message>
+        <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
+        <comment>DRAWING2_FontNameNotExisitSecondHalf</comment>
+        <translation> あなたのシステム上で利用できません。このフォントを使用しますか？</translation>
+    </message>
+    <message>
+        <source>10%</source>
+        <comment>wpp_sTooltipPattern10Percent</comment>
+        <translation>10%</translation>
+    </message>
+    <message>
+        <source>10-Point Star</source>
+        <comment>DRAWING2STR_10_POINT_STAR</comment>
+        <translation>10点星</translation>
+    </message>
+    <message>
+        <source>10-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_10_POINT_STAR</comment>
+        <translation>10点星</translation>
+    </message>
+    <message>
+        <source>12-Point Star</source>
+        <comment>DRAWING2STR_12_POINT_STAR</comment>
+        <translation>12点星</translation>
+    </message>
+    <message>
+        <source>12-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_12_POINT_STAR</comment>
+        <translation>12点星</translation>
+    </message>
+    <message>
+        <source>16-Point Star</source>
+        <comment>DRAWING2STR_16_POINT_STAR</comment>
+        <translation>16点星</translation>
+    </message>
+    <message>
+        <source>16-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_16_POINT_STAR</comment>
+        <translation>16点星</translation>
+    </message>
+    <message>
+        <source>20%</source>
+        <comment>wpp_sTooltipPattern20Percent</comment>
+        <translation>20%</translation>
+    </message>
+    <message>
+        <source>24-Point Star</source>
+        <comment>DRAWING2STR_24_POINT_STAR</comment>
+        <translation>24点星</translation>
+    </message>
+    <message>
+        <source>24-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_24_POINT_STAR</comment>
+        <translation>24点星</translation>
+    </message>
+    <message>
+        <source>25%</source>
+        <comment>wpp_sTooltipPattern25Percent</comment>
+        <translation>25%</translation>
+    </message>
+    <message>
+        <source>30%</source>
+        <comment>wpp_sTooltipPattern30Percent</comment>
+        <translation>30%</translation>
+    </message>
+    <message>
+        <source>32-Point Star</source>
+        <comment>DRAWING2STR_32_POINT_STAR</comment>
+        <translation>32点星</translation>
+    </message>
+    <message>
+        <source>32-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_32_POINT_STAR</comment>
+        <translation>32点星</translation>
+    </message>
+    <message>
+        <source>4-Point Star</source>
+        <comment>DRAWING2STR_4_POINT_STAR</comment>
+        <translation>4点星</translation>
+    </message>
+    <message>
+        <source>4-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_4_POINT_STAR</comment>
+        <translation>4点星</translation>
+    </message>
+    <message>
+        <source>40%</source>
+        <comment>wpp_sTooltipPattern40Percent</comment>
+        <translation>40%</translation>
+    </message>
+    <message>
+        <source>5%</source>
+        <comment>wpp_sTooltipPattern05Percent</comment>
+        <translation>5%</translation>
+    </message>
+    <message>
+        <source>5-Point Star</source>
+        <comment>DRAWING2STR_5_POINT_STAR</comment>
+        <translation>5点星</translation>
+    </message>
+    <message>
+        <source>5-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_5_POINT_STAR</comment>
+        <translation>5点星</translation>
+    </message>
+    <message>
+        <source>50%</source>
+        <comment>wpp_sTooltipPattern50Percent</comment>
+        <translation>50%</translation>
+    </message>
+    <message>
+        <source>6-Point Star</source>
+        <comment>DRAWING2STR_6_POINT_STAR</comment>
+        <translation>6点星</translation>
+    </message>
+    <message>
+        <source>6-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_6_POINT_STAR</comment>
+        <translation>6点星</translation>
+    </message>
+    <message>
+        <source>60%</source>
+        <comment>wpp_sTooltipPattern60Percent</comment>
+        <translation>60%</translation>
+    </message>
+    <message>
+        <source>7-Point Star</source>
+        <comment>DRAWING2STR_7_POINT_STAR</comment>
+        <translation>7点星</translation>
+    </message>
+    <message>
+        <source>7-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_7_POINT_STAR</comment>
+        <translation>7点星</translation>
+    </message>
+    <message>
+        <source>70%</source>
+        <comment>wpp_sTooltipPattern70Percent</comment>
+        <translation>70%</translation>
+    </message>
+    <message>
+        <source>75%</source>
+        <comment>wpp_sTooltipPattern75Percent</comment>
+        <translation>75%</translation>
+    </message>
+    <message>
+        <source>8-Point Star</source>
+        <comment>DRAWING2STR_8_POINT_STAR</comment>
+        <translation>8点星</translation>
+    </message>
+    <message>
+        <source>8-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_8_POINT_STAR</comment>
+        <translation>8点星</translation>
+    </message>
+    <message>
+        <source>80%</source>
+        <comment>wpp_sTooltipPattern80Percent</comment>
+        <translation>80%</translation>
+    </message>
+    <message>
+        <source>90%</source>
+        <comment>wpp_sTooltipPattern90Percent</comment>
+        <translation>90%</translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>アクセント1</translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>アクセント2</translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>アクセント3</translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>アクセント4</translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>アクセント5</translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>アクセント6</translation>
+    </message>
+    <message>
+        <source>Action Button</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_ACTION</comment>
+        <translation>動作設定ボタン</translation>
+    </message>
+    <message>
+        <source>Action Button: Back or Previous</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_BACK_OR_PREVIOUS</comment>
+        <translation>動作設定ボタン：戻る/前へ</translation>
+    </message>
+    <message>
+        <source>Action Button: Back or Previous</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_BACK_OR_PREVIOUS</comment>
+        <translation>動作設定ボタン：戻る/前へ</translation>
+    </message>
+    <message>
+        <source>Action Button: Beginning</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_BEGINNING</comment>
+        <translation>動作設定ボタン：最初</translation>
+    </message>
+    <message>
+        <source>Action Button: Beginning</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_BEGINNING</comment>
+        <translation>動作設定ボタン：最初</translation>
+    </message>
+    <message>
+        <source>Action Button: Custom</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_CUSTOM</comment>
+        <translation>動作設定ボタン：ユーザー設定</translation>
+    </message>
+    <message>
+        <source>Action Button: Custom</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_CUSTOM</comment>
+        <translation>動作設定ボタン：ユーザー設定</translation>
+    </message>
+    <message>
+        <source>Action Button: Document</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_DOCUMENT</comment>
+        <translation>動作設定ボタン：ドキュメント</translation>
+    </message>
+    <message>
+        <source>Action Button: Document</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_DOCUMENT</comment>
+        <translation>動作設定ボタン：ドキュメント</translation>
+    </message>
+    <message>
+        <source>Action Button: End</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_END</comment>
+        <translation>動作設定ボタン：最後</translation>
+    </message>
+    <message>
+        <source>Action Button: End</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_END</comment>
+        <translation>動作設定ボタン：最後</translation>
+    </message>
+    <message>
+        <source>Action Button: Forward or Next</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_FORWARD_OR_NEXT</comment>
+        <translation>動作設定ボタン：進む/次へ</translation>
+    </message>
+    <message>
+        <source>Action Button: Forward or Next</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_FORWARD_OR_NEXT</comment>
+        <translation>動作設定ボタン：進む/次へ</translation>
+    </message>
+    <message>
+        <source>Action Button: Help</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_HELP</comment>
+        <translation>動作設定ボタン：ヘルプ</translation>
+    </message>
+    <message>
+        <source>Action Button: Help</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_HELP</comment>
+        <translation>動作設定ボタン：ヘルプ</translation>
+    </message>
+    <message>
+        <source>Action Button: Home</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_HOME</comment>
+        <translation>動作設定ボタン：ホーム</translation>
+    </message>
+    <message>
+        <source>Action Button: Home</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_HOME</comment>
+        <translation>動作設定ボタン：ホーム</translation>
+    </message>
+    <message>
+        <source>Action Button: Information</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_INFORMATION</comment>
+        <translation>動作設定ボタン：情報</translation>
+    </message>
+    <message>
+        <source>Action Button: Information</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_INFORMATION</comment>
+        <translation>動作設定ボタン：情報</translation>
+    </message>
+    <message>
+        <source>Action Button: Movie</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_MOVIE</comment>
+        <translation>動作設定ボタン：ビデオ</translation>
+    </message>
+    <message>
+        <source>Action Button: Movie</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_MOVIE</comment>
+        <translation>動作設定ボタン：ビデオ</translation>
+    </message>
+    <message>
+        <source>Action Button: Return</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_RETURN</comment>
+        <translation>動作設定ボタン：戻る</translation>
+    </message>
+    <message>
+        <source>Action Button: Return</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_RETURN</comment>
+        <translation>動作設定ボタン：戻る</translation>
+    </message>
+    <message>
+        <source>Action Button: Sound</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_SOUND</comment>
+        <translation>動作設定ボタン：サウンド</translation>
+    </message>
+    <message>
+        <source>Action Button: Sound</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_SOUND</comment>
+        <translation>動作設定ボタン：サウンド</translation>
+    </message>
+    <message>
+        <source>AliceBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ALICEBLUE</comment>
+        <translation>薄青色</translation>
+    </message>
+    <message>
+        <source>Angle</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Angle</comment>
+        <translation>角度</translation>
+    </message>
+    <message>
+        <source>Anti-Clockwise</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_ANTICLOCKWISE</comment>
+        <translation>反時計回り</translation>
+    </message>
+    <message>
+        <source>AntiqueWhite</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ANTIQUEWHITE</comment>
+        <translation>アンティークホワイト</translation>
+    </message>
+    <message>
+        <source>Aqua</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_AQUA</comment>
+        <translation>アクア</translation>
+    </message>
+    <message>
+        <source>Aquamarine</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_AQUAMARINE</comment>
+        <translation>アクアマリン</translation>
+    </message>
+    <message>
+        <source>Arbitrary Polygon</source>
+        <comment>DRAWING2_TOOLTIP_ARBITRARY_POLYGON</comment>
+        <translation>フリーハンド</translation>
+    </message>
+    <message>
+        <source>Arc</source>
+        <comment>DRAWING2STR_ARC</comment>
+        <translation>円弧</translation>
+    </message>
+    <message>
+        <source>Arc</source>
+        <comment>DRAWING2_TOOLTIP_ARC</comment>
+        <translation>円弧</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_ARROE</comment>
+        <translation>矢印</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_ARROW</comment>
+        <translation>矢印</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <comment>DRAWING2_TOOLTIP_ARROW</comment>
+        <translation>矢印</translation>
+    </message>
+    <message>
+        <source>Arrow Pentagon</source>
+        <comment>DRAWING2_TOOLTIP_ARROW_PENTAGON</comment>
+        <translation>五角形矢印</translation>
+    </message>
+    <message>
+        <source>Art Decoration</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_ArtDecoration</comment>
+        <translation>矢印の装飾</translation>
+    </message>
+    <message>
+        <source>AutoShape</source>
+        <comment>DRAWINGSTR_AUTOSHAPE</comment>
+        <translation>図形選択</translation>
+    </message>
+    <message>
+        <source>Azure</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_AZURE</comment>
+        <translation>空色</translation>
+    </message>
+    <message>
+        <source>Background1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>背景1</translation>
+    </message>
+    <message>
+        <source>Background2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>背景2</translation>
+    </message>
+    <message>
+        <source>BackwardDiagonal</source>
+        <comment>wpp_sTooltipPatternBackwardDiagonal</comment>
+        <translation>斜め背景</translation>
+    </message>
+    <message>
+        <source>Base Shape</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_NORMAL</comment>
+        <translation>基本図形</translation>
+    </message>
+    <message>
+        <source>Beige</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BEIGE</comment>
+        <translation>ベージュ</translation>
+    </message>
+    <message>
+        <source>Bent Arrow</source>
+        <comment>DRAWING2STR_BENT_ARROW</comment>
+        <translation>曲折矢印</translation>
+    </message>
+    <message>
+        <source>Bent-Up Arrow</source>
+        <comment>DRAWING2STR_BENT_UP_ARROW</comment>
+        <translation>屈折矢印</translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <comment>DRAWING2STR_BEVEL</comment>
+        <translation>額縁</translation>
+    </message>
+    <message>
+        <source>Bisque</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BISQUE</comment>
+        <translation>ビスク</translation>
+    </message>
+    <message>
+        <source>Black</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BLACK</comment>
+        <translation>黒</translation>
+    </message>
+    <message>
+        <source>Blance</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_BLANCE</comment>
+        <translation>バランス</translation>
+    </message>
+    <message>
+        <source>BlanchedAlmond</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BLANCHEDALMON</comment>
+        <translation>湯通しアーモンド</translation>
+    </message>
+    <message>
+        <source>Block Arc</source>
+        <comment>DRAWING2STR_BLOCK_ARC</comment>
+        <translation>アーチ</translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BLUE</comment>
+        <translation>青</translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_BLUE</comment>
+        <translation>青</translation>
+    </message>
+    <message>
+        <source>BlueViolet</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BLUEVIOLET</comment>
+        <translation>青紫</translation>
+    </message>
+    <message>
+        <source>Both Ends Far</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BOTHENDSFAR</comment>
+        <translation>両側の遠端</translation>
+    </message>
+    <message>
+        <source>Both Ends Near</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BOTHENDSNEAR</comment>
+        <translation>両端の近く</translation>
+    </message>
+    <message>
+        <source>Bottom-Left To Top-Right</source>
+        <comment>wpp_sTooltipGradientLinearBottomLefttoTopRight</comment>
+        <translation>左下から右上</translation>
+    </message>
+    <message>
+        <source>Bottom-Right To Top-Left</source>
+        <comment>wpp_sTooltipGradientLinearBottomRighttoTopLeft</comment>
+        <translation>右下から左上</translation>
+    </message>
+    <message>
+        <source>Brige-Shape</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BRIGESHAPE</comment>
+        <translation>ブリッジ形状</translation>
+    </message>
+    <message>
+        <source>Bright Room</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_BRIGHTROOM</comment>
+        <translation>明るい部屋</translation>
+    </message>
+    <message>
+        <source>Brown</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BROWN</comment>
+        <translation>茶</translation>
+    </message>
+    <message>
+        <source>BurlyWood</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BURLYWOOD</comment>
+        <translation>大きな森</translation>
+    </message>
+    <message>
+        <source>Button</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_BUTTON</comment>
+        <translation>ボタン</translation>
+    </message>
+    <message>
+        <source>Button</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BUTTON</comment>
+        <translation>ボタン</translation>
+    </message>
+    <message>
+        <source>CadetBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CADETBLUE</comment>
+        <translation>くすんだ青</translation>
+    </message>
+    <message>
+        <source>Callout</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_CALLOUT</comment>
+        <translation>引出線</translation>
+    </message>
+    <message>
+        <source>Can</source>
+        <comment>DRAWING2STR_CAN</comment>
+        <translation>円柱</translation>
+    </message>
+    <message>
+        <source>Can</source>
+        <comment>DRAWING2_TOOLTIP_CAN</comment>
+        <translation>円柱</translation>
+    </message>
+    <message>
+        <source>Canvas</source>
+        <comment>DRAWING2STR_CANVAS</comment>
+        <translation>キャンバス</translation>
+    </message>
+    <message>
+        <source>Center Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_CENTEROFFSET</comment>
+        <translation>中央補正</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <comment>DRAWING2STR_CHART</comment>
+        <translation>グラフ</translation>
+    </message>
+    <message>
+        <source>Chartreuse</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CHARTREUSE</comment>
+        <translation>明るい黄緑色</translation>
+    </message>
+    <message>
+        <source>Chevron</source>
+        <comment>DRAWING2STR_CHEVRON</comment>
+        <translation>山形</translation>
+    </message>
+    <message>
+        <source>Chocolate</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CHOCOLATE</comment>
+        <translation>チョコレート</translation>
+    </message>
+    <message>
+        <source>Chord</source>
+        <comment>DRAWING2STR_CHORD</comment>
+        <translation>Chord</translation>
+    </message>
+    <message>
+        <source>Chord</source>
+        <comment>DRAWING2_TOOLTIP_CHORD</comment>
+        <translation>Chord</translation>
+    </message>
+    <message>
+        <source>Circle</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Circle</comment>
+        <translation>円</translation>
+    </message>
+    <message>
+        <source>Circle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_CIRCLE</comment>
+        <translation>円</translation>
+    </message>
+    <message>
+        <source>Circle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_CIRCLE</comment>
+        <translation>円</translation>
+    </message>
+    <message>
+        <source>Circle Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_CIRCLE</comment>
+        <translation>円矢印</translation>
+    </message>
+    <message>
+        <source>Circle Point</source>
+        <comment>DRAWING2_LINE_NAME_CIRCLEPOINT</comment>
+        <translation>円ポイント</translation>
+    </message>
+    <message>
+        <source>Circular Arrow</source>
+        <comment>DRAWING2STR_CIRCULAR_ARROW</comment>
+        <translation>環状矢印</translation>
+    </message>
+    <message>
+        <source>Circular Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_CIRCULAR_ARROW_CALLOUT</comment>
+        <translation>円矢印引出線</translation>
+    </message>
+    <message>
+        <source>Clear </source>
+        <comment>wpp_sTooltipMaterialTypeClear</comment>
+        <translation>クリア</translation>
+    </message>
+    <message>
+        <source>Clockwise</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_CLOCKWISE</comment>
+        <translation>時計回り</translation>
+    </message>
+    <message>
+        <source>Close-Image,4 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_4PT_OFFSET</comment>
+        <translation>近接画像 4pt 補正</translation>
+    </message>
+    <message>
+        <source>Close-Image,8 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_8PT_OFFSET</comment>
+        <translation>近接画像 8pt 補正</translation>
+    </message>
+    <message>
+        <source>Close-Image,Touch</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_TOUCH</comment>
+        <translation>近接画像 接触</translation>
+    </message>
+    <message>
+        <source>Cloud</source>
+        <comment>DRAWING2STR_CLOUD</comment>
+        <translation>雲</translation>
+    </message>
+    <message>
+        <source>Cloud</source>
+        <comment>DRAWING2_TOOLTIP_CLOUD</comment>
+        <translation>雲</translation>
+    </message>
+    <message>
+        <source>Cloud Callout</source>
+        <comment>DRAWING2STR_CLOUD_CALLOUT</comment>
+        <translation>雲形吹き出し</translation>
+    </message>
+    <message>
+        <source>Cloud Callout</source>
+        <comment>DRAWING2_TOOLTIP_CLOUD_CALLOUT</comment>
+        <translation>雲形吹き出し</translation>
+    </message>
+    <message>
+        <source>Coarse To Fine</source>
+        <comment>DRAWING2_LINE_TYPE_COARSETOFINE</comment>
+        <translation>粗野から微細</translation>
+    </message>
+    <message>
+        <source>Cold</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_COLD</comment>
+        <translation>寒色</translation>
+    </message>
+    <message>
+        <source>ColorFill-</source>
+        <comment>wpp_sTooltipShapeStyleColorFill</comment>
+        <translation>色の塗りつぶし-</translation>
+    </message>
+    <message>
+        <source>ColorOutLine-</source>
+        <comment>wpp_sTooltipShapeStyleColorOutLine</comment>
+        <translation>色アウトライン-</translation>
+    </message>
+    <message>
+        <source>Concentric Circle</source>
+        <comment>DRAWING2_TOOLTIP_CONCENTRIC_CIRCLE</comment>
+        <translation>同心円</translation>
+    </message>
+    <message>
+        <source>Contrast</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_CONTRAST</comment>
+        <translation>コントラスト</translation>
+    </message>
+    <message>
+        <source>Convert OLE Object</source>
+        <comment>DRAWING2_CONVERTOLEOBJECT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convex Curved Strip</source>
+        <comment>DRAWING2_TOOLTIP_CONVEX_CURVED_STRIP</comment>
+        <translation>凸曲面を取り除く</translation>
+    </message>
+    <message>
+        <source>Convex Strip</source>
+        <comment>DRAWING2_TOOLTIP_CONVEX_STRIP</comment>
+        <translation>凸を取り除く</translation>
+    </message>
+    <message>
+        <source>CoolSlope</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_CoolSlope</comment>
+        <translation>弱い傾斜</translation>
+    </message>
+    <message>
+        <source>Coral</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CORAL</comment>
+        <translation>コーラル</translation>
+    </message>
+    <message>
+        <source>CornflowerBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CORNFLOWERBLUE</comment>
+        <translation>トウモロコシの花ブルー</translation>
+    </message>
+    <message>
+        <source>Cornsilk</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CORNSILK</comment>
+        <translation>トウモロコシの毛</translation>
+    </message>
+    <message>
+        <source>Crimson</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CRIMSON</comment>
+        <translation>深紅</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>DRAWING2STR_CROSS</comment>
+        <translation>十字形</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Cross</comment>
+        <translation>十字形</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>DRAWING2_TOOLTIP_CROSS</comment>
+        <translation>十字形</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>wpp_sTooltipArtWordPatternFill</comment>
+        <translation>十字形</translation>
+    </message>
+    <message>
+        <source>Cross Arrow</source>
+        <comment>DRAWING2_TOOLTIP_CROSS_ARROW</comment>
+        <translation>四方向矢印</translation>
+    </message>
+    <message>
+        <source>Cross Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_CROSS_ARROW_CALLOUT</comment>
+        <translation>交差矢印の引出線</translation>
+    </message>
+    <message>
+        <source>Cube</source>
+        <comment>DRAWING2STR_CUBE</comment>
+        <translation>直方形</translation>
+    </message>
+    <message>
+        <source>Cube</source>
+        <comment>DRAWING2_TOOLTIP_CUBE</comment>
+        <translation>直方形</translation>
+    </message>
+    <message>
+        <source>Curve</source>
+        <comment>DRAWING2_TOOLTIP_CURVE</comment>
+        <translation>曲線コネクタ</translation>
+    </message>
+    <message>
+        <source>Curved Arrow Connector</source>
+        <comment>DRAWING2_TOOLTIP_CURVED_ARROW_CONNECTOR</comment>
+        <translation>曲線矢印コネクタ</translation>
+    </message>
+    <message>
+        <source>Curved Connector</source>
+        <comment>DRAWING2STR_CURVED_CONNECTOR</comment>
+        <translation>曲線コネクタ</translation>
+    </message>
+    <message>
+        <source>Curved Connector</source>
+        <comment>DRAWING2_TOOLTIP_CURVED_CONNECTOR</comment>
+        <translation>曲線コネクタ</translation>
+    </message>
+    <message>
+        <source>Curved Double Arrow Connector</source>
+        <comment>DRAWING2_TOOLTIP_CURVED_DOUBLE_ARROW_CONNECTOR</comment>
+        <translation>曲線双方向矢印コネクタ</translation>
+    </message>
+    <message>
+        <source>Curved Down Arrow</source>
+        <comment>DRAWING2STR_CURVED_DOWN_ARROW</comment>
+        <translation>下カーブ矢印</translation>
+    </message>
+    <message>
+        <source>Curved Down Ribbon</source>
+        <comment>DRAWING2STR_CURVED_DOWN_RIBBON</comment>
+        <translation>下カーブリボン</translation>
+    </message>
+    <message>
+        <source>Curved Left Arrow</source>
+        <comment>DRAWING2STR_CURVED_LEFT_ARROW</comment>
+        <translation>左カーブﾞ矢印</translation>
+    </message>
+    <message>
+        <source>Curved Right Arrow</source>
+        <comment>DRAWING2STR_CURVED_RIGHT_ARROW</comment>
+        <translation>右カーブ矢印</translation>
+    </message>
+    <message>
+        <source>Curved Up Arrow</source>
+        <comment>DRAWING2STR_CURVED_UP_ARROW</comment>
+        <translation>上カーブ矢印</translation>
+    </message>
+    <message>
+        <source>Curved Up Ribbon</source>
+        <comment>DRAWING2STR_CURVED_UP_RIBBON</comment>
+        <translation>上カーブリボン</translation>
+    </message>
+    <message>
+        <source>Cyan</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CYAN</comment>
+        <translation>シアン</translation>
+    </message>
+    <message>
+        <source>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSLATEBLUE</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_CUSTOM</comment>
+        <translation>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSLATEBLUE</translation>
+    </message>
+    <message>
+        <source>Dark1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>暗色1</translation>
+    </message>
+    <message>
+        <source>Dark2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>暗色2</translation>
+    </message>
+    <message>
+        <source>DarkBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKBLUE</comment>
+        <translation>ダークブルー</translation>
+    </message>
+    <message>
+        <source>DarkColor%1</source>
+        <comment>wpp_sTooltipShapeStyleDarkColor</comment>
+        <translation>暗色%1</translation>
+    </message>
+    <message>
+        <source>DarkCyan</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKCYAN</comment>
+        <translation>ダークシアン</translation>
+    </message>
+    <message>
+        <source>DarkDownwardDiagonal	</source>
+        <comment>wpp_sTooltipPatternDarkDownwardDiagonal</comment>
+        <translation>暗い右下がり対角線</translation>
+    </message>
+    <message>
+        <source>DarkEdge </source>
+        <comment>wpp_sTooltipMaterialTypeDarkEdge</comment>
+        <translation>暗い境界</translation>
+    </message>
+    <message>
+        <source>DarkGoldenrod</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKGOLDENROD</comment>
+        <translation>暗い金</translation>
+    </message>
+    <message>
+        <source>DarkGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKGRAY</comment>
+        <translation>暗い灰色</translation>
+    </message>
+    <message>
+        <source>DarkGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKGREEN</comment>
+        <translation>暗い緑</translation>
+    </message>
+    <message>
+        <source>DarkHorizontal</source>
+        <comment>wpp_sTooltipPatternDarkHorizontal</comment>
+        <translation>暗い水平線</translation>
+    </message>
+    <message>
+        <source>DarkKhaki</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKKHAKI</comment>
+        <translation>暗いカーキ</translation>
+    </message>
+    <message>
+        <source>DarkMagenta</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKMAGENTA</comment>
+        <translation>暗いマゼンタ</translation>
+    </message>
+    <message>
+        <source>DarkOliveGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKOLIVEGREEN</comment>
+        <translation>暗いオリーブグリーン</translation>
+    </message>
+    <message>
+        <source>DarkOrange</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKORANGE</comment>
+        <translation>暗いオレンジ</translation>
+    </message>
+    <message>
+        <source>DarkOrchid</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKORCHID</comment>
+        <translation>暗い赤紫色</translation>
+    </message>
+    <message>
+        <source>DarkRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKRED</comment>
+        <translation>暗い赤</translation>
+    </message>
+    <message>
+        <source>DarkSalmon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSALMON</comment>
+        <translation>暗いサーモン</translation>
+    </message>
+    <message>
+        <source>DarkSeaGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSEAGREEN</comment>
+        <translation>暗いシーグリーン</translation>
+    </message>
+    <message>
+        <source>DarkSlateBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSLATEBLUE</comment>
+        <translation>暗い青灰色</translation>
+    </message>
+    <message>
+        <source>DarkSlateGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSLATEGRAY</comment>
+        <translation>暗い濃灰色</translation>
+    </message>
+    <message>
+        <source>DarkTurquoise</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKTURQUOISE</comment>
+        <translation>暗いターコイズ</translation>
+    </message>
+    <message>
+        <source>DarkUpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternDarkUpwardDiagonal</comment>
+        <translation>右上がり対角線(反転)</translation>
+    </message>
+    <message>
+        <source>DarkVertical </source>
+        <comment>wpp_sTooltipPatternDarkHorizontal</comment>
+        <translation>縦線(太)</translation>
+    </message>
+    <message>
+        <source>DarkViolet</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKVIOLET</comment>
+        <translation>暗い紫</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_DASH</comment>
+        <translation>破線</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_DASHDOT</comment>
+        <translation>一点鎖線</translation>
+    </message>
+    <message>
+        <source>Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DASH</comment>
+        <translation>破線</translation>
+    </message>
+    <message>
+        <source>Dash Line-Point</source>
+        <comment>DRAWING2_LINE_NAME_DASHLINEPOINT</comment>
+        <translation>点付き破線</translation>
+    </message>
+    <message>
+        <source>Dash line</source>
+        <comment>DRAWING2_LINE_NAME_DASHLINE</comment>
+        <translation>破線</translation>
+    </message>
+    <message>
+        <source>DashedDownwardDiagonal</source>
+        <comment>wpp_sTooltipPatternDashedDownwardDiagonal</comment>
+        <translation>右下がり対角線</translation>
+    </message>
+    <message>
+        <source>DashedHorizontal	</source>
+        <comment>wpp_sTooltipPatternDashedHorizontal</comment>
+        <translation>横線(破線)</translation>
+    </message>
+    <message>
+        <source>DashedUpwardDiagonal	</source>
+        <comment>wpp_sTooltipPatternDashedUpwardDiagonal</comment>
+        <translation>右上がり対角線</translation>
+    </message>
+    <message>
+        <source>DashedVertical</source>
+        <comment>wpp_sTooltipPatternDashedVertical</comment>
+        <translation>縦線(破線)</translation>
+    </message>
+    <message>
+        <source>Decagon</source>
+        <comment>DRAWING2STR_DECAGON</comment>
+        <translation>十角形</translation>
+    </message>
+    <message>
+        <source>Decagon</source>
+        <comment>DRAWING2_TOOLTIP_DECAGON</comment>
+        <translation>十角形</translation>
+    </message>
+    <message>
+        <source>Deep Blue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_DEEPBLUE</comment>
+        <translation>濃青</translation>
+    </message>
+    <message>
+        <source>Deep Red</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_DEEPRED</comment>
+        <translation>濃赤</translation>
+    </message>
+    <message>
+        <source>DeepPink</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DEEPPINK</comment>
+        <translation>濃ピンク</translation>
+    </message>
+    <message>
+        <source>DeepSkyBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DEEPSKYBLUE</comment>
+        <translation>濃スカイブルー</translation>
+    </message>
+    <message>
+        <source>Diagonal Stripe</source>
+        <comment>DRAWING2STR_DIAGONAL_STRIPE</comment>
+        <translation>斜め縞模様</translation>
+    </message>
+    <message>
+        <source>Diagonal Stripe</source>
+        <comment>DRAWING2_TOOLTIP_DIAGONAL_STRIPE</comment>
+        <translation>斜め縞模様</translation>
+    </message>
+    <message>
+        <source>DiagonalBrick</source>
+        <comment>wpp_sTooltipPatternDiagonalBrick</comment>
+        <translation>れんが(斜め)</translation>
+    </message>
+    <message>
+        <source>DiagonalCross</source>
+        <comment>wpp_sTooltipPatternDiagonalCross</comment>
+        <translation>交差対角線</translation>
+    </message>
+    <message>
+        <source>Diagram</source>
+        <comment>DRAWING2STR_DIAGRAM</comment>
+        <translation>Diagram</translation>
+    </message>
+    <message>
+        <source>Diamond</source>
+        <comment>DRAWING2STR_DIAMOND</comment>
+        <translation>ひし形</translation>
+    </message>
+    <message>
+        <source>Diamond</source>
+        <comment>DRAWING2_TOOLTIP_DIAMOND</comment>
+        <translation>ひし形</translation>
+    </message>
+    <message>
+        <source>Diamond Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_DIAMOND</comment>
+        <translation>ひし形（矢印）</translation>
+    </message>
+    <message>
+        <source>DimGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DIMGRAY</comment>
+        <translation>薄灰色</translation>
+    </message>
+    <message>
+        <source>Division</source>
+        <comment>DRAWING2STR_DIVISION</comment>
+        <translation>除算記号</translation>
+    </message>
+    <message>
+        <source>Division</source>
+        <comment>DRAWING2_TOOLTIP_DIVISION</comment>
+        <translation>除算記号</translation>
+    </message>
+    <message>
+        <source>Dodecagon</source>
+        <comment>DRAWING2STR_DODECAGON</comment>
+        <translation>12角形</translation>
+    </message>
+    <message>
+        <source>Dodecagon</source>
+        <comment>DRAWING2_TOOLTIP_DODECAGON</comment>
+        <translation>12角形</translation>
+    </message>
+    <message>
+        <source>DodgerBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DODGERBLUE</comment>
+        <translation>ドジャーブルー</translation>
+    </message>
+    <message>
+        <source>Donut</source>
+        <comment>DRAWING2STR_DONUT</comment>
+        <translation>ドーナツ</translation>
+    </message>
+    <message>
+        <source>Dot Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOT_DASH</comment>
+        <translation>点鎖線</translation>
+    </message>
+    <message>
+        <source>Dot Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOT</comment>
+        <translation>点線</translation>
+    </message>
+    <message>
+        <source>DottedDiamond</source>
+        <comment>wpp_sTooltipPatternDottedDiamond</comment>
+        <translation>ひし形(点)</translation>
+    </message>
+    <message>
+        <source>DottedGrid</source>
+        <comment>wpp_sTooltipPatternDottedGrid</comment>
+        <translation>格子(点)</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_DOUBLE</comment>
+        <translation>二重</translation>
+    </message>
+    <message>
+        <source>Double Arrow</source>
+        <comment>DRAWING2_TOOLTIP_ELBOW_CONNECTOR</comment>
+        <translation>双方向矢印</translation>
+    </message>
+    <message>
+        <source>Double Brace</source>
+        <comment>DRAWING2STR_DOUBLE_BRACE</comment>
+        <translation>二重中括弧</translation>
+    </message>
+    <message>
+        <source>Double Brace</source>
+        <comment>DRAWING2_TOOLTIP_DOUBLE_BRACE</comment>
+        <translation>二重中括弧</translation>
+    </message>
+    <message>
+        <source>Double Bracket</source>
+        <comment>DRAWING2STR_DOUBLE_BRACKET</comment>
+        <translation>二重角括弧</translation>
+    </message>
+    <message>
+        <source>Double Bracket</source>
+        <comment>DRAWING2_TOOLTIP_DOUBLE_BRACKET</comment>
+        <translation>二重角括弧</translation>
+    </message>
+    <message>
+        <source>Double Dot Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOUBLE_DOT_DASH</comment>
+        <translation>二重点鎖線</translation>
+    </message>
+    <message>
+        <source>Double Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOUBLE</comment>
+        <translation>二重線</translation>
+    </message>
+    <message>
+        <source>Double Lines</source>
+        <comment>DRAWING2_LINE_TYPE_DOUBLEINE</comment>
+        <translation>二重線</translation>
+    </message>
+    <message>
+        <source>Double Turnnel</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOUBLETURNNEL</comment>
+        <translation>二重釘</translation>
+    </message>
+    <message>
+        <source>Double Wave</source>
+        <comment>DRAWING2STR_DOUBLE_WAVE</comment>
+        <translation>波形2</translation>
+    </message>
+    <message>
+        <source>Double Wave</source>
+        <comment>DRAWING2_TOOLTIP_DOUBLE_WAVE</comment>
+        <translation>波形</translation>
+    </message>
+    <message>
+        <source>Double Wavy Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOUBLE_WAVY</comment>
+        <translation>二重波線</translation>
+    </message>
+    <message>
+        <source>DoubleWave1</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOUBLEWAVE1</comment>
+        <translation>波型1</translation>
+    </message>
+    <message>
+        <source>DoubleWave2</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOUBLEWAVE2</comment>
+        <translation>波型2</translation>
+    </message>
+    <message>
+        <source>Dove Tail</source>
+        <comment>DRAWING2_TOOLTIP_DOVE_TAIL</comment>
+        <translation>鳩の尾</translation>
+    </message>
+    <message>
+        <source>Dove Tail Arrow</source>
+        <comment>DRAWING2_TOOLTIP_DOVE_TAIL_ARROW</comment>
+        <translation>Dove Tail Arrow</translation>
+    </message>
+    <message>
+        <source>Dovetail Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_DOVETAIL</comment>
+        <translation>鳩の尾矢印</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_DOWN</comment>
+        <translation>下</translation>
+    </message>
+    <message>
+        <source>Down Arc</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_DOWNARC</comment>
+        <translation>下円</translation>
+    </message>
+    <message>
+        <source>Down Arrow</source>
+        <comment>DRAWING2STR_DOWN_ARROW</comment>
+        <translation>下矢印</translation>
+    </message>
+    <message>
+        <source>Down Arrow</source>
+        <comment>DRAWING2_TOOLTIP_DOWN_ARROW</comment>
+        <translation>下矢印</translation>
+    </message>
+    <message>
+        <source>Down Arrow Callout</source>
+        <comment>DRAWING2STR_DOWN_ARROW_CALLOUT</comment>
+        <translation>下矢印吹き出し</translation>
+    </message>
+    <message>
+        <source>Down Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_DOWN_ARROW_CALLOUT</comment>
+        <translation>下矢印吹き出し</translation>
+    </message>
+    <message>
+        <source>Down Curved Arrow</source>
+        <comment>DRAWING2_TOOLTIP_DOWN_CURVED_ARROW</comment>
+        <translation>下カーブ矢印</translation>
+    </message>
+    <message>
+        <source>Down Offset	</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_DOWNOFFSET</comment>
+        <translation>下補正</translation>
+    </message>
+    <message>
+        <source>Down Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_DOWNPERSPECTIVE</comment>
+        <translation>下遠近</translation>
+    </message>
+    <message>
+        <source>Down Ribbon</source>
+        <comment>DRAWING2STR_DOWN_RIBBON</comment>
+        <translation>下リボン</translation>
+    </message>
+    <message>
+        <source>DownArc</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOWNARC</comment>
+        <translation>下円</translation>
+    </message>
+    <message>
+        <source>DownwardDiagnal</source>
+        <comment>wpp_sTooltipPatternDownwardDiagnal</comment>
+        <translation>暗い</translation>
+    </message>
+    <message>
+        <source>Elbow Arrow Connector</source>
+        <comment>DRAWING2_TOOLTIP_ELBOW_ARROW_CONNECTOR</comment>
+        <translation>カギ線矢印コネクタ</translation>
+    </message>
+    <message>
+        <source>Elbow Connector</source>
+        <comment>DRAWING2STR_ELBOW_CONNECTOR</comment>
+        <translation>カギ線コネクタ</translation>
+    </message>
+    <message>
+        <source>Elbow Connector</source>
+        <comment>DRAWING2_TOOLTIP_ELBOW_ARROW_CONNECTOR</comment>
+        <translation>カギ線コネクタ</translation>
+    </message>
+    <message>
+        <source>Elbow Double Arrow Connector</source>
+        <comment>DRAWING2_TOOLTIP_ELBOW_DOUBLE_ARROW_CONNECTOR</comment>
+        <translation>カギ線双方向矢印コネクタ</translation>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <comment>DRAWING2_TOOLTIP_ELLIPSE</comment>
+        <translation>楕円</translation>
+    </message>
+    <message>
+        <source>Equal</source>
+        <comment>DRAWING2STR_EQUAL</comment>
+        <translation>等号</translation>
+    </message>
+    <message>
+        <source>Equal</source>
+        <comment>DRAWING2_TOOLTIP_EQUAL</comment>
+        <translation>等号</translation>
+    </message>
+    <message>
+        <source>Equiaxia Down</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_EQUIAXIADOWN</comment>
+        <translation>下当軸</translation>
+    </message>
+    <message>
+        <source>Equiaxial Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_EQUIAXIALUP</comment>
+        <translation>上等軸</translation>
+    </message>
+    <message>
+        <source>Explosion 1</source>
+        <comment>DRAWING2STR_EXPLOSION_1</comment>
+        <translation>爆発1</translation>
+    </message>
+    <message>
+        <source>Explosion 1</source>
+        <comment>DRAWING2_TOOLTIP_EXPLOSION_1</comment>
+        <translation>爆発1</translation>
+    </message>
+    <message>
+        <source>Explosion 2</source>
+        <comment>DRAWING2STR_EXPLOSION_2</comment>
+        <translation>爆発2</translation>
+    </message>
+    <message>
+        <source>Explosion 2</source>
+        <comment>DRAWING2_TOOLTIP_EXPLOSION_2</comment>
+        <translation>爆発2</translation>
+    </message>
+    <message>
+        <source>Fillet Right Arrow</source>
+        <comment>DRAWING2_TOOLTIP_FILLET_RIGHT_ARROW</comment>
+        <translation>三方向矢印</translation>
+    </message>
+    <message>
+        <source>Fine To Coarse</source>
+        <comment>DRAWING2_LINE_TYPE_FINETOCOARSE</comment>
+        <translation>微細から粗野</translation>
+    </message>
+    <message>
+        <source>FireBrick</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_FIREBRICK</comment>
+        <translation>耐火れんが</translation>
+    </message>
+    <message>
+        <source>Flat </source>
+        <comment>wpp_sTooltipMaterialTypeFlat</comment>
+        <translation>浮動</translation>
+    </message>
+    <message>
+        <source>FloralWhite</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_FLORALWHITE</comment>
+        <translation>花の白</translation>
+    </message>
+    <message>
+        <source>Flowchart: Alternate Process</source>
+        <comment>DRAWING2STR_FLOWCHART_ALTERNATE_PROCESS</comment>
+        <translation>フローチャート：代替処理</translation>
+    </message>
+    <message>
+        <source>Flowchart: Alternate Process</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_ALTERNATE_PROCESS</comment>
+        <translation>フローチャート：代替処理</translation>
+    </message>
+    <message>
+        <source>Flowchart: Card</source>
+        <comment>DRAWING2STR_FLOWCHART_CARD</comment>
+        <translation>フローチャート：カード</translation>
+    </message>
+    <message>
+        <source>Flowchart: Card</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_CARD</comment>
+        <translation>フローチャート：カード</translation>
+    </message>
+    <message>
+        <source>Flowchart: Collate</source>
+        <comment>DRAWING2STR_FLOWCHART_COLLATE</comment>
+        <translation>フローチャート：照合</translation>
+    </message>
+    <message>
+        <source>Flowchart: Collate</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_COLLATE</comment>
+        <translation>フローチャート：照合</translation>
+    </message>
+    <message>
+        <source>Flowchart: Connector</source>
+        <comment>DRAWING2STR_FLOWCHART_CONNECTOR</comment>
+        <translation>フローチャート： 結合子</translation>
+    </message>
+    <message>
+        <source>Flowchart: Connector</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_CONNECTOR</comment>
+        <translation>フローチャート： 結合子</translation>
+    </message>
+    <message>
+        <source>Flowchart: Data</source>
+        <comment>DRAWING2STR_FLOWCHART_DATA</comment>
+        <translation>フローチャート：データ</translation>
+    </message>
+    <message>
+        <source>Flowchart: Data</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DATA</comment>
+        <translation>フローチャート：データ</translation>
+    </message>
+    <message>
+        <source>Flowchart: Decision</source>
+        <comment>DRAWING2STR_FLOWCHART_DECISION</comment>
+        <translation>フローチャート：判断</translation>
+    </message>
+    <message>
+        <source>Flowchart: Decision</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DECISION</comment>
+        <translation>フローチャート：判断</translation>
+    </message>
+    <message>
+        <source>Flowchart: Delay</source>
+        <comment>DRAWING2STR_FLOWCHART_DELAY</comment>
+        <translation>フローチャート：論理積ゲート</translation>
+    </message>
+    <message>
+        <source>Flowchart: Delay</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DELAY</comment>
+        <translation>フローチャート：論理積ゲート</translation>
+    </message>
+    <message>
+        <source>Flowchart: Direct Access Storage</source>
+        <comment>DRAWING2STR_FLOWCHART_DIRECT_ACCESS_STORAGE</comment>
+        <translation>フローチャート：直接アクセス記憶</translation>
+    </message>
+    <message>
+        <source>Flowchart: Direct Access Storage</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DIRECT_ACCESS_STORAGE</comment>
+        <translation>フローチャート：直接アクセス記憶</translation>
+    </message>
+    <message>
+        <source>Flowchart: Display</source>
+        <comment>DRAWING2STR_FLOWCHART_DISPLAY</comment>
+        <translation>フローチャート：表示</translation>
+    </message>
+    <message>
+        <source>Flowchart: Display</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DISPLAY</comment>
+        <translation>フローチャート：表示</translation>
+    </message>
+    <message>
+        <source>Flowchart: Document</source>
+        <comment>DRAWING2STR_FLOWCHART_DOCUMENT</comment>
+        <translation>フローチャート：書類</translation>
+    </message>
+    <message>
+        <source>Flowchart: Document</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DOCUMENT</comment>
+        <translation>フローチャート：書類</translation>
+    </message>
+    <message>
+        <source>Flowchart: Extract</source>
+        <comment>DRAWING2STR_FLOWCHART_EXTRACT</comment>
+        <translation>フローチャート：抜出し</translation>
+    </message>
+    <message>
+        <source>Flowchart: Extract</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_EXTRACT</comment>
+        <translation>フローチャート：抜出し</translation>
+    </message>
+    <message>
+        <source>Flowchart: Internal Storage</source>
+        <comment>DRAWING2STR_FLOWCHART_INTERNAL_STORAGE</comment>
+        <translation>フローチャート：内部記憶</translation>
+    </message>
+    <message>
+        <source>Flowchart: Internal Storage</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_INTERNAL_STORAGE</comment>
+        <translation>フローチャート：内部記憶</translation>
+    </message>
+    <message>
+        <source>Flowchart: Magnetic Disk</source>
+        <comment>DRAWING2STR_FLOWCHART_MAGNETIC_DISK</comment>
+        <translation>フローチャート：磁気ディスク</translation>
+    </message>
+    <message>
+        <source>Flowchart: Magnetic Disk</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MAGNETIC_DISK</comment>
+        <translation>フローチャート：磁気ディスク</translation>
+    </message>
+    <message>
+        <source>Flowchart: Manual Input</source>
+        <comment>DRAWING2STR_FLOWCHART_MANUAL_INPUT</comment>
+        <translation>フローチャート：手操作入力</translation>
+    </message>
+    <message>
+        <source>Flowchart: Manual Input</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MANUAL_INPUT</comment>
+        <translation>フローチャート：手操作入力</translation>
+    </message>
+    <message>
+        <source>Flowchart: Manual Operation</source>
+        <comment>DRAWING2STR_FLOWCHART_MANUAL_OPERATION</comment>
+        <translation>フローチャート：手作業</translation>
+    </message>
+    <message>
+        <source>Flowchart: Manual Operation</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MANUAL_OPERATION</comment>
+        <translation>フローチャート：手作業</translation>
+    </message>
+    <message>
+        <source>Flowchart: Merge</source>
+        <comment>DRAWING2STR_FLOWCHART_MERGE</comment>
+        <translation>フローチャート：組合せ</translation>
+    </message>
+    <message>
+        <source>Flowchart: Merge</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MERGE</comment>
+        <translation>フローチャート：組合せ</translation>
+    </message>
+    <message>
+        <source>Flowchart: Multidocument</source>
+        <comment>DRAWING2STR_FLOWCHART_MULTIDOCUMENT</comment>
+        <translation>フローチャート：複数書類</translation>
+    </message>
+    <message>
+        <source>Flowchart: Multidocument</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MULTIDOCUMENT</comment>
+        <translation>フローチャート：複数書類</translation>
+    </message>
+    <message>
+        <source>Flowchart: Off-Page Connector</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_OFF_PAGE_CONNECTOR</comment>
+        <translation>フローチャート：オフページ結合子</translation>
+    </message>
+    <message>
+        <source>Flowchart: Off-page Connector</source>
+        <comment>DRAWING2STR_FLOWCHART_OFF_PAGE_CONNECTOR</comment>
+        <translation>フローチャート：他ページ結合子</translation>
+    </message>
+    <message>
+        <source>Flowchart: Or</source>
+        <comment>DRAWING2STR_FLOWCHART_OR</comment>
+        <translation>フローチャート：論理和</translation>
+    </message>
+    <message>
+        <source>Flowchart: Or</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_OR</comment>
+        <translation>フローチャート：論理和</translation>
+    </message>
+    <message>
+        <source>Flowchart: Predefined Process</source>
+        <comment>DRAWING2STR_FLOWCHART_PREDEFINED_PROCESS</comment>
+        <translation>フローチャート：定義済み処理</translation>
+    </message>
+    <message>
+        <source>Flowchart: Predefined Process</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PREDEFINED_PROCESS</comment>
+        <translation>フローチャート：定義済み処理</translation>
+    </message>
+    <message>
+        <source>Flowchart: Preparation</source>
+        <comment>DRAWING2STR_FLOWCHART_PREPARATION</comment>
+        <translation>フローチャート：準備</translation>
+    </message>
+    <message>
+        <source>Flowchart: Preparation</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PREPARATION</comment>
+        <translation>フローチャート：準備</translation>
+    </message>
+    <message>
+        <source>Flowchart: Process</source>
+        <comment>DRAWING2STR_FLOWCHART_PROCESS</comment>
+        <translation>フローチャート：処理</translation>
+    </message>
+    <message>
+        <source>Flowchart: Process</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PROCESS</comment>
+        <translation>フローチャート：処理</translation>
+    </message>
+    <message>
+        <source>Flowchart: Punched Tape</source>
+        <comment>DRAWING2STR_FLOWCHART_PUNCHED_TAPE</comment>
+        <translation>フローチャート：せん孔テープ</translation>
+    </message>
+    <message>
+        <source>Flowchart: Punched Tape</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PUNCHED_TAPE</comment>
+        <translation>フローチャート：せん孔テープ</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWING2STR_FLOWCHART_SEQUENTIAL_ACCESS_STORAGE</comment>
+        <translation>フローチャート：順次アクセス記憶</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_SEQUENTIAL_ACCESS_STORAGE</comment>
+        <translation>フローチャート：順次アクセス記憶</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sort</source>
+        <comment>DRAWING2STR_FLOWCHART_SORT</comment>
+        <translation>フローチャート：分類</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sort</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_SORT</comment>
+        <translation>フローチャート：分類</translation>
+    </message>
+    <message>
+        <source>Flowchart: Stored Data</source>
+        <comment>DRAWING2STR_FLOWCHART_STORED_DATA</comment>
+        <translation>フローチャート：記憶データ</translation>
+    </message>
+    <message>
+        <source>Flowchart: Stored Data</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_STORED_DATA</comment>
+        <translation>フローチャート：記憶データ</translation>
+    </message>
+    <message>
+        <source>Flowchart: Summing Junction</source>
+        <comment>DRAWING2STR_FLOWCHART_SUMMING_JUNCTION</comment>
+        <translation>フローチャート：和接合</translation>
+    </message>
+    <message>
+        <source>Flowchart: Summing Junction</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_SUMMING_JUNCTION</comment>
+        <translation>フローチャート：和接合</translation>
+    </message>
+    <message>
+        <source>Flowchart: Terminator</source>
+        <comment>DRAWING2STR_FLOWCHART_TERMINATOR</comment>
+        <translation>フローチャート：端子</translation>
+    </message>
+    <message>
+        <source>Flowchart: Terminator</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_TERMINATOR</comment>
+        <translation>フローチャート：端子</translation>
+    </message>
+    <message>
+        <source>Fold Angle</source>
+        <comment>DRAWING2_TOOLTIP_FOLDA_NGLE</comment>
+        <translation>直角</translation>
+    </message>
+    <message>
+        <source>Folded Corner</source>
+        <comment>DRAWING2STR_FOLDED_CORNER</comment>
+        <translation>メモ</translation>
+    </message>
+    <message>
+        <source>FollowedHyperlink1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>続くハイパーリンク1</translation>
+    </message>
+    <message>
+        <source>Forbidden Symbols</source>
+        <comment>DRAWING2_TOOLTIP_FORBIDDENSYMBOLS</comment>
+        <translation>Forbidden symbols</translation>
+    </message>
+    <message>
+        <source>ForestGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_FORESTGREEN</comment>
+        <translation>森の緑</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_FORMULA</comment>
+        <translation>数式</translation>
+    </message>
+    <message>
+        <source>Forward-Far BakckWord-Near</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_FORWARDFARBAKCKWORDNEAR</comment>
+        <translation>前-遠 後-近</translation>
+    </message>
+    <message>
+        <source>Forward-Near BakckWord-Far</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_FORWARDNEARBAKCKWORDFAR</comment>
+        <translation>前-近 後-遠</translation>
+    </message>
+    <message>
+        <source>ForwardDiagonal</source>
+        <comment>wpp_sTooltipPatternForwardDiagonal</comment>
+        <translation>前対角線</translation>
+    </message>
+    <message>
+        <source>Forwoar Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_FORWOARPERSPECTIVE</comment>
+        <translation>前遠近</translation>
+    </message>
+    <message>
+        <source>Frame</source>
+        <comment>DRAWING2STR_FRAME</comment>
+        <translation>フレーム</translation>
+    </message>
+    <message>
+        <source>Frame</source>
+        <comment>DRAWING2_TOOLTIP_FRAME</comment>
+        <translation>フレーム</translation>
+    </message>
+    <message>
+        <source>Free Curve</source>
+        <comment>DRAWING2_TOOLTIP_FREE_CURVE</comment>
+        <translation>フリーフォーム</translation>
+    </message>
+    <message>
+        <source>Freeform</source>
+        <comment>DRAWING2STR_FREEFORM</comment>
+        <translation>フリーフォーム</translation>
+    </message>
+    <message>
+        <source>From Bottom-Left Corne</source>
+        <comment>wpp_sTooltipGradientFromBottomLeftCorner</comment>
+        <translation>左下角から</translation>
+    </message>
+    <message>
+        <source>From Bottom-Right Corner</source>
+        <comment>wpp_sTooltipGradientFromBottomRightCorner</comment>
+        <translation>右下角から</translation>
+    </message>
+    <message>
+        <source>From Center</source>
+        <comment>wpp_sTooltipGradientFromCenter</comment>
+        <translation>中央から</translation>
+    </message>
+    <message>
+        <source>From Top-Left Corner</source>
+        <comment>wpp_sTooltipGradientFromTopLeftCorner</comment>
+        <translation>左上角から</translation>
+    </message>
+    <message>
+        <source>From Top-Right Corner</source>
+        <comment>wpp_sTooltipGradientFromTopRightCorner</comment>
+        <translation>右上角から</translation>
+    </message>
+    <message>
+        <source>Frustum</source>
+        <comment>DRAWING2_TOOLTIP_FRUSTUM</comment>
+        <translation>円錐</translation>
+    </message>
+    <message>
+        <source>Fuchsia</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_FUCHSIA</comment>
+        <translation>フーシャ</translation>
+    </message>
+    <message>
+        <source>Gainsboro</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GAINSBORO</comment>
+        <translation>Gainsboro</translation>
+    </message>
+    <message>
+        <source>GhostWhite</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GHOSTWHITE</comment>
+        <translation>ゴーストホワイト</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_GLOW</comment>
+        <translation>蛍光</translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GOLD</comment>
+        <translation>ゴールド</translation>
+    </message>
+    <message>
+        <source>Goldenrod</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GOLDENROD</comment>
+        <translation>金</translation>
+    </message>
+    <message>
+        <source>Gray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GRAY</comment>
+        <translation>灰色</translation>
+    </message>
+    <message>
+        <source>Gray-25%</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_Gray_25</comment>
+        <translation>25%灰色</translation>
+    </message>
+    <message>
+        <source>Gray-50%</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_Gray_50</comment>
+        <translation>50%灰色</translation>
+    </message>
+    <message>
+        <source>Greeen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_GREEEN</comment>
+        <translation>緑</translation>
+    </message>
+    <message>
+        <source>Green</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GREEN</comment>
+        <translation>緑</translation>
+    </message>
+    <message>
+        <source>GreenYellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GREENYELLOW</comment>
+        <translation>緑黄</translation>
+    </message>
+    <message>
+        <source>Groove</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_GROOVE</comment>
+        <translation>溝</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <comment>DRAWING2STR_GROUP</comment>
+        <translation>グループ化</translation>
+    </message>
+    <message>
+        <source>Half Frame</source>
+        <comment>DRAWING2STR_HALF_FRAME</comment>
+        <translation>フレーム（半分）</translation>
+    </message>
+    <message>
+        <source>Half Frame</source>
+        <comment>DRAWING2_TOOLTIP_HALF_FRAME</comment>
+        <translation>フレーム（半分）</translation>
+    </message>
+    <message>
+        <source>Hard Edge</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_HardEdge</comment>
+        <translation>ハードエッジ</translation>
+    </message>
+    <message>
+        <source>Hard Edge</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_HARDEDGE</comment>
+        <translation>ハードエッジ</translation>
+    </message>
+    <message>
+        <source>Heart</source>
+        <comment>DRAWING2STR_HEART</comment>
+        <translation>ハート</translation>
+    </message>
+    <message>
+        <source>Heart</source>
+        <comment>DRAWING2_TOOLTIP_HEART</comment>
+        <translation>ハート</translation>
+    </message>
+    <message>
+        <source>Heave</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Heave</comment>
+        <translation>うねり</translation>
+    </message>
+    <message>
+        <source>Heavy Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DASH</comment>
+        <translation>重鎖線</translation>
+    </message>
+    <message>
+        <source>Heavy Dot Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DOT_DASH</comment>
+        <translation>重点鎖線</translation>
+    </message>
+    <message>
+        <source>Heavy Dot Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DOT</comment>
+        <translation>重点線</translation>
+    </message>
+    <message>
+        <source>Heavy Double Dot Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DOUBLE_DOT_DASH</comment>
+        <translation>重二重点鎖線</translation>
+    </message>
+    <message>
+        <source>Heavy Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY</comment>
+        <translation>重線</translation>
+    </message>
+    <message>
+        <source>Heavy Long Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_LONG_DASH</comment>
+        <translation>重長鎖線</translation>
+    </message>
+    <message>
+        <source>Heavy Wavy Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_WAVY</comment>
+        <translation>重波線</translation>
+    </message>
+    <message>
+        <source>Heptagon</source>
+        <comment>DRAWING2STR_HEPTAGON</comment>
+        <translation>七角形</translation>
+    </message>
+    <message>
+        <source>Heptagonal</source>
+        <comment>DRAWING2_TOOLTIP_HEPTAGONAL</comment>
+        <translation>七角形</translation>
+    </message>
+    <message>
+        <source>Hexagon</source>
+        <comment>DRAWING2STR_HEXAGON</comment>
+        <translation>六角形</translation>
+    </message>
+    <message>
+        <source>Hexagon</source>
+        <comment>DRAWING2_TOOLTIP_HEXAGON</comment>
+        <translation>六角形</translation>
+    </message>
+    <message>
+        <source>HightLight%1</source>
+        <comment>wpp_sTooltipShapeStyleHightlightColor</comment>
+        <translation>%1 強調</translation>
+    </message>
+    <message>
+        <source>Hla-fImage,Touch</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_TOUCH</comment>
+        <translation>Hlaf画像 接触</translation>
+    </message>
+    <message>
+        <source>Hlaf-Image,4 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_4PT_OFFSET</comment>
+        <translation>Hlaf画像 4pt 補正</translation>
+    </message>
+    <message>
+        <source>Hlaf-Image,8 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_8PT_OFFSET</comment>
+        <translation>Hlaf画像 8pt 補正</translation>
+    </message>
+    <message>
+        <source>Hollow Arc</source>
+        <comment>DRAWING2_TOOLTIP_HOLLOW_ARC</comment>
+        <translation>空洞</translation>
+    </message>
+    <message>
+        <source>Honeydew</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_HONEYDEW</comment>
+        <translation>ハネデュー</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <comment>wpp_sTooltipPatternHorizontal</comment>
+        <translation>横</translation>
+    </message>
+    <message>
+        <source>Horizontal Scroll</source>
+        <comment>DRAWING2STR_HORIZONTAL_SCROLL</comment>
+        <translation>横巻き</translation>
+    </message>
+    <message>
+        <source>Horizontal Scroll</source>
+        <comment>DRAWING2_TOOLTIP_HORIZONTAL_SCROLL</comment>
+        <translation>横巻き</translation>
+    </message>
+    <message>
+        <source>HorizontalBrick</source>
+        <comment>wpp_sTooltipPatternHorizontalBrick</comment>
+        <translation>れんが(横)</translation>
+    </message>
+    <message>
+        <source>HotPink</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_HOTPINK</comment>
+        <translation>ホットピンク</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>ハイパーリンク</translation>
+    </message>
+    <message>
+        <source>Ice Cold</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_ICE</comment>
+        <translation>アイスコールド</translation>
+    </message>
+    <message>
+        <source>IndianRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_INDIANRED</comment>
+        <translation>インディアンレッド</translation>
+    </message>
+    <message>
+        <source>Indigo</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_INDIGO</comment>
+        <translation>インディゴ</translation>
+    </message>
+    <message>
+        <source>Ink</source>
+        <comment>DRAWING2STR_INK</comment>
+        <translation>インク</translation>
+    </message>
+    <message>
+        <source>Inner Center</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERCENTER</comment>
+        <translation>内部（中央）</translation>
+    </message>
+    <message>
+        <source>Inner Down</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERDOWN</comment>
+        <translation>内部（下）</translation>
+    </message>
+    <message>
+        <source>Inner Left</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFT</comment>
+        <translation>内部（左）</translation>
+    </message>
+    <message>
+        <source>Inner Left-Down Corner</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFTDOWN</comment>
+        <translation>内部（左下角）</translation>
+    </message>
+    <message>
+        <source>Inner Left-UP Corner</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFTUP</comment>
+        <translation>内部（左上角）</translation>
+    </message>
+    <message>
+        <source>Inner Right</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHT</comment>
+        <translation>内部（右）</translation>
+    </message>
+    <message>
+        <source>Inner Right-Down Corner</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHTDOWN</comment>
+        <translation>内部（右下角）</translation>
+    </message>
+    <message>
+        <source>Inner Right-Up Corner</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHTUP</comment>
+        <translation>内部（右上角）</translation>
+    </message>
+    <message>
+        <source>InnerUp</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERUP</comment>
+        <translation>内部（上）</translation>
+    </message>
+    <message>
+        <source>IntenseEffect-</source>
+        <comment>wpp_sTooltipShapeStyleIntenseEffect</comment>
+        <translation>強い効果</translation>
+    </message>
+    <message>
+        <source>IntenseLine-</source>
+        <comment>wpp_sTooltipShapeStyleIntenseLine</comment>
+        <translation>強い線</translation>
+    </message>
+    <message>
+        <source>Inverted Trapezoid</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_INVERTEDTRAPEZOID</comment>
+        <translation>逆台形</translation>
+    </message>
+    <message>
+        <source>Inverted Triangle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_INVERTEDTRIANGLE</comment>
+        <translation>逆三角形</translation>
+    </message>
+    <message>
+        <source>Inverted V-shape</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_INVERTEDVSHAPE</comment>
+        <translation>逆V字</translation>
+    </message>
+    <message>
+        <source>Isometric Lft-Down</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_ISOMETRICLFTDOWN</comment>
+        <translation>等角左下</translation>
+    </message>
+    <message>
+        <source>Isometric Right-Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_ISOMETRICRIGHTUP</comment>
+        <translation>等角右上</translation>
+    </message>
+    <message>
+        <source>Isosceles Triangle</source>
+        <comment>DRAWING2STR_ISOSCELES_TRIANGLE</comment>
+        <translation>二等辺三角形</translation>
+    </message>
+    <message>
+        <source>Isosceles Triangle</source>
+        <comment>DRAWING2_TOOLTIP_ISOSCELES_TRIANGLE</comment>
+        <translation>二等辺三角形</translation>
+    </message>
+    <message>
+        <source>Ivory</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_IVORY</comment>
+        <translation>アイボリー</translation>
+    </message>
+    <message>
+        <source>J-shape Arrow</source>
+        <comment>DRAWING2_TOOLTIP_J_SHAPE_ARROW</comment>
+        <translation>J型矢印</translation>
+    </message>
+    <message>
+        <source>Khaki</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_KHAKI</comment>
+        <translation>カーキ</translation>
+    </message>
+    <message>
+        <source>L-Shape</source>
+        <comment>DRAWING2STR_L_SHAPE</comment>
+        <translation>L字</translation>
+    </message>
+    <message>
+        <source>L-Shape</source>
+        <comment>DRAWING2_TOOLTIP_L_SHAPE</comment>
+        <translation>L字</translation>
+    </message>
+    <message>
+        <source>LargeCheckerBoard</source>
+        <comment>wpp_sTooltipPatternLargeCheckerBoard</comment>
+        <translation>市松模様(大)</translation>
+    </message>
+    <message>
+        <source>LargeConfetti</source>
+        <comment>wpp_sTooltipPatternLargeConfetti</comment>
+        <translation>紙ふぶき(大)</translation>
+    </message>
+    <message>
+        <source>LargeGrid</source>
+        <comment>wpp_sTooltipPatternLargeGrid</comment>
+        <translation>格子(大)</translation>
+    </message>
+    <message>
+        <source>Lavender</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LAVENDER</comment>
+        <translation>ラベンダー</translation>
+    </message>
+    <message>
+        <source>LavenderBlush</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LAVENDERBLUSH</comment>
+        <translation>ラベンダー</translation>
+    </message>
+    <message>
+        <source>LawnGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LAWNGREEN</comment>
+        <translation>芝生緑</translation>
+    </message>
+    <message>
+        <source>Left And Right Arrow</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_AND_RIGHT_ARROW</comment>
+        <translation>左右矢印</translation>
+    </message>
+    <message>
+        <source>Left Arrow</source>
+        <comment>DRAWING2STR_LEFT_ARROW</comment>
+        <translation>左矢印</translation>
+    </message>
+    <message>
+        <source>Left Arrow</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_ARROW</comment>
+        <translation>左矢印</translation>
+    </message>
+    <message>
+        <source>Left Arrow %1</source>
+        <comment>DRAWING2_LINE_ARROW_LEFT</comment>
+        <translation>左矢印 %1</translation>
+    </message>
+    <message>
+        <source>Left Arrow Callout</source>
+        <comment>DRAWING2STR_LEFT_ARROW_CALLOUT</comment>
+        <translation>左矢印吹き出し</translation>
+    </message>
+    <message>
+        <source>Left Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_ARROW_CALLOUT</comment>
+        <translation>左矢印吹き出し</translation>
+    </message>
+    <message>
+        <source>Left Brace</source>
+        <comment>DRAWING2STR_LEFT_BRACE</comment>
+        <translation>左中括弧</translation>
+    </message>
+    <message>
+        <source>Left Brace</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_BRACE</comment>
+        <translation>左中括弧</translation>
+    </message>
+    <message>
+        <source>Left Bracket</source>
+        <comment>DRAWING2STR_LEFT_BRACKET</comment>
+        <translation>左角括弧</translation>
+    </message>
+    <message>
+        <source>Left Bracket</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_BRACKET</comment>
+        <translation>左角括弧</translation>
+    </message>
+    <message>
+        <source>Left Collar</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTCOLLAR</comment>
+        <translation>左襟</translation>
+    </message>
+    <message>
+        <source>Left Curved Arrow</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_CURVED_ARROW</comment>
+        <translation>左カーブ矢印</translation>
+    </message>
+    <message>
+        <source>Left Horn</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTHORN</comment>
+        <translation>左角</translation>
+    </message>
+    <message>
+        <source>Left Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTOFFSET</comment>
+        <translation>左補正</translation>
+    </message>
+    <message>
+        <source>Left Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_LEFTPERSPECTIVE</comment>
+        <translation>左遠近</translation>
+    </message>
+    <message>
+        <source>Left Right Compare Pespective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_LEFTRIGHTCOMPAREPESPECTIVE</comment>
+        <translation>左右対照遠近</translation>
+    </message>
+    <message>
+        <source>Left-Down Corner Perspective</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTDOWNCORNERPERSPECTIVE</comment>
+        <translation>左下角遠近</translation>
+    </message>
+    <message>
+        <source>Left-Down Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTDOWNOFFSET</comment>
+        <translation>左下補正</translation>
+    </message>
+    <message>
+        <source>Left-Far Right-Near</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTFARRIGHTNEAR</comment>
+        <translation>左-遠-右-近</translation>
+    </message>
+    <message>
+        <source>Left-Near Right-Far</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTNEARRIGHTFAR</comment>
+        <translation>左-近-右-遠</translation>
+    </message>
+    <message>
+        <source>Left-Right Arrow</source>
+        <comment>DRAWING2STR_LEFT_RIGHT_ARROW</comment>
+        <translation>左右矢印</translation>
+    </message>
+    <message>
+        <source>Left-Right Arrow Callout</source>
+        <comment>DRAWING2STR_LEFT_RIGHT_ARROW_CALLOUT</comment>
+        <translation>左右矢印吹き出し</translation>
+    </message>
+    <message>
+        <source>Left-Right Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_RIGHT_ARROW_CALLOUT</comment>
+        <translation>左右矢印吹き出し</translation>
+    </message>
+    <message>
+        <source>Left-Right-Up Arrow</source>
+        <comment>DRAWING2STR_LEFT_RIGHT_UP_ARROW</comment>
+        <translation>三方向矢印</translation>
+    </message>
+    <message>
+        <source>Left-Up Arrow</source>
+        <comment>DRAWING2STR_LEFT_UP_ARROW</comment>
+        <translation>二方向矢印</translation>
+    </message>
+    <message>
+        <source>Left-Up Corner Perspective</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTUPCORNERPERSPECTIVE</comment>
+        <translation>左上角奥行</translation>
+    </message>
+    <message>
+        <source>Left-Up Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTUPOFFSET</comment>
+        <translation>左上補正</translation>
+    </message>
+    <message>
+        <source>LemonChiffon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LEMONCHIFFON</comment>
+        <translation>レモンシフォン</translation>
+    </message>
+    <message>
+        <source>Light1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>光源1</translation>
+    </message>
+    <message>
+        <source>Light2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>光源2</translation>
+    </message>
+    <message>
+        <source>LightBlue</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_CUSTOM</comment>
+        <translation>明るい青</translation>
+    </message>
+    <message>
+        <source>LightColor_1_OutLine,Color Fill-</source>
+        <comment>wpp_sTooltipShapeStyleLightColor_1_OutLineFill</comment>
+        <translation>明るい色_1_アウトライン,塗りつぶし</translation>
+    </message>
+    <message>
+        <source>LightCoral</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTCORAL</comment>
+        <translation>明るいコーラル</translation>
+    </message>
+    <message>
+        <source>LightCyan</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTCYAN</comment>
+        <translation>明るいシアン</translation>
+    </message>
+    <message>
+        <source>LightDownwardDiagonal</source>
+        <comment>wpp_sTooltipPatternLightDownwardDiagonal</comment>
+        <translation>右下がり対角線</translation>
+    </message>
+    <message>
+        <source>LightGoldenrodYellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTGOLDENRODYELLOW</comment>
+        <translation>明るい金黄</translation>
+    </message>
+    <message>
+        <source>LightGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTGREEN</comment>
+        <translation>明るい緑</translation>
+    </message>
+    <message>
+        <source>LightGrey</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTGREY</comment>
+        <translation>明るい灰色</translation>
+    </message>
+    <message>
+        <source>LightHorizontal</source>
+        <comment>wpp_sTooltipPatternLightHorizontal</comment>
+        <translation>横線</translation>
+    </message>
+    <message>
+        <source>LightPink</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BUTTON_LIGHTPINK</comment>
+        <translation>明るいピンク</translation>
+    </message>
+    <message>
+        <source>LightSalmon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSALMON</comment>
+        <translation>明るいサーモン</translation>
+    </message>
+    <message>
+        <source>LightSeaGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSEAGREEN</comment>
+        <translation>明るいシーグリーン</translation>
+    </message>
+    <message>
+        <source>LightSkyBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSKYBLUE</comment>
+        <translation>明るいスカイブルー</translation>
+    </message>
+    <message>
+        <source>LightSlateGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSLATEGRAY</comment>
+        <translation>明るい濃灰色</translation>
+    </message>
+    <message>
+        <source>LightSteelBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSTEELBLUE</comment>
+        <translation>明るい青銅</translation>
+    </message>
+    <message>
+        <source>LightUpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternLightUpwardDiagonal</comment>
+        <translation>右上がり対角線</translation>
+    </message>
+    <message>
+        <source>LightVertical</source>
+        <comment>wpp_sTooltipPatternLightVertical</comment>
+        <translation>縦線</translation>
+    </message>
+    <message>
+        <source>LightYellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTYELLOW</comment>
+        <translation>明るい黄色</translation>
+    </message>
+    <message>
+        <source>Lightning Bolt</source>
+        <comment>DRAWING2STR_LIGHTNING_BOLT</comment>
+        <translation>稲妻</translation>
+    </message>
+    <message>
+        <source>Lightning Bolt</source>
+        <comment>DRAWING2_TOOLTIP_LIGHTNING_BOLT</comment>
+        <translation>稲妻</translation>
+    </message>
+    <message>
+        <source>Lime</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIME</comment>
+        <translation>ライム</translation>
+    </message>
+    <message>
+        <source>LimeGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIMEGREEN</comment>
+        <translation>ライムグリーン</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_LINE</comment>
+        <translation>直線</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <comment>DRAWING2_TOOLTIP_LINE</comment>
+        <translation>直線</translation>
+    </message>
+    <message>
+        <source>Line Callout 1</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1</comment>
+        <translation>線吹き出し 1</translation>
+    </message>
+    <message>
+        <source>Line Callout 1</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1</comment>
+        <translation>線吹き出し 1</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1_ACCENT_BAR</comment>
+        <translation>強調線吹き出し 1</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1_ACCENT_BAR</comment>
+        <translation>強調線吹き出し 1</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (Border and Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1_BORDER_AND_ACCENT_BAR</comment>
+        <translation>強調線吹き出し 1(枠付き)</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (Border and Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1_BORDER_AND_ACCENT_BAR</comment>
+        <translation>強調線吹き出し 1(枠付き)</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (No Border)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1_NO_BORDER</comment>
+        <translation>線吹き出し 1（枠なし）</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (No Border)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1_NO_BORDER</comment>
+        <translation>線吹き出し 1（枠なし）</translation>
+    </message>
+    <message>
+        <source>Line Callout 2</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2</comment>
+        <translation>線吹き出し 2</translation>
+    </message>
+    <message>
+        <source>Line Callout 2</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2</comment>
+        <translation>線吹き出し 2</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2_ACCENT_BAR</comment>
+        <translation>強調線吹き出し 2　</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2_ACCENT_BAR</comment>
+        <translation>強調線吹き出し 2　</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (Border and Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2_BORDER_AND_ACCENT_BAR</comment>
+        <translation>強調線吹き出し 2(枠付き)</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (Border and Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2_BORDER_AND_ACCENT_BAR</comment>
+        <translation>強調線吹き出し 2(枠付き)</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (No Border)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2_NO_BORDER</comment>
+        <translation>線吹き出し 2</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (No Border)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2_NO_BORDER</comment>
+        <translation>線吹き出し 2（枠なし）</translation>
+    </message>
+    <message>
+        <source>Line Callout 3</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3</comment>
+        <translation>線吹き出し 3</translation>
+    </message>
+    <message>
+        <source>Line Callout 3</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3</comment>
+        <translation>線吹き出し 3</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3_ACCENT_BAR</comment>
+        <translation>強調線吹き出し 3　</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3_ACCENT_BAR</comment>
+        <translation>強調線吹き出し 3　</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (Border and Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3_BORDER_AND_ACCENT_BAR</comment>
+        <translation>強調線吹き出し 3(枠付き)</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (Border and Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3_BORDER_AND_ACCENT_BAR</comment>
+        <translation>強調線吹き出し 3(枠付き)</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (No Border)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3_NO_BORDER</comment>
+        <translation>線吹き出し 3（枠なし）</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (No Border)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3_NO_BORDER</comment>
+        <translation>線吹き出し 3（枠なし）</translation>
+    </message>
+    <message>
+        <source>Line-Style: %1
+Line-Width: %2 pt
+Line-type: %3</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SHOW</comment>
+        <translation>線のスタイル %1
+線の幅 %2 pt
+線の種類 %3</translation>
+    </message>
+    <message>
+        <source>Linen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LINEN</comment>
+        <translation>リネン</translation>
+    </message>
+    <message>
+        <source>Lone Dash Line</source>
+        <comment>DRAWING2_LINE_NAME_LONGDASHLINE</comment>
+        <translation>長鎖線</translation>
+    </message>
+    <message>
+        <source>Lone Dash Line-Point</source>
+        <comment>DRAWING2_LINE_NAME_LONGDASHLINEPOINT</comment>
+        <translation>一点長鎖線</translation>
+    </message>
+    <message>
+        <source>Lone Dash Line-Point-Point</source>
+        <comment>DRAWING2_LINE_NAME_LONGDASHLINEPOINTPOINT</comment>
+        <translation>二点長鎖線</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_LONGDASH</comment>
+        <translation>長破線</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_LONGDASHDOT</comment>
+        <translation>長鎖線</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_LONGDASHDOTDOT</comment>
+        <translation>長二点鎖線</translation>
+    </message>
+    <message>
+        <source>Long Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_LONG_DASH</comment>
+        <translation>長鎖線</translation>
+    </message>
+    <message>
+        <source>Loose</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_LOOSE</comment>
+        <translation>広く</translation>
+    </message>
+    <message>
+        <source>Loose Embedded</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_LooseEmbedded</comment>
+        <translation>緩やかな埋め込み</translation>
+    </message>
+    <message>
+        <source>Lordosis Bending Strip</source>
+        <comment>DRAWING2_TOOLTIP_Lordosis_Bending_Strip</comment>
+        <translation>Lordosis Bending Strip</translation>
+    </message>
+    <message>
+        <source>Lordosis Strip</source>
+        <comment>DRAWING2_TOOLTIP_LORDOSIS_TRIP</comment>
+        <translation>Lordosis Strip</translation>
+    </message>
+    <message>
+        <source>Magenta</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MAGENTA</comment>
+        <translation>マゼンタ</translation>
+    </message>
+    <message>
+        <source>Maroon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MAROON</comment>
+        <translation>マルーン</translation>
+    </message>
+    <message>
+        <source>Matt Effect</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_MATT</comment>
+        <translation>艶効果</translation>
+    </message>
+    <message>
+        <source>Matte </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyMatte</comment>
+        <translation>艶</translation>
+    </message>
+    <message>
+        <source>Matte </source>
+        <comment>wpp_sTooltipMaterialTypeMatte</comment>
+        <translation>艶</translation>
+    </message>
+    <message>
+        <source>MediumAquamarine</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMAQUAMARINE</comment>
+        <translation>アクアマリン</translation>
+    </message>
+    <message>
+        <source>MediumBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMBLUE</comment>
+        <translation>青</translation>
+    </message>
+    <message>
+        <source>MediumOrchid</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMORCHID</comment>
+        <translation>蘭</translation>
+    </message>
+    <message>
+        <source>MediumPurple</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMPURPLE</comment>
+        <translation>紫</translation>
+    </message>
+    <message>
+        <source>MediumSeaGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSEAGREEN</comment>
+        <translation>シーグリーン</translation>
+    </message>
+    <message>
+        <source>MediumSpringGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSPRINGGREEN</comment>
+        <translation>春緑</translation>
+    </message>
+    <message>
+        <source>MediumTurquoise</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMTURQUOISE</comment>
+        <translation>ターコイズ</translation>
+    </message>
+    <message>
+        <source>MediumVioletRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMVIOLETRED</comment>
+        <translation>赤紫</translation>
+    </message>
+    <message>
+        <source>Metal </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyMetal</comment>
+        <translation>金属</translation>
+    </message>
+    <message>
+        <source>Metal </source>
+        <comment>wpp_sTooltipMaterialTypeMetal</comment>
+        <translation>金属</translation>
+    </message>
+    <message>
+        <source>MetalEffect</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_METALEFFECT</comment>
+        <translation>金属効果</translation>
+    </message>
+    <message>
+        <source>Micro Blue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_MICROBLUE</comment>
+        <translation>マイクロブルー</translation>
+    </message>
+    <message>
+        <source>Micro Green</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_MICROGREEN</comment>
+        <translation>マイクログリーン</translation>
+    </message>
+    <message>
+        <source>MidnightBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MIDNIGHTBLUE</comment>
+        <translation>ミッドナイトブルー</translation>
+    </message>
+    <message>
+        <source>MintCream</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MINTCREAM</comment>
+        <translation>ミントクリーム</translation>
+    </message>
+    <message>
+        <source>Minus</source>
+        <comment>DRAWING2STR_MINUS</comment>
+        <translation>減算記号</translation>
+    </message>
+    <message>
+        <source>Minus</source>
+        <comment>DRAWING2_TOOLTIP_MINUS</comment>
+        <translation>減算記号</translation>
+    </message>
+    <message>
+        <source>Missing Corner Rectangular</source>
+        <comment>DRAWING2_TOOLTIP_MISSING_CORNER_RECTANGULAR</comment>
+        <translation>角丸四角形</translation>
+    </message>
+    <message>
+        <source>MistyRose</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MISTYROSE</comment>
+        <translation>ミスティーローズ</translation>
+    </message>
+    <message>
+        <source>Moccasin</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MOCCASIN</comment>
+        <translation>モカシン</translation>
+    </message>
+    <message>
+        <source>ModerateEffect-</source>
+        <comment>wpp_sTooltipShapeStyleModerateEffect</comment>
+        <translation>moderate effect</translation>
+    </message>
+    <message>
+        <source>ModerateLine-</source>
+        <comment>wpp_sTooltipShapeStyleModerateLine</comment>
+        <translation>moderate line</translation>
+    </message>
+    <message>
+        <source>ModeratelyLoose</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MODERATELYLOOSE</comment>
+        <translation>moderately loose</translation>
+    </message>
+    <message>
+        <source>Moon</source>
+        <comment>DRAWING2STR_MOON</comment>
+        <translation>月</translation>
+    </message>
+    <message>
+        <source>Moon</source>
+        <comment>DRAWING2_TOOLTIP_MOON</comment>
+        <translation>月</translation>
+    </message>
+    <message>
+        <source>Mornning</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_MORNNING</comment>
+        <translation>朝</translation>
+    </message>
+    <message>
+        <source>Most Left Most Big</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MOSTLEFTMOSTBIG</comment>
+        <translation>最左大</translation>
+    </message>
+    <message>
+        <source>MostRightMostBig</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MOSTRIGHTMOSTBIG</comment>
+        <translation>最右大</translation>
+    </message>
+    <message>
+        <source>MostsSperficial</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_MOSTSSPERFICIAL</comment>
+        <translation>表面</translation>
+    </message>
+    <message>
+        <source>Mountain</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_MOUNTAIN</comment>
+        <translation>山</translation>
+    </message>
+    <message>
+        <source>Multiply</source>
+        <comment>DRAWING2STR_MULTIPLY</comment>
+        <translation>乗算記号</translation>
+    </message>
+    <message>
+        <source>Multiply</source>
+        <comment>DRAWING2_TOOLTIP_MULTIPLY</comment>
+        <translation>乗算記号</translation>
+    </message>
+    <message>
+        <source>NarrowHorizontal</source>
+        <comment>wpp_sTooltipPatternDarkVertical</comment>
+        <translation>横線（狭い）</translation>
+    </message>
+    <message>
+        <source>NarrowVertical</source>
+        <comment>wpp_sTooltipPatternNarrowVertical</comment>
+        <translation>縦線（狭い）</translation>
+    </message>
+    <message>
+        <source>NavajoWhite</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_NAVAJOWHITE</comment>
+        <translation>ナバホ白</translation>
+    </message>
+    <message>
+        <source>Navy</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_NAVY</comment>
+        <translation>海軍</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_NONE</comment>
+        <translation>いいえ</translation>
+    </message>
+    <message>
+        <source>No Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_NONE</comment>
+        <translation>矢印なし</translation>
+    </message>
+    <message>
+        <source>No Bevel</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_None</comment>
+        <translation>額縁なし</translation>
+    </message>
+    <message>
+        <source>No Reflection</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_NONE</comment>
+        <translation>反射なし</translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_NONE</comment>
+        <translation>影なし</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_NONE</comment>
+        <translation>なし</translation>
+    </message>
+    <message>
+        <source>Not Equal</source>
+        <comment>DRAWING2STR_NOT_EQUAL</comment>
+        <translation>不等号</translation>
+    </message>
+    <message>
+        <source>Not Equal</source>
+        <comment>DRAWING2_TOOLTIP_NOT_EQUAL</comment>
+        <translation>不等号</translation>
+    </message>
+    <message>
+        <source>Notched Right Arrow</source>
+        <comment>DRAWING2STR_NOTCHED_RIGHT_ARROW</comment>
+        <translation>V字形矢印</translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <comment>DRAWING2STR_OLE</comment>
+        <translation>オブジェクト(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Octagon</source>
+        <comment>DRAWING2STR_OCTAGON</comment>
+        <translation>八角形</translation>
+    </message>
+    <message>
+        <source>Octagon</source>
+        <comment>DRAWING2_TOOLTIP_OCTAGON</comment>
+        <translation>八角形</translation>
+    </message>
+    <message>
+        <source>Off-Axis 1 Left</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1LEFT</comment>
+        <translation>左</translation>
+    </message>
+    <message>
+        <source>Off-Axis 1 Right</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1RIGHT</comment>
+        <translation>右</translation>
+    </message>
+    <message>
+        <source>Off-Axis 1 Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1UP</comment>
+        <translation>上</translation>
+    </message>
+    <message>
+        <source>Off-Axis 2 Left</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2LEFT</comment>
+        <translation>左</translation>
+    </message>
+    <message>
+        <source>Off-Axis 2 Right</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2RIGHT</comment>
+        <translation>右</translation>
+    </message>
+    <message>
+        <source>Off-Axis 2 Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2UP</comment>
+        <translation>上</translation>
+    </message>
+    <message>
+        <source>OldLace</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_OLDLACE</comment>
+        <translation>古いレース</translation>
+    </message>
+    <message>
+        <source>Olive</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_OLIVE</comment>
+        <translation>オリーブ</translation>
+    </message>
+    <message>
+        <source>OliveDrab</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_OLIVEDRAB</comment>
+        <translation>黄褐色</translation>
+    </message>
+    <message>
+        <source>Open Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_OPEN</comment>
+        <translation>オープン矢印</translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_ORANGE</comment>
+        <translation>オレンジ</translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ORANGE</comment>
+        <translation>オレンジ</translation>
+    </message>
+    <message>
+        <source>OrangeRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ORANGERED</comment>
+        <translation>オレンジ赤</translation>
+    </message>
+    <message>
+        <source>Orchid</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ORCHID</comment>
+        <translation>蘭</translation>
+    </message>
+    <message>
+        <source>OutlinedDiamond</source>
+        <comment>wpp_sTooltipPatternOutlinedDiamond</comment>
+        <translation>ひし形(枠のみ)</translation>
+    </message>
+    <message>
+        <source>Oval</source>
+        <comment>DRAWING2STR_OVAL</comment>
+        <translation>楕円</translation>
+    </message>
+    <message>
+        <source>Oval Callout</source>
+        <comment>DRAWING2STR_OVAL_CALLOUT</comment>
+        <translation>円形吹き出し</translation>
+    </message>
+    <message>
+        <source>Oval Callout</source>
+        <comment>DRAWING2_TOOLTIP_OVAL_CALLOUT</comment>
+        <translation>円形吹き出し</translation>
+    </message>
+    <message>
+        <source>PaleGoldenrod</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PALEGOLDENROD</comment>
+        <translation>薄金</translation>
+    </message>
+    <message>
+        <source>PaleGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PALEGREEN</comment>
+        <translation>薄緑</translation>
+    </message>
+    <message>
+        <source>PaleTurquoise</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PALETURQUOISE</comment>
+        <translation>薄ターコイズ</translation>
+    </message>
+    <message>
+        <source>PaleVioletRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PALEVIOLETRED</comment>
+        <translation>薄赤紫</translation>
+    </message>
+    <message>
+        <source>PapayaWhip</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PAPAYAWHIP</comment>
+        <translation>パパイヤホイップ</translation>
+    </message>
+    <message>
+        <source>Parallelogram</source>
+        <comment>DRAWING2STR_PARALLELOGRAM</comment>
+        <translation>平行四辺形</translation>
+    </message>
+    <message>
+        <source>Parallelogram</source>
+        <comment>DRAWING2_TOOLTIP_PARALLELOGRAM</comment>
+        <translation>平行四辺形</translation>
+    </message>
+    <message>
+        <source>PatternDivot</source>
+        <comment>wpp_sTooltipPatternDivot</comment>
+        <translation>芝生</translation>
+    </message>
+    <message>
+        <source>PatternPlaid</source>
+        <comment>wpp_sTooltipPatternPlaid</comment>
+        <translation>格子編</translation>
+    </message>
+    <message>
+        <source>PatternShingle</source>
+        <comment>wpp_sTooltipPatternShingle</comment>
+        <translation>屋根板</translation>
+    </message>
+    <message>
+        <source>PatternSphere</source>
+        <comment>wpp_sTooltipPatternSphere</comment>
+        <translation>球体</translation>
+    </message>
+    <message>
+        <source>PatternTrellis</source>
+        <comment>wpp_sTooltipPatternTrellis</comment>
+        <translation>格子</translation>
+    </message>
+    <message>
+        <source>PatternWeave</source>
+        <comment>wpp_sTooltipPatternWeave</comment>
+        <translation>機織り</translation>
+    </message>
+    <message>
+        <source>PeachPuff</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PEACHPUFF</comment>
+        <translation>ピーチパフ</translation>
+    </message>
+    <message>
+        <source>Pentagon</source>
+        <comment>DRAWING2STR_PENTAGON</comment>
+        <translation>五角形</translation>
+    </message>
+    <message>
+        <source>Peru</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PERU</comment>
+        <translation>ペルー</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <comment>DRAWING2STR_PICTURE</comment>
+        <translation>図形</translation>
+    </message>
+    <message>
+        <source>Pie</source>
+        <comment>DRAWING2STR_PIE</comment>
+        <translation>パイ</translation>
+    </message>
+    <message>
+        <source>Pie</source>
+        <comment>DRAWING2_TOOLTIP_PIE</comment>
+        <translation>パイ</translation>
+    </message>
+    <message>
+        <source>Pink</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PINK</comment>
+        <translation>ピンク</translation>
+    </message>
+    <message>
+        <source>Plane</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_PLANE</comment>
+        <translation>平面</translation>
+    </message>
+    <message>
+        <source>Plane</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_PLANE</comment>
+        <translation>平面</translation>
+    </message>
+    <message>
+        <source>Plaque</source>
+        <comment>DRAWING2STR_PLAQUE</comment>
+        <translation>飾り額</translation>
+    </message>
+    <message>
+        <source>Plastic </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyPlastic</comment>
+        <translation>プラスチック</translation>
+    </message>
+    <message>
+        <source>Plastic </source>
+        <comment>wpp_sTooltipMaterialTypePlastic</comment>
+        <translation>プラスチック</translation>
+    </message>
+    <message>
+        <source>Plastic Effect</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_PLASTICEFFECT</comment>
+        <translation>プラスチック効果</translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PLUM</comment>
+        <translation>プラム</translation>
+    </message>
+    <message>
+        <source>Plus</source>
+        <comment>DRAWING2STR_PLUS</comment>
+        <translation>加算記号</translation>
+    </message>
+    <message>
+        <source>Plus</source>
+        <comment>DRAWING2_TOOLTIP_PLUS</comment>
+        <translation>加算記号</translation>
+    </message>
+    <message>
+        <source>Powder</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_POWDER</comment>
+        <translation>粉末</translation>
+    </message>
+    <message>
+        <source>Powder </source>
+        <comment>wpp_sTooltipMaterialTypePowder</comment>
+        <translation>粉末</translation>
+    </message>
+    <message>
+        <source>PowderBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_POWDERBLUE</comment>
+        <translation>パウダーブルー</translation>
+    </message>
+    <message>
+        <source>Process</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_PROCESS</comment>
+        <translation>プロセス</translation>
+    </message>
+    <message>
+        <source>Purple</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PURPLE</comment>
+        <translation>紫</translation>
+    </message>
+    <message>
+        <source>Quad Arrow</source>
+        <comment>DRAWING2STR_QUAD_ARROW</comment>
+        <translation>四方向矢印</translation>
+    </message>
+    <message>
+        <source>Quad Arrow Callout</source>
+        <comment>DRAWING2STR_QUAD_ARROW_CALLOUT</comment>
+        <translation>四方向矢印吹き出し</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <comment>DRAWING2STR_RECTANGLE</comment>
+        <translation>四角形</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_RECTANGLE</comment>
+        <translation>四角形</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_RECTANGLE</comment>
+        <translation>四角形</translation>
+    </message>
+    <message>
+        <source>Rectangular Callout</source>
+        <comment>DRAWING2STR_RECTANGULAR_CALLOUT</comment>
+        <translation>四角形吹き出し</translation>
+    </message>
+    <message>
+        <source>Rectangular Callout</source>
+        <comment>DRAWING2_TOOLTIP_RECTANGULAR_CALLOUT</comment>
+        <translation>四角形吹き出し</translation>
+    </message>
+    <message>
+        <source>Rectuangle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_RECTUANGLE</comment>
+        <translation>四角形</translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_RED</comment>
+        <translation>赤</translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_RED</comment>
+        <translation>赤</translation>
+    </message>
+    <message>
+        <source>Regular Pentagon</source>
+        <comment>DRAWING2STR_REGULAR_PENTAGON</comment>
+        <translation>五角形</translation>
+    </message>
+    <message>
+        <source>Regular Pentagon</source>
+        <comment>DRAWING2_TOOLTIP_REGULAR_PENTAGON</comment>
+        <translation>五角形</translation>
+    </message>
+    <message>
+        <source>Ribbed</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Ribbed</comment>
+        <translation>リブ付き</translation>
+    </message>
+    <message>
+        <source>Right Angle Two-way Arrow</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_ANGLE_TWOWAY_ARROW</comment>
+        <translation>二方向矢印</translation>
+    </message>
+    <message>
+        <source>Right Angle Up Arrow</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_ANGLE_UP_ARROW</comment>
+        <translation>屈折矢印</translation>
+    </message>
+    <message>
+        <source>Right Arrow</source>
+        <comment>DRAWING2STR_RIGHT_ARROW</comment>
+        <translation>右矢印</translation>
+    </message>
+    <message>
+        <source>Right Arrow</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_ARROW</comment>
+        <translation>右矢印</translation>
+    </message>
+    <message>
+        <source>Right Arrow %1</source>
+        <comment>DRAWING2_LINE_ARROW_RIGHT</comment>
+        <translation>右矢印 %1</translation>
+    </message>
+    <message>
+        <source>Right Arrow Callout</source>
+        <comment>DRAWING2STR_RIGHT_ARROW_CALLOUT</comment>
+        <translation>右矢印吹き出し</translation>
+    </message>
+    <message>
+        <source>Right Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_ARROW_CALLOUT</comment>
+        <translation>右矢印吹き出し</translation>
+    </message>
+    <message>
+        <source>Right Brace</source>
+        <comment>DRAWING2STR_RIGHT_BRACE</comment>
+        <translation>右中括弧</translation>
+    </message>
+    <message>
+        <source>Right Brace</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_BRACE</comment>
+        <translation>右中括弧</translation>
+    </message>
+    <message>
+        <source>Right Bracket</source>
+        <comment>DRAWING2STR_RIGHT_BRACKET</comment>
+        <translation>右角括弧</translation>
+    </message>
+    <message>
+        <source>Right Bracket</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_BRACKET</comment>
+        <translation>右角括弧</translation>
+    </message>
+    <message>
+        <source>Right Collar</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_RIGHTCOLLAR</comment>
+        <translation>右襟</translation>
+    </message>
+    <message>
+        <source>Right Compare Pespective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_RIGHTCOMPAREPESPECTIVE</comment>
+        <translation>右対照奥行</translation>
+    </message>
+    <message>
+        <source>Right Curved Arrow</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_CURVED_ARROW</comment>
+        <translation>右カーブ矢印</translation>
+    </message>
+    <message>
+        <source>Right Horn</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_RIGHTHORN</comment>
+        <translation>右角</translation>
+    </message>
+    <message>
+        <source>Right Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTOFFSET</comment>
+        <translation>右補正</translation>
+    </message>
+    <message>
+        <source>Right Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_RIGHTPERSPECTIVE</comment>
+        <translation>右奥行</translation>
+    </message>
+    <message>
+        <source>Right Triangle</source>
+        <comment>DRAWING2STR_RIGHT_TRIANGLE</comment>
+        <translation>直角三角形</translation>
+    </message>
+    <message>
+        <source>Right Triangle</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_TRIANGLE</comment>
+        <translation>直角三角形</translation>
+    </message>
+    <message>
+        <source>Right-Down Corner Perspective</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTDOWNCORNERPERSPECTIVE</comment>
+        <translation>右下角奥行</translation>
+    </message>
+    <message>
+        <source>Right-Down Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTDOWNOFFSET</comment>
+        <translation>右下補正</translation>
+    </message>
+    <message>
+        <source>Right-Up Corner Perspective</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTUPCORNERPERSPECTIVE</comment>
+        <translation>右上角奥行</translation>
+    </message>
+    <message>
+        <source>Right-Up Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTUPOFFSET</comment>
+        <translation>右上補正</translation>
+    </message>
+    <message>
+        <source>RosyBrown</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ROSYBROWN</comment>
+        <translation>赤茶</translation>
+    </message>
+    <message>
+        <source>Rough</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_ROUGH</comment>
+        <translation>下書き</translation>
+    </message>
+    <message>
+        <source>Round Diagonal Corner Rectangle</source>
+        <comment>DRAWING2STR_ROUND_DIAGONAL_CORNER_RECTANGLE</comment>
+        <translation>対角する2つの角を丸めた四角形</translation>
+    </message>
+    <message>
+        <source>Round Diagonal Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_DIAGONAL_CORNER_RECTANGLE</comment>
+        <translation>対角する2つの角を丸めた四角形</translation>
+    </message>
+    <message>
+        <source>Round Same Side Corner Rectangle</source>
+        <comment>DRAWING2STR_ROUND_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation>片側2つの角を丸めた四角形</translation>
+    </message>
+    <message>
+        <source>Round Same Side Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation>片側2つの角を丸めた四角形</translation>
+    </message>
+    <message>
+        <source>Round Single Corner Rectangle</source>
+        <comment>DRAWING2STR_ROUND_SINGLE_CORNER_RECTANGLE</comment>
+        <translation>1つの角を丸めた四角形</translation>
+    </message>
+    <message>
+        <source>Round Single Corner Rectangle 1</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_SINGLE_CORNER_RECTANGLE_1</comment>
+        <translation>1つの角を丸めた四角形 1</translation>
+    </message>
+    <message>
+        <source>Round Single Corner Rectangle 2</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_SINGLE_CORNER_RECTANGLE_2</comment>
+        <translation>1つの角を丸めた四角形 2</translation>
+    </message>
+    <message>
+        <source>Rounded Rectangle</source>
+        <comment>DRAWING2STR_ROUNDED_RECTANGLE</comment>
+        <translation>角丸四角形</translation>
+    </message>
+    <message>
+        <source>Rounded Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_ROUNDED_RECTANGLE</comment>
+        <translation>角丸四角形</translation>
+    </message>
+    <message>
+        <source>Rounded Rectangular Callout</source>
+        <comment>DDRAWING2_TOOLTIP_ROUNDED_RECTANGULAR_CALLOUT</comment>
+        <translation>角丸四角形吹き出し</translation>
+    </message>
+    <message>
+        <source>Rounded Rectangular Callout</source>
+        <comment>DRAWING2STR_ROUNDED_RECTANGULAR_CALLOUT</comment>
+        <translation>角丸四角形吹き出し</translation>
+    </message>
+    <message>
+        <source>RoyalBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ROYALBLUE</comment>
+        <translation>ロイヤルブルー</translation>
+    </message>
+    <message>
+        <source>SaddleBrown</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SADDLEBROWN</comment>
+        <translation>鞍茶</translation>
+    </message>
+    <message>
+        <source>Salmon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SALMON</comment>
+        <translation>サーモン</translation>
+    </message>
+    <message>
+        <source>SandyBrown</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SANDYBROWN</comment>
+        <translation>砂茶</translation>
+    </message>
+    <message>
+        <source>SeaGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SEAGREEN</comment>
+        <translation>海緑</translation>
+    </message>
+    <message>
+        <source>Seashell</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SEASHELL</comment>
+        <translation>貝殻</translation>
+    </message>
+    <message>
+        <source>Shape</source>
+        <comment>DRAWING2STR_SHAPE</comment>
+        <translation>形状</translation>
+    </message>
+    <message>
+        <source>Sienna</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SIENNA</comment>
+        <translation>シエナ</translation>
+    </message>
+    <message>
+        <source>Sigle Line</source>
+        <comment>DRAWING2_LINE_TYPE_SIGLELINE</comment>
+        <translation>一重線</translation>
+    </message>
+    <message>
+        <source>Sigle Tunnel</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_SIGLETUNNEL</comment>
+        <translation>一重釘</translation>
+    </message>
+    <message>
+        <source>Silver</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SILVER</comment>
+        <translation>銀</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SINGLE</comment>
+        <translation>一重</translation>
+    </message>
+    <message>
+        <source>Single Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_SINGLE</comment>
+        <translation>一重線</translation>
+    </message>
+    <message>
+        <source>SkyBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SKYBLUE</comment>
+        <translation>スカイブルー</translation>
+    </message>
+    <message>
+        <source>SlateBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SLATEBLUE</comment>
+        <translation>濃青</translation>
+    </message>
+    <message>
+        <source>SlateGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SLATEGRAY</comment>
+        <translation>濃灰</translation>
+    </message>
+    <message>
+        <source>Slope</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Slope</comment>
+        <translation>傾斜</translation>
+    </message>
+    <message>
+        <source>SmallCheckerBoard</source>
+        <comment>wpp_sTooltipPatternSmallCheckerBoard</comment>
+        <translation>市松模様(小)</translation>
+    </message>
+    <message>
+        <source>SmallConfetti</source>
+        <comment>wpp_sTooltipPatternSmallConfetti</comment>
+        <translation>紙吹雪（小）</translation>
+    </message>
+    <message>
+        <source>SmallGrid</source>
+        <comment>wpp_sToolwpp_sTooltipPatternSmallGridtipPatternSmallGrid</comment>
+        <translation>グリッド（小）</translation>
+    </message>
+    <message>
+        <source>Smiley Face</source>
+        <comment>DRAWING2STR_SMILEY_FACE</comment>
+        <translation>笑顔</translation>
+    </message>
+    <message>
+        <source>Smiley Face</source>
+        <comment>DRAWING2_TOOLTIP_SMILEY_FACE</comment>
+        <translation>笑顔</translation>
+    </message>
+    <message>
+        <source>Snip Diagonal Corner Rectangle</source>
+        <comment>DRAWING2STR_SNIP_DIAGONAL_CORNER_RECTANGLE</comment>
+        <translation>対角する2つの角を切り取った四角形</translation>
+    </message>
+    <message>
+        <source>Snip Diagonal Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_SNIP_DIAGONAL_CORNER_RECTANGLE</comment>
+        <translation>対角する2つの角を切り取った四角形</translation>
+    </message>
+    <message>
+        <source>Snip Same Side Corner Rectangle</source>
+        <comment>DRAWING2STR_SNIP_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation>片側2つの角を切り取った四角形</translation>
+    </message>
+    <message>
+        <source>Snip Same Side Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_SNIP_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation>片側2つの角を切り取った四角形</translation>
+    </message>
+    <message>
+        <source>Snip Single Corner Rectangle</source>
+        <comment>DRAWING2STR_SNIP_SINGLE_CORNER_RECTANGLE</comment>
+        <translation>1つの角を切り取った四角形</translation>
+    </message>
+    <message>
+        <source>Snip Single Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_SNIP_SINGLE_CORNER_RECTANGLE</comment>
+        <translation>1つの角を切り取った四角形</translation>
+    </message>
+    <message>
+        <source>Snip and Round Single Corner Rectangle</source>
+        <comment>DRAWING2STR_SNIP_AND_ROUND_SINGLE_CORNER_RECTANGLE</comment>
+        <translation>対角する2つの角を切り取った四角形</translation>
+    </message>
+    <message>
+        <source>Snow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SNOW</comment>
+        <translation>雪</translation>
+    </message>
+    <message>
+        <source>Soft</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_SOFT</comment>
+        <translation>柔軟</translation>
+    </message>
+    <message>
+        <source>Soft Circle	</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_SoftCircle</comment>
+        <translation>円</translation>
+    </message>
+    <message>
+        <source>Soft Edge</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_SOFTEDGE</comment>
+        <translation>ぼかし</translation>
+    </message>
+    <message>
+        <source>SoftEdge </source>
+        <comment>wpp_sTooltipMaterialTypeSoftEdge</comment>
+        <translation>ぼかし</translation>
+    </message>
+    <message>
+        <source>SoftMetal </source>
+        <comment>wpp_sTooltipMaterialTypeSoftMetal</comment>
+        <translation>金属</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SOLID</comment>
+        <translation>実線</translation>
+    </message>
+    <message>
+        <source>Solid Line</source>
+        <comment>DRAWING2_LINE_NAME_SOLID</comment>
+        <translation>強調線</translation>
+    </message>
+    <message>
+        <source>SolidDiamond</source>
+        <comment>wpp_sTooltipPatternSolidDiamond</comment>
+        <translation>ひし形(強調)</translation>
+    </message>
+    <message>
+        <source>SpringGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SPRINGGREEN</comment>
+        <translation>春緑</translation>
+    </message>
+    <message>
+        <source>Square Point</source>
+        <comment> DRAWING2_LINE_NAME_SQUAREPOINT</comment>
+        <translation>正方形の点</translation>
+    </message>
+    <message>
+        <source>Star And Flag</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_STARANDFLAG</comment>
+        <translation>星と旗</translation>
+    </message>
+    <message>
+        <source>SteelBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_STEELBLUE</comment>
+        <translation>青銅</translation>
+    </message>
+    <message>
+        <source>Stick Arrow</source>
+        <comment>DRAWING2_TOOLTIP_STICK_ARROW</comment>
+        <translation>スティック矢印</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_STOP</comment>
+        <translation>停止</translation>
+    </message>
+    <message>
+        <source>Straight Arrow Connector</source>
+        <comment>DRAWING2STR_STRAIGHT_ARROW_CONNECTOR</comment>
+        <translation>←</translation>
+    </message>
+    <message>
+        <source>Straight Connector</source>
+        <comment>DRAWING2STR_STRAIGHT_CONNECTOR</comment>
+        <translation>直線コネクタ</translation>
+    </message>
+    <message>
+        <source>Striped Right Arrow</source>
+        <comment>DRAWING2STR_STRIPED_RIGHT_ARROW</comment>
+        <translation>ストライプ右矢印</translation>
+    </message>
+    <message>
+        <source>Strong</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_STRONG</comment>
+        <translation>強調</translation>
+    </message>
+    <message>
+        <source>SubtleEffect-</source>
+        <comment>wpp_sTooltipShapeStyleSubtleEffect</comment>
+        <translation>微細効果</translation>
+    </message>
+    <message>
+        <source>SubtleLine-</source>
+        <comment>wpp_sTooltipShapeStyleIntenseLine</comment>
+        <translation>微細線</translation>
+    </message>
+    <message>
+        <source>Sun</source>
+        <comment>DRAWING2STR_SUN</comment>
+        <translation>太陽</translation>
+    </message>
+    <message>
+        <source>Sun</source>
+        <comment>DRAWING2_TOOLTIP_SUN</comment>
+        <translation>太陽</translation>
+    </message>
+    <message>
+        <source>SunRise</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_SUNRISE</comment>
+        <translation>日の出</translation>
+    </message>
+    <message>
+        <source>SunSet</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_SUNSET</comment>
+        <translation>日没</translation>
+    </message>
+    <message>
+        <source>System Dash</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SYSDASH</comment>
+        <translation>システム破線</translation>
+    </message>
+    <message>
+        <source>System Dot</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SYSDOT</comment>
+        <translation>システム点</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>DRAWING2STR_TABLE</comment>
+        <translation>表</translation>
+    </message>
+    <message>
+        <source>Tan</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_TAN</comment>
+        <translation>ベージュ</translation>
+    </message>
+    <message>
+        <source>Teal</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_TEAL</comment>
+        <translation>ティール</translation>
+    </message>
+    <message>
+        <source>Teardrop</source>
+        <comment>DRAWING2STR_TEARDROP</comment>
+        <translation>涙型</translation>
+    </message>
+    <message>
+        <source>Teardrop</source>
+        <comment>DRAWING2_TOOLTIP_TEARDROP</comment>
+        <translation>涙型</translation>
+    </message>
+    <message>
+        <source>Text1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>テキスト1</translation>
+    </message>
+    <message>
+        <source>Text2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>テキスト2</translation>
+    </message>
+    <message>
+        <source>TextBox</source>
+        <comment>DRAWING2STR_TEXTBOX</comment>
+        <translation>テキストボックス</translation>
+    </message>
+    <message>
+        <source>TextBox</source>
+        <comment>DRAWING2_TOOLTIP_TEXTBOX</comment>
+        <translation>テキストボックス</translation>
+    </message>
+    <message>
+        <source>The font &apos;</source>
+        <comment>DRAWING2_FontNameNotExisitFirstHalf</comment>
+        <translation>フォント</translation>
+    </message>
+    <message>
+        <source>Thick-Thin </source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_THICKTHIN</comment>
+        <translation>太い-細い</translation>
+    </message>
+    <message>
+        <source>Thin-Thick</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_THINTHICK</comment>
+        <translation>細い-太い</translation>
+    </message>
+    <message>
+        <source>Thistle</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_THISTLE</comment>
+        <translation>アザミ</translation>
+    </message>
+    <message>
+        <source>Three Lines</source>
+        <comment>DRAWING2_LINE_TYPE_THREELINE</comment>
+        <translation>3線</translation>
+    </message>
+    <message>
+        <source>Three Points</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_THREEPOINTS</comment>
+        <translation>3点</translation>
+    </message>
+    <message>
+        <source>Tilt Left Down</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTLEFTDOWN</comment>
+        <translation>斜め左下</translation>
+    </message>
+    <message>
+        <source>Tilt Left Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTLEFTUP</comment>
+        <translation>斜め左上</translation>
+    </message>
+    <message>
+        <source>Tilt Right Down</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTRIGHTDOWN</comment>
+        <translation>斜め右下</translation>
+    </message>
+    <message>
+        <source>Tilt Right Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTRIGHTUP</comment>
+        <translation>斜め右上</translation>
+    </message>
+    <message>
+        <source>To Down</source>
+        <comment>wpp_sTooltipGradientLinearTopRighttoBottomLeft</comment>
+        <translation>下</translation>
+    </message>
+    <message>
+        <source>To Left</source>
+        <comment>wpp_sTooltipGradientlinearLeft</comment>
+        <translation>左</translation>
+    </message>
+    <message>
+        <source>To Right</source>
+        <comment>wpp_sTooltipGradientlinearRight</comment>
+        <translation>右</translation>
+    </message>
+    <message>
+        <source>To Up</source>
+        <comment>wpp_sTooltipGradientLinearUp</comment>
+        <translation>上</translation>
+    </message>
+    <message>
+        <source>Tomato</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_TOMATO</comment>
+        <translation>トマト</translation>
+    </message>
+    <message>
+        <source>Top-Left To Bottom-Right</source>
+        <comment>wpp_sTooltipGradientLinearTopLefttoBottomRight</comment>
+        <translation>左上から右下</translation>
+    </message>
+    <message>
+        <source>Top-Right To Bottom-Left</source>
+        <comment>wpp_sTooltipGradientLinearTopRighttoBottomLeft</comment>
+        <translation>右上から左下</translation>
+    </message>
+    <message>
+        <source>Top-Shape</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_TOPSHAPE</comment>
+        <translation>上の形</translation>
+    </message>
+    <message>
+        <source>Translucent Powder</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_TRANSLUCENTPOWDER</comment>
+        <translation>半透明の粉</translation>
+    </message>
+    <message>
+        <source>TranslucentPowder </source>
+        <comment>wpp_sTooltipMaterialTypeTranslucentPowder</comment>
+        <translation>半透明の粉</translation>
+    </message>
+    <message>
+        <source>Trapezoid</source>
+        <comment>DRAWING2STR_TRAPEZOID</comment>
+        <translation>台形</translation>
+    </message>
+    <message>
+        <source>Trapezoid</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_TRAPEZOID</comment>
+        <translation>台形</translation>
+    </message>
+    <message>
+        <source>Trapezoid</source>
+        <comment>DRAWING2_TOOLTIP_TRAPEZOID</comment>
+        <translation>台形</translation>
+    </message>
+    <message>
+        <source>Triangle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_TRIANGLE</comment>
+        <translation>三角形</translation>
+    </message>
+    <message>
+        <source>Triple Line</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_TRIPLE</comment>
+        <translation>三重線</translation>
+    </message>
+    <message>
+        <source>Turf</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Turf</comment>
+        <translation>芝</translation>
+    </message>
+    <message>
+        <source>Turquoise</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_TURQUOISE</comment>
+        <translation>ターコイズ</translation>
+    </message>
+    <message>
+        <source>Two Points</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_TWOPOINTS</comment>
+        <translation>2点</translation>
+    </message>
+    <message>
+        <source>U-Turn Arrow</source>
+        <comment>DRAWING2STR_U_TURN_ARROW</comment>
+        <translation>Uターン矢印</translation>
+    </message>
+    <message>
+        <source>Up And Down Arrow</source>
+        <comment>DRAWING2_TOOLTIP_UP_AND_DOWN_ARROW</comment>
+        <translation>上下矢印</translation>
+    </message>
+    <message>
+        <source>Up Arc</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_UPARC</comment>
+        <translation>上円弧</translation>
+    </message>
+    <message>
+        <source>Up Arrow</source>
+        <comment>DRAWING2STR_UP_ARROW</comment>
+        <translation>上矢印</translation>
+    </message>
+    <message>
+        <source>Up Arrow</source>
+        <comment>DRAWING2_TOOLTIP_UP_ARROW</comment>
+        <translation>上矢印</translation>
+    </message>
+    <message>
+        <source>Up Arrow Callout</source>
+        <comment>DRAWING2STR_UP_ARROW_CALLOUT</comment>
+        <translation>上矢印吹き出し</translation>
+    </message>
+    <message>
+        <source>Up Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_UP_ARROW_CALLOUT</comment>
+        <translation>上矢印吹き出し</translation>
+    </message>
+    <message>
+        <source>Up Curved Arrow</source>
+        <comment>DRAWING2_TOOLTIP_UP_CURVED_ARROW</comment>
+        <translation>上カーブ矢印</translation>
+    </message>
+    <message>
+        <source>Up Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_UPOFFSET</comment>
+        <translation>上補正</translation>
+    </message>
+    <message>
+        <source>Up Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_UPPERSPECTIVE</comment>
+        <translation>上遠近</translation>
+    </message>
+    <message>
+        <source>Up Ribbon</source>
+        <comment>DRAWING2STR_UP_RIBBON</comment>
+        <translation>上リボン</translation>
+    </message>
+    <message>
+        <source>Up-Down Arrow</source>
+        <comment>DRAWING2STR_UP_DOWN_ARROW</comment>
+        <translation>上下矢印</translation>
+    </message>
+    <message>
+        <source>Up-Down Arrow Callout</source>
+        <comment>DRAWING2STR_UP_DOWN_ARROW_CALLOUT</comment>
+        <translation>上下矢印吹き出し</translation>
+    </message>
+    <message>
+        <source>UpArc</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_UPARC</comment>
+        <translation>上円弧</translation>
+    </message>
+    <message>
+        <source>UpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternUpwardDiagonal</comment>
+        <translation>右上がり対角線</translation>
+    </message>
+    <message>
+        <source>V-shape</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_VSHAPE</comment>
+        <translation>V型</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <comment>wpp_sTooltipPatternVertical</comment>
+        <translation>縦</translation>
+    </message>
+    <message>
+        <source>Vertical Scroll</source>
+        <comment>DRAWING2STR_VERTICAL_SCROLL</comment>
+        <translation>縦巻き</translation>
+    </message>
+    <message>
+        <source>Vertical TextBox</source>
+        <comment>DRAWING2_TOOLTIP_VERTICALTEXTBOX</comment>
+        <translation>縦書きテキストボックス</translation>
+    </message>
+    <message>
+        <source>VerticalS Scroll</source>
+        <comment>DRAWING2_TOOLTIP_VERTICALS_SCROLL</comment>
+        <translation>縦スクロール</translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_VIOLET</comment>
+        <translation>紫</translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_VIOLET</comment>
+        <translation>紫</translation>
+    </message>
+    <message>
+        <source>Virtual Tail Arrow</source>
+        <comment>DRAWING2_TOOLTIP_VIRTUAL_TAIL_ARROW</comment>
+        <translation>Virtual Tail Arrow</translation>
+    </message>
+    <message>
+        <source>Waist Drum</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_WAISTDRUM</comment>
+        <translation>胴太鼓</translation>
+    </message>
+    <message>
+        <source>Warm Rough</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_WARMROUGH</comment>
+        <translation>ザラザラ</translation>
+    </message>
+    <message>
+        <source>WarmMatte </source>
+        <comment>wpp_sTooltipMaterialTypeWarmMatte</comment>
+        <translation>艶</translation>
+    </message>
+    <message>
+        <source>Wave</source>
+        <comment>DRAWING2STR_WAVE</comment>
+        <translation>曲線</translation>
+    </message>
+    <message>
+        <source>Wave</source>
+        <comment>DRAWING2_TOOLTIP_WAVE</comment>
+        <translation>曲線</translation>
+    </message>
+    <message>
+        <source>Wave	</source>
+        <comment>wpp_sTooltipPatternWave	</comment>
+        <translation>曲線</translation>
+    </message>
+    <message>
+        <source>Wave1</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_WAVE1</comment>
+        <translation>曲線1</translation>
+    </message>
+    <message>
+        <source>Wave2</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_WAVE2</comment>
+        <translation>曲線2</translation>
+    </message>
+    <message>
+        <source>Wavy Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_WAVY</comment>
+        <translation>波線</translation>
+    </message>
+    <message>
+        <source>Wheat</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_WHEAT</comment>
+        <translation>小麦</translation>
+    </message>
+    <message>
+        <source>White</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_WHITE</comment>
+        <translation>白</translation>
+    </message>
+    <message>
+        <source>WhiteSmoke</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_WHITESMOKE</comment>
+        <translation>白煙</translation>
+    </message>
+    <message>
+        <source>Whole-Iamge,4 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_4PT_OFFSET</comment>
+        <translation>全体画像 4pt 補正</translation>
+    </message>
+    <message>
+        <source>Whole-Iamge,8 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_8PT_OFFSET</comment>
+        <translation>全体画像 8pt 補正</translation>
+    </message>
+    <message>
+        <source>Whole-Iamge,Touch</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_TOUCH</comment>
+        <translation>全体画像 接触</translation>
+    </message>
+    <message>
+        <source>WideDownwardDiagonal</source>
+        <comment>wpp_sTooltipPatternWideDownwardDiagonal</comment>
+        <translation>右下がり対角線(大)</translation>
+    </message>
+    <message>
+        <source>WideUpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternWideUpwardDiagonal</comment>
+        <translation>右上がり対角線</translation>
+    </message>
+    <message>
+        <source>Wire Frame</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_WIREFRAME</comment>
+        <translation>ワイヤフレーム</translation>
+    </message>
+    <message>
+        <source>Wireframe </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyWireframe</comment>
+        <translation>ワイヤフレーム</translation>
+    </message>
+    <message>
+        <source>WordArt</source>
+        <comment>DRAWINGSTR_WORDART</comment>
+        <translation>アート文字</translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_YELLOW</comment>
+        <translation>黄</translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_YELLOW</comment>
+        <translation>黄</translation>
+    </message>
+    <message>
+        <source>YellowGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_YELLOWGREEN</comment>
+        <translation>黄緑</translation>
+    </message>
+    <message>
+        <source>ZigZag</source>
+        <comment>wpp_sTooltipPatternZigZag</comment>
+        <translation>大波</translation>
+    </message>
+    <message>
+        <source>korean Drum</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_KOREANDRUM</comment>
+        <translation>韓国太鼓</translation>
+    </message>
+    <message>
+        <source> Light Color %1</source>
+        <comment>wpp_sTooltipGradientLightColour</comment>
+        <translation type="obsolete">明るい色 %1%</translation>
+    </message>
+    <message>
+        <source> Dark Color %1</source>
+        <comment>wpp_sTooltipGradientDarkColour</comment>
+        <translation type="obsolete">暗い色 %1%</translation>
+    </message>
 </context>
 <context>
     <name>kso_filter</name>
     <message>
         <source>(beta) Single Web Page File</source>
         <comment>_KsoFileFormatDesc_MHT_File</comment>
-        <translation>単一形式の HTMLファイル</translation>
+        <translation type="obsolete">単一形式の HTMLファイル</translation>
     </message>
     <message>
         <source>All Writer Documents</source>
@@ -3101,7 +7813,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>All Writer Documents</source>
         <comment>_KsoFileFormatDesc_WPSFile_Files</comment>
-        <translation>すべての Kingsoft Writer ファイル</translation>
+        <translation>すべてのKingsoftt Writer ファイル</translation>
     </message>
     <message>
         <source>Chinese Office Software Document Format</source>
@@ -3266,6 +7978,24 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
         <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
+        <translatorcomment>作者は読み取り専用でこのファイルを開いてほしいです。読み取り専用として開きますか？</translatorcomment>
+        <translation>このファイルの作成者は、変更を加える必要がない限り、読み取り専用で開くことを推奨しています。
+読み取り専用で開きますか？</translation>
+    </message>
+    <message>
+        <source>This file should be opened as read-only unless changes to it need to be saved. Open as read-only?</source>
+        <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
+        <translatorcomment>このファイルを変更しない場合、読み取り専用としてファイルを開きます。読み取り専用として開きますか？</translatorcomment>
+        <translation type="obsolete">このファイルへの変更を保存する必要がない場合、読み取り専用として開くことを推奨します。読み取り専用で開きますか？</translation>
+    </message>
+    <message>
+        <source>Word XML Document</source>
+        <comment>_KsoDesc_07Xml</comment>
+        <translation>Word XML ドキュメント</translation>
+    </message>
+    <message>
+        <source>Single Web Page File</source>
+        <comment>_KsoFileFormatDesc_MHT_File</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3355,7 +8085,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source> Professional</source>
         <comment>_kso_versionType_PRO</comment>
-        <translation>Professional</translation>
+        <translation> Professional</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the  following operations: 
@@ -3983,7 +8713,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Sending report is not completed yet. Are you sure to terminate sending?</source>
         <comment>_kso_ErrorRep_MessageBox_TerminateSend_Content</comment>
-        <translation>送信中です。終了しますか。</translation>
+        <translation>レポートの送信が完了していません。送信を中止してもよろしいですか？</translation>
     </message>
     <message>
         <source>Sorry, Kingsoft Office crashes.
@@ -4045,62 +8775,62 @@ File: %s
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PER_VN</comment>
-        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ます。ハルビン工業大学情報研究室から中国語の単語分割、スペル チェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。</translation>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ます。ハルビン工業大学情報研究室から中国語の単語分割、スペル チェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_Debug</comment>
-        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_EDU_CHN</comment>
-        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_OEM_CHN</comment>
-        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_CHN</comment>
-        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_USA</comment>
-        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN</comment>
-        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN_TEST</comment>
-        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_JPN</comment>
-        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_USA</comment>
-        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_VN</comment>
-        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_for_windows_version</comment>
-        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
@@ -4110,17 +8840,17 @@ File: %s
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT</comment>
-        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ます。ハルビン工業大学情報研究室から中国語の単語分割、スペル チェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。</translation>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ます。ハルビン工業大学情報研究室から中国語の単語分割、スペル チェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Home</comment>
-        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ます。ハルビン工業大学情報研究室から中国語の単語分割、スペル チェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。</translation>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ます。ハルビン工業大学情報研究室から中国語の単語分割、スペル チェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Standard</comment>
-        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ます。ハルビン工業大学情報研究室から中国語の単語分割、スペル チェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。</translation>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ます。ハルビン工業大学情報研究室から中国語の単語分割、スペル チェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。</translation>
     </message>
     <message>
         <source>Visio Files</source>
@@ -4180,7 +8910,7 @@ File: %s
     <message>
         <source>WPS Writer has encountered a problem and needs to close.</source>
         <comment>_kso_ErrorRep_MainDlg_Title_wps</comment>
-        <translation>Kingsoft Writer　問題が発生したため、終了します。</translation>
+        <translation>Kingsoft Writerは問題が発生したため、終了します。</translation>
     </message>
     <message>
         <source>WPS Presentation has encountered a problem and needs to close.</source>
@@ -4190,12 +8920,12 @@ File: %s
     <message>
         <source>WPS Spreadsheets has encountered a problem and needs to close.</source>
         <comment>_kso_ErrorRep_MainDlg_Title_et</comment>
-        <translation>Kingsoft Spreadsheets 問題が発生したため、終了します。</translation>
+        <translation>Kingsoft Spreadsheetsは問題が発生したため、終了します。</translation>
     </message>
     <message>
         <source>WPS Simulation has encountered a problem and needs to close.</source>
         <comment>_kso_ErrorRep_MainDlg_Title_test</comment>
-        <translation>Kingsoft Office  問題が発生したため、終了します。</translation>
+        <translation>Kingsoft Officeは問題が発生したため、終了します。</translation>
     </message>
     <message>
         <source>WPS Writer Error Recovery Help</source>
@@ -4215,7 +8945,7 @@ File: %s
     <message>
         <source>WPS Simulation Error Recovery Help</source>
         <comment>_kso_ErrorRep_ResumeHelp_Title_test</comment>
-        <translation>Kingsoft Office  作業内容回復のヘルプ</translation>
+        <translation>Kingsoft Office 作業内容回復のヘルプ</translation>
     </message>
     <message>
         <source>Send out successfully</source>
@@ -4266,257 +8996,257 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Office (Beta)</source>
         <comment>_kso_ksoProductName_Debug</comment>
-        <translation>Kingsoft Office (Beta)</translation>
+        <translation type="obsolete">Kingsoft Office (Beta)</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_CHN</comment>
-        <translation>Kingsoft Office professional</translation>
+        <translation type="obsolete">Kingsoft Office professional</translation>
     </message>
     <message>
         <source>WPS Office (test)</source>
         <comment>_kso_ksoProductName_PRO_CHN_TEST</comment>
-        <translation>Kingsoft Office (test)</translation>
+        <translation type="obsolete">Kingsoft Office (test)</translation>
     </message>
     <message>
         <source>WPS Office OEM</source>
         <comment>_kso_ksoProductName_OEM_CHN</comment>
-        <translation>Kingsoft Office OEM</translation>
+        <translation type="obsolete">Kingsoft Office OEM</translation>
     </message>
     <message>
         <source>WPS Office Personal</source>
         <comment>_kso_ksoProductName_PER_CHN</comment>
-        <translation>Kingsoft Office personal</translation>
+        <translation type="obsolete">Kingsoft Office personal</translation>
     </message>
     <message>
         <source>WPS Office Education</source>
         <comment>_kso_ksoProductName_EDU_CHN</comment>
-        <translation>Kingsoft Office education</translation>
+        <translation type="obsolete">Kingsoft Office education</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_USA</comment>
-        <translation>Kingsoft Office</translation>
+        <translation type="obsolete">Kingsoft Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PER_USA</comment>
-        <translation>Kingsoft Office</translation>
+        <translation type="obsolete">Kingsoft Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_JPN</comment>
-        <translation>Kingsoft Office</translation>
+        <translation type="obsolete">Kingsoft Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_VN</comment>
-        <translation>Kingsoft Office</translation>
+        <translation type="obsolete">Kingsoft Office</translation>
     </message>
     <message>
         <source>WPS Writer (Beta)</source>
         <comment>_kso_wpsProductName_Debug</comment>
-        <translation>Kingsoft Writer (Beta)</translation>
+        <translation type="obsolete">Kingsoft Writer (Beta)</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHN</comment>
-        <translation>Kingsoft Writer</translation>
+        <translation type="obsolete">Kingsoft Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHN_TEST</comment>
-        <translation>Kingsoft Writer</translation>
+        <translation type="obsolete">Kingsoft Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_OEM_CHN</comment>
-        <translation>Kingsoft Writer</translation>
+        <translation type="obsolete">Kingsoft Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_CHN</comment>
-        <translation>Kingsoft Writer</translation>
+        <translation type="obsolete">Kingsoft Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_EDU_CHN</comment>
-        <translation>Kingsoft Writer</translation>
+        <translation type="obsolete">Kingsoft Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_USA</comment>
-        <translation>Kingsoft Writer</translation>
+        <translation type="obsolete">Kingsoft Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_USA</comment>
-        <translation>Kingsoft Writer</translation>
+        <translation type="obsolete">Kingsoft Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_JPN</comment>
-        <translation>Kingsoft Writer</translation>
+        <translation type="obsolete">Kingsoft Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_VN</comment>
-        <translation>Kingsoft Writer</translation>
+        <translation type="obsolete">Kingsoft Writer</translation>
     </message>
     <message>
         <source>WPS Presentation (Beta)</source>
         <comment>_kso_wppProductName_Debug</comment>
-        <translation>Kingsoft Presentation (Beta)</translation>
+        <translation type="obsolete">Kingsoft Presentation (Beta)</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHN</comment>
-        <translation>Kingsoft Presentation</translation>
+        <translation type="obsolete">Kingsoft Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHN_TEST</comment>
-        <translation>Kingsoft Presentation</translation>
+        <translation type="obsolete">Kingsoft Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_OEM_CHN</comment>
-        <translation>Kingsoft Presentation</translation>
+        <translation type="obsolete">Kingsoft Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PER_CHN</comment>
-        <translation>Kingsoft Presentation</translation>
+        <translation type="obsolete">Kingsoft Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_EDU_CHN</comment>
-        <translation>Kingsoft Presentation</translation>
+        <translation type="obsolete">Kingsoft Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_USA</comment>
-        <translation>Kingsoft Presentation</translation>
+        <translation type="obsolete">Kingsoft Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PER_USA</comment>
-        <translation>Kingsoft Presentation</translation>
+        <translation type="obsolete">Kingsoft Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wpp_ProductName_PRO_JPN</comment>
-        <translation>Kingsoft Presentation</translation>
+        <translation type="obsolete">Kingsoft Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_VN</comment>
-        <translation>Kingsoft Presentation</translation>
+        <translation type="obsolete">Kingsoft Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets (Beta)</source>
         <comment>_kso_etProductName_Debug</comment>
-        <translation>Kingsoft Spreadsheets (Beta)</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets (Beta)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHN</comment>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHN_TEST</comment>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_OEM_CHN</comment>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PER_CHN</comment>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_EDU_CHN</comment>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_USA</comment>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PER_USA</comment>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_JPN</comment>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_VN</comment>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_CHT</comment>
-        <translation>Kingsoft  Office (試用)</translation>
+        <translation type="obsolete">Kingsoft  Office (試用)</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHT</comment>
-        <translation>Kingsoft Writer</translation>
+        <translation type="obsolete">Kingsoft Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHT</comment>
-        <translation>Kingsoft Presentation</translation>
+        <translation type="obsolete">Kingsoft Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHT</comment>
-        <translation>Kingsoft Spreadsheets </translation>
+        <translation type="obsolete">Kingsoft Spreadsheets </translation>
     </message>
     <message>
         <source>WPS Office Personal</source>
         <comment>_kso_ksoProductName_PER_VN</comment>
-        <translation>Kingsoft Office Personal</translation>
+        <translation type="obsolete">Kingsoft Office Personal</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_VN</comment>
-        <translation>Kingsoft Writer</translation>
+        <translation type="obsolete">Kingsoft Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRE_VN</comment>
-        <translation>Kingsoft Presentation</translation>
+        <translation type="obsolete">Kingsoft Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRE_VN</comment>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office 2010 Professional Edition</source>
         <comment>_kso_ksoProductName_dev_cn</comment>
-        <translation>Kingsoft Office 2009 专业增强版</translation>
+        <translation type="obsolete">Kingsoft Office 2009 专业增强版</translation>
     </message>
     <message>
         <source>WPS Office Standard</source>
         <comment>_kso_ksoProductName_PRO_CHT_Standard</comment>
-        <translation>Kingsoft Office 標準版</translation>
+        <translation type="obsolete">Kingsoft Office 標準版</translation>
     </message>
     <message>
         <source>WPS Office Home</source>
         <comment>_kso_ksoProductName_PRO_CHT_Home</comment>
-        <translation>Kingsoft Office ホーム プレミアム</translation>
+        <translation type="obsolete">Kingsoft Office ホーム プレミアム</translation>
     </message>
     <message>
         <source>WPS Office Crashing Information</source>
@@ -4548,200 +9278,210 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
         <comment>_kso_FileFormatNotSupport</comment>
-        <translation type="unfinished"></translation>
+        <translation>選択したファイル形式は、Kingsoft Officeのファイル形式ではなく、組織に適合しない可能性があります。
+このファイル形式で保存してもよろしいですか？</translation>
     </message>
     <message>
         <source>Are you sure you want to remove permission?</source>
         <comment>_kso_kirm_Remove_Permission</comment>
-        <translation type="unfinished"></translation>
+        <translation>権限を削除してもよろしいですか？</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this stored credential? You will not be able to use this credential unless you re-enable it.</source>
         <comment>_kso_kirm_Remove_Credential</comment>
-        <translation type="unfinished"></translation>
+        <translation>再度有効化するまで、この認証情報を使用できなくなりますが、保存された認証情報を削除してもよろしいですか？</translation>
     </message>
     <message>
         <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy setting are preventing your connection, or you are experiencing intermittent network issues.</source>
         <comment>_kso_krim_Error_SelectAuthor</comment>
-        <translation type="unfinished"></translation>
+        <translation>このサービスは一時的に利用することができません。サーバーへのアクセスを確実にしてください。
+このエラーは、オフライン作業やプロキシ設定による遮断、断続的なネットワークの問題により発生します。</translation>
     </message>
     <message>
         <source>E-mail addresses must be in the form of &apos;someone@example.com&apos;. The following e-mail address is not valid or could not be resolved: &apos;%1&apos;. Verify that this is a valid e-mail address.</source>
         <comment>_kso_krim_Error_EmailFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation>メールアドレスは「someone@example.com」 形式でなければなりません。
+以下のメールアドレスは無効であるか、&apos;%1&apos;が解析できません。メールアドレスが有効であるか確認してください。</translation>
     </message>
     <message>
         <source>You cannot change your access level. If you want to change your access level, request that another user with Full Control change your access level.</source>
         <comment>_kso_krim_Error_ChangeOwnPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>アクセス権限の変更はできません。アクセス権限のレベルを変更したい場合、管理権限を持つユーザーに変更を依頼してください。</translation>
     </message>
     <message>
         <source>Everyone</source>
         <comment>_kso_krim_User_Everyone</comment>
-        <translation type="unfinished"></translation>
+        <translation>すべてのユーザー</translation>
     </message>
     <message>
         <source>Read</source>
         <comment>_kso_krim_Permission_Read</comment>
-        <translation type="unfinished"></translation>
+        <translation>読み取り</translation>
     </message>
     <message>
         <source>Change</source>
         <comment>_kso_krim_Permission_Change</comment>
-        <translation type="unfinished"></translation>
+        <translation>変更</translation>
     </message>
     <message>
         <source>Full Control</source>
         <comment>_kso_krim_Permission_FullControl</comment>
-        <translation type="unfinished"></translation>
+        <translation>アクセス制限(フルコントロール）</translation>
     </message>
     <message>
         <source>Custom</source>
         <comment>_kso_krim_Permission_Custom</comment>
-        <translation type="unfinished"></translation>
+        <translation>ユーザー設定</translation>
     </message>
     <message>
         <source>Name</source>
         <comment>_kso_krim_TableHeader_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>名前</translation>
     </message>
     <message>
         <source>Access Level</source>
         <comment>_kso_krim_TableHeader_AccessLevel</comment>
-        <translation type="unfinished"></translation>
+        <translation>アクセスレベル</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the user?</source>
         <comment>_kso_krim_Question_RemoveUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>このユーザーを削除してもよろしいですか？</translation>
     </message>
     <message>
         <source>This will set the default permission policy for all documents, workbooks, forms and presentations with restricted permission.</source>
         <comment>_kso_krim_Permission_SetDefault</comment>
-        <translation type="unfinished"></translation>
+        <translation>権限が制限されたすべてのファイル、ワークブック、フォーム、そしてプレゼンテーションに対する既定の権限設定を行います。</translation>
     </message>
     <message>
         <source>The address to request additional permissions is invalid. Enter a valid e-mail or Web address. Example: someone@example.com.</source>
         <comment>_kso_krim_Error_EmailInvalid</comment>
-        <translation type="unfinished"></translation>
+        <translation>追加権限を申請したアドレスが正しくありません。正しいメールアドレスを入力してください。例）：someone@example.com.</translation>
     </message>
     <message>
         <source>The expiration date is not valid. Enter a date between tomorrow and 2100/12/31.</source>
         <comment>_kso_krim_Error_DateInvalid</comment>
-        <translation type="unfinished"></translation>
+        <translation>有効期限が無効です。明日から2100/12/31の範囲内の日付を指定してください。</translation>
     </message>
     <message>
         <source>Change user...</source>
         <comment>_kso_krim_Permission_ChangeUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>ユーザーの変更...</translation>
     </message>
     <message>
         <source>Unrestricted</source>
         <comment>_kso_krim_Permission_NoExpireDate</comment>
-        <translation type="unfinished"></translation>
+        <translation>制限なし</translation>
     </message>
     <message>
         <source>Yes</source>
         <comment>_kso_krim_Permission_Yes</comment>
-        <translation type="unfinished">はい</translation>
+        <translation>はい</translation>
     </message>
     <message>
         <source>No</source>
         <comment>_kso_krim_Permission_No</comment>
-        <translation type="unfinished">いいえ</translation>
+        <translation>いいえ</translation>
     </message>
     <message>
         <source>Select Names</source>
         <comment>_kso_krim_Permission_SelectNames</comment>
-        <translation type="unfinished"></translation>
+        <translation>名前の選択</translation>
     </message>
     <message>
         <source>&amp;Change User</source>
         <comment>_kso_irmio_Button_ChangeUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>ユーザーの変更(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
         <comment>_kso_irmio_Button_Yes</comment>
-        <translation type="unfinished"></translation>
+        <translation>はい(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
         <comment>_kso_irmio_Button_No</comment>
-        <translation type="unfinished"></translation>
+        <translation>いいえ(&amp;N)</translation>
     </message>
     <message>
         <source>Unexpected error occurred. Please try again later or contact your system administrator.</source>
         <comment>_kso_irmio_Error_Unexpected</comment>
-        <translation type="unfinished"></translation>
+        <translation>予期せぬエラーが発生しました。再試行するか、システム管理者に連絡してください。</translation>
     </message>
     <message>
         <source>Cannot use test manifests against production servers.</source>
         <comment>_kso_irmio_Error_Production</comment>
-        <translation type="unfinished"></translation>
+        <translation>本番サーバーに対する試験マニフェストを使用することはできません</translation>
     </message>
     <message>
         <source>Information Rights Management cannot operate in the presence of a debugger. Please close your debugger and try again.</source>
         <comment>_kso_irmio_Error_Debugging</comment>
-        <translation type="unfinished"></translation>
+        <translation>デバックの環境で情報資源管理を実行できません、デバック環境を閉じてプログラムを実行してみてください。</translation>
     </message>
     <message>
         <source>You do not have credentials that allow you to open this document.
 Do you want to open it using a different set of credentials?</source>
         <comment>_kso_irmio_Error_NoPermissionEmail</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>このファイルを開くための認証情報がありません。
+このファイルを開くには、異なる設定の認証情報を使用してください</translatorcomment>
+        <translation>このファイルを開くための認証情報がありません。
+他の信用情報を使用して、このファイルを開きますか？</translation>
     </message>
     <message>
         <source>Verifying your logon information for opening content with restricted permission</source>
         <comment>_kso_irmio_Verifying</comment>
-        <translation type="unfinished"></translation>
+        <translation>アクセスが制限されたファイルを開くため、ログイン情報を確認する</translation>
     </message>
     <message>
         <source>Information Rights Management(IRM) in Microsoft Office helps prevent sensitive documents and e-mail messages form being forwarded, edited or copied by unauthorized people.
 
 To use IRM you need to install the Windows Rights Management client. If you have an existing version of the Windows Rights Management client installed you will need to uninstall it first and then download the lastest version of the Windows Rights Management client. Do you want to download the lastest version now? </source>
         <comment>_kso_irmio_No_Install_IRM</comment>
-        <translation type="unfinished"></translation>
+        <translation>情報資源管理（IRM）は、権限のないユーザーが機密文書や電子メールのメッセージを転送したり、編集・コピーしたりするのを防ぐことに役立ちます。
+IRMを使用するためには、Windows Rights Managementのクライアントをインストールする必要があります。すでにWindows Rights Managementのクライアントがインストール済の場合、
+Windows Rights Managementsクライアントの最新版をダウンロードする前に、一旦アンインストールを行ってください。
+最新バージョンを今すぐダウンロードしますか？</translation>
     </message>
     <message>
         <source>Your session with the user account %1 has timed out. The service must verify your credentials again before you continue. If prompted, enter the username and password for %1 or loss of the document may occur.</source>
         <comment>_kso_krim_SaveNeedVerifyCredential</comment>
-        <translation type="unfinished"></translation>
+        <translation>ユーザーアカウント%1の通信がタイムアウトになりました。続行する前に、認証情報を確認する必要があります。
+必要に応じて、 %1のユーザー名とパスワードを入力してください。さもなければ、文書を損失する可能性があります</translation>
     </message>
     <message>
         <source>Change Permission...</source>
         <comment>_kso_krim_Permission_ChangePermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>権限変更...</translation>
     </message>
     <message>
         <source>View Permission...</source>
         <comment>_kso_krim_Permission_ViewPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>権限表示...</translation>
     </message>
     <message>
         <source>Permission will expire within %1 days. </source>
         <comment>_kso_krim_Permission_ExpirationHint</comment>
-        <translation type="unfinished"></translation>
+        <translation>権限は %1 日で期限切れになります</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
         <comment>_kso_krim_UnrestrictedAccess</comment>
-        <translation type="unfinished"></translation>
+        <translation>アクセス制限なし</translation>
     </message>
     <message>
         <source>Restricted Access(Read)</source>
         <comment>_kso_krim_RestrictedAccess_Read</comment>
-        <translation type="unfinished"></translation>
+        <translation>アクセス制限（読み取り）</translation>
     </message>
     <message>
         <source>Restricted Access(Change)</source>
         <comment>_kso_krim_RestrictedAccess_Change</comment>
-        <translation type="unfinished"></translation>
+        <translation>アクセス制限（変更）</translation>
     </message>
     <message>
         <source>Restricted Access(Full Control)</source>
         <comment>_kso_krim_RestrictedAccess_FullControl</comment>
-        <translation type="unfinished"></translation>
+        <translation>アクセス制限(フルコントロール）</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the following operations: 
@@ -4752,7 +9492,11 @@ To use IRM you need to install the Windows Rights Management client. If you have
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation type="unfinished"></translation>
+        <translation>定期バックアップ中に %s エラーが発生しました。以下の操作を行ってください。
+・バックアップフォルダに書き込み権限があるか確認するか、バックアップフォルダを変更してください。
+・「元に戻す」で1つ前の動作に戻り、[保存」を行ってください。
+・このファイルの内容を新規作成ファイルに「コピー/貼り付け]してください。
+・このファイルの変更を断念する。</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the  following operations: 
@@ -4762,54 +9506,503 @@ To use IRM you need to install the Windows Rights Management client. If you have
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation type="unfinished"></translation>
+        <translation>定期バックアップ中に %s エラーが発生しました。以下の操作を行ってください。
+・バックアップフォルダに書き込み権限があるか確認するか、バックアップフォルダを変更してください。
+・「元に戻す」で1つ前の動作に戻り、[保存」を行ってください。
+・このファイルの内容を新規作成ファイルに「コピー/貼り付け]してください。
+・このファイルの変更を断念する。</translation>
     </message>
     <message>
         <source>Request additional permissions...</source>
         <comment>_kso_krim_Permission_RequestPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>更新権限申請</translation>
     </message>
     <message>
         <source>R&amp;equest permissions</source>
         <comment>_kso_irmio_Button_RequestPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>権限申請(&amp;E)</translation>
     </message>
     <message>
         <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within the Control Panel.</source>
         <comment>_kso_irmio_Error_Configuration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Officeは情報資源管理の設定に関する問題を検出しました。
+この問題が継続される場合は、コントロールパネルにて製品の修復を行ってください</translation>
     </message>
     <message>
         <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
         <comment>_kso_irmio_Error_Connection</comment>
-        <translation type="unfinished"></translation>
+        <translation>このサービスは一時的に利用することができません。サーバーへのアクセスを確実にしてください。
+このエラーは、オフライン作業やプロキシ設定による遮断、断続的なネットワークの問題により発生します。</translation>
     </message>
     <message>
         <source>The service at %1 is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
         <comment>_kso_irmio_Error_Location</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1 サービスは一時的に利用することができません。サーバーへのアクセスを確実にしてください。
+このエラーは、オフライン作業やプロキシ設定による遮断、断続的なネットワークの問題により発生します。</translation>
     </message>
     <message>
         <source>Cannot use feature without credentials</source>
         <comment>_kso_irmio_Error_Credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>認証情報がないと機能利用ができません</translation>
     </message>
     <message>
         <source>Permission for this document is currently restricted. You do not have credentials that allow you to open this document. You can: 
 1. Try changing to another user account to open the document;
 2. Request permission update from %1.</source>
         <comment>_kso_irmio_Error_No_Permission</comment>
-        <translation type="unfinished"></translation>
+        <translation>保護されたドキュメントを開くことはできません。このファイルを開く権限を持っていない場合は、以下の操作を行って下さい。
+1. ファイルを開くために別のユーザーアカウントをお試しください。
+2. %1 から権限の申請を行ってください。</translation>
     </message>
     <message>
         <source>Restricted Access</source>
         <comment>_kso_kirm_Policy_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>アクセス制限</translation>
     </message>
     <message>
         <source>Permission is currently restricted. Only specified users can access this content. </source>
         <comment>_kso_kirm_Policy_Description</comment>
+        <translation>権限が制限されています。指定されたユーザーのみがこの内容にアクセスできます。</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
+•Please check the backup directory is writable permissions, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
+        <translation type="obsolete">定期バックアップ中に %s エラーが発生しました。以下の操作を行ってください。
+・バックアップフォルダに書き込み権限があるか確認しするか、バックアップフォルダを変更してください。
+・［元に戻す］でこの操作の前の状態に戻し、［保存」を行ってください。
+・テキストファイル（*.txt）として[名前を付けて保存]を行ってください。
+・このファイルの内容を新規作成ファイルに「コピー/貼り付け］してください。
+・このファイルの変更を断念する。
+(%s)</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations:
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translatorcomment>%s 定時バックアップ時にエラーが発生しました！次の操作を行ってください。
+·バックアップフォルダに書き込み権限があるかチェックします。或いは、バックアップ先を変更してみてください。
+·この操作の前の状態に[元に戻す]。そして[上書き保存]。
+·テキスト形式（*.txt）として
+·内容を新しいファイルに[コピー/貼り付け]。
+·ファイルへの変更を元に戻す。
+</translatorcomment>
+        <translation type="obsolete">定期バックアップ中に %s エラーが発生しました。以下の操作を行ってください。
+・バックアップフォルダに書き込み権限があるか確認しするか、バックアップフォルダを変更してください。
+・［元に戻す］でこの操作の前の状態に戻し、［保存」を行ってください。
+・テキストファイル（*.txt）として[名前を付けて保存]を行ってください。
+・このファイルの内容を新規作成ファイルに「コピー/貼り付け］してください。
+・このファイルの変更を断念する。
+(%s)</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files (*.txt); 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="obsolete">定期バックアップ中に %s エラーが発生しました。以下の操作を行ってください。
+・バックアップフォルダに書き込み権限があるか確認するか、バックアップフォルダを変更してください。
+・「元に戻す」で1つ前の動作に戻り、[保存」を行ってください。
+・このファイルの内容を新規作成ファイルに「コピー/貼り付け]してください。
+・このファイルの変更を断念する。</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory is writable permissions, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translatorcomment>%s 定時バックアップ時にエラーが発生しました！次の操作を行ってください。
+·バックアップフォルダに書き込み権限があるかチェックします。或いは、バックアップ先を変更してみてください。
+·この操作の前の状態に[元に戻す]。そして[上書き保存]。
+·テキスト形式（*.txt）として
+·内容を新しいファイルに[コピー/貼り付け]。
+·ファイルへの変更を元に戻す。
+</translatorcomment>
+        <translation type="obsolete">定期バックアップ中に %s エラーが発生しました。以下の操作を行ってください。
+・バックアップフォルダに書き込み権限があるか確認しするか、バックアップフォルダを変更してください。
+・［元に戻す］でこの操作の前の状態に戻し、［保存」を行ってください。
+・テキストファイル（*.txt）として[名前を付けて保存]を行ってください。
+・このファイルの内容を新規作成ファイルに「コピー/貼り付け］してください。
+・このファイルの変更を断念する。
+(%s)</translation>
+    </message>
+    <message>
+        <source>(Press ESC to cancel)</source>
+        <comment>_kso_io_Progress_Discontinue_ByEsc</comment>
+        <translation>（Escを押してキャンセル）</translation>
+    </message>
+    <message>
+        <source>Backing up</source>
+        <comment>_kso_io_Progress_AutoSaving</comment>
+        <translation>バックアップ中です</translation>
+    </message>
+    <message>
+        <source>Cannot user feature without credentials</source>
+        <comment>_kso_irmio_Error_Credentials</comment>
+        <translation type="obsolete">認証情報がないと機能利用ができません</translation>
+    </message>
+    <message>
+        <source>Hyperlinks may harm your computer and data. For the protection of computer, super link please click only trusted sources. Do you want to continue?</source>
+        <comment>_kso_Warnning_MessageBox_HyperLinksSend_Content</comment>
+        <translation>ハイパーリンクによりデータとPCが危険にさらされる可能性があります。PCを保護するためには、安全なソースのハイパーリンクのみクリックしてください。続行しますか？</translation>
+    </message>
+    <message>
+        <source>Opening</source>
+        <comment>_kso_io_Progress_Opening</comment>
+        <translation>開いています</translation>
+    </message>
+    <message>
+        <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this presentation.</source>
+        <comment>_kso_krim_Error_insertOleInvalid</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission is currently restricted by a permission policy. Do you want to stop using a permission policy and specify permission for individual users or groups?</source>
+        <comment>_kso_kirm_PermissionPolicyToIndividual</comment>
+        <translation>権限ポリシーにより現在、制限されています。権限ポリシーを解除し、個人またはグループに権限を付与しますか？</translation>
+    </message>
+    <message>
+        <source>Permission is currently restricted. Only specified users can access this content. </source>
+        <comment>_kso_krim_Permission_PermissionHint</comment>
+        <translation type="obsolete">権限が制限されています。指定されたユーザーのみがこの内容にアクセスできます。</translation>
+    </message>
+    <message>
+        <source>Permission of (%1)</source>
+        <comment>_kso_krim_RestrictedAccess_Template</comment>
+        <translation>(%1) の権限</translation>
+    </message>
+    <message>
+        <source>R&amp;esquest permissions</source>
+        <comment>_kso_irmio_Button_RequestPermission</comment>
+        <translation type="obsolete">権限申請(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <comment>_kso_krim_Permission_RequestPermission</comment>
+        <translation type="obsolete">権限の追加を要求</translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <comment>_kso_kirm_Permission_RestrictedAccess</comment>
+        <translation type="obsolete">アクセス制限</translation>
+    </message>
+    <message>
+        <source>Ribbon Tabs</source>
+        <translation>リボンタブ</translation>
+    </message>
+    <message>
+        <source>Saving</source>
+        <comment>_kso_io_Progress_Saving</comment>
+        <translation>保存しています</translation>
+    </message>
+    <message>
+        <source>Selecting a permission policy will replace any existing permission that you&apos;ve set for this document. Do you want to continue?</source>
+        <comment>_kso_kirm_PermissionIndividualToPolicy</comment>
+        <translation>権限ポリシーを選択することにより、このドキュメントの既存の権限と置換されます。続行しますか？</translation>
+    </message>
+    <message>
+        <source>The service at %1 temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Location</comment>
+        <translatorcomment>%サービスは一時的に利用できません。サーバーに接続するか確認してください。オフライン作業、プロキシで接続を阻止、断続的なネットワークエラーなどことより、このサービスの利用に影響がある可能になります。</translatorcomment>
+        <translation type="obsolete">%1 サービスは一時的に利用することができません。このサーバーへのアクセスを確実にしてください。
+このエラーは、オフライン作業やプロキシ設定による遮断、断続的なネットワークの問題により発生します。</translation>
+    </message>
+    <message>
+        <source>This document is currently restricted. You do not have credentials that allow you to open this document. You can choose 
+~try changing another user to open the document;
+~request updated permission from %1.</source>
+        <comment>_kso_irmio_Error_No_Permission</comment>
+        <translatorcomment>保護されたドキュメントを開けません、開く場合、以下の操作を行って下さい。
+·あカウントを変更してファイルを開いてみてください。
+·%1へ更新権限を申請します。</translatorcomment>
+        <translation type="obsolete">このファイルは保護されているため開けません。以下をお試しください
+・ファイルを開くために、別のユーザーアカウントに変更してください。
+・%1へ権限の申請を行ってください。</translation>
+    </message>
+    <message>
+        <source>This service is temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Connection</comment>
+        <translation type="obsolete">このサービスは一時的に利用することができません。このサーバーへのアクセスを確実にしてください。
+このエラーは、オフライン作業やプロキシ設定による遮断、断続的なネットワークの問題により発生します。</translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PRO</comment>
+        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+    </message>
+    <message>
+        <source>This software is for personal use based on personal purpose only. It is strictly forbidden to use this software on production, business operation and other commercial purposes. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation type="unfinished">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+    </message>
+    <message>
+        <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within th Control Panel.</source>
+        <comment>_kso_irmio_Error_Configuration</comment>
+        <translatorcomment>WPSより権限管理設定の問題が検証されたため、この問題を継続で存在すれば、コントロールパネルから製品を修復するようにします。</translatorcomment>
+        <translation type="obsolete">Kingsoft Officeは情報資源管理の設定に関する問題を検出しました。
+この問題が継続される場合は、コントロールパネルにて製品の修復を行ってください。
+</translation>
+    </message>
+    <message>
+        <source>WPS office has identified a potential safety problems.
+This position may not be safe.</source>
+        <comment>_kso_Warnning_MessageBox_HyperLinksSend_Title</comment>
+        <translation>WPS Officeは潜在的な安全性の問題を検知しました。このリンク場所は安全ではありません。</translation>
+    </message>
+    <message>
+        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+    </message>
+</context>
+<context>
+    <name>kso_numfmtapi</name>
+    <message>
+        <source>##0.0E+0</source>
+        <comment>TX_NUMFMTApi_BuildIn_48</comment>
+        <translation>##0.0E+0</translation>
+    </message>
+    <message>
+        <source>#,##0</source>
+        <comment>TX_NUMFMTApi_BuildIn_03</comment>
+        <translation>#,##0</translation>
+    </message>
+    <message>
+        <source>#,##0.00</source>
+        <comment>TX_NUMFMTApi_BuildIn_04</comment>
+        <translation>#,##0.00</translation>
+    </message>
+    <message>
+        <source>#,##0.00_);(#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_39</comment>
+        <translation>$#,##0.00_);($#,##0.00)</translation>
+    </message>
+    <message>
+        <source>#,##0.00_);[Red](#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_40</comment>
+        <translation>$#,##0.00_);[Red]($#,##0.00)</translation>
+    </message>
+    <message>
+        <source>#,##0_);(#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_37</comment>
+        <translation>$#,##0_);($#,##0)</translation>
+    </message>
+    <message>
+        <source>#,##0_);[Red](#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_38</comment>
+        <translation>$#,##0_);[Red]($#,##0)</translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_07</comment>
+        <translation>$#,##0.00_);($#,##0.00)</translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);[Red]($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_08</comment>
+        <translation>$#,##0.00_);[Red]($#,##0.00)</translation>
+    </message>
+    <message>
+        <source>$#,##0_);($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_05</comment>
+        <translation>$#,##0_);($#,##0)</translation>
+    </message>
+    <message>
+        <source>$#,##0_);[Red]($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_06</comment>
+        <translation>$#,##0_);[Red]($#,##0)</translation>
+    </message>
+    <message>
+        <source>0.00</source>
+        <comment>TX_NUMFMTApi_BuildIn_02</comment>
+        <translation>0.00</translation>
+    </message>
+    <message>
+        <source>0.00%</source>
+        <comment>TX_NUMFMTApi_BuildIn_10</comment>
+        <translation>0.00%</translation>
+    </message>
+    <message>
+        <source>0.00E+00</source>
+        <comment>TX_NUMFMTApi_BuildIn_11</comment>
+        <translation>0.00E+00</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <comment>TX_NUMFMTApi_BuildIn_00</comment>
+        <translation>標準</translation>
+    </message>
+    <message>
+        <source>\$#,##0.00_);(\$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_25</comment>
+        <translation>\$#,##0.00_);(\$#,##0.00)</translation>
+    </message>
+    <message>
+        <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_26</comment>
+        <translation>\$#,##0.00_);[Red](\$#,##0.00)</translation>
+    </message>
+    <message>
+        <source>\$#,##0_);(\$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_23</comment>
+        <translation>\$#,##0_);(\$#,##0)</translation>
+    </message>
+    <message>
+        <source>\$#,##0_);[Red](\$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_24</comment>
+        <translation>\$#,##0_);[Red](\$#,##0)</translation>
+    </message>
+    <message>
+        <source>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_44</comment>
+        <translation>_($* #,##0_);($* (#,##0);_($*&quot;-&quot;??_);_(@_)</translation>
+    </message>
+    <message>
+        <source>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_42</comment>
+        <translation>_($* #,##0_);($* (#,##0);_($*&quot;-&quot;_);_(@_)</translation>
+    </message>
+    <message>
+        <source>_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_43</comment>
+        <translation>_(* #,##0_);(* (#,##0);_(*&quot;-&quot;??_);_(@_)</translation>
+    </message>
+    <message>
+        <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_41</comment>
+        <translation>_(* #,##0_);(* (#,##0);_(*&quot;-&quot;_);_(@_)</translation>
+    </message>
+    <message>
+        <source>d-mmm</source>
+        <comment>TX_NUMFMTApi_BuildIn_16</comment>
+        <translation>d-mmm</translation>
+    </message>
+    <message>
+        <source>d-mmm-yy</source>
+        <comment>TX_NUMFMTApi_BuildIn_15</comment>
+        <translation>d-mmm-yy</translation>
+    </message>
+    <message>
+        <source>h:mm</source>
+        <comment>TX_NUMFMTApi_BuildIn_20</comment>
+        <translation>h:mm</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_21</comment>
+        <translation>h:mm:ss</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_32</comment>
+        <translation>h:mm:ss</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
+        <translation>h:mm:ss</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_33</comment>
+        <translation>h:mm:ss</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
+        <translation>h:mm:ss</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_14</comment>
+        <translation>m/d/yyyy</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_30</comment>
+        <translation>m/d/yyyy</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_31</comment>
+        <translation>m/d/yyyy</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
+        <translation>m/d/yyyy</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_55</comment>
+        <translation>m/d/yyyy</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
+        <translation>m/d/yyyy</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_56</comment>
+        <translation>m/d/yyyy</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
+        <translation>m/d/yyyy</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_57</comment>
+        <translation>m/d/yyyy</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
+        <translation>m/d/yyyy</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_58</comment>
+        <translation>m/d/yyyy</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
+        <translation>m/d/yyyy</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy h:mm</source>
+        <comment>TX_NUMFMTApi_BuildIn_22</comment>
+        <translation>m/d/yyyy h:mm</translation>
+    </message>
+    <message>
+        <source>mm:ss.0</source>
+        <comment>TX_NUMFMTApi_BuildIn_45</comment>
+        <translation>mm:ss.0</translation>
     </message>
 </context>
 <context>
@@ -4886,8 +10079,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
 You can add the customized paper %dmm x %dmm in printer properties and print it again.
 Do you want to continue?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation type="obsolete">リンタは現在の用紙サイズをサポートしていません。続行すると、印刷効果が不備になる可能性があります。
+        <translatorcomment>リンタは現在の用紙サイズをサポートしていません。続行すると、印刷効果が不備になる可能性があります。
 プリンタのプロパティのユーザー設定に%dmm×%dmmの用紙を設定して印刷することができます。
+続行しますか？</translatorcomment>
+        <translation type="obsolete">このプリンタは現在のページサイズに対応していません。印刷を続行する場合は、印刷の質が低下します。
+プリンタのプロパティのユーザー設定に%dmm×%dmmの用紙を追加し、印刷することができます。
 続行しますか？</translation>
     </message>
     <message>
@@ -4900,6 +10096,13 @@ Do you want to continue?</source>
 You can add the customized paper %dmm x %dmm in printer properties and print again.
 Continue printing?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
+        <translation>プリンタは現在の用紙サイズをサポートしていません。続行すると、印刷効果が不備になる可能性があります。
+プリンタのプロパティのユーザー設定に%dmm×%dmmの用紙を設定して印刷することができます。
+続行しますか？</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|PDF Files(*.pdf)|*.pdf|Postscript Files(*.ps)|*.ps</source>
+        <comment>_kso_Print_OutputFileDialog_Linux_Filter</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5633,12 +10836,12 @@ cycle</source>
     <message>
         <source>Dash-Dot</source>
         <comment>kso_sLineDashDot</comment>
-        <translation>一点鎖線</translation>
+        <translation type="obsolete">一点鎖線</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
         <comment>kso_sLineDashDotDot</comment>
-        <translation>長二点鎖線</translation>
+        <translation type="obsolete">長二点鎖線</translation>
     </message>
     <message>
         <source>Dashed downward diagonal</source>
@@ -6058,7 +11261,7 @@ cycle</source>
     <message>
         <source>Help file does not exist or occurs an error!</source>
         <comment>kso_sHelpNotFound</comment>
-        <translation>一致する項目は見つかりませんでした。または、ヘルプ ファイルにエラーが発生しました。</translation>
+        <translation type="obsolete">一致する項目は見つかりませんでした。または、ヘルプ ファイルにエラーが発生しました。</translation>
     </message>
     <message>
         <source>Horizontal brick</source>
@@ -6348,7 +11551,7 @@ cycle</source>
     <message>
         <source>Long Dash-Dot</source>
         <comment>kso_sLineLongDashDot</comment>
-        <translation>長鎖線</translation>
+        <translation type="obsolete">長鎖線</translation>
     </message>
     <message>
         <source>MB</source>
@@ -7258,7 +12461,7 @@ elements</source>
     <message>
         <source>You have reached the max retry step, program will terminate.</source>
         <comment>kso_sMaxStep</comment>
-        <translation>入力が正しくありません。プログラムが終了します。</translation>
+        <translation type="obsolete">入力が正しくありません。プログラムが終了します。</translation>
     </message>
     <message>
         <source>You will close %d tabs, are you sure you want to continue?</source>
@@ -7479,12 +12682,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Error happens when application tries to register. Error code: 0x%8.8x.</source>
         <comment>kso_sAppRegisterError</comment>
-        <translation type="unfinished"></translation>
+        <translation>アプリケーションがログインする時に、エラーが発生しました。エラー番号: 0x%8.8x。</translation>
     </message>
     <message>
         <source>Error happens when application tries to logout. Error code: 0x%8.8x.</source>
         <comment>kso_sAppUnRegisterError</comment>
-        <translation type="unfinished"></translation>
+        <translation>アプリケーションを取り消す時に、エラーが発生しました。エラー番号: 0x%8.8x。</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyze meet the following conditions:
@@ -7492,84 +12695,430 @@ For better service, please update the trial edition to standard edition by:
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
         <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>このデータ範囲ではピボットテーブルを作成できません。
+
+分析するデータが以下の条件を満たしているか確認して下さい。
+
+
+
+1.　参照範囲が存在し、参照範囲が名前の場合、その名前の参照範囲に問題がないかどうか。
+
+2.　参照範囲が複数ではなく、データ少なくとも2行以上選択されているかどうか。
+
+3.　参照範囲の1行目に空白セルがなく、エラー値が含まれていなく、またセル内の文字数が255字以内であるかどうか。</translation>
     </message>
     <message>
         <source>Unknown Format Source.</source>
         <comment>kso_sErrPasteLink</comment>
-        <translation type="unfinished"></translation>
+        <translation>書式が知らない貼り付けソース。</translation>
     </message>
     <message>
         <source>Solid</source>
         <comment>kso_sLineSolid</comment>
-        <translation type="unfinished"></translation>
+        <translation>実線</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
         <comment>kso_sRefIsNotValid</comment>
-        <translation type="unfinished">参照が正しくありません。</translation>
+        <translation>参照が正しくありません。</translation>
     </message>
     <message>
         <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sWpsLinkAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>ファイルの内容を表すアイコンを文書に挿入します。元のファイルを変更すると、文書の内容も変更されます。</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an existing sheet or unprotect this book.</source>
         <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
-        <translation type="unfinished"></translation>
+        <translation>このブックは保護されているので、新しいシートにピボットテーブルを作成できません。既に存在しているシートを選択してください。または、ブックの保護を解除してください。</translation>
     </message>
     <message>
         <source>Forward</source>
         <comment>kso_Nav_Forword</comment>
-        <translation type="unfinished"></translation>
+        <translation>進む</translation>
     </message>
     <message>
         <source>The file cannot be deleted. It may be occupied.</source>
         <comment>kso_sCannotRemoveBackupFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>このファイルは開いている可能性があるため、削除できません。</translation>
     </message>
     <message>
         <source>Some files cannot be deleted. They may be occupied.</source>
         <comment>kso_sCannotRemoveAllBackupFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>一部のファイルは開いている可能性があるため、削除できません。</translation>
     </message>
     <message>
         <source>Dowload XML expansion</source>
         <comment>kso_Smartdoc_DowloadXmlExpasionCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>XML拡張をダウンロード</translation>
     </message>
     <message>
         <source>Using the latest XML expansion pack from the following locations, the effect of this document will be the best:
  %1 
 Download the XML expansion pack?</source>
         <comment>kso_Smartdoc_DowloadXmlExpasion</comment>
-        <translation type="unfinished"></translation>
+        <translation>このドキュメントの効果が最適になりますので、最新のXML拡張パックを以下より使用してください:
+ %1
+
+XML拡張パックをダウンロードしますか？</translation>
     </message>
     <message>
         <source>The XML expansion pack or smart document program has been lost or invalid.Please contact the system administrator or the personnel who provide this document</source>
         <comment>kso_Smartdoc_XMLExpansionLost</comment>
-        <translation type="unfinished"></translation>
+        <translation>XML拡張パック、またはドキュメントプログラムが失われているか、無効になっています。システム管理者に確認してください。</translation>
     </message>
     <message>
         <source>You are currently viewing this document in multiple windows. If you wanna attach XML expansion, you must close all other windows first to ensure that you view this document only in one window.</source>
         <comment>kso_Smartdoc_XmlExpansionRefuse</comment>
-        <translation type="unfinished"></translation>
+        <translation>現在、複数ウィンドウでこのドキュメントが表示されています。XML拡張パックを付け加える場合は、1つのウィンドウにのみこのドキュメントを表示するため、もう1つのウィンドウを閉じてください。</translation>
     </message>
     <message>
         <source>This document has attached a XML expansion. If You wanna view this document in multiple windows, you must delete the XML expansion first.</source>
         <comment>kso_Smartdoc_NewWindowRefuse</comment>
-        <translation type="unfinished"></translation>
+        <translation>このドキュメントにはXML拡張パックが付属されています。このドキュメントを複数ウィンドウで表示する場合は、最初にXML拡張パックを削除してください。</translation>
     </message>
     <message>
         <source>Cannot install this file, because the security certificate has some problems. This XML expansion pack may won&apos;t run as expecte.For more information, please contact your administrator.</source>
         <comment>kso_Smartdoc_XMLCertificateError</comment>
-        <translation type="unfinished"></translation>
+        <translation>セキュリティ証明書の問題により、このファイルをインストールできません。XML拡張パックが正常に機能していない可能性が考えられます。システム管理者に詳細確認してください。</translation>
     </message>
     <message>
         <source>Install this XML expansion pack failed.</source>
         <comment>kso_Smartdoc_installManifestError</comment>
-        <translation type="unfinished"></translation>
+        <translation>XML拡張パックのインストールに失敗しました。</translation>
+    </message>
+    <message>
+        <source>As eighths (%s)</source>
+        <comment>kso_sNnumberFormatter_style_06</comment>
+        <translation>8を分母とする (%s)</translation>
+    </message>
+    <message>
+        <source>As halves (%s)</source>
+        <comment>kso_sNnumberFormatter_style_04</comment>
+        <translation>2を分母とする (%s)</translation>
+    </message>
+    <message>
+        <source>As hundredths (%s)</source>
+        <comment>kso_sNnumberFormatter_style_09</comment>
+        <translation>何パーセント (%s)</translation>
+    </message>
+    <message>
+        <source>As quarters (%s)</source>
+        <comment>kso_sNnumberFormatter_style_05</comment>
+        <translation>4を分母とする (%s)</translation>
+    </message>
+    <message>
+        <source>As sixteenths (%s)</source>
+        <comment>kso_sNnumberFormatter_style_07</comment>
+        <translation>16を分母とする (%s)</translation>
+    </message>
+    <message>
+        <source>As tenths (%s)</source>
+        <comment>kso_sNnumberFormatter_style_08</comment>
+        <translation>10を分母とする(%s)</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <comment>kso_sLineDashDot</comment>
+        <translation>一点鎖線</translation>
+    </message>
+    <message>
+        <source>Help file does not exist or encounters an error.</source>
+        <comment>kso_sHelpNotFound</comment>
+        <translation>一致する項目は見つかりませんでした。または、ヘルプ ファイルにエラーが発生しました。</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <comment>kso_sLineLongDashDot</comment>
+        <translation>長鎖線</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <comment>kso_sLineDashDotDot</comment>
+        <translation>長二点鎖線</translation>
+    </message>
+    <message>
+        <source>Up to one digit (%s)</source>
+        <comment>kso_sNnumberFormatter_style_01</comment>
+        <translation>最大1桁 (%s)</translation>
+    </message>
+    <message>
+        <source>Up to three digits (%s)</source>
+        <comment>kso_sNnumberFormatter_style_03</comment>
+        <translation>最大3桁 (%s)</translation>
+    </message>
+    <message>
+        <source>Up to two digits (%s)</source>
+        <comment>kso_sNnumberFormatter_style_02</comment>
+        <translation>最大2桁 (%s)</translation>
+    </message>
+    <message>
+        <source>You have reached the maximum number of retries. Program will terminate.</source>
+        <comment>kso_sMaxStep</comment>
+        <translation>入力が正しくありません。プログラムが終了します。</translation>
+    </message>
+</context>
+<context>
+    <name>kso_theme</name>
+    <message>
+        <source>Adjacency</source>
+        <comment>THEME_THEME_ADJACENCY</comment>
+        <translation>ナチュラル</translation>
+    </message>
+    <message>
+        <source>Angles</source>
+        <comment>THEME_THEME_ANGLES</comment>
+        <translation type="unfinished">アングル</translation>
+    </message>
+    <message>
+        <source>Apex</source>
+        <comment>THEME_THEME_APEX</comment>
+        <translation>ひらめき</translation>
+    </message>
+    <message>
+        <source>Apothecary</source>
+        <comment>THEME_THEME_APOTHECARY</comment>
+        <translation>オータム</translation>
+    </message>
+    <message>
+        <source>Aspect</source>
+        <comment>THEME_THEME_ASPECT</comment>
+        <translation>シック</translation>
+    </message>
+    <message>
+        <source>Austin</source>
+        <comment>THEME_THEME_AUSTIN</comment>
+        <translation>オースティン</translation>
+    </message>
+    <message>
+        <source>Black Tie</source>
+        <comment>THEME_THEME_BLACK_TIE</comment>
+        <translation>ブラックタイ</translation>
+    </message>
+    <message>
+        <source>BlackTie</source>
+        <comment>THEME_THEME_BLACKTIE</comment>
+        <translation>フォーマル</translation>
+    </message>
+    <message>
+        <source>Calligraphy</source>
+        <comment>THEME_THEME_CALLIGRAPHY</comment>
+        <translation>カリグラフィー</translation>
+    </message>
+    <message>
+        <source>Civic</source>
+        <comment>THEME_THEME_CIVIC</comment>
+        <translation>クール</translation>
+    </message>
+    <message>
+        <source>Clarity</source>
+        <comment>THEME_THEME_CLARITY</comment>
+        <translation>クラリティ</translation>
+    </message>
+    <message>
+        <source>Composite</source>
+        <comment>THEME_THEME_COMPOSITE</comment>
+        <translation>コンポジット</translation>
+    </message>
+    <message>
+        <source>Concourse</source>
+        <comment>THEME_THEME_CONCOURSE</comment>
+        <translation>ビジネス</translation>
+    </message>
+    <message>
+        <source>Couture</source>
+        <comment>THEME_THEME_COUTURE</comment>
+        <translation>クチュール</translation>
+    </message>
+    <message>
+        <source>Dragon</source>
+        <comment>THEME_THEME_DRAGON</comment>
+        <translation>ドラゴン</translation>
+    </message>
+    <message>
+        <source>Elemental</source>
+        <comment>THEME_THEME_ELEMENTAL</comment>
+        <translation>エレメント</translation>
+    </message>
+    <message>
+        <source>Equity</source>
+        <comment>THEME_THEME_EQUITY</comment>
+        <translation>ジャパネスク</translation>
+    </message>
+    <message>
+        <source>Essential</source>
+        <comment>THEME_THEME_ESSENTIAL</comment>
+        <translation>エッセンシャル</translation>
+    </message>
+    <message>
+        <source>Executive</source>
+        <comment>THEME_THEME_EXECUTIVE</comment>
+        <translation>エグゼクティブ</translation>
+    </message>
+    <message>
+        <source>Fan</source>
+        <comment>THEME_THEME_FAN</comment>
+        <translation>ファン</translation>
+    </message>
+    <message>
+        <source>Flow</source>
+        <comment>THEME_THEME_FLOW</comment>
+        <translation>リゾート</translation>
+    </message>
+    <message>
+        <source>Foundry</source>
+        <comment>THEME_THEME_FOUNDRY</comment>
+        <translation>エコロジー</translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <comment>THEME_THEMECOLORS_GRAYSCALE</comment>
+        <translation>グレースケール</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <comment>THEME_THEME_GRID</comment>
+        <translation>グリッド</translation>
+    </message>
+    <message>
+        <source>Hardcover</source>
+        <comment>THEME_THEME_HARDCOVER</comment>
+        <translation>ハードカバー</translation>
+    </message>
+    <message>
+        <source>Horizon</source>
+        <comment>THEME_THEME_HORIZON</comment>
+        <translation>ホライズン</translation>
+    </message>
+    <message>
+        <source>Median</source>
+        <comment>THEME_THEME_MEDIAN</comment>
+        <translation>デザート</translation>
+    </message>
+    <message>
+        <source>Metro</source>
+        <comment>THEME_THEME_METRO</comment>
+        <translation>メトロ</translation>
+    </message>
+    <message>
+        <source>Module</source>
+        <comment>THEME_THEME_MODULE</comment>
+        <translation>モジュール</translation>
+    </message>
+    <message>
+        <source>NewsPrint</source>
+        <comment>THEME_THEME_NEWSPRINT</comment>
+        <translation type="obsolete">新聞紙</translation>
+    </message>
+    <message>
+        <source>NewsPrint</source>
+        <comment>THEME_THEME_NEWSPRINT1</comment>
+        <translation>新聞紙</translation>
+    </message>
+    <message>
+        <source>Newsprint</source>
+        <comment>THEME_THEME_NEWSPRINT</comment>
+        <translation>ニュース</translation>
+    </message>
+    <message>
+        <source>Office</source>
+        <comment>THEME_NAME_OFFICE</comment>
+        <translation type="unfinished">Office</translation>
+    </message>
+    <message>
+        <source>Office 2</source>
+        <comment>THEME_THEMEFONTS_OFFICE2</comment>
+        <translation>Office 2</translation>
+    </message>
+    <message>
+        <source>Office Classic</source>
+        <comment>THEME_THEMEFONTS_OFFICECLASSIC</comment>
+        <translation>オフィスクラシック</translation>
+    </message>
+    <message>
+        <source>Office Classic 2</source>
+        <comment>THEME_THEMEFONTS_OFFICECLASSIC2</comment>
+        <translation>オフィスクラシック2</translation>
+    </message>
+    <message>
+        <source>Office Theme</source>
+        <comment>THEME_NAME_OFFICE_2007_2010</comment>
+        <translation>オフィステーマ</translation>
+    </message>
+    <message>
+        <source>Opulent</source>
+        <comment>THEME_THEME_OPULENT</comment>
+        <translation>キュート</translation>
+    </message>
+    <message>
+        <source>Oriel</source>
+        <comment>THEME_THEME_ORIEL</comment>
+        <translation>スパイス</translation>
+    </message>
+    <message>
+        <source>Origin</source>
+        <comment>THEME_THEME_ORIGIN</comment>
+        <translation>アース</translation>
+    </message>
+    <message>
+        <source>Paper</source>
+        <comment>THEME_THEME_PAPER</comment>
+        <translation>ペーパー</translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <comment>THEME_THEME_PERSPECTIVE</comment>
+        <translation>パースペクティブ</translation>
+    </message>
+    <message>
+        <source>Phoenix</source>
+        <comment>THEME_THEME_PHOENIX</comment>
+        <translation>フェニックス</translation>
+    </message>
+    <message>
+        <source>Pushpin</source>
+        <comment>THEME_THEME_PUSHPIN</comment>
+        <translation>プッシュピン</translation>
+    </message>
+    <message>
+        <source>Slipstream</source>
+        <comment>THEME_THEME_SLIPSTREAM</comment>
+        <translation>スリップストリーム</translation>
+    </message>
+    <message>
+        <source>Solstice</source>
+        <comment>THEME_THEME_SOLSTICE</comment>
+        <translation>プレッシュ</translation>
+    </message>
+    <message>
+        <source>Technic</source>
+        <comment>THEME_THEME_TECHNIC</comment>
+        <translation>テクノロジー</translation>
+    </message>
+    <message>
+        <source>Thatch</source>
+        <comment>THEME_THEME_THATCH</comment>
+        <translation>ストロー</translation>
+    </message>
+    <message>
+        <source>Trek</source>
+        <comment>THEME_THEME_TREK</comment>
+        <translation>トラベル</translation>
+    </message>
+    <message>
+        <source>Urban</source>
+        <comment>THEME_THEME_URBAN</comment>
+        <translation>アーバン</translation>
+    </message>
+    <message>
+        <source>Verve</source>
+        <comment>THEME_THEME_VERVE</comment>
+        <translation>ネオン</translation>
+    </message>
+    <message>
+        <source>Waveform</source>
+        <comment>THEME_THEME_WAVEFORM</comment>
+        <translation>ウェーブ</translation>
     </message>
 </context>
 </TS>

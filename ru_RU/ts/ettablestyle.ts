@@ -18,7 +18,7 @@
     </message>
     <message>
         <source>1-</source>
-        <translation></translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>stylish,gridded</source>
@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>2-</source>
-        <translation></translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>light color style</source>
@@ -162,7 +162,7 @@
     </message>
     <message>
         <source>1-</source>
-        <translation></translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>stylish,gridded</source>
@@ -170,7 +170,7 @@
     </message>
     <message>
         <source>2-</source>
-        <translation></translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>light color style</source>

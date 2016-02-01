@@ -46,7 +46,7 @@
     </message>
     <message>
         <source>Reselect Region</source>
-        <translation>Повторите выделение области</translation>
+        <translation>Выбрать область заново</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
@@ -54,21 +54,21 @@
     </message>
     <message>
         <source>%1 * %2</source>
-        <translation></translation>
+        <translation>%1 * %2</translation>
     </message>
     <message>
         <source>(%1, %2)</source>
-        <translation></translation>
+        <translation>(%1, %2)</translation>
     </message>
     <message>
         <source>RGB:(%1, %2, %3)</source>
-        <translation></translation>
+        <translation>RGB:(%1, %2, %3)</translation>
     </message>
     <message>
         <source>Press Alt
 to Adsorb Line</source>
-        <translation>Нажмите Alt для 
-поглощения линии</translation>
+        <translation>Чтобы абсорбировать линию,
+нажмите клавишу ALT</translation>
     </message>
     <message>
         <source>Capture%1</source>
@@ -80,7 +80,7 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>%1;;%2;;%3</source>
-        <translation></translation>
+        <translation>%1;;%2;;%3</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
@@ -91,7 +91,7 @@ to Adsorb Line</source>
     <name>KScreenGrabHint</name>
     <message>
         <source>Copied to clipboard!</source>
-        <translation>Скопировано в буфер!</translation>
+        <translation>Скопировано в буфер обмена.</translation>
     </message>
 </context>
 </TS>

@@ -234,5 +234,9 @@ Par exemple, 1,3 ou 5-9.</translation>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
         <translation>Ce nom existe déjà. Vous ne pouvez pas enregistrer le fichier avec le même nom qu&apos;un autre fichier ouvert. Entrez un autre nom ou fermez le fichier ouvert avant l&apos;enregistrement.</translation>
     </message>
+    <message>
+        <source>No Select Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

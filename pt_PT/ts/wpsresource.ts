@@ -10,11 +10,11 @@
     </message>
     <message>
         <source>144 pt</source>
-        <translation></translation>
+        <translation>144 pt</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation></translation>
+        <translation>288 pt</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -26,11 +26,11 @@
     </message>
     <message>
         <source>36 pt</source>
-        <translation></translation>
+        <translation>36 pt</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation></translation>
+        <translation>72 pt</translation>
     </message>
     <message>
         <source>Bright</source>
@@ -54,7 +54,7 @@
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -91,6 +91,10 @@
     <message>
         <source>Plastic</source>
         <translation>Plástico</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -185,6 +189,37 @@
     </message>
 </context>
 <context>
+    <name>classics.chart</name>
+    <message>
+        <source>By Column</source>
+        <translation>Por Coluna</translation>
+    </message>
+    <message>
+        <source>By Row</source>
+        <translation>Por Linha</translation>
+    </message>
+    <message>
+        <source>Chart Objects</source>
+        <translation>Objetos do Gráfico</translation>
+    </message>
+    <message>
+        <source>Chart Type</source>
+        <translation>Tipo de Gráfico</translation>
+    </message>
+    <message>
+        <source>Data Table</source>
+        <translation>Tabela de Dados</translation>
+    </message>
+    <message>
+        <source>Format Chart</source>
+        <translation>Formatar Gráfico</translation>
+    </message>
+    <message>
+        <source>Legend</source>
+        <translation>Legenda</translation>
+    </message>
+</context>
+<context>
     <name>classics.compare_views</name>
     <message>
         <source>Reset Window Position</source>
@@ -215,7 +250,7 @@
     </message>
     <message>
         <source>Control List</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Lista de Controlo</translation>
     </message>
     <message>
         <source>Controls List</source>
@@ -235,7 +270,7 @@
     </message>
     <message>
         <source>List Box</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Caixa de Listagem</translation>
     </message>
     <message>
         <source>List Button</source>
@@ -278,31 +313,31 @@
     <name>classics.drawing</name>
     <message>
         <source>0.25 pt</source>
-        <translation></translation>
+        <translation>0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation></translation>
+        <translation>0,5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation></translation>
+        <translation>0,75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation></translation>
+        <translation>1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation></translation>
+        <translation>1,5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation></translation>
+        <translation>2,25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation></translation>
+        <translation>3 pt</translation>
     </message>
     <message>
         <source>3-D Settings</source>
@@ -394,7 +429,7 @@
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation>4.5 pt</translation>
+        <translation>4,5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
@@ -426,7 +461,7 @@
     </message>
     <message>
         <source>Align or Distribute</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Alinhar ou Distribuir</translation>
     </message>
     <message>
         <source>Align/Distribute/Equalize</source>
@@ -490,7 +525,7 @@
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Formas Automáticas</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -514,7 +549,7 @@
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço-Ponto</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -546,7 +581,7 @@
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Altura Igual</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -554,7 +589,7 @@
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Largura Igual</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -582,7 +617,7 @@
     </message>
     <message>
         <source>Font Color</source>
-        <translation>Cor da Fonte</translation>
+        <translation>Cor do Tipo de Letra</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -606,7 +641,7 @@
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Caixa de Texto Horizontal</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -618,11 +653,11 @@
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation>&quot;Inserir Clip Art&quot;</translation>
+        <translation>Inserir Clip Art</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Imagens Online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -638,7 +673,7 @@
     </message>
     <message>
         <source>Line</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Linha</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -654,11 +689,11 @@
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço Longo-Ponto</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço Longo Ponto Ponto</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -678,7 +713,7 @@
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mais Cores das Fontes</translation>
+        <translation>Mais Cores de Tipo de Letra</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -706,7 +741,7 @@
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagens Online</translation>
     </message>
     <message>
         <source>Order</source>
@@ -742,7 +777,7 @@
     </message>
     <message>
         <source>Rotate or Flip</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Rodar ou Inverter</translation>
     </message>
     <message>
         <source>Rotate/Flip</source>
@@ -778,7 +813,7 @@
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos de Sombra</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -869,6 +904,10 @@
         <translation>Estilo do Sombreado 9</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation>Sólido</translation>
     </message>
@@ -910,7 +949,7 @@
     </message>
     <message>
         <source>Vertical Text Box</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Caixa de Texto Vertical</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -918,14 +957,14 @@
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Moldar Texto</translation>
     </message>
 </context>
 <context>
     <name>classics.extended_formatting</name>
     <message>
         <source>1.5 Space</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Espaço de 1,5</translation>
     </message>
     <message>
         <source>1.5 lines</source>
@@ -953,7 +992,7 @@
     </message>
     <message>
         <source>Double Space</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Espaçamento Duplo</translation>
     </message>
     <message>
         <source>Double Strikethrough</source>
@@ -961,7 +1000,7 @@
     </message>
     <message>
         <source>Emphasis Mark</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Marca de Ênfase</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
@@ -981,7 +1020,7 @@
     </message>
     <message>
         <source>Single Space</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Espaçamento Simples</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -992,59 +1031,63 @@
     <name>classics.formatting</name>
     <message>
         <source>1.0</source>
-        <translation></translation>
+        <translation>1.0</translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation></translation>
+        <translation>1.5</translation>
     </message>
     <message>
         <source>100%</source>
-        <translation></translation>
+        <translation>100%</translation>
     </message>
     <message>
         <source>150%</source>
-        <translation></translation>
+        <translation>150%</translation>
     </message>
     <message>
         <source>2.0</source>
-        <translation></translation>
+        <translation>2.0</translation>
     </message>
     <message>
         <source>2.5</source>
-        <translation></translation>
+        <translation>2.5</translation>
     </message>
     <message>
         <source>200%</source>
-        <translation></translation>
+        <translation>200%</translation>
     </message>
     <message>
         <source>3.0</source>
-        <translation></translation>
+        <translation>3.0</translation>
     </message>
     <message>
         <source>33%</source>
-        <translation></translation>
+        <translation>33%</translation>
     </message>
     <message>
         <source>50%</source>
-        <translation></translation>
+        <translation>50%</translation>
     </message>
     <message>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
-        <translation></translation>
+        <translation>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
     </message>
     <message>
         <source>66%</source>
-        <translation></translation>
+        <translation>66%</translation>
     </message>
     <message>
         <source>80%</source>
-        <translation></translation>
+        <translation>80%</translation>
     </message>
     <message>
         <source>90%</source>
-        <translation></translation>
+        <translation>90%</translation>
+    </message>
+    <message>
+        <source>Bold Square-Hollow Bullets</source>
+        <translation>Marcas Quadradas em Negrito Vazias</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -1056,19 +1099,19 @@
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Fonte</translation>
+        <translation>Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>Cor da Fonte</translation>
+        <translation>Cor do Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Tamanho da Fonte</translation>
+        <translation>Tamanho do Tipo de Letra</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -1088,7 +1131,19 @@
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mais Cores das Fontes</translation>
+        <translation>Mais Cores de Tipo de Letra</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Nenhum</translation>
+    </message>
+    <message>
+        <source>Sagittate Bullet </source>
+        <translation>Marcas em Seta</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
     </message>
     <message>
         <source>Styles</source>
@@ -1100,14 +1155,46 @@
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Estilos e Formatação</translation>
+    </message>
+    <message>
+        <source>The Check Mark-shaped Bullets</source>
+        <translation>Marcas de Verificação</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Diamond-Shaped Bullets</source>
+        <translation>Marcas em Losango Preenchidas</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Round-Shaped Bullets</source>
+        <translation>Marcas Redondas Grandes Preenchidas</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Square-Shaped Bullets</source>
+        <translation>Marcas Quadradas Grandes Preenchidas</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Round-Shaped Bullets</source>
+        <translation>Marcas Redondas Preenchidas</translation>
     </message>
 </context>
 <context>
     <name>classics.formatting.Num</name>
     <message>
+        <source>1.2.3.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>A.B.C.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>More Numbering</source>
         <translation>Mais Numerações</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Number</source>
@@ -1115,14 +1202,34 @@
     </message>
     <message>
         <source>Numbering</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Numeração</translation>
+    </message>
+    <message>
+        <source>Pictographic Number, Wide End</source>
+        <translation>Numeração Ideográfica, ponto largo</translation>
+    </message>
+    <message>
+        <source>With The Circle Number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a).b).c).</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>a.b.c.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ⅰ.Ⅱ.Ⅲ.</source>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>classics.forms</name>
     <message>
         <source>Check Box Form Field</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Campo de Formulário do Tipo Caixa de Verificação</translation>
     </message>
     <message>
         <source>Check box Form Field</source>
@@ -1130,7 +1237,7 @@
     </message>
     <message>
         <source>Drop-Down Form Field</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Campo de Formulário do Tipo Lista Pendente</translation>
     </message>
     <message>
         <source>Drop-down Form Field</source>
@@ -1142,7 +1249,7 @@
     </message>
     <message>
         <source>Form Field Options</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Opções do Campo de Formulário</translation>
     </message>
     <message>
         <source>Form Field Shading</source>
@@ -1150,7 +1257,7 @@
     </message>
     <message>
         <source>Protect Form</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Proteger Formulário</translation>
     </message>
     <message>
         <source>Protection Form</source>
@@ -1162,7 +1269,7 @@
     </message>
     <message>
         <source>Reset Form Fields</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Repor Campos de Formulário</translation>
     </message>
     <message>
         <source>Text Form Field</source>
@@ -1192,7 +1299,7 @@
     </message>
     <message>
         <source>Insert AutoText</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Texto Automático</translation>
     </message>
     <message>
         <source>Insert Date</source>
@@ -1200,11 +1307,11 @@
     </message>
     <message>
         <source>Insert Number of Pages</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Número Total de Páginas</translation>
     </message>
     <message>
         <source>Insert Page Number</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Número de Página</translation>
     </message>
     <message>
         <source>Insert Time</source>
@@ -1245,7 +1352,7 @@ da Página</translation>
     </message>
     <message>
         <source>Show Previous</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar Anterior</translation>
     </message>
     <message>
         <source>Switch Between Header and Footer</source>
@@ -1260,7 +1367,7 @@ da Página</translation>
     <name>classics.mail_merge</name>
     <message>
         <source>Close Data Source</source>
-        <translation>Fechar Fonte dos Dados</translation>
+        <translation>Fechar Origem de Dados</translation>
     </message>
     <message>
         <source>First Record</source>
@@ -1288,7 +1395,7 @@ da Página</translation>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation>&quot;Enviar para vários destinatários&quot;</translation>
+        <translation>Enviar para vários destinatários</translation>
     </message>
     <message>
         <source>Match Fields</source>
@@ -1316,7 +1423,7 @@ da Página</translation>
     </message>
     <message>
         <source>Open Data Source</source>
-        <translation>Abrir Fonte de Dados</translation>
+        <translation>Abrir origem de dados</translation>
     </message>
     <message>
         <source>Previous Record</source>
@@ -1331,7 +1438,7 @@ da Página</translation>
     <name>classics.outlining</name>
     <message>
         <source>Go to TOC</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ir para o Índice</translation>
     </message>
     <message>
         <source>Go to ToC</source>
@@ -1359,7 +1466,7 @@ da Página</translation>
     </message>
     <message>
         <source>Show Formatting</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar Formatação</translation>
     </message>
     <message>
         <source>Show Level</source>
@@ -1375,7 +1482,7 @@ da Página</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Atualizar Índice</translation>
     </message>
     <message>
         <source>Update ToC</source>
@@ -1386,39 +1493,39 @@ da Página</translation>
     <name>classics.picture</name>
     <message>
         <source>0.25 pt</source>
-        <translation></translation>
+        <translation>0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation></translation>
+        <translation>0.5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation></translation>
+        <translation>0.75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation></translation>
+        <translation>1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation></translation>
+        <translation>1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation></translation>
+        <translation>2.25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation></translation>
+        <translation>3 pt</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation></translation>
+        <translation>4.5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation></translation>
+        <translation>6 pt</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -1493,6 +1600,10 @@ da Página</translation>
         <translation>Repor Imagem</translation>
     </message>
     <message>
+        <source>Reset Picture and Size</source>
+        <translation>Repor Imagem e Tamanho</translation>
+    </message>
+    <message>
         <source>Rotate Left 90°</source>
         <translation>Rodar 90º à Esquerda</translation>
     </message>
@@ -1530,7 +1641,7 @@ da Página</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Moldar Texto</translation>
     </message>
 </context>
 <context>
@@ -1588,7 +1699,7 @@ da Página</translation>
     </message>
     <message>
         <source>Display for Review</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar para Revisão</translation>
     </message>
     <message>
         <source>Final</source>
@@ -1596,7 +1707,7 @@ da Página</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>&quot;Mostrar Marcações Finais;Mostrar Marcações Originais;Original&quot;</translation>
+        <translation>Mostrar Marcações Finais;Mostrar Marcações Originais;Original</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -1628,7 +1739,7 @@ da Página</translation>
     </message>
     <message>
         <source>Reject Change/Delete Comment</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Rejeitar Comentário para Alterar/Eliminar</translation>
     </message>
     <message>
         <source>Reject Selected Comment</source>
@@ -1640,7 +1751,7 @@ da Página</translation>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Painel de Revisão</translation>
     </message>
     <message>
         <source>Show</source>
@@ -1652,23 +1763,27 @@ da Página</translation>
     </message>
     <message>
         <source>Show Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Comentários</translation>
     </message>
     <message>
         <source>Show Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Data</translation>
+    </message>
+    <message>
+        <source>Show Format Change</source>
+        <translation type="obsolete">Mostrar Alteração de Formato</translation>
     </message>
     <message>
         <source>Show Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Formatação</translation>
     </message>
     <message>
         <source>Show Insertions and Deletions</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Inserções e Eliminações</translation>
     </message>
     <message>
         <source>Show Reviewers</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Revisores</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -1676,11 +1791,11 @@ da Página</translation>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar Informações do Revisor em Balões</translation>
     </message>
     <message>
         <source>Show Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Hora</translation>
     </message>
     <message>
         <source>Show the Revisor Information in the Balloon</source>
@@ -1699,7 +1814,7 @@ da Página</translation>
     <name>classics.shadow_settings</name>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -1707,19 +1822,19 @@ da Página</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para Baixo</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para a Esquerda</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para a Direita</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para Cima</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -1748,6 +1863,10 @@ da Página</translation>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombreado para Cima</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
     </message>
 </context>
 <context>
@@ -1794,7 +1913,7 @@ da Página</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Modo de Proteção dos Olhos</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -1806,7 +1925,7 @@ da Página</translation>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Texto Formatado</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -1842,7 +1961,7 @@ da Página</translation>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Formato Atual Correspondente</translation>
     </message>
     <message>
         <source>Max</source>
@@ -1854,11 +1973,11 @@ da Página</translation>
     </message>
     <message>
         <source>Minisite</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Minisite</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Modelos Online</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -1890,11 +2009,11 @@ da Página</translation>
     </message>
     <message>
         <source>Show/Hide Editing Marks</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar/Ocultar Marcas de Edição</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Layout</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar/Ocultar Esquema de Parágrafo</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -1906,11 +2025,11 @@ da Página</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Texto Não Formatado</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Microblogue Pós-venda do WPS</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1921,7 +2040,17 @@ da Página</translation>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
+        <translation type="obsolete">Alterar UI</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
         <translation>Alterar UI</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation>Mudar de IU</translation>
     </message>
     <message>
         <source>true</source>
@@ -1932,11 +2061,11 @@ da Página</translation>
     <name>classics.tables_and_borders</name>
     <message>
         <source>AutoFit Window</source>
-        <translation>Ajustar Janela Automaticamente</translation>
+        <translation>Ajustar Automaticamente à Janela</translation>
     </message>
     <message>
         <source>AutoFit to Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar Automaticamente ao Conteúdo</translation>
     </message>
     <message>
         <source>Average</source>
@@ -1961,7 +2090,7 @@ da Página</translation>
     <message>
         <source>Cells</source>
         <comment>Table-&gt;Insert</comment>
-        <translation type="unfinished"></translation>
+        <translation>Células</translation>
     </message>
     <message>
         <source>Cells@Table-&gt;Insert</source>
@@ -1981,15 +2110,15 @@ da Página</translation>
     </message>
     <message>
         <source>Delete Cells</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar Células</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar Colunas</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar Linhas</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -2009,7 +2138,7 @@ da Página</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -2029,7 +2158,7 @@ da Página</translation>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Espessura da Linha</translation>
     </message>
     <message>
         <source>Line Width</source>
@@ -2076,6 +2205,10 @@ da Página</translation>
         <translation>Sombras</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
+    </message>
+    <message>
         <source>Split Cells</source>
         <translation>Dividir Células</translation>
     </message>
@@ -2100,7 +2233,7 @@ da Página</translation>
     <name>classics.text_box</name>
     <message>
         <source>Break Forward Link</source>
-        <translation>&quot;Quebrar Ligação Seguinte&quot;</translation>
+        <translation>Quebrar Ligação Seguinte</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
@@ -2151,19 +2284,19 @@ da Página</translation>
     </message>
     <message>
         <source>Button (Curve)</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Botão (Curvar)</translation>
     </message>
     <message>
         <source>Button (Pour)</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Botão (Decantar)</translation>
     </message>
     <message>
         <source>Can Down</source>
-        <translation>&quot;Varrer para baixo&quot;</translation>
+        <translation>Varrer para baixo</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation>&quot;Varrer para cima&quot;</translation>
+        <translation>Varrer para cima</translation>
     </message>
     <message>
         <source>Cascade Down</source>
@@ -2175,7 +2308,7 @@ da Página</translation>
     </message>
     <message>
         <source>Center Align</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Alinhar ao Centro</translation>
     </message>
     <message>
         <source>Center Alignment</source>
@@ -2287,7 +2420,7 @@ da Página</translation>
     </message>
     <message>
         <source>Left Align</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Alinhamento à Esquerda</translation>
     </message>
     <message>
         <source>Left Alignment</source>
@@ -2295,7 +2428,7 @@ da Página</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation>&quot;Justificado&quot;</translation>
+        <translation>Justificado</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -2311,7 +2444,7 @@ da Página</translation>
     </message>
     <message>
         <source>Right Align</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Alinhamento à Direita</translation>
     </message>
     <message>
         <source>Right Alignment</source>
@@ -2319,11 +2452,11 @@ da Página</translation>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation>&quot;Anel Interior&quot;</translation>
+        <translation>Anel Interior</translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation>&quot;Anel Exterior&quot;</translation>
+        <translation>Anel Exterior</translation>
     </message>
     <message>
         <source>Slant Down</source>
@@ -2343,7 +2476,7 @@ da Página</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation>&quot;Ajustar ao justificado&quot;</translation>
+        <translation>Ajustar ao justificado</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -2360,12 +2493,12 @@ da Página</translation>
     <message>
         <source>Tight</source>
         <comment>Spacing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Justo</translation>
     </message>
     <message>
         <source>Tight</source>
         <comment>Wrapping</comment>
-        <translation type="unfinished"></translation>
+        <translation>Justo</translation>
     </message>
     <message>
         <source>Tight@Spacing</source>
@@ -2433,7 +2566,7 @@ da Página</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Moldar Texto</translation>
     </message>
 </context>
 <context>
@@ -2444,22 +2577,290 @@ da Página</translation>
     </message>
     <message>
         <source>Menu Command</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Comando de Menu</translation>
     </message>
     <message>
         <source>Toolbar Commands</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Comandos da Barra de Ferramentas</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_charttools</name>
+    <message>
+        <source>Above</source>
+        <translation>Acima</translation>
+    </message>
+    <message>
+        <source>AboveChart</source>
+        <translation>Acima do Gráfico</translation>
+    </message>
+    <message>
+        <source>AddAxis</source>
+        <translation>Eixo</translation>
+    </message>
+    <message>
+        <source>AddAxisTitle</source>
+        <translation>Título do Eixo</translation>
+    </message>
+    <message>
+        <source>AddChartElements</source>
+        <translation>Adicionar Elemento do Gráfico</translation>
+    </message>
+    <message>
+        <source>AddChartLines</source>
+        <translation>Linhas</translation>
+    </message>
+    <message>
+        <source>AddChartTitle</source>
+        <translation>Título do Gráfico</translation>
+    </message>
+    <message>
+        <source>AddDataLabels</source>
+        <translation>Rótulos de Dados</translation>
+    </message>
+    <message>
+        <source>AddDataTable</source>
+        <translation>Tabela de Dados</translation>
+    </message>
+    <message>
+        <source>AddErrorBar</source>
+        <translation>Barras de erro</translation>
+    </message>
+    <message>
+        <source>AddGridLine</source>
+        <translation>Linhas de grelha</translation>
+    </message>
+    <message>
+        <source>AddLegend</source>
+        <translation>Legenda</translation>
+    </message>
+    <message>
+        <source>AddTrendLine</source>
+        <translation>Linha de Tendência</translation>
+    </message>
+    <message>
+        <source>AddUpDownBar</source>
+        <translation>Barras Para Cima/Baixo</translation>
+    </message>
+    <message>
+        <source>Below</source>
+        <translation>Abaixo</translation>
+    </message>
+    <message>
+        <source>BestFit</source>
+        <translation>Ajuste automático</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>Inferior</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>Centro</translation>
+    </message>
+    <message>
+        <source>CenteredOverlay</source>
+        <translation>Sobreposição Centrada</translation>
+    </message>
+    <message>
+        <source>ChangeChartType</source>
+        <translation>Alterar Tipo de Gráfico</translation>
+    </message>
+    <message>
+        <source>Chart Elements</source>
+        <translation>Elementos do Gráfico</translation>
+    </message>
+    <message>
+        <source>ChartStyle</source>
+        <translation>Estilos de Gráficos</translation>
+    </message>
+    <message>
+        <source>Current Selection</source>
+        <translation>Seleção Atual</translation>
+    </message>
+    <message>
+        <source>DataCallout</source>
+        <translation>Nota de Aviso de Dados</translation>
+    </message>
+    <message>
+        <source>DataSection</source>
+        <translation>Secção de dados da forma</translation>
+    </message>
+    <message>
+        <source>DropLines</source>
+        <translation>Linhas Verticais</translation>
+    </message>
+    <message>
+        <source>DropLinesAndHighLowLines</source>
+        <translation>Linhas Verticais e de Máximo/Mínimo</translation>
+    </message>
+    <message>
+        <source>Edit Data</source>
+        <translation>Editar Dados</translation>
+    </message>
+    <message>
+        <source>Exponential</source>
+        <translation>Exponencial</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <comment>Chart Element Format</comment>
+        <translation>Formato</translation>
+    </message>
+    <message>
+        <source>HighLowLines</source>
+        <translation>Linha de Máximo/Mínimo</translation>
+    </message>
+    <message>
+        <source>InsideBase</source>
+        <translation>Base Interior</translation>
+    </message>
+    <message>
+        <source>InsideEnd</source>
+        <translation>Extremidade Interior</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>Esquerda</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation>Linear</translation>
+    </message>
+    <message>
+        <source>Linear Forecast</source>
+        <translation>Previsão Linear</translation>
+    </message>
+    <message>
+        <source>Moving Average</source>
+        <translation>Média Móvel</translation>
+    </message>
+    <message>
+        <source>NoLegendKeys</source>
+        <translation>Sem Marcas de Legenda</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Nenhum</translation>
+    </message>
+    <message>
+        <source>OutsideEnd</source>
+        <translation>Extremidade Exterior</translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <translation>Percentagem</translation>
+    </message>
+    <message>
+        <source>PrimaryHorizontalAxis</source>
+        <translation>Eixo Horizontal Principal</translation>
+    </message>
+    <message>
+        <source>PrimaryMajorHorizontal</source>
+        <translation>Horizontal Principal Primária</translation>
+    </message>
+    <message>
+        <source>PrimaryMajorVertical</source>
+        <translation>Vertical Principal Primária</translation>
+    </message>
+    <message>
+        <source>PrimaryMinorHorizontal</source>
+        <translation>Horizontal Secundário Primária</translation>
+    </message>
+    <message>
+        <source>PrimaryMinorVertial</source>
+        <translation>Vertical Secu&amp;ndária Primária</translation>
+    </message>
+    <message>
+        <source>PrimaryVerticalAxis</source>
+        <translation>Eixo Vertical Principal</translation>
+    </message>
+    <message>
+        <source>Reset Style</source>
+        <translation>Repor Estilo</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>Direita</translation>
+    </message>
+    <message>
+        <source>SecondaryHorizontalAxis</source>
+        <translation>Eixo Horizontal Secundário</translation>
+    </message>
+    <message>
+        <source>SecondaryMajorHorizontal</source>
+        <translation>Horizontal Principal Secundário</translation>
+    </message>
+    <message>
+        <source>SecondaryMajorVertical</source>
+        <translation>Vertical Principal Secundário</translation>
+    </message>
+    <message>
+        <source>SecondaryMinorHorizontal</source>
+        <translation>Horizontal Secundário Secundário</translation>
+    </message>
+    <message>
+        <source>SecondaryMinorVertial</source>
+        <translation>Vertical Secundário Secundário</translation>
+    </message>
+    <message>
+        <source>SecondaryVerticalAxis</source>
+        <translation>Eixo Vertical Secundário</translation>
+    </message>
+    <message>
+        <source>Select Data</source>
+        <translation>Selecionar Dados</translation>
+    </message>
+    <message>
+        <source>SeriesLines</source>
+        <translation>Linhas de série</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Mostrar</translation>
+    </message>
+    <message>
+        <source>StandardDeviation</source>
+        <translation>Desvio padrão</translation>
+    </message>
+    <message>
+        <source>StandardError</source>
+        <translation>Erro padrão</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>Superior</translation>
+    </message>
+    <message>
+        <source>TypeSection</source>
+        <translation>Tipo de gráfico</translation>
+    </message>
+    <message>
+        <source>WithLegendKeys</source>
+        <translation>Com Marcas de Legenda</translation>
+    </message>
+    <message>
+        <source>changeColor</source>
+        <translation>Alterar cor</translation>
+    </message>
+    <message>
+        <source>layoutSection</source>
+        <translation>Esquema de gráfico</translation>
+    </message>
+    <message>
+        <source>speedLayout</source>
+        <translation>Esquema Rápido</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_design</name>
     <message>
         <source>All Borders</source>
-        <translation>&quot;Todos os Limites&quot;</translation>
+        <translation>Todos os Limites</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>&quot;Limite&quot;</translation>
+        <translation>Limite</translation>
     </message>
     <message>
         <source>Border Color</source>
@@ -2467,16 +2868,17 @@ da Página</translation>
     </message>
     <message>
         <source>Borders and Shading</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limites e Sombreado</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation>&quot;Limite inferior&quot;</translation>
+        <translation>Limite inferior</translation>
     </message>
     <message>
         <source>Clear
 Table Style</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limpar
+Estilo de Tabela</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
@@ -2484,7 +2886,7 @@ Table Style</source>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
-        <translation>&quot;unfinished&quot;&gt;Desenhar Linha Diagonal na Célula</translation>
+        <translation>Desenhar Linha Diagonal na Célula</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -2496,19 +2898,19 @@ Table Style</source>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Interior</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Horizontal Interior</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Vertical Interior</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation>&quot;Limite Esquerdo&quot;</translation>
+        <translation>Limite Esquerdo</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -2516,7 +2918,7 @@ Table Style</source>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Espessura da Linha</translation>
     </message>
     <message>
         <source>Line Width</source>
@@ -2532,7 +2934,7 @@ Table Style</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation>&quot;Sem Limites&quot;</translation>
+        <translation>Sem Limites</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -2540,19 +2942,23 @@ Table Style</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>&quot;Limites Exteriores&quot;</translation>
+        <translation>Limites Exteriores</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation>&quot;Limite Direito&quot;</translation>
+        <translation>Limite Direito</translation>
     </message>
     <message>
         <source>Shading</source>
-        <translation>&quot;Sombreado&quot;</translation>
+        <translation>Sombreado</translation>
     </message>
     <message>
         <source>Shading Color</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Cor do Sombreado&quot;&gt;</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -2560,11 +2966,11 @@ Table Style</source>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation>&quot;unfinished&quot;&gt;Estilos da Tabela&quot;&gt;</translation>
+        <translation>Estilos da Tabela</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation>&quot;Limite Superior&quot;</translation>
+        <translation>Limite Superior</translation>
     </message>
 </context>
 <context>
@@ -2579,7 +2985,7 @@ Table Style</source>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Suplementos COM</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -2598,9 +3004,22 @@ Table Style</source>
         <translation>Botão de Comando</translation>
     </message>
     <message>
+        <source>ContentControlsGroup</source>
+        <translation>Grupo</translation>
+    </message>
+    <message>
+        <source>ContentControlsGroupMenu</source>
+        <translation>Grupo</translation>
+    </message>
+    <message>
+        <source>ContentControlsUngroup</source>
+        <translation>Desagrupar</translation>
+    </message>
+    <message>
         <source>Control 
 Properties</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Propriedades de 
+Controlo</translation>
     </message>
     <message>
         <source>Control List</source>
@@ -2616,7 +3035,7 @@ Properties</source>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrição</translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -2625,7 +3044,8 @@ Properties</source>
     <message>
         <source>Exit
 Design Mode</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Sair
+do Modo de Estrutura</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
@@ -2641,7 +3061,7 @@ Design Mode</source>
     </message>
     <message>
         <source>List Box</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Caixa de Listagem</translation>
     </message>
     <message>
         <source>List Button</source>
@@ -2661,7 +3081,7 @@ Design Mode</source>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gravar Macro</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -2690,7 +3110,8 @@ Design Mode</source>
     <message>
         <source>Visual Basic
 Editor</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Editor do
+Visual Basic</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -2698,92 +3119,104 @@ Editor</source>
     </message>
     <message>
         <source>XML</source>
-        <translation type="unfinished"></translation>
+        <translation>XML</translation>
+    </message>
+    <message>
+        <source>XML Mapping Pane</source>
+        <translation>Painel de Mapeamento XML</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacote de Expansão XML</translation>
+    </message>
+    <message>
+        <source>XmlMapping</source>
+        <translation>Mapeamento XML</translation>
     </message>
     <message>
         <source>XmlSchema</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquema XML</translation>
     </message>
     <message>
         <source>XmlStructure</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrutura de XML</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_drawingtools</name>
     <message>
         <source>0.25 pt</source>
-        <translation></translation>
+        <translation>0,25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation></translation>
+        <translation>0,5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation></translation>
+        <translation>0,75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation></translation>
+        <translation>1 pt</translation>
     </message>
     <message>
         <source>1.0</source>
-        <translation></translation>
+        <translation>1,0</translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation></translation>
+        <translation>1,5</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation></translation>
+        <translation>1,5 pt</translation>
     </message>
     <message>
         <source>2.0</source>
-        <translation></translation>
+        <translation>2,0</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation></translation>
+        <translation>2,25 pt</translation>
     </message>
     <message>
         <source>2.5</source>
-        <translation></translation>
+        <translation>2,5</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation></translation>
+        <translation>3 pt</translation>
     </message>
     <message>
         <source>3-D
 On</source>
-        <translation>3-D
-Ligado</translation>
+        <translation>Ativar
+3D</translation>
     </message>
     <message>
         <source>3-D On</source>
         <translation>3D Ligado</translation>
     </message>
     <message>
+        <source>3-D Rotation</source>
+        <translation>Rotação 3D</translation>
+    </message>
+    <message>
         <source>3.0</source>
-        <translation></translation>
+        <translation>3,0</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation></translation>
+        <translation>4,5 pt</translation>
     </message>
     <message>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
-        <translation></translation>
+        <translation>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation></translation>
+        <translation>6 pt</translation>
     </message>
     <message>
         <source>Align</source>
@@ -2875,7 +3308,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Break Forward Link</source>
-        <translation>&quot;Quebrar Ligação Seguinte&quot;</translation>
+        <translation>Quebrar Ligação Seguinte</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -2891,7 +3324,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Centrar</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -2899,7 +3332,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar Formas</translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
@@ -2911,7 +3344,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço-Ponto</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -2942,8 +3375,12 @@ Ligado</translation>
         <translation>Editar Pontos</translation>
     </message>
     <message>
+        <source>Edit Shapes</source>
+        <translation>Editar Forma</translation>
+    </message>
+    <message>
         <source>Emphasis Mark</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Marca de Ênfase</translation>
     </message>
     <message>
         <source>EmphasisMark</source>
@@ -2951,7 +3388,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Altura Igual</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -2959,7 +3396,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Largura Igual</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -2971,7 +3408,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Preenchimento</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -2983,7 +3420,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Fonte</translation>
+        <translation>Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -2991,19 +3428,27 @@ Ligado</translation>
     </message>
     <message>
         <source>Font Name</source>
-        <translation>Nome da Fonte</translation>
+        <translation>Nome do Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Tamanho da Fonte</translation>
+        <translation>Tamanho do Tipo de Letra</translation>
     </message>
     <message>
         <source>Format Object</source>
         <translation>Formatar Objecto</translation>
     </message>
     <message>
+        <source>Format Painter</source>
+        <translation>Pincel de Formatação</translation>
+    </message>
+    <message>
         <source>Free Rotate</source>
         <translation>Rotação Livre</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>Brilho</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -3011,7 +3456,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gradação</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -3027,7 +3472,11 @@ Ligado</translation>
     </message>
     <message>
         <source>Grow Font</source>
-        <translation>Aumentar Fonte</translation>
+        <translation>Aumentar Tipo de Letra</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation>Altura</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -3035,7 +3484,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation>Caixa de Texto Horizontal</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -3067,11 +3516,11 @@ Ligado</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço Longo-Ponto</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço Longo Ponto Ponto</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -3095,7 +3544,7 @@ Ligado</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mais Cores das Fontes</translation>
+        <translation>Mais Cores de Tipo de Letra</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -3123,7 +3572,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Destaque</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -3134,12 +3583,20 @@ Ligado</translation>
         <translation>Linhas com Padrão</translation>
     </message>
     <message>
+        <source>PicOrTexture</source>
+        <translation>Imagem ou Textura</translation>
+    </message>
+    <message>
         <source>Picture</source>
-        <translation>Imagem</translation>
+        <translation type="obsolete">Imagem</translation>
     </message>
     <message>
         <source>Previous Text Box</source>
         <translation>Caixa de Texto Anterior</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation>Reflexo</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -3179,16 +3636,25 @@ Ligado</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation>Sombra</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ativar/Desativar
+Sombra</translation>
     </message>
     <message>
         <source>Shadow On</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar Sombra</translation>
+    </message>
+    <message>
+        <source>Shape Effects</source>
+        <translation>Efeitos de Forma</translation>
     </message>
     <message>
         <source>Shape Fill</source>
@@ -3208,7 +3674,19 @@ On/Off</source>
     </message>
     <message>
         <source>Shrink Font</source>
-        <translation>Diminuir Fonte</translation>
+        <translation>Encolher Tipo de Letra</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Tamanho</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation>Contornos Suaves</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -3228,12 +3706,13 @@ On/Off</source>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Rasurado</translation>
     </message>
     <message>
         <source>Text
 Direction</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Orientação do
+Texto</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -3241,7 +3720,7 @@ Direction</source>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor do Texto</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -3249,11 +3728,11 @@ Direction</source>
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation>&quot;obsolete&quot;&gt;Moldagem do Texto</translation>
+        <translation>Moldagem do Texto</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>Textura</translation>
+        <translation type="obsolete">Textura</translation>
     </message>
     <message>
         <source>Through</source>
@@ -3281,11 +3760,15 @@ Direction</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertical</translation>
+        <translation>Caixa de Texto Vertical</translation>
     </message>
     <message>
         <source>Weight</source>
         <translation>Peso</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>Largura</translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -3294,7 +3777,7 @@ Direction</source>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Moldar Texto</translation>
     </message>
     <message>
         <source>Wrap Text@rainbow</source>
@@ -3306,6 +3789,551 @@ Direction</source>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_drawingtools_vml</name>
+    <message>
+        <source>0.25 pt.</source>
+        <translation>0,25 pt</translation>
+    </message>
+    <message>
+        <source>0.5 pt.</source>
+        <translation>0,5 pt</translation>
+    </message>
+    <message>
+        <source>0.75 pt.</source>
+        <translation>0,75 pt</translation>
+    </message>
+    <message>
+        <source>1 pt.</source>
+        <translation>1 pt</translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation>1,0</translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation>1,5</translation>
+    </message>
+    <message>
+        <source>1.5 pt.</source>
+        <translation>1,5 pt</translation>
+    </message>
+    <message>
+        <source>2.0</source>
+        <translation>2,0</translation>
+    </message>
+    <message>
+        <source>2.25 pt.</source>
+        <translation>2,25 pt</translation>
+    </message>
+    <message>
+        <source>2.5</source>
+        <translation>2,5</translation>
+    </message>
+    <message>
+        <source>3 pt.</source>
+        <translation>3 pt</translation>
+    </message>
+    <message>
+        <source>3-D
+On</source>
+        <translation>Ativar
+3D</translation>
+    </message>
+    <message>
+        <source>3-D On</source>
+        <translation>Ativar 3D</translation>
+    </message>
+    <message>
+        <source>3.0</source>
+        <translation>3,0</translation>
+    </message>
+    <message>
+        <source>4.5 pt.</source>
+        <translation>4,5 pt</translation>
+    </message>
+    <message>
+        <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translation>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
+    </message>
+    <message>
+        <source>6 pt.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>Alinhar</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>Alinhar pela parte inferior</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>Alinhar ao Centro</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>Alinhar à Esquerda</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>Alinhar ao Meio</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>Alinhar à Direita</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>Alinhar pela parte superior</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation>Organizar</translation>
+    </message>
+    <message>
+        <source>Arrow Style</source>
+        <translation>Estilo da Seta</translation>
+    </message>
+    <message>
+        <source>Arrow Style 1</source>
+        <translation>Estilo da Seta 1</translation>
+    </message>
+    <message>
+        <source>Arrow Style 10</source>
+        <translation>Estilo da Seta 10</translation>
+    </message>
+    <message>
+        <source>Arrow Style 11</source>
+        <translation>Estilo da Seta 11</translation>
+    </message>
+    <message>
+        <source>Arrow Style 2</source>
+        <translation>Estilo da Seta 2</translation>
+    </message>
+    <message>
+        <source>Arrow Style 3</source>
+        <translation>Estilo da Seta 3</translation>
+    </message>
+    <message>
+        <source>Arrow Style 4</source>
+        <translation>Estilo da Seta 4</translation>
+    </message>
+    <message>
+        <source>Arrow Style 5</source>
+        <translation>Estilo da Seta 5</translation>
+    </message>
+    <message>
+        <source>Arrow Style 6</source>
+        <translation>Estilo da Seta 6</translation>
+    </message>
+    <message>
+        <source>Arrow Style 7</source>
+        <translation>Estilo da Seta 7</translation>
+    </message>
+    <message>
+        <source>Arrow Style 8</source>
+        <translation>Estilo da Seta 8</translation>
+    </message>
+    <message>
+        <source>Arrow Style 9</source>
+        <translation>Estilo da Seta 9</translation>
+    </message>
+    <message>
+        <source>Behind Text</source>
+        <translation>Atrás do Texto</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>Negrito</translation>
+    </message>
+    <message>
+        <source>Break Forward Link</source>
+        <translation>Interromper Ligação de Reencaminhamento</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation>Trazer para a Frente</translation>
+    </message>
+    <message>
+        <source>Bring In Front Of Text</source>
+        <translation>Colocar sobre o texto</translation>
+    </message>
+    <message>
+        <source>Bring To Front</source>
+        <translation>Trazer para a Frente</translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation>Centrado</translation>
+    </message>
+    <message>
+        <source>Change Points</source>
+        <translation>Editar pontos</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation>Alterar Forma</translation>
+    </message>
+    <message>
+        <source>Create TextBox Link</source>
+        <translation>Criar Ligação Com Caixa de Texto</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation>Tracejado</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation>Estilo do tracejado</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation>Traço-ponto</translation>
+    </message>
+    <message>
+        <source>Detailed Settings</source>
+        <translation>Opções Detalhadas</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>Distribuir na horizontal</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>Distribuir na vertical</translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation>Distribuido</translation>
+    </message>
+    <message>
+        <source>Edit Shapes</source>
+        <translation>Editar Forma</translation>
+    </message>
+    <message>
+        <source>EmphasisMark</source>
+        <translation>Marca de ênfase</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation>Altura Igual</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>Tamanho Igual</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation>Largura Igual</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Horizontally</source>
+        <translation>Inverter na horizontal</translation>
+    </message>
+    <message>
+        <source>Flip Vertically</source>
+        <translation>Inverter na Vertical</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation>Tipo de Letra</translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation>Cor do Tipo de Letra</translation>
+    </message>
+    <message>
+        <source>Font Name</source>
+        <translation>Nome do Tipo de Letra</translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation>Tamanho do Tipo de Letra</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation>Formatar Objecto</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation>Rotação Livre</translation>
+    </message>
+    <message>
+        <source>Gradiant</source>
+        <translation>Gradação</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation>Grelha</translation>
+    </message>
+    <message>
+        <source>Gridlines</source>
+        <translation>Linhas da Grelha</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>Agrupar</translation>
+    </message>
+    <message>
+        <source>Grow Font</source>
+        <translation>Aumentar Tipo de Letra</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation>Realçar</translation>
+    </message>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation>Caixa de Texto Horizontal</translation>
+    </message>
+    <message>
+        <source>In Front of Text</source>
+        <translation>À Frente do Texto</translation>
+    </message>
+    <message>
+        <source>In Line With Text</source>
+        <translation>Em Linha com o Texto</translation>
+    </message>
+    <message>
+        <source>Insert Shape</source>
+        <translation>Inserir forma</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>Itálico</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation>Justificar</translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <translation>Espaçamento entre linhas</translation>
+    </message>
+    <message>
+        <source>Line Style</source>
+        <translation>Estilo da Linha</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation>Traço Longo</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation>Traço longo-ponto</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot-Dot</source>
+        <translation>Traço longo-ponto-ponto</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Mais</translation>
+    </message>
+    <message>
+        <source>More Arrows</source>
+        <translation>Mais Setas</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation>Mais Cores de Preenchimento</translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation>Mais Cores de Tipo de Letra</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation>Mais Cores da Linha</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation>Mais Linhas</translation>
+    </message>
+    <message>
+        <source>More UnderLine Colors</source>
+        <translation>Mais Cores de Sublinhado</translation>
+    </message>
+    <message>
+        <source>More Underlines</source>
+        <translation>Mais Sublinhados</translation>
+    </message>
+    <message>
+        <source>MultiLine Text</source>
+        <translation>Texto com Várias Linhas</translation>
+    </message>
+    <message>
+        <source>Next Text Box</source>
+        <translation>Caixa de Texto Seguinte</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation>Padrão</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation>Linhas com Padrão</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>Imagem</translation>
+    </message>
+    <message>
+        <source>Previous TextBox</source>
+        <translation>Caixa de Texto Anterior</translation>
+    </message>
+    <message>
+        <source>Relative to Page</source>
+        <translation>Relativamente à página</translation>
+    </message>
+    <message>
+        <source>Rotate </source>
+        <translation>Rodar</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation>Rodar 90° para a esquerda</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation>Rodar 90° para a direita</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation>Ponto Redondo</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation>Painel de Selecção</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation>Enviar para Trás</translation>
+    </message>
+    <message>
+        <source>Send Behind Text</source>
+        <translation>Colocar por Detrás do Texto</translation>
+    </message>
+    <message>
+        <source>Send To Back</source>
+        <translation>Enviar para Segundo Plano</translation>
+    </message>
+    <message>
+        <source>Shadow On</source>
+        <translation>Mostrar Sombra</translation>
+    </message>
+    <message>
+        <source>Shape Fill</source>
+        <translation type="obsolete">Preenchimento de Formas</translation>
+    </message>
+    <message>
+        <source>Shape Outline</source>
+        <translation type="obsolete">Contorno da Forma</translation>
+    </message>
+    <message>
+        <source>Shape Styles</source>
+        <translation>Estilos da Forma</translation>
+    </message>
+    <message>
+        <source>Shrink Font</source>
+        <translation>Encolher Tipo de Letra</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size Object</source>
+        <translation>Dimensionar Objecto</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation>Sólido</translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation>Quadrado</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation>Ponto Quadrado</translation>
+    </message>
+    <message>
+        <source>Strikethought</source>
+        <translation>Rasurado</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation>Caixa de Texto</translation>
+    </message>
+    <message>
+        <source>Text Direction</source>
+        <translation>Orientação do Texto</translation>
+    </message>
+    <message>
+        <source>Texture</source>
+        <translation>Textura</translation>
+    </message>
+    <message>
+        <source>Through</source>
+        <translation>Através</translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <translation>Justo</translation>
+    </message>
+    <message>
+        <source>Top and Bottom</source>
+        <translation>Superior e inferior</translation>
+    </message>
+    <message>
+        <source>UnGroup</source>
+        <translation>Desagrupar</translation>
+    </message>
+    <message>
+        <source>UnderLine Color</source>
+        <translation>Cor do Sublinhado</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation>Sublinhado</translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation>Caixa de Texto Vertical</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation>Moldar Texto</translation>
+    </message>
+    <message>
+        <source>Wrapping Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ongmani.ct_file</name>
     <message>
         <source>About Kingsoft Writer</source>
@@ -3313,7 +4341,7 @@ Direction</source>
     </message>
     <message>
         <source>About WPS Writer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Acerca do WPS Writer</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -3321,23 +4349,31 @@ Direction</source>
     </message>
     <message>
         <source>Backup Management and Data Recovery</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gestão de Cópias de Segurança e Recuperação de Dados</translation>
+    </message>
+    <message>
+        <source>Backup and Recover</source>
+        <translation>Cópia de Segurança e Recuperação</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>&quot;Alterar Versão&quot;</translation>
+        <translation type="obsolete">Alterar Versão</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Procurar Atualizações</translation>
+    </message>
+    <message>
+        <source>Convert</source>
+        <translation>Converter</translation>
     </message>
     <message>
         <source>Data Recovery</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Recuperação de Dados</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada Docer</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -3349,10 +4385,14 @@ Direction</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Encriptação</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
+        <translation>Introduzir Código de Autorização</translation>
+    </message>
+    <message>
+        <source>Exit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3369,11 +4409,11 @@ Direction</source>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Comentários e Informações do Produto</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentários por E-mail</translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
@@ -3389,7 +4429,7 @@ Direction</source>
     </message>
     <message>
         <source>Help</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ajuda</translation>
     </message>
     <message>
         <source>Help Title</source>
@@ -3429,19 +4469,19 @@ Direction</source>
     </message>
     <message>
         <source>Manage Credentials</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerir Credenciais</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2010 Document</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Documento do Microsoft Word 2007-2010 (*.docx)</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
-        <translation>Documento do Microsoft Word 97-2003</translation>
+        <translation>Documento do Microsoft Word 97-2003 (*.doc)</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Template</source>
-        <translation>Modelo do Microsoft Word 97-2003</translation>
+        <translation>Modelo do Microsoft Word 97-2003 (*.dot)</translation>
     </message>
     <message>
         <source>New</source>
@@ -3469,11 +4509,11 @@ Direction</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Novo dos Modelos Online</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Novo de Outros Modelos</translation>
     </message>
     <message>
         <source>Open</source>
@@ -3482,6 +4522,10 @@ Direction</source>
     <message>
         <source>Open From Klive</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Abrir do Klive</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Other Formats</source>
@@ -3509,7 +4553,7 @@ Direction</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation>&quot;Adquirir Licença&quot;</translation>
+        <translation>Adquirir Licença</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -3517,11 +4561,11 @@ Direction</source>
     </message>
     <message>
         <source>Restrict Permission by People</source>
-        <translation type="unfinished"></translation>
+        <translation>Restringir Permissão por Pessoa</translation>
     </message>
     <message>
         <source>Restricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Acesso Restrito</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3541,7 +4585,7 @@ Direction</source>
     </message>
     <message>
         <source>Seek Help via Microblog</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Procurar Ajuda no Microblogue</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -3556,24 +4600,32 @@ Direction</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Pesquisar na Internet</translation>
     </message>
     <message>
-        <source>Unrestricted Access</source>
+        <source>Support WPS</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation>Acesso Sem Restrições</translation>
     </message>
     <message>
         <source>Update Online</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Actualização Online</translation>
     </message>
     <message>
+        <source>User Feedback</source>
+        <translation type="obsolete">Comentários do Utilizador</translation>
+    </message>
+    <message>
         <source>View Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver Permissões</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Modelo Global de Recuperação de Dados do WPS</translation>
     </message>
     <message>
         <source>WPS Forum</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Fórum do WPS</translation>
     </message>
     <message>
         <source>WPS New features</source>
@@ -3581,35 +4633,35 @@ Direction</source>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Comunidade do WPS Office</translation>
     </message>
     <message>
         <source>WPS Office Facebook</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Facebook do WPS Office</translation>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Home Page do WPS Office</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Novas Funcionalidades do WPS Office</translation>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Centro de Produtos do WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer 2007-2010 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento do WPS Writer 2007-2010</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Documento do WPS Writer (*.wps)</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Modelo do WPS Writer (*.wpt)</translation>
     </message>
 </context>
 <context>
@@ -3620,7 +4672,7 @@ Direction</source>
     </message>
     <message>
         <source>WPS Writer Help</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ajuda do WPS Writer</translation>
     </message>
 </context>
 <context>
@@ -3635,11 +4687,11 @@ Direction</source>
     </message>
     <message>
         <source>AutoText</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Texto Automático</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>&quot;Clip Art&quot;</translation>
+        <translation>Clip Art</translation>
     </message>
     <message>
         <source>Close</source>
@@ -3652,7 +4704,8 @@ Direction</source>
     <message>
         <source>Date and
 Time</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Data e
+Hora</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -3660,28 +4713,29 @@ Time</source>
     </message>
     <message>
         <source>From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Do Ficheiro</translation>
     </message>
     <message>
         <source>From Scanner</source>
-        <translation type="unfinished"></translation>
+        <translation>Do Scanner</translation>
     </message>
     <message>
         <source>Header Line Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor da Linha do Cabeçalho</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cabeçalho e Rodapé</translation>
     </message>
     <message>
         <source>Header and Footer
 Options</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Opções de Cabeçalho e
+Rodapé</translation>
     </message>
     <message>
         <source>Header and Footer Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções de Cabeçalho e Rodapé</translation>
     </message>
     <message>
         <source>Header&amp;Footer Options</source>
@@ -3697,7 +4751,7 @@ Options</source>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation>&quot;Inserir ClipArt&quot;</translation>
+        <translation>Inserir Clip Art</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -3706,7 +4760,8 @@ Options</source>
     <message>
         <source>Link to
 Previous</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ligar ao
+Anterior</translation>
     </message>
     <message>
         <source>Link to Previous</source>
@@ -3714,7 +4769,7 @@ Previous</source>
     </message>
     <message>
         <source>More Colors</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mais Cores</translation>
     </message>
     <message>
         <source>Navigation</source>
@@ -3723,7 +4778,8 @@ Previous</source>
     <message>
         <source>Next
 Header</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cabeçalho
+Seguinte</translation>
     </message>
     <message>
         <source>Next Header</source>
@@ -3732,7 +4788,8 @@ Header</source>
     <message>
         <source>Page
 Number</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Número de
+Página</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -3753,7 +4810,8 @@ Number</source>
     <message>
         <source>Previous
 Header</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cabeçalho
+Anterior</translation>
     </message>
     <message>
         <source>Previous Header</source>
@@ -3761,12 +4819,13 @@ Header</source>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar Linha de Cabeçalho</translation>
     </message>
     <message>
         <source>Switch between
 Header and Footer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Alternar entre
+Cabeçalho e Rodapé</translation>
     </message>
     <message>
         <source>Switch between Header and Footer</source>
@@ -3781,59 +4840,59 @@ Header and Footer</source>
     <name>ongmani.ct_home</name>
     <message>
         <source>1.0</source>
-        <translation></translation>
+        <translation>1.0</translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation></translation>
+        <translation>1.5</translation>
     </message>
     <message>
         <source>100%</source>
-        <translation></translation>
+        <translation type="obsolete">100%</translation>
     </message>
     <message>
         <source>150%</source>
-        <translation></translation>
+        <translation type="obsolete">150%</translation>
     </message>
     <message>
         <source>2.0</source>
-        <translation></translation>
+        <translation>2.0</translation>
     </message>
     <message>
         <source>2.5</source>
-        <translation></translation>
+        <translation>2.5</translation>
     </message>
     <message>
         <source>200%</source>
-        <translation></translation>
+        <translation type="obsolete">200%</translation>
     </message>
     <message>
         <source>3.0</source>
-        <translation></translation>
+        <translation>3.0</translation>
     </message>
     <message>
         <source>33%</source>
-        <translation></translation>
+        <translation type="obsolete">33%</translation>
     </message>
     <message>
         <source>50%</source>
-        <translation></translation>
+        <translation type="obsolete">50%</translation>
     </message>
     <message>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
-        <translation></translation>
+        <translation>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
     </message>
     <message>
         <source>66%</source>
-        <translation></translation>
+        <translation type="obsolete">66%</translation>
     </message>
     <message>
         <source>80%</source>
-        <translation></translation>
+        <translation type="obsolete">80%</translation>
     </message>
     <message>
         <source>90%</source>
-        <translation></translation>
+        <translation type="obsolete">90%</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -3845,23 +4904,27 @@ Header and Footer</source>
     </message>
     <message>
         <source>All Borders</source>
-        <translation>&quot;Todos os Limites&quot;</translation>
+        <translation>Todos os Limites</translation>
     </message>
     <message>
         <source>Asian Layout</source>
-        <translation>Esquema Asiático</translation>
+        <translation type="obsolete">Esquema Asiático</translation>
     </message>
     <message>
         <source>Bold</source>
         <translation>Negrito</translation>
     </message>
     <message>
+        <source>Bold Square-Hollow Bullets</source>
+        <translation>Marcas Quadradas em Negrito Vazias</translation>
+    </message>
+    <message>
         <source>Borders and Shading</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limites e Sombreado</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation>&quot;Limite Inferior&quot;</translation>
+        <translation>Limite Inferior</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -3869,7 +4932,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Center</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Centrar</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -3877,7 +4940,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Change Case</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Maiúsculas/Minúsculas</translation>
     </message>
     <message>
         <source>Character Border</source>
@@ -3885,7 +4948,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Character Scaling</source>
-        <translation>Dimensionamento dos Caracteres</translation>
+        <translation type="obsolete">Dimensionamento dos Caracteres</translation>
     </message>
     <message>
         <source>Character Shading</source>
@@ -3905,7 +4968,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation>Combinar Caracteres</translation>
+        <translation type="obsolete">Combinar Caracteres</translation>
     </message>
     <message>
         <source>Convert Case</source>
@@ -3937,7 +5000,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Emphasis Mark</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Marca de Ênfase</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
@@ -3966,7 +5029,8 @@ Header and Footer</source>
     <message>
         <source>Find and 
 Replace</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Localizar e 
+Substituir</translation>
     </message>
     <message>
         <source>Find/Replace</source>
@@ -3974,7 +5038,7 @@ Replace</source>
     </message>
     <message>
         <source>Font</source>
-        <translation>Fonte</translation>
+        <translation>Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -3982,25 +5046,31 @@ Replace</source>
     </message>
     <message>
         <source>Font Name</source>
-        <translation>Nome da Fonte</translation>
+        <translation>Nome do Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Tamanho da Fonte</translation>
+        <translation>Tamanho do Tipo de Letra</translation>
     </message>
     <message>
         <source>Format
 Painter</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Pincel de
+Formatação</translation>
     </message>
     <message>
         <source>Format 
 Painter</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Pincel de
+Formatação</translation>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Texto Formatado</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>Brilho</translation>
     </message>
     <message>
         <source>Go to</source>
@@ -4008,7 +5078,7 @@ Painter</source>
     </message>
     <message>
         <source>Grow Font</source>
-        <translation>Aumentar Fonte</translation>
+        <translation>Aumentar Tipo de Letra</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -4020,15 +5090,15 @@ Painter</source>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Interior</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Horizontal Interior</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Vertical Interior</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -4040,7 +5110,7 @@ Painter</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation>&quot;Limite Esquerdo&quot;</translation>
+        <translation>Limite Esquerdo</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -4048,7 +5118,7 @@ Painter</source>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Formato Atual Correspondente</translation>
     </message>
     <message>
         <source>More</source>
@@ -4064,7 +5134,7 @@ Painter</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mais Cores das Fontes</translation>
+        <translation>Mais Cores de Tipo de Letra</translation>
     </message>
     <message>
         <source>More Underline Colors</source>
@@ -4081,11 +5151,15 @@ Style</source>
     </message>
     <message>
         <source>New Style</source>
-        <translation type="unfinished">&quot;obsolete&quot;&gt;Novo Estilo</translation>
+        <translation>Novo Estilo</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>&quot;Sem Limites&quot;</translation>
+        <translation>Sem Limites</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -4093,7 +5167,7 @@ Style</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>&quot;Limites Exteriores&quot;</translation>
+        <translation>Limites Exteriores</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -4120,12 +5194,20 @@ Style</source>
         <translation>Guia Fonético...</translation>
     </message>
     <message>
+        <source>Reflection</source>
+        <translation>Reflexo</translation>
+    </message>
+    <message>
         <source>Replace</source>
         <translation>Substituir</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation>&quot;Limite Direito&quot;</translation>
+        <translation>Limite Direito</translation>
+    </message>
+    <message>
+        <source>Sagittate Bullet </source>
+        <translation>Marcas em Seta</translation>
     </message>
     <message>
         <source>Select</source>
@@ -4145,23 +5227,27 @@ Style</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>&quot;unfinished&quot;&gt;Painel de Selecção</translation>
+        <translation>Painel de Selecção</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
-        <translation>&quot;Definir Colagem Padrão&quot;</translation>
+        <translation>Definir Colagem Padrão</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
     </message>
     <message>
         <source>Shading</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Sombreado</translation>
     </message>
     <message>
         <source>Shading Color</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Cor do Sombreado</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation>Sombra</translation>
     </message>
     <message>
         <source>Show / Hide Formatting Marks</source>
@@ -4172,16 +5258,24 @@ Style</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar/Esconder a Disposição do Parágrafo</translation>
     </message>
     <message>
+        <source>Show/Hide Edit Mark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show/Hide Paragraph Layout</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar/Ocultar Esquema de Parágrafo</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Marks</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar/Ocultar Marcas de Parágrafo</translation>
     </message>
     <message>
         <source>Shrink Font</source>
-        <translation>Diminuir Fonte</translation>
+        <translation>Encolher Tipo de Letra</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -4193,7 +5287,7 @@ Style</source>
     </message>
     <message>
         <source>Styles</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Estilos</translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
@@ -4201,7 +5295,7 @@ Style</source>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Estilos e Formatação</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -4213,19 +5307,35 @@ Style</source>
     </message>
     <message>
         <source>Tabs</source>
-        <translation>&quot;Indentações&quot;</translation>
+        <translation>Indentações</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor do Texto</translation>
+    </message>
+    <message>
+        <source>Text Effects</source>
+        <translation>Efeitos de Texto</translation>
+    </message>
+    <message>
+        <source>The Check Mark-shaped Bullets</source>
+        <translation>Marcas de Verificação</translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation>Rotação 3D</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation>&quot;Limite Superior&quot;</translation>
+        <translation>Limite Superior</translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation>Transformação</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
-        <translation>Duas Linhas em Uma</translation>
+        <translation type="obsolete">Duas Linhas em Uma</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -4237,18 +5347,50 @@ Style</source>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Texto Não Formatado</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Diamond-Shaped Bullets</source>
+        <translation>Marcas em Losango Preenchidas</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Round-Shaped Bullets</source>
+        <translation>Marcas Redondas Grandes Preenchidas</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Square-Shaped Bullets</source>
+        <translation>Marcas Quadradas Grandes Preenchidas</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Round-Shaped Bullets</source>
+        <translation>Marcas Redondas Preenchidas</translation>
     </message>
     <message>
         <source>Word Tools</source>
         <translation>Ferramentas de Palavras</translation>
     </message>
+    <message>
+        <source>WordArt</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_home.Num</name>
     <message>
+        <source>1.2.3.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>A.B.C.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>More Numbering</source>
         <translation>Mais Numerações</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Number</source>
@@ -4256,14 +5398,34 @@ Style</source>
     </message>
     <message>
         <source>Numbering</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Numeração</translation>
+    </message>
+    <message>
+        <source>Pictographic Number, Wide End</source>
+        <translation>Numeração Ideográfica, ponto largo</translation>
+    </message>
+    <message>
+        <source>With The Circle Number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a).b).c).</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>a.b.c.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ⅰ.Ⅱ.Ⅲ.</source>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_insert</name>
     <message>
         <source>AutoShape</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Forma Automática</translation>
     </message>
     <message>
         <source>Blank Page</source>
@@ -4271,7 +5433,7 @@ Style</source>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Marcador</translation>
     </message>
     <message>
         <source>Bookmarks</source>
@@ -4279,7 +5441,7 @@ Style</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation>&quot;Quebras&quot;</translation>
+        <translation>Quebras</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -4295,15 +5457,15 @@ Style</source>
     </message>
     <message>
         <source>Column Break</source>
-        <translation>&quot;Quebra de Coluna&quot;</translation>
+        <translation>Quebra de Coluna</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>&quot;Comentário&quot;</translation>
+        <translation>Comentário</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation>&quot;Quebra de Secção Contínua&quot;</translation>
+        <translation>Quebra de Secção Contínua</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -4323,7 +5485,7 @@ Style</source>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Data e Hora</translation>
     </message>
     <message>
         <source>Date/Time</source>
@@ -4346,12 +5508,16 @@ Style</source>
         <translation>Campo de Formulário do tipo Pendente</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="obsolete">Envelopes</translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>Equação</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
-        <translation>&quot;Quebra de Secção em Páginas Ímpares&quot;</translation>
+        <translation>Quebra de Secção em Páginas Ímpares</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -4371,7 +5537,7 @@ Style</source>
     </message>
     <message>
         <source>Form Field Options</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Opções do Campo de Formulário</translation>
     </message>
     <message>
         <source>Form Field Shading</source>
@@ -4383,11 +5549,11 @@ Style</source>
     </message>
     <message>
         <source>From File</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Do Ficheiro</translation>
     </message>
     <message>
         <source>From Scanner</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Do Scanner</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -4396,7 +5562,8 @@ Style</source>
     <message>
         <source>Header and 
 Footer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cabeçalho e 
+Rodapé</translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -4423,24 +5590,28 @@ Footer</source>
         <translation>Inserir ClipArt</translation>
     </message>
     <message>
-        <source>Insert Online Pictures</source>
+        <source>Insert Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Insert Online Pictures</source>
+        <translation>Inserir Imagens Online</translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
-        <translation>&quot;Inserir Imagem&quot;</translation>
+        <translation>Inserir Imagem</translation>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Tabela</translation>
     </message>
     <message>
         <source>Insert Text from File</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Texto a partir de Ficheiro</translation>
     </message>
     <message>
         <source>Insert Watermark</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Marca de Água</translation>
     </message>
     <message>
         <source>Links</source>
@@ -4455,12 +5626,16 @@ Footer</source>
         <translation>Texto Multi-Linha</translation>
     </message>
     <message>
+        <source>New Drawing Canvas</source>
+        <translation>Nova Tela de Desenho</translation>
+    </message>
+    <message>
         <source>Next Page Section Break</source>
-        <translation>&quot;Quebra de Secção na Próxima Página&quot;</translation>
+        <translation>Quebra de Secção na Próxima Página</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>Número</translation>
+        <translation type="obsolete">Número</translation>
     </message>
     <message>
         <source>Object</source>
@@ -4468,21 +5643,23 @@ Footer</source>
     </message>
     <message>
         <source>Odd Page Section Break</source>
-        <translation>&quot;Quebra de Secção em Páginas Pares&quot;</translation>
+        <translation>Quebra de Secção em Páginas Pares</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagens Online</translation>
     </message>
     <message>
         <source>Page
 Number</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Número de
+Página</translation>
     </message>
     <message>
         <source>Page 
 Break</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Quebra de 
+Página</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -4514,7 +5691,7 @@ Break</source>
     </message>
     <message>
         <source>Reset Form Fields</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Repor Campos de Formulário</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -4522,11 +5699,11 @@ Break</source>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>&quot;Símbolo&quot;</translation>
+        <translation>Símbolo</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation>Símbolos</translation>
+        <translation type="obsolete">Símbolos</translation>
     </message>
     <message>
         <source>Table</source>
@@ -4538,7 +5715,7 @@ Break</source>
     </message>
     <message>
         <source>Text</source>
-        <translation>Texto</translation>
+        <translation type="unfinished">Texto</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -4550,7 +5727,7 @@ Break</source>
     </message>
     <message>
         <source>Text Wrapping Break</source>
-        <translation>&quot;Quebra na Moldagem do Texto&quot;</translation>
+        <translation>Quebra na Moldagem do Texto</translation>
     </message>
     <message>
         <source>Text from File</source>
@@ -4558,7 +5735,7 @@ Break</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>Vertical Blank Page</source>
@@ -4578,6 +5755,283 @@ Break</source>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_insert_vml</name>
+    <message>
+        <source>AutoShape</source>
+        <translation>Forma Automática</translation>
+    </message>
+    <message>
+        <source>Blank Page</source>
+        <translation>Página em Branco</translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <translation>Marcador</translation>
+    </message>
+    <message>
+        <source>Breaks</source>
+        <translation>Quebras</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation>Gráfico</translation>
+    </message>
+    <message>
+        <source>Check Box Form Field</source>
+        <translation>Campo de formulário do tipo &apos;Caixa de verificação&apos;</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation>Clip Art</translation>
+    </message>
+    <message>
+        <source>Column Break</source>
+        <translation>Quebra de Coluna</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation>Comentário</translation>
+    </message>
+    <message>
+        <source>Continuous Section Break</source>
+        <translation>Quebra de Secção Contínua</translation>
+    </message>
+    <message>
+        <source>Convert Table to Text</source>
+        <translation>Converter Tabela em Texto</translation>
+    </message>
+    <message>
+        <source>Convert Text to Table</source>
+        <translation>Converter Texto em Tabela</translation>
+    </message>
+    <message>
+        <source>Cross-reference</source>
+        <translation>Referência Cruzada</translation>
+    </message>
+    <message>
+        <source>Date and Time</source>
+        <translation>Data e Hora</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw Table</source>
+        <translation>Desenhar Tabela</translation>
+    </message>
+    <message>
+        <source>Drop Cap</source>
+        <translation>Capitulares</translation>
+    </message>
+    <message>
+        <source>Drop-Down Form Field</source>
+        <translation>Campo de Formulário do Tipo Lista Pendente</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation>Equação</translation>
+    </message>
+    <message>
+        <source>Even Page Section Break</source>
+        <translation>Quebra de Secção em Páginas Pares</translation>
+    </message>
+    <message>
+        <source>Fields</source>
+        <translation>Campos</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation>Ficheiro</translation>
+    </message>
+    <message>
+        <source>File Object</source>
+        <translation>Objecto File</translation>
+    </message>
+    <message>
+        <source>Form Field Options</source>
+        <translation>Opções do Campo de Formulário</translation>
+    </message>
+    <message>
+        <source>Form Field Shading</source>
+        <translation>Sombreado do Campo de Formulário</translation>
+    </message>
+    <message>
+        <source>Forms</source>
+        <translation>Formulários</translation>
+    </message>
+    <message>
+        <source>From File</source>
+        <translation>Do Ficheiro</translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation>Do Scanner</translation>
+    </message>
+    <message>
+        <source>Header and 
+Footer</source>
+        <translation>Cabeçalho e 
+Rodapé</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>Horizontal</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <translation>Hiperligação</translation>
+    </message>
+    <message>
+        <source>Illustrations</source>
+        <translation>Ilustrações</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation>Inserir ClipArt</translation>
+    </message>
+    <message>
+        <source>Insert Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Inserir Imagens Online</translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation>Inserir Imagem</translation>
+    </message>
+    <message>
+        <source>Insert Table</source>
+        <translation>Inserir Tabela</translation>
+    </message>
+    <message>
+        <source>Insert Text from File</source>
+        <translation>Inserir Texto a partir de Ficheiro</translation>
+    </message>
+    <message>
+        <source>Insert Watermark</source>
+        <translation>Inserir Marca de Água</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Hiperligações</translation>
+    </message>
+    <message>
+        <source>More Symbols</source>
+        <translation>Mais Simbolos</translation>
+    </message>
+    <message>
+        <source>Multi-line Text</source>
+        <translation>Texto Multi-Linha</translation>
+    </message>
+    <message>
+        <source>New Drawing Canvas</source>
+        <translation>Nova Tela de Desenho</translation>
+    </message>
+    <message>
+        <source>Next Page Section Break</source>
+        <translation>Quebra de Secção na Próxima Página</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="obsolete">Número</translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <translation>Objecto</translation>
+    </message>
+    <message>
+        <source>Odd Page Section Break</source>
+        <translation>Quebra de Secção em Páginas Impares</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Imagens Online</translation>
+    </message>
+    <message>
+        <source>Page
+Number</source>
+        <translation>Número de
+Página</translation>
+    </message>
+    <message>
+        <source>Page 
+Break</source>
+        <translation>Quebra de 
+Página</translation>
+    </message>
+    <message>
+        <source>Pages</source>
+        <translation>Páginas</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>Imagem</translation>
+    </message>
+    <message>
+        <source>Protect Form</source>
+        <translation>Proteger Formulário</translation>
+    </message>
+    <message>
+        <source>Remove Watermark</source>
+        <translation>Remover Marca de Água</translation>
+    </message>
+    <message>
+        <source>Reset Form Fields</source>
+        <translation>Repor Campos de Formulário</translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation>Formas</translation>
+    </message>
+    <message>
+        <source>Symbol</source>
+        <translation>Símbolo</translation>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation type="obsolete">Símbolos</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation>Tabela</translation>
+    </message>
+    <message>
+        <source>Tables</source>
+        <translation>Tabelas</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="obsolete">Texto</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation>Caixa de Texto</translation>
+    </message>
+    <message>
+        <source>Text Form Field</source>
+        <translation>Campo de Formulário de Texto</translation>
+    </message>
+    <message>
+        <source>Text Wrapping Break</source>
+        <translation>Quebra de Moldagem do Texto</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>Vertical</translation>
+    </message>
+    <message>
+        <source>Watermark</source>
+        <translation>Marca de Àgua</translation>
+    </message>
+    <message>
+        <source>WordArt</source>
+        <translation>WordArt</translation>
+    </message>
+</context>
+<context>
     <name>ongmani.ct_mailings</name>
     <message>
         <source>Close</source>
@@ -4585,7 +6039,7 @@ Break</source>
     </message>
     <message>
         <source>Close Data Source</source>
-        <translation>Fechar Fonte dos Dados</translation>
+        <translation>Fechar origem de dados</translation>
     </message>
     <message>
         <source>Finish</source>
@@ -4605,7 +6059,7 @@ Break</source>
     </message>
     <message>
         <source>Insert Merge Field</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Campo de Impressão em Série</translation>
     </message>
     <message>
         <source>Insert Merge Fields</source>
@@ -4621,7 +6075,7 @@ Break</source>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation>&quot;Unir Destinatários de Correio&quot;</translation>
+        <translation>Unir Destinatários de Correio</translation>
     </message>
     <message>
         <source>Match Fields</source>
@@ -4649,7 +6103,7 @@ Break</source>
     </message>
     <message>
         <source>Open Data Source</source>
-        <translation>Abrir Fonte de Dados</translation>
+        <translation>Abrir origem de dados</translation>
     </message>
     <message>
         <source>Preview Result</source>
@@ -4657,7 +6111,7 @@ Break</source>
     </message>
     <message>
         <source>Preview Results</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Pré-visualizar Resultados</translation>
     </message>
     <message>
         <source>Previous Record</source>
@@ -4665,7 +6119,7 @@ Break</source>
     </message>
     <message>
         <source>Start Mail Merge</source>
-        <translation>&quot;Iniciar Envio de Correio&quot;</translation>
+        <translation>Iniciar Envio de Correio</translation>
     </message>
     <message>
         <source>View Merged Data</source>
@@ -4696,7 +6150,7 @@ Break</source>
     </message>
     <message>
         <source>Down</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Para Baixo</translation>
     </message>
     <message>
         <source>Expand</source>
@@ -4704,7 +6158,7 @@ Break</source>
     </message>
     <message>
         <source>Go to TOC</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ir para o Índice</translation>
     </message>
     <message>
         <source>Go to ToC</source>
@@ -4756,11 +6210,11 @@ Break</source>
     </message>
     <message>
         <source>Up</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Para Cima</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Atualizar Índice</translation>
     </message>
     <message>
         <source>Update ToC</source>
@@ -4826,6 +6280,10 @@ Break</source>
         <translation>Mudar Direção do Texto</translation>
     </message>
     <message>
+        <source>Colors</source>
+        <translation>Cores</translation>
+    </message>
+    <message>
         <source>Column Break</source>
         <translation>Quebra de Coluna</translation>
     </message>
@@ -4843,7 +6301,7 @@ Break</source>
     </message>
     <message>
         <source>Custom Margins</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Margens Personalizadas</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -4862,8 +6320,16 @@ Break</source>
         <translation>Não Mostrar Número de Linha para Linhas em Branco</translation>
     </message>
     <message>
+        <source>Edit Theme</source>
+        <translation>Editar Tema</translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation>Efeitos</translation>
+    </message>
+    <message>
         <source>Equal Height</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Altura Igual</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -4871,7 +6337,7 @@ Break</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Largura Igual</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -4887,7 +6353,7 @@ Break</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -4896,6 +6362,10 @@ Break</source>
     <message>
         <source>Flip Vertical</source>
         <translation>Inverter Verticalmente</translation>
+    </message>
+    <message>
+        <source>Fonts</source>
+        <translation>Tipos de Letra</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -4911,7 +6381,7 @@ Break</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gradação</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -4955,7 +6425,7 @@ Break</source>
     </message>
     <message>
         <source>More Paper Sizes</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mais Tamanhos de Papel</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -4980,7 +6450,8 @@ Break</source>
     <message>
         <source>Page
 Borders</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limites de
+Página</translation>
     </message>
     <message>
         <source>Page
@@ -4990,7 +6461,8 @@ Color</source>
     <message>
         <source>Page 
 Break</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Quebra de 
+Página</translation>
     </message>
     <message>
         <source>Page Background</source>
@@ -5006,7 +6478,7 @@ Break</source>
     </message>
     <message>
         <source>Page Color</source>
-        <translation>&quot;obsolete&quot;&gt;Cor da Página</translation>
+        <translation>Cor da Página</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -5066,15 +6538,19 @@ Break</source>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Enviar para Trás</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
     </message>
     <message>
         <source>Size</source>
         <translation>Tamanho</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
     </message>
     <message>
         <source>Square</source>
@@ -5082,12 +6558,13 @@ Break</source>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
-        <translation>&quot;Suprimir para o Parágrafo Actual&quot;</translation>
+        <translation>Suprimir para o Parágrafo Actual</translation>
     </message>
     <message>
         <source>Text
 Direction</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Orientação do
+Texto</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -5108,6 +6585,10 @@ Direction</source>
     <message>
         <source>Texture</source>
         <translation>Textura</translation>
+    </message>
+    <message>
+        <source>Themes</source>
+        <translation>Temas</translation>
     </message>
     <message>
         <source>Three</source>
@@ -5135,7 +6616,7 @@ Direction</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Moldar Texto</translation>
     </message>
 </context>
 <context>
@@ -5157,12 +6638,16 @@ Direction</source>
         <translation>Negrito</translation>
     </message>
     <message>
+        <source>Bold Square-Hollow Bullets</source>
+        <translation>Marcas Quadradas em Negrito Vazias</translation>
+    </message>
+    <message>
         <source>Bullets</source>
         <translation>Marcas</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Centrar</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -5182,11 +6667,11 @@ Direction</source>
     </message>
     <message>
         <source>Demote TOC Level</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Despromover Nível no Índice</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Despromover para Texto do Corpo</translation>
     </message>
     <message>
         <source>Demote to Common Text</source>
@@ -5206,23 +6691,23 @@ Direction</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Fonte</translation>
+        <translation>Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>Cor da Fonte</translation>
+        <translation>Cor do Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Name</source>
-        <translation>Nome da Fonte</translation>
+        <translation>Nome do Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Tamanho da Fonte</translation>
+        <translation>Tamanho do Tipo de Letra</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -5270,7 +6755,7 @@ Direction</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mais Cores das Fontes</translation>
+        <translation>Mais Cores de Tipo de Letra</translation>
     </message>
     <message>
         <source>More UnderLine Colors</source>
@@ -5278,7 +6763,7 @@ Direction</source>
     </message>
     <message>
         <source>More Underline Colors</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mais Cores do Sublinhado</translation>
     </message>
     <message>
         <source>More Underlines</source>
@@ -5287,6 +6772,10 @@ Direction</source>
     <message>
         <source>New Style</source>
         <translation>Novo Estilo</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -5298,11 +6787,11 @@ Direction</source>
     </message>
     <message>
         <source>Promote TOC Level</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Promover Nível no Índice</translation>
     </message>
     <message>
         <source>Promote to Level 1</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Promover para o Nível 1</translation>
     </message>
     <message>
         <source>Promote to ToC 1</source>
@@ -5310,19 +6799,27 @@ Direction</source>
     </message>
     <message>
         <source>Reduce Line Spacing</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Reduzir o Espaçamento entre Linhas</translation>
     </message>
     <message>
         <source>Reduced Line Spacing</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Espaçamento entre Linhas Reduzido</translation>
     </message>
     <message>
+        <source>Sagittate Bullet </source>
+        <translation>Marcas em Seta</translation>
+    </message>
+    <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation>&quot;Alterar para Grelha&quot;</translation>
+        <translation>Alterar para Grelha</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
     </message>
     <message>
         <source>Style</source>
@@ -5334,11 +6831,15 @@ Direction</source>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Estilos e Formatação</translation>
     </message>
     <message>
         <source>TOC Level</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nível no Índice</translation>
+    </message>
+    <message>
+        <source>The Check Mark-shaped Bullets</source>
+        <translation>Marcas de Verificação</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -5358,14 +6859,42 @@ Direction</source>
     </message>
     <message>
         <source>Underline Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor de Sublinhado</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Diamond-Shaped Bullets</source>
+        <translation>Marcas em Losango Preenchidas</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Round-Shaped Bullets</source>
+        <translation>Marcas Redondas Grandes Preenchidas</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Square-Shaped Bullets</source>
+        <translation>Marcas Quadradas Grandes Preenchidas</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Round-Shaped Bullets</source>
+        <translation>Marcas Redondas Preenchidas</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_paragraph.Num</name>
     <message>
+        <source>1.2.3.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>A.B.C.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>More Numbering</source>
         <translation>Mais Numerações</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Number</source>
@@ -5373,22 +6902,42 @@ Direction</source>
     </message>
     <message>
         <source>Numbering</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Numeração</translation>
+    </message>
+    <message>
+        <source>Pictographic Number, Wide End</source>
+        <translation>Numeração Ideográfica, ponto largo</translation>
+    </message>
+    <message>
+        <source>With The Circle Number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a).b).c).</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>a.b.c.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ⅰ.Ⅱ.Ⅲ.</source>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_picturetools</name>
     <message>
         <source>0.25 pt</source>
-        <translation>0.25 pt</translation>
+        <translation>0,25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation>0.5 pt</translation>
+        <translation>0,5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>0.75 pt</translation>
+        <translation>0,75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
@@ -5396,19 +6945,23 @@ Direction</source>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation>1.5 pt</translation>
+        <translation>1,5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>2.25 ot</translation>
+        <translation>2,25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
         <translation>3 pt</translation>
     </message>
     <message>
+        <source>3-D Rotation</source>
+        <translation>Rotação 3D</translation>
+    </message>
+    <message>
         <source>4.5 pt</source>
-        <translation>4.5 pt</translation>
+        <translation>4,5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
@@ -5416,7 +6969,11 @@ Direction</source>
     </message>
     <message>
         <source>Adjust</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Ajustar</translation>
+    </message>
+    <message>
+        <source>Adjust Picture</source>
+        <translation>Ajustar</translation>
     </message>
     <message>
         <source>Align</source>
@@ -5451,6 +7008,10 @@ Direction</source>
         <translation>Organizar</translation>
     </message>
     <message>
+        <source>Atristic Clip</source>
+        <translation>ClipArt</translation>
+    </message>
+    <message>
         <source>Automatic</source>
         <translation>Automático</translation>
     </message>
@@ -5477,15 +7038,16 @@ Direction</source>
     <message>
         <source>Change
 Picture</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Alterar
+Imagem</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="obsolete">&quot;obsolete&quot;&gt;Alterar Imagem</translation>
+        <translation>Alterar Imagem</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>Clip Art</translation>
+        <translation type="obsolete">Clip Art</translation>
     </message>
     <message>
         <source>Color</source>
@@ -5494,11 +7056,12 @@ Picture</source>
     <message>
         <source>Compress
 Pictures</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Comprimir
+Imagens</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="obsolete">&quot;obsolete&quot;&gt;Comprimir Imagens</translation>
+        <translation>Comprimir Imagens</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -5510,7 +7073,11 @@ Pictures</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço-Ponto</translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation>Traço longo-ponto-ponto</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -5533,24 +7100,32 @@ Pictures</source>
         <translation>Distribuir Verticalmente</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation>Altura Igual</translation>
+    </message>
+    <message>
         <source>Equal Size</source>
         <translation>Tamanhos Iguais</translation>
     </message>
     <message>
+        <source>Equal Width</source>
+        <translation>Largura Igual</translation>
+    </message>
+    <message>
         <source>Even Height</source>
-        <translation>Mesma Altura</translation>
+        <translation type="obsolete">Mesma Altura</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation>Mesma Largura</translation>
+        <translation type="obsolete">Mesma Largura</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Preenchimento</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -5565,20 +7140,28 @@ Pictures</source>
         <translation>Formatar Objecto</translation>
     </message>
     <message>
+        <source>Format Painter</source>
+        <translation type="obsolete">Pincel de Formatação</translation>
+    </message>
+    <message>
         <source>Free Rotate</source>
         <translation>Rotação Livre</translation>
     </message>
     <message>
         <source>From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Do Ficheiro</translation>
     </message>
     <message>
         <source>From Scanner</source>
-        <translation type="unfinished"></translation>
+        <translation>Do Scanner</translation>
     </message>
     <message>
         <source>Gallery</source>
         <translation type="obsolete">Galeria</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>Brilho</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -5586,7 +7169,7 @@ Pictures</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gradação</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -5603,6 +7186,10 @@ Pictures</source>
     <message>
         <source>Group</source>
         <translation>Agrupar</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation>Altura</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -5622,16 +7209,24 @@ Picture</source>
         <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
+        <source>Insert Atristic Clip</source>
+        <translation>Inserir ClipArt</translation>
+    </message>
+    <message>
         <source>Insert Clip Art</source>
-        <translation>Inserir Clip Art</translation>
+        <translation type="obsolete">Inserir Clip Art</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Inserir Imagens Online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <translation>Inserir Imagem</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation>Inserir Imagem Online</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -5647,11 +7242,11 @@ Picture</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço Longo-Ponto</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Traço Longo Ponto Ponto</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -5691,27 +7286,35 @@ Picture</source>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para Baixo</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para a Esquerda</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para a Direita</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para Cima</translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation type="obsolete">Painel de Selecção</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>Imagem Online</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Imagens Online</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Destaque</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -5722,17 +7325,26 @@ Picture</source>
         <translation>Linhas com Padrão</translation>
     </message>
     <message>
+        <source>PicOrTexture</source>
+        <translation>Imagem ou Textura</translation>
+    </message>
+    <message>
         <source>Picture</source>
-        <translation>Imagem</translation>
+        <translation type="obsolete">Imagem</translation>
     </message>
     <message>
         <source>Picture
 Size</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Tamanho da
+Imagem</translation>
     </message>
     <message>
         <source>Picture Adjust</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Ajustar a Imagem</translation>
+    </message>
+    <message>
+        <source>Picture Effects</source>
+        <translation>Efeitos de Imagem</translation>
     </message>
     <message>
         <source>Picture Fill</source>
@@ -5740,7 +7352,7 @@ Size</source>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation type="obsolete">&quot;obsolete&quot;&gt;Contorno da Imagem</translation>
+        <translation type="unfinished">&quot;obsolete&quot;&gt;Contorno da Imagem</translation>
     </message>
     <message>
         <source>Picture Size</source>
@@ -5751,17 +7363,30 @@ Size</source>
         <translation>Estilos da Imagem</translation>
     </message>
     <message>
+        <source>Reflection</source>
+        <translation>Reflexo</translation>
+    </message>
+    <message>
         <source>Relative to Page</source>
+        <translation type="obsolete">Relativamente à Página</translation>
+    </message>
+    <message>
+        <source>Relative to Slide</source>
         <translation>Relativamente à Página</translation>
     </message>
     <message>
         <source>Reset
 Picture</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Repor
+Imagem</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="obsolete">&quot;obsolete&quot;&gt;Repor Imagem</translation>
+        <translation>Repor Imagem</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation>Repor Imagem e Tamanho</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -5782,11 +7407,12 @@ Picture</source>
     <message>
         <source>Selection
 Pane</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Painel de
+Seleção</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="obsolete">&quot;obsolete&quot;&gt;Painel de Selecção</translation>
+        <translation>Painel de Selecção</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -5806,7 +7432,7 @@ Pane</source>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Enviar para Trás</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -5814,12 +7440,17 @@ Pane</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation>Sombra</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ativar/Desativar
+Sombra</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -5827,7 +7458,7 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos de Sombra</translation>
     </message>
     <message>
         <source>Shadow On</source>
@@ -5835,7 +7466,7 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>Opções da Sombra</translation>
+        <translation type="obsolete">Opções da Sombra</translation>
     </message>
     <message>
         <source>Shadow Style</source>
@@ -5843,83 +7474,83 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow Style 1</source>
-        <translation>Estilo de Sombreado 1</translation>
+        <translation type="obsolete">Estilo de Sombreado 1</translation>
     </message>
     <message>
         <source>Shadow Style 10</source>
-        <translation>Estilo de Sombreado 10</translation>
+        <translation type="obsolete">Estilo de Sombreado 10</translation>
     </message>
     <message>
         <source>Shadow Style 11</source>
-        <translation>Estilo de Sombreado 11</translation>
+        <translation type="obsolete">Estilo de Sombreado 11</translation>
     </message>
     <message>
         <source>Shadow Style 12</source>
-        <translation>Estilo de Sombreado 12</translation>
+        <translation type="obsolete">Estilo de Sombreado 12</translation>
     </message>
     <message>
         <source>Shadow Style 13</source>
-        <translation>Estilo de Sombreado 13</translation>
+        <translation type="obsolete">Estilo de Sombreado 13</translation>
     </message>
     <message>
         <source>Shadow Style 14</source>
-        <translation>Estilo de Sombreado 14</translation>
+        <translation type="obsolete">Estilo de Sombreado 14</translation>
     </message>
     <message>
         <source>Shadow Style 15</source>
-        <translation>Estilo de Sombreado 15</translation>
+        <translation type="obsolete">Estilo de Sombreado 15</translation>
     </message>
     <message>
         <source>Shadow Style 16</source>
-        <translation>Estilo de Sombreado 16</translation>
+        <translation type="obsolete">Estilo de Sombreado 16</translation>
     </message>
     <message>
         <source>Shadow Style 17</source>
-        <translation>Estilo de Sombreado 17</translation>
+        <translation type="obsolete">Estilo de Sombreado 17</translation>
     </message>
     <message>
         <source>Shadow Style 18</source>
-        <translation>Estilo de Sombreado 18</translation>
+        <translation type="obsolete">Estilo de Sombreado 18</translation>
     </message>
     <message>
         <source>Shadow Style 19</source>
-        <translation>Estilo de Sombreado 19</translation>
+        <translation type="obsolete">Estilo de Sombreado 19</translation>
     </message>
     <message>
         <source>Shadow Style 2</source>
-        <translation>Estilo de Sombreado 2</translation>
+        <translation type="obsolete">Estilo de Sombreado 2</translation>
     </message>
     <message>
         <source>Shadow Style 20</source>
-        <translation>Estilo de Sombreado 20</translation>
+        <translation type="obsolete">Estilo de Sombreado 20</translation>
     </message>
     <message>
         <source>Shadow Style 3</source>
-        <translation>Estilo de Sombreado 3</translation>
+        <translation type="obsolete">Estilo de Sombreado 3</translation>
     </message>
     <message>
         <source>Shadow Style 4</source>
-        <translation>Estilo de Sombreado 4</translation>
+        <translation type="obsolete">Estilo de Sombreado 4</translation>
     </message>
     <message>
         <source>Shadow Style 5</source>
-        <translation>Estilo de Sombreado 5</translation>
+        <translation type="obsolete">Estilo de Sombreado 5</translation>
     </message>
     <message>
         <source>Shadow Style 6</source>
-        <translation>Estilo de Sombreado 6</translation>
+        <translation type="obsolete">Estilo de Sombreado 6</translation>
     </message>
     <message>
         <source>Shadow Style 7</source>
-        <translation>Estilo de Sombreado 7</translation>
+        <translation type="obsolete">Estilo de Sombreado 7</translation>
     </message>
     <message>
         <source>Shadow Style 8</source>
-        <translation>Estilo de Sombreado 8</translation>
+        <translation type="obsolete">Estilo de Sombreado 8</translation>
     </message>
     <message>
         <source>Shadow Style 9</source>
-        <translation>Estilo de Sombreado 9</translation>
+        <translation type="obsolete">Estilo de Sombreado 9</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
@@ -5936,6 +7567,18 @@ On/Off</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Cima</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Tamanho</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation>Contornos Suaves</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -5955,7 +7598,7 @@ On/Off</source>
     </message>
     <message>
         <source>Texture</source>
-        <translation>Textura</translation>
+        <translation type="obsolete">Textura</translation>
     </message>
     <message>
         <source>Through</source>
@@ -5982,21 +7625,567 @@ On/Off</source>
         <translation>Peso</translation>
     </message>
     <message>
+        <source>Width</source>
+        <translation>Largura</translation>
+    </message>
+    <message>
         <source>Wrap Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Moldar Texto</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Moldar Texto</translation>
     </message>
     <message>
         <source>Wrap Text@rainbow</source>
         <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
+        <source>Wrapping</source>
+        <translation>Moldagem</translation>
+    </message>
+    <message>
         <source>Wrapping Style</source>
-        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilo de Moldagem</translation>
+        <translation>Estilo de Moldagem</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_picturetools.Picture</name>
+    <message>
+        <source>Adjust</source>
+        <translation type="obsolete">Ajustar</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_picturetools_vml</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation>0,25 pt</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation>0,5 pt</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation>0,75 pt</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation>1 pt</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation>1,5 pt</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation>2,25 pt</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation>3 pt</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation>4,5 pt</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>Alinhar</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>Alinhar pela parte inferior</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>Alinhar ao Centro</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>Alinhar à Esquerda</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>Alinhar ao Meio</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>Alinhar à Direita</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>Alinhar pela parte superior</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation>Organizar</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>Automático</translation>
+    </message>
+    <message>
+        <source>Behind Text</source>
+        <translation>Atrás do texto</translation>
+    </message>
+    <message>
+        <source>Black and White</source>
+        <translation>Preto e Branco</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation>Trazer para a Frente</translation>
+    </message>
+    <message>
+        <source>Bring in Front of Text</source>
+        <translation>Colocar sobre o texto</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation>Trazer para a Frente</translation>
+    </message>
+    <message>
+        <source>Change Picture</source>
+        <translation>Alterar Imagem</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation>Clip Art</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation>Cor</translation>
+    </message>
+    <message>
+        <source>Compress Pictures</source>
+        <translation>Comprimir Imagens</translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation>Recortar</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation>Traço</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <translation>Traço-Ponto</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation>Estilo do tracejado</translation>
+    </message>
+    <message>
+        <source>Detailed Settings</source>
+        <translation>Opções Detalhadas</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>Distribuir na Horizontal</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>Distribuir na Vertical</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation>Altura Igual</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>Tamanho Igual</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation>Largura Igual</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation>Selecionador de cores</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation>Inverter na Horizontal</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation>Inverter na Vertical</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation>Formatar Objecto</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation>Rotação Livre</translation>
+    </message>
+    <message>
+        <source>From File</source>
+        <translation>Do Ficheiro</translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation>Do Scanner</translation>
+    </message>
+    <message>
+        <source>Gallery</source>
+        <translation>Galeria</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation>Gradação</translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <translation>Tons de Cinzento</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation>Grelha</translation>
+    </message>
+    <message>
+        <source>Gridlines</source>
+        <translation>Linhas da Grelha</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>Agrupar</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In Front of Text</source>
+        <translation>À Frente do Texto</translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation>Em Linha com o Texto</translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation>Inserir</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation>Inserir Clip Art</translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation>Inserir Imagem</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation>Inserir Imagem Online</translation>
+    </message>
+    <message>
+        <source>Less Brightness</source>
+        <translation>Menos Luminosidade</translation>
+    </message>
+    <message>
+        <source>Less Contrast</source>
+        <translation>Menos Contraste</translation>
+    </message>
+    <message>
+        <source>Line Style</source>
+        <translation>Estilo da Linha</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation>Traço longo</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <translation>Traço longo-ponto</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation>Traço longo-ponto-ponto</translation>
+    </message>
+    <message>
+        <source>More Brightness</source>
+        <translation>Mais Luminosidade</translation>
+    </message>
+    <message>
+        <source>More Contrast</source>
+        <translation>Mais Contraste</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation>Mais Cores de Preenchimento</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation>Mais Cores das Linhas</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation>Mais Linhas</translation>
+    </message>
+    <message>
+        <source>More Shadow Colors</source>
+        <translation>Mais Cores de Sombreado</translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation>Sem Sombreado</translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Down</source>
+        <translation>Deslocar Sombra para Baixo</translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation>Deslocar Sombra para a Esquerda</translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation>Deslocar Sombra para a Direita</translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation>Deslocar Sombra para Cima</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>Imagem Online</translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation>Padrão</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation>Linhas com Padrão</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>Imagem</translation>
+    </message>
+    <message>
+        <source>Picture Adjust</source>
+        <translation>&quot;obsolete&quot;&gt;Ajustar a Imagem</translation>
+    </message>
+    <message>
+        <source>Picture Fill</source>
+        <translation>Preencher a Imagem</translation>
+    </message>
+    <message>
+        <source>Picture Outline</source>
+        <translation>&quot;obsolete&quot;&gt;Contorno da Imagem</translation>
+    </message>
+    <message>
+        <source>Picture Styles</source>
+        <translation>Estilos da Imagem</translation>
+    </message>
+    <message>
+        <source>PictureSize</source>
+        <translation>Tamanho da Imagem</translation>
+    </message>
+    <message>
+        <source>Relative to Page</source>
+        <translation>Relativamente à Página</translation>
+    </message>
+    <message>
+        <source>Reset Picture</source>
+        <translation>Repor Imagem</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation>Repor Imagem e Tamanho</translation>
+    </message>
+    <message>
+        <source>Rotate </source>
+        <translation>Rodar</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation>Rodar 90º à Esquerda</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation>Rodar 90º à Direita</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation>Pontos redondos</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation>Painel de Selecção</translation>
+    </message>
+    <message>
+        <source>Semitransparent Shadow</source>
+        <translation>Sombreado Semi-Transparente</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation>Enviar Para Segundo Plano</translation>
+    </message>
+    <message>
+        <source>Send Behind Text</source>
+        <translation>Colocar por Detrás do Texto</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation>Enviar para Trás</translation>
+    </message>
+    <message>
+        <source>Set Transparent Color</source>
+        <translation>Escolher Cor Transparente</translation>
+    </message>
+    <message>
+        <source>Shadow Color</source>
+        <translation>Cor da Sombra</translation>
+    </message>
+    <message>
+        <source>Shadow On</source>
+        <translation>Mostrar Sombra</translation>
+    </message>
+    <message>
+        <source>Shadow Setting</source>
+        <translation>Definições de Sombra</translation>
+    </message>
+    <message>
+        <source>Shadow Style</source>
+        <translation>Estilo do Sombreado</translation>
+    </message>
+    <message>
+        <source>Shadow Style 1</source>
+        <translation>Estilo do Sombreado 1</translation>
+    </message>
+    <message>
+        <source>Shadow Style 10</source>
+        <translation>Estilo do Sombreado 10</translation>
+    </message>
+    <message>
+        <source>Shadow Style 11</source>
+        <translation>Estilo do Sombreado 11</translation>
+    </message>
+    <message>
+        <source>Shadow Style 12</source>
+        <translation>Estilo do Sombreado 12</translation>
+    </message>
+    <message>
+        <source>Shadow Style 13</source>
+        <translation>Estilo do Sombreado 13</translation>
+    </message>
+    <message>
+        <source>Shadow Style 14</source>
+        <translation>Estilo do Sombreado 14</translation>
+    </message>
+    <message>
+        <source>Shadow Style 15</source>
+        <translation>Estilo do Sombreado 15</translation>
+    </message>
+    <message>
+        <source>Shadow Style 16</source>
+        <translation>Estilo do Sombreado 16</translation>
+    </message>
+    <message>
+        <source>Shadow Style 17</source>
+        <translation>Estilo do Sombreado 17</translation>
+    </message>
+    <message>
+        <source>Shadow Style 18</source>
+        <translation>Estilo do Sombreado 18</translation>
+    </message>
+    <message>
+        <source>Shadow Style 19</source>
+        <translation>Estilo do Sombreado 19</translation>
+    </message>
+    <message>
+        <source>Shadow Style 2</source>
+        <translation>Estilo do Sombreado 2</translation>
+    </message>
+    <message>
+        <source>Shadow Style 20</source>
+        <translation>Estilo do Sombreado 20</translation>
+    </message>
+    <message>
+        <source>Shadow Style 3</source>
+        <translation>Estilo do Sombreado 3</translation>
+    </message>
+    <message>
+        <source>Shadow Style 4</source>
+        <translation>Estilo do Sombreado 4</translation>
+    </message>
+    <message>
+        <source>Shadow Style 5</source>
+        <translation>Estilo do Sombreado 5</translation>
+    </message>
+    <message>
+        <source>Shadow Style 6</source>
+        <translation>Estilo do Sombreado 6</translation>
+    </message>
+    <message>
+        <source>Shadow Style 7</source>
+        <translation>Estilo do Sombreado 7</translation>
+    </message>
+    <message>
+        <source>Shadow Style 8</source>
+        <translation>Estilo do Sombreadoa 8</translation>
+    </message>
+    <message>
+        <source>Shadow Style 9</source>
+        <translation>Estilo do Sombreado 9</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation>Sólido</translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation>Quadrado</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation>Ponto Quadrado</translation>
+    </message>
+    <message>
+        <source>Texture</source>
+        <translation>Textura</translation>
+    </message>
+    <message>
+        <source>Through</source>
+        <translation>Através</translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <translation>Justo</translation>
+    </message>
+    <message>
+        <source>Top and Bottom</source>
+        <translation>Superior e inferior</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>Desagrupar</translation>
+    </message>
+    <message>
+        <source>Washout</source>
+        <translation>Semitransparente</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation>Moldar Texto</translation>
     </message>
 </context>
 <context>
@@ -6053,8 +8242,12 @@ On/Off</source>
         <translation>Referência Cruzada</translation>
     </message>
     <message>
+        <source>Envelopes</source>
+        <translation type="obsolete">Envelopes</translation>
+    </message>
+    <message>
         <source>Footnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nota de rodapé</translation>
     </message>
     <message>
         <source>Footnote/Endnote
@@ -6063,7 +8256,7 @@ Separator</source>
     </message>
     <message>
         <source>Footnote/Endnote Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Separador de Notas de Rodapé/Notas de Fim</translation>
     </message>
     <message>
         <source>Footnotes</source>
@@ -6071,15 +8264,15 @@ Separator</source>
     </message>
     <message>
         <source>Footnotes and Endnotes</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Notas de Rodapé e Notas de Fim</translation>
     </message>
     <message>
         <source>Insert Endnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Nota de Fim</translation>
     </message>
     <message>
         <source>Insert Footnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Nota de Rodapé</translation>
     </message>
     <message>
         <source>Insert Footnote/Endnote</source>
@@ -6087,7 +8280,7 @@ Separator</source>
     </message>
     <message>
         <source>Insert TOC</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Índice</translation>
     </message>
     <message>
         <source>Insert ToC</source>
@@ -6135,15 +8328,15 @@ Separator</source>
     </message>
     <message>
         <source>Mailings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Correio</translation>
     </message>
     <message>
         <source>Next Endnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nota de Fim Seguinte</translation>
     </message>
     <message>
         <source>Next Footnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nota de Rodapé Seguinte</translation>
     </message>
     <message>
         <source>Next Footnote/Endnote</source>
@@ -6151,15 +8344,15 @@ Separator</source>
     </message>
     <message>
         <source>Previous Endnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nota de Fim Anterior</translation>
     </message>
     <message>
         <source>Previous Footnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nota de Rodapé Anterior</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
@@ -6167,7 +8360,7 @@ Separator</source>
     </message>
     <message>
         <source>Show Or Hide Footnote/Endnote Separator</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar ou Ocultar Separador de Nota de Rodapé/Nota de Fim</translation>
     </message>
     <message>
         <source>Show or Hide Footnote/Endnote Separator</source>
@@ -6175,7 +8368,7 @@ Separator</source>
     </message>
     <message>
         <source>TOC Level</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nível no Índice</translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -6187,7 +8380,7 @@ Separator</source>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Atualizar Índice</translation>
     </message>
     <message>
         <source>Update ToC</source>
@@ -6222,7 +8415,7 @@ Separator</source>
     </message>
     <message>
         <source>Change User Name...</source>
-        <translation>Mudar Nome de Utilizador</translation>
+        <translation>Mudar Nome de Utilizador...</translation>
     </message>
     <message>
         <source>Change and Comment</source>
@@ -6234,7 +8427,7 @@ Separator</source>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversão</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -6242,7 +8435,7 @@ Separator</source>
     </message>
     <message>
         <source>Compare</source>
-        <translation type="unfinished"></translation>
+        <translation>Comparar</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -6259,7 +8452,8 @@ Separator</source>
     <message>
         <source>Delete 
 Comment</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar 
+Comentário</translation>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
@@ -6275,11 +8469,11 @@ Comment</source>
     </message>
     <message>
         <source>Display for Review</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar para Revisão</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar Marcação Final;Final;Mostrar Marcação Original;Original</translation>
     </message>
     <message>
         <source>Insert Comment</source>
@@ -6292,7 +8486,8 @@ Comment</source>
     <message>
         <source>New
 Comment</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Novo
+Comentário</translation>
     </message>
     <message>
         <source>Next</source>
@@ -6348,19 +8543,19 @@ Comment</source>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Painel de Revisão</translation>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Painel de Revisão Horizontal</translation>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Painel de Revisão Vertical</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>Mostrar</translation>
+        <translation type="obsolete">Mostrar</translation>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
@@ -6368,27 +8563,35 @@ Comment</source>
     </message>
     <message>
         <source>Show Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Autor</translation>
     </message>
     <message>
         <source>Show Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Comentários</translation>
     </message>
     <message>
         <source>Show Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Data</translation>
     </message>
     <message>
         <source>Show Format Change</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Mostrar Alteração de Formato</translation>
+    </message>
+    <message>
+        <source>Show Formatting</source>
+        <translation>Mostrar Formatação</translation>
     </message>
     <message>
         <source>Show Insertions and Deletions</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Inserções e Eliminações</translation>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Mostrar no Balão a Informação Sobre o Revisor</translation>
+    </message>
+    <message>
+        <source>Show Reviewers</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -6396,20 +8599,21 @@ Comment</source>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar Informações do Revisor em Balões</translation>
     </message>
     <message>
         <source>Show Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Hora</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Verificação Ortográfica</translation>
     </message>
     <message>
         <source>Track
 Changes</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Registar 
+Alterações</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -6417,11 +8621,15 @@ Changes</source>
     </message>
     <message>
         <source>Track Changes Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções do Registo de Alterações...</translation>
     </message>
     <message>
         <source>Tracking</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Registo</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation>Tradução</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -6430,7 +8638,8 @@ Changes</source>
     <message>
         <source>Word
 Count</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Contar
+Palavras</translation>
     </message>
     <message>
         <source>Word Count</source>
@@ -6446,7 +8655,8 @@ Count</source>
     <message>
         <source>Contents
 Page</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Página de
+Conteúdo</translation>
     </message>
     <message>
         <source>Contents Page</source>
@@ -6459,7 +8669,8 @@ Page</source>
     <message>
         <source>Cover
 Pages</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Folhas de
+Rosto</translation>
     </message>
     <message>
         <source>Cover Pages</source>
@@ -6467,7 +8678,7 @@ Pages</source>
     </message>
     <message>
         <source>Cover and TOC</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Capa e Índice</translation>
     </message>
     <message>
         <source>Cover and ToC</source>
@@ -6476,7 +8687,8 @@ Pages</source>
     <message>
         <source>Delete
 Section</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar
+Secção</translation>
     </message>
     <message>
         <source>Delete Section</source>
@@ -6500,16 +8712,17 @@ Section</source>
     </message>
     <message>
         <source>Header Line Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor da Linha do Cabeçalho</translation>
     </message>
     <message>
         <source>Header and
 Footer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cabeçalho e 
+Rodapé</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cabeçalho e Rodapé</translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -6541,11 +8754,11 @@ Footer</source>
     </message>
     <message>
         <source>Locate to Section</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Localizar na Secção</translation>
     </message>
     <message>
         <source>More Colors</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mais Cores</translation>
     </message>
     <message>
         <source>More Columns</source>
@@ -6578,7 +8791,8 @@ Footer</source>
     <message>
         <source>Page
 Number</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Número de
+Página</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -6587,7 +8801,8 @@ Number</source>
     <message>
         <source>Page Number
 Format</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Formato dos Números de
+Página</translation>
     </message>
     <message>
         <source>Page Number Format</source>
@@ -6616,11 +8831,12 @@ Format</source>
     <message>
         <source>Section
 Navigation</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Navegação por
+Secção</translation>
     </message>
     <message>
         <source>Section Management</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gestão de Secções</translation>
     </message>
     <message>
         <source>Section Manager</source>
@@ -6632,12 +8848,13 @@ Navigation</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
     </message>
     <message>
         <source>Show
 Header Line</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar
+Linha do Cabeçalho</translation>
     </message>
     <message>
         <source>Show / Hide Section Navigation</source>
@@ -6653,12 +8870,13 @@ Header Line</source>
     </message>
     <message>
         <source>Show/Hide Section Navigation</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar/Ocultar Navegação na Secção</translation>
     </message>
     <message>
         <source>Split
 Section</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Dividir
+Secção</translation>
     </message>
     <message>
         <source>Split Section</source>
@@ -6690,22 +8908,26 @@ Section</source>
     <message>
         <source>3-D
 Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor
+3D</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos
+3D</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ativar/Desativar
+3D</translation>
     </message>
     <message>
         <source>3-D 
 Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos
+3D</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -6833,7 +9055,7 @@ Effects</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -6873,19 +9095,19 @@ Effects</source>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para Baixo</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para a Esquerda</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para a Direita</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para Cima</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -6906,23 +9128,26 @@ Effects</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor da
+Sombra</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos de
+Sombra</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation>Sombra
-Ligar/Desligar</translation>
+        <translation>Ativar/Desativar
+Sombra</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos de
+Sombra</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -7037,6 +9262,10 @@ Effects</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Cima</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
+    </message>
+    <message>
         <source>Surface</source>
         <translation>Superficie</translation>
     </message>
@@ -7113,11 +9342,11 @@ Effects</source>
     </message>
     <message>
         <source>AutoFit</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ajustar Automaticamente</translation>
     </message>
     <message>
         <source>AutoFit to Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar Automaticamente ao Conteúdo</translation>
     </message>
     <message>
         <source>AutoFit to Window</source>
@@ -7157,19 +9386,19 @@ Effects</source>
     </message>
     <message>
         <source>Delete Cells</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar Células</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar Colunas</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar Linhas</translation>
     </message>
     <message>
         <source>Delete Table</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar Tabela</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -7189,7 +9418,7 @@ Effects</source>
     </message>
     <message>
         <source>Emphasis Mark</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Marca de Ênfase</translation>
     </message>
     <message>
         <source>EmphasisMark</source>
@@ -7201,7 +9430,7 @@ Effects</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -7209,19 +9438,19 @@ Effects</source>
     </message>
     <message>
         <source>Font</source>
-        <translation>Fonte</translation>
+        <translation>Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>Cor da Fonte</translation>
+        <translation>Cor do Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Name</source>
-        <translation>Nome da Fonte</translation>
+        <translation>Nome do Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Tamanho da Fonte</translation>
+        <translation>Tamanho do Tipo de Letra</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -7269,7 +9498,7 @@ Effects</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mais Cores das Fontes</translation>
+        <translation>Mais Cores de Tipo de Letra</translation>
     </message>
     <message>
         <source>More UnderLine Colors</source>
@@ -7281,7 +9510,7 @@ Effects</source>
     </message>
     <message>
         <source>Repeat Header Rows</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Repetir Linhas de Cabeçalho</translation>
     </message>
     <message>
         <source>Repeat Headings</source>
@@ -7293,7 +9522,7 @@ Effects</source>
     </message>
     <message>
         <source>Rows and Columns</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Linhas e Colunas</translation>
     </message>
     <message>
         <source>Rows/Columns</source>
@@ -7324,6 +9553,10 @@ Effects</source>
         <translation>Seleccionar Tabela com Limite Tracejado</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
+    </message>
+    <message>
         <source>Split
 Cells</source>
         <translation>Dividir
@@ -7351,7 +9584,7 @@ Células</translation>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Rasurado</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -7380,7 +9613,7 @@ Direction</source>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="unfinished">&quot;obsolete&quot;&gt;Direcção do Texto</translation>
+        <translation>Orientação do Texto</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
@@ -7396,11 +9629,86 @@ Direction</source>
     </message>
     <message>
         <source>Underline Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor de Sublinhado</translation>
     </message>
     <message>
         <source>View Gridlines</source>
         <translation>Ver Linhas de Grelha</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_texttool</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation type="obsolete">0,25 pt</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="obsolete">0,5 pt</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="obsolete">0,75 pt</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="obsolete">1 pt</translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation type="obsolete">1,0</translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation type="obsolete">1,5</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="obsolete">1,5 pt</translation>
+    </message>
+    <message>
+        <source>2.0</source>
+        <translation type="obsolete">2,0</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="obsolete">2,25 pt</translation>
+    </message>
+    <message>
+        <source>2.5</source>
+        <translation type="obsolete">2,5</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="obsolete">3 pt</translation>
+    </message>
+    <message>
+        <source>3.0</source>
+        <translation type="obsolete">3,0</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="obsolete">4,5 pt</translation>
+    </message>
+    <message>
+        <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translation type="obsolete">5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation type="obsolete">Alinhar</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="obsolete">Fonte</translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation type="obsolete">Tamanho da Fonte</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
 </context>
 <context>
@@ -7411,12 +9719,13 @@ Direction</source>
     </message>
     <message>
         <source>Add-Ins</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Suplementos</translation>
     </message>
     <message>
         <source>Arrange
 All</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Dispor
+Tudo</translation>
     </message>
     <message>
         <source>Arrange All</source>
@@ -7425,7 +9734,8 @@ All</source>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Suplementos
+COM</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -7446,13 +9756,18 @@ Outras Janelas</translation>
         <translation>Fechar Janela</translation>
     </message>
     <message>
+        <source>Compare</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Developer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Programador</translation>
     </message>
     <message>
         <source>Document
 Map</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mapa do
+Documento</translation>
     </message>
     <message>
         <source>Document Map</source>
@@ -7464,16 +9779,17 @@ Map</source>
     </message>
     <message>
         <source>Document Views</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Vistas de documento</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modo de Proteção dos Olhos</translation>
     </message>
     <message>
         <source>Full 
 Screen</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ecrã 
+Inteiro</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -7485,7 +9801,7 @@ Screen</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
@@ -7501,7 +9817,7 @@ Screen</source>
     </message>
     <message>
         <source>Markup</source>
-        <translation>&quot;Marcações&quot;</translation>
+        <translation>Marcações</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
@@ -7510,11 +9826,16 @@ Screen</source>
     <message>
         <source>New
 Window</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nova
+Janela</translation>
     </message>
     <message>
         <source>New Window</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Nova Janela</translation>
+    </message>
+    <message>
+        <source>Night Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>One Page</source>
@@ -7539,7 +9860,8 @@ Window</source>
     <message>
         <source>Print 
 Layout</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Esquema de 
+Impressão</translation>
     </message>
     <message>
         <source>Print Layout</source>
@@ -7576,7 +9898,8 @@ Layout</source>
     <message>
         <source>Switch
 Window</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mudar de
+Janela</translation>
     </message>
     <message>
         <source>Switch Window</source>
@@ -7588,7 +9911,7 @@ Window</source>
     </message>
     <message>
         <source>Table Gridlines</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Linhas de Grelha da Tabela</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -7600,7 +9923,7 @@ Window</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>Vertical Arrange</source>
@@ -7609,11 +9932,12 @@ Window</source>
     <message>
         <source>View
 Side by Side</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ver
+Lado a Lado</translation>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ver Linhas de Grelha</translation>
     </message>
     <message>
         <source>View Side by Side</source>
@@ -7653,17 +9977,20 @@ Side by Side</source>
     <message>
         <source>3-D
 Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor
+3D</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos
+3D</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ativar/Desativar
+3D</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -7791,7 +10118,7 @@ On/Off</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -7831,19 +10158,19 @@ On/Off</source>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para Baixo</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para a Esquerda</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para a Direita</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para Cima</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -7864,23 +10191,26 @@ On/Off</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor da
+Sombra</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos de
+Sombra</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation>Sombra
-Ligar/Desligar</translation>
+        <translation>Ativar/Desativar
+Sombra</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos de
+Sombra</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -7995,6 +10325,10 @@ Effects</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Cima</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
+    </message>
+    <message>
         <source>Surface</source>
         <translation>Superficie</translation>
     </message>
@@ -8023,15 +10357,15 @@ Effects</source>
     <name>ongmani.ct_wordart</name>
     <message>
         <source>0.25 pt</source>
-        <translation>0.25 pt</translation>
+        <translation>0,25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation>0.5 pt</translation>
+        <translation>0,5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>0.75 pt</translation>
+        <translation>0,75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
@@ -8039,11 +10373,11 @@ Effects</source>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation>1.5 pt</translation>
+        <translation>1,5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>2.25 pt</translation>
+        <translation>2,25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
@@ -8052,8 +10386,8 @@ Effects</source>
     <message>
         <source>3-D
 On</source>
-        <translation>3-D
-Ligado</translation>
+        <translation>Ativar
+3D</translation>
     </message>
     <message>
         <source>3-D On</source>
@@ -8097,7 +10431,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Alinhamento</translation>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
@@ -8145,19 +10479,19 @@ Ligado</translation>
     </message>
     <message>
         <source>Button (Curve)</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Botão (Curvar)</translation>
     </message>
     <message>
         <source>Button (Pour)</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Botão (Decantar)</translation>
     </message>
     <message>
         <source>Can Down</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Rótulo para Baixo</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Rótulo para Cima</translation>
     </message>
     <message>
         <source>Cascade Down</source>
@@ -8169,7 +10503,7 @@ Ligado</translation>
     </message>
     <message>
         <source>Center Align</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Alinhar ao Centro</translation>
     </message>
     <message>
         <source>Center Alignment</source>
@@ -8178,7 +10512,8 @@ Ligado</translation>
     <message>
         <source>Character 
 Spacing</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Espaçamento entre 
+Carateres</translation>
     </message>
     <message>
         <source>Chevron Down</source>
@@ -8214,7 +10549,7 @@ Spacing</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço-Ponto</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -8270,7 +10605,7 @@ Spacing</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Altura Igual</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -8278,7 +10613,7 @@ Spacing</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Largura Igual</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -8306,7 +10641,7 @@ Spacing</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Preenchimento</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -8330,7 +10665,7 @@ Spacing</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gradação</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -8370,7 +10705,7 @@ Spacing</source>
     </message>
     <message>
         <source>Left Align</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Alinhamento à Esquerda</translation>
     </message>
     <message>
         <source>Left Alignment</source>
@@ -8378,7 +10713,7 @@ Spacing</source>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Letra Justificada</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -8386,11 +10721,11 @@ Spacing</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço Longo-Ponto</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço Longo Ponto Ponto</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -8426,7 +10761,7 @@ Spacing</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Destaque</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -8450,7 +10785,7 @@ Spacing</source>
     </message>
     <message>
         <source>Right Align</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Alinhamento à Direita</translation>
     </message>
     <message>
         <source>Right Alignment</source>
@@ -8458,11 +10793,11 @@ Spacing</source>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Anel por Dentro</translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Anel por Fora</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -8482,11 +10817,11 @@ Spacing</source>
     </message>
     <message>
         <source>Same Letter Heights</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Letras com a Mesma Altura</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Painel de Seleção</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -8502,11 +10837,11 @@ Spacing</source>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Enviar para Trás</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
     </message>
     <message>
         <source>Shadow On</source>
@@ -8519,6 +10854,10 @@ Spacing</source>
     <message>
         <source>Slant Up</source>
         <translation>Enclinar para Cima</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -8538,7 +10877,7 @@ Spacing</source>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Esticar Justificado</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -8559,12 +10898,12 @@ Spacing</source>
     <message>
         <source>Tight</source>
         <comment>Spacing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Justo</translation>
     </message>
     <message>
         <source>Tight</source>
         <comment>Wrapping</comment>
-        <translation type="unfinished"></translation>
+        <translation>Justo</translation>
     </message>
     <message>
         <source>Tight@Spacing</source>
@@ -8592,7 +10931,7 @@ Spacing</source>
     </message>
     <message>
         <source>Vertical Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Texto Vertical</translation>
     </message>
     <message>
         <source>Very Loose</source>
@@ -8625,12 +10964,13 @@ Spacing</source>
     <message>
         <source>WordArt</source>
         <comment>Insert</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>WordArt
 Gallery</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Galeria de
+WordArt</translation>
     </message>
     <message>
         <source>WordArt
@@ -8640,7 +10980,8 @@ Size</source>
     <message>
         <source>WordArt 
 Shape</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Forma do 
+WordArt</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
@@ -8672,7 +11013,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="unfinished">&quot;obsolete&quot;&gt;Tamanho do WordArt</translation>
+        <translation>Tamanho do WordArt</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -8688,12 +11029,12 @@ Shape</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Moldar Texto</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Moldar Texto</translation>
     </message>
     <message>
         <source>Wrap Text@rainbow</source>
@@ -8712,7 +11053,7 @@ Shape</source>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ligação de Nuvem</translation>
     </message>
     <message>
         <source>Cloud feedback</source>
@@ -8720,11 +11061,19 @@ Shape</source>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Desativar Cópia de Segurança Automática</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation>Entrada Docer</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ativar Cópia de Segurança Automática</translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
@@ -8740,10 +11089,14 @@ Shape</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar para PDF</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
+        <translation type="obsolete">Modo de Proteção dos Olhos</translation>
+    </message>
+    <message>
+        <source>Feedback and Support</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8752,23 +11105,23 @@ Shape</source>
     </message>
     <message>
         <source>File Backup</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cópia de Segurança de Ficheiros</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Roaming de Ficheiros</translation>
     </message>
     <message>
         <source>Guide</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Guia</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ajuda</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ajudar-nos a melhorar o WPS Office</translation>
     </message>
     <message>
         <source>KOS My account</source>
@@ -8800,7 +11153,7 @@ Shape</source>
     </message>
     <message>
         <source>More from Microblog</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mais do Microblogue</translation>
     </message>
     <message>
         <source>Not Logged in</source>
@@ -8808,7 +11161,7 @@ Shape</source>
     </message>
     <message>
         <source>Online Documents</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Documentos Online</translation>
     </message>
     <message>
         <source>Open from Cloud</source>
@@ -8816,7 +11169,11 @@ Shape</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Abrir a partir dos Documentos na Nuvem</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="obsolete">PDF para Word</translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
@@ -8824,15 +11181,15 @@ Shape</source>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Guardar nos Documentos na Nuvem</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Partilhar no Microblogue</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Partilhar na Página Web do Microblogue</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -8840,19 +11197,23 @@ Shape</source>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funcionalidades Especiais</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Parar Cópia de Segurança Automática</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="obsolete">Texto em Voz</translation>
+    </message>
+    <message>
         <source>Text Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferramentas de Texto</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="unfinished">Comentários do Utilizador</translation>
     </message>
     <message>
         <source>User Guide</source>
@@ -8860,15 +11221,15 @@ Shape</source>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ver Ficheiros em Segurança</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ver Cópia de Segurança do Histórico</translation>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Esquema Microblogue do WPS</translation>
     </message>
     <message>
         <source>WPS Permit</source>
@@ -8884,70 +11245,141 @@ Shape</source>
     </message>
 </context>
 <context>
+    <name>ongmani.proxycommands</name>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation>Texto Completo em Voz</translation>
+    </message>
+    <message>
+        <source>Output Voice</source>
+        <translation>Voz de Saída</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation>PDF para Word</translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation>Voz de Seleção</translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation>Mostrar Barra de Ferramentas</translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation>Texto em Voz</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation>Tradução</translation>
+    </message>
+</context>
+<context>
     <name>popupmenu</name>
+    <message>
+        <source>&amp;Personal Center</source>
+        <translation type="obsolete">Centro &amp;Pessoal</translation>
+    </message>
     <message>
         <source>0 More Histories</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;0 Histórico</translation>
     </message>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0,25 pt</translation>
+    </message>
+    <message>
+        <source>0.25 pt.</source>
+        <translation type="obsolete">0,25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0,5 pt</translation>
+    </message>
+    <message>
+        <source>0.5 pt.</source>
+        <translation type="obsolete">0,5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0,75 pt</translation>
+    </message>
+    <message>
+        <source>0.75 pt.</source>
+        <translation type="obsolete">0,75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 pt</translation>
+    </message>
+    <message>
+        <source>1 pt.</source>
+        <translation type="obsolete">1 pt</translation>
     </message>
     <message>
         <source>1.0</source>
-        <translation type="unfinished"></translation>
+        <translation>1,0</translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation type="unfinished"></translation>
+        <translation>1,5</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1,5 pt</translation>
+    </message>
+    <message>
+        <source>1.5 pt.</source>
+        <translation type="obsolete">1,5 pt</translation>
     </message>
     <message>
         <source>2.0</source>
-        <translation type="unfinished"></translation>
+        <translation>2,0</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2,25 pt</translation>
+    </message>
+    <message>
+        <source>2.25 pt.</source>
+        <translation type="obsolete">2,25 pt</translation>
     </message>
     <message>
         <source>2.5</source>
-        <translation type="unfinished"></translation>
+        <translation>2,5</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 pt</translation>
+    </message>
+    <message>
+        <source>3 pt.</source>
+        <translation type="obsolete">3 pt</translation>
     </message>
     <message>
         <source>3.0</source>
-        <translation type="unfinished"></translation>
+        <translation>3,0</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4,5 pt</translation>
+    </message>
+    <message>
+        <source>4.5 pt.</source>
+        <translation type="obsolete">4,5 pt</translation>
     </message>
     <message>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
-        <translation type="unfinished"></translation>
+        <translation>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pt</translation>
+    </message>
+    <message>
+        <source>6 pt.</source>
+        <translation type="obsolete">6 pt</translation>
     </message>
     <message>
         <source>About Kingsoft Writer</source>
@@ -8955,11 +11387,19 @@ Shape</source>
     </message>
     <message>
         <source>About WPS Writer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Acerca do WPS Writer</translation>
+    </message>
+    <message>
+        <source>Above</source>
+        <translation>Acima</translation>
+    </message>
+    <message>
+        <source>Above Chart</source>
+        <translation>Acima do Gráfico</translation>
     </message>
     <message>
         <source>Accept Change</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Aceitar Alteração</translation>
     </message>
     <message>
         <source>Accept Deletion</source>
@@ -8979,7 +11419,23 @@ Shape</source>
     </message>
     <message>
         <source>Activate WPS Office</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ativar o WPS Office</translation>
+    </message>
+    <message>
+        <source>Add Axis</source>
+        <translation>Adicionar Eixo</translation>
+    </message>
+    <message>
+        <source>Add Data Label</source>
+        <translation>Rótulos de Dados</translation>
+    </message>
+    <message>
+        <source>Add Major Gridlines</source>
+        <translation>Adicionar Linhas de Grelha Principais</translation>
+    </message>
+    <message>
+        <source>Add Minor Gridlines</source>
+        <translation>Adicionar Linhas de Grelha Secundárias</translation>
     </message>
     <message>
         <source>Add Point</source>
@@ -8990,92 +11446,100 @@ Shape</source>
         <translation>Adicionar Texto</translation>
     </message>
     <message>
+        <source>Add Trendline</source>
+        <translation>Adicionar Linha de Tendência</translation>
+    </message>
+    <message>
         <source>Add to Dictionary</source>
         <translation>Adicionar ao Dicionário</translation>
     </message>
     <message>
         <source>Add-Ins</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Suplementos</translation>
+    </message>
+    <message>
+        <source>AddChartElements</source>
+        <translation>Adicionar Elemento do Gráfico</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhar</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhar à Parte Inferior</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhar ao Centro</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhar à Esquerda</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhar ao Meio</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhar à Direita</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhar à Parte Superior</translation>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os Limites</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de Seta</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de Seta 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de Seta 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de Seta 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de Seta 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de Seta 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de Seta 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de Seta 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de Seta 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de Seta 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de Seta 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de Seta 9</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -9091,7 +11555,7 @@ Shape</source>
     </message>
     <message>
         <source>AutoFit to Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar Automaticamente ao Conteúdo</translation>
     </message>
     <message>
         <source>AutoFit to Window</source>
@@ -9099,15 +11563,23 @@ Shape</source>
     </message>
     <message>
         <source>AutoPoint</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ponto Automático</translation>
     </message>
     <message>
         <source>Average</source>
         <translation>Média</translation>
     </message>
     <message>
+        <source>Axes</source>
+        <translation>Eixos</translation>
+    </message>
+    <message>
+        <source>Axis Title</source>
+        <translation>Título do Eixo</translation>
+    </message>
+    <message>
         <source>Background</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Fundo</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -9115,7 +11587,15 @@ Shape</source>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Atrás do Texto</translation>
+    </message>
+    <message>
+        <source>Below</source>
+        <translation>Abaixo</translation>
+    </message>
+    <message>
+        <source>BestFit</source>
+        <translation>Ajuste automático</translation>
     </message>
     <message>
         <source>Blank Page</source>
@@ -9123,19 +11603,27 @@ Shape</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Negrito</translation>
+    </message>
+    <message>
+        <source>Bold Square-Hollow Bullets</source>
+        <translation>Marcas Quadradas em Negrito Vazias</translation>
     </message>
     <message>
         <source>Border and shading</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Limites e sombreado</translation>
     </message>
     <message>
         <source>Borders and Shading</source>
         <translation>Limites e Sombreado</translation>
     </message>
     <message>
+        <source>Bottom</source>
+        <translation>Inferior</translation>
+    </message>
+    <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Limite Inferior</translation>
     </message>
     <message>
         <source>Break</source>
@@ -9143,11 +11631,11 @@ Shape</source>
     </message>
     <message>
         <source>Break Forward Link</source>
-        <translation>&quot;Quebra da Ligação Seguinte&quot;</translation>
+        <translation>Quebra da Ligação Seguinte</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Quebras</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -9163,7 +11651,7 @@ Shape</source>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcas de Lista</translation>
     </message>
     <message>
         <source>Bullets and Numbering</source>
@@ -9172,7 +11660,8 @@ Shape</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Suplementos
+COM</translation>
     </message>
     <message>
         <source>COM AddIns</source>
@@ -9203,16 +11692,24 @@ Add-Ins</source>
         <translation>Células</translation>
     </message>
     <message>
+        <source>Center</source>
+        <translation>Centrar</translation>
+    </message>
+    <message>
         <source>Center Tab</source>
-        <translation>&quot;Centrar Separador&quot;</translation>
+        <translation>Centrar Separador</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Centrado</translation>
+    </message>
+    <message>
+        <source>Centered Overlay</source>
+        <translation>Sobreposição Centrada</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation type="unfinished">&quot;obsolete&quot;&gt;Mudar de Conta</translation>
+        <translation type="obsolete">Alterar Conta</translation>
     </message>
     <message>
         <source>Change Accout</source>
@@ -9220,15 +11717,27 @@ Add-Ins</source>
     </message>
     <message>
         <source>Change Case</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Maiúsculas/Minúsculas</translation>
+    </message>
+    <message>
+        <source>Change Chart Type</source>
+        <translation>Alterar Tipo de Gráfico</translation>
+    </message>
+    <message>
+        <source>Change DataLabel Geometry</source>
+        <translation>Alterar Forma da Etiqueta de Dados</translation>
     </message>
     <message>
         <source>Change Picture</source>
         <translation>Alterar Imagem</translation>
     </message>
     <message>
+        <source>Change Series Chart Type</source>
+        <translation>Alterar Tipo de Gráfico de Série</translation>
+    </message>
+    <message>
         <source>Change Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar Formas</translation>
     </message>
     <message>
         <source>Change User Information</source>
@@ -9239,8 +11748,32 @@ Add-Ins</source>
         <translation>Alterar Versão</translation>
     </message>
     <message>
+        <source>Character Shading</source>
+        <translation>Sombreado do Caráter</translation>
+    </message>
+    <message>
         <source>Chart</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gráfico</translation>
+    </message>
+    <message>
+        <source>Chart Elements</source>
+        <translation>Elementos do Gráfico</translation>
+    </message>
+    <message>
+        <source>Chart Filters</source>
+        <translation>Filtros de Gráfico</translation>
+    </message>
+    <message>
+        <source>Chart Objects</source>
+        <translation>Objetos do Gráfico</translation>
+    </message>
+    <message>
+        <source>Chart Styles</source>
+        <translation>Estilos de Gráfico</translation>
+    </message>
+    <message>
+        <source>Chart Title</source>
+        <translation>Título do Gráfico</translation>
     </message>
     <message>
         <source>Check Spelling As You Type</source>
@@ -9248,11 +11781,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Procurar Atualizações</translation>
     </message>
     <message>
         <source>Chinese Transition</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Transição Chinesa</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
@@ -9260,7 +11793,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>&quot;Clip Art&quot;</translation>
+        <translation>Clip Art</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -9280,7 +11813,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Close Path</source>
-        <translation>&quot;Fechar Caminho&quot;</translation>
+        <translation>Fechar Caminho</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -9320,7 +11853,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Compared Side by Side</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Comparado Lado a Lado</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -9364,11 +11897,19 @@ Add-Ins</source>
     </message>
     <message>
         <source>Convert to Endnote</source>
-        <translation>&quot;Converter para Nota Final&quot;</translation>
+        <translation>Converter para Nota Final</translation>
     </message>
     <message>
         <source>Convert to Footnote</source>
-        <translation>&quot;Converter para Nota de Rodapé&quot;</translation>
+        <translation>Converter para Nota de Rodapé</translation>
+    </message>
+    <message>
+        <source>Convert...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Copiar</translation>
     </message>
     <message>
         <source>Copy Here</source>
@@ -9380,11 +11921,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Corner Point</source>
-        <translation>&quot;Ponto de Canto&quot;</translation>
+        <translation>Ponto de Canto</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Criar Ligação de Nuvem</translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
@@ -9392,19 +11933,19 @@ Add-Ins</source>
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar</translation>
     </message>
     <message>
         <source>Crop By Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar pela Escala</translation>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar pela Forma</translation>
     </message>
     <message>
         <source>Cross Border</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Entre Limites</translation>
     </message>
     <message>
         <source>Cross-reference</source>
@@ -9412,27 +11953,47 @@ Add-Ins</source>
     </message>
     <message>
         <source>Curved Connector</source>
-        <translation>&quot;Conector Curvo&quot;</translation>
+        <translation>Conector Curvo</translation>
     </message>
     <message>
         <source>Curved Segment</source>
-        <translation>&quot;Segmento Curvo&quot;</translation>
+        <translation>Segmento Curvo</translation>
+    </message>
+    <message>
+        <source>Cut</source>
+        <translation>Cortar</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Traço</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Traço-ponto</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo do Tracejado</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="obsolete">Traço-ponto</translation>
+    </message>
+    <message>
+        <source>Data Callout</source>
+        <translation>Nota de Aviso de Dados</translation>
     </message>
     <message>
         <source>Data Chart</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Tabela de Dados</translation>
+    </message>
+    <message>
+        <source>Data Labels</source>
+        <translation>Etiquetas de Dados</translation>
+    </message>
+    <message>
+        <source>Data Table</source>
+        <translation>Tabela de Dados</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -9440,7 +12001,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Decimal Tab</source>
-        <translation>&quot;Tabulação Decimal&quot;</translation>
+        <translation>Tabulação Decimal</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -9448,15 +12009,23 @@ Add-Ins</source>
     </message>
     <message>
         <source>Delete Cells</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar Células</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar Colunas</translation>
     </message>
     <message>
         <source>Delete Comment</source>
         <translation>Apagar Comentário</translation>
+    </message>
+    <message>
+        <source>Delete Content Control</source>
+        <translation>Eliminar Controlo de Conteúdo</translation>
+    </message>
+    <message>
+        <source>Delete Item</source>
+        <translation>Eliminar item</translation>
     </message>
     <message>
         <source>Delete Page Numbers</source>
@@ -9468,19 +12037,23 @@ Add-Ins</source>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar Linhas</translation>
     </message>
     <message>
         <source>Delete Segment</source>
         <translation>Apagar Segmento</translation>
     </message>
     <message>
+        <source>Delete Series</source>
+        <translation>Eliminar Série</translation>
+    </message>
+    <message>
         <source>Delete Table</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar Tabela</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Desativar Cópia de Segurança Automática</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -9488,7 +12061,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuir na Horizontal</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
@@ -9496,7 +12069,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuir na Vertical</translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation>Distribuído</translation>
     </message>
     <message>
         <source>Do not Show Line Number for Blank Line</source>
@@ -9511,9 +12088,14 @@ Add-Ins</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Protecção do Documento</translation>
     </message>
     <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Draw
 Diagonal Line in Cell</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Desenhar
+Linha Diagonal na Célula</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
@@ -9530,6 +12112,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Edit Comment</source>
         <translation>Editar Comentário</translation>
+    </message>
+    <message>
+        <source>Edit Data</source>
+        <translation>Editar Dados</translation>
     </message>
     <message>
         <source>Edit Field</source>
@@ -9549,11 +12135,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Elbow Connector</source>
-        <translation>&quot;Conector em cotovelo&quot;</translation>
+        <translation>Conector em cotovelo</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ativar Cópia de Segurança Automática</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
@@ -9565,23 +12151,27 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Encriptação</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzir Código de Autorização</translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation type="obsolete">Envelopes</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Altura Igual</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho Igual</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Largura Igual</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -9592,12 +12182,20 @@ Diagonal Line in Cell</source>
         <translation>Borracha</translation>
     </message>
     <message>
+        <source>Error Bars</source>
+        <translation>Barras de Erro</translation>
+    </message>
+    <message>
         <source>Even Page Section Break</source>
         <translation>Quebra de Secção em Páginas Pares</translation>
     </message>
     <message>
+        <source>Exit Edit</source>
+        <translation>Editar Texto</translation>
+    </message>
+    <message>
         <source>Exit Edit Point</source>
-        <translation>&quot;Sair da Edição de Pontos&quot;</translation>
+        <translation>Sair da Edição de Pontos</translation>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
@@ -9616,6 +12214,10 @@ Diagonal Line in Cell</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Explorar Versões de Cópias de Segurança</translation>
     </message>
     <message>
+        <source>Exponential</source>
+        <translation>Exponencial</translation>
+    </message>
+    <message>
         <source>Export as Image</source>
         <translation>Exportar Como Imagem</translation>
     </message>
@@ -9629,11 +12231,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de Proteção dos Olhos</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionador de cores</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -9645,7 +12247,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Feedback by Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentários por E-mail</translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
@@ -9665,27 +12267,39 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Fixed Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto Fixo</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverter na Horizontal</translation>
+    </message>
+    <message>
+        <source>Flip Horizontally</source>
+        <translation type="obsolete">Inverter na Horizontal</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverter na Vertical</translation>
+    </message>
+    <message>
+        <source>Flip Vertically</source>
+        <translation type="obsolete">Inverter na Vertical</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation>Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor do Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho do Tipo de Letra</translation>
     </message>
     <message>
         <source>Footer Center</source>
@@ -9717,12 +12331,93 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Form Field Options</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Opções do Campo de Formulário</translation>
     </message>
     <message>
         <source>Format
 Painter</source>
-        <translation type="unfinished"></translation>
+        <translation>Pincel de
+Formatação</translation>
+    </message>
+    <message>
+        <source>Format Axis</source>
+        <translation>Formatar Eixo</translation>
+    </message>
+    <message>
+        <source>Format Axis Title</source>
+        <translation>Formatar Título do Eixo</translation>
+    </message>
+    <message>
+        <source>Format Category Label</source>
+        <translation>Formatar Rótulos de Categorias</translation>
+    </message>
+    <message>
+        <source>Format Chart Area</source>
+        <translation>Formatar Área do Gráfico</translation>
+    </message>
+    <message>
+        <source>Format Chart Title</source>
+        <translation>Formatar Título do Gráfico</translation>
+    </message>
+    <message>
+        <source>Format Data Labels</source>
+        <translation>Formatar Etiquetas de Dados</translation>
+    </message>
+    <message>
+        <source>Format Data Point</source>
+        <translation>Formatar Ponto de Dados</translation>
+    </message>
+    <message>
+        <source>Format Data Series</source>
+        <translation>Formatar Séries de Dados</translation>
+    </message>
+    <message>
+        <source>Format Data Table</source>
+        <translation>Formatar Tabela de Dados</translation>
+    </message>
+    <message>
+        <source>Format Display Unit</source>
+        <translation>Formatar Unidade de Apresentação</translation>
+    </message>
+    <message>
+        <source>Format Down Bars</source>
+        <translation>Formatar Barras para Baixo</translation>
+    </message>
+    <message>
+        <source>Format Drop Lines</source>
+        <translation>Formatar Linhas Verticais</translation>
+    </message>
+    <message>
+        <source>Format Error Bars</source>
+        <translation>Formatar Barras de Erro</translation>
+    </message>
+    <message>
+        <source>Format Gridlines</source>
+        <translation>Formatar Linhas de Grelha</translation>
+    </message>
+    <message>
+        <source>Format High-Low Lines</source>
+        <translation>Formatar Linhas de Máximo/Mínimo</translation>
+    </message>
+    <message>
+        <source>Format Leader Lines</source>
+        <translation>Formatar Linhas de Cotas</translation>
+    </message>
+    <message>
+        <source>Format Legend</source>
+        <translation>Formatar Legenda</translation>
+    </message>
+    <message>
+        <source>Format Legend Entry</source>
+        <translation>Formatar Entrada de Legenda</translation>
+    </message>
+    <message>
+        <source>Format Major Gridlines</source>
+        <translation>Formatar Linhas de Grelha Principais</translation>
+    </message>
+    <message>
+        <source>Format Minor Gridlines</source>
+        <translation>Formatar Linhas de Grelha Secundárias</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -9730,23 +12425,43 @@ Painter</source>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"></translation>
+        <translation>Pincel de Formatação</translation>
+    </message>
+    <message>
+        <source>Format Plot Area</source>
+        <translation>Formatar Área de Desenho</translation>
+    </message>
+    <message>
+        <source>Format Series Lines</source>
+        <translation>Formatar Linhas de Séries</translation>
+    </message>
+    <message>
+        <source>Format TrendLine Label</source>
+        <translation>Formatar Etiqueta de Linha de Tendência</translation>
+    </message>
+    <message>
+        <source>Format Trendline</source>
+        <translation>Formatar Linha de Tendência</translation>
+    </message>
+    <message>
+        <source>Format Up Bars</source>
+        <translation>Formatar Barras para Cima</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation>&quot;Formatos&quot;</translation>
+        <translation>Formatos</translation>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Texto Formatado</translation>
     </message>
     <message>
         <source>Formula</source>
-        <translation>&quot;Fórmula&quot;</translation>
+        <translation>Fórmula</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotação Livre</translation>
     </message>
     <message>
         <source>From File</source>
@@ -9758,7 +12473,7 @@ Painter</source>
     </message>
     <message>
         <source>From Scanner</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Do Scanner</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -9770,23 +12485,23 @@ Painter</source>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation>&quot;Opções do Antvírus Genko&quot;</translation>
+        <translation>Opções do Antvírus Genko</translation>
     </message>
     <message>
         <source>Go to Endnote</source>
-        <translation>&quot;Ir para a Nota Final&quot;</translation>
+        <translation>Ir para a Nota Final</translation>
     </message>
     <message>
         <source>Go to Footnote</source>
-        <translation>&quot;Ir para a Nota de Rodapé&quot;</translation>
+        <translation>Ir para a Nota de Rodapé</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation type="obsolete">&quot;obsolete&quot;&gt;Gradiente</translation>
+        <translation type="obsolete">Gradação</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gradação</translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -9794,7 +12509,7 @@ Painter</source>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Grelha</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -9803,7 +12518,7 @@ Painter</source>
     <message>
         <source>Gridlines</source>
         <comment>Table</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linhas de Grelha</translation>
     </message>
     <message>
         <source>Group</source>
@@ -9811,15 +12526,15 @@ Painter</source>
     </message>
     <message>
         <source>Grouping</source>
-        <translation>&quot;Agrupando&quot;</translation>
+        <translation>Agrupando</translation>
     </message>
     <message>
         <source>Grow Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumentar Tipo de Letra</translation>
     </message>
     <message>
         <source>Hanging Indent</source>
-        <translation>&quot;Indentação Deslocada&quot;</translation>
+        <translation>Indentação Deslocada</translation>
     </message>
     <message>
         <source>Header Center</source>
@@ -9843,7 +12558,7 @@ Painter</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cabeçalho e Rodapé</translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -9851,15 +12566,15 @@ Painter</source>
     </message>
     <message>
         <source>Hide Paragraph Layout</source>
-        <translation>&quot;Esconder o Esquema de Parágrafo&quot;</translation>
+        <translation>Esconder o Esquema de Parágrafo</translation>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Realçar</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>&quot;unfinished&quot;&gt;Horizontal</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
@@ -9867,7 +12582,7 @@ Painter</source>
     </message>
     <message>
         <source>Horizontal Middle Border</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Limite Horizontal ao Centro</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -9875,19 +12590,23 @@ Painter</source>
     </message>
     <message>
         <source>Ignore</source>
-        <translation>&quot;Ignorar&quot;</translation>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <source>In Front of Text</source>
-        <translation type="unfinished"></translation>
+        <translation>À Frente do Texto</translation>
     </message>
     <message>
         <source>In Line With Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Em Linha com o Texto</translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation>Em Linha com o Texto</translation>
     </message>
     <message>
         <source>In line with text</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Em linha com o texto</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -9895,31 +12614,59 @@ Painter</source>
     </message>
     <message>
         <source>Insert Above</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Inserir Acima</translation>
     </message>
     <message>
         <source>Insert Below</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Inserir Abaixo</translation>
+    </message>
+    <message>
+        <source>Insert Canvas</source>
+        <translation>Inserir tela</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation>&quot;Inserir Clip Art&quot;</translation>
+        <translation>Inserir Clip Art</translation>
+    </message>
+    <message>
+        <source>Insert Column Left</source>
+        <translation>Inserir Coluna à Esquerda</translation>
+    </message>
+    <message>
+        <source>Insert Column Right</source>
+        <translation>Inserir Coluna à Direita</translation>
+    </message>
+    <message>
+        <source>Insert Item After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Item Before</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Inserir à Esquerda</translation>
     </message>
     <message>
         <source>Insert Multiple Rows</source>
-        <translation>&quot;Inserir Múltiplas Linhas&quot;</translation>
+        <translation>Inserir Múltiplas Linhas</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Imagens Online</translation>
     </message>
     <message>
         <source>Insert Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Inserir à Direita</translation>
+    </message>
+    <message>
+        <source>Insert Row Above</source>
+        <translation>Inserir Linha Acima</translation>
+    </message>
+    <message>
+        <source>Insert Row Below</source>
+        <translation>Inserir Linha Abaixo</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -9934,12 +12681,36 @@ Painter</source>
         <translation>Inserir Marca de Água</translation>
     </message>
     <message>
+        <source>Inside Base</source>
+        <translation>Base Interior</translation>
+    </message>
+    <message>
+        <source>Inside Borders</source>
+        <translation>Limites Interiores</translation>
+    </message>
+    <message>
+        <source>Inside End</source>
+        <translation>Extremidade Interior</translation>
+    </message>
+    <message>
+        <source>Inside Horizontal Border</source>
+        <translation>Limite Horizontal Interior</translation>
+    </message>
+    <message>
+        <source>Inside Vertical Border</source>
+        <translation>Limite Vertical Interior</translation>
+    </message>
+    <message>
         <source>Invisible</source>
         <translation>Invisível</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Itálico</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation>Justificar</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -9958,16 +12729,28 @@ Painter</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Ajuda do Kingsoft Writer</translation>
     </message>
     <message>
+        <source>Left</source>
+        <translation>Esquerda</translation>
+    </message>
+    <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Limite Esquerdo</translation>
     </message>
     <message>
         <source>Left Tab</source>
-        <translation>&quot;Separador Esquerdo&quot;</translation>
+        <translation>Separador Esquerdo</translation>
+    </message>
+    <message>
+        <source>Legend</source>
+        <translation>Legenda</translation>
+    </message>
+    <message>
+        <source>Line Effects</source>
+        <translation type="obsolete">Efeitos de Linha</translation>
     </message>
     <message>
         <source>Line Number</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Número de Linha</translation>
     </message>
     <message>
         <source>Line Number Options</source>
@@ -9979,23 +12762,47 @@ Painter</source>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaçamento entre Linhas</translation>
     </message>
     <message>
         <source>Line Style</source>
+        <translation>Estilo de Linha</translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation type="obsolete">Paleta de Estilos de Linha</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation>Linear</translation>
+    </message>
+    <message>
+        <source>Linear Forecast</source>
+        <translation>Previsão Linear</translation>
+    </message>
+    <message>
+        <source>Links...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Traço Longo</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Traço Longo-Ponto</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Traço Longo-Ponto-Ponto</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="obsolete">Traço Longo-Ponto</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot-Dot</source>
+        <translation type="obsolete">Traço Longo-Ponto-Ponto</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -10007,7 +12814,7 @@ Painter</source>
     </message>
     <message>
         <source>Manage Credentials</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerir Credenciais</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -10019,11 +12826,11 @@ Painter</source>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Formato Atual Correspondente</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation>&quot;Máx&quot;</translation>
+        <translation>Máx</translation>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -10031,23 +12838,23 @@ Painter</source>
     </message>
     <message>
         <source>Min</source>
-        <translation>&quot;Min&quot;</translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Minisite</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Minisite</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais</translation>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais Setas</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais Marcas</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -10055,39 +12862,51 @@ Painter</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais Cores de Tipo de Letra</translation>
     </message>
     <message>
         <source>More Historical Records</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mais Registos do Histórico</translation>
+    </message>
+    <message>
+        <source>More Layout Options</source>
+        <translation>Mais Opções de Esquema</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais Cores da Linha</translation>
     </message>
     <message>
         <source>More Lines</source>
+        <translation>Mais Linhas</translation>
+    </message>
+    <message>
+        <source>More Option...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More UnderLine Colors</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Mais Cores do Sublinhado</translation>
+    </message>
+    <message>
+        <source>More Underline Colors</source>
+        <translation>Mais Cores de Sublinhado</translation>
     </message>
     <message>
         <source>More Underlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais Sublinhados</translation>
     </message>
     <message>
         <source>More Wrap</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Moldar Mais</translation>
     </message>
     <message>
         <source>Move Here</source>
-        <translation>&quot;Mover para aqui&quot;</translation>
+        <translation>Mover para aqui</translation>
     </message>
     <message>
         <source>Move With Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover com Texto</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -10095,7 +12914,7 @@ Painter</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>&quot;Novo a partir de Outros Modelos&quot;</translation>
+        <translation>Novo a partir de Outros Modelos</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -10103,11 +12922,15 @@ Painter</source>
     </message>
     <message>
         <source>Next Text Box</source>
-        <translation>&quot;Nova Caixa de Texto&quot;</translation>
+        <translation>Nova Caixa de Texto</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem Limite</translation>
+    </message>
+    <message>
+        <source>No Legend Keys</source>
+        <translation>Sem Marcas de Legenda</translation>
     </message>
     <message>
         <source>None</source>
@@ -10123,11 +12946,11 @@ Painter</source>
     </message>
     <message>
         <source>Object Menu</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Menu de Objeto</translation>
     </message>
     <message>
         <source>Object Menu List</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Lista de Menu de Objeto</translation>
     </message>
     <message>
         <source>Odd Page Section Break</source>
@@ -10135,19 +12958,19 @@ Painter</source>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagens Online</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Modelos Online</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
-        <translation>&quot;Abrir Directoria da Cópia de Segurança&quot;</translation>
+        <translation>Abrir Directoria da Cópia de Segurança</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>&quot;Abrir Pasta&quot;</translation>
+        <translation>Abrir Pasta</translation>
     </message>
     <message>
         <source>Open From Klive</source>
@@ -10155,19 +12978,19 @@ Painter</source>
     </message>
     <message>
         <source>Open Hyperlink</source>
-        <translation>&quot;Abrir Hiperligação&quot;</translation>
+        <translation>Abrir Hiperligação</translation>
     </message>
     <message>
         <source>Open Path</source>
-        <translation>&quot;Abrir Caminho&quot;</translation>
+        <translation>Abrir Caminho</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Abrir a partir dos Documentos na Nuvem</translation>
     </message>
     <message>
         <source>Option</source>
-        <translation>&quot;Opções&quot;</translation>
+        <translation>Opções</translation>
     </message>
     <message>
         <source>Options</source>
@@ -10179,23 +13002,31 @@ Painter</source>
     </message>
     <message>
         <source>Outside Border</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Limite Exterior</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Limites Exteriores</translation>
+    </message>
+    <message>
+        <source>Outside End</source>
+        <translation>Extremidade Exterior</translation>
     </message>
     <message>
         <source>Over Type</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Substituir</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation>PDF para Word</translation>
     </message>
     <message>
         <source>Page Area</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Área de Página</translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>&quot;Quebra de Página&quot;</translation>
+        <translation>Quebra de Página</translation>
     </message>
     <message>
         <source>Page Color</source>
@@ -10203,7 +13034,7 @@ Painter</source>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Número de Página</translation>
     </message>
     <message>
         <source>Page Numbers</source>
@@ -10218,8 +13049,12 @@ Painter</source>
         <translation>Parágrafo</translation>
     </message>
     <message>
+        <source>Paste</source>
+        <translation>Colar</translation>
+    </message>
+    <message>
         <source>Paste Column</source>
-        <translation>&quot;Colar Coluna&quot;</translation>
+        <translation>Colar Coluna</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -10227,7 +13062,7 @@ Painter</source>
     </message>
     <message>
         <source>Paste as Nest Table</source>
-        <translation>&quot;Colar como Tabela Interna&quot;</translation>
+        <translation>Colar como Tabela Interna</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -10235,11 +13070,19 @@ Painter</source>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Efeitos de Linha</translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <translation>Percentagem</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation>Centro Pessoal</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
-        <translation>&quot;Guia Fonético&quot;</translation>
+        <translation>Guia Fonético</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -10255,7 +13098,31 @@ Painter</source>
     </message>
     <message>
         <source>Previous Text Box</source>
-        <translation>&quot;Caixa de Texto Anterior&quot;</translation>
+        <translation>Caixa de Texto Anterior</translation>
+    </message>
+    <message>
+        <source>Primary Horizontal</source>
+        <translation>Horizontal Principal</translation>
+    </message>
+    <message>
+        <source>Primary Major Horizontal</source>
+        <translation>Horizontal Principal Primária</translation>
+    </message>
+    <message>
+        <source>Primary Major Vertical</source>
+        <translation>Vertical Principal Primária</translation>
+    </message>
+    <message>
+        <source>Primary Minor Horizontal</source>
+        <translation>Horizontal Secundário Primária</translation>
+    </message>
+    <message>
+        <source>Primary Minor Vertial</source>
+        <translation>Vertical Secundária Primária</translation>
+    </message>
+    <message>
+        <source>Primary Vertical</source>
+        <translation>Vertical Principal</translation>
     </message>
     <message>
         <source>Print Layout</source>
@@ -10279,15 +13146,15 @@ Painter</source>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Recarregar</translation>
     </message>
     <message>
         <source>Reconvert</source>
-        <translation>&quot;Reconverter&quot;</translation>
+        <translation>Reconverter</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gravar Macro</translation>
     </message>
     <message>
         <source>Reference</source>
@@ -10295,31 +13162,31 @@ Painter</source>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Rejeitar Alteração</translation>
     </message>
     <message>
         <source>Reject Deletion</source>
-        <translation>&quot;Aceitar Eliminação&quot;</translation>
+        <translation>Aceitar Eliminação</translation>
     </message>
     <message>
         <source>Reject Formating Changes</source>
-        <translation>&quot;Rejeitar Acções de Formatação&quot;</translation>
+        <translation>Rejeitar Acções de Formatação</translation>
     </message>
     <message>
         <source>Reject Insertion</source>
-        <translation>&quot;Rejeitar Inserção&quot;</translation>
+        <translation>Rejeitar Inserção</translation>
     </message>
     <message>
         <source>Relative to Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Relativamente à Página</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>&quot;Recarregar&quot;</translation>
+        <translation>Recarregar</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation>&quot;Remover Hiperligação&quot;</translation>
+        <translation>Remover Hiperligação</translation>
     </message>
     <message>
         <source>Remove Watermark</source>
@@ -10327,7 +13194,7 @@ Painter</source>
     </message>
     <message>
         <source>Repeat Header Rows</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Repetir Linhas de Cabeçalho</translation>
     </message>
     <message>
         <source>Repeat Headings</source>
@@ -10335,7 +13202,11 @@ Painter</source>
     </message>
     <message>
         <source>Reset Paragraph Format</source>
-        <translation>&quot;Repor o Formato do Parágrafo&quot;</translation>
+        <translation>Repor o Formato do Parágrafo</translation>
+    </message>
+    <message>
+        <source>Reset to Match Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restart Each Page</source>
@@ -10347,55 +13218,59 @@ Painter</source>
     </message>
     <message>
         <source>Restart Numbering</source>
-        <translation>&quot;Recomeçar NUmeração&quot;</translation>
+        <translation>Recomeçar NUmeração</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation>&quot;Restingir Edição&quot;</translation>
+        <translation>Restingir Edição</translation>
     </message>
     <message>
         <source>Restrict Permission by People</source>
-        <translation type="unfinished"></translation>
+        <translation>Restringir Permissão por Pessoa</translation>
     </message>
     <message>
         <source>Restricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Acesso Restrito</translation>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Painel de Revisão</translation>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Painel de Revisão Horizontal</translation>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Painel de Revisão Vertical</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Limite Direito</translation>
     </message>
     <message>
         <source>Right Tab</source>
-        <translation>&quot;Separador Direito&quot;</translation>
+        <translation>Separador Direito</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodar para a Esquerda 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodar para a Direita 90°</translation>
     </message>
     <message>
         <source>Rotate Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodar Estilo</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Pontos Redondos</translation>
     </message>
     <message>
         <source>Row</source>
@@ -10418,28 +13293,56 @@ Painter</source>
         <translation>Régua</translation>
     </message>
     <message>
+        <source>Sagittate Bullet </source>
+        <translation>Marcas em Seta</translation>
+    </message>
+    <message>
         <source>Save All</source>
         <translation>Salvar todos</translation>
     </message>
     <message>
         <source>Save as Picture</source>
-        <translation>&quot;Salvar como Imagem&quot;</translation>
+        <translation>Salvar como Imagem</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Guardar nos Documentos na Nuvem</translation>
     </message>
     <message>
         <source>Save to File</source>
-        <translation>&quot;Salvar para Ficheiro&quot;</translation>
+        <translation>Salvar para Ficheiro</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de Ecrã</translation>
+    </message>
+    <message>
+        <source>Secondary Horizontal</source>
+        <translation>Eixo Horizontal Secundário</translation>
+    </message>
+    <message>
+        <source>Secondary Major Horizontal</source>
+        <translation>Horizontal Principal Secundário</translation>
+    </message>
+    <message>
+        <source>Secondary Major Vertical</source>
+        <translation>Vertical Principal Secundário</translation>
+    </message>
+    <message>
+        <source>Secondary Minor Horizontal</source>
+        <translation>Horizontal Secundário Secundário</translation>
+    </message>
+    <message>
+        <source>Secondary Minor Vertial</source>
+        <translation>Vertical Secundário Secundário</translation>
+    </message>
+    <message>
+        <source>Secondary Vertical</source>
+        <translation>Vertical Secundário</translation>
     </message>
     <message>
         <source>Section</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Secção</translation>
     </message>
     <message>
         <source>Security</source>
@@ -10450,8 +13353,12 @@ Painter</source>
         <translation>Seleccionar</translation>
     </message>
     <message>
+        <source>Select Data</source>
+        <translation>Selecionar Dados</translation>
+    </message>
+    <message>
         <source>Select Hyperlink</source>
-        <translation>&quot;Seleccionar Hiperligação&quot;</translation>
+        <translation>Seleccionar Hiperligação</translation>
     </message>
     <message>
         <source>Select Table</source>
@@ -10459,7 +13366,7 @@ Painter</source>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
-        <translation>&quot;Seleccionar Tabela com Limites a Tracejado&quot;</translation>
+        <translation>Seleccionar Tabela com Limites a Tracejado</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -10467,7 +13374,7 @@ Painter</source>
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation>&quot;Enviar para Trás do Texto&quot;</translation>
+        <translation>Enviar para Trás do Texto</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -10482,28 +13389,36 @@ Painter</source>
         <translation>Alterar Parâmetros Iniciais das Formas Automáticas</translation>
     </message>
     <message>
+        <source>Set Default Paste</source>
+        <translation>Predefinir Colagem</translation>
+    </message>
+    <message>
         <source>Shading Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor do Sombreado</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Preenchimento de Formas</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Contorno da Forma</translation>
     </message>
     <message>
         <source>Shape Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo da Forma</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Partilhar no Microblogue</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Partilhar na Página Web do Microblogue</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Mostrar</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
@@ -10511,7 +13426,7 @@ Painter</source>
     </message>
     <message>
         <source>Show Ignored Words</source>
-        <translation>&quot;Mostrar Palavras Ignoradas&quot;</translation>
+        <translation>Mostrar Palavras Ignoradas</translation>
     </message>
     <message>
         <source>Show More Windows</source>
@@ -10523,35 +13438,39 @@ Painter</source>
     </message>
     <message>
         <source>Show or Hide Footnote/Endnote Separator</source>
-        <translation>&quot;Mostrar ou Esconder Separador das Notas de Rodapé/Finais&quot;</translation>
+        <translation>Mostrar ou Esconder Separador das Notas de Rodapé/Finais</translation>
     </message>
     <message>
         <source>Shrink Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Encolher Tipo de Letra</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Iniciar sessão</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Terminar sessão</translation>
     </message>
     <message>
         <source>Smooth Point</source>
-        <translation>&quot;Inflexão Suave&quot;</translation>
+        <translation>Inflexão Suave</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="obsolete">Snapper</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólido</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Verificação Ortográfica</translation>
     </message>
     <message>
         <source>Spelling Suggestions</source>
-        <translation>&quot;Sugestões Gramaticais&quot;</translation>
+        <translation>Sugestões Gramaticais</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -10563,11 +13482,19 @@ Painter</source>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Quadrado</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Pontos Quadrados</translation>
+    </message>
+    <message>
+        <source>Standard Deviation</source>
+        <translation>Desvio padrão</translation>
+    </message>
+    <message>
+        <source>Standard Error</source>
+        <translation>Erro padrão</translation>
     </message>
     <message>
         <source>Status Bar</source>
@@ -10579,15 +13506,15 @@ Painter</source>
     </message>
     <message>
         <source>Straight Connector</source>
-        <translation>&quot;Conector Linear&quot;</translation>
+        <translation>Conector Linear</translation>
     </message>
     <message>
         <source>Straight Point</source>
-        <translation>&quot;Ponto Linear&quot;</translation>
+        <translation>Ponto Linear</translation>
     </message>
     <message>
         <source>Straight Segment</source>
-        <translation>&quot;Segmento Linear&quot;</translation>
+        <translation>Segmento Linear</translation>
     </message>
     <message>
         <source>Study Online</source>
@@ -10599,7 +13526,7 @@ Painter</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
@@ -10607,7 +13534,11 @@ Painter</source>
     </message>
     <message>
         <source>Sum</source>
-        <translation>&quot;Soma&quot;</translation>
+        <translation>Soma</translation>
+    </message>
+    <message>
+        <source>Support WPS</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
@@ -10616,6 +13547,10 @@ Painter</source>
     <message>
         <source>Symbol</source>
         <translation>Simbolo</translation>
+    </message>
+    <message>
+        <source>Synonyms</source>
+        <translation type="obsolete">Sinónimos</translation>
     </message>
     <message>
         <source>Table</source>
@@ -10654,40 +13589,64 @@ Painter</source>
         <translation>Textura</translation>
     </message>
     <message>
+        <source>The Check Mark-shaped Bullets</source>
+        <translation>Marcas de Verificação</translation>
+    </message>
+    <message>
         <source>Through</source>
-        <translation type="unfinished"></translation>
+        <translation>Através</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>Justo</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>Superior</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Limite Superior</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Superior e Inferior</translation>
     </message>
     <message>
         <source>Track</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Registar</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation>Tradução</translation>
+    </message>
+    <message>
+        <source>TrendLine</source>
+        <translation>Linha de Tendência</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
-        <translation>&quot;Duas Linhas Numa&quot;</translation>
+        <translation>Duas Linhas Numa</translation>
+    </message>
+    <message>
+        <source>Two Period Moving Average</source>
+        <translation>Média Móvel de Dois Períodos</translation>
     </message>
     <message>
         <source>UnderLine Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Cor de Sublinhado</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Sublinhado</translation>
+    </message>
+    <message>
+        <source>Underline Color</source>
+        <translation>Cor do Sublinhado</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Texto Não Formatado</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -10695,10 +13654,18 @@ Painter</source>
     </message>
     <message>
         <source>Unit</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Unidade</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
+        <translation>Acesso Sem Restrições</translation>
+    </message>
+    <message>
+        <source>Up/Down Bars</source>
+        <translation>Barras Para Cima/Baixo</translation>
+    </message>
+    <message>
+        <source>Update Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10707,11 +13674,11 @@ Painter</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Comentários do Utilizador</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>&quot;unfinished&quot;&gt;Vertical</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>Vertical Arrange</source>
@@ -10719,7 +13686,7 @@ Painter</source>
     </message>
     <message>
         <source>Vertical Middle Border</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Limite Vertical ao Centro</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -10727,7 +13694,7 @@ Painter</source>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ver Ficheiros em Segurança</translation>
     </message>
     <message>
         <source>View Gridlines</source>
@@ -10735,35 +13702,39 @@ Painter</source>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ver Cópia de Segurança do Histórico</translation>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver Permissões</translation>
     </message>
     <message>
         <source>View Shortcut</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ver Atalho</translation>
     </message>
     <message>
         <source>View Side by Side</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Ver Lado a Lado</translation>
     </message>
     <message>
+        <source>View more</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Business Version</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Versão Comercial do WPS</translation>
     </message>
     <message>
         <source>WPS Forum</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Fórum do WPS</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
-        <translation>&quot;Microblog WPS&quot;</translation>
+        <translation>Microblog WPS</translation>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Esquema Microblogue do WPS</translation>
     </message>
     <message>
         <source>WPS New features</source>
@@ -10771,43 +13742,67 @@ Painter</source>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Comunidade do WPS Office</translation>
     </message>
     <message>
         <source>WPS Office Facebook</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Facebook do WPS Office</translation>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Home Page do WPS Office</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Novas Funcionalidades do WPS Office</translation>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Centro de Produtos do WPS Office</translation>
     </message>
     <message>
         <source>Watermark</source>
         <translation>Marca de Água</translation>
     </message>
     <message>
+        <source>With Filling Effect Of Diamond-Shaped Bullets</source>
+        <translation>Marcas em Losango Preenchidas</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Round-Shaped Bullets</source>
+        <translation>Marcas Redondas Grandes Preenchidas</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Square-Shaped Bullets</source>
+        <translation>Marcas Quadradas Grandes Preenchidas</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Round-Shaped Bullets</source>
+        <translation>Marcas Redondas Preenchidas</translation>
+    </message>
+    <message>
+        <source>With Legend Keys</source>
+        <translation>Com Marcas de Legenda</translation>
+    </message>
+    <message>
         <source>Word Count</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Contar Palavras</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>&quot;Ferramentas Gramaticais&quot;</translation>
+        <translation>Ferramentas Gramaticais</translation>
     </message>
     <message>
         <source>WordArt</source>
         <translation>Word Art</translation>
     </message>
     <message>
+        <source>Wrap Text</source>
+        <translation>Moldar Texto</translation>
+    </message>
+    <message>
         <source>WrapText</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Moldar Texto</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -10815,44 +13810,86 @@ Painter</source>
     </message>
     <message>
         <source>Zoom Ratio</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Rácio de Zoom</translation>
     </message>
     <message>
         <source>Zoom Slider</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Controlo de Deslize do Zoom</translation>
+    </message>
+    <message>
+        <source>bullets_0</source>
+        <translation type="obsolete">bullets_0</translation>
+    </message>
+    <message>
+        <source>bullets_1</source>
+        <translation type="obsolete">bullets_1</translation>
+    </message>
+    <message>
+        <source>bullets_2</source>
+        <translation type="obsolete">bullets_2</translation>
+    </message>
+    <message>
+        <source>bullets_3</source>
+        <translation type="obsolete">bullets_3</translation>
+    </message>
+    <message>
+        <source>bullets_4</source>
+        <translation type="obsolete">bullets_4</translation>
+    </message>
+    <message>
+        <source>bullets_5</source>
+        <translation type="obsolete">bullets_5</translation>
+    </message>
+    <message>
+        <source>bullets_6</source>
+        <translation type="obsolete">bullets_6</translation>
     </message>
     <message>
         <source>login</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Iniciar Sessão</translation>
+    </message>
+    <message>
+        <source>numbering_0</source>
+        <translation type="obsolete">numbering_0</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.InsertBlankPage</name>
     <message>
         <source>Horizontal</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Vertical</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.InsertTextBox</name>
     <message>
         <source>Horizontal</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Caixa de Texto Horizontal</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Caixa de Texto Vertical</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
+        <translation type="obsolete">Alterar IU</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
         <translation>Alterar IU</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation>Mudar de IU</translation>
     </message>
     <message>
         <source>true</source>
@@ -10869,12 +13906,76 @@ Painter</source>
 <context>
     <name>popupmenu.Num</name>
     <message>
+        <source>1.2.3.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>A.B.C.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>More Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais Numeração</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Number</source>
+        <translation>Número</translation>
+    </message>
+    <message>
+        <source>Pictographic Number, Wide End</source>
+        <translation>Numeração Ideográfica, ponto largo</translation>
+    </message>
+    <message>
+        <source>With The Circle Number.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a).b).c).</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>a.b.c.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>numbering_0</source>
+        <translation type="obsolete">numbering_0</translation>
+    </message>
+    <message>
+        <source>numbering_1</source>
+        <translation type="obsolete">numbering_1</translation>
+    </message>
+    <message>
+        <source>numbering_2</source>
+        <translation type="obsolete">numbering_2</translation>
+    </message>
+    <message>
+        <source>numbering_3</source>
+        <translation type="obsolete">numbering_3</translation>
+    </message>
+    <message>
+        <source>numbering_4</source>
+        <translation type="obsolete">numbering_4</translation>
+    </message>
+    <message>
+        <source>numbering_5</source>
+        <translation type="obsolete">numbering_5</translation>
+    </message>
+    <message>
+        <source>numbering_6</source>
+        <translation type="obsolete">numbering_6</translation>
+    </message>
+    <message>
+        <source>numbering_7</source>
+        <translation type="obsolete">numbering_7</translation>
+    </message>
+    <message>
+        <source>Ⅰ.Ⅱ.Ⅲ.</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -10885,30 +13986,298 @@ Painter</source>
     </message>
     <message>
         <source>Menu Command</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Comando de Menu</translation>
     </message>
     <message>
         <source>Toolbar Commands</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Comandos da Barra de Ferramentas</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_charttools</name>
+    <message>
+        <source>Above</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AboveChart</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AddAxis</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AddAxisTitle</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AddChartElements</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AddChartLines</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AddChartTitle</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AddDataLabels</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AddDataTable</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AddErrorBar</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AddGridLine</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AddLegend</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AddTrendLine</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AddUpDownBar</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Below</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>BestFit</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>CenteredOverlay</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ChangeChartType</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Chart Elements</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ChartStyle</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Current Selection</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>DataCallout</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>DataSection</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>DropLines</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>DropLinesAndHighLowLines</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Edit Data</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Exponential</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <comment>Chart Element Format</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>HighLowLines</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>InsideBase</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>InsideEnd</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Linear Forecast</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Moving Average</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>NoLegendKeys</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>OutsideEnd</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PrimaryHorizontalAxis</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PrimaryMajorHorizontal</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PrimaryMajorVertical</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PrimaryMinorHorizontal</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PrimaryMinorVertial</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PrimaryVerticalAxis</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Reset Style</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SecondaryHorizontalAxis</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SecondaryMajorHorizontal</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SecondaryMajorVertical</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SecondaryMinorHorizontal</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SecondaryMinorVertial</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SecondaryVerticalAxis</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Select Data</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SeriesLines</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>StandardDeviation</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>StandardError</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>TypeSection</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WithLegendKeys</source>
+        <translation>Com Marcas de Legenda</translation>
+    </message>
+    <message>
+        <source>changeColor</source>
+        <translation>Alterar cor</translation>
+    </message>
+    <message>
+        <source>layoutSection</source>
+        <translation>Esquema de gráfico</translation>
+    </message>
+    <message>
+        <source>speedLayout</source>
+        <translation>Esquema Rápido</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_design</name>
     <message>
         <source>All Borders</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Todos os Limites</translation>
     </message>
     <message>
         <source>Border Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor do Limite</translation>
     </message>
     <message>
         <source>Borders and Shading</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limites e Sombreado</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Inferior</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
@@ -10917,47 +14286,48 @@ Painter</source>
     <message>
         <source>Draw
 Diagonal Line in Cell</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Desenhar
+Linha Diagonal na Célula</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Desenhar Linha Diagonal na Célula</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Desenhar Tabela</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Borracha</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Interior</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Horizontal Interior</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Vertical Interior</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Esquerdo</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Estilo de Linha</translation>
     </message>
     <message>
         <source>Line Width</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Largura de linha</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -10969,23 +14339,27 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Sem Limite</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limites Exteriores</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Direito</translation>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor do Sombreado</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
     </message>
     <message>
         <source>Table Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite da Tabela</translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -10997,7 +14371,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Superior</translation>
     </message>
 </context>
 <context>
@@ -11008,7 +14382,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Suplementos COM</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -11027,12 +14401,24 @@ Diagonal Line in Cell</source>
         <translation>Botão de Comando</translation>
     </message>
     <message>
+        <source>ContentControlsGroup</source>
+        <translation>Grupo</translation>
+    </message>
+    <message>
+        <source>ContentControlsGroupMenu</source>
+        <translation>Grupo</translation>
+    </message>
+    <message>
+        <source>ContentControlsUngroup</source>
+        <translation>Desagrupar</translation>
+    </message>
+    <message>
         <source>Control List</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Lista de Controlo</translation>
     </message>
     <message>
         <source>Control Properties</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Propriedades de Controlo</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
@@ -11040,15 +14426,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrição</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Modo de Estrutura</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Sair do Modo de Estrutura</translation>
     </message>
     <message>
         <source>Image</source>
@@ -11060,7 +14446,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>List Box</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Caixa de Listagem</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -11076,7 +14462,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gravar Macro</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -11092,7 +14478,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Caixa de Texto</translation>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -11108,54 +14494,99 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>XML</source>
-        <translation type="unfinished"></translation>
+        <translation>XML</translation>
+    </message>
+    <message>
+        <source>XML Mapping Pane</source>
+        <translation>Painel de Mapeamento XML</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacote de Expansão XML</translation>
+    </message>
+    <message>
+        <source>XmlMapping</source>
+        <translation>Mapeamento XML</translation>
     </message>
     <message>
         <source>XmlSchema</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquema XML</translation>
     </message>
     <message>
         <source>XmlStructure</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrutura de XML</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_drawingtools</name>
     <message>
         <source>0.25 pt</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>0,25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>0,5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>0,75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>1 pt</translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation></translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>1,5 pt</translation>
+    </message>
+    <message>
+        <source>2.0</source>
+        <translation></translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>2,25 pt</translation>
+    </message>
+    <message>
+        <source>2.5</source>
+        <translation></translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>3 pt</translation>
+    </message>
+    <message>
+        <source>3-D
+On</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>3-D On</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>3-D Rotation</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>3.0</source>
+        <translation></translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation>4.5 pt</translation>
+        <translation>4,5 pt</translation>
+    </message>
+    <message>
+        <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translation></translation>
     </message>
     <message>
         <source>6 pt</source>
@@ -11243,7 +14674,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Atrás do Texto</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -11251,7 +14682,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Break Forward Link</source>
-        <translation>&quot;Quebra da Ligação Seguinte&quot;</translation>
+        <translation>Quebra da Ligação Seguinte</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -11259,7 +14690,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Bring in Front of Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Colocar Sobre o Texto</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -11267,7 +14698,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Center</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Centrar</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -11275,11 +14706,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar Formas</translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Criar Ligação com Caixa de Texto</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -11287,7 +14718,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço-Ponto</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -11318,8 +14749,16 @@ Diagonal Line in Cell</source>
         <translation>Editar Pontos</translation>
     </message>
     <message>
+        <source>Edit Shapes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Emphasis Mark</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Equal Height</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Altura Igual</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -11327,7 +14766,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Largura Igual</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -11335,11 +14774,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Preenchimento</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -11354,12 +14793,28 @@ Diagonal Line in Cell</source>
         <translation>Fonte</translation>
     </message>
     <message>
+        <source>Font Name</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Format Object</source>
         <translation>Formatar Objecto</translation>
     </message>
     <message>
+        <source>Format Painter</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Free Rotate</source>
         <translation>Rotação Livre</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation></translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -11367,11 +14822,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gradação</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Grelha</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -11383,19 +14838,27 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Grow Font</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Aumentar Tipo de Letra</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation></translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation>Caixa de Texto Horizontal</translation>
     </message>
     <message>
         <source>In Front of Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>À Frente do Texto</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Em Linha com o Texto</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -11410,20 +14873,28 @@ Diagonal Line in Cell</source>
         <translation>Justificar</translation>
     </message>
     <message>
+        <source>Line Spacing</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Long Dash</source>
         <translation>Traço Longo</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço Longo-Ponto</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço Longo Ponto Ponto</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Traço Longo e Ponto</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation></translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -11447,23 +14918,23 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>More Underline Colors</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mais Cores do Sublinhado</translation>
     </message>
     <message>
         <source>More Underlines</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mais Sublinhados</translation>
     </message>
     <message>
         <source>Multi-line Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Texto com Várias Linhas</translation>
     </message>
     <message>
         <source>Next Text Box</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Caixa de Texto Seguinte</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Destaque</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -11474,16 +14945,24 @@ Diagonal Line in Cell</source>
         <translation>Linhas com Padrão</translation>
     </message>
     <message>
+        <source>PicOrTexture</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Picture</source>
-        <translation>Imagem</translation>
+        <translation type="obsolete">Imagem</translation>
     </message>
     <message>
         <source>Previous Text Box</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Caixa de Texto Anterior</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation></translation>
     </message>
     <message>
         <source>Relative to Page</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Relativamente à Página</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -11511,19 +14990,32 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Colocar por Detrás do Texto</translation>
+    </message>
+    <message>
+        <source>Send To Back</source>
+        <translation></translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Enviar para Trás</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation></translation>
     </message>
     <message>
         <source>Shape Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos de Forma</translation>
     </message>
     <message>
         <source>Shape Fill</source>
@@ -11539,11 +15031,23 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Shape Styles</source>
-        <translation type="obsolete">&quot;obsolete&quot;&gt;Estilos da Forma</translation>
+        <translation>&quot;obsolete&quot;&gt;Estilos da Forma</translation>
     </message>
     <message>
         <source>Shrink Font</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Encolher Tipo de Letra</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Snapper</translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation></translation>
     </message>
     <message>
         <source>Solid</source>
@@ -11551,31 +15055,44 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Square</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Quadrado</translation>
     </message>
     <message>
         <source>Square Dot</source>
         <translation>Ponto Quadrado</translation>
     </message>
     <message>
+        <source>Strikethrough</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Text
+Direction</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Text Box</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Caixa de Texto</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor do Texto</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Direcção do Texto</translation>
+        <translation type="obsolete">Direcção do Texto</translation>
+    </message>
+    <message>
+        <source>Text Wrapping</source>
+        <translation></translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>Textura</translation>
+        <translation type="obsolete">Textura</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Através</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -11583,7 +15100,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Superior e Inferior</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -11591,7 +15108,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Underline Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor de Sublinhado</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -11599,20 +15116,24 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertical</translation>
+        <translation>Caixa de Texto Vertical</translation>
     </message>
     <message>
         <source>Weight</source>
         <translation>Peso</translation>
     </message>
     <message>
+        <source>Width</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Wrap Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Moldar Texto</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Moldar Texto</translation>
     </message>
     <message>
         <source>Wrap Text@rainbow</source>
@@ -11620,10 +15141,465 @@ Diagonal Line in Cell</source>
     </message>
 </context>
 <context>
+    <name>rainbow.ct_drawingtools_vml</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation>0,25 pt</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation>0,5 pt</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation>0,75 pt</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation>1 pt</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation>1,5 pt</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation>2,25 pt</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation>3 pt</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation>4,5 pt</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>Alinhar</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Arrow Style</source>
+        <translation>Estilo da Seta</translation>
+    </message>
+    <message>
+        <source>Arrow Style 1</source>
+        <translation>Estilo da Seta 1</translation>
+    </message>
+    <message>
+        <source>Arrow Style 10</source>
+        <translation>Estilo da Seta 10</translation>
+    </message>
+    <message>
+        <source>Arrow Style 11</source>
+        <translation>Estilo da Seta 11</translation>
+    </message>
+    <message>
+        <source>Arrow Style 2</source>
+        <translation>Estilo da Seta 2</translation>
+    </message>
+    <message>
+        <source>Arrow Style 3</source>
+        <translation>Estilo da Seta 3</translation>
+    </message>
+    <message>
+        <source>Arrow Style 4</source>
+        <translation>Estilo da Seta 4</translation>
+    </message>
+    <message>
+        <source>Arrow Style 5</source>
+        <translation>Estilo da Seta 5</translation>
+    </message>
+    <message>
+        <source>Arrow Style 6</source>
+        <translation>Estilo da Seta 6</translation>
+    </message>
+    <message>
+        <source>Arrow Style 7</source>
+        <translation>Estilo da Seta 7</translation>
+    </message>
+    <message>
+        <source>Arrow Style 8</source>
+        <translation>Estilo da Seta 8</translation>
+    </message>
+    <message>
+        <source>Arrow Style 9</source>
+        <translation>Estilo da Seta 9</translation>
+    </message>
+    <message>
+        <source>Behind Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>Negrito</translation>
+    </message>
+    <message>
+        <source>Break Forward Link</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bring in Front of Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Change Points</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Create Text Box Link</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Detailed Settings</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Edit Shapes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Gridlines</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Grow Font</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>In Front of Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Shapes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Line Style</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Arrows</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More UnderLine Colors</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Underlines</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Multi-line Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Next Text Box</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Previous Text Box</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Relative to Page</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Send Behind Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Shape Fill</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Shape Outline</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Shape Styles</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Shrink Font</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Size Object</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Text Direction</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Texture</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Through</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Top and Bottom</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>UnGroup</source>
+        <translation>Desagrupar</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Underline Color</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>rainbow.ct_file</name>
     <message>
         <source>About WPS Writer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Acerca do WPS Writer</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -11631,27 +15607,35 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Backup Management and Data Recovery</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gestão de Cópias de Segurança e Recuperação de Dados</translation>
+    </message>
+    <message>
+        <source>Backup and Recover</source>
+        <translation>Cópia de Segurança e Recuperação</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>Alterar Versão</translation>
+        <translation type="obsolete">Alterar Versão</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Procurar Atualizações</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ligação de Nuvem</translation>
+    </message>
+    <message>
+        <source>Convert</source>
+        <translation>Converter</translation>
     </message>
     <message>
         <source>Data Recovery</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Recuperação de Dados</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada Docer</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -11663,11 +15647,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Encriptação</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzir Código de Autorização</translation>
     </message>
     <message>
         <source>Export to OFD</source>
@@ -11683,11 +15667,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Comentários e Informações do Produto</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentários por E-mail</translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
@@ -11699,7 +15683,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Help</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ajuda</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -11731,19 +15715,19 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Manage Credentials</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerir Credenciais</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2010 Document</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Documento do Microsoft Word 2007-2010 (*.docx)</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
-        <translation>Documento Microsoft Word 97-2003</translation>
+        <translation>Documento do Microsoft Word 97-2003 (*.doc)</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Template</source>
-        <translation>Modelo Microsoft Word 97-2003</translation>
+        <translation>Modelo do Microsoft Word 97-2003 (*.dot)</translation>
     </message>
     <message>
         <source>New</source>
@@ -11767,7 +15751,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Novo de Outros Modelos</translation>
     </message>
     <message>
         <source>Open</source>
@@ -11807,15 +15791,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Recarregar</translation>
     </message>
     <message>
         <source>Restrict Permission by People</source>
-        <translation type="unfinished"></translation>
+        <translation>Restringir Permissão por Pessoa</translation>
     </message>
     <message>
         <source>Restricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Acesso Restrito</translation>
     </message>
     <message>
         <source>Save</source>
@@ -11831,7 +15815,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Seek Help via Microblog</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Procurar Ajuda no Microblogue</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -11846,78 +15830,86 @@ Diagonal Line in Cell</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Pesquisar na Internet</translation>
     </message>
     <message>
+        <source>Support WPS</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Unrestricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Acesso Sem Restrições</translation>
     </message>
     <message>
         <source>Update Online</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Actualizar Online</translation>
     </message>
     <message>
+        <source>User Feedback</source>
+        <translation type="obsolete">Comentários do Utilizador</translation>
+    </message>
+    <message>
         <source>View Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver Permissões</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Modelo Global de Recuperação de Dados do WPS</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Comunidade do WPS Office</translation>
     </message>
     <message>
         <source>WPS Office Facebook</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Facebook do WPS Office</translation>
     </message>
     <message>
         <source>WPS Office Forum</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Fórum do WPS Office</translation>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Home Page do WPS Office</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Novas Funcionalidades do WPS Office</translation>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Centro de Produtos do WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer 2007-2010 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento do WPS Writer 2007-2010</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Documento do WPS Writer (*.wps)</translation>
     </message>
     <message>
         <source>WPS Writer Help</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ajuda do WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Modelo do WPS Writer (*.wpt)</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_file.Help</name>
     <message>
         <source>WPS Writer Help</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ajuda do WPS Writer</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_headerfooter</name>
     <message>
         <source>- Page -</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>- Página -</translation>
     </message>
     <message>
         <source>AutoText</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Texto Automático</translation>
     </message>
     <message>
         <source>Close</source>
@@ -11925,32 +15917,33 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Data e Hora</translation>
     </message>
     <message>
         <source>Fields</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Campos</translation>
     </message>
     <message>
         <source>From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Do Ficheiro</translation>
     </message>
     <message>
         <source>From Scanner</source>
-        <translation type="unfinished"></translation>
+        <translation>Do Scanner</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cabeçalho e Rodapé</translation>
     </message>
     <message>
         <source>Header and Footer
 Options</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Opções de Cabeçalho e
+Rodapé</translation>
     </message>
     <message>
         <source>Header and Footer Options</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Opções de Cabeçalho e Rodapé</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -11962,27 +15955,27 @@ Options</source>
     </message>
     <message>
         <source>Link to Previous</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ligar à Anterior</translation>
     </message>
     <message>
         <source>Navigation</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Navegação</translation>
     </message>
     <message>
         <source>Next Header</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cabeçalho Seguinte</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Número de Página</translation>
     </message>
     <message>
         <source>Page X</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Página X</translation>
     </message>
     <message>
         <source>Page X of Y</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Página X de Y</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -11990,79 +15983,80 @@ Options</source>
     </message>
     <message>
         <source>Previous Header</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cabeçalho Anterior</translation>
     </message>
     <message>
         <source>Switch between
 Header and Footer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Alternar entre
+Cabeçalho e Rodapé</translation>
     </message>
     <message>
         <source>Switch between Header and Footer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Alternar entre Cabeçalho e Rodapé</translation>
     </message>
     <message>
         <source>Total of Y Page</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Total de Páginas Y</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_home</name>
     <message>
         <source>1.0</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>1,0</translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>1,5</translation>
     </message>
     <message>
         <source>100%</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>100%</translation>
     </message>
     <message>
         <source>150%</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>150%</translation>
     </message>
     <message>
         <source>2.0</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>2,0</translation>
     </message>
     <message>
         <source>2.5</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>2,5</translation>
     </message>
     <message>
         <source>200%</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>200%</translation>
     </message>
     <message>
         <source>3.0</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>3,0</translation>
     </message>
     <message>
         <source>33%</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>33%</translation>
     </message>
     <message>
         <source>50%</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>50%</translation>
     </message>
     <message>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
     </message>
     <message>
         <source>66%</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>66%</translation>
     </message>
     <message>
         <source>80%</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>80%</translation>
     </message>
     <message>
         <source>90%</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>90%</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -12074,23 +16068,27 @@ Header and Footer</source>
     </message>
     <message>
         <source>All Borders</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Todos os Limites</translation>
     </message>
     <message>
         <source>Asian Layout</source>
-        <translation>&quot;Esquema Asiático&quot;</translation>
+        <translation>Esquema Asiático</translation>
     </message>
     <message>
         <source>Bold</source>
         <translation>Negrito</translation>
     </message>
     <message>
+        <source>Bold Square-Hollow Bullets</source>
+        <translation>Marcas Quadradas em Negrito Vazias</translation>
+    </message>
+    <message>
         <source>Borders and Shading</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limites e Sombreado</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Inferior</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -12098,7 +16096,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Center</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Centrar</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -12106,27 +16104,27 @@ Header and Footer</source>
     </message>
     <message>
         <source>Change Case</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Maiúsculas/Minúsculas</translation>
     </message>
     <message>
         <source>Character Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite do Caráter</translation>
     </message>
     <message>
         <source>Character Scaling</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Dimensionamento de Carateres</translation>
     </message>
     <message>
         <source>Character Shading</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Sombreado do Caráter</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limpar Formatação</translation>
     </message>
     <message>
         <source>Clear Style</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limpar Estilo</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -12134,7 +16132,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Combinar Carateres</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -12162,23 +16160,27 @@ Header and Footer</source>
     </message>
     <message>
         <source>Emphasis Mark</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Marca de Ênfase</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Incluir Carateres</translation>
     </message>
     <message>
         <source>Enclose Characters...</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Incluir Carateres...</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation></translation>
     </message>
     <message>
         <source>Find and Replace</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Localizar e Substituir</translation>
     </message>
     <message>
         <source>Font</source>
@@ -12186,7 +16188,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Font Name</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nome do Tipo de Letra</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -12199,7 +16201,11 @@ Formatação</translation>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Texto Formatado</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>Brilho</translation>
     </message>
     <message>
         <source>Go to</source>
@@ -12219,15 +16225,15 @@ Formatação</translation>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Interior</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Horizontal Interior</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Vertical Interior</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -12239,7 +16245,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Esquerdo</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -12247,7 +16253,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Formato Atual Correspondente</translation>
     </message>
     <message>
         <source>More</source>
@@ -12279,7 +16285,11 @@ Formatação</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Sem Limite</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -12287,7 +16297,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limites Exteriores</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -12295,7 +16305,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Paragraph Tools</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ferramentas de Parágrafo</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -12314,8 +16324,16 @@ Formatação</translation>
         <translation>Guia Fonético...</translation>
     </message>
     <message>
+        <source>Reflection</source>
+        <translation>Reflexo</translation>
+    </message>
+    <message>
         <source>Right Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Direito</translation>
+    </message>
+    <message>
+        <source>Sagittate Bullet </source>
+        <translation>Marcas em Seta</translation>
     </message>
     <message>
         <source>Select</source>
@@ -12331,7 +16349,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Selecionar Tabela com Limites Tracejados</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -12339,15 +16357,19 @@ Formatação</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Predefinir Colagem</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
     </message>
     <message>
         <source>Shading Color</source>
         <translation>Cor da Sombra</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation>Sombra</translation>
     </message>
     <message>
         <source>Show / Hide Formatting Marks</source>
@@ -12359,15 +16381,19 @@ Formatação</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Layout</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar/Ocultar Esquema de Parágrafo</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Marks</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar/Ocultar Marcas de Parágrafo</translation>
     </message>
     <message>
         <source>Shrink Font</source>
         <translation>Diminuir Fonte</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -12379,7 +16405,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Styles</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Estilos</translation>
     </message>
     <message>
         <source>Styles / Formatting</source>
@@ -12387,7 +16413,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Estilos e Formatação</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -12402,8 +16428,24 @@ Formatação</translation>
         <translation>Cor do Texto</translation>
     </message>
     <message>
+        <source>Text Effects</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The Check Mark-shaped Bullets</source>
+        <translation>Marcas de Verificação</translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Top Border</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limite Superior</translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation></translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -12419,18 +16461,50 @@ Formatação</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Texto Não Formatado</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Diamond-Shaped Bullets</source>
+        <translation>Marcas em Losango Preenchidas</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Round-Shaped Bullets</source>
+        <translation>Marcas Redondas Grandes Preenchidas</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Square-Shaped Bullets</source>
+        <translation>Marcas Quadradas Grandes Preenchidas</translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Round-Shaped Bullets</source>
+        <translation>Marcas Redondas Preenchidas</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ferramentas de Palavras</translation>
+    </message>
+    <message>
+        <source>WordArt</source>
+        <translation>WordArt</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_home.Num</name>
     <message>
+        <source>1.2.3.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>A.B.C.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>More Numbering</source>
         <translation>Mais Numerações</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Number</source>
@@ -12438,26 +16512,46 @@ Formatação</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Numeração</translation>
+    </message>
+    <message>
+        <source>Pictographic Number, Wide End</source>
+        <translation>Numeração Ideográfica, ponto largo</translation>
+    </message>
+    <message>
+        <source>With The Circle Number.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>a).b).c).</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>a.b.c.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ⅰ.Ⅱ.Ⅲ.</source>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert</name>
     <message>
         <source>AutoShape</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Forma Automática</translation>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation>&quot;Página em branco&quot;</translation>
+        <translation>Página em branco</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Marcador</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translation>&quot;Quebras&quot;</translation>
+        <translation>Quebras</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -12465,43 +16559,43 @@ Formatação</translation>
     </message>
     <message>
         <source>Check Box Form Field</source>
-        <translation>&quot;Campo de Formulário do tipo Selecção&quot;</translation>
+        <translation>Campo de Formulário do tipo Selecção</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>&quot;Clip Art&quot;</translation>
+        <translation>Clip Art</translation>
     </message>
     <message>
         <source>Column Break</source>
-        <translation>&quot;Quebra de Coluna&quot;</translation>
+        <translation>Quebra de Coluna</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>&quot;Comentário&quot;</translation>
+        <translation>Comentário</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation>&quot;Comentários&quot;</translation>
+        <translation>Comentários</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation>&quot;Quebra de Secção Contínua&quot;</translation>
+        <translation>Quebra de Secção Contínua</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translation>&quot;Converter Tabela em Texto&quot;</translation>
+        <translation>Converter Tabela em Texto</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
-        <translation>&quot;Converter Texto em Tabela&quot;</translation>
+        <translation>Converter Texto em Tabela</translation>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation>&quot;Referência Cruzada&quot;</translation>
+        <translation>Referência Cruzada</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Data e Hora</translation>
     </message>
     <message>
         <source>DocumentField</source>
@@ -12509,7 +16603,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>&quot;Desenhar Tabela&quot;</translation>
+        <translation>Desenhar Tabela</translation>
     </message>
     <message>
         <source>Drop Cap</source>
@@ -12517,7 +16611,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Drop-Down Form Field</source>
-        <translation>&quot;Campo de Formulário em Lista&quot;</translation>
+        <translation>Campo de Formulário em Lista</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -12525,11 +16619,11 @@ Formatação</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
-        <translation>&quot;Quebra de Secção em Páginas Ímpares&quot;</translation>
+        <translation>Quebra de Secção em Páginas Ímpares</translation>
     </message>
     <message>
         <source>Fields</source>
-        <translation>&quot;Campos&quot;</translation>
+        <translation>Campos</translation>
     </message>
     <message>
         <source>File</source>
@@ -12541,23 +16635,23 @@ Formatação</translation>
     </message>
     <message>
         <source>Form Field Options</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Opções do Campo de Formulário</translation>
     </message>
     <message>
         <source>Form Field Shading</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Sombreado do Campo de Formulário</translation>
     </message>
     <message>
         <source>Forms</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Formulários</translation>
     </message>
     <message>
         <source>From File</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Do Ficheiro</translation>
     </message>
     <message>
         <source>From Scanner</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Do Scanner</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -12565,7 +16659,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cabeçalho e Rodapé</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -12585,7 +16679,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Imagem Online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -12597,15 +16691,19 @@ Formatação</translation>
     </message>
     <message>
         <source>Insert Text from File</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Texto a partir de Ficheiro</translation>
     </message>
     <message>
         <source>Insert Watermark</source>
-        <translation>&quot;Inserir Marca de Água&quot;</translation>
+        <translation>Inserir Marca de Água</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
         <translation>Inserir WordArt</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation type="obsolete">Inserir imagem online</translation>
     </message>
     <message>
         <source>Links</source>
@@ -12617,11 +16715,15 @@ Formatação</translation>
     </message>
     <message>
         <source>Multi-line Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Texto com Várias Linhas</translation>
+    </message>
+    <message>
+        <source>New Drawing Canvas</source>
+        <translation>Nova Tela de Desenho</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
-        <translation>&quot;Quebra de Secção na Próxima Página&quot;</translation>
+        <translation>Quebra de Secção na Próxima Página</translation>
     </message>
     <message>
         <source>Number</source>
@@ -12633,24 +16735,25 @@ Formatação</translation>
     </message>
     <message>
         <source>Odd Page Section Break</source>
-        <translation>&quot;Quebra de Secção em Páginas Pares&quot;</translation>
+        <translation>Quebra de Secção em Páginas Pares</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem Online</translation>
     </message>
     <message>
         <source>Page 
 Break</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Quebra de 
+Página</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Número de Página</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Páginas</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -12658,15 +16761,15 @@ Break</source>
     </message>
     <message>
         <source>Protect Form</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Proteger Formulário</translation>
     </message>
     <message>
         <source>Remove Watermark</source>
-        <translation>&quot;Remover Marca de Água&quot;</translation>
+        <translation>Remover Marca de Água</translation>
     </message>
     <message>
         <source>Reset Form Fields</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Repor Campos de Formulário</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -12694,15 +16797,15 @@ Break</source>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Caixa de Texto</translation>
     </message>
     <message>
         <source>Text Form field</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Campo de Formulário de Texto</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
-        <translation>&quot;Quebra de Moldagem do Texto&quot;</translation>
+        <translation>Quebra de Moldagem do Texto</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -12710,7 +16813,7 @@ Break</source>
     </message>
     <message>
         <source>Watermark</source>
-        <translation>&quot;Marca de Água&quot;</translation>
+        <translation>Marca de Água</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -12721,22 +16824,312 @@ Break</source>
     <name>rainbow.ct_insert.BlankPage</name>
     <message>
         <source>Horizontal</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Vertical</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert.TextBox</name>
     <message>
         <source>Horizontal</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Caixa de Texto Horizontal</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Caixa de Texto Vertical</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_insert_vml</name>
+    <message>
+        <source>AutoShape</source>
+        <translation>Forma Automática</translation>
+    </message>
+    <message>
+        <source>Blank Page</source>
+        <translation>Página em Branco</translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <translation>Marcador</translation>
+    </message>
+    <message>
+        <source>Breaks</source>
+        <translation>Quebras</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation>Gráfico</translation>
+    </message>
+    <message>
+        <source>Check Box Form Field</source>
+        <translation>Campo de Formulário do Tipo Caixa de Verificação</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Column Break</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Continuous Section Break</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Convert Table to Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Convert Text to Table</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cross-reference</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Date and Time</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw Table</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Drop Cap</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Drop-Down Form Field</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Even Page Section Break</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Fields</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>File Object</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Form Field Options</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Form Field Shading</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Forms</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>From File</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <translation>Hiperligação</translation>
+    </message>
+    <message>
+        <source>Illustrations</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation>Inserir Imagem</translation>
+    </message>
+    <message>
+        <source>Insert Table</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Text from File</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Watermark</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert WordArt</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Symbols</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Multi-line Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>New Drawing Canvas</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Next Page Section Break</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Odd Page Section Break</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Page 
+Break</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Pages</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Protect Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Remove Watermark</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Reset Form Fields</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Symbol</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Tables</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Text Form field</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Text Wrapping Break</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Watermark</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WordArt</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_insert_vml.BlankPage</name>
+    <message>
+        <source>Horizontal</source>
+        <translation>Horizontal</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>Vertical</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_insert_vml.TextBox</name>
+    <message>
+        <source>Horizontal</source>
+        <translation>Horizontal</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>Vertical</translation>
     </message>
 </context>
 <context>
@@ -12747,54 +17140,55 @@ Break</source>
     </message>
     <message>
         <source>Close Data Source</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Fechar Origem de Dados</translation>
     </message>
     <message>
         <source>Finish</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Concluir</translation>
     </message>
     <message>
         <source>First Record</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Primeiro Registo</translation>
     </message>
     <message>
         <source>Go to Record</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ir para Registo</translation>
     </message>
     <message>
         <source>Highlight Merge Fields</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Realçar Campos de Impressão em Série</translation>
     </message>
     <message>
         <source>Insert Merge Field</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Campo de Impressão em Série</translation>
     </message>
     <message>
         <source>Insert Next Fields</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Campos Seguintes</translation>
     </message>
     <message>
         <source>Last Record</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Último Registo</translation>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Destinatários da impressão em série</translation>
     </message>
     <message>
         <source>Match Fields</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Atribuir Campos</translation>
     </message>
     <message>
         <source>Merge
 to Email</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Intercalar para
+Mensagem de E-mail</translation>
     </message>
     <message>
         <source>Merge to
 Different New Document</source>
-        <translation>Juntar para
-Outro Novo Documento</translation>
+        <translation>Intercalar para
+Novo Documento Diferente</translation>
     </message>
     <message>
         <source>Merge to Different New Document</source>
@@ -12826,7 +17220,7 @@ Outro Novo Documento</translation>
     </message>
     <message>
         <source>Preview Results</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Pré-visualizar Resultados</translation>
     </message>
     <message>
         <source>Previous
@@ -12836,7 +17230,7 @@ Anterior</translation>
     </message>
     <message>
         <source>Previous Record</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Registo Anterior</translation>
     </message>
     <message>
         <source>Start Mail Merge</source>
@@ -12845,8 +17239,8 @@ Anterior</translation>
     <message>
         <source>View
 Merged Data</source>
-        <translation>Ver Dados
-Que Foram Juntos</translation>
+        <translation>Ver
+Dados Intercalados</translation>
     </message>
     <message>
         <source>View Merged Data</source>
@@ -12881,7 +17275,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Go to TOC</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ir para o Índice</translation>
     </message>
     <message>
         <source>Go to ToC</source>
@@ -12933,7 +17327,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Atualizar Índice</translation>
     </message>
     <message>
         <source>Update ToC</source>
@@ -12976,7 +17370,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Fundo</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -13003,6 +17397,10 @@ Que Foram Juntos</translation>
         <translation>Mudar Direção do Texto</translation>
     </message>
     <message>
+        <source>Colors</source>
+        <translation>Cores</translation>
+    </message>
+    <message>
         <source>Column Break</source>
         <translation>Quebra de Coluna</translation>
     </message>
@@ -13020,7 +17418,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Custom Margins</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Margens Personalizadas</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -13039,8 +17437,16 @@ Que Foram Juntos</translation>
         <translation>Não Mostrar Número de Linha em Linhas em Branco</translation>
     </message>
     <message>
+        <source>Edit Theme</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation>Efeitos</translation>
+    </message>
+    <message>
         <source>Equal Height</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Altura Igual</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -13048,7 +17454,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Largura Igual</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -13071,6 +17477,10 @@ Que Foram Juntos</translation>
         <translation>Virar Verticalmente</translation>
     </message>
     <message>
+        <source>Fonts</source>
+        <translation>Fontes</translation>
+    </message>
+    <message>
         <source>Free Rotate</source>
         <translation>Rotação Livre</translation>
     </message>
@@ -13084,7 +17494,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gradação</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -13128,7 +17538,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>More Paper Sizes</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mais Tamanhos de Papel</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -13224,15 +17634,19 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Enviar para Trás</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
     </message>
     <message>
         <source>Size</source>
         <translation>Tamanho</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
     </message>
     <message>
         <source>Square</source>
@@ -13240,7 +17654,7 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
-        <translation>&quot;Suprimir para o Parágrafo Actual&quot;</translation>
+        <translation>Suprimir para o Parágrafo Actual</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -13248,23 +17662,27 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Opções de Orientação do Texto</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
-        <translation>&quot;Quebra de Moldagem do Texto&quot;</translation>
+        <translation>Quebra de Moldagem do Texto</translation>
     </message>
     <message>
         <source>Texture</source>
         <translation>Textura</translation>
     </message>
     <message>
+        <source>Themes</source>
+        <translation>Temas</translation>
+    </message>
+    <message>
         <source>Three</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Três</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Através</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -13272,11 +17690,11 @@ Que Foram Juntos</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Superior e Inferior</translation>
     </message>
     <message>
         <source>Two</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Dois</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -13285,22 +17703,23 @@ Que Foram Juntos</translation>
     <message>
         <source>Wrap
 Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Moldar
+Texto</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_paragraph</name>
     <message>
         <source>Auto Adjust Right Indent</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ajustar Automaticamente Avanço à Direita</translation>
     </message>
     <message>
         <source>Clean Line Spacing</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limpar Espaçamento entre Linhas</translation>
     </message>
     <message>
         <source>Clear Style</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Limpar Estilo</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13308,11 +17727,11 @@ Text</source>
     </message>
     <message>
         <source>Demote TOC Level</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Despromover Nível no Índice</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Despromover para Texto do Corpo</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -13320,7 +17739,7 @@ Text</source>
     </message>
     <message>
         <source>Document Gridlines</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Linha de Grelha do Documento</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -13328,11 +17747,11 @@ Text</source>
     </message>
     <message>
         <source>Increase Line Spacing</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Aumentar o Espaçamento entre Linhas</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nível 1;Nível 2;Nível 3;Nível 4;Nível 5;Nível 6;Nível 7;Nível 8;Nível 9;Texto do corpo</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -13344,7 +17763,7 @@ Text</source>
     </message>
     <message>
         <source>New Style</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Novo Estilo</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -13356,35 +17775,35 @@ Text</source>
     </message>
     <message>
         <source>Promote TOC Level</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Promover Nível no Índice</translation>
     </message>
     <message>
         <source>Promote to Level 1</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Promover para o Nível 1</translation>
     </message>
     <message>
         <source>Reduce Line Spacing</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Reduzir o Espaçamento entre Linhas</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ajustar à Grelha</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Estilo</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Estilos e Formatação</translation>
     </message>
     <message>
         <source>TOC Level</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nível no Índice</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -13395,35 +17814,39 @@ Text</source>
     <name>rainbow.ct_picturetools</name>
     <message>
         <source>0.25 pt</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>0,25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>0,5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>0,75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>1,5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>2,25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>3 pt</translation>
+    </message>
+    <message>
+        <source>3-D Rotation</source>
+        <translation></translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation>4.5 pt</translation>
+        <translation>4,5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
@@ -13431,7 +17854,11 @@ Text</source>
     </message>
     <message>
         <source>Adjust</source>
-        <translation>Ajustar</translation>
+        <translation type="obsolete">Ajustar</translation>
+    </message>
+    <message>
+        <source>Adjust Picture</source>
+        <translation></translation>
     </message>
     <message>
         <source>Align</source>
@@ -13466,12 +17893,16 @@ Text</source>
         <translation>Organizar</translation>
     </message>
     <message>
+        <source>Atristic Clip</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Automatic</source>
         <translation>Automático</translation>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Atrás do Texto</translation>
     </message>
     <message>
         <source>Black and White</source>
@@ -13483,7 +17914,7 @@ Text</source>
     </message>
     <message>
         <source>Bring in Front of Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Colocar Sobre o Texto</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -13495,7 +17926,7 @@ Text</source>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Clip Art</translation>
     </message>
     <message>
         <source>Color</source>
@@ -13515,7 +17946,11 @@ Text</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço-Ponto</translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation></translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -13539,7 +17974,7 @@ Text</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Altura Igual</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -13547,7 +17982,7 @@ Text</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Largura Igual</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -13555,11 +17990,11 @@ Text</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Preenchimento</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -13574,20 +18009,28 @@ Text</source>
         <translation>Formatar Objecto</translation>
     </message>
     <message>
+        <source>Format Painter</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Free Rotate</source>
         <translation>Rotação Livre</translation>
     </message>
     <message>
         <source>From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Do Ficheiro</translation>
     </message>
     <message>
         <source>From Scanner</source>
-        <translation type="unfinished"></translation>
+        <translation>Do Scanner</translation>
     </message>
     <message>
         <source>Gallery</source>
         <translation type="obsolete">Galeria</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation></translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -13595,7 +18038,7 @@ Text</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gradação</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -13603,7 +18046,7 @@ Text</source>
     </message>
     <message>
         <source>Grid</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Grelha</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -13614,20 +18057,28 @@ Text</source>
         <translation>Agrupar</translation>
     </message>
     <message>
+        <source>Height</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>In Front of Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>À Frente do Texto</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Em Linha com o Texto</translation>
     </message>
     <message>
         <source>Insert</source>
         <translation>Inserir</translation>
     </message>
     <message>
+        <source>Insert Atristic Clip</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Insert Clip Art</source>
-        <translation>Inserir Clip Art</translation>
+        <translation type="obsolete">Inserir Clip Art</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -13635,7 +18086,7 @@ Text</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir imagem online</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -13651,11 +18102,11 @@ Text</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço Longo-Ponto</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Traço Longo Ponto Ponto</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -13691,27 +18142,31 @@ Text</source>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para Baixo</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para a Esquerda</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para a Direita</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para Cima</translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation></translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem Online</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Destaque</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -13722,12 +18177,25 @@ Text</source>
         <translation>Linhas com Padrão</translation>
     </message>
     <message>
+        <source>PicOrTexture</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Picture</source>
         <translation>Imagem</translation>
     </message>
     <message>
+        <source>Picture
+Size</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Picture Adjust</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Ajustar a Imagem</translation>
+    </message>
+    <message>
+        <source>Picture Effects</source>
+        <translation></translation>
     </message>
     <message>
         <source>Picture Fill</source>
@@ -13739,19 +18207,31 @@ Text</source>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>Tamanho da Imagem</translation>
+        <translation type="obsolete">Tamanho da Imagem</translation>
     </message>
     <message>
         <source>Picture Styles</source>
         <translation>Estilos da Imagem</translation>
     </message>
     <message>
+        <source>Reflection</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Relative to Page</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Relativamente à Página</translation>
+    </message>
+    <message>
+        <source>Relative to Slide</source>
+        <translation></translation>
     </message>
     <message>
         <source>Reset Picture</source>
         <translation>Repor Imagem</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation></translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -13783,11 +18263,11 @@ Text</source>
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Colocar por Detrás do Texto</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Enviar para Trás</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -13795,7 +18275,16 @@ Text</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation></translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -13803,15 +18292,15 @@ Text</source>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos de Sombra</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Ativar/Desativar Sombra</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>Opções da Sombra</translation>
+        <translation type="obsolete">Opções da Sombra</translation>
     </message>
     <message>
         <source>Shadow Style</source>
@@ -13819,83 +18308,83 @@ Text</source>
     </message>
     <message>
         <source>Shadow Style 1</source>
-        <translation>Estilo de Sombreado 1</translation>
+        <translation type="obsolete">Estilo de Sombreado 1</translation>
     </message>
     <message>
         <source>Shadow Style 10</source>
-        <translation>Estilo de Sombreado 10</translation>
+        <translation type="obsolete">Estilo de Sombreado 10</translation>
     </message>
     <message>
         <source>Shadow Style 11</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Estilo de Sombra 11</translation>
     </message>
     <message>
         <source>Shadow Style 12</source>
-        <translation>Estilo de Sombreado 12</translation>
+        <translation type="obsolete">Estilo de Sombreado 12</translation>
     </message>
     <message>
         <source>Shadow Style 13</source>
-        <translation>Estilo de Sombreado 13</translation>
+        <translation type="obsolete">Estilo de Sombreado 13</translation>
     </message>
     <message>
         <source>Shadow Style 14</source>
-        <translation>Estilo de Sombreado 14</translation>
+        <translation type="obsolete">Estilo de Sombreado 14</translation>
     </message>
     <message>
         <source>Shadow Style 15</source>
-        <translation>Estilo de Sombreado 15</translation>
+        <translation type="obsolete">Estilo de Sombreado 15</translation>
     </message>
     <message>
         <source>Shadow Style 16</source>
-        <translation>Estilo de Sombreado 16</translation>
+        <translation type="obsolete">Estilo de Sombreado 16</translation>
     </message>
     <message>
         <source>Shadow Style 17</source>
-        <translation>Estilo de Sombreado 17</translation>
+        <translation type="obsolete">Estilo de Sombreado 17</translation>
     </message>
     <message>
         <source>Shadow Style 18</source>
-        <translation>Estilo de Sombreado 18</translation>
+        <translation type="obsolete">Estilo de Sombreado 18</translation>
     </message>
     <message>
         <source>Shadow Style 19</source>
-        <translation>Estilo de Sombreado 19</translation>
+        <translation type="obsolete">Estilo de Sombreado 19</translation>
     </message>
     <message>
         <source>Shadow Style 2</source>
-        <translation>Estilo de Sombreado 2</translation>
+        <translation type="obsolete">Estilo de Sombreado 2</translation>
     </message>
     <message>
         <source>Shadow Style 20</source>
-        <translation>Estilo de Sombreado 20</translation>
+        <translation type="obsolete">Estilo de Sombreado 20</translation>
     </message>
     <message>
         <source>Shadow Style 3</source>
-        <translation>Estilo de Sombreado 3</translation>
+        <translation type="obsolete">Estilo de Sombreado 3</translation>
     </message>
     <message>
         <source>Shadow Style 4</source>
-        <translation>Estilo de Sombreado 4</translation>
+        <translation type="obsolete">Estilo de Sombreado 4</translation>
     </message>
     <message>
         <source>Shadow Style 5</source>
-        <translation>Estilo de Sombreado 5</translation>
+        <translation type="obsolete">Estilo de Sombreado 5</translation>
     </message>
     <message>
         <source>Shadow Style 6</source>
-        <translation>Estilo de Sombreado 6</translation>
+        <translation type="obsolete">Estilo de Sombreado 6</translation>
     </message>
     <message>
         <source>Shadow Style 7</source>
-        <translation>Estilo de Sombreado 7</translation>
+        <translation type="obsolete">Estilo de Sombreado 7</translation>
     </message>
     <message>
         <source>Shadow Style 8</source>
-        <translation>Estilo de Sombreado 8</translation>
+        <translation type="obsolete">Estilo de Sombreado 8</translation>
     </message>
     <message>
         <source>Shadow Style 9</source>
-        <translation>Estilo de Sombreado 9</translation>
+        <translation type="obsolete">Estilo de Sombreado 9</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
@@ -13914,12 +18403,24 @@ Text</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Cima</translation>
     </message>
     <message>
+        <source>Size</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Snapper</translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation>Solido</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Quadrado</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -13927,11 +18428,11 @@ Text</source>
     </message>
     <message>
         <source>Texture</source>
-        <translation>Textura</translation>
+        <translation type="obsolete">Textura</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Através</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -13939,7 +18440,7 @@ Text</source>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Superior e Inferior</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -13954,17 +18455,559 @@ Text</source>
         <translation>Peso</translation>
     </message>
     <message>
+        <source>Width</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Wrap Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Moldar Texto</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Moldar Texto</translation>
     </message>
     <message>
         <source>Wrap Text@rainbow</source>
         <translation type="obsolete">&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Wrapping</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Wrapping Style</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_picturetools.Picture</name>
+    <message>
+        <source>Adjust</source>
+        <translation>Ajustar</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_picturetools_vml</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation>0,25 pt</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation>0,5 pt</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation>0,75 pt</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation>1 pt</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation>1,5 pt</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation>2,25 pt</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation>3 pt</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation>4,5 pt</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation>6 pt</translation>
+    </message>
+    <message>
+        <source>Adjust Picture</source>
+        <translation>Ajustar a Imagem</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>Alinhar</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Behind Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Black and White</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bring in Front of Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Change Picture</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Compress Pictures</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Detailed Settings</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>From File</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>From Scanner</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Gallery</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Gridlines</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>In Front of Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Less Brightness</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Less Contrast</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Line Style</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Brightness</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Contrast</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Shadow Colors</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Down</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Picture Adjust</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Picture Fill</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Picture Outline</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Picture Styles</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PictureSize</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Relative to Page</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Reset Picture</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Semitransparent Shadow</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Send Behind Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Set Transparent Color</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Shadow Color</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Shadow On/Off</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Shadow Setting</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Shadow Style</source>
+        <translation>Estilo do Sombreado</translation>
+    </message>
+    <message>
+        <source>Shadow Style 1</source>
+        <translation>Estilo do Sombreado 1</translation>
+    </message>
+    <message>
+        <source>Shadow Style 10</source>
+        <translation>Estilo do Sombreado 10</translation>
+    </message>
+    <message>
+        <source>Shadow Style 11</source>
+        <translation>Estilo do Sombreado 11</translation>
+    </message>
+    <message>
+        <source>Shadow Style 12</source>
+        <translation>Estilo do Sombreado 12</translation>
+    </message>
+    <message>
+        <source>Shadow Style 13</source>
+        <translation>Estilo do Sombreado 13</translation>
+    </message>
+    <message>
+        <source>Shadow Style 14</source>
+        <translation>Estilo do Sombreado 14</translation>
+    </message>
+    <message>
+        <source>Shadow Style 15</source>
+        <translation>Estilo do Sombreado 15</translation>
+    </message>
+    <message>
+        <source>Shadow Style 16</source>
+        <translation>Estilo do Sombreado 16</translation>
+    </message>
+    <message>
+        <source>Shadow Style 17</source>
+        <translation>Estilo do Sombreado 17</translation>
+    </message>
+    <message>
+        <source>Shadow Style 18</source>
+        <translation>Estilo do Sombreado 18</translation>
+    </message>
+    <message>
+        <source>Shadow Style 19</source>
+        <translation>Estilo do Sombreado 19</translation>
+    </message>
+    <message>
+        <source>Shadow Style 2</source>
+        <translation>Estilo do Sombreado 2</translation>
+    </message>
+    <message>
+        <source>Shadow Style 20</source>
+        <translation>Estilo do Sombreado 20</translation>
+    </message>
+    <message>
+        <source>Shadow Style 3</source>
+        <translation>Estilo do Sombreado 3</translation>
+    </message>
+    <message>
+        <source>Shadow Style 4</source>
+        <translation>Estilo do Sombreado 4</translation>
+    </message>
+    <message>
+        <source>Shadow Style 5</source>
+        <translation>Estilo do Sombreado 5</translation>
+    </message>
+    <message>
+        <source>Shadow Style 6</source>
+        <translation>Estilo do Sombreado 6</translation>
+    </message>
+    <message>
+        <source>Shadow Style 7</source>
+        <translation>Estilo do Sombreado 7</translation>
+    </message>
+    <message>
+        <source>Shadow Style 8</source>
+        <translation>Estilo do Sombreadoa 8</translation>
+    </message>
+    <message>
+        <source>Shadow Style 9</source>
+        <translation>Estilo do Sombreado 9</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation>Sólido</translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation>Quadrado</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation>Ponto Quadrado</translation>
+    </message>
+    <message>
+        <source>Texture</source>
+        <translation>Textura</translation>
+    </message>
+    <message>
+        <source>Through</source>
+        <translation>Através</translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Top and Bottom</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>Desagrupar</translation>
+    </message>
+    <message>
+        <source>Washout</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation>Moldar Texto</translation>
     </message>
 </context>
 <context>
@@ -13975,7 +19018,7 @@ Text</source>
     </message>
     <message>
         <source>One Page</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Uma Página</translation>
     </message>
     <message>
         <source>Print</source>
@@ -13987,11 +19030,11 @@ Text</source>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Duas Páginas</translation>
     </message>
     <message>
         <source>View Ruler</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ver Régua</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -14002,142 +19045,150 @@ Text</source>
     <name>rainbow.ct_references</name>
     <message>
         <source>Body Text</source>
-        <translation>&quot;Corpo do Texto&quot;</translation>
+        <translation>Corpo do Texto</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation>&quot;Citação&quot;</translation>
+        <translation>Citação</translation>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation>&quot;Referência Cruzada&quot;</translation>
+        <translation>Referência Cruzada</translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation type="obsolete">Envelopes</translation>
     </message>
     <message>
         <source>Footnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nota de rodapé</translation>
     </message>
     <message>
         <source>Insert Endnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Nota de Fim</translation>
     </message>
     <message>
         <source>Insert Footnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Nota de Rodapé</translation>
     </message>
     <message>
         <source>Insert TOC</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Índice</translation>
     </message>
     <message>
         <source>Level 1</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nível 1</translation>
     </message>
     <message>
         <source>Level 2</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nível 2</translation>
     </message>
     <message>
         <source>Level 3</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nível 3</translation>
     </message>
     <message>
         <source>Level 4</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nível 4</translation>
     </message>
     <message>
         <source>Level 5</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nível 5</translation>
     </message>
     <message>
         <source>Level 6</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nível 6</translation>
     </message>
     <message>
         <source>Level 7</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nível 7</translation>
     </message>
     <message>
         <source>Level 8</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nível 8</translation>
     </message>
     <message>
         <source>Level 9</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nível 9</translation>
     </message>
     <message>
         <source>Mail Merge</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Impressão em Série</translation>
     </message>
     <message>
         <source>Mailings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mailings</translation>
     </message>
     <message>
         <source>Next Endnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nota de Fim Seguinte</translation>
     </message>
     <message>
         <source>Next Footnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nota de Rodapé Seguinte</translation>
     </message>
     <message>
         <source>Previous Endnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nota de Fim Anterior</translation>
     </message>
     <message>
         <source>Previous Footnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nota de Rodapé Anterior</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar Separador de Nota de rodapé/Nota de fim</translation>
     </message>
     <message>
         <source>Show Or Hide Footnote/Endnote Separator</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar ou Ocultar Separador de Nota de Rodapé/Nota de Fim</translation>
     </message>
     <message>
         <source>TOC Level</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nível no Índice</translation>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation>&quot;Índice&quot;</translation>
+        <translation>Índice</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Atualizar Índice</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_review</name>
     <message>
         <source>Accept</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Aceitar</translation>
     </message>
     <message>
         <source>Accept All Changes in Document</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Aceitar Todas as Alterações ao Documento</translation>
     </message>
     <message>
         <source>Accept Change</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Aceitar Alteração</translation>
     </message>
     <message>
         <source>Accept Changes Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceitar Alterações Selecionadas</translation>
     </message>
     <message>
         <source>Accept Selected Change</source>
         <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
+        <source>Accept Selection Change</source>
+        <translation type="obsolete">Aceitar Alteração da Seleção</translation>
+    </message>
+    <message>
         <source>All Reviewers</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Todos os Revisores</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
@@ -14145,7 +19196,7 @@ Text</source>
     </message>
     <message>
         <source>Change User Name...</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Alterar Nome de Utilizador...</translation>
     </message>
     <message>
         <source>Check Spelling</source>
@@ -14153,23 +19204,23 @@ Text</source>
     </message>
     <message>
         <source>Chinese Transition</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Transição Chinesa</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Comentários</translation>
     </message>
     <message>
         <source>Compare</source>
-        <translation type="unfinished"></translation>
+        <translation>Comparar</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Converter em Chinês Simplificado</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Converter em Chinês Tradicional</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -14177,7 +19228,7 @@ Text</source>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar Todos os Comentário no Documento</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -14186,7 +19237,7 @@ Text</source>
     <message>
         <source>Delete Comment</source>
         <comment>Review-&gt;Delete-&gt;Delete Comment</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar Comentário</translation>
     </message>
     <message>
         <source>Delete Comment@Review-&gt;Delete-&gt;Delete Comment</source>
@@ -14194,23 +19245,23 @@ Text</source>
     </message>
     <message>
         <source>Display for Review</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar para Revisão</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar Marcação Final;Final;Mostrar Marcação Original;Original</translation>
     </message>
     <message>
         <source>Highlight</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Realçar</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Novo Comentário</translation>
     </message>
     <message>
         <source>Next</source>
@@ -14218,7 +19269,7 @@ Text</source>
     </message>
     <message>
         <source>Next Change</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Alteração Seguinte</translation>
     </message>
     <message>
         <source>Next Comment</source>
@@ -14230,7 +19281,7 @@ Text</source>
     </message>
     <message>
         <source>Previous Change</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Alteração Anterior</translation>
     </message>
     <message>
         <source>Previous Comment</source>
@@ -14242,23 +19293,27 @@ Text</source>
     </message>
     <message>
         <source>Protect</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Proteger</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Rejeitar</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Rejeitar Todas as Alterações ao Documento</translation>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Rejeitar Alteração</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
         <translation>Restringir Edição</translation>
+    </message>
+    <message>
+        <source>ReviewPane</source>
+        <translation type="obsolete">Painel de Revisão</translation>
     </message>
     <message>
         <source>Reviewers</source>
@@ -14266,15 +19321,15 @@ Text</source>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Painel de Revisão</translation>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Painel de Revisão Horizontal</translation>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Painel de Revisão Vertical</translation>
     </message>
     <message>
         <source>Show</source>
@@ -14286,23 +19341,27 @@ Text</source>
     </message>
     <message>
         <source>Show Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Autor</translation>
     </message>
     <message>
         <source>Show Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Comentários</translation>
     </message>
     <message>
         <source>Show Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Data</translation>
+    </message>
+    <message>
+        <source>Show Format Change</source>
+        <translation type="obsolete">Mostrar Alteração de Formato</translation>
     </message>
     <message>
         <source>Show Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Formatação</translation>
     </message>
     <message>
         <source>Show Insertions and Deletions</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Inserções e Eliminações</translation>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
@@ -14314,15 +19373,15 @@ Text</source>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar Informações do Revisor em Balões</translation>
     </message>
     <message>
         <source>Show Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Hora</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Verificação Ortográfica</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -14330,11 +19389,15 @@ Text</source>
     </message>
     <message>
         <source>Track Changes Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções do Registo de Alterações...</translation>
     </message>
     <message>
         <source>Tracking</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Registo</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation>Tradução</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -14343,6 +19406,14 @@ Text</source>
     <message>
         <source>Word Count</source>
         <translation>Contabilizar Palavras</translation>
+    </message>
+    <message>
+        <source>horzReviewPane</source>
+        <translation type="obsolete">horzReviewPane</translation>
+    </message>
+    <message>
+        <source>vertReviewPane</source>
+        <translation type="obsolete">vertReviewPane</translation>
     </message>
 </context>
 <context>
@@ -14357,7 +19428,7 @@ Text</source>
     </message>
     <message>
         <source>Contents Page</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Página de Índice</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -14369,7 +19440,7 @@ Text</source>
     </message>
     <message>
         <source>Cover and TOC</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Capa e Índice</translation>
     </message>
     <message>
         <source>Cover and ToC</source>
@@ -14397,7 +19468,7 @@ Text</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cabeçalho e Rodapé</translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -14429,7 +19500,7 @@ Text</source>
     </message>
     <message>
         <source>Locate to Section</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Localizar na Secção</translation>
     </message>
     <message>
         <source>More Columns</source>
@@ -14489,7 +19560,7 @@ Text</source>
     </message>
     <message>
         <source>Section Management</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gestão de Secções</translation>
     </message>
     <message>
         <source>Section Manager</source>
@@ -14501,7 +19572,7 @@ Text</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
     </message>
     <message>
         <source>Show / Hide Section Navigation</source>
@@ -14517,7 +19588,7 @@ Text</source>
     </message>
     <message>
         <source>Show/Hide Section Navigation</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mostrar/Ocultar Navegação na Secção</translation>
     </message>
     <message>
         <source>Split Section</source>
@@ -14552,7 +19623,7 @@ Text</source>
     </message>
     <message>
         <source>3-D Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos 3D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
@@ -14676,7 +19747,7 @@ Text</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -14716,19 +19787,19 @@ Text</source>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para Baixo</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para a Esquerda</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para a Direita</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para Cima</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -14752,7 +19823,7 @@ Text</source>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos de Sombra</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
@@ -14863,6 +19934,10 @@ Text</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Cima</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
+    </message>
+    <message>
         <source>Surface</source>
         <translation>Superficie</translation>
     </message>
@@ -14935,7 +20010,7 @@ Text</source>
     </message>
     <message>
         <source>AutoFit to Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar Automaticamente ao Conteúdo</translation>
     </message>
     <message>
         <source>AutoFit to Window</source>
@@ -15023,7 +20098,7 @@ Text</source>
     </message>
     <message>
         <source>Repeat Header Rows</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Repetir Linhas de Cabeçalho</translation>
     </message>
     <message>
         <source>Repeat Headings</source>
@@ -15035,7 +20110,7 @@ Text</source>
     </message>
     <message>
         <source>Rows and Columns</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Linhas e Colunas</translation>
     </message>
     <message>
         <source>Rows/Columns</source>
@@ -15067,7 +20142,7 @@ Text</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -15115,6 +20190,373 @@ Text</source>
     </message>
 </context>
 <context>
+    <name>rainbow.ct_texttool</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Break Forward Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Text Box Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Emphasis mark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Even Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Even Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Fill Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gridlines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grow Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Textbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Outline Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Underline Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Underlines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multi-line Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relative to Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shrink Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strikethrough</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArt Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>rainbow.ct_view</name>
     <message>
         <source>100%</source>
@@ -15137,7 +20579,8 @@ Outras Janelas</translation>
     <message>
         <source>Close
 Other Windows</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Fechar
+Outras Janelas</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -15149,7 +20592,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Developer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Programador</translation>
     </message>
     <message>
         <source>Document Map</source>
@@ -15161,11 +20604,11 @@ Other Windows</source>
     </message>
     <message>
         <source>Document Views</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Vistas de documento</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Modo de Proteção dos Olhos</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -15177,7 +20620,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
@@ -15193,7 +20636,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Markup</source>
-        <translation>&quot;Marcações&quot;</translation>
+        <translation>Marcações</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
@@ -15257,7 +20700,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Switch Windows</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mudar de Janela</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
@@ -15265,7 +20708,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Table Gridlines</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Linhas de Grelha da Tabela</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -15277,7 +20720,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>Vertical Arrange</source>
@@ -15325,7 +20768,8 @@ Other Windows</source>
     <message>
         <source>3-D
 Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos
+3D</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -15453,7 +20897,7 @@ Effects</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -15493,19 +20937,19 @@ Effects</source>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para Baixo</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para a Esquerda</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para a Direita</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Deslocar Sombra para Cima</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -15526,12 +20970,14 @@ Effects</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor da
+Sombra</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Efeitos de
+Sombra</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -15646,6 +21092,10 @@ Effects</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Sombra para Cima</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
+    </message>
+    <message>
         <source>Surface</source>
         <translation>Superficie</translation>
     </message>
@@ -15674,15 +21124,15 @@ Effects</source>
     <name>rainbow.ct_wordart</name>
     <message>
         <source>0.25 pt</source>
-        <translation>0.25 pt</translation>
+        <translation>0,25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation>0.5 pt</translation>
+        <translation>0,5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>0.75 pt</translation>
+        <translation>0,75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
@@ -15690,11 +21140,11 @@ Effects</source>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation>1.5 pt</translation>
+        <translation>1,5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>2.25 pt</translation>
+        <translation>2,25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
@@ -15702,7 +21152,7 @@ Effects</source>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation>4.5 pt</translation>
+        <translation>4,5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
@@ -15782,15 +21232,15 @@ Effects</source>
     </message>
     <message>
         <source>Button (Curve)</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Botão (Curvar)</translation>
     </message>
     <message>
         <source>Can Down</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Rótulo para Baixo</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Rótulo para Cima</translation>
     </message>
     <message>
         <source>Cascade Down</source>
@@ -15806,7 +21256,7 @@ Effects</source>
     </message>
     <message>
         <source>Character Spacing</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Espaçamento entre Carateres</translation>
     </message>
     <message>
         <source>Chevron Down</source>
@@ -15842,7 +21292,7 @@ Effects</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço-Ponto</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -15898,7 +21348,7 @@ Effects</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Altura Igual</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -15906,7 +21356,7 @@ Effects</source>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Largura Igual</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -15918,7 +21368,7 @@ Effects</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Selecionador de cores</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -15958,7 +21408,7 @@ Effects</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Gradação</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -16002,7 +21452,7 @@ Effects</source>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Letra Justificada</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -16010,11 +21460,11 @@ Effects</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço Longo-Ponto</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Traço Longo Ponto Ponto</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -16070,11 +21520,11 @@ Effects</source>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Anel por Dentro</translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Anel por Fora</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -16094,7 +21544,7 @@ Effects</source>
     </message>
     <message>
         <source>Same Letter Heights</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Letras com a Mesma Altura</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -16114,11 +21564,11 @@ Effects</source>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Enviar para Trás</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
     </message>
     <message>
         <source>Slant Down</source>
@@ -16127,6 +21577,10 @@ Effects</source>
     <message>
         <source>Slant Up</source>
         <translation>Enclinar para Cima</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Selecionador de cores</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -16146,7 +21600,7 @@ Effects</source>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Esticar Justificado</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -16167,12 +21621,12 @@ Effects</source>
     <message>
         <source>Tight</source>
         <comment>Spacing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Justo</translation>
     </message>
     <message>
         <source>Tight</source>
         <comment>Wrapping</comment>
-        <translation type="unfinished"></translation>
+        <translation>Justo</translation>
     </message>
     <message>
         <source>Tight@Spacing</source>
@@ -16229,11 +21683,11 @@ Effects</source>
     <message>
         <source>WordArt</source>
         <comment>Insert</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>Alinhamento do WordArt</translation>
+        <translation>Alinhamento</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
@@ -16269,7 +21723,7 @@ Effects</source>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>Texto Vertical do WordArt</translation>
+        <translation>Texto Vertical</translation>
     </message>
     <message>
         <source>WordArt@Insert</source>
@@ -16277,12 +21731,12 @@ Effects</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Moldar Texto</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Moldar Texto</translation>
     </message>
     <message>
         <source>Wrap Text@rainbow</source>
@@ -16301,7 +21755,7 @@ Effects</source>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ligação de Nuvem</translation>
     </message>
     <message>
         <source>Cloud feedback</source>
@@ -16309,11 +21763,19 @@ Effects</source>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Desativar Cópia de Segurança Automática</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation>Entrada Docer</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation></translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ativar Cópia de Segurança Automática</translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
@@ -16329,11 +21791,15 @@ Effects</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar para PDF</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Modo de Proteção dos Olhos</translation>
+    </message>
+    <message>
+        <source>Feedback and Support</source>
+        <translation></translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -16341,11 +21807,11 @@ Effects</source>
     </message>
     <message>
         <source>File Backup</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cópia de Segurança de Ficheiros</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Roaming de Ficheiros</translation>
     </message>
     <message>
         <source>Help</source>
@@ -16357,7 +21823,7 @@ Effects</source>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ajudar-nos a melhorar o WPS Office</translation>
     </message>
     <message>
         <source>KOS My account</source>
@@ -16381,7 +21847,7 @@ Effects</source>
     </message>
     <message>
         <source>More from Microblog</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mais do Microblogue</translation>
     </message>
     <message>
         <source>Not Logged in</source>
@@ -16397,7 +21863,11 @@ Effects</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Abrir a partir dos Documentos na Nuvem</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="obsolete">PDF para Word</translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
@@ -16405,15 +21875,15 @@ Effects</source>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Guardar nos Documentos na Nuvem</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Partilhar no Microblogue</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Partilhar na Página Web do Microblogue</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -16421,15 +21891,19 @@ Effects</source>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funcionalidades Especiais</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Parar Cópias de Segurança Automáticas</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="obsolete">Texto em Voz</translation>
+    </message>
+    <message>
         <source>User Feedback</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="unfinished">Comentários do Utilizador</translation>
     </message>
     <message>
         <source>User Guide</source>
@@ -16437,15 +21911,15 @@ Effects</source>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ver Ficheiros em Segurança</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ver Cópia de Segurança do Histórico</translation>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Esquema Microblogue do WPS</translation>
     </message>
     <message>
         <source>WPS Permit</source>
@@ -16453,11 +21927,42 @@ Effects</source>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferramentas do Word</translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Cópia de Segurança da Área de Trabalho</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.proxycommands</name>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation>Texto Completo em Voz</translation>
+    </message>
+    <message>
+        <source>Output Voice</source>
+        <translation>Voz de Saída</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation>PDF para Word</translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation>Voz de Seleção</translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation>Mostrar Barra de Ferramentas</translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation>Texto em Voz</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation>Tradução</translation>
     </message>
 </context>
 <context>
@@ -16496,15 +22001,6 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.3DOnOff</name>
-</context>
-<context>
-    <name>tips.3DStylePalette</name>
-</context>
-<context>
-    <name>tips.3DSurfaceMenu</name>
-</context>
-<context>
     <name>tips.3DTiltDown</name>
     <message>
         <source>Tilt Down</source>
@@ -16533,44 +22029,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.AcceptChangeOnTB</name>
-</context>
-<context>
-    <name>tips.AdjustTableProperties</name>
-</context>
-<context>
-    <name>tips.AlignBottomCenter</name>
-</context>
-<context>
-    <name>tips.AlignBottomJustified</name>
-</context>
-<context>
-    <name>tips.AlignBottomRight</name>
-</context>
-<context>
     <name>tips.AlignCenter</name>
     <message>
         <source>Align Center</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Alinhar ao Centro</translation>
     </message>
-</context>
-<context>
-    <name>tips.AlignCenterJustified</name>
-</context>
-<context>
-    <name>tips.AlignCenterRight</name>
-</context>
-<context>
-    <name>tips.AlignStyle</name>
-</context>
-<context>
-    <name>tips.AlignTopCenter</name>
-</context>
-<context>
-    <name>tips.AlignTopJustified</name>
-</context>
-<context>
-    <name>tips.AlignTopRight</name>
 </context>
 <context>
     <name>tips.ArrangeAll</name>
@@ -16580,32 +22043,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.ArtisticWordCharacterSpacing</name>
-</context>
-<context>
-    <name>tips.AutoAdjustRightIndent</name>
-</context>
-<context>
-    <name>tips.AutoFitWindow</name>
-</context>
-<context>
-    <name>tips.AutoVersion</name>
-</context>
-<context>
-    <name>tips.Autobackup</name>
-</context>
-<context>
-    <name>tips.BackgroundShapeFillColor</name>
-</context>
-<context>
     <name>tips.Bold</name>
     <message>
         <source>Bold</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Negrito</translation>
     </message>
-</context>
-<context>
-    <name>tips.BreakForwardLink</name>
 </context>
 <context>
     <name>tips.BringForward</name>
@@ -16629,9 +22071,6 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.CTB_DesignMode</name>
-</context>
-<context>
     <name>tips.CTB_MoreControls</name>
     <message>
         <source>More Controls</source>
@@ -16639,17 +22078,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.CTB_Property</name>
-</context>
-<context>
     <name>tips.CTB_ViewCode</name>
     <message>
         <source>View Code</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Ver Código</translation>
     </message>
-</context>
-<context>
-    <name>tips.ChangeCase</name>
 </context>
 <context>
     <name>tips.ChangePicture</name>
@@ -16666,26 +22099,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.CharacterBorder</name>
-</context>
-<context>
-    <name>tips.CharacterShading</name>
-</context>
-<context>
     <name>tips.CheckSpelling</name>
     <message>
         <source>Check Spelling</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Verificação Ortográfica</translation>
     </message>
-</context>
-<context>
-    <name>tips.Chinese Translation</name>
-</context>
-<context>
-    <name>tips.CleanLineSpacing</name>
-</context>
-<context>
-    <name>tips.ClearFormats</name>
 </context>
 <context>
     <name>tips.ClearTableStyle</name>
@@ -16744,18 +22162,6 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.CmpSideBySide</name>
-</context>
-<context>
-    <name>tips.CollapseOnOutlining</name>
-</context>
-<context>
-    <name>tips.CompressPictures</name>
-</context>
-<context>
-    <name>tips.ConvertTabletoText</name>
-</context>
-<context>
     <name>tips.Copy</name>
     <message>
         <source>Copy</source>
@@ -16765,15 +22171,6 @@ Effects</source>
         <source>Copy the selection and put it on the system Clipboard.</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Copiar a selecção para a Área de Transferência</translation>
     </message>
-</context>
-<context>
-    <name>tips.CoverPages</name>
-</context>
-<context>
-    <name>tips.CreateTextBoxLink</name>
-</context>
-<context>
-    <name>tips.CrossReference</name>
 </context>
 <context>
     <name>tips.Cut</name>
@@ -16797,57 +22194,6 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.DeleteSection</name>
-</context>
-<context>
-    <name>tips.DemoteOnOutlining</name>
-</context>
-<context>
-    <name>tips.DemoteOnParagraph</name>
-</context>
-<context>
-    <name>tips.DemoteToLowestLevelOnOutlining</name>
-</context>
-<context>
-    <name>tips.DemoteToLowestLevelOnParagraph</name>
-</context>
-<context>
-    <name>tips.DetailedSettings_DrawingTools</name>
-</context>
-<context>
-    <name>tips.DetailedSettings_Home</name>
-</context>
-<context>
-    <name>tips.DetailedSettings_PageLayout</name>
-</context>
-<context>
-    <name>tips.DetailedSettings_Paragraph</name>
-</context>
-<context>
-    <name>tips.DetailedSettings_PictureTools</name>
-</context>
-<context>
-    <name>tips.DetailedSettings_Section</name>
-</context>
-<context>
-    <name>tips.DetailedSettings_TableTools</name>
-</context>
-<context>
-    <name>tips.DetailedSettings_WordArt</name>
-</context>
-<context>
-    <name>tips.DevelopmentTools</name>
-</context>
-<context>
-    <name>tips.DirectoryLevel</name>
-</context>
-<context>
-    <name>tips.DisableLineHeightGrid</name>
-</context>
-<context>
-    <name>tips.DisplayForReview</name>
-</context>
-<context>
     <name>tips.DistributeColumns</name>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -16860,15 +22206,6 @@ Effects</source>
         <source>Distribute Rows Evenly</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Distribuir Linhas Uniformemente</translation>
     </message>
-</context>
-<context>
-    <name>tips.DoublePages</name>
-</context>
-<context>
-    <name>tips.DrawTable</name>
-</context>
-<context>
-    <name>tips.DrawingToolsDetailedSettings</name>
 </context>
 <context>
     <name>tips.DropCap</name>
@@ -16889,38 +22226,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.EditWordArtText</name>
-</context>
-<context>
-    <name>tips.EmphasisMark</name>
-</context>
-<context>
-    <name>tips.EncloseCharacters</name>
-</context>
-<context>
-    <name>tips.EnterParagraphAdjustment</name>
-</context>
-<context>
     <name>tips.ExitParagraph</name>
     <message>
         <source>Close</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Fechar</translation>
     </message>
-</context>
-<context>
-    <name>tips.ExpandOnOutlining</name>
-</context>
-<context>
-    <name>tips.ExplorBackupDir</name>
-</context>
-<context>
-    <name>tips.ExplorVersion</name>
-</context>
-<context>
-    <name>tips.ExportWeiboImageCmd</name>
-</context>
-<context>
-    <name>tips.FieldFormula</name>
 </context>
 <context>
     <name>tips.FillColor</name>
@@ -16937,18 +22247,6 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.FirstPageIsDifferent</name>
-</context>
-<context>
-    <name>tips.FirstRecord</name>
-</context>
-<context>
-    <name>tips.FirstSection</name>
-</context>
-<context>
-    <name>tips.FontColor</name>
-</context>
-<context>
     <name>tips.FontName</name>
     <message>
         <source>Font</source>
@@ -16963,12 +22261,6 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.FooterLinkToPrevious</name>
-</context>
-<context>
-    <name>tips.FormatAlignCenter</name>
-</context>
-<context>
     <name>tips.FormatAlignDistributed</name>
     <message>
         <source>Distributed</source>
@@ -16981,12 +22273,6 @@ Effects</source>
         <source>Justify</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Justificar</translation>
     </message>
-</context>
-<context>
-    <name>tips.FormatAlignLeft</name>
-</context>
-<context>
-    <name>tips.FormatAlignRight</name>
 </context>
 <context>
     <name>tips.FormatObject</name>
@@ -17007,59 +22293,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.FullScreenMode</name>
-</context>
-<context>
-    <name>tips.Gallery</name>
-</context>
-<context>
-    <name>tips.GenkoSetting</name>
-</context>
-<context>
-    <name>tips.GotoFootnotes</name>
-</context>
-<context>
-    <name>tips.GotoRecord</name>
-</context>
-<context>
-    <name>tips.GotoTocOnOutlining</name>
-</context>
-<context>
     <name>tips.Gridlines</name>
     <message>
         <source>Gridlines</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Linhas da Grelha</translation>
     </message>
-</context>
-<context>
-    <name>tips.GrowFont</name>
-</context>
-<context>
-    <name>tips.HeadRowsRepeat</name>
-</context>
-<context>
-    <name>tips.HeaderAndFooterSetting</name>
-</context>
-<context>
-    <name>tips.HeaderFooter</name>
-</context>
-<context>
-    <name>tips.HeaderFooterOptions</name>
-</context>
-<context>
-    <name>tips.HeaderLine</name>
-</context>
-<context>
-    <name>tips.HeaderLinkToPrevious</name>
-</context>
-<context>
-    <name>tips.HighlightColor</name>
-</context>
-<context>
-    <name>tips.HighlightMergeFields</name>
-</context>
-<context>
-    <name>tips.HomeDetailedSettings</name>
 </context>
 <context>
     <name>tips.IncreaseIndent</name>
@@ -17069,41 +22307,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.IncreaseStep</name>
-</context>
-<context>
-    <name>tips.InsertAutoText</name>
-</context>
-<context>
-    <name>tips.InsertBlankPage</name>
-</context>
-<context>
-    <name>tips.InsertBookmark</name>
-</context>
-<context>
-    <name>tips.InsertCaption</name>
-</context>
-<context>
-    <name>tips.InsertCells</name>
-</context>
-<context>
-    <name>tips.InsertChart</name>
-</context>
-<context>
     <name>tips.InsertClipArt</name>
     <message>
         <source>Insert Clip Art</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Inserir Clip Art</translation>
     </message>
-</context>
-<context>
-    <name>tips.InsertColumnLeft</name>
-</context>
-<context>
-    <name>tips.InsertColumnRight</name>
-</context>
-<context>
-    <name>tips.InsertComment</name>
 </context>
 <context>
     <name>tips.InsertDateTime</name>
@@ -17113,15 +22321,6 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.InsertField</name>
-</context>
-<context>
-    <name>tips.InsertFileObject</name>
-</context>
-<context>
-    <name>tips.InsertFootnote</name>
-</context>
-<context>
     <name>tips.InsertHyperlink</name>
     <message>
         <source>Insert Hyperlink</source>
@@ -17129,53 +22328,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.InsertIndexTables</name>
-</context>
-<context>
-    <name>tips.InsertMergeFields</name>
-</context>
-<context>
-    <name>tips.InsertMutidiagonalCell</name>
-</context>
-<context>
-    <name>tips.InsertNumber</name>
-</context>
-<context>
-    <name>tips.InsertObject</name>
-</context>
-<context>
-    <name>tips.InsertPageBreak</name>
-</context>
-<context>
-    <name>tips.InsertPageNumbers</name>
-</context>
-<context>
-    <name>tips.InsertPictureFromFile</name>
-</context>
-<context>
-    <name>tips.InsertRowAbove</name>
-</context>
-<context>
-    <name>tips.InsertRowBelow</name>
-</context>
-<context>
-    <name>tips.InsertSectionAfter</name>
-</context>
-<context>
-    <name>tips.InsertSectionBefore</name>
-</context>
-<context>
-    <name>tips.InsertSymbol</name>
-</context>
-<context>
     <name>tips.InsertWordArt</name>
     <message>
         <source>WordArt</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;WordArt</translation>
     </message>
-</context>
-<context>
-    <name>tips.InsertWordField</name>
 </context>
 <context>
     <name>tips.Italic</name>
@@ -17192,45 +22349,6 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.KOSCloudInformationTip</name>
-</context>
-<context>
-    <name>tips.KOSCreatecloudLinkTip</name>
-</context>
-<context>
-    <name>tips.KOSOfficespaceLoginFailTip</name>
-</context>
-<context>
-    <name>tips.KOSOfficespacePsaawordTip</name>
-</context>
-<context>
-    <name>tips.KOSOfficespaceRegPsaawordTip</name>
-</context>
-<context>
-    <name>tips.KOSOpenCloudFileTip</name>
-</context>
-<context>
-    <name>tips.KOSSaveFileTocloudTip</name>
-</context>
-<context>
-    <name>tips.KOSUserLoginCloudTextBtnTip</name>
-</context>
-<context>
-    <name>tips.KOSUserLoginCloudTip</name>
-</context>
-<context>
-    <name>tips.KOSUserLogoutCloudTip</name>
-</context>
-<context>
-    <name>tips.KingsoftEquationEditor</name>
-</context>
-<context>
-    <name>tips.LastRecord</name>
-</context>
-<context>
-    <name>tips.LastSection</name>
-</context>
-<context>
     <name>tips.LineColor</name>
     <message>
         <source>Shape Outline</source>
@@ -17245,38 +22363,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.LinktoPreviousHeader</name>
-</context>
-<context>
-    <name>tips.LocateToSection</name>
-</context>
-<context>
-    <name>tips.LockSideBySide</name>
-</context>
-<context>
-    <name>tips.LooseLineSpacing</name>
-</context>
-<context>
-    <name>tips.Macro</name>
-</context>
-<context>
-    <name>tips.Mail</name>
-</context>
-<context>
-    <name>tips.MailMergeRecipients</name>
-</context>
-<context>
     <name>tips.MarkVersion</name>
     <message>
         <source>Manual Backup</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Cópia de Segurança Manual</translation>
     </message>
-</context>
-<context>
-    <name>tips.Markup</name>
-</context>
-<context>
-    <name>tips.MatchFields</name>
 </context>
 <context>
     <name>tips.MergeCells</name>
@@ -17286,21 +22377,6 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.MergeToDiffNewDoc</name>
-</context>
-<context>
-    <name>tips.MergeToEmail</name>
-</context>
-<context>
-    <name>tips.MergeToNewDoc</name>
-</context>
-<context>
-    <name>tips.MergeToPrinter</name>
-</context>
-<context>
-    <name>tips.NavigationPane</name>
-</context>
-<context>
     <name>tips.NewWindow</name>
     <message>
         <source>New Window</source>
@@ -17308,38 +22384,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.NextChange</name>
-</context>
-<context>
     <name>tips.NextComment</name>
     <message>
         <source>Next Comment</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Próximo Comentário</translation>
     </message>
-</context>
-<context>
-    <name>tips.NextHeader</name>
-</context>
-<context>
-    <name>tips.NextRecord</name>
-</context>
-<context>
-    <name>tips.NextSection</name>
-</context>
-<context>
-    <name>tips.NextTextBox</name>
-</context>
-<context>
-    <name>tips.NudgeShadowDown</name>
-</context>
-<context>
-    <name>tips.NudgeShadowLeft</name>
-</context>
-<context>
-    <name>tips.NudgeShadowRight</name>
-</context>
-<context>
-    <name>tips.NudgeShadowUp</name>
 </context>
 <context>
     <name>tips.Numbering</name>
@@ -17356,30 +22405,6 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.OnePage</name>
-</context>
-<context>
-    <name>tips.OpenDataSource</name>
-</context>
-<context>
-    <name>tips.OutLine</name>
-</context>
-<context>
-    <name>tips.OutLineLevelComboOnOutlining</name>
-</context>
-<context>
-    <name>tips.PageLayoutDetailedSettings</name>
-</context>
-<context>
-    <name>tips.PageNumber</name>
-</context>
-<context>
-    <name>tips.PageNumberFormat</name>
-</context>
-<context>
-    <name>tips.PageNumberStart</name>
-</context>
-<context>
     <name>tips.PageOrientation</name>
     <message>
         <source>Switch the pages between portrait and landscape layouts.</source>
@@ -17392,24 +22417,6 @@ Effects</source>
         <source>Page Setup</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Configurar Página</translation>
     </message>
-</context>
-<context>
-    <name>tips.PageWidth</name>
-</context>
-<context>
-    <name>tips.ParagraphDetailedSettings</name>
-</context>
-<context>
-    <name>tips.PhoneticGuide</name>
-</context>
-<context>
-    <name>tips.PhoneticGuide2</name>
-</context>
-<context>
-    <name>tips.PictureAdjust</name>
-</context>
-<context>
-    <name>tips.PictureColor</name>
 </context>
 <context>
     <name>tips.PictureCrop</name>
@@ -17433,20 +22440,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.PictureSetTransparentColor</name>
-</context>
-<context>
     <name>tips.PictureSize</name>
     <message>
         <source>Picture Size</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Tamanho da Imagem</translation>
     </message>
-</context>
-<context>
-    <name>tips.PictureToolsDetailedSettings</name>
-</context>
-<context>
-    <name>tips.PreviousChange</name>
 </context>
 <context>
     <name>tips.PreviousComment</name>
@@ -17456,29 +22454,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.PreviousHeader</name>
-</context>
-<context>
-    <name>tips.PreviousRecord</name>
-</context>
-<context>
-    <name>tips.PreviousSection</name>
-</context>
-<context>
-    <name>tips.PreviousTextBox</name>
-</context>
-<context>
     <name>tips.Print</name>
     <message>
         <source>Print</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Imprimir</translation>
     </message>
-</context>
-<context>
-    <name>tips.PrintDirect</name>
-</context>
-<context>
-    <name>tips.PrintLayoutView</name>
 </context>
 <context>
     <name>tips.PrintPreview</name>
@@ -17502,21 +22482,6 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.PromoteOnOutlining</name>
-</context>
-<context>
-    <name>tips.PromoteOnParagraph</name>
-</context>
-<context>
-    <name>tips.PromoteToHighestLevelOnOutlining</name>
-</context>
-<context>
-    <name>tips.PromoteToHighestLevelOnParagraph</name>
-</context>
-<context>
-    <name>tips.ProtectDocument</name>
-</context>
-<context>
     <name>tips.RB_Clipboard</name>
     <message>
         <source>Clipboard</source>
@@ -17538,36 +22503,6 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.RB_Style</name>
-</context>
-<context>
-    <name>tips.RbTableOutsideBorder</name>
-</context>
-<context>
-    <name>tips.RecentFastCalc</name>
-</context>
-<context>
-    <name>tips.RecentFontColor</name>
-</context>
-<context>
-    <name>tips.RecentTableShadingColor</name>
-</context>
-<context>
-    <name>tips.ReducedStep</name>
-</context>
-<context>
-    <name>tips.RejectChangeOnTB</name>
-</context>
-<context>
-    <name>tips.RejectRevisionOnTB</name>
-</context>
-<context>
-    <name>tips.RelocateDownOnOutlining</name>
-</context>
-<context>
-    <name>tips.RelocateUpOnOutlining</name>
-</context>
-<context>
     <name>tips.Replace</name>
     <message>
         <source>Replace</source>
@@ -17582,26 +22517,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.RestartPageNumber</name>
-</context>
-<context>
-    <name>tips.RestrictEditing</name>
-</context>
-<context>
     <name>tips.Ruler</name>
     <message>
         <source>Ruler</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Régua</translation>
     </message>
-</context>
-<context>
-    <name>tips.RunMacro</name>
-</context>
-<context>
-    <name>tips.SectionDetailedSettings</name>
-</context>
-<context>
-    <name>tips.Security</name>
 </context>
 <context>
     <name>tips.Select</name>
@@ -17618,20 +22538,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.Separator</name>
-</context>
-<context>
     <name>tips.ShadowColor</name>
     <message>
         <source>Shadow Color</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Cor da Sombra</translation>
     </message>
-</context>
-<context>
-    <name>tips.ShadowOnOff</name>
-</context>
-<context>
-    <name>tips.ShadowSetting</name>
 </context>
 <context>
     <name>tips.ShapeSize</name>
@@ -17648,39 +22559,6 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.ShowDocumentMap</name>
-</context>
-<context>
-    <name>tips.ShowFirstLineOnly</name>
-</context>
-<context>
-    <name>tips.ShowFirstPageNumber</name>
-</context>
-<context>
-    <name>tips.ShowFormatting</name>
-</context>
-<context>
-    <name>tips.ShowGridlines</name>
-</context>
-<context>
-    <name>tips.ShowHeaderOrFooter</name>
-</context>
-<context>
-    <name>tips.ShowHideFormattingMarks</name>
-</context>
-<context>
-    <name>tips.ShowHideTextOctopus</name>
-</context>
-<context>
-    <name>tips.ShowLevelOnOutlining</name>
-</context>
-<context>
-    <name>tips.ShrinkFont</name>
-</context>
-<context>
-    <name>tips.SimplifiedChinese</name>
-</context>
-<context>
     <name>tips.SplitCells</name>
     <message>
         <source>Split Cells</source>
@@ -17688,23 +22566,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.SplitSection</name>
-</context>
-<context>
-    <name>tips.SplitTable</name>
-</context>
-<context>
     <name>tips.StopAutoVersion</name>
     <message>
         <source>Stop Auto Backup</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Parar Cópia de Segurança Automática</translation>
     </message>
-</context>
-<context>
-    <name>tips.Strikethought</name>
-</context>
-<context>
-    <name>tips.Strikethought2</name>
 </context>
 <context>
     <name>tips.Subscript</name>
@@ -17721,38 +22587,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.Superscript2</name>
-</context>
-<context>
-    <name>tips.SwitchWindow</name>
-</context>
-<context>
     <name>tips.Table</name>
     <message>
         <source>Table</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Tabela</translation>
     </message>
-</context>
-<context>
-    <name>tips.TableAutoAdjust</name>
-</context>
-<context>
-    <name>tips.TableBorderColor</name>
-</context>
-<context>
-    <name>tips.TableBorderStyle</name>
-</context>
-<context>
-    <name>tips.TableBorderWidth</name>
-</context>
-<context>
-    <name>tips.TableContents</name>
-</context>
-<context>
-    <name>tips.TableEraser</name>
-</context>
-<context>
-    <name>tips.TableProperties</name>
 </context>
 <context>
     <name>tips.TableSelectMenu</name>
@@ -17769,15 +22608,6 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.Tabs</name>
-</context>
-<context>
-    <name>tips.TaskPane</name>
-</context>
-<context>
-    <name>tips.TextBox</name>
-</context>
-<context>
     <name>tips.TextDirection</name>
     <message>
         <source>Text Direction</source>
@@ -17785,29 +22615,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.TightLineSpacing</name>
-</context>
-<context>
-    <name>tips.TrackChanges</name>
-</context>
-<context>
-    <name>tips.TraditionalChinese</name>
-</context>
-<context>
     <name>tips.Underline</name>
     <message>
         <source>Underline</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Sublinhar</translation>
     </message>
-</context>
-<context>
-    <name>tips.UpdateTocOnOutlining</name>
-</context>
-<context>
-    <name>tips.VerbSideBySide</name>
-</context>
-<context>
-    <name>tips.ViewMergedData</name>
 </context>
 <context>
     <name>tips.ViewRuler</name>
@@ -17824,20 +22636,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.WaterMark</name>
-</context>
-<context>
-    <name>tips.WebLayoutView</name>
-</context>
-<context>
     <name>tips.WordArtAlignment</name>
     <message>
         <source>WordArt Alignment</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Alinhamento do WordArt</translation>
     </message>
-</context>
-<context>
-    <name>tips.WordArtDetailedSettings</name>
 </context>
 <context>
     <name>tips.WordArtFill</name>
@@ -17889,15 +22692,6 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.WordCount</name>
-</context>
-<context>
-    <name>tips.WordTools</name>
-</context>
-<context>
-    <name>tips.WorkSpace_Backup</name>
-</context>
-<context>
     <name>tips.Zoom</name>
     <message>
         <source>Zoom</source>
@@ -17910,12 +22704,6 @@ Effects</source>
         <source>Align</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Alinhar</translation>
     </message>
-</context>
-<context>
-    <name>tips.m_Breaks</name>
-</context>
-<context>
-    <name>tips.m_CharacterScaling</name>
 </context>
 <context>
     <name>tips.m_ColumnsPalette</name>
@@ -17932,9 +22720,6 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.m_LineNumber</name>
-</context>
-<context>
     <name>tips.m_LineSpacing</name>
     <message>
         <source>Line Spacing</source>
@@ -17942,32 +22727,11 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.m_Margins</name>
-</context>
-<context>
-    <name>tips.m_PageBorder</name>
-</context>
-<context>
-    <name>tips.m_PageSize</name>
-</context>
-<context>
     <name>tips.m_Rotate</name>
     <message>
         <source>Rotate</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Rodar</translation>
     </message>
-</context>
-<context>
-    <name>tips.m_ShowReviewer</name>
-</context>
-<context>
-    <name>tips.m_Style</name>
-</context>
-<context>
-    <name>tips.m_Wrapping</name>
-</context>
-<context>
-    <name>tips.m_tocLevel</name>
 </context>
 <context>
     <name>tips.sp_DeleteComment</name>
@@ -17991,88 +22755,93 @@ Effects</source>
     </message>
 </context>
 <context>
-    <name>tips.weibotool</name>
-</context>
-<context>
     <name>wordtools</name>
     <message>
         <source>Change to Blank Paragraph Split Mode</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mudar para Modo de Divisão de Parágrafo em Branco</translation>
     </message>
     <message>
         <source>Convert Paragraph Indent to Space</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Converter Avanço do Parágrafo em Espaço</translation>
     </message>
     <message>
         <source>Convert Soft Return to Return</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Converter Quebra de Linha em Quebra de Parágrafo</translation>
     </message>
     <message>
         <source>Delete Blank Paragraph</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar Parágrafo em Branco</translation>
     </message>
     <message>
         <source>Delete Soft Return</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar Quebra de Linha</translation>
     </message>
     <message>
         <source>Delete Spaces</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar Espaços</translation>
     </message>
     <message>
         <source>Delete Spaces before First-line Indent</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Eliminar Espaços antes do Avanço da Primeira Linha</translation>
     </message>
     <message>
         <source>Indent Paragraph by 2 Characters</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Avançar Parágrafo 2 Carateres</translation>
     </message>
     <message>
         <source>Insert Blank Paragraphs</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Inserir Parágrafos em Branco</translation>
     </message>
     <message>
         <source>Rearrange Paragraphs</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Reorganizar Parágrafos</translation>
     </message>
     <message>
         <source>Smart Rearrange</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Reorganização Inteligente</translation>
     </message>
 </context>
 <context>
     <name>workspacemenu</name>
     <message>
+        <source>&amp;Personal Center</source>
+        <translation type="obsolete">Centro &amp;Pessoal</translation>
+    </message>
+    <message>
         <source>Change Account</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Alterar Conta</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ligação de Nuvem</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Desativar Cópia de Segurança Automática</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation>Entrada Docer</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ativar Cópia de Segurança Automática</translation>
     </message>
     <message>
         <source>Export as Images</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Exportar como Imagens</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar para PDF</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Modo de Proteção dos Olhos</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Roaming de Ficheiros</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -18080,31 +22849,35 @@ Effects</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Abrir a partir dos Documentos na Nuvem</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation>Centro Pessoal</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Recarregar</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Guardar nos Documentos na Nuvem</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Partilhar no Microblogue</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Partilhar na Página Web do Microblogue</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Iniciar sessão</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Terminar sessão</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
@@ -18112,38 +22885,38 @@ Effects</source>
     </message>
     <message>
         <source>Text Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferramentas de Texto</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Comentários do Utilizador</translation>
     </message>
     <message>
         <source>User Sign in</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Iniciar Sessão do Utilizador</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ver Ficheiros em Segurança</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ver Cópia de Segurança do Histórico</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Versão Comercial do WPS</translation>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Esquema Microblogue do WPS</translation>
     </message>
 </context>
 <context>
     <name>wpsclassics.mainwindow</name>
     <message>
         <source>Writer</source>
-        <translation>Processador de Texto</translation>
+        <translation>Writer</translation>
     </message>
 </context>
 <context>
@@ -18155,6 +22928,10 @@ Effects</source>
     <message>
         <source>Align Objects</source>
         <translation>Alinhar Objetos</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation>Gráfico</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
@@ -18214,7 +22991,7 @@ Effects</source>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funcionalidades Especiais</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -18222,7 +22999,7 @@ Effects</source>
     </message>
     <message>
         <source>Stop Recording</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Parar Gravação</translation>
     </message>
     <message>
         <source>Tables and Borders</source>
@@ -18234,7 +23011,7 @@ Effects</source>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation>&quot;Ver Lado a Lado&quot;</translation>
+        <translation>Ver Lado a Lado</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -18257,7 +23034,7 @@ Effects</source>
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Formas Automáticas</translation>
     </message>
     <message>
         <source>AutoShapes and Materials</source>
@@ -18277,7 +23054,7 @@ Effects</source>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Marcador</translation>
     </message>
     <message>
         <source>Bookmarks</source>
@@ -18297,27 +23074,27 @@ Effects</source>
     </message>
     <message>
         <source>Browse by Endnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Procurar por Nota de Fim</translation>
     </message>
     <message>
         <source>Browse by Field</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Procurar por Campo</translation>
     </message>
     <message>
         <source>Browse by Footnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Procurar por Nota de Rodapé</translation>
     </message>
     <message>
         <source>Browse by Graphic</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Procurar por Gráfico</translation>
     </message>
     <message>
         <source>Browse by Heading</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Procurar por Cabeçalho</translation>
     </message>
     <message>
         <source>Browse by Objects (Alt+Ctrl+Home)</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Procurar por Objetos (Alt+Ctrl+Home)</translation>
     </message>
     <message>
         <source>Browse by Page</source>
@@ -18329,7 +23106,7 @@ Effects</source>
     </message>
     <message>
         <source>Browse by Table</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Procurar por Tabela</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -18337,11 +23114,11 @@ Effects</source>
     </message>
     <message>
         <source>Cancel Splitting</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cancelar Divisão</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Centrar</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -18352,20 +23129,24 @@ Effects</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Verificar Ortografia</translation>
     </message>
     <message>
+        <source>Click to adjust Zoom level</source>
+        <translation>Clicar para ajustar nível de Zoom</translation>
+    </message>
+    <message>
         <source>Click to turn on/off AutoBackup</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Clicar para ativar/desativar Cópia de Segurança Automática</translation>
     </message>
     <message>
         <source>Click to turn on/off OverType Statusbar</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Clicar para ativar/desativar Substituir na Barra de Estado</translation>
     </message>
     <message>
         <source>Click to turn on/off Reviewing function</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Clicar para ativar/desativar função de Revisão</translation>
     </message>
     <message>
         <source>Click to turn on/off Spell Check</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Clicar para ativar/desativar Verificação Ortográfica</translation>
     </message>
     <message>
         <source>Click to turn on/off auto backup</source>
@@ -18381,7 +23162,7 @@ Effects</source>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>&quot;Clip Art&quot;</translation>
+        <translation>Clip Art</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -18389,23 +23170,31 @@ Effects</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Colaboração</translation>
     </message>
     <message>
         <source>Collapse</source>
         <translation>Colapsar</translation>
     </message>
     <message>
+        <source>Color Schemes</source>
+        <translation>Esquemas de Cores</translation>
+    </message>
+    <message>
         <source>Column StatusBar</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Coluna na Barra de Estado</translation>
     </message>
     <message>
         <source>Compare</source>
-        <translation type="unfinished"></translation>
+        <translation>Comparar</translation>
+    </message>
+    <message>
+        <source>Compatibility Mode</source>
+        <translation>Modo de Compatibilidade</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -18417,7 +23206,7 @@ Effects</source>
     </message>
     <message>
         <source>Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Conteúdo</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -18425,7 +23214,7 @@ Effects</source>
     </message>
     <message>
         <source>Create Cloud Link</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Criar Ligação de Nuvem</translation>
     </message>
     <message>
         <source>Curve</source>
@@ -18433,19 +23222,19 @@ Effects</source>
     </message>
     <message>
         <source>Curve Point</source>
-        <translation>&quot;Ponto em Curva&quot;</translation>
+        <translation>Ponto em Curva</translation>
     </message>
     <message>
         <source>Curve Segment</source>
-        <translation>&quot;Segmento Curvo&quot;</translation>
+        <translation>Segmento Curvo</translation>
     </message>
     <message>
         <source>Custom StatusBar</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Barra de Estado Personalizada</translation>
     </message>
     <message>
         <source>Custom Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo Personalizado</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -18453,7 +23242,7 @@ Effects</source>
     </message>
     <message>
         <source>Data Recovery</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperação de Dados</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -18461,11 +23250,11 @@ Effects</source>
     </message>
     <message>
         <source>Demote</source>
-        <translation>&quot;Baixar&quot;</translation>
+        <translation>Baixar</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
-        <translation>&quot;Converter para Corpo de Texto&quot;</translation>
+        <translation>Converter para Corpo de Texto</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -18473,11 +23262,11 @@ Effects</source>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada Docer</translation>
     </message>
     <message>
         <source>Document Collaboration</source>
-        <translation type="unfinished"></translation>
+        <translation>Colaboração no Documento</translation>
     </message>
     <message>
         <source>DocumentField</source>
@@ -18489,7 +23278,7 @@ Effects</source>
     </message>
     <message>
         <source>Endnote</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nota de fim</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -18501,15 +23290,23 @@ Effects</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de Proteção dos Olhos</translation>
+    </message>
+    <message>
+        <source>Eye Protection Night Mode</source>
+        <translation>Modo Noturno de Proteção dos Olhos</translation>
     </message>
     <message>
         <source>Feedback</source>
         <translation>Enviar Comentários</translation>
     </message>
     <message>
+        <source>Feedback and Advice</source>
+        <translation>Comentários e Recomendações</translation>
+    </message>
+    <message>
         <source>Fields</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Campos</translation>
     </message>
     <message>
         <source>File</source>
@@ -18525,19 +23322,23 @@ Effects</source>
     </message>
     <message>
         <source>Font</source>
-        <translation>Fonte</translation>
+        <translation>Tipo de Letra</translation>
     </message>
     <message>
         <source>Footnotes Context Menu</source>
-        <translation>&quot;Menu de Contexto das Notas de Rodapé&quot;</translation>
+        <translation>Menu de Contexto das Notas de Rodapé</translation>
     </message>
     <message>
         <source>Format</source>
         <translation>Formato</translation>
     </message>
     <message>
+        <source>Formatting</source>
+        <translation>Formatação</translation>
+    </message>
+    <message>
         <source>Frame Context Menu</source>
-        <translation>&quot;Menu de Contexto das Molduras&quot;</translation>
+        <translation>Menu de Contexto das Molduras</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -18552,12 +23353,16 @@ Effects</source>
         <translation>Ir Para</translation>
     </message>
     <message>
+        <source>Google Docs</source>
+        <translation>Google Docs</translation>
+    </message>
+    <message>
         <source>Grow Font</source>
-        <translation>Aumentar Fonte</translation>
+        <translation>Aumentar Tipo de Letra</translation>
     </message>
     <message>
         <source>Header Line Color</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cor da Linha do Cabeçalho</translation>
     </message>
     <message>
         <source>Help</source>
@@ -18565,7 +23370,19 @@ Effects</source>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
+        <translation>Ocultar Janela Atual ao Capturar o Ecrã</translation>
+    </message>
+    <message>
+        <source>High Resolution Setting</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizon Line Context Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>Caixa de Texto Horizontal</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -18573,7 +23390,11 @@ Effects</source>
     </message>
     <message>
         <source>Hyperlink Context Menu</source>
-        <translation>&quot;Menu de Contexto das Hiperligações&quot;</translation>
+        <translation>Menu de Contexto das Hiperligações</translation>
+    </message>
+    <message>
+        <source>Image Previewer</source>
+        <translation>Pré-visualização da imagem</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -18581,7 +23402,7 @@ Effects</source>
     </message>
     <message>
         <source>Inline Picture</source>
-        <translation>&quot;Imagem Alinhada&quot;</translation>
+        <translation>Imagem Alinhada</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -18601,7 +23422,7 @@ Effects</source>
     </message>
     <message>
         <source>Line StatusBar</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Linha na Barra de Estado</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -18609,7 +23430,7 @@ Effects</source>
     </message>
     <message>
         <source>Mail FeedBack</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentários por Correio</translation>
     </message>
     <message>
         <source>Materials</source>
@@ -18617,19 +23438,43 @@ Effects</source>
     </message>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
-        <translation>&quot;Unidade de Medida. Prima para abrir as &quot;Opções&quot;.&quot;</translation>
+        <translation>Unidade de Medida. Prima para abrir as &quot;Opções&quot;.</translation>
     </message>
     <message>
         <source>More Colors</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Mais Cores</translation>
     </message>
     <message>
         <source>More Underline Colors</source>
-        <translation>&quot;Mais Cores de Sublinhado&quot;</translation>
+        <translation>Mais Cores de Sublinhado</translation>
     </message>
     <message>
         <source>More Underlines</source>
-        <translation>&quot;Mais Sublinhados&quot;</translation>
+        <translation>Mais Sublinhados</translation>
+    </message>
+    <message>
+        <source>MoreEffects</source>
+        <translation>Mais Efeitos</translation>
+    </message>
+    <message>
+        <source>MoreFill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoreFontEffects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoreFontFill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoreFontOutline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoreOutline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move Down</source>
@@ -18677,11 +23522,104 @@ Effects</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Novo de Outros Modelos</translation>
+    </message>
+    <message>
+        <source>NewChart Axis</source>
+        <translation>Eixo</translation>
+    </message>
+    <message>
+        <source>NewChart AxisTitle</source>
+        <translation>Título do Eixo</translation>
+    </message>
+    <message>
+        <source>NewChart ChartArea</source>
+        <translation>Área de Gráfico</translation>
+    </message>
+    <message>
+        <source>NewChart ChartTitle</source>
+        <translation>Título do Gráfico</translation>
+    </message>
+    <message>
+        <source>NewChart DataLabels</source>
+        <translation>Etiquetas de Dados</translation>
+    </message>
+    <message>
+        <source>NewChart DataTable</source>
+        <translation>Tabelas de Dados</translation>
+    </message>
+    <message>
+        <source>NewChart Datapoint</source>
+        <translation>Ponto de Dados</translation>
+    </message>
+    <message>
+        <source>NewChart DownBar</source>
+        <translation>Barras Inferiores</translation>
+    </message>
+    <message>
+        <source>NewChart DropLine</source>
+        <translation>Linhas Verticais</translation>
+    </message>
+    <message>
+        <source>NewChart ErrorBar</source>
+        <translation>Barras de Erro</translation>
+    </message>
+    <message>
+        <source>NewChart Gridline</source>
+        <translation>Linhas de Grelha</translation>
+    </message>
+    <message>
+        <source>NewChart HighLowLine</source>
+        <translation>Linhas de Máximo/Mínimo</translation>
+    </message>
+    <message>
+        <source>NewChart LeadLine</source>
+        <translation>Linhas de Cota</translation>
+    </message>
+    <message>
+        <source>NewChart Legend</source>
+        <translation>Legenda</translation>
+    </message>
+    <message>
+        <source>NewChart LegendEntry</source>
+        <translation>Entrada de Legenda</translation>
+    </message>
+    <message>
+        <source>NewChart PlotArea</source>
+        <translation>Área de Desenho</translation>
+    </message>
+    <message>
+        <source>NewChart Series</source>
+        <translation>Séries</translation>
+    </message>
+    <message>
+        <source>NewChart SeriesLine</source>
+        <translation>Linha de Série</translation>
+    </message>
+    <message>
+        <source>NewChart TrendLine Label</source>
+        <translation>Etiqueta de Linha de Tendência</translation>
+    </message>
+    <message>
+        <source>NewChart UnitLabel</source>
+        <translation>Etiqueta de Unidade</translation>
+    </message>
+    <message>
+        <source>NewChart UpBar</source>
+        <translation>Barras Superiores</translation>
+    </message>
+    <message>
+        <source>Night Mode</source>
+        <translation>Modo Noturno</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Nota</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <comment>shortHint</comment>
+        <translation>Nota</translation>
     </message>
     <message>
         <source>OLE Object</source>
@@ -18693,11 +23631,15 @@ Effects</source>
     </message>
     <message>
         <source>Operation Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Operação de Documento</translation>
     </message>
     <message>
         <source>Opr</source>
-        <translation type="unfinished"></translation>
+        <translation>Operação</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>Opções</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -18706,11 +23648,12 @@ Effects</source>
     <message>
         <source>Page 
 Break</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Quebra de 
+Página</translation>
     </message>
     <message>
         <source>Page Area Number. Click to open &quot;Go To&quot; dialog.</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Número de Área de Página. Clique para abrir a caixa de diálogo &quot;Ir Para&quot;.</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -18718,15 +23661,15 @@ Break</source>
     </message>
     <message>
         <source>Page Number. Click to open &quot;Go To&quot; dialog.</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Número de Página. Clique para abrir a caixa de diálogo &quot;Ir Para&quot;.</translation>
     </message>
     <message>
         <source>Page Section. Click to Open &quot;Go To&quot; dialog.</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Secção de Página. Clique para abrir a caixa de diálogo &quot;Ir Para&quot;.</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar Página</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -18734,7 +23677,7 @@ Break</source>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar Especial</translation>
     </message>
     <message>
         <source>Print</source>
@@ -18743,7 +23686,8 @@ Break</source>
     <message>
         <source>Print 
 Directly</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Imprimir 
+Diretamente</translation>
     </message>
     <message>
         <source>Print Directly</source>
@@ -18759,7 +23703,7 @@ Directly</source>
     </message>
     <message>
         <source>Print Setup</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Configurar Impressão</translation>
     </message>
     <message>
         <source>Promote</source>
@@ -18767,7 +23711,7 @@ Directly</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedades</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -18775,7 +23719,7 @@ Directly</source>
     </message>
     <message>
         <source>Record Macro Statusbar</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Barra de Estado Gravar Macro</translation>
     </message>
     <message>
         <source>Redo</source>
@@ -18786,12 +23730,16 @@ Directly</source>
         <translation>Substituir</translation>
     </message>
     <message>
+        <source>Reset Character Format</source>
+        <translation>Repor formatação de carateres</translation>
+    </message>
+    <message>
         <source>Restrict</source>
-        <translation>&quot;Restringir&quot;</translation>
+        <translation>Restringir</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation>&quot;Restringir a Edição&quot;</translation>
+        <translation>Restringir a Edição</translation>
     </message>
     <message>
         <source>Rotate Mode</source>
@@ -18807,12 +23755,12 @@ Directly</source>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de Ecrã</translation>
     </message>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translation type="unfinished"></translation>
+        <translation>Captura de Ecrã</translation>
     </message>
     <message>
         <source>Select</source>
@@ -18824,7 +23772,7 @@ Directly</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Painel de Seleção</translation>
     </message>
     <message>
         <source>Selection and Visibility</source>
@@ -18832,7 +23780,7 @@ Directly</source>
     </message>
     <message>
         <source>Set Language</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definir Idioma</translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
@@ -18840,35 +23788,43 @@ Directly</source>
     </message>
     <message>
         <source>Shapes</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Formas</translation>
     </message>
     <message>
         <source>Shapes Context Menu</source>
-        <translation>&quot;Menu de Contexto das Formas&quot;</translation>
+        <translation>Menu de Contexto das Formas</translation>
     </message>
     <message>
         <source>Shapes and Material</source>
         <translation type="obsolete">&quot;unfinished&quot;</translation>
     </message>
     <message>
-        <source>Show Header Line</source>
-        <translation>&quot;unfinished&quot;</translation>
-    </message>
-    <message>
-        <source>Shrink Font</source>
-        <translation>Diminuir Fonte</translation>
-    </message>
-    <message>
-        <source>Speak</source>
+        <source>Share</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Shortcuts Settings</source>
+        <translation type="obsolete">Definições de Atalhos</translation>
+    </message>
+    <message>
+        <source>Show Header Line</source>
+        <translation>Mostrar Linha de Cabeçalho</translation>
+    </message>
+    <message>
+        <source>Shrink Font</source>
+        <translation>Encolher Tipo de Letra</translation>
+    </message>
+    <message>
+        <source>Speak</source>
+        <translation>Falar</translation>
+    </message>
+    <message>
         <source>Spell Check</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Verificação Ortográfica</translation>
     </message>
     <message>
         <source>Split Horizontally</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Dividir Horizontalmente</translation>
     </message>
     <message>
         <source>Split Table by Column</source>
@@ -18880,15 +23836,15 @@ Directly</source>
     </message>
     <message>
         <source>Split Vertically</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Dividir Verticalmente</translation>
     </message>
     <message>
         <source>Split Window</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Dividir Janela</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Iniciar</translation>
     </message>
     <message>
         <source>Status Bar</source>
@@ -18896,7 +23852,7 @@ Directly</source>
     </message>
     <message>
         <source>Style</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Estilo</translation>
     </message>
     <message>
         <source>Styles</source>
@@ -18944,15 +23900,19 @@ Directly</source>
     </message>
     <message>
         <source>Text Context Menu</source>
-        <translation>&quot;Menu de Contexto do Texto&quot;</translation>
+        <translation>Menu de Contexto do Texto</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
         <translation>Quebra da Moldagem do Texto</translation>
     </message>
     <message>
+        <source>Thesaurus</source>
+        <translation type="obsolete">Dicionário de Sinónimos</translation>
+    </message>
+    <message>
         <source>Toggle Field Codes</source>
-        <translation>&quot;Alternar Códigos de Campo&quot;</translation>
+        <translation>Alternar Códigos de Campo</translation>
     </message>
     <message>
         <source>Toolbars</source>
@@ -18963,8 +23923,12 @@ Directly</source>
         <translation>Ferramentas</translation>
     </message>
     <message>
+        <source>TpXMLMapping</source>
+        <translation>Mapeamento XML</translation>
+    </message>
+    <message>
         <source>Track Changes</source>
-        <translation>&quot;Registar Alterações&quot;</translation>
+        <translation>Registar Alterações</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -18983,6 +23947,10 @@ Directly</source>
         <translation>Actualizar Campo</translation>
     </message>
     <message>
+        <source>Vertical</source>
+        <translation>Caixa de Texto Vertical</translation>
+    </message>
+    <message>
         <source>View</source>
         <translation>Ver</translation>
     </message>
@@ -18996,11 +23964,11 @@ Directly</source>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo Global de Recuperação de Dados do WPS</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Modelo Online do WPS</translation>
     </message>
     <message>
         <source>Web Layout</source>
@@ -19020,19 +23988,31 @@ Directly</source>
     </message>
     <message>
         <source>Word Count. Click to open &quot;Word Count&quot; dialog.</source>
-        <translation>&quot;Contar Palavras. Seleccione para abrir o diálogo &quot;Contar Palavras&quot;.&quot;</translation>
+        <translation>Contar Palavras. Seleccione para abrir o diálogo &quot;Contar Palavras&quot;.</translation>
+    </message>
+    <message>
+        <source>XMLMapping</source>
+        <translation>Mapeamento XML</translation>
     </message>
     <message>
         <source>XMLStructure</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrutura de XML</translation>
     </message>
     <message>
         <source>Zoom</source>
         <translation>Ampliar</translation>
     </message>
     <message>
+        <source>Zoom In</source>
+        <translation>Ampliar</translation>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translation>Reduzir</translation>
+    </message>
+    <message>
         <source>structure</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrutura</translation>
     </message>
 </context>
 <context>
@@ -19043,41 +24023,89 @@ Directly</source>
     </message>
     <message>
         <source>WPS Writer Help</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Ajuda do WPS Writer</translation>
     </message>
 </context>
 <context>
     <name>wpsongmani.mainwindow</name>
     <message>
         <source>Writer</source>
-        <translation>Processador de Texto</translation>
+        <translation>Writer</translation>
     </message>
 </context>
 <context>
     <name>wpsongmani.mainwindow.commands</name>
     <message>
+        <source>100%</source>
+        <translation>100%</translation>
+    </message>
+    <message>
+        <source>150%</source>
+        <translation>150%</translation>
+    </message>
+    <message>
+        <source>200%</source>
+        <translation>200%</translation>
+    </message>
+    <message>
+        <source>33%</source>
+        <translation>33%</translation>
+    </message>
+    <message>
+        <source>50%</source>
+        <translation>50%</translation>
+    </message>
+    <message>
+        <source>66%</source>
+        <translation>66%</translation>
+    </message>
+    <message>
+        <source>80%</source>
+        <translation>80%</translation>
+    </message>
+    <message>
+        <source>90%</source>
+        <translation>90%</translation>
+    </message>
+    <message>
         <source>Add-Ins</source>
-        <translation></translation>
+        <translation>Suplementos</translation>
+    </message>
+    <message>
+        <source>Asian Layout</source>
+        <translation>Esquema Asiático</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>Mudar de Conta</translation>
+        <translation type="obsolete">Mudar de Conta</translation>
     </message>
     <message>
         <source>Change User Information</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Informação do Utilizador</translation>
     </message>
     <message>
+        <source>Character Scaling</source>
+        <translation>Dimensionamento dos Caracteres</translation>
+    </message>
+    <message>
+        <source>Chart Tools</source>
+        <translation>Ferramentas de Gráficos</translation>
+    </message>
+    <message>
         <source>Close Window</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Fechar Janela</translation>
+    </message>
+    <message>
+        <source>Combine Characters</source>
+        <translation>Combinar Caracteres</translation>
     </message>
     <message>
         <source>Customize Task Window</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Personalizar Janela de Tarefas</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation>&quot;Programador&quot;</translation>
+        <translation>Programador</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
@@ -19085,7 +24113,7 @@ Directly</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar para PDF</translation>
     </message>
     <message>
         <source>File</source>
@@ -19097,7 +24125,7 @@ Directly</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cabeçalho e Rodapé</translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -19125,19 +24153,23 @@ Directly</source>
     </message>
     <message>
         <source>Mailings</source>
-        <translation>&quot;Endereços&quot;</translation>
+        <translation>Endereços</translation>
     </message>
     <message>
         <source>Maximize Window</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Maximizar Janela</translation>
     </message>
     <message>
         <source>Minimize Window</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Minimizar Janela</translation>
     </message>
     <message>
         <source>Minisite</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Minisite</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Mais</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
@@ -19145,7 +24177,7 @@ Directly</source>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Novo Documento em Branco</translation>
     </message>
     <message>
         <source>New Blank File</source>
@@ -19157,7 +24189,11 @@ Directly</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Novo de Outros Modelos</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation>Notícias</translation>
     </message>
     <message>
         <source>Not Logged in</source>
@@ -19169,7 +24205,7 @@ Directly</source>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Modelos Online</translation>
     </message>
     <message>
         <source>Open</source>
@@ -19184,12 +24220,20 @@ Directly</source>
         <translation>Realçe</translation>
     </message>
     <message>
+        <source>PDF To Word</source>
+        <translation>PDF para Word</translation>
+    </message>
+    <message>
         <source>Page Layout</source>
         <translation>Esquema da Página</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
         <translation>Esquema do Parágrafo</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation>Centro Pessoal</translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -19201,7 +24245,7 @@ Directly</source>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
-        <translation>&quot;Barra de Acesso Rápido&quot;</translation>
+        <translation>Barra de Acesso Rápido</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -19209,7 +24253,7 @@ Directly</source>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Recarregar</translation>
     </message>
     <message>
         <source>References</source>
@@ -19217,7 +24261,7 @@ Directly</source>
     </message>
     <message>
         <source>Restore Window</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Restaurar Janela</translation>
     </message>
     <message>
         <source>Review</source>
@@ -19229,11 +24273,11 @@ Directly</source>
     </message>
     <message>
         <source>Section Navigation</source>
-        <translation>&quot;Navegação por Secções&quot;</translation>
+        <translation>Navegação por Secções</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Definições</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -19241,19 +24285,19 @@ Directly</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Iniciar sessão</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Terminar sessão</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funcionalidades Especiais</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation>&quot;Afixar a Barra de Ferramentas&quot;</translation>
+        <translation>Afixar a Barra de Ferramentas</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -19269,12 +24313,28 @@ Directly</source>
         <translation>Ferramentas da Tabela</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation>Texto em Voz</translation>
+    </message>
+    <message>
+        <source>Text Tool</source>
+        <translation>Ferramentas de Texto</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="obsolete">Modo de Toque</translation>
+    </message>
+    <message>
+        <source>Two Lines in One</source>
+        <translation>Duas Linhas em Uma</translation>
+    </message>
+    <message>
         <source>User Login</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Conta do Utilizador</translation>
     </message>
     <message>
         <source>User Sign in</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Iniciar Sessão do Utilizador</translation>
     </message>
     <message>
         <source>View</source>
@@ -19282,11 +24342,11 @@ Directly</source>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Microblogue Pós-venda do WPS</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Versão Comercial do WPS</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -19318,7 +24378,7 @@ Directly</source>
     </message>
     <message>
         <source>testRbTabWidget</source>
-        <translation>&quot;testRbTabWidget&quot;</translation>
+        <translation>testRbTabWidget</translation>
     </message>
 </context>
 <context>
@@ -19331,16 +24391,17 @@ Directly</source>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mudar de IU</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Professional Version</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Alterar Interface do Utilizador</translatorcomment>
+        <translation>Alterar IU</translation>
     </message>
     <message>
         <source>true</source>
-        <translation type="unfinished"></translation>
+        <translation>verdadeiro</translation>
     </message>
 </context>
 <context>
@@ -19355,7 +24416,7 @@ Directly</source>
     <name>wpsrainbow.mainwindow</name>
     <message>
         <source>Writer</source>
-        <translation>&quot;Processador de Texto&quot;</translation>
+        <translation>Writer</translation>
     </message>
 </context>
 <context>
@@ -19366,19 +24427,23 @@ Directly</source>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>Mudar de Conta</translation>
+        <translation type="obsolete">Mudar de Conta</translation>
     </message>
     <message>
         <source>Change User Information</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Mudar Informação de Utilizador</translation>
     </message>
     <message>
+        <source>Chart Tools</source>
+        <translation>Ferramentas de Gráficos</translation>
+    </message>
+    <message>
         <source>Close Window</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Fechar Janela</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation>&quot;Programador&quot;</translation>
+        <translation>Programador</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
@@ -19386,7 +24451,7 @@ Directly</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar para PDF</translation>
     </message>
     <message>
         <source>File</source>
@@ -19402,7 +24467,7 @@ Directly</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Cabeçalho e Rodapé</translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -19430,23 +24495,27 @@ Directly</source>
     </message>
     <message>
         <source>Mailings</source>
-        <translation>&quot;Endereços&quot;</translation>
+        <translation>Endereços</translation>
     </message>
     <message>
         <source>Maximize Window</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Maximizar Janela</translation>
     </message>
     <message>
         <source>Minimize Window</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Minimizar Janela</translation>
     </message>
     <message>
         <source>Minisite</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Minisite</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation>&quot;Painel de Navegação&quot;</translation>
+        <translation>Painel de Navegação</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation>Notícias</translation>
     </message>
     <message>
         <source>Not Logged in</source>
@@ -19458,7 +24527,7 @@ Directly</source>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Modelos Online</translation>
     </message>
     <message>
         <source>Options</source>
@@ -19469,12 +24538,20 @@ Directly</source>
         <translation>Realçe</translation>
     </message>
     <message>
+        <source>PDF To Word</source>
+        <translation>PDF para Word</translation>
+    </message>
+    <message>
         <source>Page Layout</source>
         <translation>Esquema da Página</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
         <translation>Esquema do Parágrafo</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation>Centro Pessoal</translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -19494,7 +24571,7 @@ Directly</source>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Recarregar</translation>
     </message>
     <message>
         <source>References</source>
@@ -19502,7 +24579,7 @@ Directly</source>
     </message>
     <message>
         <source>Restore Window</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Restaurar Janela</translation>
     </message>
     <message>
         <source>Review</source>
@@ -19514,7 +24591,7 @@ Directly</source>
     </message>
     <message>
         <source>Section Navigation</source>
-        <translation>&quot;Navegação por Secções&quot;</translation>
+        <translation>Navegação por Secções</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -19522,23 +24599,23 @@ Directly</source>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation>Mostrar/Esconder a Barra de Ferramentas</translation>
+        <translation>Mostrar/Ocultar Barra de Ferramentas</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Iniciar sessão</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Terminar sessão</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funcionalidades Especiais</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation>&quot;Afixar a Barra de Ferramentas&quot;</translation>
+        <translation>Afixar a Barra de Ferramentas</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -19554,12 +24631,20 @@ Directly</source>
         <translation>Ferramentas da Tabela</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation>Texto em Voz</translation>
+    </message>
+    <message>
+        <source>Text Tool</source>
+        <translation>Ferramentas de Texto</translation>
+    </message>
+    <message>
         <source>User Login</source>
         <translation type="obsolete">&quot;obsolete&quot;&gt;Conta do Utilizador</translation>
     </message>
     <message>
         <source>User Sign in</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Iniciar Sessão do Utilizador</translation>
     </message>
     <message>
         <source>View</source>
@@ -19567,11 +24652,11 @@ Directly</source>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation>Microblogue Pós-venda do WPS</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>&quot;unfinished&quot;</translation>
+        <translation type="obsolete">Versão Comercial do WPS</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -19587,7 +24672,7 @@ Directly</source>
     </message>
     <message>
         <source>testRbTabWidget</source>
-        <translation>&quot;testRbTabWidget&quot;</translation>
+        <translation>testRbTabWidget</translation>
     </message>
 </context>
 <context>
@@ -19599,21 +24684,22 @@ Directly</source>
     <message>
         <source>Switch UI</source>
         <translatorcomment>Alterar Interface de Utilizador</translatorcomment>
-        <translation type="unfinished">Alterar IU</translation>
+        <translation type="obsolete">Alterar IU</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mudar de IU</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Professional Version</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Alterar Interface de Utilizador</translatorcomment>
+        <translation>Mudar de IU</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>&quot;obsolete&quot;&gt;verdadeiro</translation>
+        <translation>verdadeiro</translation>
     </message>
 </context>
 <context>

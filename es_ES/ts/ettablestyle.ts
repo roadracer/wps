@@ -30,19 +30,19 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation>Estilo oscuro 2-Enfatizar 1/Enfatizar 2</translation>
+        <translation>Estilo oscuro 2 - Énfasis 1/Énfasis 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation>Estilo oscuro 2-Enfatizar 3/Enfatizar 4</translation>
+        <translation>Estilo oscuro 2 - Énfasis 3/Énfasis 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>Estilo oscuro 2-Enfatizar 5/Enfatizar 6</translation>
+        <translation>Estilo oscuro 2 - Énfasis 5/Énfasis 6</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation>Enfatizar</translation>
+        <translation>Énfasis</translation>
     </message>
     <message>
         <source>First Column</source>
@@ -74,7 +74,7 @@
     </message>
     <message>
         <source>Theme Style</source>
-        <translation>Style de tema</translation>
+        <translation>Estilo de tema</translation>
     </message>
     <message>
         <source>deep color style</source>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>Estilo oscuro 2-Enfatizar 5/Enfatizar 6</translation>
+        <translation>Estilo oscuro 2-Énfasis 5/Énfasis 6</translation>
     </message>
     <message>
         <source>Deep</source>
@@ -173,7 +173,7 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation>Enfatizar</translation>
+        <translation>Énfasis</translation>
     </message>
     <message>
         <source>First Column</source>
@@ -217,7 +217,7 @@
     </message>
     <message>
         <source>Theme Style</source>
-        <translation>Style de tema</translation>
+        <translation>Estilo de tema</translation>
     </message>
     <message>
         <source>Washy</source>
@@ -285,11 +285,11 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation>Estilo oscuro 2-Enfatizar 1/Enfatizar 2</translation>
+        <translation>Estilo oscuro 2-Énfasis 1/Énfasis 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation>Estilo oscuro 2-Enfatizar 3/Enfatizar 4</translation>
+        <translation>Estilo oscuro 2-Énfasis 3/Énfasis 4</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
@@ -367,7 +367,7 @@
     </message>
     <message>
         <source>Table Style Options:</source>
-        <translation>Opxiones de estilo de tabla</translation>
+        <translation>Opciones de estilo de tabla:</translation>
     </message>
     <message>
         <source>Table Style:</source>

@@ -167,7 +167,7 @@
     <message>
         <source>This function is offered in WPS Office 2009 Professional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation type="unfinished"></translation>
+        <translation>此功能在 WPS Office 2007专业版 中提供！</translation>
     </message>
 </context>
 <context>
@@ -630,6 +630,41 @@ Would you like to open this file?
         <comment>TXTRANS_PARA_TEXTALIGN_UPHOLDINGFIXED</comment>
         <translation>底端对齐</translation>
     </message>
+    <message>
+        <source>Left Indent</source>
+        <comment>TXTRANS_PARA_TEXTINDENT_LEFT</comment>
+        <translation>左缩进</translation>
+    </message>
+    <message>
+        <source>First Line Indent</source>
+        <comment>TXTRANS_PARA_TEXTINDENT_FIRSTLINE</comment>
+        <translation>首行缩进</translation>
+    </message>
+    <message>
+        <source>UnderlineStyle</source>
+        <comment>TXTRANS_SPAN_FONT_UNDERLINE_STYLE</comment>
+        <translation>下划线样式</translation>
+    </message>
+    <message>
+        <source>LangID</source>
+        <comment>TXTRANS_SPAN_FONT_LANGID</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AltLangID</source>
+        <comment>TXTRANS_SPAN_FONT_ALTLANGID</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>spacing</source>
+        <comment>TXTRANS_SPAN_FONT_SPACING</comment>
+        <translation>间距</translation>
+    </message>
+    <message>
+        <source>kerning</source>
+        <comment>TXTRANS_SPAN_FONT_KERNING</comment>
+        <translation>字距</translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppcore</name>
@@ -831,7 +866,7 @@ Would you like to open this file?
     <message>
         <source>Click to edit Master subtitle Style</source>
         <comment>WP_TEXT_OF_SUBTITLE_IN_MASTER</comment>
-        <translation>单击此处编辑母版副标题样式</translation>
+        <translation type="obsolete">单击此处编辑母版副标题样式</translation>
     </message>
     <message>
         <source>Click to edit Master text styles
@@ -1611,7 +1646,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished">演示文稿</translation>
+        <translation>演示文稿</translation>
     </message>
     <message>
         <source>Presentation</source>
@@ -2094,7 +2129,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Title Only</source>
         <comment>WP_LAYOUT_TITLEONLY</comment>
-        <translation>只有标题</translation>
+        <translation>仅标题</translation>
     </message>
     <message>
         <source>Title Slide</source>
@@ -2519,7 +2554,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>default.dpt</source>
         <comment>WpStartandFile</comment>
-        <translation>default.dpt</translation>
+        <translation type="obsolete">default.dpt</translation>
     </message>
     <message>
         <source>Errors occur when WPS Presentation is opening this file.
@@ -2602,7 +2637,7 @@ Please try one of the following.
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation type="obsolete">您正在打开由Microsoft Office 2007以上版本生成的文档，可能存在局部兼容效果不理想且不支持保存。</translation>
+        <translation>您正在打开由Microsoft Office 2007以上版本生成的文档，可能存在局部兼容效果不理想且不支持保存。</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
@@ -2613,19 +2648,503 @@ Please try one of the following.
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>WP_SAVE_PPT_FAILURE</comment>
-        <translation type="unfinished">WPS演示 无法保存或创建此文件。
+        <translation>WPS演示 无法保存或创建此文件。
 请确认：文件是否可写，是否正被其他用户编辑；磁盘未满或未被破坏。
 (%s)</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
         <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">您正在打开由Microsoft Office 2007以上版本生成的文档，可能存在局部兼容效果不理想；为避免数据丢失，将以浏览模式打开此文档(不支持编辑和保存)。</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">您正在打开由Microsoft Office 2007以上版本生成的文档，可能存在局部兼容效果不理想且不支持保存。</translation>
+    </message>
+    <message>
+        <source>The linked file is unavailable and can&apos;t be updated.</source>
+        <comment>WP_LINKEDFILENOTAVALILABLE</comment>
+        <translation>链接的文件无法使用且无法更新。</translation>
+    </message>
+    <message>
+        <source>Chart Placeholder</source>
+        <comment>WP_PH_SPNAME_CHART_PLACEHOLDER</comment>
+        <translation>图表占位符</translation>
+    </message>
+    <message>
+        <source>Click to add notes</source>
+        <comment>WP_ADD_NOTES</comment>
+        <translation>单击此处添加备注</translation>
+    </message>
+    <message>
+        <source>Click to edit Master text styles</source>
+        <comment>WP_LEVER_TEXT_OF_FIRST_LEVER</comment>
+        <translation>单击此处编辑母版文本样式</translation>
+    </message>
+    <message>
+        <source>Second level</source>
+        <comment>WP_LEVER_TEXT_OF_SECOND_LEVER</comment>
+        <translation>第二级</translation>
+    </message>
+    <message>
+        <source>Third level</source>
+        <comment>WP_LEVER_TEXT_OF_THIRD_LEVER</comment>
+        <translation>第三级</translation>
+    </message>
+    <message>
+        <source>Fourth level</source>
+        <comment>WP_LEVER_TEXT_OF_FORTH_LEVER</comment>
+        <translation>第四级</translation>
+    </message>
+    <message>
+        <source>Fifth level</source>
+        <comment>WP_LEVER_TEXT_OF_FIFTH_LEVER</comment>
+        <translation>第五级</translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <comment>WP_TEXT_OF_HEADER</comment>
+        <translation>页眉</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <comment>WP_TEXT_OF_FOOTER</comment>
+        <translation>页脚</translation>
+    </message>
+    <message>
+        <source>ClipArt Placeholder</source>
+        <comment>WP_PH_SPNAME_CLIPART_PLACEHOLDER</comment>
+        <translation>联机映像占位符</translation>
+    </message>
+    <message>
+        <source>Content Placeholder</source>
+        <comment>WP_PH_SPNAME_CONTENT_PLACEHOLDER</comment>
+        <translation>内容占位符</translation>
+    </message>
+    <message>
+        <source>Custom Layout</source>
+        <comment>WP_CUSTOM_LAYOUT</comment>
+        <translation>自定义版式</translation>
+    </message>
+    <message>
+        <source>Date Placeholder</source>
+        <comment>WP_PH_SPNAME_DATE_PLACEHOLDER</comment>
+        <translation>日期占位符</translation>
+    </message>
+    <message>
+        <source>Footer Placeholder</source>
+        <comment>WP_PH_SPNAME_FOOTER_PLACEHOLDER</comment>
+        <translation>页脚占位符</translation>
+    </message>
+    <message>
+        <source>Header Placeholder</source>
+        <comment>WP_PH_SPNAME_HEADER_PLACEHOLDER</comment>
+        <translation>页眉占位符</translation>
+    </message>
+    <message>
+        <source>Media Placeholder</source>
+        <comment>WP_PH_SPNAME_MEDIA_PLACEHOLDER</comment>
+        <translation>媒体占位符</translation>
+    </message>
+    <message>
+        <source>Picture Placeholder</source>
+        <comment>WP_PH_SPNAME_PICTURE_PLACEHOLDER</comment>
+        <translation>图片占位符</translation>
+    </message>
+    <message>
+        <source>Slide Image Placeholder</source>
+        <comment>WP_PH_SPNAME_SLIDE_IMAGE_PLACEHOLDER</comment>
+        <translation>幻灯片图像占位符</translation>
+    </message>
+    <message>
+        <source>Slide Layout</source>
+        <comment>WP_SB_VIEW_SLIDELAYOUT</comment>
+        <translation>幻灯片版式</translation>
+    </message>
+    <message>
+        <source>Slide Number Placeholder</source>
+        <comment>WP_PH_SPNAME_SLIDE_NUMBER_PLACEHOLDER</comment>
+        <translation>灯片编号占位符</translation>
+    </message>
+    <message>
+        <source>SmartArt Placeholder</source>
+        <comment>WP_PH_SPNAME_SMARTART_PLACEHOLDER</comment>
+        <translation>SmartArt 占位符</translation>
+    </message>
+    <message>
+        <source>Subtitle</source>
+        <comment>WP_PH_SPNAME_SUBTITLE</comment>
+        <translation>副标题</translation>
+    </message>
+    <message>
+        <source>Table Placeholder</source>
+        <comment>WP_PH_SPNAME_TABLE_PLACEHOLDER</comment>
+        <translation>表格占位符</translation>
+    </message>
+    <message>
+        <source>Text Placeholder</source>
+        <comment>WP_PH_SPNAME_TEXT_PLACEHOLDER</comment>
+        <translation>文本占位符</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>WP_PH_SPNAME_TITLE</comment>
+        <translation>标题</translation>
+    </message>
+    <message>
+        <source>newfile.pptx</source>
+        <comment>WpStartandFile</comment>
+        <translation>newfile.pptx</translation>
+    </message>
+    <message>
+        <source> The Slide Master: </source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_MASTER</comment>
+        <translation> 母版：</translation>
+    </message>
+    <message>
+        <source> The Layout: </source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_LAYOUT</comment>
+        <translation> 版式：</translation>
+    </message>
+    <message>
+        <source>By using the slide %1</source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_USING_SLIDE</comment>
+        <translation>由幻灯片 %1 使用</translation>
+    </message>
+    <message>
+        <source>No Slide Using</source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_NO_SLIDE_USING</comment>
+        <translation>无幻灯片使用</translation>
+    </message>
+    <message>
+        <source>No Title</source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_NO_TITLE</comment>
+        <translation>无标题</translation>
+    </message>
+    <message>
+        <source>The following features cannot be saved in macro-free workbooks:
+ · VB project
+To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.
+</source>
+        <comment>WP_SAVEMACROWARNING</comment>
+        <translation>以下内容无法保存在未启用宏的文档中：
+ · VB 工程
+若要使保存的文件具有这些功能，请单击“否”返回“另存为”对话框，然后在“文件类型”下拉框中选择一种启用宏的文件类型。
+是否继续将其另存为未启用宏的文档?
+</translation>
+    </message>
+    <message>
+        <source>default</source>
+        <comment>wpp_sLoaclTemplate_default</comment>
+        <translation>默认模板</translation>
+    </message>
+    <message>
+        <source>3d map</source>
+        <comment>wpp_sLoaclTemplate_3d_map</comment>
+        <translation>3D映射</translation>
+    </message>
+    <message>
+        <source>art_mountaineering</source>
+        <comment>wpp_sLoaclTemplate_art_mountaineering</comment>
+        <translation>登山</translation>
+    </message>
+    <message>
+        <source>blue background</source>
+        <comment>wpp_sLoaclTemplate_blue_background</comment>
+        <translation>蓝色背景</translation>
+    </message>
+    <message>
+        <source>blue crystal lattice</source>
+        <comment>wpp_sLoaclTemplate_blue_crystal_lattice</comment>
+        <translation>蓝色的晶格</translation>
+    </message>
+    <message>
+        <source>blue longing</source>
+        <comment>wpp_sLoaclTemplate_blue_longing</comment>
+        <translation>蓝色渴望</translation>
+    </message>
+    <message>
+        <source>blue waves</source>
+        <comment>wpp_sLoaclTemplate_blue_waves</comment>
+        <translation>蓝色波纹</translation>
+    </message>
+    <message>
+        <source>books</source>
+        <comment>wpp_sLoaclTemplate_books</comment>
+        <translation>书籍</translation>
+    </message>
+    <message>
+        <source>business calculation</source>
+        <comment>wpp_sLoaclTemplate_business_calculation</comment>
+        <translation>商业-计算</translation>
+    </message>
+    <message>
+        <source>business cooperate</source>
+        <comment>wpp_sLoaclTemplate_business_cooperate</comment>
+        <translation>商业-合作</translation>
+    </message>
+    <message>
+        <source>business index</source>
+        <comment>wpp_sLoaclTemplate_business_index</comment>
+        <translation>商业-索引</translation>
+    </message>
+    <message>
+        <source>business technology</source>
+        <comment>wpp_sLoaclTemplate_business_technolog_</comment>
+        <translation>商业-科技</translation>
+    </message>
+    <message>
+        <source>business_business affair</source>
+        <comment>wpp_sLoaclTemplate_business_business_affair</comment>
+        <translation>商业-商业公平</translation>
+    </message>
+    <message>
+        <source>business_stock fluctuation</source>
+        <comment>wpp_sLoaclTemplate_business_stock_fluctuation</comment>
+        <translation>商业-波动的股市</translation>
+    </message>
+    <message>
+        <source>city silhouette</source>
+        <comment>wpp_sLoaclTemplate_city_silhouette</comment>
+        <translation>城市剪影</translation>
+    </message>
+    <message>
+        <source>classical_pelycosaur</source>
+        <comment>wpp_sLoaclTemplate_</comment>
+        <translation>经典盘龙</translation>
+    </message>
+    <message>
+        <source>colourful</source>
+        <comment>wpp_sLoaclTemplate_colourful</comment>
+        <translation>多彩</translation>
+    </message>
+    <message>
+        <source>communications and dialogues</source>
+        <comment>wpp_sLoaclTemplate_communications_and_dialogues</comment>
+        <translation>交流与对话</translation>
+    </message>
+    <message>
+        <source>curtain background</source>
+        <comment>wpp_sLoaclTemplate_curtain_background</comment>
+        <translation>背景窗帘</translation>
+    </message>
+    <message>
+        <source>daily_loose-leaf binder</source>
+        <comment>wpp_sLoaclTemplate_daily_loose_leaf_binder</comment>
+        <translation>日用活页夹</translation>
+    </message>
+    <message>
+        <source>data pie charts</source>
+        <comment>wpp_sLoaclTemplate_data_pie_charts</comment>
+        <translation>饼状数据表</translation>
+    </message>
+    <message>
+        <source>dazzle dance smooth shadow</source>
+        <comment>wpp_sLoaclTemplate_dance_dazzle_smooth_shadow</comment>
+        <translation>炫舞光影</translation>
+    </message>
+    <message>
+        <source>deep blue technology</source>
+        <comment>wpp_sLoaclTemplate_deep_blue_technology</comment>
+        <translation>深蓝科技</translation>
+    </message>
+    <message>
+        <source>direction</source>
+        <comment>wpp_sLoaclTemplate_direction</comment>
+        <translation>方向</translation>
+    </message>
+    <message>
+        <source>friendly cooperation</source>
+        <comment>wpp_sLoaclTemplate_friendly_cooperation</comment>
+        <translation>友好合作</translation>
+    </message>
+    <message>
+        <source>gear drawings</source>
+        <comment>wpp_sLoaclTemplate_gear_drawings</comment>
+        <translation>齿轮图</translation>
+    </message>
+    <message>
+        <source>gear drives</source>
+        <comment>wpp_sLoaclTemplate_gear_drives</comment>
+        <translation>齿轮转动</translation>
+    </message>
+    <message>
+        <source>global plan</source>
+        <comment>wpp_sLoaclTemplate_global_plan</comment>
+        <translation>全球计划</translation>
+    </message>
+    <message>
+        <source>global trade</source>
+        <comment>wpp_sLoaclTemplate_global_trade</comment>
+        <translation>全球贸易</translation>
+    </message>
+    <message>
+        <source>government_celebration</source>
+        <comment>wpp_sLoaclTemplate_government_celebration</comment>
+        <translation>政府-庆祝</translation>
+    </message>
+    <message>
+        <source>government_five-pointed_red star</source>
+        <comment>wpp_sLoaclTemplate_government_five_pointed_red_star</comment>
+        <translation>政府-五角星</translation>
+    </message>
+    <message>
+        <source>green color</source>
+        <comment>wpp_sLoaclTemplate_green_color</comment>
+        <translation>绿色</translation>
+    </message>
+    <message>
+        <source>green technology</source>
+        <comment>wpp_sLoaclTemplate_green_technology</comment>
+        <translation>绿色科技</translation>
+    </message>
+    <message>
+        <source>interpersonal relation</source>
+        <comment>wpp_sLoaclTemplate_interpersonal_relation</comment>
+        <translation>国际交流</translation>
+    </message>
+    <message>
+        <source>landscape painting</source>
+        <comment>wpp_sLoaclTemplate_landscape_painting</comment>
+        <translation>山水画</translation>
+    </message>
+    <message>
+        <source>mythic curve</source>
+        <comment>wpp_sLoaclTemplate_mythic_curve</comment>
+        <translation>神秘的曲线</translation>
+    </message>
+    <message>
+        <source>new charpter</source>
+        <comment>wpp_sLoaclTemplate_new_charpter</comment>
+        <translation>新篇章</translation>
+    </message>
+    <message>
+        <source>new energe</source>
+        <comment>wpp_sLoaclTemplate_new_energe</comment>
+        <translation>新能源</translation>
+    </message>
+    <message>
+        <source>orange waves</source>
+        <comment>wpp_sLoaclTemplate_orange_waves</comment>
+        <translation>橘色波浪</translation>
+    </message>
+    <message>
+        <source>phantom effect</source>
+        <comment>wpp_sLoaclTemplate_phantom_effect</comment>
+        <translation>虚幻效果</translation>
+    </message>
+    <message>
+        <source>pleasant garden</source>
+        <comment>wpp_sLoaclTemplate_pleasant_garden</comment>
+        <translation>美丽花园</translation>
+    </message>
+    <message>
+        <source>red background</source>
+        <comment>wpp_sLoaclTemplate_red_background</comment>
+        <translation>红色背景</translation>
+    </message>
+    <message>
+        <source>red curtain</source>
+        <comment>wpp_sLoaclTemplate_red_curtain</comment>
+        <translation>红色窗帘</translation>
+    </message>
+    <message>
+        <source>science and technology preach</source>
+        <comment>wpp_sLoaclTemplate_science_and_technology_preach</comment>
+        <translation>科技宣传</translation>
+    </message>
+    <message>
+        <source>sea widen sky</source>
+        <comment>wpp_sLoaclTemplate_sea_widen_sky</comment>
+        <translation>海阔天空</translation>
+    </message>
+    <message>
+        <source>simple green</source>
+        <comment>wpp_sLoaclTemplate_simple_green</comment>
+        <translation>简单的绿色</translation>
+    </message>
+    <message>
+        <source>small blackbord</source>
+        <comment>wpp_sLoaclTemplate_small_blackbord</comment>
+        <translation>小黑板</translation>
+    </message>
+    <message>
+        <source>stationery</source>
+        <comment>wpp_sLoaclTemplate_stationery</comment>
+        <translation>文具</translation>
+    </message>
+    <message>
+        <source>sweet memories</source>
+        <comment>wpp_sLoaclTemplate_sweet_memories</comment>
+        <translation>甜蜜的梦</translation>
+    </message>
+    <message>
+        <source>time revolution</source>
+        <comment>wpp_sLoaclTemplate_time_revolution</comment>
+        <translation>时间革命</translation>
+    </message>
+    <message>
+        <source>training course</source>
+        <comment>wpp_sLoaclTemplate_training_course</comment>
+        <translation>训练课程</translation>
+    </message>
+    <message>
+        <source>up arrow</source>
+        <comment>wpp_sLoaclTemplate_up_arrow</comment>
+        <translation>向上箭头</translation>
+    </message>
+    <message>
+        <source>world map</source>
+        <comment>wpp_sLoaclTemplate_world_map</comment>
+        <translation>世界地图</translation>
+    </message>
+    <message>
+        <source>We&apos;re sorry, something went wrong that might make WPS Presentation unstable. Please save your presentations and restart WPS Presentation</source>
+        <comment>WP_PASTEWARNING</comment>
+        <translation>抱歉，出现问题，可能导致 WPS演示 不稳定。请保存您的演示文稿，然后重启 WPS演示。</translation>
+    </message>
+    <message>
+        <source>No Notes</source>
+        <comment>WP_ADD_NOTES</comment>
+        <translation>无备注</translation>
+    </message>
+    <message>
+        <source>Handout Master</source>
+        <comment>WP_SB_VIEW_HANDOUTMASTER</comment>
+        <translation>讲义母版</translation>
+    </message>
+    <message>
+        <source>Notes Master</source>
+        <comment>WP_SB_VIEW_NOTESMASTER</comment>
+        <translation>备注母版</translation>
+    </message>
+    <message>
+        <source>Notes Page</source>
+        <comment>WP_SB_VIEW_NOTESPAGE</comment>
+        <translation>备注页</translation>
+    </message>
+    <message>
+        <source>The media clips in this version of WPS Presentation will be lost (slide %1)</source>
+        <comment>WP_COMPATIBILITYCHECKER_MEDIACLIPS</comment>
+        <translation>在此 WPS演示 版本中的媒体剪辑数据将丢失。(幻灯片  %1)</translation>
+    </message>
+    <message>
+        <source>Objects in this document contain links to files that cannot be found. The linked information will not be updated.</source>
+        <translation type="unfinished">此文档中的对象包含有到无法找到的文件的链接。所链接信息将不会被更新。</translation>
+    </message>
+    <message>
+        <source>Document has been locked by %s, Do you want to open it as read-only?
+(%s)</source>
+        <comment>WP_SaveFailureLockedByUser</comment>
+        <translation type="unfinished">文档已被 %s 锁定，是否以只读模式打开？
+(%s)</translation>
+    </message>
+    <message>
+        <source>Click to edit Master subtitle style</source>
+        <comment>WP_TEXT_OF_SUBTITLE_IN_MASTER</comment>
+        <translation>单击此处编辑母版副标题样式</translation>
     </message>
 </context>
 <context>
@@ -2658,27 +3177,27 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Double-click to add chart</source>
         <comment>WpPLACEHOLDER_ADD_CHART</comment>
-        <translation>双击此处添加图表</translation>
+        <translation type="obsolete">双击此处添加图表</translation>
     </message>
     <message>
         <source>Double-click to add clip art</source>
         <comment>WpPLACEHOLDER_ADD_PICTURE</comment>
-        <translation>双击此处添加图片</translation>
+        <translation type="obsolete">双击此处添加图片</translation>
     </message>
     <message>
         <source>Double-click to add diagram or organization chart</source>
         <comment>WpPLACEHOLDER_ADD_ORGCHART</comment>
-        <translation>双击此处添加图示或组织结构图</translation>
+        <translation type="obsolete">双击此处添加图示或组织结构图</translation>
     </message>
     <message>
         <source>Double-click to add media clip</source>
         <comment>WpPLACEHOLDER_ADD_MEDIA</comment>
-        <translation>双击此处添加媒体剪辑</translation>
+        <translation type="obsolete">双击此处添加媒体剪辑</translation>
     </message>
     <message>
         <source>Double-click to add table</source>
         <comment>WpPLACEHOLDER_ADD_TABLE</comment>
-        <translation>双击此处添加表格</translation>
+        <translation type="obsolete">双击此处添加表格</translation>
     </message>
     <message>
         <source>Footer Area</source>
@@ -2709,6 +3228,36 @@ Please make sure the file is not locked by another user, or the target disk is n
         <source>Title Area for AutoLayouts</source>
         <comment>WpPLACEHOLDER_MST_TITLE</comment>
         <translation>自动版式的标题区</translation>
+    </message>
+    <message>
+        <source>Click icon to add picture</source>
+        <comment>WpPLACEHOLDER_ADD_PICTURE</comment>
+        <translation>单击图标添加图片</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <comment>WpPLACEHOLDER_MST_PICTURE</comment>
+        <translation>图片</translation>
+    </message>
+    <message>
+        <source>Click icon to add chart</source>
+        <comment>WpPLACEHOLDER_ADD_CHART</comment>
+        <translation>单击图标添加图表</translation>
+    </message>
+    <message>
+        <source>Click icon to add media clip</source>
+        <comment>WpPLACEHOLDER_ADD_MEDIA</comment>
+        <translation>单击图标添加媒体</translation>
+    </message>
+    <message>
+        <source>Click icon to add table</source>
+        <comment>WpPLACEHOLDER_ADD_TABLE</comment>
+        <translation>单击图标添加表格</translation>
+    </message>
+    <message>
+        <source>Click icon to add smartArt</source>
+        <comment>WpPLACEHOLDER_ADD_ORGCHART</comment>
+        <translation>单击图标添加SmartArt图形</translation>
     </message>
 </context>
 <context>
@@ -4305,7 +4854,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Grow and Turn</source>
         <comment>wpp_sAnimExitEffectTextGrowAndTurn</comment>
-        <translation>翻转式由远及近</translation>
+        <translation>收缩并旋转</translation>
     </message>
     <message>
         <source>Grow/Shrink</source>
@@ -4560,12 +5109,12 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Master: Body</source>
         <comment>wpp_sMasterText</comment>
-        <translation>母版: 正文</translation>
+        <translation type="obsolete">母版: 正文</translation>
     </message>
     <message>
         <source>Master: Title</source>
         <comment>wpp_sMasterTitle</comment>
-        <translation>母版: 标题</translation>
+        <translation type="obsolete">母版: 标题</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -5714,17 +6263,601 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Out Slightly</source>
         <comment>wpp_sAnimDirectionInSlightly</comment>
-        <translation type="unfinished"></translation>
+        <translation>轻微放大</translation>
     </message>
     <message>
         <source>Canceled by user.</source>
         <comment>wpp_sCancelByUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>用户取消操作。</translation>
     </message>
     <message>
         <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
         <comment>wpp_sCanNotOpenFolder</comment>
-        <translation type="unfinished"></translation>
+        <translation>无法打开文件夹 %s。可能该文件夹是在一个不可用的位置，或受到密码保护，或该文件夹名称不存在或超长。</translation>
+    </message>
+    <message>
+        <source>Top-Left To Bottom-Right</source>
+        <comment>wpp_sTooltipGradientLinearTopLefttoBottomRight</comment>
+        <translation type="obsolete">左上到右下</translation>
+    </message>
+    <message>
+        <source>To Down</source>
+        <comment>wpp_sTooltipGradientLinearTopRighttoBottomLeft</comment>
+        <translation type="obsolete">向下</translation>
+    </message>
+    <message>
+        <source>Top-Right To Bottom-Left</source>
+        <comment>wpp_sTooltipGradientLinearTopRighttoBottomLeft</comment>
+        <translation type="obsolete">右上到左下</translation>
+    </message>
+    <message>
+        <source>To Right</source>
+        <comment>wpp_sTooltipGradientlinearRight</comment>
+        <translation type="obsolete">到右侧</translation>
+    </message>
+    <message>
+        <source>To Left</source>
+        <comment>wpp_sTooltipGradientlinearLeft</comment>
+        <translation type="obsolete">到左侧</translation>
+    </message>
+    <message>
+        <source>Bottom-Left To Top-Right</source>
+        <comment>wpp_sTooltipGradientLinearBottomLefttoTopRight</comment>
+        <translation type="obsolete">左下到右上</translation>
+    </message>
+    <message>
+        <source>To Up</source>
+        <comment>wpp_sTooltipGradientLinearUp</comment>
+        <translation type="obsolete">向上</translation>
+    </message>
+    <message>
+        <source>Bottom-Right To Top-Left</source>
+        <comment>wpp_sTooltipGradientLinearBottomRighttoTopLeft</comment>
+        <translation type="obsolete">右下到左上</translation>
+    </message>
+    <message>
+        <source>From Bottom-Right Corner</source>
+        <comment>wpp_sTooltipGradientFromBottomRightCorner</comment>
+        <translation type="obsolete">从右下角</translation>
+    </message>
+    <message>
+        <source>From Bottom-Left Corne</source>
+        <comment>wpp_sTooltipGradientFromBottomLeftCorner</comment>
+        <translation type="obsolete">从左下角</translation>
+    </message>
+    <message>
+        <source>From Center</source>
+        <comment>wpp_sTooltipGradientFromCenter</comment>
+        <translation type="obsolete">中心辐射</translation>
+    </message>
+    <message>
+        <source>From Top-Right Corner</source>
+        <comment>wpp_sTooltipGradientFromTopRightCorner</comment>
+        <translation type="obsolete">从右上角</translation>
+    </message>
+    <message>
+        <source>From Top-Left Corner</source>
+        <comment>wpp_sTooltipGradientFromTopLeftCorner</comment>
+        <translation type="obsolete">从左上角</translation>
+    </message>
+    <message>
+        <source>Dark1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="obsolete">深色1</translation>
+    </message>
+    <message>
+        <source>Light1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="obsolete">浅色1</translation>
+    </message>
+    <message>
+        <source>Dark2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="obsolete">深色2</translation>
+    </message>
+    <message>
+        <source>Light2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="obsolete">浅色2</translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="obsolete">着色1</translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="obsolete">着色2</translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="obsolete">着色3</translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="obsolete">着色4</translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="obsolete">着色5</translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="obsolete">着色6</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="obsolete">超链接</translation>
+    </message>
+    <message>
+        <source>FollowedHyperlink1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="obsolete">更随超链接</translation>
+    </message>
+    <message>
+        <source>Text1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="obsolete">文本1</translation>
+    </message>
+    <message>
+        <source>Background1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="obsolete">背景1</translation>
+    </message>
+    <message>
+        <source>Text2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="obsolete">文本2</translation>
+    </message>
+    <message>
+        <source>Background2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation type="obsolete">背景2</translation>
+    </message>
+    <message>
+        <source> stop: %1(belong to %2)
+ position:%3% 
+ color: %4</source>
+        <comment>wpp_sTooltipGradientStops</comment>
+        <translation type="obsolete">停止点：%1(属于 %2)
+位置：%3
+颜色：%4</translation>
+    </message>
+    <message>
+        <source> Light Color %1%</source>
+        <comment>wpp_sTooltipGradientLightColour</comment>
+        <translation type="obsolete">浅色 %1</translation>
+    </message>
+    <message>
+        <source> Dark Color %1%</source>
+        <comment>wpp_sTooltipGradientDarkColour</comment>
+        <translation type="obsolete">深色 %1</translation>
+    </message>
+    <message>
+        <source> Fill-</source>
+        <comment>wpp_sTooltipArtWordSolidFill</comment>
+        <translation type="obsolete">填充-</translation>
+    </message>
+    <message>
+        <source> GradientFill-</source>
+        <comment>wpp_sTooltipArtWordGradientFill</comment>
+        <translation type="obsolete">渐变填充-</translation>
+    </message>
+    <message>
+        <source> PatternFill-</source>
+        <comment>wpp_sTooltipArtWordPatternFill</comment>
+        <translation type="obsolete">图案填充-</translation>
+    </message>
+    <message>
+        <source> OutLine-</source>
+        <comment>wpp_sTooltipArtWordOutLine</comment>
+        <translation type="obsolete">轮廊-</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <comment>wpp_sTooltipPatternHorizontal</comment>
+        <translation type="obsolete">横线</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <comment>wpp_sTooltipPatternVertical</comment>
+        <translation type="obsolete">竖线</translation>
+    </message>
+    <message>
+        <source>ForwardDiagonal</source>
+        <comment>wpp_sTooltipPatternForwardDiagonal</comment>
+        <translation type="obsolete">前向对角线</translation>
+    </message>
+    <message>
+        <source>BackwardDiagonal</source>
+        <comment>wpp_sTooltipPatternBackwardDiagonal</comment>
+        <translation type="obsolete">后向对角线</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>wpp_sTooltipPatternDiagonalCross</comment>
+        <translation type="obsolete">十字</translation>
+    </message>
+    <message>
+        <source>DiagonalCross</source>
+        <comment>wpp_sTooltipPatternDiagonalCross</comment>
+        <translation type="obsolete">交叉对角线</translation>
+    </message>
+    <message>
+        <source>LightDownwardDiagonal</source>
+        <comment>wpp_sTooltipPatternLightDownwardDiagonal</comment>
+        <translation type="obsolete">浅色下对角线</translation>
+    </message>
+    <message>
+        <source>LightUpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternLightUpwardDiagonal</comment>
+        <translation type="obsolete">浅色上对角线</translation>
+    </message>
+    <message>
+        <source>DarkDownwardDiagonal	</source>
+        <comment>wpp_sTooltipPatternDarkDownwardDiagonal</comment>
+        <translation type="obsolete">深色下对角线</translation>
+    </message>
+    <message>
+        <source>DarkUpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternDarkUpwardDiagonal</comment>
+        <translation type="obsolete">深色上对角线</translation>
+    </message>
+    <message>
+        <source>WideDownwardDiagonal</source>
+        <comment>wpp_sTooltipPatternWideDownwardDiagonal</comment>
+        <translation type="obsolete">宽下对角线</translation>
+    </message>
+    <message>
+        <source>WideUpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternWideUpwardDiagonal</comment>
+        <translation type="obsolete">宽上对角线</translation>
+    </message>
+    <message>
+        <source>LightVertical</source>
+        <comment>wpp_sTooltipPatternLightVertical</comment>
+        <translation type="obsolete">浅色竖线</translation>
+    </message>
+    <message>
+        <source>LightHorizontal</source>
+        <comment>wpp_sTooltipPatternLightHorizontal</comment>
+        <translation type="obsolete">浅色横线</translation>
+    </message>
+    <message>
+        <source>NarrowVertical</source>
+        <comment>wpp_sTooltipPatternNarrowVertical</comment>
+        <translation type="obsolete">窄竖线</translation>
+    </message>
+    <message>
+        <source>NarrowHorizontal</source>
+        <comment>wpp_sTooltipPatternNarrowHorizontal</comment>
+        <translation type="obsolete">窄横线</translation>
+    </message>
+    <message>
+        <source>DarkVertical </source>
+        <comment>wpp_sTooltipPatternDarkVertical</comment>
+        <translation type="obsolete">深色竖线</translation>
+    </message>
+    <message>
+        <source>DarkHorizontal</source>
+        <comment>wpp_sTooltipPatternDarkHorizontal</comment>
+        <translation type="obsolete">深色横线</translation>
+    </message>
+    <message>
+        <source>DashedDownwardDiagonal</source>
+        <comment>wpp_sTooltipPatternDashedDownwardDiagonal</comment>
+        <translation type="obsolete">下对角虚线</translation>
+    </message>
+    <message>
+        <source>DashedUpwardDiagonal	</source>
+        <comment>wpp_sTooltipPatternDashedUpwardDiagonal</comment>
+        <translation type="obsolete">上对角虚线</translation>
+    </message>
+    <message>
+        <source>DashedHorizontal	</source>
+        <comment>wpp_sTooltipPatternDashedHorizontal</comment>
+        <translation type="obsolete">横虚线</translation>
+    </message>
+    <message>
+        <source>DashedVertical</source>
+        <comment>wpp_sTooltipPatternDashedVertical</comment>
+        <translation type="obsolete">竖虚线</translation>
+    </message>
+    <message>
+        <source>SmallConfetti</source>
+        <comment>wpp_sTooltipPatternSmallConfetti</comment>
+        <translation type="obsolete">小纸屑</translation>
+    </message>
+    <message>
+        <source>LargeConfetti</source>
+        <comment>wpp_sTooltipPatternLargeConfetti</comment>
+        <translation type="obsolete">大纸屑</translation>
+    </message>
+    <message>
+        <source>ZigZag</source>
+        <comment>wpp_sTooltipPatternZigZag</comment>
+        <translation type="obsolete">锯齿形</translation>
+    </message>
+    <message>
+        <source>Wave	</source>
+        <comment>wpp_sTooltipPatternWave	</comment>
+        <translation type="obsolete">波形</translation>
+    </message>
+    <message>
+        <source>DiagonalBrick</source>
+        <comment>wpp_sTooltipPatternDiagonalBrick</comment>
+        <translation type="obsolete">对角砖形</translation>
+    </message>
+    <message>
+        <source>HorizontalBrick</source>
+        <comment>wpp_sTooltipPatternHorizontalBrick</comment>
+        <translation type="obsolete">横向砖形</translation>
+    </message>
+    <message>
+        <source>PatternWeave</source>
+        <comment>wpp_sTooltipPatternWeave</comment>
+        <translation type="obsolete">波浪形</translation>
+    </message>
+    <message>
+        <source>PatternPlaid</source>
+        <comment>wpp_sTooltipPatternPlaid</comment>
+        <translation type="obsolete">苏格兰方格</translation>
+    </message>
+    <message>
+        <source>PatternDivot</source>
+        <comment>wpp_sTooltipPatternDivot</comment>
+        <translation type="obsolete">草皮</translation>
+    </message>
+    <message>
+        <source>DottedGrid</source>
+        <comment>wpp_sTooltipPatternDottedGrid</comment>
+        <translation type="obsolete">点网格</translation>
+    </message>
+    <message>
+        <source>DottedDiamond</source>
+        <comment>wpp_sTooltipPatternDottedDiamond</comment>
+        <translation type="obsolete">点菱形</translation>
+    </message>
+    <message>
+        <source>PatternShingle</source>
+        <comment>wpp_sTooltipPatternShingle</comment>
+        <translation type="obsolete">木瓦板</translation>
+    </message>
+    <message>
+        <source>PatternTrellis</source>
+        <comment>wpp_sTooltipPatternTrellis</comment>
+        <translation type="obsolete">格架</translation>
+    </message>
+    <message>
+        <source>PatternSphere</source>
+        <comment>wpp_sTooltipPatternSphere</comment>
+        <translation type="obsolete">球体</translation>
+    </message>
+    <message>
+        <source>SmallGrid</source>
+        <comment>wpp_sToolwpp_sTooltipPatternSmallGridtipPatternSmallGrid</comment>
+        <translation type="obsolete">小网格</translation>
+    </message>
+    <message>
+        <source>SmallCheckerBoard</source>
+        <comment>wpp_sTooltipPatternSmallCheckerBoard</comment>
+        <translation type="obsolete">小棋盘</translation>
+    </message>
+    <message>
+        <source>LargeCheckerBoard</source>
+        <comment>wpp_sTooltipPatternLargeCheckerBoard</comment>
+        <translation type="obsolete">大棋盘</translation>
+    </message>
+    <message>
+        <source>OutlinedDiamond</source>
+        <comment>wpp_sTooltipPatternOutlinedDiamond</comment>
+        <translation type="obsolete">轮廊式菱形</translation>
+    </message>
+    <message>
+        <source>SolidDiamond</source>
+        <comment>wpp_sTooltipPatternSolidDiamond</comment>
+        <translation type="obsolete">实心菱形</translation>
+    </message>
+    <message>
+        <source>DownwardDiagnal</source>
+        <comment>wpp_sTooltipPatternDownwardDiagnal</comment>
+        <translation type="obsolete">下对角线</translation>
+    </message>
+    <message>
+        <source>UpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternUpwardDiagonal</comment>
+        <translation type="obsolete">上对角线</translation>
+    </message>
+    <message>
+        <source>LargeGrid</source>
+        <comment>wpp_sTooltipPatternLargeGrid</comment>
+        <translation type="obsolete">大网格</translation>
+    </message>
+    <message>
+        <source> InnerShadow</source>
+        <comment>wpp_sTooltipEffectInnerShadow</comment>
+        <translation type="obsolete"> 内部阴影</translation>
+    </message>
+    <message>
+        <source> Shadow</source>
+        <comment>wpp_sTooltipEffectInnerShadow</comment>
+        <translation type="obsolete"> 阴影</translation>
+    </message>
+    <message>
+        <source> ClearShadow-%1</source>
+        <comment>wpp_sTooltipEffectClearShadow</comment>
+        <translation type="obsolete">清晰阴影-%1</translation>
+    </message>
+    <message>
+        <source>Clear </source>
+        <comment>wpp_sTooltipMaterialTypeClear</comment>
+        <translation type="obsolete">清晰</translation>
+    </message>
+    <message>
+        <source>DarkEdge </source>
+        <comment>wpp_sTooltipMaterialTypeDarkEdge</comment>
+        <translation type="obsolete">硬边缘</translation>
+    </message>
+    <message>
+        <source>Flat </source>
+        <comment>wpp_sTooltipMaterialTypeFlat</comment>
+        <translation type="obsolete">平面</translation>
+    </message>
+    <message>
+        <source>Matte </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyMatte</comment>
+        <translation type="obsolete">磨砂</translation>
+    </message>
+    <message>
+        <source>Metal </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyMetal</comment>
+        <translation type="obsolete">金属效果</translation>
+    </message>
+    <message>
+        <source>Plastic </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyPlastic</comment>
+        <translation type="obsolete">塑料</translation>
+    </message>
+    <message>
+        <source>Wireframe </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyWireframe</comment>
+        <translation type="obsolete">线框</translation>
+    </message>
+    <message>
+        <source>Matte </source>
+        <comment>wpp_sTooltipMaterialTypeMatte</comment>
+        <translation type="obsolete">粗糙</translation>
+    </message>
+    <message>
+        <source>Metal </source>
+        <comment>wpp_sTooltipMaterialTypeMetal</comment>
+        <translation type="obsolete">金属</translation>
+    </message>
+    <message>
+        <source>Plastic </source>
+        <comment>wpp_sTooltipMaterialTypePlastic</comment>
+        <translation type="obsolete">塑料</translation>
+    </message>
+    <message>
+        <source>Powder </source>
+        <comment>wpp_sTooltipMaterialTypePowder</comment>
+        <translation type="obsolete">粉</translation>
+    </message>
+    <message>
+        <source>SoftEdge </source>
+        <comment>wpp_sTooltipMaterialTypeSoftEdge</comment>
+        <translation type="obsolete">软边缘</translation>
+    </message>
+    <message>
+        <source>SoftMetal </source>
+        <comment>wpp_sTooltipMaterialTypeSoftMetal</comment>
+        <translation type="obsolete">软金属</translation>
+    </message>
+    <message>
+        <source>TranslucentPowder </source>
+        <comment>wpp_sTooltipMaterialTypeTranslucentPowder</comment>
+        <translation type="obsolete">半透明粉</translation>
+    </message>
+    <message>
+        <source>WarmMatte </source>
+        <comment>wpp_sTooltipMaterialTypeWarmMatte</comment>
+        <translation type="obsolete">暖色粗糙</translation>
+    </message>
+    <message>
+        <source>DarkColor%1</source>
+        <comment>wpp_sTooltipShapeStyleDarkColor</comment>
+        <translation type="obsolete">深色%1</translation>
+    </message>
+    <message>
+        <source>HightLight%1</source>
+        <comment>wpp_sTooltipShapeStyleHightlightColor</comment>
+        <translation type="obsolete">强调颜色%1</translation>
+    </message>
+    <message>
+        <source>ColorOutLine-</source>
+        <comment>wpp_sTooltipShapeStyleColorOutLine</comment>
+        <translation type="obsolete">彩色轮廊-</translation>
+    </message>
+    <message>
+        <source>ColorFill-</source>
+        <comment>wpp_sTooltipShapeStyleColorFill</comment>
+        <translation type="obsolete">纯色填充-</translation>
+    </message>
+    <message>
+        <source>LightColor_1_OutLine,Color Fill-</source>
+        <comment>wpp_sTooltipShapeStyleLightColor_1_OutLineFill</comment>
+        <translation type="obsolete">浅色1 轮廊，彩色填充-</translation>
+    </message>
+    <message>
+        <source>SubtleEffect-</source>
+        <comment>wpp_sTooltipShapeStyleSubtleEffect</comment>
+        <translation type="obsolete">细微效果-</translation>
+    </message>
+    <message>
+        <source>ModerateEffect-</source>
+        <comment>wpp_sTooltipShapeStyleModerateEffect</comment>
+        <translation type="obsolete">中等效果-</translation>
+    </message>
+    <message>
+        <source>IntenseEffect-</source>
+        <comment>wpp_sTooltipShapeStyleIntenseEffect</comment>
+        <translation type="obsolete">强烈效果-</translation>
+    </message>
+    <message>
+        <source>SubtleLine-</source>
+        <comment>wpp_sTooltipShapeStyleIntenseLine</comment>
+        <translation type="obsolete">细微线-</translation>
+    </message>
+    <message>
+        <source>ModerateLine-</source>
+        <comment>wpp_sTooltipShapeStyleModerateLine</comment>
+        <translation type="obsolete">中等线-</translation>
+    </message>
+    <message>
+        <source>IntenseLine-</source>
+        <comment>wpp_sTooltipShapeStyleIntenseLine</comment>
+        <translation type="obsolete">强调线-</translation>
+    </message>
+    <message>
+        <source>Master: %1</source>
+        <comment>wpp_sMasterType_Master</comment>
+        <translation>母版：%1</translation>
+    </message>
+    <message>
+        <source>Layout: %1</source>
+        <comment>wpp_sMasterType_Layout</comment>
+        <translation>版式：%1</translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <comment>wpp_sMasterText</comment>
+        <translation>正文</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>wpp_sMasterTitle</comment>
+        <translation>标题</translation>
+    </message>
+    <message>
+        <source>date</source>
+        <comment>wpp_sMasterDate</comment>
+        <translation>日期</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <comment>wpp_sMasterFooter</comment>
+        <translation>页脚</translation>
+    </message>
+    <message>
+        <source>Slider Number</source>
+        <comment>wpp_sMasterSliderNumber</comment>
+        <translation>幻灯片编号</translation>
     </message>
 </context>
 <context>
@@ -6768,7 +7901,7 @@ Layout</source>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
         <comment>WP_TEMPLATEFILE</comment>
-        <translation>常用文件(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</translation>
+        <translation type="obsolete">常用文件(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
@@ -6816,83 +7949,228 @@ This backup will be saved to(%s)</source>
     <message>
         <source>All Files(*.*)</source>
         <comment>WpDescAll</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</source>
-        <comment>WpDescCommon</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation Files(*.dps)</source>
-        <comment>WpDescWPP</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation Templates(*.dpt)</source>
-        <comment>WpDescWPPTemp</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
-        <comment>WpDescPptPps</comment>
-        <translation type="unfinished"></translation>
+        <translation>所有文件(*.*)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
         <comment>WpDescPpt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint 97/2000/XP/2003 文件(*.ppt)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
         <comment>WpDescPps</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
-        <comment>WpDescPptTemp</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)</source>
-        <comment>WpDescPptx</comment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint 97/2000/XP/2003 放映文件(*.pps)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format(*.uof)</source>
         <comment>WpDescUOF</comment>
-        <translation type="unfinished"></translation>
+        <translation>中文办公软件文档格式(*.uof)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format 2.0(*.uop)</source>
         <comment>WpDescUOF2</comment>
-        <translation type="unfinished"></translation>
+        <translation>中文办公软件文档格式 2.0(*.uop)</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)</source>
         <comment>WpDescJPEG</comment>
-        <translation type="unfinished"></translation>
+        <translation>JPEG 文件交换格式(*.jpg)</translation>
     </message>
     <message>
         <source>PNG Portable Network Graphics Format(*.png)</source>
         <comment>WpDescPNG</comment>
-        <translation type="unfinished"></translation>
+        <translation>PNG 可移植网络图形格式(*.png)</translation>
     </message>
     <message>
         <source>TIFF Tag Image File Format(*.tif)</source>
         <comment>WpDescTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation>TIFF Tag图像文件格式(*.tif)</translation>
     </message>
     <message>
         <source>Device Independent Bitmap(*.bmp)</source>
         <comment>WpDescBMP</comment>
-        <translation type="unfinished"></translation>
+        <translation>设备无关位图(*.bmp)</translation>
     </message>
     <message>
         <source>Each slide in your presentation has been saved as a separate file in the folder
 %s .</source>
         <comment>WpSAVEIMAGEHINT</comment>
-        <translation type="unfinished"></translation>
+        <translation>该演示文稿中的每张幻灯片都以独立的方式保存到文件夹 %s 中。</translation>
+    </message>
+    <message>
+        <source>Insert Layout</source>
+        <comment>WpINSERTLAYOUT</comment>
+        <translation>插入版式</translation>
+    </message>
+    <message>
+        <source>Update Link</source>
+        <comment>WpUPDATELINK</comment>
+        <translation>更新链接</translation>
+    </message>
+    <message>
+        <source>JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
+        <comment>WP_SAVEFILE_IMAGES</comment>
+        <translation>JPEG 文件交换格式(*.jpg)|*.jpg|PNG 可移植网络图形格式(*.png)|*.png|TIFF Tag图像文件格式(*.tif)|*.tif|设备无关位图(*.bmp)|*.bmp</translation>
+    </message>
+    <message>
+        <source>MPEG-4 Video(*.mp4)|*.mp4</source>
+        <comment>WP_SAVEFILE_VIDEO_MP4</comment>
+        <translation>MPEG-4 视频(*.mp4)|*.mp4</translation>
+    </message>
+    <message>
+        <source>Windows Media Video(*.wmv)|*.wmv</source>
+        <comment>WP_SAVEFILE_VIDEO_WMV</comment>
+        <translation>WMV 视频(*.wmv)|*.wmv</translation>
+    </message>
+    <message>
+        <source>Audio Video Interleave(*.avi)|*.avi</source>
+        <comment>WP_SAVEFILE_VIDEO_AVI</comment>
+        <translation>AVI 视频(*.avi)|*.avi</translation>
+    </message>
+    <message>
+        <source>Open Web Media Video(*.webm)|*.webm</source>
+        <comment>WP_SAVEFILE_VIDEO_WEBM</comment>
+        <translation>WEBM 视频(*.webm)|*.webm</translation>
+    </message>
+    <message>
+        <source>Paragraphs</source>
+        <comment>WpPARAGRAPHS</comment>
+        <translation>段落</translation>
+    </message>
+    <message>
+        <source>|</source>
+        <comment>WpOpenSaveFilterSeperator</comment>
+        <translation>|</translation>
+    </message>
+    <message>
+        <source>\WPS Video\WPS Video</source>
+        <comment>WpVideoSaveRelativePath</comment>
+        <translation>\WPS 视频\WPS 视频</translation>
+    </message>
+    <message>
+        <source>\WPS Image\WPS Image</source>
+        <comment>WpImageSaveRelativePath</comment>
+        <translation>\WPS 图片\WPS 图片</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*.potx;*.potm;*.thmx)|*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*potx;*.potm;*.thmx</source>
+        <comment>WP_TEMPLATEFILE</comment>
+        <translation>常用文件(*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*.potx;*.potm;*.thmx)|*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*potx;*.potm;*.thmx</translation>
+    </message>
+    <message>
+        <source>Edit Chart Datasource</source>
+        <comment>WpEDITCHARTDATASOURCE</comment>
+        <translation>编辑图表数据源</translation>
+    </message>
+    <message>
+        <source>Format Text</source>
+        <comment>WpFormatText</comment>
+        <translation>设置文字格式</translation>
+    </message>
+    <message>
+        <source>Edit Table Borders</source>
+        <comment>WpEditTableBorders</comment>
+        <translation>编辑表格边框</translation>
+    </message>
+    <message>
+        <source>AddPlaceholder</source>
+        <comment>WpAddPlaceHolder</comment>
+        <translation>添加占位符</translation>
+    </message>
+    <message>
+        <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
+        <comment>WpChartEditDataSourceErr</comment>
+        <translation>&quot;图表数据&quot;网格已在&quot;%s&quot;中打开。若要编辑此图表的数据，需要先将其关闭。</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <comment>TX_WPP_CF_HYPERLINK</comment>
+        <translation type="unfinished">超链接</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)</source>
+        <comment>WpDescCommon</comment>
+        <translation>常用文件(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)</source>
+        <comment>WpDescCommonEX</comment>
+        <translation>常用文件(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Files(*.dps)</source>
+        <comment>WpDescDps</comment>
+        <translation>WPS演示 文件(*.dps)</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Templates(*.dpt)</source>
+        <comment>WpDescDpt</comment>
+        <translation>WPS演示 模板文件(*.dpt)</translation>
+    </message>
+    <message>
+        <source>WPS Presentation 2007/2010 Files(*.dpsx)</source>
+        <comment>WpDescDpsx</comment>
+        <translation>WPS演示 2007/2010 文件(*.dpsx)</translation>
+    </message>
+    <message>
+        <source>WPS Presentation 2007/2010 Templates(*.dptx)</source>
+        <comment>WpDescDptx</comment>
+        <translation>WPS演示 2007/2010 模板文件(*.dptx)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
+        <comment>WpDescMPP2003</comment>
+        <translation>Microsoft PowerPoint 97/2000/XP/2003 文件(*.ppt; *.pps)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
+        <comment>WpDescPot</comment>
+        <translation>Microsoft PowerPoint 97/2000/XP/2003 模板文件(*.pot)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)</source>
+        <comment>WpDescMPP2010</comment>
+        <translation>Microsoft PowerPoint 2007/2010 文件(*.pptx; *.ppsx; *.pptm; *.ppsm)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentation(*.pptx)</source>
+        <comment>WpDescPptx</comment>
+        <translation>Microsoft PowerPoint 2007/2010 文件(*.pptx)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Macro Enabled Presentation(*.pptm)</source>
+        <comment>WpDescPptm</comment>
+        <translation>Microsoft PowerPoint 2007/2010 启用宏的演示文稿(*.pptm)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Show(*.ppsx)</source>
+        <comment>WpDescPpsx</comment>
+        <translation>Microsoft PowerPoint 2007/2010 放映文件(*.ppsx)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Macro Enabled Show(*.ppsm)</source>
+        <comment>WpDescPpsm</comment>
+        <translation>Microsoft PowerPoint 2007/2010 启用宏的放映文件(*.ppsm)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentation Templates(*.potx; *.potm)</source>
+        <comment>WpDescMPP2010Temp</comment>
+        <translation>Microsoft PowerPoint 2007/2010 模板文件(*.potx; *.potm)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentation Template(*.potx)</source>
+        <comment>WpDescPotx</comment>
+        <translation>Microsoft PowerPoint 2007/2010 模板文件(*.potx)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Macro Enabled Presentation Template(*.potm)</source>
+        <comment>WpDescPotm</comment>
+        <translation>Microsoft PowerPoint 2007/2010 启用宏的模板文件(*.potm)</translation>
+    </message>
+    <message>
+        <source>OFD Format(*.ofd)|*.ofd</source>
+        <comment>WpDescOFD</comment>
+        <translation>OFD 文件格式(*.ofd)|*.ofd</translation>
     </message>
 </context>
 </TS>

@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>1-</source>
-        <translation></translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>No Style, Table Grid</source>
@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>2-</source>
-        <translation></translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Light style</source>
@@ -45,11 +45,11 @@
     </message>
     <message>
         <source>Dark Style</source>
-        <translation>Тёмный стиль</translation>
+        <translation>Темный стиль</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation>Тёмный стиль 2</translation>
+        <translation>Темный стиль 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
@@ -85,20 +85,20 @@
     </message>
     <message>
         <source>3-</source>
-        <translation></translation>
+        <translation>3-</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
         <translatorcomment>Темный стиль 2-выделение  5/выделение 6</translatorcomment>
-        <translation>Тёмный стиль 2-Выделить 5/Выделить 6</translation>
+        <translation>Темный стиль 2-Выделить 5/Выделить 6</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished">Тёмный стиль 2-Выделить 5/Выделить 2 {2-?} {1/?}</translation>
+        <translation>Темный стиль 2-Выделить 1/Выделить 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished">Тёмный стиль 2-Выделить 5/Выделить 4 {2-?} {3/?}</translation>
+        <translation>Темный стиль 2-Выделить 3/Выделить 4</translation>
     </message>
 </context>
 <context>
@@ -133,14 +133,14 @@
     </message>
     <message>
         <source>Add Design</source>
-        <translation>Добавить оформление</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DlgAsianLineBreak</name>
     <message>
         <source>Asian Line Break</source>
-        <translation>Разрыв строки азиатского письма</translation>
+        <translation>Разрыв строки в восточно-азиатском письме</translation>
     </message>
     <message>
         <source>Line Break</source>
@@ -148,11 +148,11 @@
     </message>
     <message>
         <source>Use Asian rules for controlling first and last &amp;characters</source>
-        <translation>Применять правила азиатского письма к первому и последнему &amp;знакам</translation>
+        <translation>Применять правила для восточно-азиатского письма к первому и последнему &amp;знакам</translation>
     </message>
     <message>
         <source>Allow Latin text to &amp;wrap in the middle of a word</source>
-        <translation>Разрешить перенос &amp;латиницы в середине слова</translation>
+        <translation>Разрешить перенос анг&amp;лийского текста в середине слова</translation>
     </message>
     <message>
         <source>All&amp;ow hanging punctuation</source>
@@ -164,7 +164,7 @@
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation>&amp;Предварительный просмотр</translation>
+        <translation>&amp;Просмотр</translation>
     </message>
 </context>
 <context>
@@ -179,7 +179,7 @@
     </message>
     <message>
         <source>Find &amp;whole words only</source>
-        <translation>только слово &amp;целиком</translation>
+        <translation>Только слово &amp;целиком</translation>
     </message>
     <message>
         <source>Match half/full width for&amp;ms</source>
@@ -284,7 +284,7 @@
     </message>
     <message>
         <source>Select Involved Template</source>
-        <translation>Выбрать используемый шаблон</translation>
+        <translation>Выбор используемого шаблона</translation>
     </message>
     <message>
         <source>Apply Current</source>
@@ -292,7 +292,7 @@
     </message>
     <message>
         <source>Apply All</source>
-        <translation>Применить ко всем</translation>
+        <translation>Применить все</translation>
     </message>
     <message>
         <source>Apply Master</source>
@@ -327,7 +327,7 @@
     </message>
     <message>
         <source>&amp;Loop continuously until &apos;Esc&apos;</source>
-        <translation>&amp;Непрерывный цикл до нажатия клавиши &quot;Esc&quot;</translation>
+        <translation>&amp;Непрерывный цикл до нажатия &quot;Esc&quot;</translation>
     </message>
     <message>
         <source>P&amp;en color:</source>
@@ -371,7 +371,7 @@
     </message>
     <message>
         <source>&amp;Using timings, if present</source>
-        <translation>&amp;по времени</translation>
+        <translation>&amp;По времени</translation>
     </message>
     <message>
         <source>Multiple monitors</source>
@@ -383,7 +383,7 @@
     </message>
     <message>
         <source>Sho&amp;w presenter view</source>
-        <translation>&amp;Показать представление докладчика</translation>
+        <translation>&amp;Показать режим докладчика</translation>
     </message>
     <message>
         <source>Set Up Show</source>
@@ -665,7 +665,7 @@
     </message>
     <message>
         <source>Unlocked</source>
-        <translation type="unfinished"></translation>
+        <translation>Разблокировано</translation>
     </message>
 </context>
 <context>
@@ -777,7 +777,6 @@
     <name>KWppZoomSlider</name>
     <message id="0">
         <source>Fit slide to current window</source>
-        <oldsource>Slide Zoom Fit</oldsource>
         <translation>Вписать слайд в текущее окно</translation>
     </message>
 </context>
@@ -785,7 +784,7 @@
     <name>KxApplication</name>
     <message>
         <source>WPS Presentation</source>
-        <translation></translation>
+        <translation>WPS Presentation</translation>
     </message>
 </context>
 <context>
@@ -800,7 +799,7 @@
     </message>
     <message>
         <source>Try for magic!</source>
-        <translation type="unfinished"></translation>
+        <translation>Попробуйте!</translation>
     </message>
 </context>
 <context>
@@ -830,7 +829,7 @@
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation>Цвет фона,Цвет текстов и линий,Цвет теней,Цвет заголовков,Цвет заливки,Цвет акцентов,Цвет акцентов с гиперссылкой,Цвет акцентов с последующей гиперссылкой</translation>
+        <translation type="obsolete">Цвет фона,Цвет текстов и линий,Цвет теней,Цвет заголовков,Цвет заливки,Цвет акцентов,Цвет акцентов с гиперссылкой,Цвет акцентов с последующей гиперссылкой</translation>
     </message>
     <message>
         <source>Do you want to reset the library as default?</source>
@@ -838,11 +837,11 @@
     </message>
     <message>
         <source>Open Image</source>
-        <translation>Открыть изображение</translation>
+        <translation>Открыть рисунок</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation>Все изображения</translation>
+        <translation>Все рисунки</translation>
     </message>
 </context>
 <context>
@@ -872,27 +871,27 @@
     <name>KxColorSettingPanel</name>
     <message>
         <source>Background</source>
-        <translation>Фон</translation>
+        <translation type="obsolete">Фон</translation>
     </message>
     <message>
         <source>Text and lines</source>
-        <translation>Текст и линии</translation>
+        <translation type="obsolete">Текст и линии</translation>
     </message>
     <message>
         <source>Shadows</source>
-        <translation>Тени</translation>
+        <translation type="obsolete">Тени</translation>
     </message>
     <message>
         <source>Title text</source>
-        <translation>Текст заголовка</translation>
+        <translation type="obsolete">Текст заголовка</translation>
     </message>
     <message>
         <source>Fills</source>
-        <translation>Заливки</translation>
+        <translation type="obsolete">Заливки</translation>
     </message>
     <message>
         <source>Accent</source>
-        <translation>Акцент</translation>
+        <translation type="obsolete">Акцент</translation>
     </message>
     <message>
         <source>Accent and hyperlink</source>
@@ -902,12 +901,52 @@
         <source>Accent and followed hyperlink</source>
         <translation>Акцент с последующей гиперссылкой</translation>
     </message>
+    <message>
+        <source>Dark1</source>
+        <translation>Темный1</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation>Светлый</translation>
+    </message>
+    <message>
+        <source>Dark2</source>
+        <translation>Темный2</translation>
+    </message>
+    <message>
+        <source>Light2</source>
+        <translation>Светлый2</translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <translation>Акцент1</translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <translation>Акцент2</translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <translation>Акцент3</translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <translation>Акцент4</translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <translation>Акцент5</translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <translation>Акцент6</translation>
+    </message>
 </context>
 <context>
     <name>KxCommentWidget</name>
     <message>
         <source>Delete all comments and ink annotations in this presentation?</source>
-        <translation>Удалить все примечания и рукописные комментарии из этой презентации?</translation>
+        <translation>Удалить все примечания и рукописные примечания из этой презентации?</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
@@ -949,11 +988,11 @@
     <name>KxDefineCustomShowsDlg</name>
     <message>
         <source>%1. </source>
-        <translation></translation>
+        <translation>%1. </translation>
     </message>
     <message>
         <source>(%1) </source>
-        <translation></translation>
+        <translation>(%1) </translation>
     </message>
     <message>
         <source>You must name your custom show.</source>
@@ -1008,7 +1047,7 @@
     </message>
     <message>
         <source>Magic Background</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Волшебный&quot; фон</translation>
     </message>
 </context>
 <context>
@@ -1158,6 +1197,29 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
 </context>
 <context>
+    <name>KxDlgCompatibilityChecker</name>
+    <message>
+        <source>Compatibility Checker</source>
+        <translation>Средство проверки совместимости</translation>
+    </message>
+    <message>
+        <source>The following features in this presentation are not supported by earlier versions of WPS Presentation.These features may be lost or degraded when you save this presentation in an earlier file format.Click Continue to save the presentation anyway. To retain all of your features click Cancel and save in one of the new file formats.</source>
+        <translation>Некоторые свойства данной презентации не поддерживаются более ранними версиями WPS Presentation. Сохранение презентации в формате более ранней версии приведет к потере или ограничению функциональности этих свойств. Для сохранения презентации нажмите кнопку &quot;Продолжить&quot;. Чтобы сохранить полный набор свойств, нажмите кнопку &quot;Отмена&quot;, а затем сохраните презентацию в одном из новых форматов.</translation>
+    </message>
+    <message>
+        <source>Summary:</source>
+        <translation>Сводная информация:</translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation>&amp;Продолжить</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgDateAndTime</name>
     <message>
         <source>Date and Time</source>
@@ -1188,7 +1250,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>&amp;Do not prompt next time.</source>
-        <translation>&amp;Не спрашивать снова.</translation>
+        <translation>Больше &amp;не выводить этот запрос.</translation>
     </message>
     <message>
         <source>Delete Background Music</source>
@@ -1199,7 +1261,7 @@ the presentation file directly.You can put it with the presentation file in the 
     <name>KxDlgEmbedPrivateFonts</name>
     <message>
         <source>Dialog</source>
-        <translation>Диалог</translation>
+        <translation>Диалоговое окно</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -1209,9 +1271,9 @@ the presentation file directly.You can put it with the presentation file in the 
         <source>Application documents online font, if your document needs circulated others, 
 we recommend that you saved earlier document fonts. 
 If necessary, click Cancel</source>
-        <translation type="obsolete">В приложении используются шрифты из Интернета. Если планируется распространение документа,
-рекомендуется перед этим сохранить шрифты документа.
-При необходимости, нажмите кнопку &quot;Отменить&quot;.</translation>
+        <translation type="obsolete">Применяется шрифт для онлайн-документа. Если для документа требуются другие шрифты, 
+рекомендуется сохранить предыдущие шрифты документа. 
+В случае необходимости нажмите кнопку &quot;Отмена&quot;.</translation>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
@@ -1219,95 +1281,97 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>Text Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстовая подпись</translation>
     </message>
     <message>
         <source>The document contains cloud fonts. For the convenience of your readers, 
 we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
-        <translation type="unfinished"></translation>
+        <translation>Документ содержит облачные шрифты. Для удобства ваших читателей,
+мы рекомендуем, чтобы вы сохранили эти шрифты в документ. 
+Сохранить облачные шрифты в документе?</translation>
     </message>
     <message>
         <source>Remember my choice, and don&apos;t prompt me again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Запомнить выбранный вариант и не спрашивать больше.</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFont</name>
     <message>
         <source>Font</source>
-        <translation>Шрифт</translation>
+        <translation type="obsolete">Шрифт</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation>&amp;Шрифт для азиатских языков:</translation>
+        <translation type="obsolete">&amp;Шрифт для азиатских языков:</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation>Шрифт (&amp;латиница):</translation>
+        <translation type="obsolete">Шрифт (&amp;латиница):</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
-        <translation>&amp;Начертание:</translation>
+        <translation type="obsolete">&amp;Начертание:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>&amp;Размер:</translation>
+        <translation type="obsolete">&amp;Размер:</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation>Обычный</translation>
+        <translation type="obsolete">Обычный</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>Полужирный</translation>
+        <translation type="obsolete">Полужирный</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Курсив</translation>
+        <translation type="obsolete">Курсив</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation>Полужирный курсив</translation>
+        <translation type="obsolete">Полужирный курсив</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation>Эффекты</translation>
+        <translation type="obsolete">Эффекты</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation>&amp;Подчеркивание</translation>
+        <translation type="obsolete">&amp;Подчеркивание</translation>
     </message>
     <message>
         <source>Supe&amp;rscript</source>
-        <translation>&amp;Надстрочный</translation>
+        <translation type="obsolete">&amp;Надстрочный</translation>
     </message>
     <message>
         <source>Sh&amp;adow</source>
-        <translation>&amp;Тень</translation>
+        <translation type="obsolete">&amp;Тень</translation>
     </message>
     <message>
         <source>Offse&amp;t:</source>
-        <translation>С&amp;мещение:</translation>
+        <translation type="obsolete">С&amp;мещение:</translation>
     </message>
     <message>
         <source>&amp;Emboss</source>
-        <translation>&amp;Приподнятый</translation>
+        <translation type="obsolete">&amp;Приподнятый</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation>&amp;Подстрочный</translation>
+        <translation type="obsolete">&amp;Подстрочный</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation>&amp;Цвет:</translation>
+        <translation type="obsolete">&amp;Цвет:</translation>
     </message>
     <message>
         <source>&amp;Default for new objects</source>
-        <translation>Использовать по &amp;умолчанию при создании объектов</translation>
+        <translation type="obsolete">Использовать по &amp;умолчанию при создании объектов</translation>
     </message>
     <message>
         <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
-        <translation>Шрифт TrueType. Он используется для вывода как на экран, так и на принтер.</translation>
+        <translation type="obsolete">Шрифт TrueType. Он используется для вывода как на экран, так и на принтер.</translation>
     </message>
 </context>
 <context>
@@ -1318,7 +1382,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Snap to</source>
-        <translation>Привязать</translation>
+        <translation>Привязка</translation>
     </message>
     <message>
         <source>Snap objects to &amp;grid         </source>
@@ -1403,6 +1467,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <message>
         <source>Set as Default(&amp;C)</source>
         <translation>По умолчанию(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Enter 0.1 cm to 5.079 cm of value</source>
+        <translation>Введите значение в диапазоне от 0,1 до 5,079 см</translation>
     </message>
 </context>
 <context>
@@ -1496,7 +1564,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation></translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>When &amp;Clicked</source>
@@ -1659,7 +1727,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>General and Save</source>
-        <translation>Общие параметры и сохранение</translation>
+        <translation>Общие и сохранение</translation>
     </message>
     <message>
         <source>Gerneral options</source>
@@ -1707,7 +1775,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>...</source>
-        <translation></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>New Doc&amp;ument</source>
@@ -1909,11 +1977,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Privacy</source>
-        <translation>Конфиденциальность</translation>
+        <translation type="obsolete">Конфиденциальность</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>Помогите нам улучшить WPS Office</translation>
+        <translation type="unfinished">Помогите нам улучшить WPS Office</translation>
     </message>
     <message>
         <source>Preserve &amp;fidelity when sharing this document:</source>
@@ -1921,7 +1989,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Embed fon&amp;ts in the file</source>
-        <translation>Внедрить &amp;шрифты</translation>
+        <translation>Внедрить &amp;шрифты в файл</translation>
     </message>
     <message>
         <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
@@ -1933,11 +2001,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
-        <translation>&amp;Показывать окна на панели задач</translation>
+        <translation>Показывать &amp;окна на панели задач</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
-        <translation>Каталог данн&amp;ых для автовосстановления:</translation>
+        <translation>&amp;Каталог данных для автовосстановления:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -1945,7 +2013,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Remind &amp;Me When Save</source>
-        <translation>На&amp;помнить при сохранении</translation>
+        <translation>Нап&amp;оминать при сохранении</translation>
     </message>
     <message>
         <source>Password protect</source>
@@ -1953,15 +2021,103 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation>Кнопка &quot;Дополнительно&quot; позволяет выбрать из различных типов шифрования.</translation>
+        <translation>Кнопка &quot;Дополнительно&quot; позволяет выбрать тип шифрования.</translation>
     </message>
     <message>
         <source>General options</source>
-        <translation type="unfinished"></translation>
+        <translation>Общие параметры</translation>
     </message>
     <message>
         <source>Password protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Защита паролем</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation>Показать мини-панель инструментов после выбора (&amp;П)</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation>Показать мини-панель инструментов после щелчка прав&amp;ой кнопкой мыши</translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation>Подписка на мини-сайт WPS</translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation>Показывать е&amp;жедневно</translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation>Показать через неделю (&amp;А)</translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation>Больше не п&amp;оказывать</translation>
+    </message>
+    <message>
+        <source>Selecte&amp;d content minitool bar</source>
+        <translation type="obsolete">&amp;Selected content minitool bar</translation>
+    </message>
+    <message>
+        <source>Ri&amp;ght clicked minitool bar</source>
+        <translation type="obsolete">&amp;Right clicked minitool bar</translation>
+    </message>
+    <message>
+        <source>WPSMinisite</source>
+        <translation type="obsolete">Маркетинговая веб-страница для WPS</translation>
+    </message>
+    <message>
+        <source>Everyday&amp;Show</source>
+        <translation type="obsolete">Показывать &amp;ежедневно</translation>
+    </message>
+    <message>
+        <source>Ever&amp;yweekShow</source>
+        <translation type="obsolete">&amp;Показывать еженедельно</translation>
+    </message>
+    <message>
+        <source>Never&amp;AutoShow</source>
+        <translation type="obsolete">&amp;Никогда не показывать автоматически</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Слишком много рекламы? Ознакомтесь с новыми изменениями.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>Обратная связь</translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="obsolete">Участвуйте в программе улучшения качества и помогите нам улучшить WPS Office.</translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="obsolete">Язык</translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
+        <translation type="obsolete">Автоматически загружайте и обновляйте языковые пакеты</translation>
+    </message>
+    <message>
+        <source>Choose Display and Help Languages</source>
+        <translation type="obsolete">Выбор языков интерфейса и справки</translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation type="obsolete">Выбрать...</translation>
+    </message>
+    <message>
+        <source>Shortcuts</source>
+        <translation type="obsolete">Сочетания клавиш</translation>
+    </message>
+    <message>
+        <source>Custom Shortcuts:</source>
+        <translation type="obsolete">Пользовательские сочетания клавиш:</translation>
+    </message>
+    <message>
+        <source>&amp;Shortcuts</source>
+        <translation type="obsolete">&amp;Сочетания</translation>
     </message>
 </context>
 <context>
@@ -2121,6 +2277,121 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Widescreen</source>
         <translation>Широкоэкранный</translation>
     </message>
+    <message>
+        <source>Enter 2.54 to 142.22 cm of value</source>
+        <translation>Введите значение в диапазоне от 2,54 до 142,22 см</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgParagraph</name>
+    <message>
+        <source>Paragraph</source>
+        <translation type="obsolete">Абзац</translation>
+    </message>
+    <message>
+        <source>&amp;Indents and Spacing</source>
+        <translation type="obsolete">Отступы и &amp;интервалы</translation>
+    </message>
+    <message>
+        <source>point, 2, 0, 1584, 1</source>
+        <translation type="obsolete">пункт, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>line, 2, 0, 9.99, 0.1</source>
+        <translation type="obsolete">линия, 2, 0, 9,99, 0,1</translation>
+    </message>
+    <message>
+        <source>A&amp;fter:</source>
+        <translation type="obsolete">&amp;После:</translation>
+    </message>
+    <message>
+        <source>&amp;At:</source>
+        <translation type="obsolete">&amp;Значение:</translation>
+    </message>
+    <message>
+        <source>&amp;Before:</source>
+        <translation type="obsolete">&amp;Перед:</translation>
+    </message>
+    <message>
+        <source>Li&amp;ne spacing:</source>
+        <translation type="obsolete">&amp;Междустрочный:</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="obsolete">Общие</translation>
+    </message>
+    <message>
+        <source>Spacing</source>
+        <translation type="obsolete">Интервал</translation>
+    </message>
+    <message>
+        <source>Ali&amp;gnment:</source>
+        <translation type="obsolete">&amp;Выравнивание:</translation>
+    </message>
+    <message>
+        <source>Indentation</source>
+        <translation type="obsolete">Отступ</translation>
+    </message>
+    <message>
+        <source>Befo&amp;re text:</source>
+        <translation type="obsolete">&amp;Перед текстом:</translation>
+    </message>
+    <message>
+        <source>&amp;Special:</source>
+        <translation type="obsolete">&amp;Особый:</translation>
+    </message>
+    <message>
+        <source>B&amp;y:</source>
+        <translation type="obsolete">&amp;На:</translation>
+    </message>
+    <message>
+        <source>C&amp;hinese Format</source>
+        <translation type="obsolete">&amp;Китайский формат</translation>
+    </message>
+    <message>
+        <source>Line Break</source>
+        <translation type="obsolete">Перенос слов</translation>
+    </message>
+    <message>
+        <source>&amp;Use Asian rules for controlling first and last characters</source>
+        <translation type="obsolete">&amp;Использовать восточноазиатские правила переноса знаков</translation>
+    </message>
+    <message>
+        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
+        <translation type="obsolete">&amp;Разрешить перенос английского текста в середине слова</translation>
+    </message>
+    <message>
+        <source>Allow hanging punctuatio&amp;n</source>
+        <translation type="obsolete">&amp;Разрешить выступающие знаки препинания</translation>
+    </message>
+    <message>
+        <source>First and last characters</source>
+        <translation type="obsolete">Первый и последний знаки</translation>
+    </message>
+    <message>
+        <source>&amp;Standard</source>
+        <translation type="obsolete">&amp;Стандартный</translation>
+    </message>
+    <message>
+        <source>Custo&amp;m</source>
+        <translation type="obsolete">&amp;Пользовательский</translation>
+    </message>
+    <message>
+        <source>Cannot st&amp;art line:</source>
+        <translation type="obsolete">Не н&amp;ачинает строку:</translation>
+    </message>
+    <message>
+        <source>Cann&amp;ot end line:</source>
+        <translation type="obsolete">&amp;Не заканчивает строку:</translation>
+    </message>
+    <message>
+        <source>Line-breaking characters currently customized for:</source>
+        <translation type="obsolete">Текущие знаки разрыва строки соответствуют языку:</translation>
+    </message>
+    <message>
+        <source>&amp;Layout</source>
+        <translation type="obsolete">&amp;Макет</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgProgress</name>
@@ -2203,7 +2474,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>1+Enter</source>
-        <translation></translation>
+        <translation>1 + ВВОД</translation>
     </message>
     <message>
         <source>Return to the first slide</source>
@@ -2268,6 +2539,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Total Playing Time:</source>
         <translation>Время воспроизведения:</translation>
     </message>
+    <message>
+        <source>&amp;Hide icon on play</source>
+        <translation>&amp;Скрыть значок при воспроизведении</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgSplitCells</name>
@@ -2285,6 +2560,33 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>KxDlgTrimMedia</name>
+    <message>
+        <source>Trim Media</source>
+        <translation>Монтаж данных мультимедиа</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>Текстовая подпись</translation>
+    </message>
+    <message>
+        <source>&amp;Start Time</source>
+        <translation>&amp;Время начала</translation>
+    </message>
+    <message>
+        <source>&amp;End Time</source>
+        <translation>&amp;Время окончания</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>ОК</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgViewZoom</name>
     <message>
         <source>Zoom</source>
@@ -2296,27 +2598,27 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;400%</source>
-        <translation></translation>
+        <translation>&amp;400%</translation>
     </message>
     <message>
         <source>&amp;200%</source>
-        <translation></translation>
+        <translation>&amp;200%</translation>
     </message>
     <message>
         <source>&amp;100%</source>
-        <translation></translation>
+        <translation>&amp;100%</translation>
     </message>
     <message>
         <source>&amp;66%</source>
-        <translation></translation>
+        <translation>&amp;66%</translation>
     </message>
     <message>
         <source>&amp;50%</source>
-        <translation></translation>
+        <translation>&amp;50%</translation>
     </message>
     <message>
         <source>&amp;33%</source>
-        <translation></translation>
+        <translation>&amp;33%</translation>
     </message>
     <message>
         <source>&amp;Percent</source>
@@ -2324,7 +2626,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>%</source>
-        <translation></translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>&amp;Fit</source>
@@ -2343,11 +2645,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>tbVolume</source>
-        <translation></translation>
+        <translation>tbVolume</translation>
     </message>
     <message>
         <source>cbMute</source>
-        <translation></translation>
+        <translation>cbMute</translation>
     </message>
     <message>
         <source>&amp;Mute</source>
@@ -2355,7 +2657,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Volume Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить громкость</translation>
     </message>
 </context>
 <context>
@@ -2438,11 +2740,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Mouse Over</source>
-        <translation>При наведении указателя мыши</translation>
+        <translation>Поместите указатель мыши на</translation>
     </message>
     <message>
         <source>Action on mouse over</source>
-        <translation>Действие при наведении указателя</translation>
+        <translation>Действие по наведении мыши</translation>
     </message>
     <message>
         <source>Other WPS Presentation file...</source>
@@ -2643,6 +2945,41 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Enter slide numbers or slide ranges. For example, 1,3,5-12</source>
         <translation>Введите номер слайда или диапазон слайдов. Например, 1,3,5-12</translation>
     </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation>Как решить проблемы с принтером?</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWppScaleSlideMode</name>
+    <message>
+        <source>Scale Slide Mode</source>
+        <translation>Размер слайдов</translation>
+    </message>
+    <message>
+        <source>You are scaling to a new slide size. Would you like to maximize the size of your content, or scale it down to ensure it will fit on the new slide ?</source>
+        <translation>Выполняется масштабирование на новый размер слайда. Изменить размер содержимого в соответствии с новым масштабом слайда?</translation>
+    </message>
+    <message>
+        <source>Maximize</source>
+        <translation>Развернуть</translation>
+    </message>
+    <message>
+        <source>Ensure Fit</source>
+        <translation>Подбор размера</translation>
+    </message>
+    <message>
+        <source>&amp;Maximize</source>
+        <translation>&amp;Развернуть</translation>
+    </message>
+    <message>
+        <source>&amp;Ensure Fit</source>
+        <translation>&amp;Подбор размера</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Отмена</translation>
+    </message>
 </context>
 <context>
     <name>KxDlglineSpace</name>
@@ -2660,7 +2997,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Points</source>
-        <translation>пункты</translation>
+        <translation>Пункты</translation>
     </message>
     <message>
         <source>&amp;Before paragraph</source>
@@ -2849,7 +3186,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>User canceled operation.</source>
-        <translation type="unfinished">Операция отменена пользователем.</translation>
+        <translation type="unfinished">Пользователь отменил операцию.</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2896,7 +3233,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>User canceled operation.</source>
-        <translation>Операция отменена пользователем.</translation>
+        <translation>Пользователь отменил операцию.</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2959,34 +3296,63 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>WPS Presentation has finished searching the document. The search item was not found.</source>
-        <translation>Поиск в документе завершён. Искомый объект не найден.</translation>
+        <translation>Поиск в документе завершен. Искомый объект не найден.</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the document and made %1 replacements.</source>
-        <translation>Поиск в документе завершён, сделано %1 замен.</translation>
+        <translation>Поиск в документе завершен, сделано %1 замен.</translation>
     </message>
 </context>
 <context>
     <name>KxFontDlg</name>
     <message>
         <source>(Use Asian text font)</source>
-        <translation>(Воспользуйтесь шрифтом для азиатских языков)</translation>
+        <translation type="obsolete">(Воспользуйтесь шрифтом для азиатских языков)</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation>Цвет фона, Цвет текстов и линий, Цвет теней, Цвет заголовков, Цвет заливки, Цвет акцентов, Цвет акцентов с гиперссылкой, Цвет акцентов с последующей гиперссылкой</translation>
+        <translation type="obsolete">Цвет фона, Цвет текстов и линий, Цвет теней, Цвет заголовков, Цвет заливки, Цвет акцентов, Цвет акцентов с гиперссылкой, Цвет акцентов с последующей гиперссылкой</translation>
     </message>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
-        <translation>Шрифт %1 недоступен в данной системе. Текст будет отображен шрифтом замены. Использовать этот шрифт?</translation>
+        <translation type="obsolete">Шрифт %1 недоступен в данной системе. Текст будет отображен шрифтом замены. Использовать этот шрифт?</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation>Шрифт недоступен.</translation>
+        <translation type="obsolete">Шрифт недоступен.</translation>
     </message>
     <message>
         <source>This font size is not available.</source>
-        <translation>Отстутствует данный размер шрифта.</translation>
+        <translation type="obsolete">Отстутствует данный размер шрифта.</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatOption_Background</name>
+    <message>
+        <source>BACKGROUND OPTIONS</source>
+        <translation>ПАРАМЕТРЫ ФОНА</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty</name>
+    <message>
+        <source>TRANSFORM</source>
+        <translation>ПРЕОБРАЗОВАТЬ</translation>
+    </message>
+    <message>
+        <source>POSITION</source>
+        <translation>ПОЛОЖЕНИЕ</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_Background</name>
+    <message>
+        <source>FILL</source>
+        <translation>ЗАПОЛНЕНИЕ</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation>Заливка</translation>
     </message>
 </context>
 <context>
@@ -3025,11 +3391,66 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Custom</source>
-        <translation>Другой</translation>
+        <translation type="obsolete">Другой</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation>Цвет фона, Цвет текстов и линий, Цвет теней, Цвет заголовков, Цвет заливки, Цвет акцентов, Цвет акцентов с гиперссылкой, Цвет акцентов с последующей гиперссылкой</translation>
+        <translation type="obsolete">Цвет фона, Цвет текстов и линий, Цвет теней, Цвет заголовков, Цвет заливки, Цвет акцентов, Цвет акцентов с гиперссылкой, Цвет акцентов с последующей гиперссылкой</translation>
+    </message>
+    <message>
+        <source>Select Picture</source>
+        <translation>Выбрать рисунок</translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation>Все изображения</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation>Расширенный метафайл Windows</translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation>Метафайл Windows</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation>Формат JPEG</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation>Формат PNG</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation>Точечный рисунок Windows</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation>Формат GIF</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation>Формат TIFF</translation>
+    </message>
+</context>
+<context>
+    <name>KxHexSpinBox</name>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation>Введенное значение должно быть положительным числом</translation>
+    </message>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation>Введенное значение должно содержать только цифры</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation>Запись должна быть больше или равна %1.</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
+        <translation>Запись %1 должна быть меньше или равна %1.</translation>
     </message>
 </context>
 <context>
@@ -3082,14 +3503,21 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxInvolvedTemplateDlg</name>
     <message>
         <source>Blank Design</source>
-        <translation>Новое оформление</translation>
+        <translation>Пустое оформление</translation>
     </message>
 </context>
 <context>
     <name>KxInvolvedTemplateView</name>
     <message>
         <source>Use Blank Template</source>
-        <translation>Новый шаблон</translation>
+        <translation>Использовать пустой шаблон</translation>
+    </message>
+</context>
+<context>
+    <name>KxKsoTableStyleItem</name>
+    <message>
+        <source>Set As Default</source>
+        <translation>По умолчанию</translation>
     </message>
 </context>
 <context>
@@ -3108,7 +3536,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Dark</source>
-        <translation>Тёмный</translation>
+        <translation>Темный</translation>
     </message>
     <message>
         <source>First Row</source>
@@ -3151,6 +3579,13 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>KxNoneItem</name>
+    <message>
+        <source>None</source>
+        <translation>Нет</translation>
+    </message>
+</context>
+<context>
     <name>KxOptionsDlg</name>
     <message>
         <source>Open</source>
@@ -3174,19 +3609,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
-        <translation>Недопустимый каталог &quot;%1&quot;.</translation>
+        <translation>Каталог &quot;%1&quot; является недопустимым.</translation>
     </message>
     <message>
         <source>Select Folder:</source>
-        <translation>Выбрать папку:</translation>
-    </message>
-    <message>
-        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор папки:</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished">Пароль и его подтверждение не совпадают.</translation>
+        <translation>Пароль и его подтверждение не совпадают.</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
+        <translation>У вас нет разрешения на сохранение файлов резервной копии в &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -3217,7 +3652,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Specified directory does not exist. Please specify another directory.</source>
-        <translation>Указанный каталог не существует.Выберите другой каталог.</translation>
+        <translation>Указанный каталог не существует. Выберите другой каталог.</translation>
     </message>
     <message>
         <source>Location</source>
@@ -3244,14 +3679,14 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxPageSetupDlg</name>
     <message>
         <source>Custom</source>
-        <translation>Выбор</translation>
+        <translation>Другие</translation>
     </message>
 </context>
 <context>
     <name>KxRehearsalToolbar</name>
     <message>
         <source>Rehearsal</source>
-        <translation>Предпросмотр</translation>
+        <translation>Репетиция</translation>
     </message>
     <message>
         <source>Next</source>
@@ -3285,15 +3720,23 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxRenameMasterDlgClass</name>
     <message>
         <source>Rename Master</source>
-        <translation>Переименовать образец</translation>
+        <translation type="obsolete">Переименовать образец</translation>
     </message>
     <message>
         <source>&amp;Master name:</source>
-        <translation>&amp;Имя образца:</translation>
+        <translation type="obsolete">&amp;Имя образца:</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
         <translation>&amp;Переименовать</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Переименовать</translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation>&amp;Имя:</translation>
     </message>
 </context>
 <context>
@@ -3304,7 +3747,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>The font %1 is not available on your system, so a substitute is being displayed. Do you want to use this font anyway?</source>
-        <translation>Шрифт %1 недоступен в данной системе и будет заменён. Использовать этот шрифт?</translation>
+        <translation>Шрифт %1 недоступен в данной системе и будет заменен. Использовать этот шрифт?</translation>
     </message>
 </context>
 <context>
@@ -3342,7 +3785,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Dark</source>
-        <translation>Тёмный</translation>
+        <translation>Темный</translation>
     </message>
     <message>
         <source>First Row</source>
@@ -3420,37 +3863,37 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation>Цветовые схемы</translation>
+        <translation type="obsolete">Цветовые схемы</translation>
     </message>
 </context>
 <context>
     <name>KxTpColorScheme</name>
     <message>
         <source>Color Schemes</source>
-        <translation>Цветовые схемы</translation>
+        <translation type="obsolete">Цветовые схемы</translation>
     </message>
     <message>
         <source>Apply a color scheme:</source>
-        <translation>Применить цветовую схему:</translation>
+        <translation type="obsolete">Применить цветовую схему:</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation>Подсказка</translation>
+        <translation type="obsolete">Подсказка</translation>
     </message>
 </context>
 <context>
     <name>KxTpColorSchemeWidget</name>
     <message>
         <source>Design Templates</source>
-        <translation>Шаблоны оформления</translation>
+        <translation type="obsolete">Шаблоны оформления</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation>Эффекты анимации</translation>
+        <translation type="obsolete">Эффекты анимации</translation>
     </message>
     <message>
         <source>Edit Color Schemes...</source>
-        <translation>Изменить цветовую схему...</translation>
+        <translation type="obsolete">Изменить цветовую схему...</translation>
     </message>
 </context>
 <context>
@@ -3461,18 +3904,22 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Apply a design template:</source>
-        <translation>Применить шаблон оформления:</translation>
+        <translation type="obsolete">Применить шаблон оформления:</translation>
     </message>
     <message>
         <source>Infotip</source>
         <translation>Подсказка</translation>
+    </message>
+    <message>
+        <source>Apply a design template</source>
+        <translation>Применить шаблон оформления</translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideDesignWidget</name>
     <message>
         <source>Color Schemes</source>
-        <translation>Цветовые схемы</translation>
+        <translation type="obsolete">Цветовые схемы</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
@@ -3491,14 +3938,18 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Apply a design template:</source>
-        <translation>Применить шаблон оформления:</translation>
+        <translation type="obsolete">Применить шаблон оформления:</translation>
+    </message>
+    <message>
+        <source>Apply a design template</source>
+        <translation>Применить шаблон оформления</translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideTransition</name>
     <message>
         <source>Apply to selected slides:</source>
-        <translation>Применить к выделенным слайдам:</translation>
+        <translation type="obsolete">Применить к выделенным слайдам:</translation>
     </message>
     <message>
         <source>Modify transition</source>
@@ -3559,7 +4010,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation>Смена слайдов</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to selected slides</source>
+        <translation>Применить к выделенным слайдам</translation>
     </message>
 </context>
 <context>
@@ -3570,7 +4025,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Loop until next sound</source>
-        <translation>Непрерывно</translation>
+        <translation type="obsolete">Непрерывно</translation>
     </message>
 </context>
 <context>
@@ -3586,6 +4041,21 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Clear Table Style</source>
         <translation>Очистить стиль таблицы</translation>
+    </message>
+</context>
+<context>
+    <name>KxTrimMediaDlg</name>
+    <message>
+        <source>Trim Movie</source>
+        <translation>Обрезать фильм</translation>
+    </message>
+    <message>
+        <source>Trim Sound</source>
+        <translation>Обрезать звук</translation>
+    </message>
+    <message>
+        <source>Duration : </source>
+        <translation>Продолжительность: </translation>
     </message>
 </context>
 <context>
@@ -3680,6 +4150,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Hyperlink to Other WPS Presentation Files</source>
         <translation>Гиперссылка на другую презентацию WPS</translation>
     </message>
+    <message>
+        <source>Open</source>
+        <translation type="obsolete">Открыть</translation>
+    </message>
 </context>
 <context>
     <name>KxWppAnimationOptionsDlg</name>
@@ -3705,14 +4179,64 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>KxWppBorderStyleItem</name>
+    <message>
+        <source>No Border</source>
+        <translation>Без границы</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppBorderWidthItem</name>
+    <message>
+        <source>2.25</source>
+        <translation>2.25</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation>пт</translation>
+    </message>
+    <message>
+        <source>0.25</source>
+        <translation>0.25</translation>
+    </message>
+    <message>
+        <source>0.5</source>
+        <translation>0.5</translation>
+    </message>
+    <message>
+        <source>0.75</source>
+        <translation>0.75</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation>1</translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation>1.5</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation>3</translation>
+    </message>
+    <message>
+        <source>4.5</source>
+        <translation>4.5</translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation>6</translation>
+    </message>
+</context>
+<context>
     <name>KxWppColorModel</name>
     <message>
         <source>Custom Color</source>
-        <translation>Другой цвет</translation>
+        <translation type="obsolete">Другой цвет</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Автоматически</translation>
+        <translation type="obsolete">Автоматически</translation>
     </message>
 </context>
 <context>
@@ -3897,7 +4421,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Replace &amp;All Designs</source>
-        <translation>Заменить всё &amp;оформление</translation>
+        <translation>Заменить все &amp;оформления</translation>
     </message>
     <message>
         <source>Replace &amp;Selected Designs</source>
@@ -3931,7 +4455,25 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxWppFillColorModel</name>
     <message>
         <source>No Fill</source>
+        <translation type="obsolete">Без заливки</translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation>Без цвета</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFontColorModel</name>
+    <message>
+        <source>No Fill</source>
         <translation>Без заливки</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFontOutlineColorModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation>Нет контура</translation>
     </message>
 </context>
 <context>
@@ -3942,10 +4484,255 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>KxWppFormatGroupContent_Fill</name>
+    <message>
+        <source>Slide background fill</source>
+        <translation>Фоновая заливка слайда</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation>ПАРАМЕТРЫ ДИАГРАММЫ</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>ПАРАМЕТРЫ ТЕКСТА</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation>ПАРАМЕТРЫ ФИГУРЫ</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>ПАРАМЕТРЫ ТЕКСТА</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatProperty_FillAndLine</name>
+    <message>
+        <source>TEXT FILL</source>
+        <translation>ТЕКСТОВАЯ ЗАЛИВКА</translation>
+    </message>
+    <message>
+        <source>FILL</source>
+        <translation>ЗАПОЛНЕНИЕ</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatRangeSaveAsCommand</name>
+    <message>
+        <source>Preparing for Video Export</source>
+        <translation>Подготовка к экспорту видео</translation>
+    </message>
+    <message>
+        <source>Failed to setup Supporter of Video Export.</source>
+        <translation>Не удалось настроить средство поддержки экспорта видео.</translation>
+    </message>
+    <message>
+        <source>failed to setup Supporter of Video Export.</source>
+        <translation type="obsolete">не удалось настроить средство поддержки экспорта видео.</translation>
+    </message>
+</context>
+<context>
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line</source>
         <translation>Без линий</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppMediaBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation>Вперед на 0,25 секунды</translation>
+    </message>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation>Назад на 0,25 секунды</translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation>Воспроизведение/пауза</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>Громкость</translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation>Настройка</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppNewSlidesGalleryModel</name>
+    <message>
+        <source>Blank Slides</source>
+        <translation>Пустые слайды</translation>
+    </message>
+    <message>
+        <source>Content Slides</source>
+        <translation>Слайды с содержимым</translation>
+    </message>
+    <message>
+        <source>Title and Content</source>
+        <translation>Заголовок и содержимое</translation>
+    </message>
+    <message>
+        <source>Title Slide</source>
+        <translation>Титульный слайд</translation>
+    </message>
+    <message>
+        <source>Blank</source>
+        <translation>Пустой слайд</translation>
+    </message>
+    <message>
+        <source>Cover</source>
+        <translation>Титульная страница</translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation>Каталог</translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <translation>Основной текст</translation>
+    </message>
+    <message>
+        <source>Transition</source>
+        <translation>Переход</translation>
+    </message>
+    <message>
+        <source>Ending</source>
+        <translation>Окончание</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Больше</translation>
+    </message>
+    <message>
+        <source>LayoutSlideType_Text</source>
+        <translation type="obsolete">LayoutSlideType_Text</translation>
+    </message>
+    <message>
+        <source>LayoutSlideType_Title</source>
+        <translation type="obsolete">LayoutSlideType_Title</translation>
+    </message>
+    <message>
+        <source>LayoutSlideType_Blank</source>
+        <translation type="obsolete">LayoutSlideType_Blank</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Cover</source>
+        <translation type="obsolete">ContentSlideType_Cover</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Catalog</source>
+        <translation type="obsolete">ContentSlideType_Catalog</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Main</source>
+        <translation type="obsolete">ContentSlideType_Main</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Trans</source>
+        <translation type="obsolete">ContentSlideType_Trans</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Ending</source>
+        <translation type="obsolete">ContentSlideType_Ending</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_More</source>
+        <translation type="obsolete">ContentSlideType_More</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation>Мое разрешение</translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation>В настоящий момент вы просматриваете документ как:		</translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation>Имя пользователя</translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation>Сменить пользователя...</translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation>У вас есть следующие разрешения:</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation>Вид</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Правка</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Копировать</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>Печать</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Сохранить</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>Экспорт</translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation>Программный доступ к документу</translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation>Полный доступ</translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation>Разрешение действительно до:</translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation>(Н/Д)</translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
+        <translation>Запросить дополнительные разрешения…</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPlayerMediaBar</name>
+    <message>
+        <source>Play/Pause</source>
+        <translation>Воспроизведение/пауза</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>Громкость</translation>
     </message>
 </context>
 <context>
@@ -3993,6 +4780,117 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>All slides in current presentation are marked as hidden. Either ensure that the slides are no longer hidden, or choose to print hidden slides.</source>
         <translation>Все слайды презентации являются скрытыми. Отмените скрытие для слайдов, или установите флажок &quot;Печать скрытых слайдов&quot;.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPrstFillModel</name>
+    <message>
+        <source>Background Fill</source>
+        <translation>Заливка фона</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppShowOffscreen</name>
+    <message>
+        <source>An Offscreen Show of this presentation is already running.
+Sure to close?</source>
+        <translation>Уже выполняется показ этой презентации вне экрана.
+Действительно закрыть?</translation>
+    </message>
+    <message>
+        <source>an Offscreen Show of this presentation is already running,
+be Sure to Close?</source>
+        <translation type="obsolete">Уже выполняется показ этой презентации вне экрана.
+Действительно закрыть?</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppSoundBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation type="obsolete">Вперед на 0,25 секунды</translation>
+    </message>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation type="obsolete">Назад на 0,25 секунды</translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation type="obsolete">Воспроизведение/пауза</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="obsolete">Громкость</translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="obsolete">Настройка</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation>Уровень масштаба</translation>
+    </message>
+    <message>
+        <source>&amp;Fit Selection</source>
+        <translation>&amp;По выделению</translation>
+    </message>
+    <message>
+        <source>ZoomOption_ViewingScales</source>
+        <translation type="obsolete">ZoomOption_ViewingScales</translation>
+    </message>
+    <message>
+        <source>ZoomOption_SelfDefine</source>
+        <translation type="obsolete">ZoomOption_SelfDefine</translation>
+    </message>
+    <message>
+        <source>ZoomOption_BestFit</source>
+        <translation type="obsolete">ZoomOption_BestFit</translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation>&amp;Процент:</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppTpFormatting</name>
+    <message>
+        <source>Format Shape</source>
+        <translation>Формат фигуры</translation>
+    </message>
+    <message>
+        <source>Format Picture</source>
+        <translation>Формат рисунка</translation>
+    </message>
+    <message>
+        <source>Format Media</source>
+        <translation>Формат мультимедиа</translation>
+    </message>
+    <message>
+        <source>Format OleObject</source>
+        <translation>Формат объекта OLE</translation>
+    </message>
+    <message>
+        <source>Format ControlObject</source>
+        <translation>Формат контрольного объекта</translation>
+    </message>
+    <message>
+        <source>Format Background</source>
+        <translation>Формат фона</translation>
+    </message>
+    <message>
+        <source>Format Ink</source>
+        <translation>Формат рукописного ввода</translation>
+    </message>
+    <message>
+        <source>Apply to all</source>
+        <translation>Применить ко всем</translation>
+    </message>
+    <message>
+        <source>Reset Background</source>
+        <translation>Сбросить фон</translation>
     </message>
 </context>
 <context>
@@ -4365,35 +5263,35 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Follow Background Color</source>
-        <translation>Цвет фона</translation>
+        <translation type="obsolete">Цвет фона</translation>
     </message>
     <message>
         <source>Follow Text and Lines Sheme Color</source>
-        <translation>Цвет текстов и линий</translation>
+        <translation type="obsolete">Цвет текстов и линий</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
-        <translation>Цвет теней</translation>
+        <translation type="obsolete">Цвет теней</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
-        <translation>Цвет заголовков</translation>
+        <translation type="obsolete">Цвет заголовков</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
-        <translation>Цвет заливки</translation>
+        <translation type="obsolete">Цвет заливки</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
-        <translation>Цвет акцентов</translation>
+        <translation type="obsolete">Цвет акцентов</translation>
     </message>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation>Цвет акцентов с гиперссылкой</translation>
+        <translation type="obsolete">Цвет акцентов с гиперссылкой</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation>Цвет акцентов с последующей гиперссылкой</translation>
+        <translation type="obsolete">Цвет акцентов с последующей гиперссылкой</translation>
     </message>
     <message>
         <source>Default</source>
@@ -4417,7 +5315,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Black Gradient</source>
-        <translation>Чёрный градиент</translation>
+        <translation>Черный градиент</translation>
     </message>
     <message>
         <source>Style Stripes</source>
@@ -4451,32 +5349,108 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Double Outline</source>
         <translation>Двойной контур</translation>
     </message>
+    <message>
+        <source>按文本和线条配色方案</source>
+        <translation type="obsolete">Цвет текстов и линий</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="obsolete">Выравнивание по левому краю</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="obsolete">По центру</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="obsolete">Выравнивание по правому краю</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="obsolete">По ширине</translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation type="obsolete">Распределенное</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation type="obsolete">(Нет)</translation>
+    </message>
+    <message>
+        <source>First line</source>
+        <translation type="obsolete">Первая строка</translation>
+    </message>
+    <message>
+        <source>Hanging</source>
+        <translation type="obsolete">Выступ</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="obsolete">см</translation>
+    </message>
+    <message>
+        <source>Please input value between 0cm and 21.35cm</source>
+        <translation type="obsolete">Введите значение в диапазоне 0–21,35 см</translation>
+    </message>
+    <message>
+        <source>Please input value between 0 and 9.99</source>
+        <translation type="obsolete">Введите значение в диапазоне 0–9,99</translation>
+    </message>
+    <message>
+        <source>Please input value between 0pt and 1584pt</source>
+        <translation type="obsolete">Введите значение в диапазоне 0–1584 пт</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="obsolete">Одинарный</translation>
+    </message>
+    <message>
+        <source>1.5 times</source>
+        <translation type="obsolete">1,5 раза</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="obsolete">Двойной</translation>
+    </message>
+    <message>
+        <source>Fixed</source>
+        <translation type="obsolete">Фиксированный</translation>
+    </message>
+    <message>
+        <source>Multiple</source>
+        <translation type="obsolete">Несколько</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="obsolete">пт</translation>
+    </message>
 </context>
 <context>
     <name>SchemeLayoutPanel</name>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation>Применить к &amp;образцу</translation>
+        <translation type="obsolete">Применить к &amp;образцу</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
-        <translation>Применить &amp;ко всем слайдам</translation>
+        <translation type="obsolete">Применить &amp;ко всем слайдам</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation>Применить к выделенным &amp;слайдам</translation>
+        <translation type="obsolete">Применить к выделенным &amp;слайдам</translation>
     </message>
     <message>
         <source>Apply to &amp;All Master</source>
-        <translation>Применить ко &amp;всем образцам</translation>
+        <translation type="obsolete">Применить ко &amp;всем образцам</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Masters</source>
-        <translation>Применить к вы&amp;деленным образцам</translation>
+        <translation type="obsolete">Применить к вы&amp;деленным образцам</translation>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
-        <translation>Показать &amp;крупные эскизы</translation>
+        <translation type="obsolete">Показать &amp;крупные эскизы</translation>
     </message>
 </context>
 <context>
@@ -4555,7 +5529,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Custom Animation:</source>
-        <translation>Настройка анимации:</translation>
+        <translation type="obsolete">Настройка анимации:</translation>
     </message>
     <message>
         <source>Re-order</source>
@@ -4649,7 +5623,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Черно-белый без серого</translation>
     </message>
     <message>
         <source>Slides p&amp;er page:</source>
@@ -4657,27 +5631,27 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">9</translation>
     </message>
     <message>
         <source>Order:</source>
@@ -4721,7 +5695,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Примечание: только установка пароля может предотвратить изменение настроек другими пользователями.</translation>
     </message>
     <message>
         <source>Permit to modify</source>
@@ -4741,7 +5715,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished">Вывод на печать не разрешён</translation>
+        <translation type="unfinished">Вывод на печать не разрешен</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
@@ -4766,6 +5740,18 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Close when e&amp;xport completes</source>
         <translation type="unfinished">Закрыть после &amp;завершения экспорта</translation>
+    </message>
+    <message>
+        <source>Select OFD Service Provider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suwell&amp;K</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Foxit</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4839,27 +5825,27 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>1</source>
-        <translation></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>6</source>
-        <translation></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>9</source>
-        <translation></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>Order:</source>
@@ -4911,7 +5897,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation>Вывод на печать не разрешён</translation>
+        <translation>Вывод на печать не разрешен</translation>
     </message>
     <message>
         <source>Passwor&amp;d:</source>
@@ -4959,7 +5945,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation>Чёрно-белый без серого</translation>
+        <translation>Черно-белый без серого</translation>
     </message>
     <message>
         <source>Passw&amp;ord to protect permission settings</source>
@@ -4991,7 +5977,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation>Примечание: только установка пароля может предотвратить изменение настроек другими пользователями.</translation>
     </message>
 </context>
 <context>
@@ -5029,7 +6015,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>lwLineStyle</source>
-        <translation></translation>
+        <translation>lwLineStyle</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
@@ -5037,7 +6023,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>cmbBorderColor</source>
-        <translation></translation>
+        <translation>cmbBorderColor</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
@@ -5045,23 +6031,23 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>cmbBorderWidth</source>
-        <translation></translation>
+        <translation>cmbBorderWidth</translation>
     </message>
     <message>
         <source>Click on diagram below or use buttons to apply borders</source>
-        <translation>Для добавления границ щелкните образец или используйте кнопки.</translation>
+        <translation>Для добавления границ щелкните образец или используйте кнопки</translation>
     </message>
     <message>
         <source>btnBorderUp</source>
-        <translation></translation>
+        <translation>btnBorderUp</translation>
     </message>
     <message>
         <source>btnBorderMidHor</source>
-        <translation></translation>
+        <translation>btnBorderMidHor</translation>
     </message>
     <message>
         <source>btnBorderUnder</source>
-        <translation></translation>
+        <translation>btnBorderUnder</translation>
     </message>
     <message>
         <source>Border Preview</source>
@@ -5069,23 +6055,23 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>btnBorderSlash</source>
-        <translation></translation>
+        <translation>btnBorderSlash</translation>
     </message>
     <message>
         <source>btnBorderLeft</source>
-        <translation></translation>
+        <translation>btnBorderLeft</translation>
     </message>
     <message>
         <source>btnBorderMidVer</source>
-        <translation></translation>
+        <translation>btnBorderMidVer</translation>
     </message>
     <message>
         <source>btnBorderRight</source>
-        <translation></translation>
+        <translation>btnBorderRight</translation>
     </message>
     <message>
         <source>btnBorderBackSlash</source>
-        <translation></translation>
+        <translation>btnBorderBackSlash</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -5093,27 +6079,27 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>cbFillColor</source>
-        <translation></translation>
+        <translation type="obsolete">cbFillColor</translation>
     </message>
     <message>
         <source>Fill &amp;color:</source>
-        <translation>Цвет &amp;заливки:</translation>
+        <translation type="obsolete">Цвет &amp;заливки:</translation>
     </message>
     <message>
         <source>cmbFillColor</source>
-        <translation></translation>
+        <translation type="obsolete">cmbFillColor</translation>
     </message>
     <message>
         <source>cbSemitransparent</source>
-        <translation></translation>
+        <translation type="obsolete">cbSemitransparent</translation>
     </message>
     <message>
         <source>Semi&amp;transparent</source>
-        <translation>По&amp;лупрозрачный</translation>
+        <translation type="obsolete">По&amp;лупрозрачный</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>Текстовое поле</translation>
+        <translation>Надпись</translation>
     </message>
     <message>
         <source>Text &amp;alignment:</source>
@@ -5121,7 +6107,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>cbTextAlign</source>
-        <translation></translation>
+        <translation>cbTextAlign</translation>
     </message>
     <message>
         <source>Top</source>
@@ -5157,7 +6143,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>cbOrientation</source>
-        <translation></translation>
+        <translation>cbOrientation</translation>
     </message>
     <message>
         <source>Rotat&amp;e text within cell by 90 degrees</source>
@@ -5179,6 +6165,149 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Bottom Center</source>
         <translation>Cнизу по центру</translation>
     </message>
+    <message>
+        <source>&amp;Fill</source>
+        <translation>&amp;Заливка</translation>
+    </message>
+    <message>
+        <source>Solid fill</source>
+        <translation>Сплошная заливка</translation>
+    </message>
+    <message>
+        <source>Gradient fill</source>
+        <translation>Градиент заливки</translation>
+    </message>
+    <message>
+        <source>Picture or texture fill</source>
+        <translation>Рисунок или текстура заливки</translation>
+    </message>
+    <message>
+        <source>Pattern fill</source>
+        <translation>Шаблон заливки</translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation>&amp;Цвет</translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation>&amp;Прозрачность</translation>
+    </message>
+    <message>
+        <source>Enter 0%  to 100% of value</source>
+        <translation>Введите значение в диапазоне от 0 до 100 %</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>&amp;Style</source>
+        <translation>&amp;Стиль</translation>
+    </message>
+    <message>
+        <source>Gradient Linear</source>
+        <translation>Линейный градиент</translation>
+    </message>
+    <message>
+        <source>Gradient Radial</source>
+        <translation>Радиальный градиент</translation>
+    </message>
+    <message>
+        <source>Gradient Rect</source>
+        <translation>Прямоугольный градиент</translation>
+    </message>
+    <message>
+        <source>Gradient Path</source>
+        <translation>Градиент пути</translation>
+    </message>
+    <message>
+        <source>&amp;Angle</source>
+        <translation>&amp;Угол</translation>
+    </message>
+    <message>
+        <source>Enter 0  to 359 Degrees of value</source>
+        <translation>Введите значение в диапазоне от 0 до 359 градусов</translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation>°</translation>
+    </message>
+    <message>
+        <source>Gra&amp;dient stops</source>
+        <translation>О&amp;граничение градиента</translation>
+    </message>
+    <message>
+        <source>Source From File</source>
+        <translation>Взять из &amp;файла</translation>
+    </message>
+    <message>
+        <source>&amp;File...</source>
+        <translation>&amp;Файл...</translation>
+    </message>
+    <message>
+        <source>Source From &amp;Texture</source>
+        <translation>Взять из &amp;текстуры</translation>
+    </message>
+    <message>
+        <source>&amp;Pattern</source>
+        <translation>&amp;Шаблон</translation>
+    </message>
+    <message>
+        <source>Fore&amp;ground</source>
+        <translation>П&amp;ередний план</translation>
+    </message>
+    <message>
+        <source>&amp;Background</source>
+        <translation>&amp;Фон</translation>
+    </message>
+    <message>
+        <source>Enter 0cm to 55.88cm of the Value</source>
+        <translation>Введите значение в диапазоне 0–55,88 см</translation>
+    </message>
+</context>
+<context>
+    <name>kxDlgThesaurus</name>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="obsolete">Тезаурус</translation>
+    </message>
+    <message>
+        <source>Current word:</source>
+        <translation type="obsolete">Текущее слово:</translation>
+    </message>
+    <message>
+        <source>Alternatives:</source>
+        <translation type="obsolete">Альтернативы:</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="obsolete">Заменить</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">Отмена</translation>
+    </message>
+    <message>
+        <source>&amp;Current word:</source>
+        <translation type="obsolete">&amp;Текущее слово:</translation>
+    </message>
+    <message>
+        <source>&amp;Language</source>
+        <translation type="obsolete">&amp;Язык</translation>
+    </message>
+    <message>
+        <source>&amp;Alternatives:</source>
+        <translation type="obsolete">&amp;Альтернативы:</translation>
+    </message>
+    <message>
+        <source>&amp;Replace</source>
+        <translation type="obsolete">&amp;Заменить</translation>
+    </message>
+    <message>
+        <source>Ca&amp;ncel</source>
+        <translation type="obsolete">О&amp;тменить</translation>
+    </message>
 </context>
 <context>
     <name>kxUiHyperlinkwpp</name>
@@ -5199,7 +6328,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>kxdlgexportpresentationhint</name>
     <message>
         <source>Do you want to export every slide in the presentation or only the current slide?</source>
-        <translation>Экспортировать все слайды в презентации или только текущий?</translation>
+        <translation>Требуется экспортировать все слайды презентации или только текущий слайд?</translation>
     </message>
     <message>
         <source>&amp;Every Slide</source>
@@ -5216,6 +6345,41 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>WPS Presentation</source>
         <translation>WPS Presentation</translation>
+    </message>
+</context>
+<context>
+    <name>wppContentPosition</name>
+    <message>
+        <source>&amp;Horizontal position</source>
+        <translation>&amp;Горизонтальное положение</translation>
+    </message>
+    <message>
+        <source>Enter -5963.92  to 5963.92 cm of value</source>
+        <translation>Введите значение в диапазоне –5963,92–5963,92 см</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>см</translation>
+    </message>
+    <message>
+        <source>&amp;From</source>
+        <translation>&amp;От</translation>
+    </message>
+    <message>
+        <source>Top Left Corner</source>
+        <translation>Верхний левый угол</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>По центру</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical position</source>
+        <translation>&amp;Вертикальное положение</translation>
+    </message>
+    <message>
+        <source>F&amp;rom</source>
+        <translation>&amp;От</translation>
     </message>
 </context>
 </TS>

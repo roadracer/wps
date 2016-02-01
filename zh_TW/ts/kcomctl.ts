@@ -3,6 +3,13 @@
 <TS version="2.0" language="zh_TW">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
+    <name>DownloadBubbleWidget</name>
+    <message>
+        <source>Download failed due to possible network problems. Please try again later.</source>
+        <translation>由於可能的網路問題，下載失敗。請稍後再試。</translation>
+    </message>
+</context>
+<context>
     <name>KApplication</name>
     <message>
         <source>Critical</source>
@@ -14,7 +21,18 @@
     </message>
     <message>
         <source>Trial Version</source>
-        <translation></translation>
+        <translation>試用版本</translation>
+    </message>
+</context>
+<context>
+    <name>KBevelModel</name>
+    <message>
+        <source>No Bevel</source>
+        <translation>無浮凸</translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <translation>浮凸</translation>
     </message>
 </context>
 <context>
@@ -22,6 +40,64 @@
     <message>
         <source>Text</source>
         <translation>文字</translation>
+    </message>
+</context>
+<context>
+    <name>KCameraModel</name>
+    <message>
+        <source>No Rotation</source>
+        <translation>無旋轉</translation>
+    </message>
+    <message>
+        <source>Parallel</source>
+        <translation>平行</translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <translation>透視</translation>
+    </message>
+    <message>
+        <source>Oblique</source>
+        <translation>傾斜</translation>
+    </message>
+</context>
+<context>
+    <name>KColorCombobox</name>
+    <message>
+        <source>&amp;No Color</source>
+        <translation>無色彩(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Fill effects...</source>
+        <translation>填滿效果(&amp;F)...</translation>
+    </message>
+    <message>
+        <source>&amp;Patterned Lines...</source>
+        <translation>圖樣線條(&amp;P)...</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>自動</translation>
+    </message>
+    <message>
+        <source>&amp;More Color...</source>
+        <translation>其他色彩(&amp;M)...</translation>
+    </message>
+    <message>
+        <source>Snapper Color(&amp;E)</source>
+        <translation>滴管(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Recent Colors</source>
+        <translation>最近使用的色彩</translation>
+    </message>
+    <message>
+        <source>Theme Colors</source>
+        <translation>佈景主題色彩</translation>
+    </message>
+    <message>
+        <source>Standard Colors</source>
+        <translation>標準色彩</translation>
     </message>
 </context>
 <context>
@@ -264,11 +340,11 @@
     <name>KDocTabbarStickerCommand</name>
     <message>
         <source>Lock tabbar</source>
-        <translation type="unfinished"></translation>
+        <translation>鎖定索引標籤列</translation>
     </message>
     <message>
         <source>UnLock tabbar</source>
-        <translation type="unfinished"></translation>
+        <translation>解鎖索引標籤列</translation>
     </message>
 </context>
 <context>
@@ -282,18 +358,216 @@
     <name>KFilePageCloseButton</name>
     <message>
         <source>Clear Record from List</source>
-        <translation type="unfinished">從列表中清除紀錄</translation>
+        <translation>從列表中清除紀錄</translation>
     </message>
 </context>
 <context>
     <name>KFilePageFixedButton</name>
     <message>
         <source>unfixed from list</source>
-        <translation type="unfinished"></translation>
+        <translation>從清單中取消固定此項目</translation>
     </message>
     <message>
         <source>fixed to list</source>
-        <translation type="unfinished"></translation>
+        <translation>固定此項目到清單</translation>
+    </message>
+</context>
+<context>
+    <name>KFormatDoubleSpinBoxLineEdit</name>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation>這個項目必須是正值</translation>
+    </message>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation>這個項目不能包含任何非數值的字元</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
+        <translation>這個項目必須小於或等於 %1</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation>這個項目必須大於或等於 %1</translation>
+    </message>
+</context>
+<context>
+    <name>KFormatScrollBar</name>
+    <message>
+        <source>Scroll here</source>
+        <translation>捲動到這裡</translation>
+    </message>
+    <message>
+        <source>Left edge</source>
+        <translation>左邊緣</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>頂端</translation>
+    </message>
+    <message>
+        <source>Right edge</source>
+        <translation>右邊緣</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>底端</translation>
+    </message>
+    <message>
+        <source>Page left</source>
+        <translation>左頁</translation>
+    </message>
+    <message>
+        <source>Page up</source>
+        <translation>上頁</translation>
+    </message>
+    <message>
+        <source>Page right</source>
+        <translation>右頁</translation>
+    </message>
+    <message>
+        <source>Page down</source>
+        <translation>下頁</translation>
+    </message>
+    <message>
+        <source>Scroll left</source>
+        <translation>向左捲動</translation>
+    </message>
+    <message>
+        <source>Scroll up</source>
+        <translation>向上捲動</translation>
+    </message>
+    <message>
+        <source>Scroll right</source>
+        <translation>向右捲動</translation>
+    </message>
+    <message>
+        <source>Scroll down</source>
+        <translation>向下捲動</translation>
+    </message>
+</context>
+<context>
+    <name>KFormatSpinBoxLineEdit</name>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation>這個項目必須是正值</translation>
+    </message>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation>這個項目不能包含任何非數值的字元</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
+        <translation>這個項目必須小於或等於 %1</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation>這個項目必須大於或等於 %1</translation>
+    </message>
+</context>
+<context>
+    <name>KFormatStylesTitle</name>
+    <message>
+        <source>Shape Styles</source>
+        <translation>圖案樣式​​</translation>
+    </message>
+    <message>
+        <source>Line Styles</source>
+        <translation>線條樣式</translation>
+    </message>
+    <message>
+        <source>Picture Filters</source>
+        <translation>圖片篩選</translation>
+    </message>
+</context>
+<context>
+    <name>KFormatStylesWidget</name>
+    <message>
+        <source>Style</source>
+        <translation>樣式</translation>
+    </message>
+</context>
+<context>
+    <name>KGalleryAbstractModel</name>
+    <message>
+        <source>No Presets</source>
+        <translation>無預設</translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation>預設</translation>
+    </message>
+    <message>
+        <source>No Reflection</source>
+        <translation>無反射</translation>
+    </message>
+    <message>
+        <source>Reflection Variations</source>
+        <translation>反射變化</translation>
+    </message>
+    <message>
+        <source>No Soft Edges</source>
+        <translation>無柔邊</translation>
+    </message>
+    <message>
+        <source>1 Point</source>
+        <translation>1 點</translation>
+    </message>
+    <message>
+        <source>2.5 Point</source>
+        <translation>2.5 點</translation>
+    </message>
+    <message>
+        <source>5 Point</source>
+        <translation>5 點</translation>
+    </message>
+    <message>
+        <source>10 Point</source>
+        <translation>10 點</translation>
+    </message>
+    <message>
+        <source>25 Point</source>
+        <translation>25 點</translation>
+    </message>
+    <message>
+        <source>50 Point</source>
+        <translation>50 點</translation>
+    </message>
+    <message>
+        <source>No Transform</source>
+        <translation>無轉換</translation>
+    </message>
+    <message>
+        <source>Follow Path</source>
+        <translation>追蹤路徑</translation>
+    </message>
+    <message>
+        <source>Warp</source>
+        <translation>變形</translation>
+    </message>
+    <message>
+        <source>No Glow</source>
+        <translation>無光暈</translation>
+    </message>
+    <message>
+        <source>Glow Variations</source>
+        <translation>光暈變化</translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation>無陰影</translation>
+    </message>
+    <message>
+        <source>Outer</source>
+        <translation>外陰影</translation>
+    </message>
+    <message>
+        <source>Inner</source>
+        <translation>內陰影</translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <translation>透視圖</translation>
     </message>
 </context>
 <context>
@@ -313,6 +587,25 @@
     <message>
         <source>Settings will be effected after application restarted.</source>
         <translation type="obsolete">設置將在啟動後生效。</translation>
+    </message>
+</context>
+<context>
+    <name>KLightingModel</name>
+    <message>
+        <source>Neutral</source>
+        <translation>中性</translation>
+    </message>
+    <message>
+        <source>Warm Effect</source>
+        <translation>暖色</translation>
+    </message>
+    <message>
+        <source>Cool</source>
+        <translation>冷色</translation>
+    </message>
+    <message>
+        <source>Special</source>
+        <translation>特別</translation>
     </message>
 </context>
 <context>
@@ -354,7 +647,7 @@
     <name>KMainWindow</name>
     <message>
         <source>&amp;Exit</source>
-        <translation type="unfinished">退出(&amp;E)</translation>
+        <translation>結束(&amp;E)</translation>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
@@ -366,7 +659,7 @@
     </message>
     <message>
         <source>Use System &amp;Title Bar</source>
-        <translation type="unfinished">使用系統標題列(&amp;T)</translation>
+        <translation>使用系統標題列(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
@@ -374,38 +667,89 @@
     </message>
 </context>
 <context>
+    <name>KMaterialModel</name>
+    <message>
+        <source>Standard</source>
+        <translation>標準</translation>
+    </message>
+    <message>
+        <source>Special Effect</source>
+        <translation>特殊效果</translation>
+    </message>
+    <message>
+        <source>Translucent</source>
+        <translation>半透明</translation>
+    </message>
+</context>
+<context>
     <name>KMemberUser</name>
     <message>
         <source>Bronze</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>銅</translation>
     </message>
     <message>
         <source>Plate with silver</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>鍍銀</translation>
     </message>
     <message>
         <source>Silver</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>銀色</translation>
     </message>
     <message>
         <source>Gold</source>
         <comment>Member user type</comment>
-        <translation type="unfinished">金色</translation>
+        <translation>金色</translation>
     </message>
     <message>
         <source>Platina</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>白金</translation>
+    </message>
+    <message>
+        <source>Registered user</source>
+        <comment>Member User type</comment>
+        <translation>註冊使用者</translation>
     </message>
 </context>
 <context>
     <name>KMenuWidget</name>
     <message>
         <source>InsertCellsInPopup</source>
-        <translation></translation>
+        <translation>插入儲存格</translation>
+    </message>
+</context>
+<context>
+    <name>KNoTabPageWidget</name>
+    <message>
+        <source>Last time encounter abnormal shutdown!</source>
+        <translation>WPS Office 發生了例外狀況并已重新啟動。</translation>
+    </message>
+    <message>
+        <source>WPS will recover files for you, you can uncheck the files that don&apos;t need to be recovered</source>
+        <translation>WPS Office 將會為您復原檔案。你可以取消核取您認為無須復原的檔案。</translation>
+    </message>
+    <message>
+        <source>FileName</source>
+        <translation>檔名</translation>
+    </message>
+    <message>
+        <source>Send error file to help WPS solve such issues</source>
+        <translation>傳送錯誤檔案以協助 WPS Office 解決此類問題</translation>
+    </message>
+    <message>
+        <source>Recover</source>
+        <translation>復原</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Modified time: </source>
+        <translation>修改時間： </translation>
     </message>
 </context>
 <context>
@@ -413,6 +757,69 @@
     <message>
         <source>Text </source>
         <translation>文字 </translation>
+    </message>
+</context>
+<context>
+    <name>KPluginDownloadingTipWidget</name>
+    <message>
+        <source>Initializing </source>
+        <translation>正在初始化</translation>
+    </message>
+    <message>
+        <source>, </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please wait...</source>
+        <translation>請稍候...</translation>
+    </message>
+</context>
+<context>
+    <name>KPluginFailureTipWidget</name>
+    <message>
+        <source>Download failed due to possible network problems. Please try again later.</source>
+        <translation>由於可能的網路問題，下載失敗。請稍後再試。</translation>
+    </message>
+</context>
+<context>
+    <name>KProgressBar</name>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Multiple Tasks:</source>
+        <translation>整體進度：</translation>
+    </message>
+    <message>
+        <source>Show In Progress Tasks</source>
+        <translation>顯示進度清單</translation>
+    </message>
+    <message>
+        <source>Press &apos;Multiple Task&apos; button to display tasks</source>
+        <translation>按一下[整體進度]以顯示進度清單</translation>
+    </message>
+</context>
+<context>
+    <name>KProgressListGalleryModelItem</name>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>KProxyCommandButton</name>
+    <message>
+        <source>(Download required)</source>
+        <translation>(需要下載)</translation>
+    </message>
+    <message>
+        <source>(Initializing...)</source>
+        <translation>(正在初始化...)</translation>
+    </message>
+    <message>
+        <source>(Upgrading...)</source>
+        <translation>(升級中...)</translation>
     </message>
 </context>
 <context>
@@ -477,23 +884,23 @@
     <name>KRbRecentFilePage</name>
     <message>
         <source>Recent Documents: </source>
-        <translation type="unfinished">最近開啟的檔案</translation>
+        <translation>最近的文件: </translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">開啟</translation>
+        <translation>開啟</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished">全部清除</translation>
+        <translation>全部清除</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">開啟資料夾</translation>
+        <translation>開啟資料夾</translation>
     </message>
     <message>
         <source>Clear Invalid File</source>
-        <translation type="unfinished"></translation>
+        <translation>清除所有失效的文件記錄</translation>
     </message>
     <message>
         <source>Unpinned from List</source>
@@ -530,20 +937,74 @@
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法打開 “%1”。
+此文件可能被重命名、刪除或移動了位置。</translation>
     </message>
     <message>
         <source>
 
 Modified time:</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+修改時間： </translation>
     </message>
     <message>
         <source>
 
 
 Invalid record. This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+此記錄失效，文件可能被移動、重命名或刪除。</translation>
+    </message>
+    <message>
+        <source>Can not find the file &quot;%1&quot;.
+the file may be renamed,deleted or moved the location.</source>
+        <translation type="obsolete">無法打開 “%1”。
+此文件可能被重命名、刪除或移動了位置。</translation>
+    </message>
+    <message>
+        <source>
+
+modify time: </source>
+        <translation type="obsolete">
+
+修改時間： </translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid, the file may be renamed,deleted or moved the location</source>
+        <translation type="obsolete">
+
+此記錄失效，文件可能被移動、重命名或刪除</translation>
+    </message>
+    <message>
+        <source>
+
+Modified time: </source>
+        <translation type="obsolete">
+
+修改時間： </translation>
+    </message>
+    <message>
+        <source>
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation type="obsolete">
+
+此記錄失效，文件可能被移動、重命名或刪除</translation>
+    </message>
+</context>
+<context>
+    <name>KShapeLineGalleryItem</name>
+    <message>
+        <source>No Line</source>
+        <translation>無線條</translation>
+    </message>
+    <message>
+        <source>Preset Line</source>
+        <translation>預設線條</translation>
     </message>
 </context>
 <context>
@@ -554,10 +1015,29 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
+    <name>KTextureModel</name>
+    <message>
+        <source>Picture Source</source>
+        <translation>圖片來源</translation>
+    </message>
+    <message>
+        <source>From &amp;Picture</source>
+        <translation>本機圖片(&amp;P)</translation>
+    </message>
+    <message>
+        <source>From &amp;Online Picture</source>
+        <translation>線上圖片(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Preset Texture</source>
+        <translation>預設材質</translation>
+    </message>
+</context>
+<context>
     <name>KToolTipWidget</name>
     <message>
         <source>KToolTipWidget</source>
-        <translation>KingSoft工具提示元件:</translation>
+        <translation>WPS Office 工具提示元件:</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -572,11 +1052,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KUnderLineCtrl</name>
     <message>
         <source>(None)</source>
-        <translation></translation>
+        <translation>(無)</translation>
     </message>
     <message>
         <source>Words Only</source>
-        <translation></translation>
+        <translation>字下加線</translation>
     </message>
 </context>
 <context>
@@ -606,7 +1086,33 @@ auto=auto
 [Multiple]
 multiple=multiple
 </source>
-        <translation>[Device]
+        <translation type="obsolete">[Device]
+pt=點數;p
+in=英吋;i
+cm=公分;c
+mm=公釐;m
+
+[Percentage]
+%=%
+
+[Character]
+ch=字元
+
+[Degree]
+degree=°
+
+[Row]
+line=行
+
+[Auto]
+auto=自動
+
+[Multiple]
+multiple=倍
+</translation>
+    </message>
+    <message>
+        <source>[Device]
 pt=pt;p
 in=inch;i
 cm=cm;c
@@ -629,6 +1135,33 @@ auto=auto
 
 [Multiple]
 multiple=multiple
+
+[Point]
+point=pt
+</source>
+        <translation>[Device]
+pt=點數;p
+in=英吋;i
+cm=公分;c
+mm=公釐;m
+
+[Percentage]
+%=%
+
+[Character]
+ch=字元
+
+[Degree]
+degree=°
+
+[Row]
+line=行
+
+[Auto]
+auto=自動
+
+[Multiple]
+multiple=倍
 </translation>
     </message>
 </context>
@@ -636,12 +1169,27 @@ multiple=multiple
     <name>KWPSCloudSetup</name>
     <message>
         <source>WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Some components are not installed correctly.
 Please reinstall WPS Office!</source>
-        <translation type="unfinished"></translation>
+        <translation>一些元件沒有正確的安裝。請重新安裝 WPS Office。</translation>
+    </message>
+    <message>
+        <source>Some components are not installed correctly,
+please reinstall WPS Office!</source>
+        <translation type="obsolete">一些元件沒有正確的安裝。請重新安裝 WPS Office。</translation>
+    </message>
+    <message>
+        <source>Some components are not installed correctly.
+ Please re-install WPS Office.</source>
+        <translation type="obsolete">一些元件沒有正確的安裝。請重新安裝 WPS Office。</translation>
+    </message>
+    <message>
+        <source>Some components are not installed correctly.
+Please re-install WPS Office.</source>
+        <translation type="obsolete">一些元件沒有正確的安裝。請重新安裝 WPS Office。</translation>
     </message>
 </context>
 <context>
@@ -660,6 +1208,37 @@ Please reinstall WPS Office!</source>
     </message>
 </context>
 <context>
+    <name>KxPrstFillModel</name>
+    <message>
+        <source>No Fill</source>
+        <translation>無填滿</translation>
+    </message>
+    <message>
+        <source>Theme Colors</source>
+        <translation>佈景主題色彩</translation>
+    </message>
+    <message>
+        <source>Gradient Fill</source>
+        <translation>漸層填滿</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation>漸層</translation>
+    </message>
+    <message>
+        <source>Pattern Fill</source>
+        <translation>圖樣填滿</translation>
+    </message>
+    <message>
+        <source>Picture or texture Fill</source>
+        <translation type="obsolete">圖片或材質填滿</translation>
+    </message>
+    <message>
+        <source>texture Fill</source>
+        <translation>材質填滿</translation>
+    </message>
+</context>
+<context>
     <name>KxSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
@@ -672,6 +1251,17 @@ Please reinstall WPS Office!</source>
     <message>
         <source>Illegal integer text.</source>
         <translation type="obsolete">您輸入的不是有效的整數值。</translation>
+    </message>
+</context>
+<context>
+    <name>QApplication</name>
+    <message>
+        <source>No Glow</source>
+        <translation>無光暈</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>光暈</translation>
     </message>
 </context>
 <context>
@@ -788,6 +1378,45 @@ Please reinstall WPS Office!</source>
     <message>
         <source>Clear Record from List</source>
         <translation type="obsolete">從列表中清除紀錄</translation>
+    </message>
+</context>
+<context>
+    <name>gradientStopsPanel</name>
+    <message>
+        <source>Add Gradient Aperture</source>
+        <translation>新增漸層停駐點</translation>
+    </message>
+    <message>
+        <source>Delete Gradient Aperture</source>
+        <translation>移除漸層停駐點</translation>
+    </message>
+    <message>
+        <source>&amp;Brightness</source>
+        <translation>亮度(&amp;B)</translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation>透明度(&amp;T)</translation>
+    </message>
+    <message>
+        <source>P&amp;osition</source>
+        <translation>位置(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Enter  0% to 100% of the Value</source>
+        <translation>輸入 0% 至 100% 之間的值</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enter -100% to 100% of the Value</source>
+        <translation>輸入 -100% 至 100% 之間的值</translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation>色彩(&amp;C)</translation>
     </message>
 </context>
 </TS>

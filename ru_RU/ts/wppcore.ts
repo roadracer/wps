@@ -157,7 +157,7 @@
     <message>
         <source>This function is offered in WPS Office 2009 Professional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation type="unfinished"></translation>
+        <translation>Эта функция доступна в WPS Office 2009 Professional.</translation>
     </message>
 </context>
 <context>
@@ -598,12 +598,47 @@ Would you like to open this file?
     <message>
         <source>&lt;#&gt;</source>
         <comment>WP_TXNUMBERAREA</comment>
-        <translation></translation>
+        <translation>&lt;#&gt;</translation>
     </message>
     <message>
         <source>Apply Text Format</source>
         <comment>TXTRANS_FORMATPAINTER</comment>
         <translation>Применить формат текста</translation>
+    </message>
+    <message>
+        <source>Left Indent</source>
+        <comment>TXTRANS_PARA_TEXTINDENT_LEFT</comment>
+        <translation>Отступ слева</translation>
+    </message>
+    <message>
+        <source>First Line Indent</source>
+        <comment>TXTRANS_PARA_TEXTINDENT_FIRSTLINE</comment>
+        <translation>Отступ первой строки</translation>
+    </message>
+    <message>
+        <source>LangID</source>
+        <comment>TXTRANS_SPAN_FONT_LANGID</comment>
+        <translation>Код языка</translation>
+    </message>
+    <message>
+        <source>AltLangID</source>
+        <comment>TXTRANS_SPAN_FONT_ALTLANGID</comment>
+        <translation>AltLangID</translation>
+    </message>
+    <message>
+        <source>UnderlineStyle</source>
+        <comment>TXTRANS_SPAN_FONT_UNDERLINE_STYLE</comment>
+        <translation>Стиль подчеркивания</translation>
+    </message>
+    <message>
+        <source>spacing</source>
+        <comment>TXTRANS_SPAN_FONT_SPACING</comment>
+        <translation>Интервал</translation>
+    </message>
+    <message>
+        <source>kerning</source>
+        <comment>TXTRANS_SPAN_FONT_KERNING</comment>
+        <translation>Кернинг</translation>
     </message>
 </context>
 <context>
@@ -1647,7 +1682,7 @@ Fifth level</source>
     <message>
         <source>Click to edit Master subtitle Style</source>
         <comment>WP_TEXT_OF_SUBTITLE_IN_MASTER</comment>
-        <translation>Образец подзаголовка</translation>
+        <translation type="obsolete">Образец подзаголовка</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -1703,17 +1738,17 @@ Fifth level</source>
     <message>
         <source>*.dpt</source>
         <comment>WpCommonDesignsPostfix</comment>
-        <translation></translation>
+        <translation>*.dpt</translation>
     </message>
     <message>
         <source>*.pot</source>
         <comment>WpForPptDesignsPostfix</comment>
-        <translation></translation>
+        <translation>*.pot</translation>
     </message>
     <message>
         <source>default.dpt</source>
         <comment>WpStartandFile</comment>
-        <translation></translation>
+        <translation type="obsolete">по_умолчанию.dpt</translation>
     </message>
     <message>
         <source>Default Design</source>
@@ -2486,7 +2521,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation type="obsolete">В настоящее время WPS Office поддерживает только просмотр документов Microsoft Office 2010.</translation>
+        <translation>В настоящее время WPS Office поддерживает только просмотр документов Microsoft Office 2010.</translation>
     </message>
     <message>
         <source>Presentation Caption</source>
@@ -2501,23 +2536,508 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>WP_SAVE_PPT_FAILURE</comment>
-        <translation>Невозможно сохранить или создать данный файл.
-Убедитесь, что файл не заблокирован другим пользователем, есть место на диске и диск не повреждён.
+        <translation>Решению WPS Presentation не удалось сохранить или создать этот файл.
+Убедитесь, что файл не заблокирован другим пользователем, а также что конечный диск не заполнен и не поврежден.
 (%s)</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
         <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">В настоящее время WPS Office поддерживает только просмотр документов Microsoft Office 2010. Открыть документ в режиме просмотра?</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">В настоящее время WPS Office поддерживает только просмотр документов Microsoft Office 2010.</translation>
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished">Презентация </translation>
+        <translation>Заголовок презентации</translation>
+    </message>
+    <message>
+        <source>Handout Master</source>
+        <comment>WP_SB_VIEW_HANDOUTMASTER</comment>
+        <translation>Образец раздаточного материала</translation>
+    </message>
+    <message>
+        <source>Notes Master</source>
+        <comment>WP_SB_VIEW_NOTESMASTER</comment>
+        <translation>Образец заметок</translation>
+    </message>
+    <message>
+        <source>Notes Page</source>
+        <comment>WP_SB_VIEW_NOTESPAGE</comment>
+        <translation>Страница заметок</translation>
+    </message>
+    <message>
+        <source>Click to edit Master text styles</source>
+        <comment>WP_LEVER_TEXT_OF_FIRST_LEVER</comment>
+        <translation>Щелкните, чтобы изменить стиль образца текста</translation>
+    </message>
+    <message>
+        <source>Second level</source>
+        <comment>WP_LEVER_TEXT_OF_SECOND_LEVER</comment>
+        <translation>Второй уровень</translation>
+    </message>
+    <message>
+        <source>Third level</source>
+        <comment>WP_LEVER_TEXT_OF_THIRD_LEVER</comment>
+        <translation>Третий уровень</translation>
+    </message>
+    <message>
+        <source>Fourth level</source>
+        <comment>WP_LEVER_TEXT_OF_FORTH_LEVER</comment>
+        <translation>Четвертый уровень</translation>
+    </message>
+    <message>
+        <source>Fifth level</source>
+        <comment>WP_LEVER_TEXT_OF_FIFTH_LEVER</comment>
+        <translation>Пятый уровень</translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <comment>WP_TEXT_OF_HEADER</comment>
+        <translation>Верхний колонтитул</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <comment>WP_TEXT_OF_FOOTER</comment>
+        <translation>Нижний колонтитул</translation>
+    </message>
+    <message>
+        <source>newfile.pptx</source>
+        <comment>WpStartandFile</comment>
+        <translation>newfile.pptx</translation>
+    </message>
+    <message>
+        <source>Custom Layout</source>
+        <comment>WP_CUSTOM_LAYOUT</comment>
+        <translation>Произвольный макет</translation>
+    </message>
+    <message>
+        <source>Slide Layout</source>
+        <comment>WP_SB_VIEW_SLIDELAYOUT</comment>
+        <translation>Разметка 
+слайда</translation>
+    </message>
+    <message>
+        <source>Click to add notes</source>
+        <comment>WP_ADD_NOTES</comment>
+        <translation>Заметки к слайду</translation>
+    </message>
+    <message>
+        <source>No Notes</source>
+        <comment>WP_ADD_NOTES</comment>
+        <translation>Без заметок</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>WP_PH_SPNAME_TITLE</comment>
+        <translation>Заголовок</translation>
+    </message>
+    <message>
+        <source>Text Placeholder</source>
+        <comment>WP_PH_SPNAME_TEXT_PLACEHOLDER</comment>
+        <translation>Замещающий текст</translation>
+    </message>
+    <message>
+        <source>Subtitle</source>
+        <comment>WP_PH_SPNAME_SUBTITLE</comment>
+        <translation>Подзаголовок</translation>
+    </message>
+    <message>
+        <source>Date Placeholder</source>
+        <comment>WP_PH_SPNAME_DATE_PLACEHOLDER</comment>
+        <translation>Замещающая дата</translation>
+    </message>
+    <message>
+        <source>Slide Number Placeholder</source>
+        <comment>WP_PH_SPNAME_SLIDE_NUMBER_PLACEHOLDER</comment>
+        <translation>Замещающий номер слайда</translation>
+    </message>
+    <message>
+        <source>Footer Placeholder</source>
+        <comment>WP_PH_SPNAME_FOOTER_PLACEHOLDER</comment>
+        <translation>Замещающий нижний колонтитул</translation>
+    </message>
+    <message>
+        <source>Header Placeholder</source>
+        <comment>WP_PH_SPNAME_HEADER_PLACEHOLDER</comment>
+        <translation>Замещающий верхний колонтитул</translation>
+    </message>
+    <message>
+        <source>Content Placeholder</source>
+        <comment>WP_PH_SPNAME_CONTENT_PLACEHOLDER</comment>
+        <translation>Замещающее содержимое</translation>
+    </message>
+    <message>
+        <source>Chart Placeholder</source>
+        <comment>WP_PH_SPNAME_CHART_PLACEHOLDER</comment>
+        <translation>Замещающая диаграмма</translation>
+    </message>
+    <message>
+        <source>Table Placeholder</source>
+        <comment>WP_PH_SPNAME_TABLE_PLACEHOLDER</comment>
+        <translation>Замещающая таблица</translation>
+    </message>
+    <message>
+        <source>ClipArt Placeholder</source>
+        <comment>WP_PH_SPNAME_CLIPART_PLACEHOLDER</comment>
+        <translation>Замещающее место для изображения из Интернета</translation>
+    </message>
+    <message>
+        <source>SmartArt Placeholder</source>
+        <comment>WP_PH_SPNAME_SMARTART_PLACEHOLDER</comment>
+        <translation>Замещающий рисунок SmartArt</translation>
+    </message>
+    <message>
+        <source>Media Placeholder</source>
+        <comment>WP_PH_SPNAME_MEDIA_PLACEHOLDER</comment>
+        <translation>Замещающий файл мультимедиа</translation>
+    </message>
+    <message>
+        <source>Slide Image Placeholder</source>
+        <comment>WP_PH_SPNAME_SLIDE_IMAGE_PLACEHOLDER</comment>
+        <translation>Замещающий образ слайда</translation>
+    </message>
+    <message>
+        <source>Picture Placeholder</source>
+        <comment>WP_PH_SPNAME_PICTURE_PLACEHOLDER</comment>
+        <translation>Замещающая рамка рисунка</translation>
+    </message>
+    <message>
+        <source> The Slide Master: </source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_MASTER</comment>
+        <translation> Образец слайда: </translation>
+    </message>
+    <message>
+        <source> The Layout: </source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_LAYOUT</comment>
+        <translation> Макет:</translation>
+    </message>
+    <message>
+        <source>By using the slide %1</source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_USING_SLIDE</comment>
+        <translation>Используется слайдом %1</translation>
+    </message>
+    <message>
+        <source>No Slide Using</source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_NO_SLIDE_USING</comment>
+        <translation>Не используется ни одного слайда</translation>
+    </message>
+    <message>
+        <source>No Title</source>
+        <comment>WP_TOOLTIP_MASTER_VIEW_NO_TITLE</comment>
+        <translation>Без заголовка</translation>
+    </message>
+    <message>
+        <source>The following features cannot be saved in macro-free workbooks:
+ · VB project
+To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.
+</source>
+        <comment>WP_SAVEMACROWARNING</comment>
+        <translation>Следующие функции не могут быть сохранены в книгах электронных таблиц без макросов:
+проект Visual Basic 
+Чтобы сохранить файл с этими функциями, щелкните Нет и выберите тип файла с поддержкой макросов в списке &quot;Тип файла&quot;.
+Чтобы продолжить сохранение в формате книги электронных таблиц без макросов, нажмите &quot;Да&quot;.
+</translation>
+    </message>
+    <message>
+        <source>We&apos;re sorry, something went wrong that might make WPS Presentation unstable. Please save your presentations and restart WPS Presentation</source>
+        <comment>WP_PASTEWARNING</comment>
+        <translation>Извините! Что-то пошло не так, и WPS Presentation может быть неустойчивым. Сохраните презентации и перезагрузите WPS Presentation.</translation>
+    </message>
+    <message>
+        <source>The media clips in this version of WPS Presentation will be lost (slide %1)</source>
+        <comment>WP_COMPATIBILITYCHECKER_MEDIACLIPS</comment>
+        <translation>Клипы мультимедиа в данной версии WPS Presentation будут потеряны (слайд %1)</translation>
+    </message>
+    <message>
+        <source>default</source>
+        <comment>wpp_sLoaclTemplate_default</comment>
+        <translation>по умолчанию</translation>
+    </message>
+    <message>
+        <source>3d map</source>
+        <comment>wpp_sLoaclTemplate_3d_map</comment>
+        <translation>3D-карта</translation>
+    </message>
+    <message>
+        <source>art_mountaineering</source>
+        <comment>wpp_sLoaclTemplate_art_mountaineering</comment>
+        <translation>искусство_альпинизма</translation>
+    </message>
+    <message>
+        <source>blue background</source>
+        <comment>wpp_sLoaclTemplate_blue_background</comment>
+        <translation>голубой фон</translation>
+    </message>
+    <message>
+        <source>blue crystal lattice</source>
+        <comment>wpp_sLoaclTemplate_blue_crystal_lattice</comment>
+        <translation>голубая кристаллическая решетка</translation>
+    </message>
+    <message>
+        <source>blue longing</source>
+        <comment>wpp_sLoaclTemplate_blue_longing</comment>
+        <translation>синяя тоска</translation>
+    </message>
+    <message>
+        <source>blue waves</source>
+        <comment>wpp_sLoaclTemplate_blue_waves</comment>
+        <translation>голубые волны</translation>
+    </message>
+    <message>
+        <source>books</source>
+        <comment>wpp_sLoaclTemplate_books</comment>
+        <translation>книги</translation>
+    </message>
+    <message>
+        <source>business calculation</source>
+        <comment>wpp_sLoaclTemplate_business_calculation</comment>
+        <translation>бизнес-расчеты</translation>
+    </message>
+    <message>
+        <source>business cooperate</source>
+        <comment>wpp_sLoaclTemplate_business_cooperate</comment>
+        <translation>бизнес-сотрудничество</translation>
+    </message>
+    <message>
+        <source>business index</source>
+        <comment>wpp_sLoaclTemplate_business_index</comment>
+        <translation>бизнес-индекс</translation>
+    </message>
+    <message>
+        <source>business technology</source>
+        <comment>wpp_sLoaclTemplate_business_technolog_</comment>
+        <translation>бизнес-технология</translation>
+    </message>
+    <message>
+        <source>business_business affair</source>
+        <comment>wpp_sLoaclTemplate_business_business_affair</comment>
+        <translation>бизнес_коммерческое предприятие</translation>
+    </message>
+    <message>
+        <source>business_stock fluctuation</source>
+        <comment>wpp_sLoaclTemplate_business_stock_fluctuation</comment>
+        <translation>бизнес_колебания запасов</translation>
+    </message>
+    <message>
+        <source>city silhouette</source>
+        <comment>wpp_sLoaclTemplate_city_silhouette</comment>
+        <translation>контур города</translation>
+    </message>
+    <message>
+        <source>classical_pelycosaur</source>
+        <comment>wpp_sLoaclTemplate_</comment>
+        <translation>классические_пеликозавры</translation>
+    </message>
+    <message>
+        <source>colourful</source>
+        <comment>wpp_sLoaclTemplate_colourful</comment>
+        <translation>цветной</translation>
+    </message>
+    <message>
+        <source>communications and dialogues</source>
+        <comment>wpp_sLoaclTemplate_communications_and_dialogues</comment>
+        <translation>коммуникации и диалоги</translation>
+    </message>
+    <message>
+        <source>curtain background</source>
+        <comment>wpp_sLoaclTemplate_curtain_background</comment>
+        <translation>навесной фон</translation>
+    </message>
+    <message>
+        <source>daily_loose-leaf binder</source>
+        <comment>wpp_sLoaclTemplate_daily_loose_leaf_binder</comment>
+        <translation>ежедневник_скоросшиватель</translation>
+    </message>
+    <message>
+        <source>data pie charts</source>
+        <comment>wpp_sLoaclTemplate_data_pie_charts</comment>
+        <translation>данные круговой диаграммы</translation>
+    </message>
+    <message>
+        <source>dazzle dance smooth shadow</source>
+        <comment>wpp_sLoaclTemplate_dance_dazzle_smooth_shadow</comment>
+        <translation>ослепительный танец и мягкие тени</translation>
+    </message>
+    <message>
+        <source>deep blue technology</source>
+        <comment>wpp_sLoaclTemplate_deep_blue_technology</comment>
+        <translation>синяя технология</translation>
+    </message>
+    <message>
+        <source>direction</source>
+        <comment>wpp_sLoaclTemplate_direction</comment>
+        <translation>направление</translation>
+    </message>
+    <message>
+        <source>friendly cooperation</source>
+        <comment>wpp_sLoaclTemplate_friendly_cooperation</comment>
+        <translation>дружественное сотрудничество</translation>
+    </message>
+    <message>
+        <source>gear drawings</source>
+        <comment>wpp_sLoaclTemplate_gear_drawings</comment>
+        <translation>зубчатые рисунки</translation>
+    </message>
+    <message>
+        <source>gear drives</source>
+        <comment>wpp_sLoaclTemplate_gear_drives</comment>
+        <translation>зубчатые диски</translation>
+    </message>
+    <message>
+        <source>global plan</source>
+        <comment>wpp_sLoaclTemplate_global_plan</comment>
+        <translation>глобальный план</translation>
+    </message>
+    <message>
+        <source>global trade</source>
+        <comment>wpp_sLoaclTemplate_global_trade</comment>
+        <translation>мировая торговля</translation>
+    </message>
+    <message>
+        <source>government_celebration</source>
+        <comment>wpp_sLoaclTemplate_government_celebration</comment>
+        <translation>государственный_праздник</translation>
+    </message>
+    <message>
+        <source>government_five-pointed_red star</source>
+        <comment>wpp_sLoaclTemplate_government_five_pointed_red_star</comment>
+        <translation>государственная_пятиконечная_красная звезда</translation>
+    </message>
+    <message>
+        <source>green color</source>
+        <comment>wpp_sLoaclTemplate_green_color</comment>
+        <translation>зеленый цвет</translation>
+    </message>
+    <message>
+        <source>green technology</source>
+        <comment>wpp_sLoaclTemplate_green_technology</comment>
+        <translation>зеленая технология</translation>
+    </message>
+    <message>
+        <source>interpersonal relation</source>
+        <comment>wpp_sLoaclTemplate_interpersonal_relation</comment>
+        <translation>межличностные отношения</translation>
+    </message>
+    <message>
+        <source>landscape painting</source>
+        <comment>wpp_sLoaclTemplate_landscape_painting</comment>
+        <translation>пейзаж</translation>
+    </message>
+    <message>
+        <source>mythic curve</source>
+        <comment>wpp_sLoaclTemplate_mythic_curve</comment>
+        <translation>мифический путь</translation>
+    </message>
+    <message>
+        <source>new charpter</source>
+        <comment>wpp_sLoaclTemplate_new_charpter</comment>
+        <translation>новая глава</translation>
+    </message>
+    <message>
+        <source>new energe</source>
+        <comment>wpp_sLoaclTemplate_new_energe</comment>
+        <translation>новая энергия</translation>
+    </message>
+    <message>
+        <source>orange waves</source>
+        <comment>wpp_sLoaclTemplate_orange_waves</comment>
+        <translation>оранжевые волны</translation>
+    </message>
+    <message>
+        <source>phantom effect</source>
+        <comment>wpp_sLoaclTemplate_phantom_effect</comment>
+        <translation>фантомный эффект</translation>
+    </message>
+    <message>
+        <source>pleasant garden</source>
+        <comment>wpp_sLoaclTemplate_pleasant_garden</comment>
+        <translation>приятный сад</translation>
+    </message>
+    <message>
+        <source>red background</source>
+        <comment>wpp_sLoaclTemplate_red_background</comment>
+        <translation>красный фон</translation>
+    </message>
+    <message>
+        <source>red curtain</source>
+        <comment>wpp_sLoaclTemplate_red_curtain</comment>
+        <translation>красная штора</translation>
+    </message>
+    <message>
+        <source>science and technology preach</source>
+        <comment>wpp_sLoaclTemplate_science_and_technology_preach</comment>
+        <translation>распространение науки и технологий</translation>
+    </message>
+    <message>
+        <source>sea widen sky</source>
+        <comment>wpp_sLoaclTemplate_sea_widen_sky</comment>
+        <translation>море до неба</translation>
+    </message>
+    <message>
+        <source>simple green</source>
+        <comment>wpp_sLoaclTemplate_simple_green</comment>
+        <translation>простой зеленый</translation>
+    </message>
+    <message>
+        <source>small blackbord</source>
+        <comment>wpp_sLoaclTemplate_small_blackbord</comment>
+        <translation>небольшая плата</translation>
+    </message>
+    <message>
+        <source>stationery</source>
+        <comment>wpp_sLoaclTemplate_stationery</comment>
+        <translation>канцелярские принадлежности</translation>
+    </message>
+    <message>
+        <source>sweet memories</source>
+        <comment>wpp_sLoaclTemplate_sweet_memories</comment>
+        <translation>светлые воспоминания</translation>
+    </message>
+    <message>
+        <source>time revolution</source>
+        <comment>wpp_sLoaclTemplate_time_revolution</comment>
+        <translation>революция времени</translation>
+    </message>
+    <message>
+        <source>training course</source>
+        <comment>wpp_sLoaclTemplate_training_course</comment>
+        <translation>учебный курс</translation>
+    </message>
+    <message>
+        <source>up arrow</source>
+        <comment>wpp_sLoaclTemplate_up_arrow</comment>
+        <translation>стрелка вверх</translation>
+    </message>
+    <message>
+        <source>world map</source>
+        <comment>wpp_sLoaclTemplate_world_map</comment>
+        <translation>карта мира</translation>
+    </message>
+    <message>
+        <source>Objects in this document contain links to files that cannot be found. The linked information will not be updated.</source>
+        <translation>Объекты в данном документе содержат ссылки на файлы, которые не удалось обнаружить. Информацию о ссылках не удалось обновить.</translation>
+    </message>
+    <message>
+        <source>The linked file is unavailable and can&apos;t be updated.</source>
+        <comment>WP_LINKEDFILENOTAVALILABLE</comment>
+        <translation>Связанный файл отсутствует и не может быть обновлен.</translation>
+    </message>
+    <message>
+        <source>Document has been locked by %s, Do you want to open it as read-only?
+(%s)</source>
+        <comment>WP_SaveFailureLockedByUser</comment>
+        <translation>Документ был заблокирован %s. Хотите открыть его только для чтения?
+(%s)</translation>
+    </message>
+    <message>
+        <source>Click to edit Master subtitle style</source>
+        <comment>WP_TEXT_OF_SUBTITLE_IN_MASTER</comment>
+        <translation>Образец подзаголовка</translation>
     </message>
 </context>
 <context>
@@ -2545,27 +3065,27 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Double-click to add chart</source>
         <comment>WpPLACEHOLDER_ADD_CHART</comment>
-        <translation>Дважды щелкните, чтобы добавить диаграмму</translation>
+        <translation type="obsolete">Дважды щелкните, чтобы добавить диаграмму</translation>
     </message>
     <message>
         <source>Double-click to add clip art</source>
         <comment>WpPLACEHOLDER_ADD_PICTURE</comment>
-        <translation>Дважды щелкните, чтобы добавить клип</translation>
+        <translation type="obsolete">Дважды щелкните, чтобы добавить клип</translation>
     </message>
     <message>
         <source>Double-click to add media clip</source>
         <comment>WpPLACEHOLDER_ADD_MEDIA</comment>
-        <translation>Дважды щелкните, чтобы добавить клип мультимедиа</translation>
+        <translation type="obsolete">Дважды щелкните, чтобы добавить клип мультимедиа</translation>
     </message>
     <message>
         <source>Double-click to add table</source>
         <comment>WpPLACEHOLDER_ADD_TABLE</comment>
-        <translation>Дважды щелкните, чтобы добавить таблицу</translation>
+        <translation type="obsolete">Дважды щелкните, чтобы добавить таблицу</translation>
     </message>
     <message>
         <source>Double-click to add diagram or organization chart</source>
         <comment>WpPLACEHOLDER_ADD_ORGCHART</comment>
-        <translation>Дважды щелкните, чтобы добавить диаграмму или организационную диаграмму</translation>
+        <translation type="obsolete">Дважды щелкните, чтобы добавить диаграмму или организационную диаграмму</translation>
     </message>
     <message>
         <source>Title Area for AutoLayouts</source>
@@ -2601,6 +3121,36 @@ Please make sure the file is not locked by another user, or the target disk is n
         <source>Date Area</source>
         <comment>WpPLACEHOLDER_MST_DATE</comment>
         <translation>Область даты</translation>
+    </message>
+    <message>
+        <source>Click icon to add chart</source>
+        <comment>WpPLACEHOLDER_ADD_CHART</comment>
+        <translation>Щелкните значок, чтобы добавить диаграмму</translation>
+    </message>
+    <message>
+        <source>Click icon to add picture</source>
+        <comment>WpPLACEHOLDER_ADD_PICTURE</comment>
+        <translation>Щелкните значок, чтобы добавить рисунок</translation>
+    </message>
+    <message>
+        <source>Click icon to add media clip</source>
+        <comment>WpPLACEHOLDER_ADD_MEDIA</comment>
+        <translation>Щелкните значок, чтобы добавить клип мультимедиа</translation>
+    </message>
+    <message>
+        <source>Click icon to add table</source>
+        <comment>WpPLACEHOLDER_ADD_TABLE</comment>
+        <translation>Щелкните значок, чтобы добавить таблицу</translation>
+    </message>
+    <message>
+        <source>Click icon to add smartArt</source>
+        <comment>WpPLACEHOLDER_ADD_ORGCHART</comment>
+        <translation>Щелкните значок, чтобы добавить SmartArt</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <comment>WpPLACEHOLDER_MST_PICTURE</comment>
+        <translation>Рисунок</translation>
     </message>
 </context>
 <context>
@@ -4361,22 +4911,22 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>&amp;100%</source>
         <comment>wpp_sAnimTransparent100</comment>
-        <translation></translation>
+        <translation>&amp;100%</translation>
     </message>
     <message>
         <source>&amp;25%</source>
         <comment>wpp_sAnimTransparent25</comment>
-        <translation></translation>
+        <translation>&amp;25%</translation>
     </message>
     <message>
         <source>&amp;50%</source>
         <comment>wpp_sAnimTransparent50</comment>
-        <translation></translation>
+        <translation>&amp;50%</translation>
     </message>
     <message>
         <source>&amp;75%</source>
         <comment>wpp_sAnimTransparent75</comment>
-        <translation></translation>
+        <translation>&amp;75%</translation>
     </message>
     <message>
         <source>Select an element of the slide, then click Add Effect to add animation.</source>
@@ -4808,12 +5358,12 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Master: Body</source>
         <comment>wpp_sMasterText</comment>
-        <translation>Образец: слайд</translation>
+        <translation type="obsolete">Образец: слайд</translation>
     </message>
     <message>
         <source>Master: Title</source>
         <comment>wpp_sMasterTitle</comment>
-        <translation>Образец: титульный слайд</translation>
+        <translation type="obsolete">Образец: титульный слайд</translation>
     </message>
     <message>
         <source>Amount</source>
@@ -5521,7 +6071,9 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
 
 %s</source>
         <comment>wpp_sNewPathIsTooLong</comment>
-        <translation></translation>
+        <translation>Длина пути к папке составляет %d. Длина не должна превышать 255 символов. Измените путь.
+
+%s</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -5576,17 +6128,52 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Out Slightly</source>
         <comment>wpp_sAnimDirectionInSlightly</comment>
-        <translation type="unfinished"></translation>
+        <translation>Небольшое уменьшение</translation>
     </message>
     <message>
         <source>Canceled by user.</source>
         <comment>wpp_sCancelByUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>Отменено пользователем.</translation>
     </message>
     <message>
         <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
         <comment>wpp_sCanNotOpenFolder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось открыть папку %s. Неверный путь к файлу, файл защещён паролем, путь к папке не существует или слишком длинный путь к папке.</translation>
+    </message>
+    <message>
+        <source>Master: %1</source>
+        <comment>wpp_sMasterType_Master</comment>
+        <translation>Образец: %1</translation>
+    </message>
+    <message>
+        <source>Layout: %1</source>
+        <comment>wpp_sMasterType_Layout</comment>
+        <translation>Макет: %1</translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <comment>wpp_sMasterText</comment>
+        <translation>Основной текст</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>wpp_sMasterTitle</comment>
+        <translation>Заголовок</translation>
+    </message>
+    <message>
+        <source>date</source>
+        <comment>wpp_sMasterDate</comment>
+        <translation>дата</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <comment>wpp_sMasterFooter</comment>
+        <translation>Нижний колонтитул</translation>
+    </message>
+    <message>
+        <source>Slider Number</source>
+        <comment>wpp_sMasterSliderNumber</comment>
+        <translation>Номер слайда</translation>
     </message>
 </context>
 <context>
@@ -5641,52 +6228,52 @@ Layout</source>
     <message>
         <source>400 %</source>
         <comment>WpZOOM_400</comment>
-        <translation></translation>
+        <translation>400 %</translation>
     </message>
     <message>
         <source>300 %</source>
         <comment>WpZOOM_300</comment>
-        <translation></translation>
+        <translation>300 %</translation>
     </message>
     <message>
         <source>200 %</source>
         <comment>WpZOOM_200</comment>
-        <translation></translation>
+        <translation>200 %</translation>
     </message>
     <message>
         <source>150 %</source>
         <comment>WpZOOM_150</comment>
-        <translation></translation>
+        <translation>150 %</translation>
     </message>
     <message>
         <source>100 %</source>
         <comment>WpZOOM_100</comment>
-        <translation></translation>
+        <translation>100 %</translation>
     </message>
     <message>
         <source>75 %</source>
         <comment>WpZOOM_75</comment>
-        <translation></translation>
+        <translation>75 %</translation>
     </message>
     <message>
         <source>66 %</source>
         <comment>WpZOOM_66</comment>
-        <translation></translation>
+        <translation>66 %</translation>
     </message>
     <message>
         <source>50 %</source>
         <comment>WpZOOM_50</comment>
-        <translation></translation>
+        <translation>50 %</translation>
     </message>
     <message>
         <source>33 %</source>
         <comment>WpZOOM_33</comment>
-        <translation></translation>
+        <translation>33 %</translation>
     </message>
     <message>
         <source>25 %</source>
         <comment>WpZOOM_25</comment>
-        <translation></translation>
+        <translation>25 %</translation>
     </message>
     <message>
         <source>Fit</source>
@@ -6276,7 +6863,7 @@ Layout</source>
     <message>
         <source>*.*</source>
         <comment>DgExts_AllFiles</comment>
-        <translation></translation>
+        <translation>*.*</translation>
     </message>
     <message>
         <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</source>
@@ -6286,7 +6873,7 @@ Layout</source>
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</source>
         <comment>DgExts_MovieFiles</comment>
-        <translation></translation>
+        <translation>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</translation>
     </message>
     <message>
         <source>Windows Media File(asf) (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz)</source>
@@ -6296,7 +6883,7 @@ Layout</source>
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz</source>
         <comment>DgExts_WindowsMediaFile</comment>
-        <translation></translation>
+        <translation>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz</translation>
     </message>
     <message>
         <source>Windows Video File(avi) (*.avi)</source>
@@ -6306,7 +6893,7 @@ Layout</source>
     <message>
         <source>*.avi</source>
         <comment>DgExts_WindowsVideofile</comment>
-        <translation></translation>
+        <translation>*.avi</translation>
     </message>
     <message>
         <source>Movie File(mpeg) (*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa)</source>
@@ -6316,7 +6903,7 @@ Layout</source>
     <message>
         <source>*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa</source>
         <comment>DgExts_MovieFileMpeg</comment>
-        <translation></translation>
+        <translation>*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa</translation>
     </message>
     <message>
         <source>Windows Media Video File(wmv) (*.wmv;*.wvx)</source>
@@ -6326,7 +6913,7 @@ Layout</source>
     <message>
         <source>*.wmv;*.wvx</source>
         <comment>DgExts_WindowsMediaVideofile</comment>
-        <translation></translation>
+        <translation>*.wmv;*.wvx</translation>
     </message>
     <message>
         <source>Insert Sound</source>
@@ -6341,7 +6928,7 @@ Layout</source>
     <message>
         <source>*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw</source>
         <comment>DgExts_SoundFiles</comment>
-        <translation></translation>
+        <translation>*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw</translation>
     </message>
     <message>
         <source>AU Audio File(au) (*.au;*.snd)</source>
@@ -6351,7 +6938,7 @@ Layout</source>
     <message>
         <source>*.au;*.snd</source>
         <comment>DgExts_AIFFAudioFile</comment>
-        <translation></translation>
+        <translation>*.au;*.snd</translation>
     </message>
     <message>
         <source>MP3 Audio File(mp3) (*.mp3;*.m3u)</source>
@@ -6361,7 +6948,7 @@ Layout</source>
     <message>
         <source>*.mp3;*.m3u</source>
         <comment>DgExts_Mp3AudioFile</comment>
-        <translation></translation>
+        <translation>*.mp3;*.m3u</translation>
     </message>
     <message>
         <source>MIDI File(midi) (*.mid;*.midi;*.rmi)</source>
@@ -6371,7 +6958,7 @@ Layout</source>
     <message>
         <source>*.mid;*.midi;*.rmi</source>
         <comment>DgExts_MIDIFile</comment>
-        <translation></translation>
+        <translation>*.mid;*.midi;*.rmi</translation>
     </message>
     <message>
         <source>Windows Audio File(wav) (*.wav)</source>
@@ -6381,7 +6968,7 @@ Layout</source>
     <message>
         <source>*.wav</source>
         <comment>DgExts_WindowsAudioFile</comment>
-        <translation></translation>
+        <translation>*.wav</translation>
     </message>
     <message>
         <source>Windows Media Audio File(wma) (*.wma;*.waw)</source>
@@ -6391,7 +6978,7 @@ Layout</source>
     <message>
         <source>*.wma;*.waw</source>
         <comment>DgExts_WindowsMediaAudioFile</comment>
-        <translation></translation>
+        <translation>*.wma;*.waw</translation>
     </message>
     <message>
         <source>Click to add notes</source>
@@ -6512,8 +7099,7 @@ Layout</source>
         <source>Spell 
 Check</source>
         <comment>WP_CheckSpelling_Caption</comment>
-        <translation>Проверка
-правописания</translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>[Disabled]</source>
@@ -6613,7 +7199,7 @@ Check</source>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
         <comment>WP_TEMPLATEFILE</comment>
-        <translation>Общие файлы(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</translation>
+        <translation type="obsolete">Общие файлы(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</translation>
     </message>
     <message>
         <source>Involved Template</source>
@@ -6624,88 +7210,299 @@ Check</source>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>WpMsgBackupToDef</comment>
-        <translation>Ошибки резервного копирования! Возможно, потому, что нет разрешения на запись в каталог резервного копирования. Измените каталог для резервного копирования.
-Резервная копия будет сохранена в (%s)</translation>
+        <translation>Во время резервного копирования возникли ошибки. Возможно, это обусловлено тем, что у вас нет разрешения на запись в выбранный каталог резервных копий. Выберите другой каталог.
+Резервные копии будут сохранены в папку (%s).</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
         <comment>WpDescAll</comment>
-        <translation>Все файлы (*.*)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</source>
         <comment>WpDescCommon</comment>
-        <translation>Общие файлы(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</translation>
+        <translation type="obsolete">Общие файлы(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</translation>
     </message>
     <message>
         <source>WPS Presentation Files(*.dps)</source>
         <comment>WpDescWPP</comment>
-        <translation>Файлы WPS Presentation(*.dps)</translation>
+        <translation type="obsolete">Файлы WPS Presentation(*.dps)</translation>
     </message>
     <message>
         <source>WPS Presentation Templates(*.dpt)</source>
         <comment>WpDescWPPTemp</comment>
-        <translation>Шаблоны WPS Presentation(*.dpt)</translation>
+        <translation type="obsolete">Шаблоны WPS Presentation(*.dpt)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
         <comment>WpDescPptPps</comment>
-        <translation>Презентации Microsoft PowerPoint 97/2000/XP/2003(*.ppt; *.pps)</translation>
+        <translation type="obsolete">Презентации Microsoft PowerPoint 97/2000/XP/2003(*.ppt; *.pps)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
         <comment>WpDescPpt</comment>
-        <translation>Презентации Microsoft PowerPoint 97/2000/XP/2003(*.ppt)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
         <comment>WpDescPps</comment>
-        <translation>Файлы просмотра презентаций Microsoft PowerPoint 97/2000/XP/2003(*.pps)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
         <comment>WpDescPptTemp</comment>
-        <translation>Шаблоны презентаций Microsoft PowerPoint 97/2000/XP/2003(*.pot)</translation>
+        <translation type="obsolete">Шаблоны презентаций Microsoft PowerPoint 97/2000/XP/2003(*.pot)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)</source>
         <comment>WpDescPptx</comment>
-        <translation>Презентации Microsoft PowerPoint 2007/2010(*.pptx; *.ppsx)</translation>
+        <translation type="obsolete">Презентации Microsoft PowerPoint 2007/2010(*.pptx; *.ppsx)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format(*.uof)</source>
         <comment>WpDescUOF</comment>
-        <translation>Документ китайской версии офиса(*.uof)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chinese Office Document Format 2.0(*.uop)</source>
         <comment>WpDescUOF2</comment>
-        <translation>Документ китайской версии офиса 2.0(*.uop)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)</source>
         <comment>WpDescJPEG</comment>
-        <translation>Изображение JPEG(*.jpg)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>PNG Portable Network Graphics Format(*.png)</source>
         <comment>WpDescPNG</comment>
-        <translation>Изображение PNG(*.png)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TIFF Tag Image File Format(*.tif)</source>
         <comment>WpDescTIFF</comment>
-        <translation>Изображение TIFF(*.tif)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Device Independent Bitmap(*.bmp)</source>
         <comment>WpDescBMP</comment>
-        <translation>Изображение DIB(*.bmp)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Each slide in your presentation has been saved as a separate file in the folder
 %s .</source>
         <comment>WpSAVEIMAGEHINT</comment>
+        <translation>Каждый слайд в презентации сохранен как отдельный файл в папке 
+%s.</translation>
+    </message>
+    <message>
+        <source>Paragraphs</source>
+        <comment>WpPARAGRAPHS</comment>
+        <translation>Абзацы</translation>
+    </message>
+    <message>
+        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps</source>
+        <comment>WP_SAVEFILE</comment>
+        <translation type="obsolete">Файл презентации WPS (*.dps)|*.dps|Шаблон презентации WPS (*.dpt)|*.dpt|Презентация Microsoft PowerPoint 97/2000/XP/2003 (*.ppt)|*.ppt|Шаблон презентации Microsoft PowerPoint 97/2000/XP/2003 (*.pot)|*.pot|Слайд-шоу Microsoft PowerPoint 97/2000/XP/2003 (*.pps)|*.pps</translation>
+    </message>
+    <message>
+        <source>JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
+        <comment>WP_SAVEFILE_IMAGES</comment>
+        <translation>Формат JPEG (*.jpg)|*.jpg|Формат PNG (*.png)|*.png|Формат TIFF (*.tif)|*.tif|Рисунок в формате Bitmap (*.bmp)|*.bmp</translation>
+    </message>
+    <message>
+        <source>MPEG-4 Video(*.mp4)|*.mp4</source>
+        <comment>WP_SAVEFILE_VIDEO_MP4</comment>
+        <translation>Видео MPEG-4 (*.mp4)|*.mp4</translation>
+    </message>
+    <message>
+        <source>Windows Media Video(*.wmv)|*.wmv</source>
+        <comment>WP_SAVEFILE_VIDEO_WMV</comment>
+        <translation>Видео в формате Windows Media (*.wmv)|*.wmv</translation>
+    </message>
+    <message>
+        <source>Audio Video Interleave(*.avi)|*.avi</source>
+        <comment>WP_SAVEFILE_VIDEO_AVI</comment>
+        <translation>Формат AVI (*.avi)|*.avi</translation>
+    </message>
+    <message>
+        <source>Open Web Media Video(*.webm)|*.webm</source>
+        <comment>WP_SAVEFILE_VIDEO_WEBM</comment>
+        <translation>Формат WebM (*.webm)|*.webm</translation>
+    </message>
+    <message>
+        <source>|</source>
+        <comment>WpOpenSaveFilterSeperator</comment>
+        <translation>|</translation>
+    </message>
+    <message>
+        <source>\WPS Video\WPS Video</source>
+        <comment>WpVideoSaveRelativePath</comment>
+        <translation>\Видео WPS\Видео WPS</translation>
+    </message>
+    <message>
+        <source>\WPS Image\WPS Image</source>
+        <comment>WpImageSaveRelativePath</comment>
+        <translation>\Рисунок WPS\Рисунок WPS</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)|*.pptx; *.ppsx; *.pptm; *.ppsm|Microsoft PowerPoint 2007/2010 Presentation Templates(*.potx; *.potm)|*.potx; *.potm</source>
+        <comment>WP_OPENFILE</comment>
+        <translation type="obsolete">Все файлы(*.*)|*.*|Общие файлы(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx|Файлы WPS Presentation (*.dps)|*.dps|Шаблоны WPS Presentation (*.dpt)|*.dpt|Презентации Microsoft PowerPoint 97/2000/XP/2003 (*.ppt; *.pps)|*.ppt; *.pps|Шаблоны презентации Microsoft PowerPoint 97/2000/XP/2003(*.pot)|*.pot|Презентации Microsoft PowerPoint 2007/2010(*.pptx; *.ppsx; *.pptm; *.ppsm)|*.pptx; *.ppsx; *.pptm; *.ppsm|Шаблоны презентации Microsoft PowerPoint 2007/2010(*.potx; *.potm)|*.potx; *.potm</translation>
+    </message>
+    <message>
+        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|Microsoft PowerPoint 2007/2010 Presentation(*.pptx)|*.pptx|Microsoft PowerPoint 2007/2010 Macro Enabled Presentation(*.pptm)|*.pptm|Microsoft PowerPoint 2007/2010 Presentation Template(*.potx)|*.potx|Microsoft PowerPoint 2007/2010 Macro Enabled Presentation Template(*.potm)|*.potm|Microsoft PowerPoint 2007/2010 Show(*.ppsx)|*.ppsx|Microsoft PowerPoint 2007/2010 Macro Enabled Show(*.ppsm)|*.ppsm</source>
+        <comment>WP_SAVEFILE</comment>
+        <translation type="obsolete">Файлы WPS Presentation(*.dps)|*.dps|Шаблоны WPS Presentation(*.dpt)|*.dpt|Презентации Microsoft PowerPoint 97/2000/XP/2003 (*.ppt)|*.ppt|Шаблоны презентации Microsoft PowerPoint 97/2000/XP/2003(*.pot)|*.pot|Демонстрация Microsoft PowerPoint 97/2000/XP/2003(*.pps)|*.pps|Презентация Microsoft PowerPoint 2007/2010(*.pptx)|*.pptx|Презентация Microsoft PowerPoint 2007/2010 с поддержкой макросов(*.pptm)|*.pptm|Шаблон презентации Microsoft PowerPoint 2007/2010(*.potx)|*.potx|Шаблон презентации Microsoft PowerPoint 2007/2010 с поддержкой макросов(*.potm)|*.potm|Демонстрация Microsoft PowerPoint 2007/2010(*.ppsx)|*.ppsx|Демонстрация Microsoft PowerPoint 2007/2010 с поддержкой макросов(*.ppsm)|*.ppsm</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|WPS Presentation 2007/2010 Files(*.dpsx)|*.dpsx|WPS Presentation 2007/2010 Templates(*.dptx)|*.dptx|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
+        <comment>WP_OPENFILEEX</comment>
+        <translation type="obsolete">Все файлы(*.*)|*.*|Общие файлы(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx|Файлы WPS Presentation(*.dps)|*.dps|Шаблоны WPS Presentation(*.dpt)|*.dpt|Файлы WPS Presentation 2007/2010 (*.dpsx)|*.dpsx|Шаблоны WPS Presentation 2007/2010 (*.dptx)|*.dptx|Презентации Microsoft PowerPoint 97/2000/XP/2003(*.ppt; *.pps)|*.ppt; *.pps|Шаблоны презентации Microsoft PowerPoint 97/2000/XP/2003(*.pot)|*.pot|Презентации Microsoft PowerPoint 2007/2010(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
+    </message>
+    <message>
+        <source>WPS Presentation 2007/2010 Files(*.dpsx)|*.dpsx|WPS Presentation 2007/2010 Templates(*.dptx)|*.dptx|WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 2007/2010 Presentation(*.pptx)|*.pptx|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps</source>
+        <comment>WP_SAVEFILEEX</comment>
+        <translation type="obsolete">Файлы WPS Presentation 2007/2010(*.dpsx)|*.dpsx|Шаблоны WPS Presentation 2007/2010(*.dptx)|*.dptx|Файлы WPS Presentation(*.dps)|*.dps|Шаблоны WPS Presentation(*.dpt)|*.dpt|Презентация Microsoft PowerPoint 2007/2010(*.pptx)|*.pptx|Презентация Microsoft PowerPoint 97/2000/XP/2003(*.ppt)|*.ppt|Шаблоны презентации Microsoft PowerPoint 97/2000/XP/2003(*.pot)|*.pot|Демонстрация Microsoft PowerPoint 97/2000/XP/2003(*.pps)|*.pps</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*.potx;*.potm;*.thmx)|*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*potx;*.potm;*.thmx</source>
+        <comment>WP_TEMPLATEFILE</comment>
+        <translation>Общие файлы(*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*.potx;*.potm;*.thmx)|*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*potx;*.potm;*.thmx</translation>
+    </message>
+    <message>
+        <source>Edit Chart Datasource</source>
+        <comment>WpEDITCHARTDATASOURCE</comment>
+        <translation>Изменить источник данных диаграммы</translation>
+    </message>
+    <message>
+        <source>Insert Layout</source>
+        <comment>WpINSERTLAYOUT</comment>
+        <translation>Вставить структуру</translation>
+    </message>
+    <message>
+        <source>Format Text</source>
+        <comment>WpFormatText</comment>
+        <translation>Формат текста</translation>
+    </message>
+    <message>
+        <source>Edit Table Borders</source>
+        <comment>WpEditTableBorders</comment>
+        <translation>Изменить границы таблицы</translation>
+    </message>
+    <message>
+        <source>AddPlaceholder</source>
+        <comment>WpAddPlaceHolder</comment>
+        <translation>Добавить заполнитель</translation>
+    </message>
+    <message>
+        <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
+        <comment>WpChartEditDataSourceErr</comment>
+        <translation>Сетка данных диаграммы уже открыта в &quot;%s&quot;. Чтобы изменить данные этой диаграммы, ее необходимо сначала закрыть.</translation>
+    </message>
+    <message>
+        <source>Update Link</source>
+        <comment>WpUPDATELINK</comment>
+        <translation>Обновить связь</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <comment>TX_WPP_CF_HYPERLINK</comment>
+        <translation>Гиперссылка</translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format(*.uof)|*.uof</source>
+        <comment>WP_SAVEFILE_UOF</comment>
+        <translation type="obsolete">Формат документа формата Chinese Office (*.uof)|*.uof</translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>WP_NoSynonymsSuggestions_Caption</comment>
+        <translation type="obsolete">(нет предложений синонимов)</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)</source>
+        <comment>WpDescCommon</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)</source>
+        <comment>WpDescCommonEX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Files(*.dps)</source>
+        <comment>WpDescDps</comment>
+        <translation type="unfinished">Файлы WPS Presentation(*.dps)</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Templates(*.dpt)</source>
+        <comment>WpDescDpt</comment>
+        <translation type="unfinished">Шаблоны WPS Presentation(*.dpt)</translation>
+    </message>
+    <message>
+        <source>WPS Presentation 2007/2010 Files(*.dpsx)</source>
+        <comment>WpDescDpsx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation 2007/2010 Templates(*.dptx)</source>
+        <comment>WpDescDptx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
+        <comment>WpDescMPP2003</comment>
+        <translation type="unfinished">Презентации Microsoft PowerPoint 97/2000/XP/2003(*.ppt; *.pps)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
+        <comment>WpDescPot</comment>
+        <translation type="unfinished">Шаблоны презентаций Microsoft PowerPoint 97/2000/XP/2003(*.pot)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)</source>
+        <comment>WpDescMPP2010</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentation(*.pptx)</source>
+        <comment>WpDescPptx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Macro Enabled Presentation(*.pptm)</source>
+        <comment>WpDescPptm</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Show(*.ppsx)</source>
+        <comment>WpDescPpsx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Macro Enabled Show(*.ppsm)</source>
+        <comment>WpDescPpsm</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentation Templates(*.potx; *.potm)</source>
+        <comment>WpDescMPP2010Temp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentation Template(*.potx)</source>
+        <comment>WpDescPotx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Macro Enabled Presentation Template(*.potm)</source>
+        <comment>WpDescPotm</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Format(*.ofd)|*.ofd</source>
+        <comment>WpDescOFD</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

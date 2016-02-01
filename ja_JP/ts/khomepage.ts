@@ -22,11 +22,11 @@
     </message>
     <message>
         <source>Create a blank document at startup</source>
-        <translation></translation>
+        <translation>起動時に空白ファイルを作成する</translation>
     </message>
     <message>
         <source>Current version:</source>
-        <translation>現在のバージョン</translation>
+        <translation>現在のバージョン:</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -35,7 +35,7 @@
     <message>
         <source>Online Templates</source>
         <comment>title</comment>
-        <translation>ホーム</translation>
+        <translation>オンラインテンプレート</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -61,7 +61,7 @@
     <message>
         <source>Online Templates Pro</source>
         <comment>title</comment>
-        <translation type="unfinished"></translation>
+        <translation>オンラインテンプレート</translation>
     </message>
 </context>
 </TS>

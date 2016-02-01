@@ -47,7 +47,7 @@
     <name>ProcessDialog</name>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation>Tradução para o documento do WPS Texto</translation>
+        <translation>Tradução para o documento do WPS Writer</translation>
     </message>
     <message>
         <source>Ready to convert</source>
@@ -70,7 +70,7 @@
     <name>changeAsWpsDialog</name>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation>Converter para documento do WPS Texto</translation>
+        <translation>Converter para documento do WPS Writer</translation>
     </message>
     <message>
         <source>Select Slide</source>
@@ -181,7 +181,7 @@
     </message>
     <message>
         <source>Converting to WPS Writer document encountered an error.</source>
-        <translation>Erro encontrado ao converter para documento do WPS Texto</translation>
+        <translation>Erro encontrado ao converter para documento do WPS Writer.</translation>
     </message>
 </context>
 <context>
@@ -204,7 +204,7 @@ Por exemplo, 1,3,5-9.</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation>WPS Apresentação</translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>The number must be 1 or 2.</source>
@@ -212,7 +212,7 @@ Por exemplo, 1,3,5-9.</translation>
     </message>
     <message>
         <source>WPS Writer Document(*.wps)</source>
-        <translation>Documento do WPS Texto(*.wps)</translation>
+        <translation>Documento do WPS Writer(*.wps)</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document(*.doc)</source>
@@ -233,6 +233,10 @@ Por exemplo, 1,3,5-9.</translation>
     <message>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
         <translation>O nome já existe. Você não pode salvar o arquivo com o mesmo nome que outro arquivo aberto. Escolha um nome diferente, ou feche o arquivo aberto antes de salvar.</translation>
+    </message>
+    <message>
+        <source>No Select Slide</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

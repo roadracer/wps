@@ -10,15 +10,15 @@
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished">WPS 文字</translation>
+        <translation>WPS 文字</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished">WPS 演示</translation>
+        <translation>WPS 演示</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished">WPS 表格</translation>
+        <translation>WPS 表格</translation>
     </message>
     <message>
         <source>Create shortcuts to desktop</source>
@@ -26,15 +26,15 @@
     </message>
     <message>
         <source>KLauncherWidget</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished">欢迎使用WPS Office</translation>
+        <translation>欢迎使用 WPS Office</translation>
     </message>
     <message>
         <source>Create desktop shortcuts</source>
-        <translation type="unfinished">创建桌面快捷方式</translation>
+        <translation>创建桌面快捷方式</translation>
     </message>
 </context>
 <context>

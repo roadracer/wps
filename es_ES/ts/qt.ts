@@ -26,7 +26,7 @@
     <message>
         <location line="+1"/>
         <source>Preferences...</source>
-        <translation>Preferencias…</translation>
+        <translation>Preferencias...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -44,17 +44,17 @@
     <message>
         <location filename="../src/3rdparty/phonon/phonon/audiooutput.cpp" line="+375"/>
         <source>&lt;html&gt;The audio playback device &lt;b&gt;%1&lt;/b&gt; does not work.&lt;br/&gt;Falling back to &lt;b&gt;%2&lt;/b&gt;.&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;El dispositivo de reproducción de audio&lt;b&gt;%1&lt;/b&gt; no funciona.&lt;br/&gt;Retrocediendo a  &lt;b&gt;%2&lt;/b&gt;.&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>&lt;html&gt;Switching to the audio playback device &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;which just became available and has higher preference.&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;Cambiando al dispositivo de reproducción de audio &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;que acaba de estar disponible y tiene una preferencia más alta.&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Revert back to device &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Revertir a dispositivo &apos;%1&apos; </translation>
     </message>
 </context>
 <context>
@@ -62,7 +62,7 @@
     <message>
         <location filename="../src/gui/widgets/qtabbar.cpp" line="+2251"/>
         <source>Close Tab</source>
-        <translation>Cerrar pestaña</translation>
+        <translation>Cerrar Pestaña </translation>
     </message>
 </context>
 <context>
@@ -86,17 +86,17 @@
     <message>
         <location line="+2"/>
         <source>Music</source>
-        <translation>Musica</translation>
+        <translation>Música</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Video</source>
-        <translation>Video</translation>
+        <translation>Vídeo</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Communication</source>
-        <translation type="unfinished"></translation>
+        <translation>Comunicación</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -106,7 +106,7 @@
     <message>
         <location line="+2"/>
         <source>Accessibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Accesibilidad</translation>
     </message>
 </context>
 <context>
@@ -115,13 +115,15 @@
         <location filename="../src/3rdparty/phonon/gstreamer/backend.cpp" line="+171"/>
         <source>Warning: You do not seem to have the package gstreamer0.10-plugins-good installed.
           Some video features have been disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencia: Parece que no ha instalado el paquete gstreamer0.10-plugins-good..
+          Algunas funciones de vídeo han sido deshabilitadas.          </translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Warning: You do not seem to have the base GStreamer plugins installed.
           All audio and video support has been disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencia: Parece que no ha instalado los complementos básicos de GStreamer.
+          Todos los soportes de audio y vídeo han sido deshabilitados          </translation>
     </message>
 </context>
 <context>
@@ -132,12 +134,14 @@
 
 Check your Gstreamer installation and make sure you 
 have libgstreamer-plugins-base installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede iniciar reproducción.
+
+Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstreamer-plugins-base. </translation>
     </message>
     <message>
         <location line="+113"/>
         <source>A required codec is missing. You need to install the following codec(s) to play this content: %0</source>
-        <translation type="unfinished"></translation>
+        <translation>Falta un códec necesario. Debe instalar los códecs siguientes para reproducir el contenido: %0   </translation>
     </message>
     <message>
         <location line="+676"/>
@@ -149,27 +153,27 @@ have libgstreamer-plugins-base installed.</source>
         <location line="+335"/>
         <location line="+24"/>
         <source>Could not open media source.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir origen multimedia.</translation>
     </message>
     <message>
         <location line="-403"/>
         <source>Invalid source type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de origen inválido.</translation>
     </message>
     <message>
         <location line="+377"/>
         <source>Could not locate media source.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede ubicar origen multimedia.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Could not open audio device. The device is already in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir dispositivo de audio. El dispositivo está ocupado. </translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Could not decode media source.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede descodificar origen multimedia. </translation>
     </message>
 </context>
 <context>
@@ -178,14 +182,14 @@ have libgstreamer-plugins-base installed.</source>
         <location filename="../src/3rdparty/phonon/phonon/volumeslider.cpp" line="+42"/>
         <location line="+18"/>
         <source>Volume: %1%</source>
-        <translation>Volumen: %1%</translation>
+        <translation>Volumen: %1% </translation>
     </message>
     <message>
         <location line="-15"/>
         <location line="+18"/>
         <location line="+54"/>
         <source>Use this slider to adjust the volume. The leftmost position is 0%, the rightmost is %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Use este control deslizante para ajustar el volumen. La posición más izquierda es 0%, la más derecha es %1%  </translation>
     </message>
 </context>
 <context>
@@ -367,17 +371,17 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <location line="+2"/>
         <source>Symlink to File</source>
-        <translation>Enlace simbólico a un fichero</translation>
+        <translation>Vínculo del sistema a archivo</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Symlink to Directory</source>
-        <translation>Enlace simbólico a un directorio</translation>
+        <translation>Vínculo del sistema a directorio</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Symlink to Special</source>
-        <translation>Enlace simbólico a un fichero especial</translation>
+        <translation>Vínculo del sistema a fichero especial</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -468,17 +472,17 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <location line="+31"/>
         <source>the file</source>
-        <translation>el fichero</translation>
+        <translation>Archivo</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>the directory</source>
-        <translation>el directorio</translation>
+        <translation>Directorio</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>the symlink</source>
-        <translation>el enlace simbólico</translation>
+        <translation>Vínculo del sistema</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -569,21 +573,21 @@ Compruebe la ruta y el nombre del fichero.</translation>
         <location line="+10"/>
         <source>Could not read directory
 %1</source>
-        <translation>No fue posible leer el directorio
+        <translation>No se puede leer el directorio
 %1</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Could not create directory
 %1</source>
-        <translation>No fue posible crear el directorio
+        <translation>No se puede crear el directorio
 %1</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Could not remove file or directory
 %1</source>
-        <translation>No fue posible eliminar el fichero o directorio
+        <translation>No se puede eliminar el archivo o directorio
 %1</translation>
     </message>
     <message>
@@ -592,7 +596,7 @@ Compruebe la ruta y el nombre del fichero.</translation>
 %1
 to
 %2</source>
-        <translation>No fue posible cambiar el nombre
+        <translation>No se puede cambiar el nombre
 %1
 a
 %2</translation>
@@ -601,14 +605,14 @@ a
         <location line="+25"/>
         <source>Could not open
 %1</source>
-        <translation>No fue posible abrir
+        <translation>No se puede abrir
 %1</translation>
     </message>
     <message>
         <location line="+68"/>
         <source>Could not write
 %1</source>
-        <translation>No fue posible escribir
+        <translation>No se puede escribir
 %1</translation>
     </message>
 </context>
@@ -893,7 +897,7 @@ a
         <location line="+787"/>
         <location line="+208"/>
         <source>Operation on socket is not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Operación socket no compatible </translation>
     </message>
     <message>
         <location line="+137"/>
@@ -1039,7 +1043,7 @@ a
     <message>
         <location line="+101"/>
         <source>Select Color</source>
-        <translation>Selecionar color</translation>
+        <translation>Seleccionar color</translation>
     </message>
     <message>
         <location line="+137"/>
@@ -1103,19 +1107,19 @@ a
         <location filename="../src/corelib/kernel/qsystemsemaphore_unix.cpp" line="+119"/>
         <source>%1: key is empty</source>
         <comment>QSystemSemaphore</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1: clave está vacía</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>%1: unable to make key</source>
         <comment>QSystemSemaphore</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1: No se puede crear clave </translation>
     </message>
     <message>
         <location line="+9"/>
         <source>%1: ftok failed</source>
         <comment>QSystemSemaphore</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1: error de ftok  </translation>
     </message>
 </context>
 <context>
@@ -1226,7 +1230,7 @@ a
     <message>
         <location line="-115"/>
         <source>Done</source>
-        <translation>Terminar</translation>
+        <translation>Terminado</translation>
     </message>
 </context>
 <context>
@@ -1381,7 +1385,7 @@ a
     <message>
         <location line="+6"/>
         <source>Date Modified</source>
-        <translation>Última modificación</translation>
+        <translation>Se modifica la fecha</translation>
     </message>
     <message>
         <location line="-8"/>
@@ -1455,32 +1459,32 @@ a
         <location filename="../src/corelib/io/qfile.cpp" line="+708"/>
         <location line="+141"/>
         <source>Destination file exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Ya existe el archivo de destino </translation>
     </message>
     <message>
         <location line="-108"/>
         <source>Cannot remove source file</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede quitar archivo de origen </translation>
     </message>
     <message>
         <location line="+120"/>
         <source>Cannot open %1 for input</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir %1 para editar</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Cannot open for output</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir para salida  </translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Failure to write block</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al escribir bloque</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Cannot create %1 for output</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede crear %1 para salida</translation>
     </message>
 </context>
 <context>
@@ -1519,7 +1523,7 @@ a
         <location line="+1515"/>
         <source>%1 already exists.
 Do you want to replace it?</source>
-        <translation>El fichero %1 ya existe.
+        <translation> %1 ya existe.
 ¿Desea reemplazarlo?</translation>
     </message>
     <message>
@@ -1625,7 +1629,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+407"/>
         <source>Recent Places</source>
-        <translation type="unfinished"></translation>
+        <translation>Sitios recientes</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfiledialog_win.cpp" line="+160"/>
@@ -1739,7 +1743,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+77"/>
         <source>Invalid filename</source>
-        <translation>Nombre de fichero no válido</translation>
+        <translation>Nombre de archivo no válido</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1771,7 +1775,7 @@ All other platforms</comment>
     <message>
         <location line="+9"/>
         <source>Date Modified</source>
-        <translation>Última modificación</translation>
+        <translation>Se modifica la fecha</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfilesystemmodel_p.h" line="+234"/>
@@ -1803,208 +1807,208 @@ All other platforms</comment>
         <location line="+12"/>
         <location line="+1149"/>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Negrita</translation>
     </message>
     <message>
         <location line="-1158"/>
         <location line="+1160"/>
         <source>Demi Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Seminegrita</translation>
     </message>
     <message>
         <location line="-1157"/>
         <location line="+18"/>
         <location line="+1135"/>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Negro</translation>
     </message>
     <message>
         <location line="-1145"/>
         <source>Demi</source>
-        <translation type="unfinished"></translation>
+        <translation>Semi</translation>
     </message>
     <message>
         <location line="+6"/>
         <location line="+1145"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Delgado</translation>
     </message>
     <message>
         <location line="-1004"/>
         <location line="+1007"/>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursiva</translation>
     </message>
     <message>
         <location line="-1004"/>
         <location line="+1006"/>
         <source>Oblique</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblicua</translation>
     </message>
     <message>
         <location line="+705"/>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>Cualquier</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Latin</source>
-        <translation>Latin</translation>
+        <translation>Latín</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Greek</source>
-        <translation type="unfinished"></translation>
+        <translation>Griego</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cyrillic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirílico</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Armenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Armenio</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Hebreo</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>Árabe</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Syriac</source>
-        <translation type="unfinished"></translation>
+        <translation>Sirio</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Thaana</source>
-        <translation type="unfinished"></translation>
+        <translation>Thaana</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Devanagari</source>
-        <translation type="unfinished"></translation>
+        <translation>Devanagari</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Bengali</source>
-        <translation type="unfinished"></translation>
+        <translation>Bengalí</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Gurmukhi</source>
-        <translation type="unfinished"></translation>
+        <translation>Gurmukhi</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Gujarati</source>
-        <translation type="unfinished"></translation>
+        <translation>Gujarati</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Oriya</source>
-        <translation type="unfinished"></translation>
+        <translation>Oriya</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamil</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Telugu</source>
-        <translation type="unfinished"></translation>
+        <translation>Telugu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Kannada</source>
-        <translation type="unfinished"></translation>
+        <translation>Kannada</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Malayalam</source>
-        <translation type="unfinished"></translation>
+        <translation>Malayalam</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sinhala</source>
-        <translation type="unfinished"></translation>
+        <translation>Cingalés</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Thai</source>
-        <translation type="unfinished"></translation>
+        <translation>Tailandés</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Lao</source>
-        <translation type="unfinished"></translation>
+        <translation>Lao</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Tibetan</source>
-        <translation type="unfinished"></translation>
+        <translation>Tibetano</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Myanmar</source>
-        <translation type="unfinished"></translation>
+        <translation>Myanmar</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Georgian</source>
-        <translation type="unfinished"></translation>
+        <translation>Georgiano</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Khmer</source>
-        <translation type="unfinished"></translation>
+        <translation>Khmer</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Chino simplificado</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Chino tradicional</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Japanese</source>
-        <translation type="unfinished"></translation>
+        <translation>Japonés</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>Coreano</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vietnamita</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Símbolo</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Ogham</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogham</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Runic</source>
-        <translation type="unfinished"></translation>
+        <translation>Rúnico</translation>
     </message>
 </context>
 <context>
@@ -2012,7 +2016,7 @@ All other platforms</comment>
     <message>
         <location filename="../src/gui/dialogs/qfontdialog.cpp" line="+772"/>
         <source>&amp;Font</source>
-        <translation>&amp;Tipo de letra</translation>
+        <translation>&amp;Fuente</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2079,7 +2083,7 @@ All other platforms</comment>
     <message>
         <location line="+4"/>
         <source>Connection timed out to host %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Se agotó el tiempo de espera de la conexión a host  %1</translation>
     </message>
     <message>
         <location line="+104"/>
@@ -2245,7 +2249,7 @@ All other platforms</comment>
     <message>
         <location filename="../src/network/access/qhttp.cpp" line="+365"/>
         <source>HTTPS connection requested but SSL support not compiled in</source>
-        <translation type="unfinished"></translation>
+        <translation>Conexión HTTPS requiere SSL pero esto no está compilado   </translation>
     </message>
     <message>
         <location line="+1209"/>
@@ -2282,12 +2286,12 @@ All other platforms</comment>
     <message>
         <location line="+179"/>
         <source>Unknown authentication method</source>
-        <translation type="unfinished"></translation>
+        <translation>Método de autenticación desconocido</translation>
     </message>
     <message>
         <location line="+183"/>
         <source>Error writing response to device</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al escribir respuesta a dispositivo </translation>
     </message>
     <message>
         <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="+876"/>
@@ -2368,32 +2372,32 @@ All other platforms</comment>
     <message>
         <location line="-138"/>
         <source>Connection refused (or timed out)</source>
-        <translation type="unfinished"></translation>
+        <translation>Conexión rechazada (o tiempo de espera agotado)</translation>
     </message>
     <message>
         <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="+6"/>
         <source>Proxy requires authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy requiere autenticación</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Host requires authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Host requiere autenticación</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Data corrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos dañados</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unknown protocol specified</source>
-        <translation type="unfinished"></translation>
+        <translation>Protocolo especificado desconocido</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>SSL handshake failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de protocolo de enlace SSL</translation>
     </message>
 </context>
 <context>
@@ -2401,47 +2405,47 @@ All other platforms</comment>
     <message>
         <location filename="../src/network/socket/qhttpsocketengine.cpp" line="-89"/>
         <source>Did not receive HTTP response from proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>No recibió la respuesta HTTP desde proxy</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Error parsing authentication request from proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al analizar solicitud de autenticación desde proxy </translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Authentication required</source>
-        <translation>Se precisa autenticación</translation>
+        <translation>Autenticación requerida</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Proxy denied connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy denegó conexión</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Error communicating with HTTP proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de comunicación con Proxy HTTP</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Proxy server not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor proxy no encontrado</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Proxy connection refused</source>
-        <translation type="unfinished"></translation>
+        <translation>Conexión proxy rechazada</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Proxy server connection timed out</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de espera de la conexión de servidor proxy agotado</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Proxy connection closed prematurely</source>
-        <translation type="unfinished"></translation>
+        <translation>Conexión proxy cerrada antes de tiempo</translation>
     </message>
 </context>
 <context>
@@ -2613,7 +2617,7 @@ All other platforms</comment>
     <message>
         <location filename="../src/gui/dialogs/qinputdialog.cpp" line="+223"/>
         <source>Enter a value:</source>
-        <translation>Meter valor:</translation>
+        <translation>Escribir un valor:</translation>
     </message>
 </context>
 <context>
@@ -2633,7 +2637,7 @@ All other platforms</comment>
     <message>
         <location filename="../src/corelib/plugin/qlibrary.cpp" line="+378"/>
         <source>Could not mmap &apos;%1&apos;: %2</source>
-        <translation>No fu posible establecer la proyección en memoria de «%1»: %2</translation>
+        <translation>No fue posible asignar &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -2680,19 +2684,19 @@ All other platforms</comment>
         <location filename="../src/corelib/plugin/qlibrary_unix.cpp" line="+209"/>
         <location filename="../src/corelib/plugin/qlibrary_win.cpp" line="+99"/>
         <source>Cannot load library %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede cargar la biblioteca  %1: %2 </translation>
     </message>
     <message>
         <location line="+16"/>
         <location filename="../src/corelib/plugin/qlibrary_win.cpp" line="+26"/>
         <source>Cannot unload library %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede descargar la biblioteca %1: %2</translation>
     </message>
     <message>
         <location line="+31"/>
         <location filename="../src/corelib/plugin/qlibrary_win.cpp" line="+15"/>
         <source>Cannot resolve symbol &quot;%1&quot; in %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede resolver símbolo &quot;%1&quot; en %2: %3 </translation>
     </message>
 </context>
 <context>
@@ -2739,23 +2743,23 @@ All other platforms</comment>
         <location filename="../src/network/socket/qlocalserver.cpp" line="+226"/>
         <location filename="../src/network/socket/qlocalserver_unix.cpp" line="+231"/>
         <source>%1: Name error</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Error de nombre</translation>
     </message>
     <message>
         <location filename="../src/network/socket/qlocalserver_unix.cpp" line="-8"/>
         <source>%1: Permission denied</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Permiso denegado</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>%1: Address in use</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Dirección ocupada </translation>
     </message>
     <message>
         <location line="+5"/>
         <location filename="../src/network/socket/qlocalserver_win.cpp" line="+158"/>
         <source>%1: Unknown error %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Error desconocido %2</translation>
     </message>
 </context>
 <context>
@@ -2764,13 +2768,13 @@ All other platforms</comment>
         <location filename="../src/network/socket/qlocalsocket_tcp.cpp" line="+132"/>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+134"/>
         <source>%1: Connection refused</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Conexión rechazada</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+3"/>
         <source>%1: Remote closed</source>
-        <translation type="unfinished"></translation>
+        <translation>%1:Remoto cerrado</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2778,55 +2782,55 @@ All other platforms</comment>
         <location filename="../src/network/socket/qlocalsocket_win.cpp" line="+80"/>
         <location line="+43"/>
         <source>%1: Invalid name</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Nombre inválido</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+3"/>
         <source>%1: Socket access error</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Error de acceso a socket </translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+3"/>
         <source>%1: Socket resource error</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Error de recurso de socket </translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+3"/>
         <source>%1: Socket operation timed out</source>
-        <translation type="unfinished"></translation>
+        <translation>%1:Operación de socket superó el tiempo de espera</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+3"/>
         <source>%1: Datagram too large</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Datagrama demasiado largo</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+3"/>
         <location filename="../src/network/socket/qlocalsocket_win.cpp" line="-48"/>
         <source>%1: Connection error</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Error de conexión </translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+3"/>
         <source>%1: The socket operation is not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: No se soporta operación de socket  </translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1: Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Error desconocido</translation>
     </message>
     <message>
         <location filename="../src/network/socket/qlocalsocket_unix.cpp" line="+4"/>
         <location filename="../src/network/socket/qlocalsocket_win.cpp" line="+10"/>
         <source>%1: Unknown error %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Error desconocido %2</translation>
     </message>
 </context>
 <context>
@@ -2834,7 +2838,7 @@ All other platforms</comment>
     <message>
         <location filename="../src/sql/drivers/mysql/qsql_mysql.cpp" line="+1231"/>
         <source>Unable to open database &apos;</source>
-        <translation>Imposible abrir la base de datos &apos;</translation>
+        <translation>Imposible abrir la base de datos</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2909,12 +2913,12 @@ All other platforms</comment>
     <message>
         <location line="-253"/>
         <source>Unable to execute next query</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede ejecutar consulta siguiente</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Unable to store next result</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede almacenar resultado siguiente </translation>
     </message>
 </context>
 <context>
@@ -2922,7 +2926,7 @@ All other platforms</comment>
     <message>
         <location filename="../src/gui/widgets/qmdiarea.cpp" line="+290"/>
         <source>(Untitled)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Sin título)</translation>
     </message>
 </context>
 <context>
@@ -2930,7 +2934,7 @@ All other platforms</comment>
     <message>
         <location filename="../src/gui/widgets/qmdisubwindow.cpp" line="+280"/>
         <source>%1 - [%2]</source>
-        <translation>%1 - [%2]</translation>
+        <translation>%2 - %1</translation>
     </message>
     <message>
         <location line="+72"/>
@@ -2985,7 +2989,7 @@ All other platforms</comment>
     <message>
         <location line="-787"/>
         <source>- [%1]</source>
-        <translation>- [%1]</translation>
+        <translation>%1 - </translation>
     </message>
     <message>
         <location line="+58"/>
@@ -2995,17 +2999,17 @@ All other platforms</comment>
     <message>
         <location line="+3"/>
         <source>Unshade</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin sombreado</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Shade</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombrear</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurar</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -3132,7 +3136,7 @@ All other platforms</comment>
     <message>
         <location line="+1570"/>
         <source>&lt;h3&gt;About Qt&lt;/h3&gt;&lt;p&gt;This program uses Qt version %1.&lt;/p&gt;&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants. Qt is also available for embedded devices as Qt for Embedded Linux and Qt for Windows CE.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 2.1 or GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt applications (proprietary or open source) provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU General Public License version 3.0 is appropriate for the development of Qt applications where you wish to use such applications in combination with software subject to the terms of the GNU GPL version 3.0 or where you are otherwise willing to comply with the terms of the GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) 2011 Nokia Corporation and/or its subsidiary(-ies).&lt;/p&gt;&lt;p&gt;Qt is a Nokia product. See &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt; for more information.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Acerca de Qt&lt;/h3&gt;&lt;p&gt;Este programa utiliza la versión %1 de Qt.&lt;/p&gt;&lt;p&gt;Qt es un kit de herramientas C++ para el desarrollo de aplicaciones entre plataformas.&lt;/p&gt;&lt;p&gt;Qt proporciona portabilidad de origen único entre MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux y todas las variantes de Unix comerciales más importantes. Qt también está disponible para dispositivos incrustados como Qt para Linux incrustado y Qt para Windows CE.&lt;/p&gt;&lt;p&gt;Qt está disponible con tres opciones de licencia diferentes diseñadas para adaptarse a las necesidades de nuestros diferentes usuarios.&lt;/p&gt;La licencia de Qt con nuestro acuerdo de licencia comercial es adecuada para el desarrollo de software propietario y comercial cuando no desea compartir ningún código fuente con terceros o no puede cumplir por cualquier otro motivo con los términos de la LGPL de GNU versión 2.1 o la GPL de GNU versión 3.0.&lt;/p&gt;&lt;p&gt;La licencia de Qt con la LGPL de GNU versión 2.1 es adecuada para el desarrollo de aplicaciones Qt (propietario o código abierto) siempre y cuando pueda cumplir con los términos y condiciones de LGPL de GNU versión 2.1.&lt;/p&gt;&lt;p&gt;La licencia de Qt con la Licencia Pública General de GNU versión 3.0 es adecuada para el desarrollo de aplicaciones Qt cuando desea utilizar dichas aplicaciones junto con software sujeto a los términos de la GPL de GNU versión 3.0 o cuando, de otro modo, está dispuesto a cumplir con los términos de la GPL de GNU versión 3.0.&lt;/p&gt;&lt;p&gt;Consulte &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt; para obtener información general sobre las licencias de Qt.&lt;/p&gt;&lt;p&gt;Copyright (C) 2011 Nokia Corporation y/o sus filiales.&lt;/p&gt;&lt;p&gt;Qt es un producto de Nokia. Consulte &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt; para obtener más información.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;This program uses Qt Open Source Edition version %1.&lt;/p&gt;&lt;p&gt;Qt Open Source Edition is intended for the development of Open Source applications. You need a commercial Qt license for development of proprietary (closed source) applications.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://qt.nokia.com/company/model/&quot;&gt;qt.nokia.com/company/model/&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;</source>
@@ -3290,7 +3294,7 @@ All other platforms</comment>
     <message>
         <location line="-3"/>
         <source>The proxy type is invalid for this operation</source>
-        <translation type="unfinished"></translation>
+        <translation>El tipo de proxy es inválido para esta operación</translation>
     </message>
 </context>
 <context>
@@ -3298,7 +3302,7 @@ All other platforms</comment>
     <message>
         <location filename="../src/network/access/qnetworkaccesscachebackend.cpp" line="+65"/>
         <source>Error opening %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al abrir %1</translation>
     </message>
 </context>
 <context>
@@ -3306,27 +3310,27 @@ All other platforms</comment>
     <message>
         <location filename="../src/network/access/qnetworkaccessfilebackend.cpp" line="+99"/>
         <source>Request for opening non-local file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitud para abrir archivo no local %1   </translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Error opening %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al abrir %1: %2 </translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Write error writing to %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de escritura escribiendo a %1: %2</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Cannot open %1: Path is a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir %1: Ruta es un directorio</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Read error reading from %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de lectura leyendo desde %1: %2  </translation>
     </message>
 </context>
 <context>
@@ -3334,27 +3338,27 @@ All other platforms</comment>
     <message>
         <location filename="../src/network/access/qnetworkaccessftpbackend.cpp" line="+165"/>
         <source>No suitable proxy found</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontró proxy adecuado </translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Cannot open %1: is a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir %1: es un directorio</translation>
     </message>
     <message>
         <location line="+130"/>
         <source>Logging in to %1 failed: authentication required</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al iniciar sesión en %1: autenticación requerida  </translation>
     </message>
     <message>
         <location line="+39"/>
         <source>Error while downloading %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al descargar %1: %2</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error while uploading %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al subir %1: %2</translation>
     </message>
 </context>
 <context>
@@ -3362,7 +3366,7 @@ All other platforms</comment>
     <message>
         <location filename="../src/network/access/qnetworkaccesshttpbackend.cpp" line="+597"/>
         <source>No suitable proxy found</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontró proxy adecuado </translation>
     </message>
 </context>
 <context>
@@ -3370,12 +3374,12 @@ All other platforms</comment>
     <message>
         <location line="+128"/>
         <source>Error downloading %1 - server replied: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al descargar %1 - servidor respondió: %2  </translation>
     </message>
     <message>
         <location filename="../src/network/access/qnetworkreplyimpl.cpp" line="+68"/>
         <source>Protocol &quot;%1&quot; is unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Protocolo &quot;%1&quot; es desconocido </translation>
     </message>
 </context>
 <context>
@@ -3384,7 +3388,7 @@ All other platforms</comment>
         <location line="+432"/>
         <location line="+22"/>
         <source>Operation canceled</source>
-        <translation type="unfinished"></translation>
+        <translation>Operación cancelada</translation>
     </message>
 </context>
 <context>
@@ -3403,17 +3407,17 @@ All other platforms</comment>
     <message>
         <location line="+215"/>
         <source>Unable to begin transaction</source>
-        <translation type="unfinished">No es posible iniciar la transacción</translation>
+        <translation>No se puede iniciar transacción</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Unable to commit transaction</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede confirmar transacción</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Unable to rollback transaction</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede revertir transacción</translation>
     </message>
 </context>
 <context>
@@ -3505,44 +3509,44 @@ All other platforms</comment>
         <location line="-332"/>
         <location line="+626"/>
         <source>Unable to execute statement</source>
-        <translation>No es posible ejecutar la instrucción</translation>
+        <translation>No se puede ejecutar la instrucción</translation>
     </message>
     <message>
         <location line="-555"/>
         <source>Unable to fetch next</source>
-        <translation>No es posible obtener el siguiente</translation>
+        <translation>No se puede obtener el siguiente</translation>
     </message>
     <message>
         <location line="+279"/>
         <source>Unable to prepare statement</source>
-        <translation>No es posible preparar la instrucción</translation>
+        <translation>No se puede preparar la instrucción</translation>
     </message>
     <message>
         <location line="+268"/>
         <source>Unable to bind variable</source>
-        <translation>No es posible ligar la variable</translation>
+        <translation>No se puede enlazar la variable</translation>
     </message>
     <message>
         <location filename="../src/sql/drivers/db2/qsql_db2.cpp" line="+194"/>
         <location filename="../src/sql/drivers/odbc/qsql_odbc.cpp" line="-475"/>
         <location line="+578"/>
         <source>Unable to fetch last</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede obtener el último</translation>
     </message>
     <message>
         <location filename="../src/sql/drivers/odbc/qsql_odbc.cpp" line="-672"/>
         <source>Unable to fetch</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede obtener</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Unable to fetch first</source>
-        <translation type="unfinished">Imposible recuperar el primero</translation>
+        <translation>No se puede obtener el primero</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Unable to fetch previous</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede obtener el anterior</translation>
     </message>
 </context>
 <context>
@@ -3555,43 +3559,43 @@ All other platforms</comment>
     <message>
         <location filename="../src/network/access/qnetworkaccessdatabackend.cpp" line="+74"/>
         <source>Operation not supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Operación no admitida en %1</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Invalid URI: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>URI no válido: %1</translation>
     </message>
     <message>
         <location filename="../src/network/access/qnetworkaccessdebugpipebackend.cpp" line="+175"/>
         <source>Write error writing to %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de escritura al escribir a %1: %2 </translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Read error reading from %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de lectura al leer desde %1: %2</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Socket error on %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de socket en %1: %2</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Remote host closed the connection prematurely on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Host remoto cerró la conexión antes de tiempo en %1</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Protocol error: packet of size 0 received</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de protocolo: paquete de tamaño 0 recibido </translation>
     </message>
     <message>
         <location filename="../src/network/kernel/qhostinfo.cpp" line="+177"/>
         <location line="+57"/>
         <source>No host name given</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin nombre de host asignado</translation>
     </message>
 </context>
 <context>
@@ -3612,32 +3616,32 @@ All other platforms</comment>
     <message>
         <location filename="../src/sql/drivers/psql/qsql_psql.cpp" line="+763"/>
         <source>Unable to connect</source>
-        <translation>No es posible establecer conexión</translation>
+        <translation>No se puede establecer conexión</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Could not begin transaction</source>
-        <translation>No fue posible iniciar la transacción</translation>
+        <translation>No se puede iniciar la transacción</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Could not commit transaction</source>
-        <translation>No fue posible enviar la transacción</translation>
+        <translation>No se puede enviar la transacción</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Could not rollback transaction</source>
-        <translation>No fue posible anular la transacción</translation>
+        <translation>No se puede anular la transacción</translation>
     </message>
     <message>
         <location line="+358"/>
         <source>Unable to subscribe</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede suscribir </translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Unable to unsubscribe</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede anular suscripción </translation>
     </message>
 </context>
 <context>
@@ -3650,7 +3654,7 @@ All other platforms</comment>
     <message>
         <location line="+374"/>
         <source>Unable to prepare statement</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede preparar instrucción</translation>
     </message>
 </context>
 <context>
@@ -3658,102 +3662,102 @@ All other platforms</comment>
     <message>
         <location filename="../src/gui/dialogs/qpagesetupdialog_unix.cpp" line="+304"/>
         <source>Centimeters (cm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Centímetros (cm)</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Millimeters (mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Milímetros (mm) </translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Inches (in)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulgadas (pulg)</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Points (pt)</source>
-        <translation>Puntos (pto)</translation>
+        <translation>Puntos (pt)</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qpagesetupwidget.ui"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location/>
         <source>Paper</source>
-        <translation type="unfinished"></translation>
+        <translation>Papel</translation>
     </message>
     <message>
         <location/>
         <source>Page size:</source>
-        <translation>Tamaño de página:</translation>
+        <translation>Tamaño de papel:</translation>
     </message>
     <message>
         <location/>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ancho:</translation>
     </message>
     <message>
         <location/>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alto:</translation>
     </message>
     <message>
         <location/>
         <source>Paper source:</source>
-        <translation>Fuente del papel:</translation>
+        <translation>Origen de papel:</translation>
     </message>
     <message>
         <location/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientación</translation>
     </message>
     <message>
         <location/>
         <source>Portrait</source>
-        <translation type="unfinished">Vertical</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <location/>
         <source>Landscape</source>
-        <translation type="unfinished">Apaisado</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location/>
         <source>Reverse landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal invertido</translation>
     </message>
     <message>
         <location/>
         <source>Reverse portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical invertido</translation>
     </message>
     <message>
         <location/>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Márgenes</translation>
     </message>
     <message>
         <location/>
         <source>top margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Margen superior</translation>
     </message>
     <message>
         <location/>
         <source>left margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Margen izquierdo</translation>
     </message>
     <message>
         <location/>
         <source>right margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Margen derecho</translation>
     </message>
     <message>
         <location/>
         <source>bottom margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Margen inferior</translation>
     </message>
 </context>
 <context>
@@ -3786,7 +3790,7 @@ All other platforms</comment>
         <location line="+223"/>
         <location line="+199"/>
         <source>unknown</source>
-        <translation>desconocido</translation>
+        <translation>Desconocido</translation>
     </message>
     <message>
         <source>Print in color if available</source>
@@ -4129,7 +4133,7 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="+1"/>
         <source>A5</source>
-        <translation>A5</translation>
+        <translation>A4</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4209,93 +4213,93 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="+1"/>
         <source>C5E</source>
-        <translation type="unfinished"></translation>
+        <translation>C5E</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>DLE</source>
-        <translation type="unfinished"></translation>
+        <translation>DLE</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Executive</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutivo</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Folio</source>
-        <translation type="unfinished"></translation>
+        <translation>Folio</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ledger</source>
-        <translation type="unfinished"></translation>
+        <translation>Libro mayor</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Legal</source>
-        <translation type="unfinished"></translation>
+        <translation>Legal</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Carta</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Tabloid</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabloide</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>US Common #10 Envelope</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobre US Common #10</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizar</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qprintdialog_unix.cpp" line="-522"/>
         <location line="+68"/>
         <source>&amp;Options &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opciones &gt;&gt;</translation>
     </message>
     <message>
         <location line="-63"/>
         <source>&amp;Print</source>
-        <translation>&amp;Imprimir</translation>
+        <translation>Im&amp;primir</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>&amp;Options &lt;&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opciones &lt;&lt;</translation>
     </message>
     <message>
         <location line="+253"/>
         <source>Print to File (PDF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir a archivo (PDF)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Print to File (Postscript)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir a archivo (Postscript)</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo local</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Write %1 file</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir archivo %1</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qprintdialog_win.cpp" line="+1"/>
         <source>The &apos;From&apos; value cannot be greater than the &apos;To&apos; value.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor &apos;Desde&apos; no puede ser mayor que el valor &apos;Hasta&apos;.</translation>
     </message>
 </context>
 <context>
@@ -4304,7 +4308,7 @@ Elija un nombre de fichero diferente.</translation>
         <location filename="../src/gui/dialogs/qabstractpagesetupdialog.cpp" line="+68"/>
         <location line="+12"/>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de página</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qprintpreviewdialog.cpp" line="+252"/>
@@ -4314,82 +4318,82 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="+79"/>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista previa de impresión</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Next page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página siguiente</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Previous page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página anterior</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>First page</source>
-        <translation type="unfinished"></translation>
+        <translation>Primera página</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Last page</source>
-        <translation type="unfinished"></translation>
+        <translation>Última página</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Fit width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar a ancho</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Fit page</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar a la página</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Zoom in</source>
-        <translation type="unfinished"></translation>
+        <translation>Acercar</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Zoom out</source>
-        <translation type="unfinished"></translation>
+        <translation>Alejar</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Portrait</source>
-        <translation type="unfinished">Vertical</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Landscape</source>
-        <translation type="unfinished">Apaisado</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Show single page</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar una página  </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show facing pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar páginas impares</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show overview of all pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar introducción de todas las páginas</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Page setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de impresión</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4399,12 +4403,12 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="+151"/>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar a PDF </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Export to PostScript</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar a PostScript </translation>
     </message>
 </context>
 <context>
@@ -4427,17 +4431,17 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location filename="../src/gui/dialogs/qprintpropertieswidget.ui"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location/>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página</translation>
     </message>
     <message>
         <location/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzada</translation>
     </message>
 </context>
 <context>
@@ -4445,7 +4449,7 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location filename="../src/gui/dialogs/qprintsettingsoutput.ui"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location/>
@@ -4455,17 +4459,17 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location/>
         <source>Print range</source>
-        <translation type="unfinished">Imprimir el intervalo</translation>
+        <translation>Área de impresión</translation>
     </message>
     <message>
         <location/>
         <source>Print all</source>
-        <translation type="unfinished">Imprimir todo</translation>
+        <translation>Imprimir todo</translation>
     </message>
     <message>
         <location/>
         <source>Pages from</source>
-        <translation type="unfinished">Páginas</translation>
+        <translation>Páginas desde</translation>
     </message>
     <message>
         <location/>
@@ -4475,27 +4479,27 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location/>
         <source>Selection</source>
-        <translation type="unfinished">Selección</translation>
+        <translation>Selección</translation>
     </message>
     <message>
         <location/>
         <source>Output Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de salida</translation>
     </message>
     <message>
         <location/>
         <source>Copies:</source>
-        <translation type="unfinished"></translation>
+        <translation>Copias:</translation>
     </message>
     <message>
         <location/>
         <source>Collate</source>
-        <translation type="unfinished">Recopilar</translation>
+        <translation>Recopilar</translation>
     </message>
     <message>
         <location/>
         <source>Reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>Reverso</translation>
     </message>
     <message>
         <location/>
@@ -4505,37 +4509,37 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location/>
         <source>Color Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de color</translation>
     </message>
     <message>
         <location/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color</translation>
     </message>
     <message>
         <location/>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de grises</translation>
     </message>
     <message>
         <location/>
         <source>Duplex Printing</source>
-        <translation type="unfinished"></translation>
+        <translation>Impresión a doble cara</translation>
     </message>
     <message>
         <location/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location/>
         <source>Long side</source>
-        <translation type="unfinished"></translation>
+        <translation>Lado largo</translation>
     </message>
     <message>
         <location/>
         <source>Short side</source>
-        <translation type="unfinished"></translation>
+        <translation>Lado corto</translation>
     </message>
 </context>
 <context>
@@ -4543,47 +4547,47 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location filename="../src/gui/dialogs/qprintwidget.ui"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location/>
         <source>Printer</source>
-        <translation type="unfinished">Impresora</translation>
+        <translation>Impresora</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nombre:</translation>
     </message>
     <message>
         <location/>
         <source>P&amp;roperties</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;ropiedades</translation>
     </message>
     <message>
         <location/>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubicación:</translation>
     </message>
     <message>
         <location/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista previa</translation>
     </message>
     <message>
         <location/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo:</translation>
     </message>
     <message>
         <location/>
         <source>Output &amp;file:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Archivo de resultados:</translation>
     </message>
     <message>
         <location/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -4592,18 +4596,18 @@ Elija un nombre de fichero diferente.</translation>
         <location filename="../src/corelib/io/qprocess_unix.cpp" line="+475"/>
         <location filename="../src/corelib/io/qprocess_win.cpp" line="+147"/>
         <source>Could not open input redirection for reading</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir la redirección de entradas para lectura </translation>
     </message>
     <message>
         <location line="+12"/>
         <location filename="../src/corelib/io/qprocess_win.cpp" line="+36"/>
         <source>Could not open output redirection for writing</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir la redirección de resultados para escritura </translation>
     </message>
     <message>
         <location line="+235"/>
         <source>Resource error (fork failure): %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de recurso (Error de fork): %1 </translation>
     </message>
     <message>
         <location line="+259"/>
@@ -4616,7 +4620,7 @@ Elija un nombre de fichero diferente.</translation>
         <location line="+42"/>
         <location line="+54"/>
         <source>Process operation timed out</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de espera de operación de proceso agotado</translation>
     </message>
     <message>
         <location filename="../src/corelib/io/qprocess.cpp" line="+533"/>
@@ -4624,29 +4628,29 @@ Elija un nombre de fichero diferente.</translation>
         <location filename="../src/corelib/io/qprocess_win.cpp" line="-211"/>
         <location line="+50"/>
         <source>Error reading from process</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al leer de proceso</translation>
     </message>
     <message>
         <location line="+47"/>
         <location line="+779"/>
         <location filename="../src/corelib/io/qprocess_win.cpp" line="+140"/>
         <source>Error writing to process</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al escribir a proceso</translation>
     </message>
     <message>
         <location line="-709"/>
         <source>Process crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>Proceso interrumpido </translation>
     </message>
     <message>
         <location line="+912"/>
         <source>No program defined</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay programa definido</translation>
     </message>
     <message>
         <location filename="../src/corelib/io/qprocess_win.cpp" line="-341"/>
         <source>Process failed to start</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al iniciar el proceso</translation>
     </message>
 </context>
 <context>
@@ -4678,47 +4682,47 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location filename="../src/corelib/tools/qregexp.cpp" line="+64"/>
         <source>no error occurred</source>
-        <translation>no se ha producido ningún error</translation>
+        <translation>No se ha producido ningún error</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>disabled feature used</source>
-        <translation>se ha usado una característica no habilitada</translation>
+        <translation>Se ha usado una característica no habilitada</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>bad char class syntax</source>
-        <translation>sintaxis no válida para clase de caracteres</translation>
+        <translation>Sintaxis de clase de caracteres no válida</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>bad lookahead syntax</source>
-        <translation>sintaxis no válida para lookahead</translation>
+        <translation>Sintaxis lookahead no válida</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>bad repetition syntax</source>
-        <translation>sintaxis no válida para repetición</translation>
+        <translation>Sintaxis no válida para repetición</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>invalid octal value</source>
-        <translation>valor octal no válido</translation>
+        <translation>Valor octal no válido</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>missing left delim</source>
-        <translation>falta el delimitador izquierdo</translation>
+        <translation>Falta el delimitador izquierdo</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>unexpected end</source>
-        <translation>fin inesperado</translation>
+        <translation>Fin inesperado</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>met internal limit</source>
-        <translation>se alcanzó el límite interno</translation>
+        <translation>Se alcanzó el límite interno</translation>
     </message>
 </context>
 <context>
@@ -4772,12 +4776,12 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="+20"/>
         <source>Unable to begin transaction</source>
-        <translation>No es posible iniciar la transacción</translation>
+        <translation>No se puede iniciar la transacción</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Unable to commit transaction</source>
-        <translation>No es posible enviar la transacción</translation>
+        <translation>No se puede enviar la transacción</translation>
     </message>
     <message>
         <source>Unable to roll back transaction</source>
@@ -4786,7 +4790,7 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="+15"/>
         <source>Unable to rollback transaction</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede revertir transacción </translation>
     </message>
 </context>
 <context>
@@ -4821,7 +4825,7 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="-208"/>
         <source>No query</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay consulta</translation>
     </message>
 </context>
 <context>
@@ -4914,99 +4918,99 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location filename="../src/corelib/kernel/qsharedmemory.cpp" line="+207"/>
         <source>%1: unable to set key on lock</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: no se puede establecer clave de bloqueo </translation>
     </message>
     <message>
         <location line="+81"/>
         <source>%1: create size is less then 0</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: tamaño creado es menor que 0</translation>
     </message>
     <message>
         <location line="+168"/>
         <location filename="../src/corelib/kernel/qsharedmemory_p.h" line="+148"/>
         <source>%1: unable to lock</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: no se puede bloquear</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>%1: unable to unlock</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: no se puede desbloquear</translation>
     </message>
     <message>
         <location filename="../src/corelib/kernel/qsharedmemory_unix.cpp" line="+78"/>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="+87"/>
         <source>%1: permission denied</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: permiso denegado</translation>
     </message>
     <message>
         <location line="+4"/>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="-22"/>
         <source>%1: already exists</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: ya existe</translation>
     </message>
     <message>
         <location line="+4"/>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="+9"/>
         <source>%1: doesn&apos;t exists</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: no existe</translation>
     </message>
     <message>
         <location line="+6"/>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="+9"/>
         <source>%1: out of resources</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: recursos agotados</translation>
     </message>
     <message>
         <location line="+4"/>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="+7"/>
         <source>%1: unknown error %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: error desconocido %2</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>%1: key is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: clave está vacía</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>%1: unix key file doesn&apos;t exists</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: archivo de clave Unix no existe</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>%1: ftok failed</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: error ftok</translation>
     </message>
     <message>
         <location line="+51"/>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="+15"/>
         <source>%1: unable to make key</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: no se puede crear clave </translation>
     </message>
     <message>
         <location line="+20"/>
         <source>%1: system-imposed size restrictions</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: restricciones de sistema en el tamaño </translation>
     </message>
     <message>
         <location line="+53"/>
         <source>%1: not attached</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: no adjunto</translation>
     </message>
     <message>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="-27"/>
         <source>%1: invalid size</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: tamaño inválido</translation>
     </message>
     <message>
         <location line="+68"/>
         <source>%1: key error</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: error de clave</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>%1: size query failed</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: error en la consulta de tamaño  </translation>
     </message>
 </context>
 <context>
@@ -5064,7 +5068,7 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="+1"/>
         <source>Print</source>
-        <translation>Impr Pant</translation>
+        <translation>Imprimir</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5509,67 +5513,67 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location filename="../src/network/socket/qsocks5socketengine.cpp" line="-67"/>
         <source>Connection to proxy refused</source>
-        <translation type="unfinished"></translation>
+        <translation>Conexión a proxy rechazada</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Connection to proxy closed prematurely</source>
-        <translation type="unfinished"></translation>
+        <translation>Conexión a proxy cerrada antes de tiempo</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Proxy host not found</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontró host proxy</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Connection to proxy timed out</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de espera de la conexión a proxy agotado</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de autenticación proxy</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Proxy authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de autenticación proxy: %1</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>SOCKS version 5 protocol error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de protocolo de versión 5 de SOCKS   </translation>
     </message>
     <message>
         <location line="+19"/>
         <source>General SOCKSv5 server failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de servidor general SOCKSv5 </translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Connection not allowed by SOCKSv5 server</source>
-        <translation type="unfinished"></translation>
+        <translation>Conexión no permitida por servidor SOCKSv5 </translation>
     </message>
     <message>
         <location line="+16"/>
         <source>TTL expired</source>
-        <translation type="unfinished"></translation>
+        <translation>TTL expiró</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>SOCKSv5 command not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Comando SOCKSv5 no permitido</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Address type not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de dirección no admitido</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unknown SOCKSv5 proxy error code 0x%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy  SOCKSv5 desconocido, código de error 0x%1  </translation>
     </message>
     <message>
         <source>Socks5 timeout error connecting to socks server</source>
@@ -5578,7 +5582,7 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="+685"/>
         <source>Network operation timed out</source>
-        <translation type="unfinished">La operación de red ha expirado</translation>
+        <translation>Tiempo de espera de operación de red agotado</translation>
     </message>
 </context>
 <context>
@@ -5666,7 +5670,7 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="+96"/>
         <source>Error during SSL handshake: %1</source>
-        <translation>Error durante el saludo SSL: %1</translation>
+        <translation>Error durante protocolo de enlace SSL: %1</translation>
     </message>
     <message>
         <location line="-524"/>
@@ -5710,7 +5714,7 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="+7"/>
         <source>Private key does not certificate public key, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Clave privada no puede comprobar clave pública, %1 </translation>
     </message>
 </context>
 <context>
@@ -5719,29 +5723,29 @@ Elija un nombre de fichero diferente.</translation>
         <location filename="../src/corelib/kernel/qsystemsemaphore_unix.cpp" line="-41"/>
         <location filename="../src/corelib/kernel/qsystemsemaphore_win.cpp" line="+66"/>
         <source>%1: out of resources</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: recursos agotados</translation>
     </message>
     <message>
         <location line="-13"/>
         <location filename="../src/corelib/kernel/qsystemsemaphore_win.cpp" line="+4"/>
         <source>%1: permission denied</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: permiso denegado</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1: already exists</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: ya existe</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1: does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: no existe</translation>
     </message>
     <message>
         <location line="+9"/>
         <location filename="../src/corelib/kernel/qsystemsemaphore_win.cpp" line="+3"/>
         <source>%1: unknown error %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: error desconocido %2</translation>
     </message>
 </context>
 <context>
@@ -5779,7 +5783,7 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location filename="../src/network/socket/qtcpserver.cpp" line="+282"/>
         <source>Operation on socket is not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Operación socket no compatible </translation>
     </message>
 </context>
 <context>
@@ -5945,32 +5949,32 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location filename="../src/3rdparty/webkit/WebKit/qt/WebCoreSupport/FrameLoaderClientQt.cpp" line="+692"/>
         <source>Request cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitud cancelada</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Request blocked</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitud bloqueada</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Cannot show URL</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede mostrar URL </translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Frame load interruped by policy change</source>
-        <translation type="unfinished"></translation>
+        <translation>Carga de marco interrumpido por cambio de directiva </translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Cannot show mimetype</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede mostrar tipo de mime </translation>
     </message>
     <message>
         <location line="+6"/>
         <source>File does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>No existe el archivo</translation>
     </message>
 </context>
 <context>
@@ -5978,115 +5982,115 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location filename="../src/3rdparty/webkit/WebCore/platform/network/qt/QNetworkReplyHandler.cpp" line="+382"/>
         <source>Bad HTTP request</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitud HTTP incorrecta</translation>
     </message>
     <message>
         <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="+42"/>
         <source>Submit</source>
         <comment>default label for Submit buttons in forms on web pages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Submit</source>
         <comment>Submit (input element) alt text for &lt;input&gt; elements with no alt, title, or value</comment>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Reset</source>
         <comment>default label for Reset buttons in forms on web pages</comment>
-        <translation type="unfinished">Reinicializar</translation>
+        <translation>Restablecer</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>This is a searchable index. Enter search keywords: </source>
         <comment>text that appears at the start of nearly-obsolete web pages in the form of a &apos;searchable index&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Este es un índice que permite búsquedas. Escriba las palabras clave para buscar:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Choose File</source>
         <comment>title for file button used in HTML forms</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elegir archivo</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>No file selected</source>
         <comment>text to display in file button used in HTML forms when no file is selected</comment>
-        <translation type="unfinished"></translation>
+        <translation>No hay ningún archivo seleccionado</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Open in New Window</source>
         <comment>Open in New Window context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abrir en ventana nueva</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Save Link...</source>
         <comment>Download Linked File context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Guardar vínculo...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Copy Link</source>
         <comment>Copy Link context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Copiar vínculo</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Open Image</source>
         <comment>Open Image in New Window context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abrir imagen</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Save Image</source>
         <comment>Download Image context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Guardar imagen</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Copy Image</source>
         <comment>Copy Link context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Copiar imagen</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Open Frame</source>
         <comment>Open Frame in New Window context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abrir marco</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Copy</source>
         <comment>Copy context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Go Back</source>
         <comment>Back context menu item</comment>
-        <translation type="unfinished">Precedente</translation>
+        <translation>Hacia atrás</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Go Forward</source>
         <comment>Forward context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hacia delante</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Stop</source>
         <comment>Stop context menu item</comment>
-        <translation type="unfinished">Detener</translation>
+        <translation>Detener</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Reload</source>
         <comment>Reload context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Recargar</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -6098,85 +6102,85 @@ Elija un nombre de fichero diferente.</translation>
         <location line="+5"/>
         <source>Paste</source>
         <comment>Paste context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pegar</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>No Guesses Found</source>
         <comment>No Guesses Found context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>No encontraron intentos</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Ignore</source>
         <comment>Ignore Spelling context menu item</comment>
-        <translation type="unfinished">Ignorar</translation>
+        <translation>Omitir</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Add To Dictionary</source>
         <comment>Learn Spelling context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Agregar al diccionario</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Search The Web</source>
         <comment>Search The Web context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Buscar en Web</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Look Up In Dictionary</source>
         <comment>Look Up in Dictionary context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Buscar en diccionario </translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Open Link</source>
         <comment>Open Link context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abrir vínculo</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Ignore</source>
         <comment>Ignore Grammar context menu item</comment>
-        <translation type="unfinished">Ignorar</translation>
+        <translation>Omitir</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Spelling</source>
         <comment>Spelling and Grammar context sub-menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ortografía</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Show Spelling and Grammar</source>
         <comment>menu item title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar ortografía y gramática</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Hide Spelling and Grammar</source>
         <comment>menu item title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar ortografía y gramática </translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Check Spelling</source>
         <comment>Check spelling context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Revisar la ortografía</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Check Spelling While Typing</source>
         <comment>Check spelling while typing context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Revisar la ortografía al escribir</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Check Grammar With Spelling</source>
         <comment>Check grammar with spelling context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Revisar gramática con ortografía</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -6188,101 +6192,101 @@ Elija un nombre de fichero diferente.</translation>
         <location line="+5"/>
         <source>Bold</source>
         <comment>Bold context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Negrita</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Italic</source>
         <comment>Italic context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cursiva</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Underline</source>
         <comment>Underline context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Subrayado</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Outline</source>
         <comment>Outline context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Contorno</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Direction</source>
         <comment>Writing direction context sub-menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dirección</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Text Direction</source>
         <comment>Text direction context sub-menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dirección del texto</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Default</source>
         <comment>Default writing direction context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Predeterminado</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>LTR</source>
         <comment>Left to Right context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>IAD</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>RTL</source>
         <comment>Right to Left context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>DAI</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Inspect</source>
         <comment>Inspect Element context menu item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inspeccionar</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>No recent searches</source>
         <comment>Label for only item in menu that appears when clicking on the search field image, when no searches have been performed</comment>
-        <translation type="unfinished"></translation>
+        <translation>No hay búsquedas recientes</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Recent searches</source>
         <comment>label for first item in the menu that appears when clicking on the search field image, used as embedded menu title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Búsquedas recientes</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Clear recent searches</source>
         <comment>menu item in Recent Searches menu that empties menu&apos;s contents</comment>
-        <translation type="unfinished"></translation>
+        <translation>Borrar búsquedas recientes</translation>
     </message>
     <message>
         <location line="+75"/>
         <source>Unknown</source>
         <comment>Unknown filesize FTP directory listing item</comment>
-        <translation type="unfinished">Desconocido</translation>
+        <translation>Desconocido</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 (%2x%3 pixels)</source>
         <comment>Title string for images</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2x%3 píxeles)</translation>
     </message>
     <message>
         <location filename="../src/3rdparty/webkit/WebKit/qt/WebCoreSupport/InspectorClientQt.cpp" line="+185"/>
         <source>Web Inspector - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Inspector de Web - %2</translation>
     </message>
     <message>
         <location filename="../src/3rdparty/webkit/WebCore/platform/qt/ScrollbarQt.cpp" line="+58"/>
         <source>Scroll here</source>
-        <translation type="unfinished">Desplazar hasta aquí</translation>
+        <translation>Desplazar hasta aquí</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -6292,225 +6296,226 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="+0"/>
         <source>Top</source>
-        <translation>Parte superior</translation>
+        <translation>Superior</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Right edge</source>
-        <translation type="unfinished">Borde derecho</translation>
+        <translation>Borde derecho</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Bottom</source>
-        <translation type="unfinished">Parte inferior</translation>
+        <translation>Inferior</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Page left</source>
-        <translation type="unfinished">Una página a la izquierda</translation>
+        <translation>Una página a la izquierda</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Page up</source>
-        <translation type="unfinished">Una página hacia arriba</translation>
+        <translation>Una página hacia arriba</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Page right</source>
-        <translation type="unfinished">Una página a la derecha</translation>
+        <translation>Una página a la derecha</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Page down</source>
-        <translation type="unfinished">Una página hacia abajo</translation>
+        <translation>Una página hacia abajo</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Scroll left</source>
-        <translation type="unfinished">Desplazar hacia la izquierda</translation>
+        <translation>Desplazar a la izquierda</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Scroll up</source>
-        <translation type="unfinished">Desplazar hacia arriba</translation>
+        <translation>Desplazar arriba</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Scroll right</source>
-        <translation type="unfinished">Desplazar hacia la derecha</translation>
+        <translation>Desplazar a la derecha</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Scroll down</source>
-        <translation type="unfinished">Desplazar hacia abajo</translation>
+        <translation>Desplazar abajo</translation>
     </message>
     <message numerus="yes">
         <location filename="../src/3rdparty/webkit/WebCore/platform/qt/FileChooserQt.cpp" line="+45"/>
         <source>%n file(s)</source>
         <comment>number of chosen file</comment>
-        <translation type="unfinished">
+        <translation>
+            <numerusform>%n archivo(s)</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <location filename="../src/3rdparty/webkit/WebKit/qt/Api/qwebpage.cpp" line="+1322"/>
         <source>JavaScript Alert - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Alerta de JavaScript - %1 </translation>
     </message>
     <message>
         <location line="+15"/>
         <source>JavaScript Confirm - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmación de JavaScript - %1 </translation>
     </message>
     <message>
         <location line="+17"/>
         <source>JavaScript Prompt - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso de JavaScript - %1  </translation>
     </message>
     <message>
         <location line="+333"/>
         <source>Move the cursor to the next character</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover el cursor al siguiente carácter</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Move the cursor to the previous character</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover el cursor al carácter anterior</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Move the cursor to the next word</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover el cursor a la siguiente palabra</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Move the cursor to the previous word</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover el cursor a la palabra anterior</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Move the cursor to the next line</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover el cursor a la siguiente línea</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Move the cursor to the previous line</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover el cursor a la línea anterior</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Move the cursor to the start of the line</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover el cursor al principio de la línea</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Move the cursor to the end of the line</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover el cursor al final de la línea</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Move the cursor to the start of the block</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover el cursor al principio del bloque</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Move the cursor to the end of the block</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover el cursor al final del bloque</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Move the cursor to the start of the document</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover el cursor al principio del documento</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Move the cursor to the end of the document</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover el cursor al final del documento</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar todo</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Select to the next character</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar a siguiente carácter </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Select to the previous character</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar a carácter anterior </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Select to the next word</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar a siguiente palabra </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Select to the previous word</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar a palabra anterior </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Select to the next line</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar a siguiente línea </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Select to the previous line</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar a línea anterior </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Select to the start of the line</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar al inicio de línea </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Select to the end of the line</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar al final de línea</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Select to the start of the block</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar al inicio del bloque </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Select to the end of the block</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar al final del bloque </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Select to the start of the document</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar al inicio del documento  </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Select to the end of the document</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar al final del documento </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Delete to the start of the word</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar al inicio de la palabra </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Delete to the end of the word</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar al final de la palabra </translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Insert a new paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar un nuevo párrafo</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Insert a new line</source>
-        <translation type="unfinished"></translation>
+        <translation>Insertar una nueva línea</translation>
     </message>
 </context>
 <context>
@@ -6583,12 +6588,12 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="-8"/>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Siguiente</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished">Siguie&amp;nte &gt;</translation>
+        <translation>Siguie&amp;nte &gt;</translation>
     </message>
 </context>
 <context>
@@ -6666,117 +6671,117 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location filename="../src/xml/sax/qxml.cpp" line="+58"/>
         <source>no error occurred</source>
-        <translation>no se ha producido ningún error</translation>
+        <translation>No se ha producido ningún error</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>error triggered by consumer</source>
-        <translation>error debido al consumidor</translation>
+        <translation>Error debido al consumidor</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>unexpected end of file</source>
-        <translation>fin de fichero inesperado</translation>
+        <translation>Fin de archivo inesperado</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>more than one document type definition</source>
-        <translation>más de una definición de tipo de documento</translation>
+        <translation>Más de una definición de tipo de documento</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>error occurred while parsing element</source>
-        <translation>se ha producido un error durante el análisis de un elemento</translation>
+        <translation>Se ha producido un error durante el análisis de un elemento</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>tag mismatch</source>
-        <translation>etiqueta desequilibrada</translation>
+        <translation>Etiqueta desequilibrada</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>error occurred while parsing content</source>
-        <translation>se ha producido un error durante el análisis del contenido</translation>
+        <translation>Se ha producido un error durante el análisis del contenido</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>unexpected character</source>
-        <translation>carácter inesperado</translation>
+        <translation>Carácter inesperado</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>invalid name for processing instruction</source>
-        <translation>nombre de instrucción de tratamiento no válido</translation>
+        <translation>Nombre de instrucción de tratamiento no válido</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>version expected while reading the XML declaration</source>
-        <translation>se esperaba la versión al leer la declaración XML</translation>
+        <translation>Se esperaba la versión al leer la declaración XML</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>wrong value for standalone declaration</source>
-        <translation>valor erróneo para la declaración independiente</translation>
+        <translation>Valor erróneo para la declaración independiente</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>encoding declaration or standalone declaration expected while reading the XML declaration</source>
-        <translation>se esperaba una declaración de codificación o declaración autónoma al leer la declaración XML</translation>
+        <translation>Se esperaba una declaración de codificación o declaración autónoma al leer la declaración XML</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>standalone declaration expected while reading the XML declaration</source>
-        <translation>se esperaba una declaración independiente al leer la declaración XML</translation>
+        <translation>Se esperaba una declaración independiente al leer la declaración XML</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>error occurred while parsing document type definition</source>
-        <translation>se ha producido un error durante el análisis de la definición de tipo de documento</translation>
+        <translation>Se ha producido un error durante el análisis de la definición de tipo de documento</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>letter is expected</source>
-        <translation>se esperaba una letra</translation>
+        <translation>Se esperaba una letra</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>error occurred while parsing comment</source>
-        <translation>se ha producido un error durante el análisis de un comentario</translation>
+        <translation>Se ha producido un error durante el análisis de un comentario</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>error occurred while parsing reference</source>
-        <translation>se ha producido un error durante el análisis de una referencia</translation>
+        <translation>Se ha producido un error durante el análisis de una referencia</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>internal general entity reference not allowed in DTD</source>
-        <translation>no se permiten referencias a entidades internas generales en la DTD</translation>
+        <translation>No se permiten referencias a entidades internas generales en la DTD</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>external parsed general entity reference not allowed in attribute value</source>
-        <translation>no se permiten referencias a entidades externas generales ya analizadas en el valor de un atributo</translation>
+        <translation>No se permiten referencias a entidades externas generales ya analizadas en el valor de un atributo</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>external parsed general entity reference not allowed in DTD</source>
-        <translation>no se permiten referencias a entidades externas generales ya analizadas en la DTD</translation>
+        <translation>No se permiten referencias a entidades externas generales ya analizadas en la DTD</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>unparsed entity reference in wrong context</source>
-        <translation>referencia a entidad no analizada en un contexto no válido</translation>
+        <translation>Referencia a entidad no analizada en un contexto no válido</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>recursive entities</source>
-        <translation>entidades recursivas</translation>
+        <translation>Entidades recursivas</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>error in the text declaration of an external entity</source>
-        <translation>error en la declaración de texto de una entidad externa</translation>
+        <translation>Error en la declaración de texto de una entidad externa</translation>
     </message>
 </context>
 <context>
@@ -6894,7 +6899,7 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location line="+222"/>
         <source>XML declaration not at start of document.</source>
-        <translation>La declaración XML no está al principio del documento.</translation>
+        <translation>La declaración XML no está al inicio del documento.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -6939,7 +6944,7 @@ Elija un nombre de fichero diferente.</translation>
         <location line="+61"/>
         <location line="+40"/>
         <source>Entity &apos;%1&apos; not declared.</source>
-        <translation>Entidad «%1» no declarada.</translation>
+        <translation>Entidad &quot;%1&quot; no declarada.</translation>
     </message>
     <message>
         <location line="-26"/>
@@ -6973,1038 +6978,1040 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location filename="../src/xmlpatterns/acceltree/qacceltreebuilder.cpp" line="+205"/>
         <source>An %1-attribute with value %2 has already been declared.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha declarado el atributo %1 con valor %2. </translation>
     </message>
     <message>
         <location line="+13"/>
         <source>An %1-attribute must have a valid %2 as value, which %3 isn&apos;t.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un atributo %1 debe tener un %2 válido como valor, y no es %3.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/api/qiodevicedelegate.cpp" line="+84"/>
         <source>Network timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se agotó el tiempo de espera de red.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/api/qxmlserializer.cpp" line="+320"/>
         <source>Element %1 can&apos;t be serialized because it appears outside the document element.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento %1 no puede ser serializado porque aparece fuera del elemento de documento.  </translation>
     </message>
     <message>
         <location line="+60"/>
         <source>Attribute %1 can&apos;t be serialized because it appears at the top level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento %1 no puede ser serializado porque aparece en el nivel superior.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/data/qabstractdatetime.cpp" line="+80"/>
         <source>Year %1 is invalid because it begins with %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Año %1 es inválido porque empieza por %2. </translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Day %1 is outside the range %2..%3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Día %1 está fuera del rango %2...%3.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Month %1 is outside the range %2..%3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mes %1 está fuera del rango %2...%3.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Overflow: Can&apos;t represent date %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desbordamiento: No se puede representar dato %1.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Day %1 is invalid for month %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Día %1 es inválido para mes %2.</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Time 24:%1:%2.%3 is invalid. Hour is 24, but minutes, seconds, and milliseconds are not all 0; </source>
-        <translation type="unfinished"></translation>
+        <translation>Hora 24:%1:%2.%3 es inválida. La hora es 24, pero minutos, segundos, y milisegundos no todos son 0;</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Time %1:%2:%3.%4 is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora %1:%2:%3.%4 es inválida. </translation>
     </message>
     <message>
         <location line="+115"/>
         <source>Overflow: Date can&apos;t be represented.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desbordamiento: No se puede representar dato.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/data/qabstractduration.cpp" line="+99"/>
         <location line="+15"/>
         <source>At least one component must be present.</source>
-        <translation type="unfinished"></translation>
+        <translation>Debe haber al menos un componente.</translation>
     </message>
     <message>
         <location line="-7"/>
         <source>At least one time component must appear after the %1-delimiter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al menos debe haber un componente de tiempo después del delimitador %1.  </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/data/qabstractfloatmathematician.cpp" line="+64"/>
         <source>No operand in an integer division, %1, can be %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay operando en una división de enteros, %1, puede ser %2. </translation>
     </message>
     <message>
         <location line="+7"/>
         <source>The first operand in an integer division, %1, cannot be infinity (%2).</source>
-        <translation type="unfinished"></translation>
+        <translation>El primer operando en una división de entero, %1, no puede ser infinito (%2). </translation>
     </message>
     <message>
         <location line="+6"/>
         <source>The second operand in a division, %1, cannot be zero (%2).</source>
-        <translation type="unfinished"></translation>
+        <translation>El segundo operando en una división, %1, no puede ser cero (%2). </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/data/qanyuri_p.h" line="+132"/>
         <source>%1 is not a valid value of type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 no es un valor válido para el tipo %2.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/data/qatomiccasters_p.h" line="+223"/>
         <source>When casting to %1 from %2, the source value cannot be %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando convierte a %1 desde %2, el valor de origen no puede ser %3.  </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/data/qatomicmathematicians.cpp" line="+65"/>
         <source>Integer division (%1) by zero (%2) is undefined.</source>
-        <translation type="unfinished"></translation>
+        <translation>División de enteros (%1) por cero(%2) no está definida. </translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Division (%1) by zero (%2) is undefined.</source>
-        <translation type="unfinished"></translation>
+        <translation>División (%1) por cero (%2) no está definida.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Modulus division (%1) by zero (%2) is undefined.</source>
-        <translation type="unfinished"></translation>
+        <translation>División de módulo (%1) por cero (%2) no está definida.</translation>
     </message>
     <message>
         <location line="+122"/>
         <location line="+32"/>
         <source>Dividing a value of type %1 by %2 (not-a-number) is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se permite dividir un valor de tipo %1 por %2 (no es un número). </translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Dividing a value of type %1 by %2 or %3 (plus or minus zero) is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se permite dividir un valor de tipo %1 por %2 o %3 (más o menos cero).</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Multiplication of a value of type %1 by %2 or %3 (plus or minus infinity) is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se permite multiplicación de un valor de tipo %1 por %2 o %3 (infinito positivo o negativo).  </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/data/qatomicvalue.cpp" line="+79"/>
         <source>A value of type %1 cannot have an Effective Boolean Value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un valor de tipo %1 no puede tener un valor booleano efectivo.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/data/qboolean.cpp" line="+78"/>
         <source>Effective Boolean Value cannot be calculated for a sequence containing two or more atomic values.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede calcular el valor booleano efectivo para una secuencia con dos o más valores atómicos.  </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/data/qderivedinteger_p.h" line="+402"/>
         <source>Value %1 of type %2 exceeds maximum (%3).</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor %1 de tipo %2 excede el máximo (%3). </translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Value %1 of type %2 is below minimum (%3).</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor %1 de tipo %2 está por debajo del mínimo (%3).</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/data/qhexbinary.cpp" line="+91"/>
         <source>A value of type %1 must contain an even number of digits. The value %2 does not.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un valor de tipo %1 debe contener un número par de dígitos. El valor %2 no es.  </translation>
     </message>
     <message>
         <location line="+19"/>
         <source>%1 is not valid as a value of type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 es inválido como un valor de tipo %2.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qarithmeticexpression.cpp" line="+207"/>
         <source>Operator %1 cannot be used on type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operador %1 no se puede usar en tipo %2. </translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Operator %1 cannot be used on atomic values of type %2 and %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operador %1 no se puede usar en valores atómicos de tipo %2 y %3.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qattributenamevalidator.cpp" line="+66"/>
         <source>The namespace URI in the name for a computed attribute cannot be %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>URI de espacio de nombres en el nombre de un atributo calculado no puede ser %1.  </translation>
     </message>
     <message>
         <location line="+9"/>
         <source>The name for a computed attribute cannot have the namespace URI %1 with the local name %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre para un atributo calculado no puede tener el espacio de nombres URI %1 con el nombre local %2.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qcastas.cpp" line="+88"/>
         <source>Type error in cast, expected %1, received %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de tipo de conversión. %1 esperado, %2 recibido.   </translation>
     </message>
     <message>
         <location line="+29"/>
         <source>When casting to %1 or types derived from it, the source value must be of the same type, or it must be a string literal. Type %2 is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando convierte a %1 o tipos derivados de esto, el valor de origen debe ser del mismo tipo, o un literal de cadena. Tipo %2 no es compatible.   </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qcastingplatform.cpp" line="+134"/>
         <source>No casting is possible with %1 as the target type.</source>
-        <translation type="unfinished"></translation>
+        <translation>No conversión es posible con %1 como el tipo de destino.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>It is not possible to cast from %1 to %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede convertir desde %1 a %2.</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Casting to %1 is not possible because it is an abstract type, and can therefore never be instantiated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversión a %1 no es posible porque es un tipo abstracto y así que nunca se puede crear una instancia.  </translation>
     </message>
     <message>
         <location line="+23"/>
         <source>It&apos;s not possible to cast the value %1 of type %2 to %3</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede convertir el valor %1 del tipo %2 a %3</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Failure when casting from %1 to %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al convertir de %1 a %2: %3 </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qcommentconstructor.cpp" line="+67"/>
         <source>A comment cannot contain %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Un comentario no puede contener %1</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>A comment cannot end with a %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un comentario no puede terminar con un %1.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qcomparisonplatform.cpp" line="+167"/>
         <source>No comparisons can be done involving the type %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede hacer comparaciones en materia del tipo %1.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Operator %1 is not available between atomic values of type %2 and %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operador %1 no está disponible entre valores atómicos de tipo %2 y %3.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qdocumentcontentvalidator.cpp" line="+86"/>
         <source>An attribute node cannot be a child of a document node. Therefore, the attribute %1 is out of place.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un nodo de atributo no puede ser un secundario de nodo de documento. Por tanto, el atributo %1 está fuera de lugar.    </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qexpressionfactory.cpp" line="+169"/>
         <source>A library module cannot be evaluated directly. It must be imported from a main module.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede evaluar directamente un módulo de bibliotecas. Debe importarlo desde un módulo principal.</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>No template by name %1 exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>No existe plantilla llamada %1.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qgenericpredicate.cpp" line="+106"/>
         <source>A value of type %1 cannot be a predicate. A predicate must have either a numeric type or an Effective Boolean Value type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un valor de tipo %1 no puede ser un predicado. Un predicado debe tener un tipo numérico o tipo de valor booleano efectivo.</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>A positional predicate must evaluate to a single numeric value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un predicado posicional debe evaluar un único valor numérico. </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qncnameconstructor_p.h" line="+113"/>
         <source>The target name in a processing instruction cannot be %1 in any combination of upper and lower case. Therefore, is %2 invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre de destino en una instrucción de procesamiento no puede ser %1 de combinación de mayúsculas y minúsculas. Por tanto, %2 es inválido. </translation>
     </message>
     <message>
         <location line="+24"/>
         <source>%1 is not a valid target name in a processing instruction. It must be a %2 value, e.g. %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 no es un nombre de destino en una instrucción de procesamiento. Debe ser un valor %2, p. ej.%3. </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qpath.cpp" line="+109"/>
         <source>The last step in a path must contain either nodes or atomic values. It cannot be a mixture between the two.</source>
-        <translation type="unfinished"></translation>
+        <translation>El último paso de la ruta debe contener nodos o valores atómicos. No puede ser una mezcla de estos dos.  </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qprocessinginstructionconstructor.cpp" line="+84"/>
         <source>The data of a processing instruction cannot contain the string %1</source>
-        <translation type="unfinished"></translation>
+        <translation>El dato de una nstrucción de procesamiento no puede contener la cadena %1  </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qqnameconstructor.cpp" line="+82"/>
         <source>No namespace binding exists for the prefix %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay ningún enlace de espacio de nombres para el prefijo %1</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qqnameconstructor_p.h" line="+156"/>
         <source>No namespace binding exists for the prefix %1 in %2</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay ningún enlace de espacio de nombres para el prefijo %1 en %2</translation>
     </message>
     <message>
         <location line="+12"/>
         <location filename="../src/xmlpatterns/functions/qqnamefns.cpp" line="+69"/>
         <source>%1 is an invalid %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 es un %2 inválido</translation>
     </message>
     <message numerus="yes">
         <location filename="../src/xmlpatterns/functions/qabstractfunctionfactory.cpp" line="+77"/>
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished">
+        <translation>
+            <numerusform>%1 toma %n argumento(s) como máximo. Por tanto, %2 es inválido </numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location line="+11"/>
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished">
+        <translation>
+            <numerusform>%1 requiere al menos %n argumento(s). Por tanto, %2 es inválido.</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qaggregatefns.cpp" line="+120"/>
         <source>The first argument to %1 cannot be of type %2. It must be a numeric type, xs:yearMonthDuration or xs:dayTimeDuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>El primer argumento a %1 no puede ser de tipo %2. Debe ser un tipo numérico, xs:yearMonthDuration o  xs:dayTimeDuration.    </translation>
     </message>
     <message>
         <location line="+74"/>
         <source>The first argument to %1 cannot be of type %2. It must be of type %3, %4, or %5.</source>
-        <translation type="unfinished"></translation>
+        <translation>El primer argumento a %1 no puede ser de tipo %2. Debe ser de tipo %3, %4 o %5.</translation>
     </message>
     <message>
         <location line="+91"/>
         <source>The second argument to %1 cannot be of type %2. It must be of type %3, %4, or %5.</source>
-        <translation type="unfinished"></translation>
+        <translation>El segundo argumento a %1 no puede ser de tipo %2. Debe ser de tipo %3, %4 o %5. </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qassemblestringfns.cpp" line="+88"/>
         <source>%1 is not a valid XML 1.0 character.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 no es un carácter válido de XML 1.0.  </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qcomparingaggregator.cpp" line="+197"/>
         <source>The first argument to %1 cannot be of type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>El primer argumento a %1 no puede ser de tipo %2.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qdatetimefn.cpp" line="+86"/>
         <source>If both values have zone offsets, they must have the same zone offset. %1 and %2 are not the same.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si ambos valores tienen desplazamientos de zona, deben tener el mismo desplazamiento de zona. %1 y %2 no son iguales.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qerrorfn.cpp" line="+61"/>
         <source>%1 was called.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 está solicitado.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qpatternmatchingfns.cpp" line="+94"/>
         <source>%1 must be followed by %2 or %3, not at the end of the replacement string.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 debe venir seguido de %2 o %3, no a final de la cadena de sustitución.</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>In the replacement string, %1 must be followed by at least one digit when not escaped.</source>
-        <translation type="unfinished"></translation>
+        <translation>En la cadena de sustitución, %1 debe venir seguido de un dígito al menos cuando está sin escape.  </translation>
     </message>
     <message>
         <location line="+26"/>
         <source>In the replacement string, %1 can only be used to escape itself or %2, not %3</source>
-        <translation type="unfinished"></translation>
+        <translation>En la cadena de sustitución, sólo se puede usar %1 para escapar a sí mismo o %2, no %3  </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qpatternplatform.cpp" line="+92"/>
         <source>%1 matches newline characters</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 coincide con caracteres de nueva línea</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1 and %2 match the start and end of a line.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 y %2 coinciden con el principio y el fin de una línea.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Matches are case insensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Las coincidencias no distinguen mayúsculas de minúsculas</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Whitespace characters are removed, except when they appear in character classes</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha quitado espacios en blanco, salvo cuando estos aparecen en clases de caracteres   </translation>
     </message>
     <message>
         <location line="+99"/>
         <source>%1 is an invalid regular expression pattern: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 es un patrón de expresión regular no válido:%2</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>%1 is an invalid flag for regular expressions. Valid flags are:</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 es un marcador no válido de expresión regular. Marcadores válidos son: </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qqnamefns.cpp" line="+17"/>
         <source>If the first argument is the empty sequence or a zero-length string (no namespace), a prefix cannot be specified. Prefix %1 was specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si el primer argumento es una secuencia vacía o una cadena de longitud cero (sin espacio de nombres), no se puede especificar un prefijo. Prefijo %1 ya está especificado.  </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qsequencefns.cpp" line="+347"/>
         <source>It will not be possible to retrieve %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>No será posible recuperar %1.  </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qcontextnodechecker.cpp" line="+54"/>
         <source>The root node of the second argument to function %1 must be a document node. %2 is not a document node.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nodo raíz del segundo argumento de función %1 debe ser un nodo de documento. %2 no es un nodo de documento.  </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qsequencegeneratingfns.cpp" line="+279"/>
         <source>The default collection is undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>La colección predeterminada no está definida</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>%1 cannot be retrieved</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede recuperar %1</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qstringvaluefns.cpp" line="+252"/>
         <source>The normalization form %1 is unsupported. The supported forms are %2, %3, %4, and %5, and none, i.e. the empty string (no normalization).</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma de normalización %1 no admitida. Las formas admitidas son %2, %3, %4 y %5, y ninguna, p. ej., la cadena vacía (sin normalización).  </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qtimezonefns.cpp" line="+87"/>
         <source>A zone offset must be in the range %1..%2 inclusive. %3 is out of range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un desplazamiento de zona debe ser en el rango %1..%2 incluido. %3 está fuera de rango.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>%1 is not a whole number of minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 no es un número entero de minutos.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/janitors/qcardinalityverifier.cpp" line="+58"/>
         <source>Required cardinality is %1; got cardinality %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>La cardinalidad necesaria es %1; cardinalidad obtenida %2.  </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/janitors/qitemverifier.cpp" line="+67"/>
         <source>The item %1 did not match the required type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>El elemento %1 no coincide con el tipo requerido %2. </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="+379"/>
         <location line="+7253"/>
         <source>%1 is an unknown schema type.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 es un tipo de esquema desconocido.</translation>
     </message>
     <message>
         <location line="-6971"/>
         <source>Only one %1 declaration can occur in the query prolog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólo puede aparecer una declaración %1 en el prólogo de consulta.  </translation>
     </message>
     <message>
         <location line="+188"/>
         <source>The initialization of variable %1 depends on itself</source>
-        <translation type="unfinished"></translation>
+        <translation>La inicialización de variable %1 depende de sí mismo</translation>
     </message>
     <message>
         <location line="+63"/>
         <source>No variable by name %1 exists</source>
-        <translation type="unfinished"></translation>
+        <translation>No existe variable llamada %1</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/parser/qparsercontext.cpp" line="+93"/>
         <source>The variable %1 is unused</source>
-        <translation type="unfinished"></translation>
+        <translation>La variable %1 está sin usar</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="+2841"/>
         <source>Version %1 is not supported. The supported XQuery version is 1.0.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se soporta versión %1. La versión XQuery admitida es 1.0. </translation>
     </message>
     <message>
         <location line="+16"/>
         <source>The encoding %1 is invalid. It must contain Latin characters only, must not contain whitespace, and must match the regular expression %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>La codificación %1 es inválida. Debe contener sólo caracteres latinos sin espacio en blanco y debe coincidir con una expresión regular %2.  </translation>
     </message>
     <message>
         <location line="+55"/>
         <source>No function with signature %1 is available</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay función con firma %1 disponible  </translation>
     </message>
     <message>
         <location line="+72"/>
         <location line="+10"/>
         <source>A default namespace declaration must occur before function, variable, and option declarations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Declaración predeterminada de espacio de nombres debe aparecer antes de función, variable, y declaraciones de opción.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Namespace declarations must occur before function, variable, and option declarations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Declaraciones de espacio de nombres deben aparecer antes de función, variable, y declaraciones de opción.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Module imports must occur before function, variable, and option declarations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Importación del módulo debe aparecer antes de función, variable, y declaraciones de opción.</translation>
     </message>
     <message>
         <location line="+200"/>
         <source>It is not possible to redeclare prefix %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede declarar de nuevo prefijo %1. </translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Prefix %1 is already declared in the prolog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ya se declarado prefijo %1 en el prólogo. </translation>
     </message>
     <message>
         <location line="+95"/>
         <source>The name of an option must have a prefix. There is no default namespace for options.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre de una opción debe tener un prefijo. No hay espacio de nombres predeterminado de opciones.</translation>
     </message>
     <message>
         <location line="+171"/>
         <source>The Schema Import feature is not supported, and therefore %1 declarations cannot occur.</source>
-        <translation type="unfinished"></translation>
+        <translation>La característica de importación de Esquema no admitida. Así que declaraciones %1 no pueden aparecer. </translation>
     </message>
     <message>
         <location line="+13"/>
         <source>The target namespace of a %1 cannot be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>El espacio de nombres de destino de %1 no puede ser vacío.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>The module import feature is not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>La característica de importación del módulo no admitida </translation>
     </message>
     <message>
         <location line="+52"/>
         <source>No value is available for the external variable by name %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay valor disponible para la variable externa llamada %1.</translation>
     </message>
     <message>
         <location line="-4154"/>
         <source>A construct was encountered which only is allowed in XQuery.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se encontró una construcción que sólo es permitido en XQuery. </translation>
     </message>
     <message>
         <location line="+118"/>
         <source>A template by name %1 has already been declared.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha declarado la plantilla llamada %1. </translation>
     </message>
     <message>
         <location line="+3581"/>
         <source>The keyword %1 cannot occur with any other mode name.</source>
-        <translation type="unfinished"></translation>
+        <translation>La palabra clave %1 no puede existir en cualquier otro nombre de modo. </translation>
     </message>
     <message>
         <location line="+29"/>
         <source>The value of attribute %1 must of type %2, which %3 isn&apos;t.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor de atributo %1 debe ser de tipo %2, que no es %3.</translation>
     </message>
     <message>
         <location line="+75"/>
         <source>The prefix %1 can not be bound. By default, it is already bound to the namespace %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede enlazar el prefijo %1. Por defecto, ya está enlazado a espacio de nombres %2.</translation>
     </message>
     <message>
         <location line="+312"/>
         <source>A variable by name %1 has already been declared.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha declarado la variable llamada %1. </translation>
     </message>
     <message>
         <location line="+135"/>
         <source>A stylesheet function must have a prefixed name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una función de hoja de estilos debe tener un nombre con prefijo. </translation>
     </message>
     <message>
         <location line="+9"/>
         <source>The namespace for a user defined function cannot be empty (try the predefined prefix %1 which exists for cases like this)</source>
-        <translation type="unfinished"></translation>
+        <translation>El espacio de nombres de una función definida por usurario no puede ser vació (intente el prefijo predefinido %1 que existe para casos así)</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>The namespace %1 is reserved; therefore user defined functions may not use it. Try the predefined prefix %2, which exists for these cases.</source>
-        <translation type="unfinished"></translation>
+        <translation>El espacio de nombres %1 está reservado; así que quizás las funciones definidas por usurario no pueden usarlo. Intente el prefijo predefinido %2, que existe para estos casos. </translation>
     </message>
     <message>
         <location line="+12"/>
         <source>The namespace of a user defined function in a library module must be equivalent to the module namespace. In other words, it should be %1 instead of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>El espacio de nombres de una función definido por usuario en módulo de bibliotecas debe ser equivalente al espacio de nombre de módulo. Es decir, debería ser %1 en lugar de %2   </translation>
     </message>
     <message>
         <location line="+34"/>
         <source>A function already exists with the signature %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una función ya existe con la firma %1.</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>No external functions are supported. All supported functions can be used directly, without first declaring them as external</source>
-        <translation type="unfinished"></translation>
+        <translation>No soporta funciones externas. Puede usar directamente todas las funciones compatibles, sin declararlas como externas</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>An argument by name %1 has already been declared. Every argument name must be unique.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha declarado un argumento llamado %1. Cada nombre de argumento debe ser único. </translation>
     </message>
     <message>
         <location line="+179"/>
         <source>When function %1 is used for matching inside a pattern, the argument must be a variable reference or a string literal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando se usa función %1 para coincidir con un patrón, el argumento debe ser una referencia de variable o un literal de cadena.   </translation>
     </message>
     <message>
         <location line="+11"/>
         <source>In an XSL-T pattern, the first argument to function %1 must be a string literal, when used for matching.</source>
-        <translation type="unfinished"></translation>
+        <translation>En patrón XSL-T, el primer argumento de función %1 debe ser una cadena literal, cuando se usa para establecer correspondencias. </translation>
     </message>
     <message>
         <location line="+14"/>
         <source>In an XSL-T pattern, the first argument to function %1 must be a literal or a variable reference, when used for matching.</source>
-        <translation type="unfinished"></translation>
+        <translation>En patrón XSL-T, el primer argumento de función %1 debe ser una referencia de variable cuando se usa para establecer correspondencias. </translation>
     </message>
     <message>
         <location line="+9"/>
         <source>In an XSL-T pattern, function %1 cannot have a third argument.</source>
-        <translation type="unfinished"></translation>
+        <translation>En patrón XSL-T, función %1 no puede tener un tercer argumento.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>In an XSL-T pattern, only function %1 and %2, not %3, can be used for matching.</source>
-        <translation type="unfinished"></translation>
+        <translation>En patrón XSL-T, sólo función %1 y %2, no %3, pueden usar para establecer correspondencias.</translation>
     </message>
     <message>
         <location line="+63"/>
         <source>In an XSL-T pattern, axis %1 cannot be used, only axis %2 or %3 can.</source>
-        <translation type="unfinished"></translation>
+        <translation>En patrón XSL-T, no se puede usar eje %1, sólo eje %2 o %3.</translation>
     </message>
     <message>
         <location line="+126"/>
         <source>%1 is an invalid template mode name.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 es un nombre inválido de modo de plantilla.  </translation>
     </message>
     <message>
         <location line="+44"/>
         <source>The name of a variable bound in a for-expression must be different from the positional variable. Hence, the two variables named %1 collide.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre de una variable enlazada en una expresión for debe ser diferente de la variable posicional. Por tanto, las dos variables llamados %1 entran en conflicto.   </translation>
     </message>
     <message>
         <location line="+758"/>
         <source>The Schema Validation Feature is not supported. Hence, %1-expressions may not be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>La función de validación de esquema no es compatible. Por tanto, tal vez no se puede usar expresiones %1. </translation>
     </message>
     <message>
         <location line="+39"/>
         <source>None of the pragma expressions are supported. Therefore, a fallback expression must be present</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguna de las expresiones de pragma son compatibles. Por tanto, una expresión de devolución de llamada debe está presente   </translation>
     </message>
     <message>
         <location line="+267"/>
         <source>Each name of a template parameter must be unique; %1 is duplicated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cada nombre de un parámetro de plantilla debe ser único: %1 es duplicado.</translation>
     </message>
     <message>
         <location line="+129"/>
         <source>The %1-axis is unsupported in XQuery</source>
-        <translation type="unfinished"></translation>
+        <translation>El eje %1 no es compatible en XQuery </translation>
     </message>
     <message>
         <location line="+1150"/>
         <source>%1 is not a valid name for a processing-instruction.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 no es un nombre válido de instrucción de procesamiento.</translation>
     </message>
     <message>
         <location line="-7029"/>
         <source>%1 is not a valid numeric literal.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 no es un literal numérico válido.</translation>
     </message>
     <message>
         <location line="+6165"/>
         <source>No function by name %1 is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>No función llamada %1 está disponible.</translation>
     </message>
     <message>
         <location line="+102"/>
         <source>The namespace URI cannot be the empty string when binding to a prefix, %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>El espacio de nombres URI no puede ser la cadena vacía al enlazar al prefijo %1.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>%1 is an invalid namespace URI.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 es un espacio de nombres URI inválido.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>It is not possible to bind to the prefix %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Es imposible enlazar al prefijo %1</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Namespace %1 can only be bound to %2 (and it is, in either case, pre-declared).</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacio de nombres %1 sólo puede enlazar a %2 (y así, en cualquier caso, predeclare). </translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Prefix %1 can only be bound to %2 (and it is, in either case, pre-declared).</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefijo %1 sólo puede enlazar a %2 (y así, en cualquier caso, predeclare). </translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Two namespace declaration attributes have the same name: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dos atributos de declaración de espacio de nombres tienen el mismo nombre: %1.</translation>
     </message>
     <message>
         <location line="+89"/>
         <source>The namespace URI must be a constant and cannot use enclosed expressions.</source>
-        <translation type="unfinished"></translation>
+        <translation>El espacio de nombres URI debe ser un constante y no puede usar expresiones empotradas.</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>An attribute by name %1 has already appeared on this element.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un atributo llamado %1 ya aparece en este elemento.</translation>
     </message>
     <message>
         <location line="+61"/>
         <source>A direct element constructor is not well-formed. %1 is ended with %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un constructor de elemento directo tiene un formato incorrecto. %1 termina con %2.  </translation>
     </message>
     <message>
         <location line="+458"/>
         <source>The name %1 does not refer to any schema type.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre %1 no remite a ningún tipo de esquema.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>%1 is an complex type. Casting to complex types is not possible. However, casting to atomic types such as %2 works.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 es un tipo complejo. Conversión a tipos complejos no es posible. Pero, funciona conversión a tipos atómicos como %2. </translation>
     </message>
     <message>
         <location line="+9"/>
         <source>%1 is not an atomic type. Casting is only possible to atomic types.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 no es un tipo atómico. Sólo se puede convertir a tipos atómicos.</translation>
     </message>
     <message>
         <location line="+145"/>
         <location line="+71"/>
         <source>%1 is not in the in-scope attribute declarations. Note that the schema import feature is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 no está en la declaración de atributo dentro del ámbito. Tenga en cuenta de que no es compatible la función de importación de esquema. </translation>
     </message>
     <message>
         <location line="+48"/>
         <source>The name of an extension expression must be in a namespace.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre de expresión de extensión debe estar en un espacio de nombres. </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/type/qcardinality.cpp" line="+55"/>
         <source>empty</source>
-        <translation type="unfinished"></translation>
+        <translation>vacío</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>zero or one</source>
-        <translation type="unfinished"></translation>
+        <translation>cero o uno</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>exactly one</source>
-        <translation type="unfinished"></translation>
+        <translation>exactamente uno</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>one or more</source>
-        <translation type="unfinished"></translation>
+        <translation>uno o más</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>zero or more</source>
-        <translation type="unfinished"></translation>
+        <translation>cero o más</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/type/qtypechecker.cpp" line="+63"/>
         <source>Required type is %1, but %2 was found.</source>
-        <translation type="unfinished"></translation>
+        <translation>El tipo requerido es %1, pero se encontró %2.</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Promoting %1 to %2 may cause loss of precision.</source>
-        <translation type="unfinished"></translation>
+        <translation>Promocionar %1 a %2 puede causar pérdida de precisión. </translation>
     </message>
     <message>
         <location line="+49"/>
         <source>The focus is undefined.</source>
-        <translation type="unfinished"></translation>
+        <translation>El foco está sin definido.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/utils/qoutputvalidator.cpp" line="+86"/>
         <source>It&apos;s not possible to add attributes after any other kind of node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es imposible agregar atributos después de cualquier otro tipo de nodo.  </translation>
     </message>
     <message>
         <location line="+7"/>
         <source>An attribute by name %1 has already been created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha creado un atributo llamado %1.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/utils/qxpathhelper_p.h" line="+120"/>
         <source>Only the Unicode Codepoint Collation is supported(%1). %2 is unsupported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólo es compatible la intercalación de punto de código de Unicode()%1. %2 no es compatible. </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/acceltree/qacceltreeresourceloader.cpp" line="+314"/>
         <source>%1 is an unsupported encoding.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 es una codificación no compatible.</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>%1 contains octets which are disallowed in the requested encoding %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 contiene octetos que no son compatibles en la codificación requerida %2. </translation>
     </message>
     <message>
         <location line="+18"/>
         <source>The codepoint %1, occurring in %2 using encoding %3, is an invalid XML character.</source>
-        <translation type="unfinished"></translation>
+        <translation>El punto de código %1, que aparece en %2 con la codificación %3, es un carácter XML no válido.  </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qapplytemplate.cpp" line="+119"/>
         <source>Ambiguous rule match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Coincidencia de regla ambigua.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qcomputednamespaceconstructor.cpp" line="+69"/>
         <source>In a namespace constructor, the value for a namespace cannot be an empty string.</source>
-        <translation type="unfinished"></translation>
+        <translation>En un constructor de espacio de nombres, el valor de un espacio de nombres no puede ser una cadena vacía. </translation>
     </message>
     <message>
         <location line="+11"/>
         <source>The prefix must be a valid %1, which %2 is not.</source>
-        <translation type="unfinished"></translation>
+        <translation>El prefijo debe ser un válido %1, que %2 no es.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>The prefix %1 cannot be bound.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede enlazar el prefijo %1.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Only the prefix %1 can be bound to %2 and vice versa.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólo el prefijo %1 puede enlazar a %2 o viceversa.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qevaluationcache.cpp" line="+117"/>
         <source>Circularity detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Circularidad detectada</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qtemplate.cpp" line="+145"/>
         <source>The parameter %1 is required, but no corresponding %2 is supplied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetro %1 requerido. Pero no hay %2 correspondiente.  </translation>
     </message>
     <message>
         <location line="-71"/>
         <source>The parameter %1 is passed, but no corresponding %2 exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se pasó el parámetro %1, pero no existe %2 que corresponda. </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qunparsedtextfn.cpp" line="+65"/>
         <source>The URI cannot have a fragment</source>
-        <translation type="unfinished"></translation>
+        <translation>URI no puede contener un fragmento</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/parser/qxslttokenizer.cpp" line="+519"/>
         <source>Element %1 is not allowed at this location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento %1 no es permitido en esta ubicación.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Text nodes are not allowed at this location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodos de texto no son permitidos en esta ubicación.</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Parse error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de análisis: %1</translation>
     </message>
     <message>
         <location line="+62"/>
         <source>The value of the XSL-T version attribute must be a value of type %1, which %2 isn&apos;t.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor de atributo de versión XSL-T debe ser un valor de tipo %1, que %2 no es.  </translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Running an XSL-T 1.0 stylesheet with a 2.0 processor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutar una hoja de estilos XSL-T 1.0 con un procesador 2.0.  </translation>
     </message>
     <message>
         <location line="+108"/>
         <source>Unknown XSL-T attribute %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atributo XSL-T %1 desconocido. </translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Attribute %1 and %2 are mutually exclusive.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atributo %1 y %2 son mutuamente excluyentes.</translation>
     </message>
     <message>
         <location line="+166"/>
         <source>In a simplified stylesheet module, attribute %1 must be present.</source>
-        <translation type="unfinished"></translation>
+        <translation>En un módulo de hoja de estilos simplificado, atributo %1 debe estar presente.   </translation>
     </message>
     <message>
         <location line="+72"/>
         <source>If element %1 has no attribute %2, it cannot have attribute %3 or %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si elemento %1 no tiene atributo %2, tampoco tiene atributo %3 o %4.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Element %1 must have at least one of the attributes %2 or %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento %1 debe tener al menos uno de los atributos %2 o %3.</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>At least one mode must be specified in the %1-attribute on element %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al menos debe especificar un modo en el atributo %1 de elemento %2.</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/parser/qmaintainingreader.cpp" line="+183"/>
         <source>Attribute %1 cannot appear on the element %2. Only the standard attributes can appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atributo %1 no puede aparecer en elemento %2. Sólo se puede aparecer atributos estándar. </translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Attribute %1 cannot appear on the element %2. Only %3 is allowed, and the standard attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atributo %1 no puede aparecer en elemento %2. Sólo se permite %3 y los atributos estándar. </translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Attribute %1 cannot appear on the element %2. Allowed is %3, %4, and the standard attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atributo %1 no puede aparecer en elemento %2. Se permite %3, %4 y los atributos estándar. </translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Attribute %1 cannot appear on the element %2. Allowed is %3, and the standard attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atributo %1 no puede aparecer en elemento %2.  Se permite %3 y los atributos estándar.</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>XSL-T attributes on XSL-T elements must be in the null namespace, not in the XSL-T namespace which %1 is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atributos XSL-T en elementos XSL-T deben estar en espacio de nombres nulo, no en espacio de nombres XSL-T que es %1.   </translation>
     </message>
     <message>
         <location line="+12"/>
         <source>The attribute %1 must appear on element %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>El atributo %1 debe aparecer en elemento %2.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>The element with local name %1 does not exist in XSL-T.</source>
-        <translation type="unfinished"></translation>
+        <translation>El elemento con nombre local %1 no existe en  XSL-T. </translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/parser/qxslttokenizer.cpp" line="+123"/>
         <source>Element %1 must come last.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento %1 debe aparecer al final.</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>At least one %1-element must occur before %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al menos un elemento %1 debe aparecer antes de %2.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Only one %1-element can appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólo se puede aparecer un elemento %1.</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>At least one %1-element must occur inside %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al menos un elemento %1 debe aparecer dentro de %2.</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>When attribute %1 is present on %2, a sequence constructor cannot be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando el atributo %1 está presente en %2, no se puede usar un constructor de secuencia. </translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Element %1 must have either a %2-attribute or a sequence constructor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento %1 debe tener un atributo %2 o un constructor de secuencia.</translation>
     </message>
     <message>
         <location line="+125"/>
         <source>When a parameter is required, a default value cannot be supplied through a %1-attribute or a sequence constructor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando se requiere un parámetro, no se puede proporcionar un valor predeterminado a través de atributo %1 o un constructor de secuencia.  </translation>
     </message>
     <message>
         <location line="+270"/>
         <source>Element %1 cannot have children.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento %1 no puede tener elemento secundario.</translation>
     </message>
     <message>
         <location line="+434"/>
         <source>Element %1 cannot have a sequence constructor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento %1 no puede tener un constructor de secuencia. </translation>
     </message>
     <message>
         <location line="+86"/>
         <location line="+9"/>
         <source>The attribute %1 cannot appear on %2, when it is a child of %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>El atributo %1 no puede aparecer en %2, cuando es un elemento secundario de %3.  </translation>
     </message>
     <message>
         <location line="+15"/>
         <source>A parameter in a function cannot be declared to be a tunnel.</source>
-        <translation type="unfinished"></translation>
+        <translation>El parámetro en una función no se puede declarar como un túnel.  </translation>
     </message>
     <message>
         <location line="+149"/>
         <source>This processor is not Schema-aware and therefore %1 cannot be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>El procesador no es compatible con esquemas y por tanto no se puede usar %1. </translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Top level stylesheet elements must be in a non-null namespace, which %1 isn&apos;t.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los elementos de hoja de estilos de nivel superior deben estar en espacio de nombres no nulo, que %1 no es.  </translation>
     </message>
     <message>
         <location line="+48"/>
         <source>The value for attribute %1 on element %2 must either be %3 or %4, not %5.</source>
-        <translation type="unfinished"></translation>
+        <translation>El valor de atributo %1 en elemento %2 debe ser cualquiera de %3 o %4, pero no %5. </translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Attribute %1 cannot have the value %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atributo %1 no puede tener el valor %2. </translation>
     </message>
     <message>
         <location line="+58"/>
         <source>The attribute %1 can only appear on the first %2 element.</source>
-        <translation type="unfinished"></translation>
+        <translation>El atributo %1 sólo puede aparecer en los primeros %2 elementos.  </translation>
     </message>
     <message>
         <location line="+99"/>
         <source>At least one %1 element must appear as child of %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al menos un elemento %1 debe aparecer como elemento secundario de %2.</translation>
     </message>
 </context>
 <context>
@@ -8012,13 +8019,13 @@ Elija un nombre de fichero diferente.</translation>
     <message>
         <location filename="../src/3rdparty/phonon/phonon/volumeslider.cpp" line="+67"/>
         <source>Muted</source>
-        <translation>Silencio</translation>
+        <translation>Silencioso</translation>
     </message>
     <message>
         <location line="+5"/>
         <location line="+15"/>
         <source>Volume: %1%</source>
-        <translation>Volumen: %1%</translation>
+        <translation>Volumen: %1% </translation>
     </message>
 </context>
 <context>

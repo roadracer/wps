@@ -14,11 +14,11 @@
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation>verbundene Spalten</translation>
+        <translation>Verbundene Spalten</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation>verbundene Zeilen</translation>
+        <translation>Verbundene Zeilen</translation>
     </message>
     <message>
         <source>Dark Color Style 2</source>
@@ -82,7 +82,7 @@
     </message>
     <message>
         <source>Styless, No grid</source>
-        <translation>stillos, kein Raster</translation>
+        <translation>Stillos, kein Raster</translation>
     </message>
     <message>
         <source>Theme Style</source>
@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation>stillos, gerastert</translation>
+        <translation>Stillos, gerastert</translation>
     </message>
     <message>
         <source>Light Style</source>
@@ -141,7 +141,7 @@
     </message>
     <message>
         <source>Built-in</source>
-        <translation>integriert</translation>
+        <translation>Integriert</translation>
     </message>
     <message>
         <source>Dark Color Style</source>
@@ -201,7 +201,7 @@
     </message>
     <message>
         <source>Styless, No grid</source>
-        <translation>stillos, kein Raster</translation>
+        <translation>Stillos, kein Raster</translation>
     </message>
     <message>
         <source>Theme Style</source>
@@ -209,35 +209,35 @@
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation>stillos, gerastert</translation>
+        <translation>Stillos, gerastert</translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation>heller Farbstil</translation>
+        <translation>Heller Farbstil</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation>mäßiger Farbton</translation>
+        <translation>Mäßiger Farbton</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation>dunkler Farbstil</translation>
+        <translation>Dunkler Farbstil</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation>dunkler Farbstil 2</translation>
+        <translation>Dunkler Farbstil 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation>dunkler Farbstil 2 - Hervorhebung 1/Hervorhebung 2</translation>
+        <translation>Dunkler Farbstil 2 - Hervorhebung 1/Hervorhebung 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation>dunkler Farbstil 2 - Hervorhebung 3/Hervorhebung 4</translation>
+        <translation>Dunkler Farbstil 2 - Hervorhebung 3/Hervorhebung 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>dunkler Farbstil 2 - Hervorhebung 5/Hervorhebung 6</translation>
+        <translation>Dunkler Farbstil 2 - Hervorhebung 5/Hervorhebung 6</translation>
     </message>
     <message>
         <source>First Row</source>

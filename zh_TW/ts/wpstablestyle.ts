@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>First Row</source>
-        <translation>首列:</translation>
+        <translation>首列</translation>
     </message>
     <message>
         <source>Last Column</source>
@@ -269,11 +269,11 @@
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>首列首欄</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>首列末列</translation>
     </message>
     <message>
         <source>Styless, No grid</source>
@@ -424,11 +424,11 @@
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>首列首欄</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>首列末列</translation>
     </message>
     <message>
         <source>Light</source>

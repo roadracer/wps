@@ -18,6 +18,1125 @@
     </message>
 </context>
 <context>
+    <name>BubbleWidget</name>
+    <message>
+        <source>Never show again</source>
+        <translation type="obsolete">Ne plus afficher</translation>
+    </message>
+    <message>
+        <source>You can also click here to switch to 
+Eye Protection Mode or Night Mode.</source>
+        <translation type="obsolete">Vous pouvez aussi cliquer ici pour ouvrir 
+Mode de Protection des Yeux ou Mode Nocturne.</translation>
+    </message>
+</context>
+<context>
+    <name>ContentChartAxisLabels</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>Label Position</source>
+        <translation>Position de l&apos;étiquette</translation>
+    </message>
+    <message>
+        <source>Next to Axis</source>
+        <translation>À côté de l&apos;axe</translation>
+    </message>
+    <message>
+        <source>High</source>
+        <translation>Haut</translation>
+    </message>
+    <message>
+        <source>Low</source>
+        <translation>Bas</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Aucun</translation>
+    </message>
+    <message>
+        <source>Interval between labels</source>
+        <translation>Intervalle entre les étiquettes</translation>
+    </message>
+    <message>
+        <source>A&amp;utomatic</source>
+        <translation>A&amp;utomatique</translation>
+    </message>
+    <message>
+        <source>&amp;Specify interval uint </source>
+        <translation>&amp;Spécifier l’unité de l’intervalle</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Distance from axis</source>
+        <translation>Distance de l’axe</translation>
+    </message>
+    <message>
+        <source>100</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Multi-level Category Labels</source>
+        <translation>Étiquettes des catégories &amp;multiniveaux</translation>
+    </message>
+</context>
+<context>
+    <name>ContentChartAxisOptions</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>Bounds</source>
+        <translation>Limites</translation>
+    </message>
+    <message>
+        <source>Minimum</source>
+        <translation>Minimum</translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation>Rétablir</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation>Auto</translation>
+    </message>
+    <message>
+        <source>Maximum</source>
+        <translation>Maximum</translation>
+    </message>
+    <message>
+        <source>5.5</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Units</source>
+        <translation>Unités</translation>
+    </message>
+    <message>
+        <source>Major</source>
+        <translation>Majeur</translation>
+    </message>
+    <message>
+        <source>0.5</source>
+        <translation>0.5</translation>
+    </message>
+    <message>
+        <source>Minor</source>
+        <translation>Mineur</translation>
+    </message>
+    <message>
+        <source>0.1</source>
+        <translation>0.1</translation>
+    </message>
+    <message>
+        <source>Horizontal axis crosses</source>
+        <translation>L&apos;axe horizontal coupe</translation>
+    </message>
+    <message>
+        <source>Aut&amp;omatic</source>
+        <translation>Aut&amp;omatique</translation>
+    </message>
+    <message>
+        <source>Axis valu&amp;e</source>
+        <translation>Val&amp;eur de l&apos;axe</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation>1</translation>
+    </message>
+    <message>
+        <source>&amp;Maximum axis value</source>
+        <translation>Valeur &amp;maximale de l&apos;axe</translation>
+    </message>
+    <message>
+        <source>Display units</source>
+        <translation>Unités de l&apos;affichage</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Aucun</translation>
+    </message>
+    <message>
+        <source>Hunndreds</source>
+        <translation>Centaines</translation>
+    </message>
+    <message>
+        <source>Thousands</source>
+        <translation>Milliers</translation>
+    </message>
+    <message>
+        <source>10000</source>
+        <translation>10000</translation>
+    </message>
+    <message>
+        <source>100000</source>
+        <translation>100000</translation>
+    </message>
+    <message>
+        <source>Millinons</source>
+        <translation>Millions</translation>
+    </message>
+    <message>
+        <source>10000000</source>
+        <translation>10000000</translation>
+    </message>
+    <message>
+        <source>100000000</source>
+        <translation>100000000</translation>
+    </message>
+    <message>
+        <source>Billions</source>
+        <translation>Milliards</translation>
+    </message>
+    <message>
+        <source>Trillions</source>
+        <translation>Trillions</translation>
+    </message>
+    <message>
+        <source>&amp;Show diplay uints label on chart</source>
+        <translation>Afficher l&apos;étiquette des unités d&apos;affichage sur le graphique</translation>
+    </message>
+    <message>
+        <source>&amp;Logarithmic scale</source>
+        <translation>Échelle &amp;logarithmique</translation>
+    </message>
+    <message>
+        <source>Base</source>
+        <translation>Base</translation>
+    </message>
+    <message>
+        <source>10</source>
+        <translation>10</translation>
+    </message>
+    <message>
+        <source>&amp;Values in reverse order</source>
+        <translation>&amp;Valeurs en ordre inverse</translation>
+    </message>
+    <message>
+        <source>Axis Type</source>
+        <translation>Type d’axe</translation>
+    </message>
+    <message>
+        <source>Automaticall&amp;y select based on data</source>
+        <translation>Sélection &amp;automatique selon les données</translation>
+    </message>
+    <message>
+        <source>&amp;Text axis</source>
+        <translation>&amp;Texte sur les axes</translation>
+    </message>
+    <message>
+        <source>Date a&amp;xis</source>
+        <translation>Date sur les a&amp;xes</translation>
+    </message>
+    <message>
+        <source>Veritcal axis crosses</source>
+        <translation>L’axe vertical coupe</translation>
+    </message>
+    <message>
+        <source>At cat&amp;egory number</source>
+        <translation>A&amp;u numéro de catégorie</translation>
+    </message>
+    <message>
+        <source>At maximum cate&amp;gory</source>
+        <translation>À la catég&amp;orie maximale</translation>
+    </message>
+    <message>
+        <source>Axis position</source>
+        <translation>Position de l&apos;axe</translation>
+    </message>
+    <message>
+        <source>On tic&amp;k marks</source>
+        <translation>&amp;Sur les graduations</translation>
+    </message>
+    <message>
+        <source>Bet&amp;ween tick marks</source>
+        <translation>&amp;Entre les graduations</translation>
+    </message>
+    <message>
+        <source>&amp;Categories in reverse order</source>
+        <translation>&amp;Abscisses en ordre inverse</translation>
+    </message>
+    <message>
+        <source>Days</source>
+        <translation>Jours</translation>
+    </message>
+    <message>
+        <source>Months</source>
+        <translation>Mois</translation>
+    </message>
+    <message>
+        <source>Years</source>
+        <translation>Années</translation>
+    </message>
+    <message>
+        <source>Bet&amp;ween dates</source>
+        <translation>&amp;Entres les dates</translation>
+    </message>
+    <message>
+        <source>At dat&amp;e</source>
+        <translation>&amp;À la date</translation>
+    </message>
+    <message>
+        <source>1900/1/1</source>
+        <translation>1900/1/1</translation>
+    </message>
+    <message>
+        <source>At &amp;maximum date</source>
+        <translation>À la date maximale</translation>
+    </message>
+    <message>
+        <source>&amp;Dates in reverse order</source>
+        <translation>&amp;Dates en ordre inverse</translation>
+    </message>
+</context>
+<context>
+    <name>ContentChartAxisTickMarkers</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>Interval between marks</source>
+        <translation>Intervalle entre les marques</translation>
+    </message>
+    <message>
+        <source>Major type</source>
+        <translation>Type de graduation principal</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Aucun</translation>
+    </message>
+    <message>
+        <source>Inside</source>
+        <translation>À l’intérieur</translation>
+    </message>
+    <message>
+        <source>Outside</source>
+        <translation>À l’extérieur</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <translation>Sur l&apos;axe</translation>
+    </message>
+    <message>
+        <source>Minor type</source>
+        <translation>Type de graduation mineure</translation>
+    </message>
+</context>
+<context>
+    <name>ContentChartDataLabelOptions</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>Label Contains</source>
+        <translation>Contenu de l’étiquette</translation>
+    </message>
+    <message>
+        <source>Value &amp;From Cells</source>
+        <translation>Valeur à partir des cellules</translation>
+    </message>
+    <message>
+        <source>bgContains</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Series Name</source>
+        <translation>Nom de série</translation>
+    </message>
+    <message>
+        <source>&amp;X value</source>
+        <translation>Valeur &amp;X</translation>
+    </message>
+    <message>
+        <source>&amp;Y value</source>
+        <translation>Valeur &amp;Y</translation>
+    </message>
+    <message>
+        <source>&amp;Bubble Size</source>
+        <translation>Taille de la forme</translation>
+    </message>
+    <message>
+        <source>Cate&amp;gory Name</source>
+        <translation>Nom de catégorie</translation>
+    </message>
+    <message>
+        <source>&amp;Value</source>
+        <translation>Valeur</translation>
+    </message>
+    <message>
+        <source>&amp;Percentage</source>
+        <translation>&amp;Pourcentage</translation>
+    </message>
+    <message>
+        <source>S&amp;how Leader Lines</source>
+        <translation>Afficher les lignes d&apos;étiquettes</translation>
+    </message>
+    <message>
+        <source>&amp;Legend Key</source>
+        <translation>Symbole de légende</translation>
+    </message>
+    <message>
+        <source>Separator</source>
+        <translation>Séparateur</translation>
+    </message>
+    <message>
+        <source>,(comma)</source>
+        <translation>, (virgule)</translation>
+    </message>
+    <message>
+        <source>;(semicolon)</source>
+        <translation>;(point-virgule)</translation>
+    </message>
+    <message>
+        <source>.(period)</source>
+        <translation>.(période)</translation>
+    </message>
+    <message>
+        <source>(New Line)</source>
+        <translation>(Nouvelle ligne)</translation>
+    </message>
+    <message>
+        <source> (space)</source>
+        <translation> (espace)</translation>
+    </message>
+    <message>
+        <source>&amp;Reset Label Text</source>
+        <translation>Redéfinir le texte de l’étiquette</translation>
+    </message>
+    <message>
+        <source>Label Position</source>
+        <translation>Position de l&apos;étiquette</translation>
+    </message>
+    <message>
+        <source>&amp;Center</source>
+        <translation>Centrer</translation>
+    </message>
+    <message>
+        <source>bgLabelPosition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Inside End</source>
+        <translation>Bord intérieur</translation>
+    </message>
+    <message>
+        <source>Insi&amp;de Base</source>
+        <translation>Intérieur base</translation>
+    </message>
+    <message>
+        <source>&amp;Outside End</source>
+        <translation>Bord extérieur</translation>
+    </message>
+    <message>
+        <source>Best &amp;Fit</source>
+        <translation>Ajustement optimal</translation>
+    </message>
+    <message>
+        <source>Le&amp;ft</source>
+        <translation>Gauche</translation>
+    </message>
+    <message>
+        <source>&amp;Right</source>
+        <translation>D&amp;roite</translation>
+    </message>
+    <message>
+        <source>Ab&amp;ove</source>
+        <translation>Au-dessus</translation>
+    </message>
+    <message>
+        <source>Belo&amp;w</source>
+        <translation>En dessous</translation>
+    </message>
+    <message>
+        <source>Data Label Series</source>
+        <translation>Série d&apos;étiquettes de données</translation>
+    </message>
+    <message>
+        <source>Clo&amp;ne Current Label</source>
+        <translation>Cloner l’étiquette active</translation>
+    </message>
+</context>
+<context>
+    <name>ContentChartDataTableOptions</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>Table Borders</source>
+        <translation>Bordures de table</translation>
+    </message>
+    <message>
+        <source>&amp;Horizontal</source>
+        <translation>&amp;Horizontal</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical</source>
+        <translation>&amp;Vertical</translation>
+    </message>
+    <message>
+        <source>&amp;Outline</source>
+        <translation>C&amp;ontour</translation>
+    </message>
+    <message>
+        <source>&amp;Show Legend keys</source>
+        <translation>Afficher les &amp;symboles de légende</translation>
+    </message>
+</context>
+<context>
+    <name>ContentChartErrorBarOptions</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>Direction</source>
+        <translation>Direction</translation>
+    </message>
+    <message>
+        <source>icon</source>
+        <translation>Icône</translation>
+    </message>
+    <message>
+        <source>&amp;Both</source>
+        <translation>Les &amp;deux</translation>
+    </message>
+    <message>
+        <source>bgErrorBarDirection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Minus</source>
+        <translation>&amp;Moins</translation>
+    </message>
+    <message>
+        <source>P&amp;lus</source>
+        <translation>P&amp;lus</translation>
+    </message>
+    <message>
+        <source>End Style</source>
+        <translation>Style final</translation>
+    </message>
+    <message>
+        <source>&amp;No Cap</source>
+        <translation>&amp;Pas de maj</translation>
+    </message>
+    <message>
+        <source>bgErrorBarEndStyle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;ap</source>
+        <translation>&amp;Maj</translation>
+    </message>
+    <message>
+        <source>Error Amount</source>
+        <translation>Marge d&apos;erreur</translation>
+    </message>
+    <message>
+        <source>&amp;Fixed value</source>
+        <translation>Valeur fixe</translation>
+    </message>
+    <message>
+        <source>bgErrorAmountType</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Percentage</source>
+        <translation>Pourcentage</translation>
+    </message>
+    <message>
+        <source>5.0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>&amp;Standard deviation(s)</source>
+        <translation>Écart type</translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Standard &amp;error</source>
+        <translation>Erreur standard</translation>
+    </message>
+    <message>
+        <source>&amp;Custom</source>
+        <translation>Personnalisé</translation>
+    </message>
+    <message>
+        <source>Specify &amp;Value</source>
+        <translation>Spécifier une &amp;valeur</translation>
+    </message>
+</context>
+<context>
+    <name>ContentChartLegendOptions</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>Legend Position</source>
+        <translation>Position de la légende</translation>
+    </message>
+    <message>
+        <source>&amp;Top</source>
+        <translation>Hau&amp;t :</translation>
+    </message>
+    <message>
+        <source>&amp;Bottom</source>
+        <translation>&amp;Bas :</translation>
+    </message>
+    <message>
+        <source>&amp;Left</source>
+        <translation>&amp;Gauche</translation>
+    </message>
+    <message>
+        <source>&amp;Right</source>
+        <translation>D&amp;roite</translation>
+    </message>
+    <message>
+        <source>T&amp;op Right</source>
+        <translation>En haut à dr&amp;oite</translation>
+    </message>
+    <message>
+        <source>&amp;Show the legend without overlapping the chart</source>
+        <translation>Afficher la légende &amp;sans recouvrir le graphique</translation>
+    </message>
+</context>
+<context>
+    <name>ContentChartMarkerOptions</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>A&amp;utomatic</source>
+        <translation>A&amp;utomatique</translation>
+    </message>
+    <message>
+        <source>N&amp;one</source>
+        <translation>Aucun</translation>
+    </message>
+    <message>
+        <source>Built-in</source>
+        <translation>Intégré</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>Type</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Taille</translation>
+    </message>
+    <message>
+        <source>Enter 2 to 72 of value</source>
+        <translation>Entrez une valeur comprise entre 2 et 72.</translation>
+    </message>
+</context>
+<context>
+    <name>ContentChartNumber</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <translation>Catégorie</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Général</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation>Nombre</translation>
+    </message>
+    <message>
+        <source>Currency</source>
+        <translation>Monétaire</translation>
+    </message>
+    <message>
+        <source>Accounting</source>
+        <translation>Comptabilité</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>Date</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation>Heure</translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <translation>Pourcentage</translation>
+    </message>
+    <message>
+        <source>Fraction</source>
+        <translation>Fraction</translation>
+    </message>
+    <message>
+        <source>Scientific</source>
+        <translation>Scientifique</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Texte</translation>
+    </message>
+    <message>
+        <source>Special</source>
+        <translation>Spécial</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>Personnalisé</translation>
+    </message>
+    <message>
+        <source>Decimal places:</source>
+        <translation>Nombre de décimales : </translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation>2</translation>
+    </message>
+    <message>
+        <source>&amp;Use 10000 Separator(,)</source>
+        <translation>Séparateur des milliers :</translation>
+    </message>
+    <message>
+        <source>Symbol:</source>
+        <translation>Symbole : </translation>
+    </message>
+    <message>
+        <source>Negative numbers:</source>
+        <translation>Nombres négatifs :</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>Type</translation>
+    </message>
+    <message>
+        <source>*(2001/3/14)</source>
+        <translation>*(2001/3/14)</translation>
+    </message>
+    <message>
+        <source>Local(Location)</source>
+        <translation>Paramètres régionaux (emplacement) :</translation>
+    </message>
+    <message>
+        <source>Chinese(RPC)</source>
+        <translation>Chinois - RPC</translation>
+    </message>
+    <message>
+        <source>新建项目</source>
+        <translation>Nouvel élément</translation>
+    </message>
+    <message>
+        <source>Format Code</source>
+        <translation>Code de format</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>&amp;Ajouter</translation>
+    </message>
+    <message>
+        <source>L&amp;inked to source</source>
+        <translation>&amp;Lier à la source</translation>
+    </message>
+</context>
+<context>
+    <name>ContentChartSeriesOptions</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>S&amp;moothed line</source>
+        <translation>&amp;Lissage</translation>
+    </message>
+    <message>
+        <source>&amp;Category labels</source>
+        <translation>Étiquettes de catégorie</translation>
+    </message>
+    <message>
+        <source>Gap Width</source>
+        <translation>Largeur de l&apos;intervalle</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>Plot Series On</source>
+        <translation>Tracer la série avec</translation>
+    </message>
+    <message>
+        <source>&amp;Primary Axis</source>
+        <translation>Axe &amp;principal</translation>
+    </message>
+    <message>
+        <source>&amp;Secondary Axis</source>
+        <translation>Axe &amp;secondaire</translation>
+    </message>
+    <message>
+        <source>Series &amp;Overlap</source>
+        <translation>Superposition de séries</translation>
+    </message>
+    <message>
+        <source>&amp;Gap Width</source>
+        <translation>Largeur de l&apos;intervalle</translation>
+    </message>
+    <message>
+        <source>Split Series By</source>
+        <translation>Séparer les séries de</translation>
+    </message>
+    <message>
+        <source>Position</source>
+        <translation>Position</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation>Valeur</translation>
+    </message>
+    <message>
+        <source>Percentage value</source>
+        <translation>Valeur de pourcentage</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>Personnaliser</translation>
+    </message>
+    <message>
+        <source>Values in second plot</source>
+        <translation>Valeurs du second tracé</translation>
+    </message>
+    <message>
+        <source>Values less than</source>
+        <translation>Valeurs inférieures à</translation>
+    </message>
+    <message>
+        <source>Select a data point to move between plots</source>
+        <translation>Sélectionnez un point de données à déplacer entre les graphiques</translation>
+    </message>
+    <message>
+        <source>Point Belongs to</source>
+        <translation>Le point appartient à</translation>
+    </message>
+    <message>
+        <source>First Plot</source>
+        <translation>Premier tracé</translation>
+    </message>
+    <message>
+        <source>Second Plot</source>
+        <translation>Second tracé</translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation> °</translation>
+    </message>
+    <message>
+        <source>Size represents</source>
+        <translation>La taille représente</translation>
+    </message>
+    <message>
+        <source>&amp;Area of bubbles</source>
+        <translation>Surface des bulles</translation>
+    </message>
+    <message>
+        <source>&amp;Width of bubbles</source>
+        <translation>Diamètre des bulles</translation>
+    </message>
+    <message>
+        <source>Scale bubble size to</source>
+        <translation>Échelle de la bulle</translation>
+    </message>
+    <message>
+        <source>Show &amp;negative bubbles</source>
+        <translation>Afficher les bulles négatives</translation>
+    </message>
+    <message>
+        <source>&amp;Angle of first slice</source>
+        <translation>&amp;Angle du premier secteur</translation>
+    </message>
+    <message>
+        <source>Pie E&amp;xplosion</source>
+        <translation>E&amp;xplosion</translation>
+    </message>
+    <message>
+        <source>Gap &amp;Width</source>
+        <translation>Largeur de l&apos;intervalle</translation>
+    </message>
+    <message>
+        <source>Second Plot Si&amp;ze</source>
+        <translation>Taille du second tracé</translation>
+    </message>
+    <message>
+        <source>Dou&amp;ghnut Hole Size</source>
+        <translation>Taille du centre</translation>
+    </message>
+</context>
+<context>
+    <name>ContentChartTrendlineOptions</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>icon</source>
+        <translation>Icône</translation>
+    </message>
+    <message>
+        <source>Exponential</source>
+        <translation>Exponentielle</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation>Linéaire</translation>
+    </message>
+    <message>
+        <source>Logarithmic</source>
+        <translation>Logarithmique</translation>
+    </message>
+    <message>
+        <source>Polynomial</source>
+        <translation>Polynomiale</translation>
+    </message>
+    <message>
+        <source>Order</source>
+        <translation>Ordre</translation>
+    </message>
+    <message>
+        <source>Power</source>
+        <translation>Puissance</translation>
+    </message>
+    <message>
+        <source>Period</source>
+        <translation>Période</translation>
+    </message>
+    <message>
+        <source>Trendline Name</source>
+        <translation>Nom de la courbe de tendance</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>Automatique</translation>
+    </message>
+    <message>
+        <source>Linear(Series1)</source>
+        <translation>Linéaire (Série 1)</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>Personnaliser</translation>
+    </message>
+    <message>
+        <source>Forecast</source>
+        <translation>Prévision</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>Avant</translation>
+    </message>
+    <message>
+        <source>periods</source>
+        <translation>période</translation>
+    </message>
+    <message>
+        <source>Backward</source>
+        <translation>Reculer</translation>
+    </message>
+    <message>
+        <source>Set Intercept</source>
+        <translation>Définir l’interception</translation>
+    </message>
+    <message>
+        <source>Display Equation on chart</source>
+        <translation>Afficher l’équation sur le graphique</translation>
+    </message>
+    <message>
+        <source>Display R-squared value on chart</source>
+        <translation>Afficher le coefficient de détermination (R²) sur le graphique</translation>
+    </message>
+    <message>
+        <source>Moving
+Average</source>
+        <translation>Moyenne 
+mobile</translation>
+    </message>
+</context>
+<context>
+    <name>ContentPictureBrightnessContrast</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>&amp;Brightness</source>
+        <translation>&amp;Luminosité</translation>
+    </message>
+    <message>
+        <source>Enter -100% to 100%  of value</source>
+        <translation>Entrez une valeur comprise entre -100% et 100%.</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>&amp;Contrast</source>
+        <translation>&amp;Contraste</translation>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <translation>&amp;Réinitialiser</translation>
+    </message>
+</context>
+<context>
+    <name>ContentPictureColorSaturation</name>
+    <message>
+        <source>&amp;Saturation</source>
+        <translation>&amp;Saturation</translation>
+    </message>
+    <message>
+        <source>Enter 0% to 400%  of value</source>
+        <translation>Entrez une valeur comprise entre 0% et 400%.</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <translation>&amp;Réinitialiser</translation>
+    </message>
+</context>
+<context>
+    <name>ContentPictureColorTone</name>
+    <message>
+        <source>Te&amp;mperature</source>
+        <translation>Te&amp;mpérature</translation>
+    </message>
+    <message>
+        <source>Enter 1500 to 11500  of integer</source>
+        <translation>Entrez un entier comprise entre 1500 et 11500.</translation>
+    </message>
+    <message>
+        <source>&amp;Recolor</source>
+        <translation>Re&amp;colorier</translation>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <translation>&amp;Réinitialiser</translation>
+    </message>
+</context>
+<context>
+    <name>ContentPictureCrop</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>Picture position</source>
+        <translation>Position de l’image</translation>
+    </message>
+    <message>
+        <source>&amp;Width</source>
+        <translation>&amp;Largeur :</translation>
+    </message>
+    <message>
+        <source>Enter 0cm to 5963.92cm  of value</source>
+        <translation>Entrez une valeur comprise entre 0 cm et 5963.92 cm.</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>cm</translation>
+    </message>
+    <message>
+        <source>&amp;Height</source>
+        <translation>&amp;Hauteur</translation>
+    </message>
+    <message>
+        <source>Offset &amp;X</source>
+        <translation>Décalage &amp;X</translation>
+    </message>
+    <message>
+        <source>Enter -5963.92cm to 5963.92cm  of value</source>
+        <translation>Entrez une valeur comprise entre -5963.92 cm et 5963.92 cm.</translation>
+    </message>
+    <message>
+        <source>Offset &amp;Y</source>
+        <translation>Décalage &amp;Y</translation>
+    </message>
+    <message>
+        <source>Crop position</source>
+        <translation>Position du rognage</translation>
+    </message>
+    <message>
+        <source>W&amp;idth</source>
+        <translation>La&amp;rgeur</translation>
+    </message>
+    <message>
+        <source>Hei&amp;ght</source>
+        <translation>H&amp;auteur :</translation>
+    </message>
+    <message>
+        <source>&amp;Left</source>
+        <translation>&amp;Gauche</translation>
+    </message>
+    <message>
+        <source>&amp;Top</source>
+        <translation>Hau&amp;t :</translation>
+    </message>
+</context>
+<context>
+    <name>ContentPictureSharpenSoften</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>Sharpness</source>
+        <translation>Accentuer</translation>
+    </message>
+    <message>
+        <source>Enter -100% to 100%  of value</source>
+        <translation>Entrez une valeur comprise entre -100% et 100%.</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <translation>&amp;Réinitialiser</translation>
+    </message>
+</context>
+<context>
     <name>DiagramStyleDlg</name>
     <message>
         <source>&amp;Select a diagram style:</source>
@@ -128,10 +1247,101 @@
     </message>
 </context>
 <context>
+    <name>KChartFiltersBarWidget</name>
+    <message>
+        <source>Value</source>
+        <translation>Valeur</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nom</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <translation>Série</translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <translation>Catégorie</translation>
+    </message>
+    <message>
+        <source>Select Data...</source>
+        <translation>Sélectionner les données...</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation>Appliquer</translation>
+    </message>
+    <message>
+        <source>(Select All)</source>
+        <translation>(Sélectionner tout)</translation>
+    </message>
+    <message>
+        <source>(Custom Range)</source>
+        <translation>(Plage personnalisée)</translation>
+    </message>
+    <message>
+        <source>(All Columns)</source>
+        <translation>(Toutes les colonnes)</translation>
+    </message>
+    <message>
+        <source>(All Rows)</source>
+        <translation>(Toutes les lignes)</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <translation>Colonne</translation>
+    </message>
+    <message>
+        <source>Row</source>
+        <translation>Ligne</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation>(Aucun)</translation>
+    </message>
+</context>
+<context>
+    <name>KChartLayoutWidget</name>
+    <message>
+        <source>ChartElements</source>
+        <translation>Élément du graphique</translation>
+    </message>
+    <message>
+        <source>QuickLayout</source>
+        <translation>Disposition rapide</translation>
+    </message>
+</context>
+<context>
+    <name>KChartSeriesComboBox</name>
+    <message>
+        <source>The selected chart type requires the secondary axis that an existing chart is using.Select another chart type.</source>
+        <translation>Le type de graphique sélectionné nécessite l&apos;axe secondaire qu&apos;un autre graphique utilise. Sélectionnez un autre type de graphique.</translation>
+    </message>
+</context>
+<context>
+    <name>KChartStyleBarWidget</name>
+    <message>
+        <source>Styles</source>
+        <translation>Styles</translation>
+    </message>
+    <message>
+        <source>Colors</source>
+        <translation>Couleurs</translation>
+    </message>
+</context>
+<context>
+    <name>KChartTypesListCommand</name>
+    <message>
+        <source>OtherType</source>
+        <translation>Autres types</translation>
+    </message>
+</context>
+<context>
     <name>KColorDialog</name>
     <message>
         <source>&amp;Green:</source>
-        <translation type="unfinished">Vert(&amp;G) :</translation>
+        <translation>&amp;Vert :</translation>
     </message>
     <message>
         <source>&amp;Luminance:</source>
@@ -151,7 +1361,7 @@
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation type="unfinished">Ble&amp;u :</translation>
+        <translation>&amp;Bleu :</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -163,7 +1373,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation>Personnalisé</translation>
+        <translation>Personnalisées</translation>
     </message>
     <message>
         <source>HSL</source>
@@ -171,11 +1381,11 @@
     </message>
     <message>
         <source>Hu&amp;e:</source>
-        <translation type="unfinished">T&amp;einte :</translation>
+        <translation>T&amp;einte :</translation>
     </message>
     <message>
         <source>New</source>
-        <translation>Nouveau</translation>
+        <translation>Nouvelle</translation>
     </message>
     <message>
         <source>RGB</source>
@@ -195,7 +1405,7 @@
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancées</translation>
     </message>
 </context>
 <context>
@@ -230,19 +1440,31 @@
     </message>
     <message>
         <source>Downloading online font &quot;%1&quot;. Click the font list to see more detail. (Restart to take effect)</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Le téléchargement des polices en ligne &quot;%1&quot;.Cliquez sur la liste des polices pour afficher plus d&apos;information.(Redémarrez pour prendre effet.)</translation>
     </message>
     <message>
         <source>Download cloud font &quot;%1&quot; successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Le téléchargement des polices en ligne &quot;%1&quot; a réussi</translation>
     </message>
     <message>
         <source>Download cloud font &quot;%1&quot; failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Le téléchargement des polices en ligne &quot;%1&quot; a échoué</translation>
     </message>
     <message>
         <source>Downloading cloud font, click the font list to see more detail.</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement en cours de la police du cloud. Cliquez sur la liste des polices pour afficher plus d&apos;informations.</translation>
+    </message>
+    <message>
+        <source>DownLoad Online Fonts &quot;%1&quot; Successful</source>
+        <translation type="obsolete">Le téléchargement des polices en ligne &quot;%1&quot; a réussi</translation>
+    </message>
+    <message>
+        <source>DownLoad Online Fonts &quot;%1&quot; Failed</source>
+        <translation type="obsolete">Le téléchargement des polices en ligne &quot;%1&quot; a échoué</translation>
+    </message>
+    <message>
+        <source>DownLoad cloud font &quot;%1&quot; Successful. (Restart to take effect)</source>
+        <translation>Téléchargement de la police en ligne &quot;%1&quot;. Cliquez sur la liste des polices pour afficher plus d&apos;informations. (Redémarrer pour appliquer)</translation>
     </message>
 </context>
 <context>
@@ -250,6 +1472,29 @@
     <message>
         <source>Resolution:</source>
         <translation>Résolution :</translation>
+    </message>
+</context>
+<context>
+    <name>KControlsListDlg</name>
+    <message>
+        <source>other Controls</source>
+        <translation>Autres contrôles</translation>
+    </message>
+    <message>
+        <source>&amp;register custom controls...</source>
+        <translation>En&amp;registrer le contrôle personnalisé...</translation>
+    </message>
+    <message>
+        <source>ActiveX Control(*.ocx;*.dll)</source>
+        <translation>Contrôle ActiveX (*.ocx;*.dll)</translation>
+    </message>
+    <message>
+        <source>Register Custom Control</source>
+        <translation>Enregistrer le contrôle personnalisé</translation>
+    </message>
+    <message>
+        <source>Cannot register this control.</source>
+        <translation>Échec de l&apos;enregistrement du contrôle.</translation>
     </message>
 </context>
 <context>
@@ -270,12 +1515,47 @@
         <source>ActiveX Control(*.ocx;*.dll)</source>
         <translation>Contrôle ActiveX (*.ocx;*.dll)</translation>
     </message>
+    <message>
+        <source>Path</source>
+        <translation type="obsolete">Chemin d&apos;accès</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="obsolete">Type</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Taille</translation>
+    </message>
 </context>
 <context>
     <name>KCrashUploadDlg</name>
     <message>
         <source>(The file %1 seems to be damaged.)</source>
         <translation>(Le fichier %1 semble être endommagé.)</translation>
+    </message>
+    <message>
+        <source>You may have executed some wrong operations, we suggest you upload error files to help WPS solve such issues</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCustomCtrl</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Police par défaut</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Renommer</translation>
+    </message>
+    <message>
+        <source>Delete Control</source>
+        <translation>Supprimer le contrôle</translation>
     </message>
 </context>
 <context>
@@ -294,7 +1574,7 @@
     </message>
     <message>
         <source>We suggest you upload it.</source>
-        <translation>Nous vous suggérons de le télécharger.</translation>
+        <translation type="obsolete">Nous vous suggérons de le télécharger.</translation>
     </message>
     <message>
         <source>You may have executed some wrong operations, which caused serious damage to the current document;</source>
@@ -305,7 +1585,7 @@
     <name>KDlgSwitchFace</name>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">A&amp;nnuler</translation>
+        <translation>&amp;Annuler</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -313,19 +1593,19 @@
     </message>
     <message>
         <source>2012 Style</source>
-        <translation>Style 2012</translation>
+        <translation type="obsolete">Style 2012</translation>
     </message>
     <message>
         <source>2013 Elegant Black</source>
-        <translation>Noir Élégant 2013</translation>
+        <translation type="obsolete">Noir Élégant 2013</translation>
     </message>
     <message>
         <source>2013 Skin</source>
-        <translation>Apparence 2013</translation>
+        <translation type="obsolete">Apparence 2013</translation>
     </message>
     <message>
         <source>2013 Water Blue</source>
-        <translation>Bleu Clair 2013</translation>
+        <translation type="obsolete">Bleu Clair 2013</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -337,7 +1617,7 @@
     </message>
     <message>
         <source>Classic Style</source>
-        <translation>Style Classique</translation>
+        <translation type="obsolete">Style Classique</translation>
     </message>
     <message>
         <source>Color Scheme</source>
@@ -349,7 +1629,7 @@
     </message>
     <message>
         <source>2012 Skin</source>
-        <translation>Apparence Classique</translation>
+        <translation type="obsolete">Apparence Classique</translation>
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>
@@ -357,11 +1637,147 @@
     </message>
     <message>
         <source>applying...</source>
-        <translation type="unfinished"></translation>
+        <translation>application en cours...</translation>
     </message>
     <message>
         <source>Restart WPS Office for layout setting to take effect</source>
+        <translation>Redémarrez WPS Office pour que le paramètre de disposition soit appliqué</translation>
+    </message>
+    <message>
+        <source>about:blank</source>
+        <translation type="obsolete">à propos de:vide</translation>
+    </message>
+    <message>
+        <source>Skin</source>
+        <translation type="obsolete">Apparence</translation>
+    </message>
+    <message>
+        <source>2016 White</source>
+        <translation>2016 Blanc</translation>
+    </message>
+    <message>
+        <source>2016 Skin</source>
+        <translation type="unfinished">Apparence 2012 {2016 ?}</translation>
+    </message>
+    <message>
+        <source>2016 Black</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDrawBrowserWnd</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Police par défaut</translation>
+    </message>
+    <message>
+        <source>Browse for folder</source>
+        <translation>Rechercher un dossier</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Fermer</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawButton</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Police par défaut</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawCheckBox</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Police par défaut</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawComboBox</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Police par défaut</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawMenu</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Police par défaut</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawMsgBox</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Police par défaut</translation>
+    </message>
+    <message>
+        <source>Instant Recovery</source>
+        <translation>Récupération instantanée</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawSearchListCtrl</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Police par défaut</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this file</source>
+        <translation>Impossible d&apos;ouvrir ce fichier.</translation>
+    </message>
+    <message>
+        <source>UAC Fail Message</source>
+        <translation>Échec de la recherche. L&apos;autorisation de démarrer des outils de recherche vous est refusée. \r\n Cliquez sur Oui pour terminer la recherche si un message d&apos;invite s&apos;affiche durant votre prochaine recherche.</translation>
+    </message>
+    <message>
+        <source>No Result Message</source>
+        <translation>Aucune correspondance pour &quot;%s&quot; n&apos;a été trouvée. \r\nEssayez d&apos;autres mots clés.</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawTreeCtrl</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Police par défaut</translation>
     </message>
 </context>
 <context>
@@ -380,7 +1796,329 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Supprimer</translation>
+        <translation>S&amp;upprimer</translation>
+    </message>
+</context>
+<context>
+    <name>KFileDialogEx</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Police par défaut</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>&amp;Ouvrir</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Enregi&amp;strer</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <source>Encrypt</source>
+        <translation>Chiffr&amp;er...</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Fermer</translation>
+    </message>
+    <message>
+        <source>Restore</source>
+        <translation>Restaurer</translation>
+    </message>
+    <message>
+        <source>Maximum</source>
+        <translation>Agrandir</translation>
+    </message>
+    <message>
+        <source>Forward Folder</source>
+        <translation>Dernière consultation de dossier</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>Remonter d&apos;un dossier</translation>
+    </message>
+    <message>
+        <source>New Folder</source>
+        <translation>Nouveau Dossier</translation>
+    </message>
+    <message>
+        <source>View Menu</source>
+        <translation>Menu Affichage</translation>
+    </message>
+    <message>
+        <source>Open Local Document</source>
+        <translation>Document local</translation>
+    </message>
+    <message>
+        <source>Recent Visit</source>
+        <translation>Dossier récent</translation>
+    </message>
+    <message>
+        <source>Desktop</source>
+        <translation>Bureau</translation>
+    </message>
+    <message>
+        <source>My Documents</source>
+        <translation>Mes documents</translation>
+    </message>
+    <message>
+        <source>Computer</source>
+        <translation>Ordinateur</translation>
+    </message>
+    <message>
+        <source>Network</source>
+        <translation>Réseau</translation>
+    </message>
+    <message>
+        <source>WPS Remote</source>
+        <translation>WPS Cloud</translation>
+    </message>
+    <message>
+        <source>Private Space</source>
+        <translation>Espace personnel</translation>
+    </message>
+    <message>
+        <source>My Circle</source>
+        <translation>Mon cercle</translation>
+    </message>
+    <message>
+        <source>DataMaster Button Title</source>
+        <translation>Permet de récupérer les fichiers perdus à cause d&apos;une défaillance du disque ou d&apos;une suppression involontaire.</translation>
+    </message>
+    <message>
+        <source>Save At</source>
+        <translation>Enregistrer sur</translation>
+    </message>
+    <message>
+        <source>File Name</source>
+        <translation>Nom du fichier</translation>
+    </message>
+    <message>
+        <source>File Type</source>
+        <translation>Type de fichier</translation>
+    </message>
+    <message>
+        <source>Super Icon</source>
+        <translation>Icônes très &amp;grandes</translation>
+    </message>
+    <message>
+        <source>Big Icon</source>
+        <translation>Grandes icônes (&amp;R)</translation>
+    </message>
+    <message>
+        <source>Middle Icon</source>
+        <translation>Icônes &amp;moyennes</translation>
+    </message>
+    <message>
+        <source>Small Icon</source>
+        <translation>Petites icônes</translation>
+    </message>
+    <message>
+        <source>Report View</source>
+        <translation>&amp;liste</translation>
+    </message>
+    <message>
+        <source>Tile</source>
+        <translation>Mosaïque (&amp;S)</translation>
+    </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation>&amp;Miniature</translation>
+    </message>
+    <message>
+        <source>Icon</source>
+        <translation>Icô&amp;ne</translation>
+    </message>
+    <message>
+        <source>Detail View</source>
+        <translation>Afficher les &amp;détails</translation>
+    </message>
+    <message>
+        <source>Quick Disk</source>
+        <translation>Disque Kingsoft</translation>
+    </message>
+    <message>
+        <source>Invalid file name, please enter the correct file name</source>
+        <translation>Nom de fichier non valide. Entrez un nom de fichier valide.</translation>
+    </message>
+    <message>
+        <source>Title Save</source>
+        <translation>Enregistrer sous</translation>
+    </message>
+    <message>
+        <source>Folder Select</source>
+        <translation>Regarder dans</translation>
+    </message>
+    <message>
+        <source>&amp;Open</source>
+        <translation type="obsolete">&amp;Ouvrir</translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation type="obsolete">Enregistrer(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Encrypt...</source>
+        <translation type="obsolete">Chiffrer(&amp;E)...</translation>
+    </message>
+    <message>
+        <source>Maximize</source>
+        <translation type="obsolete">Agrandir</translation>
+    </message>
+    <message>
+        <source>Folder Last Visited</source>
+        <translation type="obsolete">Dossier Dernière Visité </translation>
+    </message>
+    <message>
+        <source>Up One Folder</source>
+        <translation type="obsolete">Dossier parent</translation>
+    </message>
+    <message>
+        <source>Local Document</source>
+        <translation type="obsolete">Document Local</translation>
+    </message>
+    <message>
+        <source>Recent Folder</source>
+        <translation type="obsolete">Dossier Récent</translation>
+    </message>
+    <message>
+        <source>WPS Cloud</source>
+        <translation type="obsolete">WPS Cloud</translation>
+    </message>
+    <message>
+        <source>Personal Space</source>
+        <translation type="obsolete">Espace Personnel</translation>
+    </message>
+    <message>
+        <source>My Group</source>
+        <translation type="obsolete">Mon Groupe</translation>
+    </message>
+    <message>
+        <source>Help you resume lost files due to disk corruption or accidental delete</source>
+        <translation type="obsolete">Vous aider à reprendre des fichiers perdus à cause de la corruption de disque ou de suppression accidentelle</translation>
+    </message>
+    <message>
+        <source>Look &amp;In</source>
+        <translation type="obsolete">Rechercher dans(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Save to (&amp;I)</source>
+        <translation type="obsolete">Enregistrer dans (&amp;I)</translation>
+    </message>
+    <message>
+        <source>File &amp;Name</source>
+        <translation type="obsolete">&amp;Nom de fichier</translation>
+    </message>
+    <message>
+        <source>File &amp;Type</source>
+        <translation type="obsolete">&amp;Type de Fichier</translation>
+    </message>
+    <message>
+        <source>E&amp;xtra Large Icons</source>
+        <translation type="obsolete">Très Grandes Icônes(&amp;X)</translation>
+    </message>
+    <message>
+        <source>Big Icons (&amp;R)</source>
+        <translation type="obsolete">Grandes Icônes (&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Medium Icons</source>
+        <translation type="obsolete">Icônes &amp;Moyennes</translation>
+    </message>
+    <message>
+        <source>Small Ico&amp;ns</source>
+        <translation type="obsolete">Icô&amp;nes Petites</translation>
+    </message>
+    <message>
+        <source>&amp;List</source>
+        <translation type="obsolete">&amp;Liste</translation>
+    </message>
+    <message>
+        <source>Tile (&amp;S)</source>
+        <translation type="obsolete">Mosaïque (&amp;S)</translation>
+    </message>
+    <message>
+        <source>T&amp;humbnail</source>
+        <translation type="obsolete">Miniature(&amp;h)</translation>
+    </message>
+    <message>
+        <source>View &amp;Details</source>
+        <translation type="obsolete">Afficher les &amp;Détails</translation>
+    </message>
+    <message>
+        <source>Kingsoft Disk</source>
+        <translation type="obsolete">Kingsoft Disque</translation>
+    </message>
+    <message>
+        <source>Invalid file name. Please enter a correct file name.</source>
+        <translation type="obsolete">Nom de fichier non valide. Entrez le nom de fichier correct</translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation type="obsolete">Enregistrer sous</translation>
+    </message>
+    <message>
+        <source>Search Title</source>
+        <translation>Résultats de la recherche sur l&apos;&quot;ordinateur&quot;</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDFToWord</source>
+        <translation type="obsolete">De PDF à Word</translation>
+    </message>
+    <message>
+        <source>PDFToWord Button Title</source>
+        <translation type="obsolete">Convertir un fichier PDF en fichier Word, puis l&apos;ouvrir avec WPS</translation>
+    </message>
+    <message>
+        <source>CustomLocation Button Title</source>
+        <translation>Ajouter un emplacement personnalisé</translation>
+    </message>
+    <message>
+        <source>Custom Control Max Count Tip</source>
+        <translation>Vous pouvez ajouter jusqu&apos;à %1 emplacements.</translation>
+    </message>
+    <message>
+        <source>Search Waiting Text</source>
+        <translation>Recherche…</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nom</translation>
+    </message>
+    <message>
+        <source>Path</source>
+        <translation>Chemin d&apos;accès</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>Type</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Taille</translation>
+    </message>
+    <message>
+        <source>Last Modify Time</source>
+        <translation>Heure de dernière modification</translation>
+    </message>
+    <message>
+        <source>Search Fail Text</source>
+        <translation>Échec de l&apos;initialisation des outils de recherche</translation>
+    </message>
+</context>
+<context>
+    <name>KFileDlgAssitantTool</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
     </message>
 </context>
 <context>
@@ -391,7 +2129,26 @@
     </message>
     <message>
         <source>FileName or PathName is longger than 218 characters!</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nom de fichier ou le nom de chemin dépasse 218 caractères !</translation>
+    </message>
+    <message>
+        <source>FileName or PathName is longger than 218 chars!</source>
+        <translation type="obsolete">Le nom de fichier ou le nom de chemin dépasse 218 caractères !</translation>
+    </message>
+</context>
+<context>
+    <name>KImagePlayDlg</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Police par défaut</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
@@ -476,50 +2233,50 @@
     </message>
     <message>
         <source>Settings will take effect after the application restarts.</source>
-        <translation>Les paramètres prendront effet une fois l&apos;application est redémarrée.</translation>
+        <translation>Les paramètres prendront effet après le redémarrage de l&apos;application.</translation>
     </message>
     <message>
         <source>Downloading %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement de %1...</translation>
     </message>
     <message>
         <source>Installing %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Installation de %1...</translation>
     </message>
     <message>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement en cours...</translation>
     </message>
     <message>
         <source>Click to open the credits page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez pour ouvrir la page de crédits.</translation>
     </message>
     <message>
         <source>Network error...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur réseau...</translation>
     </message>
     <message>
         <source>Local Language Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Packs de langue locaux</translation>
     </message>
     <message>
         <source>Online Language Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Packs de langue en ligne</translation>
     </message>
     <message>
         <source>A network error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur réseau s&apos;est produite.</translation>
     </message>
     <message>
         <source>Download language packs failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le téléchargement des packs de langue a échoué.</translation>
     </message>
 </context>
 <context>
     <name>KLanguageDownloadDialog</name>
     <message>
-        <source>Are you sure to cancel the download?</source>
-        <translation type="unfinished"></translation>
+        <source>Are you sure you want to cancel the download?</source>
+        <translation>Êtes-vous sûr de vouloir annuler le téléchargement ?</translation>
     </message>
 </context>
 <context>
@@ -546,6 +2303,17 @@
     </message>
 </context>
 <context>
+    <name>KPPDOptionsEditor</name>
+    <message>
+        <source>This option has conflict with other option.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Property</source>
+        <translation type="unfinished">Propriété</translation>
+    </message>
+</context>
+<context>
     <name>KPPDOptionsModel</name>
     <message>
         <source>Name</source>
@@ -560,11 +2328,11 @@
     <name>KRegisterDlg</name>
     <message>
         <source>Documents&apos; Author</source>
-        <translation>Auteur des documents</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="unfinished">OK</translation>
     </message>
     <message>
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
@@ -572,54 +2340,69 @@
     </message>
     <message>
         <source>The items with &quot;*&quot; must be entered.</source>
-        <translation>Les éléments précédés d&apos;une * sont obligatoires.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The serial number you entered is invalid. Please check the input format, its supported version and the valid date.</source>
-        <translation>Le numéro de série saisi n&apos;est pas valide. Vérifiez le format d&apos;entrée, sa version prise en charge et la validité de la date.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>* Name:</source>
-        <translation>* Nom :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
-        <translation>(Nom correspond au nom de l&apos;auteur et du réviseur du document)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Initials:</source>
-        <translation>Initiales :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Organization:</source>
-        <translation>Organisation :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>* Serial No.:</source>
-        <translation>* Numéro de série :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your input is incorrect and the program will exit.</source>
-        <translation>Votre saisie est incorrecte et le programme va se fermer.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fail to save the serial number. Please check whether you have the administrator permission or not.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Échec de l&apos;enregistrement du numéro de série. Vérifiez que vous disposez de l&apos;autorisation administrateur.</translation>
     </message>
 </context>
 <context>
     <name>KRepeatableInputPasswordDlg</name>
     <message>
         <source>Enter password to open file</source>
-        <translation type="unfinished">Tapez le mot de passe du fichier à ouvrir</translation>
+        <translation>Tapez le mot de passe du fichier à ouvrir</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Mot de passe</translation>
+        <translation>Mot de passe</translation>
     </message>
     <message>
         <source>Incorrect password. Please re-enter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mot de passe incorrect. Entrez-le à nouveau.</translation>
+    </message>
+    <message>
+        <source>Password error, try again</source>
+        <translation type="obsolete">Mot de passe incorrect,veuillez réessayer.</translation>
+    </message>
+</context>
+<context>
+    <name>KSearchCtrl</name>
+    <message>
+        <source>Search</source>
+        <translation>Rechercher</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation>Effacer</translation>
     </message>
 </context>
 <context>
@@ -654,7 +2437,7 @@
     </message>
     <message>
         <source>Switch Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Comparer en côte à côte</translation>
     </message>
 </context>
 <context>
@@ -724,11 +2507,11 @@
     <name>KSwitchFaceDlg</name>
     <message>
         <source>2012 Skin</source>
-        <translation type="unfinished">Apparence Classique</translation>
+        <translation type="obsolete">Apparence 2012</translation>
     </message>
     <message>
         <source>Classic Skin</source>
-        <translation type="unfinished">Apparence Classique</translation>
+        <translation type="obsolete">Apparence classique</translation>
     </message>
 </context>
 <context>
@@ -744,6 +2527,24 @@
     <message>
         <source>Templates</source>
         <translation>Modèles</translation>
+    </message>
+</context>
+<context>
+    <name>KTooltipCtrl</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Police par défaut</translation>
+    </message>
+</context>
+<context>
+    <name>KUnderLineCombox</name>
+    <message>
+        <source>(None)</source>
+        <translation>(Aucun)</translation>
     </message>
 </context>
 <context>
@@ -1086,6 +2887,20 @@
     </message>
 </context>
 <context>
+    <name>KWordArtGalleryModel</name>
+    <message>
+        <source>No Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KWpsHostHelper</name>
+    <message>
+        <source>WPS Office system files encountered a problem. %1 cannot be 		started unless an automatic repair is performed. When prompted, click &quot;Yes&quot; to finish the repair.</source>
+        <translation>Un problème est survenu dans les fichiers système WPS Office. Impossible de démarrer %1 		tant que la réparation automatique n&apos;est pas exécutée. Lorsque vous y êtes invité, cliquez &quot;Oui&quot; pour terminer la réparation.</translation>
+    </message>
+</context>
+<context>
     <name>KxAboutDlg</name>
     <message>
         <source>%1%2</source>
@@ -1093,7 +2908,7 @@
     </message>
     <message>
         <source>%1(%2)</source>
-        <translation>%1(%2)</translation>
+        <translation type="unfinished">%1(%2)</translation>
     </message>
     <message>
         <source>About WPS Office</source>
@@ -1140,45 +2955,98 @@
     <name>KxAddRestrictUserDlg</name>
     <message>
         <source>Add Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter des utilisateurs</translation>
     </message>
     <message>
         <source>Enter the e-mail addresses of users in the Read and Change boxes (exapmle: &apos;tommy@qq.com&apos;).
 Separate names with a semicolon(;).
 To select names from the Address book, click the Read or Change button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapez les adresses de messagerie électronique des utilisateurs dans les zones Lire et Modifier (par exemple, &apos;tommy@qq.com&apos;).
+Séparez les noms par un point virgule (;).
+Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouton Lire ou Modifier.</translation>
     </message>
     <message>
         <source>Add users from the Address Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter les utilisateurs du carnet d&apos;adresses</translation>
     </message>
     <message>
         <source>Read...   </source>
-        <translation type="unfinished"></translation>
+        <translation>Lire...   </translation>
     </message>
     <message>
         <source>PI</source>
-        <translation type="unfinished"></translation>
+        <translation>PI</translation>
     </message>
     <message>
         <source>Change...   </source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier...   </translation>
     </message>
     <message>
         <source>Users with Change permission can read, edit, copy content from, and save changes to this document, but cannot print content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les utilisateurs bénéficiant d&apos;autorisation de modification peuvent lire, éditer et enregistrer les modifications apportées à ce document, mais ne peuvent pas imprimer son contenu.</translation>
     </message>
     <message>
         <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les utilisateurs bénéficiant d&apos;autorisation de lecture peuvent lire ce document, mais ne peuvent ni modifier ni imprimer ni copier son contenu.</translation>
     </message>
     <message>
         <source>Give all users Read access</source>
-        <translation type="unfinished"></translation>
+        <translation>Accorder à tous les utilisateurs l&apos;accès en lecture</translation>
     </message>
     <message>
         <source>Give all users Change access</source>
-        <translation type="unfinished"></translation>
+        <translation>Accorder à tous les utilisateurs l&apos;accès de modification</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddRestrictUserOutlookDlg</name>
+    <message>
+        <source>Add Users</source>
+        <translation>Ajouter des utilisateurs</translation>
+    </message>
+    <message>
+        <source>Enter the e-mail addresses of users in the Read and Change boxes (exapmle: &apos;tommy@qq.com&apos;).
+Separate names with a semicolon(;).
+To select names from the Address book, click the Read or Change button.</source>
+        <translation>Tapez les adresses de messagerie électronique des utilisateurs dans les zones Lire et Modifier (par exemple, &apos;tommy@qq.com&apos;).
+Séparez les noms par un point virgule (;).
+Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouton Lire ou Modifier.</translation>
+    </message>
+    <message>
+        <source>Add users from the Address Book</source>
+        <translation>Ajouter les utilisateurs du carnet d&apos;adresses</translation>
+    </message>
+    <message>
+        <source>Read...   </source>
+        <translation>Lire...   </translation>
+    </message>
+    <message>
+        <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
+        <translation>Les utilisateurs bénéficiant d&apos;autorisation de lecture peuvent lire ce document, mais ne peuvent ni modifier ni imprimer ni copier son contenu.</translation>
+    </message>
+    <message>
+        <source>Give all users Read access</source>
+        <translation>Accorder à tous les utilisateurs l&apos;accès en lecture</translation>
+    </message>
+    <message>
+        <source>PI</source>
+        <translation>PI</translation>
+    </message>
+    <message>
+        <source>Check names</source>
+        <translation>Vérifier les noms</translation>
+    </message>
+    <message>
+        <source>Give all users Change access</source>
+        <translation>Accorder à tous les utilisateurs l&apos;accès de modification</translation>
+    </message>
+    <message>
+        <source>Users with Change permission can read, edit, copy content from, and save changes to this document, but cannot print content.</source>
+        <translation>Les utilisateurs bénéficiant d&apos;autorisation de modification peuvent lire, éditer et enregistrer les modifications apportées à ce document, mais ne peuvent pas imprimer son contenu.</translation>
+    </message>
+    <message>
+        <source>Change...   </source>
+        <translation>Modifier...   </translation>
     </message>
 </context>
 <context>
@@ -1208,6 +3076,17 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
 </context>
 <context>
+    <name>KxAutoShapeInputBoxToShapes</name>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation>Zone de texte horizontale</translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation>Zone de texte verticale</translation>
+    </message>
+</context>
+<context>
     <name>KxAutoShapePanel</name>
     <message>
         <source>Action Buttons</source>
@@ -1215,7 +3094,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Basic Shapes</source>
-        <translation>Formes de base</translation>
+        <translation type="obsolete">Formes de base</translation>
     </message>
     <message>
         <source>Block Arrows</source>
@@ -1240,6 +3119,18 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>Stars and Banners</source>
         <translation>Étoiles et bannières</translation>
+    </message>
+    <message>
+        <source>Simple Shapes</source>
+        <translation>Formes de base</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <translation>Rectangle</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <translation>Formule</translation>
     </message>
 </context>
 <context>
@@ -1282,6 +3173,17 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
 </context>
 <context>
+    <name>KxChangeColorCommand</name>
+    <message>
+        <source>Colorful</source>
+        <translation>Couleur</translation>
+    </message>
+    <message>
+        <source>Monochromatic</source>
+        <translation>Monochrome</translation>
+    </message>
+</context>
+<context>
     <name>KxChangeIconDlg</name>
     <message>
         <source>All Files(*.*)</source>
@@ -1305,13 +3207,407 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>There is no icon in &quot;%1&quot;.</source>
-        <translation>Il n&apos;existe aucune icône dans %1.</translation>
+        <translation>Aucune icône dans &quot;%1&quot;.</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartFormatting</name>
+    <message>
+        <source>LINE</source>
+        <translation>LIGNE</translation>
+    </message>
+    <message>
+        <source>MARKER</source>
+        <translation>MARQUEUR</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartSeriesModel</name>
+    <message>
+        <source>Column</source>
+        <translation>Colonne</translation>
+    </message>
+    <message>
+        <source>Clustered Column</source>
+        <translation>Histogramme groupé</translation>
+    </message>
+    <message>
+        <source>Stacked Column</source>
+        <translation>Histogramme empilé</translation>
+    </message>
+    <message>
+        <source>100% Stacked Column</source>
+        <translation>Histogramme empilé 100 %</translation>
+    </message>
+    <message>
+        <source>Bar</source>
+        <translation>Barre</translation>
+    </message>
+    <message>
+        <source>Clustered Bar</source>
+        <translation>Barres groupées</translation>
+    </message>
+    <message>
+        <source>Stacked Bar</source>
+        <translation>Barres empilées</translation>
+    </message>
+    <message>
+        <source>100% Stacked Bar</source>
+        <translation>Barres empilées 100 %</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation>Ligne</translation>
+    </message>
+    <message>
+        <source>Stacked Line</source>
+        <translation>Courbe empilée</translation>
+    </message>
+    <message>
+        <source>100% Stacked Line</source>
+        <translation>Courbe empilée 100 %</translation>
+    </message>
+    <message>
+        <source>Line with Markers</source>
+        <translation>Courbe avec marques</translation>
+    </message>
+    <message>
+        <source>Stacked Line with Markers</source>
+        <translation>Courbe empilée avec marques</translation>
+    </message>
+    <message>
+        <source>100% Stacked Line with Markers</source>
+        <translation>Courbe empilée 100 % avec marques</translation>
+    </message>
+    <message>
+        <source>Area</source>
+        <translation>Aires</translation>
+    </message>
+    <message>
+        <source>Stacked Area</source>
+        <translation>Aires empilées</translation>
+    </message>
+    <message>
+        <source>100% Stacked Area</source>
+        <translation>Aires empilées 100 %</translation>
+    </message>
+    <message>
+        <source>Pie</source>
+        <translation>Secteurs</translation>
+    </message>
+    <message>
+        <source>Pie Of Pie</source>
+        <translation>Secteurs de secteur</translation>
+    </message>
+    <message>
+        <source>Bar Of Pie</source>
+        <translation>Barres de secteurs</translation>
+    </message>
+    <message>
+        <source>Doughnut</source>
+        <translation>Anneau</translation>
+    </message>
+    <message>
+        <source>X Y (Scatter)</source>
+        <translation>Nuages de points (XY)</translation>
+    </message>
+    <message>
+        <source>Scatter</source>
+        <translation>Nuages de points</translation>
+    </message>
+    <message>
+        <source>Scatter with Smooth Lines and Markers</source>
+        <translation>Nuage de points avec courbes lissées et marqueurs</translation>
+    </message>
+    <message>
+        <source>Scatter with Smooth Lines</source>
+        <translation>Nuage de points avec courbes lissées</translation>
+    </message>
+    <message>
+        <source>Scatter with Straight Lines and Markers</source>
+        <translation>Nuage de points avec courbes droites et marqueurs</translation>
+    </message>
+    <message>
+        <source>Scatter with Straight Lines</source>
+        <translation>Nuage de points avec courbes droites</translation>
+    </message>
+    <message>
+        <source>Radar</source>
+        <translation>Radar</translation>
+    </message>
+    <message>
+        <source>Radar with Markers</source>
+        <translation>Radar avec marqueurs</translation>
+    </message>
+    <message>
+        <source>Filled Radar</source>
+        <translation>Radar plein</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartStyleModel</name>
+    <message>
+        <source>style</source>
+        <translation>Style</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartToolsHelper</name>
+    <message>
+        <source>The current chart type can&apos;t be combined with other chart types.You can either change the chart type of all data series, or you can keep the current chart.</source>
+        <translation>Impossible de combiner Le type de graphique actuel avec d&apos;autres types de graphiques. Vous pouvez changer le type de graphique pour toutes les séries de données ou conserver le graphique actuel.</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeDialog</name>
+    <message>
+        <source>Insert Chart</source>
+        <translation>Insérer un graphique</translation>
+    </message>
+    <message>
+        <source>Change Chart Type</source>
+        <translation>Modifier le type de graphique</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <translation>Colonne</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation>Ligne</translation>
+    </message>
+    <message>
+        <source>Pie</source>
+        <translation>Secteurs</translation>
+    </message>
+    <message>
+        <source>Bar</source>
+        <translation>Barre</translation>
+    </message>
+    <message>
+        <source>Area</source>
+        <translation>Aires</translation>
+    </message>
+    <message>
+        <source>X Y(Scatter)</source>
+        <translation>Nuages de points (XY)</translation>
+    </message>
+    <message>
+        <source>Stock</source>
+        <translation>Boursier</translation>
+    </message>
+    <message>
+        <source>Radar</source>
+        <translation>Radar</translation>
+    </message>
+    <message>
+        <source>Combo</source>
+        <translation>Combo</translation>
+    </message>
+    <message>
+        <source>Clustered Column</source>
+        <translation>Histogramme groupé</translation>
+    </message>
+    <message>
+        <source>Stacked Column</source>
+        <translation>Histogramme empilé</translation>
+    </message>
+    <message>
+        <source>100% Stacked Column</source>
+        <translation>Histogramme empilé 100 %</translation>
+    </message>
+    <message>
+        <source>Stacked Line</source>
+        <translation>Courbe empilée</translation>
+    </message>
+    <message>
+        <source>100% Stacked Line</source>
+        <translation>Courbe empilée 100 %</translation>
+    </message>
+    <message>
+        <source>Line with Markers</source>
+        <translation>Courbe avec marques</translation>
+    </message>
+    <message>
+        <source>Stacked Line with Marker</source>
+        <translation>Courbe empilée avec marques</translation>
+    </message>
+    <message>
+        <source>100% Stacked Line with Markers</source>
+        <translation>Courbe empilée 100 % avec marques</translation>
+    </message>
+    <message>
+        <source>Pie Of Pie</source>
+        <translation>Secteurs de secteur</translation>
+    </message>
+    <message>
+        <source>Bar Of Pie</source>
+        <translation>Barres de secteurs</translation>
+    </message>
+    <message>
+        <source>Doughnut</source>
+        <translation>Anneau</translation>
+    </message>
+    <message>
+        <source>Clustered Bar</source>
+        <translation>Barres groupées</translation>
+    </message>
+    <message>
+        <source>Stacked Bar</source>
+        <translation>Barres empilées</translation>
+    </message>
+    <message>
+        <source>100% Stacked Bar</source>
+        <translation>Barres empilées 100 %</translation>
+    </message>
+    <message>
+        <source>Stacked Area</source>
+        <translation>Aires empilées</translation>
+    </message>
+    <message>
+        <source>100% Stacked Area</source>
+        <translation>Aires empilées 100 %</translation>
+    </message>
+    <message>
+        <source>Scatter</source>
+        <translation>Nuages de points</translation>
+    </message>
+    <message>
+        <source>Scatter with Smooth Lines and Markers</source>
+        <translation>Nuage de points avec courbes lissées et marqueurs</translation>
+    </message>
+    <message>
+        <source>Scatter with Smooth Lines</source>
+        <translation>Nuage de points avec courbes lissées</translation>
+    </message>
+    <message>
+        <source>Scatter with Straight Lines and Markers</source>
+        <translation>Nuage de points avec courbes droites et marqueurs</translation>
+    </message>
+    <message>
+        <source>Scatter with Straight Lines</source>
+        <translation>Nuage de points avec courbes droites</translation>
+    </message>
+    <message>
+        <source>Bubble</source>
+        <translation>Bulle</translation>
+    </message>
+    <message>
+        <source>High-Low-Close</source>
+        <translation>Max-Min-Clôture</translation>
+    </message>
+    <message>
+        <source>Open-High-Low-Close</source>
+        <translation>Ouverture-Max-Min-Clôture</translation>
+    </message>
+    <message>
+        <source>Volume-High-Low-Close</source>
+        <translation>Volume-Max-Min-Clôture</translation>
+    </message>
+    <message>
+        <source>Volume-Open-High-Low-Close</source>
+        <translation>Volume-Ouverture-Max-Min-Clôture</translation>
+    </message>
+    <message>
+        <source>Radar with Markers</source>
+        <translation>Radar avec marqueurs</translation>
+    </message>
+    <message>
+        <source>Filled Radar</source>
+        <translation>Radar plein</translation>
+    </message>
+    <message>
+        <source>Clustered Column Line</source>
+        <translation>Colonne groupée - Ligne</translation>
+    </message>
+    <message>
+        <source>Clustered Column - Line on Secondary Axis</source>
+        <translation>Colonne groupée - Ligne sur l’axe secondaire</translation>
+    </message>
+    <message>
+        <source>Stacked Area - Clustered Column</source>
+        <translation>Aire empilée - Colonne groupée</translation>
+    </message>
+    <message>
+        <source>Custom Combination</source>
+        <translation>Combinaison personnalisée</translation>
+    </message>
+    <message>
+        <source>Conn&apos;t support this data source transform to a combination chart.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Combination Charts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To create this combination chart, please select at least two data series.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This type of chart is not supported now!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series name</source>
+        <translation>Nom de série</translation>
+    </message>
+    <message>
+        <source>Chart Type</source>
+        <translation>Type de graphique</translation>
+    </message>
+    <message>
+        <source>Secondary Axes</source>
+        <translation>Axe secondaire</translation>
+    </message>
+    <message>
+        <source>Cann&apos;t support this data source transform to a combination chart.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: high price, low price, closing price. Use dates or stock names as labels.</source>
+        <translation>our créer ce graphique boursier, organisez vos données sur la feuille dans l&apos;ordre suivant : cours minimal, cours maximal, cours à la clôture. Utilisez dates ou noms de valeur comme étiquettes.</translation>
+    </message>
+    <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: opening price, high price, low price, closing price. Use dates or stock names as labels.</source>
+        <translation>Pour créer ce graphique boursier, organisez vos données sur la feuille de calcul dans l&apos;ordre suivant: cours à l&apos;ouverture, cours maximal, cours minimal, cours à la clôture. Utilisez dates ou noms de valeurs comme étiquettes.</translation>
+    </message>
+    <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: volume traded, high price, low price, closing price. Use dates or stock names as labels.</source>
+        <translation>Pour créer ce graphique boursier, organisez vos données sur la feuille de calcul dans l&apos;ordre suivant: volume de parts échangées, cours maximal, cours minimal, cours à la clôture. Utilisez dates ou noms de valeurs comme étiquettes.</translation>
+    </message>
+    <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: volume traded, opening price, high price, low price, closing price. Use dates or stock names as labels.</source>
+        <translation>Pour créer ce graphique boursier, organisez vos données sur la feuille de calcul dans l&apos;ordre suivant: volume de parts échangées, cours à l&apos;ouverture, cours maximal, cours minimal, cours à la clôture. Utilisez dates ou noms de valeurs comme étiquettes.</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeDialogClass</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <source>TextLabelForGroupChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Chart Name</source>
+        <translation>Actuel nom du graphique</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>KxCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
+        <translation type="obsolete">Fermer</translation>
+    </message>
+    <message>
+        <source>close</source>
         <translation>Fermer</translation>
     </message>
 </context>
@@ -1331,7 +3627,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>&amp;Straight</source>
-        <translation type="unfinished">&amp;Droit</translation>
+        <translation>&amp;Droit</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -1339,7 +3635,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation>Suivre la couleur de l&apos;arrière-plan, Suivre la couleur du texte et des traits, Suivre la couleur de l&apos;ombre, Suivre la couleur du texte du titre, Suivre la couleur de remplissage, Suivre la couleur de l&apos;accentuation, Suivre la couleur de l&apos;accentuation et des liens hypertexte, Suivre la couleur de l&apos;accentuation et des liens hypertexte visités</translation>
+        <translation type="obsolete">Suivre la couleur de l&apos;arrière-plan, Suivre la couleur du texte et des traits, Suivre la couleur de l&apos;ombre, Suivre la couleur du texte du titre, Suivre la couleur de remplissage, Suivre la couleur de l&apos;accentuation, Suivre la couleur de l&apos;accentuation et des liens hypertexte, Suivre la couleur de l&apos;accentuation et des liens hypertexte visités</translation>
     </message>
     <message>
         <source>No Fill</source>
@@ -1362,6 +3658,29 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
 </context>
 <context>
+    <name>KxColorModel</name>
+    <message>
+        <source>Automatic</source>
+        <translation>Automatique</translation>
+    </message>
+    <message>
+        <source>Theme Colors</source>
+        <translation>Couleurs du thème</translation>
+    </message>
+    <message>
+        <source>Standard Colors</source>
+        <translation>Couleurs standards</translation>
+    </message>
+    <message>
+        <source>Recent Colors</source>
+        <translation>Couleurs utilisées récemment</translation>
+    </message>
+    <message>
+        <source>Custom Color</source>
+        <translation>Couleur personnalisée</translation>
+    </message>
+</context>
+<context>
     <name>KxCommandListModel</name>
     <message>
         <source>Failed to add new command.</source>
@@ -1373,13 +3692,19 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>To work with Control Toolbox, please purchase WPS Office Professional.
 </source>
-        <translation type="obsolete">Pour utiliser la boîte à outils Contrôles, achetez WPS Office Professionnel. 
-
+        <translation type="obsolete">Pour utiliser la boîte à outils Contrôles, achetez WPS Office Professionnel.
 </translation>
     </message>
     <message>
-        <source>????????????? WPS Office ????</source>
-        <translation type="unfinished"></translation>
+        <source>若要使用控件工具箱，请购买 WPS Office 专业版。</source>
+        <translation>Pour utiliser la boîte à outils Contrôles, acheter WPS Office Professionnel </translation>
+    </message>
+</context>
+<context>
+    <name>KxControlsGalleryModel</name>
+    <message>
+        <source>ActiveX Controls</source>
+        <translation>Contrôles ActiveX</translation>
     </message>
 </context>
 <context>
@@ -1390,29 +3715,52 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
 </context>
 <context>
+    <name>KxConvertLinkedObjectDlg</name>
+    <message>
+        <source>A linked object must be converted at the source.</source>
+        <translation>Un objet lié doit être converti à la source.</translation>
+    </message>
+</context>
+<context>
     <name>KxCroppingScalesGalleryModel</name>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Gratuite</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Carré</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical</translation>
+    </message>
+    <message>
+        <source>CroppingScale_Free</source>
+        <translation type="obsolete">CroppingScale_Free</translation>
+    </message>
+    <message>
+        <source>CroppingScale_Square</source>
+        <translation type="obsolete">CroppingScale_Square</translation>
+    </message>
+    <message>
+        <source>CroppingScale_Horizontal</source>
+        <translation type="obsolete">CroppingScale_Horizontal</translation>
+    </message>
+    <message>
+        <source>CroppingScale_Vertical</source>
+        <translation type="obsolete">CroppingScale_Vertical</translation>
     </message>
 </context>
 <context>
     <name>KxCroppingScalesGalleryModelItem</name>
     <message>
         <source>CroppingScale_Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Gratuite</translation>
     </message>
 </context>
 <context>
@@ -1427,11 +3775,11 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
-        <translation>Une erreur est survenue lors de l&apos;ajout de %1. Vérifiez le format du fichier.</translation>
+        <translation>Une erreur s&apos;est produite lors de l&apos;ajout de &quot;%1&quot;. Vérifiez le format du fichier.</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
-        <translation>Une erreur est survenue lors de l&apos;ajout de %1. Le fichier existe déjà.</translation>
+        <translation>Une erreur s&apos;est produite lors de l&apos;ajout de &quot;%1&quot;. Le fichier existe déjà.</translation>
     </message>
     <message>
         <source>Create Custom Dictionary</source>
@@ -1484,7 +3832,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxCustomRibbonEx_Menu</name>
     <message>
         <source>Customize menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu personnalisé</translation>
     </message>
 </context>
 <context>
@@ -1502,7 +3850,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Supprimer</translation>
+        <translation>S&amp;upprimer</translation>
     </message>
     <message>
         <source>&amp;Edit...</source>
@@ -1510,7 +3858,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>&amp;Move To...</source>
-        <translation type="unfinished">Déplacer &amp;vers...</translation>
+        <translation>&amp;Déplacer vers...</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -1530,7 +3878,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Are you sure to reset the &apos;%1&apos; command?</source>
-        <translation>Vous êtes sûr de réinitialiser la commande %1 ?</translation>
+        <translation>Voulez-vous vraiment réinitialiser la commande « %1 » ?</translation>
     </message>
     <message>
         <source>Begin &amp;Group</source>
@@ -1619,7 +3967,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxCustomToolBarTB</name>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Supprimer</translation>
+        <translation>S&amp;upprimer</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -1646,11 +3994,11 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxCustomToolBarWTB</name>
     <message>
         <source>Are you sure to delete the &apos;%1&apos; toolbar?</source>
-        <translation>Vous êtes sûr de supprimer la barre d&apos;outils %1 ?</translation>
+        <translation>Voulez-vous vraiment supprimer la barre d&apos;outils « %1 » ?</translation>
     </message>
     <message>
         <source>Are you sure to reset the &apos;%1&apos; toolbar?</source>
-        <translation>Vous êtes sûr de réinitialiser la barre d&apos;outils %1 ?</translation>
+        <translation>Voulez-vous vraiment réinitialiser la barre d&apos;outils « %1 » ?</translation>
     </message>
     <message>
         <source>Please enter &amp;toolbar&apos;s name:</source>
@@ -1667,6 +4015,24 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>Toolbar has been renamed.</source>
         <translation>Barre d&apos;outils renommée.</translation>
+    </message>
+</context>
+<context>
+    <name>KxDetectFileAssoDlg</name>
+    <message>
+        <source>WPS Office is not your default office software, set to the default software that allows you to work more convenient</source>
+        <translation>Temporairement, WPS Office n&apos;est pas votre logiciel de bureau par défaut. Définissez-le comme tel pour faciliter son utilisation.</translation>
+    </message>
+</context>
+<context>
+    <name>KxDetectFileAssoDlgBottom</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Allow automatically help you check the format has been tampered with</source>
+        <translation>Autoriser la vérification automatique si le format a été falsifié</translation>
     </message>
 </context>
 <context>
@@ -1730,11 +4096,11 @@ Contrôles), achetez WPS Office Professionnel.</translation>
     </message>
     <message>
         <source>Pyramid Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramme pyramidal</translation>
     </message>
     <message>
         <source>Venn Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramme Venn</translation>
     </message>
 </context>
 <context>
@@ -1749,7 +4115,7 @@ Contrôles), achetez WPS Office Professionnel.</translation>
     </message>
     <message>
         <source>A&amp;dd-Ins available:</source>
-        <translation type="unfinished">Compléments d&amp;isponibles :</translation>
+        <translation>Compléments d&amp;isponibles :</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -1780,11 +4146,11 @@ Contrôles), achetez WPS Office Professionnel.</translation>
     <name>KxDlgChangeIcon</name>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">&amp;Parcourir...</translation>
+        <translation>&amp;Parcourir...</translation>
     </message>
     <message>
         <source>&amp;Caption:</source>
-        <translation type="unfinished">&amp;Légende :</translation>
+        <translation>&amp;Légende :</translation>
     </message>
     <message>
         <source>&amp;Icon:</source>
@@ -1857,11 +4223,11 @@ Contrôles), achetez WPS Office Professionnel.</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Supprimer</translation>
+        <translation>S&amp;upprimer</translation>
     </message>
     <message>
         <source>&amp;Word:</source>
-        <translation type="unfinished">&amp;Mot :</translation>
+        <translation>&amp;Mot :</translation>
     </message>
     <message>
         <source>Close</source>
@@ -1877,18 +4243,18 @@ Contrôles), achetez WPS Office Professionnel.</translation>
     </message>
     <message>
         <source>编辑字典</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le dictionnaire</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditWordArtText</name>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished">&amp;Police :</translation>
+        <translation>&amp;Police :</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished">&amp;Taille :</translation>
+        <translation>&amp;Taille :</translation>
     </message>
     <message>
         <source>&amp;Text:</source>
@@ -1919,7 +4285,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Choose &amp;key length:</source>
-        <translation type="unfinished">Choisir la lon&amp;gueur de clé :</translation>
+        <translation>Choisir la lon&amp;gueur de clé :</translation>
     </message>
     <message>
         <source>Encryption Type</source>
@@ -1930,34 +4296,34 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgFileFmtSupport</name>
     <message>
         <source>WPS FileFormat Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer le format de fichier WPS</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFillEffects</name>
     <message>
         <source>&amp;Background:</source>
-        <translation type="unfinished">A&amp;rrière-plan :</translation>
+        <translation>&amp;Arrière-plan :</translation>
     </message>
     <message>
         <source>&amp;Foreground:</source>
-        <translation type="unfinished">&amp;Premier plan :</translation>
+        <translation>&amp;Premier plan :</translation>
     </message>
     <message>
         <source>&amp;From corner</source>
-        <translation type="unfinished">&amp;Du coin</translation>
+        <translation>&amp;À partir du coin</translation>
     </message>
     <message>
         <source>&amp;Other Texture...</source>
-        <translation type="unfinished">Autre te&amp;xture...</translation>
+        <translation>&amp;Autres texture...</translation>
     </message>
     <message>
         <source>&amp;Texture:</source>
@@ -1965,7 +4331,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Two colors</source>
-        <translation type="unfinished">&amp;Deux couleurs</translation>
+        <translation>&amp;Deux couleurs</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
@@ -2009,7 +4375,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Dar&amp;k</source>
-        <translation type="unfinished">So&amp;mbre</translation>
+        <translation>So&amp;mbre</translation>
     </message>
     <message>
         <source>Daybreak</source>
@@ -2033,7 +4399,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>F&amp;rom:</source>
-        <translation type="unfinished">&amp;De :</translation>
+        <translation>&amp;De :</translation>
     </message>
     <message>
         <source>Fill Effects</source>
@@ -2049,7 +4415,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Fro&amp;m center</source>
-        <translation type="unfinished">&amp;Du centre</translation>
+        <translation>&amp;Du centre</translation>
     </message>
     <message>
         <source>Gold</source>
@@ -2137,7 +4503,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Pre&amp;set</source>
-        <translation type="unfinished">Prédé&amp;finir</translation>
+        <translation>&amp;Prédéfini</translation>
     </message>
     <message>
         <source>Pres&amp;et colors:</source>
@@ -2205,6 +4571,145 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxDlgFont</name>
+    <message>
+        <source>Font</source>
+        <translation>Police</translation>
+    </message>
+    <message>
+        <source>&amp;Font</source>
+        <translation>&amp;Police</translation>
+    </message>
+    <message>
+        <source>Latin text f&amp;ont:</source>
+        <translation>P&amp;olice de caractères latins :</translation>
+    </message>
+    <message>
+        <source>Regular</source>
+        <translation>Normal</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>Gras</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>Italique</translation>
+    </message>
+    <message>
+        <source>Bold Italic</source>
+        <translation>Gras italique</translation>
+    </message>
+    <message>
+        <source>Font st&amp;yle:</source>
+        <translation>Style &amp;de police :</translation>
+    </message>
+    <message>
+        <source>Asian text fo&amp;nt:</source>
+        <translation>Police de caractères asiati&amp;ques :</translation>
+    </message>
+    <message>
+        <source>&amp;Size:</source>
+        <translation>&amp;Taille :</translation>
+    </message>
+    <message>
+        <source>All text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font &amp;color:</source>
+        <translation>&amp;Couleur de police :</translation>
+    </message>
+    <message>
+        <source>&amp;Underline style:</source>
+        <translation>&amp;Style souligné</translation>
+    </message>
+    <message>
+        <source>Underl&amp;ine color:</source>
+        <translation>Couleur de soul&amp;ignement :</translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation>Effets</translation>
+    </message>
+    <message>
+        <source>Doub&amp;le Strikethrough</source>
+        <translation>Barré doub&amp;le</translation>
+    </message>
+    <message>
+        <source>Stri&amp;kethrough</source>
+        <translation>Barré</translation>
+    </message>
+    <message>
+        <source>S&amp;mall Caps</source>
+        <translation>Petites majuscules</translation>
+    </message>
+    <message>
+        <source>All Ca&amp;ps</source>
+        <translation>Ma&amp;juscules</translation>
+    </message>
+    <message>
+        <source>E&amp;qualize Character Height</source>
+        <translation>Normaliser la hauteur des caractères</translation>
+    </message>
+    <message>
+        <source>Supe&amp;rscript</source>
+        <translation>Exposant</translation>
+    </message>
+    <message>
+        <source>Offse&amp;t:</source>
+        <translation>Décalage : </translation>
+    </message>
+    <message>
+        <source>Enter -100% to 100% of value</source>
+        <translation>Entrez une valeur comprise entre -100% et 100%.</translation>
+    </message>
+    <message>
+        <source>Su&amp;bscript</source>
+        <translation>In&amp;dice</translation>
+    </message>
+    <message>
+        <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
+        <translation>Police TrueType, identique à l&apos;écran et à l&apos;impression.</translation>
+    </message>
+    <message>
+        <source>C&amp;haracter Spacing</source>
+        <translation>Espacement des caractères</translation>
+    </message>
+    <message>
+        <source>&amp;Spacing:</source>
+        <translation>Espacement</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation>Normal</translation>
+    </message>
+    <message>
+        <source>Expanded</source>
+        <translation>Développé</translation>
+    </message>
+    <message>
+        <source>Condensed</source>
+        <translation>Condensé</translation>
+    </message>
+    <message>
+        <source>&amp;By:</source>
+        <translation>De : </translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Kerning for fonts:</source>
+        <translation>Crénage :</translation>
+    </message>
+    <message>
+        <source>P&amp;oints and above</source>
+        <translation>Points et plus</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgFormatShape</name>
     <message>
         <source>Format AutoShape</source>
@@ -2238,23 +4743,23 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgHttpAuthentication</name>
     <message>
         <source>Connect to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Se connecter à :</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d&apos;utilisateur :</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mot de passe :</translation>
     </message>
     <message>
         <source>Require Http authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Requiert l&apos;authentification HTTP</translation>
     </message>
     <message>
         <source>Enter your username and password to sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez vos nom d&apos;utilisateur et mot de passe pour vous connecter.</translation>
     </message>
 </context>
 <context>
@@ -2268,7 +4773,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgInsertOLEObject</name>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">&amp;Parcourir...</translation>
+        <translation>&amp;Parcourir...</translation>
     </message>
     <message>
         <source>&amp;Display as icon</source>
@@ -2284,7 +4789,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create &amp;new</source>
-        <translation type="unfinished">C&amp;réer</translation>
+        <translation>Créer &amp;nouveau</translation>
     </message>
     <message>
         <source>Create from &amp;file</source>
@@ -2343,15 +4848,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cus&amp;tom Symbols</source>
-        <translation type="unfinished">S&amp;ymboles personnalisés</translation>
+        <translation>S&amp;ymboles personnalisés</translation>
     </message>
     <message>
         <source>Cust&amp;om symbols:</source>
-        <translation type="unfinished">Symb&amp;oles personnalisés :</translation>
+        <translation>Symb&amp;oles personnalisés :</translation>
     </message>
     <message>
         <source>Fro&amp;m:</source>
-        <translation type="unfinished">&amp;De :</translation>
+        <translation>&amp;De :</translation>
     </message>
     <message>
         <source>Insert to Custom S&amp;ymbols</source>
@@ -2363,7 +4868,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation type="unfinished">Mon&amp;ter</translation>
+        <translation>&amp;Monter</translation>
     </message>
     <message>
         <source>R&amp;eset Symbol Toolbar</source>
@@ -2379,7 +4884,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Shortcut &amp;keys:</source>
-        <translation type="unfinished">&amp;Touches de raccourci :</translation>
+        <translation>&amp;Touches de raccourci :</translation>
     </message>
     <message>
         <source>Shortcut keys:</source>
@@ -2398,74 +4903,74 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgLicense</name>
     <message>
         <source>Agree</source>
-        <translation>J&apos;accepte</translation>
+        <translation type="obsolete">J&apos;accepte</translation>
     </message>
     <message>
         <source>Disagree</source>
-        <translation>Je n&apos;accepte pas</translation>
+        <translation type="obsolete">Je n&apos;accepte pas</translation>
     </message>
     <message>
         <source>License</source>
-        <translation>Licence</translation>
+        <translation type="obsolete">Licence</translation>
     </message>
 </context>
 <context>
     <name>KxDlgMailFeedBack</name>
     <message>
         <source>Phone*:</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléphone* :</translation>
     </message>
     <message>
         <source>E-Mail*:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Problem types:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot find functions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do not know how to use the function</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Compatible problems with other software</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail* :</translation>
     </message>
     <message>
         <source>WPS Office operating process not smoothly</source>
-        <translation type="unfinished"></translation>
+        <translation>Le processus d&apos;exploitation de WPS Office ne s&apos;exécute pas correctement</translation>
     </message>
     <message>
         <source>Problems of secondly development</source>
-        <translation type="unfinished"></translation>
+        <translation>Problèmes de développement secondaires</translation>
     </message>
     <message>
         <source>Other problems</source>
-        <translation type="unfinished"></translation>
+        <translation>Autres problèmes</translation>
     </message>
     <message>
         <source>Suggestions</source>
-        <translation type="unfinished"></translation>
+        <translation>Suggestions</translation>
     </message>
     <message>
         <source>Files to reproduce the problem (Files will be properly kept.) </source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers pour reproduire le problème (les fichiers seront stockés de manière appropriée.) </translation>
     </message>
     <message>
         <source>Add Attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter une pièce jointe</translation>
     </message>
     <message>
         <source>Send Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Envoyer un e-mail</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <source>Issue type:</source>
+        <translation>Type de problème :</translation>
+    </message>
+    <message>
+        <source>Could not find feature</source>
+        <translation>Impossible de trouver la fonction</translation>
+    </message>
+    <message>
+        <source>Do not know how to use the feature</source>
+        <translation>Incapable d&apos;utiliser la fonction</translation>
+    </message>
+    <message>
+        <source>Software compatibility issues</source>
+        <translation>Problèmes de compatibilité logicielle</translation>
     </message>
 </context>
 <context>
@@ -2481,6 +4986,173 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>pushButton</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgParagraph</name>
+    <message>
+        <source>Paragraph</source>
+        <translation>Paragraphe</translation>
+    </message>
+    <message>
+        <source>&amp;Indents and Spacing</source>
+        <translation>Retrait et espacement</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Général</translation>
+    </message>
+    <message>
+        <source>Ali&amp;gnment:</source>
+        <translation>Ali&amp;gnement : </translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>Gauche</translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation>Centré</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>Droite</translation>
+    </message>
+    <message>
+        <source>Justified</source>
+        <translation>Justifié</translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation>Distribué</translation>
+    </message>
+    <message>
+        <source>Indentation</source>
+        <translation>Retrait</translation>
+    </message>
+    <message>
+        <source>Befo&amp;re text:</source>
+        <translation>Avant le te&amp;xte :</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>cm</translation>
+    </message>
+    <message>
+        <source>&amp;Special:</source>
+        <translation>Spécial : </translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation>(Aucun)</translation>
+    </message>
+    <message>
+        <source>First line</source>
+        <translation>De 1re ligne</translation>
+    </message>
+    <message>
+        <source>Hanging</source>
+        <translation>Suspendu</translation>
+    </message>
+    <message>
+        <source>B&amp;y:</source>
+        <translation>De : </translation>
+    </message>
+    <message>
+        <source>Spacing</source>
+        <translation>Espacement</translation>
+    </message>
+    <message>
+        <source>&amp;Before:</source>
+        <translation>Avant : </translation>
+    </message>
+    <message>
+        <source>Aft&amp;er:</source>
+        <translation>Après : </translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation>pt</translation>
+    </message>
+    <message>
+        <source>Li&amp;ne spacing:</source>
+        <translation>Interlig&amp;ne :</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation>Simple</translation>
+    </message>
+    <message>
+        <source>1.5 Lines</source>
+        <translation>1,5 ligne</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation>Double</translation>
+    </message>
+    <message>
+        <source>Exactly</source>
+        <translation>Exactement</translation>
+    </message>
+    <message>
+        <source>Multiple</source>
+        <translation>Multiple</translation>
+    </message>
+    <message>
+        <source>&amp;At:</source>
+        <translation>De : </translation>
+    </message>
+    <message>
+        <source>Asian Typograp&amp;hy</source>
+        <translation>Typographie asiatique</translation>
+    </message>
+    <message>
+        <source>&amp;Use Asian rules for controlling first and last characters</source>
+        <translation>&amp;Utiliser les règles asiatiques pour le contrôle des premier et dernier caractères</translation>
+    </message>
+    <message>
+        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
+        <translation>Autoriser la césure en milieu de mot pour le texte en caractères latins</translation>
+    </message>
+    <message>
+        <source>Allow ha&amp;nging punctuation</source>
+        <translation>Autoriser la ponctuation en retrait</translation>
+    </message>
+    <message>
+        <source>Text &amp;alignment:</source>
+        <translation>Alignement du texte : </translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>Haut</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>Centre</translation>
+    </message>
+    <message>
+        <source>Baseline</source>
+        <translation>Ligne de base</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>Bas</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>Automatique</translation>
+    </message>
+    <message>
+        <source>First and last characters</source>
+        <translation>Premier et dernier caractères</translation>
+    </message>
+    <message>
+        <source>T&amp;ypography...</source>
+        <translation>T&amp;ypographie...</translation>
+    </message>
+    <message>
+        <source>&amp;Tabs...</source>
+        <translation>Onglets...</translation>
     </message>
 </context>
 <context>
@@ -2564,7 +5236,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Path</source>
-        <translation>Chemin d’accès</translation>
+        <translation>Chemin d&apos;accès</translation>
     </message>
     <message>
         <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This will not delete the files but only remove the records.
@@ -2582,13 +5254,18 @@ Double-cliquez ou utilisez le menu contextuel pour ouvrir le fichier. Cela effac
     </message>
     <message>
         <source>File Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestion des fichiers</translation>
     </message>
     <message>
         <source>Please select the files you wish to remove from the recent document list, then press Delete. 
 This will not permanently delete your file, but only remove them from your recent records.
 Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez les enregistrements que vous souhaitez supprimer de la liste des fichiers récemment ouverts, puis appuyez sur le bouton Supprimer pour valider. Cela ne supprime pas les fichiers, mais uniquement les enregistrements. 
+Double-cliquez ou utilisez le menu contextuel pour ouvrir le fichier. Cela efface la sélection des éléments.</translation>
+    </message>
+    <message>
+        <source>Please select the files you wish to remove from the recent document list, then press Delete. This will not permanently delete your file, but only remove them from your recent records.</source>
+        <translation type="obsolete">Sélectionnez les fichiers que vous souhaitez supprimer de la liste Documents récents, puis appuyez sur Supprimer. Votre fichier ne sera pas supprimé définitivement mais seulement retiré de vos enregistrements récents.</translation>
     </message>
 </context>
 <context>
@@ -2613,54 +5290,113 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KxDlgSelectUser</name>
     <message>
         <source>Select User</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner l&apos;utilisateur</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
-        <translation type="unfinished">&amp;Ajouter...</translation>
+        <translation>&amp;Ajouter...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">Supp&amp;rimer</translation>
+        <translation>&amp;Supprimer</translation>
     </message>
     <message>
         <source>A&amp;lways use this account</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Toujours utiliser ce compte</translation>
     </message>
     <message>
         <source>&amp;Select one of the following user accounts to create or open content with restricted permission. To use an account not listed below, click Add.</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sélectionnez l&apos;un des comptes d’utilisateur suivants pour créer ou ouvrir un contenu avec une autorisation limitée. Pour utiliser un compte non répertorié ci-dessous, cliquez sur Ajouter.</translation>
+    </message>
+    <message>
+        <source>&amp;Select one of the following user accounts to create or open content with restricted permission.To use an account not listed below,click Add.</source>
+        <translation type="obsolete">&amp;Sélectionnez l&apos;un des comptes d&apos;utilisateur suivants pour créer ou ouvrir un contenu avec une autorisation limitée. Pour utiliser un compte non répertorié ci-dessous, cliquez sur Ajouter.</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTabs</name>
+    <message>
+        <source>Tabs</source>
+        <translation>Onglets</translation>
+    </message>
+    <message>
+        <source>&amp;Tab stop position:</source>
+        <translation>Position d&apos;arrêt du tabulateur : </translation>
+    </message>
+    <message>
+        <source>De&amp;fault tab stops:</source>
+        <translation>Ta&amp;quets par défaut :</translation>
+    </message>
+    <message>
+        <source>Tab stops to be cleared:</source>
+        <translation>À supprimer :</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>cm</translation>
+    </message>
+    <message>
+        <source>Alignment</source>
+        <translation>Alignement</translation>
+    </message>
+    <message>
+        <source>&amp;Decimal</source>
+        <translation>&amp;Décimal</translation>
+    </message>
+    <message>
+        <source>&amp;Left</source>
+        <translation>&amp;Gauche</translation>
+    </message>
+    <message>
+        <source>&amp;Center</source>
+        <translation>&amp;Centrer</translation>
+    </message>
+    <message>
+        <source>&amp;Right</source>
+        <translation>D&amp;roite</translation>
+    </message>
+    <message>
+        <source>&amp;Set</source>
+        <translation>Définir</translation>
+    </message>
+    <message>
+        <source>Cl&amp;ear</source>
+        <translation>&amp;Effacer</translation>
+    </message>
+    <message>
+        <source>Clear &amp;All</source>
+        <translation>Eff&amp;acer tout</translation>
     </message>
 </context>
 <context>
     <name>KxDlgTrialExpire</name>
     <message>
         <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
-        <translation>&lt;a href=&apos;urlonline&apos;&gt; Boutique en ligne WPS &lt;/a&gt;.</translation>
+        <translation type="obsolete">&lt;a href=&apos;urlonline&apos;&gt; Boutique en ligne WPS &lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation>Boîte de dialogue</translation>
+        <translation type="obsolete">Boîte de dialogue</translation>
     </message>
     <message>
         <source>Enter Viewer Mode</source>
-        <translation>Accéder au mode Visionneuse</translation>
+        <translation type="obsolete">Accéder au mode Visionneuse</translation>
     </message>
     <message>
         <source>Thanks for using WPS Office 2012 Beta2.</source>
-        <translation>Merci d&apos;utiliser WPS Office 2012 Beta2.</translation>
+        <translation type="obsolete">Merci d&apos;utiliser WPS Office 2012 Beta2.</translation>
     </message>
     <message>
         <source>The trial period of your WPS Office Beta has expired. You can enter Viewer mode, in which keyboard entry will be disabled, to continue or update to the latest Personal version of WPS Office.</source>
-        <translation>La période d&apos;essai de votre version bêta de WPS Office a expiré. Vous pouvez accéder au mode Visionneuse, dans lequel la saisie au clavier sera désactivée, pour continuer ou passer à la dernière version personnelle de WPS Office.</translation>
+        <translation type="obsolete">La période d&apos;essai de votre version bêta de WPS Office a expiré. Vous pouvez accéder au mode Visionneuse, dans lequel la saisie au clavier sera désactivée, pour continuer ou passer à la dernière version personnelle de WPS Office.</translation>
     </message>
     <message>
         <source>Update Now</source>
-        <translation>Mettre à jour maintenant</translation>
+        <translation type="obsolete">Mettre à jour maintenant</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation>Info-bulle</translation>
+        <translation type="obsolete">Info-bulle</translation>
     </message>
 </context>
 <context>
@@ -2734,11 +5470,11 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KxEulaDlg</name>
     <message>
         <source>WPS Office</source>
-        <translation>WPS Office</translation>
+        <translation type="unfinished">WPS Office</translation>
     </message>
     <message>
         <source>End-User License Agreement</source>
-        <translation>Contrat de Licence d&apos;Utilisateur Final</translation>
+        <translation type="unfinished">Contrat de Licence d&apos;Utilisateur Final</translation>
     </message>
     <message>
         <source>I &amp;Decline</source>
@@ -2752,23 +5488,53 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <source>Missing EULA, this means you are using an incomplete product.&lt;br/&gt;Please get a new one from &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;offical website&lt;/a&gt;, and don&apos;t modify it.</source>
         <translation>CLUF manquant, cela signifie que vous utilisez un produit incomplet. &lt;br/&gt; En cherchez un nouveau de &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;site officiel&lt;/a&gt;, et ne pas le modifier.</translation>
     </message>
+    <message>
+        <source>WPS Office End-User License Agreement</source>
+        <translation type="obsolete">WPS Office Contrat de Licence d&apos;Utilisateur Final</translation>
+    </message>
+    <message>
+        <source>about:blank</source>
+        <translation type="obsolete">à propos de:vide</translation>
+    </message>
+    <message>
+        <source>Join the experience improvement plan</source>
+        <translation type="obsolete">Rejoignez le Plan d&apos;amélioration du produit</translation>
+    </message>
+</context>
+<context>
+    <name>KxExternalPushService</name>
+    <message>
+        <source>Cannot load components for the printer solver.</source>
+        <translation>Impossible de charger des composants pour le solveur d&apos;imprimante.</translation>
+    </message>
+</context>
+<context>
+    <name>KxFeedbackCommand</name>
+    <message>
+        <source>No E-Mail Client.</source>
+        <translation type="obsolete">Aucun client de messagerie.</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="obsolete">Commentaires</translation>
+    </message>
 </context>
 <context>
     <name>KxFeekbackCommand</name>
     <message>
         <source>Feedback</source>
-        <translation>Commentaires</translation>
+        <translation type="unfinished">Commentaires</translation>
     </message>
     <message>
         <source>No E-Mail Client.</source>
-        <translation>Aucun client de messagerie.</translation>
+        <translation type="unfinished">Aucun client de messagerie.</translation>
     </message>
 </context>
 <context>
     <name>KxFileConverterDlg</name>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished">Suiva&amp;nt</translation>
+        <translation>&amp;Suivant</translation>
     </message>
     <message>
         <source>Select the encoding that makes your document readable.</source>
@@ -2786,20 +5552,38 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <comment>Encrypt button tab in filedialog</comment>
         <translation>Chiffr&amp;ement...</translation>
     </message>
+    <message>
+        <source>&amp;Open Image after Export</source>
+        <comment>OpenSaved checkbox in filedialog</comment>
+        <translation>&amp;Ouvrir l&apos;Image après avoir Exporté</translation>
+    </message>
+    <message>
+        <source>&amp;Open Video after Export</source>
+        <comment>OpenSaved checkbox in filedialog</comment>
+        <translation>&amp;Ouvrir le vidéo après avoir Exporté</translation>
+    </message>
+    <message>
+        <source>Maintain compatibility with previous versions of Word</source>
+        <translation>Compatibilité avec les versions précédentes de WPS Writer</translation>
+    </message>
 </context>
 <context>
     <name>KxFileItemWidget</name>
     <message>
         <source>
 
-Modified time:</source>
-        <translation type="unfinished"></translation>
+Modified time: </source>
+        <translation>
+
+Heure de modification : </translation>
     </message>
     <message>
         <source>
 
-This record is invalid. The file has been renamed,deleted or moved.</source>
-        <translation type="unfinished"></translation>
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation>
+
+Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou déplacé.</translation>
     </message>
 </context>
 <context>
@@ -2858,43 +5642,43 @@ This record is invalid. The file has been renamed,deleted or moved.</source>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
-        <translation>Suivre la couleur de l&apos;accentuation</translation>
+        <translation type="obsolete">Suivre la couleur de l&apos;accentuation</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation>Suivre la couleur de l&apos;accentuation et des liens hypertexte visités</translation>
+        <translation type="obsolete">Suivre la couleur de l&apos;accentuation et des liens hypertexte visités</translation>
     </message>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation>Suivre la couleur de l&apos;accentuation et des liens hypertexte</translation>
+        <translation type="obsolete">Suivre la couleur de l&apos;accentuation et des liens hypertexte</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color</source>
-        <translation>Suivre la couleur de l&apos;arrière-plan</translation>
+        <translation type="obsolete">Suivre la couleur de l&apos;arrière-plan</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
-        <translation>Suivre la couleur de remplissage</translation>
+        <translation type="obsolete">Suivre la couleur de remplissage</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
-        <translation>Suivre la couleur de l&apos;ombre</translation>
+        <translation type="obsolete">Suivre la couleur de l&apos;ombre</translation>
     </message>
     <message>
         <source>Follow Text and Lines Scheme Color</source>
-        <translation>Suivre la couleur du texte et des traits</translation>
+        <translation type="obsolete">Suivre la couleur du texte et des traits</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
-        <translation>Suivre la couleur du texte du titre</translation>
+        <translation type="obsolete">Suivre la couleur du texte du titre</translation>
     </message>
     <message>
         <source>Fro&amp;m center</source>
-        <translation type="unfinished">&amp;Du centre</translation>
+        <translation>&amp;Du centre</translation>
     </message>
     <message>
         <source>Fro&amp;m title</source>
-        <translation type="unfinished">D&amp;u titre</translation>
+        <translation>D&amp;u titre</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
@@ -3042,6 +5826,69 @@ This record is invalid. The file has been renamed,deleted or moved.</source>
     </message>
 </context>
 <context>
+    <name>KxFontDlg</name>
+    <message>
+        <source>+Heading Asian</source>
+        <translation>+Titre asiatique</translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation>+Corps asiatique</translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation>+Titre</translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation>+Corps </translation>
+    </message>
+    <message>
+        <source>(Use Asian text font)</source>
+        <translation>(Police de caractères asiatiques)</translation>
+    </message>
+    <message>
+        <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
+        <translation>Ceci est une police TrueType. La même police pourra être utilisée pour l&apos;affichage et l&apos;impression.</translation>
+    </message>
+    <message>
+        <source>This font has not been installed. The most similar available font will be printed.</source>
+        <translation>Police non installée sur le système. La police qui s&apos;en rapproche le plus sera utilisée à l&apos;impression.</translation>
+    </message>
+    <message>
+        <source>This is the heading theme font for Asian text. The current document theme defines which font is used.</source>
+        <translation>Police de thème de titre pour le texte asiatique. Le thème du document actif définit la police qui sera utilisée.</translation>
+    </message>
+    <message>
+        <source>This is the body theme font for Asian text. The current document theme defines which font is used.</source>
+        <translation>Police de thème de corps pour le texte asiatique. Le thème du document actif définit la police qui sera utilisée.</translation>
+    </message>
+    <message>
+        <source>This is the heading theme font for Latin text. The current document theme defines which font is used.</source>
+        <translation>Police de thème de titre pour le texte en latin. Le thème du document actif définit la police qui sera utilisée.</translation>
+    </message>
+    <message>
+        <source>This is the body theme font for Latin text. The current document theme defines which font is used.</source>
+        <translation>Police de thème de corps pour le texte en latin. Le thème du document actif définit la police qui sera utilisée.</translation>
+    </message>
+    <message>
+        <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
+        <translation>La police %1 n&apos;est pas disponible sur votre système. Une police de remplacement est donc affichée. Voulez-vous utiliser cette police malgré tout ?</translation>
+    </message>
+    <message>
+        <source>This font style is not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This font size is not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is not a valid integer.</source>
+        <translation>Ce nombre entier n&apos;est pas valide.</translation>
+    </message>
+</context>
+<context>
     <name>KxFontSizeComboboxCommand</name>
     <message>
         <source>This is not a valid integer.</source>
@@ -3052,23 +5899,354 @@ This record is invalid. The file has been renamed,deleted or moved.</source>
     <name>KxFontsGalleryRecommendTip</name>
     <message>
         <source>See details</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir les détails</translation>
     </message>
     <message>
         <source>This document uses cloud font &quot;%1&quot;. For your convenience, please download this cloud font.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce document utilise la police du cloud &quot;%1&quot;. Par souci de commodité, téléchargez-la.</translation>
     </message>
     <message>
         <source>This document uses cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce document utilise les polices du cloud &quot;%1&quot; et &quot;%2&quot;. Par souci de commodité, téléchargez-les.</translation>
     </message>
     <message>
         <source>This document uses cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce document utilise les polices du cloud &quot;%1&quot;, &quot;%2&quot; et &quot;%3&quot;. Par souci de commodité, téléchargez-les.</translation>
     </message>
     <message>
         <source>This document uses cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce document utilise les polices du cloud &quot;%1&quot;, &quot;%2&quot; et &quot;%3&quot;, et ainsi de suite. Par souci de commodité, téléchargez-les.</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatGroupContentChartAxisOptions</name>
+    <message>
+        <source>Veritcal axis crosses</source>
+        <translation>L’axe vertical coupe</translation>
+    </message>
+    <message>
+        <source>Horizontal axis crosses</source>
+        <translation>L&apos;axe horizontal coupe</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatGroupContentChartSeriesOptions</name>
+    <message>
+        <source>Point E&amp;xplosion</source>
+        <translation>&amp;Éclatement de point</translation>
+    </message>
+    <message>
+        <source>Doughnut E&amp;xplosion</source>
+        <translation>Éclatement en &amp;anneaux</translation>
+    </message>
+    <message>
+        <source>Pie E&amp;xplosion</source>
+        <translation>E&amp;xplosion</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatGroupContent_Fill</name>
+    <message>
+        <source>Select Texture</source>
+        <translation>Sélectionner une texture</translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation>Toutes les images</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation>Métafichier Windows amélioré</translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation>Métafichier Windows</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation>Format d&apos;échange de fichiers JPEG</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation>Format PNG</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation>Bitmap Windows</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation>Format GIF</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation>Format TIFF</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatGroupContent_TextBox</name>
+    <message>
+        <source>Top</source>
+        <translation>Haut</translation>
+    </message>
+    <message>
+        <source>Middle</source>
+        <translation>Milieu</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>Bas</translation>
+    </message>
+    <message>
+        <source>Top Centered</source>
+        <translation>Centré par le haut</translation>
+    </message>
+    <message>
+        <source>Middle Centered</source>
+        <translation>Centré par le milieu</translation>
+    </message>
+    <message>
+        <source>Bottom Centered</source>
+        <translation>Centré par le bas</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>Droite</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>Centre</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>Gauche</translation>
+    </message>
+    <message>
+        <source>Right Middle</source>
+        <translation>Milieu droit</translation>
+    </message>
+    <message>
+        <source>Center Middle</source>
+        <translation>Milieu centre</translation>
+    </message>
+    <message>
+        <source>Left Middle</source>
+        <translation>Milieu gauche</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation>OPTIONS DU GRAPHIQUE</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>OPTIONS DE TEXTE</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation>OPTIONS DE FORME</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>OPTIONS DE TEXTE</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty</name>
+    <message>
+        <source>LINE</source>
+        <translation>LIGNE</translation>
+    </message>
+    <message>
+        <source>MARKER</source>
+        <translation>MARQUEUR</translation>
+    </message>
+    <message>
+        <source>TEXTBOX</source>
+        <translation>ZONE DE TEXTE</translation>
+    </message>
+    <message>
+        <source>TEXT FILL</source>
+        <translation>REMPLISSAGE DU TEXTE</translation>
+    </message>
+    <message>
+        <source>FILL</source>
+        <translation>REMPLISSAGE</translation>
+    </message>
+    <message>
+        <source>TEXT OUTLINE</source>
+        <translation>CONTOUR DU TEXTE</translation>
+    </message>
+    <message>
+        <source>ALT TEXT</source>
+        <translation>TEXTE DE REMPLACEMENT</translation>
+    </message>
+    <message>
+        <source>SHADOW</source>
+        <translation>OMBRE</translation>
+    </message>
+    <message>
+        <source>REFLECTION</source>
+        <translation>RÉFLEXION</translation>
+    </message>
+    <message>
+        <source>GLOW</source>
+        <translation>LUMIÈRE</translation>
+    </message>
+    <message>
+        <source>SOFT EDGES</source>
+        <translation>CONTOURS ADOUCIS</translation>
+    </message>
+    <message>
+        <source>3-D FORMAT</source>
+        <translation>FORMAT 3D</translation>
+    </message>
+    <message>
+        <source>3-D ROTATION</source>
+        <translation>ROTATION 3D</translation>
+    </message>
+    <message>
+        <source>BRIGHTNESS/CONTRAST</source>
+        <translation>LUMINOSITÉ ET CONTRASTE</translation>
+    </message>
+    <message>
+        <source>SHARPEN/SOFTEN</source>
+        <translation>AJUSTER LA NETTETÉ</translation>
+    </message>
+    <message>
+        <source>COLOR SATURATION</source>
+        <translation>SATURATION DE LA COULEUR</translation>
+    </message>
+    <message>
+        <source>COLOR TONE</source>
+        <translation>NUANCE DES COULEURS</translation>
+    </message>
+    <message>
+        <source>CROP</source>
+        <translation>ROGNER</translation>
+    </message>
+    <message>
+        <source>TRANSFORM</source>
+        <translation>TRANSFORMER</translation>
+    </message>
+    <message>
+        <source>ALIGNMENT</source>
+        <translation>ALIGNEMENT</translation>
+    </message>
+    <message>
+        <source>SIZE</source>
+        <translation>TAILLE</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_Chart</name>
+    <message>
+        <source>MARKER OPTIONS</source>
+        <translation>OPTIONS DE MARQUEUR</translation>
+    </message>
+    <message>
+        <source>LEGEND OPTIONS</source>
+        <translation>OPTIONS DE LEGENDE</translation>
+    </message>
+    <message>
+        <source>DATATABLE OPTIONS</source>
+        <translation>OPTIONS DE TABLE DE DONNEES</translation>
+    </message>
+    <message>
+        <source>DATALABEL OPTIONS</source>
+        <translation>OPTIONS D&apos;ETIQUETTES DE DONNEES</translation>
+    </message>
+    <message>
+        <source>NUMBER</source>
+        <translation>NOMBRE</translation>
+    </message>
+    <message>
+        <source>TRENDLINE OPTIONS</source>
+        <translation>OPTIONS DE COURBE DE TENDANCE</translation>
+    </message>
+    <message>
+        <source>SERIES OPTIONS</source>
+        <translation>OPTIONS DES SÉRIES</translation>
+    </message>
+    <message>
+        <source>AXIS OPTIONS</source>
+        <translation>OPTIONS DE L&apos;AXE</translation>
+    </message>
+    <message>
+        <source>TICK MARKS</source>
+        <translation>GRADUATIONS</translation>
+    </message>
+    <message>
+        <source>LABELS</source>
+        <translation>ÉTIQUETTES</translation>
+    </message>
+    <message>
+        <source>VERTICAL ERROR BAR</source>
+        <translation>BARRE D’ERREUR VERTICALE</translation>
+    </message>
+    <message>
+        <source>HORIZONTAL ERROR BAR</source>
+        <translation>BARRE D’ERREUR HORIZONTALE</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation>Graphique</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_Effects</name>
+    <message>
+        <source>Effects</source>
+        <translation>Effets</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_FillAndLine</name>
+    <message>
+        <source>Text Fill &amp; Outline</source>
+        <translation>Remplissage et contour de texte</translation>
+    </message>
+    <message>
+        <source>Fill &amp; Line</source>
+        <translation>Remplissage et ligne</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_Picture</name>
+    <message>
+        <source>Picture</source>
+        <translation>Image</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_SizePro</name>
+    <message>
+        <source>Size &amp; Properties</source>
+        <translation type="unfinished">Taille et propriétés</translation>
+    </message>
+    <message>
+        <source>Size &amp; 
+Properties</source>
+        <translation type="obsolete">Taille et 
+propriétés</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_TextBox</name>
+    <message>
+        <source>TextBox</source>
+        <translation>Zone de texte</translation>
     </message>
 </context>
 <context>
@@ -3079,7 +6257,7 @@ This record is invalid. The file has been renamed,deleted or moved.</source>
     </message>
     <message>
         <source>Layout</source>
-        <translation>Habillage</translation>
+        <translation type="obsolete">Habillage</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -3093,12 +6271,45 @@ This record is invalid. The file has been renamed,deleted or moved.</source>
         <source>Text Box</source>
         <translation>Zone de texte</translation>
     </message>
+    <message>
+        <source>Typography</source>
+        <translation>Typographie</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormattingTp</name>
+    <message>
+        <source>Format Chart</source>
+        <translation>Format de graphique</translation>
+    </message>
+</context>
+<context>
+    <name>KxGalleryFontComboBox</name>
+    <message>
+        <source> (Headings)</source>
+        <translation> (Titres)</translation>
+    </message>
+    <message>
+        <source> (Body)</source>
+        <translation> (Corps)</translation>
+    </message>
+</context>
+<context>
+    <name>KxGalleryModelThemeFontItem</name>
+    <message>
+        <source>(Headings)</source>
+        <translation>(Titres)</translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <translation>(Corps)</translation>
+    </message>
 </context>
 <context>
     <name>KxGalleryRecommendFontItem</name>
     <message>
         <source>(Pay)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Payant)</translation>
     </message>
 </context>
 <context>
@@ -3110,6 +6321,13 @@ This record is invalid. The file has been renamed,deleted or moved.</source>
     <message>
         <source>Show Task Window</source>
         <translation>Afficher la fenêtre des tâches</translation>
+    </message>
+</context>
+<context>
+    <name>KxHintWidget</name>
+    <message>
+        <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
+        <translation>%1Impossible de trouver le document que vous voulez? Réessayez  %2 %3 Kingsoft Data Recovery Master %4</translation>
     </message>
 </context>
 <context>
@@ -3151,7 +6369,7 @@ This record is invalid. The file has been renamed,deleted or moved.</source>
     </message>
     <message>
         <source>Custom:</source>
-        <translation>Personnalisé :</translation>
+        <translation>Personnalisé:</translation>
     </message>
 </context>
 <context>
@@ -3173,7 +6391,7 @@ This record is invalid. The file has been renamed,deleted or moved.</source>
     </message>
     <message>
         <source>Cannot create a link to the file &quot;%1&quot;.</source>
-        <translation>Impossible de créer un lien vers le fichier %1.</translation>
+        <translation>Impossible de créer un lien vers le fichier &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>File</source>
@@ -3268,21 +6486,130 @@ This record is invalid. The file has been renamed,deleted or moved.</source>
     </message>
 </context>
 <context>
-    <name>KxLoadingRMSDlg</name>
+    <name>KxLinksObjectChangeSourceDlg</name>
     <message>
-        <source>WPS</source>
+        <source>All Files(*.*)</source>
+        <translation>Tous les fichiers (*.*)</translation>
+    </message>
+    <message>
+        <source>Word Documents(*.docx)</source>
+        <translation>Documents Word(*.docx)</translation>
+    </message>
+    <message>
+        <source>Word Macro-Enabled Documents(*.docm)</source>
+        <translation>Documents Word prenant en charge les macros (*.docm)</translation>
+    </message>
+    <message>
+        <source>Word 97-2003 Documents(*.doc)</source>
+        <translation>Documents Word 97-2003 (*.doc)</translation>
+    </message>
+    <message>
+        <source>Word Templates(*.dotx)</source>
+        <translation>Modèles Word(*.dotx)</translation>
+    </message>
+    <message>
+        <source>Word Macro-Enabled Templates(*.docm)</source>
+        <translation>Modèles Word prenant en charge les macros (*.dotm)</translation>
+    </message>
+    <message>
+        <source>Word 97-2003 Templates(*.doc)</source>
+        <translation>Modèles Word 97-2003 (*.dot)</translation>
+    </message>
+    <message>
+        <source>Rich Text Format(*.rtf)</source>
+        <translation>Format RTF(*.rtf)</translation>
+    </message>
+    <message>
+        <source>Text files(*.txt)</source>
+        <translation>Fichiers texte(*.txt)</translation>
+    </message>
+    <message>
+        <source>XML files(*.xml)</source>
+        <translation>Fichiers XML(*.xml)</translation>
+    </message>
+    <message>
+        <source>It&amp;em</source>
+        <translation>Élém&amp;ent</translation>
+    </message>
+    <message>
+        <source>Item:</source>
+        <translation>Élément : </translation>
+    </message>
+</context>
+<context>
+    <name>KxLinksObjectContextDlg</name>
+    <message>
+        <source>close</source>
+        <translation>Fermer</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to break the selectd links?</source>
+        <translation>Annuler les liaisons sélectionnées ?</translation>
+    </message>
+</context>
+<context>
+    <name>KxLinksObjectContextHelper</name>
+    <message>
+        <source>Auto</source>
+        <translation>Auto</translation>
+    </message>
+    <message>
+        <source>Man</source>
+        <translation>Manuel</translation>
+    </message>
+    <message>
+        <source>Lock</source>
+        <translation>Verrouiller</translation>
+    </message>
+    <message>
+        <source>---</source>
+        <translation>---</translation>
+    </message>
+    <message>
+        <source>N/A</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Source file</source>
+        <translation>Fichier source</translation>
+    </message>
+    <message>
+        <source>Item</source>
+        <translation>Élément</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>Type</translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation>Mettre à jour</translation>
+    </message>
+    <message>
+        <source>Objects in this document contain links to files that cannot be found.										 The linked information will not be updated.</source>
+        <translation>Les objets de ce document contiennent des liens vers des fichiers introuvables.									 Les informations liées ne seront pas mises à jour.</translation>
+    </message>
+    <message>
+        <source>Objects in this document contain links to files that cannot be found.								 The linked information will not be updated.</source>
+        <translation>Les objets de ce document contiennent des liens vers des fichiers introuvables.								 Les informations liées ne seront pas mises à jour.</translation>
+    </message>
+</context>
+<context>
+    <name>KxLoadingRMSDlg</name>
+    <message>
+        <source>WPS</source>
+        <translation>WPS</translation>
+    </message>
+    <message>
         <source>Verifying your logon information for opening content with restricted permission...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vérification de vos informations de connexion en vue d&apos;ouvrir un contenu à accès restreint...</translation>
     </message>
 </context>
 <context>
     <name>KxMacroActionButtonCommand</name>
     <message>
         <source>Cannot run the macro &apos;%1&apos;. The macro may not be available in this workbook, or all macros may have been disabled.</source>
-        <translation>Impossible d&apos;exécuter la macro %1. Il est possible qu&apos;elle ne soit pas disponible dans ce classeur ou que toutes les macros soient désactivées.</translation>
+        <translation>Impossible d&apos;exécuter la macro « %1 ». Il se peut que la macro ne soit pas disponible dans ce classeur ou que toutes les macros soient désactivées.</translation>
     </message>
 </context>
 <context>
@@ -3302,8 +6629,7 @@ This record is invalid. The file has been renamed,deleted or moved.</source>
     <message>
         <source>To work with macros, please purchase WPS Office Professional.
 </source>
-        <translation type="unfinished">Pour utiliser les macros, achetez WPS Office Professionnel. 
-
+        <translation>Pour utiliser les macros, achetez WPS Office Professionnel.
 </translation>
     </message>
 </context>
@@ -3321,104 +6647,105 @@ This record is invalid. The file has been renamed,deleted or moved.</source>
     <name>KxMailFeedBackDlg</name>
     <message>
         <source>----please choose the type of your problem-----</source>
-        <translation type="unfinished"></translation>
+        <translation>----Choisissez le type de votre problème-----</translation>
     </message>
     <message>
         <source>(Details of problems)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Détails des problèmes)</translation>
     </message>
     <message>
         <source>(Steps to reproduce the problem)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Étapes pour reproduire le problème)</translation>
     </message>
     <message>
         <source>(A detailed description)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Description détaillée)</translation>
     </message>
     <message>
         <source>If options folow are empty, the email will only send the auto-generated error log report.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si les options suivantes ne sont pas renseignées, l&apos;e-mail enverra seulement le rapport du journal d&apos;erreurs généré automatiquement.</translation>
     </message>
     <message>
         <source>Abnormal exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Fin anormale</translation>
     </message>
     <message>
         <source>User feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Commentaires des utilisateurs</translation>
     </message>
     <message>
         <source>Files or pictures to help describing problems</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers ou images servant à décrire les problèmes</translation>
     </message>
     <message>
         <source>We are looking forward to receiving your email. Please describe encountered problems or share your suggestions of WPS Office in the below table. We will reply you as soon as possible.
 If the problem is urgent, call the customer hotline : 400-667-5005.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous avons hâte de recevoir votre courrier électronique. Décrivez les problèmes que vous rencontrez ou partagez vos suggestions sur WPS Office dans le tableau ci-dessous. Nous vous répondrons dès que possible.
+En cas de problème urgent, contactez la hotline par téléphone au  400-667-5005.</translation>
     </message>
     <message>
         <source>We are sorry that WPS Office encountered an error and closed automatically. An error log report has been generated. We suggest you email this report to us and provide other information about this error. We will handle it quickly. Thank you for your feedback.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office a rencontré une erreur et s&apos;est arrêté automatiquement. Un rapport de journal d&apos;erreurs a été généré. Nous vous suggérons de nous l&apos;envoyer par courrier électronique et de nous adresser d&apos;autres informations sur cette erreur. Nous les traiterons rapidement. Nous vous remercions pour vos commentaires.</translation>
     </message>
     <message>
         <source>Phone number can only contain numbers, +, -</source>
-        <translation type="unfinished"></translation>
+        <translation>Le numéro de téléphone ne peut comporter que des chiffres, +, -</translation>
     </message>
     <message>
         <source>Please choose the problem type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez le type de problème. </translation>
     </message>
     <message>
         <source>File does not exist! Please check the file path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce fichier n&apos;existe pas ! Vérifiez le chemin d&apos;accès du fichier.</translation>
     </message>
     <message>
         <source>Please enter the contact phone and E-mail address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le numéro de téléphone du contact et une adresse de messagerie. </translation>
     </message>
     <message>
         <source>Please enter a contact phone!</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le numéro de téléphone d&apos;un contact. </translation>
     </message>
     <message>
         <source>Please enter an e-mail address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez une adresse de messagerie. </translation>
     </message>
     <message>
         <source>E-mail addresses are not compliant!</source>
-        <translation type="unfinished"></translation>
+        <translation>Les adresses de messagerie ne sont pas conformes.</translation>
     </message>
     <message>
         <source>[User feedback] Version:%1--%2</source>
-        <translation type="unfinished"></translation>
+        <translation>[Commentaires des utilisateurs] Version : %1--%2</translation>
     </message>
     <message>
         <source>Dear users,</source>
-        <translation type="unfinished"></translation>
+        <translation>Chers utilisateurs,</translation>
     </message>
     <message>
         <source>The following content has been automatically filled in the absence of complement, can be sent directly to this email, Thank you for your feedback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le contenu suivant a été automatiquement rempli en l&apos;absence d&apos;informations complémentaires. Il peut être envoyé directement à ce courrier électronique. Nous vous remercions pour vos commentaires.</translation>
     </message>
     <message>
         <source>Details of problems:</source>
-        <translation type="unfinished"></translation>
+        <translation>Détails des problèmes :</translation>
     </message>
     <message>
         <source>Steps to reproduce the problem:</source>
-        <translation type="unfinished"></translation>
+        <translation>Étapes pour reproduire le problème :</translation>
     </message>
     <message>
         <source>A detailed description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Description détaillée :</translation>
     </message>
     <message>
         <source>Phone:</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléphone :</translation>
     </message>
     <message>
         <source>E-mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail :</translation>
     </message>
 </context>
 <context>
@@ -3451,6 +6778,14 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <source>cancel Close</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="obsolete">Mode tactile</translation>
+    </message>
+    <message>
+        <source>Compatibility Mode</source>
+        <translation>Mode de compatibilité</translation>
+    </message>
 </context>
 <context>
     <name>KxModifyCommandDlg</name>
@@ -3460,7 +6795,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>&amp;Caption:</source>
-        <translation type="unfinished">&amp;Légende :</translation>
+        <translation>&amp;Légende :</translation>
     </message>
     <message>
         <source>&amp;Copy Icon</source>
@@ -3488,7 +6823,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>&amp;Paste Icon</source>
-        <translation type="unfinished">&amp;Coller l&apos;icône</translation>
+        <translation>Icône &amp;Coller</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -3504,7 +6839,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>All Pictures(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</source>
-        <translation>Toutes les images (*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</translation>
+        <translation type="obsolete">Toutes les images (*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</translation>
     </message>
     <message>
         <source>All files(*.*)</source>
@@ -3516,7 +6851,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Command &amp;binding</source>
-        <translation type="unfinished">Liaison des &amp;commandes</translation>
+        <translation>&amp;Liaison de commande</translation>
     </message>
     <message>
         <source>Con&amp;trol</source>
@@ -3560,7 +6895,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Sho&amp;w</source>
-        <translation type="unfinished">Affiche&amp;r</translation>
+        <translation>Affiche&amp;r</translation>
     </message>
     <message>
         <source>Tag Image File Format(*tif *tiff)</source>
@@ -3572,7 +6907,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Shortcut &amp;key</source>
-        <translation type="unfinished">Touche de &amp;raccourci</translation>
+        <translation>Touc&amp;he de raccourci</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)</source>
@@ -3585,6 +6920,10 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <message>
         <source>Windows Bitmap(*.bmp)</source>
         <translation>Bitmap Windows (*.bmp)</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff *.wdp)</source>
+        <translation>Toutes les images(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff *.wdp)</translation>
     </message>
 </context>
 <context>
@@ -3638,65 +6977,84 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <name>KxOnlineFontController</name>
     <message>
         <source>View Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher maintenant</translation>
     </message>
     <message>
         <source>Cloud has reached its limit for cloud fonts (%1). Please go to the &apos;Management of Cloud Font&apos; page for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>La limite du nombre de polices du cloud est atteinte (%1). Pour plus d&apos;informations, accédez à la page &quot; Gestion des polices du cloud &quot;.</translation>
+    </message>
+    <message>
+        <source>Cloud has reached its limit for cloud fonts (%1). Please go to the &quot;management of cloud font&quot; page for details. </source>
+        <translation type="obsolete">La limite du nombre de polices du cloud est atteinte (%1). Pour plus d&apos;informations, accédez à la page &quot; Gestion des polices du cloud &quot;. </translation>
+    </message>
+</context>
+<context>
+    <name>KxOnlineFontDownloadReminder</name>
+    <message>
+        <source>%1 online fonts downloaded,click to see.</source>
+        <translation>%1 téléchagement des polices en ligne, claquez pour voir.</translation>
     </message>
 </context>
 <context>
     <name>KxOnlineFontRecommendDlg</name>
     <message>
         <source>Tip</source>
-        <translation type="unfinished"></translation>
+        <translation>Conseil</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished">Télécharger</translation>
+        <translation>Télécharger</translation>
     </message>
     <message>
         <source>Cancle</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminé</translation>
+    </message>
+    <message>
+        <source>You have chosen %1 paid cloud fonts which require a VIP membership to download.</source>
+        <translation>Vous avez choisi des polices payantes %1, ce qui demande une appartenance de VIP pour télécharger.</translation>
     </message>
 </context>
 <context>
     <name>KxOnlineFontTipDlg</name>
     <message>
         <source>Renew</source>
-        <translation type="unfinished"></translation>
+        <translation>Renouveler</translation>
     </message>
     <message>
         <source>Upgrade</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à niveau</translation>
     </message>
     <message>
         <source>Tip</source>
-        <translation type="unfinished"></translation>
+        <translation>Conseil</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Unable to connect to server, please check your network connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Connexion au serveur impossible. Vérifiez votre connexion réseau.</translation>
     </message>
     <message>
         <source>%1 membership has expired, please renew.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 abonnement a expiré veuillez renouveler.</translation>
     </message>
     <message>
-        <source>WPS members can access to more than 300 cloud fonts, updated monthly.</source>
-        <translation type="unfinished"></translation>
+        <source>Vip %1 has expired, please renew</source>
+        <translation type="obsolete">La licence VIP %1 a expiré. Veuillez la renouveler.</translation>
+    </message>
+    <message>
+        <source>WPS members can access to more than 300 cloud fonts, updated monthly. </source>
+        <translation>Les membres de WPS peuvent accéder à plus de 300 polices du cloud, mises à jour tous les mois. </translation>
     </message>
 </context>
 <context>
@@ -3762,83 +7120,108 @@ Cliquez sur l&apos;icône pour obtenir plus de détails.</translation>
     <message>
         <source>Sign in to use cloud fonts.
 Click the icon to sign in now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Connectez-vous pour utiliser les polices du cloud.
+Cliquez sur l&apos;icône pour vous connecter maintenant.</translation>
     </message>
     <message>
         <source>VIP cloud fonts installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Installation terminée des polices du cloud VIP</translation>
     </message>
     <message>
         <source>Cloud fonts installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Installation terminée des polices du cloud</translation>
     </message>
     <message>
         <source>Click to install free cloud fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez pour installer les polices gratuites du cloud</translation>
     </message>
     <message>
         <source>Click to shuffle cloud fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez pour lire les polices du cloud de façon aléatoire</translation>
     </message>
     <message>
         <source>More Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Autres polices</translation>
     </message>
     <message>
         <source>(Restart to take effect).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Downloading fonts, please wait?</source>
-        <translation type="unfinished"></translation>
+        <translation>(Redémarrez pour appliquer).</translation>
     </message>
     <message>
         <source>Upgrade to use VIP-only fonts.
 Click here to sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à niveau pour utiliser les polices réservées au VIP.
+Cliquez ici pour vous connecter.</translation>
     </message>
     <message>
         <source>Senior members can access to free cloud fonts. Click to sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les membres senior peuvent accéder aux polices gratuites du cloud. Cliquez pour vous connecter.</translation>
     </message>
     <message>
         <source>Members can access to free cloud fonts. Click to sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les membres peuvent accéder aux polices gratuites du cloud. Cliquez pour vous connecter.</translation>
     </message>
     <message>
         <source>Your %1 membership expires now. Please renew.</source>
-        <translation type="unfinished"></translation>
+        <translation>Votre appartenance à %1 expire maintenant. Veuillez-la renouveler.</translation>
     </message>
     <message>
         <source>Downloading, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement en cours. Veuillez patienter...</translation>
     </message>
     <message>
         <source>Upgrade to use VIP-only fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à niveau pour utiliser les polices réservées au VIP.</translation>
     </message>
     <message>
         <source>Your %1 membership expires now. Please renew to use cloud fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Votre appartenance à %1 expire maintenant. Renouvelez-la pour utiliser les polices du cloud.</translation>
     </message>
     <message>
         <source>All currently available cloud fonts have been installed.  More are coming soon!</source>
-        <translation type="unfinished"></translation>
+        <translation>Toutes les polices du cloud actuellement disponibles ont été installées.  D&apos;autres polices seront bientôt disponibles.</translation>
     </message>
     <message>
         <source>Hide cloud fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Masquer des polices en ligne</translation>
     </message>
     <message>
         <source>Click to keep a cloud font on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez pour conserver une police du cloud en haut</translation>
+    </message>
+    <message>
+        <source>Downloading font, please wait...</source>
+        <translation type="obsolete">Téléchargement en cours. Veuillez patienter...</translation>
+    </message>
+    <message>
+        <source>Downloading fonts, please wait…</source>
+        <translation type="obsolete">Téléchargement en cours des polices. Veuillez patienter...</translation>
+    </message>
+    <message>
+        <source>Downloading font, please wait…</source>
+        <translation type="obsolete">Téléchargement en cours. Veuillez patienter...</translation>
+    </message>
+    <message>
+        <source>Downloading fonts, please wait...</source>
+        <translation>Téléchargement en cours. Veuillez patienter...</translation>
+    </message>
+</context>
+<context>
+    <name>KxOnlineShapesGalleryModel</name>
+    <message>
+        <source>Recommendation</source>
+        <translation>Recommendation</translation>
+    </message>
+    <message>
+        <source>More...</source>
+        <translation>D&apos;autre...</translation>
     </message>
 </context>
 <context>
     <name>KxOverdueDlg</name>
     <message>
         <source>Disable Print</source>
-        <translation>Désactiver l&apos;imprimante</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enter Viewer</source>
@@ -3846,27 +7229,27 @@ Click here to sign in.</source>
     </message>
     <message>
         <source>Input Serial Number</source>
-        <translation>Entrer le numéro de série</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Purchase Now</source>
-        <translation>Acheter dès maintenant</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Thank you for using the trial version of our product.</source>
-        <translation>Merci d&apos;utiliser la version d&apos;essai de notre produit.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update to Personal</source>
-        <translation>Mettre à jour vers la version personnelle.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Office Free.</source>
-        <translation>Version gratuite de WPS Office.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Online Store.</source>
-        <translation>Boutique en ligne WPS.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You also can download</source>
@@ -3874,19 +7257,30 @@ Click here to sign in.</source>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one at the</source>
-        <translation>Votre période d&apos;essai de WPS Office a expiré et l&apos;impression sera désactivée. Entrez un numéro de série valide pour l&apos;activer. Si vous ne disposez pas d&apos;un numéro de série valide, vous pouvez en acheter un sur la</translation>
-    </message>
-    <message>
-        <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation>Votre période d&apos;essai de WPS Office a expiré et vous êtes sur le point de passer en mode Visionneuse. Entrez un numéro de série valide pour continuer à utiliser l&apos;application. Si vous ne disposez pas d&apos;un numéro de série valide, achetez-en un sur la</translation>
-    </message>
-    <message>
-        <source>You can also download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can also download</source>
+        <translation type="unfinished">Vous pouvez également télécharger</translation>
+    </message>
+    <message>
         <source>Enter Viewer Mode</source>
-        <translation type="unfinished">Accéder au mode Visionneuse</translation>
+        <translation type="unfinished">Accéder à la visionneuse</translation>
+    </message>
+</context>
+<context>
+    <name>KxPDF2WordButton</name>
+    <message id="NULL">
+        <source>Loading the PDF To Word. Please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Format to Word Format</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3897,7 +7291,7 @@ Click here to sign in.</source>
     </message>
     <message>
         <source>Result:</source>
-        <translation>Résultat :</translation>
+        <translation type="obsolete">Résultat :</translation>
     </message>
     <message>
         <source>Unknown Format Source.</source>
@@ -3909,85 +7303,146 @@ Click here to sign in.</source>
     </message>
     <message>
         <source>The specified data type is unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le type de données spécifié n&apos;est pas disponible.</translation>
+    </message>
+    <message>
+        <source>Unknown object</source>
+        <translation>Objet inconnu</translation>
     </message>
 </context>
 <context>
     <name>KxPermissionOptionDlg</name>
     <message>
         <source>Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorisation</translation>
     </message>
     <message>
         <source>&amp;Restrict permission to this document</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Restreindre l&apos;accès à ce document</translation>
     </message>
     <message>
         <source>The following &amp;users have permission to this document:</source>
-        <translation type="unfinished"></translation>
+        <translation>Les &amp;utilisateurs suivants ont un droit d&apos;accès à ce document :</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
-        <translation type="unfinished">&amp;Ajouter...</translation>
+        <translation>&amp;Ajouter...</translation>
     </message>
     <message>
         <source>Remo&amp;ve</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprim&amp;er</translation>
     </message>
     <message>
         <source>Additional permissions for users:</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorisations supplémentaires aux utilisateurs :</translation>
     </message>
     <message>
         <source>This document expires o&amp;n:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce document expire l&amp;e :</translation>
     </message>
     <message>
         <source>Enter date in format: yyyy/M/d</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez la date dans le format : aaaa/M/j</translation>
     </message>
     <message>
         <source>&amp;Print content</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Imprimer le contenu</translation>
     </message>
     <message>
         <source>Allow users with read access to &amp;copy content</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoriser les utilisateurs bénéficiant d&apos;accès en lecture à &amp;copier le contenu</translation>
     </message>
     <message>
         <source>Access content pr&amp;ogrammatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Accéder au contenu &amp;via un programme</translation>
     </message>
     <message>
         <source>Additional settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Additional settings :</translation>
     </message>
     <message>
         <source>Re&amp;quire a connection to verify a user&apos;s permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Exi&amp;ger une connexion pour vérifier l&apos;autorisation d&apos;un utilisateur</translation>
     </message>
     <message>
         <source>&amp;Set defaults...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Définir valeurs par défaut...</translation>
     </message>
     <message>
         <source>Users can request additional per&amp;missions from:</source>
-        <translation type="unfinished"></translation>
+        <translation>Le&amp;s utilisateurs peuvent demander des autorisations supplémentaires à :</translation>
+    </message>
+    <message>
+        <source>Insert Hyperlink</source>
+        <translation>Insérer un lien hypertexte</translation>
+    </message>
+</context>
+<context>
+    <name>KxPicOrTextureCombox</name>
+    <message>
+        <source>Custom</source>
+        <translation>Personnalisé</translation>
+    </message>
+</context>
+<context>
+    <name>KxPicOrTextureFillCommand</name>
+    <message>
+        <source>Select Texture</source>
+        <translation>Sélectionner une texture</translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation>Toutes les images</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation>Métafichier Windows amélioré</translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation>Métafichier Windows</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation>Format d&apos;échange de fichiers JPEG</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation>Format PNG</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation>Bitmap Windows</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation>Format GIF</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation>Format TIFF</translation>
     </message>
 </context>
 <context>
     <name>KxPicksolutionDlg</name>
     <message>
         <source>Choose XML Expansion Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisir un kit d&apos;extension XML</translation>
     </message>
     <message>
         <source>One or more XML expansion packs are available for this file. Choose one from the list below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un ou plusieurs kits d&apos;extension XML sont disponibles pour ce fichier. Choisissez-en un dans la liste ci-après.</translation>
     </message>
     <message>
         <source>No XML expansion pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun kit d&apos;extension XML</translation>
+    </message>
+</context>
+<context>
+    <name>KxPresetsCombobox</name>
+    <message>
+        <source>None</source>
+        <translation>Aucun</translation>
     </message>
 </context>
 <context>
@@ -4005,42 +7460,42 @@ Click here to sign in.</source>
     <name>KxPrintRestrictDlg</name>
     <message>
         <source>You are using a free version. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous utilisez une version gratuite. </translation>
     </message>
     <message>
         <source>A watermark will be added to your document when printing. We recommend that you click Print Preview to see effects before printing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un filigrane sera ajouté à votre document lors de l&apos;impression. Nous vous recommandons de cliquer sur Aperçu avant impression pour voir le résultat avant l&apos;impression.</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished">Im&amp;primer</translation>
+        <translation type="unfinished">&amp;Imprimer</translation>
     </message>
     <message>
         <source>Print Pre&amp;view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aperçu a&amp;vant impression</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">A&amp;nnuler</translation>
+        <translation type="unfinished">&amp;Annuler</translation>
     </message>
 </context>
 <context>
     <name>KxPrintWatermarkDlg</name>
     <message>
         <source>You are using a free version. </source>
-        <translation type="unfinished"></translation>
+        <translation>Vous utilisez une version gratuite. </translation>
     </message>
     <message>
         <source>A watermark will be added to your document when printing. </source>
-        <translation type="unfinished"></translation>
+        <translation>Un filigrane sera ajouté à votre document lors de l&apos;impression. </translation>
     </message>
     <message>
         <source>Don&apos;t show again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne plus afficher.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished">&amp;OK</translation>
+        <translation>&amp;OK</translation>
     </message>
 </context>
 <context>
@@ -4087,7 +7542,7 @@ Click here to sign in.</source>
     </message>
     <message>
         <source>Print to fi&amp;le</source>
-        <translation type="unfinished">Imprimer dans un fic&amp;hier</translation>
+        <translation>Imprimer dans un fic&amp;hier</translation>
     </message>
     <message>
         <source>Printer</source>
@@ -4340,48 +7795,67 @@ Click here to sign in.</source>
     </message>
     <message>
         <source>Clear this recor&amp;d</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Supprimer cet enregistrement</translation>
     </message>
     <message>
         <source>Open the file in &amp;folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir le fichier dans le &amp;dossier</translation>
     </message>
     <message>
         <source>A total of %1 records</source>
-        <translation type="unfinished"></translation>
+        <translation>Total de %1 enregistrements</translation>
     </message>
     <message>
         <source>open file folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">dossier ouvert</translation>
     </message>
     <message>
         <source>Clear in one click</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer en un seul clic</translation>
     </message>
     <message>
         <source>Clear &amp;all selected records</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer &amp;tout l&apos;enregistrement sélectionné</translation>
     </message>
     <message>
         <source>Clear &amp;all invalid records</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer &amp;tout l&apos;enregistrement non valide</translation>
     </message>
     <message>
         <source>
 
 Modified time: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Heure de modification : </translation>
+    </message>
+    <message>
+        <source>A key to clear</source>
+        <translation type="obsolete">Une touche pour supprimer</translation>
+    </message>
+    <message>
+        <source>Clear &amp;all selected record</source>
+        <translation type="obsolete">Supprimer &amp;tout l&apos;enregistrement sélectionné</translation>
+    </message>
+    <message>
+        <source>Clear &amp;all invalid record</source>
+        <translation type="obsolete">Supprimer &amp;tout l&apos;enregistrement non valide</translation>
     </message>
     <message>
         <source>
 
-This record is invalid. The file has been renamed,deleted or moved.</source>
-        <translation type="unfinished"></translation>
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation>
+
+Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou déplacé.</translation>
     </message>
     <message>
-        <source>&quot;%1&quot; cannot be opened.
-It has been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <source>&quot;%1&quot; cannot be opened. It has been renamed, deleted or moved.</source>
+        <translation>Impossible d&apos;ouvrir &quot;%1&quot;. Ce document a été renommé, supprimé ou déplacé.</translation>
+    </message>
+    <message>
+        <source>Open folder containing the file</source>
+        <translation>Ouvrir l&apos;emplacement du fichier</translation>
     </message>
 </context>
 <context>
@@ -4395,64 +7869,197 @@ It has been renamed, deleted or moved.</source>
     <name>KxRestrictedAccessDlg</name>
     <message>
         <source>Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorisation</translation>
     </message>
     <message>
         <source>&amp;Restrict permission to this document</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Restreindre l&apos;accès à ce document</translation>
     </message>
     <message>
         <source>Enter the e-mail addresses of users in the Read and Change boxes (exapmle: &apos;tommy@qq.com&apos;).
 Separate names with a semicolon(;).
 To select names from the Address book, click the Read or Change button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapez les adresses de messagerie électronique des utilisateurs dans les zones Lire et Modifier (par exemple, &apos;tommy@qq.com&apos;).
+Séparez les noms par un point virgule (;).
+Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouton Lire ou Modifier.</translation>
     </message>
     <message>
         <source>Add users from the Address Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter les utilisateurs du carnet d&apos;adresses</translation>
     </message>
     <message>
         <source>Read...   </source>
-        <translation type="unfinished"></translation>
+        <translation>Lire...   </translation>
     </message>
     <message>
         <source>PI</source>
-        <translation type="unfinished"></translation>
+        <translation>PI</translation>
     </message>
     <message>
         <source>Change...   </source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier...   </translation>
     </message>
     <message>
         <source>Users with Change permission can read, edit, copy content from, and save changes to this document, but cannot print content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les utilisateurs bénéficiant d&apos;autorisation de modification peuvent lire, éditer et enregistrer les modifications apportées à ce document, mais ne peuvent pas imprimer son contenu.</translation>
     </message>
     <message>
         <source>Displays advanced settings dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Affiche la boîte de dialogue des paramètres avancés</translation>
     </message>
     <message>
         <source> More &amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation> Autres &amp;options...</translation>
     </message>
     <message>
         <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les utilisateurs bénéficiant d&apos;autorisation de lecture peuvent lire ce document, mais ne peuvent ni modifier ni imprimer ni copier son contenu.</translation>
     </message>
     <message>
         <source>Give all users Read access</source>
-        <translation type="unfinished"></translation>
+        <translation>Accorder à tous les utilisateurs l&apos;accès en lecture</translation>
     </message>
     <message>
         <source>Give all users Change access</source>
-        <translation type="unfinished"></translation>
+        <translation>Accorder à tous les utilisateurs l&apos;accès de modification</translation>
+    </message>
+</context>
+<context>
+    <name>KxRestrictedAccessOutlookDlg</name>
+    <message>
+        <source>Permission</source>
+        <translation>Autorisation</translation>
+    </message>
+    <message>
+        <source>&amp;Restrict permission to this document</source>
+        <translation>&amp;Restreindre l&apos;accès à ce document</translation>
+    </message>
+    <message>
+        <source>Enter the e-mail addresses of users in the Read and Change boxes (exapmle: &apos;tommy@qq.com&apos;).
+Separate names with a semicolon(;).
+To select names from the Address book, click the Read or Change button.</source>
+        <translation>Tapez les adresses de messagerie électronique des utilisateurs dans les zones Lire et Modifier (par exemple, &apos;tommy@qq.com&apos;).
+Séparez les noms par un point virgule (;).
+Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouton Lire ou Modifier.</translation>
+    </message>
+    <message>
+        <source>Add users from the Address Book</source>
+        <translation>Ajouter les utilisateurs du carnet d&apos;adresses</translation>
+    </message>
+    <message>
+        <source>Read...   </source>
+        <translation>Lire...   </translation>
+    </message>
+    <message>
+        <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
+        <translation>Les utilisateurs bénéficiant d&apos;autorisation de lecture peuvent lire ce document, mais ne peuvent ni modifier ni imprimer ni copier son contenu.</translation>
+    </message>
+    <message>
+        <source>Give all users Read access</source>
+        <translation>Accorder à tous les utilisateurs l&apos;accès en lecture</translation>
+    </message>
+    <message>
+        <source>PI</source>
+        <translation>PI</translation>
+    </message>
+    <message>
+        <source>Check names</source>
+        <translation>Vérifier les noms</translation>
+    </message>
+    <message>
+        <source>Users with Change permission can read, edit, copy content from, and save changes to this document, but cannot print content.</source>
+        <translation>Les utilisateurs bénéficiant d&apos;autorisation de modification peuvent lire, éditer et enregistrer les modifications apportées à ce document, mais ne peuvent pas imprimer son contenu.</translation>
+    </message>
+    <message>
+        <source>Change...   </source>
+        <translation>Modifier...   </translation>
+    </message>
+    <message>
+        <source>Give all users Change access</source>
+        <translation>Accorder à tous les utilisateurs l&apos;accès de modification</translation>
+    </message>
+    <message>
+        <source>Displays advanced settings dialog</source>
+        <translation>Affiche la boîte de dialogue des paramètres avancés</translation>
+    </message>
+    <message>
+        <source> More &amp;Options...</source>
+        <translation> Autres &amp;options...</translation>
     </message>
 </context>
 <context>
     <name>KxRnCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
+        <translation type="obsolete">Fermer</translation>
+    </message>
+    <message>
+        <source>close</source>
         <translation>Fermer</translation>
+    </message>
+</context>
+<context>
+    <name>KxRnFixSubTaskpaneCommand</name>
+    <message>
+        <source>fixSub</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxRnPopSubTaskpaneCommand</name>
+    <message>
+        <source>popSub</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxRnTpTitle</name>
+    <message>
+        <source>(page to task pane)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(page to doc area)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSelectSeriesDialog</name>
+    <message>
+        <source>KxAddTrendlineDialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>TextLabel</translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation>Bouton-poussoir</translation>
+    </message>
+    <message>
+        <source>Accept</source>
+        <translation>Accepter</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <source>Add Error Bars</source>
+        <translation>Ajouter des barres d&apos;erreur</translation>
+    </message>
+    <message>
+        <source>Add Error Bars based on Series:</source>
+        <translation>Ajouter des barres d&apos;erreur en fonction des séries :</translation>
+    </message>
+    <message>
+        <source>Add Trendline</source>
+        <translation>Ajouter une courbe de tendance</translation>
+    </message>
+    <message>
+        <source>Add a Trendline based on Series:</source>
+        <translation>Ajouter une courbe de tendance en fonction des séries :</translation>
     </message>
 </context>
 <context>
@@ -4500,14 +8107,54 @@ mais le package du système inclus est réservé.</translation>
     </message>
 </context>
 <context>
+    <name>KxShapesGalleryModel</name>
+    <message>
+        <source>Recently Used Shapes</source>
+        <translation type="obsolete">Formes Récemment Utilisées</translation>
+    </message>
+    <message>
+        <source>Recently Shapes</source>
+        <translation>Formes Récemment Utilisées</translation>
+    </message>
+</context>
+<context>
+    <name>KxShapesGalleryModelItem</name>
+    <message>
+        <source>Lock Drawing Mode</source>
+        <translation>Mode Verrouillage du dessin</translation>
+    </message>
+</context>
+<context>
     <name>KxSkinSwitchHtmlBridge</name>
     <message>
         <source>(Custom)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Personnaliser)</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger</translation>
+    </message>
+    <message>
+        <source>upload</source>
+        <translation type="obsolete">télécharger</translation>
+    </message>
+    <message>
+        <source>(custom)</source>
+        <translation type="obsolete">(personnalisé)</translation>
+    </message>
+</context>
+<context>
+    <name>KxSpeedLayoutCommand</name>
+    <message>
+        <source>Layout %1</source>
+        <translation>Disposition %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxSpinboxCommand</name>
+    <message>
+        <source>cm</source>
+        <translation>cm</translation>
     </message>
 </context>
 <context>
@@ -4529,18 +8176,22 @@ mais le package du système inclus est réservé.</translation>
     </message>
     <message>
         <source>2013 Elegant Black</source>
-        <translation>Noir Élégant 2013</translation>
+        <translation type="obsolete">Noir Élégant 2013</translation>
     </message>
     <message>
         <source>Classic Style</source>
         <translation>Style Classique</translation>
+    </message>
+    <message>
+        <source>2016 White</source>
+        <translation>2016 Blanc</translation>
     </message>
 </context>
 <context>
     <name>KxSwitchSkinWidget</name>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">A&amp;nnuler</translation>
+        <translation>&amp;Annuler</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -4578,7 +8229,7 @@ mais le package du système inclus est réservé.</translation>
     </message>
     <message>
         <source>Restart to make changes</source>
-        <translation>Redémarrer pour effectuer des modifications</translation>
+        <translation>Redémarrer pour appliquer</translation>
     </message>
 </context>
 <context>
@@ -4643,7 +8294,7 @@ mais le package du système inclus est réservé.</translation>
     </message>
     <message>
         <source>Solution</source>
-        <translation type="unfinished"></translation>
+        <translation>Solution</translation>
     </message>
 </context>
 <context>
@@ -4684,6 +8335,10 @@ mais le package du système inclus est réservé.</translation>
         <source>Show Button Text</source>
         <translation>Afficher le texte du bouton</translation>
     </message>
+    <message>
+        <source>restore button sequence</source>
+        <translation>Restaurer séquence de boutons</translation>
+    </message>
 </context>
 <context>
     <name>KxTableGalleryModel</name>
@@ -4697,17 +8352,32 @@ mais le package du système inclus est réservé.</translation>
     </message>
 </context>
 <context>
+    <name>KxTabsDlg</name>
+    <message>
+        <source>cm</source>
+        <translation>cm</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>Tout</translation>
+    </message>
+</context>
+<context>
     <name>KxTaskTabbar</name>
     <message>
         <source>Task window location</source>
         <translation>Emplacement de la fenêtre des tâches</translation>
+    </message>
+    <message>
+        <source>(may be dragged to doc area)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTemplateOnLineCommand</name>
     <message>
         <source>http://www.kingsoftstore.com</source>
-        <translation>http://www.kingsoftstore.com</translation>
+        <translation type="obsolete">http://www.kingsoftstore.com</translation>
     </message>
 </context>
 <context>
@@ -4737,7 +8407,61 @@ mais le package du système inclus est réservé.</translation>
     <name>KxTextBoxWidget</name>
     <message>
         <source>The objects or tables in a scalable or rotatable text box will be removed. Do you want to continue?</source>
-        <translation>Les objets ou les tableaux dans une zone de texte modulable ou pivotable seront supprimés. Voulez-vous continuer ?</translation>
+        <translation type="obsolete">Les objets ou les tableaux dans une zone de texte modulable ou pivotable seront supprimés. Voulez-vous continuer ?</translation>
+    </message>
+    <message>
+        <source>The objects or tables in a scalable text box will be removed. Do you want to continue?</source>
+        <translation>Les objets ou les tableaux dans une zone de texte modulable seront supprimés. Voulez-vous continuer ?</translation>
+    </message>
+</context>
+<context>
+    <name>KxThemeColorsGalleryCommand</name>
+    <message>
+        <source>Change Theme Color</source>
+        <translation>Modifier les couleurs de thème</translation>
+    </message>
+</context>
+<context>
+    <name>KxThemeEffectsGalleryCommand</name>
+    <message>
+        <source>Change Theme Effect</source>
+        <translation>Modifier l&apos;effet de thème</translation>
+    </message>
+</context>
+<context>
+    <name>KxThemeFontGalleryModelItem</name>
+    <message>
+        <source>A</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>a</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxThemeFontsGalleryCommand</name>
+    <message>
+        <source>Change Theme Font</source>
+        <translation>Modifier la police de thème</translation>
+    </message>
+</context>
+<context>
+    <name>KxThemesGalleryCommand</name>
+    <message>
+        <source>Change Theme</source>
+        <translation>Modifier le thème</translation>
+    </message>
+</context>
+<context>
+    <name>KxThemesGalleryModelItem</name>
+    <message>
+        <source>A</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>a</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -4752,14 +8476,22 @@ mais le package du système inclus est réservé.</translation>
     </message>
     <message>
         <source>Sorry! An error occurred just now. Now it has been fixed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Désolé, le programme a rencontré une erreur. Il est maintenant restauré.</translation>
+    </message>
+    <message>
+        <source>Sorry! An error occurred just now. After making efforts to repair, it has now been restored.</source>
+        <translation type="obsolete">Désolé ! Une erreur vient de survenir. Le fichier a été restauré après réparation.</translation>
+    </message>
+    <message>
+        <source>test</source>
+        <translation>test</translation>
     </message>
 </context>
 <context>
     <name>KxTpAutoShape</name>
     <message>
         <source>AutoShapes:</source>
-        <translation>Formes automatiques :</translation>
+        <translation type="obsolete">Formes automatiques :</translation>
     </message>
     <message>
         <source>Change AutoShape</source>
@@ -4767,11 +8499,52 @@ mais le package du système inclus est réservé.</translation>
     </message>
     <message>
         <source>Locate:</source>
-        <translation>Localiser :</translation>
+        <translation type="obsolete">Localiser :</translation>
     </message>
     <message>
         <source>Show Large Preview</source>
-        <translation>Afficher un grand aperçu</translation>
+        <translation type="obsolete">Afficher un grand aperçu</translation>
+    </message>
+    <message>
+        <source>All Shapes</source>
+        <translation>Toutes les formes</translation>
+    </message>
+    <message>
+        <source>AutoShapes</source>
+        <translation>Formes automatiques </translation>
+    </message>
+    <message>
+        <source>Locate</source>
+        <translation>Localiser </translation>
+    </message>
+</context>
+<context>
+    <name>KxTpAutoShapePersonalPanelModel</name>
+    <message>
+        <source>Online Shapes</source>
+        <translation>Forme en Ligne</translation>
+    </message>
+    <message>
+        <source>Recently Used</source>
+        <translation>Récemment Utilisés</translation>
+    </message>
+</context>
+<context>
+    <name>KxTpAutoShapesDownloadFailedItem</name>
+    <message>
+        <source>Try refresh again</source>
+        <translation>Réessayez</translation>
+    </message>
+    <message>
+        <source>Unable to connect to the server. Please check your network connection.</source>
+        <translation>Connexion impossible au serveur. Vérifiez votre connexion réseau.</translation>
+    </message>
+</context>
+<context>
+    <name>KxTpAutoShapesDownloadingItem</name>
+    <message>
+        <source>Loading online shapes...</source>
+        <translation>Téléchargement des Formes en ligne...</translation>
     </message>
 </context>
 <context>
@@ -4802,7 +8575,11 @@ mais le package du système inclus est réservé.</translation>
     </message>
     <message>
         <source>Recently edited documents recovered from unexpected exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Documents récemment modifiés récupérés d&apos;une sortie inattendue.</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>TextLabel</translation>
     </message>
 </context>
 <context>
@@ -4815,12 +8592,28 @@ mais le package du système inclus est réservé.</translation>
         <source>Some files cannot be deleted. They may be occupied.</source>
         <translation>Certains fichiers ne peuvent pas être supprimés. Ils sont peut-être utilisés.</translation>
     </message>
+    <message>
+        <source>Tips to prevent document loss:</source>
+        <translation>Conseils pour éviter la perte du document:</translation>
+    </message>
+    <message>
+        <source>1. WPS has created backup for each of your documents. You can specify more %1 options %2.</source>
+        <translation>1. WPS a créé la sauvegarde pour chaque de vos documents. Vous pouvez spécifier d&apos;autres %1 options %2.</translation>
+    </message>
+    <message>
+        <source>2. Use WPS %1 Cloud %2 services, your most convenient and secure cloud.</source>
+        <translation>2.Utilisez service WPS %1 Cloud %2, le service le plus commode et sécutaire.</translation>
+    </message>
+    <message>
+        <source>3. %1 Kingsoft Data Recovery Master %2 helps you to recover accidentally deleted documents.</source>
+        <translation>%1 Kingsoft Data Recovery Master %2 vous aide à récupérer les documents supprimés accidentallement.</translation>
+    </message>
 </context>
 <context>
     <name>KxTpClipArt</name>
     <message>
         <source>Category:</source>
-        <translation>Catégorie :</translation>
+        <translation type="obsolete">Catégorie :</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -4829,6 +8622,28 @@ mais le package du système inclus est réservé.</translation>
     <message>
         <source>Preview</source>
         <translation>Aperçu</translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <translation>Catégorie </translation>
+    </message>
+</context>
+<context>
+    <name>KxTpColorScheme</name>
+    <message>
+        <source>Apply a color scheme</source>
+        <translation>Appliquer un jeu de couleurs</translation>
+    </message>
+    <message>
+        <source>Apply a color scheme:</source>
+        <translation type="obsolete">Appliquer un jeu de couleurs:</translation>
+    </message>
+</context>
+<context>
+    <name>KxTpColorSchemeWidget</name>
+    <message>
+        <source>Change Theme Color</source>
+        <translation>Modifier les couleurs de thème</translation>
     </message>
 </context>
 <context>
@@ -4839,11 +8654,11 @@ mais le package du système inclus est réservé.</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Volet Sélection</translation>
+        <translation type="obsolete">Volet Sélection</translation>
     </message>
     <message>
         <source>Custom animation:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Animation personnalisée :</translation>
     </message>
 </context>
 <context>
@@ -4894,42 +8709,47 @@ mais le package du système inclus est réservé.</translation>
     </message>
     <message>
         <source>Open file location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir l&apos;emplacement du fichier</translation>
     </message>
     <message>
         <source>Open Recent File Management dialog box, and remove some or all of the recent files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrez la boîte de dialogue Gestion des fichiers récents et supprimez certains ou tous les fichiers récents.</translation>
     </message>
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may be renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-Modified time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;ouvrir &quot;%1&quot;.
+Ce fichier a peut-être été renommé, supprimé ou déplacé.</translation>
     </message>
     <message>
         <source>
 
 Invalid record. This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou déplacé.</translation>
+    </message>
+    <message>
+        <source>
+
+Modified time: </source>
+        <translation>
+
+Heure de modification : </translation>
     </message>
 </context>
 <context>
     <name>KxTpOprDoc</name>
     <message>
         <source>Cancle the XML Extend Packet</source>
-        <translation type="unfinished"></translation>
+        <translation>Détacher le kit d&apos;extension XML</translation>
     </message>
 </context>
 <context>
     <name>KxTpOprDocCommand</name>
     <message>
         <source>Are you sure cancel the XML extend pack?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous vraiment détacher de manière permanente le kit d&apos;extension XML ?</translation>
     </message>
 </context>
 <context>
@@ -4980,16 +8800,17 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Open file location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir l&apos;emplacement du fichier</translation>
     </message>
     <message>
         <source>Open File Management to remove some or all of your recent documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrez l&apos;outil de gestion de fichiers pour supprimer tout ou partie de vos documents récents.</translation>
     </message>
     <message>
-        <source>&quot;%1&quot; cannot be opened.
-It has been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
+        <translation>Impossible d&apos;ouvrir &quot;%1&quot;.
+Ce fichier a peut-être été renommé, supprimé ou déplacé.</translation>
     </message>
 </context>
 <context>
@@ -5008,7 +8829,7 @@ It has been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Shapes on this page:</source>
-        <translation>Formes sur cette page :</translation>
+        <translation type="obsolete">Formes sur cette page :</translation>
     </message>
     <message>
         <source>Show All</source>
@@ -5022,12 +8843,16 @@ It has been renamed, deleted or moved.</source>
         <source>up</source>
         <translation>haut</translation>
     </message>
+    <message>
+        <source>Shapes on this page</source>
+        <translation>Formes sur cette page </translation>
+    </message>
 </context>
 <context>
     <name>KxTrialExpireDlg</name>
     <message>
         <source>Quit</source>
-        <translation>Quitter</translation>
+        <translation type="obsolete">Quitter</translation>
     </message>
 </context>
 <context>
@@ -5061,6 +8886,21 @@ It has been renamed, deleted or moved.</source>
 of services and features.</source>
         <translation type="obsolete">Essayez dès aujourd&apos;hui la version professionnelle et bénéficiez d&apos;un plus grand nombre 
 de services et de fonctionnalités.</translation>
+    </message>
+</context>
+<context>
+    <name>KxUserShortcutsDlg</name>
+    <message>
+        <source>Warning</source>
+        <translation type="obsolete">Avertissement</translation>
+    </message>
+    <message>
+        <source>Reset all shortcuts?</source>
+        <translation type="obsolete">Réinitialiser tous les raccourcis ?</translation>
+    </message>
+    <message>
+        <source>Press new shortcut key</source>
+        <translation type="obsolete">Nouvelle touche de raccourci</translation>
     </message>
 </context>
 <context>
@@ -5202,7 +9042,7 @@ de services et de fonctionnalités.</translation>
     </message>
     <message>
         <source>Brig&amp;htness:</source>
-        <translation type="unfinished">Lumi&amp;nosité :</translation>
+        <translation>Luminosi&amp;té :</translation>
     </message>
     <message>
         <source>Co&amp;mpress...</source>
@@ -5257,7 +9097,7 @@ de services et de fonctionnalités.</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished">&amp;Largeur :</translation>
+        <translation>L&amp;argeur :</translation>
     </message>
     <message>
         <source>1024 x 768</source>
@@ -5293,7 +9133,7 @@ de services et de fonctionnalités.</translation>
     </message>
     <message>
         <source>Lock &amp;aspect ratio</source>
-        <translation type="unfinished">&amp;Conserver les proportions</translation>
+        <translation>&amp;Conserver les proportions</translation>
     </message>
     <message>
         <source>Original size</source>
@@ -5317,7 +9157,7 @@ de services et de fonctionnalités.</translation>
     </message>
     <message>
         <source>Wi&amp;dth:</source>
-        <translation type="unfinished">Lar&amp;geur :</translation>
+        <translation>&amp;Largeur :</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -5353,7 +9193,7 @@ de services et de fonctionnalités.</translation>
     </message>
     <message>
         <source>&amp;Best scale for slide show</source>
-        <translation type="unfinished">Meilleure échelle &amp;pour le diaporama</translation>
+        <translation>Meilleure échelle &amp;pour le diaporama</translation>
     </message>
     <message>
         <source>Re&amp;set</source>
@@ -5364,7 +9204,7 @@ de services et de fonctionnalités.</translation>
     <name>KxWidgetTemplate</name>
     <message>
         <source>&amp;Template</source>
-        <translation type="unfinished">Modè&amp;le</translation>
+        <translation>&amp;Modèle</translation>
     </message>
     <message>
         <source>Create new</source>
@@ -5415,7 +9255,7 @@ de services et de fonctionnalités.</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished">&amp;Gauche :</translation>
+        <translation>&amp;Gauche :</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
@@ -5423,11 +9263,11 @@ de services et de fonctionnalités.</translation>
     </message>
     <message>
         <source>&amp;Word wrap text in autoshape</source>
-        <translation type="unfinished">&amp;Renvoyer le texte à la ligne dans la forme</translation>
+        <translation>&amp;Renvoyer le texte à la ligne dans la forme</translation>
     </message>
     <message>
         <source>Allow text to be wrapped by &amp;external object</source>
-        <translation type="unfinished">Autoris&amp;er la justification du texte en fonction de l&apos;objet externe</translation>
+        <translation>Autoris&amp;er la justification du texte en fonction de l&apos;objet externe</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -5491,6 +9331,96 @@ de services et de fonctionnalités.</translation>
     </message>
 </context>
 <context>
+    <name>KxWidgetTextWrapping</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>Wrapping style</source>
+        <translation>Style d&apos;habillage</translation>
+    </message>
+    <message>
+        <source>S&amp;quare</source>
+        <translation>Carré</translation>
+    </message>
+    <message>
+        <source>&amp;Tight</source>
+        <translation>Rapproché</translation>
+    </message>
+    <message>
+        <source>T&amp;hrough</source>
+        <translation>Au travers</translation>
+    </message>
+    <message>
+        <source>T&amp;op and bottom</source>
+        <translation>De haut en bas</translation>
+    </message>
+    <message>
+        <source>&amp;Behind text</source>
+        <translation>Derrière le texte</translation>
+    </message>
+    <message>
+        <source>In fro&amp;nt of text</source>
+        <translation>Devant le texte</translation>
+    </message>
+    <message>
+        <source>&amp;In line with text</source>
+        <translation>Aligné sur le texte</translation>
+    </message>
+    <message>
+        <source>Wrap text</source>
+        <translation>Renvoyer à la ligne automatiquement</translation>
+    </message>
+    <message>
+        <source>Both &amp;sides</source>
+        <translation>Des deux côtés</translation>
+    </message>
+    <message>
+        <source>&amp;Left only</source>
+        <translation>Seulement à gauche</translation>
+    </message>
+    <message>
+        <source>&amp;Right only</source>
+        <translation>Seulement à droite</translation>
+    </message>
+    <message>
+        <source>L&amp;argest only</source>
+        <translation>Seulement le plus grande</translation>
+    </message>
+    <message>
+        <source>Distance from text</source>
+        <translation>Distance du texte</translation>
+    </message>
+    <message>
+        <source>To&amp;p</source>
+        <translation>Haut</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation>pt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>L&amp;eft</source>
+        <translation>Gauche</translation>
+    </message>
+    <message>
+        <source>Botto&amp;m</source>
+        <translation>Bas</translation>
+    </message>
+    <message>
+        <source>Ri&amp;ght</source>
+        <translation>Droite</translation>
+    </message>
+</context>
+<context>
+    <name>KxWordArtInsertCommand</name>
+    <message>
+        <source>Your text here</source>
+        <translation>Votre texte ici</translation>
+    </message>
+</context>
+<context>
     <name>QFileSystemModel</name>
     <message>
         <source>%1 GB</source>
@@ -5521,7 +9451,7 @@ de services et de fonctionnalités.</translation>
     </message>
     <message>
         <source>Aqua green</source>
-        <translation>Vert d’eau</translation>
+        <translation>Vert d&apos;eau</translation>
     </message>
     <message>
         <source>Baby Blue</source>
@@ -5819,7 +9749,42 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Blue Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris bleu</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Aucun</translation>
+    </message>
+    <message>
+        <source>Theme Fonts</source>
+        <translation>Polices du thème</translation>
+    </message>
+</context>
+<context>
+    <name>SchemeLayoutPanel</name>
+    <message>
+        <source>Apply to &amp;Master</source>
+        <translation>Appliquer au document &amp;maître</translation>
+    </message>
+    <message>
+        <source>Apply to &amp;All Slides</source>
+        <translation>Appliquer à &amp;toutes les diapositives</translation>
+    </message>
+    <message>
+        <source>Apply to &amp;Selected Slides</source>
+        <translation>Appliquer aux diapositives &amp;sélectionnées</translation>
+    </message>
+    <message>
+        <source>Apply to &amp;All Master</source>
+        <translation>Appliquer à tous les maîtres</translation>
+    </message>
+    <message>
+        <source>Apply to &amp;Selected Masters</source>
+        <translation>Appliquer aux maîtres &amp;sélectionnées</translation>
+    </message>
+    <message>
+        <source>Show &amp;Large Previews</source>
+        <translation>Afficher un grand aperçu</translation>
     </message>
 </context>
 <context>
@@ -5834,8 +9799,7 @@ Toujours effectuer cette action.</translation>
     <message>
         <source>
 The settings will take effect after restarting WPS Office.</source>
-        <translation type="unfinished">
-
+        <translation> 
 Les paramètres prendront effet après le redémarrage de WPS Office.</translation>
     </message>
     <message>
@@ -5907,11 +9871,19 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation type="unfinished">2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd. {2015 ?}</translation>
+        <translation type="obsolete">2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
     </message>
     <message>
         <source>WPS</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS</translation>
+    </message>
+    <message>
+        <source>1988-2016 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation type="obsolete">2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd. {1988-2016 ?}</translation>
+    </message>
+    <message>
+        <source>2016 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation type="unfinished">2016 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
     </message>
 </context>
 <context>
@@ -5930,7 +9902,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>WPS</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS</translation>
     </message>
 </context>
 <context>
@@ -5969,7 +9941,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>D&amp;elete cropped areas of pictures</source>
-        <translation type="unfinished">Supprim&amp;er les zones de rognage des images</translation>
+        <translation>Supprim&amp;er les zones de rognage des images</translation>
     </message>
     <message>
         <source>Options</source>
@@ -5978,6 +9950,1028 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     <message>
         <source>&amp;Selected pictures</source>
         <translation>Image&amp;s sélectionnées</translation>
+    </message>
+</context>
+<context>
+    <name>content3DFormat</name>
+    <message>
+        <source>&amp;Top bevel</source>
+        <translation>Biseau &amp;supérieur</translation>
+    </message>
+    <message>
+        <source>&amp;Width</source>
+        <translation>Lar&amp;geur</translation>
+    </message>
+    <message>
+        <source>&amp;Height</source>
+        <translation>&amp;Hauteur</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 1584 Pounds of value</source>
+        <translation>Entrez une valeur comprise entre 0 et 1584 livres.</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Bottom bevel</source>
+        <translation>Biseau &amp;inférieur</translation>
+    </message>
+    <message>
+        <source>&amp;Depth</source>
+        <translation>&amp;Profondeur</translation>
+    </message>
+    <message>
+        <source>&amp;Contour</source>
+        <translation>&amp;Contour</translation>
+    </message>
+    <message>
+        <source>&amp;Material</source>
+        <translation>&amp;Matériel</translation>
+    </message>
+    <message>
+        <source>&amp;Lighting</source>
+        <translation>Éc&amp;lairage</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 359.9 Degres  of value</source>
+        <translation>Entrez une valeur comprise entre 0 et 359.9 degrés.</translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <translation>&amp;Réinitialiser</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Taille</translation>
+    </message>
+    <message>
+        <source>Angle</source>
+        <translation>Angle</translation>
+    </message>
+    <message>
+        <source>&amp;Size</source>
+        <translation type="obsolete">&amp;Taille</translation>
+    </message>
+    <message>
+        <source>&amp;Angle</source>
+        <translation type="obsolete">&amp;Angle</translation>
+    </message>
+</context>
+<context>
+    <name>content3DRotation</name>
+    <message>
+        <source>&amp;Presets</source>
+        <translation>&amp;Présélections</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 359.9 Degres  of value</source>
+        <translation>Entrez une valeur comprise entre 0 et 359.9 degrés.</translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation> °</translation>
+    </message>
+    <message>
+        <source>Turn Left</source>
+        <translation>Gauche</translation>
+    </message>
+    <message>
+        <source>Turn Right</source>
+        <translation>Droite</translation>
+    </message>
+    <message>
+        <source>Turn Up</source>
+        <translation>Haut</translation>
+    </message>
+    <message>
+        <source>Turn Down</source>
+        <translation>Bas</translation>
+    </message>
+    <message>
+        <source>Clockwise</source>
+        <translation>Dans le sens des aiguilles d&apos;une montre</translation>
+    </message>
+    <message>
+        <source>Anti-Clockwise</source>
+        <translation>Dans le sens inverse des aiguilles d&apos;une montre</translation>
+    </message>
+    <message>
+        <source>P&amp;erspective</source>
+        <translation>P&amp;erspective</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 120 Degres  of value</source>
+        <translation>Entrez une valeur comprise entre 0 et 120 degrés.</translation>
+    </message>
+    <message>
+        <source>Narrow Vision</source>
+        <translation>Rétrécir le champ de vision</translation>
+    </message>
+    <message>
+        <source>Expend Vision</source>
+        <translation>Élargir le champ de vision</translation>
+    </message>
+    <message>
+        <source>&amp;Keep text flat</source>
+        <translation>Garder le texte plat</translation>
+    </message>
+    <message>
+        <source>&amp;Distance from ground</source>
+        <translation>&amp;Distance à partir du sol</translation>
+    </message>
+    <message>
+        <source>Enter -40000 to 4000 Pounds of value</source>
+        <translation>Entrez une valeur comprise entre -40000 et 4000 livres.</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <translation>&amp;Réinitialiser</translation>
+    </message>
+    <message>
+        <source>X Rotation</source>
+        <translation>Rotation X</translation>
+    </message>
+    <message>
+        <source>Y Rotation</source>
+        <translation>Rotation Y</translation>
+    </message>
+    <message>
+        <source>Z Rotation</source>
+        <translation>Rotation Z</translation>
+    </message>
+</context>
+<context>
+    <name>contentAltText</name>
+    <message>
+        <source>&amp;Title</source>
+        <translation>&amp;Titre</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <translation>Titre</translation>
+    </message>
+    <message>
+        <source>&amp;Description</source>
+        <translation>&amp;Description</translation>
+    </message>
+</context>
+<context>
+    <name>contentArtisticEffect</name>
+    <message>
+        <source>Artistic Effects</source>
+        <translation>Effets artistiques</translation>
+    </message>
+    <message>
+        <source>Transparency</source>
+        <translation>Transparence</translation>
+    </message>
+    <message>
+        <source>Smoothness</source>
+        <translation>Lissage</translation>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <translation>&amp;Réinitialiser</translation>
+    </message>
+</context>
+<context>
+    <name>contentFill</name>
+    <message>
+        <source>content_fill</source>
+        <translation>Remplissage</translation>
+    </message>
+    <message>
+        <source>No fill</source>
+        <translation>Aucun remplissage</translation>
+    </message>
+    <message>
+        <source>Solid fill</source>
+        <translation>Remplissage uni</translation>
+    </message>
+    <message>
+        <source>Gradient fill</source>
+        <translation>Dégradé</translation>
+    </message>
+    <message>
+        <source>Picture or texture fill</source>
+        <translation>Remplissage avec &amp;image ou texture</translation>
+    </message>
+    <message>
+        <source>Pattern fill</source>
+        <translation>Motifs de remplissage</translation>
+    </message>
+    <message>
+        <source>Automatic fill</source>
+        <translation>Remplissage automatique</translation>
+    </message>
+    <message>
+        <source>Hide background graphics</source>
+        <translation>Masquer les graphiques d&apos;arrière-plan</translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation>&amp;Couleur</translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation>&amp;Transparence</translation>
+    </message>
+    <message>
+        <source>Enter %0 to 100% of value</source>
+        <translation>Entrez une valeur comprise entre 0% et 100%.</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>G&amp;radient Style</source>
+        <translation>Style de dég&amp;radé</translation>
+    </message>
+    <message>
+        <source>Gradient Linear</source>
+        <translation>Dégradé linéaire</translation>
+    </message>
+    <message>
+        <source>Gradient Radial</source>
+        <translation>Dégradé radial</translation>
+    </message>
+    <message>
+        <source>Gradient Rect</source>
+        <translation>Dégradé rectangulaire</translation>
+    </message>
+    <message>
+        <source>Gradient Path</source>
+        <translation>Dégradé de chemin d’accès</translation>
+    </message>
+    <message>
+        <source>Angl&amp;e</source>
+        <translation>Angl&amp;e</translation>
+    </message>
+    <message>
+        <source>Enter  0 to 359.9 degrees of the Value</source>
+        <translation>Entrez une valeur comprise entre 0 et 359.9 degrés.</translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Rotate &amp;with shape</source>
+        <translation>Faire pi&amp;voter avec la forme</translation>
+    </message>
+    <message>
+        <source>Picture From</source>
+        <translation>Insérer à partir de</translation>
+    </message>
+    <message>
+        <source>Text&amp;ure</source>
+        <translation>Text&amp;ure</translation>
+    </message>
+    <message>
+        <source>Enter 0% to 100% of value</source>
+        <translation>Entrez une valeur comprise entre 0% et 100%.</translation>
+    </message>
+    <message>
+        <source>T&amp;ile picture as texture</source>
+        <translation>&amp;Image en mosaïque comme texture</translation>
+    </message>
+    <message>
+        <source>AsTexture</source>
+        <translation>Comme texture</translation>
+    </message>
+    <message>
+        <source>AsFill</source>
+        <translation>Comme remplissage</translation>
+    </message>
+    <message>
+        <source>&amp;Offset X</source>
+        <translation>Décalage X</translation>
+    </message>
+    <message>
+        <source>Enter -1584 to 1584 pounds of the Value</source>
+        <translation>Entrez une valeur comprise entre -1584 et 1584 livres.</translation>
+    </message>
+    <message>
+        <source> pt</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Offs&amp;et Y</source>
+        <translation>Décalage Y</translation>
+    </message>
+    <message>
+        <source>Scale &amp;X</source>
+        <translation>Échelle &amp;X</translation>
+    </message>
+    <message>
+        <source>Enter  0% to 100% of the Value</source>
+        <translation>Entrez une valeur comprise entre 0% et 100%.</translation>
+    </message>
+    <message>
+        <source>Scale &amp;Y</source>
+        <translation>Échelle &amp;Y</translation>
+    </message>
+    <message>
+        <source>A&amp;lignment</source>
+        <translation>A&amp;lignement</translation>
+    </message>
+    <message>
+        <source>Top left</source>
+        <translation>Supérieur gauche</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>Haut</translation>
+    </message>
+    <message>
+        <source>Top right</source>
+        <translation>Supérieur droit</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>Gauche</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>Centre</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>Droite</translation>
+    </message>
+    <message>
+        <source>Bottom left</source>
+        <translation>Inférieur gauche</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>Bas</translation>
+    </message>
+    <message>
+        <source>Bottom right</source>
+        <translation>Inférieur droit</translation>
+    </message>
+    <message>
+        <source>&amp;Mirror type</source>
+        <translation>Type de mise en mi&amp;roir</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Aucun</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>Horizontal</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>Vertical</translation>
+    </message>
+    <message>
+        <source>Both</source>
+        <translation>Les deux</translation>
+    </message>
+    <message>
+        <source>Offset &amp;left</source>
+        <translation>Décalage vers la gauche</translation>
+    </message>
+    <message>
+        <source>Enter -100000% to 100000% of value</source>
+        <translation>Entrez une valeur comprise entre -10000% et 100000%.</translation>
+    </message>
+    <message>
+        <source>Offset &amp;right</source>
+        <translation>Décalage vers la droite</translation>
+    </message>
+    <message>
+        <source>Offset t&amp;op</source>
+        <translation>Décalage vers le haut</translation>
+    </message>
+    <message>
+        <source>Offset botto&amp;m</source>
+        <translation>Décalage vers le bas</translation>
+    </message>
+    <message>
+        <source>Stretc&amp;h</source>
+        <translation>Étirer</translation>
+    </message>
+    <message>
+        <source>Stac&amp;k</source>
+        <translation>E&amp;mpiler</translation>
+    </message>
+    <message>
+        <source>Stack and Scale &amp;width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Units/Picture</source>
+        <translation>Unités/image</translation>
+    </message>
+    <message>
+        <source>&amp;Invert if negative</source>
+        <translation>&amp;Inverser si négatif</translation>
+    </message>
+    <message>
+        <source>&amp;Vary colors by slice</source>
+        <translation>&amp;Varier les couleurs par secteur</translation>
+    </message>
+    <message>
+        <source>&amp;Vary colors by point</source>
+        <translation>&amp;Varier les couleurs par point</translation>
+    </message>
+    <message>
+        <source>File...</source>
+        <translation>Fichier...</translation>
+    </message>
+    <message>
+        <source>Online...</source>
+        <translation>En ligne...</translation>
+    </message>
+    <message>
+        <source>Clipboard</source>
+        <translation>Presse-papiers</translation>
+    </message>
+    <message>
+        <source>Foreground</source>
+        <translation>Premier plan</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation>Arrière-plan</translation>
+    </message>
+</context>
+<context>
+    <name>contentGlow</name>
+    <message>
+        <source>content_glow</source>
+        <translation>Lumière</translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation>&amp;Couleur</translation>
+    </message>
+    <message>
+        <source>&amp;Size</source>
+        <translation>T&amp;aille</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 150 Pounds of value</source>
+        <translation>Entrez une valeur comprise entre 0 et 150 livres.</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation>&amp;Transparence</translation>
+    </message>
+    <message>
+        <source>Enter 0% to 100% of value</source>
+        <translation>Entrez une valeur comprise entre 0% et 100%.</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+</context>
+<context>
+    <name>contentLine</name>
+    <message>
+        <source>No line</source>
+        <translation>Aucune ligne</translation>
+    </message>
+    <message>
+        <source>Solid line</source>
+        <translation>Trait plein</translation>
+    </message>
+    <message>
+        <source>Gradient line</source>
+        <translation>Trait dégradé</translation>
+    </message>
+    <message>
+        <source>Automatic line</source>
+        <translation>Trait automatique</translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation>&amp;Couleur</translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation>&amp;Transparence</translation>
+    </message>
+    <message>
+        <source>Enter 0% to 100% of value</source>
+        <translation>Entrez une valeur comprise entre 0% et 100%.</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>&amp;Width</source>
+        <translation>&amp;Largeur</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 1584 Pounds of value</source>
+        <translation>Entrez une valeur comprise entre 0 et 1584 livres.</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation>pt</translation>
+    </message>
+    <message>
+        <source>&amp;Compound type</source>
+        <translation>&amp;Composition :</translation>
+    </message>
+    <message>
+        <source>&amp;Dash type</source>
+        <translation>T&amp;ype de tiret</translation>
+    </message>
+    <message>
+        <source>C&amp;ap type</source>
+        <translation>Type de lettrine</translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation>Carré</translation>
+    </message>
+    <message>
+        <source>Round</source>
+        <translation>Arrondi</translation>
+    </message>
+    <message>
+        <source>Flat</source>
+        <translation>Plat</translation>
+    </message>
+    <message>
+        <source>&amp;Join type</source>
+        <translation>Type de &amp;jointure :</translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <translation>Biseau</translation>
+    </message>
+    <message>
+        <source>Miter</source>
+        <translation>Onglet</translation>
+    </message>
+    <message>
+        <source>B&amp;egin Arrow</source>
+        <translation>Flèche initiale</translation>
+    </message>
+    <message>
+        <source>Type Of Begin Arrow</source>
+        <translation>Type de flèche initiale</translation>
+    </message>
+    <message>
+        <source>Size Of Begin Arrow</source>
+        <translation>Taille initiale</translation>
+    </message>
+    <message>
+        <source>E&amp;nd Arrow</source>
+        <translation>Flèche finale</translation>
+    </message>
+    <message>
+        <source>Type Of End Arrow</source>
+        <translation>Type de flèche finale</translation>
+    </message>
+    <message>
+        <source>Size Of End Arrow</source>
+        <translation>Taille finale</translation>
+    </message>
+    <message>
+        <source>G&amp;radient Style</source>
+        <translation>Style de dég&amp;radé</translation>
+    </message>
+    <message>
+        <source>Gradient Linear</source>
+        <translation>Dégradé linéaire</translation>
+    </message>
+    <message>
+        <source>Gradient Radial</source>
+        <translation>Dégradé radial</translation>
+    </message>
+    <message>
+        <source>Gradient Rect</source>
+        <translation>Dégradé rectangulaire</translation>
+    </message>
+    <message>
+        <source>Gradient Path</source>
+        <translation>Dégradé de chemin d’accès</translation>
+    </message>
+    <message>
+        <source>Angl&amp;e</source>
+        <translation>Angl&amp;e</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 359.9 Degres  of value</source>
+        <translation>Entrez une valeur comprise entre 0 et 359.9 degrés.</translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>contentProperty</name>
+    <message>
+        <source>Resize with Chart</source>
+        <translation>&amp;Dimensionner avec le graphique</translation>
+    </message>
+    <message>
+        <source>Don&apos;t Resize with Chart</source>
+        <translation>&amp;Ne pas dimensionner avec le graphique</translation>
+    </message>
+</context>
+<context>
+    <name>contentReflection</name>
+    <message>
+        <source>content_reflection</source>
+        <translation>Réflexion</translation>
+    </message>
+    <message>
+        <source>&amp;Blur</source>
+        <translation>Flou</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 100 Pounds of value</source>
+        <translation>Entrez une valeur comprise entre 0 et 100 livres.</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Distance</source>
+        <translation>&amp;Distance</translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation>&amp;Transparence</translation>
+    </message>
+    <message>
+        <source>Enter 0% to 100% of value</source>
+        <translation>Entrez une valeur comprise entre 0% et 100%.</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>Enter 0% to 100 % of value</source>
+        <translation>Entrez une valeur comprise entre 0% et 100%.</translation>
+    </message>
+    <message>
+        <source>&amp;Size</source>
+        <translation>&amp;Taille</translation>
+    </message>
+</context>
+<context>
+    <name>contentShadow</name>
+    <message>
+        <source>content_shadow</source>
+        <translation>Ombre</translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation>&amp;Couleur</translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation>&amp;Transparence</translation>
+    </message>
+    <message>
+        <source>Enter 0% to 100% of value</source>
+        <translation>Entrez une valeur comprise entre 0% et 100%.</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>&amp;Size</source>
+        <translation>&amp;Taille</translation>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <translation>Entrez une valeur comprise entre 0% et 200%.</translation>
+    </message>
+    <message>
+        <source>&amp;Blur</source>
+        <translation>Flou</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 100 Pounds of value</source>
+        <translation>Entrez une valeur comprise entre 0 et 100 livres.</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Distance</source>
+        <translation>&amp;Distance</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 200 Pounds of value</source>
+        <translation>Entrez une valeur comprise entre 0 et 200 livres.</translation>
+    </message>
+    <message>
+        <source>&amp;Angle</source>
+        <translation>&amp;Angle</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 359 Degrees of value</source>
+        <translation>Entrez une valeur comprise entre 0 et 359 degrés.</translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation>° </translation>
+    </message>
+</context>
+<context>
+    <name>contentSize</name>
+    <message>
+        <source>H&amp;eight</source>
+        <translation>Haut&amp;eur</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 5963.92 cm of value</source>
+        <translation>Entrez une valeur comprise entre 0 cm et 5963.92 cm.</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>cm</translation>
+    </message>
+    <message>
+        <source>Wi&amp;dth</source>
+        <translation>&amp;Largeur</translation>
+    </message>
+    <message>
+        <source>Ro&amp;tation</source>
+        <translation>Ro&amp;tation</translation>
+    </message>
+    <message>
+        <source>Enter -3600 to 3600 degrees of value</source>
+        <translation>Entrez une valeur comprise entre -3600 et 3600.</translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation>° </translation>
+    </message>
+    <message>
+        <source>Scale &amp;Height</source>
+        <translation>&amp;Hauteur d’échelle</translation>
+    </message>
+    <message>
+        <source>Enter 1% to 23480% of value</source>
+        <translation>Entrez une valeur comprise entre 1% et 23480%.</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>Scale &amp;Width</source>
+        <translation>Lar&amp;geur d’échelle</translation>
+    </message>
+    <message>
+        <source>Lock &amp;aspect ratio</source>
+        <translation>&amp;Conserver les proportions</translation>
+    </message>
+    <message>
+        <source>&amp;Relative to original picture size</source>
+        <translation>P&amp;roportionnelle à l&apos;image d&apos;origine</translation>
+    </message>
+    <message>
+        <source>&amp;Best scale for slide show</source>
+        <translation>Meilleure échelle &amp;pour le diaporama</translation>
+    </message>
+    <message>
+        <source>Res&amp;olution</source>
+        <translation>Rés&amp;olution</translation>
+    </message>
+    <message>
+        <source>640 x 480</source>
+        <translation>640 x 480</translation>
+    </message>
+    <message>
+        <source>720 x 512</source>
+        <translation>720 x 512</translation>
+    </message>
+    <message>
+        <source>800 x 600</source>
+        <translation>800 x 600</translation>
+    </message>
+    <message>
+        <source>1024 x 768</source>
+        <translation>1024 x 768</translation>
+    </message>
+    <message>
+        <source>1280 x 1024</source>
+        <translation>1280 x 1024</translation>
+    </message>
+    <message>
+        <source>Re&amp;set</source>
+        <translation>Réinitiali&amp;ser</translation>
+    </message>
+</context>
+<context>
+    <name>contentSoftEdges</name>
+    <message>
+        <source>content_softedges</source>
+        <translation>Bordures adoucies</translation>
+    </message>
+    <message>
+        <source>S&amp;ize</source>
+        <translation>Ta&amp;ille</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 100 Pounds of value</source>
+        <translation>Entrez une valeur comprise entre 0 et 100 livres.</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>contentTextbox</name>
+    <message>
+        <source>&amp;Vertical alignment</source>
+        <translation>Alignement &amp;vertical</translation>
+    </message>
+    <message>
+        <source>Te&amp;xt direction</source>
+        <translation>Orientation du te&amp;xte</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>Horizontal</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>Vertical</translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation>Fait pivoter tout le texte de 90 °</translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation>Fait pivoter tout le texte de 270 °</translation>
+    </message>
+    <message>
+        <source>Stacked</source>
+        <translation>Empilé</translation>
+    </message>
+    <message>
+        <source>Order of lines</source>
+        <translation>Ordre des lignes</translation>
+    </message>
+    <message>
+        <source>Right-to-left</source>
+        <translation>De droite à gauche</translation>
+    </message>
+    <message>
+        <source>Left-to-right</source>
+        <translation>De gauche à droite</translation>
+    </message>
+    <message>
+        <source>Text &amp;margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Borderless</source>
+        <translation>Aucune marge</translation>
+    </message>
+    <message>
+        <source>Narrow Margins</source>
+        <translation>Marges étroites</translation>
+    </message>
+    <message>
+        <source>Standard Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wide Margins</source>
+        <translation>Marges larges</translation>
+    </message>
+    <message>
+        <source>Widening Margins</source>
+        <translation>Elargir les marges</translation>
+    </message>
+    <message>
+        <source>Custom...</source>
+        <translation>Personnalisé...</translation>
+    </message>
+    <message>
+        <source>Text c&amp;ustom angle</source>
+        <translation>Angle personnalisé</translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation>° </translation>
+    </message>
+    <message>
+        <source>&amp;Left Margin</source>
+        <translation>Marge de gauche</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 55.88 cm of value</source>
+        <translation>Entrez une valeur comprise entre 0 cm et 55.88 cm.</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>cm</translation>
+    </message>
+    <message>
+        <source>&amp;Right margin</source>
+        <translation>Marge de droite</translation>
+    </message>
+    <message>
+        <source>&amp;Top margin</source>
+        <translation>Marge supérieure</translation>
+    </message>
+    <message>
+        <source>&amp;Bottom margin</source>
+        <translation>Marge inférieure</translation>
+    </message>
+    <message>
+        <source>&amp;Autofit</source>
+        <translation>&amp;Ajustement automatique</translation>
+    </message>
+    <message>
+        <source>Dummy&amp;Button</source>
+        <translation>Bouton factice</translation>
+    </message>
+    <message>
+        <source>&amp;Do not Autofit</source>
+        <translation>Ne pas ajuster automatiquement</translation>
+    </message>
+    <message>
+        <source>&amp;Shrink text on overflow</source>
+        <translation>Réduire le texte dan&amp;s la zone de débordement</translation>
+    </message>
+    <message>
+        <source>Resize shape to &amp;fit text</source>
+        <translation>Ajuster la &amp;forme au texte</translation>
+    </message>
+    <message>
+        <source>&amp;Wrap text in shape</source>
+        <translation>R&amp;envoyer le texte à la ligne dans la forme</translation>
+    </message>
+    <message>
+        <source>&amp;Columns...</source>
+        <translation>&amp;Colonnes...</translation>
+    </message>
+</context>
+<context>
+    <name>convertLinkedObject</name>
+    <message>
+        <source>Convert</source>
+        <translation>Convertir</translation>
+    </message>
+    <message>
+        <source>Current type:</source>
+        <translation>Type actuel :</translation>
+    </message>
+    <message>
+        <source>&amp;Convert to:</source>
+        <translation>&amp;Convertir en:</translation>
+    </message>
+    <message>
+        <source>&amp;Activate as:</source>
+        <translation>&amp;Activer comme:</translation>
+    </message>
+    <message>
+        <source>Object type:</source>
+        <translation>Type d&apos;objet :</translation>
+    </message>
+    <message>
+        <source>&amp;Display as icon</source>
+        <translation>Afficher sous forme &amp;d&apos;icône</translation>
+    </message>
+    <message>
+        <source>Change &amp;Icon</source>
+        <translation>Changer d&apos;&amp;icône</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation>Résultat</translation>
     </message>
 </context>
 <context>
@@ -6026,11 +11020,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>Translation by &amp;Word</source>
-        <translation type="unfinished">Traduction par &amp;mot</translation>
+        <translation>Traduction par &amp;mot</translation>
     </message>
     <message>
         <source>W&amp;hole Document</source>
-        <translation type="unfinished">Doc&amp;ument entier</translation>
+        <translation>À &amp;tout le document</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
@@ -6089,7 +11083,7 @@ document</translation>
     </message>
     <message>
         <source>S&amp;ubject:</source>
-        <translation type="unfinished">Ob&amp;jet :</translation>
+        <translation>O&amp;bjet :</translation>
     </message>
     <message>
         <source>ScreenTi&amp;p...</source>
@@ -6132,6 +11126,171 @@ document</translation>
     </message>
 </context>
 <context>
+    <name>kxDlgUserShortcuts</name>
+    <message>
+        <source>Shortcuts</source>
+        <translation type="obsolete">Raccourcis</translation>
+    </message>
+    <message>
+        <source>Search:</source>
+        <translation type="obsolete">Rechercher :</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="obsolete">Supprimer</translation>
+    </message>
+    <message>
+        <source>Assign</source>
+        <translation type="obsolete">Attribuer</translation>
+    </message>
+    <message>
+        <source>Shortcut currently used by:</source>
+        <translation type="obsolete">Raccourci utilisé actuellement par :</translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <translation type="obsolete">Catégorie</translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation type="obsolete">Commande</translation>
+    </message>
+    <message>
+        <source>Reset All</source>
+        <translation type="obsolete">Rétablir tout</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">Fermer</translation>
+    </message>
+    <message>
+        <source>Current shortcut for selected command:</source>
+        <translation type="obsolete">Raccourci actuel pour la commande sélectionnée :</translation>
+    </message>
+    <message>
+        <source>Press new shortcut key:</source>
+        <translation type="obsolete">Nouvelle touche de raccourci :</translation>
+    </message>
+    <message>
+        <source>Press new shortcut key</source>
+        <translation type="obsolete">Nouvelle touche de raccourci</translation>
+    </message>
+    <message>
+        <source>&amp;Search:</source>
+        <translation type="obsolete">Re&amp;chercher :</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation type="obsolete">Supp&amp;rimer</translation>
+    </message>
+    <message>
+        <source>&amp;Press new shortcut key:</source>
+        <translation type="obsolete">&amp;Nouvelle touche de raccourci :</translation>
+    </message>
+    <message>
+        <source>&amp;Assign</source>
+        <translation type="obsolete">&amp;Attribuer</translation>
+    </message>
+    <message>
+        <source>R&amp;eset All</source>
+        <translation type="obsolete">Ré&amp;tablir tout</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="obsolete">&amp;Fermer</translation>
+    </message>
+</context>
+<context>
+    <name>linksObjectContext</name>
+    <message>
+        <source>Links</source>
+        <translation>Liens</translation>
+    </message>
+    <message>
+        <source>Save &amp;picture in document</source>
+        <translation>Enreg&amp;istrer l’image dans le document</translation>
+    </message>
+    <message>
+        <source>Preserve &amp;formatting after update</source>
+        <translation>Conserver la mise en &amp;forme après la mise à jour</translation>
+    </message>
+    <message>
+        <source>Source file:</source>
+        <translation>Fichier source :</translation>
+    </message>
+    <message>
+        <source>Item in file:</source>
+        <translation>Élément dans fichier :</translation>
+    </message>
+    <message>
+        <source>Link type:</source>
+        <translation>Type de lien :</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <source>&amp;Update Now</source>
+        <translation>Mettre à jour maintenant</translation>
+    </message>
+    <message>
+        <source>&amp;Open Source</source>
+        <translation>&amp;Ouvrir la source</translation>
+    </message>
+    <message>
+        <source>Cha&amp;nge Source</source>
+        <translation>Mo&amp;difier la source</translation>
+    </message>
+    <message>
+        <source>&amp;Break Link</source>
+        <translation>Rompre la liaison</translation>
+    </message>
+    <message>
+        <source>Source information for selected link</source>
+        <translation>Informations sur la source du lien sélectionné</translation>
+    </message>
+    <message>
+        <source>Update method for selected link</source>
+        <translation>Mettre à jour la méthode du lien sélectionné</translation>
+    </message>
+    <message>
+        <source>Options for selected link</source>
+        <translation>Options du lien sélectionné</translation>
+    </message>
+    <message>
+        <source>&amp;Manual update</source>
+        <translation>Mise à jour &amp;manuelle</translation>
+    </message>
+    <message>
+        <source>Loc&amp;ked</source>
+        <translation>&amp;Verrouillée</translation>
+    </message>
+    <message>
+        <source>&amp;Automatic update</source>
+        <translation>Mise à jour automatique</translation>
+    </message>
+</context>
+<context>
+    <name>linksObjectContextItemInput</name>
+    <message>
+        <source>Set Item </source>
+        <translation>Définir l&apos;élément </translation>
+    </message>
+    <message>
+        <source>Item:</source>
+        <translation>Élément : </translation>
+    </message>
+    <message>
+        <source>Type the bookmark name or range of Microsoft Excel cells you want to insert</source>
+        <translation>Tapez le nom du signet ou la plage de cellules WPS Spreadsheets que vous voulez insérer</translation>
+    </message>
+</context>
+<context>
     <name>pasteSpecial</name>
     <message>
         <source>&amp;As:</source>
@@ -6143,7 +11302,7 @@ document</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished">&amp;Coller</translation>
+        <translation>&amp;Coller</translation>
     </message>
     <message>
         <source>Paste &amp;link</source>
@@ -6173,6 +11332,10 @@ document</translation>
         <source>Change &amp;Icon</source>
         <translation>Changer d&apos;&amp;icône</translation>
     </message>
+    <message>
+        <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
+        <translation>Un raccourci vers le fichier source sera créé une fois collé comme lien hypertexte. Toute modification apportée au fichier source sera ainsi reflétée dans votre document.</translation>
+    </message>
 </context>
 <context>
     <name>tpropertydlg</name>
@@ -6190,15 +11353,15 @@ document</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Supprimer</translation>
+        <translation>S&amp;upprimer</translation>
     </message>
     <message>
         <source>&amp;Keyword:</source>
-        <translation type="unfinished">&amp;Mots clés :</translation>
+        <translation>&amp;Mot clé :</translation>
     </message>
     <message>
         <source>&amp;Manager:</source>
-        <translation type="unfinished">&amp;Gestionnaire :</translation>
+        <translation>&amp;Responsable :</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -6210,7 +11373,7 @@ document</translation>
     </message>
     <message>
         <source>&amp;Subject:</source>
-        <translation type="unfinished">&amp;Ob&amp;jet :</translation>
+        <translation>&amp;Objet :</translation>
     </message>
     <message>
         <source>&amp;System</source>
@@ -6230,7 +11393,7 @@ document</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished">&amp;Oui</translation>
+        <translation>&amp;Oui</translation>
     </message>
     <message>
         <source>Accessed:</source>
@@ -6302,7 +11465,7 @@ document</translation>
     </message>
     <message>
         <source>Hi&amp;dden</source>
-        <translation type="unfinished">Mas&amp;qué</translation>
+        <translation>&amp;Masqué</translation>
     </message>
     <message>
         <source>Language</source>
@@ -6358,7 +11521,7 @@ document</translation>
     </message>
     <message>
         <source>Sa&amp;ve preview picture</source>
-        <translation type="unfinished">Enre&amp;gistrer l&apos;image de l&apos;aperçu</translation>
+        <translation>&amp;Enregistrer l&apos;image de l&apos;aperçu</translation>
     </message>
     <message>
         <source>Size:</source>

@@ -243,6 +243,14 @@
     </message>
 </context>
 <context>
+    <name>io_string</name>
+    <message>
+        <source>Author</source>
+        <comment>IO_String_Author</comment>
+        <translation>Автор</translation>
+    </message>
+</context>
+<context>
     <name>pagelayout</name>
     <message>
         <source>First Page</source>
@@ -586,7 +594,22 @@ Try one or more of the following:
 3. Make sure that the source file is in the appropriate directory.
 4. Make sure that the source file&apos;s format is supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation type="unfinished"></translation>
+        <translation>При попытке решения WPS Writer обновить исходный файл произошла ошибка.
+Попробуйте выполнить одно из следующих действий:
+1. Проверьте, открыт ли исходный файл и используется ли он другими программами.
+2. Проверьте, защищен ли исходный файл.
+3. Убедитесь, что исходный файл находится в нужном каталоге.
+4. Убедитесь, что формат исходного файла поддерживается решением WPS.</translation>
+    </message>
+    <message>
+        <source>Error! Number cannot be represented in specified format.</source>
+        <comment>TX_FIELD_ERR_NUM_CANNOT_BE_SPECIFIED_FORMAT</comment>
+        <translation>Ошибка! Число не может быть представлено в указанном формате.</translation>
+    </message>
+    <message>
+        <source>Error! The style has no specified text.</source>
+        <comment>TX_FIELD_ERR_STYLE_NO_SPECIFIED_STYLE_TEXT</comment>
+        <translation>Ошибка! Текст указанного стиля в документе отсутствует.</translation>
     </message>
 </context>
 <context>
@@ -599,7 +622,7 @@ Try one or more of the following:
     <message>
         <source> </source>
         <comment>TX_SPACE</comment>
-        <translation></translation>
+        <translation> </translation>
     </message>
     <message>
         <source>Error! Bookmark not defined.</source>
@@ -2256,7 +2279,7 @@ Do you want to replace it?</source>
     <message>
         <source>&quot;</source>
         <comment>TxRevision_Unit_Inches</comment>
-        <translation></translation>
+        <translation>&quot;</translation>
     </message>
     <message>
         <source>mm</source>
@@ -2301,7 +2324,7 @@ Do you want to replace it?</source>
     <message>
         <source>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</source>
         <comment>TxRevision_Color_ColorNameReplacedList</comment>
-        <translation>Чёрный;Тёмный сине-зелёный;Тёмно-синий;Индиго;Синий;Голубой;Сине-серый;Бледно-лиловый;Серый-80%;Сине-зелёный;Тёмно-бирюзовый;Небесно-голубой;Бледно-голубой;Светло-бирюзовый;Розовый;Насыщенный розовый;%Серый-50%;Изумрудный;Бирюзовый;Светло-зелёный;Белый;Светло-жёлтый;Жёлто-коричневый;Фиолетовый;Серый-40%;Тёмно-зелёный;Ярко-зелёный;Желтый;Золотой;Светло-оранжевый;Красный;Светлая слива;Серый-25%;Зелёный;Салатовый;Тёмно-жёлтый;Оливковый;Оранжевый;Коричневый;Тёмно-красный:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</translation>
+        <translation type="obsolete">Чёрный;Тёмный сине-зелёный;Тёмно-синий;Индиго;Синий;Голубой;Сине-серый;Бледно-лиловый;Серый-80%;Сине-зелёный;Тёмно-бирюзовый;Небесно-голубой;Бледно-голубой;Светло-бирюзовый;Розовый;Насыщенный розовый;%Серый-50%;Изумрудный;Бирюзовый;Светло-зелёный;Белый;Светло-жёлтый;Жёлто-коричневый;Фиолетовый;Серый-40%;Тёмно-зелёный;Ярко-зелёный;Желтый;Золотой;Светло-оранжевый;Красный;Светлая слива;Серый-25%;Зелёный;Салатовый;Тёмно-жёлтый;Оливковый;Оранжевый;Коричневый;Тёмно-красный:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -2321,7 +2344,7 @@ Do you want to replace it?</source>
     <message>
         <source>15%:9</source>
         <comment>TxRevision_Shp_PatternReplacedList</comment>
-        <translation></translation>
+        <translation>15%:9</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -2541,7 +2564,7 @@ Do you want to replace it?</source>
     <message>
         <source>WPS Writer</source>
         <comment>_TxApp_Name</comment>
-        <translation></translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>%s can&apos;t load!</source>
@@ -2685,7 +2708,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Writer</source>
-        <translation></translation>
+        <translation>Writer</translation>
     </message>
     <message>
         <source>Make office work easier</source>
@@ -2727,17 +2750,17 @@ Do you want to replace it?</source>
     <message>
         <source>Recorded %d too much data fields.</source>
         <comment>_TxMailMerge_FieldsTooMuch</comment>
-        <translation>Записано %d слишком много полей данных.</translation>
+        <translation>Запись %d содержит слишком мало полей данных.</translation>
     </message>
     <message>
         <source>Recorded %d too few data fields.</source>
         <comment>_TxMailMerge_FieldsTooFew</comment>
-        <translation>Записано %d слишком мало полей данных.</translation>
+        <translation>Запись %d содержит слишком мало полей данных.</translation>
     </message>
     <message>
         <source>Recorded %d is empty.</source>
         <comment>_TxMailMerge_FieldsEmpty</comment>
-        <translation>Пустая запись %d.</translation>
+        <translation>Запись %d пуста.</translation>
     </message>
     <message>
         <source>WPS Writer cannot open %s as Data or Header Source, because it is active mail merge main document.</source>
@@ -2747,16 +2770,364 @@ Do you want to replace it?</source>
     <message>
         <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
         <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation type="unfinished">WPS Writer не может объединить основной документ с источником данных, так как дата отстутствует или не соответствует запросу.</translation>
+        <translation>Решению WPS Writer не удалось объединить основной документ с источником данных, так как записи данных пусты или параметрам запроса не соответствует ни одна запись данных.</translation>
     </message>
     <message>
         <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
         <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
-        <translation type="unfinished"></translation>
+        <translation>Решению WPS Writer не удалось открыть %s в качестве источника данных или источника заголовков, так как это активный основной документ слияния.</translation>
     </message>
     <message>
         <source>You cannot compare these documents because the document contain XML Nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы не можете сравнивать эти документы, потому что документ содержит узлы XML</translation>
+    </message>
+    <message>
+        <source>Record %d contained too many data fields.</source>
+        <comment>_TxMailMerge_FieldsTooMuch</comment>
+        <translation type="obsolete">Запись %d содержала слишком много полей данных.</translation>
+    </message>
+    <message>
+        <source>Record %d contained too few data fields.</source>
+        <comment>_TxMailMerge_FieldsTooFew</comment>
+        <translation type="obsolete">Запись %d содержала слишком мало полей данных.</translation>
+    </message>
+    <message>
+        <source>Record %d is empty.</source>
+        <comment>_TxMailMerge_FieldsEmpty</comment>
+        <translation type="obsolete">Запись %d пуста.</translation>
+    </message>
+    <message>
+        <source>WPS Writer AaBbCc</source>
+        <translation>WPS Writer AaBbCc</translation>
+    </message>
+    <message>
+        <source>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red;Dark Red;Orange;Light Green;Green;Light Blue;Blue;Dark Blue;Purple;Dark1;Light1;Dark2;Light2;Accent1;Accent2;Accent3;Accent4;Accent5;Accent6;Hyperlink;FollowedHyperlink;Background1;Text1;Background2;Text2:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000;C00000;FFC000;92D050;00B050;00B0F0;0070C0;002060;7030A0;dark1;light1;dark2;light2;accent1;accent2;accent3;accent4;accent5;accent6;hyperlink;followedHyperlink;background1;text1;background2;text2</source>
+        <comment>TxRevision_Color_ColorNameReplacedList</comment>
+        <translation>Черный;Темный сине-зеленый;Темно-синий;Индиго;Синий;Голубой;Сине-серый;Бледно-лиловый;Серый-80%;Сине-зеленый;Темно-бирюзовый;Небесно-голубой;Бледно-голубой;Светло-бирюзовый;Розовый;Насыщенный розовый;%Серый-50%;Изумрудный;Бирюзовый;Светло-зеленый;Белый;Светло-желтый;Желто-коричневый;Фиолетовый;Серый-40%;Темно-зеленый;Ярко-зеленый;Желтый;Золотой;Светло-оранжевый;Красный;Сливовый;Серый-25%;Зеленый;Салатовый;Темно-желтый;Оливковый;Оранжевый;Коричневый;Темно-красный; Темно-красный;Оранжевый;Светло-зеленый;Зеленый;Светло-голубой;Синий;Темно-синий;Фиолетовый;Темный1;Светлый1;Темный2;Светлый2;Акцент1;Акцент2;Акцент3;Акцент4;Акцент5;Акцент6;Гиперссылка;Просмотренная гиперссылка;Фон1;Текст1;Фон2;Текст2:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000;C00000;FFC000;92D050;00B050;00B0F0;0070C0;002060;7030A0;темный1;светлый1;темный2;светлый2;акцент1;акцент2;акцент3;акцент4;акцент5;акцент6;гиперссылка;просмотренная гиперссылка;фон1;текст1;фон2;текст2</translation>
+    </message>
+    <message>
+        <source>White</source>
+        <comment>TxRevision_Shp_Background_White</comment>
+        <translation>Белый</translation>
+    </message>
+    <message>
+        <source>Text Outline</source>
+        <comment>TxRevision_Chp_TextOutline_Effect</comment>
+        <translation>Контур текста</translation>
+    </message>
+    <message>
+        <source>Text Fill</source>
+        <comment>TxRevision_Chp_TextFill_Effect</comment>
+        <translation>Текстовая заливка</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <comment>TxRevision_Chp_Glow_Effect</comment>
+        <translation>Свечение</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <comment>TxRevision_Chp_Reflection_Effect</comment>
+        <translation>Отражение</translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <comment>TxRevision_Chp_Props3D_Effect</comment>
+        <translation>Рельеф</translation>
+    </message>
+    <message>
+        <source>Click here to enter text.</source>
+        <comment>TxTextControl_HdrText</comment>
+        <translation>Щелкните, чтобы ввести текст.</translation>
+    </message>
+    <message>
+        <source>Choose one.</source>
+        <comment>TxDropdownControl_HdrText</comment>
+        <translation>Выберите один элемент.</translation>
+    </message>
+    <message>
+        <source>Select a building block.</source>
+        <comment>TxBuildingControl_HdrText</comment>
+        <translation>Выберите стандартный блок.</translation>
+    </message>
+    <message>
+        <source>Click here to enter a date.</source>
+        <comment>TxDateControl_HdrText</comment>
+        <translation>Щелкните, чтобы ввести дату.</translation>
+    </message>
+    <message>
+        <source>Enter to repeat any content (including other content controls). You can also insert this control around a table row to repeat part of the table.</source>
+        <comment>TxRepeatSecControl_HdrText</comment>
+        <translation>Введите любое содержимое, которое хотите повторить, включая другие элементы управления содержимым. Чтобы повторить части таблицы, вы можете также добавить этот элемент управления вокруг строк таблицы.</translation>
+    </message>
+    <message>
+        <source>group</source>
+        <comment>TxGroupControl_Name</comment>
+        <translation>группа</translation>
+    </message>
+    <message>
+        <source>Rich text controls</source>
+        <comment>TxRichTextControl_Name</comment>
+        <translation>Элементы управления форматированного текста</translation>
+    </message>
+    <message>
+        <source>Plain text controls</source>
+        <comment>TxPlainTextControl_Name</comment>
+        <translation>Элемент управления обычного текста</translation>
+    </message>
+    <message>
+        <source>Picture controls</source>
+        <comment>TxPictureControl_Name</comment>
+        <translation>Элементы управления рисунка</translation>
+    </message>
+    <message>
+        <source>Document building block controls</source>
+        <comment>TxDocumentBuildingBlockControl_Name</comment>
+        <translation>Элементы управления стандартными блоками документа</translation>
+    </message>
+    <message>
+        <source>Check box controls</source>
+        <comment>TxCheckboxControl_Name</comment>
+        <translation>Элементы управления флажками</translation>
+    </message>
+    <message>
+        <source>Combo box controls</source>
+        <comment>TxComboboxControl_Name</comment>
+        <translation>Элементы управления полями со списками</translation>
+    </message>
+    <message>
+        <source>Drop-down list controls</source>
+        <comment>TxDropDownListControl_Name</comment>
+        <translation>Элементы управления раскрывающимися списками</translation>
+    </message>
+    <message>
+        <source>Date picker controls</source>
+        <comment>TxDatePickerControl_Name</comment>
+        <translation>Элементы управления выбором даты</translation>
+    </message>
+    <message>
+        <source>Repeating section controls</source>
+        <comment>TxRepeatingSectionControl_Name</comment>
+        <translation>Элементы управления повторяющегося раздела</translation>
+    </message>
+    <message>
+        <source>%s cannot be applied here.</source>
+        <comment>TxContentControls_Add_Warning1</comment>
+        <translation>%s не может применяться.</translation>
+    </message>
+    <message>
+        <source>%s cannot be inserted around multiple selections.</source>
+        <comment>TxContentControls_Add_Warning2</comment>
+        <translation>%s невозможно вставить вокруг нескольких выделенных фрагментов.</translation>
+    </message>
+    <message>
+        <source>%s cannot be inserted around table columns.</source>
+        <comment>TxContentControls_Add_Warning3</comment>
+        <translation>%s невозможно вставить вокруг столбцов таблицы.</translation>
+    </message>
+    <message>
+        <source>Repeating section controls can only be inserted around entire paragraphs or rows.</source>
+        <comment>TxContentControls_Add_Warning4</comment>
+        <translation>В элементы управления &quot;повторяющийся раздел&quot; можно помещать целые абзацы или строки.</translation>
+    </message>
+    <message>
+        <source>Picture controls cannot be inserted around a selection which contains non-image content, floating images, or more than a single inline image.</source>
+        <comment>TxContentControls_Add_Warning5</comment>
+        <translation>Элементы управления рисунками не могут быть вставлены вокруг выделенного фрагмента, включающего неграфическое содержимое, плавающие рисунки или более одного встроенного рисунка.</translation>
+    </message>
+    <message>
+        <source>%s cannot be inserted around the current selection.</source>
+        <comment>TxContentControls_Add_Warning6</comment>
+        <translation>%s невозможно вставить вокруг текущих выделенных фрагментов.</translation>
+    </message>
+    <message>
+        <source>Quick Parts</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Экспресс-блоки</translation>
+    </message>
+    <message>
+        <source>Cover Pages</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Титульные листы</translation>
+    </message>
+    <message>
+        <source>Equations</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Формулы</translation>
+    </message>
+    <message>
+        <source>Footers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Нижние колонтитулы</translation>
+    </message>
+    <message>
+        <source>Headers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Верхние колонтитулы</translation>
+    </message>
+    <message>
+        <source>Page Numbers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Номера страниц</translation>
+    </message>
+    <message>
+        <source>Tables</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Таблицы</translation>
+    </message>
+    <message>
+        <source>Watermarks</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Подложки</translation>
+    </message>
+    <message>
+        <source>AutoText</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Автотекст</translation>
+    </message>
+    <message>
+        <source>Text Boxes</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Надписи</translation>
+    </message>
+    <message>
+        <source>Page Numbers (Top of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Номера страниц (вверху страницы)</translation>
+    </message>
+    <message>
+        <source>Page Numbers (Bottom of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Номера страниц (внизу страницы)</translation>
+    </message>
+    <message>
+        <source>Page Numbers (Margins)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Номера страница (поля)</translation>
+    </message>
+    <message>
+        <source>Table of Contents</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Оглавление</translation>
+    </message>
+    <message>
+        <source>Custom Quick Parts</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольные экспресс-блоки</translation>
+    </message>
+    <message>
+        <source>Custom Cover Pages</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольные титульные страницы</translation>
+    </message>
+    <message>
+        <source>Custom Equations</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольные формулы</translation>
+    </message>
+    <message>
+        <source>Custom Footers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольные нижние колонтитулы</translation>
+    </message>
+    <message>
+        <source>Custom Headers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольные верхние колонтитулы</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольные номера страниц</translation>
+    </message>
+    <message>
+        <source>Custom Tables</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольные таблицы</translation>
+    </message>
+    <message>
+        <source>Custom Watermarks</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольные подложки</translation>
+    </message>
+    <message>
+        <source>Custom AutoText</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольный автотекст</translation>
+    </message>
+    <message>
+        <source>Custom Text Boxes</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольные надписи</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers (Top of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольные номера страниц (вверху страницы)</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers (Bottom of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольные номера страниц (внизу страницы)</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers (Margins)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольные номера страниц (поля)</translation>
+    </message>
+    <message>
+        <source>Custom Table of Contents</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольное оглавление</translation>
+    </message>
+    <message>
+        <source>Custom 1</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольный 1</translation>
+    </message>
+    <message>
+        <source>Custom 2</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольный 2</translation>
+    </message>
+    <message>
+        <source>Custom 3</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольный 3</translation>
+    </message>
+    <message>
+        <source>Custom 4</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольный 4</translation>
+    </message>
+    <message>
+        <source>Custom 5</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольный 5</translation>
+    </message>
+    <message>
+        <source>Bibliographies</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Библиография</translation>
+    </message>
+    <message>
+        <source>Custom Bibliographies</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>Произвольная библиография</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <comment>TxBBCategoryName_General</comment>
+        <translation>Общий</translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <comment>TxUserInfo_DefaultUserName</comment>
+        <translation type="obsolete">неизвестно</translation>
+    </message>
+    <message>
+        <source>Objects in this document contain links to files that cannot be found. The linked information will not be updated.</source>
+        <translation>Объекты в данном документе содержат ссылки на файлы, которые не удалось обнаружить. Информацию о ссылках не удалось обновить.</translation>
     </message>
 </context>
 <context>
@@ -2875,12 +3246,17 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>The measurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation type="unfinished"></translation>
+        <translation>Диапазон измерения должен быть между -1584 пт и 1584 пт.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation type="unfinished"></translation>
+        <translation>Диапазон измерения должен быть между 0,5 и 600.</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot turn off design mode because placeholder text in a content control contains invalid items. Placeholder text cannot contain items such as floating objects, revision marks, or content controls. Remove these items from the placeholder text and try again.</source>
+        <comment>_TxErr_InvalidPHdrText</comment>
+        <translation>WPS Writer не может отключить режим конструктора, так как замещающий текст в элементе управления содержимым содержит недопустимые элементы.  Замещающий текст не может содержать такие элементы, как перемещаемые объекты, метки исправления и элементы управления содержимым.  Удалите эти элементы из замещающего текста и повторите попытку.</translation>
     </message>
 </context>
 <context>
@@ -2898,12 +3274,12 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Normal.wpt</source>
         <comment>_TxDocument_NormalTemplate</comment>
-        <translation></translation>
+        <translation type="obsolete">Обычный.wpt</translation>
     </message>
     <message>
         <source>builtin.wpt</source>
         <comment>_TxDocument_BuiltInTemplate</comment>
-        <translation></translation>
+        <translation type="unfinished">встроенный.wpt</translation>
     </message>
     <message>
         <source>templates</source>
@@ -2913,12 +3289,12 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPS</comment>
-        <translation>Общие файлы(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
+        <translation type="obsolete">Общие файлы(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
         <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</source>
         <comment>TxExts_AllWPS</comment>
-        <translation></translation>
+        <translation type="obsolete">*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
@@ -2928,7 +3304,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>*.*</source>
         <comment>TxExts_All</comment>
-        <translation></translation>
+        <translation>*.*</translation>
     </message>
     <message>
         <source>ICBC Preparatory Documents(*.ic1)</source>
@@ -2938,7 +3314,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>*.ic1</source>
         <comment>TxExts_IC1</comment>
-        <translation></translation>
+        <translation>*.ic1</translation>
     </message>
     <message>
         <source>ICBC Official Documents(*.ic2)</source>
@@ -2948,7 +3324,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>*.ic2</source>
         <comment>TxExts_IC2</comment>
-        <translation></translation>
+        <translation>*.ic2</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
@@ -3159,7 +3535,8 @@ Do you want to continue?</source>
         <source>
 • Genko</source>
         <comment>_TxDocument_FormatNotCompatible_Genko</comment>
-        <translation></translation>
+        <translation>
+• Генко</translation>
     </message>
     <message>
         <source>
@@ -3241,7 +3618,7 @@ Please try one of the following.
     <message>
         <source>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</source>
         <comment>TxExts_AllWPSEx</comment>
-        <translation></translation>
+        <translation>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</translation>
     </message>
     <message>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
@@ -3255,6 +3632,34 @@ This backup will be saved to(%s)</source>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
 This backup will be saved to (%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
+        <translation>Во время резервного копирования произошли ошибки. У вас нет разрешений на запись в каталог резервных копий, в который нужно разместить файлы. Выберите другой каталог резервных копий.
+Резервные копии будут сохранены в папку (%s).</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</source>
+        <comment>TxDesc_AllWPS</comment>
+        <translation>Общие файлы(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</translation>
+    </message>
+    <message>
+        <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</source>
+        <comment>TxExts_AllWPS</comment>
+        <translation>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</translation>
+    </message>
+    <message>
+        <source>WPSV6-TEXT</source>
+        <comment>_TxFilter_ConfigKey</comment>
+        <translation type="obsolete">WPSV6-TEXT</translation>
+    </message>
+    <message>
+        <source>Document has been locked by %s. Do you want to open it as read-only?
+(%s)</source>
+        <comment>_TxDocument_SaveFailureLocked</comment>
+        <translation>Документ был заблокирован %s. Хотите открыть его только для чтения?
+(%s)</translation>
+    </message>
+    <message>
+        <source>Normal.dotm</source>
+        <comment>_TxDocument_NormalTemplate</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3975,7 +4380,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>%s +%s%s%s%s%s%s%s%s</source>
         <comment>wps_sNormal</comment>
-        <translation></translation>
+        <translation>%s +%s%s%s%s%s%s%s%s</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -4115,12 +4520,12 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>5%</source>
         <comment>wps_sPercent05</comment>
-        <translation></translation>
+        <translation>5%</translation>
     </message>
     <message>
         <source>10%</source>
         <comment>wps_sPercent10</comment>
-        <translation></translation>
+        <translation>10%</translation>
     </message>
     <message>
         <source>12.5%</source>
@@ -4130,27 +4535,27 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>15%</source>
         <comment>wps_sPercent15</comment>
-        <translation></translation>
+        <translation>15%</translation>
     </message>
     <message>
         <source>20%</source>
         <comment>wps_sPercent20</comment>
-        <translation></translation>
+        <translation>20%</translation>
     </message>
     <message>
         <source>25%</source>
         <comment>wps_sPercent25</comment>
-        <translation></translation>
+        <translation>25%</translation>
     </message>
     <message>
         <source>30%</source>
         <comment>wps_sPercent30</comment>
-        <translation></translation>
+        <translation>30%</translation>
     </message>
     <message>
         <source>35%</source>
         <comment>wps_sPercent35</comment>
-        <translation></translation>
+        <translation>35%</translation>
     </message>
     <message>
         <source>37.5%</source>
@@ -4160,27 +4565,27 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>40%</source>
         <comment>wps_sPercent40</comment>
-        <translation></translation>
+        <translation>40%</translation>
     </message>
     <message>
         <source>45%</source>
         <comment>wps_sPercent45</comment>
-        <translation></translation>
+        <translation>45%</translation>
     </message>
     <message>
         <source>50%</source>
         <comment>wps_sPercent50</comment>
-        <translation></translation>
+        <translation>50%</translation>
     </message>
     <message>
         <source>55%</source>
         <comment>wps_sPercent55</comment>
-        <translation></translation>
+        <translation>55%</translation>
     </message>
     <message>
         <source>60%</source>
         <comment>wps_sPercent60</comment>
-        <translation></translation>
+        <translation>60%</translation>
     </message>
     <message>
         <source>62.5%</source>
@@ -4190,27 +4595,27 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>65%</source>
         <comment>wps_sPercent65</comment>
-        <translation></translation>
+        <translation>65%</translation>
     </message>
     <message>
         <source>70%</source>
         <comment>wps_sPercent70</comment>
-        <translation></translation>
+        <translation>70%</translation>
     </message>
     <message>
         <source>75%</source>
         <comment>wps_sPercent75</comment>
-        <translation></translation>
+        <translation>75%</translation>
     </message>
     <message>
         <source>80%</source>
         <comment>wps_sPercent80</comment>
-        <translation></translation>
+        <translation>80%</translation>
     </message>
     <message>
         <source>85%</source>
         <comment>wps_sPercent85</comment>
-        <translation></translation>
+        <translation>85%</translation>
     </message>
     <message>
         <source>87.5%</source>
@@ -4220,17 +4625,17 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>90%</source>
         <comment>wps_sPercent90</comment>
-        <translation></translation>
+        <translation>90%</translation>
     </message>
     <message>
         <source>95%</source>
         <comment>wps_sPercent95</comment>
-        <translation></translation>
+        <translation>95%</translation>
     </message>
     <message>
         <source>(1-%s)</source>
         <comment>wps_sPerStr</comment>
-        <translation></translation>
+        <translation>(1-%s)</translation>
     </message>
     <message>
         <source>Phonetic Guide for First Name</source>
@@ -4722,37 +5127,37 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>PageRef</source>
         <comment>wps_sPageRef</comment>
-        <translation></translation>
+        <translation>PageRef</translation>
     </message>
     <message>
         <source>SectionPages</source>
         <comment>wps_sFieldSectionPages</comment>
-        <translation></translation>
+        <translation>SectionPages</translation>
     </message>
     <message>
         <source>Seq</source>
         <comment>wps_sFieldSeq</comment>
-        <translation></translation>
+        <translation>Серия</translation>
     </message>
     <message>
         <source>TC</source>
         <comment>wps_sFieldTc</comment>
-        <translation></translation>
+        <translation>TC</translation>
     </message>
     <message>
         <source>DocVariable</source>
         <comment>wps_sFieldDocVariable</comment>
-        <translation></translation>
+        <translation>DocVariable</translation>
     </message>
     <message>
         <source>TOC</source>
         <comment>wps_sFieldToc</comment>
-        <translation></translation>
+        <translation>TOC</translation>
     </message>
     <message>
         <source>NumPages</source>
         <comment>wps_sFieldNumPages</comment>
-        <translation></translation>
+        <translation>NumPages</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -4767,7 +5172,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Time</source>
         <comment>wps_sFieldTime</comment>
-        <translation></translation>
+        <translation>Время</translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
@@ -4836,37 +5241,37 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>THREE</source>
         <comment>wps_sPreviewPage</comment>
-        <translation></translation>
+        <translation>ТРИ</translation>
     </message>
     <message>
         <source>5</source>
         <comment>wps_sPreviewPageRef</comment>
-        <translation></translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>10</source>
         <comment>wps_sPreviewSectionPages</comment>
-        <translation></translation>
+        <translation>10</translation>
     </message>
     <message>
         <source>1</source>
         <comment>wps_sPreviewSeq</comment>
-        <translation></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2008-8-8</source>
         <comment>wps_sPreviewTime</comment>
-        <translation></translation>
+        <translation>2008-8-8</translation>
     </message>
     <message>
         <source>20</source>
         <comment>wps_sPreviewNumPages</comment>
-        <translation></translation>
+        <translation>20</translation>
     </message>
     <message>
         <source>100</source>
         <comment>wps_sPreviewDocVariable</comment>
-        <translation></translation>
+        <translation>100</translation>
     </message>
     <message>
         <source>The value must be between %d and %d.</source>
@@ -5061,7 +5466,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>StyleRef</source>
         <comment>wps_sStyleRef</comment>
-        <translation></translation>
+        <translation>StyleRef</translation>
     </message>
     <message>
         <source>The form tip cannot be longer than 40 characters.</source>
@@ -5118,12 +5523,20 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed.</source>
         <comment>wps_sVBAMacroSecurityError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка Kingsoft Writer во время настройки безопасности макросов. Возможная причина - не установлена среда VBA.</translation>
     </message>
     <message>
         <source>This shortcut key already exists. Please set another key.</source>
         <comment>wps_sAppShortcutExisted</comment>
-        <translation type="unfinished"></translation>
+        <translation>Это сочетание клавиш уже присвоено, пожалуйста, выберите другое.</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
+        <translation>Параметры выбранные для левого и правого полей, расстояний между столбцами или отступов абзаца слишком велики для ширины страницы в некоторых разделах.</translation>
+    </message>
+    <message>
+        <source>The objects or tables in a scalable text box will be removed. Do you want to continue?</source>
+        <translation>Объекты или таблицы в масштабируемом текстовом поле будут удалены. Продолжить?</translation>
     </message>
 </context>
 <context>
@@ -5131,12 +5544,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>.</source>
         <comment>TxAboutText</comment>
-        <translation></translation>
+        <translation type="unfinished">.</translation>
     </message>
     <message>
         <source>.</source>
         <comment>TxAboutCaption</comment>
-        <translation></translation>
+        <translation type="unfinished">.</translation>
     </message>
     <message>
         <source>All Files(*.*) | *.*; |</source>
@@ -6914,27 +7327,27 @@ Check</source>
     <message>
         <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
         <comment>TxDesc_DataSource_AllDataSource</comment>
-        <translation>Все источники данных(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
+        <translation>Все источники данных (*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
     </message>
     <message>
         <source>Word Documents(*.docx; *.doc; *.docm) | *.docx; *.doc; *.docm; |</source>
         <comment>TxDesc_DataSource_doc</comment>
-        <translation>Документы Word(*.docx; *.doc; *.docm) | *.docx; *.doc; *.docm; |</translation>
+        <translation>Документы Word (*.docx; *.doc; *.docm) | *.docx; *.doc; *.docm; |</translation>
     </message>
     <message>
         <source>All Word Documents(*.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html) | *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html; |</source>
         <comment>TxDesc_DataSource_alldoc</comment>
-        <translation>Все документы Word(*.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html) | *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html; |</translation>
+        <translation>Все документы Word (*.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html) | *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html; |</translation>
     </message>
     <message>
         <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt |</source>
         <comment>TxDesc_DataSource_allwps</comment>
-        <translation>Все документы WPS Writer(*.wps; *.wpt) | *.wps; *.wpt |</translation>
+        <translation>Все документы WPS Writer (*.wps; *.wpt) | *.wps; *.wpt |</translation>
     </message>
     <message>
         <source>AutoFit to Content</source>
         <comment>TxVersion_AutoFitContent</comment>
-        <translation>Автоподбор для содержимого</translation>
+        <translation>Автоподбор по содержимому</translation>
     </message>
     <message>
         <source>Light Shading</source>
@@ -6989,7 +7402,7 @@ Check</source>
     <message>
         <source>Dark List</source>
         <comment>TxTableStyle_DarkList</comment>
-        <translation>Тёмный список</translation>
+        <translation>Темный список</translation>
     </message>
     <message>
         <source>Colorful Shading</source>
@@ -6999,7 +7412,7 @@ Check</source>
     <message>
         <source>Colorful List</source>
         <comment>TxTableStyle_ColorfulList</comment>
-        <translation>Цветной лист</translation>
+        <translation>Цветной список</translation>
     </message>
     <message>
         <source>Colorful Grid</source>
@@ -7009,432 +7422,487 @@ Check</source>
     <message>
         <source>Light Shading Accent 1</source>
         <comment>TxTableStyle_LightShadingAccent1</comment>
-        <translation>Светлая заливка - Акцент 1</translation>
+        <translation>Светлая заливка — Акцент 1</translation>
     </message>
     <message>
         <source>Light List Accent 1</source>
         <comment>TxTableStyle_LightListAccent1</comment>
-        <translation>Светлый лист - Акцент 1</translation>
+        <translation>Светлый список — Акцент 1</translation>
     </message>
     <message>
         <source>Light Grid Accent 1</source>
         <comment>TxTableStyle_LightGridAccent1</comment>
-        <translation>Светлая сетка - Акцент 1</translation>
+        <translation>Светлая сетка — Акцент 1</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 1</source>
         <comment>TxTableStyle_MediumShading1Accent1</comment>
-        <translation>Средняя заливка 1 - Акцент 1</translation>
+        <translation>Средняя заливка 1 — Акцент 1</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 1</source>
         <comment>TxTableStyle_MediumShading2Accent1</comment>
-        <translation>Средняя заливка 2 - Акцент 1</translation>
+        <translation>Средняя заливка 2 — Акцент 1</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 1</source>
         <comment>TxTableStyle_MediumList1Accent1</comment>
-        <translation>Средний лист 1 - Акцент 1</translation>
+        <translation>Средний список 1 — Акцент 1</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 1</source>
         <comment>TxTableStyle_MediumList2Accent1</comment>
-        <translation>Средний лист 2 - Акцент 1</translation>
+        <translation>Средний список 2 — Акцент 1</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 1</source>
         <comment>TxTableStyle_MediumGrid1Accent1</comment>
-        <translation>Средняя сетка 1 - Акцент 1</translation>
+        <translation>Средняя сетка 1 — Акцент 1</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 1</source>
         <comment>TxTableStyle_MediumGrid2Accent1</comment>
-        <translation>Средняя сетка 2 - Акцент 1</translation>
+        <translation>Средняя сетка 2 — Акцент 1</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 1</source>
         <comment>TxTableStyle_MediumGrid3Accent1</comment>
-        <translation>Средняя сетка 3 - Акцент 1</translation>
+        <translation>Средняя сетка 3 — Акцент 1</translation>
     </message>
     <message>
         <source>Dark List Accent 1</source>
         <comment>TxTableStyle_DarkListAccent1</comment>
-        <translation>Тёмный лист - Акцент 1</translation>
+        <translation>Темный список — Акцент 1</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 1</source>
         <comment>TxTableStyle_ColorfulShadingAccent1</comment>
-        <translation>Цветная заливка - Акцент 1</translation>
+        <translation>Цветная заливка — Акцент 1</translation>
     </message>
     <message>
         <source>Colorful List Accent 1</source>
         <comment>TxTableStyle_ColorfulListAccent1</comment>
-        <translation>Цветной список - Акцент 1</translation>
+        <translation>Цветной список — Акцент 1</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 1</source>
         <comment>TxTableStyle_ColorfulGridAccent1</comment>
-        <translation>Цветная сетка 1 - Акцент 1</translation>
+        <translation>Цветная сетка — Акцент 1</translation>
     </message>
     <message>
         <source>Light Shading Accent 2</source>
         <comment>TxTableStyle_LightShadingAccent2</comment>
-        <translation>Светлая заливка - Акцент 2</translation>
+        <translation>Светлая заливка — Акцент 2</translation>
     </message>
     <message>
         <source>Light List Accent 2</source>
         <comment>TxTableStyle_LightListAccent2</comment>
-        <translation>Светлый лист - Акцент 2</translation>
+        <translation>Светлый список — Акцент 2</translation>
     </message>
     <message>
         <source>Light Grid Accent 2</source>
         <comment>TxTableStyle_LightGridAccent2</comment>
-        <translation>Светлая сетка - Акцент 2</translation>
+        <translation>Светлая сетка — Акцент 2</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 2</source>
         <comment>TxTableStyle_MediumShading1Accent2</comment>
-        <translation>Средняя заливка 1 - Акцент 2</translation>
+        <translation>Средняя заливка 1 — Акцент 2</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 2</source>
         <comment>TxTableStyle_MediumShading2Accent2</comment>
-        <translation>Средняя заливка 2 - Акцент 2</translation>
+        <translation>Средняя заливка 2 — Акцент 2</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 2</source>
         <comment>TxTableStyle_MediumList1Accent2</comment>
-        <translation>Средний лист 1 - Акцент 2</translation>
+        <translation>Средний список 1 — Акцент 2</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 2</source>
         <comment>TxTableStyle_MediumList2Accent2</comment>
-        <translation>Средний лист 2 - Акцент 2</translation>
+        <translation>Средний список 2 — Акцент 2</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 2</source>
         <comment>TxTableStyle_MediumGrid1Accent2</comment>
-        <translation>Средняя сетка 1 - Акцент 2</translation>
+        <translation>Средняя сетка 1 — Акцент 2</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 2</source>
         <comment>TxTableStyle_MediumGrid2Accent2</comment>
-        <translation>Средняя сетка 2 - Акцент 2</translation>
+        <translation>Средняя сетка 2 — Акцент 2</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 2</source>
         <comment>TxTableStyle_MediumGrid3Accent2</comment>
-        <translation>Средняя сетка 3 - Акцент 2</translation>
+        <translation>Средняя сетка 3 — Акцент 2</translation>
     </message>
     <message>
         <source>Dark List Accent 2</source>
         <comment>TxTableStyle_DarkListAccent2</comment>
-        <translation>Тёмный лист - Акцент 2</translation>
+        <translation>Темный список — Акцент 2</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 2</source>
         <comment>TxTableStyle_ColorfulShadingAccent2</comment>
-        <translation>Цветная заливка - Акцент 2</translation>
+        <translation>Цветная заливка — Акцент 2</translation>
     </message>
     <message>
         <source>Colorful List Accent 2</source>
         <comment>TxTableStyle_ColorfulListAccent2</comment>
-        <translation>Цветной список - Акцент 2</translation>
+        <translation>Цветной список — Акцент 2</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 2</source>
         <comment>TxTableStyle_ColorfulGridAccent2</comment>
-        <translation>Цветная сетка - Акцент 2</translation>
+        <translation>Цветная сетка — Акцент 2</translation>
     </message>
     <message>
         <source>Light Shading Accent 3</source>
         <comment>TxTableStyle_LightShadingAccent3</comment>
-        <translation>Светлая заливка - Акцент 3</translation>
+        <translation>Светлая заливка — Акцент 3</translation>
     </message>
     <message>
         <source>Light List Accent 3</source>
         <comment>TxTableStyle_LightListAccent3</comment>
-        <translation>Светлый лист - Акцент 3</translation>
+        <translation>Светлый список — Акцент 3</translation>
     </message>
     <message>
         <source>Light Grid Accent 3</source>
         <comment>TxTableStyle_LightGridAccent3</comment>
-        <translation>Светлая сетка - Акцент 3</translation>
+        <translation>Светлая сетка — Акцент 3</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 3</source>
         <comment>TxTableStyle_MediumShading1Accent3</comment>
-        <translation>Средняя заливка 1 - Акцент 3</translation>
+        <translation>Средняя заливка 1 — Акцент 3</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 3</source>
         <comment>TxTableStyle_MediumShading2Accent3</comment>
-        <translation>Средняя заливка 2 - Акцент 3</translation>
+        <translation>Средняя заливка 2 — Акцент 3</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 3</source>
         <comment>TxTableStyle_MediumList1Accent3</comment>
-        <translation>Средний лист 1 - Акцент 3</translation>
+        <translation>Средний список 1 — Акцент 3</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 3</source>
         <comment>TxTableStyle_MediumList2Accent3</comment>
-        <translation>Средний лист 2 - Акцент 3</translation>
+        <translation>Средний список 2 — Акцент 3</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 3</source>
         <comment>TxTableStyle_MediumGrid1Accent3</comment>
-        <translation>Средняя сетка 1 - Акцент 3</translation>
+        <translation>Средняя сетка 1 — Акцент 3</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 3</source>
         <comment>TxTableStyle_MediumGrid2Accent3</comment>
-        <translation>Средняя сетка 2 - Акцент 3</translation>
+        <translation>Средняя сетка 2 — Акцент 3</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 3</source>
         <comment>TxTableStyle_MediumGrid3Accent3</comment>
-        <translation>Средняя сетка 3 - Акцент 3</translation>
+        <translation>Средняя сетка 3 — Акцент 3</translation>
     </message>
     <message>
         <source>Dark List Accent 3</source>
         <comment>TxTableStyle_DarkListAccent3</comment>
-        <translation>Тёмный лист - Акцент 3</translation>
+        <translation>Темный список — Акцент 3</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 3</source>
         <comment>TxTableStyle_ColorfulShadingAccent3</comment>
-        <translation>Цветная заливка - Акцент 3</translation>
+        <translation>Цветная заливка — Акцент 3</translation>
     </message>
     <message>
         <source>Colorful List Accent 3</source>
         <comment>TxTableStyle_ColorfulListAccent3</comment>
-        <translation>Цветной список - Акцент 3</translation>
+        <translation>Цветной список — Акцент 3</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 3</source>
         <comment>TxTableStyle_ColorfulGridAccent3</comment>
-        <translation>Цветная сетка 1 - Акцент 3</translation>
+        <translation>Цветная сетка — Акцент 3</translation>
     </message>
     <message>
         <source>Light Shading Accent 4</source>
         <comment>TxTableStyle_LightShadingAccent4</comment>
-        <translation>Светлая заливка - Акцент 4</translation>
+        <translation>Светлая заливка — Акцент 4</translation>
     </message>
     <message>
         <source>Light List Accent 4</source>
         <comment>TxTableStyle_LightListAccent4</comment>
-        <translation>Светлый лист - Акцент 4</translation>
+        <translation>Светлый список — Акцент 4</translation>
     </message>
     <message>
         <source>Light Grid Accent 4</source>
         <comment>TxTableStyle_LightGridAccent4</comment>
-        <translation>Светлая сетка - Акцент 4</translation>
+        <translation>Светлая сетка — Акцент 4</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 4</source>
         <comment>TxTableStyle_MediumShading1Accent4</comment>
-        <translation>Средняя заливка 1 - Акцент 4</translation>
+        <translation>Средняя заливка 1 — Акцент 4</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 4</source>
         <comment>TxTableStyle_MediumShading2Accent4</comment>
-        <translation>Средняя заливка 2 - Акцент 4</translation>
+        <translation>Средняя заливка 2 — Акцент 4</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 4</source>
         <comment>TxTableStyle_MediumList1Accent4</comment>
-        <translation>Средний лист 1 - Акцент 4</translation>
+        <translation>Средний список 1 — Акцент 4</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 4</source>
         <comment>TxTableStyle_MediumList2Accent4</comment>
-        <translation>Средний лист 2 - Акцент 4</translation>
+        <translation>Средний список 2 — Акцент 4</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 4</source>
         <comment>TxTableStyle_MediumGrid1Accent4</comment>
-        <translation>Средняя сетка 1 - Акцент 4</translation>
+        <translation>Средняя сетка 1 — Акцент 4</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 4</source>
         <comment>TxTableStyle_MediumGrid2Accent4</comment>
-        <translation>Средняя сетка 2 - Акцент 4</translation>
+        <translation>Средняя сетка 2 — Акцент 4</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 4</source>
         <comment>TxTableStyle_MediumGrid3Accent4</comment>
-        <translation>Средняя сетка 3 - Акцент 4</translation>
+        <translation>Средняя сетка 3 — Акцент 4</translation>
     </message>
     <message>
         <source>Dark List Accent 4</source>
         <comment>TxTableStyle_DarkListAccent4</comment>
-        <translation>Тёмный лист - Акцент 4</translation>
+        <translation>Темный список — Акцент 4</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 4</source>
         <comment>TxTableStyle_ColorfulShadingAccent4</comment>
-        <translation>Цветная заливка - Акцент 4</translation>
+        <translation>Цветная заливка — Акцент 4</translation>
     </message>
     <message>
         <source>Colorful List Accent 4</source>
         <comment>TxTableStyle_ColorfulListAccent4</comment>
-        <translation>Цветной список - Акцент 4</translation>
+        <translation>Цветной список — Акцент 4</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 4</source>
         <comment>TxTableStyle_ColorfulGridAccent4</comment>
-        <translation>Цветная сетка - Акцент 4</translation>
+        <translation>Цветная сетка — Акцент 4</translation>
     </message>
     <message>
         <source>Light Shading Accent 5</source>
         <comment>TxTableStyle_LightShadingAccent5</comment>
-        <translation>Светлая заливка - Акцент 5</translation>
+        <translation>Светлая заливка — Акцент 5</translation>
     </message>
     <message>
         <source>Light List Accent 5</source>
         <comment>TxTableStyle_LightListAccent5</comment>
-        <translation>Светлый лист - Акцент 5</translation>
+        <translation>Светлый список — Акцент 5</translation>
     </message>
     <message>
         <source>Light Grid Accent 5</source>
         <comment>TxTableStyle_LightGridAccent5</comment>
-        <translation>Светлая сетка - Акцент 5</translation>
+        <translation>Светлая сетка — Акцент 5</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 5</source>
         <comment>TxTableStyle_MediumShading1Accent5</comment>
-        <translation>Средняя заливка 1 - Акцент 5</translation>
+        <translation>Средняя заливка 1 — Акцент 5</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 5</source>
         <comment>TxTableStyle_MediumShading2Accent5</comment>
-        <translation>Средняя заливка 2 - Акцент 5</translation>
+        <translation>Средняя заливка 2 — Акцент 5</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 5</source>
         <comment>TxTableStyle_MediumList1Accent5</comment>
-        <translation>Средний лист 1 - Акцент 5</translation>
+        <translation>Средний список 1 — Акцент 5</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 5</source>
         <comment>TxTableStyle_MediumList2Accent5</comment>
-        <translation>Средний лист 2 - Акцент 5</translation>
+        <translation>Средний список 2 — Акцент 5</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 5</source>
         <comment>TxTableStyle_MediumGrid1Accent5</comment>
-        <translation>Средняя сетка 1 - Акцент 5</translation>
+        <translation>Средняя сетка 1 — Акцент 5</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 5</source>
         <comment>TxTableStyle_MediumGrid2Accent5</comment>
-        <translation>Средняя сетка 2 - Акцент 5</translation>
+        <translation>Средняя сетка 2 — Акцент 5</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 5</source>
         <comment>TxTableStyle_MediumGrid3Accent5</comment>
-        <translation>Средняя сетка 3 - Акцент 5</translation>
+        <translation>Средняя сетка 3 — Акцент 5</translation>
     </message>
     <message>
         <source>Dark List Accent 5</source>
         <comment>TxTableStyle_DarkListAccent5</comment>
-        <translation>Тёмный лист - Акцент 5</translation>
+        <translation>Темный список — Акцент 5</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 5</source>
         <comment>TxTableStyle_ColorfulShadingAccent5</comment>
-        <translation>Цветная заливка - Акцент 5</translation>
+        <translation>Цветная заливка — Акцент 5</translation>
     </message>
     <message>
         <source>Colorful List Accent 5</source>
         <comment>TxTableStyle_ColorfulListAccent5</comment>
-        <translation>Цветной список - Акцент 5</translation>
+        <translation>Цветной список — Акцент 5</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 5</source>
         <comment>TxTableStyle_ColorfulGridAccent5</comment>
-        <translation>Цветная сетка - Акцент 5</translation>
+        <translation>Цветная сетка — Акцент 5</translation>
     </message>
     <message>
         <source>Light Shading Accent 6</source>
         <comment>TxTableStyle_LightShadingAccent6</comment>
-        <translation>Светлая заливка - Акцент 6</translation>
+        <translation>Светлая заливка — Акцент 6</translation>
     </message>
     <message>
         <source>Light List Accent 6</source>
         <comment>TxTableStyle_LightListAccent6</comment>
-        <translation>Светлый лист - Акцент 6</translation>
+        <translation>Светлый список — Акцент 6</translation>
     </message>
     <message>
         <source>Light Grid Accent 6</source>
         <comment>TxTableStyle_LightGridAccent6</comment>
-        <translation>Светлая сетка - Акцент 6</translation>
+        <translation>Светлая сетка — Акцент 6</translation>
     </message>
     <message>
         <source>Medium Shading 1 Accent 6</source>
         <comment>TxTableStyle_MediumShading1Accent6</comment>
-        <translation>Средняя заливка 1 - Акцент 6</translation>
+        <translation>Средняя заливка 1 — Акцент 6</translation>
     </message>
     <message>
         <source>Medium Shading 2 Accent 6</source>
         <comment>TxTableStyle_MediumShading2Accent6</comment>
-        <translation>Средняя заливка 2 - Акцент 6</translation>
+        <translation>Средняя заливка 2 — Акцент 6</translation>
     </message>
     <message>
         <source>Medium List 1 Accent 6</source>
         <comment>TxTableStyle_MediumList1Accent6</comment>
-        <translation>Средний лист 1 - Акцент 6</translation>
+        <translation>Средний список 1 — Акцент 6</translation>
     </message>
     <message>
         <source>Medium List 2 Accent 6</source>
         <comment>TxTableStyle_MediumList2Accent6</comment>
-        <translation>Средний лист 2 - Акцент 6</translation>
+        <translation>Средний список 2 — Акцент 6</translation>
     </message>
     <message>
         <source>Medium Grid 1 Accent 6</source>
         <comment>TxTableStyle_MediumGrid1Accent6</comment>
-        <translation>Средняя сетка 1 - Акцент 6</translation>
+        <translation>Средняя сетка 1 — Акцент 6</translation>
     </message>
     <message>
         <source>Medium Grid 2 Accent 6</source>
         <comment>TxTableStyle_MediumGrid2Accent6</comment>
-        <translation>Средняя сетка 2 - Акцент 6</translation>
+        <translation>Средняя сетка 2 — Акцент 6</translation>
     </message>
     <message>
         <source>Medium Grid 3 Accent 6</source>
         <comment>TxTableStyle_MediumGrid3Accent6</comment>
-        <translation>Средняя сетка 3 - Акцент 6</translation>
+        <translation>Средняя сетка 3 — Акцент 6</translation>
     </message>
     <message>
         <source>Dark List Accent 6</source>
         <comment>TxTableStyle_DarkListAccent6</comment>
-        <translation>Тёмный лист - Акцент 6</translation>
+        <translation>Темный список — Акцент 6</translation>
     </message>
     <message>
         <source>Colorful Shading Accent 6</source>
         <comment>TxTableStyle_ColorfulShadingAccent6</comment>
-        <translation>Цветная заливка - Акцент 6</translation>
+        <translation>Цветная заливка — Акцент 6</translation>
     </message>
     <message>
         <source>Colorful List Accent 6</source>
         <comment>TxTableStyle_ColorfulListAccent6</comment>
-        <translation>Цветной список - Акцент 6</translation>
+        <translation>Цветной список — Акцент 6</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 6</source>
         <comment>TxTableStyle_ColorfulGridAccent6</comment>
-        <translation>Цветная сетка - Акцент 6</translation>
+        <translation>Цветная сетка — Акцент 6</translation>
     </message>
     <message>
         <source>Insert DocumentField</source>
         <comment>TxVersion_InsDocumentField</comment>
-        <translation>Вставить поле документа</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
-        <translation type="unfinished"></translation>
+        <translation>Личные адресные книги Outlook (*.pab) | *.pab; |</translation>
+    </message>
+    <message>
+        <source>PDF Files(*.pdf) | *.pdf; |</source>
+        <comment>TxDesc_DataSource_pdf</comment>
+        <translation>Файлы PDF(*.pdf) | *.pdf; |</translation>
+    </message>
+    <message>
+        <source>The target text box is different format than your current text box. You can only link text boxes that are the same format.</source>
+        <comment>TxMessage_CreateTextboxLinkError5</comment>
+        <translation>Форматы конечной и текущей надписей не совпадают. Связь может быть установлена только между надписями одного формата.</translation>
+    </message>
+    <message>
+        <source>Set AutoShape Defaults</source>
+        <comment>TxCaption_ShapeAutoShapeDefaults</comment>
+        <translation>По умолчанию для автофигур</translation>
+    </message>
+    <message>
+        <source>Set as Default Shape</source>
+        <comment>TxCaption_DmlShapeAutoShapeDefaults</comment>
+        <translation>Использовать, как фигуру по умолчанию</translation>
+    </message>
+    <message>
+        <source>Set as Default Text Box</source>
+        <comment>TxCaption_DmlTextboxAutoShapeDefaults</comment>
+        <translation>Использовать, как текстовое поле по умолчанию</translation>
+    </message>
+    <message>
+        <source>InsertBefore</source>
+        <comment>TxCaption_ContentControlInsertBefore</comment>
+        <translation>Вставка до</translation>
+    </message>
+    <message>
+        <source>InsertAfter</source>
+        <comment>TxCaption_ContentControlInsertAfter</comment>
+        <translation>Вставка после</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <comment>TxCaption_ContentControlDelete</comment>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <source>Item</source>
+        <comment>TxCaption_ContentControlItem</comment>
+        <translation>Элемент</translation>
+    </message>
+    <message>
+        <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
+        <comment>TxError_EditChartDataSource</comment>
+        <translation>Сетка данных диаграммы уже открыта в &quot;%s&quot;. Чтобы изменить данные этой диаграммы, ее необходимо сначала закрыть.</translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>TxCaption_NoSynonymsSuggestions</comment>
+        <translation type="obsolete">(нет предложений синонимов)</translation>
     </message>
 </context>
 <context>
@@ -8817,6 +9285,10 @@ To continue saving as a macro-free workbook, click Yes.</source>
 ·проект Visual Basic
 Чтобы сохранить файл с этими функциями, щёлкните Нет, и выберите тип файла с поддержкой макросов в списке &quot;Тип файла&quot;. 
 Чтобы продолжить сохранение в формате книги электронных таблиц без макросов, нажмите &quot;Да&quot;.</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</source>
+        <translation type="obsolete">Общие файлы(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</translation>
     </message>
 </context>
 <context>

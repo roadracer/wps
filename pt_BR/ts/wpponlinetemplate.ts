@@ -43,15 +43,15 @@
     <name>QApplication</name>
     <message>
         <source>\WPS Office\Desktop.ini name.</source>
-        <translation>Nome do \WPS Office\Desktop.ini</translation>
+        <translation>Nome do \WPS Office\Desktop.ini.</translation>
     </message>
     <message>
         <source>\WPS Office\Office Space\Desktop.ini name.</source>
-        <translation>Nome do \WPS Office\Office Space\Desktop.ini</translation>
+        <translation>Nome do \WPS Office\Office Space\Desktop.ini.</translation>
     </message>
     <message>
         <source>\WPS Office\Office Space\My Templates\Desktop.ini name.</source>
-        <translation>Nome do \WPS Office\Office Space\My Templates\Desktop.ini</translation>
+        <translation>Nome do \WPS Office\Office Space\My Templates\Desktop.ini.</translation>
     </message>
 </context>
 </TS>

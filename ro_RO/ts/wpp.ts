@@ -830,10 +830,6 @@
         <translation>&amp;Mai multe culori</translation>
     </message>
     <message>
-        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Do you want to reset the library as default?</source>
         <translation>Doriți să resetați biblioteca la implicit?</translation>
     </message>
@@ -873,27 +869,27 @@
     <name>KxColorSettingPanel</name>
     <message>
         <source>Background</source>
-        <translation>Fundal</translation>
+        <translation type="obsolete">Fundal</translation>
     </message>
     <message>
         <source>Text and lines</source>
-        <translation>Text și linii</translation>
+        <translation type="obsolete">Text și linii</translation>
     </message>
     <message>
         <source>Shadows</source>
-        <translation>Umbre</translation>
+        <translation type="obsolete">Umbre</translation>
     </message>
     <message>
         <source>Title text</source>
-        <translation>Text titlu</translation>
+        <translation type="obsolete">Text titlu</translation>
     </message>
     <message>
         <source>Fills</source>
-        <translation>Umpleri</translation>
+        <translation type="obsolete">Umpleri</translation>
     </message>
     <message>
         <source>Accent</source>
-        <translation>Accent</translation>
+        <translation type="obsolete">Accent</translation>
     </message>
     <message>
         <source>Accent and hyperlink</source>
@@ -902,6 +898,46 @@
     <message>
         <source>Accent and followed hyperlink</source>
         <translation>Accent și următorul hyperlink</translation>
+    </message>
+    <message>
+        <source>Dark1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished">Luminos</translation>
+    </message>
+    <message>
+        <source>Dark2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1160,6 +1196,29 @@ dosar de redat.</translation>
     </message>
 </context>
 <context>
+    <name>KxDlgCompatibilityChecker</name>
+    <message>
+        <source>Compatibility Checker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following features in this presentation are not supported by earlier versions of WPS Presentation.These features may be lost or degraded when you save this presentation in an earlier file format.Click Continue to save the presentation anyway. To retain all of your features click Cancel and save in one of the new file formats.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Summary:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation type="unfinished">&amp;Continuă</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anulează</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgDateAndTime</name>
     <message>
         <source>Date and Time</source>
@@ -1229,79 +1288,79 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>KxDlgFont</name>
     <message>
         <source>Font</source>
-        <translation>Font</translation>
+        <translation type="obsolete">Font</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation>Fo&amp;nt text asiatic:</translation>
+        <translation type="obsolete">Fo&amp;nt text asiatic:</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation>&amp;Font text latin:</translation>
+        <translation type="obsolete">&amp;Font text latin:</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
-        <translation>Stil f&amp;ont:</translation>
+        <translation type="obsolete">Stil f&amp;ont:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>&amp;Dimensiune:</translation>
+        <translation type="obsolete">&amp;Dimensiune:</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation>Obișnuit</translation>
+        <translation type="obsolete">Obișnuit</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>Aldin</translation>
+        <translation type="obsolete">Aldin</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Cursiv</translation>
+        <translation type="obsolete">Cursiv</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation>Aldin cursiv</translation>
+        <translation type="obsolete">Aldin cursiv</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation>Efecte</translation>
+        <translation type="obsolete">Efecte</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation>&amp;Subliniat</translation>
+        <translation type="obsolete">&amp;Subliniat</translation>
     </message>
     <message>
         <source>Supe&amp;rscript</source>
-        <translation>Expo&amp;nent</translation>
+        <translation type="obsolete">Expo&amp;nent</translation>
     </message>
     <message>
         <source>Sh&amp;adow</source>
-        <translation>Um&amp;bră</translation>
+        <translation type="obsolete">Um&amp;bră</translation>
     </message>
     <message>
         <source>Offse&amp;t:</source>
-        <translation>Compensar&amp;e:</translation>
+        <translation type="obsolete">Compensar&amp;e:</translation>
     </message>
     <message>
         <source>&amp;Emboss</source>
-        <translation>&amp;Gravare</translation>
+        <translation type="obsolete">&amp;Gravare</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation>In&amp;dice</translation>
+        <translation type="obsolete">In&amp;dice</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation>&amp;Culoare:</translation>
+        <translation type="obsolete">&amp;Culoare:</translation>
     </message>
     <message>
         <source>&amp;Default for new objects</source>
-        <translation>&amp;Implicit pentru noile obiecte</translation>
+        <translation type="obsolete">&amp;Implicit pentru noile obiecte</translation>
     </message>
     <message>
         <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
-        <translation>Acesta este un font TrueType. Același font va fi utilizat atât pentru 
+        <translation type="obsolete">Acesta este un font TrueType. Același font va fi utilizat atât pentru 
 imprimantă cât și pentru ecran.</translation>
     </message>
 </context>
@@ -1398,6 +1457,10 @@ imprimantă cât și pentru ecran.</translation>
     <message>
         <source>Set as Default(&amp;C)</source>
         <translation>Configurează ca implicit(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Enter 0.1 cm to 5.079 cm of value</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1902,7 +1965,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Privacy</source>
-        <translation>Intimitate</translation>
+        <translation type="obsolete">Intimitate</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
@@ -1950,6 +2013,38 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Password protection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2102,6 +2197,10 @@ imprimantă cât și pentru ecran.</translation>
         <source>Notes, handouts and outline</source>
         <translation>Note, fișe și contur</translation>
     </message>
+    <message>
+        <source>Enter 2.54 to 142.22 cm of value</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgProgress</name>
@@ -2249,6 +2348,10 @@ imprimantă cât și pentru ecran.</translation>
         <source>Total Playing Time:</source>
         <translation>Timp total de redare:</translation>
     </message>
+    <message>
+        <source>&amp;Hide icon on play</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgSplitCells</name>
@@ -2263,6 +2366,33 @@ imprimantă cât și pentru ecran.</translation>
     <message>
         <source>Number of &amp;columns:</source>
         <translation>Număr de &amp;coloane:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTrimMedia</name>
+    <message>
+        <source>Trim Media</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished">Textetichetă</translation>
+    </message>
+    <message>
+        <source>&amp;Start Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;End Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anulează</translation>
     </message>
 </context>
 <context>
@@ -2620,6 +2750,41 @@ imprimantă cât și pentru ecran.</translation>
         <source>Enter slide numbers or slide ranges. For example, 1,3,5-12</source>
         <translation>Introduceți numere diapozitiv sau limite diapozitiv. De exemplu, 1,3,5-12</translation>
     </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWppScaleSlideMode</name>
+    <message>
+        <source>Scale Slide Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are scaling to a new slide size. Would you like to maximize the size of your content, or scale it down to ensure it will fit on the new slide ?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ensure Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Maximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Ensure Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Anulează</translation>
+    </message>
 </context>
 <context>
     <name>KxDlglineSpace</name>
@@ -2946,23 +3111,48 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     <name>KxFontDlg</name>
     <message>
         <source>(Use Asian text font)</source>
-        <translation>(Utilizează font text asiatic)</translation>
-    </message>
-    <message>
-        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">(Utilizează font text asiatic)</translation>
     </message>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
-        <translation>Fontul %1 nu este disponibil în sistem. Textul va fi arătat într-un font înlocuitor. Doeiți să-l utilizați oricând?</translation>
+        <translation type="obsolete">Fontul %1 nu este disponibil în sistem. Textul va fi arătat într-un font înlocuitor. Doeiți să-l utilizați oricând?</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation>Acest stil font nu este disponibil.</translation>
+        <translation type="obsolete">Acest stil font nu este disponibil.</translation>
     </message>
     <message>
         <source>This font size is not available.</source>
-        <translation>Dimensiunea acestui font nu este disponibilă.</translation>
+        <translation type="obsolete">Dimensiunea acestui font nu este disponibilă.</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatOption_Background</name>
+    <message>
+        <source>BACKGROUND OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty</name>
+    <message>
+        <source>TRANSFORM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>POSITION</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_Background</name>
+    <message>
+        <source>FILL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished">Umple</translation>
     </message>
 </context>
 <context>
@@ -3001,10 +3191,61 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Personalizat</translation>
+        <translation type="obsolete">Personalizat</translation>
     </message>
     <message>
-        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
+        <source>Select Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation type="unfinished">Toate pozele</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxHexSpinBox</name>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3069,6 +3310,13 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
 </context>
 <context>
+    <name>KxKsoTableStyleItem</name>
+    <message>
+        <source>Set As Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Best Match</source>
@@ -3127,6 +3375,13 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
 </context>
 <context>
+    <name>KxNoneItem</name>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Nimic</translation>
+    </message>
+</context>
+<context>
     <name>KxOptionsDlg</name>
     <message>
         <source>Open</source>
@@ -3157,12 +3412,12 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
         <translation>Selectare dosar:</translation>
     </message>
     <message>
-        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Confirmation password does not match.</source>
         <translation type="unfinished">Confirmarea parolei nu se potrivește.</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3260,15 +3515,23 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     <name>KxRenameMasterDlgClass</name>
     <message>
         <source>Rename Master</source>
-        <translation>Redenumește master</translation>
+        <translation type="obsolete">Redenumește master</translation>
     </message>
     <message>
         <source>&amp;Master name:</source>
-        <translation>Nume &amp;master:</translation>
+        <translation type="obsolete">Nume &amp;master:</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
         <translation>&amp;Redenumește</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation type="unfinished">&amp;Nume:</translation>
     </message>
 </context>
 <context>
@@ -3395,37 +3658,37 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation>Scheme de culoare</translation>
+        <translation type="obsolete">Scheme de culoare</translation>
     </message>
 </context>
 <context>
     <name>KxTpColorScheme</name>
     <message>
         <source>Color Schemes</source>
-        <translation>Scheme de culoare</translation>
+        <translation type="obsolete">Scheme de culoare</translation>
     </message>
     <message>
         <source>Apply a color scheme:</source>
-        <translation>Aplică o schemă de culoare:</translation>
+        <translation type="obsolete">Aplică o schemă de culoare:</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation>Infotip</translation>
+        <translation type="obsolete">Infotip</translation>
     </message>
 </context>
 <context>
     <name>KxTpColorSchemeWidget</name>
     <message>
         <source>Design Templates</source>
-        <translation>Șabloane proiectare</translation>
+        <translation type="obsolete">Șabloane proiectare</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation>Scheme animație</translation>
+        <translation type="obsolete">Scheme animație</translation>
     </message>
     <message>
         <source>Edit Color Schemes...</source>
-        <translation>Editare scheme de culoare...</translation>
+        <translation type="obsolete">Editare scheme de culoare...</translation>
     </message>
 </context>
 <context>
@@ -3436,18 +3699,22 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>Apply a design template:</source>
-        <translation>Aplică un șablon proiect:</translation>
+        <translation type="obsolete">Aplică un șablon proiect:</translation>
     </message>
     <message>
         <source>Infotip</source>
         <translation>Infotip</translation>
+    </message>
+    <message>
+        <source>Apply a design template</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideDesignWidget</name>
     <message>
         <source>Color Schemes</source>
-        <translation>Scheme de culoare</translation>
+        <translation type="obsolete">Scheme de culoare</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
@@ -3466,7 +3733,11 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>Apply a design template:</source>
-        <translation>Aplică un șablon proiect:</translation>
+        <translation type="obsolete">Aplică un șablon proiect:</translation>
+    </message>
+    <message>
+        <source>Apply a design template</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3477,7 +3748,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>Apply to selected slides:</source>
-        <translation>Aplică diapozitivelor selectate:</translation>
+        <translation type="obsolete">Aplică diapozitivelor selectate:</translation>
     </message>
     <message>
         <source>Modify transition</source>
@@ -3535,6 +3806,10 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
         <source>Slide Transition</source>
         <translation>Tranziție diapozitiv</translation>
     </message>
+    <message>
+        <source>Apply to selected slides</source>
+        <translation type="unfinished">Aplică diapozitivelor selectate</translation>
+    </message>
 </context>
 <context>
     <name>KxTpSlideTransitionWidget</name>
@@ -3544,7 +3819,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>Loop until next sound</source>
-        <translation>Buclă până la sunetul următor</translation>
+        <translation type="obsolete">Buclă până la sunetul următor</translation>
     </message>
 </context>
 <context>
@@ -3560,6 +3835,21 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     <message>
         <source>Clear Table Style</source>
         <translation>Curăță stilul tabelului</translation>
+    </message>
+</context>
+<context>
+    <name>KxTrimMediaDlg</name>
+    <message>
+        <source>Trim Movie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trim Sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duration : </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3679,14 +3969,64 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
 </context>
 <context>
+    <name>KxWppBorderStyleItem</name>
+    <message>
+        <source>No Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppBorderWidthItem</name>
+    <message>
+        <source>2.25</source>
+        <translation type="unfinished">2.25</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.25</source>
+        <translation type="unfinished">0.25</translation>
+    </message>
+    <message>
+        <source>0.5</source>
+        <translation type="unfinished">0.5</translation>
+    </message>
+    <message>
+        <source>0.75</source>
+        <translation type="unfinished">0.75</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="unfinished">1</translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation type="unfinished">1.5</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation type="unfinished">3</translation>
+    </message>
+    <message>
+        <source>4.5</source>
+        <translation type="unfinished">4.5</translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation type="unfinished">6</translation>
+    </message>
+</context>
+<context>
     <name>KxWppColorModel</name>
     <message>
         <source>Custom Color</source>
-        <translation>Culoare personalizată</translation>
+        <translation type="obsolete">Culoare personalizată</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Automat</translation>
+        <translation type="obsolete">Automat</translation>
     </message>
 </context>
 <context>
@@ -3905,7 +4245,25 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     <name>KxWppFillColorModel</name>
     <message>
         <source>No Fill</source>
-        <translation>Fără umplere</translation>
+        <translation type="obsolete">Fără umplere</translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFontColorModel</name>
+    <message>
+        <source>No Fill</source>
+        <translation type="unfinished">Fără umplere</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFontOutlineColorModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3916,10 +4274,215 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
 </context>
 <context>
+    <name>KxWppFormatGroupContent_Fill</name>
+    <message>
+        <source>Slide background fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatProperty_FillAndLine</name>
+    <message>
+        <source>TEXT FILL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FILL</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatRangeSaveAsCommand</name>
+    <message>
+        <source>Preparing for Video Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to setup Supporter of Video Export.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line</source>
         <translation>Fără linie</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppMediaBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppNewSlidesGalleryModel</name>
+    <message>
+        <source>Blank Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blank</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">Vizualizare</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Editare</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished">Tipărește</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPlayerMediaBar</name>
+    <message>
+        <source>Play/Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3967,6 +4530,75 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     <message>
         <source>All slides in current presentation are marked as hidden. Either ensure that the slides are no longer hidden, or choose to print hidden slides.</source>
         <translation>Toate diapozitivele în prezentarea curentă sunt marcate ca ascunse. Asigurați-vă că diapozitivele nu mai sunt ascunse, sau alegeți să tipăriți diapozitive ascunse.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPrstFillModel</name>
+    <message>
+        <source>Background Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppShowOffscreen</name>
+    <message>
+        <source>An Offscreen Show of this presentation is already running.
+Sure to close?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Fit Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppTpFormatting</name>
+    <message>
+        <source>Format Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Media</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format OleObject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format ControlObject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Ink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset Background</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4339,35 +4971,35 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>Follow Background Color</source>
-        <translation>Urmează culoarea de fundal</translation>
+        <translation type="obsolete">Urmează culoarea de fundal</translation>
     </message>
     <message>
         <source>Follow Text and Lines Sheme Color</source>
-        <translation>Urmează textul și liniile schemei de culoare</translation>
+        <translation type="obsolete">Urmează textul și liniile schemei de culoare</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
-        <translation>Urmează umbrele schemei de culoare</translation>
+        <translation type="obsolete">Urmează umbrele schemei de culoare</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
-        <translation>Urmează textul titlului schemei de culoare</translation>
+        <translation type="obsolete">Urmează textul titlului schemei de culoare</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
-        <translation>Urmează umplerile schemei de culoare</translation>
+        <translation type="obsolete">Urmează umplerile schemei de culoare</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
-        <translation>Urmează accentul schemei de culoare</translation>
+        <translation type="obsolete">Urmează accentul schemei de culoare</translation>
     </message>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation>Urmează accentul și Hyperlink-ul schemei de culoare</translation>
+        <translation type="obsolete">Urmează accentul și Hyperlink-ul schemei de culoare</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation>Urmează accentul și Hyperlink-ul schemei de culoare urmat</translation>
+        <translation type="obsolete">Urmează accentul și Hyperlink-ul schemei de culoare urmat</translation>
     </message>
     <message>
         <source>Default</source>
@@ -4430,27 +5062,27 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     <name>SchemeLayoutPanel</name>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation>Aplică la &amp;master</translation>
+        <translation type="obsolete">Aplică la &amp;master</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
-        <translation>Aplică la &amp;toate diapozitivele</translation>
+        <translation type="obsolete">Aplică la &amp;toate diapozitivele</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation>Aplică diapozitivelor &amp;selectate</translation>
+        <translation type="obsolete">Aplică diapozitivelor &amp;selectate</translation>
     </message>
     <message>
         <source>Apply to &amp;All Master</source>
-        <translation>Aplică &amp;tuturor master</translation>
+        <translation type="obsolete">Aplică &amp;tuturor master</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Masters</source>
-        <translation>Aplică masterelor &amp;selectate</translation>
+        <translation type="obsolete">Aplică masterelor &amp;selectate</translation>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
-        <translation>Arată previzualizare &amp;largă</translation>
+        <translation type="obsolete">Arată previzualizare &amp;largă</translation>
     </message>
 </context>
 <context>
@@ -4529,7 +5161,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>Custom Animation:</source>
-        <translation>Animație personalizată:</translation>
+        <translation type="obsolete">Animație personalizată:</translation>
     </message>
     <message>
         <source>Re-order</source>
@@ -4740,6 +5372,18 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     <message>
         <source>Close when e&amp;xport completes</source>
         <translation type="unfinished">Închide când e&amp;xportul s-a terminat</translation>
+    </message>
+    <message>
+        <source>Select OFD Service Provider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suwell&amp;K</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Foxit</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5059,23 +5703,23 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>cbFillColor</source>
-        <translation>cbUmple culoare</translation>
+        <translation type="obsolete">cbUmple culoare</translation>
     </message>
     <message>
         <source>Fill &amp;color:</source>
-        <translation>Umple cu &amp;culoare:</translation>
+        <translation type="obsolete">Umple cu &amp;culoare:</translation>
     </message>
     <message>
         <source>cmbFillColor</source>
-        <translation>cmbUmple culoare</translation>
+        <translation type="obsolete">cmbUmple culoare</translation>
     </message>
     <message>
         <source>cbSemitransparent</source>
-        <translation>cbSemitransparent</translation>
+        <translation type="obsolete">cbSemitransparent</translation>
     </message>
     <message>
         <source>Semi&amp;transparent</source>
-        <translation>Semi&amp;transparent</translation>
+        <translation type="obsolete">Semi&amp;transparent</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -5145,6 +5789,106 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
         <source>Bottom Center</source>
         <translation>Centru dedesubt</translation>
     </message>
+    <message>
+        <source>&amp;Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture or texture fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pattern fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter 0%  to 100% of value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation type="unfinished">%</translation>
+    </message>
+    <message>
+        <source>&amp;Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient Linear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient Radial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient Rect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter 0  to 359 Degrees of value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gra&amp;dient stops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Source From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;File...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Source From &amp;Texture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fore&amp;ground</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter 0cm to 55.88cm of the Value</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kxUiHyperlinkwpp</name>
@@ -5182,6 +5926,41 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     <message>
         <source>WPS Presentation</source>
         <translation>WPS Presentation</translation>
+    </message>
+</context>
+<context>
+    <name>wppContentPosition</name>
+    <message>
+        <source>&amp;Horizontal position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter -5963.92  to 5963.92 cm of value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished">cm</translation>
+    </message>
+    <message>
+        <source>&amp;From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Left Corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">Centru</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;rom</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -149,11 +149,11 @@
     </message>
     <message>
         <source>Best Match</source>
-        <translation>ベストマッチ</translation>
+        <translation>最適</translation>
     </message>
     <message>
         <source>Built-in</source>
-        <translation></translation>
+        <translation>組み込み</translation>
     </message>
     <message>
         <source>Deep</source>
@@ -237,7 +237,7 @@
     </message>
     <message>
         <source>Light</source>
-        <translation>薄い</translation>
+        <translation>明るい</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -245,7 +245,7 @@
     </message>
     <message>
         <source>Dark</source>
-        <translation>濃い</translation>
+        <translation>暗い</translation>
     </message>
     <message>
         <source>No Style, No Grid</source>
@@ -265,7 +265,7 @@
     </message>
     <message>
         <source>Light Style</source>
-        <translation>浅い色</translation>
+        <translation>明るい色</translation>
     </message>
     <message>
         <source>Medium Style</source>
@@ -273,23 +273,23 @@
     </message>
     <message>
         <source>Dark Style</source>
-        <translation>濃い色</translation>
+        <translation>暗い色</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation>濃い色2</translation>
+        <translation>暗い色2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation>濃い色2　強調1/強調2</translation>
+        <translation>暗い色2　強調1/強調2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation>濃い色2　強調3/強調4</translation>
+        <translation>暗い色2　強調3/強調4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>濃い色2　強調5/強調6</translation>
+        <translation>暗い色2　強調5/強調6</translation>
     </message>
     <message>
         <source>No Style,Gridded</source>
@@ -308,7 +308,7 @@
     </message>
     <message>
         <source>Best Match</source>
-        <translation>ベストマッチ</translation>
+        <translation>最適</translation>
     </message>
     <message>
         <source>Deep</source>
@@ -348,7 +348,7 @@
     </message>
     <message>
         <source>Light</source>
-        <translation>薄い</translation>
+        <translation>明るい</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -356,7 +356,7 @@
     </message>
     <message>
         <source>Dark</source>
-        <translation>濃い</translation>
+        <translation>暗い</translation>
     </message>
 </context>
 <context>
@@ -371,7 +371,7 @@
     </message>
     <message>
         <source>Table Style:</source>
-        <translation>表のスタイル</translation>
+        <translation>表のスタイル:</translation>
     </message>
 </context>
 </TS>

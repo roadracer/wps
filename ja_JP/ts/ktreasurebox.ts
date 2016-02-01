@@ -22,7 +22,7 @@
     </message>
     <message>
         <source>WPS Office Recommendation</source>
-        <translation>Kingsoft Office 推薦　</translation>
+        <translation>Kingsoft Office 推奨</translation>
     </message>
 </context>
 </TS>

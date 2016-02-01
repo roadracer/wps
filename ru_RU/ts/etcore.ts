@@ -1915,7 +1915,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
         <comment>TX_Workbook_SaveFailureLocked</comment>
-        <translation>Документ был заблокирован другим приложением. Открыть его только для чтения?
+        <translation>Документ был заблокирован другим приложением.Хотите открыть его только для чтения?
 (%s)</translation>
     </message>
     <message>
@@ -2004,12 +2004,12 @@ Please try one of the following.
     <message>
         <source>All WPS Spreadsheets Files(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</source>
         <comment>TxDesc_AllETFiles</comment>
-        <translation>Все файлы WPS Spreadsheets (*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</translation>
+        <translation>Все файлы WPS Spreadsheets(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</translation>
     </message>
     <message>
         <source>Xls</source>
         <comment>TX_Workbook_DefaultSaveName</comment>
-        <translation></translation>
+        <translation>Xls</translation>
     </message>
     <message>
         <source>XML Files</source>
@@ -2034,7 +2034,7 @@ Please try one of the following.
     <message>
         <source>*</source>
         <comment>TX_Modified_Sufix</comment>
-        <translation></translation>
+        <translation>*</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is read-only. If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
@@ -2064,7 +2064,7 @@ Please try one of the following.
     <message>
         <source>The file &quot;%s&quot; to be saved has the same name with an open file. Please choose a different name, or close another workbook with the same name first.</source>
         <comment>TX_SaveAs_Cannot_Save_With_Same_Name</comment>
-        <translation>Сохраняемый файл &quot;%s&quot; имеет одинаковое имя с открытым файлом. Выберите другое имя файла, или сначала закройте книгу с тем же именем.</translation>
+        <translation>Сохраняемый файл &quot;%s&quot; имеет одинаковое имя с открытым файлом. Выберите другое имя файла, или сначала закройте книгу с  тем же именем.</translation>
     </message>
     <message>
         <source>Cannot save the file due to the full disk.</source>
@@ -2142,7 +2142,7 @@ To hide, delete, or move the selected sheet(s), you must first insert a new shee
     <message>
         <source>0.001f</source>
         <comment>TX_ApplicationOptions_MaxChange</comment>
-        <translation></translation>
+        <translation>0,001f</translation>
     </message>
     <message>
         <source>Unknown User</source>
@@ -2152,7 +2152,7 @@ To hide, delete, or move the selected sheet(s), you must first insert a new shee
     <message>
         <source>Courier</source>
         <comment>TX_ApplicationOptions_LinuxStandardFont</comment>
-        <translation></translation>
+        <translation>Courier</translation>
     </message>
     <message>
         <source>Cannot insert, because there are merged cells.</source>
@@ -2662,7 +2662,7 @@ Please specify the right files.</source>
     <message>
         <source>8.1</source>
         <comment>TX_APP_VERSION</comment>
-        <translation></translation>
+        <translation>8.1</translation>
     </message>
     <message>
         <source>[%s]%s:
@@ -2816,12 +2816,12 @@ Please specify the right files.</source>
     <message>
         <source>Tahoma</source>
         <comment>TX_FormControl_DefaultFontName</comment>
-        <translation></translation>
+        <translation>Tahoma</translation>
     </message>
     <message>
         <source>8</source>
         <comment>TX_FormControl_DefaultFontSize</comment>
-        <translation></translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>Some text formats in the file may be modified, because it exceeds the number of utmost permitted formats.</source>
@@ -2985,7 +2985,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>BAK_</source>
         <comment>TX_ShareWorkbook_ExcelSharedDocBakPrefix</comment>
-        <translation></translation>
+        <translation>BAK_</translation>
     </message>
     <message>
         <source>The file is locked by %s. You can change the file lock, or continue with ignoring it. If you continue without changing the file lock, you cannot save this file, but you can use Save As to save to a different file. Do you want to change the file lock?</source>
@@ -3005,7 +3005,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>.</source>
         <comment>TX_SmartTip_dian</comment>
-        <translation></translation>
+        <translation>.</translation>
     </message>
     <message>
         <source>ten thousand</source>
@@ -3162,7 +3162,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>NONE</source>
         <comment>TX_SOLVER_NONE</comment>
-        <translation></translation>
+        <translation>НЕТ</translation>
     </message>
     <message>
         <source>Cell</source>
@@ -3611,7 +3611,7 @@ Check the database server or contact your database administrator. Make sure the 
     <message>
         <source>Duplicate%s</source>
         <comment>TX_DUPLICATE_PROFIX</comment>
-        <translation>Повторение%s</translation>
+        <translation>Повторение %s</translation>
     </message>
     <message>
         <source>Selection is too large</source>
@@ -3660,7 +3660,7 @@ Continue without Undo?</source>
     <message>
         <source>Invaild Cell Reference Error</source>
         <comment>TX_ERRORCHECK_ERR_REF</comment>
-        <translation>Ошибка - неверная ссылка на ячейку</translation>
+        <translation type="obsolete">Ошибка - неверная ссылка на ячейку</translation>
     </message>
     <message>
         <source>Invalid Name Error</source>
@@ -3874,227 +3874,227 @@ Continue without Undo?</source>
     <message>
         <source>General</source>
         <comment>TX_NUMFMTApi_BuildIn_00</comment>
-        <translation>Среднее</translation>
+        <translation type="obsolete">Среднее</translation>
     </message>
     <message>
         <source>0.00</source>
         <comment>TX_NUMFMTApi_BuildIn_02</comment>
-        <translation>11,0 {0.00?}</translation>
+        <translation type="obsolete">11,0 {0.00?}</translation>
     </message>
     <message>
         <source>#,##0</source>
         <comment>TX_NUMFMTApi_BuildIn_03</comment>
-        <translation></translation>
+        <translation type="obsolete">#,##0</translation>
     </message>
     <message>
         <source>#,##0.00</source>
         <comment>TX_NUMFMTApi_BuildIn_04</comment>
-        <translation></translation>
+        <translation type="obsolete">#,##0.00</translation>
     </message>
     <message>
         <source>$#,##0_);($#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_05</comment>
-        <translation></translation>
+        <translation type="obsolete">$#,##0_);($#,##0)</translation>
     </message>
     <message>
         <source>$#,##0_);[Red]($#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_06</comment>
-        <translation></translation>
+        <translation type="obsolete">$#,##0_);[красный]($#,##0)</translation>
     </message>
     <message>
         <source>$#,##0.00_);($#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_07</comment>
-        <translation></translation>
+        <translation type="obsolete">$#,##0.00_);($#,##0.00)</translation>
     </message>
     <message>
         <source>$#,##0.00_);[Red]($#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_08</comment>
-        <translation></translation>
+        <translation type="obsolete">$#,##0.00_);[красный]($#,##0.00)</translation>
     </message>
     <message>
         <source>0.00%</source>
         <comment>TX_NUMFMTApi_BuildIn_10</comment>
-        <translation>11,0 {0.00%?}</translation>
+        <translation type="obsolete">11,0 {0.00%?}</translation>
     </message>
     <message>
         <source>0.00E+00</source>
         <comment>TX_NUMFMTApi_BuildIn_11</comment>
-        <translation></translation>
+        <translation type="obsolete">0.00E+00</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_14</comment>
-        <translation>м/д/гггг</translation>
+        <translation type="obsolete">м/д/гггг</translation>
     </message>
     <message>
         <source>d-mmm-yy</source>
         <comment>TX_NUMFMTApi_BuildIn_15</comment>
-        <translation>д-ммм-гг</translation>
+        <translation type="obsolete">д-ммм-гг</translation>
     </message>
     <message>
         <source>d-mmm</source>
         <comment>TX_NUMFMTApi_BuildIn_16</comment>
-        <translation>д-ммм</translation>
+        <translation type="obsolete">д-ммм</translation>
     </message>
     <message>
         <source>h:mm</source>
         <comment>TX_NUMFMTApi_BuildIn_20</comment>
-        <translation>ч:мм</translation>
+        <translation type="obsolete">ч:мм</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_21</comment>
-        <translation>ч:мм:сс</translation>
+        <translation type="obsolete">ч:мм:сс</translation>
     </message>
     <message>
         <source>m/d/yyyy h:mm</source>
         <comment>TX_NUMFMTApi_BuildIn_22</comment>
-        <translation>м/д/гггг ч:мм</translation>
+        <translation type="obsolete">м/д/гггг ч:мм</translation>
     </message>
     <message>
         <source>\$#,##0_);(\$#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_23</comment>
-        <translation></translation>
+        <translation type="obsolete">\$#,##0_);(\$#,##0)</translation>
     </message>
     <message>
         <source>\$#,##0_);[Red](\$#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_24</comment>
-        <translation></translation>
+        <translation type="obsolete">\$#,##0_);[красный](\$#,##0)</translation>
     </message>
     <message>
         <source>\$#,##0.00_);(\$#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_25</comment>
-        <translation></translation>
+        <translation type="obsolete">\$#,##0.00_);(\$#,##0.00)</translation>
     </message>
     <message>
         <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_26</comment>
-        <translation></translation>
+        <translation type="obsolete">\$#,##0.00_);[красный](\$#,##0.00)</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_30</comment>
-        <translation>м/д/гггг</translation>
+        <translation type="obsolete">м/д/гггг</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31</comment>
-        <translation>м/д/гггг</translation>
+        <translation type="obsolete">м/д/гггг</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32</comment>
-        <translation>ч:мм:сс</translation>
+        <translation type="obsolete">ч:мм:сс</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33</comment>
-        <translation>ч:мм:сс</translation>
+        <translation type="obsolete">ч:мм:сс</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
-        <translation>м/д/гггг</translation>
+        <translation type="obsolete">м/д/гггг</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
-        <translation>ч:мм:сс</translation>
+        <translation type="obsolete">ч:мм:сс</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
-        <translation>ч:мм:сс</translation>
+        <translation type="obsolete">ч:мм:сс</translation>
     </message>
     <message>
         <source>#,##0_);(#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_37</comment>
-        <translation></translation>
+        <translation type="obsolete">#,##0_);(#,##0)</translation>
     </message>
     <message>
         <source>#,##0_);[Red](#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_38</comment>
-        <translation></translation>
+        <translation type="obsolete">#,##0_);[красный](#,##0)</translation>
     </message>
     <message>
         <source>#,##0.00_);(#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_39</comment>
-        <translation></translation>
+        <translation type="obsolete">#,##0.00_);(#,##0.00)</translation>
     </message>
     <message>
         <source>#,##0.00_);[Red](#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_40</comment>
-        <translation></translation>
+        <translation type="obsolete">#,##0.00_);[красный](#,##0.00)</translation>
     </message>
     <message>
         <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_41</comment>
-        <translation></translation>
+        <translation type="obsolete">_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</translation>
     </message>
     <message>
         <source>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_42</comment>
-        <translation></translation>
+        <translation type="obsolete">_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</translation>
     </message>
     <message>
         <source>_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_43</comment>
-        <translation></translation>
+        <translation type="obsolete">_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</translation>
     </message>
     <message>
         <source>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_44</comment>
-        <translation></translation>
+        <translation type="obsolete">_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</translation>
     </message>
     <message>
         <source>mm:ss.0</source>
         <comment>TX_NUMFMTApi_BuildIn_45</comment>
-        <translation>мм:сс.0</translation>
+        <translation type="obsolete">мм:сс.0</translation>
     </message>
     <message>
         <source>##0.0E+0</source>
         <comment>TX_NUMFMTApi_BuildIn_48</comment>
-        <translation></translation>
+        <translation type="obsolete">##0.0E+0</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55</comment>
-        <translation>м/д/гггг</translation>
+        <translation type="obsolete">м/д/гггг</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56</comment>
-        <translation>м/д/гггг</translation>
+        <translation type="obsolete">м/д/гггг</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57</comment>
-        <translation>м/д/гггг</translation>
+        <translation type="obsolete">м/д/гггг</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58</comment>
-        <translation>м/д/гггг</translation>
+        <translation type="obsolete">м/д/гггг</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
-        <translation>м/д/гггг</translation>
+        <translation type="obsolete">м/д/гггг</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
-        <translation>м/д/гггг</translation>
+        <translation type="obsolete">м/д/гггг</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
-        <translation>м/д/гггг</translation>
+        <translation type="obsolete">м/д/гггг</translation>
     </message>
     <message>
         <source>m/dd/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
-        <translation>м/дд/гггг</translation>
+        <translation type="obsolete">м/дд/гггг</translation>
     </message>
     <message>
         <source>This data source contains no visible tables</source>
@@ -4157,17 +4157,17 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
         <comment>TX_BookReferencingByOther</comment>
-        <translation>На эту книгу имеются ссылки из других книг, так что закрыть ее нельзя.</translation>
+        <translation>Эту книгу нельзя закрыть, т. к. в данный момент на нее ссылается другая книга.</translation>
     </message>
     <message>
         <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; [ ] |.</source>
         <comment>TX_Confirm_Invalid_Char_In_BookName</comment>
-        <translation>• Убедитесь, что имя не содержит любой из следующих символов: \ * / : ? &quot;&lt; &gt; [] |.</translation>
+        <translation>• Убедитесь, что название не содержит следующих символов: \ * / : ? &quot; &lt; &gt; [ ] |.</translation>
     </message>
     <message>
         <source>To paste all cells from an worksheet into the current worksheet, you must paste into the first cell (A1 or R1C1).</source>
         <comment>TX_ERROR_INVALIDPASTERG_SHEET</comment>
-        <translation>Чтобы вставить все ячейки листа на текущий лист, необходимо выполнить вставку в первую ячейку (A1 или R1C1).</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Backup</source>
@@ -4182,29 +4182,31 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Spreadsheets</source>
         <comment>TX_DESC_APP_NAME</comment>
-        <translation type="unfinished">Электронные таблицы</translation>
+        <translation>Электронные таблицы</translation>
     </message>
     <message>
         <source>The text file contains more data than will fit on a single worksheet.</source>
         <comment>TX_TextToColumns_Tip2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Текстовый файл содержит больше данных, чем может поместиться на одном листе.</translation>
     </message>
     <message>
         <source>The formula in this cell differs from the formulas in this area of the spreadsheet.</source>
         <comment>TX_ERRORCHECK_ERRDESC_InconsistentFormula</comment>
-        <translation type="unfinished"></translation>
+        <translation>Формула в этой ячейке отличается от других формул в этой области таблицы.</translation>
     </message>
     <message>
         <source>The text file contains more data than will fit on a single worksheet.
 To continue and import as much of the data as will fit, click OK.</source>
         <comment>TX_ImportText_Overflowed_Tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Текстовый файл содержит больше данных, чем может поместиться на одном листе.
+Чтобы выполнить импорт только тех данных, что поместятся, нажмите кнопку &quot;ОК&quot;.</translation>
     </message>
     <message>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
 This backup will be saved to (%s)</source>
         <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
-        <translation type="unfinished"></translation>
+        <translation>Во время резервного копирования произошли ошибки. У вас нет разрешений на запись в каталог резервных копий, в который нужно разместить файлы. Выберите другой каталог резервных копий.
+Резервные копии будут сохранены в папку (%s).</translation>
     </message>
     <message>
         <source>The query returned more data than will fit on a worksheet.
@@ -4212,59 +4214,272 @@ This backup will be saved to (%s)</source>
 To continue and display as much of the data as will fit, click OK.
 To cancel the query, click Cancel.</source>
         <comment>TX_ImportOtherData_Overflowed_Tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Данные, возвращаемые запросом, не умещаются на листе.
+Чтобы отобразить максимально возможный объем данных, нажмите кнопку &quot;ОК&quot;.
+Для отмены запроса нажмите кнопку &quot;Отмена&quot;.</translation>
     </message>
     <message>
         <source>When the active sheet is a macro sheet, it cannot be saved as xml, prn, or dbf. Please save as other formats.</source>
         <comment>TX_MacroSheet_CannotSave_As</comment>
-        <translation type="unfinished"></translation>
+        <translation>Если активный лист является листом макросов, он не может быть сохранен как xml, prn, or dbf.Сохраните в других форматах.</translation>
     </message>
     <message>
         <source>No columns that WPS Spreadsheets can use were returned from this query.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный запрос не вернул столбцов, которые может использовать программа WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot insert columns because the last column contains data. You will not get any data.</source>
         <comment>TX_No_Available_Sheet_Columns</comment>
-        <translation type="unfinished"></translation>
+        <translation>Не удается вставить столбцы в программе WPS Spreadsheets, т. к. последний столбец содержит данные. Данные не будут получены.</translation>
     </message>
     <message>
         <source>Cannot create backup file. Save &quot;%s&quot; without backup?</source>
         <comment>TX_CreateBackup_Tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Не удается создать файл резервной копии. Сохранить &quot;%s&quot; без резервной копии?</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
         <comment>TX_Find_DoNotExist</comment>
-        <translation type="unfinished">WPS Spreadsheets не можете найти запрошенные данные. Проверьте настройки поиска.</translation>
+        <translation>WPS Spreadsheets не можете найти запрошенные данные. Проверьте настройки поиска.</translation>
     </message>
     <message>
         <source> [Compatibility Mode]</source>
         <comment>TX_CompatibilityMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>[Режим совместимости]</translation>
     </message>
     <message>
         <source>Item</source>
         <comment>TX_Sharepoint_FSObjType_Item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Элемент</translation>
     </message>
     <message>
         <source>Folder</source>
         <comment>TX_Sharepoint_FSObjType_Folder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Папка</translation>
     </message>
     <message>
         <source>Enter your credentials:</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите учетные данные:</translation>
     </message>
     <message>
         <source>Connecting to %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключение к %s</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>TX_DESC_APP_OBJECT_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>TX_DESC_APP_NAME</comment>
+        <translation type="obsolete">WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Error occurred during file backup. The backup directory might not have write permission. Try to change the backup directory.
+Save backup files to (%s).</source>
+        <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
+        <translation type="obsolete">Во время резервного копирования файла произошла ошибка. Возможно, в каталоге резервных копий нет разрешения на запись. Выберите другой каталог резервных копий.
+Сохранить резервные копии файлов в (%s).</translation>
+    </message>
+    <message>
+        <source>Invalid Cell Reference Error</source>
+        <comment>TX_ERRORCHECK_ERR_REF</comment>
+        <translation>Ошибка - неверная ссылка на ячейку</translation>
+    </message>
+    <message>
+        <source>The text file contains more data than will fit on a single worksheet. </source>
+        <comment>TX_TextToColumns_Tip2</comment>
+        <translation type="obsolete">Данные не на листе будут потеряны.</translation>
+    </message>
+    <message>
+        <source>The text file contains more data than will fit on a single worksheet. To continue and import as much of the data as will fit, click OK. </source>
+        <comment>TX_ImportText_Overflowed_Tip</comment>
+        <translation type="obsolete">Объем данных в текстовом файле превышает максимально допустимый объем для одного листа. Чтобы продолжить и импортировать столько данных, сколько поместится на листе, нажмите кнопку OK. </translation>
+    </message>
+    <message>
+        <source>The query returned more data than will fit on a worksheet.
+To continue and display as much of the data as will fit, click OK.
+To cancel the query, click Cancel. </source>
+        <comment>TX_ImportOtherData_Overflowed_Tip</comment>
+        <translation type="obsolete">Запрос вернул больше данных, чем может поместиться на листе.
+Чтобы продолжить и показать столько данных, сколько поместится, нажмите кнопку OK.
+Чтобы отменить запрос, нажмите кнопку «Отмена». </translation>
+    </message>
+    <message>
+        <source>When the active sheet is a macro sheet, it cannot be saved as xml, prn, or dbf. Please save as other formats. </source>
+        <comment>TX_MacroSheet_CannotSave_As</comment>
+        <translation type="obsolete">Если активный лист содержит макросы, его нельзя сохранить в формате XML, PRN или DBF. Сохраните его в другом формате. </translation>
+    </message>
+    <message>
+        <source>Opening...</source>
+        <comment>TX_PROGRESS_OPENING</comment>
+        <translation>Открытие...</translation>
+    </message>
+    <message>
+        <source>Saving...</source>
+        <comment>TX_PROGRESS_SAVING</comment>
+        <translation>Сохранение...</translation>
+    </message>
+    <message>
+        <source>You typed an invalid name for a sheet or chart. Make sure that:</source>
+        <comment>TX_Invalid_MoveChart_Sheet_Name</comment>
+        <translation>Вы ввели недействительное имя листа или диаграммы. Убедитесь в следующем.</translation>
+    </message>
+    <message>
+        <source>@Theme Title</source>
+        <comment>TX_OPTIONDLG_THEME_Title</comment>
+        <translation>Шрифт заголовков</translation>
+    </message>
+    <message>
+        <source>@Theme Text</source>
+        <comment>TX_OPTIONDLG_THEME_Text</comment>
+        <translation>Штифт текста сообщения</translation>
+    </message>
+    <message>
+        <source>[%s] %s: is being protected!</source>
+        <comment>TX_ShareWorkSheet_MsgWarnning</comment>
+        <translation>[%s] %s: защищен!</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets can not paste data.</source>
+        <comment>TX_Can_Not_Paste_Data</comment>
+        <translation>В электронную таблицу WPS не удалось вставить данные.</translation>
+    </message>
+    <message>
+        <source>The macro &apos;%s&apos; cannot be found.</source>
+        <comment>TX_Can_Not_RunMacro</comment>
+        <translation>Не удалось запустить макрос &apos;%s&apos;. Макрос может отсутствовать в этой книге, или макросы могут быть отключены.</translation>
+    </message>
+    <message>
+        <source>Switch Direction fail, series Count not fit chartType.</source>
+        <comment>TX_Chart_SwitchDirection_Warning</comment>
+        <translation>Ошибка переключения строки/столбца. Количество серий не соответствует типу диаграммы.</translation>
+    </message>
+    <message>
+        <source>HighLight Changed fail, series Count not fit chartType.</source>
+        <comment>TX_Chart_HighLightChanged_Warning</comment>
+        <translation>Сбой выделения. Количество серий не соответствует типу диаграммы.</translation>
+    </message>
+    <message>
+        <source>Invalid reference.To input a correct reference,you can click the target cell or drag mouse to select a range.</source>
+        <comment>TX_XlfDialogBox_InvalidRef</comment>
+        <translation>Некорректная ссылка. Чтобы ввести правильное значение, можно щелкнуть целевую ячейку или перетащить выбранный диапазон.</translation>
+    </message>
+    <message>
+        <source>It&apos;s not a valid Integer.</source>
+        <comment>TX_XlfDialogBox_InvalidInteger</comment>
+        <translation>Это &apos;недопустимое целое.</translation>
+    </message>
+    <message>
+        <source>Input invalid! Please input a integer or a decimal.</source>
+        <comment>TX_XlfDialogBox_InvalidNumber</comment>
+        <translation>Неверный ввод! Ввести целое или десятичное число.</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <comment>TX_XlfDialobBox_HelpButton</comment>
+        <translation>Справка</translation>
+    </message>
+    <message>
+        <source>This operation is not allowed. The operation is attempting to shift cells in a table on your worksheet.</source>
+        <translation>Данная операция не разрешена. Была предпринята попытка сдвинуть ячейки таблицы на листе.</translation>
+    </message>
+    <message>
+        <source>The worksheet range for the table data must be on the same sheet as the table being created.</source>
+        <translation>Диапазон листа для данных таблицы должен находиться на том же листе, что и созданная таблица.</translation>
+    </message>
+    <message>
+        <source>That command cannot be used on multiple selections.</source>
+        <translation>Эта команда не может быть использована для выбора нескольких элементов.</translation>
+    </message>
+    <message>
+        <source>Multi-cell array formulas are not allowed in tables.</source>
+        <translation>В таблице не могут использоваться формулы массива с несколькими ячейками.</translation>
+    </message>
+    <message>
+        <source>A table cannot overlap a range that contains PivotTable report, query results, protected cells or another table.</source>
+        <translation>Таблица не может перекрыть диапазон, который содержит отчет сводной таблицы, результаты запроса, защищенные ячейки или другую таблицу.</translation>
+    </message>
+    <message>
+        <source>A table cannot overlap another table.</source>
+        <translation>Таблица не может перекрывать другую таблицу.</translation>
+    </message>
+    <message>
+        <source>Cannot complete operation: A table cannot overlap with a PivotTable report, query results, a table, merged cells, or an XML mapping.</source>
+        <translation>Невозможно завершить операцию: таблица не может перекрывать отчет сводной таблицы, результаты запроса, таблицу, объединенные ячейки или сопоставление XML.</translation>
+    </message>
+    <message>
+        <source>Cannot make changes to a table or XML mapping when multiple sheet are selected.</source>
+        <translation>Нельзя внести изменения в таблицу или сопоставление XML, если выбрано несколько листов.</translation>
+    </message>
+    <message>
+        <source>Cannot complete operation: Operations that include cells both inside and outside a table range or XML mapping, and operations that affect cells that overlap multiple tables are not allowed.</source>
+        <translation>Невозможно завершить операцию: не допускается использование операций над ячейками, расположенными как внутри, так и вне диапазона таблицы или сопоставления XML, а также операций над ячейками в нескольких таблицах.</translation>
+    </message>
+    <message>
+        <source>The range you have specified is invalid.the headers must remain in the same row and the resulting table must overlap the original table.The table must contain a header row,and at least one row of data.Please specify a vaild table.</source>
+        <translation>Указан недопустимый диапазон. Заголовки должны оставаться в той же строке, а новая таблица должна перекрываться с исходной таблицей. Таблица должна содержать строку заголовка и хотя бы одну строку данных. Укажите допустимую таблицу.</translation>
+    </message>
+    <message>
+        <source>The name that you entered is not valid.
+
+Reasons for this can include:
+ -The name does not begin with a letter or underscore
+ -The name contains a space or other invalid characters
+ -The name conflicts with an WPS built-in name or the name of another object in the workbook</source>
+        <translation>Введено недопустимое имя.
+
+Возможные причины:
+ — имя не начинается с буквы или знака подчеркивания;
+ — имя содержит пробел или другие недопустимые знаки;
+ — имя совпадает со встроенным именем WPS или именем другого объекта в книге.</translation>
+    </message>
+    <message>
+        <source>You cannot move a part of a PivotTable report,or insert worksheet cells,rows,or columns inside a PivotTable report.To insert worksheet cells,rows,or columns,first move the PivotTable report(with the PivotTable report selected,on the Options tab,in the Actions group,click Move PivotTable)To add,move,or remove cells within the report,do one of the following:
+Use the PivotTable Field List to add,move,or remove fields.
+Hide or froup items in a row or column field.
+Modify the source data</source>
+        <translation>Не удается переместить часть отчета сводной таблицы или вставить в него ячейки, строки или столбцы листа. Чтобы можно было вставить их, переместите отчет сводной таблицы (выделите его, а затем на вкладке &quot;Параметры&quot; в группе &quot;Действия&quot; выберите команду &quot;Переместить сводную таблицу&quot;).  Чтобы добавить, переместить или удалить ячейки из отчета, выполните одно из следующих действий:
+• добавьте, переместите или удалите поля с помощью списка полей сводной таблицы;
+• скройте или сгруппируйте элементы в полях строки или столбца;
+• измените исходные данные.</translation>
+    </message>
+    <message>
+        <source>Cannot create a table in the last row of the workbook. A table must have at least two rows, one for the table header, and one for data.</source>
+        <translation>Невозможно создать таблицу в последней строке книги. Таблица должна содержать хотя бы две строки: строку заголовка и строку данных.</translation>
+    </message>
+    <message>
+        <source>Cannot complete operation: You are attempting to change a portion of a table row or column in a way that is not allowed.  This may occur when attempting to re-arrange cells within a table that affect other table cells in an unexpected way.</source>
+        <translation>Невозможно завершить операцию: предпринимается попытка изменить часть строки или столбца таблицы запрещенным способом.  Это может происходить при попытке переупорядочить ячейки в таблице, что может каким-либо образом повлиять на другие ячейки таблицы.</translation>
+    </message>
+    <message>
+        <source>This operation is attempting to change a filtered range on your worksheet and cannot be completed. To complete this operation, AutoFilters in the sheet need to be removed.</source>
+        <translation>Предпринимается попытка изменить отфильтрованный диапазон листа. Выполнить эту операцию невозможно. Для ее выполнения необходимо отменить автофильтры листа.</translation>
+    </message>
+    <message>
+        <source>The range you have specified is invalid.the top of table must remain in the same row, and the resulting table must overlap the original table.Specify a valid range.</source>
+        <translation>Указан недопустимый диапазон. Верх данной таблицы должен оставаться в той же строке, а результирующая таблица должна перекрывать исходную таблицу. Укажите допустимый диапазон.</translation>
+    </message>
+    <message>
+        <source>Formulas in the header row will be removed and converted to static text. Do you want to continue?</source>
+        <translation>Формулы в строке заголовка будут удалены и преобразованы в статический текст. Продолжить?</translation>
+    </message>
+    <message>
+        <source>Your selection overlaps one or more external data ranges. Do you want to convert the selection to a table and remove all external connections?</source>
+        <translation>Выделенный фрагмент перекрывает один или несколько диапазонов внешних данных. Преобразовать этот фрагмент в таблицу и удалить все внешние подключения?</translation>
+    </message>
+    <message>
+        <source>Converting this query range to a list query range may cause some macro code and/or formulas not to function properly. Do you still want to perform the conversion?</source>
+        <translation>После преобразования данного диапазона запроса в диапазон запроса списка некоторые макросы и формулы могут перестать работать. Продолжить преобразование?</translation>
+    </message>
+    <message>
+        <source>Failed to paste! The source data contains merge cells.</source>
+        <translation>Вставка не удалась. Исходные данные содержат объединенные ячейки.</translation>
+    </message>
+    <message>
+        <source>A table with that name already exists. Select a different name.</source>
+        <translation>Таблица с таким именем уже существует. Выберите другое имя.</translation>
     </message>
 </context>
 <context>
@@ -4452,7 +4667,7 @@ To cancel the query, click Cancel.</source>
     <message>
         <source>.</source>
         <comment>TX_Revision_Desc_FullStop</comment>
-        <translation></translation>
+        <translation>.</translation>
     </message>
     <message>
         <source> (Result of rejected action)</source>
@@ -4562,7 +4777,7 @@ To cancel the query, click Cancel.</source>
     <message>
         <source>Please select multirow range to operate.</source>
         <comment>TX_RepeatWord_Single_Row</comment>
-        <translation>Пожалуйста, для операции выберите диапазон в несколько строк.</translation>
+        <translation>Для операции выберите диапазон в несколько строк.</translation>
     </message>
     <message>
         <source>Duplicates do not support reference to name.</source>
@@ -4572,7 +4787,7 @@ To cancel the query, click Cancel.</source>
     <message>
         <source>Cannot execute the command on the selected range, please select another valid range.</source>
         <comment>TX_RepeatWord_Invalid_Range</comment>
-        <translation>Невозможно выполнить команду на выделенном диапазоне. Пожалуйста, выберите другой допустимый диапазон.</translation>
+        <translation>Невозможно выполнить команду на выделенном диапазоне. Выберите другой допустимый диапазон.</translation>
     </message>
     <message>
         <source>This operation requires the merged cells to be identically sized.</source>
@@ -4627,17 +4842,67 @@ To cancel the query, click Cancel.</source>
     <message>
         <source>Table_</source>
         <comment>TX_ListObject_NamePrefix</comment>
-        <translation>Таблица_</translation>
+        <translation type="obsolete">Таблица_</translation>
     </message>
     <message>
         <source>(Showing all)</source>
         <comment>TX_Show_All_DateItems</comment>
-        <translation type="unfinished"></translation>
+        <translation>(показать все)</translation>
     </message>
     <message>
         <source>Duplicates that you want to remove contain PivotTable.</source>
         <comment>TX_RepeatWord_PivotTable</comment>
-        <translation type="unfinished"></translation>
+        <translation>В удаляемых дубликатах содержатся сводные таблицы.</translation>
+    </message>
+    <message>
+        <source>Duplicates that you want to remove contains PivotTable.</source>
+        <comment>TX_RepeatWord_PivotTable</comment>
+        <translation type="obsolete">Удаляемые дубликаты содержат сводные таблицы.</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <comment>TX_SortParam_KeyName_Column</comment>
+        <translation>Столбец</translation>
+    </message>
+    <message>
+        <source>Row</source>
+        <comment>TX_SortParam_KeyName_Row</comment>
+        <translation>Строка</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>TX_TableStyle_None</comment>
+        <translation>Нет</translation>
+    </message>
+    <message>
+        <source>Table Style</source>
+        <comment>TX_TableStyle_TableStyle</comment>
+        <translation>Стиль таблицы </translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <comment>TX_TableStyle_Light</comment>
+        <translation>Светлый</translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <comment>TX_TableStyle_Medium</comment>
+        <translation>Умеренный</translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <comment>TX_TableStyle_Dark</comment>
+        <translation>Темный</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <comment>TX_TableDefaultColumnName</comment>
+        <translation>Столбец</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_TableSubtotal_Sum</comment>
+        <translation>Итого</translation>
     </message>
 </context>
 <context>
@@ -4737,7 +5002,32 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>No RETURN() or HALT() function found on macro sheet!</source>
         <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
-        <translation type="unfinished"></translation>
+        <translation>На листе макросов не найдена функция ВОЗВРАТ() или СТОП().</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <comment>TX_TABLE_RANGE_ALL</comment>
+        <translation>Все</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <comment>TX_TABLE_RANGE_DATA</comment>
+        <translation>Данные</translation>
+    </message>
+    <message>
+        <source>Headers</source>
+        <comment>TX_TABLE_RANGE_HEADERS</comment>
+        <translation>Верхние колонтитулы</translation>
+    </message>
+    <message>
+        <source>Totals</source>
+        <comment>TX_TABLE_RANGE_TOTALS</comment>
+        <translation>Итого</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>TX_TABLE_PREFIX_NAME</comment>
+        <translation>Таблица</translation>
     </message>
 </context>
 <context>
@@ -4890,7 +5180,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Do you want to replace the contents of the destination cells in %s?</source>
         <comment>TX_DAP_DlgInfo_OverLoadCellsContent</comment>
-        <translation>Заменить содержимое конечных ячеек?</translation>
+        <translation>Заменить содержимое конечных ячеек в %s?</translation>
     </message>
     <message>
         <source>AutoSort must be turned off to move items in a field.</source>
@@ -4986,6 +5276,11 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <source>Sum</source>
         <comment>TX_DAP_FunctionItem_Sum</comment>
         <translation>Сумма</translation>
+    </message>
+    <message>
+        <source>A PivotTable report cannot overlap a table or XML mapping.</source>
+        <comment>TX_DAP_DlgInfo_PTCannotOverloadListObj</comment>
+        <translation>Отчет сводной таблицы не может перекрывать таблицу или сопоставление XML.</translation>
     </message>
 </context>
 <context>
@@ -5143,7 +5438,8 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <source> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
 </source>
         <comment>TX_ETDBE_INVALIDFIELDWORDS</comment>
-        <translation></translation>
+        <translation> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
+</translation>
     </message>
     <message>
         <source>Operation condition</source>
@@ -5153,42 +5449,42 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source> &gt;,</source>
         <comment>TX_ETDBE_STR_OPR_LARGER</comment>
-        <translation></translation>
+        <translation> &gt;,</translation>
     </message>
     <message>
         <source> &lt;,</source>
         <comment>TX_ETDBE_STR_OPR_SMALLER</comment>
-        <translation></translation>
+        <translation> &lt;,</translation>
     </message>
     <message>
         <source> =,</source>
         <comment>TX_ETDBE_STR_OPR_EQUAL</comment>
-        <translation></translation>
+        <translation> =,</translation>
     </message>
     <message>
         <source> !=,</source>
         <comment>TX_ETDBE_STR_OPR_NOTEQUAL</comment>
-        <translation></translation>
+        <translation> !=,</translation>
     </message>
     <message>
         <source> &gt;=,</source>
         <comment>TX_ETDBE_STR_OPR_LARGEREQUAL</comment>
-        <translation></translation>
+        <translation> &gt;=,</translation>
     </message>
     <message>
         <source> &lt;=,</source>
         <comment>TX_ETDBE_STR_OPR_SMALLEREQUAL</comment>
-        <translation></translation>
+        <translation> &lt;=,</translation>
     </message>
     <message>
         <source> LIKE,</source>
         <comment>TX_ETDBE_STR_OPR_LIKE</comment>
-        <translation></translation>
+        <translation> ПОХОЖЕ НА,</translation>
     </message>
     <message>
         <source> NOT LIKE,</source>
         <comment>TX_ETDBE_STR_OPR_NOTLIKE</comment>
-        <translation></translation>
+        <translation> НЕ ПОХОЖЕ НА,</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -5312,19 +5608,19 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
 Click &quot;Add to the list&quot; after setting up sorting condition in the right list. 
 Notice: if the second operand queries the number as text, single quotes should be added at both the beginning and the ending manually.</source>
         <comment>TX_ETDBE_STR_ADV_QUERY_PROMPT</comment>
-        <translation>Выделите поля из левого списка, затем щёлкните &quot;Добавить в список&quot;. 
-Щёлкните &quot;Добавить в список&quot; после задания условия сортировки в правом списке. 
+        <translation>Выделите поля из левого списка, затем щелкните &quot;Добавить в список&quot;. 
+Щелкните &quot;Добавить в список&quot; после задания условия сортировки в правом списке. 
 Обратите внимание: если второй операнд запрашивает число в виде текста, необходимо вручную добавить открывающие и закрывающие одинарные кавычки.</translation>
     </message>
     <message>
         <source>The range you deleted is associated with a query that retrieves data from an external source. Do you want to delete the query in addition to the range? If you click No, the query will retrieve new data to the worksheet the next time the query is refreshed.</source>
         <comment>TX_ETDBE_STR_DELETEQT</comment>
-        <translation>Удаленный диапазон связан с запросом, загружающим данные из внешнего источника. Удалить запрос вместе с диапазоном? Если нажать кнопку &quot;Нет&quot;, запрос загрузит в книгу новые данные при его следующем обновлении.</translation>
+        <translation>Даленный диапазон связан с запросом, загружающим данные из внешнего источника. Удалить запрос вместе с диапазоном? Если нажать кнопку &quot;Нет&quot;, запрос загрузит в книгу новые данные при его следующем обновлении.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets could not open or read this query file. Either the file has been damaged or the file format is not valid.</source>
         <comment>TX_ETDBE_QUERYINVALIDERROR</comment>
-        <translation>Не удается открыть или прочитать данный файл запроса. Файл поврежден или имеет неправильный формат.</translation>
+        <translation>Не удалось открыть или прочитать этот файл запроса. Файл имеет неверный формат или поврежден.</translation>
     </message>
     <message>
         <source>Could not obtain parameter from reference(Bad name or workbook not open). Proceed to prompt for value?</source>
@@ -5339,7 +5635,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>The process cannot access the file because it is being used by another process.</source>
         <comment>TX_ETDBE_STR_XMLFILEINUSE</comment>
-        <translation>Процесс не может получить доступ к файлу, так как этот файл занят другим процессом.</translation>
+        <translation>Процесс не может получить доступ к файлу, так как этот файл используется другим процессом.</translation>
     </message>
     <message>
         <source>The following data range failed to refresh:</source>
@@ -5389,12 +5685,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
         <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation>Все файлы(*.*)|*.*|Все источники данных(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Базы данных Access(*.mdb,*.accdb)|*.mdb;*.accdb|База данных FoxPro(*.dbc)|*.dbc|Файлы DBase(*.dbf)|*.dbf|Файлы Excel(*.xls)|*.xls|Файлы WPS Spreadsheets(*.et)|*.et|Файлы CSV(*.csv)|*.csv|Текстовые файлы(*.txt)|*.txt|Подключения к базам данных Office(*.odc)|*.odc|Ссылки Microsoft Data(*.udl)|*.udl|Файлы DSN для файлов ODBC(*.dsn)|*.dsn|Файл запросов(*.dqy)|*.dqy||</translation>
+        <translation>Все файлы (*.*)|*.*|Все источники данных (*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Базы данных Access (*.mdb,*.accdb)|*.mdb;*.accdb|Базы данных FoxPro (*.dbc)|*.dbc|Файлы DBase (*.dbf)|*.dbf|Файлы Excel (*.xls)|*.xls|Файлы WPS Spreadsheets (*.et)|*.et|Текстовые файлы CSV (*.csv)|*.csv|Текстовые файлы PRN (*.prn)|*.prn|Текстовые файлы (*.txt)|*.txt|Подключения к базам данных Office (*.odc)|*.odc|Microsoft Data links (*.udl)|*.udl|Файлы DSN для файлов ODBC (*.dsn)|*.dsn|Файл запроса (*.dqy)|*.dqy||</translation>
     </message>
     <message>
         <source>Running background query...(Click here to cancel)</source>
         <comment>TX_ETDBE_STR_BACKGROUND_QUERY</comment>
-        <translation>Выполнение фонового запроса... (щелкните для отмены)</translation>
+        <translation>Обработка запроса в фоновом режиме... (щелкните здесь для отмены)</translation>
     </message>
     <message>
         <source>This action will cancel a pending Refresh Data command. Continue?</source>
@@ -5404,22 +5700,32 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>:Getting Data ...</source>
         <comment>TX_ETDBE_STR_DESTINATE_TAG</comment>
-        <translation>: получение данных...</translation>
+        <translation>:Получение данных...</translation>
     </message>
     <message>
         <source>You cannot perform next operation due to one of the following reasons: You have not selected a valid data source. The connection string is blank. The string you typed is not correct. The generated connection failed.</source>
         <comment>TX_ETDBE_ERR_CONNECTFAIL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно выполнение данной операции по одной из следующих причин: Выбран недействительный источник данных. Пустая строка подключения базы данных. Неверный текст строки. Ошибка созданного соединения с базой данных.</translation>
     </message>
     <message>
         <source>Unable to open XML file. File does not exit or XML syntax error.</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Не удается открыть XML-файл. Файл не существует или присутствует ошибка синтаксиса XML.</translation>
     </message>
     <message>
         <source>This will cancel a pending data refresh. Continue?</source>
         <comment>TX_ETDBE_STR_BACKGROUND_TTIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Это действие отменит ожидаемое обновление данных. Продолжить?</translation>
+    </message>
+    <message>
+        <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
+        <comment>TX_ETDBE_STR_OPENXML_FAILD</comment>
+        <translation type="obsolete">Ошибка при открытии файла данных в формате XML. Возможно, файл не существует или ошибка синтаксиса XML.</translation>
+    </message>
+    <message>
+        <source>Unable to open XML file. File does not exit or XML syntax error.</source>
+        <comment>TX_ETDBE_STR_OPENXML_FAILD</comment>
+        <translation type="obsolete">Не удается открыть XML-файл. Файл не существует или присутствует ошибка синтаксиса XML.</translation>
     </message>
 </context>
 <context>
@@ -5457,7 +5763,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Lookup and Reference</source>
         <comment>FuncCatName07</comment>
-        <translation>Ссылки и массивы</translation>
+        <translation>Поиск и ссылка</translation>
     </message>
     <message>
         <source>Database</source>
@@ -5482,7 +5788,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>User Defined</source>
         <comment>FuncCatName12</comment>
-        <translation>Пользовательские</translation>
+        <translation>Определенные пользователем</translation>
     </message>
     <message>
         <source>Engineering</source>
@@ -5497,7 +5803,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number that represents the date in WPS Spreadsheets date-time code.</source>
         <comment>DATE_REMARK</comment>
-        <translation>Возвращает целое число, представляющее определенную дату. Функция ДАТА полезна в тех формулах, где год, месяц и день представлены формулами, а не константами.</translation>
+        <translation>Возвращает число, соответствующее дате в коде даты-времени WPS Spreadsheets. </translation>
     </message>
     <message>
         <source>DATEVALUE(date_text)</source>
@@ -5507,12 +5813,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Converts a date in the form of text to a number that represents the date in WPS Spreadsheets date-time code.</source>
         <comment>DATEVALUE_REMARK</comment>
-        <translation>Преобразует дату в ячейке в текстовом формате в числовое представление, которое можно использовать в вычислениях с датами.</translation>
+        <translation>Преобразует дату из текстового формата в числовой в коде даты-времени WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>Returns the day of the month, a number from 1 to 31.</source>
         <comment>DAY_REMARK</comment>
-        <translation>Возвращает день месяца, как число от 1 до 31.</translation>
+        <translation>Возвращает число месяца - число от 1 до 31.</translation>
     </message>
     <message>
         <source>HOUR(serial_number)</source>
@@ -5522,7 +5828,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the hour as a number from 0(12:00 A.M.) to 23(11:00 P.M.).</source>
         <comment>HOUR_REMARK</comment>
-        <translation>Возвращает час, соответствующий значению времени. Час определяется как целое число в интервале от 0(12:00 A.M.) до 23(11:00 P.M.).</translation>
+        <translation>Возвращает часы в виде числа от 0 до 23.</translation>
     </message>
     <message>
         <source>MINUTE(serial_number)</source>
@@ -5532,7 +5838,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the minute, a number from 0 to 59.</source>
         <comment>MINUTE_REMARK</comment>
-        <translation>Возвращает минуты, соответствующие заданному значению времени. Минуты определяются как целое число в интервале от 0 до 59.</translation>
+        <translation>Возвращает минуты в виде числа от 0 до 59.</translation>
     </message>
     <message>
         <source>MONTH(serial_number)</source>
@@ -5542,7 +5848,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the month, a number from 1(January) to 12(December).</source>
         <comment>MONTH_REMARK</comment>
-        <translation>Возвращает месяц для указанной даты. Месяц определяется как целое число в диапазоне от 1 (январь) до 12 (декабрь).</translation>
+        <translation>Возвращает месяц - число от 1 (январь) до 12 (декабрь).</translation>
     </message>
     <message>
         <source>NETWORKDAYS(start_date,end_date,holidays)</source>
@@ -5572,7 +5878,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the second, a number from 0 to 59.</source>
         <comment>SECOND_REMARK</comment>
-        <translation>Возвращает секунды, соответствующие заданному значению времени. Секунды определяются как целое число в интервале от 0 до 59.</translation>
+        <translation>Возвращает секунды в виде числа от 0 до 59.</translation>
     </message>
     <message>
         <source>TIME(hour,minute,second)</source>
@@ -5582,7 +5888,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Converts hours, minutes, and seconds given as numbers to a WPS Spreadsheets serial number, formatted with a time format.</source>
         <comment>TIME_REMARK</comment>
-        <translation>Возвращает время в числовом формате для заданного времени. Время в числовом формате, возвращаемое функцией ВРЕМЯ, — это десятичная дробь в интервале от 0 до 0,99999999, представляющая время от 0:00:00 до 23:59:59.</translation>
+        <translation>Преобразует заданные в виде чисел часы, минуты и секунды в число в коде времени WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>TIMEVALUE(time_text)</source>
@@ -5592,7 +5898,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Converts a text time to an WPS Spreadsheets serial number for a time.</source>
         <comment>TIMEVALUE_REMARK</comment>
-        <translation>Возвращает время, представленное текстовой строкой, в числовом формате. Время в числовом формате — это десятичная дробь от 0 до 0,99999999, представляющая время от 0:00:00 до 23:59:59.</translation>
+        <translation>Преобразует время из текстового формата в число, представляющее время в WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>TODAY()</source>
@@ -5602,7 +5908,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the current date formatted as a date.</source>
         <comment>TODAY_REMARK</comment>
-        <translation>Возвращает текущую дату.</translation>
+        <translation>Возвращает текущую дату в формате даты.</translation>
     </message>
     <message>
         <source>WEEKDAY(serial_number,return_type)</source>
@@ -5612,7 +5918,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns a number from 1 to 7 identifying the day of the week of a date.</source>
         <comment>WEEKDAY_REMARK</comment>
-        <translation>Возвращает день недели, соответствующий дате. По умолчанию день недели определяется как целое число в диапазоне от 1 (воскресенье) до 7 (суббота).</translation>
+        <translation>Возвращает число от 1 до 7, соответствующее номеру дня недели для заданной даты.</translation>
     </message>
     <message>
         <source>WEEKNUM(serial_num,return_type)</source>
@@ -5632,7 +5938,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the year of a date, an integer in the range 1900-9999.</source>
         <comment>YEAR_REMARK</comment>
-        <translation>Возвращает год, соответствующий заданной дате. Год определяется как целое число в диапазоне от 1900 до 9999.</translation>
+        <translation>Возвращает год - целое число от 1900 до 9999.</translation>
     </message>
     <message>
         <source>ABS(number)</source>
@@ -5642,7 +5948,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the absolute value of a number, a number without its sign.</source>
         <comment>ABS_REMARK</comment>
-        <translation>Возвращает модуль (абсолютную величину) числа. Абсолютная величина числа - это число без знака.</translation>
+        <translation>Возвращает модуль (абсолютную величину) числа.</translation>
     </message>
     <message>
         <source>ACOS(number)</source>
@@ -5652,7 +5958,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the arccosine of a number, in radians in the range 0 to Pi. The arccosine is the angle whose cosine is Number.</source>
         <comment>ACOS_REMARK</comment>
-        <translation>Возвращает арккосинус числа. Арккосинус числа — это угол, косинус которого равен числу. Угол определяется в радианах в интервале от 0 до «пи».</translation>
+        <translation>Возвращает арккосинус числа в радианах, в диапазоне от 0 до Пи. Арккосинус числа есть угол, косинус которого равен числу.</translation>
     </message>
     <message>
         <source>ASIN(number)</source>
@@ -5662,7 +5968,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the arcsine of a number within radians from -Pi/2 to Pi/2.</source>
         <comment>ASIN_REMARK</comment>
-        <translation>Возвращает арксинус числа. Арксинус числа — это угол, синус которого равен числу. Угол определяется в радианах в диапазоне от -пи/2 до пи/2.</translation>
+        <translation>Возвращает арксинус числа в радианах, в диапазоне от -Пи/2 до Пи/2.</translation>
     </message>
     <message>
         <source>ATAN (number)</source>
@@ -5672,17 +5978,17 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the arctangent of a number in radians, in the range -Pi/2 to Pi/2.</source>
         <comment>ATAN_REMARK</comment>
-        <translation>Возвращает арктангенс числа. Арктангенс числа — это угол, тангенс которого равен числу. Угол определяется в радианах в диапазоне от -пи/2 до пи/2.</translation>
+        <translation>Возвращает арктангенс числа в радианах, в диапазоне от -Пи/2 до Пи/2.</translation>
     </message>
     <message>
         <source>ATAN2(x_num,y_num)</source>
         <comment>ATAN2_GRAMMER</comment>
-        <translation>ATAN2(x,y)</translation>
+        <translation>ATAN2(x_ном,y_ном)</translation>
     </message>
     <message>
         <source>Returns the arctangent of the specified x- and y- coordinates, in radians between -Pi and Pi, excluding -Pi.</source>
         <comment>ATAN2_REMARK</comment>
-        <translation>Возвращает арктангенс для заданных координат x и y. Арктангенс — это угол между осью x и линией, проведенной из начала координат (0, 0) в точку с координатами (x, y). Угол определяется в радианах в диапазоне от -пи до пи, исключая -пи.</translation>
+        <translation>Возвращает арктангенс для заданных координат x и y, в радианах между -Пи и Пи, исключая -Пи.</translation>
     </message>
     <message>
         <source>CEILING(number,significance)</source>
@@ -5692,7 +5998,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Rounds a number up, to the nearest integer or to the nearest multiple of significance.</source>
         <comment>CEILING_REMARK</comment>
-        <translation>Возвращает результат округления аргумента число до ближайшего большего по модулю числа, кратного значению аргумента точность.</translation>
+        <translation>Округляет число до ближайшего большего по модулю целого или кратного указанному значению.</translation>
     </message>
     <message>
         <source>COS(number)</source>
@@ -5742,7 +6048,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Rounds a positive number up and negative number down to the nearest even integer.</source>
         <comment>EVEN_REMARK</comment>
-        <translation>Возвращает число, округленное до ближайшего четного целого. Эту функцию можно использовать при обработке парных элементов.</translation>
+        <translation>Округляет число до ближайшего четного целого. Положительные числа округляются в сторону увеличения, отрицательные - в сторону уменьшения.</translation>
     </message>
     <message>
         <source>EXP(number)</source>
@@ -5752,7 +6058,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns e raised to the power of a given number.</source>
         <comment>EXP_REMARK</comment>
-        <translation>Возвращает число e в степени, заданной аргументом число. Число e равно 2,71828182845904 и является основанием натурального логарифма.</translation>
+        <translation>Возвращает экспоненту заданного числа!степень, в которую возводится основание e.</translation>
     </message>
     <message>
         <source>FACT(number)</source>
@@ -5762,7 +6068,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the factorial of a number, equal to 1*2*3*...* Number.</source>
         <comment>FACT_REMARK</comment>
-        <translation>Возвращает факториал числа. Факториал числа — это значение, равное 1*2*3*...* число.</translation>
+        <translation>Возвращает факториал числа, равный 1*2*3*..*число.</translation>
     </message>
     <message>
         <source>GCD(number1,number2,...)</source>
@@ -5772,7 +6078,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the greatest common divisors of two or more integers.</source>
         <comment>GCD_DESCRIPTION</comment>
-        <translation>Возвращает наибольший общий делитель двух или более целых чисел. Наибольший общий делитель — наибольшее целое, на которое число1 и число2 делятся без остатка.</translation>
+        <translation>Возвращает два и более наибольших общих делителей.</translation>
     </message>
     <message>
         <source>FLOOR(number,significance)</source>
@@ -5782,7 +6088,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Rounds a number down, toward zero, to the nearest multiple of significance.</source>
         <comment>FLOOR_REMARK</comment>
-        <translation>Округляет число до ближайшего меньшего по модулю числа, кратного заданной точности.</translation>
+        <translation>Округляет число до ближайшего меньшего по модулю целого.</translation>
     </message>
     <message>
         <source>INT(number)</source>
@@ -5792,7 +6098,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Rounds a number down to the nearest integer.</source>
         <comment>INT_REMARK</comment>
-        <translation>Округляет число вниз до ближайшего целого.</translation>
+        <translation>Округляет число до ближайшего меньшего целого.</translation>
     </message>
     <message>
         <source>LCM(number1,number2,...)</source>
@@ -5812,7 +6118,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the natural logarithm of a number.</source>
         <comment>LN_REMARK</comment>
-        <translation>Возвращает натуральный логарифм числа. Натуральный логарифм — это логарифм по основанию e (2,71828182845904).</translation>
+        <translation>Возвращает натуральный логарифм числа.</translation>
     </message>
     <message>
         <source>LOG(number,base)</source>
@@ -5852,7 +6158,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Rounds a positive number up and negative number down to the nearest odd integer.</source>
         <comment>ODD_REMARK</comment>
-        <translation>Возвращает число, округленное до ближайшего нечетного целого.</translation>
+        <translation>Округляет число до ближайшего нечетного целого: положительное - в сторону увеличения, отрицательное - в сторону уменьшения.</translation>
     </message>
     <message>
         <source>PI()</source>
@@ -5862,7 +6168,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the value of Pi, 3.14159265358979, accurate to 15 digits.</source>
         <comment>PI_REMARK</comment>
-        <translation>Возвращает число 3,14159265358979 — математическую константу «пи» — с точностью до 15 десятичных разрядов.</translation>
+        <translation>Возвращает округленное до 15 знаков после запятой число Пи (значение 3,14159265358979).</translation>
     </message>
     <message>
         <source>POWER(number,power)</source>
@@ -5872,7 +6178,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the result of a number raised to a power.</source>
         <comment>POWER_REMARK</comment>
-        <translation>Возвращает результат возведения числа в степень.</translation>
+        <translation>Возвращает результат возведения в степень.</translation>
     </message>
     <message>
         <source>PRODUCT(number1,number2,...)</source>
@@ -5882,17 +6188,17 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Multiplies all the numbers given as arguments.</source>
         <comment>PRODUCT_REMARK</comment>
-        <translation>Перемножает все числа, заданные аргументами, и возвращает произведение.</translation>
+        <translation>Возвращает произведение аргументов.</translation>
     </message>
     <message>
         <source>QUARTILE(array,quart)</source>
         <comment>QUARTILE_GRAMMER</comment>
-        <translation>КВАРТИЛЬ(массив,квартиль)</translation>
+        <translation>КВАРТИЛЬ(массив,часть)</translation>
     </message>
     <message>
         <source>Returns the quartile of a data set.</source>
         <comment>QUARTILE_REMARK</comment>
-        <translation>Возвращает квартиль набора данных. Квартиль часто используются при анализе данных продаж для разбиения генеральной совокупности на группы.</translation>
+        <translation>Возвращает квартиль множества данных.</translation>
     </message>
     <message>
         <source>RADIANS(angle)</source>
@@ -5912,7 +6218,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns a random number greater than or equal to 0 and less than 1, evenly distributed (changes on recalculation).</source>
         <comment>RAND_REMARK</comment>
-        <translation>Возвращает равномерно распределенное случайное число, которое больше или равно 0 и меньше 1. При каждом вычислении листа возвращается новое случайное число.</translation>
+        <translation>Возвращает равномерно распределенное случайное число большее или равное 0 и меньшее 1 (изменяется при пересчете).</translation>
     </message>
     <message>
         <source>RANDBETWEEN(bottom,top)</source>
@@ -5927,7 +6233,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Converts an Arabic numeral to Roman, as text.</source>
         <comment>ROMAN_DESCRIPTION</comment>
-        <translation>Преобразует арабское число в римское.</translation>
+        <translation>Преобразует арабские числа в римские, в текстовом формате.</translation>
     </message>
     <message>
         <source>Returns a random integer between the two numbers you specified.</source>
@@ -5942,7 +6248,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Rounds a number to a specified number of digits.</source>
         <comment>ROUND_REMARK</comment>
-        <translation>Округляет число до указанного количества разрядов.</translation>
+        <translation>Округляет число до указанного количества десятичных разрядов.</translation>
     </message>
     <message>
         <source>SIGN(number)</source>
@@ -5952,7 +6258,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the sign of a number: 1 if the number is positive, zero if the number is zero, or -1 if the number is negative.</source>
         <comment>SIGN_REMARK</comment>
-        <translation>Определяет знак числа. Возвращает значение 1, если число положительное, 0 (ноль), если число равно 0, и -1, если число отрицательное.</translation>
+        <translation>Возвращает знак числа: 1 - если число положительное, 0 - если оно равно нулю и -1 - если число отрицательное.</translation>
     </message>
     <message>
         <source>SIN(number)</source>
@@ -5982,7 +6288,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the skewness of a distribution: a characterization of the degree of asymmetry of a distribution around its mean.</source>
         <comment>SKEW_DESCRIPTION</comment>
-        <translation>Возвращает коэффициент асимметрии, характеризующий асимметрию распределения данной случайной величины относительно математического ожидания.</translation>
+        <translation>Возвращает асимметрию распределения относительно среднего.</translation>
     </message>
     <message>
         <source>SQRT(number)</source>
@@ -5992,7 +6298,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the square root of a number.</source>
         <comment>SQRT_REMARK</comment>
-        <translation>Возвращает положительный квадратный корень.</translation>
+        <translation>Возвращает значение квадратного корня.</translation>
     </message>
     <message>
         <source>SQRTPI(number)</source>
@@ -6017,7 +6323,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SUBTOTAL(function_num,ref1,ref2,...)</source>
         <comment>SUBTOTAL_GRAMMER</comment>
-        <translation>ПРОМЕЖУТОЧНЫЕ.ИТОГИ(ном_фун,ссылка1,
+        <translation>ПРОМЕЖУТОЧНЫЕ.ИТОГИ(номер_функции,ссылка1,
 ссылка2,...)</translation>
     </message>
     <message>
@@ -6038,7 +6344,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SUMIF(range,criteria,sum_range)</source>
         <comment>SUMIF_GRAMMER</comment>
-        <translation>СУММЕСЛИ(диапазон,условие,диапазон_суммирования)</translation>
+        <translation>СУММЕСЛИ(диапазон,критерий,диапазон_суммирования)</translation>
     </message>
     <message>
         <source>Sums the cells that meet the given criteria.</source>
@@ -6083,8 +6389,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the inverse hyperbolic cosine of a number.</source>
         <comment>ACOSH_REMARK</comment>
-        <translation>
-Возвращает гиперболический арккосинус числа. Аргумент число должен быть больше или равен 1. Гиперболический арккосинус является значением, гиперболический косинус которого есть число.</translation>
+        <translation>Возвращает гиперболический арккосинус числа.</translation>
     </message>
     <message>
         <source>ASINH(number)</source>
@@ -6104,7 +6409,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the inverse hyperbolic tangent of a number. Number must be between -1 and 1 (excluding -1 and 1). The inverse hyperbolic tangent is the value whose hyperbolic tangent is number, so ATANH(TANH(number)) equals number.</source>
         <comment>ATANH_REMARK</comment>
-        <translation>Возвращает гиперболический арктангенс числа. Значение аргумента число должно находиться в интервале от -1 до 1 (исключая значения -1 и 1). Гиперболический арктангенс представляет собой значение, гиперболический тангенс которого есть число.</translation>
+        <translation>Возвращает гиперболический арктангенс числа!любое действительное число в диапазоне от -1 до 1, исключая -1 и 1. Гиперболический арктангенс представляет собой значение, гиперболический тангенс которого есть число.</translation>
     </message>
     <message>
         <source>TRUNC(number,num_digits)</source>
@@ -6134,17 +6439,17 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number of combinations for a given number of items.</source>
         <comment>COMBIN_DESCRIPTION</comment>
-        <translation>Возвращает количество комбинаций для заданного числа элементов. Функция ЧИСЛКОМБ используется для определения общего числа всех групп, которые можно составить из заданного числа элементов.</translation>
+        <translation>Возвращает количество комбинаций для заданного числа элементов.</translation>
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
-        <translation>ЧИСЛКОМБ(число,число_выбранных)</translation>
+        <translation type="unfinished">ЧИСЛКОМБ(число,число_выбранных)</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
-        <translation>Возвращает количество комбинаций для заданного числа элементов.</translation>
+        <translation type="unfinished">Возвращает количество комбинаций для заданного числа элементов.</translation>
     </message>
     <message>
         <source>COVAR(array1,array2)</source>
@@ -6164,7 +6469,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Rounds a number down, towards zero.</source>
         <comment>ROUNDDOWN_REMARK</comment>
-        <translation>Округляет число вниз в сторону нуля.</translation>
+        <translation>Округляет число в меньшую сторону, к нулю.</translation>
     </message>
     <message>
         <source>ROUNDUP(number,num_digits)</source>
@@ -6174,7 +6479,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Rounds a number up, away from zero.</source>
         <comment>ROUNDUP_REMARK</comment>
-        <translation>Возвращает результат округления аргумента число до ближайшего большего по модулю числа, кратного значению аргумента точность. Например, если в значениях цен не должны использоваться копейки, а товар стоит 442,29 р., формула =ОКРВВЕРХ(442,29;1) позволяет округлить цену до рублей.</translation>
+        <translation>Округляет число до ближайшего большего по модулю.</translation>
     </message>
     <message>
         <source>SERIESSUM(x,n,m,coefficients)</source>
@@ -6249,7 +6554,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>BINOMDIST(number_s,trials,probability_s,cumulative)</source>
         <comment>BINOMDIST_SYNTAX</comment>
-        <translation>БИНОМРАСП(успех,испытания,вер_усп,интегр)</translation>
+        <translation>БИНОМРАСП(число_успехов,число_испытаний,вероятность_успеха,интегральная)</translation>
     </message>
     <message>
         <source>Returns the individual term binomial distribution probability.</source>
@@ -6264,7 +6569,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the one-tailed probability of the chi-squared distribution. The c2 distribution is associated with a c2 test. Use the c2 test to compare observed and expected values. </source>
         <comment>CHIDIST_DESCRIPTION</comment>
-        <translation>Возвращает одностороннюю вероятность распределения хи-квадрат (χ2). Распределение χ2 связано с критерием χ2 . Критерий χ2 используется для сравнения наблюдаемых и ожидаемых значений.</translation>
+        <translation>Возвращает одностороннюю вероятность распределения хи-квадрат. Распределение χ2 связано с критерием χ2 . Критерий χ2 используется для сравнения наблюдаемых и ожидаемых значений.</translation>
     </message>
     <message>
         <source>CHIINV(probability,degrees_freedom)</source>
@@ -6274,7 +6579,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the inverse of the one-tailed probability of the chi-squared distribution.</source>
         <comment>CHIINV_DESCRIPTION</comment>
-        <translation>Возвращает значение, обратное односторонней вероятности распределения хи-квадрат. Если вероятность = ХИ2РАСП(x,...), то ХИ2ОБР(вероятность,...) = x. Данная функция позволяет сравнить наблюдаемые результаты с ожидаемыми, чтобы определить, была ли верна исходная гипотеза.</translation>
+        <translation>Возвращает значение обратное к односторонней вероятности распределения хи-квадрат.</translation>
     </message>
     <message>
         <source>CHITEST(actual_range,expected_range)</source>
@@ -6284,7 +6589,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the test for independence. </source>
         <comment>CHITEST_DESCRIPTION</comment>
-        <translation>Возвращает критерий независимости. Функция ХИ2.ТЕСТ возвращает значение статистики для распределения хи-квадрат (χ2) и соответствующее число степеней свободы. Критерий χ2 используется, чтобы определить, подтверждается ли гипотеза экспериментом.</translation>
+        <translation>Возвращает тест на независимость.</translation>
     </message>
     <message>
         <source>CONFIDENCE(alpha,standard_dev,size)</source>
@@ -6294,7 +6599,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the confidence interval for a population mean, using a normal distribution.</source>
         <comment>CONFIDENCE_DESCRIPTION</comment>
-        <translation>Возвращает значение, с помощью которого можно определить доверительный интервал для среднего генеральной совокупности. Доверительный интервал представляет собой диапазон значений. Выборочное среднее x находится в центре этого диапазона, а его границы принимают значения x ± ДОВЕРИТ.</translation>
+        <translation>Возвращает доверительный интервал для среднего генеральной совокупности с использованием нормального распределения.</translation>
     </message>
     <message>
         <source>CORREL(array1,array2)</source>
@@ -6304,7 +6609,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the correlation coefficient between two data sets.</source>
         <comment>CORREL_REMARK</comment>
-        <translation>Возвращает коэффициент корреляции между диапазонами ячеек массив1 и массив2. Коэффициент корреляции используется для определения взаимосвязи между двумя свойствами. Например, можно установить зависимость между средней температурой в помещении и использованием кондиционера.</translation>
+        <translation>Возвращает коэффициент корреляции между двумя множествами данных.</translation>
     </message>
     <message>
         <source>COUNT(value1,value2,...)</source>
@@ -6334,7 +6639,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Counts the number of empty cells in a specified range of cells.</source>
         <comment>COUNTBLANK_REMARK</comment>
-        <translation>Подсчитывает количество пустых ячеек в заданном диапазоне.</translation>
+        <translation>Подсчитывает количество пустых ячеек в диапазоне.</translation>
     </message>
     <message>
         <source>COUNTIF(range,criteria)</source>
@@ -6344,17 +6649,17 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Counts the number of cells within a range that meet the given condition.</source>
         <comment>COUNTIF_REMARK</comment>
-        <translation>Подсчитывает количество ячеек в диапазоне, удовлетворяющих заданному условию.</translation>
+        <translation>Подсчитывает количество непустых ячеек в диапазоне, удовлетворяющих заданному условию.</translation>
     </message>
     <message>
         <source>CRITBINOM(trials,probability_s,alpha)</source>
         <comment>CRITBINOM_SYNTAX</comment>
-        <translation>БИНОМ.ОБР(испытания,вер_усп,альфа)</translation>
+        <translation>БИНОМ.ОБР(число_испытаний,вероятность_успеха,альфа)</translation>
     </message>
     <message>
         <source>Returns the smallest value for which the cumulative binomial distribution is greater than or equal to a criterion value.</source>
         <comment>CRITBINOM_DESCRIPTION</comment>
-        <translation>Возвращает наименьшее значение, для которого интегральное биномиальное распределение больше заданного значения критерия или равно ему.</translation>
+        <translation>Возвращает наименьшее значение, для которого биномиальная функция распределения больше или равна заданного значения.</translation>
     </message>
     <message>
         <source>DEVSQ(number1,number2,...)</source>
@@ -6364,8 +6669,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the sum of squares of deviations of a data set from their sample mean.</source>
         <comment>DEVSQ_REMARK</comment>
-        <translation>
-Возвращает сумму квадратов отклонений точек данных от среднего по выборке.</translation>
+        <translation>Возвращает сумму квадратов отклонений точек данных от среднего по выборке.</translation>
     </message>
     <message>
         <source>EXPONDIST(x,lambda,cumulative)</source>
@@ -6375,7 +6679,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the exponential distribution.</source>
         <comment>EXPONDIST_DESCRIPTION</comment>
-        <translation>Возвращает экспоненциальное распределение. Функция ЭКСПРАСП используется для моделирования временных задержек между событиями, например времени, которое потребуется на доставку денежного перевода через автоматизированную банковскую систему.</translation>
+        <translation>Возвращает экспоненциальное распределение.</translation>
     </message>
     <message>
         <source>FDIST(x,degrees_freedom1,degrees_freedom2)</source>
@@ -6385,7 +6689,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the F probability distribution. You can use this function to determine whether two data sets have different degrees of diversity.</source>
         <comment>FDIST_DESCRIPTION</comment>
-        <translation>Возвращает F-распределение вероятности (распределение Фишера). Эта функция позволяет определить, имеют ли два набора данных различные степени разброса значений.</translation>
+        <translation>Возвращает функцию плотности бета-вероятности. Эта функция позволяет определить, имеют ли два набора данных различные степени разброса значений.</translation>
     </message>
     <message>
         <source>FREQUENCY(data_array,bins_array)</source>
@@ -6395,7 +6699,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Calculates how often values occur within a range of values and then returns a vertical array of numbers having one more element than Bins_array.</source>
         <comment>FREQUENCY_DESCRIPTION</comment>
-        <translation>Вычисляет частоту появления значений в диапазоне значений и возвращает вертикальный массив чисел. Поскольку функция ЧАСТОТА возвращает массив, ее следует вводить как формулу массива.</translation>
+        <translation>Вычисляет распределение значений по интервалам и возвращает вертикальный массив, содержащий на один элемент больше, чем массив интервалов.</translation>
     </message>
     <message>
         <source>FTEST(array1,array2)</source>
@@ -6405,7 +6709,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the result of an F-test, the one-tailed probability that the variances in Array1 and Array2 are not significantly different.</source>
         <comment>FTEST_DESCRIPTION</comment>
-        <translation>Возвращает результат F-теста. F-тест возвращает двустороннюю вероятность того, что разница между дисперсиями аргументов массив1 и массив2 несущественна. </translation>
+        <translation>Возвращает результат F-теста, одностороннюю вероятность сходства двух совокупностей.</translation>
     </message>
     <message>
         <source>GAMMADIST(x,alpha,beta,cumulative)</source>
@@ -6425,7 +6729,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the inverse of the gamma cumulative distribution.</source>
         <comment>GAMMAINV_DESCRIPTION</comment>
-        <translation>Возвращает обратное гамма-распределение. Если p = ГАММАРАСП(x;...), то ГАММАОБР(p;...) = x. Эту функцию можно использовать для изучения переменных, которые, возможно, имеют асимметричное распределение.</translation>
+        <translation>Возвращает обратное интегральное гамма-распределение.</translation>
     </message>
     <message>
         <source>GAMMALN(x)</source>
@@ -6435,7 +6739,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the natural logarithm of the gamma function,Γ(x).</source>
         <comment>GAMMALN_DESCRIPTION</comment>
-        <translation>Возвращает натуральный логарифм гамма-функции - G(x).</translation>
+        <translation>Возвращает натуральный логарифм гамма-функции,Γ(x).</translation>
     </message>
     <message>
         <source>GROWTH(known_y&apos;s,known_x&apos;s,new_x&apos;s,stats)</source>
@@ -6445,7 +6749,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Predicts the exponential growth by using existing data.</source>
         <comment>GROWTH_REMARK</comment>
-        <translation>Рассчитывает прогнозируемый экспоненциальный рост на основании имеющихся данных. Функция РОСТ возвращает значения y для последовательности заданных новых значений x, вычисляя их на основании существующих значений x и y.</translation>
+        <translation>Рассчитывает прогнозируемый экспоненциальный рост на основании имеющихся данных.</translation>
     </message>
     <message>
         <source>GEOMEAN(number1,number2,...)</source>
@@ -6455,7 +6759,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the geometric mean of an array or range of positive numeric data.</source>
         <comment>GEOMEAN_REMARK</comment>
-        <translation>Возвращает среднее геометрическое для массива или диапазона положительных чисел. Например, функцией СРГЕОМ можно воспользоваться для вычисления среднего темпа роста при сложных процентах с переменной ставкой.</translation>
+        <translation>Возвращает среднее геометрическое для массива или диапазона из положительных чисел.</translation>
     </message>
     <message>
         <source>HARMEAN(number1,number2,...)</source>
@@ -6465,18 +6769,17 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the harmonic mean of a data set. The harmonic mean is the reciprocal of the arithmetic mean of reciprocals.</source>
         <comment>HARMEAN_REMARK</comment>
-        <translation>Возвращает среднее гармоническое для набора данных. Среднее гармоническое — это величина, обратная среднему арифметическому обратных величин.</translation>
+        <translation>Возвращает среднее гармоническое для множества положительных чисел - величину, обратную среднему арифметическому обратных величин.</translation>
     </message>
     <message>
         <source>HYPGEOMDIST(sample_s,number_sample,population_s,number_population)</source>
         <comment>HYPGEOMDIST_SYNTAX</comment>
-        <translation>ГИПЕРГЕОМЕТ(усп_в_выб,выборка,усп_в_сов,
-совокупность)</translation>
+        <translation>ГИПЕРГЕОМЕТ(число_успехов_в_выборке,размер_выборки,число_успехов_в_совокупности,размер_совокупности)</translation>
     </message>
     <message>
         <source>Returns the hypergeometric distribution. HYPGEOMDIST returns the probability of a given number of sample successes, given the sample size, population successes, and population size. </source>
         <comment>HYPGEOMDIST_DESCRIPTION</comment>
-        <translation>Возвращает гипергеометрическое распределение. Это вероятность заданного количества успехов в выборке, если заданы размер выборки, количество успехов в генеральной совокупности и размер генеральной совокупности.</translation>
+        <translation>Возвращает гипергеометрическое распределение числа успехов в выборке!число успехов в выборке!размер выборки!число успехов в совокупности!размер совокупности.</translation>
     </message>
     <message>
         <source>INTERCEPT(known_y&apos;s,known_x&apos;s)</source>
@@ -6486,7 +6789,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Calculates the point at which a line will intersect the y-axis by using the existing x-values and y-values.</source>
         <comment>INTERCEPT_REMARK</comment>
-        <translation>Вычисляет точку пересечения линии с осью y на основе аргументов «известные_значения_x» и «известные_значения_y». Точка пересечения находится на оптимальной линии регрессии, построенной по точкам, заданным аргументами «известные_значения_x» и «известные_значения_y».</translation>
+        <translation>Возвращает отрезок, отсекаемый на оси линией линейной регрессии.</translation>
     </message>
     <message>
         <source>KURT(number1,number2,...)</source>
@@ -6496,7 +6799,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the kurtosis of a data set. Kurtosis characterizes the relative peakedness or flatness of a distribution compared with the normal distribution.</source>
         <comment>KURT_DESCRIPTION</comment>
-        <translation>Возвращает эксцесс набора данных. Эксцесс характеризует относительную остроконечность или сглаженность распределения по сравнению с нормальным распределением.</translation>
+        <translation>Возвращает эксцесс множества данных. Эксцесс характеризует относительную остроконечность или сглаженность распределения по сравнению с нормальным распределением.</translation>
     </message>
     <message>
         <source>LARGE(array,k)</source>
@@ -6506,7 +6809,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the k-th largest value in a data set. For example, it indicates the fourth largest number if k equals 4.</source>
         <comment>LARGE_REMARK</comment>
-        <translation>Возвращает k-е по величине значение из набора данных. Эта функция позволяет выбрать значение по его относительной позиции. Например, функцией НАИБОЛЬШИЙ можно воспользоваться для определения наилучшего, второго, третьего или четвёртого результата тестирования в баллах.</translation>
+        <translation>Возвращает k-ое наибольшее значение в множестве данных. Эта функция позволяет выбрать значение по его относительной позиции. Например, функцией НАИБОЛЬШИЙ можно воспользоваться для определения наилучшего, второго, третьего или четертого результата тестирования в баллах.</translation>
     </message>
     <message>
         <source>LINEST(known_y&apos;s,known_x&apos;s,const,stats)</source>
@@ -6516,7 +6819,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns statistics that describe a linear trend matching known data points, by fitting a straight line using the least squares method.</source>
         <comment>LINEST_REMARK</comment>
-        <translation>Рассчитывает статистику для ряда по методу наименьших квадратов, чтобы вычислить прямую линию, наилучшим образом аппроксимирующую имеющиеся данные, и возвращает массив, который описывает полученную прямую.</translation>
+        <translation>Возвращает параметры линейного приближения по методу наименьших квадратов.</translation>
     </message>
     <message>
         <source>LOGINV(probability,mean,standard_dev)</source>
@@ -6526,7 +6829,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the inverse of the lognormal cumulative distribution function of x, where ln(x) is the normal distribution of parameters Mean and Standard_dev.</source>
         <comment>LOGINV_DESCRIPTION</comment>
-        <translation>Возвращает обратную функцию логарифмически нормального распределения для x, где ln(x) имеет нормальное распределение с параметрами среднее и стандартное_откл.</translation>
+        <translation>Возвращает обратное логарифмическое нормальное распределение, где ln(x) представляет собой нормальное распределение.</translation>
     </message>
     <message>
         <source>LOGNORMDIST(x,mean,standard_dev)</source>
@@ -6536,7 +6839,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the lognormal cumulative distribution of x, where ln(x) is normally distributed with parameters Mean and Standard_dev.</source>
         <comment>LOGNORMDIST_DESCRIPTION</comment>
-        <translation>Возвращает функцию распределения логарифмически нормального распределения для x, где ln(x) — нормально распределенная случайная величина с параметрами среднее и стандартное_откл. Эта функция используется для анализа данных, которые были логарифмически преобразованы.</translation>
+        <translation>Возвращает логнормальное распределение, где ln(x) представляет собой нормальное распределение.</translation>
     </message>
     <message>
         <source>MAX(number1,number2,...)</source>
@@ -6551,12 +6854,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>MAXA(number1,number2,...)</source>
         <comment>MAXA_GRAMMER</comment>
-        <translation>МАКСА(значение1,значение2,...)</translation>
+        <translation>МАКСА(число1,число2,...)</translation>
     </message>
     <message>
         <source>Returns the maximum value in a list of arguments. Does not ignore logical values and text.</source>
         <comment>MAXA_REMARK</comment>
-        <translation>Возвращает наибольшее значение в списке аргументов. Помимо чисел, учитываются текстовые и логические значения (ИСТИНА и ЛОЖЬ).</translation>
+        <translation>Возвращает наибольшее значение из набора значений. Учитываются логические и текстовые значения.</translation>
     </message>
     <message>
         <source>MEDIAN(number1,number2,...)</source>
@@ -6566,7 +6869,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the median of the given numbers.</source>
         <comment>MEDIAN_REMARK</comment>
-        <translation>Возвращает медиану заданных чисел. Медиана — это число, которое является серединой множества чисел, т. е. половина чисел имеют значения большие, чем медиана, а половина чисел имеют значения меньшие, чем медиана.</translation>
+        <translation>Возвращает медиану исходных чисел.</translation>
     </message>
     <message>
         <source>MIN(number1,number2,...)</source>
@@ -6576,7 +6879,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the minimum value in a list of arguments. Ignores logical values and text.</source>
         <comment>MIN_REMARK</comment>
-        <translation>Возвращает наименьшее значение в наборе значений.</translation>
+        <translation>Возвращает наименьшее значение из списка аргументов. Логические и текстовые значения игнорируются.</translation>
     </message>
     <message>
         <source>MINA(number1,number2,...)</source>
@@ -6586,7 +6889,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the minimum value in a list of arguments. Does not ignore logical values and text.</source>
         <comment>MINA_REMARK</comment>
-        <translation>Возвращает наименьшее значение в списке аргументов. Помимо чисел, учитываются текстовые и логические значения (ИСТИНА и ЛОЖЬ).</translation>
+        <translation>Возвращает наименьшее значение из набора значений. Учитываются логические и текстовые значения.</translation>
     </message>
     <message>
         <source>MODE(number1,number2,...)</source>
@@ -6596,7 +6899,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the most common number (most frequently occurring) in an array or range of data.</source>
         <comment>MODE_REMARK</comment>
-        <translation>Возвращает наиболее часто встречающееся (повторяющееся) значение в массиве или диапазоне данных. Как и функция МЕДИАНА, функция МОДА является мерой взаимного расположения значений.</translation>
+        <translation>Возвращает значение моды для массива или диапазона значений.</translation>
     </message>
     <message>
         <source>NEGBINOMDIST(number_f,number_s,probability_s)</source>
@@ -6606,27 +6909,27 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the negative binomial distribution, the probability that there will be Number_f failures before the Number_s-th success, with Probability_s probability of a success.</source>
         <comment>NEGBINOMDIST_DESCRIPTION</comment>
-        <translation>Возвращает отрицательное биномиальное распределение. Это вероятность возникновения определенного количества неудач (число_неудач) до указанного количества успехов (число_успехов) при условии, что вероятность успеха постоянна и равна значению аргумента вероятность_успеха.</translation>
+        <translation>Возвращает отрицательное биномиальное распределение - вероятность возникновения определенного числа неудач до указанного количества успехов, с данной вероятностью успеха.</translation>
     </message>
     <message>
         <source>NORMDIST(x,mean,standard_dev,cumulative)</source>
         <comment>NORMDIST_SYNTAX</comment>
-        <translation>НОРМРАСП(x,среднее,станд_откл,интегр)</translation>
+        <translation>НОРМРАСП(x,среднее,стандартное_откл,интегральная)</translation>
     </message>
     <message>
         <source>Returns the normal cumulative distribution for the specified mean and standard deviation</source>
         <comment>NORMDIST_DESCRIPTION</comment>
-        <translation>Возвращает нормальное распределение для указанного среднего и стандартного отклонения. Эта функция широко применяется в статистике, в том числе при проверке гипотез.</translation>
+        <translation>Возвращает нормальную функцию распределения.</translation>
     </message>
     <message>
         <source>NORMINV(probability,mean,standard_dev)</source>
         <comment>NORMINV_SYNTAX</comment>
-        <translation>НОРМОБР(вероятность,среднее,станд_откл)</translation>
+        <translation>НОРМОБР(вероятность,среднее,стандартное_откл)</translation>
     </message>
     <message>
         <source>Returns the inverse of the normal cumulative distribution for the specified mean and standard deviation.</source>
         <comment>NORMINV_DESCRIPTION</comment>
-        <translation>Возвращает обратное нормальное распределение для указанного среднего и стандартного отклонения.</translation>
+        <translation>Возвращает обратное нормальное распределение.</translation>
     </message>
     <message>
         <source>NORMSDIST(z)</source>
@@ -6636,7 +6939,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the standard normal cumulative distribution function with a mean of zero and a standard deviation of one.</source>
         <comment>NORMSDIST_DESCRIPTION</comment>
-        <translation>Возвращает стандартное нормальное интегральное распределение. Это распределение имеет среднее, равное нулю, и стандартное отклонение, равное единице. Данная функция используется вместо таблицы площадей под кривой стандартного нормального распределения.</translation>
+        <translation>Возвращает стандартное нормальное интегральное распределение.</translation>
     </message>
     <message>
         <source>NORMSINV(probability)</source>
@@ -6666,7 +6969,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number of permutations for a given number of objects selected from the total objects.</source>
         <comment>PERMUT_DESCRIPTION</comment>
-        <translation>Возвращает количество перестановок для заданного числа объектов, которые выбираются из общего числа объектов. Перестановка - это любое множество или подмножество объектов или событий, в котором важен внутренний порядок.</translation>
+        <translation>Возвращает количество перестановок заданного числа объектов, которые выбираются из общего числа объектов.</translation>
     </message>
     <message>
         <source>PEARSON(array1,array2)</source>
@@ -6686,8 +6989,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the k-th percentile of values in a range.</source>
         <comment>PERCENTILE_REMARK</comment>
-        <translation>
-Возвращает k-й процентиль для значений из интервала. Эта функция используется для установки порога приемлемости.</translation>
+        <translation>Возвращает k-й процентиль для значений диапазона.</translation>
     </message>
     <message>
         <source>RANK(number,ref,order)</source>
@@ -6707,7 +7009,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the probability that values in a range which are between two limits.</source>
         <comment>PROB_DESCRIPTION</comment>
-        <translation>Возвращает вероятность того, что значения из диапазона находятся в заданных пределах. Если аргумент верхний_предел не задан, функция ВЕРОЯТНОСТЬ возвращает вероятность того, что значения в аргументе диапазон_x равны значению аргумента нижний_предел.</translation>
+        <translation>Возвращает вероятность того, что значения диапазона находятся внутри заданных пределов.</translation>
     </message>
     <message>
         <source>RSQ(known_y&apos;s,known_x&apos;s)</source>
@@ -6767,7 +7069,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Calculates standard deviation based on a sample. Doesn&apos;t ignore logical values and text.</source>
         <comment>STDEVA_REMARK</comment>
-        <translation>Оценивает стандартное отклонение по выборке. Стандартное отклонение — это мера разброса точек данных относительно их среднего.Помимо чисел, учитываются текстовые и логические значения (ИСТИНА и ЛОЖЬ).</translation>
+        <translation>Вычисляет стандартное отклонение по выборке.Учитывает логические значения и текст.</translation>
     </message>
     <message>
         <source>STDEVP(number1,number2,...)</source>
@@ -6777,17 +7079,17 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Calculates standard deviation based on the entire population (ignores logical values and text).</source>
         <comment>STDEVP_REMARK</comment>
-        <translation>Вычисляет стандартное отклонение по генеральной совокупности, заданной аргументами. Стандартное отклонение   - это показатель рассеивания значений относительно их среднего.</translation>
+        <translation>Вычисляет стандартное отклонение по генеральной совокупности (Логические и текстовые значения игнорируются).</translation>
     </message>
     <message>
         <source>STDEVPA(number1,number2,...)</source>
         <comment>STDEVPA_GRAMMER</comment>
-        <translation>СТАНДОТКЛОНПА(значение1,значение2,...)</translation>
+        <translation>СТАНДОТКЛОНПА(число1,число2,...)</translation>
     </message>
     <message>
         <source>Calculates standard deviation based on the entire population. Doesn&apos;t ignore logical values and text.</source>
         <comment>STDEVPA_REMARK</comment>
-        <translation>Вычисляет стандартное отклонение по генеральной совокупности, заданной аргументами, которые могут включать текст и логические значения. Стандартное отклонение — это мера разброса точек данных относительно их среднего. Помимо чисел, учитываются текстовые и логические значения (ИСТИНА и ЛОЖЬ).</translation>
+        <translation>Вычисляет стандартное отклонение по генеральной совокупности (Учитывает логические значения и текст).</translation>
     </message>
     <message>
         <source>TDIST(x,degrees_freedom,tails)</source>
@@ -6817,7 +7119,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the probability associated with a Student&apos;s t-Test. Use TTEST to determine whether two samples are likely to have come from the same two underlying populations that have the same mean.</source>
         <comment>TTEST_DESCRIPTION</comment>
-        <translation>Возвращает вероятность, соответствующую критерию Стьюдента (t-критерию). Функция ТТЕСТ позволяет определить вероятность того, что две выборки взяты из двух генеральных совокупностей, которые имеют одно и то же среднее.</translation>
+        <translation>Возвращает вероятность, соответствующую t-тесту Стьюдента. Функция ТТЕСТ позволяет определить вероятность того, что две выборки взяты из двух генеральных совокупностей, которые имеют одно и то же среднее.</translation>
     </message>
     <message>
         <source>TRIMMEAN(array,percent)</source>
@@ -6827,7 +7129,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the mean of the interior of a data set. </source>
         <comment>TRIMMEAN_REMARK</comment>
-        <translation>Возвращает среднее внутренности набора данных. Функция УРЕЗСРЕДНЕЕ вычисляет среднее путем отбрасывания заданного процента данных с экстремальными значениями. С помощью этой функции можно исключить из анализа выбросы.</translation>
+        <translation>Возвращает среднее внутренней части множества данных.</translation>
     </message>
     <message>
         <source>VAR(number1,number2,...)</source>
@@ -6842,12 +7144,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>VARA(number1,number2,...)</source>
         <comment>VARA_GRAMMER</comment>
-        <translation>ДИСПА(значение1,значение2,...)</translation>
+        <translation>ДИСПА(число1,число2,...)</translation>
     </message>
     <message>
         <source>Calculates variance based on a sample(doesn&apos;t ignore logical values and text in the sample).</source>
         <comment>VARA_REMARK</comment>
-        <translation>Оценивает дисперсию по выборке. Помимо чисел, учитываются текстовые и логические значения (ИСТИНА и ЛОЖЬ).</translation>
+        <translation>Оценивает дисперсию по выборке (Учитывает логические значения и текст).</translation>
     </message>
     <message>
         <source>VARP(number1,number2,...)</source>
@@ -6857,12 +7159,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Calculates variance based on the entire population(ignores logical values and text in the population).</source>
         <comment>VARP_REMARK</comment>
-        <translation>Вычисляет дисперсию для генеральной совокупности. Логические значения и текст игнорируются.</translation>
+        <translation>Вычисляет дисперсию для генеральной совокупности (Логические и текстовые значения игнорируются).</translation>
     </message>
     <message>
         <source>VARPA(number1,number2,...)</source>
         <comment>VARPA_GRAMMER</comment>
-        <translation>ДИСПРА(значение1,значение2,...)</translation>
+        <translation>ДИСПРА(число1,число2,...)</translation>
     </message>
     <message>
         <source>Calculates variance based on the entire population(includes logical values and text in the population).</source>
@@ -6887,7 +7189,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the inverse of the F probability distribution.</source>
         <comment>FINV_DESCRIPTION</comment>
-        <translation>Возвращает значение, обратное F-распределению вероятностей (распределению Фишера). Если p = FРАСП(x;...), то FРАСПОБР(p;...) = x.</translation>
+        <translation>Возвращает обратное значение для F-распределения вероятностей.</translation>
     </message>
     <message>
         <source>FORECAST(x,known_y&apos;s,known_x&apos;s)</source>
@@ -6897,7 +7199,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Calculates or predicts a future value by using the existing values.</source>
         <comment>FORECAST_REMARK</comment>
-        <translation>Вычисляет, или прогнозирует, будущее значение по существующим значениям. Прогнозируемое значение - это значение y, соответствующее заданному значению x. Существующие значения x и y известны, а новое значение предсказывается с использованием линейной регрессии.</translation>
+        <translation>Вычисляет или прогнозирует будущее значение линейного тренда, используя имеющиеся значения.</translation>
     </message>
     <message>
         <source>BETADIST(x,alpha,beta,A,B)</source>
@@ -6907,7 +7209,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the cumulative beta probability density function.</source>
         <comment>BETADIST_DESCRIPTION</comment>
-        <translation>Возвращает интегральную функцию распределения для бета-распределения. Бета-распределение обычно используется для изучения вариации в процентах какой-либо величины, например, части дня, которую люди проводят у телевизора.</translation>
+        <translation>Возвращает интегральную функцию плотности бета-вероятности.</translation>
     </message>
     <message>
         <source>BETAINV(probability,alpha,beta,A,B)</source>
@@ -6917,7 +7219,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the inverse of the cumulative beta probability density function (BETADIST).</source>
         <comment>BETAINV_DESCRIPTION</comment>
-        <translation>Возвращает обратное значение для интегральной функции распределения указанного бета-распределения.Бета-распределение используется при планировании проектов для определения вероятного времени завершения работы, если заданы ожидаемое время завершения и вариативность.</translation>
+        <translation>Возвращает обратную функцию к интегральной функции плотности бета-вероятности (BETADIST).</translation>
     </message>
     <message>
         <source>FISHER(x)</source>
@@ -6927,7 +7229,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the Fisher transformation.</source>
         <comment>FISHER_REMARK</comment>
-        <translation>Возвращает преобразование Фишера для аргумента x. Это преобразование дает функцию с нормальным распределением (не асимметричную). Данная функция используется для проверки гипотез относительно коэффициента корреляции.</translation>
+        <translation>Возвращает преобразование Фишера.</translation>
     </message>
     <message>
         <source>FISHERINV(y)</source>
@@ -6937,7 +7239,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the inverse of the Fisher transformation. If y = FISHER(x), then FISHRINV(y) = x.</source>
         <comment>FISHERINV_REMARK</comment>
-        <translation>Возвращает обратное значение преобразования Фишера. Это преобразование используется при анализе корреляции между диапазонами или массивами данных. Если y = ФИШЕР(x), то ФИШЕРОБР(y) = x.</translation>
+        <translation>Возвращает обратное преобразование Фишера: если y = ФИШЕР(x), то ФИШЕРОБР(y) = x.</translation>
     </message>
     <message>
         <source>PERMUT(number,number_chosen)</source>
@@ -6947,7 +7249,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number of permutations for a given number of objects selected from the total objects.</source>
         <comment>PERMUT_REMARK</comment>
-        <translation>Возвращает количество перестановок для заданного числа объектов, которые выбираются из общего числа объектов. Перестановка - это любое множество или подмножество объектов или событий, в котором важен внутренний порядок.</translation>
+        <translation>Возвращает количество перестановок заданного числа объектов, которые выбираются из общего числа объектов.</translation>
     </message>
     <message>
         <source>POISSON(x,mean,cumulative)</source>
@@ -6982,12 +7284,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ADDRESS(row_num,column_num,abs_num,a1,sheet_text)</source>
         <comment>ADDRESS_GRAMMER</comment>
-        <translation>АДРЕС(строка,столбец,тип_ссылки,a1,имя_листа)</translation>
+        <translation>АДРЕС(номер_строки,номер_столбца,тип_ссылки,а1,имя_листа)</translation>
     </message>
     <message>
         <source>Creates a cell reference as text according to the specified row and column numbers.</source>
         <comment>ADDRESS_REMARK</comment>
-        <translation>Создает адрес ячейки в виде текста для заданных номеров строки и столбца.</translation>
+        <translation>Возвращает ссылку на одну ячейку в рабочем листе в виде текста.</translation>
     </message>
     <message>
         <source>AREAS(reference)</source>
@@ -6997,12 +7299,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number of areas in a reference. An area is a range of contiguous cells or a single cell.</source>
         <comment>AREAS_REMARK</comment>
-        <translation>Возвращает количество областей в ссылке. Область - это диапазон смежных ячеек или отдельная ячейка.</translation>
+        <translation>Возвращает количество областей в ссылке. Область представляет собой непрерывный диапазон или одну ячейку.</translation>
     </message>
     <message>
         <source>CHOOSE(index_num,value1,value2,...)</source>
         <comment>CHOOSE_GRAMMER</comment>
-        <translation>ВЫБОР(индекс,значение1,значение2,...)</translation>
+        <translation>ВЫБОР(номер_индекса,значение1,значение2,...)</translation>
     </message>
     <message>
         <source>Returns a value from the list of arguments based on the given index number.</source>
@@ -7017,7 +7319,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the column number of a reference.</source>
         <comment>COLUMN_REMARK</comment>
-        <translation>Возвращает номер столбца, заданного ссылкой.</translation>
+        <translation>Возвращает номер столбца, на который указывает ссылка.</translation>
     </message>
     <message>
         <source>COLUMNS(array)</source>
@@ -7032,7 +7334,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>HLOOKUP(lookup_value,table_array,row_index_num,range_lookup)</source>
         <comment>HLOOKUP_GRAMMER</comment>
-        <translation>ГПР(искомое,таблица,номер_строки,диапазон)</translation>
+        <translation>ГПР(искомое_значение,таблица,номер_строки,диапазон_поиска)</translation>
     </message>
     <message>
         <source>Looks for a value in the top row of a table or array of values and returns a value in the same column from a row you specify in the table or array (The table is ascending by default) .</source>
@@ -7042,7 +7344,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>INDEX(array,row_num,column_num)</source>
         <comment>INDEX_GRAMMER</comment>
-        <translation>ИНДЕКС(массив,строка,столбец)</translation>
+        <translation>ИНДЕКС(массив,номер_строки,номер_столбца)</translation>
     </message>
     <message>
         <source>Returns the value of an element in a table or an array, selected by the row and column number indexes.</source>
@@ -7057,37 +7359,37 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the reference specified by a text string.</source>
         <comment>INDIRECT_REMARK</comment>
-        <translation>Возвращает ссылку, заданную текстовой строкой. Ссылки немедленно вычисляются, а их содержимое отображается. Функция ДВССЫЛ используется, если требуется изменить ссылку на ячейку в формуле без изменения самой формулы.</translation>
+        <translation>Возвращает ссылку, заданную текстовой строкой.</translation>
     </message>
     <message>
         <source>LOOKUP(lookup_value,lookup_vector,result_vector);LOOKUP(lookup_value,array)</source>
         <comment>LOOKUP_GRAMMER</comment>
-        <translation>ПРОСМОТР(искомое,вектор,вектор_результатов)</translation>
+        <translation>ПРОСМОТР(искомое_значение,просматриваемый_вектор,вектор_результатов)</translation>
     </message>
     <message>
         <source>Looks up a value either from a one-row or one-column range or from an array.</source>
         <comment>LOOKUP_REMARK</comment>
-        <translation>Просматривает диапазон, состоящий из одной строки или одного столбца (так называемый вектор), в поисках определенного значения или ищет в первой строке или первом столбце массива указанное значение и возвращает значение из той же позиции в последней строке или столбце массива.</translation>
+        <translation>Ищет значения в одной строке, одном столбце или массиве.</translation>
     </message>
     <message>
         <source>MATCH(lookup_value,lookup_array,match_type)</source>
         <comment>MATCH_GRAMMER</comment>
-        <translation>ПОИСКПОЗ(искомое,массив,тип_сопоставления)</translation>
+        <translation>ПОИСКПОЗ(искомое_значение,просматриваемый_массив,тип_сопоставления)</translation>
     </message>
     <message>
         <source>Returns the relative position of an item in an array that matches a specified value in a specified order.</source>
         <comment>MATCH_REMARK</comment>
-        <translation>Возвращает относительную позицию в массиве элемента, соответствующего заданному значению, с учетом указанного порядка. Функция ПОИСКПОЗ используется вместо функций ПРОСМОТР, если требуется найти в диапазоне не сам элемент, а его позицию.</translation>
+        <translation>Возвращает относительную позицию в массиве элемента, соответствующего указанному значению с учетом указанного порядка.</translation>
     </message>
     <message>
         <source>OFFSET(reference,rows,cols,height,width)</source>
         <comment>OFFSET_GRAMMER</comment>
-        <translation>СМЕЩ(ссылка,строки,столбцы,высота,ширина)</translation>
+        <translation>СМЕЩ(ссылка,смещ_по_строкам,смещ_по_столбцам,высота,ширина)</translation>
     </message>
     <message>
         <source>Returns a reference to a range that is a given number of rows and columns from a given reference.</source>
         <comment>OFFSET_REMARK</comment>
-        <translation>Возвращает ссылку на диапазон, отстоящий от ячейки или диапазона ячеек на заданное число строк и столбцов. Возвращаемая ссылка может быть отдельной ячейкой или диапазоном ячеек. Можно задавать количество возвращаемых строк и столбцов.</translation>
+        <translation>Возвращает ссылку на диапазон, смещенный относительно заданной ссылки на указанное число строк и столбцов.</translation>
     </message>
     <message>
         <source>ROW(reference)</source>
@@ -7112,7 +7414,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>VLOOKUP(lookup_value,table_array,col_index_num,range_lookup)</source>
         <comment>VLOOKUP_GRAMMER</comment>
-        <translation>ВПР(искомое,таблица,столбец,диапазон)</translation>
+        <translation>ВПР(искомое_значение,таблица,номер_столбца,диапазон_поиска)</translation>
     </message>
     <message>
         <source>Searches a specified value in the leftmost column of a table and returns a value in the current row from a column you specify.</source>
@@ -7212,18 +7514,17 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation>СЖЛПРОБЕЛЫ(текст)</translation>
+        <translation type="unfinished">СЖЛПРОБЕЛЫ(текст)</translation>
     </message>
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
-        <translation>Удаляет левые пробелы из текстовой строки (с начала).</translation>
+        <translation type="unfinished">Удаляет левые пробелы из текстовой строки (с начала).</translation>
     </message>
     <message>
         <source>MID(text,start_num,num_chars)</source>
         <comment>MID_GRAMMER</comment>
-        <translation>ПСТР(текст,нач_позиция,
-число_знаков)</translation>
+        <translation>ПСТР(текст,начальная_позиция,количество_знаков)</translation>
     </message>
     <message>
         <source>Returns the characters with a specified length from a given starting position in a text string.</source>
@@ -7233,8 +7534,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>REPLACE(old_text,start_num,num_chars,new_text)</source>
         <comment>REPLACE_GRAMMER</comment>
-        <translation>ЗАМЕНИТЬ(старый_текст,начальная_позиция,
-число_знаков,новый_текст)</translation>
+        <translation>ЗАМЕНИТЬ(старый_текст,нач_поз,число_знаков,новый_текст)</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string.</source>
@@ -7259,22 +7559,22 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the specified number of characters from the end of a text string.</source>
         <comment>RIGHT_REMARK</comment>
-        <translation>Возвращает заданное количество знаков с конца строки.</translation>
+        <translation>Возвращает указанное число знаков с конца строки текста.</translation>
     </message>
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation>СЖППРОБЕЛЫ(текст)</translation>
+        <translation type="unfinished">СЖППРОБЕЛЫ(текст)</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
-        <translation>Удаляет правые пробелы из текстовой строки (с конца).</translation>
+        <translation type="unfinished">Удаляет правые пробелы из текстовой строки (с конца).</translation>
     </message>
     <message>
         <source>SEARCH(find_text,within_text,start_num)</source>
         <comment>SEARCH_GRAMMER</comment>
-        <translation>ПОИСК(иск_текст,просм_текст,нач_позиция)</translation>
+        <translation>ПОИСК(искомый_текст,просматриваемый_текст,нач_позиция)</translation>
     </message>
     <message>
         <source>Returns the first-found location of the specified charcter or string within a text string, reading from left to right (not case-sensitive).</source>
@@ -7284,13 +7584,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SUBSTITUTE(text,old_text,new_text,instance_num)</source>
         <comment>SUBSTITUTE_GRAMMER</comment>
-        <translation>ПОДСТАВИТЬ(текст,старый_текст,
-новый_текст,число_вхождений)</translation>
+        <translation>ПОДСТАВИТЬ(текст,стар_текст,нов_текст,номер_вхождения)</translation>
     </message>
     <message>
         <source>Replaces part of the old text with new text in a string.</source>
         <comment>SUBSTITUTE_REMARK</comment>
-        <translation>Подставляет значение аргумента новый_текст вместо значения аргумента старый_текст в текстовой строке. Используется, когда нужно заменить определенный текст в текстовой строке.</translation>
+        <translation>Заменяет новым текстом старый текст в текстовой строке.</translation>
     </message>
     <message>
         <source>TEXT(value,format_text)</source>
@@ -7370,12 +7669,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the logical value FALSE.</source>
         <comment>FALSE_REMARK</comment>
-        <translation>Возвращает логическое значение ЛОЖЬ.</translation>
+        <translation>Возвращает логическое значение FALSE.</translation>
     </message>
     <message>
         <source>IF(logical_test,value_if_true,value_if_false)</source>
         <comment>IF_GRAMMER</comment>
-        <translation>ЕСЛИ(лог_выраж,если_истина,если_ложь)</translation>
+        <translation>ЕСЛИ(лог_выражение,значение_если_истина,значение_если_ложь)</translation>
     </message>
     <message>
         <source>Checks whether a condition is met, and returns one value if TRUE, and another value if FALSE.</source>
@@ -7425,7 +7724,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>FORMULA(Ref)</source>
         <comment>FORMULA_GRAMMER</comment>
-        <translation>ФОРМУЛА(ссылка)</translation>
+        <translation>ФОРМУЛА(Ref)</translation>
     </message>
     <message>
         <source>Returns the formula in a cell.</source>
@@ -7465,7 +7764,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ISEVEN(value)</source>
         <comment>ISEVEN_GRAMMER</comment>
-        <translation>ЕЧЁТН(число)</translation>
+        <translation>ЕЧЁТН(значение)</translation>
     </message>
     <message>
         <source>Returns TRUE if the number is even and FALSE otherwise.</source>
@@ -7515,7 +7814,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ISODD(value)</source>
         <comment>ISODD_GRAMMER</comment>
-        <translation>ЕНЕЧЁТ(число)</translation>
+        <translation>ЕНЕЧЁТ(значение)</translation>
     </message>
     <message>
         <source>Returns TRUE if the number is odd and FALSE otherwise.</source>
@@ -7575,8 +7874,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DB(cost,salvage,life,period,month)</source>
         <comment>DB_GRAMMER</comment>
-        <translation>ФУО(стоимость,ликв_стоим,время_эксплуатации,
-период,месяц)</translation>
+        <translation>ФУО(нач_стоимость,ост_стоимость,время_эксплуатации,период,месяцы)</translation>
     </message>
     <message>
         <source>Returns the depreciation of an asset for a specified period using the fixed-declining balance method.</source>
@@ -7586,18 +7884,17 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DDB(cost,salvage,life,period,factor)</source>
         <comment>DDB_GRAMMER</comment>
-        <translation>ДДОБ(нач_стоимость,ликв_стоимость,
-время_эксплуатации,период,коэффициент)</translation>
+        <translation>ДДОБ(нач_стоимость,ост_стоимость,время_эксплуатации,период,коэффициент)</translation>
     </message>
     <message>
         <source>Returns the depreciation of an asset for a specified period using the double-declining balance method or some other method you specify.</source>
         <comment>DDB_REMARK</comment>
-        <translation>Возвращает значение амортизации актива за заданный период с использованием метода двойного уменьшения остатка или другого указанного метода.</translation>
+        <translation>Возвращает значение амортизации актива за данный период, используя метод двойного уменьшения остатка или иной явно указанный метод.</translation>
     </message>
     <message>
         <source>FV(rate,nper,pmt,pv,type)</source>
         <comment>FV_GRAMMER</comment>
-        <translation>БС(ставка,кпер,платеж,пс,тип)</translation>
+        <translation>БС(ставка,кпер,плт,пс,тип)</translation>
     </message>
     <message>
         <source>Returns the future value of an investment based on periodic, constant payments and a constant interest rate.</source>
@@ -7622,12 +7919,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the internal rate of return that is represented by numbers for a series of cash flows. </source>
         <comment>IRR_REMARK</comment>
-        <translation>Возвращает внутреннюю ставку доходности для ряда денежных потоков, представленных числовыми значениями. В отличие от аннуитета, денежные суммы в пределах этих потоков могут колебаться.</translation>
+        <translation>Возвращает внутреннюю ставку доходности для ряда потоков денежных средств, представленных численными значениями.</translation>
     </message>
     <message>
         <source>ISPMT(rate,per,nper,pv)</source>
         <comment>ISPMT_GRAMMER</comment>
-        <translation>ПРОЦПЛАТ(ставка,период,к_пер,пс)</translation>
+        <translation>ПРОЦПЛАТ(ставка,период,кпер,пс)</translation>
     </message>
     <message>
         <source>Calculates the interest that should be paid within a specific investment period.</source>
@@ -7637,18 +7934,17 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>MIRR(values,finance_rate,reinvest_rate)</source>
         <comment>MIRR_GRAMMER</comment>
-        <translation>МВСД(значения,ставка_финансирования,
-ставка_реинвестирования)</translation>
+        <translation>МВСД(значения,ставка_финанс,ставка_реинвест)</translation>
     </message>
     <message>
         <source>Returns the modified internal rate of return for the given periodic cash flows. MIRR takes both the cost of the investment and the interest received on reinvestment of cash into account.</source>
         <comment>MIRR_REMARK</comment>
-        <translation>Возвращает модифицированную внутреннюю ставку доходности для ряда периодических денежных потоков. Функция МВСД учитывает как стоимость инвестиции, так и процент, получаемый от реинвестирования денежных средств.</translation>
+        <translation>Возвращает внутреннюю ставку доходности для ряда периодических денежных потоков. Функция МВСД учитывает как стоимость инвестиции, так и процент, получаемый от реинвестирования денежных средств.</translation>
     </message>
     <message>
         <source>NPER(rate, pmt, pv, fv, type)</source>
         <comment>NPER_GRAMMER</comment>
-        <translation>КПЕР(ставка,платеж,пс,бс,тип)</translation>
+        <translation>КПЕР(ставка,плт,пс,бс,тип)</translation>
     </message>
     <message>
         <source>Returns the number of payment periods for an investment based on periodic, constant payments and a constant interest rate.</source>
@@ -7663,7 +7959,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the net present value of an investment, using a discount rate and a series of future periodic payments and income.</source>
         <comment>NPV_REMARK</comment>
-        <translation>Возвращает величину чистой приведенной стоимости инвестиции, используя ставку дисконтирования, а также последовательность будущих выплат (отрицательные значения) и поступлений (положительные значения).</translation>
+        <translation>Возвращает величину чистой приведенной стоимости инвестиции, используя ставку дисконтирования и стоимости будущих выплат и поступлений.</translation>
     </message>
     <message>
         <source>PMT(rate,nper,pv,fv,type)</source>
@@ -7699,8 +7995,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RATE(nper,pmt,pv,fv,type,guess)</source>
         <comment>RATE_GRAMMER</comment>
-        <translation>СТАВКА(кпер,платеж,пс,бс,тип,
-предположение)</translation>
+        <translation>СТАВКА(кпер,плт,пс,бс,тип,предположение)</translation>
     </message>
     <message>
         <source>Returns the interest rate per period of an annuity.</source>
@@ -7710,8 +8005,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SLN(cost,salvage,life)</source>
         <comment>SLN_GRAMMER</comment>
-        <translation>АПЛ(нач_стоимость,ликв_стоимость,
-время_эксплуатации)</translation>
+        <translation>АПЛ(нач_стоимость,ост_стоимость,время_эксплуатации)</translation>
     </message>
     <message>
         <source>Returns the linear depreciation of an asset per period.</source>
@@ -7721,8 +8015,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SYD(cost,salvage,life,per)</source>
         <comment>SYD_GRAMMER</comment>
-        <translation>АСЧ(нач_стоимость,ликв_стоимость,
-время_эксплуатации,период)</translation>
+        <translation>АСЧ(нач_стоимость,ост_стоимость,время_эксплуатации,период)</translation>
     </message>
     <message>
         <source>Returns the sum-of-years&apos; digits depreciation of an asset for a specified period, which is based on its cost, salvage value and anticipated life.</source>
@@ -7732,13 +8025,13 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>VDB(cost,salvage,life,start_period,end_period,factor,no_switch)</source>
         <comment>VDB_GRAMMER</comment>
-        <translation>ПУО(нач_стоим,ликв_стоим,время_эксплуат,
-нач_период,кон_период,коэфф,без_переключ)</translation>
+        <translation>ПУО(нач_стоимость,ост_стоимость,время_эксплуатации,нач_период,
+кон_период,коэффициент,без_переключения)</translation>
     </message>
     <message>
         <source>Returns the depreciation of an asset for a given period or partial period using the double-declining balance method or some other method you specify.</source>
         <comment>VDB_REMARK</comment>
-        <translation>Возвращает величину амортизации актива для любого выбранного периода, в том числе для частичных периодов, с использованием метода двойного уменьшения остатка или иного указанного метода.</translation>
+        <translation>Возвращает величину амортизации актива для любого выбранного периода.</translation>
     </message>
     <message>
         <source>FACTDOUBLE(number)</source>
@@ -7758,7 +8051,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns a given number rounded to a special multiple.</source>
         <comment>MROUND_DESCRIPTION</comment>
-        <translation>Возвращает число, округленное с нужной точностью.</translation>
+        <translation>Возвращает число, округленное с желаемой точностью.</translation>
     </message>
     <message>
         <source>MULTINOMIAL(number1,number2, ...)</source>
@@ -7778,7 +8071,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the integer portion of a division. When using this function, you can discard the remainder of a division.</source>
         <comment>QUOTIENT_DESCRIPTION</comment>
-        <translation>Возвращает целую часть результата деления. Эта функция используется, когда нужно отбросить остаток от деления.</translation>
+        <translation>Возвращает целую часть результата деления с остатком. Эта функция используется, когда нужно отбросить остаток от деления.</translation>
     </message>
     <message>
         <source>BESSELI(x,n)</source>
@@ -7853,8 +8146,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COMPLEX(real_num,i_num,suffix)</source>
         <comment>COMPLEX_GRAMMER</comment>
-        <translation>КОМПЛЕКСН(действительная_часть,
-мнимая_часть,мнимая_единица)</translation>
+        <translation>КОМПЛЕКСН(действительная_часть,мнимая_часть,мнимая_единица)</translation>
     </message>
     <message>
         <source>Converts real and imaginary coefficients to a complex number with the form of x + yi or x + yj.</source>
@@ -7869,7 +8161,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Converts a number from one measurement system to another.</source>
         <comment>CONVERT_REMARK</comment>
-        <translation>Преобразовывает число из одной системы измерений в другую. Например, с помощью функции ПРЕОБР можно перевести значения в таблице расстояний из миль в километры.</translation>
+        <translation>Преобразует значение из одной системы мер в другую.</translation>
     </message>
     <message>
         <source>DEC2BIN(number,places)</source>
@@ -7919,7 +8211,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the error function whose integral is between lower_limit and upper_limit.</source>
         <comment>ERF_REMARK</comment>
-        <translation>Возвращает функцию ошибки, проинтегрированную в интервале, который задан аргументами нижний_предел и верхний_предел.</translation>
+        <translation>Возвращает вероятность того, что значения диапазона находятся внутри заданных пределов.</translation>
     </message>
     <message>
         <source>ERFC(x)</source>
@@ -7999,7 +8291,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the complex conjugate of a complex number in x + yi or x + yj text format.</source>
         <comment>IMCONJUGATE_REMARK</comment>
-        <translation>Возвращает комплексно-сопряженное число для комплексного числа в текстовом формате x + yi или x + yj.</translation>
+        <translation>Возвращает комплексно-сопряженное комплексного числа в текстовом формате x + yi или x + yj.</translation>
     </message>
     <message>
         <source>IMCOS(inumber)</source>
@@ -8019,7 +8311,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Calculates the quotient of two complex numbers in x + yi or x + yj text format.</source>
         <comment>IMDIV_REMARK</comment>
-        <translation>Возвращает частное от деления двух комплексных чисел в текстовом формате x + yi или x + yj.</translation>
+        <translation>Возвращает частное двух комплексных чисел в текстовом формате x + yi или x + yj.</translation>
     </message>
     <message>
         <source>IMEXP(inumber)</source>
@@ -8074,8 +8366,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>IMPRODUCT(inumber1,inumber2,...)</source>
         <comment>IMPRODUCT_GRAMMER</comment>
-        <translation>МНИМ.ПРОИЗВЕД(компл_число1,
-компл_число2,...)</translation>
+        <translation>МНИМ.ПРОИЗВЕД(компл_число1,компл_число2,...)</translation>
     </message>
     <message>
         <source>Calculates the product of complex numbers in x + yi or x + yj text format.</source>
@@ -8175,13 +8466,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>FIXED(number,decimals,no_commas)</source>
         <comment>FIXED_GRAMMER</comment>
-        <translation>ФИКСИРОВАННЫЙ(число,
-число_знаков,без_разделителей)</translation>
+        <translation>ФИКСИРОВАННЫЙ(число,число_знаков,без_разделителей)</translation>
     </message>
     <message>
         <source>Rounds a number to the specified number of decimals in decimal format and returns the result as text with or without commas.</source>
         <comment>FIXED_REMARK</comment>
-        <translation>Округляет число до заданного количества десятичных разрядов, преобразует его в десятичный формат с использованием запятой и разделителей разрядов и возвращает результат в виде текста.</translation>
+        <translation>Округляет число до указанного десятичного разряда и возвращает результат в виде текста с запятыми или без запятых.</translation>
     </message>
     <message>
         <source>LENB(text)</source>
@@ -8196,7 +8486,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>FINDB(find_text,within_text,start_num)</source>
         <comment>FINDB_GRAMMER</comment>
-        <translation>НАЙТИ.ДВ(иск_текст,текст,нач_позиция)</translation>
+        <translation>НАЙТИ.ДВ(искомый_текст,просматриваемый_текст,нач_позиция)</translation>
     </message>
     <message>
         <source>Searches another text string&apos;s starting location in one text string. FINDB is case-sensitive and doesn&apos;t allow to use wildcard. Use with double-byte characters(DBCS).</source>
@@ -8216,7 +8506,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>MIDB(text,start_num,num_bytes)</source>
         <comment>MIDB_GRAMMER</comment>
-        <translation>ПСТР.ДВ(текст,нач_позиция,число_байтов)</translation>
+        <translation>ПСТР.ДВ(текст,начальная_позиция,количество_байтов)</translation>
     </message>
     <message>
         <source>Returns the specified number of characters from the appointed location of a text string. Use with double-byte character set(DBCS).</source>
@@ -8226,8 +8516,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>REPLACEB(old_text,start_num,num_bytes,new_text)</source>
         <comment>REPLACEB_GRAMMER</comment>
-        <translation>ЗАМЕНИТЬ(старый_текст,нач_поз,
-число_байтов,новый_текст)</translation>
+        <translation>ЗАМЕНИТЬ(старый_текст,нач_поз,число_байтов,новый_текст)</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string. Use with double-byte character set(DBCS).</source>
@@ -8297,7 +8586,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>EOMONTH(start_date,months)</source>
         <comment>EOMONTH_SYNTAX</comment>
-        <translation>КОНМЕСЯЦА(нач_дата,месяцы)</translation>
+        <translation>КОНМЕСЯЦА(нач_дата,число_месяцев)</translation>
     </message>
     <message>
         <source>Returns the serial number for the last day of the month that is the indicated number of month before or after start_date. Use EOMONTH to calculate maturity dates that fall on the last day of the month.</source>
@@ -8317,7 +8606,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>WORKDAY(start_date,days,holidays)</source>
         <comment>WORKDAY_SYNTAX</comment>
-        <translation>РАБДЕНЬ(нач_дата,колич_дней,праздники)</translation>
+        <translation>РАБДЕНЬ(нач_дата,число_дней,праздники)</translation>
     </message>
     <message>
         <source>Returns a date that represents a date that is the indicated number of working days before or after a date (the starting date). The weekend and the dates specified as holidays are not included in working days. Use WORKDAY function to exclude weekend or holidays when you calculate invoice due dates, expected delivery date or the number of days you worked.</source>
@@ -8377,7 +8666,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DCOUNT(database,field,criteria)</source>
         <comment>DCOUNT_SYNTAX</comment>
-        <translation>БСЧЁТ(база_данных,поле;условие)</translation>
+        <translation>БСЧЁТ(база_данных,поле,критерий)</translation>
     </message>
     <message>
         <source>Returns the number of cells containing numbers in the column of a list or database that matches the conditions you specify.</source>
@@ -8387,7 +8676,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DCOUNTA(database,field,criteria)</source>
         <comment>DCOUNTA_SYNTAX</comment>
-        <translation>БСЧЁТА(база_данных,поле,условие)</translation>
+        <translation>БСЧЁТА(база_данных,поле,критерий)</translation>
     </message>
     <message>
         <source>Returns the number of nonblank cells in the column of a list or database that matches the conditions you specify.</source>
@@ -8417,7 +8706,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DMAX(database,field,criteria)</source>
         <comment>DMAX_SYNTAX</comment>
-        <translation>ДМАКС(база_данных,поле,условие)</translation>
+        <translation>ДМАКС(база_данных,поле,критерий)</translation>
     </message>
     <message>
         <source>Returns the largest value in the column of a list or database that matches the conditions you specify.</source>
@@ -8427,7 +8716,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DMIN(database,field,criteria)</source>
         <comment>DMIN_SYNTAX</comment>
-        <translation>ДМИН(база_данных,поле,условие)</translation>
+        <translation>ДМИН(база_данных,поле,критерий)</translation>
     </message>
     <message>
         <source>Returns the smallest number in the column of a list or database that matches the conditions you specify.</source>
@@ -8437,7 +8726,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DPRODUCT(database,field,criteria)</source>
         <comment>DPRODUCT_SYNTAX</comment>
-        <translation>БДПРОИЗВЕД(база_данных,поле,условие)</translation>
+        <translation>БДПРОИЗВЕД(база_данных,поле,критерий)</translation>
     </message>
     <message>
         <source>Returns the product of the values in the column of a list or database that matches the conditions you specify.</source>
@@ -8447,7 +8736,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DSTDEV(database,field,criteria)</source>
         <comment>DSTDEV_SYNTAX</comment>
-        <translation>ДСТАНДОТКЛ(база_данных,поле,условие)</translation>
+        <translation>ДСТАНДОТКЛ(база_данных,поле,критерий)</translation>
     </message>
     <message>
         <source>Estimates the standard deviation of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
@@ -8457,7 +8746,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DSTDEVP(database,field,criteria)</source>
         <comment>DSTDEVP_SYNTAX</comment>
-        <translation>ДСТАНДОТКЛП(база_данных,поле,условие)</translation>
+        <translation>ДСТАНДОТКЛП(база_данных,поле,критерий)</translation>
     </message>
     <message>
         <source>Calculates the standard deviation of a population based on an entire population by using the numbers in the column of a list or database that matches the conditions you specify.</source>
@@ -8467,7 +8756,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DSUM(database,field,criteria)</source>
         <comment>DSUM_SYNTAX</comment>
-        <translation>БДСУММ(база_данных,поле,условие)</translation>
+        <translation>БДСУММ(база_данных,поле,критерий)</translation>
     </message>
     <message>
         <source>Returns the sum of the numbers in the column of a list or database that matches the conditions you specify.</source>
@@ -8477,7 +8766,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DVAR(database,field,criteria)</source>
         <comment>DVAR_SYNTAX</comment>
-        <translation>БДДИСП(база_данных,поле,условие)</translation>
+        <translation>БДДИСП(база_данных,поле,критерий)</translation>
     </message>
     <message>
         <source>Estimates the variance of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
@@ -8487,7 +8776,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DVARP(database,field,criteria)</source>
         <comment>DVARP_SYNTAX</comment>
-        <translation>БДДИСПП(база_данных,поле,условие)</translation>
+        <translation>БДДИСПП(база_данных,поле,критерий)</translation>
     </message>
     <message>
         <source>Calculate the variance of a population based on an entire population by using the numbers in the column of a list or database that matches the conditions you specify.</source>
@@ -8497,8 +8786,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LOGEST(known_y&apos;s,known_x&apos;s,const,stats)</source>
         <comment>LOGEST_SYNTAX</comment>
-        <translation>ЛГРФПРИБЛ(известные_y,известные_x,
-константа,статистика)</translation>
+        <translation>ЛГРФПРИБЛ(известные_значения_y,известные_значения_x,конст,статистика)</translation>
     </message>
     <message>
         <source>In regression analysis, calculate an exponential curve that fits the data most and return an array of values that describe the curve. Since the function returns an array of values, it must be entered as an array formula.</source>
@@ -8519,8 +8807,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ACCRINTM(issue,settlement,rate,par,basis)</source>
         <comment>ACCRINTM_SYNTAX</comment>
-        <translation>НАКОПДОХОДПОГАШ(выпуск,дата_расчета,
-ставка,номинал,базис)</translation>
+        <translation>НАКОПДОХОДПОГАШ(дата_выпуска,дата_согл,ставка,номинал,базис)</translation>
     </message>
     <message>
         <source>Returns the interests of the securities whose interests should be paid off once the time is due.</source>
@@ -8540,7 +8827,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>HYPERLINK(link_location, friendly_name)</source>
         <comment>HYPERLINK_SYNTAX</comment>
-        <translation>ГИПЕРССЫЛКА(адрес,понятное_имя)</translation>
+        <translation>ГИПЕРССЫЛКА(адрес,имя)</translation>
     </message>
     <message>
         <source>Creates a shortcut or jump that opens a document stored on a network server, Intranet or Internet.</source>
@@ -8550,8 +8837,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ACCRINT(issue,first_interest,settlement,rate,par,frequency,basis)</source>
         <comment>ACCRINT_SYNTAX</comment>
-        <translation>НАКОПДОХОД(выпуск,первый_доход,
-дата_расчета,ставка,номинал,частота,базис)</translation>
+        <translation>НАКОПДОХОД(дата_выпуска,первый_доход,дата_согл,ставка,номинал,частота,базис,способ_расчета)</translation>
     </message>
     <message>
         <source>Returns the accrued interest for a security that pays periodic interest.</source>
@@ -8566,7 +8852,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns information about the formatting, location, or contents of the first cell, according to the sheet&apos;s reading order, in a reference.</source>
         <comment>CELL_REMARK</comment>
-        <translation>Возвращает сведения о форматировании, положении и содержимом левой верхней ячейки по ссылке.</translation>
+        <translation>Возвращает сведения о форматировании, адресе или содержимом первой (согласно установленному для этого листа порядку чтения) ячейки ссылки.</translation>
     </message>
     <message>
         <source>EVALUATE(formula_text)</source>
@@ -8581,52 +8867,48 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SUMIFS(sum_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)</source>
         <comment>SUMIFS_SYNTAX</comment>
-        <translation>СУММЕСЛИМН(диап_суммирования,диап_условия1,
-условие1,диап_условия2,условие2,…)</translation>
+        <translation>СУММЕСЛИМН(диапазон_суммы, диапазон_условий1, условие1,[диапазон_условия2,условие2],...)</translation>
     </message>
     <message>
         <source>Adds the cells specified by a given set of conditions or criteria.</source>
         <comment>SUMIFS_DESCRIPTION</comment>
-        <translation>Суммирует ячейки в диапазоне, удовлетворяющие нескольким условиям.</translation>
+        <translation>Суммирует ячейки, заданные указанным условием.</translation>
     </message>
     <message>
         <source>COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2],…)</source>
         <comment>COUNTIFS_SYNTAX</comment>
-        <translation>СЧЁТЕСЛИМН(диапазон1,условие1,
-диапазон2,условие2,...)</translation>
+        <translation>СЧЁТЕСЛИМН(диапазон_условий1,условие1,[диапазон_условия2,условие2],...)</translation>
     </message>
     <message>
         <source>Counts the number of cells specified by a given set of conditions or criteria.</source>
         <comment>COUNTIFS_DESCRIPTION</comment>
-        <translation>Подсчитывает в диапазоне количество ячеек, удовлетворяющих нескольким условиям.</translation>
+        <translation>Подсчитывает количество ячеек, удовлетворяющих заданному набору условий.</translation>
     </message>
     <message>
         <source>AVERAGEIF(range,criteria,average_range)</source>
         <comment>AVERAGEIF_SYNTAX</comment>
-        <translation>СРЗНАЧЕСЛИ(диапазон,условие,
-диапазон_усреднения)</translation>
+        <translation>СРЗНАЧЕСЛИ(диапазон,условие,диапазон_усреднения)</translation>
     </message>
     <message>
         <source>Finds average (arithmetic mean) for the cells specified by a given condition or criteria.</source>
         <comment>AVERAGEIF_DESCRIPTION</comment>
-        <translation>Возвращает среднее значение (среднее арифметическое) всех ячеек в диапазоне, удовлетворяющих заданному условию.</translation>
+        <translation>Вычисляет среднее (арифметическое) для ячеек, заданных указанным условием.</translation>
     </message>
     <message>
         <source>AVERAGEIFS(average_range,criteria_range1,criteria1,criteria_range2,criteria2,…)</source>
         <comment>AVERAGEIFS_SYNTAX</comment>
-        <translation>СРЗНАЧЕСЛИМН(диап_усреднения,диап_условия1,
-условие1,диап_условия2,условие2,…)</translation>
+        <translation>СРЗНАЧЕСЛИМН(диапазон_усреднения,диапазон_условий1,
+условие1,диапазон_условий2,условие2,…)</translation>
     </message>
     <message>
         <source>Finds average (arithmetic mean) for the cells specified by a given set of conditions or criteria.</source>
         <comment>AVERAGEIFS_DESCRIPTION</comment>
-        <translation>Возвращает среднее значение (среднее арифметическое) всех ячеек, которые удовлетворяют нескольким условиям.</translation>
+        <translation>Вычисляет среднее (арифметическое) для ячеек, заданных указанным условием.</translation>
     </message>
     <message>
         <source>IFERROR(value,value_if_error)</source>
         <comment>IFERROR_SYNTAX</comment>
-        <translation>ЕСЛИОШИБКА(значение,
-значение_если_ошибка)</translation>
+        <translation>ЕСЛИОШИБКА(значение,значение_если_ошибка)</translation>
     </message>
     <message>
         <source>Returns the value you specify if the calculated result of the formula is an error and the calculated result otherwise.</source>
@@ -8641,8 +8923,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>PRICE(settlement,maturity,rate,yld,redemption,frequency,[basis])</source>
         <comment>PRICE_SYNTAX</comment>
-        <translation>ЦЕНА(дата_расчета,дата_погашения,ставка,
-доход,погашение,частота,базис)</translation>
+        <translation>ЦЕНА(дата_согл,дата_вступл_в_силу,ставка,доход,погашение,частота,[базис])</translation>
     </message>
     <message>
         <source>Returns the price per $100 face value of a security that pays periodic interest.</source>
@@ -8652,8 +8933,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>GETPIVOTDATA(data_field, pivot_table, field, item,…)</source>
         <comment>GETPIVOTDATA_SYNTAX</comment>
-        <translation>ПОЛУЧИТЬ.ДАННЫЕ.СВОДНОЙ.ТАБЛИЦЫ
-(поле_данных, сводная_таблица, поле, элем,...)</translation>
+        <translation>ПОЛУЧИТЬ.ДАННЫЕ.СВОДНОЙ.ТАБЛИЦЫ(поле_данных,сводная_таблица,поле,элемент,...)</translation>
     </message>
     <message>
         <source>Extract data stored in a PivotTable</source>
@@ -8673,41 +8953,37 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the cumulative interest paid between start_period and  end_period.</source>
         <comment>CUMIPMT_DESCRIPTION</comment>
-        <translation>Возвращает кумулятивную (нарастающим итогом) величину процентов, выплачиваемых по займу в промежутке между периодами, заданными нач_период и кон_период.</translation>
+        <translation>Возвращает кумулятивную (нарастающим итогом) величину процентов, выплачиваемых по займу в промежутке между двумя периодами выплат.</translation>
     </message>
     <message>
         <source>CUMIPMT(rate, nper, pv, start_period, end_period, type)</source>
         <comment>CUMIPMT_SYNTAX</comment>
-        <translation>ОБЩПЛАТ(ставка,кпер,пс,
-нач_период,кон_период,тип)</translation>
+        <translation>ОБЩПЛАТ(ставка,кол_пер,нз,нач_период,кон_период,тип)</translation>
     </message>
     <message>
         <source>Returns the cumulative principal paid on a loan between start_period and end_period.</source>
         <comment>CUMPRINC_DESCRIPTION</comment>
-        <translation>Возвращает кумулятивную (нарастающим итогом) сумму, выплачиваемую в погашение основной суммы займа в промежутке, заданном аргументами нач_период и кон_период.</translation>
+        <translation>Возвращает кумулятивную (нарастающим итогом) сумму, выплачиваемую в погашение основной суммы займа в промежутке между двумя периодами.</translation>
     </message>
     <message>
         <source>CUMPRINC(rate, nper, pv, start_period, end_period, type)</source>
         <comment>CUMPRINC_SYNTAX</comment>
-        <translation>ОБЩДОХОД(ставка;кпер;пс;
-нач_период;кон_период;тип)</translation>
+        <translation>ОБЩДОХОД(ставка,кол_пер,нз,нач_период,кон_период,тип)</translation>
     </message>
     <message>
         <source>AMORLINC(cost, date_purchased, first_period, salvage, period, rate, [basis])</source>
         <comment>AMORLINC_SYNTAX</comment>
-        <translation>АМОРУВ(нач_стоимость;дата_покупки;
-первый_период;ликв_стоимость;период;ставка; базис )</translation>
+        <translation>АМОРУВ(стоимость,дата_приобр,первый_период,остаточная_стоимость,период,ставка,[базис])</translation>
     </message>
     <message>
         <source>Returns the prorated linear depreciation of an asset for each accounting period.</source>
         <comment>AMORLINC_DESCRIPTION</comment>
-        <translation>Возвращает величину амортизации для каждого учетного периода. Эта функция предназначена для французской системы бухгалтерского учета.</translation>
+        <translation>Возвращает величину пропорционально распределенной амортизации актива для каждого учетного периода.</translation>
     </message>
     <message>
         <source>AMORDEGRC(cost, date_purchased, first_period, salvage, period, rate, [basis])</source>
         <comment>AMORDEGRC_SYNTAX</comment>
-        <translation>АМОРУМ(нач_стоимость;дата_приобр;
-первый_период;ликв_стоимость;период;ставка; базис )</translation>
+        <translation>АМОРУМ(стоимость,дата_приобр,первый_период,остаточная_стоимость,период,ставка,[базис])</translation>
     </message>
     <message>
         <source>Returns the depreciation for each settlement period.</source>
@@ -8732,7 +9008,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns information about the current operating environment</source>
         <comment>INFO_DESCRIPTION</comment>
-        <translation>Возвращает сведения о текущей операционной среде.</translation>
+        <translation>Возвращает сведения о текущей операционной среде</translation>
     </message>
     <message>
         <source>PHONETIC(reference)</source>
@@ -8782,14 +9058,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COUPDAYSNC(settlement, maturity, frequency, [basis])</source>
         <comment>COUPDAYSNC_SYNTAX</comment>
-        <translation>ДНЕЙКУПОНПОСЛЕ(дата_расчета;
-дата_погашения;частота; базис)</translation>
+        <translation>ДНЕЙКУПОНПОСЛЕ(дата_согл,дата_вступл_в_силу,частота,[базис])</translation>
     </message>
     <message>
         <source>COUPDAYBS(settlement, maturity, frequency, [basis])</source>
         <comment>COUPDAYBS_SYNTAX</comment>
-        <translation>ДНЕЙКУПОНДО(дата_расчета;
-дата_погашения;частота; базис)</translation>
+        <translation>ДНЕЙКУПОНДО(дата_согл,дата_вступл_в_силу,частота,[базис])</translation>
     </message>
     <message>
         <source>COUPDAYBS Returns the number of days from the beginning of the coupon periond to the settlement date.</source>
@@ -8804,12 +9078,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>XIRR(values, dates, [guess])</source>
         <comment>XIRR_SYNTAX</comment>
-        <translation>ЧИСТВНДОХ(значения;даты; предположение)</translation>
+        <translation>ЧИСТВНДОХ(значения,даты,[предп])</translation>
     </message>
     <message>
         <source>Returns the internal rate of return for a schedule of crash flows.</source>
         <comment>XIRR_DESCRIPTION</comment>
-        <translation>Возвращает внутреннюю ставку доходности для графика денежных потоков, которые не обязательно носят периодический характер.</translation>
+        <translation>Возвращает норму прибыли для последовательности денежных потоков.</translation>
     </message>
     <message>
         <source>Manual</source>
@@ -8829,22 +9103,22 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SMALL_NUMBERSTR</source>
         <comment>SMALL_NUMBERSTR</comment>
-        <translation></translation>
+        <translation>SMALL_NUMBERSTR</translation>
     </message>
     <message>
         <source>BIG_NUMBERSTR</source>
         <comment>BIG_NUMBERSTR</comment>
-        <translation></translation>
+        <translation>BIG_NUMBERSTR</translation>
     </message>
     <message>
         <source>SMALLUNIT_NUMBERSTR</source>
         <comment>SMALL_UNIT</comment>
-        <translation></translation>
+        <translation>SMALLUNIT_NUMBERSTR</translation>
     </message>
     <message>
         <source>BIGUNIT_NUMBERSTR</source>
         <comment>BIG_UNIT</comment>
-        <translation></translation>
+        <translation>BIGUNIT_NUMBERSTR</translation>
     </message>
     <message>
         <source>RTD(progID, server, topic1, [topic2], ...)</source>
@@ -8864,8 +9138,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ARGUMENT(name_text, data_type_num, reference)</source>
         <comment>ARGUMENT_SYNTAX</comment>
-        <translation>АРГУМЕНТ(строка_имени,номер_типа_данных,
-ссылка)</translation>
+        <translation>АРГУМЕНТ(строка_имени,номер_типа_данных,ссылка)</translation>
     </message>
     <message>
         <source>BREAK()</source>
@@ -8880,7 +9153,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ELSE.IF(logical_test)</source>
         <comment>ELSEIF_SYNTAX</comment>
-        <translation>КРОМЕ.ЕСЛИ(логич_проверка)</translation>
+        <translation>КРОМЕ.ЕСЛИ(лог_выражение)</translation>
     </message>
     <message>
         <source>END.IF()</source>
@@ -8895,8 +9168,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>FOR.CELL(ref_name, area_ref, skip_blanks)</source>
         <comment>FORCELL_SYNTAX</comment>
-        <translation>ДЛЯ.ЯЧЕЙКА(ссылка_на_имя,
-ссылка_на_область,проп_пустые)</translation>
+        <translation>ДЛЯ.ЯЧЕЙКА(ссылка_на_имя,ссылка_на_область,проп_пустые)</translation>
     </message>
     <message>
         <source>GOTO(reference)</source>
@@ -8936,7 +9208,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SET.NAME(name_text, value)</source>
         <comment>SETNAME_SYNTAX</comment>
-        <translation>УСТ.ИМЯ(имя_текст, значение)</translation>
+        <translation>УСТ.ИМЯ(текст_имени,значение)</translation>
     </message>
     <message>
         <source>SET.VALUE(reference, values)</source>
@@ -8956,7 +9228,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>WHILE(logical_test)</source>
         <comment>WHILE_SYNTAX</comment>
-        <translation>ПОКА(логич_проверка)</translation>
+        <translation>ПОКА(лог_выражение)</translation>
     </message>
     <message>
         <source>GET.NAME(name_text, info_type)</source>
@@ -8965,8 +9237,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>REGISTER(module_text, procedure, type_text, function_text,...)</source>
-        <translation>РЕГИСТРАЦИЯ(имя_модуля,процедура,
-название_типа,название_функции,...)</translation>
+        <translation>РЕГИСТРАЦИЯ(имя_модуля,процедура,название_типа,название_функции,...)</translation>
     </message>
     <message>
         <source>REGISTER.ID(module_text, procedure, type_text)</source>
@@ -9013,8 +9284,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DOCUMENTS(type_num, match_text)</source>
         <comment>DOCUMENTS_SYNTAX</comment>
-        <translation>ДОКУМЕНТЫ(ном_типа,
-сопоставл_текст)</translation>
+        <translation>ДОКУМЕНТЫ(ном_типа,сопоставл_текст)</translation>
     </message>
     <message>
         <source>GET.FORMULA(reference)</source>
@@ -9024,25 +9294,22 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>GET.NOTE(cell_ref, start_char, num_chars)</source>
         <comment>GETNOTE_SYNTAX</comment>
-        <translation>ИЗВЛЕЧЬ.ПРИМЕЧАНИЕ(ссылка_на_ячейку,
-нач_символ,число_литер)</translation>
+        <translation>ИЗВЛЕЧЬ.ПРИМЕЧАНИЕ(ссылка_на_ячейку,нач_символ,число_литер)</translation>
     </message>
     <message>
         <source>GET.WINDOW(type_num, window_text)</source>
         <comment>GETWINDOW_SYNTAX</comment>
-        <translation>ИЗВЛЕЧЬ.ОКНО(ном_типа,
-заголовок_окна)</translation>
+        <translation>ИЗВЛЕЧЬ.ОКНО(ном_типа,заголовок_окна)</translation>
     </message>
     <message>
         <source>WINDOWS(type_num, match_text)</source>
         <comment>WINDOWS_SYNTAX</comment>
-        <translation>ОКНА(номер_типа, сопоставл_текст)</translation>
+        <translation>ОКНА(ном_типа,сопоставл_текст)</translation>
     </message>
     <message>
         <source>FORMULA.CONVERT(formula_text, from_a1, to_a1, to_ref_type, rel_to_ref)</source>
         <comment>FORMULACONVERT_SYNTAX</comment>
-        <translation>ФОРМУЛА.ПРЕОБРАЗОВАТЬ(текст_формулы,
-из_а1,к_а1,к_ссыл_тип,ссылка_на_ссылку)</translation>
+        <translation>ФОРМУЛА.ПРЕОБРАЗОВАТЬ(текст_формулы,из_а1,к_а1,к_ссыл_тип,ссылка_на_ссылку)</translation>
     </message>
     <message>
         <source>TEXTREF(text, a1)</source>
@@ -9057,8 +9324,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>GET.BAR(bar_num, menu, command, subcommand)</source>
         <comment>GETBAR_SYNTAX</comment>
-        <translation>ИЗВЛЕЧЬ.СТРОКУ.МЕНЮ(номер_меню,
-меню,команда,подкоманда)</translation>
+        <translation>ИЗВЛЕЧЬ.СТРОКУ.МЕНЮ(номер_меню,меню,команда,подкоманда)</translation>
     </message>
     <message>
         <source>ADD.BAR(bar_num)</source>
@@ -9068,14 +9334,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ADD.MENU(bar_num, menu_ref, position1, position2)</source>
         <comment>ADDMENU_SYNTAX</comment>
-        <translation>ДОБАВИТЬ.СТРОКУ.МЕНЮ(номер_меню,
-ссылка_на_меню,положение1,положение2)</translation>
+        <translation>ДОБАВИТЬ.СТРОКУ.МЕНЮ(номер_меню,ссылка_на_меню,положение1,положение2)</translation>
     </message>
     <message>
         <source>DELETE.MENU(bar_num, menu, submenu)</source>
         <comment>DELETEMENU_SYNTAX</comment>
-        <translation>УДАЛИТЬ.МЕНЮ(номер_меню,
-меню,подменю)</translation>
+        <translation>УДАЛИТЬ.МЕНЮ(номер_меню,меню,подменю)</translation>
     </message>
     <message>
         <source>GET.TOOLBAR(type_num, bar_id)</source>
@@ -9086,8 +9350,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ALERT(message_text, type_num, help_ref)</source>
         <comment>ALERT_SYNTAX</comment>
-        <translation>ОПОВЕЩЕНИЕ(текст_сообщения,
-ном_типа,ссылка_на_справку)</translation>
+        <translation>ОПОВЕЩЕНИЕ(текст_сообщения,ном_типа,ссылка_на_справку)</translation>
     </message>
     <message>
         <source>CALLER()</source>
@@ -9102,8 +9365,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>NEW(type_num, xy_series, add_logical)</source>
         <comment>NEW_SYNTAX</comment>
-        <translation>СОЗДАТЬ(ном_типа,xy_ряды,
-добавить_логич)</translation>
+        <translation>СОЗДАТЬ(ном_типа,xy_ряды,добавить_логич)</translation>
     </message>
     <message>
         <source>CALCULATE.NOW()</source>
@@ -9118,8 +9380,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ON.DATA(document_text, macro_text)</source>
         <comment>ONDATA_SYNTAX</comment>
-        <translation>ПО.ДАННЫМ(имя_документа,
-текст_макро)</translation>
+        <translation>ПО.ДАННЫМ(имя_документа,текст_макро)</translation>
     </message>
     <message>
         <source>ON.DOUBLECLICK(sheet_text, macro_text)</source>
@@ -9146,8 +9407,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ON.SHEET(sheet_text, macro_text, activate_logical)</source>
         <comment>ONSHEET_SYNTAX</comment>
-        <translation>ПО.ЛИСТУ(текст_листа,
-макрос_текст,флаг_активации)</translation>
+        <translation>ПО.ЛИСТУ(текст_листа,макрос_текст,флаг_активации)</translation>
     </message>
     <message>
         <source>ON.TIME(time, macro_text, tolerance, insert_logical)</source>
@@ -9245,12 +9505,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list.</source>
         <comment>RANK_REMARK</comment>
-        <translation>Возвращает ранг числа в списке чисел: его порядковый номер относительно других чисел в списке.</translation>
+        <translation>Возвращает ранг числа в списке чисел, его размер относительно других значений в списке.</translation>
     </message>
     <message>
         <source>RANK.AVG(number,ref,order)</source>
         <comment>RANKAVG_GRAMMER</comment>
-        <translation>РАНГ.СР(число,ссылка,порядок)</translation>
+        <translation>RANK.AVG (число, ссылка, порядок)</translation>
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the average rank is returned.</source>
@@ -9260,7 +9520,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RANK.EQ(number,ref,order)</source>
         <comment>RANKEQ_GRAMMER</comment>
-        <translation>РАНГ.РВ(число,ссылка,порядок)</translation>
+        <translation>RANK.EQ (число, ссылка, порядок)</translation>
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the top rank of that set of values is returned.</source>
@@ -9270,67 +9530,137 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</source>
         <comment>VOLATILE_SYNTAX</comment>
-        <translation>ДОХОД(дата_согл; дата_вступл_в_силу; 
+        <translation type="obsolete">ДОХОД(дата_согл; дата_вступл_в_силу; 
 ставка, цена; погашение; частота; [базис])</translation>
     </message>
     <message>
         <source>Returns the yields of regular payment securities.</source>
         <comment>VOLATILE_SYNTAX</comment>
-        <translation>Возвращает доходность ценных бумаг, по которым производятся периодические выплаты процентов.</translation>
+        <translation type="obsolete">Возвращает доходность ценных бумаг, по которым производятся периодические выплаты процентов.</translation>
     </message>
     <message>
         <source>FILES(directory_text)</source>
         <comment>FILES_SYNTAX</comment>
-        <translation>ФАЙЛЫ(имя_каталога)</translation>
+        <translation>FILES (имя_каталога)</translation>
     </message>
     <message>
         <source>Returns the sum of the squares of all the arguments. The arguments may be varied as numbers, arrays, names or references to cells which contain numbers.</source>
         <comment>SUMSQ_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Возвращает сумму квадратов аргументов. Аргументы могут быть числами, массивами, именами или ссылками на ячейки, содержащие числа.</translation>
     </message>
     <message>
         <source>Returns the inverse of the standard normal cumulative distribution function with a mean of zero and a standard deviation of one.</source>
         <comment>NORMSINV_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Возвращает обратное значение стандартного нормального интегрального распределения. Это распределение имеет среднее, равное нулю, и стандартное отклонение, равное единице.</translation>
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers: its size relative to other values in the list; if more than one value has the same rank, the average rank is returned.</source>
         <comment>RANKAVG_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Возвращает ранг числа в списке чисел: его размер относительно других значений в списке. Если одинаковый ранг имеют несколько значений, возвращается средний ранг.</translation>
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers: its size relative to other values in the list; if more than one value has the same rank, the top rank of that set of values is returned.</source>
         <comment>RANKEQ_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Возвращает ранг числа в списке чисел: его размер относительно других значений в списке. Если одинаковый ранг имеют несколько значений, возвращается высший ранг для набора значений.</translation>
     </message>
     <message>
         <source>Returns the first-found location of the specified character or string within a text string, reading from left to right (not case-sensitive).</source>
         <comment>SEARCH_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Возвращает позицию первого вхождения знака или текстовой строки при поиске слева направо, начиная с позиции нач_позиция (без учёта регистра).</translation>
     </message>
     <message>
         <source>Returns the number of characters in the text. Use with double-byte characters(DBCS).</source>
         <comment>LENB_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Возвращает количество символов в тексте. Используется с двубайтными символами (DBCS).</translation>
     </message>
     <message>
         <source>Returns the first-found location of the specified character or string within a text string, reading from left to right (not case-sensitive). Use with double-byte character set(DBCS).</source>
         <comment>SEARCHB_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Возвращает позицию первого вхождения знака или текстовой строки при поиске слева направо, начиная с позиции нач_позиция (без учёта регистра). Используется с двубайтными символами (DBCS).</translation>
     </message>
     <message>
         <source>COUPDAYBS Returns the number of days from the beginning of the coupon period to the settlement date.</source>
         <comment>COUPDAYBS_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Возвращает количество дней от начала периода купона до даты расчета.</translation>
     </message>
     <message>
         <source>FORMULA.FIND(text, in_num, at_num, by_num, dir_num, match_case)</source>
         <comment>FORMULAFIND_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>FORMULA.FIND(текст,в_число,на_число,по_число,каталог_число,с_регистром)</translation>
     </message>
     <message>
         <source>CALCULATION(type_num, iter, max_num, max_change, update, precision, date_1904, calc_save, save_values, alt_exp, alt_form)</source>
         <comment>CALCULATION_SYNTAX</comment>
+        <translation>CALCULATION(ном_типа,итерация,макс_номер,макс_изм,обновить,точность,дата_1904,сохр_вычисл,сохр_значение,альтернативное_выражение,альтернативная_форма)</translation>
+    </message>
+    <message>
+        <source>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</source>
+        <comment>YIELD_SYNTAX</comment>
+        <translation>YIELD (погашение, срок, ставка, pr, выплата, частота, [база])</translation>
+    </message>
+    <message>
+        <source>Returns the yields of regular payment securities.</source>
+        <comment>YIELD_DESCRIPTION</comment>
+        <translation>Возвращает значение дохода для ценных бумаг с регулярными платежами.</translation>
+    </message>
+    <message>
+        <source>DIALOGBOX(dialog_ref)</source>
+        <comment>DIALOGBOX_SYNTAX</comment>
+        <translation>DIALOGBOX(dialog_ref)</translation>
+    </message>
+    <message>
+        <source>WORKBOOKINSERT(type_num)</source>
+        <comment>WORKBOOKINSERT_SYNTAX</comment>
+        <translation>WORKBOOKINSERT(type_num)</translation>
+    </message>
+    <message>
+        <source>SELECTION()</source>
+        <comment>SELECTION_SYNTAX</comment>
+        <translation>SELECTION()</translation>
+    </message>
+    <message>
+        <source>NAMES(document_text, type_num, match_text)</source>
+        <comment>NAMES_SYNTAX</comment>
+        <translation>NAMES(document_text, type_num, match_text)</translation>
+    </message>
+    <message>
+        <source>GET.OBJECT(type_num, object_id_text, start_num, count_num, item_index)</source>
+        <comment>GETOBJECT_SYNTAX</comment>
+        <translation>GET.OBJECT(type_num, object_id_text, start_num, count_num, item_index)</translation>
+    </message>
+    <message>
+        <source>Options.Lists.Get(list_num)</source>
+        <comment>OPTIONSLISTSGET_SYNTAX</comment>
+        <translation>Options.Lists.Get(list_num)</translation>
+    </message>
+    <message>
+        <source>DEREF(reference)</source>
+        <comment>DEREF_SYNTAX</comment>
+        <translation>DEREF(reference)</translation>
+    </message>
+    <message>
+        <source>ABSREF(ref_text, reference)</source>
+        <comment>ABSREF_SYNTAX</comment>
+        <translation>ABSREF(ref_text, reference)</translation>
+    </message>
+    <message>
+        <source>RELREF(reference, rel_to_ref)</source>
+        <comment>RELREF_SYNTAX</comment>
+        <translation>RELREF(reference, rel_to_ref)</translation>
+    </message>
+    <message>
+        <source>SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</source>
+        <comment>SPELLINGCHECK_SYNTAX</comment>
+        <translation>SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</translation>
+    </message>
+    <message>
+        <source>XNPV(rate, values, dates)</source>
+        <comment>XNPV_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the net present value for a schedule of crash flows.</source>
+        <comment>XNPV_DESCRIPTION</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9339,7 +9669,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Microsoft Excel Workbook(*.xls; *.xlt)</source>
         <comment>TX_ssDesc_AllXls_</comment>
-        <translation></translation>
+        <translation>Книга Microsoft Excel (*.xls; *.xlt)</translation>
     </message>
     <message>
         <source>Text Files(*.prn; *.txt; *.csv)</source>
@@ -9422,10 +9752,10 @@ Notice: if the second operand queries the number as text, single quotes should b
 ·To save only the active sheet, click OK. 
 ·To save all sheets, save them individually using a different file name for each, or choose a file type that supports multiple sheets.</source>
         <comment>TX_Save_Txt_Wanging</comment>
-        <translation>Выбранный тип файла не поддерживает книги, содержащие несколько листов.
+        <translation>В файле выбранного типа может быть сохранен только текущий лист..
 
-• если вы хотите сохранить только выделенный лист, нажмите кнопку &quot;ОК&quot;;
-• если вы хотите сохранить все листы, сохраните их по отдельности, присвоив им разные имена, или выберите тип файла, который поддерживает книги, содержащие несколько листов.</translation>
+• Чтобы сохранить текущий лист, нажмите кнопку &apos;&apos;ОК&apos;&apos;.
+• Чтобы сохранить все листы, сохраняйте их в разных файлах или выберите тип файла, поддерживающий несколько страниц.</translation>
     </message>
     <message>
         <source>The file you are trying to save may contain features that are not compatible with current file format. Do you want to keep the workbook in this format?
@@ -9513,12 +9843,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>The worksheet you are trying to save is password-protected, which can not be saved as XML Spreadsheets.If you must save it as XML Spreadsheets, please delete the password first.</source>
         <comment>TX_Save_Xml_Warning_BookProt</comment>
-        <translation>Лист в книге, которую вы пытаетесь сохранить, защищён паролем. Листы, защищённые паролем, не могут быть сохранены в таблице XML. Чтобы сохранить файл как таблицу XML, необходимо сначала удалить пароль.</translation>
+        <translation>Лист в книге, которую вы пытаетесь сохранить, защищен паролем. Листы, защищенные паролем, не могут быть сохранены в таблице XML. Чтобы сохранить файл как таблицу XML, необходимо сначала удалить пароль.</translation>
     </message>
     <message>
         <source>There is a password-protected worksheet in the workbook you are trying to save, which can not be saved as XML Spreadsheets. If you must save it as XML Spreadsheets, please delete the password first.</source>
         <comment>TX_Save_Xml_Warning_SheetProt</comment>
-        <translation>Лист в книге, которую вы пытаетесь сохранить, защищён паролем. Листы, защищённые паролем, не могут быть сохранены в таблице XML. Чтобы сохранить файл как таблицу XML, необходимо сначала удалить пароль.</translation>
+        <translation>Лист в книге, которую вы пытаетесь сохранить, защищен паролем. Листы, защищенные паролем, не могут быть сохранены в таблице XML. Чтобы сохранить файл как таблицу XML, необходимо сначала удалить пароль.</translation>
     </message>
     <message>
         <source> · Refer to external sheet
@@ -9545,12 +9875,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>The worksheet you are trying to save is password-protected, which can not be saved as HTML Spreadsheets.If you must save it as HTML Spreadsheets, please delete the password first.</source>
         <comment>TX_Save_Html_Warning_BookProt</comment>
-        <translation>Лист в книге, которую вы пытаетесь сохранить, защищён паролем. Листы, защищённые паролем, не могут быть сохранены в таблице HTML. Чтобы сохранить файл как таблицу HTML, необходимо сначала удалить пароль.</translation>
+        <translation>Лист в книге, которую вы пытаетесь сохранить, защищен паролем. Листы, защищенные паролем, не могут быть сохранены в таблице HTML. Чтобы сохранить файл как таблицу HTML, необходимо сначала удалить пароль.</translation>
     </message>
     <message>
         <source>There is a password-protected worksheet in the workbook you are trying to save, which can not be saved as HTML Spreadsheets. If you must save it as HTML Spreadsheets, please delete the password first.</source>
         <comment>TX_Save_Html_Warning_SheetProt</comment>
-        <translation>Лист в книге, которую вы пытаетесь сохранить, защищён паролем. Листы, защищённые паролем, не могут быть сохранены в таблице HTML. Чтобы сохранить файл как таблицу HTML, необходимо сначала удалить пароль.</translation>
+        <translation>Лист в книге, которую вы пытаетесь сохранить, защищен паролем. Листы, защищенные паролем, не могут быть сохранены в таблице HTML. Чтобы сохранить файл как таблицу HTML, необходимо сначала удалить пароль.</translation>
     </message>
     <message>
         <source> · File Encryption
@@ -9703,7 +10033,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>Query Files(*.iqy)</source>
         <comment>TX_ssDesc_Iqy_</comment>
-        <translation>Файлы запросов(*.iqy)</translation>
+        <translation>Файлы запроса (*.iqy)</translation>
     </message>
     <message>
         <source>Access Databases(*.mdb;*.accdb)</source>
@@ -9748,13 +10078,14 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm)</source>
         <comment>TX_ssDesc_Normal_</comment>
-        <translation>Общие файлы(*.et; *.ett; *.xls; *.xlt; *.xlsx, *.xlsm)</translation>
+        <translation type="obsolete">Общие файлы (*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm)</translation>
     </message>
     <message>
         <source>The following features cannot be saved in macro-disabled workbooks:
 </source>
         <comment>TX_Save_Xlsx_Warning_1</comment>
-        <translation type="obsolete">Следующие возможности книги не будут сохранены в электронных таблицах, не поддерживающих макросы:</translation>
+        <translation type="obsolete">Следующие функции нельзя сохранить в книгах с отключенными макросами:
+</translation>
     </message>
     <message>
         <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
@@ -9767,19 +10098,22 @@ To continue saving as a macro-disabled workbook, click Yes.</source>
         <source> · VB project
 </source>
         <comment>TX_Save_Xlsx_Warning_VBA</comment>
-        <translation> · Проект VB</translation>
+        <translation> · проект VB;
+</translation>
     </message>
     <message>
         <source> · Excel 4.0 function stored in defined names.
 </source>
         <comment>TX_Save_Xlsx_Warning_MacroNames</comment>
-        <translation> · Функция Excel 4.0, сохраненная в определенных именах.</translation>
+        <translation> · функция Excel 4.0, сохраненная в определенных именах;
+</translation>
     </message>
     <message>
         <source> · Excel 4.0 Macro Sheets(these will be converted to normal worksheets)
 </source>
         <comment>TX_Save_Xlsx_Warning_MacroSheet</comment>
-        <translation> · Листы макросов Excel 4.0 будут преобразованы в обычные листы</translation>
+        <translation> · листы Excel 4.0 с макросами (будут преобразованы в обычные листы).
+</translation>
     </message>
     <message>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
@@ -9791,7 +10125,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Chinese Office Document Format 2.0(*.uos)</source>
         <comment>TX_ssDesc_Uof2_</comment>
-        <translation>Формат документа програмы китайского Office(*.uos)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The author supports opening &quot;%s&quot; with read-only way unless you need to modify.Do open with read-only mode?</source>
@@ -9801,23 +10135,56 @@ This backup will be saved to(%s)</source>
     <message>
         <source>The following features cannot be saved in macro-free workbooks:</source>
         <comment>TX_Save_Xlsx_Warning_1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Следующие функции нельзя сохранить в книгах с отключенными макросами:
+</translation>
     </message>
     <message>
         <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
 To continue saving as a macro-free workbook, click Yes.</source>
         <comment>TX_Save_Xlsx_Warning_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Чтобы сохранить файл со всеми компонентами, нажмите кнопку &quot;Нет&quot;, а затем в списке &quot;Тип файла&quot; выберите тип файла с поддержкой макросов.
+Чтобы продолжить сохранение книги в формате без поддержки макросов, нажмите кнопку &quot;Да&quot;.</translation>
     </message>
     <message>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
 This backup will be saved to (%s)</source>
         <comment>TX_Persist_MsgBackupToDef</comment>
-        <translation type="unfinished"></translation>
+        <translation>Во время резервного копирования произошли ошибки. У вас нет разрешений на запись в каталог резервных копий, в который нужно разместить файлы. Выберите другой каталог резервных копий.
+Резервные копии будут сохранены в папку (%s).</translation>
     </message>
     <message>
         <source>The author would like you to open &quot;%s&quot; as read-only unless you need to make changes. Open as read-only?</source>
         <comment>TX_Recommended_Read_Only</comment>
+        <translation>Автор советует открывать файл &quot;%s&quot; только для чтения, если вносить изменения не требуется. Вы хотите открыть файл только для чтения?</translation>
+    </message>
+    <message>
+        <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list. To continue saving as a macro-free workbook, click Yes.</source>
+        <comment>TX_Save_Xlsx_Warning_2</comment>
+        <translation type="obsolete">Чтобы сохранить файл с этими функциями, нажмите «Нет», а затем в списке типов файлов выберите тип с включенными макросами. Чтобы продолжить и сохранить книгу без макросов, нажмите «Да».</translation>
+    </message>
+    <message>
+        <source>File Unsaved</source>
+        <comment>TX_FILE_UNSAVED</comment>
+        <translation>Файл не сохранен</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm)</source>
+        <comment>TX_ssDesc_Normal_</comment>
+        <translation>Общие файлы (*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm)</translation>
+    </message>
+    <message>
+        <source>Excel2007 XML Template Macro Enabled(*.xltx)</source>
+        <comment>TX_ssDesc_XLTX</comment>
+        <translation>Шаблоны Excel (*.xltx)</translation>
+    </message>
+    <message>
+        <source>Excel2007 XML Template(*.xltm)</source>
+        <comment>TX_ssDesc_XLTM</comment>
+        <translation>Шаблон Excel с поддержкой макросов (*.xltm)</translation>
+    </message>
+    <message>
+        <source>OFD Format(*.ofd)|*.ofd</source>
+        <comment>TX_ssDesc_Ofd_</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9841,7 +10208,7 @@ This backup will be saved to (%s)</source>
     <message>
         <source>〈《「『【〔〖（｛［{[(&lt;、。…〉》」』】〕〗）｝］}])&gt;ー←↑→↓</source>
         <comment>TX_ROTARCHAR</comment>
-        <translation></translation>
+        <translation>〈《「『【〔〖（｛［{[(&lt;、。…〉》」』】〕〗）｝］}])&gt;ー←↑→↓</translation>
     </message>
     <message>
         <source>
@@ -9866,12 +10233,12 @@ This backup will be saved to (%s)</source>
     <message>
         <source>/</source>
         <comment>TX_DateSeparator</comment>
-        <translation></translation>
+        <translation>/</translation>
     </message>
     <message>
         <source>Preview</source>
         <comment>TX_Preview_Format</comment>
-        <translation></translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <source>No Format Set</source>
@@ -9884,42 +10251,42 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Normal</source>
         <comment>TX_StyleName_Normal</comment>
-        <translation>Обычный</translation>
+        <translation type="obsolete">Обычный</translation>
     </message>
     <message>
         <source>Comma</source>
         <comment>TX_StyleName_COMMA</comment>
-        <translation>Числовой</translation>
+        <translation type="obsolete">Числовой</translation>
     </message>
     <message>
         <source>Currency</source>
         <comment>TX_StyleName_CURRENCY</comment>
-        <translation>Денежный</translation>
+        <translation type="obsolete">Денежный</translation>
     </message>
     <message>
         <source>Percent</source>
         <comment>TX_StyleName_PERCENT</comment>
-        <translation>Процентный</translation>
+        <translation type="obsolete">Процентный</translation>
     </message>
     <message>
         <source>Comma[0]</source>
         <comment>TX_StyleName_COMMA0</comment>
-        <translation>Числовой[0]</translation>
+        <translation type="obsolete">Числовой[0]</translation>
     </message>
     <message>
         <source>Currency[0]</source>
         <comment>TX_StyleName_CURRENCY0</comment>
-        <translation>Денежный[0]</translation>
+        <translation type="obsolete">Денежный[0]</translation>
     </message>
     <message>
         <source>Hyperlink</source>
         <comment>TX_StyleName_HYPERLINK</comment>
-        <translation>Гиперссылка</translation>
+        <translation type="obsolete">Гиперссылка</translation>
     </message>
     <message>
         <source>Followed Hyperlink</source>
         <comment>TX_StyleName_FOLLOWED_HYPERLINK</comment>
-        <translation>Открывавшаяся гиперссылка</translation>
+        <translation type="obsolete">Открывавшаяся гиперссылка</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -10026,13 +10393,268 @@ This backup will be saved to (%s)</source>
         <comment>TX_FontName_Bold5</comment>
         <translation>Полужирный</translation>
     </message>
+    <message>
+        <source>Normal</source>
+        <comment>STR_STYLE_Normal</comment>
+        <translation>Обычный</translation>
+    </message>
+    <message>
+        <source>Comma</source>
+        <comment>STR_STYLE_COMMA</comment>
+        <translation>Запятая</translation>
+    </message>
+    <message>
+        <source>Currency</source>
+        <comment>STR_STYLE_CURRENCY</comment>
+        <translation>Денежный</translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <comment>STR_STYLE_PERCENT</comment>
+        <translation>Процент</translation>
+    </message>
+    <message>
+        <source>Comma[0]</source>
+        <comment>STR_STYLE_COMMA0</comment>
+        <translation>Запятая[0]</translation>
+    </message>
+    <message>
+        <source>Currency[0]</source>
+        <comment>STR_STYLE_CURRENCY0</comment>
+        <translation>Денежный[0]</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <comment>STR_STYLE_HYPERLINK</comment>
+        <translation>Гиперссылка</translation>
+    </message>
+    <message>
+        <source>Followed Hyperlink</source>
+        <comment>STR_STYLE_FOLLOWED_HYPERLINK</comment>
+        <translation>Открывавшаяся гиперссылка</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <comment>STR_STYLE_NOTE</comment>
+        <translation>Примечание</translation>
+    </message>
+    <message>
+        <source>Warning Text</source>
+        <comment>STR_STYLE_WARNING_TEXT</comment>
+        <translation>Предупреждающий текст</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>STR_STYLE_TITLE</comment>
+        <translation>Заголовок</translation>
+    </message>
+    <message>
+        <source>Heading 1</source>
+        <comment>STR_STYLE_HEADING_1</comment>
+        <translation>Заголовок 1</translation>
+    </message>
+    <message>
+        <source>Heading 2</source>
+        <comment>STR_STYLE_HEADING_2</comment>
+        <translation>Заголовок 2</translation>
+    </message>
+    <message>
+        <source>Heading 3</source>
+        <comment>STR_STYLE_HEADING_3</comment>
+        <translation>Заголовок 3</translation>
+    </message>
+    <message>
+        <source>Heading 4</source>
+        <comment>STR_STYLE_HEADING_4</comment>
+        <translation>Заголовок 4</translation>
+    </message>
+    <message>
+        <source>Input</source>
+        <comment>STR_STYLE_INPUT</comment>
+        <translation>Ввод</translation>
+    </message>
+    <message>
+        <source>Output</source>
+        <comment>STR_STYLE_OUTPUT</comment>
+        <translation>Вывод</translation>
+    </message>
+    <message>
+        <source>Calculation</source>
+        <comment>STR_STYLE_CALCULATION</comment>
+        <translation>Вычисление</translation>
+    </message>
+    <message>
+        <source>Check Cell</source>
+        <comment>STR_STYLE_CHECK_CELL</comment>
+        <translation>Проверить ячейку</translation>
+    </message>
+    <message>
+        <source>Linked Cell</source>
+        <comment>STR_STYLE_LINKED_CELL</comment>
+        <translation>Связанная ячейка</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>STR_STYLE_TOTAL</comment>
+        <translation>Итого</translation>
+    </message>
+    <message>
+        <source>Good</source>
+        <comment>STR_STYLE_GOOD</comment>
+        <translation>Хороший</translation>
+    </message>
+    <message>
+        <source>Bad</source>
+        <comment>STR_STYLE_BAD</comment>
+        <translation>Плохой</translation>
+    </message>
+    <message>
+        <source>Neutral</source>
+        <comment>STR_STYLE_NEUTRAL</comment>
+        <translation>Нейтральный</translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <comment>STR_STYLE_ACCENT1</comment>
+        <translation>Акцент1</translation>
+    </message>
+    <message>
+        <source>20% - Accent1</source>
+        <comment>STR_STYLE_20P_ACCENT_1</comment>
+        <translation>20% — Акцент1</translation>
+    </message>
+    <message>
+        <source>40% - Accent1</source>
+        <comment>STR_STYLE_40P_ACCENT_1</comment>
+        <translation>40% — Акцент1</translation>
+    </message>
+    <message>
+        <source>60% - Accent1</source>
+        <comment>STR_STYLE_60P_ACCENT_1</comment>
+        <translation>60% — Акцент1</translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <comment>STR_STYLE_ACCENT2</comment>
+        <translation>Акцент2</translation>
+    </message>
+    <message>
+        <source>20% - Accent2</source>
+        <comment>STR_STYLE_20P_ACCENT_2</comment>
+        <translation>20% — Акцент2</translation>
+    </message>
+    <message>
+        <source>40% - Accent2</source>
+        <comment>STR_STYLE_40P_ACCENT_2</comment>
+        <translation>40% — Акцент2</translation>
+    </message>
+    <message>
+        <source>60% - Accent2</source>
+        <comment>STR_STYLE_60P_ACCENT_2</comment>
+        <translation>60% — Акцент2</translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <comment>STR_STYLE_ACCENT3</comment>
+        <translation>Акцент3</translation>
+    </message>
+    <message>
+        <source>20% - Accent3</source>
+        <comment>STR_STYLE_20P_ACCENT_3</comment>
+        <translation>20% — Акцент3</translation>
+    </message>
+    <message>
+        <source>40% - Accent3</source>
+        <comment>STR_STYLE_40P_ACCENT_3</comment>
+        <translation>40% — Акцент3</translation>
+    </message>
+    <message>
+        <source>60% - Accent3</source>
+        <comment>STR_STYLE_60P_ACCENT_3</comment>
+        <translation>60% — Акцент3</translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <comment>STR_STYLE_ACCENT4</comment>
+        <translation>Акцент4</translation>
+    </message>
+    <message>
+        <source>20% - Accent4</source>
+        <comment>STR_STYLE_20P_ACCENT_4</comment>
+        <translation>20% — Акцент4</translation>
+    </message>
+    <message>
+        <source>40% - Accent4</source>
+        <comment>STR_STYLE_40P_ACCENT_4</comment>
+        <translation>40% — Акцент4</translation>
+    </message>
+    <message>
+        <source>60% - Accent4</source>
+        <comment>STR_STYLE_60P_ACCENT_4</comment>
+        <translation>60% — Акцент4</translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <comment>STR_STYLE_ACCENT5</comment>
+        <translation>Акцент5</translation>
+    </message>
+    <message>
+        <source>20% - Accent5</source>
+        <comment>STR_STYLE_20P_ACCENT_5</comment>
+        <translation>20% — Акцент5</translation>
+    </message>
+    <message>
+        <source>40% - Accent5</source>
+        <comment>STR_STYLE_40P_ACCENT_5</comment>
+        <translation>40% — Акцент5</translation>
+    </message>
+    <message>
+        <source>60% - Accent5</source>
+        <comment>STR_STYLE_60P_ACCENT_5</comment>
+        <translation>60% — Акцент5</translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <comment>STR_STYLE_ACCENT6</comment>
+        <translation>Акцент6</translation>
+    </message>
+    <message>
+        <source>20% - Accent6</source>
+        <comment>STR_STYLE_20P_ACCENT_6</comment>
+        <translation>20% — Акцент6</translation>
+    </message>
+    <message>
+        <source>40% - Accent6</source>
+        <comment>STR_STYLE_40P_ACCENT_6</comment>
+        <translation>40% — Акцент6</translation>
+    </message>
+    <message>
+        <source>60% - Accent6</source>
+        <comment>STR_STYLE_60P_ACCENT_6</comment>
+        <translation>60% — Акцент6</translation>
+    </message>
+    <message>
+        <source>CExplanatory Text</source>
+        <comment>STR_STYLE_EXPLANATORY_TEXT</comment>
+        <translation>Пояснительный текст</translation>
+    </message>
+    <message>
+        <source>RowLevel</source>
+        <comment>STR_STYLE_ROWLEVEL</comment>
+        <translation>Уровень строки</translation>
+    </message>
+    <message>
+        <source>ColLevel</source>
+        <comment>STR_STYLE_COLLEVEL</comment>
+        <translation>Уровень столбца</translation>
+    </message>
 </context>
 <context>
     <name>et_et_uil</name>
     <message>
         <source>This command cannot be used on multiple selections.</source>
         <comment>TX_DESC_CopyPaste_MultiRange_ET</comment>
-        <translation>Эта команда не может быть использована на нескольких выделенных фрагментах.</translation>
+        <translation>Данная команда неприменима для несвязных диапазонов.</translation>
     </message>
     <message>
         <source>The information cannot be pasted because the copy area and the paste area are not the same size and shape. Try one of the following: 
@@ -10063,7 +10685,7 @@ There are several possible reasons:
     <message>
         <source>The command could not be completed by using the range specified. Select a single cell within the range and try the command again.</source>
         <comment>TX_DESC_Sort_singleCell_ET</comment>
-        <translation>Команда не может быть завершена с указанным диапазоном. Выберите одну ячейку в диапазоне, и повторите команду.</translation>
+        <translation>Команда не может быть выполнена над указанным диапазоном. Выберите одну ячейку из диапазона и повторите попытку.</translation>
     </message>
     <message>
         <source>The sheet(s) you are deleting is not empty. If you want to delete the data permanently, please click OK or press Enter on the keyboard.</source>
@@ -10073,7 +10695,7 @@ There are several possible reasons:
     <message>
         <source>Font size must be between 1 and 409 points.</source>
         <comment>TX_FontSize_Invalid_ET</comment>
-        <translation>Размер шрифта должен быть в диапазоне между 1 и 409 пунктов.</translation>
+        <translation>Размер шрифта должен быть в интервале от 1 до 409 пунктов.</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -10093,7 +10715,7 @@ There are several possible reasons:
     <message>
         <source>This command cannot be used on multiple selections.</source>
         <comment>TX_Noncontinue_Selected_Sheets_Cannot_Insert_Sheet</comment>
-        <translation>Эта команда не может быть использована на нескольких выделенных фрагментах.</translation>
+        <translation>Данная команда неприменима для несвязных диапазонов.</translation>
     </message>
     <message>
         <source>Number format is too long.</source>
@@ -10208,7 +10830,7 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>Click to follow the link.</source>
         <comment>TX_Hyperlink_Tip</comment>
-        <translation>Щёлкните для перехода по ссылке.</translation>
+        <translation>Щелкните для перехода по ссылке.</translation>
     </message>
     <message>
         <source>Width</source>
@@ -10486,7 +11108,7 @@ Continue ?</source>
     <message>
         <source>The date you specified in End Time is invalid.</source>
         <comment>TX_DV_Time2</comment>
-        <translation>Неверные данные в поле &quot;Время завершения&quot;.</translation>
+        <translation>Неверные данные в поле &quot;Время окончания&quot;.</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
@@ -10501,17 +11123,17 @@ Continue ?</source>
     <message>
         <source>You must enter an End Time.</source>
         <comment>TX_DV_EmptyTime2</comment>
-        <translation>Необходимо ввести время завершения.</translation>
+        <translation>Необходимо ввести время окончания.</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
         <comment>TX_DV_EmptyTimeBoth</comment>
-        <translation>Необходимо ввести время начала и завершения.</translation>
+        <translation>Необходимо ввести время начала и окончания.</translation>
     </message>
     <message>
         <source>The End Time must be greater than or equal to the Start Time.</source>
         <comment>TX_DV_TimeValueErr</comment>
-        <translation>Время завершения должно быть больше или равнр времени начала.</translation>
+        <translation>Время окончания должно быть больше или равно времени начала.</translation>
     </message>
     <message>
         <source>The Text length contains an error now. Do you want to continue?</source>
@@ -10747,7 +11369,7 @@ Continue ?</source>
     <message>
         <source>K</source>
         <comment>TX_ParaInfo_029</comment>
-        <translation></translation>
+        <translation>K</translation>
     </message>
     <message>
         <source>Known_x&apos;s</source>
@@ -10942,7 +11564,7 @@ Continue ?</source>
     <message>
         <source>Significance</source>
         <comment>TX_ParaInfo_068</comment>
-        <translation>Значимость</translation>
+        <translation>точность</translation>
     </message>
     <message>
         <source>Start_date</source>
@@ -10952,7 +11574,7 @@ Continue ?</source>
     <message>
         <source>Start_num</source>
         <comment>TX_ParaInfo_070</comment>
-        <translation>начальная_позиция</translation>
+        <translation>нач_ном</translation>
     </message>
     <message>
         <source>Stats</source>
@@ -10962,7 +11584,7 @@ Continue ?</source>
     <message>
         <source>Sum_range</source>
         <comment>TX_ParaInfo_072</comment>
-        <translation>диап_суммирования</translation>
+        <translation>диапазон_суммирования</translation>
     </message>
     <message>
         <source>Table_array</source>
@@ -11002,12 +11624,12 @@ Continue ?</source>
     <message>
         <source>Value_if_false</source>
         <comment>TX_ParaInfo_080</comment>
-        <translation>знач_если_ложь</translation>
+        <translation>значение_если_ложь</translation>
     </message>
     <message>
         <source>Value_if_true</source>
         <comment>TX_ParaInfo_081</comment>
-        <translation>знач_если_истина</translation>
+        <translation>значение_если_истина</translation>
     </message>
     <message>
         <source>Value</source>
@@ -11057,12 +11679,12 @@ Continue ?</source>
     <message>
         <source>Salvage</source>
         <comment>TX_ParaInfo_091</comment>
-        <translation>Остаточная стоимость</translation>
+        <translation>ост_стоимость</translation>
     </message>
     <message>
         <source>Life</source>
         <comment>TX_ParaInfo_092</comment>
-        <translation>Время эксплуатации</translation>
+        <translation>время_эксплуатации</translation>
     </message>
     <message>
         <source>Period</source>
@@ -11162,7 +11784,7 @@ Continue ?</source>
     <message>
         <source>X</source>
         <comment>TX_ParaInfo_112</comment>
-        <translation></translation>
+        <translation>X</translation>
     </message>
     <message>
         <source>Quartile</source>
@@ -11242,7 +11864,7 @@ Continue ?</source>
     <message>
         <source>Number_sample</source>
         <comment>TX_ParaInfo_128</comment>
-        <translation>размер_выборки</translation>
+        <translation>размер_совокупности</translation>
     </message>
     <message>
         <source>Population_s</source>
@@ -11267,12 +11889,12 @@ Continue ?</source>
     <message>
         <source>X</source>
         <comment>TX_ParaInfo_133</comment>
-        <translation></translation>
+        <translation>X</translation>
     </message>
     <message>
         <source>X</source>
         <comment>TX_ParaInfo_134</comment>
-        <translation></translation>
+        <translation>X</translation>
     </message>
     <message>
         <source>Sample Standard Deviation</source>
@@ -11282,7 +11904,7 @@ Continue ?</source>
     <message>
         <source>μ0</source>
         <comment>TX_ParaInfo_136</comment>
-        <translation></translation>
+        <translation>μ0</translation>
     </message>
     <message>
         <source>Actual_range</source>
@@ -11317,17 +11939,17 @@ Continue ?</source>
     <message>
         <source>X</source>
         <comment>TX_ParaInfo_143</comment>
-        <translation></translation>
+        <translation>X</translation>
     </message>
     <message>
         <source>N</source>
         <comment>TX_ParaInfo_144</comment>
-        <translation></translation>
+        <translation>N</translation>
     </message>
     <message>
         <source>M</source>
         <comment>TX_ParaInfo_145</comment>
-        <translation></translation>
+        <translation>M</translation>
     </message>
     <message>
         <source>Coefficients</source>
@@ -11387,7 +12009,7 @@ Continue ?</source>
     <message>
         <source>X_range</source>
         <comment>TX_ParaInfo_157</comment>
-        <translation>Диапазон Х</translation>
+        <translation>x_интервал</translation>
     </message>
     <message>
         <source>Prob_range</source>
@@ -11402,7 +12024,7 @@ Continue ?</source>
     <message>
         <source>N</source>
         <comment>TX_ParaInfo_160</comment>
-        <translation></translation>
+        <translation>N</translation>
     </message>
     <message>
         <source>Number</source>
@@ -11432,7 +12054,7 @@ Continue ?</source>
     <message>
         <source>Places</source>
         <comment>TX_ParaInfo_166</comment>
-        <translation>разрядов</translation>
+        <translation>Места</translation>
     </message>
     <message>
         <source>Real_num</source>
@@ -11472,7 +12094,7 @@ Continue ?</source>
     <message>
         <source>Decimals</source>
         <comment>TX_ParaInfo_174</comment>
-        <translation>число_знаков</translation>
+        <translation>Десятичный</translation>
     </message>
     <message>
         <source>no_commas</source>
@@ -11532,12 +12154,12 @@ Continue ?</source>
     <message>
         <source>decimal number</source>
         <comment>TX_ParaInfo_186</comment>
-        <translation>десятичное</translation>
+        <translation>десятичное число</translation>
     </message>
     <message>
         <source>binary number</source>
         <comment>TX_ParaInfo_187</comment>
-        <translation>двоичное</translation>
+        <translation>двоичное число</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -11547,47 +12169,47 @@ Continue ?</source>
     <message>
         <source>Up to one digit (%s)</source>
         <comment>TX_FRACTION_STYLE_01</comment>
-        <translation>До одной цифры (%s)</translation>
+        <translation type="obsolete">До одной цифры (%s)</translation>
     </message>
     <message>
         <source>Up to two digits (%s)</source>
         <comment>TX_FRACTION_STYLE_02</comment>
-        <translation>До двух цифр (%s)</translation>
+        <translation type="obsolete">До двух цифр (%s)</translation>
     </message>
     <message>
         <source>Up to three digits (%s)</source>
         <comment>TX_FRACTION_STYLE_03</comment>
-        <translation>До трёх цифр (%s)</translation>
+        <translation type="obsolete">До трех цифр (%s)</translation>
     </message>
     <message>
         <source>As halves (%s)</source>
         <comment>TX_FRACTION_STYLE_04</comment>
-        <translation>Половинными долями (%s)</translation>
+        <translation type="obsolete">Половинными долями (%s)</translation>
     </message>
     <message>
         <source>As quarters (%s)</source>
         <comment>TX_FRACTION_STYLE_05</comment>
-        <translation>Четвертями (%s)</translation>
+        <translation type="obsolete">Четвертями (%s)</translation>
     </message>
     <message>
         <source>As eighths (%s)</source>
         <comment>TX_FRACTION_STYLE_06</comment>
-        <translation>Восьмыми долями (%s)</translation>
+        <translation type="obsolete">Восьмыми долями (%s)</translation>
     </message>
     <message>
         <source>As sixteenths (%s)</source>
         <comment>TX_FRACTION_STYLE_07</comment>
-        <translation>Шестнадцатыми долями (%s)</translation>
+        <translation type="obsolete">Шестнадцатыми долями (%s)</translation>
     </message>
     <message>
         <source>As tenths (%s)</source>
         <comment>TX_FRACTION_STYLE_08</comment>
-        <translation>Десятыми долями (%s)</translation>
+        <translation type="obsolete">Десятыми долями (%s)</translation>
     </message>
     <message>
         <source>As hundredths (%s)</source>
         <comment>TX_FRACTION_STYLE_09</comment>
-        <translation>Сотыми долями (%s)</translation>
+        <translation type="obsolete">Сотыми долями (%s)</translation>
     </message>
     <message>
         <source>Zip code</source>
@@ -11712,7 +12334,7 @@ Continue ?</source>
     <message>
         <source>Text box </source>
         <comment>TX_CHECKSPELLING_FROMTEXTBOX</comment>
-        <translation>Текстовое поле</translation>
+        <translation>Надпись</translation>
     </message>
     <message>
         <source>Left section </source>
@@ -11804,7 +12426,7 @@ Data</source>
     <message>
         <source>Assign Macro</source>
         <comment>TXShell_AssignMacro_Caption</comment>
-        <translation>Назначить макрос объекту</translation>
+        <translation>Назначить макрос</translation>
     </message>
     <message>
         <source>Spell 
@@ -11906,7 +12528,7 @@ Check</source>
     <message>
         <source>Spinner</source>
         <comment>TX_FCItemName_Spinner</comment>
-        <translation>Счётчик</translation>
+        <translation>Счетчик</translation>
     </message>
     <message>
         <source>Hyperlink position</source>
@@ -12016,12 +12638,12 @@ Check</source>
     <message>
         <source>is the cosine of the angle you want and must be from -1 to 1.</source>
         <comment>TX_ParaDesc_002</comment>
-        <translation>косинус угла, который должен находиться в диапазоне от -1 до +1.</translation>
+        <translation>косинус искомого угла (значение в интервале от -1 до 1).</translation>
     </message>
     <message>
         <source>is any real number equal to or greater than 1</source>
         <comment>TX_ParaDesc_003</comment>
-        <translation>любое действительное число равное или большее 1.</translation>
+        <translation>любое действительное число, большее или равное 1</translation>
     </message>
     <message>
         <source>is the row number to use in the cell reference: Row_number =1 for row</source>
@@ -12091,22 +12713,22 @@ Check</source>
     <message>
         <source>is any real number between -1 and 1 excluding -1 and 1.</source>
         <comment>TX_ParaDesc_017</comment>
-        <translation>любое действительное число в диапазоне от -1 до 1 за исключением -1 и 1.</translation>
+        <translation>любое действительное число в диапазоне от -1 до 1, исключая -1 и 1.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
         <comment>TX_ParaDesc_018</comment>
-        <translation>число1, число2, ... - от 1 до 30 числовых аргументов, для которых вычисляется среднее абсолютных отклонений.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 числовых аргументов, для которых вычисляется среднее абсолютных отклонений.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numeric arguments for which you want the average.</source>
         <comment>TX_ParaDesc_019</comment>
-        <translation>число1, число2, ... - от 1 до 30 числовых аргументов, для которых вычисляется среднее.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 числовых аргументов, для которых вычисляется среднее.</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 arguments for which you want the average.</source>
         <comment>TX_ParaDesc_020</comment>
-        <translation>значение1, значение2, ... - от 1 до 30 аргументов, для которых вычисляется среднее.</translation>
+        <translation type="obsolete">значение1, значение2, ... - от 1 до 30 аргументов, для которых вычисляется среднее.</translation>
     </message>
     <message>
         <source>the numbers you want to convert.</source>
@@ -12226,7 +12848,7 @@ Check</source>
     <message>
         <source>value 1, value 2,... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
         <comment>TX_ParaDesc_044</comment>
-        <translation>значение 1, значение 2, ... - числа от 1 до 29, ссылки на ячейки, определенные имена, формулы, функции или текстовые аргументы, выделенные функцией ВЫБРАТЬ.</translation>
+        <translation type="obsolete">значение 1, значение 2, ... - числа от 1 до 29, ссылки на ячейки, определенные имена, формулы, функции или текстовые аргументы, выделенные функцией ВЫБРАТЬ.</translation>
     </message>
     <message>
         <source>is any worksheet information from which you want to remove nonprintable characters.</source>
@@ -12261,7 +12883,7 @@ Check</source>
     <message>
         <source>text1, text2,... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
         <comment>TX_ParaDesc_051</comment>
-        <translation>текст1, текст2, ...  - от 1 до 30 строк текста, соединяемых в одну текстовую строку, и могут быть текстовыми строками, числами или ссылками на одиночные ячейки.</translation>
+        <translation type="obsolete">текст1, текст2, ...  - от 1 до 30 строк текста, соединяемых в одну текстовую строку, и могут быть текстовыми строками, числами или ссылками на одиночные ячейки.</translation>
     </message>
     <message>
         <source>is the significance level used to compute the confidence level, a number greater than 0 and less than 10.</source>
@@ -12476,7 +13098,7 @@ Check</source>
     <message>
         <source>number1, number2,... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
         <comment>TX_ParaDesc_094</comment>
-        <translation>число1, число2, ... - от 1 до 30 числовых аргументов, массивов или ссылок на массивы, для которых вычисляется сумма квадратов отклонений.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 числовых аргументов, массивов или ссылок на массивы, для которых вычисляется сумма квадратов отклонений.</translation>
     </message>
     <message>
         <source>is the range of cells that makes up the list or database. A database is a list of related data.</source>
@@ -12771,7 +13393,7 @@ Check</source>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
         <comment>TX_ParaDesc_153</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется среднее.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется среднее.</translation>
     </message>
     <message>
         <source>is the set of y-values you already know in the relationship y=b*m^x, an array or range of positive numbers.</source>
@@ -12806,7 +13428,7 @@ Check</source>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
         <comment>TX_ParaDesc_160</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется среднее гармоническое.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется среднее гармоническое.</translation>
     </message>
     <message>
         <source>is the value to be found in the first row of the table and can be a value, a reference, or a text string.</source>
@@ -12961,7 +13583,7 @@ Check</source>
     <message>
         <source>is the future value, or a cash balance you want to attain after the last payment is made. If omitted, zero is used.</source>
         <comment>TX_ParaDesc_191</comment>
-        <translation>будущая стоимость или баланс наличности, который нужно достичь после последней выплаты. Если отсутствует, используется нулевое значение.</translation>
+        <translation>будущая стоимость или баланс наличности, который нужно достичь после последней выплаты. Если опущено, используется нулевое значение.</translation>
     </message>
     <message>
         <source>is an array or a reference to cells that contain numbers for which you want to calculate the internal rate of return.</source>
@@ -13021,7 +13643,7 @@ Check</source>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
         <comment>TX_ParaDesc_203</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется эксцесс.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется эксцесс.</translation>
     </message>
     <message>
         <source>is the array or range of data for which you want to determine the k-th largest value.</source>
@@ -13176,12 +13798,12 @@ Check</source>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_234</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых определяется максимальное.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых определяется максимальное.</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_235</comment>
-        <translation>значение1, значение2, ... - от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых определяется максимальное.</translation>
+        <translation type="obsolete">значение1, значение2, ... - от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых определяется максимальное.</translation>
     </message>
     <message>
         <source>is a numeric array with an equal number of rows and columns, either a cell range or an array constant.</source>
@@ -13191,7 +13813,7 @@ Check</source>
     <message>
         <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
         <comment>TX_ParaDesc_237</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых определяется медиана.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых определяется медиана.</translation>
     </message>
     <message>
         <source>is the text string from which you want to extract the characters.</source>
@@ -13226,12 +13848,12 @@ Check</source>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_244</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых определяется наименьшее.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых определяется наименьшее.</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_245</comment>
-        <translation>значение1, значение2, ... - от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых определяется наименьшее.</translation>
+        <translation type="obsolete">значение1, значение2, ... - от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых определяется наименьшее.</translation>
     </message>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
@@ -13276,7 +13898,7 @@ Check</source>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
         <comment>TX_ParaDesc_254</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется моду.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется моду.</translation>
     </message>
     <message>
         <source>is number in the date-time code used by WPS Spreadsheets.</source>
@@ -13286,12 +13908,12 @@ Check</source>
     <message>
         <source>is the value you want converted.</source>
         <comment>TX_ParaDesc_256</comment>
-        <translation>значение, которое нужно преобразовать.</translation>
+        <translation>преобразуемое значение.</translation>
     </message>
     <message>
         <source>is the number of failures.</source>
         <comment>TX_ParaDesc_257</comment>
-        <translation>число неудач.</translation>
+        <translation>количество неудачных испытаний.</translation>
     </message>
     <message>
         <source>is the number of successes.</source>
@@ -13306,7 +13928,7 @@ Check</source>
     <message>
         <source>is the arithmetic mean of the distribution.</source>
         <comment>TX_ParaDesc_260</comment>
-        <translation>среднее арифметическое распределения.</translation>
+        <translation>арифметическое среднее распределения.</translation>
     </message>
     <message>
         <source>is the standard deviation of the distribution, a positive number.</source>
@@ -13541,7 +14163,7 @@ Check</source>
     <message>
         <source>number 1, number 2,...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
         <comment>TX_ParaDesc_307</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, логических или текстовых значений, которые надо перемножить.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, логических или текстовых значений, которые надо перемножить.</translation>
     </message>
     <message>
         <source>is text enclosed in quotation marks, a formula that returns text, or a reference to a cell containing text to partially capitalize.</source>
@@ -13761,7 +14383,7 @@ Check</source>
     <message>
         <source>topic1,topic2,...are 1 to 28 parameters that specify a piece of data.</source>
         <comment>TX_ParaDesc_351</comment>
-        <translation>элемент1, элемент2, ... от 1 до 28 параметров, которые определяют часть данных.</translation>
+        <translation type="obsolete">элемент1, элемент2, ... от 1 до 28 параметров, которые определяют часть данных.</translation>
     </message>
     <message>
         <source>is the text you want to find. You can use the ? and * wildcard characters; use ~? and ~* to find the ? and * characters.</source>
@@ -13801,12 +14423,12 @@ Check</source>
     <message>
         <source>is the angle in radians for which you want the sine. Degress *PI()/180 = radians.</source>
         <comment>TX_ParaDesc_359</comment>
-        <translation>угол в радианах, для которого определяется синус. Градусы * PI()/180 = радианы.</translation>
+        <translation type="obsolete">угол в радианах, для которого определяется синус. Градусы * PI()/180 = радианы.</translation>
     </message>
     <message>
         <source>number 1,number 2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
         <comment>TX_ParaDesc_360</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется асимметричность.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется асимметричность.</translation>
     </message>
     <message>
         <source>is a logical value: payment at the beginning of the period =1; payment at the end of the period =0 or omitted.</source>
@@ -13866,22 +14488,22 @@ Check</source>
     <message>
         <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_372</comment>
-        <translation>число1, число2, ...  - от 1 до 30 чисел, составляющих выборку из генеральной совокупности; допускаются числовые значения и ссылки на числовые значения.</translation>
+        <translation type="obsolete">число1, число2, ...  - от 1 до 30 чисел, составляющих выборку из генеральной совокупности; допускаются числовые значения и ссылки на числовые значения.</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
         <comment>TX_ParaDesc_373</comment>
-        <translation>значение1, значение2, ...  - от 1 до 30 значений, составляющих выборку из генеральной совокупности; допускаются числовые значения и ссылки на числовые значения.</translation>
+        <translation type="obsolete">значение1, значение2, ...  - от 1 до 30 значений, составляющих выборку из генеральной совокупности; допускаются числовые значения и ссылки на числовые значения.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_374</comment>
-        <translation>число1, число2, ...  - от 1 до 30 чисел, составляющих генеральную совокупность; допускаются числовые значения и ссылки на числовые значения.</translation>
+        <translation type="obsolete">число1, число2, ...  - от 1 до 30 чисел, составляющих генеральную совокупность; допускаются числовые значения и ссылки на числовые значения.</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
         <comment>TX_ParaDesc_375</comment>
-        <translation>значение1, значение2,...  - от 1 до 30 значений, составляющих генеральную совокупность; допускаются числовые значения и ссылки на числовые значения.</translation>
+        <translation type="obsolete">значение1, значение2,...  - от 1 до 30 значений, составляющих генеральную совокупность; допускаются числовые значения и ссылки на числовые значения.</translation>
     </message>
     <message>
         <source>is the text or the reference to a cell containing text in which you want to substitute characters.</source>
@@ -13911,7 +14533,7 @@ Check</source>
     <message>
         <source>ref 1, ref 2,...are 1 to 29 ranges or references for which you want the subtotal.</source>
         <comment>TX_ParaDesc_381</comment>
-        <translation>ссылка 1, ссылка 2, ... от 1 до 29 диапазонов или ссылок, для которых требуется вычислить промежуточные итоги.</translation>
+        <translation type="obsolete">ссылка 1, ссылка 2, ... от 1 до 29 диапазонов или ссылок, для которых требуется вычислить промежуточные итоги.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
@@ -13941,7 +14563,7 @@ Check</source>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
         <comment>TX_ParaDesc_387</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется сумма квадратов.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется сумма квадратов.</translation>
     </message>
     <message>
         <source>is the first range or array of numbers and be a number or name, array, or reference that contains numbers.</source>
@@ -13981,7 +14603,7 @@ Check</source>
     <message>
         <source>is the angle in radians for which you want the sine. Degress *PI()/180 = radians.</source>
         <comment>TX_ParaDesc_395</comment>
-        <translation>угол в радианах, для которого определяется синус. Градусы * PI()/180 = радианы.</translation>
+        <translation type="obsolete">угол в радианах, для которого определяется синус. Градусы * PI()/180 = радианы.</translation>
     </message>
     <message>
         <source>is the numeric value at which to evaluate the distribution.</source>
@@ -14126,17 +14748,17 @@ Check</source>
     <message>
         <source>value1,value2,... are 1 to 30 value arguments corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_424</comment>
-        <translation>значение1, значение2, ...  - от 1 до 30 значений аргументов, составляющих выборку генеральной совокупности.</translation>
+        <translation type="obsolete">значение1, значение2, ...  - от 1 до 30 значений аргументов, составляющих выборку генеральной совокупности.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_425</comment>
-        <translation>число1, число2, ...  - от 1 до 30 численных аргументов, составляющих генеральную совокупность.</translation>
+        <translation type="obsolete">число1, число2, ...  - от 1 до 30 численных аргументов, составляющих генеральную совокупность.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_426</comment>
-        <translation>число1, число2, ...  - от 1 до 30 численных аргументов, составляющих генеральную совокупность.</translation>
+        <translation type="obsolete">число1, число2, ...  - от 1 до 30 численных аргументов, составляющих генеральную совокупность.</translation>
     </message>
     <message>
         <source>is the starting period for which you want to calculate the depreciation. Period must use the same units as life.</source>
@@ -14446,17 +15068,17 @@ Check</source>
     <message>
         <source>is the value to test.</source>
         <comment>TX_ParaDesc_474</comment>
-        <translation>значение, которое нужно проверить.</translation>
+        <translation>проверяемое значение.</translation>
     </message>
     <message>
         <source>is the value to test.</source>
         <comment>TX_ParaDesc_475</comment>
-        <translation>значение, которое нужно проверить.</translation>
+        <translation>проверяемое значение.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 255 values for which you want the multinomial.</source>
         <comment>TX_ParaDesc_476</comment>
-        <translation>число1, число2, ... от 1 до 255 значений, для которых определяется отношение факториала суммы значений к произведению факториалов.</translation>
+        <translation type="obsolete">число1, число2, ... от 1 до 255 значений, для которых определяется отношение факториала суммы значений к произведению факториалов.</translation>
     </message>
     <message>
         <source>is the smallest integer RANDBETWEEN will return.</source>
@@ -14768,7 +15390,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Value 1,value 2,...1 to 30 of plural numbers, used to calculate the product.</source>
         <comment>TX_ParaDesc_522</comment>
-        <translation>значение 1, значение 2, ... от 1 до 30 из множественных чисел, используемых для вычисления произведения.</translation>
+        <translation type="obsolete">значение 1, значение 2, ... от 1 до 30 из множественных чисел, используемых для вычисления произведения.</translation>
     </message>
     <message>
         <source>Calculate the plural of its real coefficient</source>
@@ -15151,7 +15773,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Type_text</source>
         <comment>TX_ParaInfo_243</comment>
-        <translation>тип_информаци</translation>
+        <translation>тип_информации</translation>
     </message>
     <message>
         <source>Function_text</source>
@@ -15266,7 +15888,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>A1</source>
         <comment>TX_ParaInfo_266</comment>
-        <translation></translation>
+        <translation>A1</translation>
     </message>
     <message>
         <source>Bar_num</source>
@@ -15321,7 +15943,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
         <comment>TX_ParaInfo_546</comment>
-        <translation>имя (ProgID) зарегистрированной надстройки автоматизации COM. Заключите имя в кавычки.</translation>
+        <translation type="obsolete">имя (ProgID) зарегистрированной надстройки автоматизации COM. Заключите имя в кавычки.</translation>
     </message>
     <message>
         <source>Server</source>
@@ -15331,7 +15953,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaInfo_547</comment>
-        <translation>имя сервера, на котором должна быть запущена надстройка (Add-In). Заключите имя в кавычки. Если надстройка запускается локально, укажите пустую строку.</translation>
+        <translation type="obsolete">имя сервера, на котором должна быть запущена надстройка (Add-In). Заключите имя в кавычки. Если надстройка запускается локально, укажите пустую строку.</translation>
     </message>
     <message>
         <source>Topic</source>
@@ -15346,7 +15968,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>topic1,topic2,...are 1 to 38 parameters that specify a piece of data.</source>
         <comment>TX_ParaInfo_548</comment>
-        <translation>элемент1, элемент2, ... от 1 до 38 параметров, которые определяют часть данных.</translation>
+        <translation type="obsolete">элемент1, элемент2, ... от 1 до 38 параметров, которые определяют часть данных.</translation>
     </message>
     <message>
         <source>Message_text</source>
@@ -15711,37 +16333,37 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
         <comment>TX_ParaDesc_546</comment>
-        <translation type="obsolete">имя (ProgID) зарегистрированной надстройки автоматизации COM. Заключите имя в кавычки.</translation>
+        <translation>— название идентификатора программы зарегистрированной надстройки автоматизации COM. Название должно быть в кавычках.</translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaDesc_547</comment>
-        <translation type="obsolete">имя сервера, на котором должна быть запущена надстройка (Add-In). Заключите имя в кавычки. Если надстройка запускается локально, укажите пустую строку.</translation>
+        <translation>— название сервера, на котором необходимо запустить надстройку. Название должно быть в кавычках. Если надстройка запускается локально, оставьте строку пустой.</translation>
     </message>
     <message>
         <source>Directory_text</source>
         <comment>TX_ParaInfo_351</comment>
-        <translation>имя_каталога</translation>
+        <translation>Текст_каталога</translation>
     </message>
     <message>
         <source>Permission to this workbook is currently restricted.</source>
         <comment>TX_IRMReadOnly</comment>
-        <translation>Разрешения на доступ к этой книге в настоящее время ограничены.</translation>
+        <translation>Разрешение для этой книги в данный момент ограничено.</translation>
     </message>
     <message>
         <source>First Page </source>
         <comment>TX_CHECKSPELLING_FromFirstPage</comment>
-        <translation>Первая страница</translation>
+        <translation>Первая страница </translation>
     </message>
     <message>
         <source>Odd Page </source>
         <comment>TX_CHECKSPELLING_FromOddPage</comment>
-        <translation>Нечётная страница</translation>
+        <translation>Нечетная страница </translation>
     </message>
     <message>
         <source>Even Page </source>
         <comment>TX_CHECKSPELLING_FromEvenPage</comment>
-        <translation>Чётная страница</translation>
+        <translation>Четная страница </translation>
     </message>
     <message>
         <source>The information cannot be pasted because the copy area and the paste area are not of the same size and shape. Try one of the following: 
@@ -15749,7 +16371,9 @@ To modify a protected cell or chart, first remove protection using the Unprotect
 .Click a single cell, and then paste. 
 .Select a rectangle area of the same size and shape, and then paste.</source>
         <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно вставить данные, так как размер и форма области вставки отличаются от области копирования. Для продолжения, попробуйте одно из следующих действий: 
+• щёлкните одну ячейку,и затем вставьте данные;
+• выделите прямоугольную область того же размера и формы, и затем вставьте данные.</translation>
     </message>
     <message>
         <source>The selection is invalid.
@@ -15760,26 +16384,22 @@ There are several possible reasons:
 •If the specified name is in a row or a column, you must select more than one row or column.
 •If you click the Table command on the Data menu, the selected range must be a single rectangle, and the number of rows or columns must not be smaller than one.</source>
         <comment>TX_DESC_Paste_OverlapRange_ET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Выделенный диапазон не является допустимым.
+Возможные причины:
+• Области копирования и вставки не перекрываются, если их форма и размер не совпадают.
+• При использовании команды &quot;Создать&quot; из меню &quot;Вставка&quot;-&gt;&quot;Имя&quot;, строка или столбец, содержащие предложенные имена, не включаются в определения имен.
+• Если создаваемые имена перечислены в строке или в столбце, нужно выбрать несколько строк или столбцов.
+• При использовании команды &quot;Таблица данных&quot; из меню &quot;Данные&quot;, необходимо выделить прямоугольник из нескольких строк и столбцов.</translation>
     </message>
     <message>
         <source>Data may exist in the sheet(s) selected for deletion. To permanently delete the data, click OK or press Enter on the keyboard.</source>
         <comment>TX_Sheet_DEL_ContainsData_ET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Лист(ы), который вы хотите удалить, содержит данные. Если вы хотите удалить данные, нажмите кнопку &quot;ОК&quot; или нажмите клавишу &quot;Enter&quot; на клавиатуре.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot ungroup. To start an outline, select the detail rows or columns and group them.</source>
         <comment>TX_Data_Cannot_Ungroup</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The formula you entered contains errors. WPS Spreadsheets will automatically correct it as: 
-&apos;%s
-? To accept the correction, click OK.
-? To close this message and correct the formula by yourself, click Cancel.
-? If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
-        <comment>TX_InputFormula_Error</comment>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно повысить уровень. Чтобы создать структуру документа, выделите столбцы или строки и сгруппируйте их.</translation>
     </message>
     <message>
         <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
@@ -15788,309 +16408,577 @@ There are several possible reasons:
 • To close this message and correct the formula by yourself, click Cancel.
 • If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
         <comment>TX_InputFormulaStringTooLong_Error</comment>
-        <translation type="unfinished"></translation>
+        <translation>Постоянная строка символов в формуле слишком длинна. WPS Spreadsheets будет автоматически исправить его:
+&apos;%s
+• Чтобы принять это исправление?,нажмите кнопку &quot;ОК&quot;.
+• Чтобы закрыть это сообщение и исправить формулу сам, нажмите кнопку &quot;Отмена&quot;.
+• Если Вы не вводите формулу, не начинайте ввести с знака равенства (=), плюс (+) или минус (-).</translation>
     </message>
     <message>
         <source>You cannot modify the read-only cells on protected worksheet.</source>
         <comment>TX_CanNotEdit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно вносить изменения в ячейки доступные только для чтения в защищённом листе.</translation>
     </message>
     <message>
         <source>You must enter a valid reference you want to go to, or type a valid name for the selection.</source>
         <comment>TX_Invalid_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Введите действительную ссылку или действительное имя для выделения.</translation>
     </message>
     <message>
         <source>The maximum number of data points you can use in a data series for a 2-D chart is 32,000. If you want to use more than 32,000 data points, you must create two or more series.</source>
         <comment>TX_Chart_DataOverflow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Каждый ряд данных на двухмерной диаграмме может содержать не более 32 000 точек данных. Для анализа большего числа точек необходимо два или несколько рядов данных.</translation>
     </message>
     <message>
         <source>Cannot find help files, or help files encounter an error.</source>
         <comment>TX_Help_NoHelpFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка открытия или не найдены файлы справки.</translation>
     </message>
     <message>
         <source>You may not use references to other workbooks for Data Validation criteria.</source>
         <comment>TX_DV_CrossSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ссылки на другие книги не могут быть использованы для условий функции Проверка данных.</translation>
     </message>
     <message>
         <source>The Minimum contains an error now. Do you want to continue?</source>
         <comment>TX_DV_WholeNumberErr1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Неверный минимум. Хотите продолжить?</translation>
     </message>
     <message>
         <source>The Value must be an integer, numeric expression, or refer to a cell containing a numeric value.</source>
         <comment>TX_DV_WholeNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation>Значение может быть целым, числовым выражением, или ссылкой на ячейку, содержащую числовые значения.</translation>
     </message>
     <message>
         <source>The Minimum must be an integer, numeric expression, or refer to a cell containing a numeric value.</source>
         <comment>TX_DV_WholeNumber1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Минимум может быть целым, числовым выражением, или ссылкой на ячейку, содержащую числовые значения.</translation>
     </message>
     <message>
         <source>The Maximum must be an integer, numeric expression, or reference to a cell containing a numeric value.</source>
         <comment>TX_DV_WholeNumber2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Максимум может быть целым, числовым выражением, или ссылкой на ячейку, содержащую числовые значения.</translation>
     </message>
     <message>
         <source>A named range you specified cannot be found.</source>
         <comment>TX_DV_List</comment>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно найти заданный именованный диапазон.</translation>
     </message>
     <message>
         <source>The List Source must be a delimited list, or a reference to single row or column.</source>
         <comment>TX_DV_ListMustSingleLine</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, creating a circular reference. Try one of the following:
-
-?If you do not want to create the circular reference, click OK, and correct the formula.
-?If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
-        <comment>TX_FORMULA_RECURSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Источник списка должен быть списком разделенных данных, или ссылаться на строку или столбец.</translation>
     </message>
     <message>
         <source>Arithmetic Mean</source>
         <comment>TX_ParaInfo_117</comment>
-        <translation type="unfinished"></translation>
+        <translation>Арифметическое среднее</translation>
     </message>
     <message>
         <source>The selection contains some cells without Data Validation settings. Do you want to extend Data Validation to these cells?</source>
         <comment>TX_DV_APPLYVALIDATION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Выделение содержит ячейки без настроек проверки данных. Хотите добавить настройки проверки данных в эти ячейки?</translation>
     </message>
     <message>
         <source>The command you chose cannot be performed with multiple selections. Select a single range and click the command again.</source>
         <comment>TX_DS_MULSEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Эта команда не может быть выполнена на нескольких выделениях. Выделите один дапазон, и повторите команду.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets can only convert one column at a time. The selection can contain more than one row but only one column. Select cells only in one column and try again.</source>
         <comment>TX_DS_MULCOLS</comment>
-        <translation type="unfinished"></translation>
+        <translation>За одну операцию можно преобразовать только один столбец. Выделение может содержать несколько строк, но только один столбец. Выберите ячейки в одном столбце и повторите преобразование.</translation>
     </message>
     <message>
         <source>The word you used exists in neither main dictionary or custom dictionary. Do you want to add it to the custom dictionary?</source>
         <comment>TX_CHECKSPELLING_ADDTODICTIONARY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Данное слово не существует в основном и пользовательском словарях. Добавить его в пользовательский словарь?</translation>
     </message>
     <message>
         <source>Spell Check</source>
         <comment>TX_SpellCheck_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Проверка правописания</translation>
     </message>
     <message>
         <source>Closing the Track Change is to remove all the recorded changes. Do you want to close it anyway?</source>
         <comment>TX_RevisionMsgUnTrackChanges</comment>
-        <translation type="unfinished"></translation>
+        <translation>При закрытии &quot;Регистрации изменений&quot; будут удалены все записанные изменения. Всё равно хотите закрыть?</translation>
     </message>
     <message>
         <source>Press Alt and click the mouse to follow the link</source>
         <comment>TX_Hyperlink_Alt_Tip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Чтобы отследить связь, нажмите Alt и щёлкните кнопку мыши.</translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE and can be logical values, arrays, or references.</source>
         <comment>TX_ParaDesc_009</comment>
-        <translation type="unfinished"></translation>
+        <translation>логическое_значение1,логическое_значение2,...от 1 до 30 проверяемых условий, которые могут принимать значения ИСТИНА или ЛОЖЬ и могут быть логическими значениями, массивами или ссылками.</translation>
     </message>
     <message>
         <source>is any real number equal to or greater than 1.</source>
         <comment>TX_ParaDesc_013</comment>
-        <translation type="unfinished">любое действительное число равное или большее 1..</translation>
+        <translation>любое действительное число равное или большее 1.</translation>
     </message>
     <message>
         <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range = 0.</source>
         <comment>TX_ParaDesc_024</comment>
-        <translation type="unfinished"></translation>
+        <translation>необязательная верхняя граница интервала изменения x. Если отсутствует, верхняя граница =1, нижняя граница = 0.</translation>
     </message>
     <message>
         <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range = 0.</source>
         <comment>TX_ParaDesc_027</comment>
-        <translation type="unfinished"></translation>
+        <translation>необязательная верхняя граница интервала изменения x. Если отсутствует, верхняя граница =1, нижняя граница = 0.</translation>
     </message>
     <message>
         <source>is the population standard deviation for the data range and is assumed to be known. Standard_dev must be greater than 0.</source>
         <comment>TX_ParaDesc_053</comment>
-        <translation type="unfinished"></translation>
+        <translation>стандартное отклонение генеральной совокупности для интервала данных (предполагается известным). Должно быть больше нуля.</translation>
     </message>
     <message>
         <source>value1, value2,... are 1 to 30 arguments representing the values and cells you want to count. Values can be any type of information.</source>
         <comment>TX_ParaDesc_060</comment>
-        <translation type="unfinished"></translation>
+        <translation>Значение1,значение2,...от 1 до 30 аргументов любого типа, количество которых требуется определить.</translation>
     </message>
     <message>
         <source>is the condition in the form of a number, expression, or text that defines which cells will be counted</source>
         <comment>TX_ParaDesc_063</comment>
-        <translation type="unfinished"></translation>
+        <translation>Условие в форме числа, выражения или текста, который определяет, какие ячейки надо подсчитывать</translation>
     </message>
     <message>
         <source>is the interest rate per period. For example, use 6%/4 for quarterly payments at 6% APR.</source>
         <comment>TX_ParaDesc_139</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
-        <comment>TX_ParaDesc_152</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the position (from the largest) in the array or cell range of the value to return.</source>
-        <comment>TX_ParaDesc_205</comment>
-        <translation type="unfinished"></translation>
+        <translation>— процентная ставка за период. Например, используйте формулу 6 %/4 для определения квартальных платежей при годовой ставке 6 %.</translation>
     </message>
     <message>
         <source>is a logical value: return additional regression statistics = TRUE; return m-coefficient and the constant b = FALSE or omitted.</source>
         <comment>TX_ParaDesc_213</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value 1, value 2,... are 1 to 29 payments and income, equally spaced in time and occurring at the end of each period.</source>
-        <comment>TX_ParaDesc_274</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>logical1,logical2,... are 1 to 30 conditions that you want to test that can be either TRUE or FALSE</source>
-        <comment>TX_ParaDesc_281</comment>
-        <translation type="unfinished"></translation>
+        <translation>логическое значение, которое указывает, требуется ли вернуть дополнительную статистику по регрессии (ИСТИНА) или только коэффициенты m и константу b (ЛОЖЬ или отсутствие значения).</translation>
     </message>
     <message>
         <source>is an optional value that identifies the number of significant digits for the returned percentage, three digits if omitted(0.xxx%).</source>
         <comment>TX_ParaDesc_288</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the number of digits to the right of the decimal point. The number is rounded as necessary; if omitted, Decimals = 2!</source>
-        <comment>TX_ParaDesc_337</comment>
-        <translation type="unfinished"></translation>
+        <translation>необязательное значение, определяющее количество значащих цифр в возвращаемом значении процентного содержания; по умолчанию принимается равным 3 (0,xxx%).</translation>
     </message>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero to the nearest integer.</source>
         <comment>TX_ParaDesc_341</comment>
-        <translation type="unfinished"></translation>
+        <translation>число разрядов, до которого выполняется округление. Если указано отрицательное число, округление выполняется влево от десятичного разделителя. Если указан ноль, то округление выполняется до ближайшего целого.</translation>
     </message>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero or omitted, to the nearest integer.</source>
         <comment>TX_ParaDesc_343</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if typed as arguments!</source>
-        <comment>TX_ParaDesc_382</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the condition in the form of a number, expression, or text that defines which cells will be counted</source>
-        <comment>TX_ParaDesc_384</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>array1,array2,...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have the same dimensions.</source>
-        <comment>TX_ParaDesc_386</comment>
-        <translation type="unfinished"></translation>
+        <translation>число разрядов, до которого выполняется округление. Если указано отрицательное число, округление выполняется влево от десятичного разделителя. Если указан ноль или отсутствует, то округление выполняется до ближайшего целого.</translation>
     </message>
     <message>
         <source>specifies the number of distribution tails to return: one-tailed distribution = 1; two-tailed distribution = 2.</source>
         <comment>TX_ParaDesc_398</comment>
-        <translation type="unfinished">возвращаемое количество хвостов распределения: одностороннее распределение = 1; двустороннее распределение = 2.</translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a sample of a population.</source>
-        <comment>TX_ParaDesc_423</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">возвращаемое количество хвостов распределения: одностороннее распределение = 1; двустороннее распределение = 2.</translation>
     </message>
     <message>
         <source>The number used to be converted to Chinese string.</source>
         <comment>TX_ParaDesc_541</comment>
-        <translation type="unfinished"></translation>
+        <translation>Число преобразуемое в строку китайского языка.</translation>
     </message>
     <message>
         <source>Text</source>
         <comment>TX_ParaInfo_352</comment>
-        <translation type="unfinished">Текст</translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <source>In_num</source>
         <comment>TX_ParaInfo_353</comment>
-        <translation type="unfinished"></translation>
+        <translation>В_число</translation>
     </message>
     <message>
         <source>At_num</source>
         <comment>TX_ParaInfo_354</comment>
-        <translation type="unfinished"></translation>
+        <translation>На_число</translation>
     </message>
     <message>
         <source>By_num</source>
         <comment>TX_ParaInfo_355</comment>
-        <translation type="unfinished"></translation>
+        <translation>По_число</translation>
     </message>
     <message>
         <source>Dir_num</source>
         <comment>TX_ParaInfo_356</comment>
-        <translation type="unfinished"></translation>
+        <translation>Каталог_число</translation>
     </message>
     <message>
         <source>Match_case</source>
         <comment>TX_ParaInfo_357</comment>
-        <translation type="unfinished"></translation>
+        <translation>С_регистром</translation>
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_358</comment>
-        <translation type="unfinished">ном_типа</translation>
+        <translation>ном_типа</translation>
     </message>
     <message>
         <source>Iter</source>
         <comment>TX_ParaInfo_359</comment>
-        <translation type="unfinished"></translation>
+        <translation>Итерация</translation>
     </message>
     <message>
         <source>Max_num</source>
         <comment>TX_ParaInfo_360</comment>
-        <translation type="unfinished"></translation>
+        <translation>Макс_номер</translation>
     </message>
     <message>
         <source>Max_change</source>
         <comment>TX_ParaInfo_361</comment>
-        <translation type="unfinished"></translation>
+        <translation>Макс_изменение</translation>
     </message>
     <message>
         <source>Update</source>
         <comment>TX_ParaInfo_362</comment>
-        <translation type="unfinished"></translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <source>Precision</source>
         <comment>TX_ParaInfo_363</comment>
-        <translation type="unfinished">Точность</translation>
+        <translation>Точность</translation>
     </message>
     <message>
         <source>Date_1904</source>
         <comment>TX_ParaInfo_364</comment>
-        <translation type="unfinished"></translation>
+        <translation>Дата_1904</translation>
     </message>
     <message>
         <source>Calc_save</source>
         <comment>TX_ParaInfo_365</comment>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить_вычисления</translation>
     </message>
     <message>
         <source>Save_values</source>
         <comment>TX_ParaInfo_366</comment>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить_значения</translation>
     </message>
     <message>
         <source>Alt_exp</source>
         <comment>TX_ParaInfo_367</comment>
-        <translation type="unfinished"></translation>
+        <translation>Альтернативное_выражение</translation>
     </message>
     <message>
         <source>Alt_form</source>
         <comment>TX_ParaInfo_368</comment>
+        <translation>Альтернативная_форма</translation>
+    </message>
+    <message>
+        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
+        <comment>TX_ParaDesc_009</comment>
+        <translation type="obsolete">логическое_значение1%1логическое_значение2%1... от 1 до 30 проверяемых условий, которые могут принимать значение ИСТИНА или ЛОЖЬ и могут быть логическими значениями, массивы или ссылками.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
+        <comment>TX_ParaDesc_018</comment>
+        <translation>число1%1число2%1... от 1 до 30 аргументов, для которых определяется среднее абсолютных отклонений.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numeric arguments for which you want the average.</source>
+        <comment>TX_ParaDesc_019</comment>
+        <translation>число1%1число2%1... от 1 до 30 числовых аргументов, для которых вычисляется среднее.</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 arguments for which you want the average.</source>
+        <comment>TX_ParaDesc_020</comment>
+        <translation>значение1%1значение2%1... от 1 до 30 числовых аргументов, для которых вычисляется среднее.</translation>
+    </message>
+    <message>
+        <source>value 1%1 value 2%1... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
+        <comment>TX_ParaDesc_044</comment>
+        <translation>значение 1%1 значение 2%1... от 1 до 29 чисел, ссылок на ячейки, определенных имен, формул, функций или текстовых аргументов, из которых производится выбор.</translation>
+    </message>
+    <message>
+        <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
+        <comment>TX_ParaDesc_051</comment>
+        <translation>текст1%1 текст2%1... от 1 до 30 текстовых строк, которые необходимо объединить в одну строку. Могут быть текстовыми строками, числами или ссылками на отдельные ячейки.</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
+        <comment>TX_ParaDesc_059</comment>
+        <translation type="obsolete">значение1%1значение2%1... от 1 до 30 аргументов, которые могут содержать или ссылаться на данные различных типов, но учитываются только числовые значения.</translation>
+    </message>
+    <message>
+        <source>value1%1 value2%1... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
+        <comment>TX_ParaDesc_060</comment>
+        <translation type="obsolete">значение1%1 значение2%1... от 1 до 30 аргументов, представляющих значения и ячейки, количество которых необходимо посчитать. Значения могут быть любым типом информации.</translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
+        <comment>TX_ParaDesc_094</comment>
+        <translation>число1%1 число2%1... от 1 до 30 аргументов, массивов или ссылок на массивы, для которых вычисляется значение DEVSQ.</translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
+        <comment>TX_ParaDesc_153</comment>
+        <translation>число1%1 число2%1... от 1 до 30 чисел или имен, массивов или ссылок на числовые значения, для которых вычисляется среднее.</translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
+        <comment>TX_ParaDesc_160</comment>
+        <translation>число1%1 число2%1... от 1 до 30 чисел или имен, массивов или ссылок на числовые значения, для которых необходимо вычислить среднее гармоническое.</translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
+        <comment>TX_ParaDesc_203</comment>
+        <translation>число1%1 число2%1... от 1 до 30 чисел, имен, массивов или ссылок на числовые значения, для которых вычисляется эксцесс.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
+        <comment>TX_ParaDesc_234</comment>
+        <translation>число1%1число2%1... от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых ищется наибольшее значение.</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
+        <comment>TX_ParaDesc_235</comment>
+        <translation>значение1%1значение2%1... от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых ищется наибольшее значение.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
+        <comment>TX_ParaDesc_237</comment>
+        <translation>число1%1число2%1... от 1 до 30 чисел, имен, массивов или ссылок на числовые значения, для которых определяется медиана.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
+        <comment>TX_ParaDesc_244</comment>
+        <translation>число1%1число2%1... от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых ищется наименьшее значение.</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
+        <comment>TX_ParaDesc_245</comment>
+        <translation>значение1%1значение2%1... от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых ищется наименьшее значение.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
+        <comment>TX_ParaDesc_254</comment>
+        <translation>число1%1число2%1... от 1 до 30 чисел, имен, массивов или ссылок на числовые значения, для которых вычисляется мода.</translation>
+    </message>
+    <message>
+        <source>value 1%1 value 2%1... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
+        <comment>TX_ParaDesc_274</comment>
+        <translation>значение 1%1 значение 2%1... от 1 до 29 выплат и поступлений, равноотстоящих друг от друга по времени и происходящих в конце каждого периода.</translation>
+    </message>
+    <message>
+        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
+        <comment>TX_ParaDesc_281</comment>
+        <translation>логическое_значение1%1логическое_значение2%1... от 1 до 30 проверяемых условий, которые могут принимать значения ИСТИНА или ЛОЖЬ.</translation>
+    </message>
+    <message>
+        <source>number 1%1 number 2%1...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
+        <comment>TX_ParaDesc_307</comment>
+        <translation>число 1%1 число 2%1... от 1 до 30 перемножаемых чисел, логических значений или чисел, представленных в текстовом виде.</translation>
+    </message>
+    <message>
+        <source>topic1%1topic2%1...are 1 to 28 parameters that specify a piece of data.</source>
+        <comment>TX_ParaDesc_351</comment>
+        <translation>элемент1%1элемент2%1... от 1 до 28 параметров, задающих элементы данных.</translation>
+    </message>
+    <message>
+        <source>number 1%1number 2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
+        <comment>TX_ParaDesc_360</comment>
+        <translation>число 1%1число 2%1... от 1 до 30 чисел или имен, массивов или ссылок на числовые значения, для которых вычисляется асимметричность.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
+        <comment>TX_ParaDesc_372</comment>
+        <translation>число1%1число2%1... от 1 до 30 чисел, составляющих выборку из генеральной совокупности; допускаются числовые значения и ссылки на числовые значения.</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
+        <comment>TX_ParaDesc_373</comment>
+        <translation>значение1%1значение2%1... от 1 до 30 значений, составляющих выборку из генеральной совокупности; допускаются числовые значения, имена и ссылки на числовые значения.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
+        <comment>TX_ParaDesc_374</comment>
+        <translation>число1%1число2%1... от 1 до 30 значений, составляющих генеральную совокупность; допускаются числовые значения и ссылки на числовые значения.</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
+        <comment>TX_ParaDesc_375</comment>
+        <translation>значение1%1значение2%1... от 1 до 30 значений, составляющих генеральную совокупность; допускаются числовые значения, имена, массивы и ссылки на числовые значения.</translation>
+    </message>
+    <message>
+        <source>ref 1%1 ref 2%1...are 1 to 29 ranges or references for which you want the subtotal.</source>
+        <comment>TX_ParaDesc_381</comment>
+        <translation>ссылка 1%1 ссылка 2%1... от 1 до 29 диапазонов или ссылок, для которых требуется вычислить промежуточные итоги.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
+        <comment>TX_ParaDesc_382</comment>
+        <translation>число1%1число2%1... от 1 до 30 аргументов, которые суммируются. Логические и текстовые значения игнорируются.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
+        <comment>TX_ParaDesc_387</comment>
+        <translation>число1%1число2%1... от 1 до 30 чисел, массивов, имен или ссылок на массивы, для которых вычисляется сумма квадратов.</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 value arguments corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_424</comment>
+        <translation>значение1%1значение2%1... от 1 до 30 числовых аргументов, составляющих выборку из генеральной совокупности.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
+        <comment>TX_ParaDesc_425</comment>
+        <translation>число1%1число2%1... от 1 до 30 числовых аргументов, составляющих генеральную совокупность.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
+        <comment>TX_ParaDesc_426</comment>
+        <translation>число1%1число2%1... от 1 до 30 числовых аргументов, составляющих генеральную совокупность.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 255 values for which you want the multinomial.</source>
+        <comment>TX_ParaDesc_476</comment>
+        <translation>число1%1число2%1... от 1 до 255 значений, для которых ищется полиномиальное значение.</translation>
+    </message>
+    <message>
+        <source>topic1%1topic2%1...are 1 to 38 parameters that specify a piece of data.</source>
+        <comment>TX_ParaDesc_548</comment>
+        <translation>элемент1%1элемент2%1... от 1 до 38 параметров, задающих элементы данных.</translation>
+    </message>
+    <message>
+        <source>is a number, a reference to a cell containing a number, or a formula that evaluates to a number, 2 if omitted.</source>
+        <comment>TX_ParaDesc_337</comment>
+        <translation>число, либо ссылка на ячейку, содержащую число, либо формула, вычисление которой дает число, 2, если отсутствует.</translation>
+    </message>
+    <message>
+        <source>is the angle in radians for which you want the sine. Degrees *PI()/180 = radians.</source>
+        <comment>TX_ParaDesc_395</comment>
+        <translation>угол в радианах, для которого определяется синус. Градусы * PI()/180 = радианы.</translation>
+    </message>
+    <message>
+        <source>is the condition or criteria in the form of a number, expression, or text that defines which cells will be used to find the average.</source>
+        <comment>TX_ParaDesc_384</comment>
+        <translation>условие или критерий, в виде числа, выражения или текста, определяющего, какие ячейки будут использованы для вычисления среднего.</translation>
+    </message>
+    <message>
+        <source>specifies the number of distribution tails to return: one-tailed distribution = 1; tow-tailed distribution = 2.</source>
+        <comment>TX_ParaDesc_398</comment>
+        <translation>возвращаемое количество хвостов распределения: одностороннее распределение = 1; двустороннее распределение = 2.</translation>
+    </message>
+    <message>
+        <source>is the condition or criteria in the form of a number, expression, or text that defines which cells will be used to find the average.</source>
+        <comment>TX_ParaDesc_063</comment>
+        <translation type="obsolete">— условие или критерий в форме числа, выражения или текста, который определяет ячейки, которые будут использованы для расчета среднего значения.</translation>
+    </message>
+    <message>
+        <source>is the angle in radians for which you want the sine. Degrees *PI()/180 = radians.</source>
+        <comment>TX_ParaDesc_359</comment>
+        <translation>— угол в радианах, синус которого требуется определить. Градусы*ПИ()/180=радианы.</translation>
+    </message>
+    <message>
+        <source>array1%1array2%1...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have the same dimensions.</source>
+        <comment>TX_ParaDesc_386</comment>
+        <translation>массив1%1массив2%1... от 2 до 30 массивов, соответствующие компоненты которых нужно сначала перемножить, а затем сложить полученные произведения. Все массивы должны иметь одинаковую размерность.</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1…are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the average.</source>
+        <comment>TX_ParaDesc_152</comment>
+        <translation>число1%1число2%1… от 1 до 30 чисел, имен, массивов или ссылок на числовые значения, для которых вычисляется среднее.</translation>
+    </message>
+    <message>
+        <source>is the position (from the largest) in the array or cell range of the value to return</source>
+        <comment>TX_ParaDesc_205</comment>
+        <translation>— позиция возвращаемого значения (начиная с наибольшей) в массиве или диапазоне ячеек</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 255 numeric arguments corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_423</comment>
+        <translation>число1%1число2%1... от 1 до 255 числовых аргументов, составляющих выборку из генеральной совокупности.</translation>
+    </message>
+    <message>
+        <source>Value 1%1value 2%1… are 1 to 30 plural numbers, used to calculate the product.</source>
+        <comment>TX_ParaDesc_522</comment>
+        <translation>Значение 1%1значение 2%1… от 1 до 30 числа для вычисления результата.</translation>
+    </message>
+    <message>
+        <source>The formula you entered contains errors. WPS Spreadsheets will automatically correct it as: 
+&apos;%s
+• To accept the correction, click OK.
+• To close this message and correct the formula by yourself, click Cancel.
+• If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
+        <comment>TX_InputFormula_Error</comment>
+        <translation>Введена ошибочная формула. WPS Spreadsheets автоматически исправит ошибки: 
+&apos;%s 
+•Если вы согласны с исправлениями, нажмите кнопку &quot;ОК&quot;. 
+•Если вы хотите закрыть это сообщение и исправить формулу самостоятельно, нажмите кнопку &quot;Отмена&quot;. 
+•Если вы не вводите формулу вручную, не используйте знак равенства (=), знак плюс (+) или минус (-) в начале формулы.</translation>
+    </message>
+    <message>
+        <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
+&apos;%s
+• To accept the correction, click OK.
+• To close this message and correct the formula by yourself, click Cancel
+• If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
+        <comment>TX_InputFormulaStringTooLong_Error</comment>
+        <translation type="obsolete">Слишком длиная постоянная строка символов в формуле. WPS Spreadsheets автоматически исправит ошибки: 
+&apos;%s 
+•Если вы согласны с исправлениями, нажмите кнопку &quot;ОК&quot;. 
+•Если вы хотите закрыть это сообщение и исправить формулу самостоятельно, нажмите кнопку &quot;Отмена&quot;. 
+•Если вы не вводите формулу вручную, не используйте знак равенства (=), знак плюс (+) или минус (-) в начале формулы.</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, creating a circular reference. Try one of the following:
+
+•If you do not want to create the circular reference, click OK, and correct the formula.
+•If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
+        <comment>TX_FORMULA_RECURSION</comment>
+        <translation>Невозможно вычислить формулу. Ячейка, на которую ссылается формула таже, что и ячейка, содержащая формулу, что приводит к циклической ссылке. Попробуйте одно из следующих действий: 
+
+•Если не хотите создавать циклическую ссылку, нажмите кнопку &quot;ОК&quot;, и исправьте формулу. 
+•Если необходимо использовать циклическую ссылку для вычисления результата, установите флажок &quot;Итерации&quot; в меню &quot;Сервис&quot;-&gt;&quot;Параметры&quot;.</translation>
+    </message>
+    <message>
+        <source>To create a chart, select the cells that contain the data you&apos;d like to use. If you have names for the rows and columns and you&apos;d like to use them as labels, include them in you selection.</source>
+        <comment>TX_CHart_EmptyCell</comment>
+        <translation>Чтобы создать диаграмму, выберите ячейки, содержащие данные, которые необходимо использовать. Если у строк и столбцов есть имена и их необходимо использовать в качестве меток, включите их в выделение.</translation>
+    </message>
+    <message>
+        <source>New Excel 2007/2010 Workbook</source>
+        <comment>TX_NEWBLANKXLSXFILECAPTION</comment>
+        <translation>Новая книга Excel 2007/2010</translation>
+    </message>
+    <message>
+        <source>New Excel 2003 Workbook</source>
+        <comment>TX_NEWBLANKXLSFILECAPTION</comment>
+        <translation>Новая книга Excel 2003</translation>
+    </message>
+    <message>
+        <source>Format Shape</source>
+        <comment>TX_SETSHAPECAPTION</comment>
+        <translation>Формат фигуры</translation>
+    </message>
+    <message>
+        <source>Dialog_Ref</source>
+        <comment>TX_ParaInfo_369</comment>
+        <translation>Dialog_Ref</translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_370</comment>
+        <translation>ном_типа</translation>
+    </message>
+    <message>
+        <source>This workbook cannot be shared because it contains WPS tables or XML maps. To share this workbook, convert the tables to ranges and remove the XML maps.</source>
+        <comment>TX_RemoveTable_ShareBook</comment>
+        <translation>Данную книгу нельзя сделать общей, так как она содержит таблицы Excel или карты XML. Чтобы открыть общий доступ к книге, необходимо преобразовать все таблицы в обычные диапазоны, а также удалить все карты XML.</translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>WP_NoSynonymsSuggestions_Caption</comment>
+        <translation type="obsolete">(нет предложений синонимов)</translation>
+    </message>
+    <message>
+        <source>is the discount rate to apply to the cash flows.</source>
+        <comment>TX_ParaDesc_549</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a series of cash flows that correspond to a schedule of payments in dates.</source>
+        <comment>TX_ParaDesc_550</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16399,7 +17287,7 @@ There are several possible reasons:
     <message>
         <source>AutoFit Selection</source>
         <comment>TX_Undo_AutoFitSelection</comment>
-        <translation>Автоподбор ширины</translation>
+        <translation type="obsolete">Автоподбор ширины</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -16819,7 +17707,37 @@ There are several possible reasons:
     <message>
         <source>PivotTable&apos;s field filter</source>
         <comment>TX_Undo_PivotTableFilter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Фильтр поля сводной таблицы</translation>
+    </message>
+    <message>
+        <source>AutoFitSelection</source>
+        <comment>TX_Undo_AutoFitSelection</comment>
+        <translation>Автоподбор ширины</translation>
+    </message>
+    <message>
+        <source>Insert New Chart</source>
+        <comment>TX_Undo_InsertNewChart</comment>
+        <translation>Вставить новую диаграмму</translation>
+    </message>
+    <message>
+        <source>Table Resize</source>
+        <comment>TX_Undo_ListObjectRBDrag</comment>
+        <translation>Изменить размер таблицы</translation>
+    </message>
+    <message>
+        <source>Delete Colunm</source>
+        <comment>TX_Undo_ListColumnDelete</comment>
+        <translation>Удалить столбец</translation>
+    </message>
+    <message>
+        <source>Delete Row</source>
+        <comment>TX_Undo_ListRowDelete</comment>
+        <translation>Удалить строку</translation>
+    </message>
+    <message>
+        <source>New Table Style</source>
+        <comment>TX_Undo_NewTableStyle</comment>
+        <translation>Новый стиль таблицы</translation>
     </message>
 </context>
 <context>
@@ -16837,7 +17755,7 @@ There are several possible reasons:
     <message>
         <source>WPS Spreadsheets</source>
         <comment>et_LocalString</comment>
-        <translation></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>Accepted changes</source>
@@ -16947,7 +17865,7 @@ There are several possible reasons:
     <message>
         <source>*.*</source>
         <comment>et_sBrowseDefaultExt</comment>
-        <translation></translation>
+        <translation>*.*</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
@@ -16957,7 +17875,7 @@ There are several possible reasons:
     <message>
         <source>$00000304</source>
         <comment>et_sBrowseOption</comment>
-        <translation></translation>
+        <translation>$00000304</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -17513,7 +18431,7 @@ There are several possible reasons:
     <message>
         <source>&amp;[%s]</source>
         <comment>et_sFormat</comment>
-        <translation></translation>
+        <translation>&amp;[%s]</translation>
     </message>
     <message>
         <source>&amp;Format...</source>
@@ -17686,7 +18604,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>The measurement must be between %d cm and %f cm.</source>
         <comment>et_sMarginError</comment>
-        <translation>Измерение должно быть в диапазоне между %d см и%d см.</translation>
+        <translation>Измерение должно быть в диапазоне между %d см и%f см.</translation>
     </message>
     <message>
         <source>Margins do not fit page size.</source>
@@ -17841,7 +18759,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>No scaling</source>
         <comment>et_sNoScaling</comment>
-        <translation></translation>
+        <translation>Текущий</translation>
     </message>
     <message>
         <source>No Shading</source>
@@ -17921,7 +18839,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>&amp;A</source>
         <comment>et_sPageA</comment>
-        <translation></translation>
+        <translation>&amp;А</translation>
     </message>
     <message>
         <source>Drop Page Fields Here</source>
@@ -18506,7 +19424,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <message>
         <source>%d users are editing this file:</source>
         <comment>et_sWorkBookEditingUserCount</comment>
-        <translation>%s пользователи редактируют данный файл:</translation>
+        <translation>%d пользователи редактируют данный файл:</translation>
     </message>
     <message>
         <source>&amp;Standard column width:</source>
@@ -18536,7 +19454,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <message>
         <source>%d user is editing this file:</source>
         <comment>et_sWorkBookEditingUserCountOne</comment>
-        <translation>%s пользователь редактирует данный файл:</translation>
+        <translation>%d пользователь редактирует данный файл:</translation>
     </message>
     <message>
         <source>%d cell (s) found</source>
@@ -18628,7 +19546,21 @@ tically, only keep one row.
     <message>
         <source>Center Across</source>
         <comment>et_sCenterAcross</comment>
-        <translation type="unfinished">центрирование по</translation>
+        <translation>Через центр</translation>
+    </message>
+    <message>
+        <source>An unexpected error has occurred, Changes to your data cannot be saved.</source>
+        <translation>Возникла непредвиденная ошибка. Изменения данных сохранить невозможно.</translation>
+    </message>
+    <message>
+        <source>Table has been published successfully, the site is: &lt;a href=&quot;%s&quot;&gt;%s</source>
+        <comment>et_sListObjectPublishSuccessed</comment>
+        <translation>Таблица успешно опубликована; ее можно просмотреть по адресу: &lt;a href=&quot;%s&quot;&gt;%s.</translation>
+    </message>
+    <message>
+        <source>Cannot connect to the server at this time. Your table cannot be published.</source>
+        <comment>et_sListobjectPublishHostNotFound</comment>
+        <translation>Не удалось подключить сервер. Таблицу невозможно опубликовать.</translation>
     </message>
 </context>
 <context>
@@ -22558,7 +23490,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Places</source>
-        <translation type="obsolete">разрядов</translation>
+        <translation type="obsolete">Места</translation>
     </message>
     <message>
         <source>Real_num</source>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="tr_TR">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>BulletNumberGridWidget</name>
     <message>
@@ -817,10 +818,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open Image</source>
         <translation>Resim Aç</translation>
     </message>
@@ -851,10 +848,6 @@
 <context>
     <name>KxColorSettingPanel</name>
     <message>
-        <source>Accent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Accent and followed hyperlink</source>
         <translation type="unfinished"></translation>
     </message>
@@ -864,22 +857,46 @@
     </message>
     <message>
         <source>Background</source>
-        <translation>Arkaplan</translation>
+        <translation type="obsolete">Arkaplan</translation>
     </message>
     <message>
-        <source>Fills</source>
+        <source>Dark1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shadows</source>
+        <source>Light</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text and lines</source>
+        <source>Dark2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Title text</source>
+        <source>Light2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent6</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1133,6 +1150,29 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
 </context>
 <context>
+    <name>KxDlgCompatibilityChecker</name>
+    <message>
+        <source>Compatibility Checker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following features in this presentation are not supported by earlier versions of WPS Presentation.These features may be lost or degraded when you save this presentation in an earlier file format.Click Continue to save the presentation anyway. To retain all of your features click Cancel and save in one of the new file formats.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Summary:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">İptal</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgDateAndTime</name>
     <message>
         <source>&amp;Available formats:</source>
@@ -1193,80 +1233,24 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
 <context>
     <name>KxDlgFont</name>
     <message>
-        <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Default for new objects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Emboss</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Underline</source>
-        <translation>&amp;Altıçizili</translation>
-    </message>
-    <message>
-        <source>Asian text fo&amp;nt:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Altıçizili</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>Kalın</translation>
-    </message>
-    <message>
-        <source>Bold Italic</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Kalın</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation>Efektler</translation>
-    </message>
-    <message>
-        <source>F&amp;ont style:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Efektler</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Yazıtipi</translation>
+        <translation type="obsolete">Yazıtipi</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Yatık</translation>
-    </message>
-    <message>
-        <source>Latin text &amp;font:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Offse&amp;t:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Regular</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sh&amp;adow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Su&amp;bscript</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Supe&amp;rscript</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Yatık</translation>
     </message>
 </context>
 <context>
@@ -1361,6 +1345,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter 0.1 cm to 5.079 cm of value</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1761,10 +1749,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Privacy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Prompt to &amp;keep ink when exiting</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1906,6 +1890,38 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2058,6 +2074,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <source>Widescreen</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Enter 2.54 to 142.22 cm of value</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgProgress</name>
@@ -2205,6 +2225,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <source>Total Playing Time:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;Hide icon on play</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgSplitCells</name>
@@ -2219,6 +2243,33 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <message>
         <source>Split Cells</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTrimMedia</name>
+    <message>
+        <source>Trim Media</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Start Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;End Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">Tamam</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">İptal</translation>
     </message>
 </context>
 <context>
@@ -2576,6 +2627,41 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <source>Slides per pa&amp;ge:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWppScaleSlideMode</name>
+    <message>
+        <source>Scale Slide Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are scaling to a new slide size. Would you like to maximize the size of your content, or scale it down to ensure it will fit on the new slide ?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ensure Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Maximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Ensure Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;İptal</translation>
+    </message>
 </context>
 <context>
     <name>KxDlglineSpace</name>
@@ -2896,34 +2982,36 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
 </context>
 <context>
-    <name>KxFontDlg</name>
+    <name>KxFormatOption_Background</name>
     <message>
-        <source>(Use Asian text font)</source>
+        <source>BACKGROUND OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty</name>
+    <message>
+        <source>TRANSFORM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
+        <source>POSITION</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_Background</name>
+    <message>
+        <source>FILL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This font size is not available.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This font style is not available.</source>
+        <source>Fill</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxFormatTableDlg</name>
-    <message>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Follow Accent Scheme Color</source>
         <translation type="unfinished"></translation>
@@ -2941,10 +3029,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Follow Fills Scheme Color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2958,6 +3042,61 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxHexSpinBox</name>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3022,6 +3161,13 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
 </context>
 <context>
+    <name>KxKsoTableStyleItem</name>
+    <message>
+        <source>Set As Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Banded Columns</source>
@@ -3080,6 +3226,13 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
 </context>
 <context>
+    <name>KxNoneItem</name>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxOptionsDlg</name>
     <message>
         <source>Please select one &amp;folder:</source>
@@ -3094,10 +3247,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <translation>Aç</translation>
     </message>
     <message>
-        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3107,6 +3256,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Select Folder:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3204,16 +3357,16 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
 <context>
     <name>KxRenameMasterDlgClass</name>
     <message>
-        <source>&amp;Master name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Rename</source>
         <translation>&amp;Yeniden Adlandır</translation>
     </message>
     <message>
-        <source>Rename Master</source>
+        <source>Rename</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation type="unfinished">&amp;İsim:</translation>
     </message>
 </context>
 <context>
@@ -3335,56 +3488,22 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
 <context>
     <name>KxTpAnimationSchemeWidget</name>
     <message>
-        <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Design Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxTpColorScheme</name>
-    <message>
-        <source>Apply a color scheme:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Infotip</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxTpColorSchemeWidget</name>
-    <message>
-        <source>Animation Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Design Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit Color Schemes...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideDesign</name>
     <message>
-        <source>Apply a design template:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Design Templates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Infotip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply a design template</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3398,19 +3517,15 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <source>Browse...</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Color Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxTpSlideLayout</name>
     <message>
-        <source>Apply a design template:</source>
+        <source>Show when inserting new slides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show when inserting new slides</source>
+        <source>Apply a design template</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3426,10 +3541,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Apply to Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to selected slides:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3480,13 +3591,13 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <source>Slide Transition</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Apply to selected slides</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpSlideTransitionWidget</name>
-    <message>
-        <source>Loop until next sound</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Play</source>
         <translation type="unfinished"></translation>
@@ -3504,6 +3615,21 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Table Style:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTrimMediaDlg</name>
+    <message>
+        <source>Trim Movie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trim Sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duration : </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3624,13 +3750,52 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
 </context>
 <context>
-    <name>KxWppColorModel</name>
+    <name>KxWppBorderStyleItem</name>
     <message>
-        <source>Automatic</source>
+        <source>No Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppBorderWidthItem</name>
+    <message>
+        <source>2.25</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Custom Color</source>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.25</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.75</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3849,7 +4014,21 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
 <context>
     <name>KxWppFillColorModel</name>
     <message>
+        <source>No Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFontColorModel</name>
+    <message>
         <source>No Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFontOutlineColorModel</name>
+    <message>
+        <source>No Outline</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3861,9 +4040,214 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
 </context>
 <context>
+    <name>KxWppFormatGroupContent_Fill</name>
+    <message>
+        <source>Slide background fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatProperty_FillAndLine</name>
+    <message>
+        <source>TEXT FILL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FILL</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatRangeSaveAsCommand</name>
+    <message>
+        <source>Preparing for Video Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to setup Supporter of Video Export.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppMediaBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppNewSlidesGalleryModel</name>
+    <message>
+        <source>Blank Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blank</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">Görünüm</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Düzenle</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished">Yazdır</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPlayerMediaBar</name>
+    <message>
+        <source>Play/Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3911,6 +4295,75 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>All slides among this range are marked as hidden!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPrstFillModel</name>
+    <message>
+        <source>Background Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppShowOffscreen</name>
+    <message>
+        <source>An Offscreen Show of this presentation is already running.
+Sure to close?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Fit Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppTpFormatting</name>
+    <message>
+        <source>Format Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Media</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format OleObject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format ControlObject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Ink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset Background</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4151,38 +4604,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Follow Accent Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Background Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Fills Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Shadows Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Text and Lines Sheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Title Text Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>In the %1 Show</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4372,33 +4793,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
 </context>
 <context>
-    <name>SchemeLayoutPanel</name>
-    <message>
-        <source>Apply to &amp;All Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to &amp;All Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to &amp;Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to &amp;Selected Masters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show &amp;Large Previews</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>TpWppCustomAnimation</name>
     <message>
         <source>Add Effects</source>
@@ -4414,10 +4808,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Animation:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4684,6 +5074,18 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select OFD Service Provider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suwell&amp;K</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Foxit</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4975,10 +5377,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fill &amp;color:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Format Table</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4992,10 +5390,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Rotat&amp;e text within cell by 90 degrees</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Semi&amp;transparent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5043,15 +5437,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbFillColor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>cbOrientation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbSemitransparent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5064,10 +5450,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>cmbBorderWidth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cmbFillColor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5084,6 +5466,106 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Bottom Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture or texture fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pattern fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter 0%  to 100% of value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation type="unfinished">%</translation>
+    </message>
+    <message>
+        <source>&amp;Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient Linear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient Radial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient Rect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter 0  to 359 Degrees of value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gra&amp;dient stops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Source From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;File...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Source From &amp;Texture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fore&amp;ground</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter 0cm to 55.88cm of the Value</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5122,6 +5604,41 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>WPS Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>wppContentPosition</name>
+    <message>
+        <source>&amp;Horizontal position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter -5963.92  to 5963.92 cm of value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Left Corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Vertical position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;rom</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

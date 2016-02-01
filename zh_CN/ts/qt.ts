@@ -1471,7 +1471,7 @@ to
     <message>
         <location line="-137"/>
         <source>Cannot remove source file</source>
-        <translation type="unfinished"></translation>
+        <translation>无法删除源文件</translation>
     </message>
     <message>
         <location line="-33"/>
@@ -2362,7 +2362,7 @@ Do you want to replace it?</source>
     <message>
         <location filename="../src/network/access/qhttp.cpp" line="+179"/>
         <source>Unknown authentication method</source>
-        <translation type="unfinished"></translation>
+        <translation>未知验证方式</translation>
     </message>
     <message>
         <location line="-1178"/>
@@ -3092,7 +3092,7 @@ Do you want to replace it?</source>
     <message>
         <location filename="../src/gui/dialogs/qmessagebox.cpp" line="-637"/>
         <source>&lt;h3&gt;About Qt&lt;/h3&gt;&lt;p&gt;This program uses Qt version %1.&lt;/p&gt;&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants. Qt is also available for embedded devices as Qt for Embedded Linux and Qt for Windows CE.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 2.1 or GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt applications (proprietary or open source) provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU General Public License version 3.0 is appropriate for the development of Qt applications where you wish to use such applications in combination with software subject to the terms of the GNU GPL version 3.0 or where you are otherwise willing to comply with the terms of the GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) 2010 Nokia Corporation and/or its subsidiary(-ies).&lt;/p&gt;&lt;p&gt;Qt is a Nokia product. See &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt; for more information.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&lt;p&gt;This program uses Qt Open Source Edition version %1.&lt;/p&gt;&lt;p&gt;Qt Open Source Edition is intended for the development of Open Source applications. You need a commercial Qt license for development of proprietary (closed source) applications.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://qt.nokia.com/company/model/&quot;&gt;qt.nokia.com/company/model/&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;</source>
@@ -4495,7 +4495,7 @@ Please choose a different file name.</source>
     <message>
         <location line="+203"/>
         <source>No program defined</source>
-        <translation type="unfinished"></translation>
+        <translation>没有被定义的程序</translation>
     </message>
     <message>
         <location line="-912"/>
@@ -5991,12 +5991,12 @@ Please choose a different file name.</source>
     <message>
         <location filename="../src/3rdparty/webkit/WebKit/qt/Api/qwebpage.cpp" line="+39"/>
         <source>Insert a new line</source>
-        <translation type="unfinished"></translation>
+        <translation>插入新一行</translation>
     </message>
     <message>
         <location line="-3"/>
         <source>Insert a new paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>插入新段落</translation>
     </message>
     <message>
         <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="+106"/>
@@ -6251,7 +6251,7 @@ Please choose a different file name.</source>
     <message>
         <location filename="../src/3rdparty/webkit/WebKit/qt/Api/qwebpage.cpp" line="+18"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>全选</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -7271,7 +7271,7 @@ Please choose a different file name.</source>
     <message>
         <location filename="../src/xmlpatterns/expr/qcomputednamespaceconstructor.cpp" line="+69"/>
         <source>In a namespace constructor, the value for a namespace cannot be an empty string.</source>
-        <translation type="unfinished"></translation>
+        <translation>在一个命名空间构造中，命名空间的值不能为空字符串。</translation>
     </message>
     <message>
         <source>In a namespace constructor, the value for a namespace value cannot be an empty string.</source>

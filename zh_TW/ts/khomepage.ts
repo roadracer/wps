@@ -22,7 +22,7 @@
     <message>
         <source>Check Online Templates</source>
         <comment>tooltip</comment>
-        <translation>檢查線上範本</translation>
+        <translation>檢查在線模板</translation>
     </message>
     <message>
         <source>Create a blank document at startup</source>
@@ -104,7 +104,7 @@
     <message>
         <source>Online Templates Pro</source>
         <comment>title</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS 辦公資源入口網站</translation>
     </message>
 </context>
 </TS>

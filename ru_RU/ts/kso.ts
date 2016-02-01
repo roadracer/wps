@@ -2292,7 +2292,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Object Deleted</source>
         <comment>_ksoErr_Basic_ObjectDeleted</comment>
-        <translation>Объект удалён</translation>
+        <translation>Объект удален</translation>
     </message>
     <message>
         <source>Value Out Of Range</source>
@@ -2302,12 +2302,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Invalid Parameter</source>
         <comment>_ksoErr_Basic_BadParameter</comment>
-        <translation>Неверный параметр</translation>
+        <translation>Недопустимый параметр</translation>
     </message>
     <message>
         <source>Command Failed</source>
         <comment>_ksoErr_Basic_CommandFailed</comment>
-        <translation>Не удалось выполнить команду</translation>
+        <translation>Ошибка команды</translation>
     </message>
     <message>
         <source>Unknown Error</source>
@@ -2345,14 +2345,474 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Value Out of Range</source>
         <comment>_ksoErr_Basic_ValueOutOfRange</comment>
-        <translation type="unfinished"></translation>
+        <translation>Значение лежит вне допустимого диапазона</translation>
     </message>
     <message>
         <source>The current user does not have the permission to write to the temporary directory.
 
 Please check your system settings and ensure that the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
-        <translation type="unfinished"></translation>
+        <translation>У текущего пользователя нет разрешений на запись во временный каталог.
+
+Проверьте настройки системы, убедитесь в наличии прав доступа к временному каталогу для текущего пользователя и перезагрузите WPS Office.</translation>
+    </message>
+</context>
+<context>
+    <name>kso_chart</name>
+    <message>
+        <source>Chart Area</source>
+        <comment>HINT_CHARTAREA</comment>
+        <translation>Область диаграммы</translation>
+    </message>
+    <message>
+        <source>Plot Area</source>
+        <comment>HINT_PLOTAREA</comment>
+        <translation>Область построения диаграммы</translation>
+    </message>
+    <message>
+        <source>Data Table</source>
+        <comment>HINT_DATATABLE</comment>
+        <translation>Таблица данных</translation>
+    </message>
+    <message>
+        <source>Chart Title</source>
+        <comment>HINT_CHARTTITLE</comment>
+        <translation>Название диаграммы</translation>
+    </message>
+    <message>
+        <source>Legend</source>
+        <comment>HINT_LEGEND</comment>
+        <translation>Условные обозначения</translation>
+    </message>
+    <message>
+        <source>Legend Entry</source>
+        <comment>HINT_LEGENDENTRY</comment>
+        <translation>Элемент легенды</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <comment>HINT_SERIES</comment>
+        <translation>Ряды</translation>
+    </message>
+    <message>
+        <source>Point</source>
+        <comment>HINT_POINT</comment>
+        <translation>Пункт</translation>
+    </message>
+    <message>
+        <source>Data Label</source>
+        <comment>HINT_DATALABEL</comment>
+        <translation>Подпись данных</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <comment>HINT_VALUE</comment>
+        <translation>Значение</translation>
+    </message>
+    <message>
+        <source>Trendline</source>
+        <comment>HINT_TRENDLINE</comment>
+        <translation>Линия тренда</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <comment>HINT_EQUATION</comment>
+        <translation>Формула</translation>
+    </message>
+    <message>
+        <source>Error Bar</source>
+        <comment>HINT_ERRORBAR</comment>
+        <translation>Предел погрешности</translation>
+    </message>
+    <message>
+        <source>Leader Line</source>
+        <comment>HINT_LEADERLINE</comment>
+        <translation>Линия выноски</translation>
+    </message>
+    <message>
+        <source>Unit Label</source>
+        <comment>HINT_UNITLABEL</comment>
+        <translation>Метка единицы измерения</translation>
+    </message>
+    <message>
+        <source>Category Label</source>
+        <comment>HINT_CATEGORYLABEL</comment>
+        <translation>Метка категории</translation>
+    </message>
+    <message>
+        <source>Secondary</source>
+        <comment>HINT_SECONDARY</comment>
+        <translation>Вторичная</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <comment>HINT_VERTICAL</comment>
+        <translation>Вертикально</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <comment>HINT_HORIZONTAL</comment>
+        <translation>Горизонтально</translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <comment>HINT_CATEGORY</comment>
+        <translation>Категория</translation>
+    </message>
+    <message>
+        <source>Axis</source>
+        <comment>HINT_AXIS</comment>
+        <translation>Ось</translation>
+    </message>
+    <message>
+        <source>Major Gridline</source>
+        <comment>HINT_MAJORGRIDLINE</comment>
+        <translation>Основная линия сетки</translation>
+    </message>
+    <message>
+        <source>Minor Gridline</source>
+        <comment>HINT_MINORGRIDLINE</comment>
+        <translation>Вспомогательная линия сетки</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>HINT_TITLE</comment>
+        <translation>Заголовок</translation>
+    </message>
+    <message>
+        <source>Series Lines</source>
+        <comment>HINT_SERIESLINES</comment>
+        <translation>Линии ряда</translation>
+    </message>
+    <message>
+        <source>Drop Lines</source>
+        <comment>HINT_DROPLINES</comment>
+        <translation>Линии проекции</translation>
+    </message>
+    <message>
+        <source>High-Low Lines</source>
+        <comment>HINT_HIGTLOWLINES</comment>
+        <translation>Интервал колебания</translation>
+    </message>
+    <message>
+        <source>Up-Bars</source>
+        <comment>HINT_UPBARS</comment>
+        <translation>Полосы повышения</translation>
+    </message>
+    <message>
+        <source>Down-Bars</source>
+        <comment>HINT_DOWNBARS</comment>
+        <translation>Полосы понижения</translation>
+    </message>
+    <message>
+        <source>Radar</source>
+        <comment>HINT_RADAR</comment>
+        <translation>Лепестковая</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <comment>HINT_TEXT</comment>
+        <translation>Текст</translation>
+    </message>
+    <message>
+        <source>Gridline</source>
+        <comment>HINT_GRIDLINE</comment>
+        <translation>Линия сетки</translation>
+    </message>
+    <message>
+        <source> OPTIONS</source>
+        <comment>CHART_FORMATTING_OPTION</comment>
+        <translation> ПАРАМЕТРЫ</translation>
+    </message>
+    <message>
+        <source>CAHRT</source>
+        <comment>CHART_FORMATTING_CHART</comment>
+        <translation>ДИАГРАММА</translation>
+    </message>
+    <message>
+        <source>TITLE</source>
+        <comment>CHART_FORMATTING_TITLE</comment>
+        <translation>ЗАГОЛОВОК</translation>
+    </message>
+    <message>
+        <source>AXIS</source>
+        <comment>CHART_FORMATTING_AXIS</comment>
+        <translation>ОСЬ</translation>
+    </message>
+    <message>
+        <source>LEGEND</source>
+        <comment>CHART_FORMATTING_LEGEND</comment>
+        <translation>УСЛОВНЫЕ ОБОЗНАЧЕНИЯ</translation>
+    </message>
+    <message>
+        <source>PLOT AREA</source>
+        <comment>CHART_FORMATTING_PLOTAREA</comment>
+        <translation>ОБЛАСТЬ ПОСТРОЕНИЯ ДИАГРАММЫ</translation>
+    </message>
+    <message>
+        <source>MAJOR GRIDLINES</source>
+        <comment>CHART_FORMATTING_MAJORGRIDLINES</comment>
+        <translation>ОСНОВНЫЕ ЛИНИИ СЕТКИ</translation>
+    </message>
+    <message>
+        <source>SERIES</source>
+        <comment>CHART_FORMATTING_SERIES</comment>
+        <translation>РЯДЫ</translation>
+    </message>
+    <message>
+        <source>MINOR GRIDLINES</source>
+        <comment>CHART_FORMATTING_MINORGRIDLINES</comment>
+        <translation>ВСПОМОГАТЕЛЬНЫЕ ЛИНИИ СЕТКИ</translation>
+    </message>
+    <message>
+        <source>LEGEND ENTRY</source>
+        <comment>CHART_FORMATTING_LEGENDENTRY</comment>
+        <translation>ЭЛЕМЕНТ ЛЕГЕНДЫ</translation>
+    </message>
+    <message>
+        <source>POINT</source>
+        <comment>CHART_FORMATTING_POINT</comment>
+        <translation>ПУНКТ</translation>
+    </message>
+    <message>
+        <source>DATA LABEL</source>
+        <comment>CHART_FORMATTING_DATALABEL</comment>
+        <translation>ПОДПИСЬ ДАННЫХ</translation>
+    </message>
+    <message>
+        <source>TRENDLINE</source>
+        <comment>CHART_FORMATTING_TRENDLINE</comment>
+        <translation>ЛИНИЯ ТРЕНДА</translation>
+    </message>
+    <message>
+        <source>ERROR BAR</source>
+        <comment>CHART_FORMATTING_ERRORBAR</comment>
+        <translation>ПРЕДЕЛ ПОГРЕШНОСТИ</translation>
+    </message>
+    <message>
+        <source>LEADER LINE</source>
+        <comment>CHART_FORMATTING_LEADERLINES</comment>
+        <translation>ЛИНИЯ ВЫНОСКИ</translation>
+    </message>
+    <message>
+        <source>CATEGORY LABEL</source>
+        <comment>CHART_FORMATTING_CATEGORYLABEL</comment>
+        <translation>МЕТКА КАТЕГОРИИ</translation>
+    </message>
+    <message>
+        <source>SERIES LINE</source>
+        <comment>CHART_FORMATTING_SERIESLINES</comment>
+        <translation>ЛИНИЯ РЯДА</translation>
+    </message>
+    <message>
+        <source>DROP LINE</source>
+        <comment>CHART_FORMATTING_DROPLINES</comment>
+        <translation>ЛИНИЯ ПРОЕКЦИИ</translation>
+    </message>
+    <message>
+        <source>HIGH_LOW LINE</source>
+        <comment>CHART_FORMATTING_HIGTLOWLINES</comment>
+        <translation>ВЫСОКАЯ_НИЗКАЯ ЛИНИЯ</translation>
+    </message>
+    <message>
+        <source>UP-BARS</source>
+        <comment>CHART_FORMATTING_UPBARS</comment>
+        <translation>ПОЛОСЫ ПОВЫШЕНИЯ</translation>
+    </message>
+    <message>
+        <source>DOWN-BARS</source>
+        <comment>CHART_FORMATTING_DOWNBARS</comment>
+        <translation>ПОЛОСЫ ПОНИЖЕНИЯ</translation>
+    </message>
+    <message>
+        <source>LABEL</source>
+        <comment>CHART_FORMATTING_LABEL</comment>
+        <translation>МЕТКА</translation>
+    </message>
+    <message>
+        <source>TABEL</source>
+        <comment>CHART_FORMATTING_TABLE</comment>
+        <translation>ТАБЛИЦА</translation>
+    </message>
+    <message>
+        <source>Chart Title</source>
+        <comment>CHART_DEFAULTTEXT_CHARTTITLE</comment>
+        <translation>Название диаграммы</translation>
+    </message>
+    <message>
+        <source>Axis Title</source>
+        <comment>CHART_DEFAULTTEXT_AXISTITLE</comment>
+        <translation>Название оси</translation>
+    </message>
+    <message>
+        <source>Sales</source>
+        <comment>CHART_DEFAULTTEXT_SALES</comment>
+        <translation>Продажи</translation>
+    </message>
+    <message>
+        <source>1st Qtr</source>
+        <comment>CHART_DEFAULTTEXT_FIRSTQUARTER</comment>
+        <translation>1-й квартал</translation>
+    </message>
+    <message>
+        <source>2nd Qtr</source>
+        <comment>CHART_DEFAULTTEXT_SECONDQUARTER</comment>
+        <translation>2-й квартал</translation>
+    </message>
+    <message>
+        <source>3rd Qtr</source>
+        <comment>CHART_DEFAULTTEXT_THIRDQUARTER</comment>
+        <translation>3-й квартал</translation>
+    </message>
+    <message>
+        <source>4th Qtr</source>
+        <comment>CHART_DEFAULTTEXT_FOURTHQUARTER</comment>
+        <translation>4-й квартал</translation>
+    </message>
+    <message>
+        <source>Series 1</source>
+        <comment>CHART_DEFAULTTEXT_SERIES1</comment>
+        <translation>Ряды 1</translation>
+    </message>
+    <message>
+        <source>Series 2</source>
+        <comment>CHART_DEFAULTTEXT_SERIES2</comment>
+        <translation>Ряды 2</translation>
+    </message>
+    <message>
+        <source>Series 3</source>
+        <comment>CHART_DEFAULTTEXT_SERIES3</comment>
+        <translation>Ряды 3</translation>
+    </message>
+    <message>
+        <source>Series 4</source>
+        <comment>CHART_DEFAULTTEXT_SERIES4</comment>
+        <translation>Ряды 4</translation>
+    </message>
+    <message>
+        <source>Category 1</source>
+        <comment>CHART_DEFAULTTEXT_CATEGORY1</comment>
+        <translation>Категория 1</translation>
+    </message>
+    <message>
+        <source>Category 2</source>
+        <comment>CHART_DEFAULTTEXT_CATEGORY2</comment>
+        <translation>Категория 2</translation>
+    </message>
+    <message>
+        <source>Category 3</source>
+        <comment>CHART_DEFAULTTEXT_CATEGORY3</comment>
+        <translation>Категория 3</translation>
+    </message>
+    <message>
+        <source>Category 4</source>
+        <comment>CHART_DEFAULTTEXT_CATEGORY4</comment>
+        <translation>Категория 4</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_VOLUME</comment>
+        <translation>Громкость</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_OPEN</comment>
+        <translation>Открыть</translation>
+    </message>
+    <message>
+        <source>High</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_HIGH</comment>
+        <translation>Высокий</translation>
+    </message>
+    <message>
+        <source>Low</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_LOW</comment>
+        <translation>Низкий</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>CHART_DEFAULTTEXT_STOCK_CLOSE</comment>
+        <translation>Закрыть</translation>
+    </message>
+    <message>
+        <source>Y-Values</source>
+        <comment>CHART_DEFAULTTEXT_Y_VALUES</comment>
+        <translation>Значение Y</translation>
+    </message>
+    <message>
+        <source>Expon</source>
+        <comment>CHART_DEFAULTTEXT_LINE_EXPON</comment>
+        <translation>Экспоненциальное</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <comment>CHART_DEFAULTTEXT_LINE_LINEAR</comment>
+        <translation>Линейные</translation>
+    </message>
+    <message>
+        <source>Log</source>
+        <comment>CHART_DEFAULTTEXT_LINE_LOG</comment>
+        <translation>Логарифмический</translation>
+    </message>
+    <message>
+        <source>Poly</source>
+        <comment>CHART_DEFAULTTEXT_LINE_POLY</comment>
+        <translation>Полиномиальный</translation>
+    </message>
+    <message>
+        <source>Power </source>
+        <comment>CHART_DEFAULTTEXT_LINE_POWER</comment>
+        <translation>Степень </translation>
+    </message>
+    <message>
+        <source>per. Mov. Avg.</source>
+        <comment>CHART_DEFAULTTEXT_LINE_AVGMOV</comment>
+        <translation>Линейный фильтр</translation>
+    </message>
+    <message>
+        <source>Hundreds</source>
+        <comment>CHART_UNITLABEL_HUNDREDS</comment>
+        <translation>Сотни</translation>
+    </message>
+    <message>
+        <source>Thousands</source>
+        <comment>CHART_UNITLABEL_THOUSANDS</comment>
+        <translation>Тысячи</translation>
+    </message>
+    <message>
+        <source>Millions</source>
+        <comment>CHART_UNITLABEL_MILLIONS</comment>
+        <translation>Миллионы</translation>
+    </message>
+    <message>
+        <source>Billions</source>
+        <comment>CHART_UNITLABEL_BILLIONS</comment>
+        <translation>Миллиарды</translation>
+    </message>
+    <message>
+        <source>Trillions</source>
+        <comment>CHART_UNITLABEL_TRILLIONS</comment>
+        <translation>Триллионы</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>CHART_UNITLABEL_NONE</comment>
+        <translation>Нет</translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <comment>CHART_DATALABELTEXT_OTHER</comment>
+        <translation>Другие</translation>
+    </message>
+    <message>
+        <source>The linked file is not available.</source>
+        <comment>CHART_UnavailableChartLinkPath</comment>
+        <translation>Связанный файл недоступен.</translation>
+    </message>
+    <message>
+        <source>To Insert a Chart,you must first close any open dialog boxes or cancel editing mode in WPS Spreadsheets.</source>
+        <comment>CHART_CanNotWriteChartLinkPath</comment>
+        <translation>Перед вставкой диаграммы необходимо закрыть все диалоговые окна или выйти из режима редактирования в программе WPS Spreadsheets.</translation>
     </message>
 </context>
 <context>
@@ -2410,12 +2870,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Data of WPS Drawing</source>
         <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
-        <translation>Данные WPS Drawing</translation>
+        <translation type="unfinished">Данные WPS Drawing</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Drawing.</source>
         <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
-        <translation>Содержимое буфера обмена будет вставлено как данные WPS Drawing.</translation>
+        <translation type="unfinished">Содержимое буфера обмена будет вставлено как данные WPS Drawing.</translation>
     </message>
     <message>
         <source>%s Object</source>
@@ -2445,67 +2905,67 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>The contents of the clipboard will be inserted as an Enhanced Metafile.</source>
         <comment>TX_KSO_CF_PIC_ENHMETAFILEPICT_RESULTNAME</comment>
-        <translation>Содержимое буфера обмена будет вставлено как Метафайл Windows (EMF).</translation>
+        <translation>Содержимое буфера обмена будет вставлено как расширенный метафайл Windows (EMF)</translation>
     </message>
     <message>
         <source>Picture (PNG)</source>
         <comment>TX_KSO_CF_PIC_PNG_DISPNAME</comment>
-        <translation>Изображение (PNG)</translation>
+        <translation>Рисунок (PNG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a PNG picture.</source>
         <comment>TX_KSO_CF_PIC_PNG_RESULTNAME</comment>
-        <translation>Содержимое буфера обмена будет вставлено как изображение PNG.</translation>
+        <translation>Содержимое буфера обмена будет вставлено как рисунок PNG.</translation>
     </message>
     <message>
         <source>Picture (JFIF)</source>
         <comment>TX_KSO_CF_PIC_JFIF_DISPNAME</comment>
-        <translation>Изображение (JFIF)</translation>
+        <translation>Рисунок (JFIF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JFIF picture.</source>
         <comment>TX_KSO_CF_PIC_JFIF_RESULTNAME</comment>
-        <translation>Содержимое буфера обмена будет вставлено как изображение JFIF.</translation>
+        <translation>Содержимое буфера обмена будет вставлено как рисунок JFIF.</translation>
     </message>
     <message>
         <source>Picture (GIF)</source>
         <comment>TX_KSO_CF_PIC_GIF_DISPNAME</comment>
-        <translation>Изображение (GIF)</translation>
+        <translation>Рисунок (GIF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a GIF picture.</source>
         <comment>TX_KSO_CF_PIC_GIF_RESULTNAME</comment>
-        <translation>Содержимое буфера обмена будет вставлено как изображение GIF.</translation>
+        <translation>Содержимое буфера обмена будет вставлено как рисунок GIF.</translation>
     </message>
     <message>
         <source>Bitmap</source>
         <comment>TX_KSO_CF_PIC_BITMAP_DISPNAME</comment>
-        <translation>Точечное изображение (BMP)</translation>
+        <translation>Точечный рисунок (BMP)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a Bitmap picture.</source>
         <comment>TX_KSO_CF_PIC_BITMAP_RESULTNAME</comment>
-        <translation>Содержимое буфера обмена будет вставлено как точечное изображение.</translation>
+        <translation>Содержимое буфера обмена будет вставлено как точечный рисунок.</translation>
     </message>
     <message>
         <source>Device Independent Bitmap</source>
         <comment>TX_KSO_CF_PIC_DIB_DISPNAME</comment>
-        <translation>Аппаратно-независимое точечное изображение</translation>
+        <translation>Аппаратно-независимое точечный рисунок</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a Device Independent Bitmap picture.</source>
         <comment>TX_KSO_CF_PIC_DIB_RESULTNAME</comment>
-        <translation>Содержимое буфера обмена будет вставлено как аппаратно-независимое точечное изображение.</translation>
+        <translation>Содержимое буфера обмена будет вставлено как аппаратно-независимое точечный рисунок.</translation>
     </message>
     <message>
         <source>Picture (JPG)</source>
         <comment>TX_KSO_CF_PIC_JPG_DISPNAME</comment>
-        <translation>Изображение (JPG)</translation>
+        <translation>Рисунок (JPG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JPG picture.</source>
         <comment>TX_KSO_CF_PIC_JPG_RESULTNAME</comment>
-        <translation>Содержимое буфера обмена будет вставлено как изображение JPG.</translation>
+        <translation>Содержимое буфера обмена будет вставлено как рисунок JPG.</translation>
     </message>
     <message>
         <source>Formatted Text (RTF)</source>
@@ -2540,7 +3000,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>FILES</source>
         <comment>TX_KSO_CF_HDROP_DISPNAME</comment>
-        <translation></translation>
+        <translation>ФАЙЛЫ</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as FILES Format.</source>
@@ -2555,22 +3015,82 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Picture(JPEG)</source>
         <comment>TX_KSO_MSO_CF_PIC_JPEG_DISPNAME</comment>
-        <translation>Изображение (JPEG)</translation>
+        <translation>Рисунок (JPEG)</translation>
     </message>
     <message>
         <source>Picture(GIF)</source>
         <comment>TX_KSO_MSO_CF_PIC_GIF_DISPNAME</comment>
-        <translation>Изображение (GIF)</translation>
+        <translation>Рисунок (GIF)</translation>
     </message>
     <message>
         <source>Picture(PNG)</source>
         <comment>TX_KSO_MSO_CF_PIC_PNG_DISPNAME</comment>
-        <translation>Изображение (PNG)</translation>
+        <translation>Рисунок (PNG)</translation>
     </message>
     <message>
         <source>Unicode Text</source>
         <comment>TX_KSO_CF_UNICODE_TEXT</comment>
-        <translation>Текст в кодировке Unicode</translation>
+        <translation>Текст в Юникоде</translation>
+    </message>
+    <message>
+        <source>New Data of Kingsoft Writer</source>
+        <comment>TX_KSO_CF_WPS_DOCX_DISPNAME</comment>
+        <translation>Новые данные Kingsoft Writer</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as New Data of Kingsoft Writer.</source>
+        <comment>TX_KSO_CF_WPS_DOCX_RESULTNAME</comment>
+        <translation>Вставка содержимого буфера обмена в качестве новых данных WPS Writer.</translation>
+    </message>
+    <message>
+        <source>Data of Kingsoft Presentation Slide.</source>
+        <comment>TX_KSO_CF_SLIDES_DISPNAME</comment>
+        <translation>Слайд WPS Presentation</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Presentation Slide.</source>
+        <comment>TX_KSO_CF_SLIDES_RESULTNAME</comment>
+        <translation>Вставка содержимого буфера обмена в качестве слайда WPS Presentation.</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Drawing.</source>
+        <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
+        <translation type="unfinished">Содержимое буфера обмена будет вставлено как данные Kingsoft Drawing.</translation>
+    </message>
+    <message>
+        <source>ET Drag Drawing</source>
+        <comment>TX_KSO_CF_ET_DRAG_SHAPE_DISPNAME</comment>
+        <translation>Перетаскиваемый рисунок ET</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Drag Drawing.</source>
+        <comment>TX_KSO_CF_ET_DRAG_SHAPE_RESULTNAME</comment>
+        <translation>Содержимое буфера обмена будет вставлено как данные перетаскиваемого рисунка Kingsoft.</translation>
+    </message>
+    <message>
+        <source>WPS Office Graphic Object</source>
+        <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
+        <translation type="obsolete">Графический объект WPS Office</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as WPS Office Graphic Object.</source>
+        <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
+        <translation type="obsolete">Вставка содержимого буфера обмена в качестве графического объекта WPS Office.</translation>
+    </message>
+    <message>
+        <source>WPS Office Graphic Object</source>
+        <comment>TX_KSO_CF_DRAWING_DISPNAME</comment>
+        <translation type="obsolete">Графический объект WPS Office</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as WPS Office Graphic Object.</source>
+        <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
+        <translation type="obsolete">Вставка содержимого буфера обмена в качестве графического объекта WPS Office.</translation>
+    </message>
+    <message>
+        <source>Data of Kingsoft Drawing</source>
+        <comment>TX_KSO_CF_DRAWING_DISPNAME</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2578,12 +3098,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
         <comment>DgAllPicture</comment>
-        <translation>Все изображения(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
+        <translation type="obsolete">Все рисунки(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
         <comment>DgUil_EnhancedMetaFiles</comment>
-        <translation>Метафайл Windows (EMF)(*.emf)|*.emf</translation>
+        <translation>Расширенный метафайл Windows (EMF)(*.emf)|*.emf</translation>
     </message>
     <message>
         <source>Windows Metafile(*.wmf)|*.wmf</source>
@@ -2618,7 +3138,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_DlgPictureTitle</comment>
-        <translation>Вставить изображение</translation>
+        <translation>Вставить рисунок</translation>
     </message>
     <message>
         <source>Insert AutoShape</source>
@@ -2628,7 +3148,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Insert Connector</source>
         <comment>DgUil_InsertConnector</comment>
-        <translation>Вставить Конектор</translation>
+        <translation>Вставить соединитель</translation>
     </message>
     <message>
         <source>Insert Line</source>
@@ -2643,7 +3163,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Insert Curve</source>
         <comment>DgUil_InsertCurve</comment>
-        <translation>Проведение кривой</translation>
+        <translation>Вставить кривую</translation>
     </message>
     <message>
         <source>Insert Freeform</source>
@@ -2813,27 +3333,27 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Free Rotate</source>
         <comment>DgUil_KSO_Cmd_FreeRotate</comment>
-        <translation>Свободное вращение</translation>
+        <translation>Свободный поворот</translation>
     </message>
     <message>
         <source>Rotate Left 90º</source>
         <comment>DgUil_KSO_Cmd_RotateFlip_Value0</comment>
-        <translation>Повернуть влево на 90º</translation>
+        <translation>Повернуть влево на 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90º</source>
         <comment>DgUil_KSO_Cmd_RotateFlip_Value1</comment>
-        <translation>Повернуть вправо на 90º</translation>
+        <translation>Повернуть вправо на 90°</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
         <comment>DgUil_KSO_Cmd_RotateFlip_Value2</comment>
-        <translation>Зеркально по горизонтали</translation>
+        <translation>Отразить слева направо</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
         <comment>DgUil_KSO_Cmd_RotateFlip_Value3</comment>
-        <translation>Зеркально по вертикали</translation>
+        <translation>Отразить сверху вниз</translation>
     </message>
     <message>
         <source>Reroute Connectors</source>
@@ -2848,7 +3368,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Change to Autoshape</source>
         <comment>DgUil_KSO_Cmd_ChangeAutoShape</comment>
-        <translation>Изменить на автофигуру</translation>
+        <translation type="obsolete">Изменить на автофигуру</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
@@ -2973,7 +3493,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DStylePalette</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>Toggle 3-D</source>
@@ -3003,32 +3523,32 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value0</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value36</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value72</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value144</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value288</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepthInfinity</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>Custom 3-D</source>
@@ -3038,57 +3558,57 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDirectionPalette</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDirctionType_Value0</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDirctionType_Value1</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DLightingPalette</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DLightingType_Value0</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DLightingType_Value1</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DLightingType_Value2</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DSurfaceType_Value0</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DSurfaceType_Value1</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DSurfaceType_Value2</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DSurfaceType_Value3</comment>
-        <translation></translation>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -3273,7 +3793,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Tight</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value1</comment>
-        <translation>Плотный</translation>
+        <translation>Узкий</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -3283,12 +3803,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Loose</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value3</comment>
-        <translation>Разреженный</translation>
+        <translation>Широкий</translation>
     </message>
     <message>
         <source>Very Loose</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value4</comment>
-        <translation>Очень разреженный</translation>
+        <translation>Очень широкий</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -3328,12 +3848,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Insert Text Box</source>
         <comment>DgUil_KSO_Cmd_InsertTextboxHorizontal</comment>
-        <translation>Вставить текстовое поле</translation>
+        <translation>Вставить надпись</translation>
     </message>
     <message>
         <source>Insert Vertical Text Box</source>
         <comment>DgUil_KSO_Cmd_InsertTextboxVertical</comment>
-        <translation>Вставить вертикальное текстовое поле</translation>
+        <translation>Вставить вертикальную надпись</translation>
     </message>
     <message>
         <source>Insert Diagram or Organization Chart</source>
@@ -3343,12 +3863,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Insert Clip Art</source>
         <comment>DgUil_KSO_Cmd_InsertClipArt</comment>
-        <translation>Вставить клип</translation>
+        <translation>Вставить картику</translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_KSO_Cmd_InsertPictureFromFile</comment>
-        <translation>Вставить изображение</translation>
+        <translation>Вставить рисунок</translation>
     </message>
     <message>
         <source>Insert OLE Object</source>
@@ -3363,7 +3883,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>AutoShape</source>
         <comment>DgUil_KSO_Cmd_DynamicShape</comment>
-        <translation>Автофигуры</translation>
+        <translation type="obsolete">Автофигуры</translation>
     </message>
     <message>
         <source>Edit Text</source>
@@ -3378,7 +3898,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Insert Text Box</source>
         <comment>DgUil_KSO_Cmd_AddTextbox</comment>
-        <translation>Вставить текстовое поле</translation>
+        <translation>Вставить надпись</translation>
     </message>
     <message>
         <source>Update Link</source>
@@ -3453,22 +3973,22 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Reset Picture</source>
         <comment>DgUil_KSO_Cmd_ResetPicture</comment>
-        <translation>Восстановить изображение</translation>
+        <translation>Восстановить рисунок</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>DgUil_KSO_WPS_NAME</comment>
-        <translation></translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>DgUil_KSO_ET_NAME</comment>
-        <translation></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>DgUil_KSO_WPP_NAME</comment>
-        <translation></translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>pt</source>
@@ -3488,13 +4008,13 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Compress Pictures</source>
         <comment>DgUil_KSO_Cmd_CompressPictures</comment>
-        <translation>Сжать изображение</translation>
+        <translation>Сжать рисунок</translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
         <comment>DgUil_PromptCompressPicture</comment>
-        <translation>Изображение слишком велико. Можно применить сжатие для экономии дискового пространства, но сжатие может ухудшить качество изображения. Хотитет сжать изображение ?</translation>
+        <translation>рисунок слишком велик. Можно применить сжатие для экономии дискового пространства, но сжатие может ухудшить качество рисунки. Хотитет сжать рисунок ?</translation>
     </message>
     <message>
         <source>Your Text Here</source>
@@ -3519,32 +4039,32 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Unidentifiable picture format.</source>
         <comment>DgUil_KSO_Invalid_Picture</comment>
-        <translation>Неизвестный формат изображения.</translation>
+        <translation>Неизвестный формат рисунки.</translation>
     </message>
     <message>
         <source>Change Picture</source>
         <comment>DgUil_KSO_Cmd_ChangePicture</comment>
-        <translation>Изменить изображение</translation>
+        <translation>Изменить рисунок</translation>
     </message>
     <message>
         <source>Change Picture</source>
         <comment>DgUil_DlgChangePictureTitle</comment>
-        <translation>Изменить изображение</translation>
+        <translation>Изменить рисунок</translation>
     </message>
     <message>
         <source>The server application, source file, or item cannot be found, or returned an unknown error. You may need to reinstall the server application</source>
         <comment>DgUil_Prompt_DoVerbREGDB_E_CLASSNOTREG</comment>
-        <translation>Серверное приложение, исходный файл или элемент не найден или возвратил неизвестную ошибку. Возможно нужно переустановить серверное приложение.</translation>
+        <translation>Не найдены приложение-сервер, исходный файл или элемент. Необходимо переустановить приложение-сервер</translation>
     </message>
     <message>
         <source>Save as Picture</source>
         <comment>DgUil_Cmd_SaveAsPicture</comment>
-        <translation>Сохранить как изображение</translation>
+        <translation>Сохранить как рисунок</translation>
     </message>
     <message>
         <source>Picture</source>
         <comment>DgUil_Cmd_SaveAsPictureNameBase</comment>
-        <translation>Изображение</translation>
+        <translation>Рисунок</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)|*.jpg|Portable Network Graphics(*.png)|*.png|Tag Image File Format(*.tif)|*.tif|Windows Bitmap(*.bmp)|*.bmp</source>
@@ -3554,7 +4074,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Failed to save as a picture, because the file format is unsupported.</source>
         <comment>DgUil_Cmd_SaveAsPictureFailure</comment>
-        <translation>Ошибка сохранения как изображение, неподдерживаемый формат.</translation>
+        <translation>Ошибка сохранения как рисунок, неподдерживаемый формат.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -3605,6 +4125,56 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>Cannot find the specified file, please verify that the path and file name are correct.</source>
         <comment>DgUil_KSO_MediaFilePathIncorrect</comment>
         <translation>Ошибка поиска файла. Убедитесь в правильности пути и имени файла.</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp</source>
+        <comment>DgAllPicture</comment>
+        <translation>Все изображения (*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp</translation>
+    </message>
+    <message>
+        <source>Change To Autoshape</source>
+        <comment>DgUil_KSO_Cmd_ChangeAutoShape</comment>
+        <translation>Изменить на автофигуру</translation>
+    </message>
+    <message>
+        <source>Lines</source>
+        <comment>DgUil_KSO_Cmd_DynamicShape</comment>
+        <translation>Линии</translation>
+    </message>
+    <message>
+        <source>Reset Picture And Size</source>
+        <comment>DgUil_KSO_Cmd_ResetPictureAndSize</comment>
+        <translation>Сбросить рисунок и размер</translation>
+    </message>
+    <message>
+        <source>Edit Series</source>
+        <comment>DgUil_KSO_Cmd_EditChartDataSource</comment>
+        <translation>Изменить серии</translation>
+    </message>
+    <message>
+        <source>Select Data</source>
+        <comment>DgUil_KSO_Cmd_ChooseChartDataSource</comment>
+        <translation>Выделить данные</translation>
+    </message>
+    <message>
+        <source>Aspect Ratio</source>
+        <comment>DgUil_KSO_Cmd_PictureScaleCrop</comment>
+        <translation>Пропорции</translation>
+    </message>
+    <message>
+        <source>Crop to Shape</source>
+        <comment>DgUil_KSO_Cmd_PictureShapeCrop</comment>
+        <translation>Обрезать по фигуре</translation>
+    </message>
+    <message>
+        <source>Other Layout Options</source>
+        <comment>DgUil_KSO_Cmd_LayoutObject</comment>
+        <translation>Прочие параметры разметки</translation>
+    </message>
+    <message>
+        <source>There is not enough memory, Create Object Failed!</source>
+        <comment>DgUil_KSO_Cmd_OleCreateFailedByOutOfMemory</comment>
+        <translation>Не удалось создать объект из-за недостатка памяти.</translation>
     </message>
 </context>
 <context>
@@ -3952,7 +4522,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Picture</source>
         <comment>DRAWINGSTR_PICTUREFRAME</comment>
-        <translation>Изображение</translation>
+        <translation>Рисунок</translation>
     </message>
     <message>
         <source>Quad Arrow</source>
@@ -4062,12 +4632,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Vertical Scroll</source>
         <comment>DRAWINGSTR_VERTICALSCROLL</comment>
-        <translation>Вертикальная прокрутка</translation>
+        <translation>Вертикальный свиток</translation>
     </message>
     <message>
         <source>Horizontal Scroll</source>
         <comment>DRAWINGSTR_HORIZONTALSCROLL</comment>
-        <translation>Горизонтальная прокрутка</translation>
+        <translation>Горизонтальный свиток</translation>
     </message>
     <message>
         <source>Circular Arrow</source>
@@ -4157,7 +4727,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Terminator</source>
         <comment>DRAWINGSTR_FLOWCHARTTERMINATOR</comment>
-        <translation>Блок-схема: завершение</translation>
+        <translation>Блок-схема: знак завершения</translation>
     </message>
     <message>
         <source>Flowchart: Preparation</source>
@@ -4217,17 +4787,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Merge</source>
         <comment>DRAWINGSTR_FLOWCHARTMERGE</comment>
-        <translation>Блок-схема: слияние</translation>
+        <translation>Блок-схема: объединение</translation>
     </message>
     <message>
         <source>FlowChart: Offline Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTOFFLINESTORAGE</comment>
-        <translation>Блок-схема: внешнее хранилище</translation>
+        <translation>Блок-схема: автономное хранилище</translation>
     </message>
     <message>
         <source>Flowchart: Stored Data</source>
         <comment>DRAWINGSTR_FLOWCHARTONLINESTORAGE</comment>
-        <translation>Блок-схема: сохранённые данные</translation>
+        <translation>Блок-схема: сохраненные данные</translation>
     </message>
     <message>
         <source>Flowchart: Seqential Access Storage</source>
@@ -4317,22 +4887,22 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>WordArt: Arch Up Pour</source>
         <comment>DRAWINGSTR_TEXTARCHUPPOUR</comment>
-        <translation>Дуга вверх (утолщённая)</translation>
+        <translation>Дуга вверх (утолщенная)</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Pour</source>
         <comment>DRAWINGSTR_TEXTARCHDOWNPOUR</comment>
-        <translation>Дуга вниз (утолщённая)</translation>
+        <translation>Дуга вниз (утолщенная)</translation>
     </message>
     <message>
         <source>WordArt: Circle Pour</source>
         <comment>DRAWINGSTR_TEXTCIRCLEPOUR</comment>
-        <translation>Окружность (утолщённая)</translation>
+        <translation>Окружность (утолщенная)</translation>
     </message>
     <message>
         <source>WordArt: Button Pour</source>
         <comment>DRAWINGSTR_TEXTBUTTONPOUR</comment>
-        <translation>Кнопка (утолщённая)</translation>
+        <translation>Кнопка (утолщенная)</translation>
     </message>
     <message>
         <source>WordArt: Curve Up</source>
@@ -4587,7 +5157,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Text Box</source>
         <comment>DRAWINGSTR_TEXTBOX</comment>
-        <translation>Текстовое поле</translation>
+        <translation>Надпись</translation>
     </message>
     <message>
         <source>Group</source>
@@ -4647,7 +5217,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Three-seater</source>
         <comment>DRAWINGSTR_COUCH2</comment>
-        <translation>Трёхместный</translation>
+        <translation>Трехместный</translation>
     </message>
     <message>
         <source>Curved Ribbon3</source>
@@ -4707,7 +5277,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Film</source>
         <comment>DRAWINGSTR_FILM</comment>
-        <translation>Плёнка</translation>
+        <translation>Пленка</translation>
     </message>
     <message>
         <source>Firewall</source>
@@ -4742,12 +5312,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Laptop</source>
         <comment>DRAWINGSTR_LAPTOP</comment>
-        <translation>Переносной компьютер</translation>
+        <translation>Ноутбук</translation>
     </message>
     <message>
         <source>Letter</source>
         <comment>DRAWINGSTR_LETTER</comment>
-        <translation>Символ</translation>
+        <translation>Письмо</translation>
     </message>
     <message>
         <source>Light bulb</source>
@@ -5107,12 +5677,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Twine</source>
         <comment>DRAWINGSTR_TRANSFER_TWINE</comment>
-        <translation>Верёвка</translation>
+        <translation>Веревка</translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <comment>DRAWINGSTR_INSERT_PICTURE</comment>
-        <translation>Вставить изображение</translation>
+        <translation>Вставить рисунок</translation>
     </message>
     <message>
         <source>Invalid index</source>
@@ -5122,7 +5692,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Invalid request. To select a shape, its view must be activated.</source>
         <comment>DRAWINGSTR_ERR_NOACTIVEVIEW</comment>
-        <translation>Недопустимый запрос. Чтобы выбрать форму, должно быть активировано её представление.</translation>
+        <translation>Недопустимый запрос. Чтобы выбрать форму, должно быть активировано ее представление.</translation>
     </message>
     <message>
         <source>The value specified is beyond the range.</source>
@@ -5137,7 +5707,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Change Picture</source>
         <comment>DRAWINGSTR_CHANGE_PICTURE</comment>
-        <translation>Изменить изображение</translation>
+        <translation>Изменить рисунок</translation>
     </message>
     <message>
         <source>Click to add text</source>
@@ -5242,7 +5812,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Black Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_BLACK_GRADIENT</comment>
-        <translation>Чёрный градиент</translation>
+        <translation>Черный градиент</translation>
     </message>
     <message>
         <source>FreeForm</source>
@@ -5253,6 +5823,4154 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>Flowchart: Sequential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
         <translation>Блок-схема: память с последовательным доступом</translation>
+    </message>
+    <message>
+        <source>AutoShape</source>
+        <comment>DRAWINGSTR_AUTOSHAPE</comment>
+        <translation>Автофигуры</translation>
+    </message>
+    <message>
+        <source>WordArt</source>
+        <comment>DRAWINGSTR_WORDART</comment>
+        <translation>Вставить фигурный текст</translation>
+    </message>
+    <message>
+        <source>Straight Connector</source>
+        <comment>DRAWING2STR_STRAIGHT_CONNECTOR</comment>
+        <translation>Прямое соединение</translation>
+    </message>
+    <message>
+        <source>Isosceles Triangle</source>
+        <comment>DRAWING2STR_ISOSCELES_TRIANGLE</comment>
+        <translation>Равнобедренный треугольник</translation>
+    </message>
+    <message>
+        <source>Right Triangle</source>
+        <comment>DRAWING2STR_RIGHT_TRIANGLE</comment>
+        <translation>Прямоугольный треугольник</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <comment>DRAWING2STR_RECTANGLE</comment>
+        <translation>Прямоугольник</translation>
+    </message>
+    <message>
+        <source>Diamond</source>
+        <comment>DRAWING2STR_DIAMOND</comment>
+        <translation>Ромб</translation>
+    </message>
+    <message>
+        <source>Parallelogram</source>
+        <comment>DRAWING2STR_PARALLELOGRAM</comment>
+        <translation>Параллелограмм</translation>
+    </message>
+    <message>
+        <source>Trapezoid</source>
+        <comment>DRAWING2STR_TRAPEZOID</comment>
+        <translation>Трапеция</translation>
+    </message>
+    <message>
+        <source>Shape</source>
+        <comment>DRAWING2STR_SHAPE</comment>
+        <translation>Фигура</translation>
+    </message>
+    <message>
+        <source>Regular Pentagon</source>
+        <comment>DRAWING2STR_REGULAR_PENTAGON</comment>
+        <translation>Правильный пятиугольник</translation>
+    </message>
+    <message>
+        <source>Hexagon</source>
+        <comment>DRAWING2STR_HEXAGON</comment>
+        <translation>Шестиугольник</translation>
+    </message>
+    <message>
+        <source>Heptagon</source>
+        <comment>DRAWING2STR_HEPTAGON</comment>
+        <translation>Семиугольник</translation>
+    </message>
+    <message>
+        <source>Octagon</source>
+        <comment>DRAWING2STR_OCTAGON</comment>
+        <translation>Восьмиугольник</translation>
+    </message>
+    <message>
+        <source>Decagon</source>
+        <comment>DRAWING2STR_DECAGON</comment>
+        <translation>Десятиугольник</translation>
+    </message>
+    <message>
+        <source>Dodecagon</source>
+        <comment>DRAWING2STR_DODECAGON</comment>
+        <translation>Двенадцатиугольник</translation>
+    </message>
+    <message>
+        <source>4-Point Star</source>
+        <comment>DRAWING2STR_4_POINT_STAR</comment>
+        <translation>4-конечная звезда</translation>
+    </message>
+    <message>
+        <source>5-Point Star</source>
+        <comment>DRAWING2STR_5_POINT_STAR</comment>
+        <translation>5 конечная звезда</translation>
+    </message>
+    <message>
+        <source>6-Point Star</source>
+        <comment>DRAWING2STR_6_POINT_STAR</comment>
+        <translation>6-конечная звезда</translation>
+    </message>
+    <message>
+        <source>7-Point Star</source>
+        <comment>DRAWING2STR_7_POINT_STAR</comment>
+        <translation>7-конечная звезда</translation>
+    </message>
+    <message>
+        <source>8-Point Star</source>
+        <comment>DRAWING2STR_8_POINT_STAR</comment>
+        <translation>8-конечная звезда</translation>
+    </message>
+    <message>
+        <source>10-Point Star</source>
+        <comment>DRAWING2STR_10_POINT_STAR</comment>
+        <translation>10-конечная звезда</translation>
+    </message>
+    <message>
+        <source>12-Point Star</source>
+        <comment>DRAWING2STR_12_POINT_STAR</comment>
+        <translation>12-конечная звезда</translation>
+    </message>
+    <message>
+        <source>16-Point Star</source>
+        <comment>DRAWING2STR_16_POINT_STAR</comment>
+        <translation>16-конечная звезда</translation>
+    </message>
+    <message>
+        <source>24-Point Star</source>
+        <comment>DRAWING2STR_24_POINT_STAR</comment>
+        <translation>24-конечная звезда</translation>
+    </message>
+    <message>
+        <source>32-Point Star</source>
+        <comment>DRAWING2STR_32_POINT_STAR</comment>
+        <translation>32-конечная звезда</translation>
+    </message>
+    <message>
+        <source>Rounded Rectangle</source>
+        <comment>DRAWING2STR_ROUNDED_RECTANGLE</comment>
+        <translation>Скругленный прямоугольник</translation>
+    </message>
+    <message>
+        <source>Round Single Corner Rectangle</source>
+        <comment>DRAWING2STR_ROUND_SINGLE_CORNER_RECTANGLE</comment>
+        <translation>Прямоугольник с одним скругленным углом</translation>
+    </message>
+    <message>
+        <source>Round Same Side Corner Rectangle</source>
+        <comment>DRAWING2STR_ROUND_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation>Прямоугольник с двумя скругленными соседними углами</translation>
+    </message>
+    <message>
+        <source>Round Diagonal Corner Rectangle</source>
+        <comment>DRAWING2STR_ROUND_DIAGONAL_CORNER_RECTANGLE</comment>
+        <translation>Прямоугольник с двумя скругленными противолежащими углами</translation>
+    </message>
+    <message>
+        <source>Snip and Round Single Corner Rectangle</source>
+        <comment>DRAWING2STR_SNIP_AND_ROUND_SINGLE_CORNER_RECTANGLE</comment>
+        <translation>Прямоугольник с одним вырезанным скругленным углом</translation>
+    </message>
+    <message>
+        <source>Snip Single Corner Rectangle</source>
+        <comment>DRAWING2STR_SNIP_SINGLE_CORNER_RECTANGLE</comment>
+        <translation>Прямоугольник с одним вырезанным углом</translation>
+    </message>
+    <message>
+        <source>Snip Same Side Corner Rectangle</source>
+        <comment>DRAWING2STR_SNIP_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation>Прямоугольник с двумя вырезанными соседними углами</translation>
+    </message>
+    <message>
+        <source>Snip Diagonal Corner Rectangle</source>
+        <comment>DRAWING2STR_SNIP_DIAGONAL_CORNER_RECTANGLE</comment>
+        <translation>Прямоугольник с двумя вырезанными противолежащими углами</translation>
+    </message>
+    <message>
+        <source>Plaque</source>
+        <comment>DRAWING2STR_PLAQUE</comment>
+        <translation>Табличка</translation>
+    </message>
+    <message>
+        <source>Oval</source>
+        <comment>DRAWING2STR_OVAL</comment>
+        <translation>Овал</translation>
+    </message>
+    <message>
+        <source>Teardrop</source>
+        <comment>DRAWING2STR_TEARDROP</comment>
+        <translation>Капля</translation>
+    </message>
+    <message>
+        <source>Pentagon</source>
+        <comment>DRAWING2STR_PENTAGON</comment>
+        <translation>Пятиугольник</translation>
+    </message>
+    <message>
+        <source>Chevron</source>
+        <comment>DRAWING2STR_CHEVRON</comment>
+        <translation>Угол</translation>
+    </message>
+    <message>
+        <source>Pie</source>
+        <comment>DRAWING2STR_PIE</comment>
+        <translation>Круговая</translation>
+    </message>
+    <message>
+        <source>Block Arc</source>
+        <comment>DRAWING2STR_BLOCK_ARC</comment>
+        <translation>Арка</translation>
+    </message>
+    <message>
+        <source>Donut</source>
+        <comment>DRAWING2STR_DONUT</comment>
+        <translation>Кольцо</translation>
+    </message>
+    <message>
+        <source>&quot;No&quot; Symbol</source>
+        <comment>DRAWING2STR_NO_SYMBOL</comment>
+        <translation>&quot;Без &quot;символов</translation>
+    </message>
+    <message>
+        <source>Right Arrow</source>
+        <comment>DRAWING2STR_RIGHT_ARROW</comment>
+        <translation>Стрелка вправо</translation>
+    </message>
+    <message>
+        <source>Left Arrow</source>
+        <comment>DRAWING2STR_LEFT_ARROW</comment>
+        <translation>Стрелка влево</translation>
+    </message>
+    <message>
+        <source>Up Arrow</source>
+        <comment>DRAWING2STR_UP_ARROW</comment>
+        <translation>Стрелка вверх</translation>
+    </message>
+    <message>
+        <source>Down Arrow</source>
+        <comment>DRAWING2STR_DOWN_ARROW</comment>
+        <translation>Стрелка вниз</translation>
+    </message>
+    <message>
+        <source>Striped Right Arrow</source>
+        <comment>DRAWING2STR_STRIPED_RIGHT_ARROW</comment>
+        <translation>Штриховая стрелка вправо</translation>
+    </message>
+    <message>
+        <source>Notched Right Arrow</source>
+        <comment>DRAWING2STR_NOTCHED_RIGHT_ARROW</comment>
+        <translation>Стрелка вправо с вырезом</translation>
+    </message>
+    <message>
+        <source>Bent-Up Arrow</source>
+        <comment>DRAWING2STR_BENT_UP_ARROW</comment>
+        <translation>Стрелка углом вверх</translation>
+    </message>
+    <message>
+        <source>Left-Right Arrow</source>
+        <comment>DRAWING2STR_LEFT_RIGHT_ARROW</comment>
+        <translation>Двойная стрелка влево/вправо</translation>
+    </message>
+    <message>
+        <source>Up-Down Arrow</source>
+        <comment>DRAWING2STR_UP_DOWN_ARROW</comment>
+        <translation>Двойная стрелка вверх/вниз</translation>
+    </message>
+    <message>
+        <source>Left-Up Arrow</source>
+        <comment>DRAWING2STR_LEFT_UP_ARROW</comment>
+        <translation>Двойная стрелка влево/вверх</translation>
+    </message>
+    <message>
+        <source>Left-Right-Up Arrow</source>
+        <comment>DRAWING2STR_LEFT_RIGHT_UP_ARROW</comment>
+        <translation>Тройная стрелка влево/вправо/вверх</translation>
+    </message>
+    <message>
+        <source>Quad Arrow</source>
+        <comment>DRAWING2STR_QUAD_ARROW</comment>
+        <translation>Счетверенная стрелка</translation>
+    </message>
+    <message>
+        <source>Left Arrow Callout</source>
+        <comment>DRAWING2STR_LEFT_ARROW_CALLOUT</comment>
+        <translation>Выноска со стрелкой влево</translation>
+    </message>
+    <message>
+        <source>Right Arrow Callout</source>
+        <comment>DRAWING2STR_RIGHT_ARROW_CALLOUT</comment>
+        <translation>Выноска со стрелкой вправо</translation>
+    </message>
+    <message>
+        <source>Up Arrow Callout</source>
+        <comment>DRAWING2STR_UP_ARROW_CALLOUT</comment>
+        <translation>Выноска со стрелкой вверх</translation>
+    </message>
+    <message>
+        <source>Down Arrow Callout</source>
+        <comment>DRAWING2STR_DOWN_ARROW_CALLOUT</comment>
+        <translation>Выноска со стрелкой вниз</translation>
+    </message>
+    <message>
+        <source>Left-Right Arrow Callout</source>
+        <comment>DRAWING2STR_LEFT_RIGHT_ARROW_CALLOUT</comment>
+        <translation>Выноска со стрелками влево/вправо</translation>
+    </message>
+    <message>
+        <source>Up-Down Arrow Callout</source>
+        <comment>DRAWING2STR_UP_DOWN_ARROW_CALLOUT</comment>
+        <translation>Выноска со стрелками вверх/вниз</translation>
+    </message>
+    <message>
+        <source>Quad Arrow Callout</source>
+        <comment>DRAWING2STR_QUAD_ARROW_CALLOUT</comment>
+        <translation>Выноска с четырьмя стрелками</translation>
+    </message>
+    <message>
+        <source>Bent Arrow</source>
+        <comment>DRAWING2STR_BENT_ARROW</comment>
+        <translation>Стрелка углом</translation>
+    </message>
+    <message>
+        <source>U-Turn Arrow</source>
+        <comment>DRAWING2STR_U_TURN_ARROW</comment>
+        <translation>Развернутая стрелка</translation>
+    </message>
+    <message>
+        <source>Circular Arrow</source>
+        <comment>DRAWING2STR_CIRCULAR_ARROW</comment>
+        <translation>Круговая стрелка</translation>
+    </message>
+    <message>
+        <source>Curved Right Arrow</source>
+        <comment>DRAWING2STR_CURVED_RIGHT_ARROW</comment>
+        <translation>Выгнутая влево стрелка</translation>
+    </message>
+    <message>
+        <source>Curved Left Arrow</source>
+        <comment>DRAWING2STR_CURVED_LEFT_ARROW</comment>
+        <translation>Выгнутая вправо стрелка</translation>
+    </message>
+    <message>
+        <source>Curved Up Arrow</source>
+        <comment>DRAWING2STR_CURVED_UP_ARROW</comment>
+        <translation>Выгнутая вниз стрелка</translation>
+    </message>
+    <message>
+        <source>Curved Down Arrow</source>
+        <comment>DRAWING2STR_CURVED_DOWN_ARROW</comment>
+        <translation>Выгнутая вверх стрелка</translation>
+    </message>
+    <message>
+        <source>Cube</source>
+        <comment>DRAWING2STR_CUBE</comment>
+        <translation>Куб</translation>
+    </message>
+    <message>
+        <source>Can</source>
+        <comment>DRAWING2STR_CAN</comment>
+        <translation>Банка</translation>
+    </message>
+    <message>
+        <source>Lightning Bolt</source>
+        <comment>DRAWING2STR_LIGHTNING_BOLT</comment>
+        <translation>Молния</translation>
+    </message>
+    <message>
+        <source>Heart</source>
+        <comment>DRAWING2STR_HEART</comment>
+        <translation>Сердечко</translation>
+    </message>
+    <message>
+        <source>Sun</source>
+        <comment>DRAWING2STR_SUN</comment>
+        <translation>Солнце</translation>
+    </message>
+    <message>
+        <source>Moon</source>
+        <comment>DRAWING2STR_MOON</comment>
+        <translation>Луна</translation>
+    </message>
+    <message>
+        <source>Smiley Face</source>
+        <comment>DRAWING2STR_SMILEY_FACE</comment>
+        <translation>Улыбающееся лицо</translation>
+    </message>
+    <message>
+        <source>Explosion 1</source>
+        <comment>DRAWING2STR_EXPLOSION_1</comment>
+        <translation>Пятно 1</translation>
+    </message>
+    <message>
+        <source>Explosion 2</source>
+        <comment>DRAWING2STR_EXPLOSION_2</comment>
+        <translation>Пятно 2</translation>
+    </message>
+    <message>
+        <source>Folded Corner</source>
+        <comment>DRAWING2STR_FOLDED_CORNER</comment>
+        <translation>Загнутый угол</translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <comment>DRAWING2STR_BEVEL</comment>
+        <translation>Скос</translation>
+    </message>
+    <message>
+        <source>Frame</source>
+        <comment>DRAWING2STR_FRAME</comment>
+        <translation>Рамка</translation>
+    </message>
+    <message>
+        <source>Half Frame</source>
+        <comment>DRAWING2STR_HALF_FRAME</comment>
+        <translation>Половина рамки</translation>
+    </message>
+    <message>
+        <source>L-Shape</source>
+        <comment>DRAWING2STR_L_SHAPE</comment>
+        <translation>L-образный</translation>
+    </message>
+    <message>
+        <source>Diagonal Stripe</source>
+        <comment>DRAWING2STR_DIAGONAL_STRIPE</comment>
+        <translation>Диагональная полоса</translation>
+    </message>
+    <message>
+        <source>Chord</source>
+        <comment>DRAWING2STR_CHORD</comment>
+        <translation>Аккорд</translation>
+    </message>
+    <message>
+        <source>Arc</source>
+        <comment>DRAWING2STR_ARC</comment>
+        <translation>Дуга</translation>
+    </message>
+    <message>
+        <source>Left Bracket</source>
+        <comment>DRAWING2STR_LEFT_BRACKET</comment>
+        <translation>Левая скобка</translation>
+    </message>
+    <message>
+        <source>Right Bracket</source>
+        <comment>DRAWING2STR_RIGHT_BRACKET</comment>
+        <translation>Правая скобка</translation>
+    </message>
+    <message>
+        <source>Left Brace</source>
+        <comment>DRAWING2STR_LEFT_BRACE</comment>
+        <translation>Левая фигурная скобка</translation>
+    </message>
+    <message>
+        <source>Right Brace</source>
+        <comment>DRAWING2STR_RIGHT_BRACE</comment>
+        <translation>Правая фигурная скобка</translation>
+    </message>
+    <message>
+        <source>Double Bracket</source>
+        <comment>DRAWING2STR_DOUBLE_BRACKET</comment>
+        <translation>Двойные круглые скобки</translation>
+    </message>
+    <message>
+        <source>Double Brace</source>
+        <comment>DRAWING2STR_DOUBLE_BRACE</comment>
+        <translation>Двойные фигурные скобки</translation>
+    </message>
+    <message>
+        <source>Straight Arrow Connector</source>
+        <comment>DRAWING2STR_STRAIGHT_ARROW_CONNECTOR</comment>
+        <translation>Прямая со стрелкой</translation>
+    </message>
+    <message>
+        <source>Elbow Connector</source>
+        <comment>DRAWING2STR_ELBOW_CONNECTOR</comment>
+        <translation>Соединительная линия уступом</translation>
+    </message>
+    <message>
+        <source>Curved Connector</source>
+        <comment>DRAWING2STR_CURVED_CONNECTOR</comment>
+        <translation>Криволинейное соединение</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (No Border)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1_NO_BORDER</comment>
+        <translation>Выноска 1 (без границы)</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (No Border)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2_NO_BORDER</comment>
+        <translation>Выноска 2 (без границы)</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (No Border)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3_NO_BORDER</comment>
+        <translation>Выноска 3 (без границы)</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1_ACCENT_BAR</comment>
+        <translation>Выноска 1 (с чертой)</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2_ACCENT_BAR</comment>
+        <translation>Выноска 2 (с чертой)</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3_ACCENT_BAR</comment>
+        <translation>Выноска 3 (с чертой)</translation>
+    </message>
+    <message>
+        <source>Line Callout 1</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1</comment>
+        <translation>Выноска 1</translation>
+    </message>
+    <message>
+        <source>Line Callout 2</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2</comment>
+        <translation>Выноска 2</translation>
+    </message>
+    <message>
+        <source>Line Callout 3</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3</comment>
+        <translation>Выноска 3</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (Border and Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1_BORDER_AND_ACCENT_BAR</comment>
+        <translation>Выноска 1 (с границей и чертой)</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (Border and Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2_BORDER_AND_ACCENT_BAR</comment>
+        <translation>Выноска 2 (с границей и чертой)</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (Border and Accent Bar)</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3_BORDER_AND_ACCENT_BAR</comment>
+        <translation>Выноска 3 (с границей и чертой)</translation>
+    </message>
+    <message>
+        <source>Rectangular Callout</source>
+        <comment>DRAWING2STR_RECTANGULAR_CALLOUT</comment>
+        <translation>Прямоугольная выноска</translation>
+    </message>
+    <message>
+        <source>Rounded Rectangular Callout</source>
+        <comment>DRAWING2STR_ROUNDED_RECTANGULAR_CALLOUT</comment>
+        <translation>Скругленная прямоугольная выноска</translation>
+    </message>
+    <message>
+        <source>Oval Callout</source>
+        <comment>DRAWING2STR_OVAL_CALLOUT</comment>
+        <translation>Овальная выноска</translation>
+    </message>
+    <message>
+        <source>Cloud Callout</source>
+        <comment>DRAWING2STR_CLOUD_CALLOUT</comment>
+        <translation>Выноска-облако</translation>
+    </message>
+    <message>
+        <source>Cloud</source>
+        <comment>DRAWING2STR_CLOUD</comment>
+        <translation>Облачный сервис</translation>
+    </message>
+    <message>
+        <source>Down Ribbon</source>
+        <comment>DRAWING2STR_DOWN_RIBBON</comment>
+        <translation>Лента лицом вниз</translation>
+    </message>
+    <message>
+        <source>Up Ribbon</source>
+        <comment>DRAWING2STR_UP_RIBBON</comment>
+        <translation>Лента лицом вверх</translation>
+    </message>
+    <message>
+        <source>Curved Down Ribbon</source>
+        <comment>DRAWING2STR_CURVED_DOWN_RIBBON</comment>
+        <translation>Круглая лента лицом вниз</translation>
+    </message>
+    <message>
+        <source>Curved Up Ribbon</source>
+        <comment>DRAWING2STR_CURVED_UP_RIBBON</comment>
+        <translation>Круглая лента лицом вверх</translation>
+    </message>
+    <message>
+        <source>Vertical Scroll</source>
+        <comment>DRAWING2STR_VERTICAL_SCROLL</comment>
+        <translation>Вертикальная прокрутка</translation>
+    </message>
+    <message>
+        <source>Horizontal Scroll</source>
+        <comment>DRAWING2STR_HORIZONTAL_SCROLL</comment>
+        <translation>Горизонтальная прокрутка</translation>
+    </message>
+    <message>
+        <source>Wave</source>
+        <comment>DRAWING2STR_WAVE</comment>
+        <translation>Волна</translation>
+    </message>
+    <message>
+        <source>Double Wave</source>
+        <comment>DRAWING2STR_DOUBLE_WAVE</comment>
+        <translation>Двойная волна</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>DRAWING2STR_CROSS</comment>
+        <translation>Пересечение</translation>
+    </message>
+    <message>
+        <source>Flowchart: Process</source>
+        <comment>DRAWING2STR_FLOWCHART_PROCESS</comment>
+        <translation>Блок-схема: процесс </translation>
+    </message>
+    <message>
+        <source>Flowchart: Decision</source>
+        <comment>DRAWING2STR_FLOWCHART_DECISION</comment>
+        <translation>Блок-схема: решение</translation>
+    </message>
+    <message>
+        <source>Flowchart: Data</source>
+        <comment>DRAWING2STR_FLOWCHART_DATA</comment>
+        <translation>Блок-схема: данные</translation>
+    </message>
+    <message>
+        <source>Flowchart: Predefined Process</source>
+        <comment>DRAWING2STR_FLOWCHART_PREDEFINED_PROCESS</comment>
+        <translation>Блок-схема: типовой процесс</translation>
+    </message>
+    <message>
+        <source>Flowchart: Internal Storage</source>
+        <comment>DRAWING2STR_FLOWCHART_INTERNAL_STORAGE</comment>
+        <translation>Блок-схема: внутренняя память</translation>
+    </message>
+    <message>
+        <source>Flowchart: Document</source>
+        <comment>DRAWING2STR_FLOWCHART_DOCUMENT</comment>
+        <translation>Блок-схема: документ</translation>
+    </message>
+    <message>
+        <source>Flowchart: Multidocument</source>
+        <comment>DRAWING2STR_FLOWCHART_MULTIDOCUMENT</comment>
+        <translation>Блок-схема: несколько документов</translation>
+    </message>
+    <message>
+        <source>Flowchart: Terminator</source>
+        <comment>DRAWING2STR_FLOWCHART_TERMINATOR</comment>
+        <translation>Блок-схема: завершение</translation>
+    </message>
+    <message>
+        <source>Flowchart: Preparation</source>
+        <comment>DRAWING2STR_FLOWCHART_PREPARATION</comment>
+        <translation>Блок-схема: подготовка</translation>
+    </message>
+    <message>
+        <source>Flowchart: Manual Input</source>
+        <comment>DRAWING2STR_FLOWCHART_MANUAL_INPUT</comment>
+        <translation>Блок-схема: ручной ввод</translation>
+    </message>
+    <message>
+        <source>Flowchart: Manual Operation</source>
+        <comment>DRAWING2STR_FLOWCHART_MANUAL_OPERATION</comment>
+        <translation>Блок-схема: ручное управление</translation>
+    </message>
+    <message>
+        <source>Flowchart: Connector</source>
+        <comment>DRAWING2STR_FLOWCHART_CONNECTOR</comment>
+        <translation>Блок-схема: узел</translation>
+    </message>
+    <message>
+        <source>Flowchart: Card</source>
+        <comment>DRAWING2STR_FLOWCHART_CARD</comment>
+        <translation>Блок-схема: карточка</translation>
+    </message>
+    <message>
+        <source>Flowchart: Punched Tape</source>
+        <comment>DRAWING2STR_FLOWCHART_PUNCHED_TAPE</comment>
+        <translation>Блок-схема: перфолента</translation>
+    </message>
+    <message>
+        <source>Flowchart: Summing Junction</source>
+        <comment>DRAWING2STR_FLOWCHART_SUMMING_JUNCTION</comment>
+        <translation>Блок-схема: узел суммирования</translation>
+    </message>
+    <message>
+        <source>Flowchart: Or</source>
+        <comment>DRAWING2STR_FLOWCHART_OR</comment>
+        <translation>Блок-схема: или</translation>
+    </message>
+    <message>
+        <source>Flowchart: Collate</source>
+        <comment>DRAWING2STR_FLOWCHART_COLLATE</comment>
+        <translation>Блок-схема: сопоставление</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sort</source>
+        <comment>DRAWING2STR_FLOWCHART_SORT</comment>
+        <translation>Блок-схема:сортировка</translation>
+    </message>
+    <message>
+        <source>Flowchart: Extract</source>
+        <comment>DRAWING2STR_FLOWCHART_EXTRACT</comment>
+        <translation>Блок-схема: извлечение</translation>
+    </message>
+    <message>
+        <source>Flowchart: Merge</source>
+        <comment>DRAWING2STR_FLOWCHART_MERGE</comment>
+        <translation>Блок-схема: слияние</translation>
+    </message>
+    <message>
+        <source>Flowchart: Stored Data</source>
+        <comment>DRAWING2STR_FLOWCHART_STORED_DATA</comment>
+        <translation>Блок-схема: сохранённые данные</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWING2STR_FLOWCHART_SEQUENTIAL_ACCESS_STORAGE</comment>
+        <translation>Блок-схема: память с последовательным доступом</translation>
+    </message>
+    <message>
+        <source>Flowchart: Magnetic Disk</source>
+        <comment>DRAWING2STR_FLOWCHART_MAGNETIC_DISK</comment>
+        <translation>Блок-схема: магнитный диск</translation>
+    </message>
+    <message>
+        <source>Flowchart: Direct Access Storage</source>
+        <comment>DRAWING2STR_FLOWCHART_DIRECT_ACCESS_STORAGE</comment>
+        <translation>Блок-схема: память с прямым доступом</translation>
+    </message>
+    <message>
+        <source>Flowchart: Display</source>
+        <comment>DRAWING2STR_FLOWCHART_DISPLAY</comment>
+        <translation>Блок-схема: дисплей</translation>
+    </message>
+    <message>
+        <source>Flowchart: Delay</source>
+        <comment>DRAWING2STR_FLOWCHART_DELAY</comment>
+        <translation>Блок-схема: задержка</translation>
+    </message>
+    <message>
+        <source>Flowchart: Alternate Process</source>
+        <comment>DRAWING2STR_FLOWCHART_ALTERNATE_PROCESS</comment>
+        <translation>Блок-схема: альтернативный процесс</translation>
+    </message>
+    <message>
+        <source>Flowchart: Off-page Connector</source>
+        <comment>DRAWING2STR_FLOWCHART_OFF_PAGE_CONNECTOR</comment>
+        <translation>Блок-схема: ссылка на другую страницу</translation>
+    </message>
+    <message>
+        <source>Action Button: Custom</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_CUSTOM</comment>
+        <translation>Управляющая кнопка: настраиваемая</translation>
+    </message>
+    <message>
+        <source>Action Button: Home</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_HOME</comment>
+        <translation>Управляющая кнопка: домашняя</translation>
+    </message>
+    <message>
+        <source>Action Button: Help</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_HELP</comment>
+        <translation>Управляющая кнопка: справка</translation>
+    </message>
+    <message>
+        <source>Action Button: Information</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_INFORMATION</comment>
+        <translation>Управляющая кнопка: сведения</translation>
+    </message>
+    <message>
+        <source>Action Button: Forward or Next</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_FORWARD_OR_NEXT</comment>
+        <translation>Управляющая кнопка: далее</translation>
+    </message>
+    <message>
+        <source>Action Button: Back or Previous</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_BACK_OR_PREVIOUS</comment>
+        <translation>Управляющая кнопка: назад</translation>
+    </message>
+    <message>
+        <source>Action Button: End</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_END</comment>
+        <translation>Управляющая кнопка: в конец</translation>
+    </message>
+    <message>
+        <source>Action Button: Beginning</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_BEGINNING</comment>
+        <translation>Управляющая кнопка: в начало</translation>
+    </message>
+    <message>
+        <source>Action Button: Return</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_RETURN</comment>
+        <translation>Управляющая кнопка: возврат</translation>
+    </message>
+    <message>
+        <source>Action Button: Document</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_DOCUMENT</comment>
+        <translation>Управляющая кнопка: документ</translation>
+    </message>
+    <message>
+        <source>Action Button: Sound</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_SOUND</comment>
+        <translation>Управляющая кнопка: звук</translation>
+    </message>
+    <message>
+        <source>Action Button: Movie</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_MOVIE</comment>
+        <translation>Управляющая кнопка: фильм</translation>
+    </message>
+    <message>
+        <source>Plus</source>
+        <comment>DRAWING2STR_PLUS</comment>
+        <translation>Плюс</translation>
+    </message>
+    <message>
+        <source>Minus</source>
+        <comment>DRAWING2STR_MINUS</comment>
+        <translation>Минус</translation>
+    </message>
+    <message>
+        <source>Multiply</source>
+        <comment>DRAWING2STR_MULTIPLY</comment>
+        <translation>Умножить</translation>
+    </message>
+    <message>
+        <source>Division</source>
+        <comment>DRAWING2STR_DIVISION</comment>
+        <translation>Разделить</translation>
+    </message>
+    <message>
+        <source>Equal</source>
+        <comment>DRAWING2STR_EQUAL</comment>
+        <translation>Равно</translation>
+    </message>
+    <message>
+        <source>Not Equal</source>
+        <comment>DRAWING2STR_NOT_EQUAL</comment>
+        <translation>Не равно</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <comment>DRAWING2STR_GROUP</comment>
+        <translation>Группа</translation>
+    </message>
+    <message>
+        <source>TextBox</source>
+        <comment>DRAWING2STR_TEXTBOX</comment>
+        <translation>Текстовое поле</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>DRAWING2STR_TABLE</comment>
+        <translation>Таблица</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <comment>DRAWING2STR_PICTURE</comment>
+        <translation>Изображение</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <comment>DRAWING2STR_CHART</comment>
+        <translation>Диаграмма</translation>
+    </message>
+    <message>
+        <source>Ink</source>
+        <comment>DRAWING2STR_INK</comment>
+        <translation>Рукописный ввод</translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <comment>DRAWING2STR_OLE</comment>
+        <translation>Объект</translation>
+    </message>
+    <message>
+        <source>Diagram</source>
+        <comment>DRAWING2STR_DIAGRAM</comment>
+        <translation>Диаграмма</translation>
+    </message>
+    <message>
+        <source>Freeform</source>
+        <comment>DRAWING2STR_FREEFORM</comment>
+        <translation>Полилиния</translation>
+    </message>
+    <message>
+        <source>Canvas</source>
+        <comment>DRAWING2STR_CANVAS</comment>
+        <translation>Холст</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <comment>DRAWING2_TOOLTIP_LINE</comment>
+        <translation>Линия</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <comment>DRAWING2_TOOLTIP_ARROW</comment>
+        <translation>Стрелка</translation>
+    </message>
+    <message>
+        <source>Double Arrow</source>
+        <comment>DRAWING2_TOOLTIP_ELBOW_CONNECTOR</comment>
+        <translation>Двусторонняя стрелка</translation>
+    </message>
+    <message>
+        <source>Elbow Connector</source>
+        <comment>DRAWING2_TOOLTIP_ELBOW_ARROW_CONNECTOR</comment>
+        <translation>Соединительная линия уступом</translation>
+    </message>
+    <message>
+        <source>Elbow Arrow Connector</source>
+        <comment>DRAWING2_TOOLTIP_ELBOW_ARROW_CONNECTOR</comment>
+        <translation>Уступ со стрелкой</translation>
+    </message>
+    <message>
+        <source>Elbow Double Arrow Connector</source>
+        <comment>DRAWING2_TOOLTIP_ELBOW_DOUBLE_ARROW_CONNECTOR</comment>
+        <translation>Уступ с двойной стрелкой</translation>
+    </message>
+    <message>
+        <source>Curved Connector</source>
+        <comment>DRAWING2_TOOLTIP_CURVED_CONNECTOR</comment>
+        <translation>Криволинейное соединение</translation>
+    </message>
+    <message>
+        <source>Curved Arrow Connector</source>
+        <comment>DRAWING2_TOOLTIP_CURVED_ARROW_CONNECTOR</comment>
+        <translation>Скругленная линия со стрелкой</translation>
+    </message>
+    <message>
+        <source>Curved Double Arrow Connector</source>
+        <comment>DRAWING2_TOOLTIP_CURVED_DOUBLE_ARROW_CONNECTOR</comment>
+        <translation>Скругленная линия с двойной стрелкой</translation>
+    </message>
+    <message>
+        <source>Curve</source>
+        <comment>DRAWING2_TOOLTIP_CURVE</comment>
+        <translation>Кривая</translation>
+    </message>
+    <message>
+        <source>Arbitrary Polygon</source>
+        <comment>DRAWING2_TOOLTIP_ARBITRARY_POLYGON</comment>
+        <translation>Полилиния</translation>
+    </message>
+    <message>
+        <source>Free Curve</source>
+        <comment>DRAWING2_TOOLTIP_FREE_CURVE</comment>
+        <translation>Рисованная кривая</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_RECTANGLE</comment>
+        <translation>Прямоугольник</translation>
+    </message>
+    <message>
+        <source>Rounded Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_ROUNDED_RECTANGLE</comment>
+        <translation>Скругленный прямоугольник</translation>
+    </message>
+    <message>
+        <source>Snip Single Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_SNIP_SINGLE_CORNER_RECTANGLE</comment>
+        <translation>Прямоугольник с одним вырезанным углом</translation>
+    </message>
+    <message>
+        <source>Snip Same Side Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_SNIP_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation>Прямоугольник с двумя вырезанными соседними углами</translation>
+    </message>
+    <message>
+        <source>Snip Diagonal Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_SNIP_DIAGONAL_CORNER_RECTANGLE</comment>
+        <translation>Прямоугольник с двумя вырезанными противолежащими углами</translation>
+    </message>
+    <message>
+        <source>Round Single Corner Rectangle 1</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_SINGLE_CORNER_RECTANGLE_1</comment>
+        <translation>Прямоугольник с одним скругленным углом 1</translation>
+    </message>
+    <message>
+        <source>Round Single Corner Rectangle 2</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_SINGLE_CORNER_RECTANGLE_2</comment>
+        <translation>Прямоугольник с одним скругленным углом 2</translation>
+    </message>
+    <message>
+        <source>Round Same Side Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation>Прямоугольник с двумя скругленными соседними углами</translation>
+    </message>
+    <message>
+        <source>Round Diagonal Corner Rectangle</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_DIAGONAL_CORNER_RECTANGLE</comment>
+        <translation>Прямоугольник с двумя скругленными противолежащими углами</translation>
+    </message>
+    <message>
+        <source>TextBox</source>
+        <comment>DRAWING2_TOOLTIP_TEXTBOX</comment>
+        <translation>Текстовое поле</translation>
+    </message>
+    <message>
+        <source>Vertical TextBox</source>
+        <comment>DRAWING2_TOOLTIP_VERTICALTEXTBOX</comment>
+        <translation>Вертикальный текст</translation>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <comment>DRAWING2_TOOLTIP_ELLIPSE</comment>
+        <translation>Овал</translation>
+    </message>
+    <message>
+        <source>Isosceles Triangle</source>
+        <comment>DRAWING2_TOOLTIP_ISOSCELES_TRIANGLE</comment>
+        <translation>Равнобедренный треугольник</translation>
+    </message>
+    <message>
+        <source>Right Triangle</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_TRIANGLE</comment>
+        <translation>Прямоугольный треугольник</translation>
+    </message>
+    <message>
+        <source>Parallelogram</source>
+        <comment>DRAWING2_TOOLTIP_PARALLELOGRAM</comment>
+        <translation>Параллелограмм</translation>
+    </message>
+    <message>
+        <source>Trapezoid</source>
+        <comment>DRAWING2_TOOLTIP_TRAPEZOID</comment>
+        <translation>Трапеция</translation>
+    </message>
+    <message>
+        <source>Diamond</source>
+        <comment>DRAWING2_TOOLTIP_DIAMOND</comment>
+        <translation>Ромб</translation>
+    </message>
+    <message>
+        <source>Regular Pentagon</source>
+        <comment>DRAWING2_TOOLTIP_REGULAR_PENTAGON</comment>
+        <translation>Правильный пятиугольник</translation>
+    </message>
+    <message>
+        <source>Hexagon</source>
+        <comment>DRAWING2_TOOLTIP_HEXAGON</comment>
+        <translation>Шестиугольник</translation>
+    </message>
+    <message>
+        <source>Heptagonal</source>
+        <comment>DRAWING2_TOOLTIP_HEPTAGONAL</comment>
+        <translation>Семиугольник</translation>
+    </message>
+    <message>
+        <source>Octagon</source>
+        <comment>DRAWING2_TOOLTIP_OCTAGON</comment>
+        <translation>Восьмиугольник</translation>
+    </message>
+    <message>
+        <source>Decagon</source>
+        <comment>DRAWING2_TOOLTIP_DECAGON</comment>
+        <translation>Десятиугольник</translation>
+    </message>
+    <message>
+        <source>Dodecagon</source>
+        <comment>DRAWING2_TOOLTIP_DODECAGON</comment>
+        <translation>Двенадцатиугольник</translation>
+    </message>
+    <message>
+        <source>Pie</source>
+        <comment>DRAWING2_TOOLTIP_PIE</comment>
+        <translation>Круговая</translation>
+    </message>
+    <message>
+        <source>Chord</source>
+        <comment>DRAWING2_TOOLTIP_CHORD</comment>
+        <translation>Аккорд</translation>
+    </message>
+    <message>
+        <source>Teardrop</source>
+        <comment>DRAWING2_TOOLTIP_TEARDROP</comment>
+        <translation>Капля</translation>
+    </message>
+    <message>
+        <source>Frame</source>
+        <comment>DRAWING2_TOOLTIP_FRAME</comment>
+        <translation>Рамка</translation>
+    </message>
+    <message>
+        <source>Half Frame</source>
+        <comment>DRAWING2_TOOLTIP_HALF_FRAME</comment>
+        <translation>Половина рамки</translation>
+    </message>
+    <message>
+        <source>L-Shape</source>
+        <comment>DRAWING2_TOOLTIP_L_SHAPE</comment>
+        <translation>L-образный</translation>
+    </message>
+    <message>
+        <source>Diagonal Stripe</source>
+        <comment>DRAWING2_TOOLTIP_DIAGONAL_STRIPE</comment>
+        <translation>Диагональная полоса</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>DRAWING2_TOOLTIP_CROSS</comment>
+        <translation>Пересечение</translation>
+    </message>
+    <message>
+        <source>Missing Corner Rectangular</source>
+        <comment>DRAWING2_TOOLTIP_MISSING_CORNER_RECTANGULAR</comment>
+        <translation>Табличка</translation>
+    </message>
+    <message>
+        <source>Can</source>
+        <comment>DRAWING2_TOOLTIP_CAN</comment>
+        <translation>Банка</translation>
+    </message>
+    <message>
+        <source>Cube</source>
+        <comment>DRAWING2_TOOLTIP_CUBE</comment>
+        <translation>Куб</translation>
+    </message>
+    <message>
+        <source>Frustum</source>
+        <comment>DRAWING2_TOOLTIP_FRUSTUM</comment>
+        <translation>Рельеф</translation>
+    </message>
+    <message>
+        <source>Concentric Circle</source>
+        <comment>DRAWING2_TOOLTIP_CONCENTRIC_CIRCLE</comment>
+        <translation>Кольцо</translation>
+    </message>
+    <message>
+        <source>Forbidden Symbols</source>
+        <comment>DRAWING2_TOOLTIP_FORBIDDENSYMBOLS</comment>
+        <translation>&quot;Без &quot;символов</translation>
+    </message>
+    <message>
+        <source>Hollow Arc</source>
+        <comment>DRAWING2_TOOLTIP_HOLLOW_ARC</comment>
+        <translation>Арка</translation>
+    </message>
+    <message>
+        <source>Fold Angle</source>
+        <comment>DRAWING2_TOOLTIP_FOLDA_NGLE</comment>
+        <translation>Загнутый угол</translation>
+    </message>
+    <message>
+        <source>Smiley Face</source>
+        <comment>DRAWING2_TOOLTIP_SMILEY_FACE</comment>
+        <translation>Улыбающееся лицо</translation>
+    </message>
+    <message>
+        <source>Heart</source>
+        <comment>DRAWING2_TOOLTIP_HEART</comment>
+        <translation>Сердечко</translation>
+    </message>
+    <message>
+        <source>Lightning Bolt</source>
+        <comment>DRAWING2_TOOLTIP_LIGHTNING_BOLT</comment>
+        <translation>Молния</translation>
+    </message>
+    <message>
+        <source>Sun</source>
+        <comment>DRAWING2_TOOLTIP_SUN</comment>
+        <translation>Солнце</translation>
+    </message>
+    <message>
+        <source>Moon</source>
+        <comment>DRAWING2_TOOLTIP_MOON</comment>
+        <translation>Луна</translation>
+    </message>
+    <message>
+        <source>Cloud</source>
+        <comment>DRAWING2_TOOLTIP_CLOUD</comment>
+        <translation>Облачный сервис</translation>
+    </message>
+    <message>
+        <source>Arc</source>
+        <comment>DRAWING2_TOOLTIP_ARC</comment>
+        <translation>Дуга</translation>
+    </message>
+    <message>
+        <source>Double Bracket</source>
+        <comment>DRAWING2_TOOLTIP_DOUBLE_BRACKET</comment>
+        <translation>Двойные круглые скобки</translation>
+    </message>
+    <message>
+        <source>Double Brace</source>
+        <comment>DRAWING2_TOOLTIP_DOUBLE_BRACE</comment>
+        <translation>Двойные фигурные скобки</translation>
+    </message>
+    <message>
+        <source>Left Bracket</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_BRACKET</comment>
+        <translation>Левая скобка</translation>
+    </message>
+    <message>
+        <source>Right Bracket</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_BRACKET</comment>
+        <translation>Правая скобка</translation>
+    </message>
+    <message>
+        <source>Left Brace</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_BRACE</comment>
+        <translation>Левая фигурная скобка</translation>
+    </message>
+    <message>
+        <source>Right Brace</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_BRACE</comment>
+        <translation>Правая фигурная скобка</translation>
+    </message>
+    <message>
+        <source>Right Arrow</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_ARROW</comment>
+        <translation>Стрелка вправо</translation>
+    </message>
+    <message>
+        <source>Left Arrow</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_ARROW</comment>
+        <translation>Стрелка влево</translation>
+    </message>
+    <message>
+        <source>Up Arrow</source>
+        <comment>DRAWING2_TOOLTIP_UP_ARROW</comment>
+        <translation>Стрелка вверх</translation>
+    </message>
+    <message>
+        <source>Down Arrow</source>
+        <comment>DRAWING2_TOOLTIP_DOWN_ARROW</comment>
+        <translation>Стрелка вниз</translation>
+    </message>
+    <message>
+        <source>Left And Right Arrow</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_AND_RIGHT_ARROW</comment>
+        <translation>Двойная стрелка влево/вправо</translation>
+    </message>
+    <message>
+        <source>Up And Down Arrow</source>
+        <comment>DRAWING2_TOOLTIP_UP_AND_DOWN_ARROW</comment>
+        <translation>Двойная стрелка вверх/вниз</translation>
+    </message>
+    <message>
+        <source>Cross Arrow</source>
+        <comment>DRAWING2_TOOLTIP_CROSS_ARROW</comment>
+        <translation>Счетверенная стрелка</translation>
+    </message>
+    <message>
+        <source>J-shape Arrow</source>
+        <comment>DRAWING2_TOOLTIP_J_SHAPE_ARROW</comment>
+        <translation>Тройная стрелка влево/вправо/вверх</translation>
+    </message>
+    <message>
+        <source>Fillet Right Arrow</source>
+        <comment>DRAWING2_TOOLTIP_FILLET_RIGHT_ARROW</comment>
+        <translation>Стрелка углом</translation>
+    </message>
+    <message>
+        <source>Stick Arrow</source>
+        <comment>DRAWING2_TOOLTIP_STICK_ARROW</comment>
+        <translation>Развернутая стрелка</translation>
+    </message>
+    <message>
+        <source>Right Angle Two-way Arrow</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_ANGLE_TWOWAY_ARROW</comment>
+        <translation>Двойная стрелка влево/вверх</translation>
+    </message>
+    <message>
+        <source>Right Angle Up Arrow</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_ANGLE_UP_ARROW</comment>
+        <translation>Стрелка углом вверх</translation>
+    </message>
+    <message>
+        <source>Left Curved Arrow</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_CURVED_ARROW</comment>
+        <translation>Выгнутая влево стрелка</translation>
+    </message>
+    <message>
+        <source>Right Curved Arrow</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_CURVED_ARROW</comment>
+        <translation>Выгнутая вправо стрелка</translation>
+    </message>
+    <message>
+        <source>Down Curved Arrow</source>
+        <comment>DRAWING2_TOOLTIP_DOWN_CURVED_ARROW</comment>
+        <translation>Выгнутая вниз стрелка</translation>
+    </message>
+    <message>
+        <source>Up Curved Arrow</source>
+        <comment>DRAWING2_TOOLTIP_UP_CURVED_ARROW</comment>
+        <translation>Выгнутая вверх стрелка</translation>
+    </message>
+    <message>
+        <source>Virtual Tail Arrow</source>
+        <comment>DRAWING2_TOOLTIP_VIRTUAL_TAIL_ARROW</comment>
+        <translation>Штриховая стрелка вправо</translation>
+    </message>
+    <message>
+        <source>Dove Tail Arrow</source>
+        <comment>DRAWING2_TOOLTIP_DOVE_TAIL_ARROW</comment>
+        <translation>Стрелка вправо с вырезом</translation>
+    </message>
+    <message>
+        <source>Arrow Pentagon</source>
+        <comment>DRAWING2_TOOLTIP_ARROW_PENTAGON</comment>
+        <translation>Пятиугольник</translation>
+    </message>
+    <message>
+        <source>Dove Tail</source>
+        <comment>DRAWING2_TOOLTIP_DOVE_TAIL</comment>
+        <translation>Шеврон</translation>
+    </message>
+    <message>
+        <source>Right Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_ARROW_CALLOUT</comment>
+        <translation>Выноска со стрелкой вправо</translation>
+    </message>
+    <message>
+        <source>Down Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_DOWN_ARROW_CALLOUT</comment>
+        <translation>Выноска со стрелкой вниз</translation>
+    </message>
+    <message>
+        <source>Left Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_ARROW_CALLOUT</comment>
+        <translation>Выноска со стрелкой влево</translation>
+    </message>
+    <message>
+        <source>Up Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_UP_ARROW_CALLOUT</comment>
+        <translation>Выноска со стрелкой вверх</translation>
+    </message>
+    <message>
+        <source>Left-Right Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_RIGHT_ARROW_CALLOUT</comment>
+        <translation>Выноска со стрелками влево/вправо</translation>
+    </message>
+    <message>
+        <source>Cross Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_CROSS_ARROW_CALLOUT</comment>
+        <translation>Выноска с четырьмя стрелками</translation>
+    </message>
+    <message>
+        <source>Circular Arrow Callout</source>
+        <comment>DRAWING2_TOOLTIP_CIRCULAR_ARROW_CALLOUT</comment>
+        <translation>Круговая стрелка</translation>
+    </message>
+    <message>
+        <source>Plus</source>
+        <comment>DRAWING2_TOOLTIP_PLUS</comment>
+        <translation>Плюс</translation>
+    </message>
+    <message>
+        <source>Minus</source>
+        <comment>DRAWING2_TOOLTIP_MINUS</comment>
+        <translation>Минус</translation>
+    </message>
+    <message>
+        <source>Multiply</source>
+        <comment>DRAWING2_TOOLTIP_MULTIPLY</comment>
+        <translation>Умножить</translation>
+    </message>
+    <message>
+        <source>Division</source>
+        <comment>DRAWING2_TOOLTIP_DIVISION</comment>
+        <translation>Разделить</translation>
+    </message>
+    <message>
+        <source>Equal</source>
+        <comment>DRAWING2_TOOLTIP_EQUAL</comment>
+        <translation>Равно</translation>
+    </message>
+    <message>
+        <source>Not Equal</source>
+        <comment>DRAWING2_TOOLTIP_NOT_EQUAL</comment>
+        <translation>Не равно</translation>
+    </message>
+    <message>
+        <source>Flowchart: Process</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PROCESS</comment>
+        <translation>Блок-схема: процесс </translation>
+    </message>
+    <message>
+        <source>Flowchart: Alternate Process</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_ALTERNATE_PROCESS</comment>
+        <translation>Блок-схема: альтернативный процесс</translation>
+    </message>
+    <message>
+        <source>Flowchart: Decision</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DECISION</comment>
+        <translation>Блок-схема: решение</translation>
+    </message>
+    <message>
+        <source>Flowchart: Data</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DATA</comment>
+        <translation>Блок-схема: данные</translation>
+    </message>
+    <message>
+        <source>Flowchart: Predefined Process</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PREDEFINED_PROCESS</comment>
+        <translation>Блок-схема: типовой процесс</translation>
+    </message>
+    <message>
+        <source>Flowchart: Internal Storage</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_INTERNAL_STORAGE</comment>
+        <translation>Блок-схема: внутренняя память</translation>
+    </message>
+    <message>
+        <source>Flowchart: Document</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DOCUMENT</comment>
+        <translation>Блок-схема: документ</translation>
+    </message>
+    <message>
+        <source>Flowchart: Multidocument</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MULTIDOCUMENT</comment>
+        <translation>Блок-схема: несколько документов</translation>
+    </message>
+    <message>
+        <source>Flowchart: Terminator</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_TERMINATOR</comment>
+        <translation>Блок-схема: завершение</translation>
+    </message>
+    <message>
+        <source>Flowchart: Preparation</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PREPARATION</comment>
+        <translation>Блок-схема: подготовка</translation>
+    </message>
+    <message>
+        <source>Flowchart: Manual Input</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MANUAL_INPUT</comment>
+        <translation>Блок-схема: ручной ввод</translation>
+    </message>
+    <message>
+        <source>Flowchart: Manual Operation</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MANUAL_OPERATION</comment>
+        <translation>Блок-схема: ручное управление</translation>
+    </message>
+    <message>
+        <source>Flowchart: Connector</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_CONNECTOR</comment>
+        <translation>Блок-схема: узел</translation>
+    </message>
+    <message>
+        <source>Flowchart: Off-Page Connector</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_OFF_PAGE_CONNECTOR</comment>
+        <translation>Блок-схема: Соединительная линия на другую страницу</translation>
+    </message>
+    <message>
+        <source>Flowchart: Card</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_CARD</comment>
+        <translation>Блок-схема: карточка</translation>
+    </message>
+    <message>
+        <source>Flowchart: Punched Tape</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PUNCHED_TAPE</comment>
+        <translation>Блок-схема: перфолента</translation>
+    </message>
+    <message>
+        <source>Flowchart: Summing Junction</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_SUMMING_JUNCTION</comment>
+        <translation>Блок-схема: узел суммирования</translation>
+    </message>
+    <message>
+        <source>Flowchart: Or</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_OR</comment>
+        <translation>Блок-схема: или</translation>
+    </message>
+    <message>
+        <source>Flowchart: Collate</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_COLLATE</comment>
+        <translation>Блок-схема: сопоставление</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sort</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_SORT</comment>
+        <translation>Блок-схема:сортировка</translation>
+    </message>
+    <message>
+        <source>Flowchart: Extract</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_EXTRACT</comment>
+        <translation>Блок-схема: извлечение</translation>
+    </message>
+    <message>
+        <source>Flowchart: Merge</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MERGE</comment>
+        <translation>Блок-схема: слияние</translation>
+    </message>
+    <message>
+        <source>Flowchart: Stored Data</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_STORED_DATA</comment>
+        <translation>Блок-схема: сохранённые данные</translation>
+    </message>
+    <message>
+        <source>Flowchart: Delay</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DELAY</comment>
+        <translation>Блок-схема: задержка</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_SEQUENTIAL_ACCESS_STORAGE</comment>
+        <translation>Блок-схема: память с последовательным доступом</translation>
+    </message>
+    <message>
+        <source>Flowchart: Magnetic Disk</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MAGNETIC_DISK</comment>
+        <translation>Блок-схема: магнитный диск</translation>
+    </message>
+    <message>
+        <source>Flowchart: Direct Access Storage</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DIRECT_ACCESS_STORAGE</comment>
+        <translation>Блок-схема: память с прямым доступом</translation>
+    </message>
+    <message>
+        <source>Flowchart: Display</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DISPLAY</comment>
+        <translation>Блок-схема: дисплей</translation>
+    </message>
+    <message>
+        <source>Explosion 1</source>
+        <comment>DRAWING2_TOOLTIP_EXPLOSION_1</comment>
+        <translation>Пятно 1</translation>
+    </message>
+    <message>
+        <source>Explosion 2</source>
+        <comment>DRAWING2_TOOLTIP_EXPLOSION_2</comment>
+        <translation>Пятно 2</translation>
+    </message>
+    <message>
+        <source>4-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_4_POINT_STAR</comment>
+        <translation>4-конечная звезда</translation>
+    </message>
+    <message>
+        <source>5-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_5_POINT_STAR</comment>
+        <translation>5 конечная звезда</translation>
+    </message>
+    <message>
+        <source>6-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_6_POINT_STAR</comment>
+        <translation>6-конечная звезда</translation>
+    </message>
+    <message>
+        <source>7-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_7_POINT_STAR</comment>
+        <translation>7-конечная звезда</translation>
+    </message>
+    <message>
+        <source>8-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_8_POINT_STAR</comment>
+        <translation>8-конечная звезда</translation>
+    </message>
+    <message>
+        <source>10-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_10_POINT_STAR</comment>
+        <translation>10-конечная звезда</translation>
+    </message>
+    <message>
+        <source>12-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_12_POINT_STAR</comment>
+        <translation>12-конечная звезда</translation>
+    </message>
+    <message>
+        <source>16-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_16_POINT_STAR</comment>
+        <translation>16-конечная звезда</translation>
+    </message>
+    <message>
+        <source>24-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_24_POINT_STAR</comment>
+        <translation>24-конечная звезда</translation>
+    </message>
+    <message>
+        <source>32-Point Star</source>
+        <comment>DRAWING2_TOOLTIP_32_POINT_STAR</comment>
+        <translation>32-конечная звезда</translation>
+    </message>
+    <message>
+        <source>Convex Strip</source>
+        <comment>DRAWING2_TOOLTIP_CONVEX_STRIP</comment>
+        <translation>Лента лицом вверх</translation>
+    </message>
+    <message>
+        <source>Lordosis Strip</source>
+        <comment>DRAWING2_TOOLTIP_LORDOSIS_TRIP</comment>
+        <translation>Лента лицом вниз</translation>
+    </message>
+    <message>
+        <source>Convex Curved Strip</source>
+        <comment>DRAWING2_TOOLTIP_CONVEX_CURVED_STRIP</comment>
+        <translation>Круглая лента лицом вверх</translation>
+    </message>
+    <message>
+        <source>Lordosis Bending Strip</source>
+        <comment>DRAWING2_TOOLTIP_Lordosis_Bending_Strip</comment>
+        <translation>Круглая лента лицом вниз</translation>
+    </message>
+    <message>
+        <source>VerticalS Scroll</source>
+        <comment>DRAWING2_TOOLTIP_VERTICALS_SCROLL</comment>
+        <translation>Вертикальная прокрутка</translation>
+    </message>
+    <message>
+        <source>Horizontal Scroll</source>
+        <comment>DRAWING2_TOOLTIP_HORIZONTAL_SCROLL</comment>
+        <translation>Горизонтальная прокрутка</translation>
+    </message>
+    <message>
+        <source>Wave</source>
+        <comment>DRAWING2_TOOLTIP_WAVE</comment>
+        <translation>Волна</translation>
+    </message>
+    <message>
+        <source>Double Wave</source>
+        <comment>DRAWING2_TOOLTIP_DOUBLE_WAVE</comment>
+        <translation>Двойная волна</translation>
+    </message>
+    <message>
+        <source>Rectangular Callout</source>
+        <comment>DRAWING2_TOOLTIP_RECTANGULAR_CALLOUT</comment>
+        <translation>Прямоугольная выноска</translation>
+    </message>
+    <message>
+        <source>Rounded Rectangular Callout</source>
+        <comment>DDRAWING2_TOOLTIP_ROUNDED_RECTANGULAR_CALLOUT</comment>
+        <translation>Скругленная прямоугольная выноска</translation>
+    </message>
+    <message>
+        <source>Oval Callout</source>
+        <comment>DRAWING2_TOOLTIP_OVAL_CALLOUT</comment>
+        <translation>Овальная выноска</translation>
+    </message>
+    <message>
+        <source>Cloud Callout</source>
+        <comment>DRAWING2_TOOLTIP_CLOUD_CALLOUT</comment>
+        <translation>Выноска-облако</translation>
+    </message>
+    <message>
+        <source>Line Callout 1</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1</comment>
+        <translation>Выноска 1</translation>
+    </message>
+    <message>
+        <source>Line Callout 2</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2</comment>
+        <translation>Выноска 2</translation>
+    </message>
+    <message>
+        <source>Line Callout 3</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3</comment>
+        <translation>Выноска 3</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1_ACCENT_BAR</comment>
+        <translation>Выноска 1 (с чертой)</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2_ACCENT_BAR</comment>
+        <translation>Выноска 2 (с чертой)</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3_ACCENT_BAR</comment>
+        <translation>Выноска 3 (с чертой)</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (No Border)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1_NO_BORDER</comment>
+        <translation>Выноска 1 (без границы)</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (No Border)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2_NO_BORDER</comment>
+        <translation>Выноска 2 (без границы)</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (No Border)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3_NO_BORDER</comment>
+        <translation>Выноска 3 (без границы)</translation>
+    </message>
+    <message>
+        <source>Line Callout 1 (Border and Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1_BORDER_AND_ACCENT_BAR</comment>
+        <translation>Выноска 1 (с границей и чертой)</translation>
+    </message>
+    <message>
+        <source>Line Callout 2 (Border and Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2_BORDER_AND_ACCENT_BAR</comment>
+        <translation>Выноска 2 (с границей и чертой)</translation>
+    </message>
+    <message>
+        <source>Line Callout 3 (Border and Accent Bar)</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3_BORDER_AND_ACCENT_BAR</comment>
+        <translation>Выноска 3 (с границей и чертой)</translation>
+    </message>
+    <message>
+        <source>Action Button: Back or Previous</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_BACK_OR_PREVIOUS</comment>
+        <translation>Управляющая кнопка: назад</translation>
+    </message>
+    <message>
+        <source>Action Button: Forward or Next</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_FORWARD_OR_NEXT</comment>
+        <translation>Управляющая кнопка: далее</translation>
+    </message>
+    <message>
+        <source>Action Button: Beginning</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_BEGINNING</comment>
+        <translation>Управляющая кнопка: в начало</translation>
+    </message>
+    <message>
+        <source>Action Button: End</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_END</comment>
+        <translation>Управляющая кнопка: в конец</translation>
+    </message>
+    <message>
+        <source>Action Button: Home</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_HOME</comment>
+        <translation>Управляющая кнопка: домашняя</translation>
+    </message>
+    <message>
+        <source>Action Button: Information</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_INFORMATION</comment>
+        <translation>Управляющая кнопка: сведения</translation>
+    </message>
+    <message>
+        <source>Action Button: Return</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_RETURN</comment>
+        <translation>Управляющая кнопка: возврат</translation>
+    </message>
+    <message>
+        <source>Action Button: Movie</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_MOVIE</comment>
+        <translation>Управляющая кнопка: фильм</translation>
+    </message>
+    <message>
+        <source>Action Button: Document</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_DOCUMENT</comment>
+        <translation>Управляющая кнопка: документ</translation>
+    </message>
+    <message>
+        <source>Action Button: Sound</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_SOUND</comment>
+        <translation>Управляющая кнопка: звук</translation>
+    </message>
+    <message>
+        <source>Action Button: Help</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_HELP</comment>
+        <translation>Управляющая кнопка: справка</translation>
+    </message>
+    <message>
+        <source>Action Button: Custom</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_CUSTOM</comment>
+        <translation>Управляющая кнопка: настраиваемая</translation>
+    </message>
+    <message>
+        <source>LightPink</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BUTTON_LIGHTPINK</comment>
+        <translation>Светло-розовый</translation>
+    </message>
+    <message>
+        <source>Pink</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PINK</comment>
+        <translation>Розовый</translation>
+    </message>
+    <message>
+        <source>Crimson</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CRIMSON</comment>
+        <translation>Малиновый</translation>
+    </message>
+    <message>
+        <source>LavenderBlush</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LAVENDERBLUSH</comment>
+        <translation>Розовато-лавандовый</translation>
+    </message>
+    <message>
+        <source>PaleVioletRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PALEVIOLETRED</comment>
+        <translation>Бледный фиолетово-красный</translation>
+    </message>
+    <message>
+        <source>HotPink</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_HOTPINK</comment>
+        <translation>Ярко-розовый</translation>
+    </message>
+    <message>
+        <source>DeepPink</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DEEPPINK</comment>
+        <translation>Темно-розовый</translation>
+    </message>
+    <message>
+        <source>MediumVioletRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMVIOLETRED</comment>
+        <translation>Умеренный фиолетово-красный</translation>
+    </message>
+    <message>
+        <source>Orchid</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ORCHID</comment>
+        <translation>Орхидея</translation>
+    </message>
+    <message>
+        <source>Thistle</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_THISTLE</comment>
+        <translation>Бледно-лиловый</translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PLUM</comment>
+        <translation>Сливовый</translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_VIOLET</comment>
+        <translation>Фиолетовый</translation>
+    </message>
+    <message>
+        <source>Magenta</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MAGENTA</comment>
+        <translation>Пурпурный</translation>
+    </message>
+    <message>
+        <source>Fuchsia</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_FUCHSIA</comment>
+        <translation>Розовый</translation>
+    </message>
+    <message>
+        <source>DarkMagenta</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKMAGENTA</comment>
+        <translation>Темно-пурпурный</translation>
+    </message>
+    <message>
+        <source>Purple</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PURPLE</comment>
+        <translation>Лиловый</translation>
+    </message>
+    <message>
+        <source>MediumOrchid</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMORCHID</comment>
+        <translation>Умеренный розовый</translation>
+    </message>
+    <message>
+        <source>DarkViolet</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKVIOLET</comment>
+        <translation>Темно-фиолетовый</translation>
+    </message>
+    <message>
+        <source>DarkOrchid</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKORCHID</comment>
+        <translation>Темная орхидея</translation>
+    </message>
+    <message>
+        <source>Indigo</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_INDIGO</comment>
+        <translation>Индиго</translation>
+    </message>
+    <message>
+        <source>BlueViolet</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BLUEVIOLET</comment>
+        <translation>Светло-фиолетовый</translation>
+    </message>
+    <message>
+        <source>MediumPurple</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMPURPLE</comment>
+        <translation>Умеренный пурпурный</translation>
+    </message>
+    <message>
+        <source>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSLATEBLUE</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_CUSTOM</comment>
+        <translation>Умеренный серовато-синий</translation>
+    </message>
+    <message>
+        <source>SlateBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SLATEBLUE</comment>
+        <translation>Серовато-синий</translation>
+    </message>
+    <message>
+        <source>DarkSlateBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSLATEBLUE</comment>
+        <translation>Темный серовато-синий</translation>
+    </message>
+    <message>
+        <source>Lavender</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LAVENDER</comment>
+        <translation>Лавандовый</translation>
+    </message>
+    <message>
+        <source>GhostWhite</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GHOSTWHITE</comment>
+        <translation>Туманно-белый</translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BLUE</comment>
+        <translation>Синий</translation>
+    </message>
+    <message>
+        <source>MediumBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMBLUE</comment>
+        <translation>Умеренно-голубой</translation>
+    </message>
+    <message>
+        <source>MidnightBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MIDNIGHTBLUE</comment>
+        <translation>Ночной синий</translation>
+    </message>
+    <message>
+        <source>DarkBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKBLUE</comment>
+        <translation>Темно-синий</translation>
+    </message>
+    <message>
+        <source>Navy</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_NAVY</comment>
+        <translation>Красновато-синий</translation>
+    </message>
+    <message>
+        <source>RoyalBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ROYALBLUE</comment>
+        <translation>Королевский голубой</translation>
+    </message>
+    <message>
+        <source>CornflowerBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CORNFLOWERBLUE</comment>
+        <translation>Васильковый</translation>
+    </message>
+    <message>
+        <source>LightSteelBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSTEELBLUE</comment>
+        <translation>Светло-стальной</translation>
+    </message>
+    <message>
+        <source>LightSlateGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSLATEGRAY</comment>
+        <translation>Светлый синевато-серый</translation>
+    </message>
+    <message>
+        <source>SlateGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SLATEGRAY</comment>
+        <translation>Синевато-серый</translation>
+    </message>
+    <message>
+        <source>DodgerBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DODGERBLUE</comment>
+        <translation>Тускло-васильковый</translation>
+    </message>
+    <message>
+        <source>AliceBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ALICEBLUE</comment>
+        <translation>Бледно-голубой</translation>
+    </message>
+    <message>
+        <source>SteelBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_STEELBLUE</comment>
+        <translation>Голубовато-стальной</translation>
+    </message>
+    <message>
+        <source>LightSkyBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSKYBLUE</comment>
+        <translation>Светлый небесно-голубой</translation>
+    </message>
+    <message>
+        <source>SkyBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SKYBLUE</comment>
+        <translation>Небесно-голубой</translation>
+    </message>
+    <message>
+        <source>DeepSkyBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DEEPSKYBLUE</comment>
+        <translation>Темный небесно-голубой</translation>
+    </message>
+    <message>
+        <source>LightBlue</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_CUSTOM</comment>
+        <translation>Светло-синий</translation>
+    </message>
+    <message>
+        <source>PowderBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_POWDERBLUE</comment>
+        <translation>Туманно-голубой</translation>
+    </message>
+    <message>
+        <source>CadetBlue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CADETBLUE</comment>
+        <translation>Блеклый серо-голубой</translation>
+    </message>
+    <message>
+        <source>Azure</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_AZURE</comment>
+        <translation>Лазурный</translation>
+    </message>
+    <message>
+        <source>LightCyan</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTCYAN</comment>
+        <translation>Светло-голубой</translation>
+    </message>
+    <message>
+        <source>PaleTurquoise</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PALETURQUOISE</comment>
+        <translation>Бледно-бирюзовый</translation>
+    </message>
+    <message>
+        <source>Cyan</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CYAN</comment>
+        <translation>Голубой</translation>
+    </message>
+    <message>
+        <source>Aqua</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_AQUA</comment>
+        <translation>Аква</translation>
+    </message>
+    <message>
+        <source>DarkTurquoise</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKTURQUOISE</comment>
+        <translation>Темно-бирюзовый</translation>
+    </message>
+    <message>
+        <source>DarkSlateGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSLATEGRAY</comment>
+        <translation>Темный синевато-серый</translation>
+    </message>
+    <message>
+        <source>DarkCyan</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKCYAN</comment>
+        <translation>Темно-голубой</translation>
+    </message>
+    <message>
+        <source>Teal</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_TEAL</comment>
+        <translation>Сине-зелёный</translation>
+    </message>
+    <message>
+        <source>MediumTurquoise</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMTURQUOISE</comment>
+        <translation>Умеренно-бирюзовый</translation>
+    </message>
+    <message>
+        <source>LightSeaGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSEAGREEN</comment>
+        <translation>Светлый морской волны</translation>
+    </message>
+    <message>
+        <source>Turquoise</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_TURQUOISE</comment>
+        <translation>Бирюзовый</translation>
+    </message>
+    <message>
+        <source>Aquamarine</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_AQUAMARINE</comment>
+        <translation>Аквамариновый</translation>
+    </message>
+    <message>
+        <source>MediumAquamarine</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMAQUAMARINE</comment>
+        <translation>Умеренно-аквамариновый</translation>
+    </message>
+    <message>
+        <source>MediumSpringGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSPRINGGREEN</comment>
+        <translation>Умеренный синевато-серый</translation>
+    </message>
+    <message>
+        <source>MintCream</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MINTCREAM</comment>
+        <translation>Мятно-кремовый</translation>
+    </message>
+    <message>
+        <source>SpringGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SPRINGGREEN</comment>
+        <translation>Весенний зеленый</translation>
+    </message>
+    <message>
+        <source>MediumSeaGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSEAGREEN</comment>
+        <translation>Умеренный морской волны</translation>
+    </message>
+    <message>
+        <source>SeaGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SEAGREEN</comment>
+        <translation>Морской волны</translation>
+    </message>
+    <message>
+        <source>Honeydew</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_HONEYDEW</comment>
+        <translation>Медовый</translation>
+    </message>
+    <message>
+        <source>LightGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTGREEN</comment>
+        <translation>Светло-зеленый</translation>
+    </message>
+    <message>
+        <source>PaleGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PALEGREEN</comment>
+        <translation>Бледно-зеленый</translation>
+    </message>
+    <message>
+        <source>DarkSeaGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSEAGREEN</comment>
+        <translation>Темный морской волны</translation>
+    </message>
+    <message>
+        <source>LimeGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIMEGREEN</comment>
+        <translation>Зеленовато-известковый</translation>
+    </message>
+    <message>
+        <source>Lime</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIME</comment>
+        <translation>Лайм</translation>
+    </message>
+    <message>
+        <source>ForestGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_FORESTGREEN</comment>
+        <translation>Лесной зеленый</translation>
+    </message>
+    <message>
+        <source>Green</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GREEN</comment>
+        <translation>Зелёный</translation>
+    </message>
+    <message>
+        <source>DarkGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKGREEN</comment>
+        <translation>Темно-зеленый</translation>
+    </message>
+    <message>
+        <source>Chartreuse</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CHARTREUSE</comment>
+        <translation>Зеленовато-желтый</translation>
+    </message>
+    <message>
+        <source>LawnGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LAWNGREEN</comment>
+        <translation>Зеленой травы</translation>
+    </message>
+    <message>
+        <source>GreenYellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GREENYELLOW</comment>
+        <translation>Желто-зеленый</translation>
+    </message>
+    <message>
+        <source>DarkOliveGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKOLIVEGREEN</comment>
+        <translation>Темно-оливковый</translation>
+    </message>
+    <message>
+        <source>YellowGreen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_YELLOWGREEN</comment>
+        <translation>Зелено-желтый</translation>
+    </message>
+    <message>
+        <source>OliveDrab</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_OLIVEDRAB</comment>
+        <translation>Тускло-коричневый</translation>
+    </message>
+    <message>
+        <source>Beige</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BEIGE</comment>
+        <translation>Бежевый</translation>
+    </message>
+    <message>
+        <source>LightGoldenrodYellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTGOLDENRODYELLOW</comment>
+        <translation>Светлый золотисто-желтый</translation>
+    </message>
+    <message>
+        <source>Ivory</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_IVORY</comment>
+        <translation>Слоновая кость</translation>
+    </message>
+    <message>
+        <source>LightYellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTYELLOW</comment>
+        <translation>Светло-желтый</translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_YELLOW</comment>
+        <translation>Жёлтый</translation>
+    </message>
+    <message>
+        <source>Olive</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_OLIVE</comment>
+        <translation>Оливковый</translation>
+    </message>
+    <message>
+        <source>DarkKhaki</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKKHAKI</comment>
+        <translation>Темный хаки</translation>
+    </message>
+    <message>
+        <source>LemonChiffon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LEMONCHIFFON</comment>
+        <translation>Лимонный</translation>
+    </message>
+    <message>
+        <source>PaleGoldenrod</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PALEGOLDENROD</comment>
+        <translation>Бледно-золотой</translation>
+    </message>
+    <message>
+        <source>Khaki</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_KHAKI</comment>
+        <translation>Хаки</translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GOLD</comment>
+        <translation>Золотой</translation>
+    </message>
+    <message>
+        <source>Cornsilk</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CORNSILK</comment>
+        <translation>Бледно-желтый</translation>
+    </message>
+    <message>
+        <source>Goldenrod</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GOLDENROD</comment>
+        <translation>Золотой</translation>
+    </message>
+    <message>
+        <source>DarkGoldenrod</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKGOLDENROD</comment>
+        <translation>Темно-золотой</translation>
+    </message>
+    <message>
+        <source>FloralWhite</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_FLORALWHITE</comment>
+        <translation>Цветочно-белый</translation>
+    </message>
+    <message>
+        <source>OldLace</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_OLDLACE</comment>
+        <translation>Цвет старого коньяка</translation>
+    </message>
+    <message>
+        <source>Wheat</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_WHEAT</comment>
+        <translation>Пшеница</translation>
+    </message>
+    <message>
+        <source>Moccasin</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MOCCASIN</comment>
+        <translation>Болотный</translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ORANGE</comment>
+        <translation>Оранжевый</translation>
+    </message>
+    <message>
+        <source>PapayaWhip</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PAPAYAWHIP</comment>
+        <translation>Цвета дыни</translation>
+    </message>
+    <message>
+        <source>BlanchedAlmond</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BLANCHEDALMON</comment>
+        <translation>Светло-кремовый</translation>
+    </message>
+    <message>
+        <source>NavajoWhite</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_NAVAJOWHITE</comment>
+        <translation>Грязно-серый</translation>
+    </message>
+    <message>
+        <source>AntiqueWhite</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ANTIQUEWHITE</comment>
+        <translation>Античный белый</translation>
+    </message>
+    <message>
+        <source>Tan</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_TAN</comment>
+        <translation>Жёлто-коричневый</translation>
+    </message>
+    <message>
+        <source>BurlyWood</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BURLYWOOD</comment>
+        <translation>Старого дерева</translation>
+    </message>
+    <message>
+        <source>Bisque</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BISQUE</comment>
+        <translation>Светло-коричневый</translation>
+    </message>
+    <message>
+        <source>DarkOrange</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKORANGE</comment>
+        <translation>Темно-оранжевый</translation>
+    </message>
+    <message>
+        <source>Linen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LINEN</comment>
+        <translation>Льняной</translation>
+    </message>
+    <message>
+        <source>Peru</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PERU</comment>
+        <translation>Коричневый</translation>
+    </message>
+    <message>
+        <source>PeachPuff</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_PEACHPUFF</comment>
+        <translation>Персиковый</translation>
+    </message>
+    <message>
+        <source>SandyBrown</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SANDYBROWN</comment>
+        <translation>Рыже-коричневый</translation>
+    </message>
+    <message>
+        <source>Chocolate</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CHOCOLATE</comment>
+        <translation>Шоколадный</translation>
+    </message>
+    <message>
+        <source>SaddleBrown</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SADDLEBROWN</comment>
+        <translation>Старой кожи</translation>
+    </message>
+    <message>
+        <source>Seashell</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SEASHELL</comment>
+        <translation>Морской пены</translation>
+    </message>
+    <message>
+        <source>Sienna</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SIENNA</comment>
+        <translation>Охра</translation>
+    </message>
+    <message>
+        <source>LightSalmon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSALMON</comment>
+        <translation>Светлый оранжево-розовый</translation>
+    </message>
+    <message>
+        <source>Coral</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_CORAL</comment>
+        <translation>Коралловый</translation>
+    </message>
+    <message>
+        <source>OrangeRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ORANGERED</comment>
+        <translation>Красно-оранжевый</translation>
+    </message>
+    <message>
+        <source>DarkSalmon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSALMON</comment>
+        <translation>Темный оранжево-розовый</translation>
+    </message>
+    <message>
+        <source>Tomato</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_TOMATO</comment>
+        <translation>Томатный</translation>
+    </message>
+    <message>
+        <source>MistyRose</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MISTYROSE</comment>
+        <translation>Туманно-розовый</translation>
+    </message>
+    <message>
+        <source>Salmon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SALMON</comment>
+        <translation>Светло-оранжевый</translation>
+    </message>
+    <message>
+        <source>Snow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SNOW</comment>
+        <translation>Снежный</translation>
+    </message>
+    <message>
+        <source>LightCoral</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTCORAL</comment>
+        <translation>Светло-коралловый</translation>
+    </message>
+    <message>
+        <source>RosyBrown</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_ROSYBROWN</comment>
+        <translation>Розово-коричневый</translation>
+    </message>
+    <message>
+        <source>IndianRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_INDIANRED</comment>
+        <translation>Ярко-красный</translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_RED</comment>
+        <translation>Красный</translation>
+    </message>
+    <message>
+        <source>Brown</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BROWN</comment>
+        <translation>Коричневый</translation>
+    </message>
+    <message>
+        <source>FireBrick</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_FIREBRICK</comment>
+        <translation>Обожженного кирпича</translation>
+    </message>
+    <message>
+        <source>DarkRed</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKRED</comment>
+        <translation>Темно-красный</translation>
+    </message>
+    <message>
+        <source>Maroon</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MAROON</comment>
+        <translation>Темно-бордовый</translation>
+    </message>
+    <message>
+        <source>White</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_WHITE</comment>
+        <translation>Белый</translation>
+    </message>
+    <message>
+        <source>WhiteSmoke</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_WHITESMOKE</comment>
+        <translation>Белый дымчатый</translation>
+    </message>
+    <message>
+        <source>Gainsboro</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GAINSBORO</comment>
+        <translation>Светлый серо-фиолетовый</translation>
+    </message>
+    <message>
+        <source>LightGrey</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTGREY</comment>
+        <translation>Светло-серый</translation>
+    </message>
+    <message>
+        <source>Silver</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_SILVER</comment>
+        <translation>Серебряный</translation>
+    </message>
+    <message>
+        <source>DarkGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DARKGRAY</comment>
+        <translation>Темно-серый</translation>
+    </message>
+    <message>
+        <source>Gray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_GRAY</comment>
+        <translation>Серый</translation>
+    </message>
+    <message>
+        <source>DimGray</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_DIMGRAY</comment>
+        <translation>Тускло-серый</translation>
+    </message>
+    <message>
+        <source>Black</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_BLACK</comment>
+        <translation>Чёрный</translation>
+    </message>
+    <message>
+        <source>Gray-25%</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_Gray_25</comment>
+        <translation>Серый-25%</translation>
+    </message>
+    <message>
+        <source>Gray-50%</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_Gray_50</comment>
+        <translation>Серый-50%</translation>
+    </message>
+    <message>
+        <source>Deep Red</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_DEEPRED</comment>
+        <translation>Темно-красный</translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_RED</comment>
+        <translation>Красный</translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_ORANGE</comment>
+        <translation>Оранжевый</translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_YELLOW</comment>
+        <translation>Жёлтый</translation>
+    </message>
+    <message>
+        <source>Micro Green</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_MICROGREEN</comment>
+        <translation>Салатовый</translation>
+    </message>
+    <message>
+        <source>Greeen</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_GREEEN</comment>
+        <translation>Зеленый</translation>
+    </message>
+    <message>
+        <source>Micro Blue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_MICROBLUE</comment>
+        <translation>Светло-синий</translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_BLUE</comment>
+        <translation>Синий</translation>
+    </message>
+    <message>
+        <source>Deep Blue</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_DEEPBLUE</comment>
+        <translation>Красновато-синий</translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_VIOLET</comment>
+        <translation>Фиолетовый</translation>
+    </message>
+    <message>
+        <source>Top-Left To Bottom-Right</source>
+        <comment>wpp_sTooltipGradientLinearTopLefttoBottomRight</comment>
+        <translation>По диагонали — из левого верхнего угла в нижний правый</translation>
+    </message>
+    <message>
+        <source>To Down</source>
+        <comment>wpp_sTooltipGradientLinearTopRighttoBottomLeft</comment>
+        <translation>Вниз</translation>
+    </message>
+    <message>
+        <source>Top-Right To Bottom-Left</source>
+        <comment>wpp_sTooltipGradientLinearTopRighttoBottomLeft</comment>
+        <translation>По диагонали — из правого верхнего угла в нижний левый</translation>
+    </message>
+    <message>
+        <source>To Right</source>
+        <comment>wpp_sTooltipGradientlinearRight</comment>
+        <translation>Вправо</translation>
+    </message>
+    <message>
+        <source>To Left</source>
+        <comment>wpp_sTooltipGradientlinearLeft</comment>
+        <translation>Влево</translation>
+    </message>
+    <message>
+        <source>Bottom-Left To Top-Right</source>
+        <comment>wpp_sTooltipGradientLinearBottomLefttoTopRight</comment>
+        <translation>По диагонали — из левого нижнего угла в верхний правый</translation>
+    </message>
+    <message>
+        <source>To Up</source>
+        <comment>wpp_sTooltipGradientLinearUp</comment>
+        <translation>Линейный</translation>
+    </message>
+    <message>
+        <source>Bottom-Right To Top-Left</source>
+        <comment>wpp_sTooltipGradientLinearBottomRighttoTopLeft</comment>
+        <translation>По диагонали — из правого нижнего угла в верхний левый</translation>
+    </message>
+    <message>
+        <source>From Bottom-Right Corner</source>
+        <comment>wpp_sTooltipGradientFromBottomRightCorner</comment>
+        <translation>Из правого нижнего угла</translation>
+    </message>
+    <message>
+        <source>From Bottom-Left Corne</source>
+        <comment>wpp_sTooltipGradientFromBottomLeftCorner</comment>
+        <translation>Из левого нижнего угла</translation>
+    </message>
+    <message>
+        <source>From Center</source>
+        <comment>wpp_sTooltipGradientFromCenter</comment>
+        <translation>Из центра</translation>
+    </message>
+    <message>
+        <source>From Top-Right Corner</source>
+        <comment>wpp_sTooltipGradientFromTopRightCorner</comment>
+        <translation>Из правого верхнего угла</translation>
+    </message>
+    <message>
+        <source>From Top-Left Corner</source>
+        <comment>wpp_sTooltipGradientFromTopLeftCorner</comment>
+        <translation>Из левого верхнего угла</translation>
+    </message>
+    <message>
+        <source>Dark1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>Темный1</translation>
+    </message>
+    <message>
+        <source>Light1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>Светлый1</translation>
+    </message>
+    <message>
+        <source>Dark2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>Темный2</translation>
+    </message>
+    <message>
+        <source>Light2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>Светлый2</translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>Акцент1</translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>Акцент2</translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>Акцент3</translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>Акцент4</translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>Акцент5</translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>Акцент6</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>Гиперссылка</translation>
+    </message>
+    <message>
+        <source>FollowedHyperlink1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>По ссылке</translation>
+    </message>
+    <message>
+        <source>Text1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>Текст1</translation>
+    </message>
+    <message>
+        <source>Background1</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>Фон1</translation>
+    </message>
+    <message>
+        <source>Text2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>Текст2</translation>
+    </message>
+    <message>
+        <source>Background2</source>
+        <comment>wpp_sTooltipThemeColorDark1</comment>
+        <translation>Фон2</translation>
+    </message>
+    <message>
+        <source> stop: %1(belong to %2)
+ position:%3% 
+ color: %4</source>
+        <comment>wpp_sTooltipGradientStops</comment>
+        <translation> Стоп: %1(из %2)
+ Положение:%3% 
+ Цвет: %4</translation>
+    </message>
+    <message>
+        <source> Fill-</source>
+        <comment>wpp_sTooltipArtWordSolidFill</comment>
+        <translation> Заливка</translation>
+    </message>
+    <message>
+        <source> GradientFill-</source>
+        <comment>wpp_sTooltipArtWordGradientFill</comment>
+        <translation> Градиент заливки —</translation>
+    </message>
+    <message>
+        <source> PatternFill-</source>
+        <comment>wpp_sTooltipArtWordPatternFill</comment>
+        <translation> Шаблон заливки —</translation>
+    </message>
+    <message>
+        <source> OutLine-</source>
+        <comment>wpp_sTooltipArtWordOutLine</comment>
+        <translation> Контур —</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <comment>wpp_sTooltipPatternHorizontal</comment>
+        <translation>Горизонтально</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <comment>wpp_sTooltipPatternVertical</comment>
+        <translation>Вертикально</translation>
+    </message>
+    <message>
+        <source>ForwardDiagonal</source>
+        <comment>wpp_sTooltipPatternForwardDiagonal</comment>
+        <translation>По диагонали вперед</translation>
+    </message>
+    <message>
+        <source>BackwardDiagonal</source>
+        <comment>wpp_sTooltipPatternBackwardDiagonal</comment>
+        <translation>По диагонали обратно</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>wpp_sTooltipArtWordPatternFill</comment>
+        <translation>Пересечение</translation>
+    </message>
+    <message>
+        <source>DiagonalCross</source>
+        <comment>wpp_sTooltipPatternDiagonalCross</comment>
+        <translation>Диагональная клетка</translation>
+    </message>
+    <message>
+        <source>5%</source>
+        <comment>wpp_sTooltipPattern05Percent</comment>
+        <translation>5%</translation>
+    </message>
+    <message>
+        <source>10%</source>
+        <comment>wpp_sTooltipPattern10Percent</comment>
+        <translation>10%</translation>
+    </message>
+    <message>
+        <source>20%</source>
+        <comment>wpp_sTooltipPattern20Percent</comment>
+        <translation>20%</translation>
+    </message>
+    <message>
+        <source>25%</source>
+        <comment>wpp_sTooltipPattern25Percent</comment>
+        <translation>25%</translation>
+    </message>
+    <message>
+        <source>30%</source>
+        <comment>wpp_sTooltipPattern30Percent</comment>
+        <translation>30%</translation>
+    </message>
+    <message>
+        <source>40%</source>
+        <comment>wpp_sTooltipPattern40Percent</comment>
+        <translation>40%</translation>
+    </message>
+    <message>
+        <source>50%</source>
+        <comment>wpp_sTooltipPattern50Percent</comment>
+        <translation>50%</translation>
+    </message>
+    <message>
+        <source>60%</source>
+        <comment>wpp_sTooltipPattern60Percent</comment>
+        <translation>60%</translation>
+    </message>
+    <message>
+        <source>70%</source>
+        <comment>wpp_sTooltipPattern70Percent</comment>
+        <translation>70%</translation>
+    </message>
+    <message>
+        <source>75%</source>
+        <comment>wpp_sTooltipPattern75Percent</comment>
+        <translation>75%</translation>
+    </message>
+    <message>
+        <source>80%</source>
+        <comment>wpp_sTooltipPattern80Percent</comment>
+        <translation>80%</translation>
+    </message>
+    <message>
+        <source>90%</source>
+        <comment>wpp_sTooltipPattern90Percent</comment>
+        <translation>90%</translation>
+    </message>
+    <message>
+        <source>LightDownwardDiagonal</source>
+        <comment>wpp_sTooltipPatternLightDownwardDiagonal</comment>
+        <translation>Светлая по диагонали вниз</translation>
+    </message>
+    <message>
+        <source>LightUpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternLightUpwardDiagonal</comment>
+        <translation>Светлая по диагонали вверх</translation>
+    </message>
+    <message>
+        <source>DarkDownwardDiagonal	</source>
+        <comment>wpp_sTooltipPatternDarkDownwardDiagonal</comment>
+        <translation>Темная по диагонали вниз	</translation>
+    </message>
+    <message>
+        <source>DarkUpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternDarkUpwardDiagonal</comment>
+        <translation>Темная по диагонали вверх</translation>
+    </message>
+    <message>
+        <source>WideDownwardDiagonal</source>
+        <comment>wpp_sTooltipPatternWideDownwardDiagonal</comment>
+        <translation>Широкая по диагонали вниз</translation>
+    </message>
+    <message>
+        <source>WideUpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternWideUpwardDiagonal</comment>
+        <translation>Широкая по диагонали вверх</translation>
+    </message>
+    <message>
+        <source>LightVertical</source>
+        <comment>wpp_sTooltipPatternLightVertical</comment>
+        <translation>Светлая вертикаль</translation>
+    </message>
+    <message>
+        <source>LightHorizontal</source>
+        <comment>wpp_sTooltipPatternLightHorizontal</comment>
+        <translation>Светлая горизонталь</translation>
+    </message>
+    <message>
+        <source>NarrowVertical</source>
+        <comment>wpp_sTooltipPatternNarrowVertical</comment>
+        <translation>Частая по вертикали</translation>
+    </message>
+    <message>
+        <source>NarrowHorizontal</source>
+        <comment>wpp_sTooltipPatternDarkVertical</comment>
+        <translation>Частая по горизонтали</translation>
+    </message>
+    <message>
+        <source>DarkVertical </source>
+        <comment>wpp_sTooltipPatternDarkHorizontal</comment>
+        <translation>Темная вертикаль </translation>
+    </message>
+    <message>
+        <source>DarkHorizontal</source>
+        <comment>wpp_sTooltipPatternDarkHorizontal</comment>
+        <translation>Темная горизонталь</translation>
+    </message>
+    <message>
+        <source>DashedDownwardDiagonal</source>
+        <comment>wpp_sTooltipPatternDashedDownwardDiagonal</comment>
+        <translation>Штриховая по диагонали вниз</translation>
+    </message>
+    <message>
+        <source>DashedUpwardDiagonal	</source>
+        <comment>wpp_sTooltipPatternDashedUpwardDiagonal</comment>
+        <translation>Штриховая по диагонали вверх	</translation>
+    </message>
+    <message>
+        <source>DashedHorizontal	</source>
+        <comment>wpp_sTooltipPatternDashedHorizontal</comment>
+        <translation>Штриховая по горизонтали	</translation>
+    </message>
+    <message>
+        <source>DashedVertical</source>
+        <comment>wpp_sTooltipPatternDashedVertical</comment>
+        <translation>Штриховая по вертикали</translation>
+    </message>
+    <message>
+        <source>SmallConfetti</source>
+        <comment>wpp_sTooltipPatternSmallConfetti</comment>
+        <translation>Мелкое конфетти</translation>
+    </message>
+    <message>
+        <source>LargeConfetti</source>
+        <comment>wpp_sTooltipPatternLargeConfetti</comment>
+        <translation>Крупное конфетти</translation>
+    </message>
+    <message>
+        <source>ZigZag</source>
+        <comment>wpp_sTooltipPatternZigZag</comment>
+        <translation>Зигзаг</translation>
+    </message>
+    <message>
+        <source>Wave	</source>
+        <comment>wpp_sTooltipPatternWave	</comment>
+        <translation>Волна	</translation>
+    </message>
+    <message>
+        <source>DiagonalBrick</source>
+        <comment>wpp_sTooltipPatternDiagonalBrick</comment>
+        <translation>Диагональный кирпич</translation>
+    </message>
+    <message>
+        <source>HorizontalBrick</source>
+        <comment>wpp_sTooltipPatternHorizontalBrick</comment>
+        <translation>Горизонтальный кирпич</translation>
+    </message>
+    <message>
+        <source>PatternWeave</source>
+        <comment>wpp_sTooltipPatternWeave</comment>
+        <translation>Плетение</translation>
+    </message>
+    <message>
+        <source>PatternPlaid</source>
+        <comment>wpp_sTooltipPatternPlaid</comment>
+        <translation>Шотландка</translation>
+    </message>
+    <message>
+        <source>PatternDivot</source>
+        <comment>wpp_sTooltipPatternDivot</comment>
+        <translation>Уголки</translation>
+    </message>
+    <message>
+        <source>DottedGrid</source>
+        <comment>wpp_sTooltipPatternDottedGrid</comment>
+        <translation>Точечная сетка</translation>
+    </message>
+    <message>
+        <source>DottedDiamond</source>
+        <comment>wpp_sTooltipPatternDottedDiamond</comment>
+        <translation>Точечные ромбики</translation>
+    </message>
+    <message>
+        <source>PatternShingle</source>
+        <comment>wpp_sTooltipPatternShingle</comment>
+        <translation>Дранка</translation>
+    </message>
+    <message>
+        <source>PatternTrellis</source>
+        <comment>wpp_sTooltipPatternTrellis</comment>
+        <translation>Шпалера</translation>
+    </message>
+    <message>
+        <source>PatternSphere</source>
+        <comment>wpp_sTooltipPatternSphere</comment>
+        <translation>Сфера</translation>
+    </message>
+    <message>
+        <source>SmallGrid</source>
+        <comment>wpp_sToolwpp_sTooltipPatternSmallGridtipPatternSmallGrid</comment>
+        <translation>Мелкая сетка</translation>
+    </message>
+    <message>
+        <source>SmallCheckerBoard</source>
+        <comment>wpp_sTooltipPatternSmallCheckerBoard</comment>
+        <translation>Мелкая клетка</translation>
+    </message>
+    <message>
+        <source>LargeCheckerBoard</source>
+        <comment>wpp_sTooltipPatternLargeCheckerBoard</comment>
+        <translation>Крупная клетка</translation>
+    </message>
+    <message>
+        <source>OutlinedDiamond</source>
+        <comment>wpp_sTooltipPatternOutlinedDiamond</comment>
+        <translation>Контурные ромбики</translation>
+    </message>
+    <message>
+        <source>SolidDiamond</source>
+        <comment>wpp_sTooltipPatternSolidDiamond</comment>
+        <translation>Ромбики</translation>
+    </message>
+    <message>
+        <source>DownwardDiagnal</source>
+        <comment>wpp_sTooltipPatternDownwardDiagnal</comment>
+        <translation>По диагонали вниз</translation>
+    </message>
+    <message>
+        <source>UpwardDiagonal</source>
+        <comment>wpp_sTooltipPatternUpwardDiagonal</comment>
+        <translation>По диагонали вверх</translation>
+    </message>
+    <message>
+        <source>LargeGrid</source>
+        <comment>wpp_sTooltipPatternLargeGrid</comment>
+        <translation>Большая сетка</translation>
+    </message>
+    <message>
+        <source> InnerShadow</source>
+        <comment>wpp_sTooltipEffectInnerShadow</comment>
+        <translation> Внутренняя тень</translation>
+    </message>
+    <message>
+        <source> Shadow</source>
+        <comment>wpp_sTooltipEffectInnerShadow</comment>
+        <translation> Тень</translation>
+    </message>
+    <message>
+        <source> ClearShadow-%1</source>
+        <comment>wpp_sTooltipEffectClearShadow</comment>
+        <translation>Сплошная тень — %1</translation>
+    </message>
+    <message>
+        <source>Clear </source>
+        <comment>wpp_sTooltipMaterialTypeClear</comment>
+        <translation>Очистить </translation>
+    </message>
+    <message>
+        <source>DarkEdge </source>
+        <comment>wpp_sTooltipMaterialTypeDarkEdge</comment>
+        <translation>Темный край</translation>
+    </message>
+    <message>
+        <source>Flat </source>
+        <comment>wpp_sTooltipMaterialTypeFlat</comment>
+        <translation>Плоский </translation>
+    </message>
+    <message>
+        <source>Matte </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyMatte</comment>
+        <translation>Матовая </translation>
+    </message>
+    <message>
+        <source>Metal </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyMetal</comment>
+        <translation>Металл </translation>
+    </message>
+    <message>
+        <source>Plastic </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyPlastic</comment>
+        <translation>Пластик </translation>
+    </message>
+    <message>
+        <source>Wireframe </source>
+        <comment>wpp_sTooltipMaterialTypeLegacyWireframe</comment>
+        <translation>Каркас</translation>
+    </message>
+    <message>
+        <source>Matte </source>
+        <comment>wpp_sTooltipMaterialTypeMatte</comment>
+        <translation>Матовая </translation>
+    </message>
+    <message>
+        <source>Metal </source>
+        <comment>wpp_sTooltipMaterialTypeMetal</comment>
+        <translation>Металл </translation>
+    </message>
+    <message>
+        <source>Plastic </source>
+        <comment>wpp_sTooltipMaterialTypePlastic</comment>
+        <translation>Пластик </translation>
+    </message>
+    <message>
+        <source>Powder </source>
+        <comment>wpp_sTooltipMaterialTypePowder</comment>
+        <translation>Порошок </translation>
+    </message>
+    <message>
+        <source>SoftEdge </source>
+        <comment>wpp_sTooltipMaterialTypeSoftEdge</comment>
+        <translation>Сглаженный край</translation>
+    </message>
+    <message>
+        <source>SoftMetal </source>
+        <comment>wpp_sTooltipMaterialTypeSoftMetal</comment>
+        <translation>Мягкий металл</translation>
+    </message>
+    <message>
+        <source>TranslucentPowder </source>
+        <comment>wpp_sTooltipMaterialTypeTranslucentPowder</comment>
+        <translation>Прозрачная порошок</translation>
+    </message>
+    <message>
+        <source>WarmMatte </source>
+        <comment>wpp_sTooltipMaterialTypeWarmMatte</comment>
+        <translation>Теплый матовый</translation>
+    </message>
+    <message>
+        <source>DarkColor%1</source>
+        <comment>wpp_sTooltipShapeStyleDarkColor</comment>
+        <translation>Темный цвет%1</translation>
+    </message>
+    <message>
+        <source>HightLight%1</source>
+        <comment>wpp_sTooltipShapeStyleHightlightColor</comment>
+        <translation>Акцент %1</translation>
+    </message>
+    <message>
+        <source>ColorOutLine-</source>
+        <comment>wpp_sTooltipShapeStyleColorOutLine</comment>
+        <translation>Цветной контур —</translation>
+    </message>
+    <message>
+        <source>ColorFill-</source>
+        <comment>wpp_sTooltipShapeStyleColorFill</comment>
+        <translation>Цветная заливка — </translation>
+    </message>
+    <message>
+        <source>LightColor_1_OutLine,Color Fill-</source>
+        <comment>wpp_sTooltipShapeStyleLightColor_1_OutLineFill</comment>
+        <translation>Свет 1 контур, цветная заливка — </translation>
+    </message>
+    <message>
+        <source>SubtleEffect-</source>
+        <comment>wpp_sTooltipShapeStyleSubtleEffect</comment>
+        <translation>Слабый эффект —</translation>
+    </message>
+    <message>
+        <source>ModerateEffect-</source>
+        <comment>wpp_sTooltipShapeStyleModerateEffect</comment>
+        <translation>Средний эффект —</translation>
+    </message>
+    <message>
+        <source>IntenseEffect-</source>
+        <comment>wpp_sTooltipShapeStyleIntenseEffect</comment>
+        <translation>Сильный эффект —</translation>
+    </message>
+    <message>
+        <source>SubtleLine-</source>
+        <comment>wpp_sTooltipShapeStyleIntenseLine</comment>
+        <translation>Слабая линия —</translation>
+    </message>
+    <message>
+        <source>ModerateLine-</source>
+        <comment>wpp_sTooltipShapeStyleModerateLine</comment>
+        <translation>Средняя линия —</translation>
+    </message>
+    <message>
+        <source>IntenseLine-</source>
+        <comment>wpp_sTooltipShapeStyleIntenseLine</comment>
+        <translation>Черта — </translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_NONE</comment>
+        <translation>Без тени</translation>
+    </message>
+    <message>
+        <source>Right-Down Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTDOWNOFFSET</comment>
+        <translation>По диагонали направо вверх со смещением</translation>
+    </message>
+    <message>
+        <source>Down Offset	</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_DOWNOFFSET</comment>
+        <translation>Снизу со смещением	</translation>
+    </message>
+    <message>
+        <source>Left-Down Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTDOWNOFFSET</comment>
+        <translation>По диагонали налево вверх со смещением</translation>
+    </message>
+    <message>
+        <source>Right Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTOFFSET</comment>
+        <translation>Справа со смещением</translation>
+    </message>
+    <message>
+        <source>Center Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_CENTEROFFSET</comment>
+        <translation>По центру со смещением</translation>
+    </message>
+    <message>
+        <source>Left Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTOFFSET</comment>
+        <translation>Слева со смещением</translation>
+    </message>
+    <message>
+        <source>Right-Up Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTUPOFFSET</comment>
+        <translation>По диагонали направо вверх со смещением</translation>
+    </message>
+    <message>
+        <source>Up Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_UPOFFSET</comment>
+        <translation>Сверху со смещением</translation>
+    </message>
+    <message>
+        <source>Left-Up Offset</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTUPOFFSET</comment>
+        <translation>По диагонали налево вверх со смещением</translation>
+    </message>
+    <message>
+        <source>Inner Left-UP Corner</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFTUP</comment>
+        <translation>По диагонали налево вверх внутри</translation>
+    </message>
+    <message>
+        <source>InnerUp</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERUP</comment>
+        <translation>Сверху внутри</translation>
+    </message>
+    <message>
+        <source>Inner Right-Up Corner</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHTUP</comment>
+        <translation>По диагонали направо вверх внутри</translation>
+    </message>
+    <message>
+        <source>Inner Left</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFT</comment>
+        <translation>Слева внутри</translation>
+    </message>
+    <message>
+        <source>Inner Center</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERCENTER</comment>
+        <translation>По центру внутри</translation>
+    </message>
+    <message>
+        <source>Inner Right</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHT</comment>
+        <translation>Справа внутри</translation>
+    </message>
+    <message>
+        <source>Inner Left-Down Corner</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFTDOWN</comment>
+        <translation>По диагонали налево вниз внутри</translation>
+    </message>
+    <message>
+        <source>Inner Down</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERDOWN</comment>
+        <translation>Снизу внутри</translation>
+    </message>
+    <message>
+        <source>Inner Right-Down Corner</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHTDOWN</comment>
+        <translation>По диагонали направо вниз внутри</translation>
+    </message>
+    <message>
+        <source>Left-Up Corner Perspective</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTUPCORNERPERSPECTIVE</comment>
+        <translation>По диагонали налево вниз с перспективой</translation>
+    </message>
+    <message>
+        <source>Right-Up Corner Perspective</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTUPCORNERPERSPECTIVE</comment>
+        <translation>По диагонали направо вверх с перспективой</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_DOWN</comment>
+        <translation>Вниз</translation>
+    </message>
+    <message>
+        <source>Left-Down Corner Perspective</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_LEFTDOWNCORNERPERSPECTIVE</comment>
+        <translation>По диагонали налево вниз с перспективой</translation>
+    </message>
+    <message>
+        <source>Right-Down Corner Perspective</source>
+        <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTDOWNCORNERPERSPECTIVE</comment>
+        <translation>По диагонали направо вниз с перспективой</translation>
+    </message>
+    <message>
+        <source>No Reflection</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_NONE</comment>
+        <translation>Без отражения</translation>
+    </message>
+    <message>
+        <source>Close-Image,Touch</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_TOUCH</comment>
+        <translation>Среднее отражение, касание</translation>
+    </message>
+    <message>
+        <source>Hla-fImage,Touch</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_TOUCH</comment>
+        <translation>Полуотражение, касание</translation>
+    </message>
+    <message>
+        <source>Whole-Iamge,Touch</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_TOUCH</comment>
+        <translation>Полное отражение, касание</translation>
+    </message>
+    <message>
+        <source>Close-Image,4 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_4PT_OFFSET</comment>
+        <translation>Среднее отражение, смещение 4 пт</translation>
+    </message>
+    <message>
+        <source>Hlaf-Image,4 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_4PT_OFFSET</comment>
+        <translation>Полуотражение, смещение 4 пт</translation>
+    </message>
+    <message>
+        <source>Whole-Iamge,4 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_4PT_OFFSET</comment>
+        <translation>Полное отражение, смещение 4 пт</translation>
+    </message>
+    <message>
+        <source>Close-Image,8 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_8PT_OFFSET</comment>
+        <translation>Среднее отражение, смещение 8 пт</translation>
+    </message>
+    <message>
+        <source>Hlaf-Image,8 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_8PT_OFFSET</comment>
+        <translation>Полуотражение, смещение 8 пт</translation>
+    </message>
+    <message>
+        <source>Whole-Iamge,8 Pt Offset</source>
+        <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_8PT_OFFSET</comment>
+        <translation>Полное отражение, смещение 8 пт</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_NONE</comment>
+        <translation>Нет</translation>
+    </message>
+    <message>
+        <source>Up Arc</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_UPARC</comment>
+        <translation>Арка вверх</translation>
+    </message>
+    <message>
+        <source>Down Arc</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_DOWNARC</comment>
+        <translation>Арка вниз</translation>
+    </message>
+    <message>
+        <source>Circle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_CIRCLE</comment>
+        <translation>Круг</translation>
+    </message>
+    <message>
+        <source>Button</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_BUTTON</comment>
+        <translation>Кнопка</translation>
+    </message>
+    <message>
+        <source>Rectuangle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_RECTUANGLE</comment>
+        <translation>Квадрат</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_STOP</comment>
+        <translation>Знак &quot;стоп&quot;</translation>
+    </message>
+    <message>
+        <source>Triangle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_TRIANGLE</comment>
+        <translation>Треугольник</translation>
+    </message>
+    <message>
+        <source>Inverted Triangle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_INVERTEDTRIANGLE</comment>
+        <translation>Треугольник вниз</translation>
+    </message>
+    <message>
+        <source>V-shape</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_VSHAPE</comment>
+        <translation>Угол вверх</translation>
+    </message>
+    <message>
+        <source>Inverted V-shape</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_INVERTEDVSHAPE</comment>
+        <translation>Угол вниз</translation>
+    </message>
+    <message>
+        <source>Clockwise</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_CLOCKWISE</comment>
+        <translation>По часовой стрелке</translation>
+    </message>
+    <message>
+        <source>Anti-Clockwise</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_ANTICLOCKWISE</comment>
+        <translation>Против часовой стрелки</translation>
+    </message>
+    <message>
+        <source>UpArc</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_UPARC</comment>
+        <translation>Арка вверх</translation>
+    </message>
+    <message>
+        <source>DownArc</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOWNARC</comment>
+        <translation>Арка вниз</translation>
+    </message>
+    <message>
+        <source>Circle</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_CIRCLE</comment>
+        <translation>Круг</translation>
+    </message>
+    <message>
+        <source>Button</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BUTTON</comment>
+        <translation>Кнопка</translation>
+    </message>
+    <message>
+        <source>Left Horn</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTHORN</comment>
+        <translation>Кривая вверх</translation>
+    </message>
+    <message>
+        <source>Right Horn</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_RIGHTHORN</comment>
+        <translation>Кривая вниз</translation>
+    </message>
+    <message>
+        <source>Both Ends Near</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BOTHENDSNEAR</comment>
+        <translation>Изгиб вверх</translation>
+    </message>
+    <message>
+        <source>Both Ends Far</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BOTHENDSFAR</comment>
+        <translation>Изгиб вниз</translation>
+    </message>
+    <message>
+        <source>Wave1</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_WAVE1</comment>
+        <translation>Волна1</translation>
+    </message>
+    <message>
+        <source>Wave2</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_WAVE2</comment>
+        <translation>Волна2</translation>
+    </message>
+    <message>
+        <source>DoubleWave1</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOUBLEWAVE1</comment>
+        <translation>Двойная волна1</translation>
+    </message>
+    <message>
+        <source>DoubleWave2</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOUBLEWAVE2</comment>
+        <translation>Двойная волна2</translation>
+    </message>
+    <message>
+        <source>Waist Drum</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_WAISTDRUM</comment>
+        <translation>Выпуклая линза</translation>
+    </message>
+    <message>
+        <source>korean Drum</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_KOREANDRUM</comment>
+        <translation>Вогнутая линза</translation>
+    </message>
+    <message>
+        <source>Top-Shape</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_TOPSHAPE</comment>
+        <translation>Выпуклое дно</translation>
+    </message>
+    <message>
+        <source>Brige-Shape</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BRIGESHAPE</comment>
+        <translation>Вогнутое дно</translation>
+    </message>
+    <message>
+        <source>Mountain</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_MOUNTAIN</comment>
+        <translation>Выпуклый верх</translation>
+    </message>
+    <message>
+        <source>Groove</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_GROOVE</comment>
+        <translation>Вогнутый верх</translation>
+    </message>
+    <message>
+        <source>Sigle Tunnel</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_SIGLETUNNEL</comment>
+        <translation>Вогнутость и выпуклость</translation>
+    </message>
+    <message>
+        <source>Double Turnnel</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOUBLETURNNEL</comment>
+        <translation>Выпуклая линза в футляре</translation>
+    </message>
+    <message>
+        <source>Left-Near Right-Far</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTNEARRIGHTFAR</comment>
+        <translation>Конус вправо</translation>
+    </message>
+    <message>
+        <source>Left-Far Right-Near</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTFARRIGHTNEAR</comment>
+        <translation>Конус влево</translation>
+    </message>
+    <message>
+        <source>Trapezoid</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_TRAPEZOID</comment>
+        <translation>Трапеция</translation>
+    </message>
+    <message>
+        <source>Inverted Trapezoid</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_INVERTEDTRAPEZOID</comment>
+        <translation>Конус вниз</translation>
+    </message>
+    <message>
+        <source>Left Collar</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTCOLLAR</comment>
+        <translation>Наклон вверх</translation>
+    </message>
+    <message>
+        <source>Right Collar</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_RIGHTCOLLAR</comment>
+        <translation>Наклон вниз</translation>
+    </message>
+    <message>
+        <source>Forward-Near BakckWord-Far</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_FORWARDNEARBAKCKWORDFAR</comment>
+        <translation>Каскад вверх</translation>
+    </message>
+    <message>
+        <source>Forward-Far BakckWord-Near</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_FORWARDFARBAKCKWORDNEAR</comment>
+        <translation>Каскад вниз</translation>
+    </message>
+    <message>
+        <source>No Bevel</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_None</comment>
+        <translation>Без рельефа</translation>
+    </message>
+    <message>
+        <source>Circle</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Circle</comment>
+        <translation>Круг</translation>
+    </message>
+    <message>
+        <source>Loose Embedded</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_LooseEmbedded</comment>
+        <translation>Небольшое углубление</translation>
+    </message>
+    <message>
+        <source>Cross</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Cross</comment>
+        <translation>Пересечение</translation>
+    </message>
+    <message>
+        <source>CoolSlope</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_CoolSlope</comment>
+        <translation>Крутой склон</translation>
+    </message>
+    <message>
+        <source>Angle</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Angle</comment>
+        <translation>Угол</translation>
+    </message>
+    <message>
+        <source>Soft Circle	</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_SoftCircle</comment>
+        <translation>Сглаживание</translation>
+    </message>
+    <message>
+        <source>Heave</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Heave</comment>
+        <translation>Выпуклость</translation>
+    </message>
+    <message>
+        <source>Slope</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Slope</comment>
+        <translation>Наклон</translation>
+    </message>
+    <message>
+        <source>Turf</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Turf</comment>
+        <translation>Уголки</translation>
+    </message>
+    <message>
+        <source>Ribbed</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Ribbed</comment>
+        <translation>Ребро</translation>
+    </message>
+    <message>
+        <source>Hard Edge</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_HardEdge</comment>
+        <translation>Абстрактная живопись</translation>
+    </message>
+    <message>
+        <source>Art Decoration</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_ArtDecoration</comment>
+        <translation>Ар-деко</translation>
+    </message>
+    <message>
+        <source>Matt Effect</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_MATT</comment>
+        <translation>Матовая</translation>
+    </message>
+    <message>
+        <source>Warm Rough</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_WARMROUGH</comment>
+        <translation>Теплый матовый</translation>
+    </message>
+    <message>
+        <source>Plastic Effect</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_PLASTICEFFECT</comment>
+        <translation>Пластик</translation>
+    </message>
+    <message>
+        <source>MetalEffect</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_METALEFFECT</comment>
+        <translation>Металл</translation>
+    </message>
+    <message>
+        <source>Hard Edge</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_HARDEDGE</comment>
+        <translation>Абстрактная живопись</translation>
+    </message>
+    <message>
+        <source>Soft Edge</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_SOFTEDGE</comment>
+        <translation>Сглаженный край</translation>
+    </message>
+    <message>
+        <source>Plane</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_PLANE</comment>
+        <translation>Плоский</translation>
+    </message>
+    <message>
+        <source>Wire Frame</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_WIREFRAME</comment>
+        <translation>Каркас</translation>
+    </message>
+    <message>
+        <source>Powder</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_POWDER</comment>
+        <translation>Порошок</translation>
+    </message>
+    <message>
+        <source>Translucent Powder</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_TRANSLUCENTPOWDER</comment>
+        <translation>Прозрачная порошок</translation>
+    </message>
+    <message>
+        <source>MostsSperficial</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_MOSTSSPERFICIAL</comment>
+        <translation>Очистить</translation>
+    </message>
+    <message>
+        <source>Three Points</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_THREEPOINTS</comment>
+        <translation>Три точки</translation>
+    </message>
+    <message>
+        <source>Blance</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_BLANCE</comment>
+        <translation>Баланс</translation>
+    </message>
+    <message>
+        <source>Soft</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_SOFT</comment>
+        <translation>Мягкий</translation>
+    </message>
+    <message>
+        <source>Rough</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_ROUGH</comment>
+        <translation>Резкий</translation>
+    </message>
+    <message>
+        <source>Strong</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_STRONG</comment>
+        <translation>Поток</translation>
+    </message>
+    <message>
+        <source>Contrast</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_CONTRAST</comment>
+        <translation>Контрастность</translation>
+    </message>
+    <message>
+        <source>Mornning</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_MORNNING</comment>
+        <translation>Утро</translation>
+    </message>
+    <message>
+        <source>SunRise</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_SUNRISE</comment>
+        <translation>Восход солнца</translation>
+    </message>
+    <message>
+        <source>SunSet</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_SUNSET</comment>
+        <translation>Заход солнца</translation>
+    </message>
+    <message>
+        <source>Cold</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_COLD</comment>
+        <translation>Холод</translation>
+    </message>
+    <message>
+        <source>Ice Cold</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_ICE</comment>
+        <translation>Мороз</translation>
+    </message>
+    <message>
+        <source>Plane</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_PLANE</comment>
+        <translation>Плоскость</translation>
+    </message>
+    <message>
+        <source>Two Points</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_TWOPOINTS</comment>
+        <translation>Две точки</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_GLOW</comment>
+        <translation>Свечение</translation>
+    </message>
+    <message>
+        <source>Bright Room</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_BRIGHTROOM</comment>
+        <translation>Светлая комната</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_NONE</comment>
+        <translation>Нет</translation>
+    </message>
+    <message>
+        <source>Isometric Lft-Down</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_ISOMETRICLFTDOWN</comment>
+        <translation>Изометрический, влево вниз</translation>
+    </message>
+    <message>
+        <source>Isometric Right-Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_ISOMETRICRIGHTUP</comment>
+        <translation>Изометрический, вправо вверх</translation>
+    </message>
+    <message>
+        <source>Equiaxial Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_EQUIAXIALUP</comment>
+        <translation>Изометрический, вверх</translation>
+    </message>
+    <message>
+        <source>Equiaxia Down</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_EQUIAXIADOWN</comment>
+        <translation>Изометрический, вниз</translation>
+    </message>
+    <message>
+        <source>Off-Axis 1 Left</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1LEFT</comment>
+        <translation>Вне оси 1, влево</translation>
+    </message>
+    <message>
+        <source>Off-Axis 1 Right</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1RIGHT</comment>
+        <translation>Вне оси 1, вправо</translation>
+    </message>
+    <message>
+        <source>Off-Axis 1 Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1UP</comment>
+        <translation>Вне оси 1, вверх</translation>
+    </message>
+    <message>
+        <source>Off-Axis 2 Left</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2LEFT</comment>
+        <translation>Вне оси 2, влево</translation>
+    </message>
+    <message>
+        <source>Off-Axis 2 Right</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2RIGHT</comment>
+        <translation>Вне оси 2, вправо</translation>
+    </message>
+    <message>
+        <source>Off-Axis 2 Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2UP</comment>
+        <translation>Вне оси 2, вверх</translation>
+    </message>
+    <message>
+        <source>Forwoar Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_FORWOARPERSPECTIVE</comment>
+        <translation>Перспектива, спереди</translation>
+    </message>
+    <message>
+        <source>Left Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_LEFTPERSPECTIVE</comment>
+        <translation>Перспектива, слева</translation>
+    </message>
+    <message>
+        <source>Right Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_RIGHTPERSPECTIVE</comment>
+        <translation>Перспектива, справа</translation>
+    </message>
+    <message>
+        <source>Down Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_DOWNPERSPECTIVE</comment>
+        <translation>Перспектива, снизу</translation>
+    </message>
+    <message>
+        <source>Up Perspective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_UPPERSPECTIVE</comment>
+        <translation>Перспектива, сверху</translation>
+    </message>
+    <message>
+        <source>ModeratelyLoose</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MODERATELYLOOSE</comment>
+        <translation>Перспектива, средняя</translation>
+    </message>
+    <message>
+        <source>Loose</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_LOOSE</comment>
+        <translation>Разреженный</translation>
+    </message>
+    <message>
+        <source>Left Right Compare Pespective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_LEFTRIGHTCOMPAREPESPECTIVE</comment>
+        <translation>Перспектива, контрастная, слева</translation>
+    </message>
+    <message>
+        <source>Right Compare Pespective</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_RIGHTCOMPAREPESPECTIVE</comment>
+        <translation>Перспектива, контрастная, справа</translation>
+    </message>
+    <message>
+        <source>Most Left Most Big</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MOSTLEFTMOSTBIG</comment>
+        <translation>Перспектива, сильная, слева</translation>
+    </message>
+    <message>
+        <source>MostRightMostBig</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MOSTRIGHTMOSTBIG</comment>
+        <translation>Перспектива, сильная, справа</translation>
+    </message>
+    <message>
+        <source>Tilt Left Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTLEFTUP</comment>
+        <translation>Наклон влево вверх</translation>
+    </message>
+    <message>
+        <source>Tilt Right Up</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTRIGHTUP</comment>
+        <translation>Наклон вправо вверх</translation>
+    </message>
+    <message>
+        <source>Tilt Left Down</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTLEFTDOWN</comment>
+        <translation>Повернуть влево вниз</translation>
+    </message>
+    <message>
+        <source>Tilt Right Down</source>
+        <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTRIGHTDOWN</comment>
+        <translation>Наклон вправо вниз</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SOLID</comment>
+        <translation>Сплошной</translation>
+    </message>
+    <message>
+        <source>System Dot</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SYSDOT</comment>
+        <translation>Системная точка</translation>
+    </message>
+    <message>
+        <source>System Dash</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SYSDASH</comment>
+        <translation>Системное тире</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_DASH</comment>
+        <translation>Штрих</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_DASHDOT</comment>
+        <translation>Штрих-пунктир</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_LONGDASH</comment>
+        <translation>Длинный штрих</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_LONGDASHDOT</comment>
+        <translation>Длинный штрих-пунктир</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_LONGDASHDOTDOT</comment>
+        <translation>Штрихпунктир с 2 точками</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SINGLE</comment>
+        <translation>Одинарная</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_DOUBLE</comment>
+        <translation>Двойная</translation>
+    </message>
+    <message>
+        <source>Thick-Thin </source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_THICKTHIN</comment>
+        <translation>Толстая-тонкая</translation>
+    </message>
+    <message>
+        <source>Thin-Thick</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_THINTHICK</comment>
+        <translation>Тонкая-толстая</translation>
+    </message>
+    <message>
+        <source>Triple Line</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_TRIPLE</comment>
+        <translation>Тройная</translation>
+    </message>
+    <message>
+        <source>Line-Style: %1
+Line-Width: %2 pt
+Line-type: %3</source>
+        <comment>DRAWING2_TOOLTIP_SHAPELINE_SHOW</comment>
+        <translation>Стиль линии: %1
+Ширина линии: %2 pt
+Тип линии: %3</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_LINE</comment>
+        <translation>Линия</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_RECTANGLE</comment>
+        <translation>Прямоугольник</translation>
+    </message>
+    <message>
+        <source>Base Shape</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_NORMAL</comment>
+        <translation>Базовые фигуры</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_ARROW</comment>
+        <translation>Фигурные стрелки</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_FORMULA</comment>
+        <translation>Фигуры для формул</translation>
+    </message>
+    <message>
+        <source>Process</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_PROCESS</comment>
+        <translation>Блок-схема</translation>
+    </message>
+    <message>
+        <source>Star And Flag</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_STARANDFLAG</comment>
+        <translation>Звезды и ленты</translation>
+    </message>
+    <message>
+        <source>Callout</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_CALLOUT</comment>
+        <translation>Выноски</translation>
+    </message>
+    <message>
+        <source>Action Button</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_ACTION</comment>
+        <translation>Управляющая кнопка</translation>
+    </message>
+    <message>
+        <source>Single Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_SINGLE</comment>
+        <translation>Простой</translation>
+    </message>
+    <message>
+        <source>Double Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOUBLE</comment>
+        <translation>Двойная</translation>
+    </message>
+    <message>
+        <source>Heavy Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY</comment>
+        <translation>Толстая</translation>
+    </message>
+    <message>
+        <source>Dot Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOT</comment>
+        <translation>Точки</translation>
+    </message>
+    <message>
+        <source>Heavy Dot Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DOT</comment>
+        <translation>Жирное пунктирное</translation>
+    </message>
+    <message>
+        <source>Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DASH</comment>
+        <translation>Штрих</translation>
+    </message>
+    <message>
+        <source>Heavy Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DASH</comment>
+        <translation>Толстая штриховая</translation>
+    </message>
+    <message>
+        <source>Long Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_LONG_DASH</comment>
+        <translation>Длинный двойной штрих </translation>
+    </message>
+    <message>
+        <source>Heavy Long Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_LONG_DASH</comment>
+        <translation>Жирная линия с длинным штрихом</translation>
+    </message>
+    <message>
+        <source>Dot Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOT_DASH</comment>
+        <translation>Штрихи</translation>
+    </message>
+    <message>
+        <source>Heavy Dot Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DOT_DASH</comment>
+        <translation>Жирная штрихпунктирная линия</translation>
+    </message>
+    <message>
+        <source>Double Dot Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOUBLE_DOT_DASH</comment>
+        <translation>Штрихпунктирная линия с двумя точками</translation>
+    </message>
+    <message>
+        <source>Heavy Double Dot Dash Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DOUBLE_DOT_DASH</comment>
+        <translation>Жирная штрихпунктирная линия с двумя точками</translation>
+    </message>
+    <message>
+        <source>Wavy Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_WAVY</comment>
+        <translation>Волна</translation>
+    </message>
+    <message>
+        <source>Heavy Wavy Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_HEAVY_WAVY</comment>
+        <translation>Жирная волнистая</translation>
+    </message>
+    <message>
+        <source>Double Wavy Line</source>
+        <comment>DRAWING2_FONT_LINE_NAME_DOUBLE_WAVY</comment>
+        <translation>Двойная волнистая</translation>
+    </message>
+    <message>
+        <source>Solid Line</source>
+        <comment>DRAWING2_LINE_NAME_SOLID</comment>
+        <translation>Сплошная линия</translation>
+    </message>
+    <message>
+        <source>Circle Point</source>
+        <comment>DRAWING2_LINE_NAME_CIRCLEPOINT</comment>
+        <translation>Круглые точки</translation>
+    </message>
+    <message>
+        <source>Square Point</source>
+        <comment> DRAWING2_LINE_NAME_SQUAREPOINT</comment>
+        <translation>Квадратные точки</translation>
+    </message>
+    <message>
+        <source>Dash line</source>
+        <comment>DRAWING2_LINE_NAME_DASHLINE</comment>
+        <translation>Штрих</translation>
+    </message>
+    <message>
+        <source>Dash Line-Point</source>
+        <comment>DRAWING2_LINE_NAME_DASHLINEPOINT</comment>
+        <translation>Штрихпунктир</translation>
+    </message>
+    <message>
+        <source>Lone Dash Line</source>
+        <comment>DRAWING2_LINE_NAME_LONGDASHLINE</comment>
+        <translation>Длинный штрих</translation>
+    </message>
+    <message>
+        <source>Lone Dash Line-Point</source>
+        <comment>DRAWING2_LINE_NAME_LONGDASHLINEPOINT</comment>
+        <translation>Длинный штрихпунктир</translation>
+    </message>
+    <message>
+        <source>Lone Dash Line-Point-Point</source>
+        <comment>DRAWING2_LINE_NAME_LONGDASHLINEPOINTPOINT</comment>
+        <translation>Штрихпунктир с 2 точками</translation>
+    </message>
+    <message>
+        <source>Sigle Line</source>
+        <comment>DRAWING2_LINE_TYPE_SIGLELINE</comment>
+        <translation>Простой</translation>
+    </message>
+    <message>
+        <source>Double Lines</source>
+        <comment>DRAWING2_LINE_TYPE_DOUBLEINE</comment>
+        <translation>Двойная</translation>
+    </message>
+    <message>
+        <source>Coarse To Fine</source>
+        <comment>DRAWING2_LINE_TYPE_COARSETOFINE</comment>
+        <translation>Толстая-тонкая</translation>
+    </message>
+    <message>
+        <source>Fine To Coarse</source>
+        <comment>DRAWING2_LINE_TYPE_FINETOCOARSE</comment>
+        <translation>Тонкая-толстая</translation>
+    </message>
+    <message>
+        <source>Three Lines</source>
+        <comment>DRAWING2_LINE_TYPE_THREELINE</comment>
+        <translation>Тройная</translation>
+    </message>
+    <message>
+        <source>No Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_NONE</comment>
+        <translation>Без стрелки</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_ARROE</comment>
+        <translation>Фигурные стрелки</translation>
+    </message>
+    <message>
+        <source>Open Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_OPEN</comment>
+        <translation>Открытая стрелка</translation>
+    </message>
+    <message>
+        <source>Dovetail Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_DOVETAIL</comment>
+        <translation>Стрелка вправо с вырезом</translation>
+    </message>
+    <message>
+        <source>Diamond Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_DIAMOND</comment>
+        <translation>Ромбовидная стрелка</translation>
+    </message>
+    <message>
+        <source>Circle Arrow</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_CIRCLE</comment>
+        <translation>Шарообразная стрелка</translation>
+    </message>
+    <message>
+        <source>Left Arrow %1</source>
+        <comment>DRAWING2_LINE_ARROW_LEFT</comment>
+        <translation>Стрелка влево %1</translation>
+    </message>
+    <message>
+        <source>Right Arrow %1</source>
+        <comment>DRAWING2_LINE_ARROW_RIGHT</comment>
+        <translation>Стрелка вправо %1</translation>
+    </message>
+    <message>
+        <source>The font &apos;</source>
+        <comment>DRAWING2_FontNameNotExisitFirstHalf</comment>
+        <translation>Шрифт&apos;</translation>
+    </message>
+    <message>
+        <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
+        <comment>DRAWING2_FontNameNotExisitSecondHalf</comment>
+        <translation>&apos;отсутствует в системе. Использовать его?</translation>
+    </message>
+    <message>
+        <source>Convert OLE Object</source>
+        <comment>DRAWING2_CONVERTOLEOBJECT</comment>
+        <translation>Преобразовать объект</translation>
+    </message>
+    <message>
+        <source> Light Color %1</source>
+        <comment>wpp_sTooltipGradientLightColour</comment>
+        <translation type="obsolete"> Светлый цвет 1</translation>
+    </message>
+    <message>
+        <source> Dark Color %1</source>
+        <comment>wpp_sTooltipGradientDarkColour</comment>
+        <translation type="obsolete"> Темный цвет 1</translation>
+    </message>
+    <message>
+        <source> Light Color %1%</source>
+        <comment>wpp_sTooltipGradientLightColour</comment>
+        <translation type="unfinished"> Светлый цвет 1%</translation>
+    </message>
+    <message>
+        <source> Dark Color %1%</source>
+        <comment>wpp_sTooltipGradientDarkColour</comment>
+        <translation type="unfinished"> Темный цвет 1%</translation>
     </message>
 </context>
 <context>
@@ -5360,7 +10078,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>(beta) Single Web Page File</source>
         <comment>_KsoFileFormatDesc_MHT_File</comment>
-        <translation>Файл всей веб-страницы (бета)</translation>
+        <translation type="obsolete">Файл всей веб-страницы (бета)</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Document</source>
@@ -5405,11 +10123,21 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Chinese Office Software Document Format 2.0</source>
         <comment>_WpioDesc_UOF2</comment>
-        <translation>Документ формата Chinese Office 2.0</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
         <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
+        <translation>Автор предлагает открыть этот файл только для чтения, если вы не хотите вносить в него изменения. Открыть только для чтения?</translation>
+    </message>
+    <message>
+        <source>Word XML Document</source>
+        <comment>_KsoDesc_07Xml</comment>
+        <translation>Документ Word XML</translation>
+    </message>
+    <message>
+        <source>Single Web Page File</source>
+        <comment>_KsoFileFormatDesc_MHT_File</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5423,7 +10151,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>&amp;Restrict Permission...</source>
         <comment>TxKRM_Menu_Rights</comment>
-        <translation>Ограничить &amp;разрешения...</translation>
+        <translation>Ограничить &amp;разрешения.....</translation>
     </message>
     <message>
         <source>The number of copies is out of range. Do you want to cut the number of copies or cancel this print task?</source>
@@ -5464,7 +10192,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>WPS Office</source>
         <comment>_kso_Generic_MessageBox_Caption</comment>
-        <translation></translation>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>Macro</source>
@@ -5621,7 +10349,7 @@ File: %s
     <message>
         <source>Dump File</source>
         <comment>_kso_ErrorRep_DesString_Dump</comment>
-        <translation>Файл содержимого (дампа) памяти</translation>
+        <translation>Файл дампа</translation>
     </message>
     <message>
         <source>System and Exception Information File</source>
@@ -5661,29 +10389,29 @@ File: %s
     <message>
         <source>Sending report is not completed yet. Are you sure to terminate sending?</source>
         <comment>_kso_ErrorRep_MessageBox_TerminateSend_Content</comment>
-        <translation>Отправка отчёта ещё ​​не завершена. Хотите прервать отправку?</translation>
+        <translation>Отправка отчета еще ​​не завершена. Хотите прервать отправку?</translation>
     </message>
     <message>
         <source>The password is incorrect, please reenter.
 You can choose Read-only button to open it as read-only.</source>
         <comment>_kso_Prompt_ModifyPassword</comment>
-        <translation>Введён неправильный пароль. Пожалуйста, введите повторно.
+        <translation>Введен неправильный пароль. Пожалуйста, введите повторно.
 Вы можете выбрать кнопку &quot;Только для чтения&quot;, чтобы открыть только для чтения.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_SN_WPS</comment>
-        <translation></translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_SN_WPP</comment>
-        <translation></translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_SN_ET</comment>
-        <translation></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>(Not limited)</source>
@@ -5708,22 +10436,22 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName</comment>
-        <translation></translation>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName</comment>
-        <translation></translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName</comment>
-        <translation></translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName</comment>
-        <translation></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source> Invalid</source>
@@ -5768,7 +10496,7 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_for_windows_version</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
@@ -5778,327 +10506,127 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Office (Beta)</source>
         <comment>_kso_ksoProductName_Debug</comment>
-        <translation>WPS Office (бета)</translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PRO_CHN</comment>
-        <translation></translation>
+        <translation type="obsolete">WPS Office (бета)</translation>
     </message>
     <message>
         <source>WPS Office (test)</source>
         <comment>_kso_ksoProductName_PRO_CHN_TEST</comment>
-        <translation>WPS Office (тестовая)</translation>
-    </message>
-    <message>
-        <source>WPS Office OEM</source>
-        <comment>_kso_ksoProductName_OEM_CHN</comment>
-        <translation></translation>
+        <translation type="obsolete">WPS Office (тестовая)</translation>
     </message>
     <message>
         <source>WPS Office Personal</source>
         <comment>_kso_ksoProductName_PER_CHN</comment>
-        <translation>WPS Office Личная</translation>
+        <translation type="obsolete">WPS Office Личная</translation>
     </message>
     <message>
         <source>WPS Office Education</source>
         <comment>_kso_ksoProductName_EDU_CHN</comment>
-        <translation>WPS Office Для обучения</translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PRO_USA</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PER_USA</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PRO_JPN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PRO_VN</comment>
-        <translation></translation>
+        <translation type="obsolete">WPS Office Для обучения</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_Debug</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN_TEST</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_OEM_CHN</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_CHN</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_EDU_CHN</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_USA</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_USA</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_JPN</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_VN</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>WPS Writer (Beta)</source>
         <comment>_kso_wpsProductName_Debug</comment>
-        <translation>WPS Office (бета)</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_CHN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_CHN_TEST</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_OEM_CHN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PER_CHN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_EDU_CHN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_USA</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PER_USA</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_JPN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_VN</comment>
-        <translation></translation>
+        <translation type="obsolete">WPS Office (бета)</translation>
     </message>
     <message>
         <source>WPS Presentation (Beta)</source>
         <comment>_kso_wppProductName_Debug</comment>
-        <translation>WPS Presentation (бета)</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRO_CHN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRO_CHN_TEST</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_OEM_CHN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PER_CHN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_EDU_CHN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRO_USA</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PER_USA</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wpp_ProductName_PRO_JPN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRO_VN</comment>
-        <translation></translation>
+        <translation type="obsolete">WPS Presentation (бета)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets (Beta)</source>
         <comment>_kso_etProductName_Debug</comment>
-        <translation>WPS Spreadsheets (бета)</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_CHN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_CHN_TEST</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_OEM_CHN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PER_CHN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_EDU_CHN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_USA</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PER_USA</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_JPN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_VN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PRO_CHT</comment>
-        <translation></translation>
+        <translation type="obsolete">WPS Spreadsheets (бета)</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института.</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_CHT</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRO_CHT</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_CHT</comment>
-        <translation></translation>
+        <translation type="obsolete">Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института.</translation>
     </message>
     <message>
         <source>WPS Office Personal</source>
         <comment>_kso_ksoProductName_PER_VN</comment>
-        <translation>WPS Office Персональная</translation>
+        <translation type="obsolete">WPS Office Персональная</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PER_VN</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института.</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PER_VN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRE_VN</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRE_VN</comment>
-        <translation></translation>
+        <translation type="obsolete">Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института.</translation>
     </message>
     <message>
         <source>WPS Office 2010 Professional Edition</source>
         <comment>_kso_ksoProductName_dev_cn</comment>
-        <translation>WPS Office Профессиональная</translation>
+        <translation type="obsolete">WPS Office Профессиональная</translation>
     </message>
     <message>
         <source>WPS Office Standard</source>
         <comment>_kso_ksoProductName_PRO_CHT_Standard</comment>
-        <translation>WPS Office Cтандартная</translation>
+        <translation type="obsolete">WPS Office Cтандартная</translation>
     </message>
     <message>
         <source>WPS Office Home</source>
         <comment>_kso_ksoProductName_PRO_CHT_Home</comment>
-        <translation>WPS Office Домашняя</translation>
+        <translation type="obsolete">WPS Office Домашняя</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Home</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института.</translation>
+        <translation type="obsolete">Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института.</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Standard</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института.</translation>
+        <translation type="obsolete">Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института.</translation>
     </message>
     <message>
         <source>New Workbook.xls</source>
@@ -6145,7 +10673,7 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>&lt;a normal=&apos;cbsend&apos;&gt;Send &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;the error report&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt; to help us improve our products.&lt;/a&gt;</source>
         <comment>_kso_crashdlg_sendcheck</comment>
-        <translation>&lt;a normal=&apos;cbsend&apos;&gt;Отправьте &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;отчёт об ошибке&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt;,чтобы помочь нам улучшить наши продукты.&lt;/a&gt;</translation>
+        <translation>&lt;a normal=&apos;cbsend&apos;&gt;Отправьте &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;отчет об ошибке&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt;,чтобы помочь нам улучшить наши продукты.&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -6320,12 +10848,12 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Custom</source>
         <comment>_kso_filesearch_DesignerFiles</comment>
-        <translation>Выбор</translation>
+        <translation>Пользовательский</translation>
     </message>
     <message>
         <source>Your system is missing the required codec that supports this media format</source>
         <comment>_kso_WarmingRep_MediaPlay_wpp</comment>
-        <translation>В системе отсутствует необходимый кодек, поддерживающий этот формат файла мультимедиа.</translation>
+        <translation>В системе отсутствует необходимый кодек, поддерживающий этот формат файла мультимедиа</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the following operations: 
@@ -6361,7 +10889,7 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
         <comment>_kso_FileFormatNotSupport</comment>
-        <translation>Выбранный формат файла не  соответствует формату файлов WPS. Сохранить файл в выбранном формате?</translation>
+        <translation>Выбранный формат файлов не является форматом файлов WPS. Он не соответствует параметрам вашей организации. Сохранить в этом формате файлов?</translation>
     </message>
     <message>
         <source>Are you sure you want to remove permission?</source>
@@ -6371,22 +10899,22 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Are you sure you want to delete this stored credential? You will not be able to use this credential unless you re-enable it.</source>
         <comment>_kso_kirm_Remove_Credential</comment>
-        <translation>Удалить сохраненные учетные сведения? Эти учетные сведения нельзя будет использовать, пока они снова не будут включены.</translation>
+        <translation>Вы действительно хотите удалить эти сохраненные учетные данные? Если эти учетные данные не активировать снова, их нельзя будет использовать.</translation>
     </message>
     <message>
         <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy setting are preventing your connection, or you are experiencing intermittent network issues.</source>
         <comment>_kso_krim_Error_SelectAuthor</comment>
-        <translation>Данная служба временно недоступна. Необходимо убедиться в наличии связи с этим сервером. Возможно, работа выполняется автономно, настройки прокси-сервера запрещают подключение, либо в сети имеются временные неполадки.</translation>
+        <translation>Эта служба временно недоступна. Проверьте наличие подключения к этому серверу. Эта ошибка может возникать, если работа выполняется автономно, настройки прокси-сервера запрещают подключение, либо в сети имеются временные неполадки.</translation>
     </message>
     <message>
         <source>E-mail addresses must be in the form of &apos;someone@example.com&apos;. The following e-mail address is not valid or could not be resolved: &apos;%1&apos;. Verify that this is a valid e-mail address.</source>
         <comment>_kso_krim_Error_EmailFormat</comment>
-        <translation>Адреса электронной почты следует задавать в формате &quot;someone@example.com&quot;. Адрес электронной почты недопустим либо его не удается разрешить: &quot;%1&quot;. Проверьте правильность указания этого адреса электронной почты.</translation>
+        <translation>Адрес электронной почты должен иметь следующий вид: proverka@example.com. Следующий адрес электронной почты недействительный, его невозможно распознать: &apos;%1&apos;. Проверьте правильность адреса электронной почты.</translation>
     </message>
     <message>
         <source>You cannot change your access level. If you want to change your access level, request that another user with Full Control change your access level.</source>
         <comment>_kso_krim_Error_ChangeOwnPermission</comment>
-        <translation>Пользователь не может изменить свой уровень доступа. Если требуется изменить уровень доступа, попросите сделать это другого пользователя с правом полного доступа.</translation>
+        <translation>Вы не можете изменить ваш уровень доступа. Если необходимо изменить ваш уровень доступа, попросите это сделать пользователя с полным уровнем доступа.</translation>
     </message>
     <message>
         <source>Everyone</source>
@@ -6401,7 +10929,7 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Change</source>
         <comment>_kso_krim_Permission_Change</comment>
-        <translation>Изменить</translation>
+        <translation>Изменение</translation>
     </message>
     <message>
         <source>Full Control</source>
@@ -6411,7 +10939,7 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Custom</source>
         <comment>_kso_krim_Permission_Custom</comment>
-        <translation>Выбор</translation>
+        <translation>Пользовательский</translation>
     </message>
     <message>
         <source>Name</source>
@@ -6426,22 +10954,22 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Are you sure you want to remove the user?</source>
         <comment>_kso_krim_Question_RemoveUser</comment>
-        <translation>Удалить пользователя?</translation>
+        <translation>Вы действительно хотите удалить этого пользователя?</translation>
     </message>
     <message>
         <source>This will set the default permission policy for all documents, workbooks, forms and presentations with restricted permission.</source>
         <comment>_kso_krim_Permission_SetDefault</comment>
-        <translation>Для всех документов, книг, форм и презентаций с ограниченными разрешениями будет применена политика разрешений по умолчанию.</translation>
+        <translation>Это действие установит политику разрешений по умолчанию для всех документов, книг, форм и презентаций с ограниченным разрешением.</translation>
     </message>
     <message>
         <source>The address to request additional permissions is invalid. Enter a valid e-mail or Web address. Example: someone@example.com.</source>
         <comment>_kso_krim_Error_EmailInvalid</comment>
-        <translation>Неверный адрес для запроса дополнительных разрешений. Введите допустимый адрес электронной почты или веб-адрес. Пример: someone@example.com.</translation>
+        <translation>Адрес для запроса дополнительных разрешений недействителен. Введите действительный адрес электронной почты или веб-адрес. Пример: proverka@example.com.</translation>
     </message>
     <message>
         <source>The expiration date is not valid. Enter a date between tomorrow and 2100/12/31.</source>
         <comment>_kso_krim_Error_DateInvalid</comment>
-        <translation>Недопустимая дата окончания срока действия. Введите дату между завтрашним числом и 2100/12/31.</translation>
+        <translation>Недопустимая дата окончания срока действия. Введите дату в промежутке между завтрашним днем и 31.12.2100 г.</translation>
     </message>
     <message>
         <source>Change user...</source>
@@ -6456,7 +10984,7 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Unrestricted</source>
         <comment>_kso_krim_Permission_NoExpireDate</comment>
-        <translation>Неограниченный</translation>
+        <translation>Неограниченно</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -6471,12 +10999,12 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Select Names</source>
         <comment>_kso_krim_Permission_SelectNames</comment>
-        <translation>Выбор имен</translation>
+        <translation>Выберите имена</translation>
     </message>
     <message>
         <source>&amp;Change User</source>
         <comment>_kso_irmio_Button_ChangeUser</comment>
-        <translation>С&amp;менить пользователя</translation>
+        <translation>&amp;Сменить пользователя</translation>
     </message>
     <message>
         <source>R&amp;esquest permissions</source>
@@ -6496,7 +11024,7 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Unexpected error occurred. Please try again later or contact your system administrator.</source>
         <comment>_kso_irmio_Error_Unexpected</comment>
-        <translation>Произошла неожиданная ошибка. Повторите попытку позже или обратитесь к администратору.</translation>
+        <translation>Возникла непредвиденная ошибка. Повторите попытку позже или обратитесь к системному администратору.</translation>
     </message>
     <message>
         <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within th Control Panel.</source>
@@ -6526,7 +11054,7 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Cannot user feature without credentials</source>
         <comment>_kso_irmio_Error_Credentials</comment>
-        <translation type="obsolete">Невозможно использовать пользовательскую функцию без учётных данных</translation>
+        <translation type="obsolete">Нельзя использовать функции без учетных данных</translation>
     </message>
     <message>
         <source>This document is currently restricted. You do not have credentials that allow you to open this document. You can choose 
@@ -6542,26 +11070,27 @@ You can click the button to recover files you work on.</source>
         <source>You do not have credentials that allow you to open this document.
 Do you want to open it using a different set of credentials?</source>
         <comment>_kso_irmio_Error_NoPermissionEmail</comment>
-        <translation>У вас нет учетных данных, которые позволяли бы открыть этот файл. Открыть его с использованием другого набора учетных данных?</translation>
+        <translation>У вас нет учетных данных для открытия этого документа.
+Открыть его с помощью других учетных данных?</translation>
     </message>
     <message>
         <source>Verifying your logon information for opening content with restricted permission</source>
         <comment>_kso_irmio_Verifying</comment>
-        <translation>Проверка указанных при входе сведений для открытия содержимого с ограниченными разрешениями...</translation>
+        <translation>Проверка указанных при входе сведений для открытия содержимого с ограниченными разрешениями</translation>
     </message>
     <message>
         <source>Information Rights Management(IRM) in Microsoft Office helps prevent sensitive documents and e-mail messages form being forwarded, edited or copied by unauthorized people.
 
 To use IRM you need to install the Windows Rights Management client. If you have an existing version of the Windows Rights Management client installed you will need to uninstall it first and then download the lastest version of the Windows Rights Management client. Do you want to download the lastest version now? </source>
         <comment>_kso_irmio_No_Install_IRM</comment>
-        <translation>Управление правами на доступ к данным (IRM) в Microsoft Office помогает предотвратить несанкционированную пересылку, изменение и копирование конфиденциальных документов и сообщений электронной почты.
+        <translation>Управление правами на доступ к данным (IRM) в Microsoft Office помогает предотвратить пересылку, изменение и копирование конфиденциальных документов несанкционированными пользователями.
 
-Для использования IRM необходимо установить клиент управления правами Windows (WRM). Если на компьютере уже установлен клиент управления правами Windows, необходимо сначала удалить его, а затем загрузить его новую версию.Загрузить новую версию клиента управления правами Windows?</translation>
+Для использования IRM необходимо установить клиент управления правами Windows (WRM). Если на компьютере уже установлен клиент управления правами Windows, необходимо сначала удалить его, а затем загрузить его новую версию. Загрузить новую версию сейчас? </translation>
     </message>
     <message>
         <source>Your session with the user account %1 has timed out. The service must verify your credentials again before you continue. If prompted, enter the username and password for %1 or loss of the document may occur.</source>
         <comment>_kso_krim_SaveNeedVerifyCredential</comment>
-        <translation>Срок действия вашего сеанса работы с использованием учетной записи %1 истек. Для продолжения служба должна вновь выполнить проверку ваших учетных данных. В ответ на запрос введите имя пользователя и пароль для %1, иначе возможна потеря файла.</translation>
+        <translation>Срок действия вашего сеанса работы с использованием учетной записи %1 истек. Для продолжения служба должна вновь выполнить проверку ваших учетных данных. В ответ на запрос введите имя пользователя и пароль для %1, иначе возможна потеря документа.</translation>
     </message>
     <message>
         <source>Restricted Access</source>
@@ -6571,12 +11100,12 @@ To use IRM you need to install the Windows Rights Management client. If you have
     <message>
         <source>Permission is currently restricted. Only specified users can access this content. </source>
         <comment>_kso_krim_Permission_PermissionHint</comment>
-        <translation type="obsolete">Разрешения в данный момент ограничены. Доступ к этому содержимому разрешен только указанным пользователям.</translation>
+        <translation type="obsolete">Разрешения в данный момент ограничены. Доступ к этому содержимому разрешен только указанным пользователям. </translation>
     </message>
     <message>
         <source>Change Permission...</source>
         <comment>_kso_krim_Permission_ChangePermission</comment>
-        <translation>Изменить разрешение...</translation>
+        <translation>Изменить разрешения...</translation>
     </message>
     <message>
         <source>View Permission...</source>
@@ -6586,7 +11115,7 @@ To use IRM you need to install the Windows Rights Management client. If you have
     <message>
         <source>Permission will expire within %1 days. </source>
         <comment>_kso_krim_Permission_ExpirationHint</comment>
-        <translation>Срок действия разрешений: %1 дней.</translation>
+        <translation>Срок действия разрешений: %1 дней. </translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
@@ -6596,17 +11125,17 @@ To use IRM you need to install the Windows Rights Management client. If you have
     <message>
         <source>Restricted Access(Read)</source>
         <comment>_kso_krim_RestrictedAccess_Read</comment>
-        <translation>Ограниченный доступ (Чтение)</translation>
+        <translation>Ограниченный доступ (чтение)</translation>
     </message>
     <message>
         <source>Restricted Access(Change)</source>
         <comment>_kso_krim_RestrictedAccess_Change</comment>
-        <translation>Ограниченный доступ (Изменение)</translation>
+        <translation>Ограниченный доступ (изменение)</translation>
     </message>
     <message>
         <source>Restricted Access(Full Control)</source>
         <comment>_kso_krim_RestrictedAccess_FullControl</comment>
-        <translation>Ограниченный доступ (Полный доступ)</translation>
+        <translation>Ограниченный доступ (полный доступ)</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the following operations: 
@@ -6617,7 +11146,13 @@ To use IRM you need to install the Windows Rights Management client. If you have
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s Ошибки возникают, когда очередная резервная копия работает! Пожалуйста, попробуйте следующие операции:
+•Проверьте каталог для резервных копий имеет разрешение писать, или пытайтесь изменить каталог для резервных копий.
+•[Отменить] предыдущие операции и [Сохранить];
+•[Сохранить как...] text files（*.txt）;
+•[Копировать/Вставить] содержимое в новый файл;
+•Откажитесь от пересмотра файла.
+(%s)</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the  following operations: 
@@ -6627,54 +11162,382 @@ To use IRM you need to install the Windows Rights Management client. If you have
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s При выполнении регулярного резервного копирования произошла ошибка. Выполните следующие операции. 
+•Убедитесь, что каталог резервных копий имеет разрешение для записи, или измените этот каталог.
+•[Отмените] предыдущие операции и [Сохраните]. 
+•[Скопируйте и вставьте] содержимое в новый файл. 
+•Перестаньте изменять файл. 
+(%s)</translation>
     </message>
     <message>
         <source>Request additional permissions...</source>
         <comment>_kso_krim_Permission_RequestPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>Запросить дополнительные разрешения...</translation>
     </message>
     <message>
         <source>R&amp;equest permissions</source>
         <comment>_kso_irmio_Button_RequestPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Запросить разрешения</translation>
     </message>
     <message>
         <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within the Control Panel.</source>
         <comment>_kso_irmio_Error_Configuration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Обнаружена неполадка конфигурации управления правами на доступ к данным. В случае повторения этой проблемы восстановите продукт с помощью панели управления.</translation>
     </message>
     <message>
         <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
         <comment>_kso_irmio_Error_Connection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Эта служба временно недоступна. Проверьте наличие подключения к этому серверу. Эта ошибка может возникать, если работа выполняется автономно, настройки прокси-сервера запрещают подключение, либо в сети имеются временные неполадки.</translation>
     </message>
     <message>
         <source>The service at %1 is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
         <comment>_kso_irmio_Error_Location</comment>
-        <translation type="unfinished"></translation>
+        <translation>Служба %1 временно недоступна. Проверьте наличие подключения к этому серверу. Эта ошибка может возникать, если работа выполняется автономно, настройки прокси-сервера запрещают подключение, либо в сети имеются временные неполадки.</translation>
     </message>
     <message>
         <source>Cannot use feature without credentials</source>
         <comment>_kso_irmio_Error_Credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>Нельзя использовать функции без учетных данных</translation>
     </message>
     <message>
         <source>Permission for this document is currently restricted. You do not have credentials that allow you to open this document. You can: 
 1. Try changing to another user account to open the document;
 2. Request permission update from %1.</source>
         <comment>_kso_irmio_Error_No_Permission</comment>
-        <translation type="unfinished"></translation>
+        <translation>Разрешение на работу с данным документом ограничено. У вас нет учетных данных для открытия этого документа. Возможные действия: 
+1. Попробуйте использовать другую учетную запись, чтобы открыть документ.
+2. Запросите изменение разрешения у %1.</translation>
     </message>
     <message>
         <source>Restricted Access</source>
         <comment>_kso_kirm_Policy_Name</comment>
-        <translation type="unfinished">Ограниченный доступ</translation>
+        <translation>Ограниченный доступ</translation>
     </message>
     <message>
         <source>Permission is currently restricted. Only specified users can access this content. </source>
         <comment>_kso_kirm_Policy_Description</comment>
-        <translation type="unfinished">Разрешения в данный момент ограничены. Доступ к этому содержимому разрешен только указанным пользователям.</translation>
+        <translation>Разрешения в данный момент ограничены. Доступ к этому содержимому разрешен только указанным пользователям. </translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PRO</comment>
+        <translation>Это программное обеспечение включает следующие компоненты. Компонент FreeType Project, включая его бесплатную авторизацию в соответствии с условиями лицензии FreeType. Компоненты Chinese Word Segment, Chinese Phonetic Annotations и технологию для преобразования китайского упрощенного письма в традиционное и наоборот, предоставленную Центром поиска информации Харбинского политехнического института. Компонент Hunspell Spell Checker, исходный код в Hunspell соответствует исходному коду в Лицензионном соглашении на ПО с открытым исходным кодом MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation type="obsolete">Это программное обеспечение включает следующие компоненты. Компонент FreeType Project, включая его бесплатную авторизацию в соответствии с условиями лицензии FreeType. Компоненты Chinese Word Segment, Chinese Phonetic Annotations и технологию для преобразования китайского упрощенного письма в традиционное и наоборот, предоставленную Центром поиска информации Харбинского политехнического института. Компонент Hunspell Spell Checker, исходный код в Hunspell соответствует исходному коду в Лицензионном соглашении на ПО с открытым исходным кодом MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files (*.txt); 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="obsolete">%s При выполнении регулярного резервного копирования произошла ошибка. Выполните следующие операции. 
+•Убедитесь, что каталог резервных копий имеет разрешение для записи, или измените этот каталог.
+•[Отмените] предыдущие операции и [Сохраните]. 
+•[Сохраните как...] текстовые файлы (*.txt). 
+•[Скопируйте и вставьте] содержимое в новый файл. 
+•Перестаньте изменять файл. 
+(%s)</translation>
+    </message>
+    <message>
+        <source>This software is for personal use based on personal purpose only. It is strictly forbidden to use this software on production, business operation and other commercial purposes. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation>Эта программа только для личного пользования на основе личных целях. Строго запрещено использовать программу на продукции,бизнес-операции и в других коммерческих целях. ||Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1; </translation>
+    </message>
+    <message>
+        <source>Opening</source>
+        <comment>_kso_io_Progress_Opening</comment>
+        <translation>Открывается</translation>
+    </message>
+    <message>
+        <source>Saving</source>
+        <comment>_kso_io_Progress_Saving</comment>
+        <translation>Сохраняется</translation>
+    </message>
+    <message>
+        <source>Backing up</source>
+        <comment>_kso_io_Progress_AutoSaving</comment>
+        <translation>Работает резервное копирование</translation>
+    </message>
+    <message>
+        <source>(Press ESC to cancel)</source>
+        <comment>_kso_io_Progress_Discontinue_ByEsc</comment>
+        <translation>(Нажмите клавишу ESC, чтобы отменить)</translation>
+    </message>
+    <message>
+        <source>Ribbon Tabs</source>
+        <translation>Вкладки ленты</translation>
+    </message>
+    <message>
+        <source>Permission of (%1)</source>
+        <comment>_kso_krim_RestrictedAccess_Template</comment>
+        <translation>Разрешение (%1)</translation>
+    </message>
+    <message>
+        <source>Permission is currently restricted by a permission policy. Do you want to stop using a permission policy and specify permission for individual users or groups?</source>
+        <comment>_kso_kirm_PermissionPolicyToIndividual</comment>
+        <translation>Разрешение ограничивается политикой разрешения. Вы хотите, чтобы прекратить использовать политику разрешений и указать разрешение для отдельных пользователей или групп?</translation>
+    </message>
+    <message>
+        <source>Selecting a permission policy will replace any existing permission that you&apos;ve set for this document. Do you want to continue?</source>
+        <comment>_kso_kirm_PermissionIndividualToPolicy</comment>
+        <translation>Выбор политики разрешений будет заменить любое существующее разрешение,установленное для этого документа. Вы хотите продолжить?</translation>
+    </message>
+    <message>
+        <source>WPS office has identified a potential safety problems.
+This position may not be safe.</source>
+        <comment>_kso_Warnning_MessageBox_HyperLinksSend_Title</comment>
+        <translation>WPS Office обнаружил потенциальную проблему безопасности.
+Данное положение может быть небезопасным.</translation>
+    </message>
+    <message>
+        <source>Hyperlinks may harm your computer and data. For the protection of computer, super link please click only trusted sources. Do you want to continue?</source>
+        <comment>_kso_Warnning_MessageBox_HyperLinksSend_Content</comment>
+        <translation>Гиперссылки могут нанести вред компьютеру и данным. Чтобы защитить компьютер, используйте только гиперссылки из надежных источников. Продолжить?</translation>
+    </message>
+    <message>
+        <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this presentation.</source>
+        <comment>_kso_krim_Error_insertOleInvalid</comment>
+        <translation>Разрешение для %1 в данный момент ограничено. Файлы с ограниченным разрешением не могут быть вставлены в презентацию.</translation>
+    </message>
+    <message>
+        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation type="obsolete">Это программное обеспечение предназначено только для личного использования. Запрещено использовать данное ПО на производстве, для деловых операций и других коммерческих целей. ||Это программное обеспечение включает проект FreeType и его бесплатную авторизацию в соответствии с условиями лицензии FreeType; функции сегментации на слова и работы с фонетическими пояснениями для китайского языка, технологию для преобразования китайского упрощенного письма в традиционное и наоборот, предоставленную Центром поиска информации Харбинского политехнического института; а также программу проверки орфографии Hunspell. Исходный код в Hunspell соответствует исходному коду в Лицензионном соглашении на ПО с открытым исходным кодом MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+    </message>
+</context>
+<context>
+    <name>kso_numfmtapi</name>
+    <message>
+        <source>General</source>
+        <comment>TX_NUMFMTApi_BuildIn_00</comment>
+        <translation>Общий</translation>
+    </message>
+    <message>
+        <source>0.00</source>
+        <comment>TX_NUMFMTApi_BuildIn_02</comment>
+        <translation>0.00</translation>
+    </message>
+    <message>
+        <source>#,##0</source>
+        <comment>TX_NUMFMTApi_BuildIn_03</comment>
+        <translation>#,##0</translation>
+    </message>
+    <message>
+        <source>#,##0.00</source>
+        <comment>TX_NUMFMTApi_BuildIn_04</comment>
+        <translation>#,##0,00</translation>
+    </message>
+    <message>
+        <source>$#,##0_);($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_05</comment>
+        <translation>$#,##0_);($#,##0)</translation>
+    </message>
+    <message>
+        <source>$#,##0_);[Red]($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_06</comment>
+        <translation>$#,##0_);[красный]($#,##0)</translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_07</comment>
+        <translation>$#,##0.00_);($#,##0.00)</translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);[Red]($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_08</comment>
+        <translation>$#,##0.00_);[красный]($#,##0.00)</translation>
+    </message>
+    <message>
+        <source>0.00%</source>
+        <comment>TX_NUMFMTApi_BuildIn_10</comment>
+        <translation>0.00%</translation>
+    </message>
+    <message>
+        <source>0.00E+00</source>
+        <comment>TX_NUMFMTApi_BuildIn_11</comment>
+        <translation>0.00E+00</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_14</comment>
+        <translation>м/д/гггг</translation>
+    </message>
+    <message>
+        <source>d-mmm-yy</source>
+        <comment>TX_NUMFMTApi_BuildIn_15</comment>
+        <translation>д-ммм-гг</translation>
+    </message>
+    <message>
+        <source>d-mmm</source>
+        <comment>TX_NUMFMTApi_BuildIn_16</comment>
+        <translation>д-ммм</translation>
+    </message>
+    <message>
+        <source>h:mm</source>
+        <comment>TX_NUMFMTApi_BuildIn_20</comment>
+        <translation>ч:мм</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_21</comment>
+        <translation>ч:мм:сс</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy h:mm</source>
+        <comment>TX_NUMFMTApi_BuildIn_22</comment>
+        <translation>м/д/гггг ч:мм</translation>
+    </message>
+    <message>
+        <source>\$#,##0_);(\$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_23</comment>
+        <translation>\$#,##0_);(\$#,##0)</translation>
+    </message>
+    <message>
+        <source>\$#,##0_);[Red](\$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_24</comment>
+        <translation>\$#,##0_);[красный](\$#,##0)</translation>
+    </message>
+    <message>
+        <source>\$#,##0.00_);(\$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_25</comment>
+        <translation>\$#,##0.00_);(\$#,##0.00)</translation>
+    </message>
+    <message>
+        <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_26</comment>
+        <translation>\$#,##0.00_);[красный](\$#,##0.00)</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_30</comment>
+        <translation>м/д/гггг</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_31</comment>
+        <translation>м/д/гггг</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_32</comment>
+        <translation>ч:мм:сс</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_33</comment>
+        <translation>ч:мм:сс</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
+        <translation>м/д/гггг</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
+        <translation>ч:мм:сс</translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
+        <translation>ч:мм:сс</translation>
+    </message>
+    <message>
+        <source>#,##0_);(#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_37</comment>
+        <translation>#,##0_);(#,##0)</translation>
+    </message>
+    <message>
+        <source>#,##0_);[Red](#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_38</comment>
+        <translation>#,##0_);[красный](#,##0)</translation>
+    </message>
+    <message>
+        <source>#,##0.00_);(#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_39</comment>
+        <translation>#,##0,00_);(#,##0,00)</translation>
+    </message>
+    <message>
+        <source>#,##0.00_);[Red](#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_40</comment>
+        <translation>#,##0.00_);[красный](#,##0.00)</translation>
+    </message>
+    <message>
+        <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_41</comment>
+        <translation>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</translation>
+    </message>
+    <message>
+        <source>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_42</comment>
+        <translation>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</translation>
+    </message>
+    <message>
+        <source>_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_43</comment>
+        <translation>_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</translation>
+    </message>
+    <message>
+        <source>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_44</comment>
+        <translation>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</translation>
+    </message>
+    <message>
+        <source>mm:ss.0</source>
+        <comment>TX_NUMFMTApi_BuildIn_45</comment>
+        <translation>мм:сс.0</translation>
+    </message>
+    <message>
+        <source>##0.0E+0</source>
+        <comment>TX_NUMFMTApi_BuildIn_48</comment>
+        <translation>##0.0E+0</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_55</comment>
+        <translation>м/д/гггг</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_56</comment>
+        <translation>м/д/гггг</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_57</comment>
+        <translation>м/д/гггг</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_58</comment>
+        <translation>м/д/гггг</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
+        <translation>м/д/гггг</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
+        <translation>м/д/гггг</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
+        <translation>м/д/гггг</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
+        <translation>м/д/гггг</translation>
     </message>
 </context>
 <context>
@@ -6713,7 +11576,7 @@ Do you want to continue?</source>
 If the problem still exists, you can print a test page by right-clicking the printer icon in Windows and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
         <comment>_ksoErr_Print_InvalidPrinter</comment>
         <translation>Невозможно начать печать в WPS Office. Проверьте подключение и включение принтера.
-В случае повторения ошибки можно проверить правильность установки принтера, попробовав напечатать тестовую страницу. Для этого щёлкните правой кнопкой мыши на значок принтера в Windows и выберите &quot;Свойства&quot; из контекстного меню.</translation>
+В случае повторения ошибки можно проверить правильность установки принтера, попробовав напечатать тестовую страницу. Для этого щелкните правой кнопкой мыши на значок принтера в Windows и выберите &quot;Свойства&quot; из контекстного меню.</translation>
     </message>
     <message>
         <source>Save Print Output As</source>
@@ -6737,13 +11600,20 @@ Do you want to continue?</source>
     <message>
         <source>Unable to find the cups library, make sure you have installed!</source>
         <comment>_ksoErr_Print_NoCupsLibrary</comment>
-        <translation>Не удаётся найти библиотеку: убедитесь, что она установлена!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The printer does not support the current paper size. Continue printing may not result in satisfying quality.
 You can add the customized paper %dmm x %dmm in printer properties and print again.
 Continue printing?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
+        <translation>Принтер не поддерживает текущий размер бумаги. В случае продолжения, возможно неудовлетворительное качество печати.
+Вы можете добавить в свойствах принтера другой размер бумаги %d mm ×%d mm, и повторить печать.
+Продолжить?</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|PDF Files(*.pdf)|*.pdf|Postscript Files(*.ps)|*.ps</source>
+        <comment>_kso_Print_OutputFileDialog_Linux_Filter</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6767,7 +11637,7 @@ Continue printing?</source>
     <message>
         <source>Simplified Chinese GB2312(HEX)</source>
         <comment>kso_acsnHexGB2312</comment>
-        <translation>Китайский (упрощённое письмо) GB2312(шестн.)</translation>
+        <translation>Китайский (упрощенное письмо) GB2312(шестн.)</translation>
     </message>
     <message>
         <source>Symbol(HEX)</source>
@@ -6837,62 +11707,62 @@ Continue printing?</source>
     <message>
         <source>10%</source>
         <comment>kso_s10Percent</comment>
-        <translation></translation>
+        <translation>10%</translation>
     </message>
     <message>
         <source>20%</source>
         <comment>kso_s20Percent</comment>
-        <translation></translation>
+        <translation>20%</translation>
     </message>
     <message>
         <source>25%</source>
         <comment>kso_s25Percent</comment>
-        <translation></translation>
+        <translation>25%</translation>
     </message>
     <message>
         <source>30%</source>
         <comment>kso_s30Percent</comment>
-        <translation></translation>
+        <translation>30%</translation>
     </message>
     <message>
         <source>40%</source>
         <comment>kso_s40Percent</comment>
-        <translation></translation>
+        <translation>40%</translation>
     </message>
     <message>
         <source>50%</source>
         <comment>kso_s50Percent</comment>
-        <translation></translation>
+        <translation>50%</translation>
     </message>
     <message>
         <source>5%</source>
         <comment>kso_s5Percent</comment>
-        <translation></translation>
+        <translation>5%</translation>
     </message>
     <message>
         <source>60%</source>
         <comment>kso_s60Percent</comment>
-        <translation></translation>
+        <translation>60%</translation>
     </message>
     <message>
         <source>70%</source>
         <comment>kso_s70Percent</comment>
-        <translation></translation>
+        <translation>70%</translation>
     </message>
     <message>
         <source>75%</source>
         <comment>kso_s75Percent</comment>
-        <translation></translation>
+        <translation>75%</translation>
     </message>
     <message>
         <source>80%</source>
         <comment>kso_s80Percent</comment>
-        <translation></translation>
+        <translation>80%</translation>
     </message>
     <message>
         <source>90%</source>
         <comment>kso_s90Percent</comment>
-        <translation></translation>
+        <translation>90%</translation>
     </message>
     <message>
         <source>Add</source>
@@ -6927,7 +11797,7 @@ Continue printing?</source>
     <message>
         <source>Arrow Style %d</source>
         <comment>kso_sArrowStyleFormat</comment>
-        <translation>Стиль стрелки %d</translation>
+        <translation>Стрелки %d</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -7012,7 +11882,7 @@ Continue printing?</source>
     <message>
         <source>CAPS</source>
         <comment>kso_sCaps</comment>
-        <translation></translation>
+        <translation>CAPS</translation>
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
@@ -7057,12 +11927,12 @@ Continue printing?</source>
     <message>
         <source>Clip Art</source>
         <comment>kso_sClipArt_Caption</comment>
-        <translation>Клип</translation>
+        <translation>Картика</translation>
     </message>
     <message>
         <source>Clip Art</source>
         <comment>kso_sClipArt_DisplayName</comment>
-        <translation>Клип</translation>
+        <translation>Картика</translation>
     </message>
     <message>
         <source>Close</source>
@@ -7077,12 +11947,12 @@ Continue printing?</source>
     <message>
         <source>Failed to modify the Add-In settings</source>
         <comment>kso_sCOMAddinApplied</comment>
-        <translation>Ошибка при изменении параметров надстройки.</translation>
+        <translation>Ошибка при изменении параметров надстройки</translation>
     </message>
     <message>
         <source>Load on Demand (already loaded)</source>
         <comment>kso_sConnectFirstTime</comment>
-        <translation>Загрузка по требованию (в настоящее время загружены)</translation>
+        <translation>Загружать по требованию (в настоящее время загружены)</translation>
     </message>
     <message>
         <source>Copy to</source>
@@ -7122,12 +11992,13 @@ Continue printing?</source>
     <message>
         <source>Custom Shows</source>
         <comment>kso_sCustomShows</comment>
+        <translatorcomment>В системе запускается другая программа установки или удаления.</translatorcomment>
         <translation>Произвольные показы</translation>
     </message>
     <message>
         <source>The value entered does not match the specified type. The value will be stored as text.</source>
         <comment>kso_sCustomTypeValueError</comment>
-        <translation>Тип введённого значения не соответствует заданному. Значение будет сохранено в текстовом формате.</translation>
+        <translation>Введенное значение не соответствует указанному типу. Значение будет храниться как строковое.</translation>
     </message>
     <message>
         <source>Dark downward diagonal</source>
@@ -7177,7 +12048,7 @@ Continue printing?</source>
     <message>
         <source>Tahoma</source>
         <comment>kso_sDefaultFontName</comment>
-        <translation></translation>
+        <translation>Tahoma</translation>
     </message>
     <message>
         <source>Defined Names</source>
@@ -7187,7 +12058,7 @@ Continue printing?</source>
     <message>
         <source>Failed to unintall Add-In</source>
         <comment>kso_sDeleteCOMAddinFailure</comment>
-        <translation>Ошибка удаления надстройки.</translation>
+        <translation>Ошибка при удалении надстройки</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the &apos;%s&apos; toolbar?</source>
@@ -7247,12 +12118,12 @@ Continue printing?</source>
     <message>
         <source>Office XOR</source>
         <comment>kso_sEncryptionOfficeXor</comment>
-        <translation></translation>
+        <translation>Office XOR</translation>
     </message>
     <message>
         <source>At least one item must be showing. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
         <comment>kso_sErrMsg_HideAllItems</comment>
-        <translation>Должен быть показан, по крайней мере, один элемент. Если вы не хотите показывать данное поле, то отмените текущую операцию, и перетащите поле из отчёта с помощью курсора.</translation>
+        <translation>Должен отображаться хотя бы один элемент. Чтобы совсем не отображать поле, прервите текущую операцию и перетащите поле за пределы отчета.</translation>
     </message>
     <message>
         <source>The key length must be a multiple of 8 between %d and %d.</source>
@@ -7327,7 +12198,7 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Insert a new %s object into your document.</source>
         <comment>kso_sEtInsertObject</comment>
-        <translation>Вставка в документ нового объекта %s.</translation>
+        <translation>Вставить новый объект %s в документ.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your document as an icon.</source>
@@ -7337,12 +12208,12 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Insert an icon that represent the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sEtLinkAsIcon</comment>
-        <translation>Вставка в документ значка, представляющего содержимое файла. Изменения в исходном файле будут отображаться в документе.</translation>
+        <translation>Вставить значок в документ, представляющего содержимое файла. Изменения в исходном файле будут отображаться в документе.</translation>
     </message>
     <message>
         <source>Insert the contents of the file into your document and create a link to the source file. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sEtLinkFile</comment>
-        <translation>Вставка содержимого файла в документ, и создание ссылки на исходный файл. Изменения в исходном файле будут отображаться в документе.</translation>
+        <translation>Вставить содержимое файла в документ, и создание ссылки на исходный файл. Изменения в исходном файле будут отображаться в документе.</translation>
     </message>
     <message>
         <source>Failed to save the serial number. Please check whether you have the administrator permissions or not.</source>
@@ -7392,7 +12263,7 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>&amp;Green:</source>
         <comment>kso_sGreen</comment>
-        <translation>&amp;Зелёный:</translation>
+        <translation>&amp;Зеленый:</translation>
     </message>
     <message>
         <source>Headings</source>
@@ -7402,7 +12273,7 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Help file does not exist or occurs an error!</source>
         <comment>kso_sHelpNotFound</comment>
-        <translation>Отсутствует или повреждён файл справки!</translation>
+        <translation type="obsolete">Отсутствует или повреждён файл справки!</translation>
     </message>
     <message>
         <source>Horizontal brick</source>
@@ -7445,7 +12316,7 @@ To create a PivotTable report, you must use data that is organized as a list wit
 If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
         <comment>kso_sInvalidFieldName</comment>
         <translation>Неверное имя сводной таблицы. 
-Чтобы создать отчёт сводной таблицы, необходимо использовать данные, организованные в виде списка с заголовками столбцов. 
+Чтобы создать отчет сводной таблицы, необходимо использовать данные, организованные в виде списка с заголовками столбцов. 
 Для изменения имени поля сводной таблицы введите новое имя.</translation>
     </message>
     <message>
@@ -7466,7 +12337,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>The serial number you typed is invalid. Please check the input format, the supported version of it and the valid date.</source>
         <comment>kso_sInvalidSN</comment>
-        <translation>Введён неверный серийный номер. Проверьте формат ввода, поддерживаемую версию и действительную дату.</translation>
+        <translation>Введен неверный серийный номер. Проверьте формат ввода, поддерживаемую версию и действительную дату.</translation>
     </message>
     <message>
         <source>KB</source>
@@ -7481,7 +12352,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Black</source>
         <comment>kso_sKclBlack</comment>
-        <translation>Чёрный</translation>
+        <translation>Черный</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -7496,7 +12367,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Bright Green</source>
         <comment>kso_sKclBrightGreen</comment>
-        <translation>Ярко-зелёный</translation>
+        <translation>Ярко-зеленый</translation>
     </message>
     <message>
         <source>Brown</source>
@@ -7511,32 +12382,32 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Dark Blue</source>
         <comment>kso_sKclDarkBlue</comment>
-        <translation>Тёмно-синий</translation>
+        <translation>Темно-синий</translation>
     </message>
     <message>
         <source>Dark Green</source>
         <comment>kso_sKclDarkGreen</comment>
-        <translation>Темно-зелёный</translation>
+        <translation>Темно-зеленый</translation>
     </message>
     <message>
         <source>Dark Purple</source>
         <comment>kso_sKclDarkPurple</comment>
-        <translation>Тёмно-пурпурный</translation>
+        <translation>Темно-пурпурный</translation>
     </message>
     <message>
         <source>Dark Red</source>
         <comment>kso_sKclDarkRed</comment>
-        <translation>Тёмно-красный</translation>
+        <translation>Темно-красный</translation>
     </message>
     <message>
         <source>Dark Teal</source>
         <comment>kso_sKclDarkTeal</comment>
-        <translation>Тёмный сине-зелёный</translation>
+        <translation>Темный сине-зелёный</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
         <comment>kso_sKclDarkYellow</comment>
-        <translation>Тёмно-желтый</translation>
+        <translation>Темно-желтый</translation>
     </message>
     <message>
         <source>Gold</source>
@@ -7661,7 +12532,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Green</source>
         <comment>kso_sKclGreen</comment>
-        <translation>Зелёный</translation>
+        <translation>Зеленый</translation>
     </message>
     <message>
         <source>Ice Blue</source>
@@ -7706,7 +12577,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Light Yellow</source>
         <comment>kso_sKclLightYellow</comment>
-        <translation>Светло-жёлтый</translation>
+        <translation>Светло-желтый</translation>
     </message>
     <message>
         <source>Lime</source>
@@ -7721,7 +12592,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Olive Green</source>
         <comment>kso_sKclOliveGreen</comment>
-        <translation>Оливково-зелёный</translation>
+        <translation>Оливково-зеленый</translation>
     </message>
     <message>
         <source>Orange</source>
@@ -7761,7 +12632,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Sea Green</source>
         <comment>kso_sKclSeaGreen</comment>
-        <translation>Морской зелёный</translation>
+        <translation>Морской зеленый</translation>
     </message>
     <message>
         <source>Sky Blue</source>
@@ -7776,7 +12647,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Teal</source>
         <comment>kso_sKclTeal</comment>
-        <translation>Сине-зелёный</translation>
+        <translation>Сине-зеленый</translation>
     </message>
     <message>
         <source>Turquoise</source>
@@ -7796,7 +12667,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Yellow</source>
         <comment>kso_sKclYellow</comment>
-        <translation>Жёлтый</translation>
+        <translation>Желтый</translation>
     </message>
     <message>
         <source>Large checkerboard</source>
@@ -7851,12 +12722,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Dash-Dot</source>
         <comment>kso_sLineDashDot</comment>
-        <translation>Штрих-пунктир</translation>
+        <translation type="obsolete">Штрих-пунктир</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
         <comment>kso_sLineDashDotDot</comment>
-        <translation>Штрихпунктир с 2 точками</translation>
+        <translation type="obsolete">Штрихпунктир с 2 точками</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -7871,7 +12742,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Long Dash-Dot</source>
         <comment>kso_sLineLongDashDot</comment>
-        <translation>Длинный штрих-пунктир</translation>
+        <translation type="obsolete">Длинный штрих-пунктир</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -7916,7 +12787,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>You have reached the max retry step, program will terminate.</source>
         <comment>kso_sMaxStep</comment>
-        <translation>Превышение максимального количества попыток, программа будет завершена.</translation>
+        <translation type="obsolete">Превышение максимального количества попыток, программа будет завершена.</translation>
     </message>
     <message>
         <source>MB</source>
@@ -8006,7 +12877,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>NUM</source>
         <comment>kso_sNum</comment>
-        <translation></translation>
+        <translation>NUM</translation>
     </message>
     <message>
         <source>The number must be between %d and %d. Try again by entering a number in this range.</source>
@@ -8066,7 +12937,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Select Picture</source>
         <comment>kso_sPictureOpenDialogCaption</comment>
-        <translation>Выбрать изображение</translation>
+        <translation>Выбрать рисунок</translation>
     </message>
     <message>
         <source>Plaid</source>
@@ -8081,7 +12952,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>%</source>
         <comment>kso_sPrecentUnitDefine</comment>
-        <translation></translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Previous Slide</source>
@@ -8141,12 +13012,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
         <comment>kso_sSaveTxtWaring</comment>
-        <translation>Предупреждение: cохранение в виде текстового файла приведёт к потере форматирования, изображений и объектов в файле.</translation>
+        <translation>Предупреждение: сохранение в виде текстового файла приведет к потере форматирования,рисунки и объектов в файле.</translation>
     </message>
     <message>
         <source>SCRL</source>
         <comment>kso_sScrol</comment>
-        <translation></translation>
+        <translation>SCRL</translation>
     </message>
     <message>
         <source>---Search Selection---</source>
@@ -8156,7 +13027,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>sec</source>
         <comment>kso_sSecond</comment>
-        <translation>сек.</translation>
+        <translation>сек</translation>
     </message>
     <message>
         <source>Automatically check file security troubles before closing application.</source>
@@ -8201,7 +13072,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>(Show All)</source>
         <comment>kso_sShowAll</comment>
-        <translation>(Показать всё)</translation>
+        <translation>(Показать все)</translation>
     </message>
     <message>
         <source>Slide Titles</source>
@@ -8446,7 +13317,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Currency Symbols;Combining Diacritical Marks for Symbols;Letter-like Symbols;Number Forms;Arrows;Mathematical Operators;Miscellaneous Technical;Control Pictures;Optical Character Recognition;</source>
         <comment>kso_sUnicodeSubsetList3</comment>
-        <translation>Символ валюты; Диакритические знаки для символов; Буквоподобные символы; Числовые формы; Стрелки; Математические операторы; Технические символы; Значки управляющих кодов; Распознавание символов (OCR);</translation>
+        <translation>Символ валюты;Объединенные диакр. знаки для символов; Буквоподобные символы; Числовые формы; Стрелки; Математические операторы; Технические символы; Значки управляющих кодов; Распознавание символов (OCR);</translation>
     </message>
     <message>
         <source>Enclosed Alphanumerics;Box Drawing;Block Elements;Geometric Shapes;Miscellaneous Symbols;Dingbats;CJK Symbols and Punctuation;Hiragana;Katakana;Bopomofo;Extended Bopomofo;Hangul Compatibility Jamo;</source>
@@ -8781,7 +13652,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Insert a picture file into your presentation. The picture will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
         <comment>kso_sWppLinkFile</comment>
-        <translation>Вставляет файл изображения в презентацию. Изображение будет являться ссылкой на файл, так что изменения файла будут отражаться в презентации.</translation>
+        <translation>Вставляет файл рисунки в презентацию. рисунок будет являться ссылкой на файл, так что изменения файла будут отражаться в презентации.</translation>
     </message>
     <message>
         <source>Blank Document</source>
@@ -8851,7 +13722,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Unknown picture file extension (.%s)</source>
         <comment>kso_SUnknownExtension</comment>
-        <translation>Неизвестное расширение файла изображения (.%s)</translation>
+        <translation>Неизвестное расширение файла рисунки (.%s)</translation>
     </message>
     <message>
         <source>The size of the custom dictionary cannot be bigger than 10M.</source>
@@ -8966,12 +13837,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>All Picture(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Windows Window Enhanced MetaFile(*.emf)|*.emf|Windows Enhanced MetaFile(*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</source>
         <comment>kso_sInsertPictureDlgFilter</comment>
-        <translation>Все изображения(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Метафайл Windows (EMF)(*.emf)|*.emf|Метафайл Windows (*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</translation>
+        <translation>Все рисунки(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Метафайл Windows (EMF)(*.emf)|*.emf|Метафайл Windows (*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</translation>
     </message>
     <message>
         <source>The picture is too big to be used as a pattern.</source>
         <comment>kso_sPictureToLargeAndCannotUseasTexture</comment>
-        <translation>Изображение слишком велико для использования в качестве шаблона.</translation>
+        <translation>Рисунок слишком велико для использования в качестве шаблона.</translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
@@ -8988,7 +13859,7 @@ For better service, please update the trial edition to standard edition by:
 Used to show hierarchical relationships</source>
         <comment>kso_sOrganizationChart</comment>
         <translation>Организационная диаграмма
-Используется для отображения иерархических отношений</translation>
+Отображение структуры отношений</translation>
     </message>
     <message>
         <source>Cycle Diagram
@@ -8996,21 +13867,21 @@ Used to show a process with a continuous
 cycle</source>
         <comment>kso_sCycleDiagram</comment>
         <translation>Циклическая диаграмма
-Используется для отображения процесса непрерывного цикла</translation>
+Отображение процесса непрерывного цикла</translation>
     </message>
     <message>
         <source>Radial Diagram
 Used to show relationships of core elements</source>
         <comment>kso_sRadialDiagram</comment>
         <translation>Радиальная диаграмма
-Используется для отображения отношений основных элементов</translation>
+Отображение процесса непрерывного цикла</translation>
     </message>
     <message>
         <source>Pyramid diagram
 Used to show foundation-based relationships</source>
         <comment>kso_sPyramidDiagram</comment>
         <translation>Пирамидальная диаграмма
-Используется для отображения фундаментальных отношений</translation>
+Отображение фундаментальных отношений</translation>
     </message>
     <message>
         <source>Venn diagram
@@ -9018,14 +13889,14 @@ Used to show areas of overlap between
 elements</source>
         <comment>kso_VennDiagram</comment>
         <translation>Диаграмма Венна
-Используется для отображения областей перекрывания элементов</translation>
+Отображение областей перекрывания элементов</translation>
     </message>
     <message>
         <source>Target Diagram
 Used to show steps toward a goal</source>
         <comment>kso_sTargetDiagram</comment>
         <translation>Целевая диаграмма
-Используется для отображения шагов, направленных на достижение цели</translation>
+Отображение шагов, направленных на достижение цели</translation>
     </message>
     <message>
         <source>- (Hyphen)</source>
@@ -9145,12 +14016,12 @@ Used to show steps toward a goal</source>
     <message>
         <source>Error happens when application tries to register. Error code: 0x%8.8x.</source>
         <comment>kso_sAppRegisterError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка регистрации приложения. Код ошибки: 0x%8.8x.</translation>
     </message>
     <message>
         <source>Error happens when application tries to logout. Error code: 0x%8.8x.</source>
         <comment>kso_sAppUnRegisterError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка разрегистрации приложения. Код ошибки: 0x%8.8x.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyze meet the following conditions:
@@ -9158,84 +14029,417 @@ Used to show steps toward a goal</source>
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
         <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно создать сводную таблицу с этими данными. Убедитесь, что данные для анализа соответствуют следующим условиям: 
+1. Убедитесь что ссылка существует. Если это имя, то оно не должно выходить за допустимый диапазон; 
+2. Убедитесь, что ссылка в одном диапазоне, который содержит, по крайней мере, две строки; 
+3. Убедитесь, что первая строка диапазона не содержит пустые ячейки, нет ошибочных значений, и каждая ячейка содержит не более 255 символов.</translation>
     </message>
     <message>
         <source>Unknown Format Source.</source>
         <comment>kso_sErrPasteLink</comment>
-        <translation type="unfinished"></translation>
+        <translation>Источник с неизвестным форматом.</translation>
     </message>
     <message>
         <source>Solid</source>
         <comment>kso_sLineSolid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Сплошная линия</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
         <comment>kso_sRefIsNotValid</comment>
-        <translation type="unfinished">Неверная ссылка.</translation>
+        <translation>Недопустимая ссылка.</translation>
     </message>
     <message>
         <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sWpsLinkAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Вставляет значок, который отображает содержимое файла в документе. Изменения в исходном файле будут отражены в документе.</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an existing sheet or unprotect this book.</source>
         <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно создать сводную таблицу в новом листе электронной таблицы из-за защиты электронной книги. Выберите существующую электронную таблицу или снимите защиту записи электронной книги.</translation>
     </message>
     <message>
         <source>Forward</source>
         <comment>kso_Nav_Forword</comment>
-        <translation type="unfinished"></translation>
+        <translation>Вперед</translation>
     </message>
     <message>
         <source>The file cannot be deleted. It may be occupied.</source>
         <comment>kso_sCannotRemoveBackupFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно удалить файл, возможно он находится в использовании.</translation>
     </message>
     <message>
         <source>Some files cannot be deleted. They may be occupied.</source>
         <comment>kso_sCannotRemoveAllBackupFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые файлы не могут быть удалены, возможно они находятся в использовании.</translation>
     </message>
     <message>
         <source>Dowload XML expansion</source>
         <comment>kso_Smartdoc_DowloadXmlExpasionCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Скачать пакет расширения XML</translation>
     </message>
     <message>
         <source>Using the latest XML expansion pack from the following locations, the effect of this document will be the best:
  %1 
 Download the XML expansion pack?</source>
         <comment>kso_Smartdoc_DowloadXmlExpasion</comment>
-        <translation type="unfinished"></translation>
+        <translation>Использовать новейший пакет расширения XML из следующих мест,и эффект этого документа будет лучше:
+ %1
+Скачать пакет расширения XML?</translation>
     </message>
     <message>
         <source>The XML expansion pack or smart document program has been lost or invalid.Please contact the system administrator or the personnel who provide this document</source>
         <comment>kso_Smartdoc_XMLExpansionLost</comment>
-        <translation type="unfinished"></translation>
+        <translation>Пакет расширения XML или программа смарт-документа отсутствуют или недопустимы. Обратитесь к администратору или к поставщику этого документа</translation>
     </message>
     <message>
         <source>You are currently viewing this document in multiple windows. If you wanna attach XML expansion, you must close all other windows first to ensure that you view this document only in one window.</source>
         <comment>kso_Smartdoc_XmlExpansionRefuse</comment>
-        <translation type="unfinished"></translation>
+        <translation>Выполняется просмотр документа одновременно в нескольких окнах. Чтобы присоединить пакет расширения XML, необходимо сначала закрыть все дополнительные окна, чтобы на экране осталось только одно окно с этим документом.</translation>
     </message>
     <message>
         <source>This document has attached a XML expansion. If You wanna view this document in multiple windows, you must delete the XML expansion first.</source>
         <comment>kso_Smartdoc_NewWindowRefuse</comment>
-        <translation type="unfinished"></translation>
+        <translation>Этот документ присоединит пакет расширения XML.Если вам просмотреть документ одновременно в нескольких окнах,необходимо удаление пакета расширения XML.</translation>
     </message>
     <message>
         <source>Cannot install this file, because the security certificate has some problems. This XML expansion pack may won&apos;t run as expecte.For more information, please contact your administrator.</source>
         <comment>kso_Smartdoc_XMLCertificateError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Не может установить этот файл,так как сертификат безопасности с некоторыми проблемами. Этот пакет расширения XML может не работать,как ожидалось. Чтобы получить более подробные информации,обратитесь к администратору.</translation>
     </message>
     <message>
         <source>Install this XML expansion pack failed.</source>
         <comment>kso_Smartdoc_installManifestError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка при установке пакета расширения XML.</translation>
+    </message>
+    <message>
+        <source>Help file does not exist or encounters an error.</source>
+        <comment>kso_sHelpNotFound</comment>
+        <translation>Отсутствует или поврежден файл справки!</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <comment>kso_sLineDashDot</comment>
+        <translation>Штрих-пунктир</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <comment>kso_sLineDashDotDot</comment>
+        <translation>Длинный штрих-двойной пунктир</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <comment>kso_sLineLongDashDot</comment>
+        <translation>Длинный штрих-пунктир</translation>
+    </message>
+    <message>
+        <source>You have reached the maximum number of retries. Program will terminate.</source>
+        <comment>kso_sMaxStep</comment>
+        <translation>Превышение максимального количества попыток, программа будет завершена.</translation>
+    </message>
+    <message>
+        <source>Up to one digit (%s)</source>
+        <comment>kso_sNnumberFormatter_style_01</comment>
+        <translation>До одной цифры (%s)</translation>
+    </message>
+    <message>
+        <source>Up to two digits (%s)</source>
+        <comment>kso_sNnumberFormatter_style_02</comment>
+        <translation>До двух цифр (%s)</translation>
+    </message>
+    <message>
+        <source>Up to three digits (%s)</source>
+        <comment>kso_sNnumberFormatter_style_03</comment>
+        <translation>До трех цифр (%s)</translation>
+    </message>
+    <message>
+        <source>As halves (%s)</source>
+        <comment>kso_sNnumberFormatter_style_04</comment>
+        <translation>Половинными долями (%s)</translation>
+    </message>
+    <message>
+        <source>As quarters (%s)</source>
+        <comment>kso_sNnumberFormatter_style_05</comment>
+        <translation>Четвертями (%s)</translation>
+    </message>
+    <message>
+        <source>As eighths (%s)</source>
+        <comment>kso_sNnumberFormatter_style_06</comment>
+        <translation>Восьмыми долями (%s)</translation>
+    </message>
+    <message>
+        <source>As sixteenths (%s)</source>
+        <comment>kso_sNnumberFormatter_style_07</comment>
+        <translation>Шестнадцатыми долями (%s)</translation>
+    </message>
+    <message>
+        <source>As tenths (%s)</source>
+        <comment>kso_sNnumberFormatter_style_08</comment>
+        <translation>Десятыми долями (%s)</translation>
+    </message>
+    <message>
+        <source>As hundredths (%s)</source>
+        <comment>kso_sNnumberFormatter_style_09</comment>
+        <translation>Сотыми долями (%s)</translation>
+    </message>
+</context>
+<context>
+    <name>kso_theme</name>
+    <message>
+        <source>Adjacency</source>
+        <comment>THEME_THEME_ADJACENCY</comment>
+        <translation>Соседство</translation>
+    </message>
+    <message>
+        <source>Angles</source>
+        <comment>THEME_THEME_ANGLES</comment>
+        <translation>Углы</translation>
+    </message>
+    <message>
+        <source>Apex</source>
+        <comment>THEME_THEME_APEX</comment>
+        <translation>Апекс</translation>
+    </message>
+    <message>
+        <source>Apothecary</source>
+        <comment>THEME_THEME_APOTHECARY</comment>
+        <translation>Медицинский</translation>
+    </message>
+    <message>
+        <source>Aspect</source>
+        <comment>THEME_THEME_ASPECT</comment>
+        <translation>Аспект</translation>
+    </message>
+    <message>
+        <source>Austin</source>
+        <comment>THEME_THEME_AUSTIN</comment>
+        <translation>Остин</translation>
+    </message>
+    <message>
+        <source>BlackTie</source>
+        <comment>THEME_THEME_BLACKTIE</comment>
+        <translation>Смокинг</translation>
+    </message>
+    <message>
+        <source>Calligraphy</source>
+        <comment>THEME_THEME_CALLIGRAPHY</comment>
+        <translation>Каллиграфия</translation>
+    </message>
+    <message>
+        <source>Civic</source>
+        <comment>THEME_THEME_CIVIC</comment>
+        <translation>Официальная</translation>
+    </message>
+    <message>
+        <source>Clarity</source>
+        <comment>THEME_THEME_CLARITY</comment>
+        <translation>Ясность</translation>
+    </message>
+    <message>
+        <source>Composite</source>
+        <comment>THEME_THEME_COMPOSITE</comment>
+        <translation>Составная</translation>
+    </message>
+    <message>
+        <source>Concourse</source>
+        <comment>THEME_THEME_CONCOURSE</comment>
+        <translation>Открытая</translation>
+    </message>
+    <message>
+        <source>Couture</source>
+        <comment>THEME_THEME_COUTURE</comment>
+        <translation>Модная</translation>
+    </message>
+    <message>
+        <source>Dragon</source>
+        <comment>THEME_THEME_DRAGON</comment>
+        <translation>Дракон</translation>
+    </message>
+    <message>
+        <source>Elemental</source>
+        <comment>THEME_THEME_ELEMENTAL</comment>
+        <translation>Основная</translation>
+    </message>
+    <message>
+        <source>Equity</source>
+        <comment>THEME_THEME_EQUITY</comment>
+        <translation>Справедливость</translation>
+    </message>
+    <message>
+        <source>Essential</source>
+        <comment>THEME_THEME_ESSENTIAL</comment>
+        <translation>Базовая</translation>
+    </message>
+    <message>
+        <source>Executive</source>
+        <comment>THEME_THEME_EXECUTIVE</comment>
+        <translation>Исполняемый</translation>
+    </message>
+    <message>
+        <source>Fan</source>
+        <comment>THEME_THEME_FAN</comment>
+        <translation>Вентилятор</translation>
+    </message>
+    <message>
+        <source>Flow</source>
+        <comment>THEME_THEME_FLOW</comment>
+        <translation>Поток</translation>
+    </message>
+    <message>
+        <source>Foundry</source>
+        <comment>THEME_THEME_FOUNDRY</comment>
+        <translation>Литейная</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <comment>THEME_THEME_GRID</comment>
+        <translation>Сетка</translation>
+    </message>
+    <message>
+        <source>Hardcover</source>
+        <comment>THEME_THEME_HARDCOVER</comment>
+        <translation>Твердый переплет</translation>
+    </message>
+    <message>
+        <source>Horizon</source>
+        <comment>THEME_THEME_HORIZON</comment>
+        <translation>Горизонт</translation>
+    </message>
+    <message>
+        <source>Median</source>
+        <comment>THEME_THEME_MEDIAN</comment>
+        <translation>Медиана</translation>
+    </message>
+    <message>
+        <source>Metro</source>
+        <comment>THEME_THEME_METRO</comment>
+        <translation>Метро</translation>
+    </message>
+    <message>
+        <source>Module</source>
+        <comment>THEME_THEME_MODULE</comment>
+        <translation>Модуль</translation>
+    </message>
+    <message>
+        <source>Opulent</source>
+        <comment>THEME_THEME_OPULENT</comment>
+        <translation>Изящная</translation>
+    </message>
+    <message>
+        <source>Oriel</source>
+        <comment>THEME_THEME_ORIEL</comment>
+        <translation>Эркер</translation>
+    </message>
+    <message>
+        <source>Origin</source>
+        <comment>THEME_THEME_ORIGIN</comment>
+        <translation>Начальная</translation>
+    </message>
+    <message>
+        <source>Paper</source>
+        <comment>THEME_THEME_PAPER</comment>
+        <translation>Бумага</translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <comment>THEME_THEME_PERSPECTIVE</comment>
+        <translation>Перспектива</translation>
+    </message>
+    <message>
+        <source>Phoenix</source>
+        <comment>THEME_THEME_PHOENIX</comment>
+        <translation>Феникс</translation>
+    </message>
+    <message>
+        <source>Pushpin</source>
+        <comment>THEME_THEME_PUSHPIN</comment>
+        <translation>Вешка</translation>
+    </message>
+    <message>
+        <source>Slipstream</source>
+        <comment>THEME_THEME_SLIPSTREAM</comment>
+        <translation>Воздушный поток</translation>
+    </message>
+    <message>
+        <source>Solstice</source>
+        <comment>THEME_THEME_SOLSTICE</comment>
+        <translation>Солнцестояние</translation>
+    </message>
+    <message>
+        <source>Technic</source>
+        <comment>THEME_THEME_TECHNIC</comment>
+        <translation>Техно</translation>
+    </message>
+    <message>
+        <source>Thatch</source>
+        <comment>THEME_THEME_THATCH</comment>
+        <translation>Паркет</translation>
+    </message>
+    <message>
+        <source>Trek</source>
+        <comment>THEME_THEME_TREK</comment>
+        <translation>Трек</translation>
+    </message>
+    <message>
+        <source>Urban</source>
+        <comment>THEME_THEME_URBAN</comment>
+        <translation>Городская</translation>
+    </message>
+    <message>
+        <source>Verve</source>
+        <comment>THEME_THEME_VERVE</comment>
+        <translation>Яркая</translation>
+    </message>
+    <message>
+        <source>Waveform</source>
+        <comment>THEME_THEME_WAVEFORM</comment>
+        <translation>Волна</translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <comment>THEME_THEMECOLORS_GRAYSCALE</comment>
+        <translation>Оттенки серого</translation>
+    </message>
+    <message>
+        <source>Office 2</source>
+        <comment>THEME_THEMEFONTS_OFFICE2</comment>
+        <translation>Office 2</translation>
+    </message>
+    <message>
+        <source>Office Classic 2</source>
+        <comment>THEME_THEMEFONTS_OFFICECLASSIC2</comment>
+        <translation>Классический Office 2</translation>
+    </message>
+    <message>
+        <source>Office Classic</source>
+        <comment>THEME_THEMEFONTS_OFFICECLASSIC</comment>
+        <translation>Классический Office</translation>
+    </message>
+    <message>
+        <source>Black Tie</source>
+        <comment>THEME_THEME_BLACK_TIE</comment>
+        <translation>Смокинг</translation>
+    </message>
+    <message>
+        <source>Office Theme</source>
+        <comment>THEME_NAME_OFFICE_2007_2010</comment>
+        <translation>Тема Office</translation>
+    </message>
+    <message>
+        <source>Office</source>
+        <comment>THEME_NAME_OFFICE</comment>
+        <translation>Офис</translation>
+    </message>
+    <message>
+        <source>Newsprint</source>
+        <comment>THEME_THEME_NEWSPRINT</comment>
+        <translation>Газетная бумага</translation>
+    </message>
+    <message>
+        <source>NewsPrint</source>
+        <comment>THEME_THEME_NEWSPRINT1</comment>
+        <translation>Газетная бумага</translation>
     </message>
 </context>
 <context>

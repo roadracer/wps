@@ -6,7 +6,7 @@
     <name>KAxServer</name>
     <message>
         <source>Do you want to save changes to the file?</source>
-        <translation>Deseja salvar as alterações para o arquivo?</translation>
+        <translation>Deseja salvar as alterações no arquivo?</translation>
     </message>
 </context>
 </TS>

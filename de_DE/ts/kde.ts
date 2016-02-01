@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="de_DE">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KdeImpl</name>
     <message>
         <source>All Reference Files</source>
         <extracomment>Unknown position</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Alle Referenzdateien</translation>
     </message>
 </context>
 <context>
@@ -14,32 +15,32 @@
     <message>
         <source>Macro Options</source>
         <extracomment>et -&gt; Developer -&gt; Macros -&gt; Options</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Makrooptionen</translation>
     </message>
     <message>
         <source>Macro name:</source>
         <extracomment>et -&gt; Developer -&gt; Macros -&gt; Options</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Makroname:</translation>
     </message>
     <message>
         <source>Shortcut &amp;key:</source>
         <extracomment>et -&gt; Developer -&gt; Macros -&gt; Options</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tasten&amp;kombination:</translation>
     </message>
     <message>
         <source>&amp;Description:</source>
         <extracomment>et -&gt; Developer -&gt; Macros -&gt; Options</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Beschreibung:</translation>
     </message>
     <message>
         <source>Prompt</source>
         <extracomment>et -&gt; developer -&gt; Macros -&gt; chooice a macro -&gt; Options -&gt; Shortcut key: = -&gt; OK</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Eingabeaufforderung</translation>
     </message>
     <message>
         <source>Shortcut key must be a letter.</source>
         <extracomment>et -&gt; developer -&gt; Macros -&gt; chooice a macro -&gt; Options -&gt; Shortcut key: = -&gt; OK</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tastenkombinations-Taste muss ein einzelner Buchstabe sein.</translation>
     </message>
 </context>
 <context>
@@ -47,62 +48,62 @@
     <message>
         <source>Macros</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Makros</translation>
     </message>
     <message>
         <source>&amp;Macro name:</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Makroname:</translation>
     </message>
     <message>
         <source>&amp;Run</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ausführen</translation>
     </message>
     <message>
         <source>&amp;Step Into</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Einzels&amp;chritt</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bearbeiten</translation>
     </message>
     <message>
         <source>&amp;Create</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Erstellen</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Löschen</translation>
     </message>
     <message>
         <source>&amp;Options</source>
         <extracomment>et -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;ptionen</translation>
     </message>
     <message>
         <source>M&amp;acro in:</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Makro in:</translation>
     </message>
     <message>
         <source>Cancel</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Descript&amp;ion:</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Beschreibung:</translation>
     </message>
     <message>
         <source>All active templates and documents</source>
         <extracomment>developer -&gt; Macro in:</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Allen aktiven Dokumentvorlagen und Dokumenten</translation>
     </message>
     <message>
         <source>Prompt</source>
@@ -113,27 +114,27 @@ developer -&gt; Macros -&gt; delete
 Theoretically, will not displayed any where.
 ----------
 developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&gt; Create</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Eingabeaufforderung</translation>
     </message>
     <message>
         <source>The macros in this project are disabled.</source>
         <extracomment>developer -&gt; Security -&gt; VeryHigh; developer -&gt; Macros -&gt; Run</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Die Makros in diesem Projekt sind deaktiviert.</translation>
     </message>
     <message>
         <source>Do you want to delete macro %1 ?</source>
         <extracomment>developer -&gt; Macros -&gt; delete</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Soll das Makro %1 gelöscht werden?</translation>
     </message>
     <message>
         <source>The project item name is not valid.</source>
         <extracomment>Theoretically, will not displayed any where.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Der Name des Projektelements ist ungültig.</translation>
     </message>
     <message>
         <source>Invalid procedure name.</source>
         <extracomment>developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&gt; Create</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiger Prozedurname.</translation>
     </message>
 </context>
 <context>
@@ -141,32 +142,32 @@ developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&g
     <message>
         <source>Security Warning</source>
         <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sicherheitswarnung</translation>
     </message>
     <message>
         <source>&quot;%1&quot; contains macros.</source>
         <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>„%1“ enthält Makros.</translation>
     </message>
     <message>
         <source>Macros may contain viruses. It is always safe to disable macros, but if the macros are legitimate, you might lose some functionality.</source>
         <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Makros können Viren enthalten. Es ist immer sicherer, Makros zu deaktivieren. Wenn es sich jedoch um legitime Makros handelt, verlieren Sie wahrscheinlich Funktionalität.</translation>
     </message>
     <message>
         <source>&amp;Disable Macros</source>
         <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Makros deaktivieren</translation>
     </message>
     <message>
         <source>&amp;Enable Macros</source>
         <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Makros aktivieren</translation>
     </message>
     <message>
         <source>The file you would like to open contains macros.</source>
         <extracomment>Unknown position</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei, die Sie öffnen möchten, enthält Makros.</translation>
     </message>
 </context>
 <context>
@@ -174,67 +175,67 @@ developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&g
     <message>
         <source>Security</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sicherheit</translation>
     </message>
     <message>
         <source>&amp;Security Level</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sicherheitsstufe</translation>
     </message>
     <message>
         <source>Only macros installed in trusted locations will be allowed to run. All other signed and unsigned macros are disabled.</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nur Makros, die in vertrauenswürdigen Speicherorten installiert sind, dürfen ausgeführt werden. Alle anderen signierten und nicht signierten Makros sind deaktiviert.</translation>
     </message>
     <message>
         <source>&amp;Very high</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sehr hoch</translation>
     </message>
     <message>
         <source>Only signed macros from trusted sources will be allowed to run. Unsigned macros are automatically disabled.</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nur signierte Makros aus vertrauenswürdigen Quellen dürfen ausgeführt werden. Nicht signierte Makros werden automatisch deaktiviert.</translation>
     </message>
     <message>
         <source>&amp;High</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hoch</translation>
     </message>
     <message>
         <source>&amp;Medium</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mittel</translation>
     </message>
     <message>
         <source>You can choose whether or not to run potentially unsafe macros.</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sie können auswählen, ob Sie nicht sichere Makros ausführen möchten.</translation>
     </message>
     <message>
         <source>You are not protected from potentially unsafe macros. Use this setting only if you have virus scanning software installed, or you have checked the safety of all documents you open.</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sie sind vor potenziell unsicheren Makros nicht geschützt. Verwenden Sie diese Einstellung nur, wenn Sie Software zur Virenprüfung installiert haben, oder wenn Sie die Sicherheit aller zu öffnenden Dokumente überprüft haben.</translation>
     </message>
     <message>
         <source>&amp;Low(not recommended)</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Niedrig (nicht empfohlen)</translation>
     </message>
     <message>
         <source>&amp;Trusted Publishers</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vertrauenswürdige Herausgeber</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
         <extracomment>developer -&gt; Security -&gt; Trusted Publishers</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Entfernen</translation>
     </message>
     <message>
         <source>Trust access to &amp;Visual Basic Project</source>
         <extracomment>developer -&gt; Security -&gt; Trusted Publishers</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zugriff auf &amp;Visual Basic-Projekt vertrauen</translation>
     </message>
 </context>
 </TS>

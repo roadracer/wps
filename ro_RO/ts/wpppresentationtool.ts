@@ -6,7 +6,7 @@
     <name>DlgBatchSetFont</name>
     <message>
         <source>Batch Set Font</source>
-        <translation>Configurare font în serie</translation>
+        <translation type="obsolete">Configurare font în serie</translation>
     </message>
     <message>
         <source>1</source>
@@ -70,19 +70,19 @@
     </message>
     <message>
         <source>ChineseFont</source>
-        <translation>Font chinezesc</translation>
+        <translation type="obsolete">Font chinezesc</translation>
     </message>
     <message>
         <source>WesternFont</source>
-        <translation>WesternFont</translation>
+        <translation type="obsolete">WesternFont</translation>
     </message>
     <message>
         <source>Font Format</source>
-        <translation>Format font</translation>
+        <translation type="obsolete">Format font</translation>
     </message>
     <message>
         <source>|</source>
-        <translation>|</translation>
+        <translation type="obsolete">|</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -91,6 +91,70 @@
     <message>
         <source>Cancel</source>
         <translation>Anulează</translation>
+    </message>
+    <message>
+        <source>Bulk Font Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Western Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t Change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unbold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Un-underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unitalicize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Color:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -109,7 +173,7 @@
     </message>
     <message>
         <source>·Content and textbox</source>
-        <translation> Conținut și caseta de text</translation>
+        <translation type="obsolete"> Conținut și caseta de text</translation>
     </message>
     <message>
         <source>Set text format</source>
@@ -126,6 +190,10 @@
     <message>
         <source>Cancel</source>
         <translation>Anulează</translation>
+    </message>
+    <message>
+        <source>Content and textbox</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -159,46 +227,46 @@
     <name>KxInsertPicturesToMultiSlide</name>
     <message>
         <source>Unidentifiable picture format.</source>
-        <translation>Format poză neidentificabil.</translation>
+        <translation type="obsolete">Format poză neidentificabil.</translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
-        <translation>Poza pe care ați introdus-o este prea mare. Comprimați-o pentru a salva spațiul pe disc.
+        <translation type="obsolete">Poza pe care ați introdus-o este prea mare. Comprimați-o pentru a salva spațiul pe disc.
 Rețineți că dacă veți comprima pozele se poate reduce calitatea pozelor. Doriți să o(le) comprimați?</translation>
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
-        <translation>Toate pozele(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
+        <translation type="obsolete">Toate pozele(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
         <comment>DgUil_EnhancedMetaFiles</comment>
-        <translation>Windows Enhanced Metafile(*.emf)|*.emf</translation>
+        <translation type="obsolete">Windows Enhanced Metafile(*.emf)|*.emf</translation>
     </message>
     <message>
         <source>Windows Metafile(*.wmf)|*.wmf</source>
-        <translation>Windows Metafile(*.wmf)|*.wmf</translation>
+        <translation type="obsolete">Windows Metafile(*.wmf)|*.wmf</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
-        <translation>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
+        <translation type="obsolete">JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
     </message>
     <message>
         <source>Portable Network Graphics(*.png)|*.png</source>
-        <translation>Portable Network Graphics(*.png)|*.png</translation>
+        <translation type="obsolete">Portable Network Graphics(*.png)|*.png</translation>
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
-        <translation>Windows Bitmap(*.bmp)|*.bmp</translation>
+        <translation type="obsolete">Windows Bitmap(*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
-        <translation>Graphics Interchange Format(*.gif)|*.gif</translation>
+        <translation type="obsolete">Graphics Interchange Format(*.gif)|*.gif</translation>
     </message>
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
-        <translation>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</translation>
+        <translation type="obsolete">Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</translation>
     </message>
 </context>
 <context>
@@ -212,7 +280,7 @@ Rețineți că dacă veți comprima pozele se poate reduce calitatea pozelor. Do
     <name>QObject</name>
     <message>
         <source>There is no %1 font on your system,the text will be shown in a substitute font, do you want to use it anyway?</source>
-        <translation>Nu există fontul %1 în sistem,textul va fi afișat într-un font înlocuitor. Doriți să-l utilizați oricum?</translation>
+        <translation type="obsolete">Nu există fontul %1 în sistem,textul va fi afișat într-un font înlocuitor. Doriți să-l utilizați oricum?</translation>
     </message>
     <message>
         <source>All Fonts</source>
@@ -221,6 +289,42 @@ Rețineți că dacă veți comprima pozele se poate reduce calitatea pozelor. Do
     <message>
         <source>Recent Fonts</source>
         <translation>Fonturi recente</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is no %1 font on your system. The text will be shown in a substitute font. Do you want to use it anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UnderLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LineSpace</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

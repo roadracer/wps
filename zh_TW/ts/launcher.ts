@@ -6,27 +6,27 @@
     <name>KLauncherWidgetClass</name>
     <message>
         <source>KLauncherWidget</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>歡迎使用 WPS Office</translation>
     </message>
     <message>
         <source>Create desktop shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>建立桌面捷徑</translation>
     </message>
 </context>
 <context>
