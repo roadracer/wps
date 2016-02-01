@@ -3,6 +3,7 @@ MAKE_RCC="../dev/make_rcc.sh"
 MAKE_PACKAGE="../dev/make_package.sh"
 MAKE_INSTALL="../dev/make_install.sh"
 MAKE_UPDATE="../dev/make_update.sh"
+MAKE_SYNC="../dev/make_sync.sh"
 LANGID=`basename ${CURDIR}`
 
 ifeq (${USER},root)
@@ -31,6 +32,10 @@ package:
 update:
 	[ -d "$(CODING)" ]
 	@ ${MAKE_UPDATE} $(CODING)
+
+sync:
+	[ -d "$(CODING)" ]
+	@ ${MAKE_SYNC} $(CODING)
 
 install: all uninstall
 	@ ${MAKE_INSTALL}

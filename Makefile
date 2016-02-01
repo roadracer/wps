@@ -5,6 +5,10 @@ update:
 	[ -d "$(CODING)" ]
 	./each_locale $(MAKE) update CODING=$(CODING)
 
+sync:
+	[ -d "$(CODING)" ]
+	./each_locale $(MAKE) sync CODING=$(CODING)
+
 install:
 	./each_locale $(MAKE) install
 
