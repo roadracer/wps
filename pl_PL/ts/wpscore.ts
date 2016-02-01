@@ -589,12 +589,12 @@ Try one or more of the following:
 3、Ensure that the source file is in the appropriate directory.
 4、Ensure that the source file can be supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation type="obsolete">WPS Writer napotkał błąd podczas próby aktualizacji pliku źródłowego.
+        <translation type="obsolete">Program WPS Writer napotkał błąd podczas próby aktualizacji pliku źródłowego.
 Spróbuj wykonać jedną lub więcej z następujących czynności:
-1、Sprawdź czy plik źródłowy jest otwarty lub używany przez inne programy.
-2、Sprawdź czy plik źródłowy jest chroniony.
-3、Upewnij się, że plik źródłowy jest w odpowiednim katalogu.
-4、Upewnij się, że plik źródłowy może być obsługiwany przez WPS.</translation>
+1. Sprawdź czy plik źródłowy jest otwarty lub używany przez inne programy.
+2. Sprawdź czy plik źródłowy jest chroniony.
+3. Upewnij się, że plik źródłowy jest w odpowiednim katalogu.
+4. Upewnij się, że plik źródłowy może być obsługiwany przez WPS.</translation>
     </message>
     <message>
         <source>WPS Writer encountered an error when trying to update source file.
@@ -1257,7 +1257,7 @@ Spróbuj wykonać jedną lub więcej z następujących czynności:
     <message>
         <source>WPS Writer has finished searching the selection.</source>
         <comment>_TxFind_FinishSearchingSelection</comment>
-        <translation>Program WPS Writer zakończył przeszukiwanie zaznaczonego obszaru.</translation>
+        <translation>Program WPS Writer zakończył przeszukiwanie zaznaczonego obszaru </translation>
     </message>
     <message>
         <source>No search item was found.</source>
@@ -3145,7 +3145,7 @@ Czy chcesz go zamienić?</translation>
     <message>
         <source>The mesurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation type="obsolete">Pomiar musi się zawierać w przedziale między -1584 pkt i 1584 pkt.</translation>
+        <translation type="obsolete">Wielkość musi się zawierać w przedziale między -1584 pkt i 1584 pkt.</translation>
     </message>
     <message>
         <source>This style name is already in use or reserved for a built-in style.</source>
@@ -3274,7 +3274,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>builtin.wpt</source>
         <comment>_TxDocument_BuiltInTemplate</comment>
-        <translation type="unfinished">wbudowany.wpt</translation>
+        <translation>wbudowany.wpt</translation>
     </message>
     <message>
         <source>templates</source>
@@ -3377,8 +3377,8 @@ Wypróbuj jedną z następujących czynności.
         <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
 If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
         <comment>_TxDocument_Open_File_Isnot_Exist</comment>
-        <translation>Nie można znaleźć &quot;%s&quot;. Prosimy sprawdzić pisownię nazwy pliku i upewnić się, że lokalizacja pliku jest poprawna.
-Jeśli próbujesz otworzyć plik z listy ostatnio używanych plików w menu Plik, proszę upewnij się, że nazwa pliku nie została zmieniona lub plik nie został przeniesiony lub usunięty.</translation>
+        <translation>Nie można odnaleźć &quot;%s&quot;. Proszę sprawdź pisownię nazwy pliku i upewnij się, że lokalizacja pliku jest poprawna.
+Jeśli próbujesz otworzyć plik z listy ostatnio używanych plików w menu Plik, proszę upewnij się, że nazwa pliku nie została zmieniona oraz plik nie został przeniesiony lub usunięty.</translation>
     </message>
     <message>
         <source>WPS Writer cannot save or create this file.
@@ -3590,7 +3590,7 @@ To continue saving as a macro-free workbook, click Yes.
         <translation>W skoroszytach bez obsługi makr nie można zapisywać następujących funkcji:
  · projekt VB
 Aby zapisać plik z tymi funkcjami, kliknij przycisk Nie, a następnie wybierz typ pliku z włączoną obsługą makr na liście Typ pliku.
-Aby kontynuować zapisywanie w skoroszycie bez obsługi makr, kliknij przycisk Tak.</translation>
+Aby kontynuować zapisywanie skoroszytu jako pliku bez obsługi makr, kliknij przycisk Tak.</translation>
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.wpsx; *.doc; *.dot; *.rtf; *.docx)</source>
@@ -3627,12 +3627,8 @@ Proszę wypróbuj jedną z następujących czynności:
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog dla kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog dla kopii zapasowych.
-Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
-            <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowych.
-Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
-        </translation>
+        <translation type="obsolete">Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowych.
+Ta kopia zapasowa zostanie zapisana do (%s)</translation>
     </message>
     <message>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
@@ -4935,7 +4931,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
         <comment>wps_sVBAMacroSecurityError</comment>
-        <translation type="obsolete">Program WPS Writer napotkał błąd podczas dostosowywania zabezpieczeń makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane.</translation>
+        <translation type="obsolete">Program WPS Writer napotkał błąd podczas dostosowywania bezpieczeństwa makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane.</translation>
     </message>
     <message>
         <source>Web Page</source>
@@ -5544,12 +5540,12 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>.</source>
         <comment>TxAboutText</comment>
-        <translation type="unfinished">.</translation>
+        <translation>.</translation>
     </message>
     <message>
         <source>.</source>
         <comment>TxAboutCaption</comment>
-        <translation type="unfinished">.</translation>
+        <translation>.</translation>
     </message>
     <message>
         <source>All Files(*.*) | *.*; |</source>
@@ -6733,7 +6729,7 @@ zmiany</translation>
     <message>
         <source>Mail Merge Toolbar</source>
         <comment>TXShell_MailMerge_Caption</comment>
-        <translation>Pasek narzędzi korespondencji seryjnej</translation>
+        <translation>Korespondencja seryjna, Pasek narzędzi</translation>
     </message>
     <message>
         <source>Spell 
@@ -7845,7 +7841,7 @@ pisowni</translation>
     <message>
         <source>Insert DocumentField</source>
         <comment>TxVersion_InsDocumentField</comment>
-        <translation type="unfinished">Wstaw pole dokumentu</translation>
+        <translation>Wstaw pole dokumentu</translation>
     </message>
     <message>
         <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>

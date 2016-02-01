@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -94,10 +94,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kroplomierz</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -796,10 +793,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kroplomierz</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -964,10 +958,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kroplomierz</translation>
     </message>
     <message>
         <source>Stacked</source>
@@ -1410,10 +1401,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kroplomierz</translation>
     </message>
 </context>
 <context>
@@ -1700,10 +1688,7 @@ slajdów</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kroplomierz</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -1978,7 +1963,7 @@ slajdów</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>Wyrównanie WordArt</translation>
+        <translation>Wyrównanie tekstu WordArt</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
@@ -3829,7 +3814,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished">Eksportuj do OFD</translation>
+        <translation>Eksportuj do OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -4361,10 +4346,7 @@ Efekty</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
-            <lengthvariant>Kontrola komórki</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kontrola telefonu komórkowego</translation>
     </message>
     <message>
         <source>Center</source>
@@ -4574,10 +4556,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wstaw obraz w trybie online</lengthvariant>
-            <lengthvariant>Wstawianie obrazu w trybie online</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wstaw obraz w trybie online</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -5007,8 +4986,8 @@ w tle</translation>
     <message>
         <source>Header and 
 Footer</source>
-        <translation>Nagłówek i 
-stopka</translation>
+        <translation>Nagłówek
+ i stopka</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -5136,7 +5115,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Slide Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteka slajdów</translation>
     </message>
     <message>
         <source>Slide Number</source>
@@ -5144,7 +5123,7 @@ slajdu</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
-        <translation>Biblioteka slajdów</translation>
+        <translation type="unfinished">Biblioteka slajdów</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -5580,12 +5559,7 @@ slajdu</translation>
     </message>
     <message>
         <source>FitText Tip</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Dopasuj tekst Porada</lengthvariant>
-            <lengthvariant>Dopasowanie tekstu Porada</lengthvariant>
-            <lengthvariant>Dopasuj tekst Wskazówka</lengthvariant>
-            <lengthvariant>Dopasowanie tekstu Wskazówka</lengthvariant>
-        </translation>
+        <translation type="obsolete">Porada dopasowania tekstu</translation>
     </message>
     <message>
         <source>Left Hanging</source>
@@ -5848,10 +5822,7 @@ obrazy</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wstaw obraz w trybie online</lengthvariant>
-            <lengthvariant>Wstawianie obrazu w trybie online</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wstaw obraz w trybie online</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -6037,10 +6008,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Soft Edges</source>
@@ -6129,8 +6097,8 @@ slajdów</translation>
     <message>
         <source>Header and 
 Footer</source>
-        <translation>Nagłówek i 
-stopka</translation>
+        <translation>Nagłówek
+ i stopka</translation>
     </message>
     <message>
         <source>Landscape</source>
@@ -6464,10 +6432,7 @@ cienia</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kroplomierz</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -6727,10 +6692,7 @@ wzorca</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
-            <lengthvariant>Kontrola komórki</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kontrola telefonu komórkowego</translation>
     </message>
     <message>
         <source>Custom 
@@ -7750,10 +7712,7 @@ cienia</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kroplomierz</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -8284,7 +8243,7 @@ WordArt</translation>
     <message>
         <source>WordArt 
 Shape</source>
-        <translation>Kształt  
+        <translation>Kształt tekstu 
 WordArt</translation>
     </message>
     <message>
@@ -8319,10 +8278,7 @@ WordArt</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
-            <lengthvariant>Kontrola komórki</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kontrola telefonu komórkowego</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -8451,7 +8407,7 @@ WordArt</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished">Opinie użytkowników</translation>
+        <translation>Opinie użytkowników</translation>
     </message>
     <message>
         <source>Video Exporting</source>
@@ -9256,7 +9212,7 @@ COM</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished">Eksportuj do OFD</translation>
+        <translation>Eksportuj do OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -9634,7 +9590,7 @@ powiązany</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation>Wiersz</translation>
+        <translation>Linia</translation>
     </message>
     <message>
         <source>Line Break</source>
@@ -10267,10 +10223,7 @@ slajdów</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -10446,10 +10399,7 @@ slajdów</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
-            <lengthvariant>WPS dla firm</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wersja WPS Business</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
@@ -12664,10 +12614,7 @@ powiązany</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
-            <lengthvariant>Kontrola komórki</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kontrola telefonu komórkowego</translation>
     </message>
     <message>
         <source>Center</source>
@@ -12869,10 +12816,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wstaw obraz w trybie online</lengthvariant>
-            <lengthvariant>Wstawianie obrazu w trybie online</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wstaw obraz w trybie online</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -13347,10 +13291,7 @@ Footer</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wstaw obraz w trybie online</lengthvariant>
-            <lengthvariant>Wstawianie obrazu w trybie online</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wstaw obraz w trybie online</translation>
     </message>
     <message>
         <source>InsertNewChart2</source>
@@ -13415,7 +13356,7 @@ Number</source>
     </message>
     <message>
         <source>Slide Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteka slajdów</translation>
     </message>
     <message>
         <source>Slide Number</source>
@@ -13423,7 +13364,7 @@ Number</source>
     </message>
     <message>
         <source>SlideLibrary</source>
-        <translation>Biblioteka slajdów</translation>
+        <translation type="unfinished">Biblioteka slajdów</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -13734,12 +13675,7 @@ podwładnego</translation>
     </message>
     <message>
         <source>FitText Tip</source>
-        <translation variants="yes">
-            <lengthvariant>Dopasuj tekst Porada</lengthvariant>
-            <lengthvariant>Dopasowanie tekstu Porada</lengthvariant>
-            <lengthvariant>Dopasuj tekst Wskazówka</lengthvariant>
-            <lengthvariant>Dopasowanie tekstu Wskazówka</lengthvariant>
-        </translation>
+        <translation>Porada dopasowania tekstu</translation>
     </message>
     <message>
         <source>Left Hanging</source>
@@ -14559,10 +14495,7 @@ podwładnego</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kroplomierz</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -14670,10 +14603,7 @@ slajdów</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
-            <lengthvariant>Kontrola komórki</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kontrola telefonu komórkowego</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
@@ -14693,7 +14623,10 @@ slajdów</translation>
     </message>
     <message>
         <source>Set Up</source>
-        <translation>Przygotuj</translation>
+        <translation variants="yes">
+            <lengthvariant>Ustaw</lengthvariant>
+            <lengthvariant>Przygotuj</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Set Up Show</source>
@@ -15338,7 +15271,10 @@ Efekty</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Niestandardowy</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Depth</source>
@@ -15390,7 +15326,10 @@ Efekty</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normalny</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalny</lengthvariant>
+            <lengthvariant>Normalne</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
@@ -15446,10 +15385,7 @@ cienia</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kroplomierz</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -15620,7 +15556,10 @@ cienia</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Niestandardowy</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dash</source>
@@ -15788,7 +15727,10 @@ cienia</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normalny</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalne</lengthvariant>
+            <lengthvariant>Normalny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -15983,10 +15925,7 @@ cienia</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
-            <lengthvariant>Kontrola komórki</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kontrola telefonu komórkowego</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -16094,7 +16033,7 @@ cienia</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
-        <translation>Biblioteka slajdów</translation>
+        <translation type="unfinished">Biblioteka slajdów</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -16115,7 +16054,7 @@ cienia</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished">Opinie użytkowników</translation>
+        <translation>Opinie użytkowników</translation>
     </message>
     <message>
         <source>Video Exporting</source>
@@ -16301,7 +16240,7 @@ cienia</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished">Opinie użytkowników</translation>
+        <translation>Opinie użytkowników</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -16313,11 +16252,7 @@ cienia</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
-            <lengthvariant>WPS dla firm</lengthvariant>
-            <lengthvariant></lengthvariant>
-        </translation>
+        <translation type="obsolete">Wersja WPS Business</translation>
     </message>
     <message>
         <source>true</source>
@@ -17263,14 +17198,11 @@ slajdu</translation>
     </message>
     <message>
         <source>change template</source>
-        <translation>zmień szablon</translation>
+        <translation type="unfinished">zmień szablon</translation>
     </message>
     <message>
         <source>magic</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>magia</lengthvariant>
-            <lengthvariant>magic</lengthvariant>
-        </translation>
+        <translation type="obsolete">magic</translation>
     </message>
     <message>
         <source>statusbar</source>
@@ -17571,10 +17503,7 @@ slajdu</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
-            <lengthvariant>WPS dla firm</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wersja WPS Business</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -17839,10 +17768,7 @@ slajdu</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
-            <lengthvariant>WPS dla firm</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wersja WPS Business</translation>
     </message>
     <message>
         <source>What&apos;s New</source>

@@ -262,7 +262,7 @@
     </message>
     <message>
         <source>Click Read-Write to open it for editing.</source>
-        <translation>Kliknij przycisk Odczyt/Zapis, aby otworzyć do edycji.</translation>
+        <translation>Kliknij przycisk Odczyt/Zapis, aby otworzyć go do edycji.</translation>
     </message>
     <message>
         <source>Read-&amp;Write</source>
@@ -801,7 +801,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Number Filter(F)</source>
-        <translation type="obsolete">Filtr numeru(F)</translation>
+        <translation type="obsolete">Filtr numeru (&amp;F)</translation>
     </message>
     <message>
         <source>Date Filter</source>
@@ -809,7 +809,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Date Filter(F)</source>
-        <translation type="obsolete">Filtr daty(F)</translation>
+        <translation type="obsolete">Filtr daty (&amp;F)</translation>
     </message>
     <message>
         <source>Text Filter</source>
@@ -817,7 +817,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Text Filter(F)</source>
-        <translation type="obsolete">Filtr tekstu(F)</translation>
+        <translation type="obsolete">Filtr tekstu (&amp;F)</translation>
     </message>
     <message>
         <source>Not Equal To</source>
@@ -857,15 +857,15 @@ condition is true:</source>
     </message>
     <message>
         <source>Ascending(S)</source>
-        <translation type="unfinished">Rosnąco (S)</translation>
+        <translation>Rosnąco (&amp;R)</translation>
     </message>
     <message>
         <source>Descending(O)</source>
-        <translation type="unfinished">Malejąco (O)</translation>
+        <translation>Malejąco (&amp;M)</translation>
     </message>
     <message>
         <source>Clear(C)</source>
-        <translation type="obsolete">Wyczyść(C)</translation>
+        <translation type="obsolete">Wyczyść (&amp;W)</translation>
     </message>
     <message>
         <source>Filter by Value</source>
@@ -2269,7 +2269,7 @@ Use it when:
     </message>
     <message>
         <source>Highlight-Value</source>
-        <translation type="obsolete">Wyróżnienie - wartość</translation>
+        <translation type="obsolete">Wyróżnienie - Wartość</translation>
     </message>
     <message>
         <source>Equal to</source>
@@ -2337,7 +2337,7 @@ Use it when:
     </message>
     <message>
         <source>Highlight-Text</source>
-        <translation type="obsolete">Wyróżnienie - tekst</translation>
+        <translation type="obsolete">Wyróżnienie - Tekst</translation>
     </message>
     <message>
         <source>Contain</source>
@@ -2349,15 +2349,15 @@ Use it when:
     </message>
     <message>
         <source>Begin with</source>
-        <translation type="obsolete">Zaczyna się</translation>
+        <translation type="obsolete">Zaczyna się od</translation>
     </message>
     <message>
         <source>End with</source>
-        <translation type="obsolete">Kończy się</translation>
+        <translation type="obsolete">Kończy się na</translation>
     </message>
     <message>
         <source>Highlight-Date</source>
-        <translation type="obsolete">Wyróżnienie - data</translation>
+        <translation type="obsolete">Wyróżnienie - Data</translation>
     </message>
     <message>
         <source>A Date Occurring</source>
@@ -2409,7 +2409,7 @@ Use it when:
     </message>
     <message>
         <source>Highlight-Special Value</source>
-        <translation type="obsolete">Wyróżnienie - wartość specjalna</translation>
+        <translation type="obsolete">Wyróżnienie - Wartość specjalna</translation>
     </message>
     <message>
         <source>Empty Cell</source>
@@ -3362,7 +3362,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Use another &amp;pivotTable:</source>
-        <translation type="obsolete">Użyj innej &amp;tabeli przestawnej:</translation>
+        <translation type="obsolete">Użyj innej &amp;Tabeli przestawnej:</translation>
     </message>
     <message>
         <source>Choose where you want the pivotTable to be placed</source>
@@ -5733,7 +5733,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished">Pomóż nam ulepszyć WPS Office</translation>
+        <translation>Pomóż nam ulepszyć WPS Office</translation>
     </message>
     <message>
         <source>Display the tab bar at the bottom of doc&amp;ument</source>
@@ -6628,7 +6628,7 @@ przed udostępnianiem skoroszytu.</translation>
         <source>%d duplicates are found;
 Only %d unique value can be keep after delete.</source>
         <translation type="obsolete">znaleziono %d duplikatów;
-Tylko unikatowa wartość %d może być zachowana po usunięciu.</translation>
+Tylko wartość unikatowa %d może być zachowana po usunięciu.</translation>
     </message>
     <message>
         <source>&amp;Remove Duplicates</source>
@@ -6707,11 +6707,11 @@ Tylko wartości unikatowe %2 zostaną pozostawione po usunięciu.</translation>
     </message>
     <message>
         <source>Accept All for Current User</source>
-        <translation type="obsolete">Zaakceptuj wszystkie dla bieżącego użytkownika</translation>
+        <translation type="obsolete">Zaakceptuj wszystkie bieżącego użytkownika</translation>
     </message>
     <message>
         <source>Accept All Other Users</source>
-        <translation type="obsolete">Zaakceptuj wszystkich innych użytkowników</translation>
+        <translation type="obsolete">Zaakceptuj wszystkie innych użytkowników</translation>
     </message>
     <message>
         <source>Your Changes</source>
@@ -6746,7 +6746,7 @@ Tylko wartości unikatowe %2 zostaną pozostawione po usunięciu.</translation>
     </message>
     <message>
         <source>Other users may have committed some changes which cannot be identified by WPS Spreadsheets. Click Continue will save the file and discard the changes, while click Save As will save a copy of the current file.</source>
-        <translation type="obsolete">Inni użytkownicy mogli zatwierdzić kilka zmian, które nie mogą być zidentyfikowane przez program WPS Spreadsheets. Kliknięcie &quot;Kontynuuj&quot; pozwoli zapisać plik i odrzuć zmiany, natomiast kliknięcie &quot;Zapisz jako&quot; spowoduje zapisanie kopii bieżącego pliku.</translation>
+        <translation type="obsolete">Inni użytkownicy mogli dodać kilku zmian, które nie mogą być zidentyfikowane przez program WPS Spreadsheets. Kliknięcie przycisku Kontynuuj pozwoli zapisać plik i odrzuć zmiany, natomiast kliknięcie przycisku Zapisz jako spowoduje zapisanie kopii bieżącego pliku.</translation>
     </message>
     <message>
         <source>&amp;Save As</source>
@@ -8833,31 +8833,31 @@ style for the table</source>
     <name>KxExportOFDDlg</name>
     <message>
         <source>Save OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz plik OFD</translation>
     </message>
     <message>
         <source>OFD File(*.ofd)|*.ofd</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik OFD (*.ofd)|*.ofd</translation>
     </message>
     <message>
         <source>The specified path does not exist, enter a valid one please.</source>
-        <translation type="unfinished">Określona ścieżka nie istnieje, proszę wprowadzić prawidłową.</translation>
+        <translation>Określona ścieżka nie istnieje, proszę wprowadzić prawidłową.</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
-        <translation type="unfinished">Określony plik już istnieje. Czy chcesz go zastąpić i kontynuować?</translation>
+        <translation>Określony plik już istnieje. Czy chcesz go zastąpić i kontynuować?</translation>
     </message>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation type="unfinished">Hasło potwierdzające nie jest identyczne.</translation>
+        <translation>Hasło potwierdzające nie jest identyczne.</translation>
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
-        <translation type="unfinished">Proszę wprowadź hasło ustawienia uprawnień!</translation>
+        <translation>Proszę wprowadź hasło ustawienia uprawnień!</translation>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
-        <translation type="unfinished">Hasło otwarcia pliku i hasło uprawnienia muszą być różne. Wprowadź hasło ponownie.</translation>
+        <translation>Hasło otwarcia pliku i hasło uprawnienia muszą być różne. Wprowadź hasło ponownie.</translation>
     </message>
 </context>
 <context>
@@ -8895,47 +8895,47 @@ style for the table</source>
     <name>KxExportToOFDProgressDlg</name>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Przygotowywanie do eksportowania pliku OFD...</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
-        <translation type="unfinished">Eksportowanie podsumowania...</translation>
+        <translation>Eksportowanie podsumowania...</translation>
     </message>
     <message>
         <source>Exporting page </source>
-        <translation type="unfinished">Eksportowanie strony </translation>
+        <translation>Eksportowanie strony </translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
-        <translation type="unfinished">Eksportowanie etykiet...</translation>
+        <translation>Eksportowanie etykiet...</translation>
     </message>
     <message>
         <source>Exporting OFD file is completing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportowanie pliku OFD jest zakończane...</translation>
     </message>
     <message>
         <source>Encountered an error when opening OFD file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd podczas otwierania pliku OFD!</translation>
     </message>
     <message>
         <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konwerter OFD napotkał problem alokacji pamięci. Należy zmniejszyć rozmiar dokumentu lub rozmiar obrazu.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets encountered an error while trying exporting to OFD.</source>
-        <translation type="unfinished"></translation>
+        <translation>Program WPS Spreadsheets napotkał błąd podczas próby eksportowania do formatu OFD.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Exporting OFD file is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportowanie pliku OFD jest zakończone.</translation>
     </message>
 </context>
 <context>
@@ -9905,7 +9905,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>%1 If you need to edit this file in WPS Spreadsheets, please make sure that others is no longer editing, and transform the file %2 to a shared workbook %3 of WPS Spreadsheets.</source>
-        <translation type="obsolete">%1 Jeśli potrzebujesz edytować ten plik w programie WPS Spreadsheets, proszę upewnij się, że inni zakończyli edycję tego pliku, a następnie przekształć plik%2 do skoroszytu udostępnionego%3 programu WPS Spreadsheets.</translation>
+        <translation type="obsolete">%1 Jeśli potrzebujesz edytować ten plik w programie WPS Spreadsheets, proszę upewnij się, że inni użytkownicy zakończyli edycję tego pliku, a następnie przekształć plik%2 do skoroszytu udostępnionego%3 programu WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>%1 If you only need to view content, please select %2 Read-only %3.</source>
@@ -10020,7 +10020,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Delete from &amp;List</source>
-        <translation>Usuń z &amp;isty</translation>
+        <translation>Usuń z &amp;listy</translation>
     </message>
     <message>
         <source>Delete from &amp;Disk</source>
@@ -10080,10 +10080,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</lengthvariant>
-            <lengthvariant>Nie masz uprawnień do zapisu plików kopii zapasowej w &quot;%1&quot;.</lengthvariant>
-        </translation>
+        <translation type="obsolete">Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
@@ -10604,14 +10601,11 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
         <source>%1 duplicates are found;
 Only %2 unique value can be keep after delete.</source>
         <translation type="obsolete">znaleziono %1 duplikatów;
-Tylko unikatowa wartość %2 może być zachowana po usunięciu.</translation>
+Tylko wartość unikatowa %2 może być zachowana po usunięciu.</translation>
     </message>
     <message>
         <source>%1 duplicates are found, which have been deleted; Only keep %2 unique value.</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>%1 znalezionych duplikatów, które zostały usunięte; Zachowano tylko %2 o unikatowej wartości.</lengthvariant>
-            <lengthvariant>Znaleziono %1 duplikatów, które zostały usunięte; Zachowano tylko %2 o unikatowej wartości.</lengthvariant>
-        </translation>
+        <translation type="obsolete">znaleziono %1 duplikatów, które zostały usunięte; Zachowano tylko %2 o wartości unikatowej.</translation>
     </message>
     <message>
         <source>%1 duplicates are found;
@@ -10663,8 +10657,8 @@ komórki te będą miały ustawiony pomarańczowy kolor tła.
 system will remind checking the correctness of the contents.
 
 (Note: The function only supports single range)</source>
-        <translation type="obsolete">Kiedy zostaną wprowadzone zduplikowane zawartości w nastepującym zakresie,
- system będzie przypominał o sprawdzaniu poprawności zawartości.
+        <translation type="obsolete">Kiedy zduplikowane zawartości są wprowadzone w nastepującym zakresie,
+system będzie przypominał o sprawdzaniu poprawności zawartości.
 
 (Uwaga: Funkcja obsługuje tylko pojedynczy zakres)</translation>
     </message>
@@ -10937,7 +10931,7 @@ system będzie przypominał o sprawdzaniu poprawności zawartości.
     </message>
     <message>
         <source>Select the IPOPT Nonlinear engine for Solver Problems that are smooth nonlinear.</source>
-        <translation>W przypadku gładkich nieliniowych problemów dodatku Solver wybierz aparat nieliniowy IPOPT.</translation>
+        <translation>W przypadku gładkich nieliniowych problemów dodatku Solver wybierz aparat nieliniowy IPOPT. </translation>
     </message>
 </context>
 <context>
@@ -11616,7 +11610,7 @@ system będzie przypominał o sprawdzaniu poprawności zawartości.
     <name>KxTpEtPivotTable</name>
     <message>
         <source>Drag items to the pivotTable areas</source>
-        <translation type="obsolete">Przeciągnij elementy do obszarów tabeli przestawnej</translation>
+        <translation type="obsolete">Przeciągnij elementy do obszaru tabeli przestawnej</translation>
     </message>
     <message>
         <source>Drag fields between areas below</source>
@@ -12649,10 +12643,7 @@ t</translation>
     </message>
     <message>
         <source>Context Reading Order</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kolejność czytania kontekstu</lengthvariant>
-            <lengthvariant>Kolejność odczytywania kontekstu</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kolejność czytania kontekstu</translation>
     </message>
     <message>
         <source>Rotated down %1 Degrees</source>
@@ -13436,11 +13427,11 @@ t</translation>
     </message>
     <message>
         <source>&quot;Another user&quot; is editing.</source>
-        <translation type="obsolete">&quot;Inny użytkownik&quot; edytuje.</translation>
+        <translation type="obsolete">Jest edytowany przez &quot;Innego użytkownika&quot;.</translation>
     </message>
     <message>
         <source>Click Notify to open a read-only copy of the document and receive notification when the document is no longer in use.</source>
-        <translation>Kliknij przycisk Powiadom, aby otworzyć kopię tylko do odczytu dokumentu i otrzymać powiadomienie gdy dokument przestanie być używany.</translation>
+        <translation>Kliknij przycisk Powiadom, aby otworzyć kopię dokumentu tylko do odczytu i otrzymać powiadomienie, gdy dokument przestanie być używany.</translation>
     </message>
     <message>
         <source>&amp;Read-Only</source>
@@ -13519,7 +13510,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please select the target table to be imported from the combo box, all fieldss will be listed in the left list box, select the fields needed to be imported there, the selected fields will be listed in the right list box.</source>
-        <translation type="obsolete">Wybierz tabelę docelową do zaimportowania z pola kombi, wszystkie pola zostaną wyświetlone w polu listy po lewej stronie, wybierz pola potrzebne do zaimportowania tam, wybrane pola zostaną wyświetlone w polu listy po prawej stronie.</translation>
+        <translation type="obsolete">Wybierz tabelę docelową do zaimportowania z pola kombi. Wszystkie pola zostaną wyświetlone w polu listy po lewej stronie. Wybierz pola używane do zaimportowania, które zostaną wyświetlone w polu listy po prawej stronie.</translation>
     </message>
     <message>
         <source>Please select the target table to be imported from the combo box. All fields will be listed in the left list box. Select the fields needed to be imported there, and the selected fields will be listed in the right list box.</source>
@@ -14142,115 +14133,115 @@ p, li { white-space: pre-wrap; }
     <name>kdlgExportToOFD</name>
     <message>
         <source>Export to OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj do pliku OFD</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished">Normalne</translation>
+        <translation>Normalne</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished">Zapisz &amp;do</translation>
+        <translation>Zapisz &amp;do</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">&amp;Przeglądaj...</translation>
+        <translation>&amp;Przeglądaj...</translation>
     </message>
     <message>
         <source>Export range</source>
-        <translation type="unfinished">Zakres eksportowania</translation>
+        <translation>Zakres eksportowania</translation>
     </message>
     <message>
         <source>Active &amp;Sheet</source>
-        <translation type="unfinished">Aktywny &amp;arkusz</translation>
+        <translation>Aktywny &amp;arkusz</translation>
     </message>
     <message>
         <source>&amp;Entire Workbook</source>
-        <translation type="unfinished">&amp;Cały skoroszyt</translation>
+        <translation>&amp;Cały skoroszyt</translation>
     </message>
     <message>
         <source>Export options</source>
-        <translation type="unfinished">Opcje eksportowania</translation>
+        <translation>Opcje eksportowania</translation>
     </message>
     <message>
         <source>Summary &amp;information</source>
-        <translation type="unfinished">Podsumowan&amp;ie</translation>
+        <translation>Podsumowan&amp;ie</translation>
     </message>
     <message>
         <source>Hyper&amp;link</source>
-        <translation type="unfinished">&amp;Hiperłącze</translation>
+        <translation>&amp;Hiperłącze</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
-        <translation type="unfinished">Nowy &amp;komentarz</translation>
+        <translation>Nowy &amp;komentarz</translation>
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation type="unfinished">Ustawienia uprawnień</translation>
+        <translation>Ustawienia uprawnień</translation>
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation type="unfinished">Hasło do ochrony ustawienia uprawnień</translation>
+        <translation>Hasło ochrony ustawień uprawnień</translation>
     </message>
     <message>
         <source>Pass&amp;word:</source>
-        <translation type="unfinished">Ha&amp;sło:</translation>
+        <translation>Ha&amp;sło:</translation>
     </message>
     <message>
         <source>C&amp;onfirm:</source>
-        <translation type="unfinished">P&amp;otwierdź:</translation>
+        <translation>P&amp;otwierdź:</translation>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
-        <translation type="unfinished">Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
+        <translation>Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>Permit to modi&amp;fy</source>
-        <translation type="unfinished">Zezwalaj na mo&amp;dyfikowanie</translation>
+        <translation>Zezwalaj na mo&amp;dyfikowanie</translation>
     </message>
     <message>
         <source>Permit to cop&amp;y</source>
-        <translation type="unfinished">Zezwalaj na kopiowani&amp;e</translation>
+        <translation>Zezwalaj na kopiowani&amp;e</translation>
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation type="unfinished">Zezwalaj na &amp;dodawanie komentarzy</translation>
+        <translation>Zezwalaj na &amp;dodawanie komentarzy</translation>
     </message>
     <message>
         <source>&amp;Printing permission:</source>
-        <translation type="unfinished">Uprawnienia &amp;drukowania:</translation>
+        <translation>Uprawnienia &amp;drukowania:</translation>
     </message>
     <message>
         <source>Printing Permission</source>
-        <translation type="unfinished">Uprawnienia drukowania</translation>
+        <translation>Uprawnienia drukowania</translation>
     </message>
     <message>
         <source>Free printing</source>
-        <translation type="unfinished">Drukowanie bez ograniczeń</translation>
+        <translation>Drukowanie bez ograniczeń</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished">Drukowanie niedozwolone</translation>
+        <translation>Drukowanie niedozwolone</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
-        <translation type="unfinished">Niska jakość druku</translation>
+        <translation>Niska jakość druku</translation>
     </message>
     <message>
         <source>File password:</source>
-        <translation type="unfinished">Hasło pliku:</translation>
+        <translation>Hasło pliku:</translation>
     </message>
     <message>
         <source>Passwor&amp;d:</source>
-        <translation type="unfinished">Hasł&amp;o:</translation>
+        <translation>Hasł&amp;o:</translation>
     </message>
     <message>
         <source>Confir&amp;m:</source>
-        <translation type="unfinished">Po&amp;twierdź:</translation>
+        <translation>Po&amp;twierdź:</translation>
     </message>
     <message>
         <source>Close w&amp;hen export completes</source>
-        <translation type="unfinished">Zamknij &amp;po zakończeniu eksportowania</translation>
+        <translation>Zamknij &amp;po zakończeniu eksportowania</translation>
     </message>
     <message>
         <source>Select OFD Service Provider</source>
@@ -14269,19 +14260,19 @@ p, li { white-space: pre-wrap; }
     <name>kdlgExportToOFDProgress</name>
     <message>
         <source>Export to OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj do pliku OFD</translation>
     </message>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Przygotowywanie do eksportowania pliku OFD...</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished">&amp;Otwórz plik</translation>
+        <translation>&amp;Otwórz plik</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -14376,7 +14367,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation type="obsolete">Hasło do ochrony ustawienia uprawnień</translation>
+        <translation type="obsolete">Hasło ochrony ustawień uprawnień</translation>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
@@ -14662,17 +14653,11 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Step s&amp;ize:</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>W&amp;ielkość kroku:</lengthvariant>
-            <lengthvariant>Rozm&amp;iar kroku:</lengthvariant>
-        </translation>
+        <translation type="obsolete">W&amp;ielkość kroku:</translation>
     </message>
     <message>
         <source>&amp;Page step size:</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wielkość kroku &amp;strony:</lengthvariant>
-            <lengthvariant>Rozmiar kroku &amp;strony:</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wielkość kroku &amp;strony:</translation>
     </message>
     <message>
         <source>&amp;3-D shading</source>
@@ -14762,7 +14747,7 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>&amp;Move but do not re&amp;size cells</source>
-        <translation type="unfinished">&amp;Przenieś, ale nie zmieniaj roz&amp;miaru komórek</translation>
+        <translation>&amp;Przenieś, ale nie zmieniaj roz&amp;miaru komórek</translation>
     </message>
     <message>
         <source>&amp;Do not move or resize cells</source>
@@ -14910,7 +14895,7 @@ Do you want to change to Manual Recalculation?</source>
     <message>
         <source>The file you are opening changes the option of Automatic to Manual, which would cause the current file and other files cannot get the correct results in time during the editing process.
 Do you want to change to Manual?</source>
-        <translation type="obsolete">Plik który otwierasz zmienia opcję z Automatycznie na Ręcznie, co mogłoby spowodować, że bieżący plik oraz inne pliki nie mogą uzyskać poprawnych wyników w trakcie procesu edycji.
+        <translation type="obsolete">Otwierany plik zmienia opcje Automatycznie na Ręcznie, co uniemożliwia uzyskanie poprawnych wyników w trakcie procesu edycji bieżącego pliku oraz innych plików.
 Czy chcesz zmienić na Ręcznie?</translation>
     </message>
     <message>

@@ -946,7 +946,7 @@ Wybierz pojedynczy region, a następnie wykonaj to polecenie ponownie.</translat
         <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
 If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
         <comment>TX_Open_File_Isnot_Exist</comment>
-        <translation>Nie można odnaleźć &quot;%s&quot;. Proszę sprawdź pisownię nazwy pliku i upewnić się, że lokalizacja pliku jest poprawna.
+        <translation>Nie można odnaleźć &quot;%s&quot;. Proszę sprawdź pisownię nazwy pliku i upewnij się, że lokalizacja pliku jest poprawna.
 Jeśli próbujesz otworzyć plik z listy ostatnio używanych plików w menu Plik, proszę upewnij się, że nazwa pliku nie została zmieniona oraz plik nie został przeniesiony lub usunięty.</translation>
     </message>
     <message>
@@ -2498,12 +2498,8 @@ Jeśli chcesz kontynuować importowanie, dane mogą być zamieszczone, kliknij p
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog dla kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog dla kopii zapasowych.
-Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
-            <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowych.
-Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
-        </translation>
+        <translation type="obsolete">Występują błędy podczas tworzenia kopii zapasowej! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowej, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowej.
+Ta kopia zapasowa zostanie zapisana do (%s)</translation>
     </message>
     <message>
         <source>Too much data returned by the query, can not be contained in a worksheet.
@@ -2528,7 +2524,7 @@ Aby anulować kwerendę, kliknij przycisk &quot;Anuluj&quot;.</translation>
     <message>
         <source>Since the last one column contains data, WPS Spreadsheets can not insert columns. You will not get any data.</source>
         <comment>TX_No_Available_Sheet_Columns</comment>
-        <translation type="obsolete">Ponieważ ostatnia kolumna zawiera dane, program WPS Spreadsheet nie może wstawić kolumn. Nie otrzymasz żadnych danych.</translation>
+        <translation type="obsolete">Ponieważ ostatnia kolumna zawiera dane, program WPS Spreadsheet nie może wstawić kolumn. Nie uzyskasz żadnych danych.</translation>
     </message>
     <message>
         <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
@@ -2543,7 +2539,7 @@ Aby anulować kwerendę, kliknij przycisk &quot;Anuluj&quot;.</translation>
     <message>
         <source>To paste all cells from an worksheet into the current worksheet, you must paste into the first cell (A1 or R1C1).</source>
         <comment>TX_ERROR_INVALIDPASTERG_SHEET</comment>
-        <translation type="unfinished">Aby wkleić wszystkie komórki z arkusza do bieżącego arkusza, musisz wkleić je do pierwszej komórki (A1 lub W1K1).</translation>
+        <translation>Aby wkleić wszystkie komórki z arkusza do bieżącego arkusza, musisz wkleić je do pierwszej komórki (A1 lub W1K1).</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -3346,7 +3342,7 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>No RETURN() or HALT() function fount on macro sheet.</source>
         <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
-        <translation type="obsolete">W arkuszu makr nie napotkano funkcji POWRÓT() lub ZAKOŃCZ().</translation>
+        <translation type="obsolete">W arkuszu makr nie znaleziono funkcji POWRÓT() lub ZAKOŃCZ().</translation>
     </message>
     <message>
         <source>Invalid reference argument at:</source>
@@ -3646,11 +3642,7 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>You cannot perform next operation due to one of the following reasons: You have not selected a valid data source.The connection string is blank.The string you typed is not corret.The generated connection failed.</source>
         <comment>TX_ETDBE_ERR_CONNECTFAIL</comment>
-        <translation type="obsolete">Nie można wykonać następnej operacji z powodu jednej z następujących przyczyn:
- Nie wybrano poprawnego źródła danych.
- Ciąg połączenia jest pusty.
- Wpisany ciąg nie jest poprawny.
- Wygenerowane połączenie nie powiodło się.</translation>
+        <translation type="obsolete">Nie można wykonać następnej operacji z powodu jednej z następujących przyczyn: Nie wybrano poprawnego źródła danych. Ciąg połączenia jest pusty. Wpisany ciąg nie jest poprawny. Wygenerowane połączenie nie powiodło się.</translation>
     </message>
     <message>
         <source>You cannot perform next operation due to one of the following reasons:
@@ -4165,7 +4157,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>HOUR(serial_number)</source>
         <comment>HOUR_GRAMMER</comment>
-        <translation>GODZINA(liczba_kolejna)</translation>
+        <translation>GODZINA(kolejna_liczba)</translation>
     </message>
     <message>
         <source>Returns the hour as a number from 0(12:00 A.M.) to 23(11:00 P.M.).</source>
@@ -4175,7 +4167,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>MINUTE(serial_number)</source>
         <comment>MINUTE_GRAMMER</comment>
-        <translation>MINUTA(liczba_kolejna)</translation>
+        <translation>MINUTA(kolejna_liczba)</translation>
     </message>
     <message>
         <source>Returns the minute, a number from 0 to 59.</source>
@@ -4185,7 +4177,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>MONTH(serial_number)</source>
         <comment>MONTH_GRAMMER</comment>
-        <translation>MIESIĄC(liczba_kolejna)</translation>
+        <translation>MIESIĄC(kolejna_liczba)</translation>
     </message>
     <message>
         <source>Returns the month, a number from 1(January) to 12(December).</source>
@@ -4200,7 +4192,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the number of whole workdays between two dates.(Workdays don&apos;t include weekends and legal holidays.)</source>
         <comment>NETWORKDAYS_REMARK</comment>
-        <translation>Zwraca liczbę dni roboczych pomiędzy dwiema datami.(Dni robocze nie obejmują weekendów i wakacji/dni wolnych.)</translation>
+        <translation>Zwraca liczbę dni roboczych pomiędzy dwiema datami.(Dni robocze nie zawierają dni końca tygodnia (weekendów) oraz dat oznaczonych jako święta.)</translation>
     </message>
     <message>
         <source>NOW()</source>
@@ -4215,7 +4207,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>SECOND(serial_number)</source>
         <comment>SECOND_GRAMMER</comment>
-        <translation>SEKUNDA(liczba_kolejna)</translation>
+        <translation>SEKUNDA(kolejna_liczba)</translation>
     </message>
     <message>
         <source>Returns the second, a number from 0 to 59.</source>
@@ -4235,7 +4227,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>TIMEVALUE(time_text)</source>
         <comment>TIMEVALUE_GRAMMER</comment>
-        <translation>CZAS.WARTOŚĆ(czas_tekst)</translation>
+        <translation>CZAS.WARTOŚĆ(godzina_tekst)</translation>
     </message>
     <message>
         <source>Converts a text time to an WPS Spreadsheets serial number for a time.</source>
@@ -4270,12 +4262,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the number identifying the order of the week of a year.</source>
         <comment>WEEKNUM_REMARK</comment>
-        <translation>Zwraca liczbę identyfikującą kolejność tygodnia roku.</translation>
+        <translation>Zwraca numer identyfikujący kolejność tygodnia w roku.</translation>
     </message>
     <message>
         <source>YEAR(serial_number)</source>
         <comment>YEAR_GRAMMER</comment>
-        <translation>ROK(liczba_kolejna)</translation>
+        <translation>ROK(kolejna_liczba)</translation>
     </message>
     <message>
         <source>Returns the year of a date, an integer in the range 1900-9999.</source>
@@ -4410,7 +4402,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the factorial of a number, equal to 1*2*3*...* Number.</source>
         <comment>FACT_REMARK</comment>
-        <translation>Zwraca wartość silni liczby. Silnia liczby jest równa wyrażeniu 1*2*3*...* liczba.</translation>
+        <translation>Zwraca silnię podanej liczby równą 1*2*3*...* Liczba.</translation>
     </message>
     <message>
         <source>GCD(number1,number2,...)</source>
@@ -4480,7 +4472,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the base-10 logarithm of a number.</source>
         <comment>LOG10_REMARK</comment>
-        <translation>Zwraca logarytm dziesiętny liczby.</translation>
+        <translation>Oblicza logarytm dziesiętny podanej liczby.</translation>
     </message>
     <message>
         <source>MOD(number,divisor)</source>
@@ -4580,7 +4572,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns a random integer between the two numbers you specified.</source>
         <comment>RANDBETWEEN_REMARK</comment>
-        <translation>Zwraca całkowitą liczbę losową z zakresu między dwiema liczbami określonymi przez użytkownika.</translation>
+        <translation>Zwraca losową liczbę całkowitą z przedziału pomiędzy dwiema podanymi liczbami.</translation>
     </message>
     <message>
         <source>ROUND(number,num_digits)</source>
@@ -4640,7 +4632,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the square root of a number.</source>
         <comment>SQRT_REMARK</comment>
-        <translation>Zwraca dodatni pierwiastek kwadratowy liczby.</translation>
+        <translation>Zwraca pierwiastek kwadratowy liczby.</translation>
     </message>
     <message>
         <source>SQRTPI(number)</source>
@@ -4660,17 +4652,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the standard deviation of the predicted y-value for each x in the linear regression.</source>
         <comment>STEYX_DESCRIPTION</comment>
-        <translation>Zwraca błąd standardowy prognozowanej wartości y dla każdego x w regresji. Błąd standardowy jest miarą wielkości błędu przy prognozowaniu wartości y dla oddzielnej wartości x.</translation>
+        <translation>Zwraca błąd standardowy prognozowanej wartości y dla każdego x w regresji.</translation>
     </message>
     <message>
         <source>SUBTOTAL(function_num,ref1,ref2,...)</source>
         <comment>SUBTOTAL_GRAMMER</comment>
-        <translation>SUMY.CZĘŚCIOWE(funkcja_nr; odw1; [odw2]; ...)</translation>
+        <translation>SUMY.CZĘŚCIOWE(funkcja_nr; adres1; [adres2]; ...)</translation>
     </message>
     <message>
         <source>Returns a subtotal in list or database.</source>
         <comment>SUBTOTAL_REMARK</comment>
-        <translation>Zwraca sumę częściową na liście lub w bazie danych.</translation>
+        <translation>Zwraca sumę częściową listy lub bazy danych.</translation>
     </message>
     <message>
         <source>SUM(number1,number2, ...)</source>
@@ -4690,7 +4682,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Sums the cells that meet the given criteria.</source>
         <comment>SUMIF_REMARK</comment>
-        <translation>Sumuje komórki spełniające podane kryteria.</translation>
+        <translation>Dodaje komórki spełniające podane warunki lub kryteria.</translation>
     </message>
     <message>
         <source>SUMPRODUCT(array1,array2,array3, ...)</source>
@@ -4700,7 +4692,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Multiplies the corresponding data in the given arrays and then returns the sum of the products.</source>
         <comment>SUMPRODUCT_REMARK</comment>
-        <translation>Mnoży odpowiadające sobie składniki w podanych tablicach i zwraca sumę tych iloczynów.</translation>
+        <translation>Mnoży odpowiadające sobie dane w podanych tablicach i zwraca sumę tych iloczynów.</translation>
     </message>
     <message>
         <source>TAN(number)</source>
@@ -4770,7 +4762,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the sum of the squares of all the arguments. The arguments may be varied as numbers, arrays, names or references to cells which contian numbers.</source>
         <comment>SUMSQ_REMARK</comment>
-        <translation type="obsolete">Zwraca sumę kwadratów argumentów. Argumenty mogą być różne, jak: liczby, tablice, nazwy lub odwołania do komórek, które zawierają liczby.</translation>
+        <translation type="obsolete">Zwraca sumę kwadratów argumentów. Argumenty mogą być liczbami, tablicami, nazwami lub odwołaniami do komórek zawierających liczby.</translation>
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
@@ -4785,12 +4777,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
-        <translation type="unfinished">KOMBINACJE.A(liczba; liczba_wybrana)</translation>
+        <translation>KOMBINACJE.A(liczba; liczba_wybrana)</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
-        <translation type="unfinished">Zwraca liczbę kombinacji (wraz z powtórzeniami) dla danej liczby elementów.</translation>
+        <translation>Zwraca liczbę kombinacji (wraz z powtórzeniami) dla danej liczby elementów.</translation>
     </message>
     <message>
         <source>COVAR(array1,array2)</source>
@@ -4810,7 +4802,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Rounds a number down, towards zero.</source>
         <comment>ROUNDDOWN_REMARK</comment>
-        <translation>Zaokrągla liczbę w dół w kierunku zera.</translation>
+        <translation>Zaokrągla liczbę w dół (w kierunku: do zera).</translation>
     </message>
     <message>
         <source>ROUNDUP(number,num_digits)</source>
@@ -4820,7 +4812,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Rounds a number up, away from zero.</source>
         <comment>ROUNDUP_REMARK</comment>
-        <translation>Zaokrągla liczbę w górę, dalej od zera.</translation>
+        <translation>Zaokrągla liczbę w górę (w kierunku: od zera).</translation>
     </message>
     <message>
         <source>SERIESSUM(x,n,m,coefficients)</source>
@@ -4830,7 +4822,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the sum of a power series.</source>
         <comment>SERIESSUM_DESCRIPTION</comment>
-        <translation>Zwraca sumę szeregu potęgowego.</translation>
+        <translation>Zwraca sumę szeregu potęgowego wg odpowiedniego wzoru.</translation>
     </message>
     <message>
         <source>SUMX2MY2(array_x,array_y)</source>
@@ -4840,7 +4832,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the sum of the differences of squares of corresponding values in two arrays.</source>
         <comment>SUMX2MY2_REMARK</comment>
-        <translation>Zwraca sumę różnic kwadratów odpowiadających sobie wartości w dwóch tablicach.</translation>
+        <translation>Zwraca sumę różnicy kwadratów odpowiadających sobie wartości w dwóch tablicach.</translation>
     </message>
     <message>
         <source>SUMX2PY2(array_x,array_y)</source>
@@ -4870,17 +4862,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the average (arithmetic mean) of its arguments, which can be numbers, names, arrays or references that contain numbers.</source>
         <comment>AVERAGE_REMARK</comment>
-        <translation>Zwraca wartość średnią (średnią arytmetyczną) podanych argumentów, które mogą być liczbami, nazwami, tablicami lub odwołaniami zawierającymi liczby.</translation>
+        <translation>Zwraca wartość średnią (średnią arytmetyczną) podanych argumentów, które mogą być liczbami lub nazwami, tablicami albo odwołaniami zawierającymi liczby.</translation>
     </message>
     <message>
         <source>AVERAGEA(number1,number2,...)</source>
         <comment>AVERAGEA_GRAMMER</comment>
-        <translation>ŚREDNIA.A(wartość1; [wartość2]; ...)</translation>
+        <translation>ŚREDNIA.A(liczba1; [liczba2]; ...)</translation>
     </message>
     <message>
         <source>Returns the average (arithmetic mean) of the given arguments. Evaluates text and FALSE in arguments as 0, TRUE as 1. Arguments can be numbers, names, arrays or references.</source>
         <comment>AVERAGEA_REMARK</comment>
-        <translation>Zwraca wartość średnią (średnią arytmetyczną) podanych argumentów. Wynikiem jest FAŁSZ w argumentach jako 0, PRAWDA w argumetach jako 1. Argumentami mogą być liczby, nazwy, tablice lub odwołania.</translation>
+        <translation>Zwraca wartość średnią (średnią arytmetyczną) podanych argumentów. Tekst i wartości logiczne FAŁSZ są przyjmowane jako 0; wartości logiczne PRAWDA są przyjmowane jako 1. Argumenty mogą być liczbami, nazwami, tablicami lub odwołaniami.</translation>
     </message>
     <message>
         <source>AVEDEV(number1,number2,...)</source>
@@ -4890,7 +4882,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the average of the absolute deviations of data points from their mean. AVEDEV is a measure of the variability in a data set.</source>
         <comment>AVEDEV_REMARK</comment>
-        <translation>Zwraca wartość średnią odchyleń bezwzględnych punktów danych od ich wartości średniej. Funkcja ODCH.ŚREDNIE jest miarą zmienności zbioru danych.</translation>
+        <translation>Zwraca odchylenie średnie (średnia z odchyleń bezwzględnych) punktów danych od ich wartości średniej. Funkcja ODCH.ŚREDNIE jest miarą zmienności zbioru danych.</translation>
     </message>
     <message>
         <source>BINOMDIST(number_s,trials,probability_s,cumulative)</source>
@@ -4900,7 +4892,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the individual term binomial distribution probability.</source>
         <comment>BINOMDIST_DESCRIPTION</comment>
-        <translation>Zwraca wartość pojedynczego składnika dwumianowego rozkładu prawdopodobieństwa.</translation>
+        <translation>Zwraca pojedynczy składnik dwumianowego rozkładu prawdopodobieństwa.</translation>
     </message>
     <message>
         <source>CHIDIST(x,degrees_freedom)</source>
@@ -4925,12 +4917,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>CHITEST(actual_range,expected_range)</source>
         <comment>CHITEST_SYNTAX</comment>
-        <translation>TEST.CHI(zakres_rzeczywisty; zakres_przewidywany)</translation>
+        <translation>TEST.CHI(zakres_bieżący; zakres_przewidywany)</translation>
     </message>
     <message>
         <source>Returns the test for independence. </source>
         <comment>CHITEST_DESCRIPTION</comment>
-        <translation>Zwraca wartość testu niezależności.</translation>
+        <translation>Zwraca test na niezależność: wartość z rozkładu chi-kwadrat dla statystyki i odpowiednich stopni swobody.</translation>
     </message>
     <message>
         <source>CONFIDENCE(alpha,standard_dev,size)</source>
@@ -4950,7 +4942,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the correlation coefficient between two data sets.</source>
         <comment>CORREL_REMARK</comment>
-        <translation>Zwraca współczynnik korelacji pomiędzy dwoma zbiorami danych.</translation>
+        <translation>Oblicza współczynnik korelacji pomiędzy dwoma zbiorami danych.</translation>
     </message>
     <message>
         <source>COUNT(value1,value2,...)</source>
@@ -4960,7 +4952,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the number of cells containing numbers and of numbers in the list of arguments.</source>
         <comment>COUNT_REMARK</comment>
-        <translation>Zwraca liczbę komórek zawierających liczby i numery na liście argumentów.</translation>
+        <translation>Zlicza komórki zawierające liczby, jak również liczby umieszczone na liście argumentów.</translation>
     </message>
     <message>
         <source>COUNTA(value1,value2,...)</source>
@@ -4970,7 +4962,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Counts the number of cells that are not empty.</source>
         <comment>COUNTA_REMARK</comment>
-        <translation>Zlicza liczbę komórek, które nie są puste.</translation>
+        <translation>Zlicza niepuste komórki w zakresie.</translation>
     </message>
     <message>
         <source>COUNTBLANK(range)</source>
@@ -4990,7 +4982,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Counts the number of cells within a range that meet the given condition.</source>
         <comment>COUNTIF_REMARK</comment>
-        <translation>Zlicza liczbę komórek we wskazanym zakresie spełniających podane kryteria.</translation>
+        <translation>Oblicza liczbę komórek we wskazanym zakresie spełniających podane kryteria.</translation>
     </message>
     <message>
         <source>CRITBINOM(trials,probability_s,alpha)</source>
@@ -5000,7 +4992,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the smallest value for which the cumulative binomial distribution is greater than or equal to a criterion value.</source>
         <comment>CRITBINOM_DESCRIPTION</comment>
-        <translation>Zwraca najmniejszą wartość, dla której skumulowany rozkład dwumianowy jest większy lub równy podanej wartości kryterium.</translation>
+        <translation>Zwraca najmniejszą wartość, dla której skumulowany rozkład dwumianowy jest większy lub równy podanej wartości progowej.</translation>
     </message>
     <message>
         <source>DEVSQ(number1,number2,...)</source>
@@ -5010,7 +5002,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the sum of squares of deviations of a data set from their sample mean.</source>
         <comment>DEVSQ_REMARK</comment>
-        <translation>Zwraca wartość sumy kwadratów odchyleń punktów danych od ich średniej z próby.</translation>
+        <translation>Zwraca sumę kwadratów odchyleń punktów danych od ich średniej arytmetycznej z próbki.</translation>
     </message>
     <message>
         <source>EXPONDIST(x,lambda,cumulative)</source>
@@ -5030,7 +5022,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the F probability distribution. You can use this function to determine whether two data sets have different degrees of diversity.</source>
         <comment>FDIST_DESCRIPTION</comment>
-        <translation>Zwraca wartość (prawostronnego) rozkładu prawdopodobieństwa F-Snedecora (stopień zróżnicowania). Możesz użyć tej funkcji do określania, czy dwa zbiory danych mają różne stopnie zróżnicowania.</translation>
+        <translation>Zwraca wartość (prawostronnego) rozkładu prawdopodobieństwa F-Snedecora (stopień zróżnicowania) dla dwóch zbiorów danych. Możesz użyć tej funkcji do określania, czy dwa zbiory danych mają różne stopnie zróżnicowania.</translation>
     </message>
     <message>
         <source>FREQUENCY(data_array,bins_array)</source>
@@ -5050,7 +5042,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the result of an F-test, the one-tailed probability that the variances in Array1 and Array2 are not significantly different.</source>
         <comment>FTEST_DESCRIPTION</comment>
-        <translation>Zwraca wynik testu F. Test F zwraca dwustronne prawdopodobieństwo, że wariancje danych argumentów tablica1 i tablica2 nie różnią się znacznie od siebie.</translation>
+        <translation>Zwraca wynik testu F, dwustronnego prawdopodobieństwa, że wariancje w Tablicy1 i Tablicy2 nie są istotnie różne.</translation>
     </message>
     <message>
         <source>GAMMADIST(x,alpha,beta,cumulative)</source>
@@ -5070,7 +5062,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the inverse of the gamma cumulative distribution.</source>
         <comment>GAMMAINV_DESCRIPTION</comment>
-        <translation>Zwraca odwrotność skumulowanego rozkładu gamma.</translation>
+        <translation>Zwraca odwrotność skumulowanego rozkładu gamma. Jeśli p = ROZKŁAD.GAMMA(x;...), wówczas ROZKŁAD.GAMMA.ODW(p;...) = x.</translation>
     </message>
     <message>
         <source>GAMMALN(x)</source>
@@ -5110,7 +5102,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the harmonic mean of a data set. The harmonic mean is the reciprocal of the arithmetic mean of reciprocals.</source>
         <comment>HARMEAN_REMARK</comment>
-        <translation>Zwraca średnią harmoniczną zbioru danych. Średnia harmoniczna jest odwrotnością średniej arytmetycznej odwrotności.</translation>
+        <translation>Zwraca wartość średnią harmoniczną zbioru danych. Średnia harmoniczna jest odwrotnością średniej arytmetycznej odwrotności.</translation>
     </message>
     <message>
         <source>HYPGEOMDIST(sample_s,number_sample,population_s,number_population)</source>
@@ -5150,7 +5142,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the k-th largest value in a data set. For example, it indicates the fourth largest number if k equals 4.</source>
         <comment>LARGE_REMARK</comment>
-        <translation>Zwraca k-tą największą wartość w zbiorze danych. Na przykład, wskazuje czwartą największą liczbę jeśli k wynosi 4.</translation>
+        <translation>Zwraca k-tą największą wartość w zbiorze danych, na przykład czwartą największą wartość jeśli k równa się 4.</translation>
     </message>
     <message>
         <source>LINEST(known_y&apos;s,known_x&apos;s,const,stats)</source>
@@ -5170,7 +5162,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the inverse of the lognormal cumulative distribution function of x, where ln(x) is the normal distribution of parameters Mean and Standard_dev.</source>
         <comment>LOGINV_DESCRIPTION</comment>
-        <translation>Zwraca odwrotność skumulowanego rozkładu logarytmiczno-normalnego funkcji x, gdzie ln(x) ma rozkład normalny z parametrami średnia i odchylenie_std.</translation>
+        <translation>Zwraca odwrotność skumulowanego rozkładu logarytmiczno-normalnego funkcji x, gdzie ln(x) ma rozkład normalny o parametrach Średnia i Odchylenie_std.</translation>
     </message>
     <message>
         <source>LOGNORMDIST(x,mean,standard_dev)</source>
@@ -5180,7 +5172,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the lognormal cumulative distribution of x, where ln(x) is normally distributed with parameters Mean and Standard_dev.</source>
         <comment>LOGNORMDIST_DESCRIPTION</comment>
-        <translation>Oblicza skumulowany rozkład logarytmiczno-normalny x, gdzie ln(x) ma rozkład normalny z parametrami średnia i odchylenie_std.</translation>
+        <translation>Zwraca skumulowany rozkład logarytmiczno-normalny x, gdzie ln(x) ma rozkład normalny o parametrach Średnia i Odchylenie_std.</translation>
     </message>
     <message>
         <source>MAX(number1,number2,...)</source>
@@ -5190,17 +5182,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the maximum value in a list of arguments. Ignores logical values and text.</source>
         <comment>MAX_REMARK</comment>
-        <translation>Zwraca największą wartość z listy argumentów. Ignoruje wartości logiczne takie jak PRAWDA i FAŁSZ oraz tekst.</translation>
+        <translation>Zwraca największą wartość ze zbioru wartości. Ignoruje wartości logiczne i tekst.</translation>
     </message>
     <message>
         <source>MAXA(number1,number2,...)</source>
         <comment>MAXA_GRAMMER</comment>
-        <translation>MAX.A(wartość1; [wartość2]; ...)</translation>
+        <translation>MAX.A(liczba1; [liczba2]; ...)</translation>
     </message>
     <message>
         <source>Returns the maximum value in a list of arguments. Does not ignore logical values and text.</source>
         <comment>MAXA_REMARK</comment>
-        <translation>Zwraca największą wartość z listy argumentów. Nie ignoruje wartości logicznych takich jak PRAWDA i FAŁSZ oraz tekstu.</translation>
+        <translation>Zwraca największą wartość ze zbioru wartości. Nie pomija wartości logicznych i tekstu.</translation>
     </message>
     <message>
         <source>MEDIAN(number1,number2,...)</source>
@@ -5210,7 +5202,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the median of the given numbers.</source>
         <comment>MEDIAN_REMARK</comment>
-        <translation>Zwraca wartość mediany dla podanych liczb.</translation>
+        <translation>Zwraca medianę lub liczbę w środku zbioru podanych liczb.</translation>
     </message>
     <message>
         <source>MIN(number1,number2,...)</source>
@@ -5220,17 +5212,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the minimum value in a list of arguments. Ignores logical values and text.</source>
         <comment>MIN_REMARK</comment>
-        <translation>Zwraca najmniejszą wartość z listy argumentów. Ignoruje wartości logiczne takie jak PRAWDA i FAŁSZ oraz tekst.</translation>
+        <translation>Zwraca najmniejszą wartość ze zbioru wartości. Ignoruje wartości logiczne i tekst.</translation>
     </message>
     <message>
         <source>MINA(number1,number2,...)</source>
         <comment>MINA_GRAMMER</comment>
-        <translation>MIN.A(wartość1; [wartość2]; ...)</translation>
+        <translation>MIN.A(liczba1; [liczba2]; ...)</translation>
     </message>
     <message>
         <source>Returns the minimum value in a list of arguments. Does not ignore logical values and text.</source>
         <comment>MINA_REMARK</comment>
-        <translation>Zwraca najmniejszą wartość z listy argumentów. Nie ignoruje wartości logicznych takich jak PRAWDA i FAŁSZ oraz tekstu.</translation>
+        <translation>Zwraca najmniejszą wartość ze zbioru wartości. Nie pomija wartości logicznych i tekstu.</translation>
     </message>
     <message>
         <source>MODE(number1,number2,...)</source>
@@ -5240,7 +5232,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the most common number (most frequently occurring) in an array or range of data.</source>
         <comment>MODE_REMARK</comment>
-        <translation>Zwraca wartość najczęściej występującą lub powtarzającą się w tablicy, albo w zakresie danych.</translation>
+        <translation>Zwraca najczęściej występującą lub powtarzającą się wartość w tablicy, albo zakresie danych.</translation>
     </message>
     <message>
         <source>NEGBINOMDIST(number_f,number_s,probability_s)</source>
@@ -5260,7 +5252,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the normal cumulative distribution for the specified mean and standard deviation</source>
         <comment>NORMDIST_DESCRIPTION</comment>
-        <translation>Zwraca rozkład normalny dla określonej średniej i odchylenia standardowego</translation>
+        <translation>Zwraca skumulowany rozkład normalny dla podanej średniej i odchylenia standardowego.</translation>
     </message>
     <message>
         <source>NORMINV(probability,mean,standard_dev)</source>
@@ -5290,7 +5282,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the inverse of the standard normal cumulative distribution fuction with a mean of zero and a standard deviation of one.</source>
         <comment>NORMSINV_DESCRIPTION</comment>
-        <translation type="obsolete">Zwraca funkcję odwrotną skumulowanego, standardowego rozkładu normalnego. Rozkład ten ma średnią równą zero i standardowe odchylenie równe jeden.</translation>
+        <translation type="obsolete">Zwraca odwrotność standardowego skumulowanego rozkładu normalnego o średniej zero i odchyleniu standardowym jeden.</translation>
     </message>
     <message>
         <source>PERCENTRANK(array,x,significance)</source>
@@ -5300,7 +5292,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the percentage rank of a value in a data set.</source>
         <comment>PERCENTRANK_DESCRIPTION</comment>
-        <translation>Zwraca procentową pozycję wartości w zestawie danych.</translation>
+        <translation>Zwraca pozycję procentową wartości w zbiorze danych.</translation>
     </message>
     <message>
         <source>PERMUT(number,number_chosen)</source>
@@ -5310,7 +5302,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the number of permutations for a given number of objects selected from the total objects.</source>
         <comment>PERMUT_DESCRIPTION</comment>
-        <translation>Zwraca liczbę permutacji dla podanej liczby obiektów, które można wybrać ze wszystkich obiektów określonych w argumencie liczba.</translation>
+        <translation>Zwraca liczbę permutacji dla podanej liczby obiektów, które można wybrać z szerszej grupy obiektów liczbowych.</translation>
     </message>
     <message>
         <source>PEARSON(array1,array2)</source>
@@ -5320,7 +5312,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the Pearson product moment correlation coefficient, r, a dimensionless index that ranges from -1.0 to 1.0 inclusive.</source>
         <comment>PEARSON_REMARK</comment>
-        <translation>Zwraca współczynnik korelacji momentów iloczynu Pearsona, r, to bezwymiarowy wskaźnik, który waha się od -1,0 do 1,0 włącznie.</translation>
+        <translation>Zwraca współczynnik korelacji momentów iloczynu Pearsona, r. Jest to bezwymiarowy wskaźnik, którego wartość mieści się w zakresie od -1,0 do 1,0 włącznie.</translation>
     </message>
     <message>
         <source>PERCENTILE(array,k)</source>
@@ -5345,7 +5337,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the probability that values in a range which are between two limits.</source>
         <comment>PROB_DESCRIPTION</comment>
-        <translation>Zwraca prawdopodobieństwo, że wartości w zakresie znajdują się pomiędzy dwiema granicami.</translation>
+        <translation>Zwraca prawdopodobieństwo, że wartości w zakresie znajdują się między dwoma granicami lub są równe granicy dolnej.</translation>
     </message>
     <message>
         <source>RSQ(known_y&apos;s,known_x&apos;s)</source>
@@ -5355,7 +5347,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>RSQ(Returns the square of the Pearson product moment correlation coefficient through data points in known_y&apos;s and known_x&apos;s.)</source>
         <comment>RSQ_REMARK</comment>
-        <translation>Funkcja R.KWADRAT zwraca kwadrat korelacji iloczynu momentów Pearsona dla punktów danych w argumentach znane_y i znane_x</translation>
+        <translation>Funkcja R.KWADRAT zwraca kwadrat współczynnika Pearsona korelacji iloczynu momentów dla zadanych punktów danych w argumentach znane_y i znane_x.</translation>
     </message>
     <message>
         <source>SLOPE(known_y&apos;s,known_x&apos;s)</source>
@@ -5365,7 +5357,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the slope of the linear regression line through data points in known_y&apos;s and known_x&apos;s.</source>
         <comment>SLOPE_REMARK</comment>
-        <translation>Zwraca nachylenie wykresu regresji liniowej poprowadzonego przez wszystkie punkty danych w argumentach znane_y i znane_x.</translation>
+        <translation>Zwraca nachylenie wykresu regresji liniowej poprowadzonego przez punkty danych w argumentach znane_y i znane_x.</translation>
     </message>
     <message>
         <source>SMALL(array,k)</source>
@@ -5375,7 +5367,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the k-th smallest value in a data set. For example, the fourth smallest number if k equals four.</source>
         <comment>SMALL_REMARK</comment>
-        <translation>Zwraca k-tą najmniejszą wartość w zbiorze danych. Na przykład, czwartą najmniejszą liczbę jeśli k wynosi cztery.</translation>
+        <translation>Zwraca k-tą najmniejszą wartość w zbiorze danych, na przykład czwartą najmniejszą wartość jeśli k równa się 4.</translation>
     </message>
     <message>
         <source>STANDARDIZE(x,mean,standard_dev)</source>
@@ -5385,7 +5377,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns a normalized value from a distribution characterized by mean and standard_dev.</source>
         <comment>STANDARDIZE_DESCRIPTION</comment>
-        <translation>Zwraca wartość znormalizowaną z rozkładu opisanego przez argumenty średnia i odchylenie_std.</translation>
+        <translation>Zwraca wartość znormalizowaną z rozkładu scharakteryzowanego przez średnią i odchylenie standardowe.</translation>
     </message>
     <message>
         <source>STDEV(number1,number2,...)</source>
@@ -5395,17 +5387,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Calculates standard deviation based on a sample(ignores logical values and text in the sample).</source>
         <comment>STDEV_REMARK</comment>
-        <translation>Szacuje odchylenie standardowe oparte na próbce (pomija wartości logiczne i tekstowe w próbce).</translation>
+        <translation>Oblicza odchylenie standardowe dla podanej próbki (pomija wartości logiczne i tekstowe w próbce).</translation>
     </message>
     <message>
         <source>STDEVA(number1,number2,...)</source>
         <comment>STDEVA_GRAMMER</comment>
-        <translation>ODCH.STANDARDOWE.A(wartość1; [wartość2]; ...)</translation>
+        <translation>ODCH.STANDARDOWE.A(liczba1; [liczba2]; ...)</translation>
     </message>
     <message>
         <source>Calculates standard deviation based on a sample. Doesn&apos;t ignore logical values and text.</source>
         <comment>STDEVA_REMARK</comment>
-        <translation>Szacuje odchylenie standardowe oparte na próbce. Nie pomija wartości logicznych i tekstowych.</translation>
+        <translation>Szacuje odchylenie standardowe na podstawie próbki. Nie pomija wartości logicznych i tekstowych.</translation>
     </message>
     <message>
         <source>STDEVP(number1,number2,...)</source>
@@ -5415,17 +5407,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Calculates standard deviation based on the entire population (ignores logical values and text).</source>
         <comment>STDEVP_REMARK</comment>
-        <translation>Oblicza odchylenie standardowe w oparciu o całą populację zadaną jako argument (pomija wartości logiczne i tekstowe).</translation>
+        <translation>Oblicza odchylenie standardowe na podstawie całej populacji zadanej jako argument (pomija wartości logiczne i tekstowe).</translation>
     </message>
     <message>
         <source>STDEVPA(number1,number2,...)</source>
         <comment>STDEVPA_GRAMMER</comment>
-        <translation>ODCH.STANDARD.POPUL.A(wartość1; [wartość2]; ...)</translation>
+        <translation>ODCH.STANDARD.POPUL.A(liczba1; [liczba2]; ...)</translation>
     </message>
     <message>
         <source>Calculates standard deviation based on the entire population. Doesn&apos;t ignore logical values and text.</source>
         <comment>STDEVPA_REMARK</comment>
-        <translation>Oblicza odchylenie standardowe w oparciu o całą populację zadaną jako argument (pomija wartości logiczne i tekstowe).</translation>
+        <translation>Oblicza odchylenie standardowe na podstawie całej populacji zadanej jako argument. Nie pomija wartości logicznych i tekstowych.</translation>
     </message>
     <message>
         <source>TDIST(x,degrees_freedom,tails)</source>
@@ -5455,7 +5447,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the probability associated with a Student&apos;s t-Test. Use TTEST to determine whether two samples are likely to have come from the same two underlying populations that have the same mean.</source>
         <comment>TTEST_DESCRIPTION</comment>
-        <translation>Zwraca prawdopodobieństwo związane z testem t-Studenta. Funkcja TEST.T służy do określania, czy istnieje prawdopodobieństwo tego, że dwie próbki pochodzą z tych samych podległych populacji, które mają taką samą średnią.</translation>
+        <translation>Zwraca prawdopodobieństwo związane z testem t-Studenta. Użyj funkcji TEST.T do określania, czy istnieje prawdopodobieństwo tego, że dwie próbki pochodzą z tych samych podległych populacji, które mają taką samą średnią.</translation>
     </message>
     <message>
         <source>TRIMMEAN(array,percent)</source>
@@ -5465,7 +5457,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the mean of the interior of a data set. </source>
         <comment>TRIMMEAN_REMARK</comment>
-        <translation>Zwraca średnią wewnętrznego zbioru danych.</translation>
+        <translation>Zwraca wartość średnią z wewnętrznej części zbioru danych.</translation>
     </message>
     <message>
         <source>VAR(number1,number2,...)</source>
@@ -5475,12 +5467,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Calculates variance based on a sample(ignores logical values and text in the sample).</source>
         <comment>VAR_REMARK</comment>
-        <translation>Szacuje wariancję na podstawie próbki (pomija wartości logiczne i tekstowe w próbce).</translation>
+        <translation>Oblicza wariancję na podstawie próbki (pomija wartości logiczne i tekstowe w próbce).</translation>
     </message>
     <message>
         <source>VARA(number1,number2,...)</source>
         <comment>VARA_GRAMMER</comment>
-        <translation>WARIANCJA.A(wartość1; [wartość2]; ...)</translation>
+        <translation>WARIANCJA.A(liczba1; [liczba2]; ...)</translation>
     </message>
     <message>
         <source>Calculates variance based on a sample(doesn&apos;t ignore logical values and text in the sample).</source>
@@ -5500,12 +5492,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>VARPA(number1,number2,...)</source>
         <comment>VARPA_GRAMMER</comment>
-        <translation>WARIANCJA.POPUL.A(wartość1; [wartość2]; ...)</translation>
+        <translation>WARIANCJA.POPUL.A(liczba1; [liczba2]; ...)</translation>
     </message>
     <message>
         <source>Calculates variance based on the entire population(includes logical values and text in the population).</source>
         <comment>VARPA_REMARK</comment>
-        <translation>Oblicza wariancję na podstawie całej populacji (zawiera wartości logiczne i tekstowe w próbce).</translation>
+        <translation>Oblicza wariancję na podstawie całej populacji (uwzględnia wartości logiczne i tekstowe w próbce).</translation>
     </message>
     <message>
         <source>GAMMALN(x)</source>
@@ -5525,7 +5517,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the inverse of the F probability distribution.</source>
         <comment>FINV_DESCRIPTION</comment>
-        <translation>Zwraca wartość funkcji odwrotnej rozkładu (prawostronnego) prawdopodobieństwa F-Snedecora.</translation>
+        <translation>Zwraca wartość funkcji odwrotnej rozkładu (prawostronnego) prawdopodobieństwa F-Snedecora. Jeśli p = ROZKŁAD.F(x;...), wówczas ROZKŁAD.F.ODW(p;...) = x.</translation>
     </message>
     <message>
         <source>FORECAST(x,known_y&apos;s,known_x&apos;s)</source>
@@ -5535,7 +5527,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Calculates or predicts a future value by using the existing values.</source>
         <comment>FORECAST_REMARK</comment>
-        <translation>Oblicza lub przewiduje wartość przyszłą na podstawie dostępnych wartości istniejących.</translation>
+        <translation>Oblicza lub przewiduje wartość przyszłą przy założeniu trendu liniowego i przy użyciu istniejących wartości.</translation>
     </message>
     <message>
         <source>BETADIST(x,alpha,beta,A,B)</source>
@@ -5545,7 +5537,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the cumulative beta probability density function.</source>
         <comment>BETADIST_DESCRIPTION</comment>
-        <translation>Zwraca skumulowaną funkcję gęstości prawdopodobieństwa beta.</translation>
+        <translation>Zwraca funkcję gęstości skumulowanego rozkładu beta.</translation>
     </message>
     <message>
         <source>BETAINV(probability,alpha,beta,A,B)</source>
@@ -5575,7 +5567,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the inverse of the Fisher transformation. If y = FISHER(x), then FISHRINV(y) = x.</source>
         <comment>FISHERINV_REMARK</comment>
-        <translation>Zwraca wartość funkcji odwrotnej transformacji Fishera. Jeżeli y = ROZKŁAD.FISHER(x), to ROZKŁAD.FISHER.ODW(y) = x.</translation>
+        <translation>Zwraca wartość funkcji odwrotnej transformacji Fishera. Jeżeli y = ROZKŁAD.FISHER(x), wówczas ROZKŁAD.FISHER.ODW(y) = x.</translation>
     </message>
     <message>
         <source>PERMUT(number,number_chosen)</source>
@@ -5585,7 +5577,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the number of permutations for a given number of objects selected from the total objects.</source>
         <comment>PERMUT_REMARK</comment>
-        <translation>Zwraca liczbę permutacji dla podanej liczby obiektów, które można wybrać spośród obiektów określonych w argumencie liczba.</translation>
+        <translation>Zwraca liczbę permutacji dla podanej liczby obiektów, które można wybrać z szerszej grupy obiektów liczbowych.</translation>
     </message>
     <message>
         <source>POISSON(x,mean,cumulative)</source>
@@ -5605,7 +5597,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the Weibull distribution. Use this function in reliability analysis, such as calculating a device&apos;s mean time to failure.</source>
         <comment>WEIBULL_DESCRIPTION</comment>
-        <translation>Zwraca skumulowaną funkcję (dystrybuantę) rozkładu Weibulla. Rozkład ten znajduje zastosowanie w analizie niezawodności, na przykład przy obliczaniu średniego czasu międzyawaryjnego urządzeń.</translation>
+        <translation>Zwraca skumulowaną funkcję (dystrybuantę) rozkładu Weibulla. Funkcję tę należy stosować w analizie niezawodności, na przykład przy obliczaniu średniego czasu międzyawaryjnego urządzeń.</translation>
     </message>
     <message>
         <source>ZTEST(array,μ0,sigma)</source>
@@ -5615,17 +5607,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the one-tailed probability-value of a z-test.</source>
         <comment>ZTEST_DESCRIPTION</comment>
-        <translation>Zwraca wartość jednostronnego prawdopodobieństwa testu z.</translation>
+        <translation>Zwraca wartość P o jednej stronie oraz test z.</translation>
     </message>
     <message>
         <source>ADDRESS(row_num,column_num,abs_num,a1,sheet_text)</source>
         <comment>ADDRESS_GRAMMER</comment>
-        <translation>ADRES(nr_wiersza; nr_kolumny; [typ_adresu]; [a1]; [tekst_arkusz])</translation>
+        <translation>ADRES(nr_wiersza; nr_kolumny; [typ_adresu]; [a1]; [arkusz_tekst])</translation>
     </message>
     <message>
         <source>Creates a cell reference as text according to the specified row and column numbers.</source>
         <comment>ADDRESS_REMARK</comment>
-        <translation>Tworzy odwołanie do komórki w formacie tekstowym do określonych numerów wiersza i kolumny.</translation>
+        <translation>Tworzy tekst odwołania do komórki z podanego numeru wiersza i kolumny.</translation>
     </message>
     <message>
         <source>AREAS(reference)</source>
@@ -5635,7 +5627,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the number of areas in a reference. An area is a range of contiguous cells or a single cell.</source>
         <comment>AREAS_REMARK</comment>
-        <translation>Zwraca liczbę obszarów w odwołaniu. Obszar jest to zakres przylegających do siebie komórek lub pojedyncza komórka.</translation>
+        <translation>Zwraca liczbę obszarów wskazywanych w odwołaniu. Obszar jest to zakres przylegających do siebie komórek lub pojedyncza komórka.</translation>
     </message>
     <message>
         <source>CHOOSE(index_num,value1,value2,...)</source>
@@ -5645,7 +5637,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns a value from the list of arguments based on the given index number.</source>
         <comment>CHOOSE_REMARK</comment>
-        <translation>Zwraca wartość z listy argumentów w oparciu o podany argument nr_arg.</translation>
+        <translation>Zwraca wartość z listy argumentów na podstawie podanego numeru wskaźnika.</translation>
     </message>
     <message>
         <source>COLUMN(reference)</source>
@@ -5655,7 +5647,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the column number of a reference.</source>
         <comment>COLUMN_REMARK</comment>
-        <translation>Zwraca numer kolumny danego odwołania do komórki.</translation>
+        <translation>Zwraca numer kolumny odpowiadający podanemu odwołaniu.</translation>
     </message>
     <message>
         <source>COLUMNS(array)</source>
@@ -5675,7 +5667,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Looks for a value in the top row of a table or array of values and returns a value in the same column from a row you specify in the table or array (The table is ascending by default) .</source>
         <comment>HLOOKUP_REMARK</comment>
-        <translation>Wyszukuje wartość w górnym wierszu tabeli lub tablicy wartości, a następnie zwraca wartość w tej samej kolumnie z wiersza określonego w tabeli lub w tablicy. Tabela jest domyślnie rosnąco.</translation>
+        <translation>Wyszukuje wartość w górnym wierszu tabeli lub tablicy wartości i zwraca wartość w tej samej kolumnie z wiersza określonego w tabeli lub w tablicy. Tabela domyślnie musi być sortowana rosnąco.</translation>
     </message>
     <message>
         <source>INDEX(array,row_num,column_num)</source>
@@ -5685,17 +5677,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the value of an element in a table or an array, selected by the row and column number indexes.</source>
         <comment>INDEX_REMARK</comment>
-        <translation>Zwraca wartość elementu w tabeli lub tablica, wybranego przez indeksy numerów kolumny i wiersza.</translation>
+        <translation>Zwraca wartość elementu w tabeli lub tablicy, wybranego przez indeksy numerów kolumny i wiersza.</translation>
     </message>
     <message>
         <source>INDIRECT(ref_text,a1)</source>
         <comment>INDIRECT_GRAMMER</comment>
-        <translation>ADR.POŚR(tekst_odwoł; [a1])</translation>
+        <translation>ADR.POŚR(adres_tekst; [a1])</translation>
     </message>
     <message>
         <source>Returns the reference specified by a text string.</source>
         <comment>INDIRECT_REMARK</comment>
-        <translation>Zwraca odwołanie wyznaczone przez ciąg tekstowy.</translation>
+        <translation>Zwraca adres wskazany przez wartość tekstową.</translation>
     </message>
     <message>
         <source>LOOKUP(lookup_value,lookup_vector,result_vector);LOOKUP(lookup_value,array)</source>
@@ -5710,22 +5702,22 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Retrieves real-time data from a program that supports COM automation.</source>
         <comment>RTD_REMARK</comment>
-        <translation>Pobiera dane czasu rzeczywistego z programu obsługującego dodatek COM.</translation>
+        <translation>Pobiera dane czasu rzeczywistego z programu obsługującego automatyzację COM.</translation>
     </message>
     <message>
         <source>Looks up a value either from a one-row or one-column range or from an array.</source>
         <comment>LOOKUP_REMARK</comment>
-        <translation>Funkcja WYSZUKAJ zwraca wartość z zakres jednowierszowego lub jednokolumnowego albo z tablicy.</translation>
+        <translation>Wyszukuje wartość z zakresu jednowierszowego lub jednokolumnowego albo z tablicy.</translation>
     </message>
     <message>
         <source>MATCH(lookup_value,lookup_array,match_type)</source>
         <comment>MATCH_GRAMMER</comment>
-        <translation>PODAJ.POZYCJĘ(szukana_wartość; przeszukiwana_tablica; typ_porównania)</translation>
+        <translation>PODAJ.POZYCJĘ(szukana_wartość; przeszukiwana_tablica; [typ_porównania])</translation>
     </message>
     <message>
         <source>Returns the relative position of an item in an array that matches a specified value in a specified order.</source>
         <comment>MATCH_REMARK</comment>
-        <translation>Zwraca pozycję względną elementu w tablicy zgodnego z określoną wartością w określonej kolejności.</translation>
+        <translation>Zwraca względną pozycję elementu w tablicy, odpowiadającą określonej wartości przy podanej kolejności.</translation>
     </message>
     <message>
         <source>OFFSET(reference,rows,cols,height,width)</source>
@@ -5735,7 +5727,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns a reference to a range that is a given number of rows and columns from a given reference.</source>
         <comment>OFFSET_REMARK</comment>
-        <translation>Zwraca odwołanie do zakresu, który jest podaną liczbą wierszy lub kolumn z danego odwołania.</translation>
+        <translation>Zwraca odwołanie do zakresu, który jest daną liczbą wierszy lub kolumn z danego odwołania.</translation>
     </message>
     <message>
         <source>ROW(reference)</source>
@@ -5745,7 +5737,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the internal row number of a specified reference.</source>
         <comment>ROW_REMARK</comment>
-        <translation>Zwraca numer wiersza odwołania.</translation>
+        <translation>Zwraca numer wiersza odpowiadający podanemu odwołaniu.</translation>
     </message>
     <message>
         <source>ROWS(array)</source>
@@ -5755,7 +5747,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the number of rows in a reference or array.</source>
         <comment>ROWS_REMARK</comment>
-        <translation>Zwraca liczbę wierszy w odwołaniu lub tablicy.</translation>
+        <translation>Zwraca liczbę wierszy odpowiadających podanemu odwołaniu lub tablicy.</translation>
     </message>
     <message>
         <source>VLOOKUP(lookup_value,table_array,col_index_num,range_lookup)</source>
@@ -5765,7 +5757,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Searches a specified value in the leftmost column of a table and returns a value in the current row from a column you specify.</source>
         <comment>VLOOKUP_REMARK</comment>
-        <translation>Wyszukuje wartość w pierwszej od lewej strony kolumnie tabeli i zwraca wartość z tego samego wiersza w kolumnie określonej przez użytkownika w tabeli.</translation>
+        <translation>Wyszukuje wartość w pierwszej od lewej kolumnie tabeli i zwraca wartość z tego samego wiersza w kolumnie określonej przez użytkownika.</translation>
     </message>
     <message>
         <source>ASC(text)</source>
@@ -5795,7 +5787,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns a numeric code for the first character in a text string, in the character set used by your computer.</source>
         <comment>CODE_REMARK</comment>
-        <translation>Zwraca kod numeryczny pierwszego znaku w ciągu tekstowym. Zwracany jest kod stosowny do zestawu znaków używanego na komputerze.</translation>
+        <translation>Zwraca wartość kodu liczbowego pierwszego znaku w ciągu tekstowym, odpowiadający zestawowi znaków używanemu w komputerze.</translation>
     </message>
     <message>
         <source>CONCATENATE (text1,text2,...)</source>
@@ -5805,7 +5797,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Joins several text strings into one text string.</source>
         <comment>CONCATENATE_REMARK</comment>
-        <translation>Łączy kilka ciągów tekstowych w jeden.</translation>
+        <translation>Łączy kilka ciągów tekstowych w jeden ciąg tekstowy.</translation>
     </message>
     <message>
         <source>EXACT(text1,text2)</source>
@@ -5815,12 +5807,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns TRUE if one string is exactly equal to another string (EXACTLY means case-sensitive); returns FALSE otherwise.</source>
         <comment>EXACT_REMARK</comment>
-        <translation>Porównuje dwa ciągi tekstowe i zwraca wartość PRAWDA, jeśli są one takie same. W przeciwnym wypadku jest zwracana wartość FAŁSZ.</translation>
+        <translation>Sprawdza, czy dwa ciągi tekstowe są identyczne i zwraca wartość PRAWDA lub FAŁSZ. Funkcja PORÓWNAJ uwzględnia wielkość znaków.</translation>
     </message>
     <message>
         <source>FIND(find_text,within_text,start_num)</source>
         <comment>FIND_GRAMMER</comment>
-        <translation>ZNAJDŹ(tekst_szukany; wewnątrz_tekstu; [nr_poz_pocz])</translation>
+        <translation>ZNAJDŹ(tekst_szukany; w_tekście; [liczba_początkowa])</translation>
     </message>
     <message>
         <source>Returns the starting position of one text string within another(case-sensitive and wildcard characters are not allowed).</source>
@@ -5835,7 +5827,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the characters with a specified number from the first character of a text string.</source>
         <comment>LEFT_REMARK</comment>
-        <translation>Zwraca określoną liczbę znaków występujących na początku ciągu tekstowego.</translation>
+        <translation>Zwraca określoną liczbę znaków począwszy od pierwszego znaku ciągu tekstowego.</translation>
     </message>
     <message>
         <source>LEN(text)</source>
@@ -5845,7 +5837,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the length of a text string.</source>
         <comment>LEN_REMARK</comment>
-        <translation>Zwraca liczbę znaków w ciągu tekstowym.</translation>
+        <translation>Zwraca liczbę znaków ciągu tekstowego.</translation>
     </message>
     <message>
         <source>LOWER(text)</source>
@@ -5855,17 +5847,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the lower-case version of a text string.</source>
         <comment>LOWER_REMARK</comment>
-        <translation>Konwertuje wszystkie wielkie litery w ciągu tekstowym na małe.</translation>
+        <translation>Konwertuje wszystkie litery w ciągu tekstowym na małe litery.</translation>
     </message>
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation type="unfinished">USUŃ.ZBĘDNE.ODSTĘPY.Z.LEWEJ(tekst)</translation>
+        <translation>USUŃ.ZBĘDNE.ODSTĘPY.Z.LEWEJ(tekst)</translation>
     </message>
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
-        <translation type="unfinished">Usuwa spacje z lewej strony w określonym ciągu tekstowym.</translation>
+        <translation>Usuwa spacje z lewej strony w określonym ciągu tekstowym.</translation>
     </message>
     <message>
         <source>MID(text,start_num,num_chars)</source>
@@ -5885,7 +5877,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Replaces characters within a text string with another different text string.</source>
         <comment>REPLACE_REMARK</comment>
-        <translation>Zastępuje część ciągu tekstowego innym ciągiem tekstowym na podstawie określonej liczby znaków.</translation>
+        <translation>Zamienia część ciągu tekstowego na inny ciąg tekstowy z uwzględnieniem określonej liczby znaków.</translation>
     </message>
     <message>
         <source>REPT(text,number_times)</source>
@@ -5895,7 +5887,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the repetitions of string for specified times. You can use REPT to fill a cell with a text string repeatedly.</source>
         <comment>REPT_REMARK</comment>
-        <translation>Powtarza tekst określoną liczbę razy. Funkcję POWT stosuje się, aby wypełnić komórkę konkretną liczbą ciągów tekstowych.</translation>
+        <translation>Powtarza tekst podaną liczbę razy. Używaj funkcji POWT do wypełnienia komórki podaną liczbą wystąpień ciągu tekstowego.</translation>
     </message>
     <message>
         <source>RIGHT(text,num_chars)</source>
@@ -5905,22 +5897,22 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the specified number of characters from the end of a text string.</source>
         <comment>RIGHT_REMARK</comment>
-        <translation>Zwraca ostanie znaki w ciągu tekstowym, na podstawie określonej liczby znaków.</translation>
+        <translation>Zwraca określoną liczbę znaków od końca ciągu tekstowego.</translation>
     </message>
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation type="unfinished">USUŃ.ZBĘDNE.ODSTĘPY.Z.PRAWEJ(tekst)</translation>
+        <translation>USUŃ.ZBĘDNE.ODSTĘPY.Z.PRAWEJ(tekst)</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
-        <translation type="unfinished">Usuwa spacje z prawej strony w określonym ciągu tekstowym.</translation>
+        <translation>Usuwa spacje z prawej strony w określonym ciągu tekstowym.</translation>
     </message>
     <message>
         <source>SEARCH(find_text,within_text,start_num)</source>
         <comment>SEARCH_GRAMMER</comment>
-        <translation>SZUKAJ.TEKST(szukany_tekst; wewnątrz_tekstu; liczba_początkowa)</translation>
+        <translation>SZUKAJ.TEKST(szukany_tekst; w_tekście; liczba_początkowa)</translation>
     </message>
     <message>
         <source>Returns the first-found location of the specified charcter or string within a text string, reading from left to right (not case-sensitive).</source>
@@ -5935,7 +5927,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Replaces part of the old text with new text in a string.</source>
         <comment>SUBSTITUTE_REMARK</comment>
-        <translation>Podstawia w ciągu tekstowym w miejsce argumentu stary_tekst argument nowy_tekst.</translation>
+        <translation>Zamienia istniejący tekst w ciągu nowym tekstem.</translation>
     </message>
     <message>
         <source>TEXT(value,format_text)</source>
@@ -5945,7 +5937,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns value as a string with the specified format.</source>
         <comment>TEXT_REMARK</comment>
-        <translation>Konwertuje wartość na tekst w określonym formacie liczbowym.</translation>
+        <translation>Konwertuje wartość na tekst w podanym formacie liczbowym.</translation>
     </message>
     <message>
         <source>TRIM(text)</source>
@@ -5955,7 +5947,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns text with only single spaces between words.</source>
         <comment>TRIM_REMARK</comment>
-        <translation>Usuwa wszystkie spacje z tekstu, oprócz pojedynczych spacji występujących między słowami.</translation>
+        <translation>Usuwa wszystkie spacje z podanego tekstu poza pojedynczymi spacjami występującymi między słowami.</translation>
     </message>
     <message>
         <source>UPPER(text)</source>
@@ -5965,7 +5957,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the upper-case version of a text string.</source>
         <comment>UPPER_REMARK</comment>
-        <translation>Konwertuje małe litery na wielkie litery w ciągu tekstowym.</translation>
+        <translation>Konwertuje wszystkie litery w ciągu tekstowym na wielkie litery.</translation>
     </message>
     <message>
         <source>VALUE(text)</source>
@@ -5975,7 +5967,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the numeric value of a text string.</source>
         <comment>VALUE_REMARK</comment>
-        <translation>Konwertuje ciąg tekstowy na liczbę.</translation>
+        <translation>Konwertuje ciąg tekstowy reprezentujący liczbę na liczbę.</translation>
     </message>
     <message>
         <source>PROPER(text)</source>
@@ -5985,7 +5977,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Capitalizes the initials of all the words.</source>
         <comment>PROPER_REMARK</comment>
-        <translation>Zamienia pierwszą literę ciągu tekstowego i wszystkie litery po znaku, który nie jest literą, na wielkie litery. Zamienia wszystkie pozostałe litery w ciągu tekstowym na małe litery.</translation>
+        <translation>Zastępuje pierwszą literę każdego wyrazu w tekście wielką literą.</translation>
     </message>
     <message>
         <source>DOLLAR(number,decimals)</source>
@@ -5995,17 +5987,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Converts a number to text, using currency format and the specified digits.</source>
         <comment>DOLLAR_REMARK</comment>
-        <translation>Konwertuje liczbę na tekst przy użyciu formatu waluty z zaokrągleniem do określonego miejsca po przecinku.</translation>
+        <translation>Konwertuje liczbę na tekst przy użyciu formatu walutowego, z częściami dziesiętnymi zaokrąglonymi do określonego miejsca.</translation>
     </message>
     <message>
         <source>AND(logical1,logical2, ...)</source>
         <comment>AND_GRAMMER</comment>
-        <translation>ORAZ(wartość_logiczna1; [wartość_logiczna2]; ...)</translation>
+        <translation>ORAZ(logiczna1; [logiczna2]; ...)</translation>
     </message>
     <message>
         <source>Returns FASLE if any of the arguments are FALSE; returns TRUE only if all arguments are TRUE.</source>
         <comment>AND_REMARK</comment>
-        <translation>Zwraca wynik PRAWDA, jeśli wszystkie argumenty funkcji mają wartość PRAWDA. Zwraca wartość FAŁSZ, jeśli co najmniej jeden argument ma wartość FAŁSZ.</translation>
+        <translation>Zwraca wynik PRAWDA, jeśli wszystkie argumenty funkcji mają wartość PRAWDA lub zwraca wartość FAŁSZ, jeśli choć jeden z jej argumentów ma wartość FAŁSZ.</translation>
     </message>
     <message>
         <source>FALSE()</source>
@@ -6035,12 +6027,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Reverses the logical value of the argument.</source>
         <comment>NOT_REMARK</comment>
-        <translation>Odwraca wartość logiczną swego argumentu.</translation>
+        <translation>Odwraca wartość logiczną argumentu.</translation>
     </message>
     <message>
         <source>OR(logical1,logical2,...)</source>
         <comment>OR_GRAMMER</comment>
-        <translation>LUB(wartość_logiczna1; [wartość_logiczna2]; ...)</translation>
+        <translation>LUB(logiczna1; [logiczna2]; ...)</translation>
     </message>
     <message>
         <source>Returns TRUE if any of the arguments are TRUE; returns FALSE only if all arguments are FALSE.</source>
@@ -6060,12 +6052,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>ERROR.TYPE(error_val)</source>
         <comment>ERRORTYPE_GRAMMER</comment>
-        <translation>NR.BŁĘDU(wartość_błędu)</translation>
+        <translation>NR.BŁĘDU(błąd_wartość)</translation>
     </message>
     <message>
         <source>Returns a number corresponding to the given error value; returns #N/A if no error exists.</source>
         <comment>ERRORTYPE_REMARK</comment>
-        <translation>Zwraca liczbę odpowiadającą jednej z wartości błędów; zwraca wartość błędu #N/D!, jeśli nie ma błędów.</translation>
+        <translation>Zwraca liczbę odpowiadającą jednej z wartości błędów lub zwraca wartość błędu #N/D!, jeśli nie ma błędów.</translation>
     </message>
     <message>
         <source>FORMULA(Ref)</source>
@@ -6110,7 +6102,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>ISEVEN(value)</source>
         <comment>ISEVEN_GRAMMER</comment>
-        <translation>CZY.PARZYSTE(liczba)</translation>
+        <translation>CZY.PARZYSTE(wartość)</translation>
     </message>
     <message>
         <source>Returns TRUE if the number is even and FALSE otherwise.</source>
@@ -6160,7 +6152,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>ISODD(value)</source>
         <comment>ISODD_GRAMMER</comment>
-        <translation>CZY.NIEPARZYSTE(liczba)</translation>
+        <translation>CZY.NIEPARZYSTE(wartość)</translation>
     </message>
     <message>
         <source>Returns TRUE if the number is odd and FALSE otherwise.</source>
@@ -6195,7 +6187,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns a value that has been converted to a number.</source>
         <comment>N_REMARK</comment>
-        <translation>Zwraca wartość, która została przekonwertowana na liczbę.</translation>
+        <translation>Zwraca wartość skonwertowaną na liczbę.</translation>
     </message>
     <message>
         <source>NA()</source>
@@ -6205,7 +6197,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the error value #N/A, the abbreviation of &quot;value not available&quot;.</source>
         <comment>NA_REMARK</comment>
-        <translation>Zwraca wartość błędu #N/D, skrót &quot;wartość niedostępna&quot;.</translation>
+        <translation>Zwraca wartość błędu #N/D (wartość niedostępna).</translation>
     </message>
     <message>
         <source>TYPE(value)</source>
@@ -6215,7 +6207,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns a number representing the data type of a value.</source>
         <comment>TYPE_REMARK</comment>
-        <translation>Zwraca liczbę reprezentującą typ danych wartości.</translation>
+        <translation>Zwraca liczbę reprezentującą typ danych wartości: liczba = 1; tekst = 2; wartość logiczna = 4; wartość błędu = 16; tablica = 64.</translation>
     </message>
     <message>
         <source>DB(cost,salvage,life,period,month)</source>
@@ -6225,7 +6217,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the depreciation of an asset for a specified period using the fixed-declining balance method.</source>
         <comment>DB_REMARK</comment>
-        <translation>Zwraca amortyzację środka trwałego w podanym okresie, obliczoną z wykorzystaniem metody równomiernie malejącego salda.</translation>
+        <translation>Zwraca amortyzację środka trwałego za podany okres metodą równomiernie malejącego salda.</translation>
     </message>
     <message>
         <source>DDB(cost,salvage,life,period,factor)</source>
@@ -6235,22 +6227,22 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the depreciation of an asset for a specified period using the double-declining balance method or some other method you specify.</source>
         <comment>DDB_REMARK</comment>
-        <translation>Zwraca amortyzację środka trwałego w podanym okresie, obliczoną przy użyciu metody podwójnie malejącego salda lub innej metody określonej przez użytkownika.</translation>
+        <translation>Zwraca amortyzację środka trwałego za podany okres obliczoną metodą podwójnego spadku lub inną metodą określoną przez użytkownika.</translation>
     </message>
     <message>
         <source>FV(rate,nper,pmt,pv,type)</source>
         <comment>FV_GRAMMER</comment>
-        <translation>FV(stopa; liczba_rat; rata; [wb]; [typ])</translation>
+        <translation>FV(stopa; liczba_rat; rata; [wartość_obecna]; [typ])</translation>
     </message>
     <message>
         <source>Returns the future value of an investment based on periodic, constant payments and a constant interest rate.</source>
         <comment>FV_REMARK</comment>
-        <translation>Zwraca przyszłą wartość inwestycji przy założeniu stałych płatności okresowych i stałej stopy procentowej.</translation>
+        <translation>Zwraca przyszłą wartość inwestycji na podstawie okresowych, stałych płatności i stałej stopy procentowej.</translation>
     </message>
     <message>
         <source>IPMT(rate,per,nper,pv,fv,type)</source>
         <comment>IPMT_GRAMMER</comment>
-        <translation>IPMT(stopa; okres; liczba_rat; wb; [wp]; [typ])</translation>
+        <translation>IPMT(stopa; okres; liczba_rat; wartość_obecna; [wartość_przyszła]; [typ])</translation>
     </message>
     <message>
         <source>Returns the amount of interest payment for an investment within a given period, based on periodic, constant payments and a constant interest rate.</source>
@@ -6265,17 +6257,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the internal rate of return that is represented by numbers for a series of cash flows. </source>
         <comment>IRR_REMARK</comment>
-        <translation>Zwraca wewnętrzną stopę zwrotu dla serii przepływów pieniężnych reprezentowanych przez wartości liczbowe.</translation>
+        <translation>Zwraca wewnętrzną stopę zwrotu dla serii przepływów gotówkowych reprezentowanych przez wartości liczbowe.</translation>
     </message>
     <message>
         <source>ISPMT(rate,per,nper,pv)</source>
         <comment>ISPMT_GRAMMER</comment>
-        <translation>ISPMT(stopa; okres; liczba_rat; wartość_bieżąca)</translation>
+        <translation>ISPMT(stopa; okres; liczba_rat; wartość_obecna)</translation>
     </message>
     <message>
         <source>Calculates the interest that should be paid within a specific investment period.</source>
         <comment>ISPMT_REMARK</comment>
-        <translation>Oblicza wysokość odsetek płatnych w określonym okresie inwestycji.</translation>
+        <translation>Zwraca wartość odsetek zapłaconych w trakcie określonego okresu inwestycji.</translation>
     </message>
     <message>
         <source>MIRR(values,finance_rate,reinvest_rate)</source>
@@ -6285,17 +6277,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the modified internal rate of return for the given periodic cash flows. MIRR takes both the cost of the investment and the interest received on reinvestment of cash into account.</source>
         <comment>MIRR_REMARK</comment>
-        <translation>Zwraca wartość zmodyfikowanej wewnętrznej stopy zwrotu dla serii okresowych przepływów pieniężnych. Funkcja MIRR bierze pod uwagę jednocześnie koszt inwestycji oraz odsetki uzyskane z ponownego zainwestowania środków pieniężnych.</translation>
+        <translation>Zwraca wartość zmodyfikowanej wewnętrznej stopy zwrotu dla serii okresowych przepływów środków pieniężnych. Funkcja MIRR bierze pod uwagę jednocześnie koszt inwestycji oraz odsetki uzyskane z ponownego zainwestowania środków pieniężnych.</translation>
     </message>
     <message>
         <source>NPER(rate, pmt, pv, fv, type)</source>
         <comment>NPER_GRAMMER</comment>
-        <translation>NPER(stopa; rata; wartość_bieżąca; [wartość_przyszła]; [typ])</translation>
+        <translation>NPER(stopa; rata; wartość_obecna; [wartość_przyszła]; [typ])</translation>
     </message>
     <message>
         <source>Returns the number of payment periods for an investment based on periodic, constant payments and a constant interest rate.</source>
         <comment>NPER_REMARK</comment>
-        <translation>Zwraca liczbę okresów dla inwestycji polegającej na okresowych, stałych wpłatach przy stałym oprocentowaniu.</translation>
+        <translation>Zwraca liczbę okresów dla inwestycji opartej na okresowych, stałych wpłatach przy stałym oprocentowaniu.</translation>
     </message>
     <message>
         <source>NPV(rate,value1,value2, ...)</source>
@@ -6305,27 +6297,27 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the net present value of an investment, using a discount rate and a series of future periodic payments and income.</source>
         <comment>NPV_REMARK</comment>
-        <translation>Oblicza wartość bieżącą netto inwestycji na podstawie danej stopy dyskontowej oraz serii przyszłych płatności (wartości ujemne) i przychodów (wartości dodatnie).</translation>
+        <translation>Oblicza wartość bieżącą netto inwestycji w oparciu o okresowe przepływy środków pieniężnych przy określonej stopie dyskontowej i serii przyszłych płatności (wartości ujemne) oraz dochodów (wartości dodatnie).</translation>
     </message>
     <message>
         <source>PMT(rate,nper,pv,fv,type)</source>
         <comment>PMT_GRAMMER</comment>
-        <translation>PMT(stopa; liczba_rat; wartość_bieżąca; [wartość_przyszła]; [typ])</translation>
+        <translation>PMT(stopa; liczba_rat; wartość_obecna; [wartość_przyszła]; [typ])</translation>
     </message>
     <message>
         <source>Returns the amount of payment for a loan based on constant payments and a constant interest rate.</source>
         <comment>PMT_REMARK</comment>
-        <translation>Oblicza kwotę spłaty pożyczki przy założeniu stałych spłat okresowych i stałej stopy procentowej.</translation>
+        <translation>Oblicza ratę spłaty pożyczki opartej na stałych ratach i stałym oprocentowaniu.</translation>
     </message>
     <message>
         <source>PPMT(rate,per,nper,pv,fv,type)</source>
         <comment>PPMT_GRAMMER</comment>
-        <translation>PPMT(stopa; okres; liczba_rat; wartość_bieżąca; [wartość_przyszła]; [typ])</translation>
+        <translation>PPMT(stopa; okres; liczba_rat; wartość_obecna; [wartość_przyszła]; [typ])</translation>
     </message>
     <message>
         <source>Returns for a given period the payment on the principal for an investment based on periodic, constant payments and a constant interest rate.</source>
         <comment>PPMT_REMARK</comment>
-        <translation>Zwraca spłaty kapitału w podanym okresie dla inwestycji w oparciu o stałe, okresowe płatności i stałą stopę procentową.</translation>
+        <translation>Zwraca wartość spłaty kapitału dla danej lokaty przy założeniu okresowych, stałych rat i stałego oprocentowania.</translation>
     </message>
     <message>
         <source>PV(rate,nper,pmt,fv,type)</source>
@@ -6335,17 +6327,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the present value of an investment, calculating from a series of future payments.</source>
         <comment>PV_REMARK</comment>
-        <translation>Zwraca wartość bieżącą inwestycji. Wartość bieżąca jest całkowitą sumą bieżącej wartości szeregu przyszłych płatności.</translation>
+        <translation>Zwraca wartość bieżącą inwestycji: całkowita obecna wartość serii przyszłych płatności.</translation>
     </message>
     <message>
         <source>RATE(nper,pmt,pv,fv,type,guess)</source>
         <comment>RATE_GRAMMER</comment>
-        <translation>RATE(liczba_rat; rata; wartość_bieżąca; [wartość_przyszła]; [typ], [wynik])</translation>
+        <translation>RATE(liczba_rat; rata; wartość_obecna; [wartość_przyszła]; [typ], [wynik])</translation>
     </message>
     <message>
         <source>Returns the interest rate per period of an annuity.</source>
         <comment>RATE_REMARK</comment>
-        <translation>Zwraca stopę procentową w okresie raty rocznej.</translation>
+        <translation>Zwraca stopę procentową okresu raty rocznej.</translation>
     </message>
     <message>
         <source>SLN(cost,salvage,life)</source>
@@ -6355,7 +6347,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the linear depreciation of an asset per period.</source>
         <comment>SLN_REMARK</comment>
-        <translation>Zwraca wartość amortyzacji liniowej środka trwałego dla jednego okresu.</translation>
+        <translation>Zwraca wartość amortyzacji liniowej środka trwałego za pojedynczy okres.</translation>
     </message>
     <message>
         <source>SYD(cost,salvage,life,per)</source>
@@ -6365,7 +6357,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the sum-of-years&apos; digits depreciation of an asset for a specified period, which is based on its cost, salvage value and anticipated life.</source>
         <comment>SYD_REMARK</comment>
-        <translation>Zwraca amortyzację środka trwałego w podanym okresie metodą sumy cyfr wszystkich lat amortyzacji, która opiera się na jego koszcie, wartości odzyskanej i przewidywanym czasie życia.</translation>
+        <translation>Zwraca amortyzację środka trwałego za podany okres metodą sumy cyfr wszystkich lat amortyzacji, która opiera się na jego koszcie, wartości odzyskanej i przewidywanym czasie życia.</translation>
     </message>
     <message>
         <source>VDB(cost,salvage,life,start_period,end_period,factor,no_switch)</source>
@@ -6375,7 +6367,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the depreciation of an asset for a given period or partial period using the double-declining balance method or some other method you specify.</source>
         <comment>VDB_REMARK</comment>
-        <translation>Zwraca amortyzację środka trwałego za podany okres, łącznie z podokresami, obliczając amortyzację metodą podwójnie malejącego salda lub inną określoną metodą.</translation>
+        <translation>Zwraca amortyzację środka trwałego za podany okres lub jego część obliczoną metodą podwójnie malejącego salda lub inną podaną metodą.</translation>
     </message>
     <message>
         <source>FACTDOUBLE(number)</source>
@@ -6385,7 +6377,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the double factorial of a number.</source>
         <comment>FACTDOUBLE_DESCRIPTION</comment>
-        <translation>Zwraca dwukrotną wartość silni liczby.</translation>
+        <translation>Zwraca dwukrotną silnię liczby.</translation>
     </message>
     <message>
         <source>MROUND(number,multiple)</source>
@@ -6395,7 +6387,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns a given number rounded to a special multiple.</source>
         <comment>MROUND_DESCRIPTION</comment>
-        <translation>Zwraca liczbę zaokrągloną do podanej wielokrotności.</translation>
+        <translation>Zwraca wartość liczby zaokrąglonej do podanej wielokrotności.</translation>
     </message>
     <message>
         <source>MULTINOMIAL(number1,number2, ...)</source>
@@ -6425,7 +6417,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the modified Bessel function, which equals the Bessel function evaluated for purely imaginary arguments.</source>
         <comment>BESSELI_REMARK</comment>
-        <translation>Zwraca wartość zmodyfikowanej funkcji Bessela I n(x), która jest odpowiednikiem wartości funkcji Bessela dla czysto urojonych argumentów.</translation>
+        <translation>Zwraca wartość zmodyfikowanej funkcji Bessela In(x), która jest odpowiednikiem wartości funkcji Bessela dla czysto urojonych argumentów.</translation>
     </message>
     <message>
         <source>BESSELJ(x,n)</source>
@@ -6435,7 +6427,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the Bessel function.</source>
         <comment>BESSELJ_REMARK</comment>
-        <translation>Zwraca wartość funkcji Bessela J n(x).</translation>
+        <translation>Zwraca wartość funkcji Bessela Jn(x).</translation>
     </message>
     <message>
         <source>BESSELK(x,n)</source>
@@ -6445,7 +6437,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the modified Bessel function, which equals the Bessel functions evaluated for purely imaginary arguments.</source>
         <comment>BESSELK_REMARK</comment>
-        <translation>Zwraca wartość zmodyfikowanej funkcji Bessela K n(x), która jest odpowiednikiem wartości funkcji Bessela dla czysto urojonych argumentów.</translation>
+        <translation>Zwraca wartość zmodyfikowanej funkcji Bessela Kn(x), która jest odpowiednikiem wartości funkcji Bessela dla czysto urojonych argumentów.</translation>
     </message>
     <message>
         <source>BESSELY(x,n)</source>
@@ -6455,7 +6447,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the Bessel function(also called the Weber function or the Neumann function).</source>
         <comment>BESSELY_REMARK</comment>
-        <translation>Zwraca wartość funkcji Bessela Y n(x), znanej także jako funkcja Webera albo funkcja Neumanna.</translation>
+        <translation>Zwraca wartość funkcji Bessela Yn(x), znanej także jako funkcja Webera albo funkcja Neumanna.</translation>
     </message>
     <message>
         <source>BIN2DEC(number)</source>
@@ -6515,7 +6507,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Converts a decimal number to binary.</source>
         <comment>DEC2BIN_REMARK</comment>
-        <translation>Konwertuje liczbę dziesiętną na format binarny.</translation>
+        <translation>Konwertuje liczbę dziesiętną na format dwójkowy.</translation>
     </message>
     <message>
         <source>DEC2HEX(number,places)</source>
@@ -6585,7 +6577,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Converts a hexadecimal number to binary.</source>
         <comment>HEX2BIN_REMARK</comment>
-        <translation>Konwertuje liczbę szesnastkową na liczbę binarną.</translation>
+        <translation>Konwertuje liczbę szesnastkową na liczbę w kodzie dwójkowym.</translation>
     </message>
     <message>
         <source>HEX2DEC(number)</source>
@@ -6605,7 +6597,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Converts a hexadecimal number to octal.</source>
         <comment>HEX2OCT_REMARK</comment>
-        <translation>Konwertuje liczbę szesnastkową na liczbę ósemkową.</translation>
+        <translation>Konwertuje liczbę szesnastkową na liczbę w kodzie ósemkowym.</translation>
     </message>
     <message>
         <source>IMAGINARY(inumber)</source>
@@ -6625,7 +6617,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the argument θ(theta), which is an angle expressed in radians.</source>
         <comment>IMARGUMENT_REMARK</comment>
-        <translation>Zwraca argument θ(teta) w postaci kąta wyrażonego w radianach.</translation>
+        <translation>Zwraca wartość argumentu θ(teta) liczy zespolonej, kąta wyrażonego w radianach.</translation>
     </message>
     <message>
         <source>IMCONJUGATE(inumber)</source>
@@ -6735,7 +6727,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the sine of a complex number in x + yi or x + yj text format</source>
         <comment>IMSIN_REMARK</comment>
-        <translation>Zwraca sinus liczby zespolonej w postaci tekstowej x + yi lub x + yj</translation>
+        <translation>Zwraca sinus liczby zespolonej w postaci tekstowej x + yi lub x + yj.</translation>
     </message>
     <message>
         <source>IMSQRT(inumber)</source>
@@ -6775,7 +6767,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Converts an octal number to binary.</source>
         <comment>OCT2BIN_REMARK</comment>
-        <translation>Konwertuje liczbę w postaci ósemkowej na liczbę w postaci binarnej (dwójkowej).</translation>
+        <translation>Konwertuje liczbę ósemkową na liczbę w kodzie dwójkowym.</translation>
     </message>
     <message>
         <source>OCT2DEC(number)</source>
@@ -6785,7 +6777,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Converts an octal number to decimal.</source>
         <comment>OCT2DEC_REMARK</comment>
-        <translation>Konwertuje liczbę w postaci ósemkowej na liczbę w postaci dziesiętnej.</translation>
+        <translation>Konwertuje liczbę ósemkową na liczbę w postaci dziesiętnej.</translation>
     </message>
     <message>
         <source>OCT2HEX(number,places)</source>
@@ -6795,7 +6787,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Converts an octal number to hexadecimal.</source>
         <comment>OCT2HEX_REMARK</comment>
-        <translation>Konwertuje liczby w postaci ósemkowej na liczby w postaci szesnastkowej.</translation>
+        <translation>Konwertuje liczbę ósemkową na liczbę w kodzie szesnastkowym.</translation>
     </message>
     <message>
         <source>IMABS(inumber)</source>
@@ -6805,7 +6797,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the absolute value (modulus) of a complex number.</source>
         <comment>IMABS_REMARK</comment>
-        <translation>Zwraca wartość bezwzględną (moduł) liczby zespolonej, podając ją w formacie tekstowym x + yi lub x + yj.</translation>
+        <translation>Zwraca wartość bezwzględną (moduł) liczby zespolonej.</translation>
     </message>
     <message>
         <source>FIXED(number,decimals,no_commas)</source>
@@ -6815,7 +6807,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Rounds a number to the specified number of decimals in decimal format and returns the result as text with or without commas.</source>
         <comment>FIXED_REMARK</comment>
-        <translation>Zaokrągla liczbę do podanej liczby miejsc dziesiętnych, formatuje liczbę do postaci dziesiętnej z użyciem przecinka i spacji, oraz zwraca wynik w postaci tekstowej.</translation>
+        <translation>Zaokrągla liczbę do określonej liczby miejsc po przecinku i zwraca wynik jako tekst ze spacjami lub bez.</translation>
     </message>
     <message>
         <source>LENB(text)</source>
@@ -6825,17 +6817,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the number of charcters in the text. Use with double-byte characters(DBCS).</source>
         <comment>LENB_REMARK</comment>
-        <translation type="obsolete">Zwraca liczbę bajtów reprezentujących znaki w ciągu tekstowym. Do używania z językami o zestawach znaków dwubajtowych (DBCS).</translation>
+        <translation type="obsolete">Zwraca liczbę bajtów reprezentujących znaki w ciągu tekstowym. Funkcji należy używać z zestawami znaków dwubajtowych (DBCS).</translation>
     </message>
     <message>
         <source>FINDB(find_text,within_text,start_num)</source>
         <comment>FINDB_GRAMMER</comment>
-        <translation>ZNAJDŹB(tekst_szukany; wewnątrz_tekstu; [nr_poz_pocz])</translation>
+        <translation>ZNAJDŹB(tekst_szukany; w_tekście; [liczba_początkowa])</translation>
     </message>
     <message>
         <source>Searches another text string&apos;s starting location in one text string. FINDB is case-sensitive and doesn&apos;t allow to use wildcard. Use with double-byte characters(DBCS).</source>
         <comment>FINDB_REMARK</comment>
-        <translation>Lokalizuje ciąg tekstowy wewnątrz innego ciągu tekstowego. Funkcja ZNAJDŹB uwzględnia wielkość liter i nie pozwala używać  znaków wieloznacznych. Do używania z językami o zestawach znaków dwubajtowych (DBCS).</translation>
+        <translation>Lokalizuje ciąg tekstowy wewnątrz innego ciągu tekstowego. Funkcja ZNAJDŹB uwzględnia wielkość liter i nie pozwala używać znaków wieloznacznych. Do używania z językami o zestawach znaków dwubajtowych (DBCS).</translation>
     </message>
     <message>
         <source>LEFTB(text,num_bytes)</source>
@@ -6845,7 +6837,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the specified number of characters from the leftmost appointed location of a text string. Use with double-byte character set(DBCS).</source>
         <comment>LEFTB_REMARK</comment>
-        <translation>Zwraca pierwsze znaki w ciągu tekstowym na podstawie określonej liczby znaków. Do używania z językami o zestawach znaków dwubajtowych (DBCS).</translation>
+        <translation>Zwraca określoną liczbę znaków z lewej strony wyznaczonego miejsca ciągu tekstowego. Do używania z językami o zestawach znaków dwubajtowych (DBCS).</translation>
     </message>
     <message>
         <source>MIDB(text,start_num,num_bytes)</source>
@@ -6860,7 +6852,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>REPLACEB(old_text,start_num,num_bytes,new_text)</source>
         <comment>REPLACEB_GRAMMER</comment>
-        <translation>ZASTĄP.B(stary_tekst; nr_poz_pocz; liczba_bajtów; nowy_tekst)</translation>
+        <translation>ZASTĄP.B(stary_tekst; liczba_początkowa; liczba_bajtów; nowy_tekst)</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string. Use with double-byte character set(DBCS).</source>
@@ -6875,17 +6867,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the specified number of characters from the last character of a text string. Use with double-byte character set(DBCS).</source>
         <comment>RIGHTB_REMARK</comment>
-        <translation>Zwraca ostatnie znaki w ciągu tekstowym, na podstawie określonej liczby bajtów. Do używania z językami o zestawach znaków dwubajtowych (DBCS).</translation>
+        <translation>Zwraca określoną liczbę znaków od końca ciągu tekstowego. Do używania z językami o zestawach znaków dwubajtowych (DBCS).</translation>
     </message>
     <message>
         <source>SEARCHB(find_text,within_text,start_num)</source>
         <comment>SEARCHB_GRAMMER</comment>
-        <translation>SZUKAJ.TEKST.B(tekst_szukany; wewnątrz_tekstu; [nr_poz_pocz])</translation>
+        <translation>SZUKAJ.TEKST.B(tekst_szukany; w_tekście; [liczba_początkowa])</translation>
     </message>
     <message>
         <source>Returns the first-found location of the specified charcter or string within a text string, reading from left to right (not case-sensitive). Use with double-byte character set(DBCS).</source>
         <comment>SEARCHB_REMARK</comment>
-        <translation type="obsolete">Zwraca numer pozycji, w której po raz pierwszy znaleziono dany znak lub ciąg tekstowy, począwszy od wartości argumentu liczba_początkowa. Odczyt w kierunku od lewej do prawej (nie jest rozróżniana wielkość liter). Do używania z językami o zestawach znaków dwubajtowych (DBCS).</translation>
+        <translation type="obsolete">Zwraca numer pozycji, w której po raz pierwszy znaleziono dany znak lub ciąg tekstowy, począwszy od wartości argumentu liczba_początkowa. Odczyt w kierunku od lewej do prawej (nie jest rozróżniana wielkość liter). Funkcji należy używać z zestawami znaków dwubajtowych (DBCS).</translation>
     </message>
     <message>
         <source>WIDECHAR(text)</source>
@@ -6905,7 +6897,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Removes all nonprintable characters from text.</source>
         <comment>CLEAN_REMARK</comment>
-        <translation>Usuwa z tekstu wszystkie znaki, które nie mogą zostać wydrukowane.</translation>
+        <translation>Usuwa z tekstu wszystkie znaki, które nie mogą być drukowane.</translation>
     </message>
     <message>
         <source>T(value)</source>
@@ -6925,7 +6917,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the number of days between two dates based on a 360-day year (30 days a month, 12 months a year),which is used in some accounting calculations. Use this function to help compute payments if your accounting system is based on 30 days a month and 12 months a year.</source>
         <comment>DAYS360_DESCRIPTION</comment>
-        <translation>Zwraca liczbę dni między dwiema datami na podstawie roku 360-dniowego (dwanaście 30-dniowych miesięcy), który jest używany w pewnych obliczeniach księgowych. Ta funkcja ułatwia obliczanie płatności, jeśli system księgowania jest oparty na dwunastu 30-dniowych miesiącach.</translation>
+        <translation>Oblicza liczbę dni zawartych między dwiema datami przyjmując rok liczący 360 dni (dwanaście 30-dniowych miesięcy), który jest używany w pewnych obliczeniach księgowych. Ta funkcja ułatwia obliczanie płatności, jeśli system księgowania jest oparty na dwunastu 30-dniowych miesiącach.</translation>
     </message>
     <message>
         <source>EOMONTH(start_date,months)</source>
@@ -6935,7 +6927,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the serial number for the last day of the month that is the indicated number of month before or after start_date. Use EOMONTH to calculate maturity dates that fall on the last day of the month.</source>
         <comment>EOMONTH_DESCRIPTION</comment>
-        <translation>Zwraca liczbę kolejną daty ostatniego dnia miesiąca, następującego określoną liczbę miesięcy przed lub po dacie określonej argumentem data_początkowa. Funkcja NR.SER.OST.DN.MIES umożliwia obliczanie dat spłaty lub dat należnej płatności, wypadających ostatniego dnia miesiąca.</translation>
+        <translation>Zwraca wartość liczby seryjnej daty ostatniego dnia miesiąca, następującego określoną liczbę miesięcy przed lub po dacie określonej argumentem data_początkowa. Funkcja NR.SER.OST.DN.MIES umożliwia obliczanie dat spłaty lub dat należnej płatności, wypadających ostatniego dnia miesiąca.</translation>
     </message>
     <message>
         <source>EDATE(start_date,months)</source>
@@ -6945,7 +6937,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the serial number that represents the date that is the indicated number of months before or after a date (the start_date). Use EDATE function to calculate the maturity dates that fall on the same day of the month as the date of issue.</source>
         <comment>EDATE_DESCRIPTION</comment>
-        <translation>Zwraca liczbę kolejną odpowiadającą dacie przypadającej określoną liczbę miesięcy przed lub po wskazanej dacie początkowej (data_początkowa). Funkcja NR.SER.DATY umożliwia obliczanie dat spłaty lub dat należnej płatności przypadających w tym samym dniu miesiąca co data emisji.</translation>
+        <translation>Zwraca wartość liczby seryjnej, przypadającej podaną liczbę miesięcy przed lub po wskazanej dacie początkowej (data_początkowa). Funkcja NR.SER.DATY umożliwia obliczanie dat spłaty lub dat należnej płatności przypadających w tym samym dniu miesiąca co data emisji.</translation>
     </message>
     <message>
         <source>WORKDAY(start_date,days,holidays)</source>
@@ -6975,7 +6967,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns a horizontal range of cells as a vertical range, or vice versa. TRANSPOSE must be entered as an array formula in the range that has the same numbers of rows or columns respectively with those of an array. Use TRANSPOSE to shift the vertical or horizontal orientation of an array in the worksheet.</source>
         <comment>TRANSPOSE_DESCRIPTION</comment>
-        <translation>Zwraca pionowy zakres komórek jako zakres poziomy lub odwrotnie. Funkcja TRANSPONUJ musi być wprowadzana jako formuła tablicowa dla zakresu, w którym liczba wierszy i kolumn odpowiada liczbie kolumn i wierszy tablicy. Funkcja TRANSPONUJ służy do zmieniania orientacji w tablicy arkusza z pionowej na poziomą lub odwrotnie.</translation>
+        <translation>Zwraca pionowy zakres komórek jako zakres poziomy lub odwrotnie. Funkcja TRANSPONUJ musi być wprowadzana jako formuła tablicowa dla zakresu, w którym liczba wierszy i kolumn odpowiada liczbie kolumn i wierszy tablicy. Użyj funkcji TRANSPONUJ do zmieniania orientacji w tablicy arkusza z pionowej na poziomą lub odwrotnie.</translation>
     </message>
     <message>
         <source>MMULT(array1,array2)</source>
@@ -7000,47 +6992,47 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns a matrix determinant of an array.</source>
         <comment>MDETERM_DESCRIPTION</comment>
-        <translation>Zwraca wartość wyznacznika macierzy tablicy.</translation>
+        <translation>Zwraca wyznacznik podanej tablicy.</translation>
     </message>
     <message>
         <source>Returns the inverse matrix for the matrix stored in an array.</source>
         <comment>MINVERSE_DESCRIPTION</comment>
-        <translation>Zwraca macierz odwrotną dla macierzy przechowywanej w tablicy.</translation>
+        <translation>Zwraca macierz odwrotną do macierzy przechowywanej w tablicy.</translation>
     </message>
     <message>
         <source>DCOUNT(database,field,criteria)</source>
         <comment>DCOUNT_SYNTAX</comment>
-        <translation>BD.ILE.REKORDÓW(baza danych; pole; kryteria)</translation>
+        <translation>BD.ILE.REKORDÓW(baza_danych; pole; kryteria)</translation>
     </message>
     <message>
         <source>Returns the number of cells containing numbers in the column of a list or database that matches the conditions you specify.</source>
         <comment>DCOUNT_DESCRIPTION</comment>
-        <translation>Zlicza komórki zawierające liczby znajdujące się w kolumnie listy lub bazy danych, które spełniają warunki określone przez użytkownika.</translation>
+        <translation>Zlicza komórki zawierające liczby znajdujące się w polu (kolumnie) rekordów listy lub bazy danych, które są zgodne z warunkami określonymi przez użytkownika.</translation>
     </message>
     <message>
         <source>DCOUNTA(database,field,criteria)</source>
         <comment>DCOUNTA_SYNTAX</comment>
-        <translation>BD.ILE.REKORDÓW.A(baza danych; pole; kryteria)</translation>
+        <translation>BD.ILE.REKORDÓW.A(baza_danych; pole; kryteria)</translation>
     </message>
     <message>
         <source>Returns the number of nonblank cells in the column of a list or database that matches the conditions you specify.</source>
         <comment>DCOUNTA_DESCRIPTION</comment>
-        <translation>Zlicza niepuste komórki znajdujące się w kolumnie listy lub bazy danych, które spełniają warunki określone przez użytkownika.</translation>
+        <translation>Zlicza niepuste komórki znajdujące się w polu (kolumnie) rekordów listy lub bazy danych, które są zgodne z warunkami określonymi przez użytkownika.</translation>
     </message>
     <message>
         <source>DAVERAGE(database,field,criteria)</source>
         <comment>DAVERAGE_SYNTAX</comment>
-        <translation>BD.ŚREDNIA(baza danych; pole; kryteria)</translation>
+        <translation>BD.ŚREDNIA(baza_danych; pole; kryteria)</translation>
     </message>
     <message>
         <source>Averages the values in a column in a list or database that match conditions you specify.</source>
         <comment>DAVERAGE_DESCRIPTION</comment>
-        <translation>Uśrednia wartości w kolumnie listy lub bazy danych, które spełniają warunki określone przez użytkownika.</translation>
+        <translation>Uśrednia wartości w polu (kolumnie) rekordów listy lub bazy danych, które są zgodne z warunkami określonymi przez użytkownika.</translation>
     </message>
     <message>
         <source>DGET(database,field,criteria)</source>
         <comment>DGET_SYNTAX</comment>
-        <translation>BD.POLE(baza danych; pole; kryteria)</translation>
+        <translation>BD.POLE(baza_danych; pole; kryteria)</translation>
     </message>
     <message>
         <source>Extracts a single value in the column of a list or database that matches the conditions you specify.</source>
@@ -7050,82 +7042,82 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>DMAX(database,field,criteria)</source>
         <comment>DMAX_SYNTAX</comment>
-        <translation>BD.MAX(baza danych; pole; kryteria)</translation>
+        <translation>BD.MAX(baza_danych; pole; kryteria)</translation>
     </message>
     <message>
         <source>Returns the largest value in the column of a list or database that matches the conditions you specify.</source>
         <comment>DMAX_DESCRIPTION</comment>
-        <translation>Zwraca największą liczbę w kolumnie listy lub bazy danych, która spełnia warunki określone przez użytkownika.</translation>
+        <translation>Zwraca największą liczbę w polu (kolumnie) rekordów listy lub bazy danych, która jest zgodna z warunkami określonymi przez użytkownika.</translation>
     </message>
     <message>
         <source>DMIN(database,field,criteria)</source>
         <comment>DMIN_SYNTAX</comment>
-        <translation>BD.MIN(baza danych; pole; kryteria)</translation>
+        <translation>BD.MIN(baza_danych; pole; kryteria)</translation>
     </message>
     <message>
         <source>Returns the smallest number in the column of a list or database that matches the conditions you specify.</source>
         <comment>DMIN_DESCRIPTION</comment>
-        <translation>Zwraca najmniejszą liczbę w kolumnie listy lub bazy danych, która spełnia warunki określone przez użytkownika.</translation>
+        <translation>Zwraca najmniejszą liczbę w polu (kolumnie) rekordów listy lub bazy danych, która jest zgodna z warunkami określonymi przez użytkownika.</translation>
     </message>
     <message>
         <source>DPRODUCT(database,field,criteria)</source>
         <comment>DPRODUCT_SYNTAX</comment>
-        <translation>BD.ILOCZYN(baza danych; pole; kryteria)</translation>
+        <translation>BD.ILOCZYN(baza_danych; pole; kryteria)</translation>
     </message>
     <message>
         <source>Returns the product of the values in the column of a list or database that matches the conditions you specify.</source>
         <comment>DPRODUCT_DESCRIPTION</comment>
-        <translation>Mnoży wartości w kolumnie listy lub bazy danych, które spełniają warunki określone przez użytkownika.</translation>
+        <translation>Mnoży wartości w polu (kolumnie) rekordów listy lub bazy danych, które są zgodne z warunkami określonymi przez użytkownika.</translation>
     </message>
     <message>
         <source>DSTDEV(database,field,criteria)</source>
         <comment>DSTDEV_SYNTAX</comment>
-        <translation>BD.ODCH.STANDARD(baza danych; pole; kryteria)</translation>
+        <translation>BD.ODCH.STANDARD(baza_danych; pole; kryteria)</translation>
     </message>
     <message>
         <source>Estimates the standard deviation of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
         <comment>DSTDEV_DESCRIPTION</comment>
-        <translation>Szacuje odchylenie standardowe populacji na podstawie próbki, używając liczb w kolumnie listy lub bazy danych, które spełniają warunki określone przez użytkownika.</translation>
+        <translation>Szacuje odchylenie standardowe populacji na podstawie próbki, używając liczb w polu (kolumnie) rekordów listy lub bazy danych, które są zgodne z warunkami określonymi przez użytkownika.</translation>
     </message>
     <message>
         <source>DSTDEVP(database,field,criteria)</source>
         <comment>DSTDEVP_SYNTAX</comment>
-        <translation>BD.ODCH.STANDARD.POPUL(baza danych; pole; kryteria)</translation>
+        <translation>BD.ODCH.STANDARD.POPUL(baza_danych; pole; kryteria)</translation>
     </message>
     <message>
         <source>Calculates the standard deviation of a population based on an entire population by using the numbers in the column of a list or database that matches the conditions you specify.</source>
         <comment>DSTDEVP_DESCRIPTION</comment>
-        <translation>Oblicza odchylenie standardowe populacji na podstawie całej populacji, używając liczb w kolumnie listy lub bazy danych, które spełniają warunki określone przez użytkownika.</translation>
+        <translation>Calculates the standard deviation of a population based on an entire population by using the numbers in the column of a list or database that matches the conditions you specify.</translation>
     </message>
     <message>
         <source>DSUM(database,field,criteria)</source>
         <comment>DSUM_SYNTAX</comment>
-        <translation>BD.SUMA(baza danych; pole; kryteria)</translation>
+        <translation>BD.SUMA(baza_danych; pole; kryteria)</translation>
     </message>
     <message>
         <source>Returns the sum of the numbers in the column of a list or database that matches the conditions you specify.</source>
         <comment>DSUM_DESCRIPTION</comment>
-        <translation>Dodaje liczby w kolumnie listy lub bazy danych, które są zgodne z warunkami określonymi przez użytkownika.</translation>
+        <translation>Dodaje liczby w polu (kolumnie) listy lub bazy danych, które są zgodne z warunkami określonymi przez użytkownika.</translation>
     </message>
     <message>
         <source>DVAR(database,field,criteria)</source>
         <comment>DVAR_SYNTAX</comment>
-        <translation>BD.WARIANCJA(baza danych; pole; kryteria)</translation>
+        <translation>BD.WARIANCJA(baza_danych; pole; kryteria)</translation>
     </message>
     <message>
         <source>Estimates the variance of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
         <comment>DVAR_DESCRIPTION</comment>
-        <translation>Szacuje wariancję populacji na podstawie próbki, używając liczb z kolumny listy lub bazy danych, które są zgodne z warunkami określonymi przez użytkownika.</translation>
+        <translation>Szacuje wariancję populacji na podstawie próbki, używając liczb w polu (kolumnie) rekordów listy lub bazy danych, które są zgodne z warunkami określonymi przez użytkownika.</translation>
     </message>
     <message>
         <source>DVARP(database,field,criteria)</source>
         <comment>DVARP_SYNTAX</comment>
-        <translation>BD.WARIANCJA.POPUL(baza danych; pole; kryteria)</translation>
+        <translation>BD.WARIANCJA.POPUL(baza_danych; pole; kryteria)</translation>
     </message>
     <message>
         <source>Calculate the variance of a population based on an entire population by using the numbers in the column of a list or database that matches the conditions you specify.</source>
         <comment>DVARP_DESCRIPTION</comment>
-        <translation>Oblicza wariancję populacji na podstawie całej populacji, używając liczb w kolumnie listy lub bazy danych, które są zgodne z warunkami określonymi przez użytkownika.</translation>
+        <translation>Oblicza wariancję populacji na podstawie całej populacji, używając liczb w polu (kolumnie) rekordów listy lub bazy danych, które są zgodne z warunkami określonymi przez użytkownika.</translation>
     </message>
     <message>
         <source>LOGEST(known_y&apos;s,known_x&apos;s,const,stats)</source>
@@ -7135,7 +7127,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>In regression analysis, calculate an exponential curve that fits the data most and return an array of values that describe the curve. Since the function returns an array of values, it must be entered as an array formula.</source>
         <comment>LOGEST_DESCRIPTION</comment>
-        <translation>W analizie regresji funkcja oblicza krzywą wykładniczą, która najlepiej pasuje do danych i zwraca tablicę wartości opisującą tę krzywą. Funkcja zwraca tablicę wartości, musi więc być wprowadzana w postaci formuły tablicowej.</translation>
+        <translation>W analizie regresji, zwraca statystykę, która opisuje krzywą wykładniczą dopasowaną do znanych punktów danych. Funkcja zwraca tablicę wartości, musi więc być wprowadzana w postaci formuły tablicowej.</translation>
     </message>
     <message>
         <source>TREND(known_y&apos;s,known_x&apos;s,new_x&apos;s,const)</source>
@@ -7145,7 +7137,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Predicts the linear increasing amount based on the current data.</source>
         <comment>TREND_DESCRIPTION</comment>
-        <translation>Zwraca wartości trendu liniowego na podstawie bieżących danych.</translation>
+        <translation>Zwraca wartości trendu liniowego na podstawie bieżących danych przy użyciu metody najmniejszych kwadratów.</translation>
     </message>
     <message>
         <source>ACCRINTM(issue,settlement,rate,par,basis)</source>
@@ -7175,17 +7167,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Creates a shortcut or jump that opens a document stored on a network server, Intranet or Internet.</source>
         <comment>HYPERLINK_DESCRIPTION</comment>
-        <translation>Tworzy skrót lub skok, który otwiera dokument przechowywany na serwerze sieciowym, w sieci intranet lub Internecie.</translation>
+        <translation>Tworzy skrót lub skok, który otwiera dokument przechowywany na dysku twardym, serwerze sieciowym, w Intranet lub Internecie.</translation>
     </message>
     <message>
         <source>ACCRINT(issue,first_interest,settlement,rate,par,frequency,basis)</source>
         <comment>ACCRINT_SYNTAX</comment>
-        <translation>NAL.ODS(emisja; pierwsze_odsetki; rozliczenie; stopa; cena_nom; częstotliwość; [podstawa])</translation>
+        <translation>NAL.ODS(emisja; pierwsze_odsetki; rozliczenie; stopa; cena_nom; częstotliwość; [podstawa]; [metoda_obliczeń])</translation>
     </message>
     <message>
         <source>Returns the accrued interest for a security that pays periodic interest.</source>
         <comment>ACCRINT_DESCRIPTION</comment>
-        <translation>Zwraca naliczone odsetki dla papieru wartościowego, przynoszącego okresowe odsetki.</translation>
+        <translation>Zwraca naliczone odsetki dla papieru wartościowego oprocentowanego okresowo.</translation>
     </message>
     <message>
         <source>CELL(info_type, reference)</source>
@@ -7195,7 +7187,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns information about the formatting, location, or contents of the first cell, according to the sheet&apos;s reading order, in a reference.</source>
         <comment>CELL_REMARK</comment>
-        <translation>Zwraca informacje o formatowaniu, lokalizacji lub zawartości lewej górnej komórki w odwołaniu.</translation>
+        <translation>Zwraca informacje o formatowaniu, lokalizacji lub zawartości pierwszej komórki w odwołaniu zgodnie z kolejnością odczytu arkusza.</translation>
     </message>
     <message>
         <source>EVALUATE(formula_text)</source>
@@ -7210,12 +7202,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>SUMIFS(sum_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)</source>
         <comment>SUMIFS_SYNTAX</comment>
-        <translation>SUMA.WARUNKÓW(suma_zakres; kryteria_zakres1; kryteria1, [kryteria_zakres2; kryteria2 ...)</translation>
+        <translation>SUMA.WARUNKÓW(suma_zakres; kryteria_zakres1; kryteria1, [kryteria_zakres2; kryteria2]; ...)</translation>
     </message>
     <message>
         <source>Adds the cells specified by a given set of conditions or criteria.</source>
         <comment>SUMIFS_DESCRIPTION</comment>
-        <translation>Dodaje komórki spełniające podany zestaw warunków lub kryteriów.</translation>
+        <translation>Oblicza sumę komórek spełniających podany zestaw warunków lub kryteriów.</translation>
     </message>
     <message>
         <source>COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2],…)</source>
@@ -7225,7 +7217,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Counts the number of cells specified by a given set of conditions or criteria.</source>
         <comment>COUNTIFS_DESCRIPTION</comment>
-        <translation>Zlicza liczbę komórek spełniających podany zestaw warunków lub kryteriów.</translation>
+        <translation>Oblicza liczbę komórek spełniających podany zestaw warunków lub kryteriów.</translation>
     </message>
     <message>
         <source>AVERAGEIF(range,criteria,average_range)</source>
@@ -7235,7 +7227,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Finds average (arithmetic mean) for the cells specified by a given condition or criteria.</source>
         <comment>AVERAGEIF_DESCRIPTION</comment>
-        <translation>Zwraca średnią (średnią arytmetyczną) dla komórek spełniających podany warunek lub kryteria.</translation>
+        <translation>Znajduje średnią (średnią arytmetyczną) dla komórek spełniających podany warunek lub kryteria.</translation>
     </message>
     <message>
         <source>AVERAGEIFS(average_range,criteria_range1,criteria1,criteria_range2,criteria2,…)</source>
@@ -7245,22 +7237,22 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Finds average (arithmetic mean) for the cells specified by a given set of conditions or criteria.</source>
         <comment>AVERAGEIFS_DESCRIPTION</comment>
-        <translation>Zwraca średnią (średnią arytmetyczną) dla komórek spełniających podany zestaw warunków lub kryteriów.</translation>
+        <translation>Znajduje średnią (średnią arytmetyczną) dla komórek spełniających podany zestaw warunków lub kryteriów.</translation>
     </message>
     <message>
         <source>IFERROR(value,value_if_error)</source>
         <comment>IFERROR_SYNTAX</comment>
-        <translation>JEŻELI.BŁĄD(wartość; wartość_jeżeli_błąd)</translation>
+        <translation>JEŻELI.BŁĄD(wartość; wartość_jeśli_błąd)</translation>
     </message>
     <message>
         <source>Returns the value you specify if the calculated result of the formula is an error and the calculated result otherwise.</source>
         <comment>IFERROR_DESCRIPTION</comment>
-        <translation>Zwraca określoną wartość, jeśli wynikiem formuły będzie błąd; w przeciwnym razie zwraca wynik formuły.</translation>
+        <translation>Zwraca wartość wartość_jeśli_błąd, jeżeli wyrażenie jest błędne lub wartość wyrażenia w przeciwnym razie.</translation>
     </message>
     <message>
         <source>DAY(serial_number)</source>
         <comment>DAY_GRAMMER</comment>
-        <translation>DZIEŃ(liczba_kolejna)</translation>
+        <translation>DZIEŃ(kolejna_liczba)</translation>
     </message>
     <message>
         <source>PRICE(settlement,maturity,rate,yld,redemption,frequency,[basis])</source>
@@ -7280,7 +7272,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Extract data stored in a PivotTable</source>
         <comment>GETPIVOTDATA_DESCRIPTION</comment>
-        <translation>Zwraca dane przechowywane w raporcie w formie tabeli przestawnej</translation>
+        <translation>Wyodrębnia dane przechowywane w tabeli przestawnej.</translation>
     </message>
     <message>
         <source>GET.CELL(type_num, reference)</source>
@@ -7300,7 +7292,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>CUMIPMT(rate, nper, pv, start_period, end_period, type)</source>
         <comment>CUMIPMT_SYNTAX</comment>
-        <translation>SPŁAC.ODS(stopa; liczba_rat; wartość_bieżąca; okres_początkowy; okres_końcowy; typ)</translation>
+        <translation>SPŁAC.ODS(stopa; liczba_rat; wartość_obecna; okres_początkowy; okres_końcowy; typ)</translation>
     </message>
     <message>
         <source>Returns the cumulative principal paid on a loan between start_period and end_period.</source>
@@ -7310,7 +7302,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>CUMPRINC(rate, nper, pv, start_period, end_period, type)</source>
         <comment>CUMPRINC_SYNTAX</comment>
-        <translation>SPŁAC.KAPIT(stopa; liczba_rat; wartość_bieżąca; okres_początkowy; okres_końcowy; typ)</translation>
+        <translation>SPŁAC.KAPIT(stopa; liczba_rat; wartość_obecna; okres_początkowy; okres_końcowy; typ)</translation>
     </message>
     <message>
         <source>AMORLINC(cost, date_purchased, first_period, salvage, period, rate, [basis])</source>
@@ -7320,7 +7312,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the prorated linear depreciation of an asset for each accounting period.</source>
         <comment>AMORLINC_DESCRIPTION</comment>
-        <translation>Zwraca amortyzację liniową dla każdego okresu rozrachunkowego.</translation>
+        <translation>Zwraca wartość amortyzacji dla każdego okresu rozliczeniowego.</translation>
     </message>
     <message>
         <source>AMORDEGRC(cost, date_purchased, first_period, salvage, period, rate, [basis])</source>
@@ -7330,17 +7322,17 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the depreciation for each settlement period.</source>
         <comment>AMORDEGRC_DESCRIPTION</comment>
-        <translation>Zwraca amortyzację dla każdego okresu rozrachunkowego.</translation>
+        <translation>Zwraca wartość amortyzacji dla każdego okresu rozliczeniowego.</translation>
     </message>
     <message>
         <source>NUMBERSTRING(num, option)</source>
         <comment>NUMBERSTRING_SYNTAX</comment>
-        <translation>LICZBA.CIĄG.ZNAK(nr; opcja)</translation>
+        <translation>LICZBA.CIĄG.ZNAK(liczba; opcja)</translation>
     </message>
     <message>
         <source>Convert a number to a chinese string</source>
         <comment>NUMBERSTRING_DESCRIPTION</comment>
-        <translation>Konwertuje liczby na ciąg chiński</translation>
+        <translation>Konwertuje liczbę na ciąg chiński.</translation>
     </message>
     <message>
         <source>INFO(type_text)</source>
@@ -7350,7 +7342,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns information about the current operating environment</source>
         <comment>INFO_DESCRIPTION</comment>
-        <translation>Zwraca informacje o bieżącym środowisku operacyjnym</translation>
+        <translation>Zwraca informacje o bieżącym środowisku operacyjnym.</translation>
     </message>
     <message>
         <source>PHONETIC(reference)</source>
@@ -7360,7 +7352,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Extract the phonetic character of the text string.</source>
         <comment>PHONETIC_DESCRIPTION</comment>
-        <translation>Wybiera znaki fonetyczne (furigana) z ciągu tekstowego.</translation>
+        <translation>Wyodrębnia znaki fonetyczne (furigana) z ciągu tekstowego.</translation>
     </message>
     <message>
         <source>Commands</source>
@@ -7415,7 +7407,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the number of days from the settlement date to the next coupon date.</source>
         <comment>COUPDAYSNC_DESCRIPTION</comment>
-        <translation>Zwraca liczbę dni od daty rozliczenia do kolejnej daty płatności dywidendy.</translation>
+        <translation>Zwraca liczbę dni od daty rozliczenia do następnej daty płatności dywidendy.</translation>
     </message>
     <message>
         <source>XIRR(values, dates, [guess])</source>
@@ -7425,7 +7417,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the internal rate of return for a schedule of crash flows.</source>
         <comment>XIRR_DESCRIPTION</comment>
-        <translation>Zwraca wartość wewnętrznej stopy zwrotu dla serii rozłożonych w czasie przepływów pieniężnych, niekoniecznie okresowych.</translation>
+        <translation>Zwraca wartość wewnętrznej stopy zwrotu dla serii przepływów gotówkowych niekoniecznie okresowych.</translation>
     </message>
     <message>
         <source>Manual</source>
@@ -7714,12 +7706,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>ON.DOUBLECLICK(sheet_text, macro_text)</source>
         <comment>ONDOUBLECLICK_SYNTAX</comment>
-        <translation>GDY.2KLIK(tekst_arkusz; makro_tekst)</translation>
+        <translation>GDY.2KLIK(arkusz_tekst; makro_tekst)</translation>
     </message>
     <message>
         <source>ON.ENTRY(sheet_text, macro_text)</source>
         <comment>ONENTRY_SYNTAX</comment>
-        <translation>GDY.WPROW(tekst_arkusz; makro_tekst)</translation>
+        <translation>GDY.WPROW(arkusz_tekst; makro_tekst)</translation>
     </message>
     <message>
         <source>ON.KEY(key_text, macro_text)</source>
@@ -7729,12 +7721,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>ON.RECALC(sheet_text, macro_text)</source>
         <comment>ONRECALC_SYNTAX</comment>
-        <translation>GDY.PRZEL(tekst_arkusz; makro_tekst)</translation>
+        <translation>GDY.PRZEL(arkusz_tekst; makro_tekst)</translation>
     </message>
     <message>
         <source>ON.SHEET(sheet_text, macro_text, activate_logical)</source>
         <comment>ONSHEET_SYNTAX</comment>
-        <translation>GDY.ARKUSZ(tekst_arkusz; makro_tekst; uaktywnij_logiczna)</translation>
+        <translation>GDY.ARKUSZ(arkusz_tekst; makro_tekst; uaktywnij_logiczna)</translation>
     </message>
     <message>
         <source>ON.TIME(time, macro_text, tolerance, insert_logical)</source>
@@ -7829,7 +7821,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>RANK.AVG(number,ref,order)</source>
         <comment>RANKAVG_GRAMMER</comment>
-        <translation>POZYCJA.ŚR(liczba; lista; [lp])</translation>
+        <translation>POZYCJA.ŚR(liczba; odwołanie; [lp])</translation>
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the average rank is returned.</source>
@@ -7839,7 +7831,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>RANK.EQ(number,ref,order)</source>
         <comment>RANKEQ_GRAMMER</comment>
-        <translation>POZYCJA.NAJW(liczba; lista; [lp])</translation>
+        <translation>POZYCJA.NAJW(liczba; odwołanie; [lp])</translation>
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the top rank of that set of values is returned.</source>
@@ -7849,7 +7841,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</source>
         <comment>VOLATILE_SYNTAX</comment>
-        <translation type="obsolete">RENTOWNOŚĆ(rozliczenie; data_spłaty; stopa; cena; wykup; częstotliwość; [podstawa])</translation>
+        <translation type="obsolete">RENTOWNOŚĆ(rozliczenie; data_spłaty; stopa; kwota; wykup; częstotliwość; [podstawa])</translation>
     </message>
     <message>
         <source>Returns the yields of regular payment securities.</source>
@@ -7889,12 +7881,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the number of characters in the text. Use with double-byte characters(DBCS).</source>
         <comment>LENB_REMARK</comment>
-        <translation>Zwraca liczbę bajtów reprezentujących znaki w ciągu tekstowym. Funkcji należy używać z zestawami znaków dwubajtowych (DBCS).</translation>
+        <translation>Zwraca liczbę bajtów reprezentujących znaki w ciągu tekstowym. Do używania z językami o zestawach znaków dwubajtowych (DBCS).</translation>
     </message>
     <message>
         <source>Returns the first-found location of the specified character or string within a text string, reading from left to right (not case-sensitive). Use with double-byte character set(DBCS).</source>
         <comment>SEARCHB_REMARK</comment>
-        <translation>Zwraca numer pozycji, w której po raz pierwszy znaleziono dany znak lub ciąg tekstowy, począwszy od wartości argumentu liczba_początkowa. Odczyt w kierunku od lewej do prawej (nie jest rozróżniana wielkość liter). Funkcji należy używać z zestawami znaków dwubajtowych (DBCS).</translation>
+        <translation>Zwraca numer znaku, w którym jeden ciąg znaków został znaleziony po raz pierwszy w drugim, począwszy od lewej strony (nie jest rozróżniana wielkość liter). Do używania z językami o zestawach znaków dwubajtowych (DBCS).</translation>
     </message>
     <message>
         <source>COUPDAYBS Returns the number of days from the beginning of the coupon period to the settlement date.</source>
@@ -8377,7 +8369,8 @@ Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne s
         <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
 To continue saving as a macro-disabled workbook, click Yes.</source>
         <comment>TX_Save_Xlsx_Warning_2</comment>
-        <translation type="obsolete">W celu zapisania pliku z tymi funkcjami kliknij przycisk Nie, a następnie wybierz typ pliku z obsługą makr z listy typów plików.Aby kontynuować zapisywanie skoroszytu jako pliku z wyłączoną obsługą makr, kliknij przycisk Tak.</translation>
+        <translation type="obsolete">W celu zapisania pliku z tymi funkcjami kliknij przycisk Nie, a następnie wybierz typ pliku z obsługą makr z listy typów plików.
+Aby kontynuować zapisywanie skoroszytu jako pliku bez obsługi makr, kliknij przycisk Tak.</translation>
     </message>
     <message>
         <source> · VB project
@@ -8406,17 +8399,13 @@ To continue saving as a macro-disabled workbook, click Yes.</source>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>TX_Persist_MsgBackupToDef</comment>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog dla kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog dla kopii zapasowych.
-Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
-            <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowych.
-Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
-        </translation>
+        <translation type="obsolete">Występują błędy podczas tworzenia kopii zapasowej! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowej, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowej.
+Ta kopia zapasowa zostanie zapisana do (%s)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format 2.0(*.uos)</source>
         <comment>TX_ssDesc_Uof2_</comment>
-        <translation type="unfinished">Format chińskiego dokumentu Office 2.0 (*.uos)</translation>
+        <translation>Format chińskiego dokumentu Office 2.0 (*.uos)</translation>
     </message>
     <message>
         <source>The author supports opening &quot;%s&quot; with read-only way unless you need to modify.Do open with read-only mode?</source>
@@ -8952,7 +8941,7 @@ Ta kopia zapasowa zostanie zapisana do (%s)</translation>
 .Click a single cell, and then paste. 
 .Select a rectangle that&apos;s the same size and shape, and then paste.</source>
         <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
-        <translation type="obsolete">Wklejenie informacji nie jest możliwe, ponieważ obszar kopiowania oraz obszar wklejania nie mają tego samego rozmiaru lub kształtu. Wypróbuj jedną z następujących czynności: 
+        <translation type="obsolete">Wklejenie informacji nie jest możliwe, ponieważ obszar kopiowania oraz obszar wklejania nie mają tego samego rozmiaru lub kształtu. Spróbuj wykonać jedną z następujących czynności: 
 
 .Kliknij pojedynczą komórkę, a następnie wklej. 
 .Zaznacz prostokąt o tym samym rozmiarze i kształcie, a następnie wklej.</translation>
@@ -8966,11 +8955,11 @@ There are several possible reasons:
 •If the specified name is in a row or column, you must select more than one rows or columns.
 •If you click the Table command on Data menu, the selected range must be a single rectangle, and the number of rows or columns must be greater than one.</source>
         <comment>TX_DESC_Paste_OverlapRange_ET</comment>
-        <translation type="obsolete">Zaznaczony obszar jest nieprawidłowy.
+        <translation type="obsolete">Zaznaczenie jest nieprawidłowe.
 Istnieje kilka możliwych przyczyn:
 
 •Obszary kopiowania i wklejania nie mogą się pokrywać, o ile nie są tego samego rozmiaru i kształtu.
-•Jeśli wybierzesz opcję Nazwa w menu Wstaw, a następnie klikniesz polecenie Utwórz, wiersze lub kolumny zawierające nazwy nie będą dołączone w nazwanym zakresie. 
+•Jeśli wybierzesz opcję Nazwa w menu Wstaw, a następnie klikniesz polecenie Utwórz, wiersze lub kolumny zawierające nazwy nie będą dołączone w nazwanym zakresie.
 •Jeśli określone nazwy są umieszczone w wierszu lub kolumnie, musisz zaznaczyć więcej niż jeden wiersz lub więcej niż jedną kolumnę.
 •Jeśli klikniesz polecenie Tabela w menu Dane, wybrany zakres musi być pojedynczym prostokątem, a liczba wierszy lub kolumn musi być większa niż jeden.</translation>
     </message>
@@ -9026,7 +9015,7 @@ Istnieje kilka możliwych przyczyn:
 •If you want to close this message and correct the formula by yourself, click Cancel.
 • If you are not typing a formula, please avoid using a equal sign(=), plus sign(+) or minus sign(-) at the beginning.</source>
         <comment>TX_InputFormula_Error</comment>
-        <translation type="obsolete">Formuła, którą wpisałeś zawiera błędy. Program WPS Spreadsheets automatycznie poprawił ją jako: 
+        <translation type="obsolete">Wpisana formuła zawiera błędy. Program WPS Spreadsheets automatycznie poprawił ją jako: 
 &apos;%s
 •Jeśli chcesz zaakceptować poprawienie, kliknij przycisk OK.
 •Jeśli chcesz zamknąć ten komunikat i samodzielnie poprawić formułę, kliknij przycisk Anuluj.
@@ -9097,7 +9086,7 @@ Proszę upewnij się, że wybrane regiony są ciągłymi komórkami.</translatio
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
         <comment>TX_Help_NoHelpFile</comment>
-        <translation type="obsolete">Nie znaleziono plików Pomocy lub pliki pomocy napotkały błąd.</translation>
+        <translation type="obsolete">Nie znaleziono plików pomocy lub w plikach pomocy wystąpił błąd.</translation>
     </message>
     <message>
         <source>Enter</source>
@@ -9480,12 +9469,12 @@ Czy kontynuować?</translation>
     <message>
         <source>Format Text box</source>
         <comment>TX_SETEDITTEXTBOXCAPTION</comment>
-        <translation>Formatowanie pola tekstowego</translation>
+        <translation>Formatuj pole tekstowe</translation>
     </message>
     <message>
         <source>Format Cells</source>
         <comment>TX_SETEDITCAPTION</comment>
-        <translation>Formatowanie komórek</translation>
+        <translation>Formatuj komórki</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -9498,10 +9487,10 @@ Czy kontynuować?</translation>
 •If you do not want to  create the circular reference, click OK, and correct the formula.
 •If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
         <comment>TX_FORMULA_RECURSION</comment>
-        <translation type="obsolete">Program WPS Spreadsheets nie może obliczyć formuły. Odwołanie do komórki w formule jest tą samą komórką, która zawiera formułę, co powoduje powstanie odwołania cyklicznego. Wypróbuj jedną z następujących akcji:
+        <translation type="obsolete">Program WPS Spreadsheets nie może obliczyć formuły. Odwołania do komórek w formule odwołują się do wyniku formuły, tworząc odwołanie cykliczne. Spróbuj wykonać jedną z następujących czynności:
 
 •Jeżeli nie chcesz utworzyć odwołania cyklicznego, kliknij przycisk OK i popraw formułę.
-•Jeśli chcesz użyć odwołania cyklicznego do obliczania prawidłowego wyniku, proszę kliknij pole wyboru iteracja w ustawieniach menu Narzędzia.</translation>
+•Jeśli chcesz użyć odwołania cyklicznego do obliczania prawidłowego wyniku, proszę kliknij pole wyboru Iteracja w ustawieniach menu Narzędzia.</translation>
     </message>
     <message>
         <source>Enter</source>
@@ -9521,7 +9510,7 @@ Czy kontynuować?</translation>
     <message>
         <source>Al</source>
         <comment>TX_ParaInfo_001</comment>
-        <translation>AL</translation>
+        <translation>A1</translation>
     </message>
     <message>
         <source>Abs_num</source>
@@ -9591,7 +9580,7 @@ Czy kontynuować?</translation>
     <message>
         <source>Date_text</source>
         <comment>TX_ParaInfo_015</comment>
-        <translation>Tekst_daty</translation>
+        <translation>Data_tekst</translation>
     </message>
     <message>
         <source>Day</source>
@@ -9601,7 +9590,7 @@ Czy kontynuować?</translation>
     <message>
         <source>Dividend</source>
         <comment>TX_ParaInfo_017</comment>
-        <translation>Dywidenda</translation>
+        <translation>Dzielna</translation>
     </message>
     <message>
         <source>Divisor</source>
@@ -9626,12 +9615,12 @@ Czy kontynuować?</translation>
     <message>
         <source>Format_text</source>
         <comment>TX_ParaInfo_022</comment>
-        <translation>Format_tekstu</translation>
+        <translation>Format_tekst</translation>
     </message>
     <message>
         <source>Function_num</source>
         <comment>TX_ParaInfo_023</comment>
-        <translation>Nr_funkcji</translation>
+        <translation>Funkcja_nr</translation>
     </message>
     <message>
         <source>Height</source>
@@ -9641,7 +9630,7 @@ Czy kontynuować?</translation>
     <message>
         <source>Holidays</source>
         <comment>TX_ParaInfo_025</comment>
-        <translation>Dni wolne</translation>
+        <translation>Święta</translation>
     </message>
     <message>
         <source>Hour</source>
@@ -9791,7 +9780,7 @@ Czy kontynuować?</translation>
     <message>
         <source>Ref_text</source>
         <comment>TX_ParaInfo_055</comment>
-        <translation>Tekst_odwoł</translation>
+        <translation>Adres_tekst</translation>
     </message>
     <message>
         <source>Ref</source>
@@ -9841,12 +9830,12 @@ Czy kontynuować?</translation>
     <message>
         <source>Serial_number</source>
         <comment>TX_ParaInfo_065</comment>
-        <translation>Liczba_kolejna</translation>
+        <translation>Kolejna_liczba</translation>
     </message>
     <message>
         <source>Serial_number</source>
         <comment>TX_ParaInfo_066</comment>
-        <translation>Liczba_kolejna</translation>
+        <translation>Kolejna_liczba</translation>
     </message>
     <message>
         <source>Sheet_text</source>
@@ -9901,7 +9890,7 @@ Czy kontynuować?</translation>
     <message>
         <source>Time_text</source>
         <comment>TX_ParaInfo_077</comment>
-        <translation>Czas_tekst</translation>
+        <translation>Godzina_tekst</translation>
     </message>
     <message>
         <source>Top</source>
@@ -9936,7 +9925,7 @@ Czy kontynuować?</translation>
     <message>
         <source>Within_text</source>
         <comment>TX_ParaInfo_084</comment>
-        <translation>Wewnątrz_tekstu</translation>
+        <translation>W_tekście</translation>
     </message>
     <message>
         <source>X_num</source>
@@ -10106,22 +10095,22 @@ Czy kontynuować?</translation>
     <message>
         <source>Standard deviation</source>
         <comment>TX_ParaInfo_118</comment>
-        <translation>Odchylenie standardowe</translation>
+        <translation>Odchylenie_standardowe</translation>
     </message>
     <message>
         <source>Returns the cumulative distribution function</source>
         <comment>TX_ParaInfo_119</comment>
-        <translation>Zwraca funkcję rozkładu skumulowanego</translation>
+        <translation>Zwraca_funkcję_rozkładu_skumulowanego</translation>
     </message>
     <message>
         <source>Distribution Probability</source>
         <comment>TX_ParaInfo_120</comment>
-        <translation>Rozkład prawdopodobieństwa</translation>
+        <translation>Rozkład_prawdopodobieństwa</translation>
     </message>
     <message>
         <source>Degrees of freedom</source>
         <comment>TX_ParaInfo_121</comment>
-        <translation>Stopnie swobody</translation>
+        <translation>Stopnie_swobody</translation>
     </message>
     <message>
         <source>Alpha</source>
@@ -10191,7 +10180,7 @@ Czy kontynuować?</translation>
     <message>
         <source>Sample Standard Deviation</source>
         <comment>TX_ParaInfo_135</comment>
-        <translation>Odchylenie standardowe próbki</translation>
+        <translation>Odchylenie_standardowe_próbki</translation>
     </message>
     <message>
         <source>μ0</source>
@@ -10201,7 +10190,7 @@ Czy kontynuować?</translation>
     <message>
         <source>Actual_range</source>
         <comment>TX_ParaInfo_137</comment>
-        <translation>Zakres_rzeczywisty</translation>
+        <translation>Zakres_bieżący</translation>
     </message>
     <message>
         <source>Expected_range</source>
@@ -10256,32 +10245,32 @@ Czy kontynuować?</translation>
     <message>
         <source>Value X</source>
         <comment>TX_ParaInfo_148</comment>
-        <translation>Wartość X</translation>
+        <translation>Wartość_X</translation>
     </message>
     <message>
         <source>Lower bound of the X range</source>
         <comment>TX_ParaInfo_149</comment>
-        <translation>Dolna granica zakresu X</translation>
+        <translation>Dolna_granica_zakresu_X</translation>
     </message>
     <message>
         <source>Upper bound of the X range </source>
         <comment>TX_ParaInfo_150</comment>
-        <translation>Górna granica zakresu X </translation>
+        <translation>Górna_granica_zakresu_X</translation>
     </message>
     <message>
         <source>One/Two-tailed(1/2) distribution</source>
         <comment>TX_ParaInfo_151</comment>
-        <translation>Rozkład jedno/dwustronny (1/2)</translation>
+        <translation>Rozkład_jedno/dwustronny_(1/2)</translation>
     </message>
     <message>
         <source>Degrees_freedom 1</source>
         <comment>TX_ParaInfo_152</comment>
-        <translation>Stopnie_swobody 1</translation>
+        <translation>Stopnie_swobody1</translation>
     </message>
     <message>
         <source>Degrees_freedom 2</source>
         <comment>TX_ParaInfo_153</comment>
-        <translation>Stopnie_swobody 2</translation>
+        <translation>Stopnie_swobody2</translation>
     </message>
     <message>
         <source>Number_s</source>
@@ -10326,12 +10315,12 @@ Czy kontynuować?</translation>
     <message>
         <source>Integral lower bound</source>
         <comment>TX_ParaInfo_162</comment>
-        <translation>Dolna granica całkowania</translation>
+        <translation>Dolna_granica_całkowania</translation>
     </message>
     <message>
         <source>Integral upper bound</source>
         <comment>TX_ParaInfo_163</comment>
-        <translation>Górna granica całkowania</translation>
+        <translation>Górna_granica_całkowania</translation>
     </message>
     <message>
         <source>Alpha</source>
@@ -10341,7 +10330,7 @@ Czy kontynuować?</translation>
     <message>
         <source>Hex</source>
         <comment>TX_ParaInfo_165</comment>
-        <translation>Szesnastkowo</translation>
+        <translation>Liczba_szesnastkowa</translation>
     </message>
     <message>
         <source>Places</source>
@@ -10391,12 +10380,12 @@ Czy kontynuować?</translation>
     <message>
         <source>no_commas</source>
         <comment>TX_ParaInfo_175</comment>
-        <translation>bez_przecinka</translation>
+        <translation>Bez_przecinka</translation>
     </message>
     <message>
         <source>Bytes number</source>
         <comment>TX_ParaInfo_176</comment>
-        <translation>Liczba bajtów</translation>
+        <translation>Liczba_bajtów</translation>
     </message>
     <message>
         <source>Basis</source>
@@ -10411,47 +10400,47 @@ Czy kontynuować?</translation>
     <message>
         <source>Number of months</source>
         <comment>TX_ParaInfo_179</comment>
-        <translation>Liczba miesięcy</translation>
+        <translation>Liczba_miesięcy</translation>
     </message>
     <message>
         <source>Number of days</source>
         <comment>TX_ParaInfo_180</comment>
-        <translation>Liczba dni</translation>
+        <translation>Liczba_dni</translation>
     </message>
     <message>
         <source>Database range</source>
         <comment>TX_ParaInfo_181</comment>
-        <translation>Zakres bazy danych</translation>
+        <translation>Zakres_bazy_danych</translation>
     </message>
     <message>
         <source>Operation field</source>
         <comment>TX_ParaInfo_182</comment>
-        <translation>Pole operacji</translation>
+        <translation>Pole_operacji</translation>
     </message>
     <message>
         <source>Date of issue</source>
         <comment>TX_ParaInfo_183</comment>
-        <translation>Data emisji</translation>
+        <translation>Data_emisji</translation>
     </message>
     <message>
         <source>Maturity date</source>
         <comment>TX_ParaInfo_184</comment>
-        <translation>Data spłaty</translation>
+        <translation>Data_spłaty</translation>
     </message>
     <message>
         <source>Face value</source>
         <comment>TX_ParaInfo_185</comment>
-        <translation>Wartość nominalna</translation>
+        <translation>Wartość_nominalna</translation>
     </message>
     <message>
         <source>decimal number</source>
         <comment>TX_ParaInfo_186</comment>
-        <translation>liczba dziesiętna</translation>
+        <translation>Liczba_dziesiętna</translation>
     </message>
     <message>
         <source>binary number</source>
         <comment>TX_ParaInfo_187</comment>
-        <translation>liczba dwójkowa</translation>
+        <translation>Liczba_dwójkowa</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -10511,17 +10500,17 @@ Czy kontynuować?</translation>
     <message>
         <source>Lower Case Chinese number</source>
         <comment>TX_SPECIAL_STYLE_02</comment>
-        <translation>Chiński numer małymi literami</translation>
+        <translation>Chińska liczba małymi literami</translation>
     </message>
     <message>
         <source>Upper Case Chinese number</source>
         <comment>TX_SPECIAL_STYLE_03</comment>
-        <translation>Chiński numer wielkimi literami</translation>
+        <translation>Chińska liczba wielkimi literami</translation>
     </message>
     <message>
         <source>Upper Case Chinese number2</source>
         <comment>TX_SPECIAL_STYLE_04</comment>
-        <translation>Chiński numer 2 wielkimi literami</translation>
+        <translation>Chińska liczba 2 wielkimi literami</translation>
     </message>
     <message>
         <source>Upper Case RMB</source>
@@ -10671,7 +10660,7 @@ Czy kontynuować?</translation>
     <message>
         <source>This function is provided in WPS Office 2009 Professional Edition.</source>
         <comment>TX_FUNCTION_PROHIBIT</comment>
-        <translation>Ta funkcja jest udostępniona w WPS Office 2009 Professional Edition.</translation>
+        <translation>Ta funkcja jest udostępniona w edycji WPS Office 2009 Professiona.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has finished checking spelling in your selection. Do you want to check spelling in the entire sheet?</source>
@@ -10775,7 +10764,7 @@ pisowni</translation>
     <message>
         <source>Comparison Unit</source>
         <comment>TX_ParaInfo_189</comment>
-        <translation>Jednostka porównawcza</translation>
+        <translation>Jednostka_porównawcza</translation>
     </message>
     <message>
         <source>Label</source>
@@ -10825,12 +10814,12 @@ pisowni</translation>
     <message>
         <source>Hyperlink position</source>
         <comment>TX_ParaInfo_190</comment>
-        <translation>Pozycja hiperłącza</translation>
+        <translation>Łącze_lokalizacja</translation>
     </message>
     <message>
         <source>Display text</source>
         <comment>TX_ParaInfo_191</comment>
-        <translation>Wyświetl tekst</translation>
+        <translation>Wyświetlany_tekst</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
@@ -10855,17 +10844,17 @@ pisowni</translation>
     <message>
         <source>Value Date</source>
         <comment>TX_ParaInfo_192</comment>
-        <translation>Data wyceny</translation>
+        <translation>Data_wyceny</translation>
     </message>
     <message>
         <source>Transaction Date</source>
         <comment>TX_ParaInfo_193</comment>
-        <translation>Data transakcji</translation>
+        <translation>Data_transakcji</translation>
     </message>
     <message>
         <source>Number of paying interest annually</source>
         <comment>TX_ParaInfo_194</comment>
-        <translation>Liczba płaconych odsetek rocznie</translation>
+        <translation>Liczba_płaconych_odsetek_rocznie</translation>
     </message>
     <message>
         <source>Cross-book reference cannot refer to this file.</source>
@@ -10880,12 +10869,12 @@ pisowni</translation>
     <message>
         <source>Tails</source>
         <comment>TX_ParaInfo_195</comment>
-        <translation>Mantysa</translation>
+        <translation>Strony</translation>
     </message>
     <message>
         <source>Not force the coefficient to be 0</source>
         <comment>TX_ParaInfo_196</comment>
-        <translation>Nie wymuszaj funkcji celu równej 0</translation>
+        <translation>Nie_wymuszaj_współczynnika_równego_0</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
@@ -11455,7 +11444,7 @@ pisowni</translation>
     <message>
         <source>is the text you want to find. Use double quotes (empty text) to match the first character Within_text; wildcard characters not allowed.</source>
         <comment>TX_ParaDesc_116</comment>
-        <translation>tekst do znalezienia. Użyj podwójnego cudzysłowu (pusty tekst), aby dopasować pierwszy znak w argumencie wewnątrz_tekstu; symbole wieloznaczne są niedozwolone.</translation>
+        <translation>tekst do znalezienia. Użyj podwójnego cudzysłowu (pusty tekst), aby dopasować pierwszy znak w argumencie w_tekście; symbole wieloznaczne są niedozwolone.</translation>
     </message>
     <message>
         <source>is the text containing the text you want to find.</source>
@@ -11465,7 +11454,7 @@ pisowni</translation>
     <message>
         <source>specifies the character at which to start the search. The first character in Within_text is character number 1. If omitted, Start_num = 1.</source>
         <comment>TX_ParaDesc_118</comment>
-        <translation>określa znak, od którego ma się rozpocząć wyszukiwanie. Pierwszy znak w argumencie wewnątrz_tekstu to znak o numerze 1. Jeśli pominięto, liczba_początkowa =1.</translation>
+        <translation>określa znak, od którego ma się rozpocząć wyszukiwanie. Pierwszy znak w argumencie w_tekście to znak o numerze 1. Jeśli pominięto, liczba_początkowa =1.</translation>
     </message>
     <message>
         <source>is the text you want to search.</source>
@@ -11770,7 +11759,7 @@ pisowni</translation>
     <message>
         <source>is a logical value that specifies the type of reference in Ref_text: R1C1-style = FALSE; A1-style = TRUE or omitted.</source>
         <comment>TX_ParaDesc_183</comment>
-        <translation>wartość logiczna, która określa typ odwołania w argumencie tekst_odwoł: styl W1K1 = FAŁSZ; styl A1 = PRAWDA lub pominięta.</translation>
+        <translation>wartość logiczna, która określa typ odwołania w argumencie adres_tekst: styl W1K1 = FAŁSZ; styl A1 = PRAWDA lub pominięta.</translation>
     </message>
     <message>
         <source>is the real number you want to round down to an integer.</source>
@@ -12485,7 +12474,7 @@ pisowni</translation>
     <message>
         <source>is a number, a reference to a cell containing a number, or a formula that evalueates to a number, 2 if omitted.</source>
         <comment>TX_ParaDesc_337</comment>
-        <translation type="obsolete">liczba, adres komórki zawierającej liczbę lub formuła zwracająca liczbę, jeśli jest pominięta wynosi 2.</translation>
+        <translation type="obsolete">liczba, odwołanie do komórki zawierającej liczbę lub formuła dająca w wyniku liczbę, jeśli jest pominięta wynosi 2.</translation>
     </message>
     <message>
         <source>is the Arabic numeral you want to convert.</source>
@@ -12565,7 +12554,7 @@ pisowni</translation>
     <message>
         <source>is the character number in Within_text, counting from the left, at which you want to start searching. If omitted, 1 is used.</source>
         <comment>TX_ParaDesc_354</comment>
-        <translation>numer znaku liczony od lewej strony w wewnątrz_tekstu, ustalający punkt, od którego rozpocznie się poszukiwanie. Jeśli pominięto używany jest numer 1.</translation>
+        <translation>numer znaku liczony od lewej strony w_tekście, ustalający punkt, od którego rozpocznie się poszukiwanie. Jeśli pominięto używany jest numer 1.</translation>
     </message>
     <message>
         <source>is the text you want to search.</source>
@@ -13255,7 +13244,7 @@ pisowni</translation>
     <message>
         <source>value_if_error</source>
         <comment>TX_ParaInfo_199</comment>
-        <translation>wartość_jeżeli_błąd</translation>
+        <translation>Wartość_jeśli_błąd</translation>
     </message>
     <message>
         <source>Average_range</source>
@@ -13532,22 +13521,22 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Computing method</source>
         <comment>TX_ParaInfo_204</comment>
-        <translation>Metoda obliczania</translation>
+        <translation>Metoda_obliczeń</translation>
     </message>
     <message>
         <source>Octal number</source>
         <comment>TX_ParaInfo_205</comment>
-        <translation>Liczba ósemkowa</translation>
+        <translation>Liczba_ósemkowa</translation>
     </message>
     <message>
         <source>Plural 1</source>
         <comment>TX_ParaInfo_206</comment>
-        <translation>Liczba zespolona 1</translation>
+        <translation>Liczba_zespolona1</translation>
     </message>
     <message>
         <source>Plural 2</source>
         <comment>TX_ParaInfo_207</comment>
-        <translation>Liczba zespolona 2</translation>
+        <translation>Liczba_zespolona2</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen?</source>
@@ -13612,22 +13601,22 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Data Field</source>
         <comment>TX_ParaInfo_208</comment>
-        <translation>Pole danych</translation>
+        <translation>Pole_danych</translation>
     </message>
     <message>
         <source>PivotTable area</source>
         <comment>TX_ParaInfo_209</comment>
-        <translation>Obszar tabeli przestawnej</translation>
+        <translation>Obszar_tabeli_ przestawnej</translation>
     </message>
     <message>
         <source>Field Name</source>
         <comment>TX_ParaInfo_210</comment>
-        <translation>Nazwa pola</translation>
+        <translation>Nazwa_pola</translation>
     </message>
     <message>
         <source>Field Value</source>
         <comment>TX_ParaInfo_211</comment>
-        <translation>Wartość pola</translation>
+        <translation>Wartość_pola</translation>
     </message>
     <message>
         <source>Import Text File</source>
@@ -14410,27 +14399,27 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>number1%1number2%1...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
         <comment>TX_ParaDesc_018</comment>
-        <translation>liczba1%1,liczba2%1,... od 1 do 255 argumentów, dla których ma zostać obliczona średnia z odchyleń bezwzględnych.</translation>
+        <translation type="unfinished">liczba1%1,liczba2%1,... od 1 do 255 argumentów, dla których ma zostać obliczona średnia z odchyleń bezwzględnych.</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 30 numeric arguments for which you want the average.</source>
         <comment>TX_ParaDesc_019</comment>
-        <translation>liczba1%1,liczba2%1,... od 1 do 255 argumentów, dla których zostanie wyznaczona wartość średnia.</translation>
+        <translation type="unfinished">liczba1%1,liczba2%1,... od 1 do 255 argumentów, dla których zostanie wyznaczona wartość średnia.</translation>
     </message>
     <message>
         <source>value1%1value2%1...are 1 to 30 arguments for which you want the average.</source>
         <comment>TX_ParaDesc_020</comment>
-        <translation>wartość1%1,wartość2%1,... od 1 do 255 argumentów, dla których ma być obliczona średnia.</translation>
+        <translation type="unfinished">wartość1%1,wartość2%1,... od 1 do 255 argumentów, dla których ma być obliczona średnia.</translation>
     </message>
     <message>
         <source>value 1%1 value 2%1... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
         <comment>TX_ParaDesc_044</comment>
-        <translation>wartość 1%1, wartość 2%1,... od 1 do 254 liczb, odwołań do komórek, zdefiniowanych nazw, formuł lub tekstów, z których funkcja WYBIERZ może wybierać.</translation>
+        <translation type="unfinished">wartość 1%1, wartość 2%1,... od 1 do 254 liczb, odwołań do komórek, zdefiniowanych nazw, formuł lub tekstów, z których funkcja WYBIERZ może wybierać.</translation>
     </message>
     <message>
         <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
         <comment>TX_ParaDesc_051</comment>
-        <translation>tekst1%1,tekst2%1,... od 1 do 255 ciągów tekstowych, które mają zostać połączone w jeden ciąg tekstowy; mogą to być ciągi tekstowe, liczby lub odwołania do pojedynczych komórek.</translation>
+        <translation type="unfinished">tekst1%1,tekst2%1,... od 1 do 255 ciągów tekstowych, które mają zostać połączone w jeden ciąg tekstowy; mogą to być ciągi tekstowe, liczby lub odwołania do pojedynczych komórek.</translation>
     </message>
     <message>
         <source>value1%1value2%1... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
@@ -14445,7 +14434,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>number1%1 number2%1... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
         <comment>TX_ParaDesc_094</comment>
-        <translation>liczba1%1, liczba2%1,... od 1 do 255 argumentów, lub tablica albo odwołanie do tablicy, dla której ma zostać obliczona suma kwadratów odchyleń.</translation>
+        <translation type="unfinished">liczba1%1, liczba2%1,... od 1 do 255 argumentów, lub tablica albo odwołanie do tablicy, dla której ma zostać obliczona suma kwadratów odchyleń.</translation>
     </message>
     <message>
         <source>is the interest rate per period. For example, use 6%/4 for quarterly payment at 6% APR.</source>
@@ -14460,17 +14449,17 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
         <comment>TX_ParaDesc_153</comment>
-        <translation>liczba1%1, liczba2%1,... od 1 do 255 liczb lub nazw, tablic albo odwołań, które zawierają uśredniane liczby.</translation>
+        <translation type="unfinished">liczba1%1, liczba2%1,... od 1 do 255 liczb lub nazw, tablic albo odwołań, które zawierają uśredniane liczby.</translation>
     </message>
     <message>
         <source>number1%1 number2%1... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
         <comment>TX_ParaDesc_160</comment>
-        <translation>liczba1%1, liczba2%1,... od 1 do 255 liczb lub nazw, tablic albo odwołań, które zawierają uśredniane liczby.</translation>
+        <translation type="unfinished">liczba1%1, liczba2%1,... od 1 do 255 liczb lub nazw, tablic albo odwołań, które zawierają uśredniane liczby.</translation>
     </message>
     <message>
         <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
         <comment>TX_ParaDesc_203</comment>
-        <translation>liczba1%1, liczba2%1,... od 1 do 255 liczb lub nazw, tablic albo odwołań zawierających liczby, dla których ma być obliczona kurtoza.</translation>
+        <translation type="unfinished">liczba1%1, liczba2%1,... od 1 do 255 liczb lub nazw, tablic albo odwołań zawierających liczby, dla których ma być obliczona kurtoza.</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 255 values for which you want the least common multiple.</source>
@@ -14480,87 +14469,87 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>number1%1number2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_234</comment>
-        <translation>liczba1%1,liczba2%1,... od 1 do 255 liczb, pustych komórek, wartości logicznych lub liczb w postaci tekstowej, których maksimum chcesz znaleźć.</translation>
+        <translation type="unfinished">liczba1%1,liczba2%1,... od 1 do 255 liczb, pustych komórek, wartości logicznych lub liczb w postaci tekstowej, których maksimum chcesz znaleźć.</translation>
     </message>
     <message>
         <source>value1%1value2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_235</comment>
-        <translation>wartość1%1,wartość2%1,... od 1 do 255 liczb, pustych komórek, wartości logicznych lub liczb w postaci tekstowej, których maksimum chcesz znaleźć.</translation>
+        <translation type="unfinished">wartość1%1,wartość2%1,... od 1 do 255 liczb, pustych komórek, wartości logicznych lub liczb w postaci tekstowej, których maksimum chcesz znaleźć.</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
         <comment>TX_ParaDesc_237</comment>
-        <translation>liczba1%1,liczba2%1,... od 1 do 255 liczb lub nazw, tablic albo odwołań zawierających liczby, dla których ma zostać wyznaczona mediana.</translation>
+        <translation type="unfinished">liczba1%1,liczba2%1,... od 1 do 255 liczb lub nazw, tablic albo odwołań zawierających liczby, dla których ma zostać wyznaczona mediana.</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_244</comment>
-        <translation>liczba1%1,liczba2%1,... od 1 do 255 liczb, pustych komórek, wartości logicznych lub liczb w postaci tekstowej, wśród których nastąpi wyszukanie liczby najmniejszej.</translation>
+        <translation type="unfinished">liczba1%1,liczba2%1,... od 1 do 255 liczb, pustych komórek, wartości logicznych lub liczb w postaci tekstowej, wśród których nastąpi wyszukanie liczby najmniejszej.</translation>
     </message>
     <message>
         <source>value1%1value2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_245</comment>
-        <translation>wartość1%1,wartość2%1,... od 1 do 255 liczb, pustych komórek, wartości logicznych lub liczb w postaci tekstowej, wśród których nastąpi wyszukanie liczby najmniejszej.</translation>
+        <translation type="unfinished">wartość1%1,wartość2%1,... od 1 do 255 liczb, pustych komórek, wartości logicznych lub liczb w postaci tekstowej, wśród których nastąpi wyszukanie liczby najmniejszej.</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
         <comment>TX_ParaDesc_254</comment>
-        <translation>liczba1%1,liczba2%1,... od 1 do 255 liczb lub nazw albo odwołań zawierających liczby, dla których ma być obliczona funkcja WYST.NAJCZĘŚCIEJ.</translation>
+        <translation type="unfinished">liczba1%1,liczba2%1,... od 1 do 255 liczb lub nazw albo odwołań zawierających liczby, dla których ma być obliczona funkcja WYST.NAJCZĘŚCIEJ.</translation>
     </message>
     <message>
         <source>value 1%1 value 2%1... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
         <comment>TX_ParaDesc_274</comment>
-        <translation>wartość 1%1, wartość 2%1,... od 1 do 254 argumentów reprezentujących płatności i wpływy równo rozłożone w czasie i występujące na końcu każdego okresu.</translation>
+        <translation type="unfinished">wartość 1%1, wartość 2%1,... od 1 do 254 argumentów reprezentujących płatności i wpływy równo rozłożone w czasie i występujące na końcu każdego okresu.</translation>
     </message>
     <message>
         <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
         <comment>TX_ParaDesc_281</comment>
-        <translation>logiczna1%1,logiczna2%1,... od 1 do 255 testowanych warunków, które mogą mieć wartość PRAWDA albo FAŁSZ</translation>
+        <translation type="unfinished">logiczna1%1,logiczna2%1,... od 1 do 255 testowanych warunków, które mogą mieć wartość PRAWDA albo FAŁSZ</translation>
     </message>
     <message>
         <source>number 1%1 number 2%1...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
         <comment>TX_ParaDesc_307</comment>
-        <translation>liczba 1%1, liczba 2%1,... od 1 do 255 liczb, wartości logicznych lub tekstowej reprezentacji liczb, które mają być mnożone.</translation>
+        <translation type="unfinished">liczba 1%1, liczba 2%1,... od 1 do 255 liczb, wartości logicznych lub tekstowej reprezentacji liczb, które mają być mnożone.</translation>
     </message>
     <message>
         <source>topic1%1topic2%1...are 1 to 28 parameters that specify a piece of data.</source>
         <comment>TX_ParaDesc_351</comment>
-        <translation>temat1%1,temat2%1,... od 1 do 253 parametrów określających dane.</translation>
+        <translation type="unfinished">temat1%1,temat2%1,... od 1 do 253 parametrów określających dane.</translation>
     </message>
     <message>
         <source>number 1%1number 2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
         <comment>TX_ParaDesc_360</comment>
-        <translation>liczba 1%1, liczba 2%1,... od 1 do 255 liczb lub nazw, tablic albo odwołań, dla których ma być obliczona skośność.</translation>
+        <translation type="unfinished">liczba 1%1, liczba 2%1,... od 1 do 255 liczb lub nazw, tablic albo odwołań, dla których ma być obliczona skośność.</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_372</comment>
-        <translation>liczba1%1,liczba2%1,... od 1 do 255 liczb odpowiadających próbce populacji, mogą być to liczby lub odwołania zawierające liczby.</translation>
+        <translation type="unfinished">liczba1%1,liczba2%1,... od 1 do 255 liczb odpowiadających próbce populacji, mogą być to liczby lub odwołania zawierające liczby.</translation>
     </message>
     <message>
         <source>value1%1value2%1... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
         <comment>TX_ParaDesc_373</comment>
-        <translation>wartość1%1,wartość2%1,... od 1 do 255 wartości odpowiadających próbce populacji; mogą to być wartościami, nazwami i odwołaniami do adresów zawierających wartości.</translation>
+        <translation type="unfinished">wartość1%1,wartość2%1,... od 1 do 255 wartości odpowiadających próbce populacji; mogą to być wartościami, nazwami i odwołaniami do adresów zawierających wartości.</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_374</comment>
-        <translation>liczba1%1,liczba2%1,... od 1 do 255 liczb odpowiadających populacji, mogą być to liczby lub odwołania zawierające liczby.</translation>
+        <translation type="unfinished">liczba1%1,liczba2%1,... od 1 do 255 liczb odpowiadających populacji, mogą być to liczby lub odwołania zawierające liczby.</translation>
     </message>
     <message>
         <source>value1%1value2%1...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
         <comment>TX_ParaDesc_375</comment>
-        <translation>wartość1%1,wartość2%1,... od 1 do 255 wartości odpowiadających populacji; mogą być wartościami, nazwami i odwołaniami do adresów zawierających wartości.</translation>
+        <translation type="unfinished">wartość1%1,wartość2%1,... od 1 do 255 wartości odpowiadających populacji; mogą być wartościami, nazwami i odwołaniami do adresów zawierających wartości.</translation>
     </message>
     <message>
         <source>ref 1%1 ref 2%1...are 1 to 29 ranges or references for which you want the subtotal.</source>
         <comment>TX_ParaDesc_381</comment>
-        <translation>adres 1%1, adres 2%1,... od 1 do 254 zakresów lub odwołań, dla których ma być obliczona suma częściowa.</translation>
+        <translation type="unfinished">adres 1%1, adres 2%1,... od 1 do 254 zakresów lub odwołań, dla których ma być obliczona suma częściowa.</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
         <comment>TX_ParaDesc_382</comment>
-        <translation>liczba1%1,liczba2%1,... od 1 do 255 argumentów, które zostaną zsumowane. Wartości logiczne i tekst w komórkach są ignorowane, a uwzględniane, jeśli są wpisane jako argumenty.</translation>
+        <translation type="unfinished">liczba1%1,liczba2%1,... od 1 do 255 argumentów, które zostaną zsumowane. Wartości logiczne i tekst w komórkach są ignorowane, a uwzględniane, jeśli są wpisane jako argumenty.</translation>
     </message>
     <message>
         <source>array1%1array2%1...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
@@ -14570,7 +14559,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>number1%1number2%1...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
         <comment>TX_ParaDesc_387</comment>
-        <translation>liczba1%1,liczba2%1,... od 1 do 255 liczb lub nazw, tablic albo odwołań, dla których ma być obliczona suma kwadratów.</translation>
+        <translation type="unfinished">liczba1%1,liczba2%1,... od 1 do 255 liczb lub nazw, tablic albo odwołań, dla których ma być obliczona suma kwadratów.</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
@@ -14580,22 +14569,22 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>value1%1value2%1... are 1 to 30 value arguments corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_424</comment>
-        <translation>wartość1%1,wartość2%1,... od 1 do 255 argumentów odpowiadających próbce populacji.</translation>
+        <translation type="unfinished">wartość1%1,wartość2%1,... od 1 do 255 argumentów odpowiadających próbce populacji.</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_425</comment>
-        <translation>liczba1%1,liczba2%1,... od 1 do 255 wartości liczbowych odpowiadających populacji.</translation>
+        <translation type="unfinished">liczba1%1,liczba2%1,... od 1 do 255 wartości liczbowych odpowiadających populacji.</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_426</comment>
-        <translation>liczba1%1,liczba2%1,... od 1 do 255 wartości liczbowych odpowiadających populacji.</translation>
+        <translation type="unfinished">liczba1%1,liczba2%1,... od 1 do 255 wartości liczbowych odpowiadających populacji.</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 255 values for which you want the multinomial.</source>
         <comment>TX_ParaDesc_476</comment>
-        <translation>liczba1%1,liczba2%1,... sekwencja od 1 do 255 wartości, dla których należy utworzyć wielomian.</translation>
+        <translation type="unfinished">liczba1%1,liczba2%1,... sekwencja od 1 do 255 wartości, dla których należy utworzyć wielomian.</translation>
     </message>
     <message>
         <source>Value 1%1value 2%1...1 to 30 of plural numbers, used to calculate the product.</source>
@@ -14605,17 +14594,17 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
         <comment>TX_ParaDesc_546</comment>
-        <translation>nazwa identyfikatora ProgID zarejestrowanego dodatku automatyzacji COM. Nazwa musi być umieszczona w cudzysłowie.</translation>
+        <translation type="unfinished">nazwa identyfikatora ProgID zarejestrowanego dodatku automatyzacji COM. Nazwa musi być umieszczona w cudzysłowie.</translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaDesc_547</comment>
-        <translation>nazwa serwera, na którym powinien być uruchomiony dodatek. Nazwa musi być umieszczona w cudzysłowie. Jeżeli dodatek jest uruchamiany lokalnie, użyj pustego ciągu.</translation>
+        <translation type="unfinished">nazwa serwera, na którym powinien być uruchomiony dodatek. Nazwa musi być umieszczona w cudzysłowie. Jeżeli dodatek jest uruchamiany lokalnie, użyj pustego ciągu.</translation>
     </message>
     <message>
         <source>topic1%1topic2%1...are 1 to 38 parameters that specify a piece of data.</source>
         <comment>TX_ParaDesc_548</comment>
-        <translation>temat1%1,temat2%1,... od 1 do 38 parametrów określających dane.</translation>
+        <translation type="unfinished">temat1%1,temat2%1,... od 1 do 38 parametrów określających dane.</translation>
     </message>
     <message>
         <source>Directory_text</source>
@@ -14840,7 +14829,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Value 1,value 2,...1 to 30 of plural numbers, used to calculate the product.</source>
         <comment>TX_ParaDesc_522</comment>
-        <translation type="obsolete">wartość 1, wartość 2,... od 1 do 30 liczb zespolonych, używane do obliczania iloczynu.</translation>
+        <translation type="obsolete">wartość 1,wartość 2,... od 1 do 30 liczb zespolonych, używanych do obliczania iloczynu.</translation>
     </message>
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
@@ -14990,7 +14979,7 @@ Istnieje kilka możliwych przyczyn:
     <message>
         <source>Arithmetic Mean</source>
         <comment>TX_ParaInfo_117</comment>
-        <translation>Średnia arytmetyczna</translation>
+        <translation>Średnia_arytmetyczna</translation>
     </message>
     <message>
         <source>The selection contains some cells without Data Validation settings. Do you want to extend Data Validation to these cells?</source>

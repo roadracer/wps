@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -1424,10 +1424,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
 </context>
 <context>
@@ -2174,7 +2171,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>Wyrównanie WordArt</translation>
+        <translation>Wyrównanie tekstu WordArt</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
@@ -2682,10 +2679,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>MailFeedBack</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Poczta opinii</lengthvariant>
-            <lengthvariant>Poczta Feedback</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wyślij opinię przez e-mail</translation>
     </message>
     <message>
         <source>More Colors</source>
@@ -2968,7 +2962,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Recently File Management</source>
-        <translation type="unfinished">Ostatnie zarządzanie plikami</translation>
+        <translation type="unfinished">Zarządzanie niedawno używanymi plikami</translation>
     </message>
     <message>
         <source>Record Macro Statusbar</source>
@@ -3209,7 +3203,7 @@ zadań</translation>
     <name>etcommon.mainwindow.commands.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>Grupa</translation>
+        <translation>Grupuj</translation>
     </message>
 </context>
 <context>
@@ -3429,10 +3423,7 @@ zadań</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
-            <lengthvariant>WPS dla firm</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wersja WPS Business</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -3669,10 +3660,7 @@ zadań</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
-            <lengthvariant>WPS dla firm</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wersja WPS Business</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -3811,8 +3799,8 @@ zadań</translation>
     <message>
         <source>Change
 Chart Type</source>
-        <translation type="obsolete">Zmienianie
-typu wykresu</translation>
+        <translation type="obsolete">Zmień typ
+wykresu</translation>
     </message>
     <message>
         <source>ChangeChartType</source>
@@ -5248,7 +5236,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished">Eksportuj do OFD</translation>
+        <translation>Eksportuj do OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -6063,7 +6051,7 @@ używane</translation>
     </message>
     <message>
         <source>Fill Series</source>
-        <translation type="unfinished">Wypełnij serią</translation>
+        <translation>Wypełnij serią</translation>
     </message>
     <message>
         <source>Find</source>
@@ -6567,7 +6555,7 @@ kolumny</translation>
     <name>ongmani.ct_home.SetFormatCells</name>
     <message>
         <source>Format Cells</source>
-        <translation>Formatowanie komórek</translation>
+        <translation>Formatuj komórki</translation>
     </message>
 </context>
 <context>
@@ -6645,8 +6633,8 @@ formantu</translation>
     <message>
         <source>Header and 
 Footer</source>
-        <translation>Nagłówek i 
-stopka</translation>
+        <translation>Nagłówek
+ i stopka</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -7198,10 +7186,7 @@ obrazy</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wstaw obrazy w trybie online</lengthvariant>
-            <lengthvariant>Wstawianie obrazów w trybie online</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wstaw obraz w trybie online</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -7984,8 +7969,8 @@ listę pól</translation>
     <message>
         <source>Header and 
 Footer</source>
-        <translation>Nagłówek i 
-stopka</translation>
+        <translation>Nagłówek
+ i stopka</translation>
     </message>
     <message>
         <source>Landscape</source>
@@ -9710,7 +9695,7 @@ WordArt</translation>
     <message>
         <source>WordArt 
 Shape</source>
-        <translation>Kształt  
+        <translation>Kształt tekstu 
 WordArt</translation>
     </message>
     <message>
@@ -9877,7 +9862,7 @@ WordArt</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished">Opinie użytkowników</translation>
+        <translation>Opinie użytkowników</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -10704,7 +10689,7 @@ COM</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished">Eksportuj do OFD</translation>
+        <translation>Eksportuj do OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -10757,7 +10742,7 @@ COM</translation>
     <message>
         <source>Fill Series</source>
         <comment>Fill</comment>
-        <translation type="unfinished">Wypełnij serią</translation>
+        <translation>Wypełnij serią</translation>
     </message>
     <message>
         <source>Fill Weekdays</source>
@@ -11772,10 +11757,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -11963,10 +11945,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>UnSplit</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Cofnij podział</lengthvariant>
-            <lengthvariant>Usuń podział</lengthvariant>
-        </translation>
+        <translation type="obsolete">Cofnij podział</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -12046,10 +12025,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
-            <lengthvariant>WPS dla firm</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wersja WPS Business</translation>
     </message>
     <message>
         <source>WPS Office BBS</source>
@@ -12230,8 +12206,8 @@ wyśrodkuj</translation>
     <message>
         <source>Change
 Chart Type</source>
-        <translation type="obsolete">Zmienianie
-typu wykresu</translation>
+        <translation type="obsolete">Zmień typ
+wykresu</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
@@ -13599,7 +13575,7 @@ COM</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished">Eksportuj do OFD</translation>
+        <translation>Eksportuj do OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -14384,7 +14360,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Fill Series</source>
-        <translation type="unfinished">Wypełnij serią</translation>
+        <translation>Wypełnij serią</translation>
     </message>
     <message>
         <source>Find</source>
@@ -14845,7 +14821,7 @@ wyśrodkuj</translation>
     <name>rainbow.ct_home.SetFormatCells</name>
     <message>
         <source>Format Cells</source>
-        <translation>Formatowanie komórek</translation>
+        <translation>Formatuj komórki</translation>
     </message>
 </context>
 <context>
@@ -14928,10 +14904,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wstaw obraz w trybie online</lengthvariant>
-            <lengthvariant>Wstawianie obrazu w trybie online</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wstaw obraz w trybie online</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
@@ -17212,7 +17185,10 @@ inne okna</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Niestandardowy</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Depth</source>
@@ -17260,7 +17236,10 @@ inne okna</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normalny</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalny</lengthvariant>
+            <lengthvariant>Normalne</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
@@ -17493,7 +17472,10 @@ cienia</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Niestandardowy</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dash</source>
@@ -18000,7 +17982,7 @@ cienia</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished">Opinie użytkowników</translation>
+        <translation>Opinie użytkowników</translation>
     </message>
     <message>
         <source>User Guide</source>
@@ -18192,10 +18174,7 @@ cienia</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
-            <lengthvariant>WPS dla firm</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wersja WPS Business</translation>
     </message>
 </context>
 </TS>

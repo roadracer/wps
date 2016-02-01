@@ -1436,7 +1436,7 @@ Average</source>
     </message>
     <message>
         <source>The layout will take effect after restart or logoff computer</source>
-        <translation type="unfinished">Układ zacznie obowiązywać po ponownym uruchomieniu lub wylogowaniu komputera</translation>
+        <translation>Układ zacznie obowiązywać po ponownym uruchomieniu lub wylogowaniu komputera</translation>
     </message>
     <message>
         <source>Downloading online font &quot;%1&quot;. Click the font list to see more detail. (Restart to take effect)</source>
@@ -2197,7 +2197,7 @@ Average</source>
     </message>
     <message>
         <source>Network error...</source>
-        <translation type="unfinished">Błąd sieciowy...</translation>
+        <translation>Błąd sieciowy...</translation>
     </message>
     <message>
         <source>A network error occurred.</source>
@@ -2268,51 +2268,51 @@ Average</source>
     <name>KRegisterDlg</name>
     <message>
         <source>Documents&apos; Author</source>
-        <translation type="unfinished">Autor dokumentów</translation>
+        <translation>Autor dokumentów</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
-        <translation type="obsolete">Zapisywanie numeru seryjnego nie powiodło się. Proszę sprawdź, czy masz uprawnienia administratora, czy też nie.</translation>
+        <translation type="obsolete">Zapisywanie numeru seryjnego nie powiodło się. Proszę sprawdź, czy masz uprawnienia administratora.</translation>
     </message>
     <message>
         <source>The items with &quot;*&quot; must be entered.</source>
-        <translation type="unfinished">Elementy z &quot;*&quot; muszą zostać wprowadzone.</translation>
+        <translation>Elementy z &quot;*&quot; muszą zostać wprowadzone.</translation>
     </message>
     <message>
         <source>* Name:</source>
-        <translation type="unfinished">* Nazwa:</translation>
+        <translation>* Nazwa:</translation>
     </message>
     <message>
         <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
-        <translation type="unfinished">(&quot;Nazwa&quot; jest nazwą dokumentu autora i recenzenta)</translation>
+        <translation>(&quot;Nazwa&quot; jest nazwą dokumentu autora i recenzenta)</translation>
     </message>
     <message>
         <source>Initials:</source>
-        <translation type="unfinished">Inicjały:</translation>
+        <translation>Inicjały:</translation>
     </message>
     <message>
         <source>Organization:</source>
-        <translation type="unfinished">Organizacja:</translation>
+        <translation>Organizacja:</translation>
     </message>
     <message>
         <source>* Serial No.:</source>
-        <translation type="unfinished">* Nr seryjny:</translation>
+        <translation>* Nr seryjny:</translation>
     </message>
     <message>
         <source>The serial number you entered is invalid. Please check the input format, its supported version and the valid date.</source>
-        <translation type="unfinished">Wprowadzony numer seryjny jest nieprawidłowy. Sprawdź format wejściowy, jego obsługiwaną wersję i datę ważności.</translation>
+        <translation>Wprowadzony numer seryjny jest nieprawidłowy. Sprawdź format wejściowy, jego obsługiwaną wersję i datę ważności.</translation>
     </message>
     <message>
         <source>Your input is incorrect and the program will exit.</source>
-        <translation type="unfinished">Twój wpis jest niepoprawny i program zostanie zamknięty.</translation>
+        <translation>Twój wpis jest niepoprawny i program zostanie zamknięty.</translation>
     </message>
     <message>
         <source>Fail to save the serial number. Please check whether you have the administrator permission or not.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zapisać numeru seryjnego. Proszę sprawdź, czy masz uprawnienia administratora.</translation>
     </message>
 </context>
 <context>
@@ -2327,7 +2327,7 @@ Average</source>
     </message>
     <message>
         <source>Password error, try again</source>
-        <translation type="obsolete">Błąd hasła, spróbuj ponownie</translation>
+        <translation type="obsolete">Nieprawidłowe hasło, spróbuj ponownie</translation>
     </message>
     <message>
         <source>Incorrect password. Please re-enter.</source>
@@ -2860,7 +2860,7 @@ Average</source>
     </message>
     <message>
         <source>%1(%2)</source>
-        <translation type="unfinished">%1(%2)</translation>
+        <translation>%1(%2)</translation>
     </message>
     <message>
         <source>res:/icons/kxshare/%1.png</source>
@@ -2915,7 +2915,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
-        <translation type="obsolete">Użytkownicy z uprawnieniem do odczytu mogą odczytywać ten dokument, ale nie mogą zmieniać, drukować ani kopiować zawartości.</translation>
+        <translation type="obsolete">Użytkownicy z uprawnieniem do odczytu mogą odczytywać ten dokument, ale nie mogą zmieniać, drukować lub kopiować zawartości.</translation>
     </message>
     <message>
         <source>Give all users Read Access</source>
@@ -3043,31 +3043,31 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <name>KxAutoShapePanel</name>
     <message>
         <source>Lines</source>
-        <translation type="unfinished">Linie</translation>
+        <translation>Linie</translation>
     </message>
     <message>
         <source>Connectors</source>
-        <translation type="unfinished">Łączniki</translation>
+        <translation>Łączniki</translation>
     </message>
     <message>
         <source>Block Arrows</source>
-        <translation type="unfinished">Strzałki blokowe</translation>
+        <translation>Strzałki blokowe</translation>
     </message>
     <message>
         <source>Flowchart</source>
-        <translation type="unfinished">Schemat blokowy</translation>
+        <translation>Schemat blokowy</translation>
     </message>
     <message>
         <source>Stars and Banners</source>
-        <translation type="unfinished">Gwiazdy i transparenty</translation>
+        <translation>Gwiazdy i transparenty</translation>
     </message>
     <message>
         <source>Callouts</source>
-        <translation type="unfinished">Objaśnienia</translation>
+        <translation>Objaśnienia</translation>
     </message>
     <message>
         <source>Action Buttons</source>
-        <translation type="unfinished">Przyciski akcji</translation>
+        <translation>Przyciski akcji</translation>
     </message>
     <message>
         <source>Basic Shapes</source>
@@ -3645,7 +3645,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <message>
         <source>To work with Control Toolbox, please purchase WPS Office Professional.
 </source>
-        <translation type="obsolete">Aby korzystać z Przybornika formantów, należy zakupić WPS Office Professional.</translation>
+        <translation type="obsolete">Aby korzystać z Przybornika formantów, proszę zakupić WPS Office Professional.</translation>
     </message>
     <message>
         <source>????????????? WPS Office ????</source>
@@ -4956,7 +4956,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>pushButton</source>
-        <translation type="unfinished">z przyciskiem</translation>
+        <translation>Przycisk</translation>
     </message>
 </context>
 <context>
@@ -5199,10 +5199,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgRecentFileManage</name>
     <message>
         <source>Recent File Management</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Zarządzanie niedawno używanych plików</lengthvariant>
-            <lengthvariant>Zarządzanie ostatnio używanych plików</lengthvariant>
-        </translation>
+        <translation type="obsolete">Zarządzanie niedawno używanymi plikami</translation>
     </message>
     <message>
         <source>ID</source>
@@ -5219,7 +5216,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This will not delete the files but only remove the records.
 Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
-        <translation type="obsolete">Wybierz rekordy, które chcesz usunąć z listy niedawno używanych plików, a następnie naciśnij przycisk Usuń, aby to zatwierdzić. Nie spowoduje to usunięcia plików, ale tylko usunie rekordy.
+        <translation type="obsolete">Wybierz rekordy, które chcesz usunąć z listy niedawno używanych plików, a następnie naciśnij przycisk Usuń, aby to zatwierdzić. Nie spowoduje to usunięcia plików, tylko usunie rekordy.
 Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to usunięcie zaznaczenia elementów.</translation>
     </message>
     <message>
@@ -5344,7 +5341,7 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     </message>
     <message>
         <source>Enter Viewer Mode</source>
-        <translation type="obsolete">Przejdź do trybu przeglądarki</translation>
+        <translation type="obsolete">Przejdź w tryb przeglądarki</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -5356,7 +5353,7 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     </message>
     <message>
         <source>The trial period of your WPS Office Beta has expired. You can enter Viewer mode, in which keyboard entry will be disabled, to continue or update to the latest Personal version of WPS Office.</source>
-        <translation type="obsolete">Wygasł okres próbny WPS Office Beta. Możesz przejść do trybu przeglądarki, w którym wprowadzanie z klawiatury zostanie wyłączone, aby kontynuować lub zaktualizować do najnowszej wersji WPS Office Personal.</translation>
+        <translation type="obsolete">Wygasł okres próbny WPS Office Beta. Możesz przejść w tryb przeglądarki, w którym wprowadzanie z klawiatury zostanie wyłączone, aby kontynuować lub zaktualizować do najnowszej wersji WPS Office Personal.</translation>
     </message>
     <message>
         <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
@@ -5423,11 +5420,11 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     <name>KxEulaDlg</name>
     <message>
         <source>WPS Office</source>
-        <translation type="unfinished">WPS Office</translation>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>End-User License Agreement</source>
-        <translation type="unfinished">Umowa Licencyjna Użytkownika Oprogramowania</translation>
+        <translation>Umowa Licencyjna Użytkownika Oprogramowania</translation>
     </message>
     <message>
         <source>I &amp;Decline</source>
@@ -5476,11 +5473,11 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     <name>KxFeekbackCommand</name>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished">Opinia</translation>
+        <translation>Opinia</translation>
     </message>
     <message>
         <source>No E-Mail Client.</source>
-        <translation type="unfinished">Brak klienta poczty e-mail.</translation>
+        <translation>Brak klienta poczty e-mail.</translation>
     </message>
 </context>
 <context>
@@ -5526,14 +5523,9 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
         <source>
 
 modify time: </source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>
+        <translation type="obsolete">
 
-czas ostatniej modyfikacji: </lengthvariant>
-            <lengthvariant>
-
-zmieniony: </lengthvariant>
-        </translation>
+Godzina modyfikacji: </translation>
     </message>
     <message>
         <source>
@@ -5893,19 +5885,19 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation type="obsolete">Ten dokument wykorzystuje czcionki chmury &quot;%1&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
+        <translation type="obsolete">Ten dokument używa czcionek chmury &quot;%1&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation type="obsolete">Ten dokument wykorzystuje czcionki chmury &quot;%1&quot; i &quot;%2&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
+        <translation type="obsolete">Ten dokument używa czcionek chmury &quot;%1&quot; i &quot;%2&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation type="obsolete">Ten dokument wykorzystuje czcionki chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
+        <translation type="obsolete">Ten dokument używa czcionek chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
-        <translation type="obsolete">Ten dokument wykorzystuje czcionki chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;, itp. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
+        <translation type="obsolete">Ten dokument używa czcionek chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;, itp. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
     <message>
         <source>This document uses cloud font &quot;%1&quot;. For your convenience, please download this cloud font.</source>
@@ -6753,19 +6745,19 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>Close all tabs or current tab</source>
-        <translation type="unfinished">Zamknij wszystkie karty lub bieżącą kartę</translation>
+        <translation>Zamknij wszystkie karty lub bieżącą kartę</translation>
     </message>
     <message>
         <source>Close all</source>
-        <translation type="unfinished">Zamknij wszystkie</translation>
+        <translation>Zamknij wszystkie</translation>
     </message>
     <message>
         <source>Close current</source>
-        <translation type="unfinished">Zamknij bieżącą</translation>
+        <translation>Zamknij bieżącą</translation>
     </message>
     <message>
         <source>cancel Close</source>
-        <translation type="unfinished">anuluj Zamknij</translation>
+        <translation>anuluj Zamknij</translation>
     </message>
     <message>
         <source>Touch Mode</source>
@@ -6939,27 +6931,27 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>import templates</source>
-        <translation type="unfinished">importuj szablony</translation>
+        <translation>importuj szablony</translation>
     </message>
     <message>
         <source>template file</source>
-        <translation type="unfinished">plik szablonu</translation>
+        <translation>plik szablonu</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Template</source>
-        <translation type="unfinished">Szablon programu Kingsoft Presentation</translation>
+        <translation>Szablon programu Kingsoft Presentation</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Template</source>
-        <translation type="unfinished">Szablon programu Microsoft PowerPoint 97/2000/XP/2003</translation>
+        <translation>Szablon programu Microsoft PowerPoint 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets Templates</source>
-        <translation type="unfinished">Szablony programu Kingsoft Spreadsheets</translation>
+        <translation>Szablony programu Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>Microsoft Excel 97/2000/XP/2003 Template</source>
-        <translation type="unfinished">Szablon programu Excel 97/2000/XP/2003</translation>
+        <translation>Szablon programu Excel 97/2000/XP/2003</translation>
     </message>
 </context>
 <context>
@@ -7031,7 +7023,7 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>Vip %1 has expired, please renew</source>
-        <translation type="obsolete">Vip %1 wygasł, proszę odnów</translation>
+        <translation type="obsolete">Vip %1 wygasło, proszę odnów</translation>
     </message>
     <message>
         <source>WPS members enjoy more than 300 cloud font, monthly not regularly updated new font, let your document colorful!</source>
@@ -7058,7 +7050,7 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     <name>KxOnlineFonts</name>
     <message>
         <source>It&apos;s downloading, please wait...</source>
-        <translation type="obsolete">Trwa pobieranie, proszę czekać...</translation>
+        <translation type="obsolete">Pobieranie, proszę czekać...</translation>
     </message>
     <message>
         <source>Pause. Click to continue</source>
@@ -7126,7 +7118,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Click to keep cloud fonts on top</source>
-        <translation type="obsolete">Kliknij, aby zachować czcionki chmury na górze</translation>
+        <translation type="obsolete">Kliknij, aby zachować czcionki chmury na wierzchu</translation>
     </message>
     <message>
         <source>Click to shuffle cloud fonts</source>
@@ -7146,7 +7138,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Downloading fonts, please wait?</source>
-        <translation type="obsolete">Pobieranie czcionek, proszę czekać?</translation>
+        <translation type="obsolete">Pobieranie czcionek, proszę czekać...</translation>
     </message>
     <message>
         <source>Upgrade to use VIP-only fonts.
@@ -7164,7 +7156,7 @@ Kliknij tutaj, aby się zalogować.</translation>
     </message>
     <message>
         <source>Your %1 membership expires now. Please renew.</source>
-        <translation>Twoje członkostwo %1 wygasa teraz. Proszę odnowić.</translation>
+        <translation>Twoje członkostwo %1 wygasa teraz. Proszę odnów.</translation>
     </message>
     <message>
         <source>Downloading, please wait...</source>
@@ -7176,7 +7168,7 @@ Kliknij tutaj, aby się zalogować.</translation>
     </message>
     <message>
         <source>Your %1 membership expires now. Please renew to use cloud fonts.</source>
-        <translation>Twoje członkostwo %1 wygasa teraz. Proszę odnowić, aby używć czcionek chmury.</translation>
+        <translation>Twoje członkostwo %1 wygasa teraz. Proszę odnów, aby używć czcionek chmury.</translation>
     </message>
     <message>
         <source>All currently available cloud fonts have been installed.  More are coming soon!</source>
@@ -7214,19 +7206,19 @@ Kliknij tutaj, aby się zalogować.</translation>
     <name>KxOverdueDlg</name>
     <message>
         <source>Thank you for using the trial version of our product.</source>
-        <translation type="unfinished">Dziękujemy za korzystanie z wersji próbnej naszego produktu.</translation>
+        <translation>Dziękujemy za korzystanie z wersji próbnej naszego produktu.</translation>
     </message>
     <message>
         <source>Enter Viewer</source>
-        <translation type="obsolete">Przejdź do trybu przeglądarki</translation>
+        <translation type="obsolete">Przejdź w tryb przeglądarki</translation>
     </message>
     <message>
         <source>Disable Print</source>
-        <translation type="unfinished">Wyłącz drukowanie</translation>
+        <translation>Wyłącz drukowanie</translation>
     </message>
     <message>
         <source>Update to Personal</source>
-        <translation type="unfinished">Aktualizuj do Personal</translation>
+        <translation>Aktualizuj do Personal</translation>
     </message>
     <message>
         <source>You also can download</source>
@@ -7234,35 +7226,35 @@ Kliknij tutaj, aby się zalogować.</translation>
     </message>
     <message>
         <source>Purchase Now</source>
-        <translation type="unfinished">Zakup teraz</translation>
+        <translation>Zakup teraz</translation>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation type="unfinished">Twój okres próbny WPS Office wygasł i masz zamiar wejść w Tryb przeglądarki. Proszę wprowadzić prawidłowy numer seryjny, aby dalej korzystać z aplikacji. Jeśli nie masz prawidłowego numeru seryjnego, proszę zakupić jeden w</translation>
+        <translation>Twój okres próbny WPS Office wygasł i masz zamiar przejść w Tryb przeglądarki. Proszę wprowadzić prawidłowy numer seryjny, aby dalej korzystać z aplikacji. Jeśli nie masz prawidłowego numeru seryjnego, proszę zakupić jeden w</translation>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one at the</source>
-        <translation type="unfinished">Twój okres próbny WPS Office wygasł i drukowanie zostanie wyłączone. Proszę wprowadzić prawidłowy numer seryjny, aby uaktywnić. Jeśli nie masz prawidłowego numeru seryjnego, możesz zakupić jeden w</translation>
+        <translation>Twój okres próbny WPS Office wygasł i drukowanie zostanie wyłączone. Proszę wprowadzić prawidłowy numer seryjny, aby uaktywnić. Jeśli nie masz prawidłowego numeru seryjnego, możesz zakupić jeden w</translation>
     </message>
     <message>
         <source>WPS Office Free.</source>
-        <translation type="unfinished">WPS Office Free.</translation>
+        <translation>WPS Office Free.</translation>
     </message>
     <message>
         <source>WPS Online Store.</source>
-        <translation type="unfinished">WPS Online Store.</translation>
+        <translation>WPS Online Store.</translation>
     </message>
     <message>
         <source>Input Serial Number</source>
-        <translation type="unfinished">Wprowadź numer seryjny</translation>
+        <translation>Wprowadź numer seryjny</translation>
     </message>
     <message>
         <source>You can also download</source>
-        <translation type="unfinished"></translation>
+        <translation>Możesz również pobrać</translation>
     </message>
     <message>
         <source>Enter Viewer Mode</source>
-        <translation type="unfinished">Przejdź do trybu przeglądarki</translation>
+        <translation>Przejdź w tryb przeglądarki</translation>
     </message>
 </context>
 <context>
@@ -7457,23 +7449,23 @@ Kliknij tutaj, aby się zalogować.</translation>
     <name>KxPrintRestrictDlg</name>
     <message>
         <source>You are using a free version. </source>
-        <translation type="unfinished">Korzystasz z wersji darmowej. </translation>
+        <translation>Używasz wersji darmowej. </translation>
     </message>
     <message>
         <source>A watermark will be added to your document when printing. We recommend that you click Print Preview to see effects before printing.</source>
-        <translation type="unfinished">Podczas drukowania do dokumentu zostanie dodany znak wodny. Zalecamy kliknąć Podgląd wydruku, aby zobaczyć efekty przed drukowaniem.</translation>
+        <translation>Podczas drukowania do dokumentu zostanie dodany znak wodny. Zalecamy kliknąć Podgląd wydruku, aby zobaczyć efekty przed drukowaniem.</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished">&amp;Drukuj</translation>
+        <translation>&amp;Drukuj</translation>
     </message>
     <message>
         <source>Print Pre&amp;view</source>
-        <translation type="unfinished">&amp;Podgląd wydruku</translation>
+        <translation>&amp;Podgląd wydruku</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Anuluj</translation>
+        <translation>&amp;Anuluj</translation>
     </message>
 </context>
 <context>
@@ -7523,7 +7515,7 @@ Kliknij tutaj, aby się zalogować.</translation>
     </message>
     <message>
         <source>Where:</source>
-        <translation>Gdzie:</translation>
+        <translation>Lokalizacja:</translation>
     </message>
     <message>
         <source>Na&amp;me:</source>
@@ -7792,7 +7784,7 @@ Kliknij tutaj, aby się zalogować.</translation>
     </message>
     <message>
         <source>A key to clear</source>
-        <translation type="obsolete">Klucz do wyczyszczenia</translation>
+        <translation type="obsolete">Klawisz do wyczyszczenia</translation>
     </message>
     <message>
         <source>Clear this recor&amp;d</source>
@@ -7814,14 +7806,9 @@ Kliknij tutaj, aby się zalogować.</translation>
         <source>
 
 modify time: </source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>
+        <translation type="obsolete">
 
-czas ostatniej modyfikacji: </lengthvariant>
-            <lengthvariant>
-
-zmieniony: </lengthvariant>
-        </translation>
+Godzina modyfikacji: </translation>
     </message>
     <message>
         <source>
@@ -7843,7 +7830,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     </message>
     <message>
         <source>open file folder</source>
-        <translation type="obsolete">Otwórz folder plików</translation>
+        <translation type="obsolete">Otwórz folder pliku</translation>
     </message>
     <message>
         <source>Clear in one click</source>
@@ -8086,7 +8073,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Przycisk</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -8179,11 +8166,11 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     <name>KxSkinSwitchHtmlBridge</name>
     <message>
         <source>upload</source>
-        <translation type="obsolete">przekazywanie</translation>
+        <translation type="obsolete">Przekaż</translation>
     </message>
     <message>
         <source>(custom)</source>
-        <translation type="obsolete">(niestandardowe)</translation>
+        <translation type="obsolete">(Niestandardowe)</translation>
     </message>
     <message>
         <source>(Custom)</source>
@@ -8269,7 +8256,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>The layout will take effect after restart or logoff computer</source>
-        <translation type="unfinished">Układ zacznie obowiązywać po ponownym uruchomieniu lub wylogowaniu komputera</translation>
+        <translation>Układ zacznie obowiązywać po ponownym uruchomieniu lub wylogowaniu komputera</translation>
     </message>
 </context>
 <context>
@@ -8325,7 +8312,8 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Resolution</source>
-        <translation type="obsolete">Rozdzielczość</translation>
+        <translatorcomment>Tutaj na 100% jest &quot;Rozwiązanie&quot;, a nie &quot;Rozdzielczość&quot; - błąd w angielskim tłumaczeniu, który jest poprawiony w wersji dla windows</translatorcomment>
+        <translation type="obsolete">Rozwiązanie</translation>
     </message>
     <message>
         <source>Do not report again</source>
@@ -8451,7 +8439,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>browse templates location</source>
-        <translation type="unfinished">przeglądaj lokalizację szablonów</translation>
+        <translation>Przeglądaj lokalizację szablonów</translation>
     </message>
 </context>
 <context>
@@ -8527,7 +8515,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Sorry! An error occurred just now. Now it has been fixed.</source>
-        <translation>Przepraszamy! Wystąpił błąd. Teraz został naprawiony.</translation>
+        <translation>Przepraszamy! Wystąpił błąd. Obecnie zostało to naprawione.</translation>
     </message>
     <message>
         <source>test</source>
@@ -8603,7 +8591,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
-        <translation type="obsolete">Używając następującej listy plików można odzyskać poprzedni stan pracy przed nieoczekiwanym zakończeniem.</translation>
+        <translation type="obsolete">Używając następującej listy plików można odzyskać poprzedni stan pracy sprzed nieoczekiwanego zakończenia.</translation>
     </message>
     <message>
         <source>Open Backup Folder</source>
@@ -8741,10 +8729,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Open Recent File Management dialog box,and remove some or all of the recent file.</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Otwórz okno dialogowe Zarządzanie niedawno używanych plików i usuń niektóre lub wszystkie ostatnio używane pliki.</lengthvariant>
-            <lengthvariant>Otwórz okno dialogowe Zarządzanie ostatnio używanych plików i usuń niektóre lub wszystkie ostatnio używane pliki.</lengthvariant>
-        </translation>
+        <translation type="obsolete">Otwórz okno dialogowe Zarządzanie niedawno używanymi plikami i usuń niektóre lub wszystkie ostatnio używane pliki.</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -8754,14 +8739,9 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
         <source>
 
 modify time: </source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>
+        <translation type="obsolete">
 
-czas ostatniej modyfikacji: </lengthvariant>
-            <lengthvariant>
-
-zmieniony: </lengthvariant>
-        </translation>
+Godzina modyfikacji: </translation>
     </message>
     <message>
         <source>
@@ -8870,10 +8850,7 @@ Godzina modyfikacji: </translation>
     </message>
     <message>
         <source>Open the recent file management dialog box,and remove some or all of the recent file records.</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Otwórz okno dialogowe zarządzania niedawno używanych plików i usuń niektóre lub wszystkie rekordy ostatnio używanych plików.</lengthvariant>
-            <lengthvariant>Otwórz okno dialogowe zarządzania ostatnio używanych plików i usuń niektóre lub wszystkie rekordy ostatnio używanych plików.</lengthvariant>
-        </translation>
+        <translation type="obsolete">Otwórz okno dialogowe Zarządzanie niedawno używanymi plikami i usuń niektóre lub wszystkie rekordy ostatnio używanych plików.</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -9289,7 +9266,7 @@ Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished">Przycisk polecenia</translation>
+        <translation>Przycisk</translation>
     </message>
 </context>
 <context>
@@ -9814,8 +9791,8 @@ Zawsze podejmuj to działanie.</translation>
     <message>
         <source>WPS Office is not the default office software. Do you want to set it as the default one?
 (The system uses WPS Office as the default one to open %1 files)</source>
-        <translation>Pakiet WPS Office nie jest domyślnym oprogramowaniem biurowym. Czy chcesz ustawić go jako domyślny?
-(Domyślnie system używa pakietu WPS Office do otwierania plików %1)</translation>
+        <translation>Pakiet WPS Office nie jest domyślnym oprogramowaniem biurowym. Czy chcesz go ustawić jako domyślny?
+(Domyślnie system będzie używał pakietu WPS Office do otwierania plików %1)</translation>
     </message>
     <message>
         <source>Rose</source>
@@ -9927,10 +9904,7 @@ Ustawienia zostaną wprowadzone po ponownym uruchomieniu WPS Office.</translatio
     <name>aboutDlg</name>
     <message>
         <source>!NO_TRANS!</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>WPS</lengthvariant>
-            <lengthvariant>!NO_TRANS!</lengthvariant>
-        </translation>
+        <translation type="obsolete">WPS</translation>
     </message>
     <message>
         <source>Copyright </source>
@@ -9982,17 +9956,14 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>2016 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd. {1988-2016 ?} {2016 ?}</translation>
     </message>
 </context>
 <context>
     <name>apidefaultDlg</name>
     <message>
         <source>!NO_TRANS!</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>WPS</lengthvariant>
-            <lengthvariant>!NO_TRANS!</lengthvariant>
-        </translation>
+        <translation type="obsolete">WPS</translation>
     </message>
     <message>
         <source>Infotip</source>

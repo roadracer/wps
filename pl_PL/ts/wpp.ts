@@ -132,7 +132,7 @@
     </message>
     <message>
         <source>Add Design</source>
-        <translation type="unfinished">Dodaj projekt</translation>
+        <translation>Dodaj projekt</translation>
     </message>
 </context>
 <context>
@@ -444,10 +444,7 @@
     </message>
     <message>
         <source>UnLocked</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Odblokowane</lengthvariant>
-            <lengthvariant>Odblokowana</lengthvariant>
-        </translation>
+        <translation type="obsolete">Odblokowany</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -797,10 +794,7 @@
     </message>
     <message>
         <source>bgMagic tooltip</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>bgEtykietka narzędzia Magic</lengthvariant>
-            <lengthvariant>bgMagic tooltip</lengthvariant>
-        </translation>
+        <translation type="obsolete">bgMagic tooltip</translation>
     </message>
     <message>
         <source>Thousands of templates to create snazzy and distinctive  presentations</source>
@@ -1048,11 +1042,7 @@
     </message>
     <message>
         <source>Magic Backgroud</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Magiczne tło</lengthvariant>
-            <lengthvariant>Tło Magia</lengthvariant>
-            <lengthvariant>Tło Magic</lengthvariant>
-        </translation>
+        <translation type="obsolete">Tło magic</translation>
     </message>
     <message>
         <source>Template Background</source>
@@ -1277,10 +1267,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Etykieta tekstu</lengthvariant>
-            <lengthvariant>Etykieta tekstowa</lengthvariant>
-        </translation>
+        <translation type="obsolete">Etykieta tekstowa</translation>
     </message>
     <message>
         <source>Application documents online font, if your document needs circulated others, 
@@ -1997,7 +1984,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished">Pomóż nam ulepszyć WPS Office</translation>
+        <translation>Pomóż nam ulepszyć WPS Office</translation>
     </message>
     <message>
         <source>Preserve &amp;fidelity when sharing this document:</source>
@@ -2983,83 +2970,83 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxExportOFDDlg</name>
     <message>
         <source>Save OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz plik OFD</translation>
     </message>
     <message>
         <source>OFD File(*.ofd)|*.ofd||</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik OFD (*.ofd)|*.ofd||</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished">Materiały informacyjne</translation>
+        <translation>Materiały informacyjne</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished">Notatki</translation>
+        <translation>Notatki</translation>
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
-        <translation type="unfinished">Proszę wprowadź hasło ustawienia uprawnień!</translation>
+        <translation>Proszę wprowadź hasło ustawienia uprawnień!</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished">Potwierdzenie hasła jest niezgodne.</translation>
+        <translation>Potwierdzenie hasła jest niezgodne.</translation>
     </message>
     <message>
         <source>Input permission password.</source>
-        <translation type="unfinished">Wprowadź hasło uprawnienia.</translation>
+        <translation>Wprowadź hasło uprawnienia.</translation>
     </message>
     <message>
         <source>Permission password and document open password must be different.</source>
-        <translation type="unfinished">Hasło uprawnień i hasło otwarcia dokumentu muszą być różne.</translation>
+        <translation>Hasło uprawnień i hasło otwarcia dokumentu muszą być różne.</translation>
     </message>
     <message>
         <source>Invalid input.        </source>
-        <translation type="unfinished">Nieprawidłowe dane wejściowe. </translation>
+        <translation>Nieprawidłowe dane wejściowe. </translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
-        <translation type="unfinished">Określony plik już istnieje. Czy chcesz go zastąpić i kontynuować?</translation>
+        <translation>Określony plik już istnieje. Czy chcesz go zastąpić i kontynuować?</translation>
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
-        <translation type="unfinished">Nazwa pliku jest taka sama jak istniejącego katalogu.</translation>
+        <translation>Nazwa pliku jest taka sama jak istniejącego katalogu.</translation>
     </message>
     <message>
         <source>The directory you specified does not exist.</source>
-        <translation type="unfinished">Określony katalog nie istnieje.</translation>
+        <translation>Określony katalog nie istnieje.</translation>
     </message>
     <message>
         <source>You do not have permission to write files into this directory.</source>
-        <translation type="unfinished">Nie masz uprawnień do zapisu plików w tym katalogu.</translation>
+        <translation>Nie masz uprawnień do zapisu plików w tym katalogu.</translation>
     </message>
     <message>
         <source>The slide you selected to export does not exist. Please select another one.</source>
-        <translation type="unfinished">Slajd wybrany do eksportowania nie istnieje. Proszę wybrać inny.</translation>
+        <translation>Slajd wybrany do eksportowania nie istnieje. Proszę wybrać inny.</translation>
     </message>
     <message>
         <source>All slides in this custom show are hidden.</source>
-        <translation type="unfinished">Wszystkie slajdy w tym pokazie niestandardowym są ukryte.</translation>
+        <translation>Wszystkie slajdy w tym pokazie niestandardowym są ukryte.</translation>
     </message>
     <message>
         <source>All slides in this range are hidden.</source>
-        <translation type="unfinished">Wszystkie slajdy w tym zakresie są ukryte.</translation>
+        <translation>Wszystkie slajdy w tym zakresie są ukryte.</translation>
     </message>
     <message>
         <source>The selected slides are hidden.</source>
-        <translation type="unfinished">Wybrane slajdy są ukryte.</translation>
+        <translation>Wybrane slajdy są ukryte.</translation>
     </message>
     <message>
         <source>Current slide has marked as hidden.</source>
-        <translation type="unfinished">Bieżący slajd został oznaczony jako ukryty.</translation>
+        <translation>Bieżący slajd został oznaczony jako ukryty.</translation>
     </message>
     <message>
         <source>All slides in current presentation are hidden.</source>
-        <translation type="unfinished">Wszystkie slajdy w bieżącej prezentacji są ukryte.</translation>
+        <translation>Wszystkie slajdy w bieżącej prezentacji są ukryte.</translation>
     </message>
     <message>
         <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
-        <translation type="unfinished">Wszystkie slajdy w tym zakresie są oznaczone jako ukryte. Albo spraw, aby slajdy przestały być ukryte, albo wybierz eksportowanie ukrytych slajdów.</translation>
+        <translation>Wszystkie slajdy w tym zakresie są oznaczone jako ukryte. Albo spraw, aby slajdy przestały być ukryte, albo wybierz eksportowanie ukrytych slajdów.</translation>
     </message>
 </context>
 <context>
@@ -3149,47 +3136,47 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxExportToOFDProgressDlg</name>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Przygotowywanie do eksportowania pliku OFD...</translation>
     </message>
     <message>
         <source>User canceled operation.</source>
-        <translation type="unfinished">Użytkownik anulował operację.</translation>
+        <translation>Użytkownik anulował operację.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Exporting document information...</source>
-        <translation type="unfinished">Eksportowanie informacji o dukumencie...</translation>
+        <translation>Eksportowanie informacji o dukumencie...</translation>
     </message>
     <message>
         <source>Exporting No.</source>
-        <translation type="unfinished">Eksportowanie nr</translation>
+        <translation>Eksportowanie nr</translation>
     </message>
     <message>
         <source> Page...</source>
-        <translation type="unfinished"> Strona...</translation>
+        <translation> Strona...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
-        <translation type="unfinished">Eksportowanie etykiet...</translation>
+        <translation>Eksportowanie etykiet...</translation>
     </message>
     <message>
         <source>Exporting OFD file is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportowanie pliku OFD jest zakończone.</translation>
     </message>
     <message>
         <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konwerter OFD napotkał problem alokacji pamięci. Należy zmniejszyć rozmiar dokumentu lub rozmiar obrazu.</translation>
     </message>
     <message>
         <source>WPS Presentation encountered an error while trying exporting to OFD!</source>
-        <translation type="unfinished"></translation>
+        <translation>Program WPS Presentation napotkał błąd podczas próby eksportowania do formatu OFD!</translation>
     </message>
     <message>
         <source>Encountered an error when opening OFD file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd podczas otwierania pliku OFD!</translation>
     </message>
 </context>
 <context>
@@ -3575,10 +3562,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</lengthvariant>
-            <lengthvariant>Nie masz uprawnień do zapisu plików kopii zapasowej w &quot;%1&quot;.</lengthvariant>
-        </translation>
+        <translation type="obsolete">Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
@@ -3987,7 +3971,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished">Przejście slajdu</translation>
+        <translation>Przejście slajdu</translation>
     </message>
     <message>
         <source>Apply to selected slides</source>
@@ -5432,7 +5416,10 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>Very Fast</source>
-        <translation>Bardzo szybko</translation>
+        <translation variants="yes">
+            <lengthvariant>Bardzo szybko</lengthvariant>
+            <lengthvariant>Bardzo szybka</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Play</source>
@@ -5469,199 +5456,199 @@ Czy na pewno zamknąć?</translation>
     <name>kdlgExportToOFD</name>
     <message>
         <source>Export OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj plik OFD</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished">Normalne</translation>
+        <translation>Normalne</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished">Zapisz &amp;do</translation>
+        <translation>Zapisz &amp;do</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">&amp;Przeglądaj...</translation>
+        <translation>&amp;Przeglądaj...</translation>
     </message>
     <message>
         <source>Export range</source>
-        <translation type="unfinished">Zakres eksportowania</translation>
+        <translation>Zakres eksportowania</translation>
     </message>
     <message>
         <source>A&amp;ll</source>
-        <translation type="unfinished">W&amp;szystkie</translation>
+        <translation>W&amp;szystkie</translation>
     </message>
     <message>
         <source>&amp;Current slide</source>
-        <translation type="unfinished">&amp;Bieżący slajd</translation>
+        <translation>&amp;Bieżący slajd</translation>
     </message>
     <message>
         <source>&amp;Selection</source>
-        <translation type="unfinished">&amp;Zaznaczenie</translation>
+        <translation>&amp;Zaznaczenie</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
-        <translation type="unfinished">N&amp;iestandardowe pokazy slajdów:</translation>
+        <translation>N&amp;iestandardowe pokazy slajdów:</translation>
     </message>
     <message>
         <source>Sl&amp;ides:</source>
-        <translation type="unfinished">&amp;Slajdy:</translation>
+        <translation>&amp;Slajdy:</translation>
     </message>
     <message>
         <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
-        <translation type="unfinished">Wprowadź numery lub zakresy slajdów. Na przykład: 1,3,5-12</translation>
+        <translation>Wprowadź numery lub zakresy slajdów. Na przykład: 1,3,5-12</translation>
     </message>
     <message>
         <source>Export options</source>
-        <translation type="unfinished">Opcje eksportowania</translation>
+        <translation>Opcje eksportowania</translation>
     </message>
     <message>
         <source>Export &amp;what:</source>
-        <translation type="unfinished">&amp;Eksportuj:</translation>
+        <translation>&amp;Eksportuj:</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished">Slajdy</translation>
+        <translation>Slajdy</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished">Materiały informacyjne</translation>
+        <translation>Materiały informacyjne</translation>
     </message>
     <message>
         <source>Notes pages</source>
-        <translation type="unfinished">Strony notatek</translation>
+        <translation>Strony notatek</translation>
     </message>
     <message>
         <source>Outline view</source>
-        <translation type="unfinished">Widok konspektu</translation>
+        <translation>Widok konspektu</translation>
     </message>
     <message>
         <source>Color/&amp;Grayscale:</source>
-        <translation type="unfinished">Kolor/&amp;Skala odcieni szarości:</translation>
+        <translation>Kolor/&amp;Skala odcieni szarości:</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished">Kolor</translation>
+        <translation>Kolor</translation>
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation type="unfinished">Wyłącznie czarno-białe</translation>
+        <translation>Wyłącznie czarno-białe</translation>
     </message>
     <message>
         <source>Slides p&amp;er page:</source>
-        <translation type="unfinished">Slajdów &amp;na stronę:</translation>
+        <translation>Slajdów &amp;na stronę:</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished">2</translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished">3</translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished">4</translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished">6</translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished">9</translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>Order:</source>
-        <translation type="unfinished">Kolejność:</translation>
+        <translation>Kolejność:</translation>
     </message>
     <message>
         <source>Hori&amp;zontal</source>
-        <translation type="unfinished">Po&amp;ziomo</translation>
+        <translation>Po&amp;ziomo</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished">&amp;Pionowo</translation>
+        <translation>&amp;Pionowo</translation>
     </message>
     <message>
         <source>ICON</source>
-        <translation type="unfinished">IKONA</translation>
+        <translation>IKONA</translation>
     </message>
     <message>
         <source>Fra&amp;me slides</source>
-        <translation type="unfinished">Obra&amp;mowania slajdów</translation>
+        <translation>Obra&amp;mowania slajdów</translation>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
-        <translation type="unfinished">Drukuj &amp;ukryte slajdy</translation>
+        <translation>Drukuj &amp;ukryte slajdy</translation>
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation type="unfinished">Ustawienia uprawnień</translation>
+        <translation>Ustawienia uprawnień</translation>
     </message>
     <message>
         <source>Passw&amp;ord to protect permission settings</source>
-        <translation type="unfinished">Hasł&amp;o ochrony ustawień uprawnień</translation>
+        <translation>Hasł&amp;o ochrony ustawień uprawnień</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished">&amp;Hasło:</translation>
+        <translation>&amp;Hasło:</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished">&amp;Potwierdź:</translation>
+        <translation>&amp;Potwierdź:</translation>
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished">Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
+        <translation>Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>Permit to modify</source>
-        <translation type="unfinished">Zezwalaj na modyfikowanie</translation>
+        <translation>Zezwalaj na modyfikowanie</translation>
     </message>
     <message>
         <source>Permit to copy</source>
-        <translation type="unfinished">Zezwalaj na kopiowanie</translation>
+        <translation>Zezwalaj na kopiowanie</translation>
     </message>
     <message>
         <source>Permit to add comments</source>
-        <translation type="unfinished">Zezwalaj na dodawanie komentarzy</translation>
+        <translation>Zezwalaj na dodawanie komentarzy</translation>
     </message>
     <message>
         <source>Printing permission:</source>
-        <translation type="unfinished">Uprawnienia drukowania:</translation>
+        <translation>Uprawnienia drukowania:</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished">Drukowanie niedozwolone</translation>
+        <translation>Drukowanie niedozwolone</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
-        <translation type="unfinished">Niska jakość druku</translation>
+        <translation>Niska jakość druku</translation>
     </message>
     <message>
         <source>Free printing</source>
-        <translation type="unfinished">Drukowanie bez ograniczeń</translation>
+        <translation>Drukowanie bez ograniczeń</translation>
     </message>
     <message>
         <source>File open password:</source>
-        <translation type="unfinished">Hasło otwarcia pliku:</translation>
+        <translation>Hasło otwarcia pliku:</translation>
     </message>
     <message>
         <source>Passwor&amp;d:</source>
-        <translation type="unfinished">Hasł&amp;o:</translation>
+        <translation>Hasł&amp;o:</translation>
     </message>
     <message>
         <source>Confi&amp;rm:</source>
-        <translation type="unfinished">&amp;Potwierdź:</translation>
+        <translation>&amp;Potwierdź:</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation type="unfinished">Zamknij po zakończeniu e&amp;ksportowania</translation>
+        <translation>Zamknij po zakończeniu e&amp;ksportowania</translation>
     </message>
     <message>
         <source>Select OFD Service Provider</source>
@@ -5680,19 +5667,19 @@ Czy na pewno zamknąć?</translation>
     <name>kdlgExportToOFDProgress</name>
     <message>
         <source>Export to OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj do pliku OFD</translation>
     </message>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Przygotowywanie do eksportowania pliku OFD...</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished">&amp;Otwórz plik</translation>
+        <translation>&amp;Otwórz plik</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -5871,7 +5858,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="obsolete">Uwaga: Tylko ustawienie hasła może dokonać poniższych ustawień i uniknąć zmieniania przez innych użytkowników.</translation>
+        <translation type="obsolete">Uwaga: tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>Printing permission:</source>

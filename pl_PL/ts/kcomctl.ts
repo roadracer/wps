@@ -890,14 +890,9 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
         <source>
 
 modify time: </source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>
+        <translation type="obsolete">
 
-czas ostatniej modyfikacji: </lengthvariant>
-            <lengthvariant>
-
-zmieniony: </lengthvariant>
-        </translation>
+Godzina modyfikacji: </translation>
     </message>
     <message>
         <source>

@@ -835,7 +835,10 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
     <message>
         <source>The contents of the clipboard will be inserted as text without any formatting.</source>
         <comment>TX_KSO_CF_TEXT_RESULTNAME</comment>
-        <translation>Zawartość schowka zostanie wstawiona jako tekst bez żadnego formatu.</translation>
+        <translation variants="yes">
+            <lengthvariant>Zawartość schowka zostanie wstawiona jako tekst niesformatowany.</lengthvariant>
+            <lengthvariant>Zawartość schowka zostanie wstawiona jako tekst bez żadnego formatu.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Data of WPS Writer</source>
@@ -880,12 +883,12 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
     <message>
         <source>Data of WPS Drawing</source>
         <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
-        <translation type="unfinished">Dane programu WPS Drawing</translation>
+        <translation>Dane programu WPS Drawing</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Drawing.</source>
         <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
-        <translation type="unfinished">Zawartość schowka zostanie wstawiona jako dane programu WPS Drawing.</translation>
+        <translation>Zawartość schowka zostanie wstawiona jako dane programu WPS Drawing.</translation>
     </message>
     <message>
         <source>%s Object</source>
@@ -955,7 +958,7 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
     <message>
         <source>The contents of the clipboard will be inserted as a Bitmap picture.</source>
         <comment>TX_KSO_CF_PIC_BITMAP_RESULTNAME</comment>
-        <translation>Zawartość schowka zostanie wstawiona jako mapa bitowa.</translation>
+        <translation>Zawartość schowka zostanie wstawiona jako obraz mapa bitowa.</translation>
     </message>
     <message>
         <source>Device Independent Bitmap</source>
@@ -2110,7 +2113,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Cannot play the specified file on the specified device. The file may be damaged, or not in the correct format, or no file handler available for this format.</source>
         <comment>DgUil_KSO_MediaFileDamaged</comment>
-        <translation>Nie można odtworzyć pliku na określonym urządzeniu. Plik może być uszkodzony, mieć niepoprawny format lub może nie być dostępna obsługa tego formatu.</translation>
+        <translation>Nie można odtworzyć podanego pliku na określonym urządzeniu. Plik może być uszkodzony, mieć niepoprawny format lub może nie być dostępna obsługa tego formatu.</translation>
     </message>
     <message>
         <source>Cannot find the specified file, please verify that the path and file name are correct.</source>
@@ -3278,7 +3281,10 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Feedback form/order form</source>
         <comment>DRAWINGSTR_FORM</comment>
-        <translation>Formularz opinii/formularz zamówienia</translation>
+        <translation variants="yes">
+            <lengthvariant>Formularz opinii/formularz zamówienia</lengthvariant>
+            <lengthvariant>Formularz zwrotny/formularz zamówienia</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Gear</source>
@@ -8095,7 +8101,7 @@ Line-type: %3</source>
     <message>
         <source>Chinese Office Software Document Format 2.0</source>
         <comment>_WpioDesc_UOF2</comment>
-        <translation type="unfinished">Format dokumentu chińskiego oprogramowania biurowego 2.0</translation>
+        <translation>Format dokumentu chińskiego oprogramowania biurowego 2.0</translation>
     </message>
     <message>
         <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
@@ -8435,7 +8441,7 @@ Możesz wybrać przycisk Tylko do odczytu, aby otworzyć go w trybie tylko do od
     <message>
         <source> Business</source>
         <comment>_kso_versionType_TRADE</comment>
-        <translation> Biznesowa</translation>
+        <translation> Business</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
@@ -8750,7 +8756,7 @@ Możesz wybrać przycisk Tylko do odczytu, aby otworzyć go w trybie tylko do od
     <message>
         <source>WPS Office 2010 Professional Edition</source>
         <comment>_kso_ksoProductName_dev_cn</comment>
-        <translation type="obsolete">WPS Office 2010 Professional Edition</translation>
+        <translation type="obsolete">Edycja WPS Office 2010 Professional</translation>
     </message>
     <message>
         <source>WPS Office Standard</source>
@@ -8847,7 +8853,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</transl
     <message>
         <source>WPS Office Business Version</source>
         <comment>_kso_ksoProductName_TRADE_CHN</comment>
-        <translation>WPS Office Business Edition</translation>
+        <translation>Wersja WPS Office Business</translation>
     </message>
     <message>
         <source>Office Files</source>
@@ -9008,22 +9014,13 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</transl
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
-•Sprawdź czy katalog dla kopii zapasowych jest z uprawnieniami do zapisywania lub spróbuj zmienić katalog dla kopii zapasowych. 
+        <translation type="obsolete">Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
+•Sprawdź czy katalog kopii zapasowych ma uprawnienia do zapisywania lub spróbuj zmienić katalog kopii zapasowych.
 •[Cofnij] poprzednie operacje i [Zapisz] go; 
 •[Zapisz jako...] pliki tekstowe（*.txt）; 
 •[Kopiuj/Wklej] zawartość do nowego pliku; 
 •Zrezygnuj ze zmiany pliku. 
-(%s)</lengthvariant>
-            <lengthvariant>Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
-•Sprawdź czy katalog dla kopii zapasowych jest z uprawnieniami do zapisywania lub spróbuj zmienić katalog dla kopii zapasowych. 
-•[Cofnij] poprzednie operacje i [Zapisz] go; 
-•[Zapisz jako...] pliki tekstowe（*.txt）; 
-•[Kopiuj/Wklej] zawartość do nowego pliku; 
-•Porzuć zmiany pliku. 
-(%s)</lengthvariant>
-        </translation>
+(%s)</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the  following operations: 
@@ -9033,20 +9030,12 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</transl
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
-•Sprawdź czy katalog dla kopii zapasowych jest z uprawnieniami do zapisywania lub spróbuj zmienić katalog dla kopii zapasowych. 
+        <translation type="obsolete">Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
+•Sprawdź czy katalog kopii zapasowych ma uprawnienia do zapisywania lub spróbuj zmienić katalog kopii zapasowych. 
 •[Cofnij] poprzednie operacje i [Zapisz] go; 
 •[Kopiuj/Wklej] zawartość do nowego pliku; 
 •Zrezygnuj ze zmiany pliku. 
-(%s)</lengthvariant>
-            <lengthvariant>Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
-•Sprawdź czy katalog dla kopii zapasowych jest z uprawnieniami do zapisywania lub spróbuj zmienić katalog dla kopii zapasowych. 
-•[Cofnij] poprzednie operacje i [Zapisz] go; 
-•[Kopiuj/Wklej] zawartość do nowego pliku; 
-•Porzuć zmiany pliku. 
-(%s)</lengthvariant>
-        </translation>
+(%s)</translation>
     </message>
     <message>
         <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
@@ -9216,16 +9205,16 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</transl
     <message>
         <source>Cannot user feature without credentials</source>
         <comment>_kso_irmio_Error_Credentials</comment>
-        <translation type="obsolete">Nie można używać funkcji bez poświadczeń</translation>
+        <translation type="obsolete">Nie można używać tej funkcji bez poświadczeń</translation>
     </message>
     <message>
         <source>This document is currently restricted. You do not have credentials that allow you to open this document. You can choose 
 ~try changing another user to open the document;
 ~request updated permission from %1.</source>
         <comment>_kso_irmio_Error_No_Permission</comment>
-        <translation type="obsolete">Ten dokument jest obecnie ograniczony. Nie masz poświadczeń umożliwiających otwarcie tego dokumentu. Możesz wybrać 
-~ spróbuj zmienić użytkownika do otwarcia dokumentu;
-~ zażądaj zaktualizowanego uprawnienia od %1.</translation>
+        <translation type="obsolete">Uprawnienia do tego dokumentu są obecnie ograniczone. Nie masz poświadczeń umożliwiających otwarcie tego dokumentu. Możesz: 
+1. Spróbuj zmienić konto użytkownika na inne, aby otworzyć dokument;
+2. Zażądaj aktualizacji uprawnienia od %1.</translation>
     </message>
     <message>
         <source>You do not have credentials that allow you to open this document.
@@ -9741,7 +9730,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <source>Unable to find the cups library, make sure you have installed!</source>
         <comment>_ksoErr_Print_NoCupsLibrary</comment>
-        <translation type="unfinished">Nie można odnaleźć biblioteki cups, upewnij się, że została zainstalowana!</translation>
+        <translation>Nie można odnaleźć biblioteki cups, upewnij się, że została zainstalowana!</translation>
     </message>
     <message>
         <source>The printer does not support the current paper size. Continue printing may not result in satisfying quality.
@@ -10308,10 +10297,7 @@ Proszę sprawdź swoje dane i upewnij się, że odwołanie jest prawidłowe oraz
     <message>
         <source>Unkown Format Source.</source>
         <comment>kso_sErrPasteLink</comment>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Nieznany format źródła.</lengthvariant>
-            <lengthvariant>Nieznany format źródłowy.</lengthvariant>
-        </translation>
+        <translation type="obsolete">Nieznany format źródłowy.</translation>
     </message>
     <message>
         <source>Blank Workbook</source>
@@ -10416,7 +10402,7 @@ Proszę sprawdź swoje dane i upewnij się, że odwołanie jest prawidłowe oraz
     <message>
         <source>Help file does not exist or occurs an error!</source>
         <comment>kso_sHelpNotFound</comment>
-        <translation type="obsolete">Plik pomocy nie istnieje lub występuje błąd!</translation>
+        <translation type="obsolete">Plik pomocy nie istnieje lub napotkał błąd!</translation>
     </message>
     <message>
         <source>Horizontal brick</source>
@@ -10930,7 +10916,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>You have reached the max retry step, program will terminate.</source>
         <comment>kso_sMaxStep</comment>
-        <translation type="obsolete">Osiągnięto maksymalny krok próby ponowień, program zostanie zakończony.</translation>
+        <translation type="obsolete">Osiągnięto maksymalną liczbę ponownych prób. Program zostanie zakończony.</translation>
     </message>
     <message>
         <source>MB</source>
@@ -11170,7 +11156,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>sec</source>
         <comment>kso_sSecond</comment>
-        <translation>sek</translation>
+        <translation>sek.</translation>
     </message>
     <message>
         <source>Automatically check file security troubles before closing application.</source>
@@ -11835,10 +11821,7 @@ Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard 
     <message>
         <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflectd in your document.</source>
         <comment>kso_sWpsLinkAsIcon</comment>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wstawia do dokumentu ikonę reprezentującą zawartość pliku. Zmiany w pliku źródłowym będą uwzględniane w dokumencie.</lengthvariant>
-            <lengthvariant>Wstawia do dokumentu ikonę reprezentującą zawartość pliku. Zmiany w pliku źródłowym będą odzwierciedlane w dokumencie.</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wstawia do dokumentu ikonę reprezentującą zawartość pliku. Zmiany w pliku źródłowym będą uwzględniane w dokumencie.</translation>
     </message>
     <message>
         <source>Insert the contents of the file into your document and create a shortcut to the source file. Changes to the source file will be reflected in your document.</source>
@@ -11883,7 +11866,7 @@ Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard 
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an exsiting sheet or unprotect this book.</source>
         <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
-        <translation type="obsolete">Nie można utworzyć tabeli przestawnej w nowym arkuszu, ponieważ ten skoroszyt jest chroniony. Proszę wybierz istniejący  arkusz lub wyłącz ochronę tego skoroszytu.</translation>
+        <translation type="obsolete">Nie można utworzyć tabeli przestawnej w nowym arkuszu, ponieważ ten skoroszyt jest chroniony. Proszę wybierz istniejący arkusz lub wyłącz ochronę tego skoroszytu.</translation>
     </message>
     <message>
         <source>Please input the password of permission setting.</source>
@@ -12128,12 +12111,12 @@ Służy do pokazywania kroków zmierzających do celu</translation>
     <message>
         <source>The file cannot be deleted, which may be occupied.</source>
         <comment>kso_sCannotRemoveBackupFile</comment>
-        <translation type="obsolete">Nie można usunąć plików, które mogą być zajęte.</translation>
+        <translation type="obsolete">Nie można usunąć pliku. Może on być zajęty.</translation>
     </message>
     <message>
         <source>Some files cannot be deleted, which may be occupied.</source>
         <comment>kso_sCannotRemoveAllBackupFiles</comment>
-        <translation type="obsolete">Niektóre pliki nie mogą być usunięte, ponieważ mogą być zajęte.</translation>
+        <translation type="obsolete">Niektóre pliki nie mogą być usunięte, ponieważ mogą być one zajęte.</translation>
     </message>
     <message>
         <source>Viewer Mode</source>

@@ -593,10 +593,7 @@ wymaga ponownego uruchomienia systemu Windows, aby została uwzględniona.</tran
     </message>
     <message>
         <source>Unlock completed</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Odblokowanie ukończone</lengthvariant>
-            <lengthvariant>Odblokowanie zakończone</lengthvariant>
-        </translation>
+        <translation type="obsolete">Odblokowanie ukończone</translation>
     </message>
     <message>
         <source>You can change the IE homepage anytime.
@@ -1292,7 +1289,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>&amp;Download updates but let me choose whether to install them</source>
-        <translation type="unfinished">&amp;Pobierz aktualizacje, ale pozwól mi wybrać, czy je zainstalować</translation>
+        <translation>&amp;Pobierz aktualizacje, ale pozwól mi wybrać, czy je zainstalować</translation>
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>

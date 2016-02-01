@@ -185,6 +185,33 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxDlgPrintRestrict</name>
+    <message>
+        <source>You are using a free version. </source>
+        <translation type="obsolete">Używasz wersji darmowej. </translation>
+    </message>
+    <message>
+        <source>A watermark will be added to your document when printing. As the free trial of WPS Office Business Edition has ended, you need to upgrade to remove watermarks. %1Learn More%2</source>
+        <translation type="obsolete">Podczas drukowania do dokumentu zostanie dodany znak wodny. Po zakończeniu bezpłatnej wersji próbnej WPS Office Business Edition wymagane będzie uaktualnienie, aby usunąć znaki wodne. %1Dowiedz się więcej%2</translation>
+    </message>
+    <message>
+        <source>Upgrade Now</source>
+        <translation type="obsolete">Uaktualnij teraz</translation>
+    </message>
+    <message>
+        <source>Try It</source>
+        <translation type="obsolete">Wypróbuj to</translation>
+    </message>
+    <message>
+        <source>Print With Watermark</source>
+        <translation type="obsolete">Drukuj ze znakiem wodnym</translation>
+    </message>
+    <message>
+        <source>Feature for Paid Users</source>
+        <translation type="obsolete">Funkcja dla użytkowników płatnych</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgQingRestrict</name>
     <message>
         <source>WPS Office Disable Features</source>
@@ -248,6 +275,29 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRestriction</name>
+    <message>
+        <source>Feature for Paid Users</source>
+        <translation type="obsolete">Funkcja dla użytkowników płatnych</translation>
+    </message>
+    <message>
+        <source>This is a premium feature.As the free trial of WPS Office Business Edition has ended, you need to upgrade to use it. %1Click here%2 to learn more about the premium features and benefits.</source>
+        <translation type="obsolete">Jest to funkcja premium. Po zakończeniu bezpłatnej wersji próbnej WPS Office Business Edition wymagane będzie uaktualnienie, aby jej używać. %1Kliknij tutaj%2, aby dowiedzieć się więcej o funkcjach premium oraz korzyściach.</translation>
+    </message>
+    <message>
+        <source>Upgrade Now</source>
+        <translation type="obsolete">Uaktualnij teraz</translation>
+    </message>
+    <message>
+        <source>Do you want to try this feature for a few more times and get your work done? No problem. We&apos;re happy to provide you with 3 times additional accesses to this premium feature.</source>
+        <translation type="obsolete">Czy chcesz wypróbować tą funkcję jeszcze kilka razy i wykonać swoją pracę? Nie ma problemu. Cieszymy się, że możemy zapewnić Państwu jeszcze 3 razy dodatkowy dostęp do tej funkcji premium.</translation>
+    </message>
+    <message>
+        <source>Try It!</source>
+        <translation type="obsolete">Wypróbuj to!</translation>
     </message>
 </context>
 <context>
@@ -645,6 +695,17 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxPrintRestrictDlg</name>
+    <message>
+        <source>We are also happy to provide you with %1 times additional accesses to remove watermarks.</source>
+        <translation type="obsolete">Cieszymy się, że możemy zapewnić Państwu jeszcze %1 razy dodatkowy dostęp, aby usunąć znaki wodne.</translation>
+    </message>
+    <message>
+        <source>We are also happy to provide you with one time additional accesses to remove watermarks.</source>
+        <translation type="obsolete">Cieszymy się, że możemy zapewnić Państwu jeszcze jeden raz dodatkowy dostęp, aby usunąć znaki wodne.</translation>
+    </message>
+</context>
+<context>
     <name>KxQingActiveCodeDialog</name>
     <message>
         <source>WPS Office Activation Code</source>
@@ -849,6 +910,17 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
 </context>
 <context>
+    <name>KxRestrictionDlg</name>
+    <message>
+        <source>%1 times left</source>
+        <translation type="obsolete">%1 pozostały czas</translation>
+    </message>
+    <message>
+        <source>%1 time left</source>
+        <translation type="obsolete">%1 pozostały czas</translation>
+    </message>
+</context>
+<context>
     <name>KxTrialExpireDlg</name>
     <message>
         <source>Quit</source>
@@ -905,78 +977,6 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     <message>
         <source>Buy/Enter Activation Code</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgPrintRestrict</name>
-    <message>
-        <source>You are using a free version. </source>
-        <translation type="obsolete">Używasz wersji darmowej. </translation>
-    </message>
-    <message>
-        <source>A watermark will be added to your document when printing. As the free trial of WPS Office Business Edition has ended, you need to upgrade to remove watermarks. %1Learn More%2</source>
-        <translation type="obsolete">Podczas drukowania do dokumentu zostanie dodany znak wodny. Po zakończeniu bezpłatnej wersji próbnej WPS Office Business Edition wymagane będzie uaktualnienie, aby usunąć znaki wodne. %1Dowiedz się więcej%2</translation>
-    </message>
-    <message>
-        <source>Upgrade Now</source>
-        <translation type="obsolete">Uaktualnij teraz</translation>
-    </message>
-    <message>
-        <source>Try It</source>
-        <translation type="obsolete">Wypróbuj to</translation>
-    </message>
-    <message>
-        <source>Print With Watermark</source>
-        <translation type="obsolete">Drukuj ze znakiem wodnym</translation>
-    </message>
-    <message>
-        <source>Feature for Paid Users</source>
-        <translation type="obsolete">Funkcja dla użytkowników płatnych</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgRestriction</name>
-    <message>
-        <source>Feature for Paid Users</source>
-        <translation type="obsolete">Funkcja dla użytkowników płatnych</translation>
-    </message>
-    <message>
-        <source>This is a premium feature.As the free trial of WPS Office Business Edition has ended, you need to upgrade to use it. %1Click here%2 to learn more about the premium features and benefits.</source>
-        <translation type="obsolete">Jest to funkcja premium. Po zakończeniu bezpłatnej wersji próbnej WPS Office Business Edition wymagane będzie uaktualnienie, aby jej używać. %1Kliknij tutaj%2, aby dowiedzieć się więcej o funkcjach premium oraz korzyściach.</translation>
-    </message>
-    <message>
-        <source>Upgrade Now</source>
-        <translation type="obsolete">Uaktualnij teraz</translation>
-    </message>
-    <message>
-        <source>Do you want to try this feature for a few more times and get your work done? No problem. We&apos;re happy to provide you with 3 times additional accesses to this premium feature.</source>
-        <translation type="obsolete">Czy chcesz wypróbować tą funkcję jeszcze kilka razy i wykonać swoją pracę? Nie ma problemu. Cieszymy się, że możemy zapewnić Państwu jeszcze 3 razy dodatkowy dostęp do tej funkcji premium.</translation>
-    </message>
-    <message>
-        <source>Try It!</source>
-        <translation type="obsolete">Wypróbuj to!</translation>
-    </message>
-</context>
-<context>
-    <name>KxPrintRestrictDlg</name>
-    <message>
-        <source>We are also happy to provide you with %1 times additional accesses to remove watermarks.</source>
-        <translation type="obsolete">Cieszymy się, że możemy zapewnić Państwu jeszcze %1 razy dodatkowy dostęp, aby usunąć znaki wodne.</translation>
-    </message>
-    <message>
-        <source>We are also happy to provide you with one time additional accesses to remove watermarks.</source>
-        <translation type="obsolete">Cieszymy się, że możemy zapewnić Państwu jeszcze jeden raz dodatkowy dostęp, aby usunąć znaki wodne.</translation>
-    </message>
-</context>
-<context>
-    <name>KxRestrictionDlg</name>
-    <message>
-        <source>%1 times left</source>
-        <translation type="obsolete">%1 pozostały czas</translation>
-    </message>
-    <message>
-        <source>%1 time left</source>
-        <translation type="obsolete">%1 pozostały czas</translation>
     </message>
 </context>
 </TS>

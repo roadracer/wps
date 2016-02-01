@@ -30,6 +30,13 @@
     </message>
 </context>
 <context>
+    <name>AsyncConmunicator</name>
+    <message>
+        <source>Port: </source>
+        <translation type="obsolete">Port: </translation>
+    </message>
+</context>
+<context>
     <name>KxSpeakAbstractListCommand</name>
     <message>
         <source>Is PC&apos;s speaker on?
@@ -520,13 +527,6 @@ Sprawdź ikonę w prawym dolnym rogu Pulpitu.</translation>
     <message>
         <source>SAPI - failed to set voice speed: </source>
         <translation>SAPI - nie udało się ustawić szybkości mowy: </translation>
-    </message>
-</context>
-<context>
-    <name>AsyncConmunicator</name>
-    <message>
-        <source>Port: </source>
-        <translation type="obsolete">Port: </translation>
     </message>
 </context>
 </TS>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -94,10 +94,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -1070,10 +1067,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Styles</source>
@@ -1722,10 +1716,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
 </context>
 <context>
@@ -1808,7 +1799,7 @@
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>Dopasowanie bieżącego formatu</translation>
+        <translation>Dopasowanie do bieżącego formatu</translation>
     </message>
     <message>
         <source>Max</source>
@@ -1851,7 +1842,7 @@
     </message>
     <message>
         <source>Show Document Map</source>
-        <translation>Pokaż plan dokumentu</translation>
+        <translation>Pokaż mapę dokumentu</translation>
     </message>
     <message>
         <source>Show/Hide Editing Marks</source>
@@ -2032,10 +2023,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -2343,7 +2331,7 @@
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>Wyrównanie WordArt</translation>
+        <translation>Wyrównanie tekstu WordArt</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
@@ -2812,7 +2800,7 @@ formantu</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Opis</translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -4081,7 +4069,7 @@ On</source>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished">Eksportuj do OFD</translation>
+        <translation>Eksportuj do OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -4654,7 +4642,7 @@ formatów</translation>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>Dopasowanie bieżącego formatu</translation>
+        <translation>Dopasowanie do bieżącego formatu</translation>
     </message>
     <message>
         <source>More</source>
@@ -4990,7 +4978,7 @@ styl</translation>
     </message>
     <message>
         <source>DocumentField</source>
-        <translation type="unfinished">Pole dokumentu</translation>
+        <translation>Pole dokumentu</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -5051,8 +5039,8 @@ styl</translation>
     <message>
         <source>Header and 
 Footer</source>
-        <translation>Nagłówek i 
-stopka</translation>
+        <translation>Nagłówek
+ i stopka</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -5184,7 +5172,7 @@ strony</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Tekst</translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -5941,10 +5929,7 @@ strony</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Square</source>
@@ -6173,10 +6158,7 @@ tekstu</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Style</source>
@@ -6848,10 +6830,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Soft Edges</source>
@@ -8381,10 +8360,7 @@ cienia</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -8647,10 +8623,7 @@ cienia</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Split
@@ -8860,7 +8833,7 @@ wydruku</translation>
     </message>
     <message>
         <source>Show Document Map</source>
-        <translation>Pokaż plan dokumentu</translation>
+        <translation>Pokaż mapę dokumentu</translation>
     </message>
     <message>
         <source>Show More Windows</source>
@@ -9241,10 +9214,7 @@ cienia</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -9831,7 +9801,7 @@ WordArt</translation>
     <message>
         <source>WordArt 
 Shape</source>
-        <translation>Kształt  
+        <translation>Kształt tekstu 
 WordArt</translation>
     </message>
     <message>
@@ -9980,7 +9950,7 @@ WordArt</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished">Opinie użytkowników</translation>
+        <translation>Opinie użytkowników</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -10431,10 +10401,7 @@ COM</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wyśrodkowany</lengthvariant>
-            <lengthvariant>Wyśrodkowane</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wyśrodkowany</translation>
     </message>
     <message>
         <source>Centered Overlay</source>
@@ -10790,7 +10757,7 @@ COM</translation>
     </message>
     <message>
         <source>Document Map</source>
-        <translation>Plan dokumentu</translation>
+        <translation>Mapa dokumentu</translation>
     </message>
     <message>
         <source>Donate</source>
@@ -10904,7 +10871,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished">Eksportuj do OFD</translation>
+        <translation>Eksportuj do OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -11496,7 +11463,7 @@ formatów</translation>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>Dopasowanie bieżącego formatu</translation>
+        <translation>Dopasowanie do bieżącego formatu</translation>
     </message>
     <message>
         <source>Max</source>
@@ -12137,10 +12104,7 @@ formatów</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="obsolete">Kroplomierz</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -12380,10 +12344,7 @@ formatów</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
-            <lengthvariant>WPS dla firm</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wersja WPS Business</translation>
     </message>
     <message>
         <source>WPS Forum</source>
@@ -12511,10 +12472,7 @@ formatów</translation>
     </message>
     <message>
         <source>numbering_0</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_0</lengthvariant>
-            <lengthvariant>numeracja_0</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_0</translation>
     </message>
     <message>
         <source>vertReviewPane</source>
@@ -12615,59 +12573,35 @@ formatów</translation>
     </message>
     <message>
         <source>numbering_0</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_0</lengthvariant>
-            <lengthvariant>numeracja_0</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_0</translation>
     </message>
     <message>
         <source>numbering_1</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_1</lengthvariant>
-            <lengthvariant>numeracja_1</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_1</translation>
     </message>
     <message>
         <source>numbering_2</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_2</lengthvariant>
-            <lengthvariant>numeracja_2</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_2</translation>
     </message>
     <message>
         <source>numbering_3</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_3</lengthvariant>
-            <lengthvariant>numeracja_3</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_3</translation>
     </message>
     <message>
         <source>numbering_4</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_4</lengthvariant>
-            <lengthvariant>numeracja_4</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_4</translation>
     </message>
     <message>
         <source>numbering_5</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_5</lengthvariant>
-            <lengthvariant>numeracja_5</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_5</translation>
     </message>
     <message>
         <source>numbering_6</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_6</lengthvariant>
-            <lengthvariant>numeracja_6</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_6</translation>
     </message>
     <message>
         <source>numbering_7</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>numerowanie_7</lengthvariant>
-            <lengthvariant>numeracja_7</lengthvariant>
-        </translation>
+        <translation type="obsolete">numerowanie_7</translation>
     </message>
     <message>
         <source>Ⅰ.Ⅱ.Ⅲ.</source>
@@ -13051,10 +12985,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Table Border</source>
@@ -13126,7 +13057,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Opis</translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -13711,10 +13642,7 @@ On/Off</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Soft Edges</source>
@@ -14322,7 +14250,7 @@ Direction</source>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished">Eksportuj do OFD</translation>
+        <translation>Eksportuj do OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -14863,7 +14791,7 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>Matching Current Format</source>
-        <translation>Dopasowanie bieżącego formatu</translation>
+        <translation>Dopasowanie do bieżącego formatu</translation>
     </message>
     <message>
         <source>More</source>
@@ -14991,10 +14919,7 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -15188,7 +15113,7 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>DocumentField</source>
-        <translation type="unfinished">Pole dokumentu</translation>
+        <translation>Pole dokumentu</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -15288,10 +15213,7 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wstaw obraz w trybie online</lengthvariant>
-            <lengthvariant>Wstawianie obrazu w trybie online</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wstaw obraz w trybie online</translation>
     </message>
     <message>
         <source>Links</source>
@@ -16894,10 +16816,7 @@ On/Off</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Soft Edges</source>
@@ -17890,17 +17809,11 @@ On/Off</source>
     </message>
     <message>
         <source>horzReviewPane</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>poziomeOkienkoRecenzowania</lengthvariant>
-            <lengthvariant>horzReviewPane</lengthvariant>
-        </translation>
+        <translation type="obsolete">Poziome okienko recenzowania</translation>
     </message>
     <message>
         <source>vertReviewPane</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>pionoweOkienkoRecenzowania</lengthvariant>
-            <lengthvariant>vertReviewPane</lengthvariant>
-        </translation>
+        <translation type="obsolete">Pionowe okienko recenzowania</translation>
     </message>
 </context>
 <context>
@@ -18370,10 +18283,7 @@ On/Off</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -19012,7 +18922,7 @@ inne okna</translation>
     </message>
     <message>
         <source>Document Map</source>
-        <translation>Plan dokumentu</translation>
+        <translation>Mapa dokumentu</translation>
     </message>
     <message>
         <source>Document Views</source>
@@ -19099,7 +19009,7 @@ inne okna</translation>
     </message>
     <message>
         <source>Show Document Map</source>
-        <translation>Pokaż plan dokumentu</translation>
+        <translation>Pokaż mapę dokumentu</translation>
     </message>
     <message>
         <source>Show More Windows</source>
@@ -19280,7 +19190,10 @@ Efekty</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Niestandardowy</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Depth</source>
@@ -19332,7 +19245,10 @@ Efekty</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normalny</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalny</lengthvariant>
+            <lengthvariant>Normalne</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
@@ -19468,10 +19384,7 @@ cienia</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -19658,7 +19571,10 @@ cienia</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Niestandardowy</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dash</source>
@@ -19834,7 +19750,10 @@ cienia</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normalny</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalne</lengthvariant>
+            <lengthvariant>Normalny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -19918,10 +19837,7 @@ cienia</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Kroplomierz</lengthvariant>
-            <lengthvariant>Wybór koloru</lengthvariant>
-        </translation>
+        <translation type="unfinished">Kroplomierz</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -20180,7 +20096,7 @@ cienia</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished">Opinie użytkowników</translation>
+        <translation>Opinie użytkowników</translation>
     </message>
     <message>
         <source>User Guide</source>
@@ -20391,10 +20307,7 @@ cienia</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
-            <lengthvariant>WPS dla firm</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wersja WPS Business</translation>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
@@ -20727,7 +20640,7 @@ cienia</translation>
     </message>
     <message>
         <source>DocumentField</source>
-        <translation type="unfinished">Pole dokumentu</translation>
+        <translation>Pole dokumentu</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -21241,7 +21154,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Speak</source>
-        <translation>Odczytaj</translation>
+        <translation>Czytaj</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -21730,10 +21643,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
-            <lengthvariant>WPS dla firm</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wersja WPS Business</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -22001,10 +21911,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
-            <lengthvariant>WPS dla firm</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wersja WPS Business</translation>
     </message>
     <message>
         <source>What&apos;s New</source>

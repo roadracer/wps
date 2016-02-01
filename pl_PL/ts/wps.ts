@@ -2772,7 +2772,7 @@ lub użyj odpowiedniego przycisku</translation>
     <name>KxDlgDocumentFields</name>
     <message>
         <source>DocumentField</source>
-        <translation type="unfinished">Pole dokumentu</translation>
+        <translation>Pole dokumentu</translation>
     </message>
     <message>
         <source>DocumentField Name</source>
@@ -2780,59 +2780,59 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished">&amp;Wstaw</translation>
+        <translation>&amp;Wstaw</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished">&amp;Zmień nazwę</translation>
+        <translation>&amp;Zmień nazwę</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="unfinished">&amp;Przejdź do</translation>
+        <translation>&amp;Przejdź do</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Usuń</translation>
+        <translation>&amp;Usuń</translation>
     </message>
     <message>
         <source>&amp;Marks Only</source>
-        <translation type="unfinished">Tylko &amp;znaczniki</translation>
+        <translation>Tylko &amp;znaczniki</translation>
     </message>
     <message>
         <source>Sort by:</source>
-        <translation type="unfinished">Sortuj według:</translation>
+        <translation>Sortuj według:</translation>
     </message>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">&amp;Nazwa</translation>
+        <translation>&amp;Nazwa</translation>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation type="unfinished">&amp;Lokalizacja</translation>
+        <translation>&amp;Lokalizacja</translation>
     </message>
     <message>
         <source>DocumentField Properties</source>
-        <translation type="unfinished">Właściwości pola dokumentu</translation>
+        <translation>Właściwości pola dokumentu</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation type="unfinished">&amp;Ukryte</translation>
+        <translation>&amp;Ukryte</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished">&amp;Drukuj</translation>
+        <translation>&amp;Drukuj</translation>
     </message>
     <message>
         <source>Read &amp;Only</source>
-        <translation type="unfinished">Tylko do &amp;odczytu</translation>
+        <translation>Tylko do &amp;odczytu</translation>
     </message>
     <message>
         <source>&amp;Apply All</source>
-        <translation type="unfinished">&amp;Zastosuj wszystkie</translation>
+        <translation>&amp;Zastosuj wszystkie</translation>
     </message>
     <message>
         <source>Insertion Mode</source>
-        <translation type="unfinished">Tryb wstawiania</translation>
+        <translation>Tryb wstawiania</translation>
     </message>
     <message>
         <source>When inserted at beginning and end, then counted in. </source>
@@ -2840,19 +2840,19 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Document&amp;Field Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa &amp;pola dokumentu:</translation>
     </message>
     <message>
         <source>When inserted at beginning and end, then &amp;counted in. </source>
-        <translation type="unfinished"></translation>
+        <translation>Gdy wstawiono na początku i na końcu, wtedy &amp;uwzględniane. </translation>
     </message>
 </context>
 <context>
@@ -3570,7 +3570,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Add the &amp;path to the file name</source>
-        <translation type="obsolete">Dodaj ś&amp;cieżkę do nazwy pliku</translation>
+        <translation type="obsolete">&amp;Dodaj ścieżkę do nazwy pliku</translation>
     </message>
     <message>
         <source>Add &amp;path to filename</source>
@@ -5417,7 +5417,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Matching the current format</source>
-        <translation>Dopasowanie bieżącego formatu</translation>
+        <translation>Dopasowanie do bieżącego formatu</translation>
     </message>
     <message>
         <source>General and Save</source>
@@ -6234,7 +6234,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished">Pomóż nam ulepszyć WPS Office</translation>
+        <translation>Pomóż nam ulepszyć WPS Office</translation>
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
@@ -6242,7 +6242,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>F&amp;onts Preview Box</source>
-        <translation type="unfinished">Pole podglądu czci&amp;onek</translation>
+        <translation>Pole podglądu czci&amp;onek</translation>
     </message>
     <message>
         <source>AutoNumber</source>
@@ -6306,7 +6306,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>D&amp;ocument fields</source>
-        <translation type="unfinished">Pola d&amp;okumentu</translation>
+        <translation>Pola d&amp;okumentu</translation>
     </message>
     <message>
         <source>Compatibility options</source>
@@ -8048,10 +8048,7 @@ Converting allows you to use all the new features of Word and reduces the size o
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
         <source>Field name record delimiter</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Ograniczniki rekordu Nazwa pola</lengthvariant>
-            <lengthvariant>Ograniczniki rekordu nagłówka</lengthvariant>
-        </translation>
+        <translation type="obsolete">Ogranicznik rekordu nazwy pola</translation>
     </message>
     <message>
         <source>Data fields must use characters (called &quot;delimiter&quot;) to separated from each other; Similarly, data records must be separated by a record delimiter. Please use the following list to select the appropriate delimiter.</source>
@@ -8330,23 +8327,23 @@ check the maintain compatibility checkbox.</source>
     <name>KxDocumentFieldsDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>The document field with this name has already existed. Do you want to cover it?</source>
-        <translation type="unfinished">Pole dokumentu o tej nazwie już istnieje. Czy chcesz je przykryć?</translation>
+        <translation>Pole dokumentu o tej nazwie już istnieje. Czy chcesz je przykryć?</translation>
     </message>
     <message>
         <source>The name of the document field is illegal.</source>
-        <translation type="unfinished">Nazwa pola dokumentu jest niedozwolona.</translation>
+        <translation>Nazwa pola dokumentu jest niedozwolona.</translation>
     </message>
     <message>
         <source>The name of the document field has already existed, please rename it!</source>
-        <translation type="unfinished">Nazwa pola dokumentu już istnieje, proszę zmień nazwę pola!</translation>
+        <translation>Nazwa pola dokumentu już istnieje, proszę zmień nazwę pola!</translation>
     </message>
 </context>
 <context>
@@ -8490,90 +8487,90 @@ check the maintain compatibility checkbox.</source>
     <name>KxExportToOFDDlg</name>
     <message>
         <source>Please input the password of permission setting!</source>
-        <translation type="unfinished">Proszę wpisać hasło ustawiania uprawnienia!</translation>
+        <translation>Proszę wpisać hasło ustawiania uprawnienia!</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished">Potwierdzenie hasła jest niezgodne.</translation>
+        <translation>Potwierdzenie hasła jest niezgodne.</translation>
     </message>
     <message>
         <source>Permission Password and Document Open Password must be different.</source>
-        <translation type="unfinished">Hasło uprawnień i hasło otwarcia dokumentu muszą być różne.</translation>
+        <translation>Hasło uprawnień i hasło otwarcia dokumentu muszą być różne.</translation>
     </message>
     <message>
         <source>Please specify the file name.</source>
-        <translation type="unfinished">Określ nazwę pliku.</translation>
+        <translation>Określ nazwę pliku.</translation>
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
-        <translation type="unfinished">Nazwa pliku jest taka sama jak istniejącego katalogu.</translation>
+        <translation>Nazwa pliku jest taka sama jak istniejącego katalogu.</translation>
     </message>
     <message>
         <source>The directory you specified does not exist.</source>
-        <translation type="unfinished">Określony katalog nie istnieje.</translation>
+        <translation>Określony katalog nie istnieje.</translation>
     </message>
     <message>
         <source>You have no permission to write files into this directory.</source>
-        <translation type="unfinished">Nie masz uprawnień do zapisu plików w tym katalogu.</translation>
+        <translation>Nie masz uprawnień do zapisu plików w tym katalogu.</translation>
     </message>
     <message>
         <source>Save OFD File As</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz plik OFD jako</translation>
     </message>
     <message>
         <source>OFD File(*.ofd)|*.ofd|All File(*.*)|*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik OFD (*.ofd)|*.ofd|Wszystkie pliki (*.*)|*.*</translation>
     </message>
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing file?</source>
-        <translation type="unfinished">Określony plik już istnieje. Czy na pewno chcesz zastąpić istniejący plik?</translation>
+        <translation>Określony plik już istnieje. Czy na pewno chcesz zastąpić istniejący plik?</translation>
     </message>
     <message>
         <source>This is not a valid page range.</source>
-        <translation type="unfinished">To nie jest prawidłowy zakres stron.</translation>
+        <translation>To nie jest prawidłowy zakres stron.</translation>
     </message>
 </context>
 <context>
     <name>KxExportToOFDProgressDlg</name>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Przygotowywanie do eksportowania pliku OFD...</translation>
     </message>
     <message>
         <source>Encountered an error when opening OFD file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd podczas otwierania pliku OFD!</translation>
     </message>
     <message>
         <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konwerter OFD napotkał problem alokacji pamięci. Należy zmniejszyć rozmiar dokumentu lub rozmiar obrazu.</translation>
     </message>
     <message>
         <source>WPS Writer encountered an error while trying exporting to OFD.</source>
-        <translation type="unfinished"></translation>
+        <translation>Program WPS Writer napotkał błąd podczas próby eksportowania do formatu OFD.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
-        <translation type="unfinished">Eksportowanie podsumowania...</translation>
+        <translation>Eksportowanie podsumowania...</translation>
     </message>
     <message>
         <source>Exporting page %1...</source>
-        <translation type="unfinished">Eksportowanie strony %1...</translation>
+        <translation>Eksportowanie strony %1...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
-        <translation type="unfinished">Eksportowanie etykiet...</translation>
+        <translation>Eksportowanie etykiet...</translation>
     </message>
     <message>
         <source>Exporting OFD file is completing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportowanie pliku OFD jest zakończane...</translation>
     </message>
     <message>
         <source>Exporting OFD file is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportowanie pliku OFD jest zakończone.</translation>
     </message>
 </context>
 <context>
@@ -8682,7 +8679,10 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK C:\\KingSoft.wps</source>
-        <translation type="obsolete">Przypuszczam, że KingSoft.wps jest na dysk C. Kod pola:HYPERLINK &quot;C:\\KingSoft.wps&quot;</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>Przypuszczam, że KingSoft.wps jest na dysk C. Kod pola:HIPERŁĄCZE &quot;C:\\KingSoft.wps&quot;</lengthvariant>
+            <lengthvariant>Przypuszczam, że KingSoft.wps jest na dysk C. Kod pola:HYPERLINK &quot;C:\\KingSoft.wps&quot;</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -8853,7 +8853,10 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</source>
-        <translation type="obsolete">Załóżmy, że adres url obrazu to &quot;d:\\WPS.jpg&quot;. Kod pola: INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>Przypuszczam, że adres url obrazu jest &quot;d:\\WPS.jpg&quot;.Kod pola: DOŁĄCZOBRAZ &quot;d:\\WPS.jpg&quot;</lengthvariant>
+            <lengthvariant>Przypuszczam, że adres url obrazu jest &quot;d:\\WPS.jpg&quot;.Kod pola: INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>IncludePicture</source>
@@ -8881,31 +8884,31 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished">/</translation>
+        <translation>/</translation>
     </message>
     <message>
         <source>root directory</source>
-        <translation type="unfinished">katalog główny</translation>
+        <translation>katalog główny</translation>
     </message>
     <message>
         <source>D:\\</source>
-        <translation type="unfinished">D:\\</translation>
+        <translation>D:\\</translation>
     </message>
     <message>
         <source>D drive</source>
-        <translation type="unfinished">Dysk D</translation>
+        <translation>Dysk D</translation>
     </message>
     <message>
         <source>Presume the KingSoft.wps is in %1. Field code:HYPERLINK %2KingSoft.wps</source>
-        <translation type="unfinished">Załóżmy, że KingSoft.wps jest w %1. Kod pola: HYPERLINK %2KingSoft.wps</translation>
+        <translation>Załóżmy, że KingSoft.wps jest w %1. Kod pola: HYPERLINK %2KingSoft.wps</translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the %1.</source>
-        <translation type="unfinished">Otwórz i aktywuj plik KingSoft.wps na %1.</translation>
+        <translation>Otwórz i aktywuj plik KingSoft.wps na %1.</translation>
     </message>
     <message>
         <source>Presume a picture&apos;s url is &quot;%1WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</source>
-        <translation type="unfinished">Załóżmy, że adres url obrazu to &quot;%1WPS.jpg&quot;. Kod pola: INCLUDEPICTURE &quot;%2WPS.jpg&quot;</translation>
+        <translation>Załóżmy, że adres url obrazu to &quot;%1WPS.jpg&quot;. Kod pola: INCLUDEPICTURE &quot;%2WPS.jpg&quot;</translation>
     </message>
     <message>
         <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
@@ -8913,10 +8916,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>IncludeText</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>IncludeText</lengthvariant>
-            <lengthvariant>Dołącz_tekst</lengthvariant>
-        </translation>
+        <translation type="obsolete">IncludeText</translation>
     </message>
     <message>
         <source>Insert text to from a file</source>
@@ -8948,7 +8948,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;. Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Załóżmy, że adres url pliku to &quot;%1wps.doc&quot;. Kod pola: INCLUDETEXT &quot;%2wps.doc&quot;</translation>
     </message>
     <message>
         <source>Insert Text</source>
@@ -10643,10 +10643,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</lengthvariant>
-            <lengthvariant>Nie masz uprawnień do zapisu plików kopii zapasowej w &quot;%1&quot;.</lengthvariant>
-        </translation>
+        <translation type="obsolete">Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
@@ -11584,7 +11581,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>rbHorizontalLeft</source>
-        <translation type="unfinished">rbWyrównanieWPoziomieDoLewej</translation>
+        <translation>rbHorizontalLeft</translation>
     </message>
     <message>
         <source>&amp;Left</source>
@@ -11592,7 +11589,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>rbHorizontalCenter</source>
-        <translation type="unfinished">rbWyśrodkowanieWPoziomie</translation>
+        <translation>rbHorizontalCenter</translation>
     </message>
     <message>
         <source>&amp;Center</source>
@@ -11600,7 +11597,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>rbHorizontalRight</source>
-        <translation type="unfinished">rbWyrównanieWPoziomieDoPrawej</translation>
+        <translation>rbHorizontalRight</translation>
     </message>
     <message>
         <source>&amp;Right</source>
@@ -11608,7 +11605,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>rbHorizontalOther</source>
-        <translation type="unfinished">rbWyrównanieWPoziomieInne</translation>
+        <translation>rbHorizontalOther</translation>
     </message>
     <message>
         <source>&amp;Other</source>
@@ -12700,7 +12697,7 @@ można zastosować własne elementy XML.</translation>
     </message>
     <message>
         <source>Document Map</source>
-        <translation>Plan dokumentu</translation>
+        <translation>Mapa dokumentu</translation>
     </message>
 </context>
 <context>
@@ -12714,7 +12711,7 @@ można zastosować własne elementy XML.</translation>
     <name>KxWpsFieldNameDelimiterDlg</name>
     <message>
         <source>Field delimiter and record delimiter cannot be same.</source>
-        <translation type="obsolete">Ogranicznik pola i ogranicznika rekordu nie mogą być takie same.</translation>
+        <translation type="obsolete">Ogranicznik pól nie może być taki sam jak ogranicznik rekordów.</translation>
     </message>
     <message>
         <source>The field delimiter cannot be the same as the record delimiter.</source>
@@ -13653,7 +13650,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Revision: %1</source>
-        <translation type="obsolete">Poprawka: %1</translation>
+        <translation type="obsolete">Poprawki: %1</translation>
     </message>
     <message>
         <source>Revisions: %1</source>
@@ -15006,159 +15003,159 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>kdlgExportToOFD</name>
     <message>
         <source>Export OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj plik OFD</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Ogólne</translation>
+        <translation>Ogólne</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished">Zapisz &amp;do</translation>
+        <translation>Zapisz &amp;do</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">&amp;Przeglądaj...</translation>
+        <translation>&amp;Przeglądaj...</translation>
     </message>
     <message>
         <source>Page range</source>
-        <translation type="unfinished">Zakres stron</translation>
+        <translation>Zakres stron</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished">Wszystkie</translation>
+        <translation>Wszystkie</translation>
     </message>
     <message>
         <source>Current page</source>
-        <translation type="unfinished">Bieżąca strona</translation>
+        <translation>Bieżąca strona</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished">Zaznaczenie</translation>
+        <translation>Zaznaczenie</translation>
     </message>
     <message>
         <source>Page(s)</source>
-        <translation type="unfinished">Strona(y)</translation>
+        <translation>Strona(y)</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished">Od:</translation>
+        <translation>Od:</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation type="unfinished">Do:</translation>
+        <translation>Do:</translation>
     </message>
     <message>
         <source>Export options</source>
-        <translation type="unfinished">Opcje eksportowania</translation>
+        <translation>Opcje eksportowania</translation>
     </message>
     <message>
         <source>Summar&amp;y information</source>
-        <translation type="unfinished">Podsumowani&amp;e</translation>
+        <translation>Podsumowani&amp;e</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
-        <translation type="unfinished">Nowy &amp;komentarz</translation>
+        <translation>Nowy &amp;komentarz</translation>
     </message>
     <message>
         <source>&amp;Hyperlink</source>
-        <translation type="unfinished">&amp;Hiperłącze</translation>
+        <translation>&amp;Hiperłącze</translation>
     </message>
     <message>
         <source>Li&amp;nks of footnotes and endnotes</source>
-        <translation type="unfinished">Łą&amp;cza przypisów dolnych i końcowych</translation>
+        <translation>Łą&amp;cza przypisów dolnych i końcowych</translation>
     </message>
     <message>
         <source>Placeholder</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbole zastępcze</translation>
     </message>
     <message>
         <source>Boo&amp;kmark</source>
-        <translation type="unfinished">&amp;Zakładka</translation>
+        <translation>&amp;Zakładka</translation>
     </message>
     <message>
         <source>&amp;Revision</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Poprawka</translation>
     </message>
     <message>
         <source>Con&amp;vert title styles to bookmarks</source>
-        <translation type="unfinished">&amp;Konwertuj style tytułów do zakładek</translation>
+        <translation>&amp;Konwertuj style tytułów do zakładek</translation>
     </message>
     <message>
         <source>Convert other &amp;styles to bookmarks</source>
-        <translation type="unfinished">Konwertuj inne &amp;style do zakładek</translation>
+        <translation>Konwertuj inne &amp;style do zakładek</translation>
     </message>
     <message>
         <source>Convert c&amp;ustom styles to bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Konwertuj &amp;niestandardowe style do zakładek</translation>
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation type="unfinished">Ustawienia uprawnień</translation>
+        <translation>Ustawienia uprawnień</translation>
     </message>
     <message>
         <source>Password to prot&amp;ect permission settings</source>
-        <translation type="unfinished">Hasło ochrony ustawi&amp;eń uprawnień</translation>
+        <translation>Hasło ochrony ustawi&amp;eń uprawnień</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished">&amp;Hasło:</translation>
+        <translation>&amp;Hasło:</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished">&amp;Potwierdź:</translation>
+        <translation>&amp;Potwierdź:</translation>
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished">Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
+        <translation>Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
-        <translation type="unfinished">Zezwalaj na mo&amp;dyfikowanie</translation>
+        <translation>Zezwalaj na mo&amp;dyfikowanie</translation>
     </message>
     <message>
         <source>Permit to c&amp;opy</source>
-        <translation type="unfinished">Zezwalaj na kopiowani&amp;e</translation>
+        <translation>Zezwalaj na kopiowani&amp;e</translation>
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation type="unfinished">Zezwalaj na &amp;dodawanie komentarzy</translation>
+        <translation>Zezwalaj na &amp;dodawanie komentarzy</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
-        <translation type="unfinished">Uprawnienia d&amp;rukowania:</translation>
+        <translation>Uprawnienia d&amp;rukowania:</translation>
     </message>
     <message>
         <source>Printing Permission</source>
-        <translation type="unfinished">Uprawnienia drukowania</translation>
+        <translation>Uprawnienia drukowania</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished">Drukowanie niedozwolone</translation>
+        <translation>Drukowanie niedozwolone</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
-        <translation type="unfinished">Niska jakość druku</translation>
+        <translation>Niska jakość druku</translation>
     </message>
     <message>
         <source>Free printing</source>
-        <translation type="unfinished">Drukowanie bez ograniczeń</translation>
+        <translation>Drukowanie bez ograniczeń</translation>
     </message>
     <message>
         <source>File open password:</source>
-        <translation type="unfinished">Hasło otwarcia pliku:</translation>
+        <translation>Hasło otwarcia pliku:</translation>
     </message>
     <message>
         <source>Pass&amp;word:</source>
-        <translation type="unfinished">Ha&amp;sło:</translation>
+        <translation>Ha&amp;sło:</translation>
     </message>
     <message>
         <source>Conf&amp;irm:</source>
-        <translation type="unfinished">&amp;Potwierdź:</translation>
+        <translation>&amp;Potwierdź:</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation type="unfinished">Zamknij po zakończeniu e&amp;ksportowania</translation>
+        <translation>Zamknij po zakończeniu e&amp;ksportowania</translation>
     </message>
     <message>
         <source>Select OFD Service Provider</source>
@@ -15177,15 +15174,15 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>kdlgExportToOFDProgress</name>
     <message>
         <source>Export to OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj do pliku OFD</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished">&amp;Otwórz plik</translation>
+        <translation>&amp;Otwórz plik</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -15292,11 +15289,11 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation type="obsolete">Hasło do ochrony ustawienia uprawnień</translation>
+        <translation type="obsolete">Hasło ochrony ustawień uprawnień</translation>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="obsolete">Uwaga: Tylko ustawienie hasła może dokonać poniższych ustawień i uniknąć zmieniania przez innych użytkowników.</translation>
+        <translation type="obsolete">Uwaga: tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>

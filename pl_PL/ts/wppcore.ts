@@ -152,7 +152,7 @@
     <message>
         <source>This function is offered in WPS Office 2009 Prefessional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation type="obsolete">Ta funkcja jest oferowana w WPS Office 2009 Prefessional.</translation>
+        <translation type="obsolete">Ta funkcja jest oferowana w WPS Office 2009 Professional.</translation>
     </message>
     <message>
         <source>This function is offered in WPS Office 2009 Professional.</source>
@@ -1763,7 +1763,7 @@ Piąty poziom</translation>
     <message>
         <source>Start slide show...</source>
         <comment>WP_START_PLAYING</comment>
-        <translation>Rozpocznij pokaz slajdów...</translation>
+        <translation>Rozpoczynanie pokazu slajdów...</translation>
     </message>
     <message>
         <source>Your virus scanning program encounters errors when scanning this file (Error code: 0x%08X). Please contact the anti-virus software agent. 
@@ -5916,7 +5916,10 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Very Fast</source>
         <comment>wpp_sSpeedVeryFast</comment>
-        <translation>Bardzo szybko</translation>
+        <translation variants="yes">
+            <lengthvariant>Bardzo szybko</lengthvariant>
+            <lengthvariant>Bardzo szybka</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>%.1f seconds(Very Fast)</source>
@@ -7199,13 +7202,13 @@ pisowni</translation>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>WpMsgBackupToDef</comment>
-        <translation>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowych.
-Ta kopia zapasowa zostanie zapisana do(%s)</translation>
+        <translation>Występują błędy podczas tworzenia kopii zapasowej! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowej, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowej.
+Ta kopia zapasowa zostanie zapisana do (%s)</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
         <comment>WpDescAll</comment>
-        <translation type="unfinished">Wszystkie pliki (*.*)</translation>
+        <translation>Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</source>
@@ -7230,12 +7233,12 @@ Ta kopia zapasowa zostanie zapisana do(%s)</translation>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
         <comment>WpDescPpt</comment>
-        <translation type="unfinished">Prezentacja programu Microsoft PowerPoint 97/2000/XP/2003 (*.ppt)</translation>
+        <translation>Prezentacja programu Microsoft PowerPoint 97/2000/XP/2003 (*.ppt)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
         <comment>WpDescPps</comment>
-        <translation type="unfinished">Pokaz programu Microsoft PowerPoint 97/2000/XP/2003 (*.pps)</translation>
+        <translation>Pokaz programu Microsoft PowerPoint 97/2000/XP/2003 (*.pps)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
@@ -7250,32 +7253,32 @@ Ta kopia zapasowa zostanie zapisana do(%s)</translation>
     <message>
         <source>Chinese Office Document Format(*.uof)</source>
         <comment>WpDescUOF</comment>
-        <translation type="unfinished">Format chińskiego dokumentu Office (*.uof)</translation>
+        <translation>Format chińskiego dokumentu Office (*.uof)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format 2.0(*.uop)</source>
         <comment>WpDescUOF2</comment>
-        <translation type="unfinished">Format chińskiego dokumentu Office 2.0 (*.uop)</translation>
+        <translation>Format chińskiego dokumentu Office 2.0 (*.uop)</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)</source>
         <comment>WpDescJPEG</comment>
-        <translation type="unfinished">Format wymiany plików JPEG (*.jpg)</translation>
+        <translation>Format wymiany plików JPEG (*.jpg)</translation>
     </message>
     <message>
         <source>PNG Portable Network Graphics Format(*.png)</source>
         <comment>WpDescPNG</comment>
-        <translation type="unfinished">Przenośna grafika sieciowa PNG (*.png)</translation>
+        <translation>Przenośna grafika sieciowa PNG (*.png)</translation>
     </message>
     <message>
         <source>TIFF Tag Image File Format(*.tif)</source>
         <comment>WpDescTIFF</comment>
-        <translation type="unfinished">Znacznikowy format pliku obrazu TIF (*.tif)</translation>
+        <translation>Znacznikowy format pliku obrazu TIF (*.tif)</translation>
     </message>
     <message>
         <source>Device Independent Bitmap(*.bmp)</source>
         <comment>WpDescBMP</comment>
-        <translation type="unfinished">Mapa bitowa niezależna od urządzenia (*.bmp)</translation>
+        <translation>Mapa bitowa niezależna od urządzenia (*.bmp)</translation>
     </message>
     <message>
         <source>Each slide in your presentation has been saved as a separate file in the folder
