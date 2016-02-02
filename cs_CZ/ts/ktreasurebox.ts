@@ -18,7 +18,7 @@
     </message>
     <message>
         <source>No thanks.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ne, díky.</translation>
     </message>
     <message>
         <source>WPS Office Recommendation</source>

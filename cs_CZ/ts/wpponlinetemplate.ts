@@ -6,37 +6,37 @@
     <name>KLiveService</name>
     <message>
         <source>Please install Klive manually.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prosím nainstalujte Klive ručně.</translation>
     </message>
     <message>
         <source>Please sign in Klive manually.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prosím podepište Klive ručně.</translation>
     </message>
 </context>
 <context>
     <name>KWppOnlineTemplate</name>
     <message>
         <source>Blank Design</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prázdný návrh</translation>
     </message>
 </context>
 <context>
     <name>KxTpOnlineTemplateWidget</name>
     <message>
         <source>Using Template</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ze šablony</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Online šablony</translation>
     </message>
     <message>
         <source>Local Templates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Místní šablony</translation>
     </message>
     <message>
         <source>My Favorite</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Moje oblíbené</translation>
     </message>
 </context>
 <context>

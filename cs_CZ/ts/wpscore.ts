@@ -5,18 +5,6 @@
 <context>
     <name>field_parser_index</name>
     <message>
-        <source>Symbol</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Stroke</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chinese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error. No index entries found.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -33,7 +21,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Symbol</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error. Unknown switch argument.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stroke</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -50,19 +50,11 @@
     </message>
 </context>
 <context>
-    <name>io_string</name>
-    <message>
-        <source>Author</source>
-        <comment>IO_String_Author</comment>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>wps_comment</name>
     <message>
         <source>Comment</source>
         <comment>TX_COMMENT_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Komentář</translation>
     </message>
 </context>
 <context>
@@ -70,22 +62,22 @@
     <message>
         <source>Insert Picture</source>
         <comment>TxVersion_InsertPicture</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit obrázek</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
         <comment>TxVersion_InsertTextEffect</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit WordArt</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>TxVersion_Clear</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyprázdnit</translation>
     </message>
     <message>
         <source>Text Box</source>
         <comment>TxTextBox</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Textový rámeček</translation>
     </message>
 </context>
 <context>
@@ -96,23 +88,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error! Unknown switch argument.</source>
-        <comment>TX_FIELD_ERR_UNKNOWN_SWITCH_ARGUMENT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error! Switch argument not specified.</source>
-        <comment>TX_FIELD_ERR_SWITCH_ARGUMENT_NOT_SPECIFIED</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error! Picture switch must be the first formatting switch.</source>
         <comment>TX_FIELD_ERR_PICTURE_FORMAT_NOT_FIRST</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error! Picture string contains unmatched quotes.</source>
-        <comment>TX_FIELD_ERR_PICTURE_STRING_CONTAINS_UNMATCHED_QUOTES</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -131,6 +108,21 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Error! Unknown switch argument.</source>
+        <comment>TX_FIELD_ERR_UNKNOWN_SWITCH_ARGUMENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error! Switch argument not specified.</source>
+        <comment>TX_FIELD_ERR_SWITCH_ARGUMENT_NOT_SPECIFIED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error! Picture string contains unmatched quotes.</source>
+        <comment>TX_FIELD_ERR_PICTURE_STRING_CONTAINS_UNMATCHED_QUOTES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Writer encountered an error when trying to update source file.
 Try one or more of the following:
 1. Check whether the source file has been opened or occupied by other programs.
@@ -140,23 +132,13 @@ Try one or more of the following:
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Error! Number cannot be represented in specified format.</source>
-        <comment>TX_FIELD_ERR_NUM_CANNOT_BE_SPECIFIED_FORMAT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error! The style has no specified text.</source>
-        <comment>TX_FIELD_ERR_STYLE_NO_SPECIFIED_STYLE_TEXT</comment>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>wps_field_parser_common</name>
     <message>
         <source>Title</source>
         <comment>TX_STYLE_NAME_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nadpis</translation>
     </message>
     <message>
         <source> </source>
@@ -176,12 +158,12 @@ Try one or more of the following:
     <message>
         <source>Number</source>
         <comment>TX_FIELD_NUMBER</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Číslo</translation>
     </message>
     <message>
         <source>Date</source>
         <comment>TX_FIELD_DATE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Datum</translation>
     </message>
     <message>
         <source>Current date</source>
@@ -242,7 +224,7 @@ Try one or more of the following:
     <message>
         <source>Hyperlink</source>
         <comment>TX_STYLE_NAME_HYPERLINK</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hypertext. odkaz</translation>
     </message>
     <message>
         <source>above</source>
@@ -346,11 +328,6 @@ Try one or more of the following:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>!Syntax errors</source>
-        <comment>TX_FIELD_ERR_COMPILE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>!Abnormal formula end</source>
         <comment>TX_FIELD_ERR_COMPILE_UNEXPECTED_END</comment>
         <translation type="unfinished"></translation>
@@ -370,38 +347,43 @@ Try one or more of the following:
         <comment>TX_FIELD_ERR_FMT_NUM_TOO_LARGE</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>!Syntax errors</source>
+        <comment>TX_FIELD_ERR_COMPILE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_pagelayout</name>
     <message>
         <source>First Page</source>
         <comment>TxPropmpt_First_Page</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">První stránka</translation>
     </message>
     <message>
         <source>Odd Page</source>
         <comment>TxPropmpt_Odd_Page</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lichá stránka</translation>
     </message>
     <message>
         <source>Even Page</source>
         <comment>TxPropmpt_Even_Page</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sudá stránka</translation>
     </message>
     <message>
         <source> Header </source>
         <comment>TxPropmpt_Header</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlavička </translation>
     </message>
     <message>
         <source> Footer </source>
         <comment>TxPropmpt_Footer</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Patička </translation>
     </message>
     <message>
         <source> - Section %d - </source>
         <comment>TxPropmpt_Section_Index</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">- Sekce %d - </translation>
     </message>
     <message>
         <source>Same as the previous section</source>
@@ -414,12 +396,12 @@ Try one or more of the following:
     <message>
         <source>Comment</source>
         <comment>TX_PDF_COMMENT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Komentář</translation>
     </message>
     <message>
         <source>Revision</source>
         <comment>TX_PDF_REVISION</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Revize</translation>
     </message>
 </context>
 <context>
@@ -427,12 +409,12 @@ Try one or more of the following:
     <message>
         <source>Page Break</source>
         <comment>_TxPageBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zalomení stránky</translation>
     </message>
     <message>
         <source>Column Break</source>
         <comment>_TxColumnBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zalomení sloupce</translation>
     </message>
     <message>
         <source>Section Break (Next Page)</source>
@@ -457,17 +439,17 @@ Try one or more of the following:
     <message>
         <source>End of Section</source>
         <comment>_TxSectionBreakNewColumn</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konec sekce</translation>
     </message>
     <message>
         <source>Section Break</source>
         <comment>_TxSectionBreakDefault</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zalomení sekce</translation>
     </message>
     <message>
         <source>The end of the protected section</source>
         <comment>_TxSectionBreakProtected</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konec uzamčené sekce</translation>
     </message>
 </context>
 <context>
@@ -475,42 +457,42 @@ Try one or more of the following:
     <message>
         <source>Page Setup</source>
         <comment>TxVersion_Page_Setup</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení stránky</translation>
     </message>
     <message>
         <source>Paragraph Formatting Setup</source>
         <comment>TxVersion_Paragraph_Formatting</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení formátování odstavce</translation>
     </message>
     <message>
         <source>Table Properties</source>
         <comment>TxVersion_Table_Properties</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastnosti tabulky</translation>
     </message>
     <message>
         <source>Columns Formatting Setup</source>
         <comment>TxVersion_Culmns</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení formátování sloupců</translation>
     </message>
     <message>
         <source>Formatting</source>
         <comment>TxVersion_Formatting</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formátování</translation>
     </message>
     <message>
         <source>Table Width</source>
         <comment>TxVersion_Culmn_Width</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šířka tabulky</translation>
     </message>
     <message>
         <source>Text Box</source>
         <comment>TxVersion_Text_Frame</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Textový rámeček</translation>
     </message>
     <message>
         <source>First Line Indent</source>
         <comment>TxToolTip_First_Line_Indent</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odsazení prvního řádku</translation>
     </message>
     <message>
         <source>Hanging Indent</source>
@@ -520,12 +502,12 @@ Try one or more of the following:
     <message>
         <source>Left Indent</source>
         <comment>TxToolTip_Left_Indent</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odsazení vlevo</translation>
     </message>
     <message>
         <source>Right Indent</source>
         <comment>TxToolTip_Right_Indent</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odsazení vpravo</translation>
     </message>
     <message>
         <source>Left Tab</source>
@@ -565,22 +547,22 @@ Try one or more of the following:
     <message>
         <source>Left Margin</source>
         <comment>TxToolTip_Left_Margin</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Levý okraj</translation>
     </message>
     <message>
         <source>Right Margin</source>
         <comment>TxToolTip_Right_Margin</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pravý okraj</translation>
     </message>
     <message>
         <source>Top Margin</source>
         <comment>TxToolTip_Top_Margin</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horní okraj</translation>
     </message>
     <message>
         <source>Bottom Margin</source>
         <comment>TxToolTip_Bottom_Margin</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dolní okraj</translation>
     </message>
     <message>
         <source>Move Column</source>
@@ -666,7 +648,7 @@ Try one or more of the following:
     <message>
         <source>Equation</source>
         <comment>_TxBuiltInCaptionLabelEquation</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mat. výraz</translation>
     </message>
     <message>
         <source>Figure</source>
@@ -676,17 +658,12 @@ Try one or more of the following:
     <message>
         <source>Table</source>
         <comment>_TxBuiltInCaptionLabelTable</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Image</source>
-        <comment>_TxBuiltInCaptionLabelImage</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabulka</translation>
     </message>
     <message>
         <source>None</source>
         <comment>_TxNothing</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žádný</translation>
     </message>
     <message>
         <source>Pound</source>
@@ -696,12 +673,12 @@ Try one or more of the following:
     <message>
         <source>Centimeter</source>
         <comment>_TxUnit_Centimeter</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centimetr</translation>
     </message>
     <message>
         <source>Millimeter</source>
         <comment>_TxUnit_Milimeter</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Milimetr</translation>
     </message>
     <message>
         <source>Inch</source>
@@ -756,7 +733,7 @@ Try one or more of the following:
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
         <comment>Tx_PrintError</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze tisknout, zkontrolujte prosím jestli je vaše tiskárna správně nainstalovaná.</translation>
     </message>
     <message>
         <source>WPS Writer has reached the beginning of the document.</source>
@@ -771,12 +748,12 @@ Try one or more of the following:
     <message>
         <source>WPS Writer has finished searching the document.</source>
         <comment>_TxFind_FinishSearchingDoc</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS writer dokončil prohledávání dokumentu.</translation>
     </message>
     <message>
         <source>WPS Writer has finished searching the document.</source>
         <comment>_TxFind_FinishSearchingDoc2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS writer dokončil prohledávání dokumentu.</translation>
     </message>
     <message>
         <source>WPS Writer has finished searching the selection.</source>
@@ -809,11 +786,6 @@ Try one or more of the following:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%s is not a valid special character for the Replace With box.</source>
-        <comment>_TxFind_NoValidReplacementStr</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(Print Preview)</source>
         <comment>TxDesc_PrintPreview</comment>
         <translation type="unfinished"></translation>
@@ -831,7 +803,7 @@ Try one or more of the following:
     <message>
         <source>Page</source>
         <comment>_TxGenko_PageNumbers</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stránka</translation>
     </message>
     <message>
         <source>This action will not be marked as a revision. Do you want to continue?</source>
@@ -844,21 +816,6 @@ Try one or more of the following:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Invalid e-mail address, sending failed.</source>
-        <comment>_TxMailMerge_ErrAddress</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure sending mail.</source>
-        <comment>_TxMailMerge_SendMailFailed</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
-        <comment>_TxMailMerge_NoRecordExecute</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WPS Writer cannot open the Data Source.</source>
         <comment>_TxMailMerge_OpenDataSourceErr</comment>
         <translation type="unfinished"></translation>
@@ -866,7 +823,7 @@ Try one or more of the following:
     <message>
         <source>Attachment</source>
         <comment>_TxMailMerge_DefaultAttachName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Příloha</translation>
     </message>
     <message>
         <source>%s already exists.
@@ -895,16 +852,6 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Spell Check: On</source>
-        <comment>_TxSpellingCheck_On</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spell Check: Off</source>
-        <comment>_TxSpellingCheck_Off</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please select the base text for the Phonetic Guide.</source>
         <comment>_TxPhoneticGuideTip</comment>
         <translation type="unfinished"></translation>
@@ -912,12 +859,7 @@ Do you want to replace it?</source>
     <message>
         <source>&amp;Tools</source>
         <comment>_TxMenuBarOption_Tool</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text tools(&amp;F)</source>
-        <comment>_TxMenuBarOption_TextTool</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Nástroje</translation>
     </message>
     <message>
         <source>REV</source>
@@ -932,7 +874,7 @@ Do you want to replace it?</source>
     <message>
         <source>Unit: inch</source>
         <comment>_TxStatusBar_Inches</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jednotka: palec</translation>
     </message>
     <message>
         <source>Unit: mm</source>
@@ -952,12 +894,12 @@ Do you want to replace it?</source>
     <message>
         <source>Font</source>
         <comment>TxRevision_Chp_Font</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Písmo</translation>
     </message>
     <message>
         <source>Font color</source>
         <comment>TxRevision_Chp_FontColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva písma</translation>
     </message>
     <message>
         <source>（Default）</source>
@@ -972,12 +914,12 @@ Do you want to replace it?</source>
     <message>
         <source>Bold</source>
         <comment>TxRevision_Chp_Bold</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tučné</translation>
     </message>
     <message>
         <source>Italic</source>
         <comment>TxRevision_Chp_Italic</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zkosené</translation>
     </message>
     <message>
         <source>No underline</source>
@@ -992,17 +934,17 @@ Do you want to replace it?</source>
     <message>
         <source>Underline</source>
         <comment>TxRevision_Chp_Underline</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podtržení</translation>
     </message>
     <message>
         <source>Double underline</source>
         <comment>TxRevision_Chp_DoubleUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dvojité podtržení</translation>
     </message>
     <message>
         <source>Thick underline</source>
         <comment>TxRevision_Chp_ThickUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tlusté podtržení</translation>
     </message>
     <message>
         <source>Dotted underline</source>
@@ -1060,11 +1002,6 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Wavy Heavy Line</source>
-        <comment>TxRevision_Chp_WaveHeavyUnderline</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Wave double underline</source>
         <comment>TxRevision_Chp_WaveDoubleUnderline</comment>
         <translation type="unfinished"></translation>
@@ -1092,7 +1029,7 @@ Do you want to replace it?</source>
     <message>
         <source>Strikethrough</source>
         <comment>TxRevision_Chp_Strikethrough</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přeškrtnutý</translation>
     </message>
     <message>
         <source>Double strikethrough</source>
@@ -1102,12 +1039,13 @@ Do you want to replace it?</source>
     <message>
         <source>Superscript</source>
         <comment>TxRevision_Chp_Superscript</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horní index
+</translation>
     </message>
     <message>
         <source>Subscript</source>
         <comment>TxRevision_Chp_Subscript</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dolní index</translation>
     </message>
     <message>
         <source>Superscript/Subscript</source>
@@ -1117,22 +1055,22 @@ Do you want to replace it?</source>
     <message>
         <source>Highlight</source>
         <comment>TxRevision_Chp_Highlight</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvýraznění</translation>
     </message>
     <message>
         <source>Hidden</source>
         <comment>TxRevision_Chp_Hidden</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skrytý</translation>
     </message>
     <message>
         <source>Outline</source>
         <comment>TxRevision_Chp_Outline</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ohraničení</translation>
     </message>
     <message>
         <source>Shadow</source>
         <comment>TxRevision_Chp_Shadow</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stín</translation>
     </message>
     <message>
         <source>Emboss</source>
@@ -1175,11 +1113,6 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Expanded by/Condensed by</source>
-        <comment>TxRevision_Chp_ExpandedByCondensedBy</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Raised by </source>
         <comment>TxRevision_Chp_RaisedBy</comment>
         <translation type="unfinished"></translation>
@@ -1187,11 +1120,6 @@ Do you want to replace it?</source>
     <message>
         <source>Lowered by </source>
         <comment>TxRevision_Chp_LoweredBy</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Raised by/Lowered by</source>
-        <comment>TxRevision_Chp_RaisedByLoweredBy</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1207,62 +1135,62 @@ Do you want to replace it?</source>
     <message>
         <source>Don&apos;t snap to grid</source>
         <comment>TxRevision_Chp_DontSnapToGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepřichytávat k mřížce</translation>
     </message>
     <message>
         <source>Normal</source>
         <comment>TxRevision_Chp_Normal</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normální</translation>
     </message>
     <message>
         <source>Heading 1</source>
         <comment>TxRevision_Chp_Heading1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nadpis 1</translation>
     </message>
     <message>
         <source>Heading 2</source>
         <comment>TxRevision_Chp_Heading2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nadpis 2</translation>
     </message>
     <message>
         <source>Heading 3</source>
         <comment>TxRevision_Chp_Heading3</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nadpis 3</translation>
     </message>
     <message>
         <source>Header</source>
         <comment>TxRevision_Chp_Header</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlavička</translation>
     </message>
     <message>
         <source>Footer</source>
         <comment>TxRevision_Chp_Footer</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Patička</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
         <comment>TxRevision_Chp_DefaultParagraphFont</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výchozí písmo odstavce</translation>
     </message>
     <message>
         <source>Pattern</source>
         <comment>TxRevision_Chp_Pattern</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vzor</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>TxRevision_Pap_Left</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlevo</translation>
     </message>
     <message>
         <source>Centered</source>
         <comment>TxRevision_Pap_Centered</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vystředěný</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TxRevision_Pap_Right</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vpravo</translation>
     </message>
     <message>
         <source>Justified</source>
@@ -1297,7 +1225,7 @@ Do you want to replace it?</source>
     <message>
         <source>First line</source>
         <comment>TxRevision_Pap_FirstLine</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">První řádek</translation>
     </message>
     <message>
         <source>Hanging</source>
@@ -1312,12 +1240,12 @@ Do you want to replace it?</source>
     <message>
         <source>Before</source>
         <comment>TxRevision_Pap_Before</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Před</translation>
     </message>
     <message>
         <source>After</source>
         <comment>TxRevision_Pap_After</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Po</translation>
     </message>
     <message>
         <source>Line spacing</source>
@@ -1342,7 +1270,7 @@ Do you want to replace it?</source>
     <message>
         <source>At least </source>
         <comment>TxRevision_Pap_AtLeast</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nejméně </translation>
     </message>
     <message>
         <source>Exactly </source>
@@ -1352,7 +1280,7 @@ Do you want to replace it?</source>
     <message>
         <source>Multiple </source>
         <comment>TxRevision_Pap_Multiple</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vícenásobný </translation>
     </message>
     <message>
         <source>Widow/Orphan control</source>
@@ -1457,12 +1385,12 @@ Do you want to replace it?</source>
     <message>
         <source>Font Alignment</source>
         <comment>TxRevision_Pap_FontAlignment</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnání písma</translation>
     </message>
     <message>
         <source>Auto</source>
         <comment>TxRevision_Pap_Auto</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automaticky</translation>
     </message>
     <message>
         <source>Top</source>
@@ -1472,7 +1400,7 @@ Do you want to replace it?</source>
     <message>
         <source>Center</source>
         <comment>TxRevision_Pap_Center</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Střed</translation>
     </message>
     <message>
         <source>Baseline</source>
@@ -1482,7 +1410,7 @@ Do you want to replace it?</source>
     <message>
         <source>Bottom</source>
         <comment>TxRevision_Pap_Bottom</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dole</translation>
     </message>
     <message>
         <source>Tab stops</source>
@@ -1492,17 +1420,17 @@ Do you want to replace it?</source>
     <message>
         <source>Left</source>
         <comment>TxRevision_Pap_TabStopsLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlevo</translation>
     </message>
     <message>
         <source>Centered</source>
         <comment>TxRevision_Pap_TabStopsCentered</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vystředěný</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TxRevision_Pap_TabStopsRight</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vpravo</translation>
     </message>
     <message>
         <source>leader</source>
@@ -1522,17 +1450,17 @@ Do you want to replace it?</source>
     <message>
         <source>Level</source>
         <comment>TxRevision_Pap_BulletedLevel</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Úroveň</translation>
     </message>
     <message>
         <source>Level</source>
         <comment>TxRevision_Pap_NumberedLevel</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Úroveň</translation>
     </message>
     <message>
         <source>Numbering Style</source>
         <comment>TxRevision_Pap_NumberingStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl číslování</translation>
     </message>
     <message>
         <source>Start at</source>
@@ -1542,7 +1470,7 @@ Do you want to replace it?</source>
     <message>
         <source>Alignment</source>
         <comment>TxRevision_Pap_Alignment</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnání</translation>
     </message>
     <message>
         <source>Aligned at</source>
@@ -1557,12 +1485,12 @@ Do you want to replace it?</source>
     <message>
         <source>Left</source>
         <comment>TxRevision_Sep_Left</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlevo</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TxRevision_Sep_Right</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vpravo</translation>
     </message>
     <message>
         <source>Top</source>
@@ -1572,7 +1500,7 @@ Do you want to replace it?</source>
     <message>
         <source>Bottom</source>
         <comment>TxRevision_Sep_Bottom</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dole</translation>
     </message>
     <message>
         <source>Gutter</source>
@@ -1582,12 +1510,12 @@ Do you want to replace it?</source>
     <message>
         <source>Width</source>
         <comment>TxRevision_Sep_Width</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šířka</translation>
     </message>
     <message>
         <source>Height</source>
         <comment>TxRevision_Sep_Height</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výška</translation>
     </message>
     <message>
         <source>Section start</source>
@@ -1597,22 +1525,22 @@ Do you want to replace it?</source>
     <message>
         <source>Continuous</source>
         <comment>TxRevision_Sep_Continuous</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Souvisle</translation>
     </message>
     <message>
         <source>New page</source>
         <comment>TxRevision_Sep_NewPage</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nová stránka</translation>
     </message>
     <message>
         <source>Even page</source>
         <comment>TxRevision_Sep_EvenPage</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sudá stránka</translation>
     </message>
     <message>
         <source>Odd page</source>
         <comment>TxRevision_Sep_OddPage</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lichá stránka</translation>
     </message>
     <message>
         <source>Different first page header and footer</source>
@@ -1652,7 +1580,7 @@ Do you want to replace it?</source>
     <message>
         <source>Number of columns</source>
         <comment>TxRevision_Sep_NumberOfColumns</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Počet sloupců</translation>
     </message>
     <message>
         <source>Col #%d width</source>
@@ -1802,7 +1730,7 @@ Do you want to replace it?</source>
     <message>
         <source>Line width</source>
         <comment>TxRevision_Bop_LineWidth</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šířka řádku</translation>
     </message>
     <message>
         <source>&quot;</source>
@@ -1822,7 +1750,7 @@ Do you want to replace it?</source>
     <message>
         <source>pt</source>
         <comment>TxRevision_Unit_PT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">bod</translation>
     </message>
     <message>
         <source>ch</source>
@@ -1842,7 +1770,7 @@ Do you want to replace it?</source>
     <message>
         <source>42;36;26;24;22;18;16;15;14;12;10.5;9;7.5;6.5;5.5;5</source>
         <comment>TxRevision_Chp_FontSizeReplacedList</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">42;36;26;24;22;18;16;15;14;12;10,5;9;7,5;6,5;5,5;5</translation>
     </message>
     <message>
         <source>Custom Color (RGB(%d,%d,%d))</source>
@@ -1850,9 +1778,14 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</source>
+        <comment>TxRevision_Color_ColorNameReplacedList</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pattern</source>
         <comment>TxRevision_Shp_Pattern</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vzor</translation>
     </message>
     <message>
         <source> Foreground</source>
@@ -1872,7 +1805,7 @@ Do you want to replace it?</source>
     <message>
         <source>Auto</source>
         <comment>TxRevision_Color_Auto</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automaticky</translation>
     </message>
     <message>
         <source>Chinese(Hong Kong S.A.R);Chinese(Macao S.A.R);Chinese(Simplified);Chinese(Singapore);Chinese(Traditional);English(Australia);English(Belize);English(Canada);English(Caribbean);English(Ireland);English(Jamaica);English(New Zealand);English(Philippines);English(South Africa);English(Special Trinidad and Tobago);English(UK);English(United States);English(Zimbabwe);English(Indonesia);French(Belgium);French(Cameroon);French(Canada);French(Ivory Coast);French(France);French(Luxembourg);French(Mali);French(Monaco);French(Reunion Island);French(Senegal);French(Morocco);French(Haiti);French(Switzerland);French(West Indies);French(Democratic Republic);German(Austria);German(Germany);German(Liechtenstein);German(Luxembourg);German(Switzerland);Japanese;Portuguese(Brazil);Portuguese(Portugal);Russian(Moldova);Russian;Belarusian Language;Vietnamese;Korean;Thai;Italian(Italy);Italian(Switzerland);Greece:3076;5124;2052;4100;1028;3081;10249;4105;9225;6153;8201;5129;13321;7177;11273;2057;1033;12297;14345;2060;11276;3084;12300;1036;5132;13324;6156;8204;10252;14348;15372;4108;7180;9228;3079;1031;5127;4103;2055;1041;1046;2070;2073;1049;1059;1066;1042;1054;1040;2064;1032</source>
@@ -1897,22 +1830,22 @@ Do you want to replace it?</source>
     <message>
         <source>Left</source>
         <comment>TxRevision_Pap_IndentLeft2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlevo</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TxRevision_Pap_IndentRight2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vpravo</translation>
     </message>
     <message>
         <source>Auto</source>
         <comment>TxRevision_Pap_SpaceAuto</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automaticky</translation>
     </message>
     <message>
         <source>Suppress line numbers</source>
         <comment>TxRevision_Pap_SuppressLineNumbers</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potlačit čísla řádků</translation>
     </message>
     <message>
         <source>Don&apos;t hyphenate</source>
@@ -1937,7 +1870,7 @@ Do you want to replace it?</source>
     <message>
         <source>Don&apos;t snap to grid</source>
         <comment>TxRevision_Pap_DontSnapToGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepřichytávat k mřížce</translation>
     </message>
     <message>
         <source>Bar</source>
@@ -1952,7 +1885,7 @@ Do you want to replace it?</source>
     <message>
         <source>Border spacing</source>
         <comment>TxRevision_Bop_BorderSpacing</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odsazení okrajů</translation>
     </message>
     <message>
         <source>From text</source>
@@ -1967,7 +1900,7 @@ Do you want to replace it?</source>
     <message>
         <source>Border</source>
         <comment>TxRevision_Bop_Border</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okraj</translation>
     </message>
     <message>
         <source>No border</source>
@@ -1982,22 +1915,22 @@ Do you want to replace it?</source>
     <message>
         <source>Bottom</source>
         <comment>TxRevision_Bop_Bottom</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dole</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>TxRevision_Bop_Left</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlevo</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TxRevision_Bop_Right</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vpravo</translation>
     </message>
     <message>
         <source>Between</source>
         <comment>TxRevision_Bop_Between</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mezi</translation>
     </message>
     <message>
         <source>Box</source>
@@ -2017,17 +1950,17 @@ Do you want to replace it?</source>
     <message>
         <source>None</source>
         <comment>TxRevision_Pap_None</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žádný</translation>
     </message>
     <message>
         <source>New column</source>
         <comment>TxRevision_Sep_NewColumn</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový sloupec</translation>
     </message>
     <message>
         <source>Margin</source>
         <comment>TxRevision_Bop_Margin</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okraj</translation>
     </message>
     <message>
         <source>Not </source>
@@ -2037,22 +1970,22 @@ Do you want to replace it?</source>
     <message>
         <source>Left</source>
         <comment>TxRevision_Pap_AlignmentLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlevo</translation>
     </message>
     <message>
         <source>Center</source>
         <comment>TxRevision_Pap_AlignmentCenter</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Střed</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TxRevision_Pap_AlignmentRight</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vpravo</translation>
     </message>
     <message>
         <source>No bullets or numbering</source>
         <comment>TxRevision_Pap_NoBulletsOrNumbering</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žádné odrážky nebo číslování</translation>
     </message>
     <message>
         <source>Right-to-left</source>
@@ -2067,7 +2000,7 @@ Do you want to replace it?</source>
     <message>
         <source>Two Lines in One</source>
         <comment>TxRevision_Chp_TwoLinesInOne</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dva řádky v jednom</translation>
     </message>
     <message>
         <source>Circle</source>
@@ -2097,12 +2030,12 @@ Do you want to replace it?</source>
     <message>
         <source>Everyone</source>
         <comment>TxDocProtect_User_Everyone</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kdokoli</translation>
     </message>
     <message>
         <source>Current</source>
         <comment>TxDocProtect_User_Current</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktuální</translation>
     </message>
     <message>
         <source>Users with permission to change</source>
@@ -2112,7 +2045,7 @@ Do you want to replace it?</source>
     <message>
         <source>Users with full control</source>
         <comment>TxDocProtect_User_Owners</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uživatelé s plným přístupem</translation>
     </message>
     <message>
         <source>Administrators</source>
@@ -2127,12 +2060,12 @@ Do you want to replace it?</source>
     <message>
         <source>Start Protection</source>
         <comment>TxDocProtect_DocumentProtect</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uzamknout</translation>
     </message>
     <message>
         <source>Stop Protection</source>
         <comment>TxDocProtect_DocumentUnprotect</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odemknout</translation>
     </message>
     <message>
         <source>Reached the beginning of the text box.</source>
@@ -2197,16 +2130,80 @@ Do you want to replace it?</source>
     <message>
         <source>Made %d replacements.</source>
         <comment>_TxFind_ReplaceItemCount</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Provedeno %d nahrazení.</translation>
     </message>
     <message>
         <source>Based On:</source>
         <comment>TxRevision_BaseStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Založeno na:</translation>
     </message>
     <message>
         <source>Following style:</source>
         <comment>TxRevision_NextStyle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link Update</source>
+        <comment>TxVersion_IncludePictureLink_Update</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <comment>_TxBuiltInCaptionLabelImage</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s is not a valid special character for the Replace With box.</source>
+        <comment>_TxFind_NoValidReplacementStr</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid e-mail address, sending failed.</source>
+        <comment>_TxMailMerge_ErrAddress</comment>
+        <translation type="unfinished">Neplatná E-Mail adresa, odeslání se nezdařilo.</translation>
+    </message>
+    <message>
+        <source>Failure sending mail.</source>
+        <comment>_TxMailMerge_SendMailFailed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
+        <comment>_TxMailMerge_NoRecordExecute</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spell Check: On</source>
+        <comment>_TxSpellingCheck_On</comment>
+        <translation type="unfinished">Kontrola pravopisu: Zap</translation>
+    </message>
+    <message>
+        <source>Spell Check: Off</source>
+        <comment>_TxSpellingCheck_Off</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text tools(&amp;F)</source>
+        <comment>_TxMenuBarOption_TextTool</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wavy Heavy Line</source>
+        <comment>TxRevision_Chp_WaveHeavyUnderline</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expanded by/Condensed by</source>
+        <comment>TxRevision_Chp_ExpandedByCondensedBy</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Raised by/Lowered by</source>
+        <comment>TxRevision_Chp_RaisedByLoweredBy</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2225,26 +2222,23 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Link Update</source>
-        <comment>TxVersion_IncludePictureLink_Update</comment>
+        <source>Make office work easier</source>
+        <comment>_TxDlg_EmptyStringPreview</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Writer</source>
+        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
+        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
+        <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
         <comment>_TxSaveMHTHTMLWarning</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Make office work easier</source>
-        <comment>_TxDlg_EmptyStringPreview</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2266,6 +2260,19 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer AaBbCc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <comment>TxUserInfo_DefaultUserName</comment>
+        <translation type="unfinished">neznámý</translation>
+    </message>
+    <message>
         <source>Recorded %d too much data fields.</source>
         <comment>_TxMailMerge_FieldsTooMuch</comment>
         <translation type="unfinished"></translation>
@@ -2281,345 +2288,7 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
-        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
-        <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You cannot compare these documents because the document contain XML Nodes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Objects in this document contain links to files that cannot be found. The linked information will not be updated.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red;Dark Red;Orange;Light Green;Green;Light Blue;Blue;Dark Blue;Purple;Dark1;Light1;Dark2;Light2;Accent1;Accent2;Accent3;Accent4;Accent5;Accent6;Hyperlink;FollowedHyperlink;Background1;Text1;Background2;Text2:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000;C00000;FFC000;92D050;00B050;00B0F0;0070C0;002060;7030A0;dark1;light1;dark2;light2;accent1;accent2;accent3;accent4;accent5;accent6;hyperlink;followedHyperlink;background1;text1;background2;text2</source>
-        <comment>TxRevision_Color_ColorNameReplacedList</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>White</source>
-        <comment>TxRevision_Shp_Background_White</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer AaBbCc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Outline</source>
-        <comment>TxRevision_Chp_TextOutline_Effect</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Fill</source>
-        <comment>TxRevision_Chp_TextFill_Effect</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Glow</source>
-        <comment>TxRevision_Chp_Glow_Effect</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reflection</source>
-        <comment>TxRevision_Chp_Reflection_Effect</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bevel</source>
-        <comment>TxRevision_Chp_Props3D_Effect</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click here to enter text.</source>
-        <comment>TxTextControl_HdrText</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose one.</source>
-        <comment>TxDropdownControl_HdrText</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select a building block.</source>
-        <comment>TxBuildingControl_HdrText</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click here to enter a date.</source>
-        <comment>TxDateControl_HdrText</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter to repeat any content (including other content controls). You can also insert this control around a table row to repeat part of the table.</source>
-        <comment>TxRepeatSecControl_HdrText</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>group</source>
-        <comment>TxGroupControl_Name</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rich text controls</source>
-        <comment>TxRichTextControl_Name</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Plain text controls</source>
-        <comment>TxPlainTextControl_Name</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture controls</source>
-        <comment>TxPictureControl_Name</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Document building block controls</source>
-        <comment>TxDocumentBuildingBlockControl_Name</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check box controls</source>
-        <comment>TxCheckboxControl_Name</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Combo box controls</source>
-        <comment>TxComboboxControl_Name</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Drop-down list controls</source>
-        <comment>TxDropDownListControl_Name</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Date picker controls</source>
-        <comment>TxDatePickerControl_Name</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Repeating section controls</source>
-        <comment>TxRepeatingSectionControl_Name</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%s cannot be applied here.</source>
-        <comment>TxContentControls_Add_Warning1</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%s cannot be inserted around multiple selections.</source>
-        <comment>TxContentControls_Add_Warning2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%s cannot be inserted around table columns.</source>
-        <comment>TxContentControls_Add_Warning3</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Repeating section controls can only be inserted around entire paragraphs or rows.</source>
-        <comment>TxContentControls_Add_Warning4</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture controls cannot be inserted around a selection which contains non-image content, floating images, or more than a single inline image.</source>
-        <comment>TxContentControls_Add_Warning5</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%s cannot be inserted around the current selection.</source>
-        <comment>TxContentControls_Add_Warning6</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Quick Parts</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cover Pages</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Equations</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Footers</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Headers</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page Numbers</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tables</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Watermarks</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>AutoText</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Boxes</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page Numbers (Top of Page)</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page Numbers (Bottom of Page)</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page Numbers (Margins)</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table of Contents</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Quick Parts</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Cover Pages</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Equations</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Footers</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Headers</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Page Numbers</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Tables</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Watermarks</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom AutoText</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Text Boxes</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Page Numbers (Top of Page)</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Page Numbers (Bottom of Page)</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Page Numbers (Margins)</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Table of Contents</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom 1</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom 2</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom 3</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom 4</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom 5</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bibliographies</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom Bibliographies</source>
-        <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>General</source>
-        <comment>TxBBCategoryName_General</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2661,14 +2330,9 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Based On style name does not exist or is of an incorrect type.</source>
-        <comment>_TxErr_SetBaseStyleError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Failed to open.</source>
         <comment>_TxErr_DocumentOpenFatalError</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze otevřít.</translation>
     </message>
     <message>
         <source>Failed to save.</source>
@@ -2711,11 +2375,6 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
-        <comment>_TxErr_PasteTableInVertTextboxWarning</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Some of the regions you can edit overlap, and it is not possible to show them at the same time.
 Use the &apos;Find Next Region I Can Edit&apos; button to show each region individually.</source>
         <comment>_TxErr_SelectAllExceptions</comment>
@@ -2724,6 +2383,16 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>You cannot put drawing objects into a text box, callout, comment, footnote, or endnote.</source>
         <comment>_TxErr_InvalidAnchorPosition</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Based On style name does not exist or is of an incorrect type.</source>
+        <comment>_TxErr_SetBaseStyleError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
+        <comment>_TxErr_PasteTableInVertTextboxWarning</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2736,27 +2405,17 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>WPS Writer cannot turn off design mode because placeholder text in a content control contains invalid items. Placeholder text cannot contain items such as floating objects, revision marks, or content controls. Remove these items from the placeholder text and try again.</source>
-        <comment>_TxErr_InvalidPHdrText</comment>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>wps_wpscore_persist</name>
     <message>
         <source>Document</source>
         <comment>_TxDocument_DefaultName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dokument</translation>
     </message>
     <message>
         <source>Template</source>
         <comment>_TxDocument_DefaultTemplateName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>builtin.wpt</source>
-        <comment>_TxDocument_BuiltInTemplate</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2765,9 +2424,14 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</source>
+        <comment>TxDesc_AllWPS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>All Files(*.*)</source>
         <comment>TxDesc_All</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Všechny soubory(*.*)</translation>
     </message>
     <message>
         <source>*.*</source>
@@ -2797,7 +2461,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Do you want to save the changes you made to %s?</source>
         <comment>_TxDocument_SaveChangeMsg</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chcete uložit změny provedené v %s?</translation>
     </message>
     <message>
         <source>These changes you made will affect the common template %s. Do you want to save them?</source>
@@ -2821,12 +2485,12 @@ Please try one of the following.
     <message>
         <source>Opening the file, please wait...</source>
         <comment>_TxDocument_BusyTip_Prompt_Open</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevírám soubor, čekejte prosím...</translation>
     </message>
     <message>
         <source>Saving the file, please wait...</source>
         <comment>_TxDocument_BusyTip_Prompt_Save</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukládání souboru, čekejte prosím...</translation>
     </message>
     <message>
         <source>WPS Writer cannot open this file, because the password is not correct.
@@ -2838,20 +2502,8 @@ Please try one of the following.
         <source>Unsupported encrypted file format. Please contact with the creator.
 (%s)</source>
         <comment>_TxDocument_OpenProvALGVerFailure</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
-If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
-        <comment>_TxDocument_Open_File_Isnot_Exist</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer cannot save or create this file.
-Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
-(%s)</source>
-        <comment>_TxDocument_SaveFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepodporovaný formát šifrování souboru. Kontaktujte prosím autora.
+(%s)</translation>
     </message>
     <message>
         <source>WPS Writer cannot save this file due to a file permission error.
@@ -2875,7 +2527,8 @@ Please make sure the file is not locked by another user, or the target disk is n
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
         <comment>_TxDocument_SaveFailureLocked</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dokument je uzamčen jinou aplikací. Otevřít pouze ke čtení?
+(%s)</translation>
     </message>
     <message>
         <source>This file has been opened as read-only before. Do you still want to open it as read-only ?
@@ -2954,12 +2607,6 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>
-• Multi-Diagonal cell</source>
-        <comment>_TxDocument_FormatNotCompatible_MultiDiagonalCell</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
 • Genko</source>
         <comment>_TxDocument_FormatNotCompatible_Genko</comment>
         <translation type="unfinished"></translation>
@@ -3014,11 +2661,36 @@ To continue saving as a macro-free workbook, click Yes.
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
+If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
+        <comment>_TxDocument_Open_File_Isnot_Exist</comment>
+        <translation type="unfinished">Nelze najít soubor &quot;%s&quot;. Zkontrolujte prosím jestli je zadán správný název a umístění souboru.
+Pokud se pokoušíte otevřít soubor ze seznamu naposledy otevřených, přesvědčete se, jestli soubor nebyl přesunut, přejmenován nebo smazán.</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save or create this file.
+Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
+(%s)</source>
+        <comment>_TxDocument_SaveFailure</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</source>
+        <comment>TxExts_AllWPS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Writer cannot open this file, because the current user does not have enough permission to access.
 Please try one of the following.
 •Switch to another user account.
 •Ask its creator to change the permissions control level of this file.</source>
         <comment>_TxDocument_KRM_RightsInsufficient</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+• Multi-Diagonal cell</source>
+        <comment>_TxDocument_FormatNotCompatible_MultiDiagonalCell</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3037,27 +2709,6 @@ This backup will be saved to (%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Normal.dotm</source>
-        <comment>_TxDocument_NormalTemplate</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</source>
-        <comment>TxDesc_AllWPS</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</source>
-        <comment>TxExts_AllWPS</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Document has been locked by %s. Do you want to open it as read-only?
-(%s)</source>
-        <comment>_TxDocument_SaveFailureLocked</comment>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>wps_wpsshell</name>
@@ -3069,17 +2720,17 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Address 1</source>
         <comment>wps_sAddress1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adresa 1</translation>
     </message>
     <message>
         <source>Address 2</source>
         <comment>wps_sAddress2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adresa 2</translation>
     </message>
     <message>
         <source>Address 3</source>
         <comment>wps_sAddress3</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adresa 3</translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -3089,42 +2740,42 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Centered</source>
         <comment>wps_sAlignCenter</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vystředěný</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>wps_sAlignLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlevo</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>wps_sAlignRight</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vpravo</translation>
     </message>
     <message>
         <source>All</source>
         <comment>wps_sAll</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vše</translation>
     </message>
     <message>
         <source>Error occurs when adding words.</source>
         <comment>wps_sAppendNewWordError</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Došlo k chybě při přidávání slov.</translation>
     </message>
     <message>
         <source>This section</source>
         <comment>wps_sApplyThisSection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tato sekce</translation>
     </message>
     <message>
         <source>Whole document</source>
         <comment>wps_sApplyWholeDocument</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Celý dokument</translation>
     </message>
     <message>
         <source>Below selected item</source>
         <comment>wps_sBelowSelItem</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pod vybranou položkou</translation>
     </message>
     <message>
         <source>Bookmark does not exist or is hidden.</source>
@@ -3139,7 +2790,7 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Text</source>
         <comment>wps_sBorderDistanceFromText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Text</translation>
     </message>
     <message>
         <source>(none)</source>
@@ -3149,7 +2800,7 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Browse by Bookmark</source>
         <comment>wps_sBrowseByBookmark</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Procházet záložky</translation>
     </message>
     <message>
         <source>Browse by Comment</source>
@@ -3169,32 +2820,32 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Find</source>
         <comment>wps_sBrowseFind</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Najít</translation>
     </message>
     <message>
         <source>Go To</source>
         <comment>wps_sBrowseGoto</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jít na</translation>
     </message>
     <message>
         <source>Bullet:</source>
         <comment>wps_sBulleted</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odrážka:</translation>
     </message>
     <message>
         <source>Business Fax</source>
         <comment>wps_sBusinessFax</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fax do práce</translation>
     </message>
     <message>
         <source>Business Phone</source>
         <comment>wps_sBusinessPhone</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Telefon do práce</translation>
     </message>
     <message>
         <source>Cancel</source>
         <comment>wps_sCancel</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zrušit</translation>
     </message>
     <message>
         <source>Cannot check spelling in the Original review.</source>
@@ -3209,7 +2860,7 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Cell</source>
         <comment>wps_sCell</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Buňka</translation>
     </message>
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
@@ -3224,27 +2875,27 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Clear</source>
         <comment>wps_sClear</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyprázdnit</translation>
     </message>
     <message>
         <source>Close</source>
         <comment>wps_sClose</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message>
         <source>Close</source>
         <comment>wps_sCloseDialog</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message>
         <source>Columns %s</source>
         <comment>wps_sColumns</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloupce %s</translation>
     </message>
     <message>
         <source>Company</source>
         <comment>wps_sCompany</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Firma</translation>
     </message>
     <message>
         <source>When you convert this drawing object to a frame, some of the drawing object&apos;s formatting may be lost. Do you want to continue?</source>
@@ -3254,7 +2905,7 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Country or Region</source>
         <comment>wps_sCountryorRegion</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Země nebo region</translation>
     </message>
     <message>
         <source>Courtesy Title</source>
@@ -3264,12 +2915,12 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Created Time</source>
         <comment>wps_sCreateTime</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čas vytvoření</translation>
     </message>
     <message>
         <source>Custom Color</source>
         <comment>wps_sCustomColorName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní barva</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for page setup?
@@ -3285,37 +2936,27 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Default Paragraph Font</source>
         <comment>wps_sDefaultFont</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výchozí písmo odstavce</translation>
     </message>
     <message>
         <source>Are you sure to delete the default dictionary?</source>
         <comment>wps_sDeleteDefaultDict</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skutečně chcete smazat výchozí slovník ?</translation>
     </message>
     <message>
         <source>Error occurs when deleting words.</source>
         <comment>wps_sDeleteWordError</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chyba při mazání slov.</translation>
     </message>
     <message>
         <source>Department</source>
         <comment>wps_sDepartment</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oddělení</translation>
     </message>
     <message>
         <source>Description</source>
         <comment>wps_sDescription</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Incorrect dictionary. You cannot modify.</source>
-        <comment>wps_sDictError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Final Show Markup,Final,Original Show Markup,Original</source>
-        <comment>wps_sDisplayForReview</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Popis</translation>
     </message>
     <message>
         <source>Dark Down Diagonal</source>
@@ -3355,17 +2996,12 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Edit</source>
         <comment>wps_sEditToolbarCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Úpravy</translation>
     </message>
     <message>
         <source>E-mail Address</source>
         <comment>wps_sEmailAddress</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Enter bookmark name:</source>
-        <comment>wps_sEnterbookmarkNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">E-Mail adresa</translation>
     </message>
     <message>
         <source>&amp;Enter page number:</source>
@@ -3398,23 +3034,8 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer encountered an error while trying exporting to PDF.</source>
-        <comment>wps_sExportPDFError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The font style is imitated for display. The closest matching style will be printed.</source>
         <comment>wps_sFH_NotInstall</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is a TrueType font. This font will be used on both printer and screen.</source>
-        <comment>wps_sFH_TrueType</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert the value of the document variable named NAME</source>
-        <comment>wps_sFieldInfoDocVariable</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3425,7 +3046,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>The number of pages in the document</source>
         <comment>wps_sFieldInfoNumPages</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Počet stránek v dokumentu</translation>
     </message>
     <message>
         <source>Insert the number of the current page</source>
@@ -3455,12 +3076,12 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>The current time</source>
         <comment>wps_sFieldInfoTime</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktuální čas</translation>
     </message>
     <message>
         <source>Create a table of contents</source>
         <comment>wps_sFieldInfoToc</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vytvořit tabulku obsahu</translation>
     </message>
     <message>
         <source>The file already exists. Do you want to replace the existing file?</source>
@@ -3470,16 +3091,11 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Find</source>
         <comment>wps_sFind</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Najít</translation>
     </message>
     <message>
         <source>&amp;Find All</source>
         <comment>wps_sFindAll</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Find/Replace...</source>
-        <comment>wps_sFindMenuCaption</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3495,12 +3111,12 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>WPS Writer has finished searching the document.</source>
         <comment>wps_sFinishedSearch</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS writer dokončil prohledávání dokumentu.</translation>
     </message>
     <message>
         <source>First Name</source>
         <comment>wps_sFirstName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jméno</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -3520,7 +3136,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>height</source>
         <comment>wps_sHeight</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">výška</translation>
     </message>
     <message>
         <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
@@ -3535,12 +3151,12 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Home Phone</source>
         <comment>wps_sHomePhone</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Telefon domů</translation>
     </message>
     <message>
         <source>Do you want to replace the selected table of contents?</source>
         <comment>wps_sIfRepleaceContents</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chcete nahradit vybranou tabulku obsahu ?</translation>
     </message>
     <message>
         <source>Invalid Input.</source>
@@ -3555,17 +3171,17 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Integer is not valid.</source>
         <comment>wps_sIntegerNotValid</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Celé číslo není platné.</translation>
     </message>
     <message>
         <source>This font style name does not exist.</source>
         <comment>wps_sInValidFontStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tento název stylu písma není platný</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
         <comment>wps_sInvalidInt</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Toto není platné číslo</translation>
     </message>
     <message>
         <source>You must type a character for the custom separator.</source>
@@ -3590,12 +3206,12 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Last Name</source>
         <comment>wps_sLastName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Příjmení</translation>
     </message>
     <message>
         <source>left/right</source>
         <comment>wps_sLeftRightMargins</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vlevo / vpravo</translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -3605,7 +3221,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Level</source>
         <comment>wps_sLevel</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Úroveň</translation>
     </message>
     <message>
         <source>Line spacing: 1.5 lines, </source>
@@ -3648,18 +3264,8 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The %s margins are too large for the page %s in some sections.</source>
-        <comment>wps_sMarginsLarge</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
         <comment>wps_sMarginsOrColumenSpacingLarge</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permission Password and Document Open Password must be different.</source>
-        <comment>wps_sMasterAndUserPasswordIsSame</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3685,12 +3291,12 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Merge to New Document</source>
         <comment>wps_sMergeToNewDocCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloučit do nového dokumentu</translation>
     </message>
     <message>
         <source>Merge to Printer</source>
         <comment>wps_sMergeToPrinterCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloučit do tiskárny</translation>
     </message>
     <message>
         <source>Middle Name</source>
@@ -3700,17 +3306,17 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Modified Time</source>
         <comment>wps_sModifyTime</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čas úpravy</translation>
     </message>
     <message>
         <source>&amp;More</source>
         <comment>wps_sMore</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Více</translation>
     </message>
     <message>
         <source>&amp;More Colors...</source>
         <comment>wps_sMoreColors</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Více barev...</translation>
     </message>
     <message>
         <source>&amp;More Line Colors...</source>
@@ -3720,12 +3326,12 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Name</source>
         <comment>wps_sName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jméno</translation>
     </message>
     <message>
         <source>New Bullet...</source>
         <comment>wps_sNewBullet</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nová odrážka...</translation>
     </message>
     <message>
         <source>Nex&amp;t</source>
@@ -3740,7 +3346,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Next Comment</source>
         <comment>wps_sNextComment</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Další komentář</translation>
     </message>
     <message>
         <source>Next Find/GoTo</source>
@@ -3750,12 +3356,12 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Next Page</source>
         <comment>wps_sNextPage</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Další stránka</translation>
     </message>
     <message>
         <source>Next Section</source>
         <comment>wps_sNextSection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Další sekce</translation>
     </message>
     <message>
         <source>Nickname</source>
@@ -3770,7 +3376,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>No List</source>
         <comment>wps_sNoList</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žádný seznam</translation>
     </message>
     <message>
         <source>%s +%s%s%s%s%s%s%s%s</source>
@@ -3780,27 +3386,27 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Normal</source>
         <comment>wps_sNormalStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normální</translation>
     </message>
     <message>
         <source>No Scaling</source>
         <comment>wps_sNoScaling</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žádné zvětšení</translation>
     </message>
     <message>
         <source>(no spelling suggestions)</source>
         <comment>wps_sNoSpellingSuggestion</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(žádné návrhy)</translation>
     </message>
     <message>
         <source>(no style)</source>
         <comment>wps_sNoStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(žádný styl)</translation>
     </message>
     <message>
         <source>&amp;More</source>
         <comment>wps_sNotAdvancedMode</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Více</translation>
     </message>
     <message>
         <source>WPS Writer could not determine the destination.</source>
@@ -3815,7 +3421,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>The password confirmation does not match.</source>
         <comment>wps_sNotMatchPassword</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potvrzení hesla neodpovídá.</translation>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
@@ -3830,17 +3436,17 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sNotNumberRange</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Číslo musí být od %d do %d.</translation>
     </message>
     <message>
         <source>This caption label is not valid.</source>
         <comment>wps_sNotValid</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tento popisek není platný.</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
         <comment>wps_sNotValidFontSize</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Toto není platné číslo</translation>
     </message>
     <message>
         <source>The number must be a divisor of %d.</source>
@@ -3855,7 +3461,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sNumberOutofRange1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Číslo musí být od %d do %d.</translation>
     </message>
     <message>
         <source>The number must be between 1 and 10.</source>
@@ -3863,34 +3469,19 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Encountered an error when opening PDF file.</source>
-        <comment>wps_sOpenPDFFileError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The selected paper is too small, Genko is invalid.</source>
-        <comment>wps_sPaperIsTooSmall</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Paragraph</source>
         <comment>wps_sParagraph</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Incorrect password.</source>
-        <comment>wps_sPasswordError</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odstavec</translation>
     </message>
     <message>
         <source>Exporting PDF file is completing...</source>
         <comment>wps_spdfComplete</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dokončuje se export PDF souboru...</translation>
     </message>
     <message>
         <source>Exporting PDF file is completed.</source>
         <comment>wps_spdfCompleted</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Export PDF souboru je dokončen.</translation>
     </message>
     <message>
         <source>Exporting %d page...</source>
@@ -4038,24 +3629,19 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Phonetic Guide for Last Name</source>
-        <comment>wps_sPhoneticGuideforlastName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Postal Code</source>
         <comment>wps_sPostalCode</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">PSČ</translation>
     </message>
     <message>
         <source>Previous Bookmark</source>
         <comment>wps_sPreviousBookmark</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předchozí záložka</translation>
     </message>
     <message>
         <source>Previous Comment</source>
         <comment>wps_sPreviousComment</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předchozí komentář</translation>
     </message>
     <message>
         <source>Previous Find/GoTo</source>
@@ -4065,17 +3651,17 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Previous Page</source>
         <comment>wps_sPreviousPage</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předchozí stránka</translation>
     </message>
     <message>
         <source>Previous Section</source>
         <comment>wps_sPreviousSection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předchozí sekce</translation>
     </message>
     <message>
         <source>Document protec&amp;tion...</source>
         <comment>wps_sProtectDocument</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ochrana dokumentu...</translation>
     </message>
     <message>
         <source>Orientation setting does not work for some reasons, such as too little column width. Please adjust your settings.</source>
@@ -4090,7 +3676,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Replace</source>
         <comment>wps_sReplace</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahradit</translation>
     </message>
     <message>
         <source>WPS Writer has finished searching the document and made %d replacements.</source>
@@ -4100,27 +3686,27 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Rows %s</source>
         <comment>wps_sRows</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Řádky %s</translation>
     </message>
     <message>
         <source>Save Adobe PDF File As</source>
         <comment>wps_sSaveAsPDFFile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uložit soubor Adobe PDF jako</translation>
     </message>
     <message>
         <source>Search Down</source>
         <comment>wps_sSearchDown</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hledat dolů</translation>
     </message>
     <message>
         <source>Search Up</source>
         <comment>wps_sSearchUp</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hledat nahoru</translation>
     </message>
     <message>
         <source>Selected sections</source>
         <comment>wps_sSelectedSections</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vybrané sekce</translation>
     </message>
     <message>
         <source>Selected text</source>
@@ -4130,7 +3716,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Select Folder:</source>
         <comment>wps_sSelectFolder</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyberte složku:</translation>
     </message>
     <message>
         <source>Selected text</source>
@@ -4140,7 +3726,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Selected sections</source>
         <comment>wps_sSelSection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vybrané sekce</translation>
     </message>
     <message>
         <source>Solid(100%)</source>
@@ -4160,7 +3746,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>The spelling check is complete.</source>
         <comment>wps_sSpellingCheckComplete</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontrola pravopisu dokončena.</translation>
     </message>
     <message>
         <source>S&amp;plit</source>
@@ -4205,22 +3791,22 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Style</source>
         <comment>wps_sStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl</translation>
     </message>
     <message>
         <source>Suffix</source>
         <comment>wps_sSuffix</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přípona</translation>
     </message>
     <message>
         <source>Table</source>
         <comment>wps_sTable</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabulka</translation>
     </message>
     <message>
         <source>Text</source>
         <comment>wps_sText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Text</translation>
     </message>
     <message>
         <source>This point forward</source>
@@ -4235,7 +3821,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>This section</source>
         <comment>wps_sThisSection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tato sekce</translation>
     </message>
     <message>
         <source>This section - All except first page</source>
@@ -4245,7 +3831,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>This section - First page only</source>
         <comment>wps_sThisSectionOnlyFirst</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tato sekce - jen 1. stránka</translation>
     </message>
     <message>
         <source>There are too many characters in the selection.</source>
@@ -4255,22 +3841,12 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>top/bottom</source>
         <comment>wps_sTopBottomMargins</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Styles and Formatting</source>
-        <comment>wps_StylesAndFormatting_Caption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Styles and Formatting</source>
-        <comment>wps_StylesAndFormatting_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nahoře / dole</translation>
     </message>
     <message>
         <source>Type</source>
         <comment>wps_sTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Typ</translation>
     </message>
     <message>
         <source>(none)</source>
@@ -4290,12 +3866,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Unique Identifier</source>
         <comment>wps_sUniqueIdentifier</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unpro&amp;tect Document</source>
-        <comment>wps_sUnProtectDocument</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jedinečný identifikátor</translation>
     </message>
     <message>
         <source>(Use Asian text font)</source>
@@ -4310,17 +3881,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Use Wildcards</source>
         <comment>wps_sUseWildCards</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The value must not be blank.</source>
-        <comment>wps_sValEmpty</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number invalid.</source>
-        <comment>wps_sValidNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Použít zástupné znaky</translation>
     </message>
     <message>
         <source>The number must be between 1 and %d.</source>
@@ -4330,12 +3891,12 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Web Page</source>
         <comment>wps_sWebPage</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Webová stránka</translation>
     </message>
     <message>
         <source>Whole document</source>
         <comment>wps_sWhileDocument</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Celý dokument</translation>
     </message>
     <message>
         <source>Whole Document</source>
@@ -4345,7 +3906,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Find whole words only</source>
         <comment>wps_sWholeWords</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hledat jen celá slova</translation>
     </message>
     <message>
         <source>width</source>
@@ -4355,7 +3916,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Underline words</source>
         <comment>wps_sWordsOnly</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podtrhávat slova</translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
@@ -4365,7 +3926,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>This operation will not be only applied to this section. Do you want to continue?</source>
         <comment>wps_sLinkToPreviousSection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tato operace nebude provedena jen v této sekci. Pokračovat ?</translation>
     </message>
     <message>
         <source>Inside</source>
@@ -4375,7 +3936,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>&amp;Inside</source>
         <comment>wps_sInside</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vnitřní</translation>
     </message>
     <message>
         <source>&amp;Outside</source>
@@ -4385,22 +3946,12 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Section %d</source>
         <comment>wps_sSectionFmt</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you overwrite the shortcut of [%s]?</source>
-        <comment>wps_sStyleOverwhite</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sekce %d</translation>
     </message>
     <message>
         <source>Unlimited</source>
         <comment>wps_sUnlimited</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>What you print has errors with Format.</source>
-        <comment>wps_sFormatError</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez omezení</translation>
     </message>
     <message>
         <source>The maximum length value must be equal to or greater than the length of the default text,%d characters.</source>
@@ -4415,27 +3966,27 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>D&amp;efault Text:</source>
         <comment>wps_sDefRegularText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výchozí text:</translation>
     </message>
     <message>
         <source>D&amp;efault Number:</source>
         <comment>wps_sDefNumberText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výchozí číslo:</translation>
     </message>
     <message>
         <source>D&amp;efault Date:</source>
         <comment>wps_sDefDateText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výchozí datum:</translation>
     </message>
     <message>
         <source>D&amp;efault Time:</source>
         <comment>wps_sDefTimeText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výchozí čas:</translation>
     </message>
     <message>
         <source>Text &amp;Format:</source>
         <comment>wps_sRegularTextFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Formát textu:</translation>
     </message>
     <message>
         <source>Number &amp;Format:</source>
@@ -4445,21 +3996,16 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Date &amp;Format:</source>
         <comment>wps_sDateTextFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Formát data:</translation>
     </message>
     <message>
         <source>Time &amp;Format:</source>
         <comment>wps_sTimeTextFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Formát času:</translation>
     </message>
     <message>
         <source>You can have no more than 25 items in your drop-down list box.</source>
         <comment>wps_sMaxItems</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The %d Drop-down item is not allow to be empty.</source>
-        <comment>wps_sValidItem</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4481,7 +4027,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>User Feedback</source>
         <comment>wps_sFeedbackMailTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odezva od uživatelů</translation>
     </message>
     <message>
         <source>Level 1,Level 2,Level 3,Level 4,Level 5,Level 6,Level 7,Level 8,Level 9,Body text</source>
@@ -4491,12 +4037,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>=(Formula)</source>
         <comment>wps_sFieldFormula</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">=(vzorec)</translation>
     </message>
     <message>
         <source>Page</source>
         <comment>wps_sFieldPage</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stránka</translation>
     </message>
     <message>
         <source>PageRef</source>
@@ -4536,7 +4082,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Hyperlink</source>
         <comment>wps_sFieldHyperlink</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hypertext. odkaz</translation>
     </message>
     <message>
         <source>Edit and calculate the formula, and displays the result in preview.</source>
@@ -4546,18 +4092,11 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Time</source>
         <comment>wps_sFieldTime</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čas</translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
         <comment>wps_sPreviewNumFormat</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Heading1...........................1
-  Heading2.........................33
-    Heading3.......................5</source>
-        <comment>wps_sPreviewToc</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4648,37 +4187,32 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>The value must be between %d and %d.</source>
         <comment>wps_sNumberRangeErro</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hodnota musí být mezi %d a %d.</translation>
     </message>
     <message>
         <source>Input a correct number.</source>
         <comment>wps_sInsertNumberWarning</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The Find What text contains a Pattern Match expression which is not valid.</source>
-        <comment>wps_sFindBadPattern</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zadejte platné číslo.</translation>
     </message>
     <message>
         <source>Numbered item</source>
         <comment>TxCrossRefType_NumberedItem</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Číslovaná položka</translation>
     </message>
     <message>
         <source>Heading</source>
         <comment>TxCrossRefType_Heading</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nadpis</translation>
     </message>
     <message>
         <source>Bookmark</source>
         <comment>TxCrossRefType_Bookmark</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Záložka</translation>
     </message>
     <message>
         <source>Footnote</source>
         <comment>TxCrossRefType_Footnote</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poznámka pod čarou</translation>
     </message>
     <message>
         <source>Endnote</source>
@@ -4688,32 +4222,27 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Equation</source>
         <comment>TxCrossRefType_Equation</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mat. výraz</translation>
     </message>
     <message>
         <source>Diagram</source>
         <comment>TxCrossRefType_Figure</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diagram</translation>
     </message>
     <message>
         <source>Table</source>
         <comment>TxCrossRefType_Table</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabulka</translation>
     </message>
     <message>
         <source>Page number</source>
         <comment>wps_sCrossRef_PageNum</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Číslo stránky</translation>
     </message>
     <message>
         <source>Paragraph number</source>
         <comment>wps_sCrossRef_ParagraphNum</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paragraph number(no context)</source>
-        <comment>wps_sCrossRef_ParagrapNumNoContext</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Číslo odstavce</translation>
     </message>
     <message>
         <source>Paragraph number(full context)</source>
@@ -4723,12 +4252,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Paragraph text</source>
         <comment>wps_sCrossRef_ParagraphText</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Above/below</source>
-        <comment>wps_sCrossRef_AboveBelow</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Text odstavce</translation>
     </message>
     <message>
         <source>Heading text</source>
@@ -4738,7 +4262,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Heading number</source>
         <comment>wps_sCrossRef_HeadNum</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Číslo nadpisu</translation>
     </message>
     <message>
         <source>Heading number(no context)</source>
@@ -4788,7 +4312,180 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Only caption text</source>
         <comment>wps_sCrossRef_OnlyCaptionText</comment>
+        <translation type="unfinished">Jen text popisku</translation>
+    </message>
+    <message>
+        <source>The referred contents are blank.</source>
+        <comment>wps_sCrossRef_Empty</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert the text from a like-styled paragraph</source>
+        <comment>wps_sFieldStyle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StyleRef</source>
+        <comment>wps_sStyleRef</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The form tip cannot be longer than 40 characters.</source>
+        <comment>wps_sTextInputTip_Erro</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(none)
+.</source>
+        <comment>wps_sEmphasismark</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Formula:</source>
+        <comment>wps_sFormulaCaption</comment>
+        <translation type="unfinished">Vzorec:</translation>
+    </message>
+    <message>
+        <source>Show Level 1,Show Level 2,Show Level 3,Show Level 4,Show Level 5,Show Level 6,Show Level 7,Show Level 8,Show Level 9,Show All Levels</source>
+        <comment>wps_sShowLevelOnOutlining</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <comment>wps_FormulaDlgCaption</comment>
+        <translation type="unfinished">Vzorec</translation>
+    </message>
+    <message>
+        <source>Unit: %s</source>
+        <comment>wps_StatusBar_Units</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The default document path of USB version cannot be changed!</source>
+        <comment>wps_sUSBVersionDirCannotModify</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are not allowed to edit this selection because it is protected.</source>
+        <comment>wps_sSelectionProtected</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incorrect dictionary. You cannot modify.</source>
+        <comment>wps_sDictError</comment>
+        <translation type="unfinished">Nesprávný slovník. Nelze upravit.</translation>
+    </message>
+    <message>
+        <source>&amp;Enter bookmark name:</source>
+        <comment>wps_sEnterbookmarkNumber</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error while trying exporting to PDF.</source>
+        <comment>wps_sExportPDFError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is a TrueType font. This font will be used on both printer and screen.</source>
+        <comment>wps_sFH_TrueType</comment>
+        <translation type="unfinished">Toto je písmo TrueType. Bude vypadat stejně na obrazovce i na tiskárně.</translation>
+    </message>
+    <message>
+        <source>Insert the value of the document variable named NAME</source>
+        <comment>wps_sFieldInfoDocVariable</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Find/Replace...</source>
+        <comment>wps_sFindMenuCaption</comment>
+        <translation type="unfinished">Najít/Nahradit...</translation>
+    </message>
+    <message>
+        <source>The %s margins are too large for the page %s in some sections.</source>
+        <comment>wps_sMarginsLarge</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Password and Document Open Password must be different.</source>
+        <comment>wps_sMasterAndUserPasswordIsSame</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening PDF file.</source>
+        <comment>wps_sOpenPDFFileError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected paper is too small, Genko is invalid.</source>
+        <comment>wps_sPaperIsTooSmall</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incorrect password.</source>
+        <comment>wps_sPasswordError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <comment>wps_StylesAndFormatting_Caption</comment>
+        <translation type="unfinished">Styly a formátování</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <comment>wps_StylesAndFormatting_DisplayName</comment>
+        <translation type="unfinished">Styly a formátování</translation>
+    </message>
+    <message>
+        <source>Unpro&amp;tect Document</source>
+        <comment>wps_sUnProtectDocument</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The value must not be blank.</source>
+        <comment>wps_sValEmpty</comment>
+        <translation type="unfinished">Hodnota nesmí být prázdná</translation>
+    </message>
+    <message>
+        <source>Number invalid.</source>
+        <comment>wps_sValidNumber</comment>
+        <translation type="unfinished">Neplatné číslo.</translation>
+    </message>
+    <message>
+        <source>Do you overwrite the shortcut of [%s]?</source>
+        <comment>wps_sStyleOverwhite</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What you print has errors with Format.</source>
+        <comment>wps_sFormatError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The %d Drop-down item is not allow to be empty.</source>
+        <comment>wps_sValidItem</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading1...........................1
+  Heading2.........................33
+    Heading3.......................5</source>
+        <comment>wps_sPreviewToc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Find What text contains a Pattern Match expression which is not valid.</source>
+        <comment>wps_sFindBadPattern</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paragraph number(no context)</source>
+        <comment>wps_sCrossRef_ParagrapNumNoContext</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Above/below</source>
+        <comment>wps_sCrossRef_AboveBelow</comment>
+        <translation type="unfinished">Nad / pod</translation>
     </message>
     <message>
         <source>For &amp;which numbered item:</source>
@@ -4821,69 +4518,13 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The referred contents are blank.</source>
-        <comment>wps_sCrossRef_Empty</comment>
+        <source>Final Show Markup,Final,Original Show Markup,Original</source>
+        <comment>wps_sDisplayForReview</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert the text from a like-styled paragraph</source>
-        <comment>wps_sFieldStyle</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>StyleRef</source>
-        <comment>wps_sStyleRef</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The form tip cannot be longer than 40 characters.</source>
-        <comment>wps_sTextInputTip_Erro</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(none)
-.</source>
-        <comment>wps_sEmphasismark</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Formula:</source>
-        <comment>wps_sFormulaCaption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Level 1,Show Level 2,Show Level 3,Show Level 4,Show Level 5,Show Level 6,Show Level 7,Show Level 8,Show Level 9,Show All Levels</source>
-        <comment>wps_sShowLevelOnOutlining</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Formula</source>
-        <comment>wps_FormulaDlgCaption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unit: %s</source>
-        <comment>wps_StatusBar_Units</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The default document path of USB version cannot be changed!</source>
-        <comment>wps_sUSBVersionDirCannotModify</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not allowed to edit this selection because it is protected.</source>
-        <comment>wps_sSelectionProtected</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
-        <comment>wps_sFinishHighlightAllNotFound</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The number must be between %d and %d.</source>
-        <comment>wps_sValidValue</comment>
+        <source>Phonetic Guide for Last Name</source>
+        <comment>wps_sPhoneticGuideforlastName</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4892,31 +4533,23 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>The number must be between %d and %d.</source>
+        <comment>wps_sValidValue</comment>
+        <translation type="unfinished">Číslo musí být od %d do %d.</translation>
+    </message>
+    <message>
         <source>This shortcut key already exists. Please set another key.</source>
         <comment>wps_sAppShortcutExisted</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The objects or tables in a scalable text box will be removed. Do you want to continue?</source>
+        <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
+        <comment>wps_sFinishHighlightAllNotFound</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>wps_wpsuil</name>
-    <message>
-        <source>.</source>
-        <comment>TxAboutText</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>.</source>
-        <comment>TxAboutCaption</comment>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>All Files(*.*) | *.*; |</source>
         <comment>TxDesc_DataSource_All</comment>
@@ -4960,7 +4593,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Excel Files(*.xls) | *.xls; |</source>
         <comment>TxDesc_DataSource_xls</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubory MS Excel (*.xls) | *.xls; |</translation>
     </message>
     <message>
         <source>All Web Pages(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</source>
@@ -5010,62 +4643,62 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>New Blank Document</source>
         <comment>TxCaption_NewBlankFile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový prázdný dokument</translation>
     </message>
     <message>
         <source>New from Default Template</source>
         <comment>TxCaption_NewFromDefaultTemplate</comment>
-        <translation>Nový z výchozí šablony </translation>
+        <translation type="unfinished">Nový z výchozí šablony</translation>
     </message>
     <message>
         <source>New Blank Document</source>
         <comment>TxCaption_TaskpaneNewBlankFile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový prázdný dokument</translation>
     </message>
     <message>
         <source>New from Default Template</source>
         <comment>TxCaption_TaskpaneNewFileFromDefaultTemplate</comment>
-        <translation type="unfinished">Nový z výchozí šablony </translation>
+        <translation type="unfinished">Nový z výchozí šablony</translation>
     </message>
     <message>
         <source>New Blank Document</source>
         <comment>TxTooltip_NewBlankFile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový prázdný dokument</translation>
     </message>
     <message>
         <source>New from Default Template</source>
         <comment>TxTooltip_NewFromDefaultTemplate</comment>
-        <translation type="unfinished">Nový z výchozí šablony </translation>
+        <translation type="unfinished">Nový z výchozí šablony</translation>
     </message>
     <message>
         <source>New Blank Document</source>
         <comment>TxTooltip_TaskpaneNewBlankFile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový prázdný dokument</translation>
     </message>
     <message>
         <source>New from Default Template</source>
         <comment>TxTooltip_TaskpaneNewFileFromDefaultTemplate</comment>
-        <translation type="unfinished">Nový z výchozí šablony </translation>
+        <translation type="unfinished">Nový z výchozí šablony</translation>
     </message>
     <message>
         <source>Bold</source>
         <comment>TxVersion_Bold</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tučné</translation>
     </message>
     <message>
         <source>Italic</source>
         <comment>TxVersion_Italic</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zkosené</translation>
     </message>
     <message>
         <source>Underline</source>
         <comment>TxVersion_Underline</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podtržení</translation>
     </message>
     <message>
         <source>Character Shading</source>
         <comment>TxVersion_CharShading</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stínování znaku</translation>
     </message>
     <message>
         <source>Character Scaling</source>
@@ -5080,27 +4713,27 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Font Color</source>
         <comment>TxVersion_FontColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva písma</translation>
     </message>
     <message>
         <source>Highlight</source>
         <comment>TxVersion_Highlight</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvýraznění</translation>
     </message>
     <message>
         <source>Align Left</source>
         <comment>TxVersion_AlignLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat vlevo</translation>
     </message>
     <message>
         <source>Align Right</source>
         <comment>TxVersion_AlignRight</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat vpravo</translation>
     </message>
     <message>
         <source>Align Center</source>
         <comment>TxVersion_AlignCenter</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat na střed</translation>
     </message>
     <message>
         <source>Align Distribute</source>
@@ -5115,47 +4748,47 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Increase Indent</source>
         <comment>TxVersion_IncreaseIndent</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvětšit odsazení</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
         <comment>TxVersion_DecreaseIndent</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zmenšit odsazení</translation>
     </message>
     <message>
         <source>Typing</source>
         <comment>TxVersion_Key_Type</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Psaní</translation>
     </message>
     <message>
         <source>Typing</source>
         <comment>TxVersion_Key_Overtype</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Psaní</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>TxVersion_Key_Delete</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyprázdnit</translation>
     </message>
     <message>
         <source>Line Spacing</source>
         <comment>TxVersion_LineSpace</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Řádkování</translation>
     </message>
     <message>
         <source>Numbering</source>
         <comment>TxVersion_Numbering</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Číslování</translation>
     </message>
     <message>
         <source>Bullets</source>
         <comment>TxVersion_Bullets</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odrážky</translation>
     </message>
     <message>
         <source>Grow Font</source>
         <comment>TxVersion_GrowFonts</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvětšit písmo</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -5165,52 +4798,53 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Superscript</source>
         <comment>TxVersion_SuperScript</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horní index
+</translation>
     </message>
     <message>
         <source>Subscript</source>
         <comment>TxVersion_SubScript</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dolní index</translation>
     </message>
     <message>
         <source>Font</source>
         <comment>TxVersion_ChangeFontName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Písmo</translation>
     </message>
     <message>
         <source>Underline Color</source>
         <comment>TxVersion_UnderLineColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva podtržení</translation>
     </message>
     <message>
         <source>Paste Format</source>
         <comment>TxVersion_FormatPainter</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit formát</translation>
     </message>
     <message>
         <source>Fill Color</source>
         <comment>TxVersion_FillColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva výplně</translation>
     </message>
     <message>
         <source>Line Color</source>
         <comment>TxVersion_LineColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva čáry</translation>
     </message>
     <message>
         <source>3-D Color</source>
         <comment>TxVersion_3DColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3-D barva</translation>
     </message>
     <message>
         <source>Shadow Color</source>
         <comment>TxVersion_ShadowColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva stínu</translation>
     </message>
     <message>
         <source>Insert Text Box</source>
         <comment>TxVersion_CreateTextbox</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit textové pole</translation>
     </message>
     <message>
         <source>Insert Object</source>
@@ -5235,17 +4869,17 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Page Numbers</source>
         <comment>TxVersion_InsertPageNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čísla stránek</translation>
     </message>
     <message>
         <source>Number of Pages</source>
         <comment>TxVersion_InsertNumberOfPages</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Počet stránek</translation>
     </message>
     <message>
         <source>Page Number Format</source>
         <comment>TxVersion_FormatPageNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formát číslování stránek</translation>
     </message>
     <message>
         <source>Insert Date</source>
@@ -5265,12 +4899,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Insert AutoText</source>
         <comment>TxVersion_InsertAutoText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit AutoText</translation>
     </message>
     <message>
         <source>Add Header/Footer</source>
         <comment>TxVersion_HeaderFooter</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přidat hlavičku/patičku</translation>
     </message>
     <message>
         <source>Show/Hide Formatting Marks</source>
@@ -5295,12 +4929,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Order</source>
         <comment>TxVersion_DrawingOrder</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pořadí</translation>
     </message>
     <message>
         <source>Page Width</source>
         <comment>_TxZoomBox_PageWidth</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šířka stránky</translation>
     </message>
     <message>
         <source>Text Width</source>
@@ -5315,7 +4949,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Two Pages</source>
         <comment>_TxZoomBox_TwoPages</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dvě stránky</translation>
     </message>
     <message>
         <source>&quot;Page Width&quot;,-1</source>
@@ -5345,17 +4979,17 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Insert Comment</source>
         <comment>TxVersion_InsertComment</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit komentář</translation>
     </message>
     <message>
         <source>Delete Comment</source>
         <comment>TxVersion_DeleteComment</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat komentář</translation>
     </message>
     <message>
         <source>Delete All Comments</source>
         <comment>TxVersion_DeleteAllComments</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat všechny komentáře</translation>
     </message>
     <message>
         <source>Delete All Comments Shown</source>
@@ -5365,12 +4999,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Accept Change</source>
         <comment>TxVersion_AcceptChange</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přijmout změnu</translation>
     </message>
     <message>
         <source>Accept All Changes in Document</source>
         <comment>TxVersion_AcceptAllChanges</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přijmout všechny změny v dokumentu</translation>
     </message>
     <message>
         <source>Accept All Changes Shown</source>
@@ -5380,12 +5014,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Reject Change</source>
         <comment>TxVersion_RejectChange</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamítnout změnu</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
         <comment>TxVersion_RejectAllChanges</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamítnout všechny změny v dokumentu</translation>
     </message>
     <message>
         <source>Reject All Changes Shown</source>
@@ -5400,17 +5034,17 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Reject Insertion</source>
         <comment>TxCaption_RejectInsertion</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odmítnout vložení</translation>
     </message>
     <message>
         <source>Accept Deletion</source>
         <comment>TxCaption_AcceptDeletion</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přijmout smazání</translation>
     </message>
     <message>
         <source>Reject Deletion</source>
         <comment>TxCaption_RejectDeletion</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamítnout smazání</translation>
     </message>
     <message>
         <source>Set Font Formatting</source>
@@ -5435,7 +5069,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Change Text Direction</source>
         <comment>TxVersion_SetTextDirection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Změnit směr textu</translation>
     </message>
     <message>
         <source>Columns Formatting</source>
@@ -5450,17 +5084,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Change Case</source>
         <comment>TxVersion_ChangeCase</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bullets/Numbering</source>
-        <comment>TxVersion_BulletAndAutoNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Změnit velká/malá</translation>
     </message>
     <message>
         <source>Format AutoShape</source>
         <comment>TxVersion_AutoShapeFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formátovat Automatický tvar</translation>
     </message>
     <message>
         <source>Auto Format</source>
@@ -5485,12 +5114,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Bookmark</source>
         <comment>TxVersion_InsBookMark</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Záložka</translation>
     </message>
     <message>
         <source>Footnote</source>
         <comment>TxVersion_FootNote</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poznámka pod čarou</translation>
     </message>
     <message>
         <source>Caption</source>
@@ -5498,14 +5127,9 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Index</source>
-        <comment>TxVersion_InsIndexAndTables</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Page Numbers</source>
         <comment>TxVersion_InsPageNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čísla stránek</translation>
     </message>
     <message>
         <source>Insert Field</source>
@@ -5515,22 +5139,22 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Insert Hyperlink</source>
         <comment>TxVersion_InsHyperlink</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit hypertextový odkaz</translation>
     </message>
     <message>
         <source>Insert Blank Field</source>
         <comment>TxVersion_InsBlankField</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit prázdné pole</translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <comment>TxVersion_InsPicture</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit obrázek</translation>
     </message>
     <message>
         <source>Insert Table</source>
         <comment>TxVersion_InsertTable</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit tabulku</translation>
     </message>
     <message>
         <source>Insert Table Element</source>
@@ -5545,7 +5169,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Split Table</source>
         <comment>TxVersion_SplitTable</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdělit tabulku</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -5570,17 +5194,17 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Table Properties</source>
         <comment>TxVersion_TableProperties</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastnosti tabulky</translation>
     </message>
     <message>
         <source>Split Cells</source>
         <comment>TxVersion_SplitCells</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdělit buňky</translation>
     </message>
     <message>
         <source>Merge Cells</source>
         <comment>TxVersion_MergeCells</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spojit buňky</translation>
     </message>
     <message>
         <source>Repeat Heading</source>
@@ -5595,12 +5219,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Shading Color</source>
         <comment>TxVersion_TableShadingColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva stínování</translation>
     </message>
     <message>
         <source>Cell Alignment</source>
         <comment>TxVersion_CellAlignment</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnání buňky</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -5610,37 +5234,37 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Page Setup</source>
         <comment>TxVersion_PageSetup</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení stránky</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
         <comment>TxVersion_DrawingGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přichytit k mřížce</translation>
     </message>
     <message>
         <source>Cut</source>
         <comment>TxVersion_Cut</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyjmout</translation>
     </message>
     <message>
         <source>Paste</source>
         <comment>TxVersion_Paste</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit</translation>
     </message>
     <message>
         <source>Paste Special</source>
         <comment>TxVersion_PasteSpecial</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit jinak...</translation>
     </message>
     <message>
         <source>Paste Format</source>
         <comment>TxVersion_PasteFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit formát</translation>
     </message>
     <message>
         <source>Replace</source>
         <comment>TxVersion_Replace</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahradit</translation>
     </message>
     <message>
         <source>Edit Field</source>
@@ -5655,12 +5279,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Edit Comment</source>
         <comment>TxVersion_EditComment</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit komentář</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
         <comment>TxVersion_RemoveHyperlink</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odstranit hypertext. odkaz</translation>
     </message>
     <message>
         <source>Convert to Endnotes</source>
@@ -5675,27 +5299,22 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Can&apos;t Undo</source>
         <comment>TxVersion_CannotUndo</comment>
-        <translation>Nelze vrátit zpět </translation>
+        <translation type="unfinished">Nelze Zpět</translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
         <comment>TxVersion_CannotRedo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze Znovu</translation>
     </message>
     <message>
         <source>Undo</source>
         <comment>TxVersion_Undo</comment>
-        <translation>Zpět</translation>
+        <translation type="unfinished">Zpět</translation>
     </message>
     <message>
         <source>Redo</source>
         <comment>TxVersion_Redo</comment>
-        <translation>Znovu</translation>
-    </message>
-    <message>
-        <source>Unlink Fields</source>
-        <comment>TxVersion_FieldToText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zopakovat</translation>
     </message>
     <message>
         <source>Lock Field</source>
@@ -5710,13 +5329,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Insert Chart</source>
         <comment>TxVersion_InsertChart</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>To create a link, click an empty text box.
-To add another text box to your document, click Text Box on the Insert menu and choose a text box. Select the original text box and click Create Link again.</source>
-        <comment>TxMessage_CreateTextboxLinkError1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit graf</translation>
     </message>
     <message>
         <source>The text box you selected cannot be linked because a link has already existed in the text box , or you have linked the text box to itself.</source>
@@ -5726,11 +5339,6 @@ To add another text box to your document, click Text Box on the Insert menu and 
     <message>
         <source>Cannot link, because the target text box is not empty. You can only link to an empty text box.</source>
         <comment>TxMessage_CreateTextboxLinkError3</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This text box has a different text flow from the previous text box. Do you want to change the text flow of this text box to match the previous text box?</source>
-        <comment>TxMessage_CreateTextboxLinkError4</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5751,17 +5359,17 @@ To add another text box to your document, click Text Box on the Insert menu and 
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
         <comment>TxMessage_NoHelp</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubory nápovědy nelze najít nebo obsahují chyby.</translation>
     </message>
     <message>
         <source>New Style</source>
         <comment>TxVersion_TPNewStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový styl</translation>
     </message>
     <message>
         <source>Modify Style</source>
         <comment>TxVersion_TPModifyStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit styl</translation>
     </message>
     <message>
         <source>Delete Style</source>
@@ -5771,12 +5379,12 @@ To add another text box to your document, click Text Box on the Insert menu and 
     <message>
         <source>Apply Style</source>
         <comment>TxVersion_TPApplyStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Použít styl</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
         <comment>TxVersion_TPClearFmt</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vymazat formátování</translation>
     </message>
     <message>
         <source>Do you want to continue searching from the end?</source>
@@ -5796,12 +5404,12 @@ To add another text box to your document, click Text Box on the Insert menu and 
     <message>
         <source>The font &apos;</source>
         <comment>TxMessage_FontNameNotExisitFirstHalf</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Písmo &apos;</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
         <comment>TxMessage_FontNameNotExisitSecondHalf</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos; není ve vašem systému k dispozici. Chcete toto písmo přesto pužít?</translation>
     </message>
     <message>
         <source>This document contains no comments or tracked changes.</source>
@@ -5817,7 +5425,7 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>Current Document</source>
         <comment>TxMessage_Hyperlink_CurrentDocument</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktuální dokument</translation>
     </message>
     <message>
         <source>inserted</source>
@@ -5827,7 +5435,7 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>deleted</source>
         <comment>TxMessage_ToolTip_Suffix_Deletion</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">smazaný</translation>
     </message>
     <message>
         <source>comment</source>
@@ -5837,12 +5445,12 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>Page: </source>
         <comment>TxMessage_VScroll_Tip</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Strana: </translation>
     </message>
     <message>
         <source>Paste</source>
         <comment>TxEdit_PasteDefault</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit</translation>
     </message>
     <message>
         <source>Paste as Nested Table</source>
@@ -5852,12 +5460,12 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>Paste Rows</source>
         <comment>TxEdit_PasteRow</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit řádky</translation>
     </message>
     <message>
         <source>Paste Columns</source>
         <comment>TxEdit_PasteColumn</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit sloupce</translation>
     </message>
     <message>
         <source>Paste Cells</source>
@@ -5878,12 +5486,12 @@ Protection</source>
     <message>
         <source>Remove Protection</source>
         <comment>TxDocument_Unprotect</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odemknout</translation>
     </message>
     <message>
         <source>Copy</source>
         <comment>TxVersion_Copy</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopírovat</translation>
     </message>
     <message>
         <source>Move</source>
@@ -5903,7 +5511,7 @@ Protection</source>
     <message>
         <source>This function is provided in WPS Office Professional.</source>
         <comment>TxMessage_ProVerOnly</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tato funkce je dostupná jen v WPS Office Professional.</translation>
     </message>
     <message>
         <source>Adjust Table Column Width</source>
@@ -5913,11 +5521,6 @@ Protection</source>
     <message>
         <source>Adjust Table Row Height</source>
         <comment>TxVersion_AdjustRowHeight</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove Cell Partition</source>
-        <comment>TxVersion_EraserCells</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5933,7 +5536,7 @@ Protection</source>
     <message>
         <source>Insert Table</source>
         <comment>TxVersion_AddTable</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit tabulku</translation>
     </message>
     <message>
         <source>Set Border Properties</source>
@@ -6008,7 +5611,7 @@ Protection</source>
     <message>
         <source>Translate to Simplified Chinese</source>
         <comment>TxCaption_TranslateToSimplifiedChinese</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přeložit do zjednodušené čínštiny</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
@@ -6018,7 +5621,7 @@ Protection</source>
     <message>
         <source>Deleted</source>
         <comment>TxBalloon_RevisionDeleted</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazaný</translation>
     </message>
     <message>
         <source>Inserted</source>
@@ -6028,7 +5631,7 @@ Protection</source>
     <message>
         <source>Close Compare Side by Side</source>
         <comment>TxWindow_Close_CompareSideBySide</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít porovnávání vedle sebe</translation>
     </message>
     <message>
         <source>Compare with %s Side by Side</source>
@@ -6043,17 +5646,17 @@ Protection</source>
     <message>
         <source>Convert Table to Text</source>
         <comment>TxVersion_TableToText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Převést tabulku na text</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
         <comment>TxVersion_TextToTable</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Převést text na tabulku</translation>
     </message>
     <message>
         <source>[Disabled]</source>
         <comment>TxVersion_shieldedFunction</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[Vypnuto]</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
@@ -6064,25 +5667,17 @@ Protection</source>
         <source>Track 
 Changes</source>
         <comment>TXShell_TrackChanges_Caption</comment>
-        <translation>Sledovat 
-změny </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mail Merge Toolbar</source>
         <comment>TXShell_MailMerge_Caption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spell 
-Check</source>
-        <comment>TXShell_CheckSpelling_Caption</comment>
-        <translation>Kontrola 
-pravopisu</translation>
+        <translation type="unfinished">Nástroje pro hromadné dopisy</translation>
     </message>
     <message>
         <source>Formatted</source>
         <comment>TxMessage_ToolTip_Suffix_NumFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formátováno</translation>
     </message>
     <message>
         <source>Bullets and Numbering</source>
@@ -6112,7 +5707,7 @@ pravopisu</translation>
     <message>
         <source>A valid date or time is required.</source>
         <comment>TxFormField_InValidDate</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Je vyžadováno platné datum nebo čas.</translation>
     </message>
     <message>
         <source>Form Field Options</source>
@@ -6122,27 +5717,27 @@ pravopisu</translation>
     <message>
         <source>Help</source>
         <comment>TxMessage_Help</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nápověda</translation>
     </message>
     <message>
         <source>Paste</source>
         <comment>TxCaption_Paste</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit</translation>
     </message>
     <message>
         <source>Paste</source>
         <comment>TxHint_Paste</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
         <comment>TxCaption_PasteText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neformátovaný text</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
         <comment>TxHint_PasteText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neformátovaný text</translation>
     </message>
     <message>
         <source>Text With Format</source>
@@ -6167,12 +5762,12 @@ pravopisu</translation>
     <message>
         <source>Translate</source>
         <comment>WPS_Translate_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přeložit</translation>
     </message>
     <message>
         <source>Search</source>
         <comment>WPS_Search_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prohledat</translation>
     </message>
     <message>
         <source>Auto Replace Paragraph Header Space With Indent</source>
@@ -6182,12 +5777,12 @@ pravopisu</translation>
     <message>
         <source>Auto Adjust WordWrap</source>
         <comment>TxVersion_AutoAdjustWordWrap</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automaticky vyladit zalomení slov</translation>
     </message>
     <message>
         <source>(no spelling suggestions)</source>
         <comment>TxCaption_NoSpellingSuggestions</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(žádné návrhy)</translation>
     </message>
     <message>
         <source>Replace Full Width Period With a Point</source>
@@ -6197,16 +5792,11 @@ pravopisu</translation>
     <message>
         <source>Update Table of Contents</source>
         <comment>TxVersion_UpdateTOC</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktualizovat tabulku s obsahem</translation>
     </message>
     <message>
         <source>Cannot go to TOC. TOC may not exist!</source>
         <comment>TxVersion_CannotGotoTOC</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot update TOC. TOC may not exist.</source>
-        <comment>TxVersion_CannotUpdateTOC</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6242,7 +5832,7 @@ pravopisu</translation>
     <message>
         <source>Strikethrough</source>
         <comment>TxVersion_Strikethought</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přeškrtnutý</translation>
     </message>
     <message>
         <source>Add rows and columns</source>
@@ -6252,22 +5842,22 @@ pravopisu</translation>
     <message>
         <source>Print</source>
         <comment>TxCaption_RecentPrint_Print</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tisk</translation>
     </message>
     <message>
         <source>Print directly</source>
         <comment>TxCaption_RecentPrint_PrintDirect</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přímý tisk</translation>
     </message>
     <message>
         <source>Delete</source>
         <comment>TxBalloon_RevisionDeletedShortTip</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat</translation>
     </message>
     <message>
         <source>Insert</source>
         <comment>TxBalloon_RevisionInsertedShortTip</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit</translation>
     </message>
     <message>
         <source>Modify bullets and numbering</source>
@@ -6277,12 +5867,12 @@ pravopisu</translation>
     <message>
         <source>Comment</source>
         <comment>TxVersion_Comment</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Komentář</translation>
     </message>
     <message>
         <source>Page X</source>
         <comment>TxAutoText_PageNumberOf</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Strana X</translation>
     </message>
     <message>
         <source>Total of X pages</source>
@@ -6347,7 +5937,7 @@ pravopisu</translation>
     <message>
         <source>Close</source>
         <comment>TxTooltip_ParaLayoutClose</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message>
         <source>Clean Paragraph Space And Indent</source>
@@ -6357,17 +5947,12 @@ pravopisu</translation>
     <message>
         <source>Formatted</source>
         <comment>TxBalloon_RevisionFormatted</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formátováno</translation>
     </message>
     <message>
         <source>Modify</source>
         <comment>TxBalloon_RevisionFormattedShortTip</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Formatted</source>
-        <comment>TxMessage_ToolTip_Suffix_Formatting</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit</translation>
     </message>
     <message>
         <source>Formatted Table</source>
@@ -6382,7 +5967,7 @@ pravopisu</translation>
     <message>
         <source>Modify table</source>
         <comment>TxBalloon_RevisionFormattedTableShortTip</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit tabulku</translation>
     </message>
     <message>
         <source>Format line number</source>
@@ -6415,23 +6000,106 @@ pravopisu</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>WPS Writer 2007/2010 File(*.wpsx)</source>
+        <comment>TxDesc_DataSource_wpsx</comment>
+        <translation type="unfinished">Soubor WPS Writer 2007/2010 (*.wpsx)</translation>
+    </message>
+    <message>
         <source>Stop Recording</source>
         <comment>TXWps_RecordMacro_Stop</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zastavit nahrávání</translation>
     </message>
     <message>
         <source>Record Macro</source>
         <comment>TXWps_RecordMacro_Start</comment>
+        <translation type="unfinished">Nahrát makro</translation>
+    </message>
+    <message>
+        <source>Bullets/Numbering</source>
+        <comment>TxVersion_BulletAndAutoNumber</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer 2007/2010 File(*.wpsx)</source>
-        <comment>TxDesc_DataSource_wpsx</comment>
+        <source>Insert Index</source>
+        <comment>TxVersion_InsIndexAndTables</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlink Fields</source>
+        <comment>TxVersion_FieldToText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To create a link, click an empty text box.
+To add another text box to your document, click Text Box on the Insert menu and choose a text box. Select the original text box and click Create Link again.</source>
+        <comment>TxMessage_CreateTextboxLinkError1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This text box has a different text flow from the previous text box. Do you want to change the text flow of this text box to match the previous text box?</source>
+        <comment>TxMessage_CreateTextboxLinkError4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Cell Partition</source>
+        <comment>TxVersion_EraserCells</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spell 
+Check</source>
+        <comment>TXShell_CheckSpelling_Caption</comment>
+        <translation type="unfinished">Kontrola 
+pravopisu</translation>
+    </message>
+    <message>
+        <source>Cannot update TOC. TOC may not exist.</source>
+        <comment>TxVersion_CannotUpdateTOC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formatted</source>
+        <comment>TxMessage_ToolTip_Suffix_Formatting</comment>
+        <translation type="unfinished">Formátováno</translation>
+    </message>
+    <message>
+        <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
+        <comment>TxDesc_DataSource_AllDataSource</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word Documents(*.docx; *.doc; *.docm) | *.docx; *.doc; *.docm; |</source>
+        <comment>TxDesc_DataSource_doc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Word Documents(*.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html) | *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html; |</source>
+        <comment>TxDesc_DataSource_alldoc</comment>
+        <translation type="unfinished">Všechny dokumenty MS Word (*.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html) | *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html; |</translation>
+    </message>
+    <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt |</source>
+        <comment>TxDesc_DataSource_allwps</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
+        <comment>TxDesc_DataSource_pab</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Date/Time</source>
         <comment>TxVersion_InsDateTime</comment>
+        <translation type="unfinished">Datum/Čas</translation>
+    </message>
+    <message>
+        <source>AutoFit to Content</source>
+        <comment>TxVersion_AutoFitContent</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007/2010 Template(*.wptx)</source>
+        <comment>TxDesc_DataSource_wptx</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6657,36 +6325,6 @@ pravopisu</translation>
     <message>
         <source>Table Theme</source>
         <comment>TxTableStyle_TabelTheme</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer 2007/2010 Template(*.wptx)</source>
-        <comment>TxDesc_DataSource_wptx</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
-        <comment>TxDesc_DataSource_AllDataSource</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Word Documents(*.docx; *.doc; *.docm) | *.docx; *.doc; *.docm; |</source>
-        <comment>TxDesc_DataSource_doc</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All Word Documents(*.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html) | *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html; |</source>
-        <comment>TxDesc_DataSource_alldoc</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt |</source>
-        <comment>TxDesc_DataSource_allwps</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>AutoFit to Content</source>
-        <comment>TxVersion_AutoFitContent</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7180,64 +6818,9 @@ pravopisu</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert DocumentField</source>
-        <comment>TxVersion_InsDocumentField</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
-        <comment>TxDesc_DataSource_pab</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PDF Files(*.pdf) | *.pdf; |</source>
-        <comment>TxDesc_DataSource_pdf</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The target text box is different format than your current text box. You can only link text boxes that are the same format.</source>
-        <comment>TxMessage_CreateTextboxLinkError5</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set AutoShape Defaults</source>
-        <comment>TxCaption_ShapeAutoShapeDefaults</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set as Default Shape</source>
-        <comment>TxCaption_DmlShapeAutoShapeDefaults</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set as Default Text Box</source>
-        <comment>TxCaption_DmlTextboxAutoShapeDefaults</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>InsertBefore</source>
-        <comment>TxCaption_ContentControlInsertBefore</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>InsertAfter</source>
-        <comment>TxCaption_ContentControlInsertAfter</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <comment>TxCaption_ContentControlDelete</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Item</source>
-        <comment>TxCaption_ContentControlItem</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
-        <comment>TxError_EditChartDataSource</comment>
-        <translation type="unfinished"></translation>
+        <source>(no synonyms suggestions)</source>
+        <comment>TxCaption_NoSynonymsSuggestions</comment>
+        <translation type="unfinished">(No synonyms suggestions)</translation>
     </message>
 </context>
 </TS>

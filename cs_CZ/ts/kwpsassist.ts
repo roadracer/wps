@@ -24,35 +24,35 @@
 <context>
     <name>KSlideLibraryLogic</name>
     <message>
-        <source>ContentSlideType_Cover</source>
+        <source>Cover</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ContentSlideType_Catalog</source>
+        <source>Catalog</source>
+        <translation type="unfinished">Katalog</translation>
+    </message>
+    <message>
+        <source>Body</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ContentSlideType_Main</source>
+        <source>Transition</source>
+        <translation type="unfinished">Přechod</translation>
+    </message>
+    <message>
+        <source>Ending</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ContentSlideType_Trans</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ContentSlideType_Ending</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ContentSlideType_More</source>
-        <translation type="unfinished"></translation>
+        <source>More</source>
+        <translation type="unfinished">Více</translation>
     </message>
 </context>
 <context>
     <name>KTemplateDetailHeaderButton</name>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zpět</translation>
     </message>
 </context>
 <context>
@@ -70,15 +70,11 @@
     <name>KTemplateDlgDetailHeader</name>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový</translation>
     </message>
 </context>
 <context>
     <name>KTemplateDlgHeader</name>
-    <message>
-        <source>New</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Standard</source>
         <translation type="unfinished"></translation>
@@ -91,19 +87,23 @@
         <source>Classification</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>New</source>
+        <translation type="unfinished">Nový</translation>
+    </message>
 </context>
 <context>
     <name>KTemplateDownloadFinishTip</name>
     <message>
-        <source>apply</source>
+        <source>Apply</source>
+        <translation type="unfinished">Použít</translation>
+    </message>
+    <message>
+        <source>Template download succeeded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>template download success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>template download failed</source>
+        <source>Template download failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -111,7 +111,7 @@
     <name>KTemplateExtendGallery</name>
     <message>
         <source>Recently Used</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Naposledy použitá</translation>
     </message>
     <message>
         <source>More templates</source>
@@ -122,15 +122,15 @@
     <name>KWppTemplateItem</name>
     <message>
         <source>Load failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze načíst.</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Použít na všechny snímky</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Použít na vybrané snímky</translation>
     </message>
 </context>
 <context>
@@ -144,11 +144,11 @@
     <name>KxInsertPicturesToMultiSlide</name>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit obrázek do více snímků</translation>
     </message>
     <message>
         <source>Unidentifiable picture format.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neznámý formát obrázku.</translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
@@ -157,7 +157,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Všechny obrázky (*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>

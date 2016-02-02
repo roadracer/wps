@@ -18,33 +18,6 @@
     </message>
 </context>
 <context>
-    <name>KBubbleTipManager</name>
-    <message>
-        <source>You try %1 days, and %2 days left. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The probation period is about to expire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Buy Now &gt;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You hava Authorized %1 days remaining. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The Authorize period is about to expire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Renew Now &gt;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KCnCommonAuthManager</name>
     <message>
         <source>WPS Business</source>
@@ -59,11 +32,11 @@
     </message>
     <message>
         <source>Documents&apos; Author</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Autor dokumentu</translation>
     </message>
     <message>
         <source>* Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">* Jméno:</translation>
     </message>
     <message>
         <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
@@ -75,11 +48,11 @@
     </message>
     <message>
         <source>Organization:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Organizace:</translation>
     </message>
     <message>
         <source>* Serial No.:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">* Sériové číslo:</translation>
     </message>
     <message>
         <source>OK</source>
@@ -120,37 +93,10 @@
     </message>
 </context>
 <context>
-    <name>KxDlgAuthorizeExpireReminder</name>
-    <message>
-        <source>WPS Office Expiration Reminder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;Authorize Period Expiration&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The original license has expired,please renew.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>preview mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Buy/renew Now</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxDlgExpirationReminder</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlídač vypršení WPS Office</translation>
     </message>
     <message>
         <source>Your subscription for WPS Office or %1-day trial expires now.</source>
@@ -185,68 +131,48 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KxDlgQingRestrict</name>
+    <name>KxDlgPrintRestrict</name>
     <message>
-        <source>WPS Office Disable Features</source>
+        <source>You are using a free version. </source>
+        <translation type="unfinished">Používáte verzi zdarma</translation>
+    </message>
+    <message>
+        <source>A watermark will be added to your document when printing. As the free trial of WPS Office Business Edition has ended, you need to upgrade to remove watermarks. %1Learn More%2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Office Limited Features</source>
+        <source>Upgrade Now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The feature is not available in free version</source>
+        <source>Try It</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If you are a paid subscriber, you can use this feature in either way:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter your activation code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you already have an activation code, use it to activate WPS Office.</source>
+        <source>Print With Watermark</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>KxDlgQingWelcome</name>
+    <name>KxDlgRestriction</name>
     <message>
-        <source>Welcome to WPS Office</source>
+        <source>Feature for Paid Users</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Trial</source>
+        <source>This is a premium feature.As the free trial of WPS Office Business Edition has ended, you need to upgrade to use it. %1Click here%2 to learn more about the premium features and benefits.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Start your free %1-day trial.</source>
+        <source>Upgrade Now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sign in</source>
+        <source>Do you want to try this feature for a few more times and get your work done? No problem. We&apos;re happy to provide you with 3 times additional accesses to this premium feature.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter Activation Code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you already have an activation code, use it to activate WPS Office.</source>
+        <source>Try It!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -282,64 +208,10 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KxDlgTrialExpireReminder</name>
-    <message>
-        <source>WPS Office Expiration Reminder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;Trial Period Expiration&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;Trial period is over.You will enter the preview mode that offer a unnormal funtion of WPS Office.If need to continue to use,please buy the WPS Office&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>preview mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Buy Now</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgTrialReminder</name>
-    <message>
-        <source>WPS Office Trial Reminder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;You can try the WPS Office for 30 days&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;To buy the WPS office, can continue to normal use after the probation period&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Buy Now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Try it out</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxDlgVbaBuy</name>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Makro</translation>
     </message>
     <message>
         <source>Your subscription does not include VBA. Macro in the document cannot work properly. Please purchase separately to enable macro if needed.</source>
@@ -354,7 +226,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgVbaInstallation</name>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Makro</translation>
     </message>
     <message>
         <source>Macros require VBA to function correctly. </source>
@@ -373,7 +245,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgVbaReminder</name>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Makro</translation>
     </message>
     <message>
         <source>Macros require VBA to function correctly. </source>
@@ -384,7 +256,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OK</source>
+        <source>LEARN MORE</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -392,11 +264,11 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgWelcome</name>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vítejte v WPS Office</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přihlásit</translation>
     </message>
     <message>
         <source>Sign in to use WPS Office and enjoy more advanced services.</source>
@@ -404,22 +276,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zadat aktivační kód</translation>
     </message>
     <message>
         <source>Activate WPS Office with existing activation code.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Trial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Get a 30-day trial.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter Serial Number/Activation Code</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -427,10 +287,26 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgWelcomePage</name>
     <message>
         <source>Welcome to WPS Office</source>
+        <translation type="unfinished">Vítejte v WPS Office</translation>
+    </message>
+    <message>
+        <source>Personal Edition(Free)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Get Started</source>
+        <source>Did you purchase WPS Office?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click here to %1Login%2 or %3Enter activation code%4.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Need Help?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Includes %1-Day FREE Trial of WPS Office Business Edition. %2Get started &gt;&gt;%3.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -454,7 +330,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sledování změn</translation>
     </message>
     <message>
         <source>Choose revision markups and comment formatting, or to change reviewer information.</source>
@@ -466,7 +342,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vodoznak</translation>
     </message>
     <message>
         <source>Insert ghosted text and picture behind the content on the page.</source>
@@ -474,7 +350,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zakázat úpravy</translation>
     </message>
     <message>
         <source>Restrict how people edit or format specific parts of the document.</source>
@@ -482,7 +358,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Makra</translation>
     </message>
     <message>
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
@@ -502,7 +378,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Komentář</translation>
     </message>
     <message>
         <source>Package to Folder/Compressed File</source>
@@ -522,7 +398,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontingenční tabulka</translation>
     </message>
     <message>
         <source>Make it easy to arrange and summarize complicated data and drill down on details.</source>
@@ -530,7 +406,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Consolidate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konsolidovat</translation>
     </message>
     <message>
         <source>Combine values from multiple ranges into one new range.</source>
@@ -546,7 +422,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Solver</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Řešitel</translation>
     </message>
     <message>
         <source>Allow you to see the results of many different possible inputs at the same time.</source>
@@ -562,7 +438,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Share Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sdílet sešit</translation>
     </message>
     <message>
         <source>Allow multiple people to work in a workbook at the same time.</source>
@@ -617,6 +493,17 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxPrintRestrictDlg</name>
+    <message>
+        <source>We are also happy to provide you with %1 times additional accesses to remove watermarks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We are also happy to provide you with one time additional accesses to remove watermarks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxQingActiveCodeDialog</name>
     <message>
         <source>WPS Office Activation Code</source>
@@ -631,35 +518,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Activated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Activation code expires on:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>yyyy-mm-dd</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;u&gt;Use other activation codes&lt;/u&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office Serial Number/Activation Code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please enter your serial number or activation code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>How to get an enterprise activation code?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use other activation codes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -683,27 +542,23 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Invalid serial number or activation code.</source>
+        <source>Activated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The serial number or activation code has exceeded the maximum number of activations.</source>
+        <source>&lt;u&gt;Use other activation codes&lt;/u&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The serial number has expired.</source>
+        <source>Use other activation codes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The serial number is invalid. Please confirm it.</source>
+        <source>Activation code expires on: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The serial number you entered already exists.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>To activate WPS need to get the system UAC (user account control) allows, please try again.</source>
+        <source>LIFETIME LICENSE</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -722,7 +577,7 @@ p, li { white-space: pre-wrap; }
     <name>KxQingBuyTooltip</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formulář</translation>
     </message>
     <message>
         <source>To purchase WPS Office, click here to visit the purchase page for more information. 
@@ -744,7 +599,7 @@ Please purchase to continue using WPS Office.</source>
     </message>
     <message>
         <source>Buy Now</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Koupit teď</translation>
     </message>
     <message>
         <source>Click here to visit the purchase page for more information. You need to sign in before you buy. </source>
@@ -802,9 +657,13 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
 </context>
 <context>
-    <name>KxQingRestrictDlg</name>
+    <name>KxRestrictionDlg</name>
     <message>
-        <source>Buy/Renew Now</source>
+        <source>%1 times left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 time left</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -849,21 +708,6 @@ After expiration, some features will not work properly. Please renew now. </sour
     <name>KxWelcomeDlg</name>
     <message>
         <source>Purchase WPS Office for Enterprise</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWelcomePageDlg</name>
-    <message>
-        <source>Includes %1-Day FREE Trial of WPS Office Business Edition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Login/Register</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Buy/Enter Activation Code</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

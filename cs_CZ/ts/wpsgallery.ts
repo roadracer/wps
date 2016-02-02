@@ -5,22 +5,22 @@
     <name>KGalleryClient</name>
     <message>
         <source>gallery</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">galerie</translation>
     </message>
     <message>
         <source>shape</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">tvar</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditGallery</name>
     <message>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Od:</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Text</translation>
     </message>
     <message>
         <source>Caption:</source>
@@ -28,11 +28,11 @@
     </message>
     <message>
         <source>Label:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jmenovka:</translation>
     </message>
     <message>
         <source>More:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Více:</translation>
     </message>
     <message>
         <source>OK</source>
@@ -40,19 +40,19 @@
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adresář:</translation>
     </message>
     <message>
         <source>Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poznámky:</translation>
     </message>
     <message>
         <source>Less:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Méně:</translation>
     </message>
     <message>
         <source>Edit Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit galerii</translation>
     </message>
     <message>
         <source>The most number of caption is 5.</source>
@@ -63,11 +63,11 @@
     <name>KxEditGalleryDlg</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Více</translation>
     </message>
     <message>
         <source>Less</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Méně</translation>
     </message>
 </context>
 <context>

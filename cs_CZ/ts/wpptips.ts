@@ -7,7 +7,7 @@
     <message id="ActionSetting.title">
         <source>Action Settings</source>
         <extracomment>ActionSetting.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení akce</translation>
     </message>
     <message id="ActionSetting.content">
         <source>Add an action to the selected object to specify what should happen when you click on it or hover over it with your mouse.</source>
@@ -47,7 +47,7 @@
     <message id="AlignBottom.title">
         <source>Align Bottom</source>
         <extracomment>AlignBottom.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat dolů</translation>
     </message>
     <message id="AlignBottom.content">
         <source>Align text to the bottom of the cell.</source>
@@ -57,7 +57,7 @@
     <message id="AlignCenter.title">
         <source>Center Vertically</source>
         <extracomment>AlignCenter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vystředit svisle</translation>
     </message>
     <message id="AlignCenter.content">
         <source>Vertically center the text.</source>
@@ -67,7 +67,7 @@
     <message id="AlignTop.title">
         <source>Align Top</source>
         <extracomment>AlignTop.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat nahoru</translation>
     </message>
     <message id="AlignTop.content">
         <source>Align text to the top of the cell.</source>
@@ -77,7 +77,7 @@
     <message id="AnimationSchemes.title">
         <source>Animation Schemes</source>
         <extracomment>AnimationSchemes.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schémata animací</translation>
     </message>
     <message id="AnimationSchemes.content">
         <source>Show the Slide Design - Animation Schemes task window to set up transition and animation effects to the current slide or the entire presentation.</source>
@@ -87,7 +87,7 @@
     <message id="Arrange.title">
         <source>Arrange</source>
         <extracomment>Arrange.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozvrhnout</translation>
     </message>
     <message id="Arrange.content">
         <source>Arrange objects on the slides by changing their order, position and rotation.</source>
@@ -97,7 +97,7 @@
     <message id="ArrangeAll.title">
         <source>Arrange All</source>
         <extracomment>ArrangeAll.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozmístit všechny</translation>
     </message>
     <message id="ArrangeAll.content">
         <source>Tile all open documents side-by-side under the same program window.</source>
@@ -107,7 +107,7 @@
     <message id="Backdrop.title">
         <source>Background</source>
         <extracomment>Backdrop.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pozadí</translation>
     </message>
     <message id="Backdrop.content">
         <source>Set the background style to the current slide or the entire presentation.</source>
@@ -117,7 +117,7 @@
     <message id="BackgroundMusic.title">
         <source>Insert Background Music</source>
         <extracomment>BackgroundMusic.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit hudbu na pozadí</translation>
     </message>
     <message id="BackgroundMusic.content">
         <source>Insert an audio file from local folder. The slide show will automatically play the audio, which will be looped until the end of the slide show.</source>
@@ -127,7 +127,7 @@
     <message id="BordersFill.title">
         <source>Borders</source>
         <extracomment>BordersFill.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okraje</translation>
     </message>
     <message id="BordersFill.content">
         <source>Set border style, color and width of the current slide.</source>
@@ -137,7 +137,7 @@
     <message id="Bullets.title">
         <source>Bullets</source>
         <extracomment>Bullets.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odrážky</translation>
     </message>
     <message id="Bullets.content">
         <source>Start a bulleted list.
@@ -149,7 +149,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="Bullets2.title">
         <source>Bullets</source>
         <extracomment>Bullets2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odrážky</translation>
     </message>
     <message id="Bullets2.content">
         <source>Click the arrow to select different bullet styles.</source>
@@ -159,7 +159,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="COMAddIns.title">
         <source>COM Add-Ins</source>
         <extracomment>COMAddIns.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Doplňky COM</translation>
     </message>
     <message id="COMAddIns.content">
         <source>Add or delete available COM Add-Ins.</source>
@@ -169,7 +169,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="ChangeTextDir.title">
         <source>Text Direction</source>
         <extracomment>ChangeTextDir.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr textu</translation>
     </message>
     <message id="ChangeTextDir.content">
         <source>Change the orientation of text to horizontal or vertical.</source>
@@ -179,7 +179,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="CheckSpelling.title">
         <source>Spell Check</source>
         <extracomment>CheckSpelling.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontrola pravopisu</translation>
     </message>
     <message id="CheckSpelling.content">
         <source>Check the spelling of the text in the current document.</source>
@@ -199,7 +199,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="Color.title">
         <source>Color</source>
         <extracomment>Color.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva</translation>
     </message>
     <message id="Color.content">
         <source>Set either color or pure black and white printing to the current presentation.</source>
@@ -209,7 +209,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="ColorScheme.title">
         <source>Color Schemes</source>
         <extracomment>ColorScheme.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barevná schémata</translation>
     </message>
     <message id="ColorScheme.content">
         <source>Show the Slide Design - Color Schemes task window to set up the color scheme of titles, bullets and objects for the current slide or the entire presentation.</source>
@@ -219,7 +219,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="CompressPictures.title">
         <source>Compress Pictures</source>
         <extracomment>CompressPictures.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Komprimovat obrázky</translation>
     </message>
     <message id="CompressPictures.content">
         <source>Compress the selected picture or all pictures to reduce size.</source>
@@ -229,7 +229,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="CustomAnimation.title">
         <source>Custom Animation</source>
         <extracomment>CustomAnimation.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní animace</translation>
     </message>
     <message id="CustomAnimation.content">
         <source>Show the Custom Animation task window to set up animation effects to the text or object in the current slide.</source>
@@ -239,7 +239,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="CustomShows.title">
         <source>Custom Slide Shows</source>
         <extracomment>CustomShows.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní přehrávání</translation>
     </message>
     <message id="CustomShows.content">
         <source>A custom slide show displays only the slides you select.</source>
@@ -249,7 +249,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="DecreaseFontSize.title">
         <source>Decrease Font Size</source>
         <extracomment>DecreaseFontSize.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zmenšit písmo</translation>
     </message>
     <message id="DecreaseFontSize.content">
         <source>Decrease the font size.</source>
@@ -269,7 +269,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="DecreaseSpace.title">
         <source>Decrease Spacing</source>
         <extracomment>DecreaseSpace.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zmenšit vzdálenost</translation>
     </message>
     <message id="DecreaseSpace.content">
         <source>Decrease spacing between lines.</source>
@@ -279,7 +279,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="Delete.title">
         <source>Delete</source>
         <extracomment>Delete.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat</translation>
     </message>
     <message id="Delete.content">
         <source>Delete rows, columns, cells, or the entire table.</source>
@@ -289,7 +289,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="DeleteComment.title">
         <source>Delete Comment</source>
         <extracomment>DeleteComment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat komentář</translation>
     </message>
     <message id="DeleteComment.content">
         <source>Delete the comment.</source>
@@ -299,7 +299,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="DeleteMaster.title">
         <source>Delete Master</source>
         <extracomment>DeleteMaster.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat Master</translation>
     </message>
     <message id="DeleteMaster.content">
         <source>Delete the selected slide master.</source>
@@ -319,7 +319,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="DetailedSettings_DrawingTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_DrawingTools.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_DrawingTools.content">
         <source>Change the settings of shape formatting.</source>
@@ -329,17 +329,17 @@ Click the arrow to select different bullet styles.</source>
     <message id="DetailedSettings_Home.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Home.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_Home.content">
         <source>Change the settings of font.</source>
         <extracomment>DetailedSettings_Home.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Změnit nastavení písma.</translation>
     </message>
     <message id="DetailedSettings_PictureTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_PictureTools.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_PictureTools.content">
         <source>Change the settings of picture formatting.</source>
@@ -349,7 +349,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="DetailedSettings_WordArt.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_WordArt.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_WordArt.content">
         <source>Change the settings of WordArt formatting.</source>
@@ -369,7 +369,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="Direction.title">
         <source>Direction</source>
         <extracomment>Direction.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr</translation>
     </message>
     <message id="Direction.content">
         <source>Choose the direction effect of the selected 3-D Shape.</source>
@@ -409,7 +409,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="DrawAlignLeft.title">
         <source>Align</source>
         <extracomment>DrawAlignLeft.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat</translation>
     </message>
     <message id="DrawAlignLeft.content">
         <source>Align the selected object.</source>
@@ -419,7 +419,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="DrawAlignTop.title">
         <source>Align Text</source>
         <extracomment>DrawAlignTop.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat text</translation>
     </message>
     <message id="DrawAlignTop.content">
         <source>Specify the alignment of the text.
@@ -431,7 +431,7 @@ Click the arrow to select a different alignment.</source>
     <message id="DrawAlignTop2.title">
         <source>Align Text</source>
         <extracomment>DrawAlignTop2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat text</translation>
     </message>
     <message id="DrawAlignTop2.content">
         <source>Click the arrow to select a different alignment.</source>
@@ -461,7 +461,7 @@ Click the arrow to select a different alignment.</source>
     <message id="DynamicShape.title">
         <source>Insert Shapes</source>
         <extracomment>DynamicShape.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit tvary</translation>
     </message>
     <message id="DynamicShape.content">
         <source>Insert ready-made shapes, such as rectangles and circles, arrows, lines, flowchart symbols and callouts.</source>
@@ -471,7 +471,7 @@ Click the arrow to select a different alignment.</source>
     <message id="EditComment.title">
         <source>Edit Comment</source>
         <extracomment>EditComment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit komentář</translation>
     </message>
     <message id="EditComment.content">
         <source>Edit the comment.</source>
@@ -481,7 +481,7 @@ Click the arrow to select a different alignment.</source>
     <message id="EquationEditor.title">
         <source>Insert Equation</source>
         <extracomment>EquationEditor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit matematický výraz</translation>
     </message>
     <message id="EquationEditor.content">
         <source>Insert mathematical equations using equation editor.</source>
@@ -491,17 +491,17 @@ Click the arrow to select a different alignment.</source>
     <message id="ExportWeiboImageCmd.title">
         <source>Export to Image</source>
         <extracomment>ExportWeiboImageCmd.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exportovat obrázek</translation>
     </message>
     <message id="ExportWeiboImageCmd.content">
         <source>Export the document to an image.</source>
         <extracomment>ExportWeiboImageCmd.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exportovat dokument jako obrázek.</translation>
     </message>
     <message id="Find.title">
         <source>Find</source>
         <extracomment>Find.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Najít</translation>
     </message>
     <message id="Find.content">
         <source>Find text in the presentation.</source>
@@ -521,7 +521,7 @@ Click the arrow to select a different alignment.</source>
     <message id="Flash.title">
         <source>Insert Flash Animation</source>
         <extracomment>Flash.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit animaci Flash</translation>
     </message>
     <message id="Flash.content">
         <source>Insert a flash animation from local folder.</source>
@@ -531,7 +531,7 @@ Click the arrow to select a different alignment.</source>
     <message id="FontAlignMenu.title">
         <source>Font Alignment</source>
         <extracomment>FontAlignMenu.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnání písma</translation>
     </message>
     <message id="FontAlignMenu.content">
         <source>Set the alignment between the fonts.</source>
@@ -541,7 +541,7 @@ Click the arrow to select a different alignment.</source>
     <message id="FontColor.title">
         <source>Font Color</source>
         <extracomment>FontColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva písma</translation>
     </message>
     <message id="FontColor.content">
         <source>Set the text color.
@@ -553,7 +553,7 @@ Click the arrow to select a different text color.</source>
     <message id="FontColor2.title">
         <source>Font Color</source>
         <extracomment>FontColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva písma</translation>
     </message>
     <message id="FontColor2.content">
         <source>Click the arrow to select a different font color.</source>
@@ -563,17 +563,17 @@ Click the arrow to select a different text color.</source>
     <message id="FormatAlignCenter.title">
         <source>Center</source>
         <extracomment>FormatAlignCenter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Střed</translation>
     </message>
     <message id="FormatAlignCenter.content">
         <source>Center text.</source>
         <extracomment>FormatAlignCenter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vystředit text.</translation>
     </message>
     <message id="FormatAlignLeft.title">
         <source>Align Text Left</source>
         <extracomment>FormatAlignLeft.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat text vlevo</translation>
     </message>
     <message id="FormatAlignLeft.content">
         <source>Align text to the left.</source>
@@ -583,17 +583,27 @@ Click the arrow to select a different text color.</source>
     <message id="FormatAlignRight.title">
         <source>Align Text Right</source>
         <extracomment>FormatAlignRight.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat text vpravo</translation>
     </message>
     <message id="FormatAlignRight.content">
         <source>Align text to the right.</source>
         <extracomment>FormatAlignRight.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
+    <message id="FormatObject.title">
+        <source>Format Object</source>
+        <extracomment>FormatObject.title</extracomment>
+        <translation type="unfinished">Formát objektu</translation>
+    </message>
+    <message id="FormatObject.content">
+        <source>Show the Format Object dialog box.</source>
+        <extracomment>FormatObject.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
     <message id="FormatPainter.title">
         <source>Format Painter</source>
         <extracomment>FormatPainter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopírovat formát</translation>
     </message>
     <message id="FormatPainter.content">
         <source>Copy formatting from one place and apply it to another.
@@ -605,7 +615,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     <message id="Gallery.title">
         <source>WPS Gallery</source>
         <extracomment>Gallery.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS galerie</translation>
     </message>
     <message id="Gallery.content">
         <source>WPS Gallery provides all kinds of picture sources for you to use, collect, edit and manage.
@@ -617,7 +627,7 @@ WPS Gallery Online Sources require Internet connection.</source>
     <message id="GridGuides.title">
         <source>Gridlines and Guides</source>
         <extracomment>GridGuides.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mřížka a pomocné čáry</translation>
     </message>
     <message id="GridGuides.content">
         <source>Set up gridlines and guides to the presentation.</source>
@@ -627,7 +637,7 @@ WPS Gallery Online Sources require Internet connection.</source>
     <message id="Group.title">
         <source>Group</source>
         <extracomment>Group.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skupina</translation>
     </message>
     <message id="Group.content">
         <source>Group objects together so that they can be treated as a single object.</source>
@@ -637,7 +647,7 @@ WPS Gallery Online Sources require Internet connection.</source>
     <message id="HeaderFooter.title">
         <source>Header and Footer</source>
         <extracomment>HeaderFooter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlavička a patička</translation>
     </message>
     <message id="HeaderFooter.content">
         <source>Edit the header and footer of the document.</source>
@@ -657,7 +667,7 @@ WPS Gallery Online Sources require Internet connection.</source>
     <message id="Hyperlink.title">
         <source>Insert Hyperlink</source>
         <extracomment>Hyperlink.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit hypertextový odkaz</translation>
     </message>
     <message id="Hyperlink.content">
         <source>Create a link to a web page, a picture, or an e-mail address.</source>
@@ -667,7 +677,7 @@ WPS Gallery Online Sources require Internet connection.</source>
     <message id="IncreaseFontSize.title">
         <source>Increase Font Size</source>
         <extracomment>IncreaseFontSize.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvětšit písmo</translation>
     </message>
     <message id="IncreaseFontSize.content">
         <source>Increase the font size.</source>
@@ -687,7 +697,7 @@ WPS Gallery Online Sources require Internet connection.</source>
     <message id="IncreaseSpace.title">
         <source>Increase Spacing</source>
         <extracomment>IncreaseSpace.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvětšit vzdálenost</translation>
     </message>
     <message id="IncreaseSpace.content">
         <source>Increase spacing between lines.</source>
@@ -697,7 +707,7 @@ WPS Gallery Online Sources require Internet connection.</source>
     <message id="InsertChart.title">
         <source>Insert Chart</source>
         <extracomment>InsertChart.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit graf</translation>
     </message>
     <message id="InsertChart.content">
         <source>The inserted chart needs to be edited in WPS Spreadsheets.
@@ -709,7 +719,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="InsertClipArt.title">
         <source>Insert Clip Art</source>
         <extracomment>InsertClipArt.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit ClipArt</translation>
     </message>
     <message id="InsertClipArt.content">
         <source>Select a Clip Art from the task window and insert it into the document.</source>
@@ -739,7 +749,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="InsertDateTime.title">
         <source>Date and Time</source>
         <extracomment>InsertDateTime.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Datum a čas</translation>
     </message>
     <message id="InsertDateTime.content">
         <source>Show the Date and Time dialog box to insert the current date or time into the current document.</source>
@@ -809,7 +819,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="InsertTable.title">
         <source>Insert Table</source>
         <extracomment>InsertTable.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit tabulku</translation>
     </message>
     <message id="InsertTable.content">
         <source>Insert or draw a table into the current slide.</source>
@@ -819,7 +829,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="InsertWordArt.title">
         <source>Insert WordArt</source>
         <extracomment>InsertWordArt.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit WordArt</translation>
     </message>
     <message id="InsertWordArt.content">
         <source>Show the WordArt Gallery dialog box to select a WordArt style and edit content.</source>
@@ -849,7 +859,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="LineBreak.title">
         <source>Line Break</source>
         <extracomment>LineBreak.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zalomení řádku</translation>
     </message>
     <message id="LineBreak.content">
         <source>Change the line break format.</source>
@@ -859,7 +869,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="LineSpacing.title">
         <source>Line Spacing</source>
         <extracomment>LineSpacing.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Řádkování</translation>
     </message>
     <message id="LineSpacing.content">
         <source>Change the spacing between lines of text.</source>
@@ -889,7 +899,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="Media.title">
         <source>Insert Movie</source>
         <extracomment>Media.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit film</translation>
     </message>
     <message id="Media.content">
         <source>Insert a movie from local folder</source>
@@ -899,7 +909,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="MergeCells.title">
         <source>Merge Cells</source>
         <extracomment>MergeCells.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spojit buňky</translation>
     </message>
     <message id="MergeCells.content">
         <source>Merge the selected cells into one cell.</source>
@@ -909,7 +919,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="NewComment.title">
         <source>Insert Comment</source>
         <extracomment>NewComment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit komentář</translation>
     </message>
     <message id="NewComment.content">
         <source>Create a new comment.</source>
@@ -919,7 +929,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="NewSlide.title">
         <source>New Slide</source>
         <extracomment>NewSlide.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový snímek</translation>
     </message>
     <message id="NewSlide.content">
         <source>Add a new slide to the presentation.</source>
@@ -929,7 +939,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="NewSlide2.title">
         <source>Other Options</source>
         <extracomment>NewSlide2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jiné možnosti</translation>
     </message>
     <message id="NewSlide2.content">
         <source>Click here to select new duplicate slide.</source>
@@ -959,7 +969,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="NewWindow.title">
         <source>New Window</source>
         <extracomment>NewWindow.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nové okno</translation>
     </message>
     <message id="NewWindow.content">
         <source>Open a new window containing a view of the current document.</source>
@@ -969,7 +979,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="NextComment.title">
         <source>Next Comment</source>
         <extracomment>NextComment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Další komentář</translation>
     </message>
     <message id="NextComment.content">
         <source>Next comment.</source>
@@ -979,7 +989,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="Normal.title">
         <source>Normal View</source>
         <extracomment>Normal.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normální zobrazení</translation>
     </message>
     <message id="Normal.content">
         <source>View the presentation in Normal view.</source>
@@ -989,7 +999,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="Numbering.title">
         <source>Numbering</source>
         <extracomment>Numbering.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Číslování</translation>
     </message>
     <message id="Numbering.content">
         <source>Number the selected paragraph.
@@ -1001,19 +1011,17 @@ Click the arrow to select different numbering formats.</source>
     <message id="Numbering2.title">
         <source>Numbering</source>
         <extracomment>Numbering2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Číslování</translation>
     </message>
     <message id="Numbering2.content">
-        <source>Number the selected paragraph.
-
-Click the arrow to select different numbering formats.</source>
+        <source>Click the arrow to select different numbering formats.</source>
         <extracomment>Numbering2.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="ObjectSelect.title">
         <source>Selection Pane</source>
         <extracomment>ObjectSelect.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rychlý výběr</translation>
     </message>
     <message id="ObjectSelect.content">
         <source>Show the Selection Pane task window to easily find a single object or set its order and visibility.</source>
@@ -1023,7 +1031,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="OrgChartLayout.title">
         <source>Layout</source>
         <extracomment>OrgChartLayout.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozložení</translation>
     </message>
     <message id="OrgChartLayout.content">
         <source>Chang the branch layout of the selected member.</source>
@@ -1043,17 +1051,17 @@ Click the arrow to select different numbering formats.</source>
     <message id="PageSetup.title">
         <source>Page Setup</source>
         <extracomment>PageSetup.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení stránky</translation>
     </message>
     <message id="PageSetup.content">
         <source>Show the Page Setup dialog box.</source>
         <extracomment>PageSetup.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat dialog nastavení vzhledu stránky.</translation>
     </message>
     <message id="Paragraph1.title">
         <source>Alignment</source>
         <extracomment>Paragraph1.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnání</translation>
     </message>
     <message id="Paragraph1.content">
         <source>Click the arrow to select a different alignment.</source>
@@ -1063,7 +1071,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="Paragraph2.title">
         <source>Other options</source>
         <extracomment>Paragraph2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Další možnosti</translation>
     </message>
     <message id="Paragraph2.content">
         <source>Click the arrow to select Increase the Spacing, Decrease the Spacing and Wrap options.</source>
@@ -1073,7 +1081,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="Paste.title">
         <source>Paste</source>
         <extracomment>Paste.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit</translation>
     </message>
     <message id="Paste.content">
         <source>Paste the contents of the Clipboard.</source>
@@ -1083,7 +1091,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="Paste2.title">
         <source>Paste</source>
         <extracomment>Paste2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit</translation>
     </message>
     <message id="Paste2.content">
         <source>Click here for more options such as pasting only unformatted text.</source>
@@ -1093,12 +1101,12 @@ Click the arrow to select different numbering formats.</source>
     <message id="PreComment.title">
         <source>Previous Comment</source>
         <extracomment>PreComment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předchozí komentář</translation>
     </message>
     <message id="PreComment.content">
         <source>Previous comment.</source>
         <extracomment>PreComment.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předchozí komentář.</translation>
     </message>
     <message id="PreserveMaster.title">
         <source>Preserve Master</source>
@@ -1113,7 +1121,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="PrevClose.title">
         <source>Close</source>
         <extracomment>PrevClose.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message id="PrevClose.content">
         <source>Close the Print Preview and return to the presentation editing mode.</source>
@@ -1133,7 +1141,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="PrevLandscape.title">
         <source>Landscape</source>
         <extracomment>PrevLandscape.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na šířku</translation>
     </message>
     <message id="PrevLandscape.content">
         <source>Set the page layout to landscape in the printing of handouts, notes pages and outline.</source>
@@ -1143,7 +1151,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="PrevNextPage.title">
         <source>Next Page</source>
         <extracomment>PrevNextPage.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Další stránka</translation>
     </message>
     <message id="PrevNextPage.content">
         <source>Navigate to the next page in the presentation.</source>
@@ -1153,7 +1161,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="PrevPortrait.title">
         <source>Portrait</source>
         <extracomment>PrevPortrait.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na výšku</translation>
     </message>
     <message id="PrevPortrait.content">
         <source>Set the page layout to portrait in the printing of handouts, notes pages and outline.</source>
@@ -1163,17 +1171,17 @@ Click the arrow to select different numbering formats.</source>
     <message id="PrevPrintHiddenSlide.title">
         <source>Print Hidden Slides</source>
         <extracomment>PrevPrintHiddenSlide.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tisknout skryté snímky</translation>
     </message>
     <message id="PrevPrintHiddenSlide.content">
         <source>Display hidden slides in Print Preview.</source>
         <extracomment>PrevPrintHiddenSlide.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit skryté snímky v náhledu tisku.</translation>
     </message>
     <message id="PreviewPage.title">
         <source>Previous Page</source>
         <extracomment>PreviewPage.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předchozí stránka</translation>
     </message>
     <message id="PreviewPage.content">
         <source>Navigate to the previous page in the presentation.</source>
@@ -1183,17 +1191,17 @@ Click the arrow to select different numbering formats.</source>
     <message id="PrintDirect.title">
         <source>Quick Print</source>
         <extracomment>PrintDirect.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rychlý tisk</translation>
     </message>
     <message id="PrintDirect.content">
         <source>Use the default printer to print directly.</source>
         <extracomment>PrintDirect.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pro přímý tisk použít výchozí tiskárnu.</translation>
     </message>
     <message id="PrintPreview.title">
         <source>Print Preview</source>
         <extracomment>PrintPreview.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Náhled před tiskem</translation>
     </message>
     <message id="PrintPreview.content">
         <source>Preview page effects before printing.</source>
@@ -1203,7 +1211,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="PrintingOrder.title">
         <source>Printing Order</source>
         <extracomment>PrintingOrder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pořadí tisku</translation>
     </message>
     <message id="PrintingOrder.content">
         <source>Apply horizontal or vertical print order of the handouts.</source>
@@ -1213,27 +1221,27 @@ Click the arrow to select different numbering formats.</source>
     <message id="RB_Clipboard.title">
         <source>Clipboard</source>
         <extracomment>RB_Clipboard.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schránka</translation>
     </message>
     <message id="RB_Clipboard.content">
         <source>View all items copied to the clipboard.</source>
         <extracomment>RB_Clipboard.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit všechny položky zkopírované do schránky.</translation>
     </message>
     <message id="RB_Font.title">
         <source>Font</source>
         <extracomment>RB_Font.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Písmo</translation>
     </message>
     <message id="RB_Font.content">
         <source>Show the Font dialog box.</source>
         <extracomment>RB_Font.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat dialog Písma</translation>
     </message>
     <message id="RecentFillColor.title">
         <source>Shading</source>
         <extracomment>RecentFillColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stínování</translation>
     </message>
     <message id="RecentFillColor.content">
         <source>Use colors, gradients, textures, and pictures to fill the selected table in the current slide.
@@ -1245,7 +1253,7 @@ Click the arrow to select different fill effects.</source>
     <message id="RecentFillColor2.title">
         <source>Shading</source>
         <extracomment>RecentFillColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stínování</translation>
     </message>
     <message id="RecentFillColor2.content">
         <source>Click the arrows to select different fill effects.</source>
@@ -1255,7 +1263,7 @@ Click the arrow to select different fill effects.</source>
     <message id="Rehearse.title">
         <source>Rehearse Timings</source>
         <extracomment>Rehearse.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nacvičit časování</translation>
     </message>
     <message id="Rehearse.content">
         <source>Start a full-screen slide show in which you can rehearse your presentation.
@@ -1277,7 +1285,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message id="Replace.title">
         <source>Replace</source>
         <extracomment>Replace.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahradit</translation>
     </message>
     <message id="Replace.content">
         <source>Replace text in the document.</source>
@@ -1287,7 +1295,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message id="Replace2.title">
         <source>Replace</source>
         <extracomment>Replace2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahradit</translation>
     </message>
     <message id="Replace2.content">
         <source>Click here to replace the text or font in document.</source>
@@ -1307,7 +1315,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message id="ResetPicture.title">
         <source>Reset Picture</source>
         <extracomment>ResetPicture.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resetovat obrázes</translation>
     </message>
     <message id="ResetPicture.content">
         <source>Discard all the formatting changes you have made to this picture.</source>
@@ -1317,27 +1325,17 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message id="ResetShape.title">
         <source>Reset Shape</source>
         <extracomment>ResetShape.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resetovat tvar</translation>
     </message>
     <message id="ResetShape.content">
         <source>Discard all of the formating changes made to the selected shape.</source>
         <extracomment>ResetShape.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
-    <message id="ResetSlide.title">
-        <source>Reset Slide</source>
-        <extracomment>ResetSlide.title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="ResetSlide.content">
-        <source>Reset the size, position and format of the presentation&apos;s placeholders to defaults.</source>
-        <extracomment>ResetSlide.content</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
     <message id="Rotate.title">
         <source>Rotate</source>
         <extracomment>Rotate.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otočit</translation>
     </message>
     <message id="Rotate.content">
         <source>Rotate or flip the selected object.</source>
@@ -1347,7 +1345,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message id="Ruler.title">
         <source>Ruler</source>
         <extracomment>Ruler.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pravítko</translation>
     </message>
     <message id="Ruler.content">
         <source>Show or hide the rulers, used to measure and line up objects in the document.</source>
@@ -1357,7 +1355,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message id="RunMacro.title">
         <source>View Macros</source>
         <extracomment>RunMacro.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat makra</translation>
     </message>
     <message id="RunMacro.content">
         <source>Show the Macros dialog box. View the list of macros, from which you can run, create, or delete a macro.</source>
@@ -1367,7 +1365,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message id="SaveBackgroundPicture.title">
         <source>Save Background Picture</source>
         <extracomment>SaveBackgroundPicture.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uložit obrázek pozadí</translation>
     </message>
     <message id="SaveBackgroundPicture.content">
         <source>Save slide&apos;s background as picture.</source>
@@ -1377,27 +1375,27 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message id="Security.title">
         <source>Macro Security</source>
         <extracomment>Security.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zabezpečení makra</translation>
     </message>
     <message id="Security.content">
         <source>Customize the macro security settings.</source>
         <extracomment>Security.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní nastavení zabezpečení makra.</translation>
     </message>
     <message id="Select.title">
         <source>Select</source>
         <extracomment>Select.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vybrat</translation>
     </message>
     <message id="Select.content">
         <source>Select text, table or object in the document.</source>
         <extracomment>Select.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyberte text, tabulku nebo objekt v tomto dokumentu.</translation>
     </message>
     <message id="SelectAll.title">
         <source>Select All</source>
         <extracomment>SelectAll.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vybrat vše</translation>
     </message>
     <message id="SelectAll.content">
         <source>Use Select All to select the slide, object, or text content in the presentation.</source>
@@ -1407,7 +1405,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message id="SetUpShow.title">
         <source>Set Up Slide Show</source>
         <extracomment>SetUpShow.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavit přehrávání</translation>
     </message>
     <message id="SetUpShow.content">
         <source>Show the Set Up Show dialog box to set up the advanced options for the slide show, such as kiosk mode.</source>
@@ -1417,7 +1415,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message id="ShadowButton.title">
         <source>Text Shadow</source>
         <extracomment>ShadowButton.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stín textu</translation>
     </message>
     <message id="ShadowButton.content">
         <source>Set the shadow effects to the selected text.</source>
@@ -1427,7 +1425,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message id="ShapeEffects.title">
         <source>Shape Effects</source>
         <extracomment>ShapeEffects.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Efekty tvarů</translation>
     </message>
     <message id="ShapeEffects.content">
         <source>Apply a shadow effect and 3-D effect to the selected shape.</source>
@@ -1437,7 +1435,7 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message id="ShapeFill.title">
         <source>Shape Fill</source>
         <extracomment>ShapeFill.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výplň tvaru</translation>
     </message>
     <message id="ShapeFill.content">
         <source>Fill the selected shape with a solid color, gradient, picture, or texture.
@@ -1449,7 +1447,7 @@ Click the arrow to select different fill effects.</source>
     <message id="ShapeFill2.title">
         <source>Shape Fill</source>
         <extracomment>ShapeFill2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výplň tvaru</translation>
     </message>
     <message id="ShapeFill2.content">
         <source>Click the arrow to select different fill effects.</source>
@@ -1459,7 +1457,7 @@ Click the arrow to select different fill effects.</source>
     <message id="ShapeLine.title">
         <source>Shape Outline</source>
         <extracomment>ShapeLine.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ohraničení tvaru</translation>
     </message>
     <message id="ShapeLine.content">
         <source>Set the color, width and line style for the outline of the selected object.
@@ -1471,7 +1469,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="ShapeLine2.title">
         <source>Shape Outline</source>
         <extracomment>ShapeLine2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ohraničení tvaru</translation>
     </message>
     <message id="ShapeLine2.content">
         <source>Click the arrow to select detailed settings for the outline.</source>
@@ -1481,7 +1479,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="ShapeSize.title">
         <source>Shape Size</source>
         <extracomment>ShapeSize.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velikost tvaru</translation>
     </message>
     <message id="ShapeSize.content">
         <source>Set the size, rotation degrees and zoom for the selected shape.</source>
@@ -1491,7 +1489,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="ShowHideGrid.title">
         <source>Gridlines</source>
         <extracomment>ShowHideGrid.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Linky mřížky</translation>
     </message>
     <message id="ShowHideGrid.content">
         <source>Show or hide the gridlines  in the presentation.</source>
@@ -1521,7 +1519,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="SkipSlide.title">
         <source>Hide Slide</source>
         <extracomment>SkipSlide.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skrýt snímek</translation>
     </message>
     <message id="SkipSlide.content">
         <source>Hide the current slide from the presentation. It will not be shown during full-screen slide show.</source>
@@ -1531,7 +1529,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="SlideDesign.title">
         <source>Design Templates</source>
         <extracomment>SlideDesign.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Návrh šablon</translation>
     </message>
     <message id="SlideDesign.content">
         <source>Show the Slide Design - Design Templates task window to apply different templates to the current slide or the entire presentation.</source>
@@ -1541,7 +1539,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="SlideLayout.title">
         <source>Slide Layout</source>
         <extracomment>SlideLayout.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozložení snímku</translation>
     </message>
     <message id="SlideLayout.content">
         <source>Show the Slide Layout task window to set up various layouts for selected slides, including text layouts, content layouts, text and content layouts and other layouts.</source>
@@ -1571,7 +1569,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="SlideNumber.title">
         <source>Insert Slide Number</source>
         <extracomment>SlideNumber.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit číslo snímku</translation>
     </message>
     <message id="SlideNumber.content">
         <source>Insert the slide number to the current slide or the entire presentation. The slide number reflects the position of the slide within the presentation.</source>
@@ -1581,7 +1579,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="SlideOrientation.title">
         <source>Slide Orientation</source>
         <extracomment>SlideOrientation.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Orientace snímku</translation>
     </message>
     <message id="SlideOrientation.content">
         <source>Switch the slide orientation between portrait and landscape.</source>
@@ -1591,7 +1589,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="SlidePreview.title">
         <source>Preview</source>
         <extracomment>SlidePreview.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Náhled</translation>
     </message>
     <message id="SlidePreview.content">
         <source>Preview the animations and transition effects on the current slide.</source>
@@ -1621,7 +1619,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="SlideShowFromCurrent2.title">
         <source>Start Slide Show</source>
         <extracomment>SlideShowFromCurrent2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spustit přehrávání</translation>
     </message>
     <message id="SlideShowFromCurrent2.content">
         <source>Click here to select From Beginning or From Current Slide.</source>
@@ -1641,7 +1639,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="SlideTransition.title">
         <source>Slide Transition</source>
         <extracomment>SlideTransition.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přechod snímku</translation>
     </message>
     <message id="SlideTransition.content">
         <source>Show the Slide Transition task window to set up transition effects to the selected slides or the entire presentation.</source>
@@ -1661,7 +1659,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="Sound.title">
         <source>Insert Sound</source>
         <extracomment>Sound.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit zvuk</translation>
     </message>
     <message id="Sound.content">
         <source>Insert a sound clip or music from local folder.</source>
@@ -1671,7 +1669,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="SpeakerNotes.title">
         <source>Speaker Notes</source>
         <extracomment>SpeakerNotes.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poznámky přednášejícího</translation>
     </message>
     <message id="SpeakerNotes.content">
         <source>Add a note to the current slide.
@@ -1683,7 +1681,7 @@ When you want to make notes but do not wish to exit the slide show, right click 
     <message id="SplitCells.title">
         <source>Split Cells</source>
         <extracomment>SplitCells.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdělit buňky</translation>
     </message>
     <message id="SplitCells.content">
         <source>Split the selected cells into multiple new cells.</source>
@@ -1693,7 +1691,7 @@ When you want to make notes but do not wish to exit the slide show, right click 
     <message id="StopAutoVersion.title">
         <source>Stop Auto Backup</source>
         <extracomment>StopAutoVersion.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zastavit automatické zálohování</translation>
     </message>
     <message id="StopAutoVersion.content">
         <source>Stop the auto backup of the current document.</source>
@@ -1703,7 +1701,7 @@ When you want to make notes but do not wish to exit the slide show, right click 
     <message id="Subscript.title">
         <source>Subscript</source>
         <extracomment>Subscript.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dolní index</translation>
     </message>
     <message id="Subscript.content">
         <source>Create small letters below the text baseline.</source>
@@ -1713,7 +1711,8 @@ When you want to make notes but do not wish to exit the slide show, right click 
     <message id="Superscript.title">
         <source>Superscript</source>
         <extracomment>Superscript.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horní index
+</translation>
     </message>
     <message id="Superscript.content">
         <source>Create small letters above the line of text.</source>
@@ -1723,7 +1722,7 @@ When you want to make notes but do not wish to exit the slide show, right click 
     <message id="Superscript2.title">
         <source>Other Options</source>
         <extracomment>Superscript2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jiné možnosti</translation>
     </message>
     <message id="Superscript2.content">
         <source>Click the arrow to select Superscript and Subscript.</source>
@@ -1733,17 +1732,17 @@ When you want to make notes but do not wish to exit the slide show, right click 
     <message id="TableCenter.title">
         <source>Center</source>
         <extracomment>TableCenter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Střed</translation>
     </message>
     <message id="TableCenter.content">
         <source>Center text.</source>
         <extracomment>TableCenter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vystředit text.</translation>
     </message>
     <message id="TableLeft.title">
         <source>Align Text Left</source>
         <extracomment>TableLeft.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat text vlevo</translation>
     </message>
     <message id="TableLeft.content">
         <source>Align text to the left.</source>
@@ -1753,7 +1752,7 @@ When you want to make notes but do not wish to exit the slide show, right click 
     <message id="TableRight.title">
         <source>Align Text Right</source>
         <extracomment>TableRight.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat text vpravo</translation>
     </message>
     <message id="TableRight.content">
         <source>Align text to the right.</source>
@@ -1763,7 +1762,7 @@ When you want to make notes but do not wish to exit the slide show, right click 
     <message id="TableStyle.title">
         <source>Table Style</source>
         <extracomment>TableStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl tabulky</translation>
     </message>
     <message id="TableStyle.content">
         <source>Show the Table Style task window</source>
@@ -1773,7 +1772,7 @@ When you want to make notes but do not wish to exit the slide show, right click 
     <message id="TaskPane.title">
         <source>Task Window</source>
         <extracomment>TaskPane.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okno úloh</translation>
     </message>
     <message id="TaskPane.content">
         <source>Show or hide the task window in the presentation.</source>
@@ -1793,7 +1792,7 @@ When you want to make notes but do not wish to exit the slide show, right click 
     <message id="TextBox2.title">
         <source>Draw Text Box</source>
         <extracomment>TextBox2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kreslit textový rámeček</translation>
     </message>
     <message id="TextBox2.content">
         <source>Click here to insert either horizontal or vertical text box.</source>
@@ -1803,7 +1802,7 @@ When you want to make notes but do not wish to exit the slide show, right click 
     <message id="TextDirection.title">
         <source>Text Direction</source>
         <extracomment>TextDirection.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr textu</translation>
     </message>
     <message id="TextDirection.content">
         <source>Customize either horizontal or vertical text orientation to the current section, the whole document, or the selected text box and table.</source>
@@ -1813,7 +1812,7 @@ When you want to make notes but do not wish to exit the slide show, right click 
     <message id="TextFontColor.title">
         <source>Text Color</source>
         <extracomment>TextFontColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva textu</translation>
     </message>
     <message id="TextFontColor.content">
         <source>Set the text color.
@@ -1825,7 +1824,7 @@ Click the arrow to select a different text color.</source>
     <message id="TextFontColor2.title">
         <source>Text Color</source>
         <extracomment>TextFontColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva textu</translation>
     </message>
     <message id="TextFontColor2.content">
         <source>Click the arrow to select a different text color.</source>
@@ -1835,42 +1834,12 @@ Click the arrow to select a different text color.</source>
     <message id="TextMargin.title">
         <source>Cell Margins</source>
         <extracomment>TextMargin.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okraje buňky</translation>
     </message>
     <message id="TextMargin.content">
         <source>Specify the margins for the selected cells.</source>
         <extracomment>TextMargin.content</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="TextSpeech.title">
-        <source>Read Text</source>
-        <extracomment>TextSpeech.title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="TextSpeech.content">
-        <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
-        <extracomment>TextSpeech.content</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="TextSpeech2.title">
-        <source>Reading</source>
-        <extracomment>TextSpeech2.title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="TextSpeech2.content">
-        <source>Click here to stop reading.</source>
-        <extracomment>TextSpeech2.content</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="ThemeColors.title">
-        <source>Color Scheme</source>
-        <extracomment>ThemeColors.title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="ThemeColors.content">
-        <source>Change the color scheme of the presentation.</source>
-        <extracomment>ThemeColors.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavit okraje aktuálně vybrané buňky.</translation>
     </message>
     <message id="TraditionalChinese.title">
         <source>Traditional</source>
@@ -1885,7 +1854,7 @@ Click the arrow to select a different text color.</source>
     <message id="TransitionEffect.title">
         <source>Transition Effects</source>
         <extracomment>TransitionEffect.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přechodové efekty</translation>
     </message>
     <message id="TransitionEffect.content">
         <source>Show the Slide Transition task window to set up transition effects to the selected slides or the entire presentation.</source>
@@ -1895,7 +1864,7 @@ Click the arrow to select a different text color.</source>
     <message id="Underline.title">
         <source>Underline</source>
         <extracomment>Underline.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podtržení</translation>
     </message>
     <message id="Underline.content">
         <source>Underline the selected text.</source>
@@ -1905,7 +1874,7 @@ Click the arrow to select a different text color.</source>
     <message id="WordArtAlignment.title">
         <source>Alignment</source>
         <extracomment>WordArtAlignment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnání</translation>
     </message>
     <message id="WordArtAlignment.content">
         <source>Specify how individual lines of a multiline WordArt should be aligned.</source>
@@ -1925,7 +1894,7 @@ Click the arrow to select a different text color.</source>
     <message id="WorkSpace_Backup.title">
         <source>File Backup</source>
         <extracomment>WorkSpace_Backup.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Záloha souboru</translation>
     </message>
     <message id="WorkSpace_Backup.content">
         <source>Set automatic or manual backup for the current document. The backup will be saved to your File Safe.</source>
@@ -2075,7 +2044,7 @@ Click the arrow to select a different text color.</source>
     <message id="sp_Macros.title">
         <source>View Macros</source>
         <extracomment>sp_Macros.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat makra</translation>
     </message>
     <message id="sp_Macros.content">
         <source>Show Macros dialog box. View the list of macros, from which you can run, create, or delete a macro.</source>
@@ -2085,7 +2054,7 @@ Click the arrow to select a different text color.</source>
     <message id="sp_Macros2.title">
         <source>View Macros</source>
         <extracomment>sp_Macros2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat makra</translation>
     </message>
     <message id="sp_Macros2.content">
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
@@ -2125,12 +2094,12 @@ Click the arrow to select a different text color.</source>
     <message id="cellphoneControl.title">
         <source>Cellphone Control</source>
         <extracomment>cellphoneControl.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ovládání mobilem</translation>
     </message>
     <message id="cellphoneControl.content">
         <source>Cellphone Control</source>
         <extracomment>cellphoneControl.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ovládání mobilem</translation>
     </message>
     <message id="SlideSize.title">
         <source></source>
@@ -2195,32 +2164,32 @@ Click the arrow to select a different text color.</source>
     <message id="presentationTool.title">
         <source>Presentation Tool</source>
         <extracomment>presentationTool.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nástroj pro prezentace</translation>
     </message>
     <message id="presentationTool.content">
         <source>Convenient and quick helper for your presentation</source>
         <extracomment>presentationTool.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
-    <message id="ExportToVideo.title">
+    <message id="Export to Video">
         <source>Export to Video</source>
         <extracomment>ExportToVideo.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exportovat video</translation>
     </message>
     <message id="ExportToVideo.content">
         <source>Export the document to a video.</source>
         <extracomment>ExportToVideo.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exportovat dokument do videa.</translation>
     </message>
     <message id="ExportToImage.title">
         <source>Export to Image</source>
         <extracomment>ExportToImage.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exportovat obrázek</translation>
     </message>
     <message id="ExportToImage.content">
         <source>Export the document to an image.</source>
         <extracomment>ExportToImage.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exportovat dokument jako obrázek.</translation>
     </message>
     <message id="modelessay.title">
         <source>Model Essay</source>
@@ -2232,115 +2201,25 @@ Click the arrow to select a different text color.</source>
         <extracomment>modelessay.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
-    <message id="SlideLayouts.title">
-        <source>Slide Layout.</source>
-        <extracomment>SlideLayouts.title</extracomment>
-        <translation type="unfinished"></translation>
+    <message id="TextSpeech.title">
+        <source>Read Text</source>
+        <extracomment>TextSpeech.title</extracomment>
+        <translation type="unfinished">Přečíst text</translation>
     </message>
-    <message id="SlideLayouts.content">
-        <source>Seting up various layouts for selected slides.</source>
-        <extracomment>SlideLayouts.content</extracomment>
-        <translation type="unfinished"></translation>
+    <message id="TextSpeech.content">
+        <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
+        <extracomment>TextSpeech.content</extracomment>
+        <translation type="unfinished">Převod textu na řeč. Je poskytována 2-denní zkušební lhůta této funkce.</translation>
     </message>
-    <message id="ReadingView.title">
-        <source>ReadingView View</source>
-        <extracomment>ReadingView.title</extracomment>
-        <translation type="unfinished"></translation>
+    <message id="TextSpeech2.title">
+        <source>Reading</source>
+        <extracomment>TextSpeech2.title</extracomment>
+        <translation type="unfinished">Čtení</translation>
     </message>
-    <message id="ReadingView.content">
-        <source>Play a slide show in the Powerpoint window to view the animation and switch effect, and no need to switch to full screen slide show.</source>
-        <extracomment>ReadingView.content</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="NotesPageView.title">
-        <source>NotesPage View</source>
-        <extracomment>NotesPageView.title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="NotesPageView.content">
-        <source>Check the appearance of your presentation and the notes page. Each page will include a slide and speaker notes, you can edit in this view.</source>
-        <extracomment>NotesPageView.content</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="NotesMaster.title">
-        <source>NotesMaster View</source>
-        <extracomment>NotesMaster.title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="NotesMaster.content">
-        <source>The appearance of a custom presentation for the printed notes. You can choose the design and layout of the notes, such as the background and format header / footer position. You can also choose the options that fit your page.</source>
-        <extracomment>NotesMaster.content</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="HandoutMaster.title">
-        <source>HandoutMaster View</source>
-        <extracomment>HandoutMaster.title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="HandoutMaster.content">
-        <source>Customize the appearance of the presentation and notes together with the print. You can choose the design and layout of the notes, such as the background and format header / footer position. You can also choose the options that fit your page.</source>
-        <extracomment>HandoutMaster.content</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="HeaderPlaceHolder.title">
-        <source></source>
-        <extracomment>HeaderPlaceHolder.title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="HeaderPlaceHolder.content">
-        <source>Include the header in the printed handouts or notes.</source>
-        <extracomment>HeaderPlaceHolder.content</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="DataPlaceHolder.title">
-        <source></source>
-        <extracomment>DataPlaceHolder.title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="DataPlaceHolder.content">
-        <source>Include the date in the printed handouts or notes.</source>
-        <extracomment>DataPlaceHolder.content</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="FooterPlaceHolder.title">
-        <source></source>
-        <extracomment>FooterPlaceHolder.title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="FooterPlaceHolder.content">
-        <source>Include the footer in the printed handouts or notes.</source>
-        <extracomment>FooterPlaceHolder.content</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="PageNumber.title">
-        <source></source>
-        <extracomment>PageNumber.title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="PageNumber.content">
-        <source>Include the page number in the printed handouts or notes.</source>
-        <extracomment>PageNumber.content</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="SlideImage.title">
-        <source>NotesPage View</source>
-        <extracomment>SlideImage.title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="SlideImage.content">
-        <source>Include a picture of the slide on the notes page.</source>
-        <extracomment>SlideImage.content</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="BodyContent.title">
-        <source>NotesPage View</source>
-        <extracomment>BodyContent.title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="BodyContent.content">
-        <source>Include a separate box with the slide text on the notes page.</source>
-        <extracomment>BodyContent.content</extracomment>
-        <translation type="unfinished"></translation>
+    <message id="TextSpeech2.content">
+        <source>Click here to stop reading.</source>
+        <extracomment>TextSpeech2.content</extracomment>
+        <translation type="unfinished">Klikněte sem pro ukončení čtení.</translation>
     </message>
 </context>
 </TS>
