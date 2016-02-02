@@ -469,7 +469,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="KOSUserLoginCloudTip.title">
         <source>Sign In</source>
         <extracomment>KOSUserLoginCloudTip.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přihlásit</translation>
     </message>
     <message id="KOSUserLoginCloudTip.content">
         <source>Documents will be automatically saved to WPS Office Cloud and can be edited on your PC or mobile device.</source>

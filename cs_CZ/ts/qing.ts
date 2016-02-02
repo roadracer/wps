@@ -49,7 +49,7 @@
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;O programu</translation>
     </message>
 </context>
 <context>
@@ -470,7 +470,7 @@
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;O programu</translation>
     </message>
     <message>
         <source>&amp;Switch User</source>
@@ -478,11 +478,11 @@
     </message>
     <message>
         <source>&amp;Sign Out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Odhlásit</translation>
     </message>
     <message>
         <source>&amp;Sign In</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Přihlásit</translation>
     </message>
     <message>
         <source>&amp;Exit</source>
@@ -514,7 +514,7 @@
     </message>
     <message>
         <source>Sign In</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přihlásit</translation>
     </message>
     <message>
         <source>Upgrade WPS Office Cloud to experience the latest version.</source>
@@ -968,7 +968,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;O programu</translation>
     </message>
     <message>
         <source>User Login</source>
