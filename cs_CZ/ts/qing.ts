@@ -38,6 +38,21 @@
     </message>
 </context>
 <context>
+    <name>KAccountSdkProxy</name>
+    <message>
+        <source>View On &amp;Website</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Transfer Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;About</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KBatchuploadDlg</name>
     <message>
         <source>Checking...</source>
@@ -418,6 +433,14 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Transfering file &lt;a href=&quot;viewtransferdetail&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;&lt;/a&gt;. Switch user will terminate the tansfer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to switch user?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;WPS Office Cloud</source>
         <translation type="unfinished"></translation>
     </message>
@@ -450,6 +473,10 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Switch User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Sign Out</source>
         <translation type="unfinished"></translation>
     </message>
@@ -479,6 +506,10 @@
     </message>
     <message>
         <source>Disabling right-click upload function failed. Please try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close the currently opened document before switch user</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -916,10 +947,6 @@ Time for upgrade: %1</source>
         <translation type="unfinished">Uložit jako</translation>
     </message>
     <message>
-        <source>User Login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WPS Office Cloud</source>
         <translation type="unfinished"></translation>
     </message>
@@ -941,6 +968,10 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>&amp;About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Login</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

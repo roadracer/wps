@@ -1832,6 +1832,11 @@ Continue without Undo?</source>
         <translation type="unfinished">Kopírov&amp;at vzorec zleva</translation>
     </message>
     <message>
+        <source>Spreadsheets</source>
+        <comment>TX_DESC_APP_NAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Errors occur when WPS Spreadsheets opening this file.
 Please try one of the following.
 •The current version of WPS Spreadsheets does not support this file&apos;s permission control level, please update to the latest version.
@@ -1844,6 +1849,11 @@ Please try one of the following.
         <source>&quot;%s&quot; is read-only. If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
         <comment>TX_Cannot_Write_Readonly_File</comment>
         <translation type="unfinished">&quot;%s&quot; je jen ke čtení. Chcete-li uložit kopii, klikněte na OK a dejte souboru jiný název použitím příkazu &quot;Uložit jako&quot;.</translation>
+    </message>
+    <message>
+        <source>You typed an invalid name for a sheet or chart. Make sure that:</source>
+        <comment>TX_Invalid_MoveChart_Sheet_Name</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; [ ] |.</source>
@@ -1860,6 +1870,11 @@ Please try one of the following.
 • Vyberte oblast stejného tvaru a velikosi a zkuste znovu vložit.</translation>
     </message>
     <message>
+        <source>To paste all cells from an worksheet into the current worksheet, you must paste into the first cell (A1 or R1C1).</source>
+        <comment>TX_ERROR_INVALIDPASTERG_SHEET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Due to the following reasons, macros codes in this file will be lost. Do you still want to save it?
 
 1.Changes you made to this file cause the macros to be re-organized.
@@ -1871,6 +1886,11 @@ Please try one of the following.
         <source>The destination cells may contain some data values which will be lost when continue, do you want to continue?</source>
         <comment>TX_TextToColumns_Tip1</comment>
         <translation type="unfinished">Cílové buňky mohou obsahovat hodnoty které budou při pokračování ztraceny, chcete pokračovat?</translation>
+    </message>
+    <message>
+        <source>The text file contains more data than will fit on a single worksheet.</source>
+        <comment>TX_TextToColumns_Tip2</comment>
+        <translation type="unfinished">Textový soubor obsahuje více dat než se vejde na jeden list.</translation>
     </message>
     <message>
         <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
@@ -1907,6 +1927,21 @@ Please try one of the following.
         <translation type="unfinished">Tento příkaz nelze použít na uzamčeném listu. Pro odemčení klikněte v menu Nástroje na položku Uzamčení a pak na Odemknout list. Může být požadováno zadání hesla pro odemčení.</translation>
     </message>
     <message>
+        <source>@Theme Title</source>
+        <comment>TX_OPTIONDLG_THEME_Title</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>@Theme Text</source>
+        <comment>TX_OPTIONDLG_THEME_Text</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[%s] %s: is being protected!</source>
+        <comment>TX_ShareWorkSheet_MsgWarnning</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%s on %s</source>
         <comment>TX_ACTIVE_PRINTER</comment>
         <translation type="unfinished"></translation>
@@ -1915,231 +1950,6 @@ Please try one of the following.
         <source>unknown printer (check your Control Panel)</source>
         <comment>TX_UNKNOWN_PRINTER</comment>
         <translation type="unfinished">Neznámá tiskárna (zkontrolujte Ovládací panely)</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <comment>TX_NUMFMTApi_BuildIn_00</comment>
-        <translation type="unfinished">Hlavní</translation>
-    </message>
-    <message>
-        <source>0.00</source>
-        <comment>TX_NUMFMTApi_BuildIn_02</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>#,##0</source>
-        <comment>TX_NUMFMTApi_BuildIn_03</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>#,##0.00</source>
-        <comment>TX_NUMFMTApi_BuildIn_04</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>$#,##0_);($#,##0)</source>
-        <comment>TX_NUMFMTApi_BuildIn_05</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>$#,##0_);[Red]($#,##0)</source>
-        <comment>TX_NUMFMTApi_BuildIn_06</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>$#,##0.00_);($#,##0.00)</source>
-        <comment>TX_NUMFMTApi_BuildIn_07</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>$#,##0.00_);[Red]($#,##0.00)</source>
-        <comment>TX_NUMFMTApi_BuildIn_08</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>0.00%</source>
-        <comment>TX_NUMFMTApi_BuildIn_10</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>0.00E+00</source>
-        <comment>TX_NUMFMTApi_BuildIn_11</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_14</comment>
-        <translation type="unfinished">d.m.yyyy</translation>
-    </message>
-    <message>
-        <source>d-mmm-yy</source>
-        <comment>TX_NUMFMTApi_BuildIn_15</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>d-mmm</source>
-        <comment>TX_NUMFMTApi_BuildIn_16</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>h:mm</source>
-        <comment>TX_NUMFMTApi_BuildIn_20</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>h:mm:ss</source>
-        <comment>TX_NUMFMTApi_BuildIn_21</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m/d/yyyy h:mm</source>
-        <comment>TX_NUMFMTApi_BuildIn_22</comment>
-        <translation type="unfinished">d.m.yyyy h:mm</translation>
-    </message>
-    <message>
-        <source>\$#,##0_);(\$#,##0)</source>
-        <comment>TX_NUMFMTApi_BuildIn_23</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>\$#,##0_);[Red](\$#,##0)</source>
-        <comment>TX_NUMFMTApi_BuildIn_24</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>\$#,##0.00_);(\$#,##0.00)</source>
-        <comment>TX_NUMFMTApi_BuildIn_25</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
-        <comment>TX_NUMFMTApi_BuildIn_26</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_30</comment>
-        <translation type="unfinished">d.m.yyyy</translation>
-    </message>
-    <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_31</comment>
-        <translation type="unfinished">d.m.yyyy</translation>
-    </message>
-    <message>
-        <source>h:mm:ss</source>
-        <comment>TX_NUMFMTApi_BuildIn_32</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>h:mm:ss</source>
-        <comment>TX_NUMFMTApi_BuildIn_33</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
-        <translation type="unfinished">d.m.yyyy</translation>
-    </message>
-    <message>
-        <source>h:mm:ss</source>
-        <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>h:mm:ss</source>
-        <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>#,##0_);(#,##0)</source>
-        <comment>TX_NUMFMTApi_BuildIn_37</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>#,##0_);[Red](#,##0)</source>
-        <comment>TX_NUMFMTApi_BuildIn_38</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>#,##0.00_);(#,##0.00)</source>
-        <comment>TX_NUMFMTApi_BuildIn_39</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>#,##0.00_);[Red](#,##0.00)</source>
-        <comment>TX_NUMFMTApi_BuildIn_40</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
-        <comment>TX_NUMFMTApi_BuildIn_41</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</source>
-        <comment>TX_NUMFMTApi_BuildIn_42</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</source>
-        <comment>TX_NUMFMTApi_BuildIn_43</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</source>
-        <comment>TX_NUMFMTApi_BuildIn_44</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>mm:ss.0</source>
-        <comment>TX_NUMFMTApi_BuildIn_45</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>##0.0E+0</source>
-        <comment>TX_NUMFMTApi_BuildIn_48</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_55</comment>
-        <translation type="unfinished">d.m.yyyy</translation>
-    </message>
-    <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_56</comment>
-        <translation type="unfinished">d.m.yyyy</translation>
-    </message>
-    <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_57</comment>
-        <translation type="unfinished">d.m.yyyy</translation>
-    </message>
-    <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_58</comment>
-        <translation type="unfinished">d.m.yyyy</translation>
-    </message>
-    <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
-        <translation type="unfinished">d.m.yyyy</translation>
-    </message>
-    <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
-        <translation type="unfinished">d.m.yyyy</translation>
-    </message>
-    <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
-        <translation type="unfinished">d.m.yyyy</translation>
-    </message>
-    <message>
-        <source>m/dd/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This data source contains no visible tables</source>
@@ -2159,40 +1969,6 @@ Please try one of the following.
         <source>Modify existing outline?</source>
         <comment>TX_ChangeAutoOutline</comment>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No columns that WPS Spreadsheets can use were returned from this query.</source>
-        <translation type="unfinished">Tento dotaz nevrátil žádné použitelné sloupce.</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot insert columns because the last column contains data. You will not get any data.</source>
-        <comment>TX_No_Available_Sheet_Columns</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
-        <comment>TX_BookReferencingByOther</comment>
-        <translation type="unfinished">Na tento sešit je právě odkazováno z jiného sešitu a nelze ho zavřít. </translation>
-    </message>
-    <message>
-        <source>Backup</source>
-        <comment>TX_SaveAs_CreateBackup</comment>
-        <translation type="unfinished">Záloha</translation>
-    </message>
-    <message>
-        <source>Cannot create backup file. Save &quot;%s&quot; without backup?</source>
-        <comment>TX_CreateBackup_Tip</comment>
-        <translation type="unfinished">Nelze vytvořit záložní soubor. Uložit &quot;%s&quot; bez zálohy?</translation>
-    </message>
-    <message>
-        <source>Spreadsheets</source>
-        <comment>TX_DESC_APP_NAME</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The text file contains more data than will fit on a single worksheet.</source>
-        <comment>TX_TextToColumns_Tip2</comment>
-        <translation type="unfinished">Textový soubor obsahuje více dat než se vejde na jeden list.</translation>
     </message>
     <message>
         <source>The text file contains more data than will fit on a single worksheet.
@@ -2222,6 +1998,30 @@ Pro zrušení dotazu zvolte Zrušit.</translation>
         <source>When the active sheet is a macro sheet, it cannot be saved as xml, prn, or dbf. Please save as other formats.</source>
         <comment>TX_MacroSheet_CannotSave_As</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No columns that WPS Spreadsheets can use were returned from this query.</source>
+        <translation type="unfinished">Tento dotaz nevrátil žádné použitelné sloupce.</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot insert columns because the last column contains data. You will not get any data.</source>
+        <comment>TX_No_Available_Sheet_Columns</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
+        <comment>TX_BookReferencingByOther</comment>
+        <translation type="unfinished">Na tento sešit je právě odkazováno z jiného sešitu a nelze ho zavřít. </translation>
+    </message>
+    <message>
+        <source>Backup</source>
+        <comment>TX_SaveAs_CreateBackup</comment>
+        <translation type="unfinished">Záloha</translation>
+    </message>
+    <message>
+        <source>Cannot create backup file. Save &quot;%s&quot; without backup?</source>
+        <comment>TX_CreateBackup_Tip</comment>
+        <translation type="unfinished">Nelze vytvořit záložní soubor. Uložit &quot;%s&quot; bez zálohy?</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
@@ -2265,6 +2065,138 @@ Pro zrušení dotazu zvolte Zrušit.</translation>
         <source>Saving...</source>
         <comment>TX_PROGRESS_SAVING</comment>
         <translation type="unfinished">Ukládání...</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets can not paste data.</source>
+        <comment>TX_Can_Not_Paste_Data</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The macro &apos;%s&apos; cannot be found.</source>
+        <comment>TX_Can_Not_RunMacro</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch Direction fail, series Count not fit chartType.</source>
+        <comment>TX_Chart_SwitchDirection_Warning</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HighLight Changed fail, series Count not fit chartType.</source>
+        <comment>TX_Chart_HighLightChanged_Warning</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid reference.To input a correct reference,you can click the target cell or drag mouse to select a range.</source>
+        <comment>TX_XlfDialogBox_InvalidRef</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It&apos;s not a valid Integer.</source>
+        <comment>TX_XlfDialogBox_InvalidInteger</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input invalid! Please input a integer or a decimal.</source>
+        <comment>TX_XlfDialogBox_InvalidNumber</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <comment>TX_XlfDialobBox_HelpButton</comment>
+        <translation type="unfinished">Nápověda</translation>
+    </message>
+    <message>
+        <source>This operation is not allowed. The operation is attempting to shift cells in a table on your worksheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The worksheet range for the table data must be on the same sheet as the table being created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>That command cannot be used on multiple selections.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multi-cell array formulas are not allowed in tables.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A table cannot overlap a range that contains PivotTable report, query results, protected cells or another table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A table cannot overlap another table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot complete operation: A table cannot overlap with a PivotTable report, query results, a table, merged cells, or an XML mapping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot make changes to a table or XML mapping when multiple sheet are selected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot complete operation: Operations that include cells both inside and outside a table range or XML mapping, and operations that affect cells that overlap multiple tables are not allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The range you have specified is invalid.the headers must remain in the same row and the resulting table must overlap the original table.The table must contain a header row,and at least one row of data.Please specify a vaild table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name that you entered is not valid.
+
+Reasons for this can include:
+ -The name does not begin with a letter or underscore
+ -The name contains a space or other invalid characters
+ -The name conflicts with an WPS built-in name or the name of another object in the workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot move a part of a PivotTable report,or insert worksheet cells,rows,or columns inside a PivotTable report.To insert worksheet cells,rows,or columns,first move the PivotTable report(with the PivotTable report selected,on the Options tab,in the Actions group,click Move PivotTable)To add,move,or remove cells within the report,do one of the following:
+Use the PivotTable Field List to add,move,or remove fields.
+Hide or froup items in a row or column field.
+Modify the source data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create a table in the last row of the workbook. A table must have at least two rows, one for the table header, and one for data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot complete operation: You are attempting to change a portion of a table row or column in a way that is not allowed.  This may occur when attempting to re-arrange cells within a table that affect other table cells in an unexpected way.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This operation is attempting to change a filtered range on your worksheet and cannot be completed. To complete this operation, AutoFilters in the sheet need to be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The range you have specified is invalid.the top of table must remain in the same row, and the resulting table must overlap the original table.Specify a valid range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formulas in the header row will be removed and converted to static text. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your selection overlaps one or more external data ranges. Do you want to convert the selection to a table and remove all external connections?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting this query range to a list query range may cause some macro code and/or formulas not to function properly. Do you still want to perform the conversion?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to paste! The source data contains merge cells.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A table with that name already exists. Select a different name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2620,9 +2552,49 @@ Pro zrušení dotazu zvolte Zrušit.</translation>
         <translation type="unfinished">Nebyl vybrán žádný sloupec</translation>
     </message>
     <message>
-        <source>Table_</source>
-        <comment>TX_ListObject_NamePrefix</comment>
-        <translation type="unfinished">Tabulka_</translation>
+        <source>Column</source>
+        <comment>TX_SortParam_KeyName_Column</comment>
+        <translation type="unfinished">Sloupec</translation>
+    </message>
+    <message>
+        <source>Row</source>
+        <comment>TX_SortParam_KeyName_Row</comment>
+        <translation type="unfinished">Řádek</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>TX_TableStyle_None</comment>
+        <translation type="unfinished">Žádný</translation>
+    </message>
+    <message>
+        <source>Table Style</source>
+        <comment>TX_TableStyle_TableStyle</comment>
+        <translation type="unfinished">Styl tabulky</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <comment>TX_TableStyle_Light</comment>
+        <translation type="unfinished">Světlý</translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <comment>TX_TableStyle_Medium</comment>
+        <translation type="unfinished">Střední</translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <comment>TX_TableStyle_Dark</comment>
+        <translation type="unfinished">Tmavý</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <comment>TX_TableDefaultColumnName</comment>
+        <translation type="unfinished">Sloupec</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_TableSubtotal_Sum</comment>
+        <translation type="unfinished">Celkem</translation>
     </message>
 </context>
 <context>
@@ -2711,6 +2683,31 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <source>Macro interrupted at cell:</source>
         <comment>TX_MSF_RUN_ERR_INTERRUPT</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All</source>
+        <comment>TX_TABLE_RANGE_ALL</comment>
+        <translation type="unfinished">Vše</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <comment>TX_TABLE_RANGE_DATA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Headers</source>
+        <comment>TX_TABLE_RANGE_HEADERS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Totals</source>
+        <comment>TX_TABLE_RANGE_TOTALS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>TX_TABLE_PREFIX_NAME</comment>
+        <translation type="unfinished">Tabulka</translation>
     </message>
 </context>
 <context>
@@ -2951,6 +2948,11 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <source>Sum</source>
         <comment>TX_DAP_FunctionItem_Sum</comment>
         <translation type="unfinished">Suma</translation>
+    </message>
+    <message>
+        <source>A PivotTable report cannot overlap a table or XML mapping.</source>
+        <comment>TX_DAP_DlgInfo_PTCannotOverloadListObj</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3307,6 +3309,11 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unable to open XML file. File does not exit or XML syntax error.</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Parameter</source>
         <comment>TX_ETDBE_STR_PARAMDEFAULTNAME</comment>
         <translation type="unfinished">Parametr</translation>
@@ -3335,11 +3342,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source>:Getting Data ...</source>
         <comment>TX_ETDBE_STR_DESTINATE_TAG</comment>
         <translation type="unfinished">:Načítám data ...</translation>
-    </message>
-    <message>
-        <source>Unable to open XML file. File does not exit or XML syntax error.</source>
-        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3397,7 +3399,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Information</source>
         <comment>FuncCatName11</comment>
-        <translation type="unfinished">Informační</translation>
+        <translation type="unfinished">Informace</translation>
     </message>
     <message>
         <source>User Defined</source>
@@ -4047,6 +4049,16 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number of combinations for a given number of items.</source>
         <comment>COMBIN_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>COMBIN(number,number_chosen)</source>
+        <comment>COMBIN_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the number of combinations for a given number of elements.</source>
+        <comment>COMBIN_REMARK</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5100,6 +5112,16 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>LTRIM(text)</source>
+        <comment>LTRIM_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removes left spaces of the specified text string.</source>
+        <comment>LTRIM_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>MID(text,start_num,num_chars)</source>
         <comment>MID_GRAMMER</comment>
         <translation type="unfinished"></translation>
@@ -5137,6 +5159,16 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the specified number of characters from the end of a text string.</source>
         <comment>RIGHT_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RTRIM(text)</source>
+        <comment>RTRIM_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removes right spaces of the specified text string.</source>
+        <comment>RTRIM_REMARK</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6710,6 +6742,16 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>XNPV(rate, values, dates)</source>
+        <comment>XNPV_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the net present value for a schedule of crash flows.</source>
+        <comment>XNPV_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>See Help for help on this function and its arguments.</source>
         <comment>SEE_HELP_FORMORE_DESC</comment>
         <translation type="unfinished"></translation>
@@ -7113,6 +7155,56 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>CALCULATION_SYNTAX</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>DIALOGBOX(dialog_ref)</source>
+        <comment>DIALOGBOX_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WORKBOOKINSERT(type_num)</source>
+        <comment>WORKBOOKINSERT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SELECTION()</source>
+        <comment>SELECTION_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NAMES(document_text, type_num, match_text)</source>
+        <comment>NAMES_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.OBJECT(type_num, object_id_text, start_num, count_num, item_index)</source>
+        <comment>GETOBJECT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Options.Lists.Get(list_num)</source>
+        <comment>OPTIONSLISTSGET_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DEREF(reference)</source>
+        <comment>DEREF_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ABSREF(ref_text, reference)</source>
+        <comment>ABSREF_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RELREF(reference, rel_to_ref)</source>
+        <comment>RELREF_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</source>
+        <comment>SPELLINGCHECK_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_persist</name>
@@ -7427,7 +7519,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm)</source>
+        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm)</source>
         <comment>TX_ssDesc_Normal_</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -7450,8 +7542,19 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Chinese Office Document Format 2.0(*.uos)</source>
+        <comment>TX_ssDesc_Uof2_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The following features cannot be saved in macro-free workbooks:</source>
         <comment>TX_Save_Xlsx_Warning_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.</source>
+        <comment>TX_Save_Xlsx_Warning_2</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7514,14 +7617,23 @@ This backup will be saved to (%s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
-To continue saving as a macro-free workbook, click Yes.</source>
-        <comment>TX_Save_Xlsx_Warning_2</comment>
+        <source>File Unsaved</source>
+        <comment>TX_FILE_UNSAVED</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File Unsaved</source>
-        <comment>TX_FILE_UNSAVED</comment>
+        <source>Excel2007 XML Template Macro Enabled(*.xltx)</source>
+        <comment>TX_ssDesc_XLTX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel2007 XML Template(*.xltm)</source>
+        <comment>TX_ssDesc_XLTM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Format(*.ofd)|*.ofd</source>
+        <comment>TX_ssDesc_Ofd_</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7585,46 +7697,6 @@ To continue saving as a macro-free workbook, click Yes.</source>
 </context>
 <context>
     <name>et_et_styles</name>
-    <message>
-        <source>Normal</source>
-        <comment>TX_StyleName_Normal</comment>
-        <translation type="unfinished">Normální</translation>
-    </message>
-    <message>
-        <source>Comma</source>
-        <comment>TX_StyleName_COMMA</comment>
-        <translation type="unfinished">čárka</translation>
-    </message>
-    <message>
-        <source>Currency</source>
-        <comment>TX_StyleName_CURRENCY</comment>
-        <translation type="unfinished">Měna</translation>
-    </message>
-    <message>
-        <source>Percent</source>
-        <comment>TX_StyleName_PERCENT</comment>
-        <translation type="unfinished">Procent</translation>
-    </message>
-    <message>
-        <source>Comma[0]</source>
-        <comment>TX_StyleName_COMMA0</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Currency[0]</source>
-        <comment>TX_StyleName_CURRENCY0</comment>
-        <translation type="unfinished">Měna[0]</translation>
-    </message>
-    <message>
-        <source>Hyperlink</source>
-        <comment>TX_StyleName_HYPERLINK</comment>
-        <translation type="unfinished">Hypertext. odkaz</translation>
-    </message>
-    <message>
-        <source>Followed Hyperlink</source>
-        <comment>TX_StyleName_FOLLOWED_HYPERLINK</comment>
-        <translation type="unfinished">Navštívený odkaz</translation>
-    </message>
     <message>
         <source>Bold</source>
         <comment>TX_FontName_Bold1</comment>
@@ -7729,6 +7801,261 @@ To continue saving as a macro-free workbook, click Yes.</source>
         <source>Bold</source>
         <comment>TX_FontName_Bold5</comment>
         <translation type="unfinished">Tučné</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <comment>STR_STYLE_Normal</comment>
+        <translation type="unfinished">Normální</translation>
+    </message>
+    <message>
+        <source>Comma</source>
+        <comment>STR_STYLE_COMMA</comment>
+        <translation type="unfinished">čárka</translation>
+    </message>
+    <message>
+        <source>Currency</source>
+        <comment>STR_STYLE_CURRENCY</comment>
+        <translation type="unfinished">Měna</translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <comment>STR_STYLE_PERCENT</comment>
+        <translation type="unfinished">Procent</translation>
+    </message>
+    <message>
+        <source>Comma[0]</source>
+        <comment>STR_STYLE_COMMA0</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currency[0]</source>
+        <comment>STR_STYLE_CURRENCY0</comment>
+        <translation type="unfinished">Měna[0]</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <comment>STR_STYLE_HYPERLINK</comment>
+        <translation type="unfinished">Hypertext. odkaz</translation>
+    </message>
+    <message>
+        <source>Followed Hyperlink</source>
+        <comment>STR_STYLE_FOLLOWED_HYPERLINK</comment>
+        <translation type="unfinished">Navštívený odkaz</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <comment>STR_STYLE_NOTE</comment>
+        <translation type="unfinished">Poznámka</translation>
+    </message>
+    <message>
+        <source>Warning Text</source>
+        <comment>STR_STYLE_WARNING_TEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>STR_STYLE_TITLE</comment>
+        <translation type="unfinished">Nadpis</translation>
+    </message>
+    <message>
+        <source>Heading 1</source>
+        <comment>STR_STYLE_HEADING_1</comment>
+        <translation type="unfinished">Nadpis 1</translation>
+    </message>
+    <message>
+        <source>Heading 2</source>
+        <comment>STR_STYLE_HEADING_2</comment>
+        <translation type="unfinished">Nadpis 2</translation>
+    </message>
+    <message>
+        <source>Heading 3</source>
+        <comment>STR_STYLE_HEADING_3</comment>
+        <translation type="unfinished">Nadpis 3</translation>
+    </message>
+    <message>
+        <source>Heading 4</source>
+        <comment>STR_STYLE_HEADING_4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input</source>
+        <comment>STR_STYLE_INPUT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output</source>
+        <comment>STR_STYLE_OUTPUT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculation</source>
+        <comment>STR_STYLE_CALCULATION</comment>
+        <translation type="unfinished">Kalkulace</translation>
+    </message>
+    <message>
+        <source>Check Cell</source>
+        <comment>STR_STYLE_CHECK_CELL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Linked Cell</source>
+        <comment>STR_STYLE_LINKED_CELL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>STR_STYLE_TOTAL</comment>
+        <translation type="unfinished">Celkem</translation>
+    </message>
+    <message>
+        <source>Good</source>
+        <comment>STR_STYLE_GOOD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bad</source>
+        <comment>STR_STYLE_BAD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Neutral</source>
+        <comment>STR_STYLE_NEUTRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <comment>STR_STYLE_ACCENT1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>20% - Accent1</source>
+        <comment>STR_STYLE_20P_ACCENT_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>40% - Accent1</source>
+        <comment>STR_STYLE_40P_ACCENT_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>60% - Accent1</source>
+        <comment>STR_STYLE_60P_ACCENT_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <comment>STR_STYLE_ACCENT2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>20% - Accent2</source>
+        <comment>STR_STYLE_20P_ACCENT_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>40% - Accent2</source>
+        <comment>STR_STYLE_40P_ACCENT_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>60% - Accent2</source>
+        <comment>STR_STYLE_60P_ACCENT_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <comment>STR_STYLE_ACCENT3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>20% - Accent3</source>
+        <comment>STR_STYLE_20P_ACCENT_3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>40% - Accent3</source>
+        <comment>STR_STYLE_40P_ACCENT_3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>60% - Accent3</source>
+        <comment>STR_STYLE_60P_ACCENT_3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <comment>STR_STYLE_ACCENT4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>20% - Accent4</source>
+        <comment>STR_STYLE_20P_ACCENT_4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>40% - Accent4</source>
+        <comment>STR_STYLE_40P_ACCENT_4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>60% - Accent4</source>
+        <comment>STR_STYLE_60P_ACCENT_4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <comment>STR_STYLE_ACCENT5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>20% - Accent5</source>
+        <comment>STR_STYLE_20P_ACCENT_5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>40% - Accent5</source>
+        <comment>STR_STYLE_40P_ACCENT_5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>60% - Accent5</source>
+        <comment>STR_STYLE_60P_ACCENT_5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <comment>STR_STYLE_ACCENT6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>20% - Accent6</source>
+        <comment>STR_STYLE_20P_ACCENT_6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>40% - Accent6</source>
+        <comment>STR_STYLE_40P_ACCENT_6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>60% - Accent6</source>
+        <comment>STR_STYLE_60P_ACCENT_6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CExplanatory Text</source>
+        <comment>STR_STYLE_EXPLANATORY_TEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RowLevel</source>
+        <comment>STR_STYLE_ROWLEVEL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ColLevel</source>
+        <comment>STR_STYLE_COLLEVEL</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8132,7 +8459,7 @@ Continue ?</source>
     <message>
         <source>New from Default Template</source>
         <comment>TX_NEWFILEFROMTEMPLATECAPTION</comment>
-        <translation type="unfinished">Nový dokument z výchozí šablony</translation>
+        <translation type="unfinished">Nový z výchozí šablony</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
@@ -8142,7 +8469,7 @@ Continue ?</source>
     <message>
         <source>New from Default Template</source>
         <comment>TX_TPNEWFILEFROMTEMPLATECAPTION</comment>
-        <translation type="unfinished">Nový dokument z výchozí šablony</translation>
+        <translation type="unfinished">Nový z výchozí šablony</translation>
     </message>
     <message>
         <source>Format Cells</source>
@@ -9105,51 +9432,6 @@ Continue ?</source>
         <translation type="unfinished">Úhel</translation>
     </message>
     <message>
-        <source>Up to one digit (%s)</source>
-        <comment>TX_FRACTION_STYLE_01</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Up to two digits (%s)</source>
-        <comment>TX_FRACTION_STYLE_02</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Up to three digits (%s)</source>
-        <comment>TX_FRACTION_STYLE_03</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>As halves (%s)</source>
-        <comment>TX_FRACTION_STYLE_04</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>As quarters (%s)</source>
-        <comment>TX_FRACTION_STYLE_05</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>As eighths (%s)</source>
-        <comment>TX_FRACTION_STYLE_06</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>As sixteenths (%s)</source>
-        <comment>TX_FRACTION_STYLE_07</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>As tenths (%s)</source>
-        <comment>TX_FRACTION_STYLE_08</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>As hundredths (%s)</source>
-        <comment>TX_FRACTION_STYLE_09</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Zip code</source>
         <comment>TX_SPECIAL_STYLE_01</comment>
         <translation type="unfinished">PSČ</translation>
@@ -9748,6 +10030,11 @@ Data</source>
     <message>
         <source>is any real number.</source>
         <comment>TX_ParaDesc_058</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1,value2,... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
+        <comment>TX_ParaDesc_059</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12219,6 +12506,15 @@ There are several possible reasons:
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
+&apos;%s
+• To accept the correction, click OK.
+• To close this message and correct the formula by yourself, click Cancel.
+• If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
+        <comment>TX_InputFormulaStringTooLong_Error</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You cannot modify the read-only cells on protected worksheet.</source>
         <comment>TX_CanNotEdit</comment>
         <translation type="unfinished">V uzamčeném sešitu nemůžete měnit buňky určené jen pro čtení.</translation>
@@ -12236,6 +12532,11 @@ There are several possible reasons:
     <message>
         <source>The maximum number of data points you can use in a data series for a 2-D chart is 32,000. If you want to use more than 32,000 data points, you must create two or more series.</source>
         <comment>TX_Chart_DataOverflow</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To create a chart, select the cells that contain the data you&apos;d like to use. If you have names for the rows and columns and you&apos;d like to use them as labels, include them in you selection.</source>
+        <comment>TX_CHart_EmptyCell</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12277,6 +12578,21 @@ There are several possible reasons:
         <source>The List Source must be a delimited list, or a reference to single row or column.</source>
         <comment>TX_DV_ListMustSingleLine</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Excel 2007/2010 Workbook</source>
+        <comment>TX_NEWBLANKXLSXFILECAPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Excel 2003 Workbook</source>
+        <comment>TX_NEWBLANKXLSFILECAPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Shape</source>
+        <comment>TX_SETSHAPECAPTION</comment>
+        <translation type="unfinished">Formát tvaru</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, creating a circular reference. Try one of the following:
@@ -12327,6 +12643,11 @@ There are several possible reasons:
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Spell Check</source>
+        <comment>TX_SpellCheck_Caption</comment>
+        <translation type="unfinished">Kontrola pravopisu</translation>
+    </message>
+    <message>
         <source>Closing the Track Change is to remove all the recorded changes. Do you want to close it anyway?</source>
         <comment>TX_RevisionMsgUnTrackChanges</comment>
         <translation type="unfinished"></translation>
@@ -12339,6 +12660,11 @@ There are several possible reasons:
     <message>
         <source>specifies the reference type: absolute = 1; absolute row/relative column = 2; relative row/absolute column = 4.</source>
         <comment>TX_ParaDesc_006</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE and can be logical values, arrays, or references.</source>
+        <comment>TX_ParaDesc_009</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12394,6 +12720,16 @@ There are several possible reasons:
     <message>
         <source>is the population standard deviation for the data range and is assumed to be known. Standard_dev must be greater than 0.</source>
         <comment>TX_ParaDesc_053</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1, value2,... are 1 to 30 arguments representing the values and cells you want to count. Values can be any type of information.</source>
+        <comment>TX_ParaDesc_060</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the condition in the form of a number, expression, or text that defines which cells will be counted</source>
+        <comment>TX_ParaDesc_063</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12669,6 +13005,11 @@ There are several possible reasons:
     <message>
         <source>Value 1%1value 2%1… are 1 to 30 plural numbers, used to calculate the product.</source>
         <comment>TX_ParaDesc_522</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This workbook cannot be shared because it contains WPS tables or XML maps. To share this workbook, convert the tables to ranges and remove the XML maps.</source>
+        <comment>TX_RemoveTable_ShareBook</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13371,40 +13712,6 @@ There are several possible reasons:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
-&apos;%s
-• To accept the correction, click OK.
-• To close this message and correct the formula by yourself, click Cancel.
-• If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
-        <comment>TX_InputFormulaStringTooLong_Error</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spell Check</source>
-        <comment>TX_SpellCheck_Caption</comment>
-        <translation type="unfinished">Kontrola pravopisu</translation>
-    </message>
-    <message>
-        <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE and can be logical values, arrays, or references.</source>
-        <comment>TX_ParaDesc_009</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
-        <comment>TX_ParaDesc_059</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1, value2,... are 1 to 30 arguments representing the values and cells you want to count. Values can be any type of information.</source>
-        <comment>TX_ParaDesc_060</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the condition in the form of a number, expression, or text that defines which cells will be counted</source>
-        <comment>TX_ParaDesc_063</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Text</source>
         <comment>TX_ParaInfo_352</comment>
         <translation type="unfinished">Text</translation>
@@ -13490,9 +13797,24 @@ There are several possible reasons:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(no synonyms suggestions)</source>
-        <comment>WP_NoSynonymsSuggestions_Caption</comment>
-        <translation type="unfinished">(No synonyms suggestions)</translation>
+        <source>Dialog_Ref</source>
+        <comment>TX_ParaInfo_369</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_370</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the discount rate to apply to the cash flows.</source>
+        <comment>TX_ParaDesc_549</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a series of cash flows that correspond to a schedule of payments in dates.</source>
+        <comment>TX_ParaDesc_550</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14213,14 +14535,39 @@ There are several possible reasons:
         <translation type="unfinished">Zvýraznit duplicity</translation>
     </message>
     <message>
-        <source>AutoFit Selection</source>
+        <source>AutoFitSelection</source>
         <comment>TX_Undo_AutoFitSelection</comment>
-        <translation type="unfinished">Automaticky vyplnit výběr</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>PivotTable&apos;s field filter</source>
         <comment>TX_Undo_PivotTableFilter</comment>
         <translation type="unfinished">Filtr polí kontingenční tabulky</translation>
+    </message>
+    <message>
+        <source>Insert New Chart</source>
+        <comment>TX_Undo_InsertNewChart</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Resize</source>
+        <comment>TX_Undo_ListObjectRBDrag</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Colunm</source>
+        <comment>TX_Undo_ListColumnDelete</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Row</source>
+        <comment>TX_Undo_ListRowDelete</comment>
+        <translation type="unfinished">Smazat řádek</translation>
+    </message>
+    <message>
+        <source>New Table Style</source>
+        <comment>TX_Undo_NewTableStyle</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14964,7 +15311,7 @@ There are several possible reasons:
     <message>
         <source>Information</source>
         <comment>et_sInfomation</comment>
-        <translation type="unfinished">Informační</translation>
+        <translation type="unfinished">Informace</translation>
     </message>
     <message>
         <source>Integer is not valid.</source>
@@ -15236,7 +15583,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Confirmation password does not match.</source>
         <comment>et_sNotMatchPassword</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potvrzení hesla neodpovídá.</translation>
     </message>
     <message>
         <source>Number is not valid.</source>
@@ -16007,6 +16354,20 @@ tically, only keep one row.
         <source>Center Across</source>
         <comment>et_sCenterAcross</comment>
         <translation type="unfinished">Vystředit napříč</translation>
+    </message>
+    <message>
+        <source>An unexpected error has occurred, Changes to your data cannot be saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table has been published successfully, the site is: &lt;a href=&quot;%s&quot;&gt;%s</source>
+        <comment>et_sListObjectPublishSuccessed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot connect to the server at this time. Your table cannot be published.</source>
+        <comment>et_sListobjectPublishHostNotFound</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

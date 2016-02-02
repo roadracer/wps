@@ -590,16 +590,6 @@ Click the arrow to select a different text color.</source>
         <extracomment>FormatAlignRight.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
-    <message id="FormatObject.title">
-        <source>Format Object</source>
-        <extracomment>FormatObject.title</extracomment>
-        <translation type="unfinished">Formát objektu</translation>
-    </message>
-    <message id="FormatObject.content">
-        <source>Show the Format Object dialog box.</source>
-        <extracomment>FormatObject.content</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
     <message id="FormatPainter.title">
         <source>Format Painter</source>
         <extracomment>FormatPainter.title</extracomment>
@@ -729,7 +719,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="InsertColumnsLeft.title">
         <source>Insert Columns to the Left</source>
         <extracomment>InsertColumnsLeft.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit sloupce vlevo</translation>
     </message>
     <message id="InsertColumnsLeft.content">
         <source>Insert a column to the left of the selected column.</source>
@@ -739,7 +729,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="InsertColumnsRight.title">
         <source>Insert Columns to the Right</source>
         <extracomment>InsertColumnsRight.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit sloupce vpravo</translation>
     </message>
     <message id="InsertColumnsRight.content">
         <source>Insert a column to the right of the selected column.</source>
@@ -799,7 +789,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="InsertRowsAbove.title">
         <source>Insert Rows Above</source>
         <extracomment>InsertRowsAbove.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit řádky nad</translation>
     </message>
     <message id="InsertRowsAbove.content">
         <source>Add a new row directly above the selected row.</source>
@@ -809,7 +799,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="InsertRowsBelow.title">
         <source>Insert Rows Below</source>
         <extracomment>InsertRowsBelow.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit řádky pod</translation>
     </message>
     <message id="InsertRowsBelow.content">
         <source>Insert a new row directly below the selected row.</source>
@@ -1014,7 +1004,9 @@ Click the arrow to select different numbering formats.</source>
         <translation type="unfinished">Číslování</translation>
     </message>
     <message id="Numbering2.content">
-        <source>Click the arrow to select different numbering formats.</source>
+        <source>Number the selected paragraph.
+
+Click the arrow to select different numbering formats.</source>
         <extracomment>Numbering2.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
@@ -1031,7 +1023,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="OrgChartLayout.title">
         <source>Layout</source>
         <extracomment>OrgChartLayout.title</extracomment>
-        <translation type="unfinished">Rozložení</translation>
+        <translation type="unfinished">Rozvržení</translation>
     </message>
     <message id="OrgChartLayout.content">
         <source>Chang the branch layout of the selected member.</source>
@@ -1330,6 +1322,16 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message id="ResetShape.content">
         <source>Discard all of the formating changes made to the selected shape.</source>
         <extracomment>ResetShape.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ResetSlide.title">
+        <source>Reset Slide</source>
+        <extracomment>ResetSlide.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ResetSlide.content">
+        <source>Reset the size, position and format of the presentation&apos;s placeholders to defaults.</source>
+        <extracomment>ResetSlide.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="Rotate.title">
@@ -1841,6 +1843,36 @@ Click the arrow to select a different text color.</source>
         <extracomment>TextMargin.content</extracomment>
         <translation type="unfinished">Nastavit okraje aktuálně vybrané buňky.</translation>
     </message>
+    <message id="TextSpeech.title">
+        <source>Read Text</source>
+        <extracomment>TextSpeech.title</extracomment>
+        <translation type="unfinished">Přečíst text</translation>
+    </message>
+    <message id="TextSpeech.content">
+        <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
+        <extracomment>TextSpeech.content</extracomment>
+        <translation type="unfinished">Převod textu na řeč. Je poskytována 2-denní zkušební lhůta této funkce.</translation>
+    </message>
+    <message id="TextSpeech2.title">
+        <source>Reading</source>
+        <extracomment>TextSpeech2.title</extracomment>
+        <translation type="unfinished">Čtení</translation>
+    </message>
+    <message id="TextSpeech2.content">
+        <source>Click here to stop reading.</source>
+        <extracomment>TextSpeech2.content</extracomment>
+        <translation type="unfinished">Klikněte sem pro ukončení čtení.</translation>
+    </message>
+    <message id="ThemeColors.title">
+        <source>Color Scheme</source>
+        <extracomment>ThemeColors.title</extracomment>
+        <translation type="unfinished">Barevné schéma</translation>
+    </message>
+    <message id="ThemeColors.content">
+        <source>Change the color scheme of the presentation.</source>
+        <extracomment>ThemeColors.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
     <message id="TraditionalChinese.title">
         <source>Traditional</source>
         <extracomment>TraditionalChinese.title</extracomment>
@@ -1984,7 +2016,7 @@ Click the arrow to select a different text color.</source>
     <message id="WpPrintWhat_OutlineView.title">
         <source>Outline view</source>
         <extracomment>WpPrintWhat_OutlineView.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit obrysy</translation>
     </message>
     <message id="WpPrintWhat_OutlineView.content">
         <source>Set the printing content as Outline View. Slide content will be printed in outline.</source>
@@ -2171,7 +2203,7 @@ Click the arrow to select a different text color.</source>
         <extracomment>presentationTool.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
-    <message id="Export to Video">
+    <message id="ExportToVideo.title">
         <source>Export to Video</source>
         <extracomment>ExportToVideo.title</extracomment>
         <translation type="unfinished">Exportovat video</translation>
@@ -2201,25 +2233,115 @@ Click the arrow to select a different text color.</source>
         <extracomment>modelessay.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
-    <message id="TextSpeech.title">
-        <source>Read Text</source>
-        <extracomment>TextSpeech.title</extracomment>
-        <translation type="unfinished">Přečíst text</translation>
+    <message id="SlideLayouts.title">
+        <source>Slide Layout.</source>
+        <extracomment>SlideLayouts.title</extracomment>
+        <translation type="unfinished"></translation>
     </message>
-    <message id="TextSpeech.content">
-        <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
-        <extracomment>TextSpeech.content</extracomment>
-        <translation type="unfinished">Převod textu na řeč. Je poskytována 2-denní zkušební lhůta této funkce.</translation>
+    <message id="SlideLayouts.content">
+        <source>Seting up various layouts for selected slides.</source>
+        <extracomment>SlideLayouts.content</extracomment>
+        <translation type="unfinished"></translation>
     </message>
-    <message id="TextSpeech2.title">
-        <source>Reading</source>
-        <extracomment>TextSpeech2.title</extracomment>
-        <translation type="unfinished">Čtení</translation>
+    <message id="ReadingView.title">
+        <source>ReadingView View</source>
+        <extracomment>ReadingView.title</extracomment>
+        <translation type="unfinished"></translation>
     </message>
-    <message id="TextSpeech2.content">
-        <source>Click here to stop reading.</source>
-        <extracomment>TextSpeech2.content</extracomment>
-        <translation type="unfinished">Klikněte sem pro ukončení čtení.</translation>
+    <message id="ReadingView.content">
+        <source>Play a slide show in the Powerpoint window to view the animation and switch effect, and no need to switch to full screen slide show.</source>
+        <extracomment>ReadingView.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="NotesPageView.title">
+        <source>NotesPage View</source>
+        <extracomment>NotesPageView.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="NotesPageView.content">
+        <source>Check the appearance of your presentation and the notes page. Each page will include a slide and speaker notes, you can edit in this view.</source>
+        <extracomment>NotesPageView.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="NotesMaster.title">
+        <source>NotesMaster View</source>
+        <extracomment>NotesMaster.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="NotesMaster.content">
+        <source>The appearance of a custom presentation for the printed notes. You can choose the design and layout of the notes, such as the background and format header / footer position. You can also choose the options that fit your page.</source>
+        <extracomment>NotesMaster.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HandoutMaster.title">
+        <source>HandoutMaster View</source>
+        <extracomment>HandoutMaster.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HandoutMaster.content">
+        <source>Customize the appearance of the presentation and notes together with the print. You can choose the design and layout of the notes, such as the background and format header / footer position. You can also choose the options that fit your page.</source>
+        <extracomment>HandoutMaster.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HeaderPlaceHolder.title">
+        <source></source>
+        <extracomment>HeaderPlaceHolder.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HeaderPlaceHolder.content">
+        <source>Include the header in the printed handouts or notes.</source>
+        <extracomment>HeaderPlaceHolder.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DataPlaceHolder.title">
+        <source></source>
+        <extracomment>DataPlaceHolder.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DataPlaceHolder.content">
+        <source>Include the date in the printed handouts or notes.</source>
+        <extracomment>DataPlaceHolder.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="FooterPlaceHolder.title">
+        <source></source>
+        <extracomment>FooterPlaceHolder.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="FooterPlaceHolder.content">
+        <source>Include the footer in the printed handouts or notes.</source>
+        <extracomment>FooterPlaceHolder.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PageNumber.title">
+        <source></source>
+        <extracomment>PageNumber.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PageNumber.content">
+        <source>Include the page number in the printed handouts or notes.</source>
+        <extracomment>PageNumber.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlideImage.title">
+        <source>NotesPage View</source>
+        <extracomment>SlideImage.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlideImage.content">
+        <source>Include a picture of the slide on the notes page.</source>
+        <extracomment>SlideImage.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="BodyContent.title">
+        <source>NotesPage View</source>
+        <extracomment>BodyContent.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="BodyContent.content">
+        <source>Include a separate box with the slide text on the notes page.</source>
+        <extracomment>BodyContent.content</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

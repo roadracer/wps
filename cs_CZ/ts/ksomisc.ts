@@ -116,7 +116,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Office.lnk</source>
+        <source>Pin to tas&amp;kbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin from tas&amp;kbar</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -242,18 +246,6 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>Launch WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>WPS Office Configuration Tools.lnk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check for WPS Office Updates.lnk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Uninstall WPS Office.lnk</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KMainDlg</name>
@@ -313,21 +305,6 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     </message>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KOther</name>
-    <message>
-        <source>WPS Office Cloud</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Others</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable &quot;Upload to WPS Office Cloud&quot; on Context Menu.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -493,18 +470,6 @@ These operations can be undone. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer new documents saved as *.&amp;doc format by default</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets new documents saved as *.&amp;xls format by default</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation new documents saved as *.pp&amp;t format by default</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>File Associations</source>
         <translation type="unfinished"></translation>
     </message>
@@ -533,6 +498,22 @@ needs restarting Windows to take effect.</source>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2010</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PD&amp;F Documents (*.pdf files)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer new documents saved as *.&amp;docx format by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets new documents saved as *.&amp;xlsx format by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -932,7 +913,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snímek</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Slide</source>
@@ -1048,6 +1029,10 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Writer Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS PDF Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1181,6 +1166,10 @@ The button icon, command group and task window position of each scheme are diffe
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Download updates but let me choose whether to install them</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Internet Connection:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1234,15 +1223,7 @@ The button icon, command group and task window position of each scheme are diffe
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Update Items:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All new releases</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recommended new releases</source>
+        <source>Do not &amp;check for updates automatically (not recommended)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1255,14 +1236,6 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>The port must be a number between 1 and 65535.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do not &amp;check for updates automatically (not recommended)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check for update, but let me choose whether to &amp;download and install them</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

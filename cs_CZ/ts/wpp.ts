@@ -119,8 +119,8 @@
         <translation type="unfinished">Zobrazit velké náhledy</translation>
     </message>
     <message>
-        <source>Add &amp;Design</source>
-        <translation type="unfinished">Přidat návrh</translation>
+        <source>Add Design</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -659,11 +659,11 @@
     </message>
     <message>
         <source>Cannot &amp;end line:</source>
-        <translation type="unfinished">Řádek nelze ukončit:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cannot &amp;start line:</source>
-        <translation type="unfinished">Řádek nelze začít:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>First and last characters</source>
@@ -818,10 +818,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open Image</source>
         <translation type="unfinished">Otevřít obrázek</translation>
     </message>
@@ -852,10 +848,6 @@
 <context>
     <name>KxColorSettingPanel</name>
     <message>
-        <source>Accent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Accent and followed hyperlink</source>
         <translation type="unfinished"></translation>
     </message>
@@ -864,23 +856,43 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Background</source>
-        <translation type="unfinished">Pozadí</translation>
-    </message>
-    <message>
-        <source>Fills</source>
+        <source>Dark1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shadows</source>
+        <source>Light</source>
+        <translation type="unfinished">Světlý</translation>
+    </message>
+    <message>
+        <source>Dark2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text and lines</source>
+        <source>Light2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Title text</source>
+        <source>Accent1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent6</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1134,6 +1146,29 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
 </context>
 <context>
+    <name>KxDlgCompatibilityChecker</name>
+    <message>
+        <source>Compatibility Checker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following features in this presentation are not supported by earlier versions of WPS Presentation.These features may be lost or degraded when you save this presentation in an earlier file format.Click Continue to save the presentation anyway. To retain all of your features click Cancel and save in one of the new file formats.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Summary:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation type="unfinished">Pokračovat</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgDateAndTime</name>
     <message>
         <source>&amp;Available formats:</source>
@@ -1188,85 +1223,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Remember my choice, and don&apos;t prompt me again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgFont</name>
-    <message>
-        <source>&amp;Color:</source>
-        <translation type="unfinished">&amp;Barva:</translation>
-    </message>
-    <message>
-        <source>&amp;Default for new objects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Emboss</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Size:</source>
-        <translation type="unfinished">Velikost:</translation>
-    </message>
-    <message>
-        <source>&amp;Underline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Asian text fo&amp;nt:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation type="unfinished">Tučné</translation>
-    </message>
-    <message>
-        <source>Bold Italic</source>
-        <translation type="unfinished">Tučné zkosené</translation>
-    </message>
-    <message>
-        <source>Effects</source>
-        <translation type="unfinished">Efekty</translation>
-    </message>
-    <message>
-        <source>F&amp;ont style:</source>
-        <translation type="unfinished">Styl písma:</translation>
-    </message>
-    <message>
-        <source>Font</source>
-        <translation type="unfinished">Písmo</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation type="unfinished">Zkosené</translation>
-    </message>
-    <message>
-        <source>Latin text &amp;font:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Offse&amp;t:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Regular</source>
-        <translation type="unfinished">Normání</translation>
-    </message>
-    <message>
-        <source>Sh&amp;adow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Su&amp;bscript</source>
-        <translation type="unfinished">Dolní in&amp;dex</translation>
-    </message>
-    <message>
-        <source>Supe&amp;rscript</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1364,6 +1320,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <source>cm</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Enter 0.1 cm to 5.079 cm of value</source>
+        <translation type="unfinished">Zadejte hodnotu od 0,1 cm do 5,079 cm</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgHeaderFooter</name>
@@ -1433,7 +1393,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snímek</translation>
     </message>
     <message>
         <source>Slide &amp;number</source>
@@ -1702,6 +1662,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <translation type="unfinished">Letáky (4 snímky na stránku)</translation>
     </message>
     <message>
+        <source>Help us to improve WPS Office</source>
+        <translation type="unfinished">Pomozte nám vylepšit WPS Office</translation>
+    </message>
+    <message>
         <source>Ignore words in &amp;uppercase</source>
         <translation type="unfinished">Ignorovat slova psaná pouze velkými písmeny</translation>
     </message>
@@ -1933,26 +1897,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <source>Feedback</source>
         <translation type="unfinished">Zpětná vazba</translation>
     </message>
-    <message>
-        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
-        <translation type="unfinished">Přidat se ke sbírání uživatelských zkušeností a pomoci tak vyladit WPS Office.</translation>
-    </message>
-    <message>
-        <source>Language</source>
-        <translation type="unfinished">Jazyk</translation>
-    </message>
-    <message>
-        <source>Automatically download and update language packages</source>
-        <translation type="unfinished">Automaticky stahovat a aktualizovat jazykové balíčky</translation>
-    </message>
-    <message>
-        <source>Choose Display and Help Languages</source>
-        <translation type="unfinished">Vybrat jazyk pro zobrazení a pro nápovědu</translation>
-    </message>
-    <message>
-        <source>Choose...</source>
-        <translation type="unfinished">Vyberte...</translation>
-    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
@@ -2103,112 +2047,9 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <source>Widescreen</source>
         <translation type="unfinished">Širokoúhlý</translation>
     </message>
-</context>
-<context>
-    <name>KxDlgParagraph</name>
     <message>
-        <source>Paragraph</source>
-        <translation type="unfinished">Odstavec</translation>
-    </message>
-    <message>
-        <source>&amp;Indents and Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>point, 2, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>line, 2, 0, 9.99, 0.1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A&amp;fter:</source>
-        <translation type="unfinished">Po:</translation>
-    </message>
-    <message>
-        <source>&amp;At:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Before:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Li&amp;ne spacing:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="unfinished">Hlavní</translation>
-    </message>
-    <message>
-        <source>Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ali&amp;gnment:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Indentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Befo&amp;re text:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Special:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>B&amp;y:</source>
-        <translation type="unfinished">Od:</translation>
-    </message>
-    <message>
-        <source>&amp;Layout</source>
-        <translation type="unfinished">&amp;Rozvržení</translation>
-    </message>
-    <message>
-        <source>Line Break</source>
-        <translation type="unfinished">Zalomení řádku</translation>
-    </message>
-    <message>
-        <source>&amp;Use Asian rules for controlling first and last characters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow hanging punctuatio&amp;n</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First and last characters</source>
-        <translation type="unfinished">První a poslední znak</translation>
-    </message>
-    <message>
-        <source>&amp;Standard</source>
-        <translation type="unfinished">&amp;Standardní</translation>
-    </message>
-    <message>
-        <source>Custo&amp;m</source>
-        <translation type="unfinished">V&amp;lastní</translation>
-    </message>
-    <message>
-        <source>Cannot st&amp;art line:</source>
-        <translation type="unfinished">Řádek nelze začít:</translation>
-    </message>
-    <message>
-        <source>Cann&amp;ot end line:</source>
-        <translation type="unfinished">Řádek nelze ukončit:</translation>
-    </message>
-    <message>
-        <source>Line-breaking characters currently customized for:</source>
-        <translation type="unfinished">Znaky ukončení řádku jsou právě nastavené pro:</translation>
+        <source>Enter 2.54 to 142.22 cm of value</source>
+        <translation type="unfinished">Zadejte hodnotu od 2,54 do 142,22 cm</translation>
     </message>
 </context>
 <context>
@@ -2375,6 +2216,33 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <message>
         <source>Split Cells</source>
         <translation type="unfinished">Rozdělit buňky</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTrimMedia</name>
+    <message>
+        <source>Trim Media</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Start Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;End Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
     </message>
 </context>
 <context>
@@ -2738,6 +2606,37 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
 </context>
 <context>
+    <name>KxDlgWppScaleSlideMode</name>
+    <message>
+        <source>Scale Slide Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are scaling to a new slide size. Would you like to maximize the size of your content, or scale it down to ensure it will fit on the new slide ?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ensure Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Maximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Ensure Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
+    </message>
+</context>
+<context>
     <name>KxDlglineSpace</name>
     <message>
         <source>&amp;After paragraph</source>
@@ -2762,6 +2661,89 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <message>
         <source>Points</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxExportOFDDlg</name>
+    <message>
+        <source>Save OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd||</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished">Letáky</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation type="unfinished">Poznámky</translation>
+    </message>
+    <message>
+        <source>Please input the password of permission settings!</source>
+        <translation type="unfinished">Prosím zadejte heslo pro uzamčení !</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">Potvrzení hesla neodpovídá.</translation>
+    </message>
+    <message>
+        <source>Input permission password.</source>
+        <translation type="unfinished">Zadejte heslo pro uzamčení.</translation>
+    </message>
+    <message>
+        <source>Permission password and document open password must be different.</source>
+        <translation type="unfinished">Hesla pro nastavení práv a pro otevření dokumentu musí být různá.</translation>
+    </message>
+    <message>
+        <source>Invalid input.        </source>
+        <translation type="unfinished">Chybné zadání.       </translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Do you want to replace it and continue?</source>
+        <translation type="unfinished">Soubor se zadaným názvem už existuje. Chcete ho nahradit ?</translation>
+    </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation type="unfinished">Stejný název už má existující adresář.</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished">Vybraný adresář neexistuje.</translation>
+    </message>
+    <message>
+        <source>You do not have permission to write files into this directory.</source>
+        <translation type="unfinished">Nemáte dostatečná práva pro zápis do tohoto adresáře.</translation>
+    </message>
+    <message>
+        <source>The slide you selected to export does not exist. Please select another one.</source>
+        <translation type="unfinished">Snímek vybraný pro export neexistuje. Vyberte prosím jiný.</translation>
+    </message>
+    <message>
+        <source>All slides in this custom show are hidden.</source>
+        <translation type="unfinished">Všechny snímky v tomto vlastním pohledu jsou skryté.</translation>
+    </message>
+    <message>
+        <source>All slides in this range are hidden.</source>
+        <translation type="unfinished">Všechny snímky v tomto rozsahu jsou skryté.</translation>
+    </message>
+    <message>
+        <source>The selected slides are hidden.</source>
+        <translation type="unfinished">Vybrané snímky jsou skryté.</translation>
+    </message>
+    <message>
+        <source>Current slide has marked as hidden.</source>
+        <translation type="unfinished">Aktuální snímek byl označen jako skrytý.</translation>
+    </message>
+    <message>
+        <source>All slides in current presentation are hidden.</source>
+        <translation type="unfinished">Všechny snímky v této prezentaci jsou skryté.</translation>
+    </message>
+    <message>
+        <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
+        <translation type="unfinished">Prosím zajistěte buď aby snímky nebyly skryté nebo povolte export skrytých snímků v nastavení.</translation>
     </message>
 </context>
 <context>
@@ -2848,6 +2830,53 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
 </context>
 <context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User canceled operation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Zavřít</translation>
+    </message>
+    <message>
+        <source>Exporting document information...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting No.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Page...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="unfinished">Export popisků...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error while trying exporting to OFD!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxExportToPDFProgressDlg</name>
     <message>
         <source> Page...</source>
@@ -2926,34 +2955,36 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
 </context>
 <context>
-    <name>KxFontDlg</name>
+    <name>KxFormatOption_Background</name>
     <message>
-        <source>(Use Asian text font)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This font size is not available.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This font style is not available.</source>
+        <source>BACKGROUND OPTIONS</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>KxFormatTableDlg</name>
+    <name>KxFormatProperty</name>
     <message>
-        <source>Custom</source>
-        <translation type="unfinished">Vlastní</translation>
+        <source>TRANSFORM</source>
+        <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>POSITION</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_Background</name>
+    <message>
+        <source>FILL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished">Vyplnit</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatTableDlg</name>
     <message>
         <source>Follow Accent Scheme Color</source>
         <translation type="unfinished"></translation>
@@ -2971,10 +3002,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Follow Fills Scheme Color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2988,6 +3015,61 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation type="unfinished">Všechny obrázky</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxHexSpinBox</name>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3052,6 +3134,13 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
 </context>
 <context>
+    <name>KxKsoTableStyleItem</name>
+    <message>
+        <source>Set As Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Banded Columns</source>
@@ -3107,6 +3196,13 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <message>
         <source>%1 pt</source>
         <translation type="unfinished">%1 bodů</translation>
+    </message>
+</context>
+<context>
+    <name>KxNoneItem</name>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Žádný</translation>
     </message>
 </context>
 <context>
@@ -3234,16 +3330,16 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
 <context>
     <name>KxRenameMasterDlgClass</name>
     <message>
-        <source>&amp;Master name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Rename</source>
         <translation type="unfinished">Přejmenovat</translation>
     </message>
     <message>
-        <source>Rename Master</source>
-        <translation type="unfinished"></translation>
+        <source>Rename</source>
+        <translation type="unfinished">Přejmenovat</translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation type="unfinished">&amp;Název:</translation>
     </message>
 </context>
 <context>
@@ -3365,57 +3461,23 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
 <context>
     <name>KxTpAnimationSchemeWidget</name>
     <message>
-        <source>Color Schemes</source>
-        <translation type="unfinished">Barevná schémata</translation>
-    </message>
-    <message>
         <source>Design Templates</source>
         <translation type="unfinished">Návrh šablon</translation>
-    </message>
-</context>
-<context>
-    <name>KxTpColorScheme</name>
-    <message>
-        <source>Apply a color scheme:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color Schemes</source>
-        <translation type="unfinished">Barevná schémata</translation>
-    </message>
-    <message>
-        <source>Infotip</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxTpColorSchemeWidget</name>
-    <message>
-        <source>Animation Schemes</source>
-        <translation type="unfinished">Schémata animací</translation>
-    </message>
-    <message>
-        <source>Design Templates</source>
-        <translation type="unfinished">Návrh šablon</translation>
-    </message>
-    <message>
-        <source>Edit Color Schemes...</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideDesign</name>
     <message>
-        <source>Apply a design template:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Design Templates</source>
         <translation type="unfinished">Návrh šablon</translation>
     </message>
     <message>
         <source>Infotip</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply a design template</source>
+        <translation type="unfinished">Použít šablonu návrhu</translation>
     </message>
 </context>
 <context>
@@ -3428,20 +3490,16 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <source>Browse...</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Color Schemes</source>
-        <translation type="unfinished">Barevná schémata</translation>
-    </message>
 </context>
 <context>
     <name>KxTpSlideLayout</name>
     <message>
-        <source>Apply a design template:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show when inserting new slides</source>
         <translation type="unfinished">Zobrazit při vkládání nových snímků</translation>
+    </message>
+    <message>
+        <source>Apply a design template</source>
+        <translation type="unfinished">Použít šablonu návrhu</translation>
     </message>
 </context>
 <context>
@@ -3457,10 +3515,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <message>
         <source>Apply to Master</source>
         <translation type="unfinished">Použít na Master</translation>
-    </message>
-    <message>
-        <source>Apply to selected slides:</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>AutoPreview</source>
@@ -3503,16 +3557,16 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <translation type="unfinished">Rychlost:</translation>
     </message>
     <message>
-        <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <source>Slide Transition</source>
+        <translation type="unfinished">Přechod snímku</translation>
+    </message>
+    <message>
+        <source>Apply to selected slides</source>
+        <translation type="unfinished">Použít na vybrané snímky</translation>
     </message>
 </context>
 <context>
     <name>KxTpSlideTransitionWidget</name>
-    <message>
-        <source>Loop until next sound</source>
-        <translation type="unfinished">Smyčkovat do dalšího zvuku</translation>
-    </message>
     <message>
         <source>Play</source>
         <translation type="unfinished">Přehrát</translation>
@@ -3531,6 +3585,21 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <message>
         <source>Table Style:</source>
         <translation type="unfinished">Styl tabulky:</translation>
+    </message>
+</context>
+<context>
+    <name>KxTrimMediaDlg</name>
+    <message>
+        <source>Trim Movie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trim Sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duration : </source>
+        <translation type="unfinished">Trvání : </translation>
     </message>
 </context>
 <context>
@@ -3650,14 +3719,53 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
 </context>
 <context>
-    <name>KxWppColorModel</name>
+    <name>KxWppBorderStyleItem</name>
     <message>
-        <source>Automatic</source>
-        <translation type="unfinished">Automaticky</translation>
+        <source>No Border</source>
+        <translation type="unfinished">Bez okraje</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppBorderWidthItem</name>
+    <message>
+        <source>2.25</source>
+        <translation type="unfinished">2,25</translation>
     </message>
     <message>
-        <source>Custom Color</source>
-        <translation type="unfinished">Vlastní barva</translation>
+        <source>pt</source>
+        <translation type="unfinished">bod</translation>
+    </message>
+    <message>
+        <source>0.25</source>
+        <translation type="unfinished">0,25</translation>
+    </message>
+    <message>
+        <source>0.5</source>
+        <translation type="unfinished">0,5</translation>
+    </message>
+    <message>
+        <source>0.75</source>
+        <translation type="unfinished">0,75</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation type="unfinished">1,5</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4.5</source>
+        <translation type="unfinished">4,5</translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3875,14 +3983,74 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
 <context>
     <name>KxWppFillColorModel</name>
     <message>
+        <source>No Color</source>
+        <translation type="unfinished">Bez barvy</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFontColorModel</name>
+    <message>
         <source>No Fill</source>
         <translation type="unfinished">Bez výplně</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFontOutlineColorModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWppFontSizeCommand</name>
     <message>
         <source>This is not a valid integer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatGroupContent_Fill</name>
+    <message>
+        <source>Slide background fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatProperty_FillAndLine</name>
+    <message>
+        <source>TEXT FILL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FILL</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3902,6 +4070,29 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <message>
         <source>No Line</source>
         <translation type="unfinished">Bez čáry</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppMediaBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="unfinished">Nastavení</translation>
     </message>
 </context>
 <context>
@@ -3952,6 +4143,84 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
 </context>
 <context>
+    <name>KxWppPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">Zobrazit</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Úpravy</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished">Kopírovat</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished">Tisk</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">Uložit</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPlayerMediaBar</name>
+    <message>
+        <source>Play/Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWppPrintDlg</name>
     <message>
         <source>All slides in current presentation are marked as hidden. Either ensure that the slides are no longer hidden, or choose to print hidden slides.</source>
@@ -3999,35 +4268,19 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
 </context>
 <context>
+    <name>KxWppPrstFillModel</name>
+    <message>
+        <source>Background Fill</source>
+        <translation type="unfinished">Výplň pozadí</translation>
+    </message>
+</context>
+<context>
     <name>KxWppShowOffscreen</name>
     <message>
         <source>An Offscreen Show of this presentation is already running.
 Sure to close?</source>
         <translation type="unfinished">Právě běží prezentace mimo obrazovku.
 Skutečně zavřít ?</translation>
-    </message>
-</context>
-<context>
-    <name>KxWppSoundBarWidget</name>
-    <message>
-        <source>Move forward 0.25 seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Move back 0.25 seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play/Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Volume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting</source>
-        <translation type="unfinished">Nastavení</translation>
     </message>
 </context>
 <context>
@@ -4043,6 +4296,45 @@ Skutečně zavřít ?</translation>
     <message>
         <source>&amp;Fit Selection</source>
         <translation type="unfinished">Vyplnit výběr</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppTpFormatting</name>
+    <message>
+        <source>Format Shape</source>
+        <translation type="unfinished">Formát tvaru</translation>
+    </message>
+    <message>
+        <source>Format Picture</source>
+        <translation type="unfinished">Formát obrázku</translation>
+    </message>
+    <message>
+        <source>Format Media</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format OleObject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format ControlObject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Background</source>
+        <translation type="unfinished">Formát pozadí</translation>
+    </message>
+    <message>
+        <source>Format Ink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply to all</source>
+        <translation type="unfinished">Použít na vše</translation>
+    </message>
+    <message>
+        <source>Reset Background</source>
+        <translation type="unfinished">Reset pozadí</translation>
     </message>
 </context>
 <context>
@@ -4282,34 +4574,6 @@ Skutečně zavřít ?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Follow Accent Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Background Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Fills Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Shadows Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow Title Text Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>In the %1 Show</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4497,109 +4761,6 @@ Skutečně zavřít ?</translation>
         <source>&quot;%1&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Align Left</source>
-        <translation type="unfinished">Zarovnat vlevo</translation>
-    </message>
-    <message>
-        <source>Center</source>
-        <translation type="unfinished">Střed</translation>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation type="unfinished">Zarovnat vpravo</translation>
-    </message>
-    <message>
-        <source>Justify</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Distributed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(None)</source>
-        <translation type="unfinished">(Žádný)</translation>
-    </message>
-    <message>
-        <source>First line</source>
-        <translation type="unfinished">První řádek</translation>
-    </message>
-    <message>
-        <source>Hanging</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cm</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please input value between 0cm and 21.35cm</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please input value between 0 and 9.99</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please input value between 0pt and 1584pt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single</source>
-        <translation type="unfinished">Jednoduchý</translation>
-    </message>
-    <message>
-        <source>1.5 times</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Double</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fixed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Multiple</source>
-        <translation type="unfinished">Vícenásobný</translation>
-    </message>
-    <message>
-        <source>pt</source>
-        <translation type="unfinished">bod</translation>
-    </message>
-    <message>
-        <source>按文本和线条配色方案</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SchemeLayoutPanel</name>
-    <message>
-        <source>Apply to &amp;All Master</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to &amp;All Slides</source>
-        <translation type="unfinished">Použít na všechny snímky</translation>
-    </message>
-    <message>
-        <source>Apply to &amp;Master</source>
-        <translation type="unfinished">Použít na Master</translation>
-    </message>
-    <message>
-        <source>Apply to &amp;Selected Masters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished">Použít na vybrané snímky</translation>
-    </message>
-    <message>
-        <source>Show &amp;Large Previews</source>
-        <translation type="unfinished">Zobrazit velké náhledy</translation>
-    </message>
 </context>
 <context>
     <name>TpWppCustomAnimation</name>
@@ -4618,10 +4779,6 @@ Skutečně zavřít ?</translation>
     <message>
         <source>Custom Animation</source>
         <translation type="unfinished">Vlastní animace</translation>
-    </message>
-    <message>
-        <source>Custom Animation:</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fast</source>
@@ -4689,6 +4846,236 @@ Skutečně zavřít ?</translation>
     <message>
         <source>Dialogstest</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished">Normální</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation type="unfinished">Uložit &amp;do</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">Procházet...</translation>
+    </message>
+    <message>
+        <source>Export range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;ll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Current slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;ustom slide shows:</source>
+        <translation type="unfinished">Vlastní přehrávání</translation>
+    </message>
+    <message>
+        <source>Sl&amp;ides:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished">Možnosti exportu</translation>
+    </message>
+    <message>
+        <source>Export &amp;what:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slides</source>
+        <translation type="unfinished">Snímky</translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished">Letáky</translation>
+    </message>
+    <message>
+        <source>Notes pages</source>
+        <translation type="unfinished">Stránky poznámek</translation>
+    </message>
+    <message>
+        <source>Outline view</source>
+        <translation type="unfinished">Zobrazit obrysy</translation>
+    </message>
+    <message>
+        <source>Color/&amp;Grayscale:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished">Barva</translation>
+    </message>
+    <message>
+        <source>Pure black and white</source>
+        <translation type="unfinished">Jen černá a bílá</translation>
+    </message>
+    <message>
+        <source>Slides p&amp;er page:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Order:</source>
+        <translation type="unfinished">Pořadí:</translation>
+    </message>
+    <message>
+        <source>Hori&amp;zontal</source>
+        <translation type="unfinished">Hori&amp;zontálně</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical</source>
+        <translation type="unfinished">&amp;Svisle</translation>
+    </message>
+    <message>
+        <source>ICON</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fra&amp;me slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print &amp;hidden slides</source>
+        <translation type="unfinished">Tisknout skryté snímky</translation>
+    </message>
+    <message>
+        <source>Select OFD Service Provider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suwell&amp;K</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Foxit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation type="unfinished">Nastavení zabezpečení</translation>
+    </message>
+    <message>
+        <source>Passw&amp;ord to protect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation type="unfinished">Heslo:</translation>
+    </message>
+    <message>
+        <source>Con&amp;firm:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to modify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to add comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing permission:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation type="unfinished">Tisk není povolený</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished">Tisk v nízké kvalitě</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Passwor&amp;d:</source>
+        <translation type="unfinished">Heslo:</translation>
+    </message>
+    <message>
+        <source>Confi&amp;rm:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close when e&amp;xport completes</source>
+        <translation type="unfinished">Po dokončení e&amp;xportu zavřít</translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
     </message>
 </context>
 <context>
@@ -4960,10 +5347,6 @@ Skutečně zavřít ?</translation>
         <translation type="unfinished">Vyplnit</translation>
     </message>
     <message>
-        <source>Fill &amp;color:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Format Table</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4977,10 +5360,6 @@ Skutečně zavřít ?</translation>
     </message>
     <message>
         <source>Rotat&amp;e text within cell by 90 degrees</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Semi&amp;transparent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5028,15 +5407,7 @@ Skutečně zavřít ?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cbFillColor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>cbOrientation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cbSemitransparent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5049,10 +5420,6 @@ Skutečně zavřít ?</translation>
     </message>
     <message>
         <source>cmbBorderWidth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cmbFillColor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5071,28 +5438,105 @@ Skutečně zavřít ?</translation>
         <source>Bottom Center</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>kxDlgThesaurus</name>
     <message>
-        <source>Thesaurus</source>
-        <translation type="unfinished">Tezaurus</translation>
+        <source>&amp;Fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Current word:</source>
-        <translation type="unfinished">Vybrané slovo:</translation>
+        <source>Solid fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Alternatives:</source>
-        <translation type="unfinished">Alternativy:</translation>
+        <source>Gradient fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Replace</source>
-        <translation type="unfinished">Nahradit</translation>
+        <source>Picture or texture fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
+        <source>Pattern fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter 0%  to 100% of value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient Linear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient Radial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient Rect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter 0  to 359 Degrees of value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gra&amp;dient stops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Source From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;File...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Source From &amp;Texture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fore&amp;ground</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Background</source>
+        <translation type="unfinished">&amp;Pozadí</translation>
+    </message>
+    <message>
+        <source>Enter 0cm to 55.88cm of the Value</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5131,6 +5575,41 @@ Skutečně zavřít ?</translation>
     <message>
         <source>WPS Presentation</source>
         <translation type="unfinished">Prezentace</translation>
+    </message>
+</context>
+<context>
+    <name>wppContentPosition</name>
+    <message>
+        <source>&amp;Horizontal position</source>
+        <translation type="unfinished">Pozice vodorovně</translation>
+    </message>
+    <message>
+        <source>Enter -5963.92  to 5963.92 cm of value</source>
+        <translation type="unfinished">Zadejte hodnotu od -5963,92 do 5963,92 cm</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;From</source>
+        <translation type="unfinished">&amp;Od</translation>
+    </message>
+    <message>
+        <source>Top Left Corner</source>
+        <translation type="unfinished">Levý horní roh</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">Střed</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical position</source>
+        <translation type="unfinished">Pozice svisle</translation>
+    </message>
+    <message>
+        <source>F&amp;rom</source>
+        <translation type="unfinished">&amp;Od</translation>
     </message>
 </context>
 </TS>

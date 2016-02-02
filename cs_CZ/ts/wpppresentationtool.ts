@@ -81,19 +81,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Font Size</source>
-        <translation type="unfinished">Velikost písma</translation>
+        <source>Font Size:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bold</source>
-        <translation type="unfinished">Tučné</translation>
+        <source>Bold:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Don&apos;t Change</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Bold</source>
+        <translation type="unfinished">Tučné</translation>
+    </message>
+    <message>
         <source>Unbold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -105,6 +113,10 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Italic:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Italic</source>
         <translation type="unfinished">Zkosené</translation>
     </message>
@@ -113,8 +125,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Font Color</source>
-        <translation type="unfinished">Barva písma</translation>
+        <source>Font Color:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Replace</source>
@@ -225,12 +237,12 @@
         <translation type="unfinished">Zkosené</translation>
     </message>
     <message>
-        <source>Underline</source>
-        <translation type="unfinished">Podtržení</translation>
+        <source>UnderLine</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Line Spacing</source>
-        <translation type="unfinished">Řádkování</translation>
+        <source>LineSpace</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All Fonts</source>

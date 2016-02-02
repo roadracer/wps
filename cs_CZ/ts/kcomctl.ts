@@ -17,10 +17,79 @@
     </message>
 </context>
 <context>
+    <name>KBevelModel</name>
+    <message>
+        <source>No Bevel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KBorderPickCtrl</name>
     <message>
         <source>Text</source>
         <translation type="unfinished">Text</translation>
+    </message>
+</context>
+<context>
+    <name>KCameraModel</name>
+    <message>
+        <source>No Rotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parallel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Oblique</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KColorCombobox</name>
+    <message>
+        <source>&amp;No Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Fill effects...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Patterned Lines...</source>
+        <translation type="unfinished">Čáry se vzorem...</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">Automaticky</translation>
+    </message>
+    <message>
+        <source>&amp;More Color...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper Color(&amp;E)</source>
+        <translation type="unfinished">&amp;Kapátko</translation>
+    </message>
+    <message>
+        <source>Recent Colors</source>
+        <translation type="unfinished">Poslední barvy</translation>
+    </message>
+    <message>
+        <source>Theme Colors</source>
+        <translation type="unfinished">Barvy z tématu</translation>
+    </message>
+    <message>
+        <source>Standard Colors</source>
+        <translation type="unfinished">Standardní barvy</translation>
     </message>
 </context>
 <context>
@@ -266,6 +335,223 @@
     </message>
 </context>
 <context>
+    <name>KFormatDoubleSpinBoxLineEdit</name>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFormatScrollBar</name>
+    <message>
+        <source>Scroll here</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left edge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right edge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Dole</translation>
+    </message>
+    <message>
+        <source>Page left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll down</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFormatSpinBoxLineEdit</name>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFormatStylesTitle</name>
+    <message>
+        <source>Shape Styles</source>
+        <translation type="unfinished">Styly tvarů</translation>
+    </message>
+    <message>
+        <source>Line Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Filters</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFormatStylesWidget</name>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished">Styl</translation>
+    </message>
+</context>
+<context>
+    <name>KGalleryAbstractModel</name>
+    <message>
+        <source>No Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished">Předvolby</translation>
+    </message>
+    <message>
+        <source>No Reflection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reflection Variations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Soft Edges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.5 Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5 Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>10 Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>25 Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>50 Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Glow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Glow Variations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation type="unfinished">Bez stínu</translation>
+    </message>
+    <message>
+        <source>Outer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KLightingModel</name>
+    <message>
+        <source>Neutral</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warm Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special</source>
+        <translation type="unfinished">Speciální</translation>
+    </message>
+</context>
+<context>
     <name>KMDICloseCommand</name>
     <message>
         <source>Close</source>
@@ -324,6 +610,21 @@
     </message>
 </context>
 <context>
+    <name>KMaterialModel</name>
+    <message>
+        <source>Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translucent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KMemberUser</name>
     <message>
         <source>Registered user</source>
@@ -360,6 +661,37 @@
     <name>KMenuWidget</name>
     <message>
         <source>InsertCellsInPopup</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KNoTabPageWidget</name>
+    <message>
+        <source>Last time encounter abnormal shutdown!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS will recover files for you, you can uncheck the files that don&apos;t need to be recovered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FileName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send error file to help WPS solve such issues</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
+    </message>
+    <message>
+        <source>Modified time: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -422,6 +754,10 @@
     <name>KProxyCommandButton</name>
     <message>
         <source>(Download required)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Upgrading...)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -525,9 +861,39 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
+    <name>KShapeLineGalleryItem</name>
+    <message>
+        <source>No Line</source>
+        <translation type="unfinished">Bez čáry</translation>
+    </message>
+    <message>
+        <source>Preset Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KSystemMenuCommand</name>
     <message>
         <source>System Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KTextureModel</name>
+    <message>
+        <source>Picture Source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &amp;Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &amp;Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset Texture</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -610,6 +976,33 @@ Please reinstall WPS Office!</source>
     </message>
 </context>
 <context>
+    <name>KxPrstFillModel</name>
+    <message>
+        <source>No Fill</source>
+        <translation type="unfinished">Bez výplně</translation>
+    </message>
+    <message>
+        <source>Theme Colors</source>
+        <translation type="unfinished">Barvy z tématu</translation>
+    </message>
+    <message>
+        <source>Gradient Fill</source>
+        <translation type="unfinished">Výplň přechodem</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished">Přechod</translation>
+    </message>
+    <message>
+        <source>Pattern Fill</source>
+        <translation type="unfinished">Výplň vzorem</translation>
+    </message>
+    <message>
+        <source>texture Fill</source>
+        <translation type="unfinished">Výplň texturou</translation>
+    </message>
+</context>
+<context>
     <name>KxSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
@@ -618,6 +1011,17 @@ Please reinstall WPS Office!</source>
     <message>
         <source>This is not a valid integer.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QApplication</name>
+    <message>
+        <source>No Glow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation type="unfinished">Záře</translation>
     </message>
 </context>
 <context>
@@ -701,6 +1105,45 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Delete from List</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>gradientStopsPanel</name>
+    <message>
+        <source>Add Gradient Aperture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Gradient Aperture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P&amp;osition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter  0% to 100% of the Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Brightness</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter -100% to 100% of the Value</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -125,11 +125,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can choose from three different ways to connect to your chosen data source.</source>
+        <source>O&amp;DBC DSN</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use ODBC data source connection guide (&amp;W)</source>
+        <source>Other/Advanced(&amp;W)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can choose from four different ways to connect to your chosen data source.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -388,17 +392,17 @@ condition is true:</source>
     <message>
         <source>&amp;Begin style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl na začátku:</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Přerušování:</translation>
     </message>
     <message>
         <source>&amp;End style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl na konci:</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
@@ -515,6 +519,10 @@ condition is true:</source>
         <translation type="unfinished">Vzestupně</translation>
     </message>
     <message>
+        <source>Ascending(S)</source>
+        <translation type="unfinished">Vzestupně</translation>
+    </message>
+    <message>
         <source>Before</source>
         <translation type="unfinished">Před</translation>
     </message>
@@ -577,6 +585,10 @@ condition is true:</source>
     <message>
         <source>Descending</source>
         <translation type="unfinished">Sestupně</translation>
+    </message>
+    <message>
+        <source>Descending(O)</source>
+        <translation type="unfinished">Descending (&amp;O)</translation>
     </message>
     <message>
         <source>Does Not Contain</source>
@@ -771,24 +783,16 @@ condition is true:</source>
         <translation type="unfinished">Date Filter (F)</translation>
     </message>
     <message>
-        <source>Text &amp;Filter</source>
-        <translation type="unfinished">Text Filter (F)</translation>
-    </message>
-    <message>
-        <source>&amp;Clear</source>
-        <translation type="unfinished">Clear</translation>
-    </message>
-    <message>
-        <source>Filter by Color</source>
-        <translation type="unfinished">Filtrovat podle barvy</translation>
-    </message>
-    <message>
         <source>Label Filter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Label Filter</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text &amp;Filter</source>
+        <translation type="unfinished">Text Filter (F)</translation>
     </message>
     <message>
         <source>Not Begin With</source>
@@ -803,12 +807,12 @@ condition is true:</source>
         <translation type="unfinished">Není mezi</translation>
     </message>
     <message>
-        <source>Ascending(S)</source>
-        <translation type="unfinished">Vzestupně</translation>
+        <source>&amp;Clear</source>
+        <translation type="unfinished">Clear</translation>
     </message>
     <message>
-        <source>Descending(O)</source>
-        <translation type="unfinished">Descending (&amp;O)</translation>
+        <source>Filter by Color</source>
+        <translation type="unfinished">Filtrovat podle barvy</translation>
     </message>
 </context>
 <context>
@@ -998,6 +1002,301 @@ condition is true:</source>
     </message>
 </context>
 <context>
+    <name>KxCellFormatCombobox</name>
+    <message>
+        <source>No Cell Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">Automaticky</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished">Přechod</translation>
+    </message>
+</context>
+<context>
+    <name>KxCellStyleDlg</name>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished">Styl</translation>
+    </message>
+    <message>
+        <source>&amp;Style name:</source>
+        <translation type="unfinished">Název stylu:</translation>
+    </message>
+    <message>
+        <source>Style includes</source>
+        <translation type="unfinished">Styl zahrnuje</translation>
+    </message>
+    <message>
+        <source>Number:</source>
+        <translation type="unfinished">Číslo:</translation>
+    </message>
+    <message>
+        <source>Alignment:</source>
+        <translation type="unfinished">Zarovnání:</translation>
+    </message>
+    <message>
+        <source>Font:</source>
+        <translation type="unfinished">Písmo:</translation>
+    </message>
+    <message>
+        <source>Border:</source>
+        <translation type="unfinished">Okraj:</translation>
+    </message>
+    <message>
+        <source>Patterns:</source>
+        <translation type="unfinished">Vzory:</translation>
+    </message>
+    <message>
+        <source>Protection:</source>
+        <translation type="unfinished">Zámek:</translation>
+    </message>
+    <message>
+        <source>&amp;Format...</source>
+        <translation type="unfinished">Formát...</translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
+    </message>
+    <message>
+        <source>No Number Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are not allowed to add the default style name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Style Name Not Valid</source>
+        <translation type="unfinished">Název stylu není platný</translation>
+    </message>
+    <message>
+        <source>No Alignment</source>
+        <translation type="unfinished">Bez zarovnání</translation>
+    </message>
+    <message>
+        <source>Shrink To fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-to-Left Reading Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left-to-Right Reading Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Context Reading Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ReadingOrder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotated down %1 Degrees</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Degrees</source>
+        <translation type="unfinished">Stupně</translation>
+    </message>
+    <message>
+        <source>Rotated up %1 Degrees</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished">Svisle</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished">Vodorovně</translation>
+    </message>
+    <message>
+        <source>Orientation</source>
+        <translation type="unfinished">Orientace</translation>
+    </message>
+    <message>
+        <source>Wrap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Indents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Aligned</source>
+        <translation type="unfinished">Zarovnáno nahoru</translation>
+    </message>
+    <message>
+        <source>Vertical Justify Aligned</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Distributed Aligned</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Center Aligned</source>
+        <translation type="unfinished">Zarovnání svisle na střed</translation>
+    </message>
+    <message>
+        <source>Bottom Aligned</source>
+        <translation type="unfinished">Zarovnáno dolů</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Hlavní</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished">Vyplnit</translation>
+    </message>
+    <message>
+        <source>Horizontal Distributed</source>
+        <translation type="unfinished">Vodorovně rozloženo</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished">Vystředit napříč</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">Střed</translation>
+    </message>
+    <message>
+        <source>No Font</source>
+        <translation type="unfinished">Žádné písmo</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished">Barva</translation>
+    </message>
+    <message>
+        <source>Subscript</source>
+        <translation type="unfinished">Dolní index</translation>
+    </message>
+    <message>
+        <source>Superscript</source>
+        <translation type="unfinished">Horní index
+</translation>
+    </message>
+    <message>
+        <source>Strikethrough</source>
+        <translation type="unfinished">Přeškrtnutý</translation>
+    </message>
+    <message>
+        <source>Single Accounting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="unfinished">Jednoduchý</translation>
+    </message>
+    <message>
+        <source>Double Accounting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished">Podtržení</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished">Zkosené</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished">Tučné</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Velikost</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished">Písmo</translation>
+    </message>
+    <message>
+        <source>No Borders</source>
+        <translation type="unfinished">Bez okrajů</translation>
+    </message>
+    <message>
+        <source>Border</source>
+        <translation type="unfinished">Okraj</translation>
+    </message>
+    <message>
+        <source>Shaded</source>
+        <translation type="unfinished">Stínováno</translation>
+    </message>
+    <message>
+        <source>No Shading</source>
+        <translation type="unfinished">Bez stínování</translation>
+    </message>
+    <message>
+        <source>No Protection</source>
+        <translation type="unfinished">Bez ochrany</translation>
+    </message>
+    <message>
+        <source>Locked</source>
+        <translation type="unfinished">Zamčeno</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished">Vlevo</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished">Vpravo</translation>
+    </message>
+    <message>
+        <source>DiagonalDown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DiagonalUp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Dole</translation>
+    </message>
+    <message>
+        <source>MarjorFont</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextFont</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This format name already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxChangeFileAccessDlg</name>
     <message>
         <source>File Changed</source>
@@ -1009,6 +1308,460 @@ condition is true:</source>
     <message>
         <source>Confirmation password is not identical.</source>
         <translation type="unfinished">Potvrzení hesla se neshoduje.</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeGalleryCommand</name>
+    <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Use dates or stock names as labels.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>high price, low price, closing price. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>opening price, high price, low price, closing price. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>volume traded, high price, low price, closing price. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>volume traded, opening price, high price, low price, closing price. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To create a combination chart, select at least two series of data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeGalleryModel</name>
+    <message>
+        <source>2-D Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2-D Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2-D Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2-D Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Combo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2-D Pie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>X Y (Scatter)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bubble</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clustered Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>100% Stacked Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clustered Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>100% Stacked Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished">Čára</translation>
+    </message>
+    <message>
+        <source>Stacked Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>100% Stacked Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line with Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked Line with Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>100% Stacked Line with Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>High-Low-Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open-High-Low-Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume-High-Low-Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume-Open-High-Low-Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radar with Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filled Radar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>100% Stacked Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clustered Column Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clustered Column - Line on Secondary Axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked Area - Clustered Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pie Of Pie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bar Of Pie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Doughnut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scatter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scatter with Smooth Lines and Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scatter with Smooth Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scatter with Straight Lines and Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scatter with Straight Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeItem</name>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The order of categories is not important.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole.
+• Show how parts of a whole change over time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentages that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The chart shows duration.
+• The category text is long.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole across categories.
+• Show how parts of a whole change over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentage that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are many data points.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show how parts of a whole change over time.
+
+Consider using a stacked area chart instead as stacked line charts can be hard to read.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Show the change to the percentage that each value contributes over time.
+
+Consider using a 100% stacked area chart because stacked line charts can be hard to read.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are few data points.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock&apos;s performance over time.
+
+Use it when:
+• You have three series of price values: High, Low, Close.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock&apos;s performance over time.
+
+Use it when:
+• You have four series of price values: Open, High, Low, Close.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock&apos;s performance over time.
+
+Use it when:
+• You have four series of values: Volume, High, Low, Close.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock&apos;s performance over time.
+
+Use it when:
+• You have five series of values: Volume, Open, High, Low, Close.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show values relative to a center point.
+
+Use it when:
+• Categories are not directly comparable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• Category order is important.
+• To highlight the magnitude of change over time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the relationship of parts to a whole over time or categories.
+• Highlight the magnitude of change over time.
+• Draw attention to the total value across a trend.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Highlight the magnitude of change to the percentage that each value contributes over time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• You have mixed types of data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• The range of values in the chart varies widely.
+• You have mixed types of data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it when:
+• Numbers equal 100%.
+• The chart contains only a few pie slices (many slices make the angles hard to estimate).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a second pie to make small percentages more readable or highlight the values in the second pie.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a stacked bar to make small percentages more readable or highlight the values in the stacked bar.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it instead of a pie chart when there are multiple series that relate to a larger sum.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• The data represents separate measurements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents separate measurements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents separate measurements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least three sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• You have a third value that can be used to determine the relative size of the bubble.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1147,7 +1900,11 @@ condition is true:</source>
         <translation type="unfinished">Dole</translation>
     </message>
     <message>
-        <source>% Items</source>
+        <source>% Max Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>% Min Items</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1369,6 +2126,22 @@ condition is true:</source>
     </message>
 </context>
 <context>
+    <name>KxConvertToRangeDlg</name>
+    <message>
+        <source>SpreadSheets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to convert the table to a normal range?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This will permanently remove the query definition from the select sheet and convert the table to a normal range.Continue?</source>
+        <comment>TX_TableConver2Range_DelQuery</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxCreatePivotTableDlg</name>
     <message>
         <source>Data fields have been retrieved.</source>
@@ -1411,6 +2184,29 @@ condition is true:</source>
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxCreateTableDlg</name>
+    <message>
+        <source>Where is the data for your table?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My table has headers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference is not valid.</source>
+        <translation type="unfinished">Odkaz není platný.</translation>
+    </message>
+    <message>
+        <source>Format As Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Table</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2097,6 +2893,139 @@ condition is true:</source>
     </message>
 </context>
 <context>
+    <name>KxDlgEditAxisLable</name>
+    <message>
+        <source>Axis Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Axis label range:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditDataSeries</name>
+    <message>
+        <source>Edit Series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series &amp;name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series &amp;X values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series &amp;values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series bubble &amp;size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditDataSource</name>
+    <message>
+        <source>编辑数据源</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart &amp;Data Range:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The data range is too complex to be displayed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series Creation &amp;Direction:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Each row of data as a series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Each col of data as a series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Legend Entries(&amp;Series)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Axis Labels(&amp;Category)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Category</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Advanced Setting &gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
+    </message>
+    <message>
+        <source>Show data in &amp;hidden rows and columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show empty cells as:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Gaps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Zero</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Connect data points with line</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgEditOLEDBQuery</name>
     <message>
         <source>&amp;Connection:</source>
@@ -2255,7 +3184,7 @@ condition is true:</source>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Najít další</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
@@ -2327,7 +3256,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Co &amp;najít:</translation>
     </message>
     <message>
         <source>Fin&amp;d</source>
@@ -2367,7 +3296,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Match &amp;case</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozlišovat velikost písmen</translation>
     </message>
     <message>
         <source>Match entire cell c&amp;ontents</source>
@@ -2399,7 +3328,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahradit všechny</translation>
     </message>
     <message>
         <source>Select</source>
@@ -2443,149 +3372,17 @@ condition is true:</source>
     </message>
 </context>
 <context>
-    <name>KxDlgFont</name>
-    <message>
-        <source>&amp;Font:</source>
-        <translation type="unfinished">Písmo:</translation>
-    </message>
-    <message>
-        <source>&amp;Size:</source>
-        <translation type="unfinished">Velikost:</translation>
-    </message>
-    <message>
-        <source>&amp;Underline:</source>
-        <translation type="unfinished">podtržení:</translation>
-    </message>
-    <message>
-        <source>10</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>11</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>12</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>14</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>16</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>18</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>20</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>22</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>24</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>26</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>28</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>36</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>48</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>6</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>72</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>8</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>9</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation type="unfinished">Tučné</translation>
-    </message>
-    <message>
-        <source>Bold Italic</source>
-        <translation type="unfinished">Tučné zkosené</translation>
-    </message>
-    <message>
-        <source>Effects</source>
-        <translation type="unfinished">Efekty</translation>
-    </message>
-    <message>
-        <source>F&amp;ont style:</source>
-        <translation type="unfinished">Styl písma:</translation>
-    </message>
-    <message>
-        <source>Font</source>
-        <translation type="unfinished">Písmo</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation type="unfinished">Zkosené</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="unfinished">Žádný</translation>
-    </message>
-    <message>
-        <source>Preview</source>
-        <translation type="unfinished">Náhled</translation>
-    </message>
-    <message>
-        <source>Regular</source>
-        <translation type="unfinished">Normání</translation>
-    </message>
-    <message>
-        <source>Single</source>
-        <translation type="unfinished">Jednoduchý</translation>
-    </message>
-    <message>
-        <source>Stri&amp;kethrough</source>
-        <translation type="unfinished">Přeškrtnuté</translation>
-    </message>
-    <message>
-        <source>Su&amp;bscript</source>
-        <translation type="unfinished">Dolní in&amp;dex</translation>
-    </message>
-    <message>
-        <source>Sup&amp;erscript</source>
-        <translation type="unfinished">Horní ind&amp;ex</translation>
-    </message>
-    <message>
-        <source>This is a TrueType font. This font will be used on both printer and screen.</source>
-        <translation type="unfinished">Toto je písmo TrueType. Bude vypadat stejně na obrazovce i na tiskárně.</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgFormatCells</name>
     <message>
         <source>Format Cells</source>
         <translation type="unfinished">Formát buněk</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFormatFormControlText</name>
+    <message>
+        <source>Format Form Control Text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2780,6 +3577,85 @@ condition is true:</source>
     </message>
     <message>
         <source>ucShapeWidth</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgGradientFill</name>
+    <message>
+        <source>Fill Effects</source>
+        <translation type="unfinished">Efekty výplně</translation>
+    </message>
+    <message>
+        <source>V&amp;ariants</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colors</source>
+        <translation type="unfinished">Barvy</translation>
+    </message>
+    <message>
+        <source>O&amp;ne color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Two colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre&amp;set</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color &amp;1:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dar&amp;k</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished">Světlý</translation>
+    </message>
+    <message>
+        <source>Color &amp;2:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pres&amp;et colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shading styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hori&amp;zontal</source>
+        <translation type="unfinished">Hori&amp;zontálně</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical</source>
+        <translation type="unfinished">&amp;Svisle</translation>
+    </message>
+    <message>
+        <source>Diagonal &amp;up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagonal &amp;down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;From corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fro&amp;m center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sample:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3066,6 +3942,25 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxDlgMoveChart</name>
+    <message>
+        <source>Move Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose where you want the chart to be placed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New &amp;Sheet:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Object In:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgMoveOrCopySheet</name>
     <message>
         <source>&amp;Before sheet:</source>
@@ -3143,6 +4038,133 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Range &amp;password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgNewTableStyle</name>
+    <message>
+        <source>New Table Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation type="unfinished">&amp;Název:</translation>
+    </message>
+    <message>
+        <source>Table Element:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whole Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Column Stripe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Second Column Stripe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Row Stripe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Second Row Stripe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation type="unfinished">Poslední sloupec</translation>
+    </message>
+    <message>
+        <source>First Column</source>
+        <translation type="unfinished">První sloupec</translation>
+    </message>
+    <message>
+        <source>Header Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Header Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Header Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Total Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Total Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Clear</source>
+        <translation type="unfinished">Clear</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">Náhled</translation>
+    </message>
+    <message>
+        <source>StripeSize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Element Formatting:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set as default table style for this document</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3544,6 +4566,10 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Help us to improve WPS Office</source>
+        <translation type="unfinished">Pomozte nám vylepšit WPS Office</translation>
+    </message>
+    <message>
         <source>Home Pa&amp;ge</source>
         <translation type="unfinished">Domovská stránka</translation>
     </message>
@@ -3696,6 +4722,10 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Okno úloh po spuštění</translation>
     </message>
     <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation type="unfinished">Zobrazit okna v hlavní liště na ploše</translation>
+    </message>
+    <message>
         <source>Tab display position</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3841,31 +4871,27 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Umístění souborů služby AutoRecover:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
         <translation type="unfinished">Procházet...</translation>
     </message>
     <message>
+        <source>Use 1904 date s&amp;ystem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select an earlier version of the spreadsheet can color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
         <translation type="unfinished">Tlačítko Rozšířené dovolí vybrat jiné způsoby šifrování.</translation>
     </message>
     <message>
-        <source>Feedback</source>
-        <translation type="unfinished">Zpětná vazba</translation>
-    </message>
-    <message>
-        <source>Show &amp;windows in taskbar</source>
-        <translation type="unfinished">Zobrazit okna v hlavní liště na ploše</translation>
-    </message>
-    <message>
         <source>Save As Create Backup</source>
         <translation type="unfinished">Uložit jako vytvoří záložní kopii</translation>
-    </message>
-    <message>
-        <source>Checkbox</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Always create &amp;backup</source>
@@ -3880,24 +4906,8 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Language</source>
-        <translation type="unfinished">Jazyk</translation>
-    </message>
-    <message>
-        <source>Automatically download and update language packages</source>
-        <translation type="unfinished">Automaticky stahovat a aktualizovat jazykové balíčky</translation>
-    </message>
-    <message>
-        <source>Choose Display and Help Languages</source>
-        <translation type="unfinished">Vybrat jazyk pro zobrazení a pro nápovědu</translation>
-    </message>
-    <message>
-        <source>Choose...</source>
-        <translation type="unfinished">Vyberte...</translation>
+        <source>Feedback</source>
+        <translation type="unfinished">Zpětná vazba</translation>
     </message>
 </context>
 <context>
@@ -4250,7 +5260,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished">Rozložení</translation>
+        <translation type="unfinished">Rozvržení</translation>
     </message>
     <message>
         <source>Na&amp;me:</source>
@@ -4947,60 +5957,75 @@ This also allows workbook merging.</source>
 <context>
     <name>KxDlgSort</name>
     <message>
-        <source>&amp;Ascending</source>
-        <translation type="unfinished">Vzestupně</translation>
-    </message>
-    <message>
-        <source>&amp;Descending</source>
-        <translation type="unfinished">Sestupně</translation>
-    </message>
-    <message>
         <source>&amp;Options...</source>
         <translation type="unfinished">&amp;Možnosti...</translation>
-    </message>
-    <message>
-        <source>As&amp;cending</source>
-        <translation type="unfinished">Vzestupně</translation>
-    </message>
-    <message>
-        <source>Ascend&amp;ing</source>
-        <translation type="unfinished">Vzestupně</translation>
-    </message>
-    <message>
-        <source>Desce&amp;nding</source>
-        <translation type="unfinished">Sestupně</translation>
-    </message>
-    <message>
-        <source>Descendin&amp;g</source>
-        <translation type="unfinished">Sestupně</translation>
-    </message>
-    <message>
-        <source>Header &amp;row</source>
-        <translation type="unfinished">Řádek hlavičky</translation>
-    </message>
-    <message>
-        <source>My data range has</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No header ro&amp;w</source>
-        <translation type="unfinished">Není řádek hlavičky</translation>
     </message>
     <message>
         <source>Sort</source>
         <translation type="unfinished">Třídit</translation>
     </message>
     <message>
-        <source>Sort by</source>
-        <translation type="unfinished">Třídit podle</translation>
+        <source>&amp;Add Level</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Then by</source>
-        <translation type="unfinished">Pak podle</translation>
+        <source>&amp;Delete Level</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Then by </source>
-        <translation type="unfinished">Pak podle</translation>
+        <source>&amp;Copy Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Up(Ctrl+Up Arrow)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl+Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Down(Ctrl+Down Arrow)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl+Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My data has &amp;header</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSortCustomlist</name>
+    <message>
+        <source>Custom lists</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Lists</source>
+        <translation type="unfinished">Vlastní seznamy</translation>
+    </message>
+    <message>
+        <source>Custom &amp;lists:</source>
+        <translation type="unfinished">Vlastní seznamy:</translation>
+    </message>
+    <message>
+        <source>List &amp;entries:</source>
+        <translation type="unfinished">Výpis položek:</translation>
+    </message>
+    <message>
+        <source>I&amp;mport</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation type="unfinished">Přid&amp;at</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished">&amp;Smazat</translation>
     </message>
 </context>
 <context>
@@ -5011,10 +6036,6 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>&amp;Sort by alphabet</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>C&amp;ustom sort order</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5050,7 +6071,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Změnit</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -5094,11 +6115,11 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Suggestio&amp;ns:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Návrhy:</translation>
     </message>
     <message>
         <source>The word is not in the dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slovo není ve slovníku</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
@@ -5625,7 +6646,7 @@ If this is correct, choose Next. If not, choose the data type that best describe
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Informační</translation>
+        <translation type="unfinished">Informace</translation>
     </message>
     <message>
         <source>Input Message</source>
@@ -5775,6 +6796,17 @@ If this is correct, choose Next. If not, choose the data type that best describe
     </message>
 </context>
 <context>
+    <name>KxEditAxisLableDlg</name>
+    <message>
+        <source>#ERROR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEditCrossBookLinksDlg</name>
     <message>
         <source>Error: Source not found</source>
@@ -5819,6 +6851,68 @@ If this is correct, choose Next. If not, choose the data type that best describe
     <message>
         <source>Warning: Values not updated</source>
         <translation type="unfinished">Varování: Hodnoty nejsou aktualizované</translation>
+    </message>
+</context>
+<context>
+    <name>KxEditDataSeriesDlg</name>
+    <message>
+        <source>Series &amp;Y values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series &amp;values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#ERROR!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEditDataSourceDlg</name>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Úpravy</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished">Přidat</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">Odstranit</translation>
+    </message>
+    <message>
+        <source>Move Up</source>
+        <translation type="unfinished">Posunout nahoru</translation>
+    </message>
+    <message>
+        <source>Move Down</source>
+        <translation type="unfinished">Posunout dolů</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <translation type="unfinished">Řady</translation>
+    </message>
+    <message>
+        <source>&lt;blank series&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Advanced Setting &lt;&lt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Advanced Setting &gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#ERROR!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5898,6 +6992,33 @@ If this is correct, choose Next. If not, choose the data type that best describe
     </message>
 </context>
 <context>
+    <name>KxEtCellStyleModel</name>
+    <message>
+        <source>User Define</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Good bad And moderate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data and Model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <translation type="unfinished">Nadpis</translation>
+    </message>
+    <message>
+        <source>Theme Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtCfCalendarWidget</name>
     <message>
         <source>&amp;Today</source>
@@ -5909,6 +7030,13 @@ If this is correct, choose Next. If not, choose the data type that best describe
     <message>
         <source>This is not a valid integer.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtColorCtrl</name>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">Automaticky</translation>
     </message>
 </context>
 <context>
@@ -6056,10 +7184,103 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
+    <name>KxEtFillThemeModel</name>
+    <message>
+        <source>No Fill</source>
+        <translation type="unfinished">Bez výplně</translation>
+    </message>
+</context>
+<context>
     <name>KxEtFontColorModel</name>
     <message>
         <source>Automatic</source>
         <translation type="unfinished">Automaticky</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatGroupContent_TextBox</name>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Dole</translation>
+    </message>
+    <message>
+        <source>Top Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished">Vpravo</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">Střed</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished">Vlevo</translation>
+    </message>
+    <message>
+        <source>Right Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatProperty_SizePro</name>
+    <message>
+        <source>PROPERTY</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6284,6 +7505,27 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
+    <name>KxEtShapeFontOutlineThemeModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtShapeFontThemeModel</name>
+    <message>
+        <source>No Fill</source>
+        <translation type="unfinished">Bez výplně</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtShapeLineThemeModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtSheetTabBar</name>
     <message>
         <source>More Sheets...</source>
@@ -6382,6 +7624,43 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
         <source> *</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Chart%1 in WPS Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart%1 in WPS Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtTableStyleCommand</name>
+    <message>
+        <source>More
+
+Choose a visual
+style for the table</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtTableStyleModel</name>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished">Vlastní</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished">Světlý</translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <translation type="unfinished">Střední</translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation type="unfinished">Tmavý</translation>
+    </message>
 </context>
 <context>
     <name>KxEtTop10Autofilter</name>
@@ -6404,6 +7683,21 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Top</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtTpTableStyle</name>
+    <message>
+        <source>Table Style:</source>
+        <translation type="unfinished">Styl tabulky:</translation>
+    </message>
+    <message>
+        <source>Table Style Options:</source>
+        <translation type="unfinished">Možnosti stylu tabulky:</translation>
+    </message>
+    <message>
+        <source>Clear Table Style</source>
+        <translation type="unfinished">Vymazat styl tabulky</translation>
     </message>
 </context>
 <context>
@@ -6460,6 +7754,37 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
+    <name>KxExportOFDDlg</name>
+    <message>
+        <source>Save OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The specified path does not exist, enter a valid one please.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Do you want to replace it and continue?</source>
+        <translation type="unfinished">Soubor se zadaným názvem už existuje. Chcete ho nahradit ?</translation>
+    </message>
+    <message>
+        <source>Confirmation password is not identical.</source>
+        <translation type="unfinished">Potvrzení hesla se neshoduje.</translation>
+    </message>
+    <message>
+        <source>Please input the password of permission settings!</source>
+        <translation type="unfinished">Prosím zadejte heslo pro uzamčení !</translation>
+    </message>
+    <message>
+        <source>File open password and permission password must be different, please enter again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxExportPDFDlg</name>
     <message>
         <source>Confirmation password is not identical.</source>
@@ -6475,11 +7800,11 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prosím zadejte heslo pro uzamčení !</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor se zadaným názvem už existuje. Chcete ho nahradit ?</translation>
     </message>
     <message>
         <source>The specified path does not exist, enter a valid one please.</source>
@@ -6487,6 +7812,53 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Save PDF File</source>
+        <translation type="unfinished">Uložit PDF soubor</translation>
+    </message>
+</context>
+<context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting summary information...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting page </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="unfinished">Export popisků...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets encountered an error while trying exporting to OFD.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Zavřít</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6548,7 +7920,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxFindReplaceDlg</name>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Najít další</translation>
     </message>
     <message>
         <source>&amp;Format</source>
@@ -6707,42 +8079,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
-    <name>KxFontDlg</name>
-    <message>
-        <source>Font size must be between %1 and %2 points.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The font is designed for plotter.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This font style is not available.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <translation type="unfinished">WPS Tabulky</translation>
-    </message>
-    <message>
-        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is a TrueType font. This font will be used on both printer and screen.</source>
-        <translation type="unfinished">Toto je písmo TrueType. Bude vypadat stejně na obrazovce i na tiskárně.</translation>
-    </message>
-</context>
-<context>
     <name>KxFontWidget</name>
-    <message>
-        <source>Automatic</source>
-        <translation type="unfinished">Automaticky</translation>
-    </message>
     <message>
         <source>Bold</source>
         <translation type="unfinished">Tučné</translation>
@@ -6864,6 +8201,21 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
         <translation type="unfinished">Toto je písmo TrueType. Bude vypadat stejně na obrazovce i na tiskárně.</translation>
+    </message>
+    <message>
+        <source> (title)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> (text)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatFormControlTextDlg</name>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished">Písmo</translation>
     </message>
 </context>
 <context>
@@ -7051,7 +8403,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Všechny obrázky</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
@@ -7197,6 +8549,21 @@ To keep existing picture, press Cancel.</source>
     </message>
 </context>
 <context>
+    <name>KxMoveChartDlg</name>
+    <message>
+        <source>This Sheet exists and your chart is embedded in it. Specify a different sheet name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Sheet already exists.Do you want to place the chart embedded in hte existing sheet?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred during the operation of chart move, Please try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxMoveOrCopySheetDlg</name>
     <message>
         <source>(Move to end)</source>
@@ -7254,6 +8621,108 @@ To keep existing picture, press Cancel.</source>
     <message>
         <source>To enter a reference using the mouse, click in the edit box, and then click the cell in the sheet you want to refer to, or drag through the range you want to select.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxNewTableStyleDlg</name>
+    <message>
+        <source>New Table Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify Table Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished">Tučné</translation>
+    </message>
+    <message>
+        <source>Bold Italic</source>
+        <translation type="unfinished">Tučné zkosené</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished">Podtržení</translation>
+    </message>
+    <message>
+        <source>Double Underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StrikeThrough</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Borders</source>
+        <translation type="unfinished">Bez okrajů</translation>
+    </message>
+    <message>
+        <source>Borders</source>
+        <translation type="unfinished">Okraje</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished">Vlevo</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished">Vpravo</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Dole</translation>
+    </message>
+    <message>
+        <source>InsideVertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsideHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shaded</source>
+        <translation type="unfinished">Stínováno</translation>
+    </message>
+    <message>
+        <source>No Shading</source>
+        <translation type="unfinished">Bez stínování</translation>
+    </message>
+    <message>
+        <source>Enter a table style name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This style name already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Style</source>
+        <translation type="unfinished">Styl tabulky</translation>
+    </message>
+</context>
+<context>
+    <name>KxNewTableStyleDlg::KxNewTableStyleDlg</name>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished">Zkosené</translation>
     </message>
 </context>
 <context>
@@ -7342,7 +8811,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potvrzení hesla neodpovídá.</translation>
     </message>
     <message>
         <source>Data will permanently lose accuracy.</source>
@@ -7891,10 +9360,53 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
 </context>
 <context>
+    <name>KxPublishTableDlg</name>
+    <message>
+        <source>Export Table to SharePoint List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Where do you want to publish your table?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Address:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>http://</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Creat a read-only connection to the new SharePoint list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Provide a name and description for your table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Na&amp;me:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Description:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxReadOnlyFileDlg</name>
     <message>
         <source>File in use</source>
         <translation type="unfinished">Soubor se používá</translation>
+    </message>
+    <message>
+        <source>other user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> is editing.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7986,6 +9498,27 @@ system will remind you to check the correctness of the contents.
 
 (Note: The function only supports single range)</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxResizeTableDlg</name>
+    <message>
+        <source>Table Resize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the new data range for your table:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: The headers must remain in the same row,
+      and the resulting table tange must overlap 
+      the original table range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference is not valid.</source>
+        <translation type="unfinished">Odkaz není platný.</translation>
     </message>
 </context>
 <context>
@@ -8280,6 +9813,17 @@ system will remind you to check the correctness of the contents.
     </message>
 </context>
 <context>
+    <name>KxSortCustomlistDlg</name>
+    <message>
+        <source>NEW LIST</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List will be permanently deleted.</source>
+        <translation type="unfinished">Seznam bude trvale smazán.</translation>
+    </message>
+</context>
+<context>
     <name>KxSortDlg</name>
     <message>
         <source>(%1) %2</source>
@@ -8304,6 +9848,81 @@ system will remind you to check the correctness of the contents.
 %2 There are two same sort references. 
 %3 The sort reference you entered is not within the current selection.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <translation type="unfinished">Sloupec</translation>
+    </message>
+    <message>
+        <source>Sort On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Order</source>
+        <translation type="unfinished">Pořadí</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <translation type="unfinished">Hodnoty</translation>
+    </message>
+    <message>
+        <source>Cell Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation type="unfinished">Barva písma</translation>
+    </message>
+    <message>
+        <source>On Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>On Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>On Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>On Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smallest to Largest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Largest to Smallest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A to Z</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Z to A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom List...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Row</source>
+        <translation type="unfinished">Řádek</translation>
+    </message>
+</context>
+<context>
+    <name>KxSortKeyWidget</name>
+    <message>
+        <source>Sort by</source>
+        <translation type="unfinished">Třídit podle</translation>
+    </message>
+    <message>
+        <source>Then by</source>
+        <translation type="unfinished">Pak podle</translation>
     </message>
 </context>
 <context>
@@ -8333,6 +9952,38 @@ system will remind you to check the correctness of the contents.
     </message>
 </context>
 <context>
+    <name>KxStyleAddLegacyTriggerCommand</name>
+    <message>
+        <source>add new style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished">Styl</translation>
+    </message>
+</context>
+<context>
+    <name>KxStyleApplyLegacyTriggerCommand</name>
+    <message>
+        <source>Apply</source>
+        <translation type="unfinished">Použít</translation>
+    </message>
+</context>
+<context>
+    <name>KxStyleCopyLegacyTriggerCommand</name>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished">Kopírovat</translation>
+    </message>
+</context>
+<context>
+    <name>KxStyleDeleteLegacyTriggerCommand</name>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished">Smazat</translation>
+    </message>
+</context>
+<context>
     <name>KxStyleDlg</name>
     <message>
         <source> </source>
@@ -8341,6 +9992,20 @@ system will remind you to check the correctness of the contents.
     <message>
         <source>, </source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxStyleMergeLegacyTriggerCommand</name>
+    <message>
+        <source>Merge Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxStyleModifyLegacyTriggerCommand</name>
+    <message>
+        <source>Modify</source>
+        <translation type="unfinished">Upravit</translation>
     </message>
 </context>
 <context>
@@ -8355,6 +10020,315 @@ system will remind you to check the correctness of the contents.
     <message>
         <source>column </source>
         <translation type="unfinished">sloupec </translation>
+    </message>
+</context>
+<context>
+    <name>KxTableColorStyle</name>
+    <message>
+        <source>Black</source>
+        <translation type="unfinished">Černá</translation>
+    </message>
+    <message>
+        <source>White</source>
+        <translation type="unfinished">Bílá</translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <translation type="unfinished">Červená</translation>
+    </message>
+    <message>
+        <source>Bright Green</source>
+        <translation type="unfinished">Jasně zelená</translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <translation type="unfinished">Modrá</translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <translation type="unfinished">Žlutá</translation>
+    </message>
+    <message>
+        <source>Pink</source>
+        <translation type="unfinished">Růžová</translation>
+    </message>
+    <message>
+        <source>Turquoise</source>
+        <translation type="unfinished">Tyrkysová</translation>
+    </message>
+    <message>
+        <source>Dark Red</source>
+        <translation type="unfinished">Tmavě červená</translation>
+    </message>
+    <message>
+        <source>Green</source>
+        <translation type="unfinished">Zelena</translation>
+    </message>
+    <message>
+        <source>Dark Blue</source>
+        <translation type="unfinished">Tmavě modrá</translation>
+    </message>
+    <message>
+        <source>Dark Yellow</source>
+        <translation type="unfinished">Tmavě žlutá</translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <translation type="unfinished">Fialová</translation>
+    </message>
+    <message>
+        <source>Teal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-25%</source>
+        <translation type="unfinished">Šedá-25%</translation>
+    </message>
+    <message>
+        <source>Gray-50%</source>
+        <translation type="unfinished">Šedá-50%</translation>
+    </message>
+    <message>
+        <source>Periwinkle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <translation type="unfinished">Švestková</translation>
+    </message>
+    <message>
+        <source>vIvory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Turquoise</source>
+        <translation type="unfinished">Světle tyrkysová</translation>
+    </message>
+    <message>
+        <source>Dark Purple</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Coral</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OceanBlue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IceBlue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sky Blue</source>
+        <translation type="unfinished">Nebesky modrá</translation>
+    </message>
+    <message>
+        <source>Light Green</source>
+        <translation type="unfinished">Světle zelená</translation>
+    </message>
+    <message>
+        <source>Light Yellow</source>
+        <translation type="unfinished">Světle žlutá</translation>
+    </message>
+    <message>
+        <source>Pale Blue</source>
+        <translation type="unfinished">Bledě modrá</translation>
+    </message>
+    <message>
+        <source>Rose</source>
+        <translation type="unfinished">Růžová</translation>
+    </message>
+    <message>
+        <source>Lavender</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tan</source>
+        <translation type="unfinished">Opálená</translation>
+    </message>
+    <message>
+        <source>Light Blue</source>
+        <translation type="unfinished">Světle modrá</translation>
+    </message>
+    <message>
+        <source>Aqua</source>
+        <translation type="unfinished">Voda</translation>
+    </message>
+    <message>
+        <source>Lime</source>
+        <translation type="unfinished">Limetková</translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <translation type="unfinished">Zlatá</translation>
+    </message>
+    <message>
+        <source>Light Orange</source>
+        <translation type="unfinished">Světle oranžová</translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <translation type="unfinished">Oranžová</translation>
+    </message>
+    <message>
+        <source>Blue-Gray</source>
+        <translation type="unfinished">Modrošedá</translation>
+    </message>
+    <message>
+        <source>Gray-40%</source>
+        <translation type="unfinished">Šedá-40%</translation>
+    </message>
+    <message>
+        <source>Dark Teal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sea Green</source>
+        <translation type="unfinished">Mořská zelená</translation>
+    </message>
+    <message>
+        <source>Dark Green</source>
+        <translation type="unfinished">Tmavě zelená</translation>
+    </message>
+    <message>
+        <source>Olive Green</source>
+        <translation type="unfinished">Olivově zelená</translation>
+    </message>
+    <message>
+        <source>Brown</source>
+        <translation type="unfinished">Hnědá</translation>
+    </message>
+    <message>
+        <source>Indigo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gray-80%</source>
+        <translation type="unfinished">Šedá-80%</translation>
+    </message>
+    <message>
+        <source>Gray-5%</source>
+        <translation type="unfinished">Šedá-5%</translation>
+    </message>
+    <message>
+        <source>Gray-10%</source>
+        <translation type="unfinished">Šedá-10%</translation>
+    </message>
+    <message>
+        <source>Gray-12.5%</source>
+        <translation type="unfinished">Šedá-12,5%</translation>
+    </message>
+    <message>
+        <source>Gray-15%</source>
+        <translation type="unfinished">Šedá-15%</translation>
+    </message>
+    <message>
+        <source>Gray-20%</source>
+        <translation type="unfinished">Šedá-20%</translation>
+    </message>
+    <message>
+        <source>Gray-30%</source>
+        <translation type="unfinished">Šedá-30%</translation>
+    </message>
+    <message>
+        <source>Gray-35%</source>
+        <translation type="unfinished">Šedá-35%</translation>
+    </message>
+    <message>
+        <source>Gray-37.5%</source>
+        <translation type="unfinished">Šedá-37,5%</translation>
+    </message>
+    <message>
+        <source>Gray-45%</source>
+        <translation type="unfinished">Šedá-45%</translation>
+    </message>
+    <message>
+        <source>Gray-55%</source>
+        <translation type="unfinished">Šedá-55%</translation>
+    </message>
+    <message>
+        <source>Gray-60%</source>
+        <translation type="unfinished">Šedá-60%</translation>
+    </message>
+    <message>
+        <source>Gray-62.5%</source>
+        <translation type="unfinished">Šedá-62,5%</translation>
+    </message>
+    <message>
+        <source>Gray-65%</source>
+        <translation type="unfinished">Šedá-65%</translation>
+    </message>
+    <message>
+        <source>Gray-70%</source>
+        <translation type="unfinished">Šedá-70%</translation>
+    </message>
+    <message>
+        <source>Gray-75%</source>
+        <translation type="unfinished">Šedá-75%</translation>
+    </message>
+    <message>
+        <source>Gray-85%</source>
+        <translation type="unfinished">Šedá-85%</translation>
+    </message>
+    <message>
+        <source>Gray-87.5%</source>
+        <translation type="unfinished">Šedá-87,5%</translation>
+    </message>
+    <message>
+        <source>Gray-90%</source>
+        <translation type="unfinished">Šedá-90%</translation>
+    </message>
+    <message>
+        <source>Gray-95%</source>
+        <translation type="unfinished">Šedá-95%</translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleApplyClearFmtTriggerCommand</name>
+    <message>
+        <source>Apply and Clear Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleApplyMaintainFmtTriggerCommand</name>
+    <message>
+        <source>Apply (and Maintain Formatting)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleDeleteTriggerCommand</name>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished">Smazat</translation>
+    </message>
+    <message>
+        <source>Do you want to delete style %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleDuplicateTriggerCommand</name>
+    <message>
+        <source>Duplicate</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleModifyTriggerCommand</name>
+    <message>
+        <source>Modify</source>
+        <translation type="unfinished">Upravit</translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleSetDefaultTriggerCommand</name>
+    <message>
+        <source>Set As Default</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8410,6 +10384,49 @@ system will remind you to check the correctness of the contents.
     <message>
         <source>Data preview:</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTotalsList</name>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Žádný</translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <translation type="unfinished">Průměr</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <translation type="unfinished">Počet</translation>
+    </message>
+    <message>
+        <source>Count Numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <translation type="unfinished">Suma</translation>
+    </message>
+    <message>
+        <source>StdDev</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Var</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Functions...</source>
+        <translation type="unfinished">Další funkce...</translation>
     </message>
 </context>
 <context>
@@ -8968,6 +10985,69 @@ t</source>
     </message>
 </context>
 <context>
+    <name>KxWidgetCellsFont</name>
+    <message>
+        <source>Format Cells</source>
+        <translation type="unfinished">Formát buněk</translation>
+    </message>
+    <message>
+        <source>&amp;Font:</source>
+        <translation type="unfinished">Písmo:</translation>
+    </message>
+    <message>
+        <source>F&amp;ont style:</source>
+        <translation type="unfinished">Styl písma:</translation>
+    </message>
+    <message>
+        <source>&amp;Size:</source>
+        <translation type="unfinished">Velikost:</translation>
+    </message>
+    <message>
+        <source>&amp;Underline:</source>
+        <translation type="unfinished">podtržení:</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Žádný</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="unfinished">Jednoduchý</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color:</source>
+        <translation type="unfinished">&amp;Barva:</translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished">Efekty</translation>
+    </message>
+    <message>
+        <source>Stri&amp;kethrough</source>
+        <translation type="unfinished">Přeškrtnuté</translation>
+    </message>
+    <message>
+        <source>Sup&amp;erscript</source>
+        <translation type="unfinished">Horní ind&amp;ex</translation>
+    </message>
+    <message>
+        <source>Su&amp;bscript</source>
+        <translation type="unfinished">Dolní in&amp;dex</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">Náhled</translation>
+    </message>
+    <message>
+        <source>Clea&amp;r</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWidgetFont</name>
     <message>
         <source>&amp;Color:</source>
@@ -9028,6 +11108,65 @@ t</source>
     <message>
         <source>Sup&amp;erscript</source>
         <translation type="unfinished">Horní ind&amp;ex</translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetHeaderFont</name>
+    <message>
+        <source>Format Cells</source>
+        <translation type="unfinished">Formát buněk</translation>
+    </message>
+    <message>
+        <source>&amp;Font:</source>
+        <translation type="unfinished">Písmo:</translation>
+    </message>
+    <message>
+        <source>F&amp;ont style:</source>
+        <translation type="unfinished">Styl písma:</translation>
+    </message>
+    <message>
+        <source>&amp;Size:</source>
+        <translation type="unfinished">Velikost:</translation>
+    </message>
+    <message>
+        <source>&amp;Underline:</source>
+        <translation type="unfinished">podtržení:</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Žádný</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="unfinished">Jednoduchý</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color:</source>
+        <translation type="unfinished">&amp;Barva:</translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished">Efekty</translation>
+    </message>
+    <message>
+        <source>Stri&amp;kethrough</source>
+        <translation type="unfinished">Přeškrtnuté</translation>
+    </message>
+    <message>
+        <source>Sup&amp;erscript</source>
+        <translation type="unfinished">Horní ind&amp;ex</translation>
+    </message>
+    <message>
+        <source>Su&amp;bscript</source>
+        <translation type="unfinished">Dolní in&amp;dex</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">Náhled</translation>
     </message>
 </context>
 <context>
@@ -9171,6 +11310,14 @@ t</source>
         <source>Sample</source>
         <translation type="unfinished">Vzorek</translation>
     </message>
+    <message>
+        <source>gradientFill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>moreColor</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWidgetProtection</name>
@@ -9223,6 +11370,17 @@ t</source>
     </message>
 </context>
 <context>
+    <name>KxetDlgCheckCompatibility</name>
+    <message>
+        <source>Compatibility Checker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;heck compatibility when saving this workbook.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OpenFileDialog</name>
     <message>
         <source>Open</source>
@@ -9270,10 +11428,6 @@ t</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>@ET_Style?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>A macro is currently recording. Click to stop recording.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9284,22 +11438,6 @@ t</source>
     <message>
         <source>Answer</source>
         <translation type="unfinished">Odpověď</translation>
-    </message>
-    <message>
-        <source>Aqua</source>
-        <translation type="unfinished">Voda</translation>
-    </message>
-    <message>
-        <source>Black</source>
-        <translation type="unfinished">Černá</translation>
-    </message>
-    <message>
-        <source>Blue</source>
-        <translation type="unfinished">Modrá</translation>
-    </message>
-    <message>
-        <source>Blue-Gray</source>
-        <translation type="unfinished">Modrošedá</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -9316,14 +11454,6 @@ t</source>
     <message>
         <source>Bottom Aligned</source>
         <translation type="unfinished">Zarovnáno dolů</translation>
-    </message>
-    <message>
-        <source>Bright Green</source>
-        <translation type="unfinished">Jasně zelená</translation>
-    </message>
-    <message>
-        <source>Brown</source>
-        <translation type="unfinished">Hnědá</translation>
     </message>
     <message>
         <source>Center</source>
@@ -9350,40 +11480,12 @@ t</source>
         <translation type="unfinished">Barva</translation>
     </message>
     <message>
-        <source>Coral</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Create a linearity report to see where the problem is.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Create the type of report that you specify, and place each report on a separate sheet in the workbook.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark Blue</source>
-        <translation type="unfinished">Tmavě modrá</translation>
-    </message>
-    <message>
-        <source>Dark Green</source>
-        <translation type="unfinished">Tmavě zelená</translation>
-    </message>
-    <message>
-        <source>Dark Purple</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark Red</source>
-        <translation type="unfinished">Tmavě červená</translation>
-    </message>
-    <message>
-        <source>Dark Teal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark Yellow</source>
-        <translation type="unfinished">Tmavě žlutá</translation>
     </message>
     <message>
         <source>Degrees</source>
@@ -9422,106 +11524,6 @@ t</source>
         <translation type="unfinished">Hlavní</translation>
     </message>
     <message>
-        <source>Gold</source>
-        <translation type="unfinished">Zlatá</translation>
-    </message>
-    <message>
-        <source>Gray-10%</source>
-        <translation type="unfinished">Šedá-10%</translation>
-    </message>
-    <message>
-        <source>Gray-12.5%</source>
-        <translation type="unfinished">Šedá-12,5%</translation>
-    </message>
-    <message>
-        <source>Gray-15%</source>
-        <translation type="unfinished">Šedá-15%</translation>
-    </message>
-    <message>
-        <source>Gray-20%</source>
-        <translation type="unfinished">Šedá-20%</translation>
-    </message>
-    <message>
-        <source>Gray-25%</source>
-        <translation type="unfinished">Šedá-25%</translation>
-    </message>
-    <message>
-        <source>Gray-30%</source>
-        <translation type="unfinished">Šedá-30%</translation>
-    </message>
-    <message>
-        <source>Gray-35%</source>
-        <translation type="unfinished">Šedá-35%</translation>
-    </message>
-    <message>
-        <source>Gray-37.5%</source>
-        <translation type="unfinished">Šedá-37,5%</translation>
-    </message>
-    <message>
-        <source>Gray-40%</source>
-        <translation type="unfinished">Šedá-40%</translation>
-    </message>
-    <message>
-        <source>Gray-45%</source>
-        <translation type="unfinished">Šedá-45%</translation>
-    </message>
-    <message>
-        <source>Gray-5%</source>
-        <translation type="unfinished">Šedá-5%</translation>
-    </message>
-    <message>
-        <source>Gray-50%</source>
-        <translation type="unfinished">Šedá-50%</translation>
-    </message>
-    <message>
-        <source>Gray-55%</source>
-        <translation type="unfinished">Šedá-55%</translation>
-    </message>
-    <message>
-        <source>Gray-60%</source>
-        <translation type="unfinished">Šedá-60%</translation>
-    </message>
-    <message>
-        <source>Gray-62.5%</source>
-        <translation type="unfinished">Šedá-62,5%</translation>
-    </message>
-    <message>
-        <source>Gray-65%</source>
-        <translation type="unfinished">Šedá-65%</translation>
-    </message>
-    <message>
-        <source>Gray-70%</source>
-        <translation type="unfinished">Šedá-70%</translation>
-    </message>
-    <message>
-        <source>Gray-75%</source>
-        <translation type="unfinished">Šedá-75%</translation>
-    </message>
-    <message>
-        <source>Gray-80%</source>
-        <translation type="unfinished">Šedá-80%</translation>
-    </message>
-    <message>
-        <source>Gray-85%</source>
-        <translation type="unfinished">Šedá-85%</translation>
-    </message>
-    <message>
-        <source>Gray-87.5%</source>
-        <translation type="unfinished">Šedá-87,5%</translation>
-    </message>
-    <message>
-        <source>Gray-90%</source>
-        <translation type="unfinished">Šedá-90%</translation>
-    </message>
-    <message>
-        <source>Gray-95%</source>
-        <translation type="unfinished">Šedá-95%</translation>
-    </message>
-    <message>
-        <source>Green</source>
-        <translation type="unfinished">Zelena</translation>
-    </message>
-    <message>
         <source>Horizontal</source>
         <translation type="unfinished">Vodorovně</translation>
     </message>
@@ -9530,24 +11532,12 @@ t</source>
         <translation type="unfinished">Vodorovně rozloženo</translation>
     </message>
     <message>
-        <source>Ice Blue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Indents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Indigo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Italic</source>
         <translation type="unfinished">Zkosené</translation>
-    </message>
-    <message>
-        <source>Ivory</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Justify</source>
@@ -9558,36 +11548,8 @@ t</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Lavender</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Left</source>
         <translation type="unfinished">Vlevo</translation>
-    </message>
-    <message>
-        <source>Light Blue</source>
-        <translation type="unfinished">Světle modrá</translation>
-    </message>
-    <message>
-        <source>Light Green</source>
-        <translation type="unfinished">Světle zelená</translation>
-    </message>
-    <message>
-        <source>Light Orange</source>
-        <translation type="unfinished">Světle oranžová</translation>
-    </message>
-    <message>
-        <source>Light Turquoise</source>
-        <translation type="unfinished">Světle tyrkysová</translation>
-    </message>
-    <message>
-        <source>Light Yellow</source>
-        <translation type="unfinished">Světle žlutá</translation>
-    </message>
-    <message>
-        <source>Lime</source>
-        <translation type="unfinished">Limetková</translation>
     </message>
     <message>
         <source>Limits</source>
@@ -9630,48 +11592,20 @@ t</source>
         <translation type="unfinished">Žádný</translation>
     </message>
     <message>
-        <source>Olive Green</source>
-        <translation type="unfinished">Olivově zelená</translation>
-    </message>
-    <message>
         <source>One of the cells in the worksheet became an error value when Solver tried certain values for the Variable Cells.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Orange</source>
-        <translation type="unfinished">Oranžová</translation>
     </message>
     <message>
         <source>Orientation</source>
         <translation type="unfinished">Orientace</translation>
     </message>
     <message>
-        <source>Pale Blue</source>
-        <translation type="unfinished">Bledě modrá</translation>
-    </message>
-    <message>
         <source>Perhaps some cells that are not Variable Cells are marked as Integer or Binary.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Periwinkle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pink</source>
-        <translation type="unfinished">Růžová</translation>
-    </message>
-    <message>
-        <source>Plum</source>
-        <translation type="unfinished">Švestková</translation>
-    </message>
-    <message>
         <source>Reading Order</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Red</source>
-        <translation type="unfinished">Červená</translation>
     </message>
     <message>
         <source>Reports</source>
@@ -9686,20 +11620,12 @@ t</source>
         <translation type="unfinished">Vpravo</translation>
     </message>
     <message>
-        <source>Rose</source>
-        <translation type="unfinished">Růžová</translation>
-    </message>
-    <message>
         <source>Rotated down %1 Degrees</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rotated up %1 Degrees</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sea Green</source>
-        <translation type="unfinished">Mořská zelená</translation>
     </message>
     <message>
         <source>Sensitivity</source>
@@ -9720,10 +11646,6 @@ t</source>
     <message>
         <source>Size</source>
         <translation type="unfinished">Velikost</translation>
-    </message>
-    <message>
-        <source>Sky Blue</source>
-        <translation type="unfinished">Nebesky modrá</translation>
     </message>
     <message>
         <source>Solver can make the Objective Cell as large (or small when minimizing) as it wants.</source>
@@ -9787,14 +11709,6 @@ t</source>
 </translation>
     </message>
     <message>
-        <source>Tan</source>
-        <translation type="unfinished">Opálená</translation>
-    </message>
-    <message>
-        <source>Teal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The Objective Cell values do not converge.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9819,10 +11733,6 @@ t</source>
         <translation type="unfinished">Zarovnáno nahoru</translation>
     </message>
     <message>
-        <source>Turquoise</source>
-        <translation type="unfinished">Tyrkysová</translation>
-    </message>
-    <message>
         <source>Underline</source>
         <translation type="unfinished">Podtržení</translation>
     </message>
@@ -9843,10 +11753,6 @@ t</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Violet</source>
-        <translation type="unfinished">Fialová</translation>
-    </message>
-    <message>
         <source>WPS Spreadsheets cannot complete this task with available resources. Choose less data or close other applications.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9855,16 +11761,8 @@ t</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>White</source>
-        <translation type="unfinished">Bílá</translation>
-    </message>
-    <message>
         <source>Wrap</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Yellow</source>
-        <translation type="unfinished">Žlutá</translation>
     </message>
     <message>
         <source>You are not allowed to add the default style name.</source>
@@ -9888,10 +11786,6 @@ t</source>
     </message>
     <message>
         <source>Left-to-Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sea</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9946,11 +11840,31 @@ t</source>
         <translation type="unfinished">Zrušit</translation>
     </message>
     <message>
-        <source>&quot;Another user&quot; is editing.</source>
+        <source>Click Notify to open a read-only copy of the document and receive notification when the document is no longer in use.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click Notify to open a read-only copy of the document and receive notification when the document is no longer in use.</source>
+        <source>&quot;%s&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SelectODBCDSNUi</name>
+    <message>
+        <source>Data Connection Wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Connect to ODBC Data Source&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;  &lt;/span&gt;Choose the ODBC data source you want to connect to.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ODBC data sources:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9991,6 +11905,10 @@ t</source>
     <message>
         <source>The second step: Select table and fields</source>
         <translation type="unfinished">Druhý krok: vyberte tabulku a pole</translation>
+    </message>
+    <message>
+        <source>Catalog name:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please select the target table to be imported from the combo box. All fields will be listed in the left list box. Select the fields needed to be imported there, and the selected fields will be listed in the right list box.</source>
@@ -10115,7 +12033,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Změnit</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -10353,10 +12271,175 @@ t</source>
     </message>
 </context>
 <context>
+    <name>etContentPosition</name>
+    <message>
+        <source>PROPERTY</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move and &amp;size with cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Move but don&apos;t &amp;size with cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Don&apos;t move or size with cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Print object</source>
+        <translation type="unfinished">Tisknout objekt</translation>
+    </message>
+    <message>
+        <source>Lock</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>etContentTextbox</name>
+    <message>
+        <source>&amp;Vertical alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Te&amp;xt direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished">Vodorovně</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished">Svisle</translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation type="unfinished">Otočit veškerý text o 90°</translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation type="unfinished">Otočit veškerý text o 270°</translation>
+    </message>
+    <message>
+        <source>Stacked</source>
+        <translation type="unfinished">Zaplněný</translation>
+    </message>
+    <message>
+        <source>Text c&amp;ustom angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Order of lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-to-left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left-to-right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Borderless</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Narrow Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wide Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Widening Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Left Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter 0 to 55.88 cm of value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Right margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Top margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Bottom margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overflow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Wrap text in shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Columns...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>etTableStyle</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Formulář</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Table Style:&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Table Style Options:&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>evaluateFormula</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zavřít</translation>
     </message>
     <message>
         <source>&amp;Evaluate</source>
@@ -10427,6 +12510,152 @@ t</source>
     <message>
         <source>Target value:</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished">Normální</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation type="unfinished">Uložit &amp;do</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">Procházet...</translation>
+    </message>
+    <message>
+        <source>Export range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active &amp;Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Entire Workbook</source>
+        <translation type="unfinished">Celý sešit</translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished">Možnosti exportu</translation>
+    </message>
+    <message>
+        <source>Summary &amp;information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hyper&amp;link</source>
+        <translation type="unfinished">Hypertext. odkaz</translation>
+    </message>
+    <message>
+        <source>New &amp;Comment</source>
+        <translation type="unfinished">Nový komentář</translation>
+    </message>
+    <message>
+        <source>Select OFD Service Provider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suwell&amp;K</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Foxit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation type="unfinished">Nastavení zabezpečení</translation>
+    </message>
+    <message>
+        <source>Password to protect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pass&amp;word:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;onfirm:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to modi&amp;fy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to cop&amp;y</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to &amp;add comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Printing permission:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation type="unfinished">Tisk není povolený</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished">Tisk v nízké kvalitě</translation>
+    </message>
+    <message>
+        <source>File password:</source>
+        <translation type="unfinished">Heslo souboru:</translation>
+    </message>
+    <message>
+        <source>Passwor&amp;d:</source>
+        <translation type="unfinished">Heslo:</translation>
+    </message>
+    <message>
+        <source>Confir&amp;m:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close w&amp;hen export completes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
     </message>
 </context>
 <context>
@@ -10633,26 +12862,62 @@ Document</source>
     </message>
 </context>
 <context>
-    <name>kxDlgThesaurus</name>
+    <name>kxEtHeadFontDlg</name>
     <message>
-        <source>Thesaurus</source>
+        <source> (title)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Current word:</source>
+        <source> (text)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Alternatives:</source>
+        <source>Regular</source>
+        <translation type="unfinished">Normání</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished">Zkosené</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished">Tučné</translation>
+    </message>
+    <message>
+        <source>Bold Italic</source>
+        <translation type="unfinished">Tučné zkosené</translation>
+    </message>
+    <message>
+        <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Replace</source>
-        <translation type="unfinished">Nahradit</translation>
+        <source>This is a TrueType font. This font will be used on both printer and screen.</source>
+        <translation type="unfinished">Toto je písmo TrueType. Bude vypadat stejně na obrazovce i na tiskárně.</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
+        <source>The font is designed for plotter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">Automaticky</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation type="unfinished">WPS Tabulky</translation>
+    </message>
+    <message>
+        <source>This font style is not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font size must be between %1 and %2 points.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10915,6 +13180,10 @@ Document</source>
     </message>
     <message>
         <source>What do you want to do?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

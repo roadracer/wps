@@ -24,28 +24,28 @@
 <context>
     <name>KSlideLibraryLogic</name>
     <message>
-        <source>Cover</source>
+        <source>ContentSlideType_Cover</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Catalog</source>
-        <translation type="unfinished">Katalog</translation>
-    </message>
-    <message>
-        <source>Body</source>
+        <source>ContentSlideType_Catalog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Transition</source>
-        <translation type="unfinished">Přechod</translation>
-    </message>
-    <message>
-        <source>Ending</source>
+        <source>ContentSlideType_Main</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>More</source>
-        <translation type="unfinished">Více</translation>
+        <source>ContentSlideType_Trans</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Ending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ContentSlideType_More</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -95,15 +95,15 @@
 <context>
     <name>KTemplateDownloadFinishTip</name>
     <message>
-        <source>Apply</source>
-        <translation type="unfinished">Použít</translation>
-    </message>
-    <message>
-        <source>Template download succeeded</source>
+        <source>apply</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Template download failed</source>
+        <source>template download success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>template download failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

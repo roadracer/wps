@@ -226,6 +226,14 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
         <translation type="unfinished">Odpojit</translation>
     </message>
     <message>
+        <source>Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="unfinished">Nastavení</translation>
+    </message>
+    <message>
         <source>About</source>
         <translation type="unfinished"></translation>
     </message>
@@ -250,67 +258,19 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
         <translation type="unfinished">Zrušit</translation>
     </message>
     <message>
-        <source>Failed to start local reading engine.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start TCP Client Connection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TCP Client Connected.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TCP Client Disconnected.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Connection Denied.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Connection Timeout.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TCP Client Connection Error.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to read content.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Text Reading Client.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="unfinished">Varování</translation>
-    </message>
-    <message>
-        <source>Invalid IP Address.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid Port Number.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting</source>
-        <translation type="unfinished">Nastavení</translation>
-    </message>
-    <message>
         <source>Failed to connect with speech service client.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Failed to start local reading engine.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to acquire certification from speech server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start TCP Client Connection.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -330,7 +290,27 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>TCP Client Connected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TCP Client Disconnected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed connection with TCP Client: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connection Denied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connection Timeout.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TCP Client Connection Error.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -338,7 +318,27 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Failed to read content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Text Reading Client.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Varování</translation>
+    </message>
+    <message>
+        <source>Invalid IP Address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Port Number.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -389,11 +389,23 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>IVTTS - failed to prepare file export.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>IVTTS - failed to destroy TTS session.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>IVTTS - failed to read text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IVTTS - failed to create speech for the text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IVTTS - failed to add text to the export file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -406,18 +418,6 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>IVTTS - failed to set voice speed: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>IVTTS - failed to prepare file export.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>IVTTS - failed to create speech for the text.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>IVTTS - failed to add text to the export file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

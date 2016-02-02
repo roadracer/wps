@@ -17,16 +17,16 @@
         <translation type="unfinished">288 bodů</translation>
     </message>
     <message>
-        <source>3-D Color</source>
-        <translation type="unfinished">3-D barva</translation>
-    </message>
-    <message>
         <source>3-D On/Off</source>
         <translation type="unfinished">3-D zap/vyp</translation>
     </message>
     <message>
         <source>36 pt</source>
         <translation type="unfinished">36 bodů</translation>
+    </message>
+    <message>
+        <source>3D Color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>72 pt</source>
@@ -89,6 +89,10 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
         <source>Surface</source>
         <translation type="unfinished">Povrch</translation>
     </message>
@@ -134,6 +138,14 @@
     <message>
         <source>Line Style</source>
         <translation type="unfinished">Styl čáry</translation>
+    </message>
+    <message>
+        <source>More Border Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
     </message>
 </context>
 <context>
@@ -545,6 +557,14 @@
         <translation type="unfinished">Barva čáry</translation>
     </message>
     <message>
+        <source>Line Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash</source>
         <translation type="unfinished">Dlouhá čárka</translation>
     </message>
@@ -563,6 +583,10 @@
     <message>
         <source>More Fill Colors</source>
         <translation type="unfinished">Více barev výplně</translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation type="unfinished">Více barev písma</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -595,10 +619,6 @@
     <message>
         <source>Oval</source>
         <translation type="unfinished">Ovál</translation>
-    </message>
-    <message>
-        <source>Patterned Lines</source>
-        <translation type="unfinished">Čáry se vzorem</translation>
     </message>
     <message>
         <source>Rectangle</source>
@@ -733,6 +753,10 @@
         <translation type="unfinished">Přichytit k mřížce</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation type="unfinished">Plný</translation>
     </message>
@@ -747,10 +771,6 @@
     <message>
         <source>Vertical Text Box</source>
         <translation type="unfinished">TextBox svisle</translation>
-    </message>
-    <message>
-        <source>Weight</source>
-        <translation type="unfinished">Šířka</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -900,8 +920,20 @@ vystředit</translation>
         <translation type="unfinished">Spojit a vystředit</translation>
     </message>
     <message>
+        <source>More Fill Colors</source>
+        <translation type="unfinished">Více barev výplně</translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation type="unfinished">Více barev písma</translation>
+    </message>
+    <message>
         <source>Percent Style</source>
         <translation type="unfinished">Styl procent</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
     </message>
     <message>
         <source>Unmerge Cells</source>
@@ -968,6 +1000,55 @@ vystředit</translation>
     <message>
         <source>Close Full Screen</source>
         <translation type="unfinished">Zavřít celoobrazovkový režim</translation>
+    </message>
+</context>
+<context>
+    <name>classics.list</name>
+    <message>
+        <source>Convert to Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Range Properties</source>
+        <translation type="unfinished">Vlastnosti datové řady</translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation type="unfinished">Upravit
+OLE DB dotaz</translation>
+    </message>
+    <message>
+        <source>Edit Query</source>
+        <translation type="unfinished">Upravit dotaz</translation>
+    </message>
+    <message>
+        <source>Export Table to SharePoint List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>External Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh All</source>
+        <translation type="unfinished">Obnovit vše</translation>
+    </message>
+    <message>
+        <source>Refresh Data</source>
+        <translation type="unfinished">Obnovit data</translation>
+    </message>
+    <message>
+        <source>Resize Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total Row</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1074,6 +1155,10 @@ vystředit</translation>
     <message>
         <source>Reset Picture</source>
         <translation type="unfinished">Resetovat obrázes</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -1270,10 +1355,6 @@ vystředit</translation>
 <context>
     <name>classics.shadow_settings</name>
     <message>
-        <source>Eyedropper</source>
-        <translation type="unfinished">Kapátko</translation>
-    </message>
-    <message>
         <source>More Shadow Colors</source>
         <translation type="unfinished">Více barev stínu</translation>
     </message>
@@ -1304,6 +1385,10 @@ vystředit</translation>
     <message>
         <source>Shadow On/Off</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
     </message>
 </context>
 <context>
@@ -1604,43 +1689,15 @@ vystředit</translation>
 <context>
     <name>classics.word_art</name>
     <message>
-        <source>Arch Down (Curve)</source>
-        <translation type="unfinished"></translation>
+        <source>Align Left</source>
+        <translation type="unfinished">Zarovnat vlevo</translation>
     </message>
     <message>
-        <source>Arch Down (Pour)</source>
-        <translation type="unfinished"></translation>
+        <source>Align Right</source>
+        <translation type="unfinished">Zarovnat vpravo</translation>
     </message>
     <message>
-        <source>Arch Up (Curve)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arch Up (Pour)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Button (Curve)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Button (Pour)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Can Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Can Up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cascade Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cascade Up</source>
+        <source>Art Word Gallery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1648,59 +1705,11 @@ vystředit</translation>
         <translation type="unfinished">Střed</translation>
     </message>
     <message>
-        <source>Chevron Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chevron Up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Circle (Curve)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Circle (Pour)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Curve Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Curve Up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Custom</source>
         <translation type="unfinished">Vlastní</translation>
     </message>
     <message>
-        <source>Deflate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deflate Bottom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deflate Inflate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deflate Inflate Deflate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deflate Top</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Double Wave 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Double Wave 2</source>
+        <source>Distributed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1708,35 +1717,11 @@ vystředit</translation>
         <translation type="unfinished">Upravit text</translation>
     </message>
     <message>
-        <source>Fade Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fade Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fade Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fade Up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Format WordArt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Inflate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inflate Bottom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inflate Top</source>
+        <source>Justify</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1744,51 +1729,15 @@ vystředit</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Letter Justify</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Loose</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Plain Text</source>
-        <translation type="unfinished">Prostý text</translation>
     </message>
     <message>
         <source>Right Align</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ring Inside</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ring Outside</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slant Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slant Up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Stop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Stretch Justify</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Triangle Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Triangle Up</source>
+        <source>Transform</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1797,18 +1746,6 @@ vystředit</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Wave 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Wave 2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Word Justify</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1829,10 +1766,6 @@ vystředit</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WordArt Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1893,6 +1826,10 @@ vystředit</translation>
         <translation type="unfinished">Importovat data</translation>
     </message>
     <message>
+        <source>List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Picture</source>
         <translation type="unfinished">Obrázek</translation>
     </message>
@@ -1940,20 +1877,20 @@ vystředit</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>AutoShapes</source>
-        <translation type="unfinished">Automatické tvary</translation>
-    </message>
-    <message>
-        <source>Axis Title</source>
-        <translation type="unfinished">Název osy</translation>
-    </message>
-    <message>
         <source>Backup</source>
         <translation type="unfinished">Záloha</translation>
     </message>
     <message>
         <source>Backup Management</source>
         <translation type="unfinished">Správa zálohování</translation>
+    </message>
+    <message>
+        <source>Banded Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Banded Rows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bold</source>
@@ -1984,14 +1921,6 @@ vystředit</translation>
         <translation type="unfinished">Graf</translation>
     </message>
     <message>
-        <source>Chart Area</source>
-        <translation type="unfinished">Oblast grafu</translation>
-    </message>
-    <message>
-        <source>Chart Title</source>
-        <translation type="unfinished">Název grafu</translation>
-    </message>
-    <message>
         <source>Check Auto Backup</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2016,8 +1945,8 @@ vystředit</translation>
         <translation type="unfinished">Zavřít</translation>
     </message>
     <message>
-        <source>Cloud Link</source>
-        <translation type="unfinished">Odkaz do cloudu</translation>
+        <source>Color Schemes</source>
+        <translation type="unfinished">Barevná schémata</translation>
     </message>
     <message>
         <source>Column</source>
@@ -2044,10 +1973,6 @@ vystředit</translation>
         <translation type="unfinished">Kopírovat</translation>
     </message>
     <message>
-        <source>Create</source>
-        <translation type="unfinished">Vytvořit</translation>
-    </message>
-    <message>
         <source>Curve</source>
         <translation type="unfinished">Křivka</translation>
     </message>
@@ -2068,28 +1993,12 @@ vystředit</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Data Labels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Data Point</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Data Recovery</source>
         <translation type="unfinished">Obnova dat</translation>
     </message>
     <message>
-        <source>Data Table</source>
-        <translation type="unfinished">Tabulka dat</translation>
-    </message>
-    <message>
         <source>Decrease Font Size</source>
         <translation type="unfinished">Zmenšit písmo</translation>
-    </message>
-    <message>
-        <source>Display Units Label</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Docer Entrance</source>
@@ -2098,14 +2007,6 @@ vystředit</translation>
     <message>
         <source>Down</source>
         <translation type="unfinished">Dolů</translation>
-    </message>
-    <message>
-        <source>Down-Bars</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Drop Line</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -2117,10 +2018,6 @@ vystředit</translation>
     </message>
     <message>
         <source>Enter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error Bars</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2168,20 +2065,20 @@ vystředit</translation>
         <translation type="unfinished">Najít přímý odkaz</translation>
     </message>
     <message>
+        <source>First Column</source>
+        <translation type="unfinished">První sloupec</translation>
+    </message>
+    <message>
+        <source>Form Control Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format</source>
         <translation type="unfinished">Formát</translation>
     </message>
     <message>
-        <source>Format Axis</source>
-        <translation type="unfinished">Formátovat osy</translation>
-    </message>
-    <message>
-        <source>Format Data Series</source>
-        <translation type="unfinished">Formátovat datové řady</translation>
-    </message>
-    <message>
-        <source>Format Legend</source>
-        <translation type="unfinished">Formátovat popisky</translation>
+        <source>Formatting</source>
+        <translation type="unfinished">Formátování</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -2196,8 +2093,12 @@ vystředit</translation>
         <translation type="unfinished">Jít na</translation>
     </message>
     <message>
-        <source>Gridlines</source>
-        <translation type="unfinished">Linky mřížky</translation>
+        <source>Gradient</source>
+        <translation type="unfinished">Přechod</translation>
+    </message>
+    <message>
+        <source>Header Row</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Help</source>
@@ -2208,7 +2109,7 @@ vystředit</translation>
         <translation type="unfinished">Při snímání obrazovky skrýt aktuální okno</translation>
     </message>
     <message>
-        <source>High-Low Lines</source>
+        <source>High Resolution Setting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2222,6 +2123,10 @@ vystředit</translation>
     <message>
         <source>Hyperlink</source>
         <translation type="unfinished">Hypertext. odkaz</translation>
+    </message>
+    <message>
+        <source>Image Previewer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -2240,11 +2145,11 @@ vystředit</translation>
         <translation type="unfinished">Zkosené</translation>
     </message>
     <message>
-        <source>Leader Lines</source>
-        <translation type="unfinished"></translation>
+        <source>Last Column</source>
+        <translation type="unfinished">Poslední sloupec</translation>
     </message>
     <message>
-        <source>Legend Keys</source>
+        <source>List Range Popup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2254,6 +2159,30 @@ vystředit</translation>
     <message>
         <source>More Colors</source>
         <translation type="unfinished">Více barev</translation>
+    </message>
+    <message>
+        <source>MoreEffects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoreFill</source>
+        <translation type="unfinished">Výce výplní</translation>
+    </message>
+    <message>
+        <source>MoreFontEffects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoreFontFill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoreFontOutline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoreOutline</source>
+        <translation type="unfinished">Více ohraničení</translation>
     </message>
     <message>
         <source>Name Box</source>
@@ -2276,12 +2205,16 @@ vystředit</translation>
         <translation type="unfinished">Nový sešit Excel 2007/2010 (E)</translation>
     </message>
     <message>
+        <source>New Table Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Workbook</source>
         <translation type="unfinished">Nový sešit</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished">Nový dokument z výchozí šablony</translation>
+        <translation type="unfinished">Nový z výchozí šablony</translation>
     </message>
     <message>
         <source>New from More Templates</source>
@@ -2289,11 +2222,95 @@ vystředit</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished">Nový dokument z online šablony</translation>
+        <translation type="unfinished">Nový z online šablon</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished">Nový dokument z dalších šablon</translation>
+        <translation type="unfinished">Nový z dalších šablon</translation>
+    </message>
+    <message>
+        <source>NewChart Axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart AxisTitle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart ChartArea</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart ChartTitle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart DataLabels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart DataTable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart Datapoint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart DownBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart DropLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart ErrorBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart Gridline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart HighLowLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart LeadLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart Legend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart LegendEntry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart PlotArea</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart Series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart SeriesLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart TrendLine Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart UnitLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart UpBar</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Next</source>
@@ -2353,16 +2370,20 @@ vystředit</translation>
         <translation type="unfinished">Vložit jinak...</translation>
     </message>
     <message>
+        <source>Pattern</source>
+        <translation type="unfinished">Vzor</translation>
+    </message>
+    <message>
+        <source>PicOrTexture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Picture</source>
         <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>PivotTable</source>
         <translation type="unfinished">Kontingenční tabulka</translation>
-    </message>
-    <message>
-        <source>Plot Area</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Previous</source>
@@ -2400,6 +2421,10 @@ Directly</source>
     <message>
         <source>Recent File Management</source>
         <translation type="unfinished">Správa naposledy otevřených souborů</translation>
+    </message>
+    <message>
+        <source>Recently File Management</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Record Macro Statusbar</source>
@@ -2461,10 +2486,6 @@ data</translation>
         <translation type="unfinished">Rychlý výběr</translation>
     </message>
     <message>
-        <source>Series Line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Set</source>
         <translation type="unfinished">Nastavit</translation>
     </message>
@@ -2473,12 +2494,20 @@ data</translation>
         <translation type="unfinished">Nastavit jazyk</translation>
     </message>
     <message>
-        <source>Shapes</source>
-        <translation type="unfinished">Tvary</translation>
+        <source>Shapes Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sheet</source>
         <translation type="unfinished">List</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -2497,8 +2526,21 @@ data</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Table</source>
+        <comment>Table</comment>
+        <translation type="unfinished">Tabulka</translation>
+    </message>
+    <message>
         <source>Table Style</source>
         <translation type="unfinished">Styl tabulky</translation>
+    </message>
+    <message>
+        <source>Table Style Options</source>
+        <translation type="unfinished">Možnosti stylu tabulky</translation>
+    </message>
+    <message>
+        <source>Table Styles</source>
+        <translation type="unfinished">Styly tabulek</translation>
     </message>
     <message>
         <source>Task
@@ -2511,7 +2553,7 @@ Window</source>
         <translation type="unfinished">Okno úloh</translation>
     </message>
     <message>
-        <source>Thesaurus</source>
+        <source>Text Edit Popup Menu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2523,8 +2565,8 @@ Window</source>
         <translation type="unfinished">Nástroje</translation>
     </message>
     <message>
-        <source>Trendline</source>
-        <translation type="unfinished">Trend</translation>
+        <source>Total Row</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Underline</source>
@@ -2537,10 +2579,6 @@ Window</source>
     <message>
         <source>Ungroup</source>
         <translation type="unfinished">Rozdělit</translation>
-    </message>
-    <message>
-        <source>Up Bars</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -2762,12 +2800,16 @@ Window</source>
         <translation type="unfinished">Speciální vlastnosti</translation>
     </message>
     <message>
-        <source>Table Style</source>
-        <translation type="unfinished">Styl tabulky</translation>
+        <source>Table Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Touch Mode</source>
-        <translation type="unfinished">Dotykový režim</translation>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Tool</source>
+        <translation type="unfinished">Nástroj Text</translation>
     </message>
     <message>
         <source>View</source>
@@ -2792,6 +2834,10 @@ Window</source>
 </context>
 <context>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
+    <message>
+        <source>Switch UI</source>
+        <translation type="unfinished">Přepnout vzhled</translation>
+    </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
@@ -2964,8 +3010,16 @@ Window</source>
         <translation type="unfinished">Speciální vlastnosti</translation>
     </message>
     <message>
-        <source>Table Style</source>
-        <translation type="unfinished">Styl tabulky</translation>
+        <source>Table Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Tool</source>
+        <translation type="unfinished">Nástroj Text</translation>
     </message>
     <message>
         <source>View</source>
@@ -3030,8 +3084,83 @@ Window</source>
 <context>
     <name>ongmani.ct_charttools</name>
     <message>
-        <source>Change
-Chart Type</source>
+        <source>Above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AboveChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddAxisTitle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddChartElements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddChartLines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddChartTitle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddDataLabels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddDataTable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddErrorBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddGridLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddLegend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddTrendLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddUpDownBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BestFit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Dole</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">Střed</translation>
+    </message>
+    <message>
+        <source>CenteredOverlay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ChangeChartType</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3039,47 +3168,193 @@ Chart Type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>ChartStyle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Current Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Data</source>
+        <source>DataCallout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Data Table</source>
-        <translation type="unfinished">Tabulka dat</translation>
-    </message>
-    <message>
-        <source>Format Selection</source>
+        <source>DataSection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Labels</source>
+        <source>DropLines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Legend</source>
-        <translation type="unfinished">Legenda</translation>
-    </message>
-    <message>
-        <source>Select
-Data</source>
+        <source>DropLinesAndHighLowLines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Switch
-Column</source>
+        <source>Exponential</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Switch
-Row</source>
+        <source>Format</source>
+        <comment>Chart Element Format</comment>
+        <translation type="unfinished">Formát</translation>
+    </message>
+    <message>
+        <source>HighLowLines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <source>InsideBase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsideEnd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished">Vlevo</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation type="unfinished">Lineární</translation>
+    </message>
+    <message>
+        <source>Linear Forecast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoveChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Moving Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NoLegendKeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Žádný</translation>
+    </message>
+    <message>
+        <source>OutsideEnd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <translation type="unfinished">Procenta</translation>
+    </message>
+    <message>
+        <source>Position</source>
+        <translation type="unfinished">Pozice</translation>
+    </message>
+    <message>
+        <source>PrimaryHorizontalAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryMajorHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryMajorVertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryMinorHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryMinorVertial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryVerticalAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished">Vpravo</translation>
+    </message>
+    <message>
+        <source>SecondaryHorizontalAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryMajorHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryMajorVertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryMinorHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryMinorVertial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryVerticalAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Data</source>
+        <translation type="unfinished">Vybrat data</translation>
+    </message>
+    <message>
+        <source>SeriesLines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished">Ukázat</translation>
+    </message>
+    <message>
+        <source>StandardDeviation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StandardError</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SwitchRowCol</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TypeSection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WithLegendKeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>changeColor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>layoutSection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>speedLayout</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3089,12 +3364,12 @@ Row</source>
         <translation type="unfinished">Rozšířené</translation>
     </message>
     <message>
-        <source>Ascending</source>
-        <translation type="unfinished">Vzestupně</translation>
-    </message>
-    <message>
         <source>AutoFilter</source>
         <translation type="unfinished">AutoFiltr</translation>
+    </message>
+    <message>
+        <source>Clear Highlight Duplicates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear Outline</source>
@@ -3113,8 +3388,8 @@ Row</source>
         <translation type="unfinished">Datové nástroje</translation>
     </message>
     <message>
-        <source>Descending</source>
-        <translation type="unfinished">Sestupně</translation>
+        <source>Duplicates</source>
+        <translation type="unfinished">Duplicity</translation>
     </message>
     <message>
         <source>Edit
@@ -3137,6 +3412,10 @@ OLE DB dotaz</translation>
     <message>
         <source>Hide Detail</source>
         <translation type="unfinished">Skrýt detail</translation>
+    </message>
+    <message>
+        <source>Highlight Duplicates</source>
+        <translation type="unfinished">Zvýraznit duplicity</translation>
     </message>
     <message>
         <source>Import 
@@ -3168,6 +3447,18 @@ Vše</translation>
     <message>
         <source>Refresh Data</source>
         <translation type="unfinished">Obnovit data</translation>
+    </message>
+    <message>
+        <source>Reject Duplicate Entries</source>
+        <translation type="unfinished">Odmítnout duplicitní položky</translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished">Odstranit duplicitu</translation>
+    </message>
+    <message>
+        <source>Set Highlight Duplicates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Settings</source>
@@ -3379,21 +3670,371 @@ COM</translation>
         <translation type="unfinished">3 body</translation>
     </message>
     <message>
-        <source>3-D
-On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>4.5 pt</source>
         <translation type="unfinished">4,5 bodu</translation>
     </message>
     <message>
         <source>6 pt</source>
         <translation type="unfinished">6 bodů</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation type="unfinished">Zarovnat</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="unfinished">Zarovnat dolů</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation type="unfinished">Zarovnat na střed</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished">Zarovnat vlevo</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation type="unfinished">Zarovnat na střed</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished">Zarovnat vpravo</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation type="unfinished">Zarovnat nahoru</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation type="unfinished">Rozvrhnout</translation>
+    </message>
+    <message>
+        <source>Arrow Style</source>
+        <translation type="unfinished">Styl šipek</translation>
+    </message>
+    <message>
+        <source>Arrow Style 1</source>
+        <translation type="unfinished">Šipka styl 1</translation>
+    </message>
+    <message>
+        <source>Arrow Style 10</source>
+        <translation type="unfinished">Šipka styl 10</translation>
+    </message>
+    <message>
+        <source>Arrow Style 11</source>
+        <translation type="unfinished">Šipka styl 11</translation>
+    </message>
+    <message>
+        <source>Arrow Style 2</source>
+        <translation type="unfinished">Šipka styl 2</translation>
+    </message>
+    <message>
+        <source>Arrow Style 3</source>
+        <translation type="unfinished">Šipka styl 3</translation>
+    </message>
+    <message>
+        <source>Arrow Style 4</source>
+        <translation type="unfinished">Šipka styl 4</translation>
+    </message>
+    <message>
+        <source>Arrow Style 5</source>
+        <translation type="unfinished">Šipka styl 5</translation>
+    </message>
+    <message>
+        <source>Arrow Style 6</source>
+        <translation type="unfinished">Šipka styl 6</translation>
+    </message>
+    <message>
+        <source>Arrow Style 7</source>
+        <translation type="unfinished">Šipka styl 7</translation>
+    </message>
+    <message>
+        <source>Arrow Style 8</source>
+        <translation type="unfinished">Šipka styl 8</translation>
+    </message>
+    <message>
+        <source>Arrow Style 9</source>
+        <translation type="unfinished">Šipka styl 9</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation type="unfinished">Přenést dopředu</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation type="unfinished">Přenést dopředu</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished">Změnit tvary</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="unfinished">Čárkovaná</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation type="unfinished">Styl čárkování</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation type="unfinished">Rozložit vodorovně</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation type="unfinished">Rozložit svisle</translation>
+    </message>
+    <message>
+        <source>Edit Points</source>
+        <translation type="unfinished">Upravit body</translation>
+    </message>
+    <message>
+        <source>Edit Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation type="unfinished">Stejná výška</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation type="unfinished">Stejná velikost</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation type="unfinished">Stejná šířka</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation type="unfinished">Překlopit vodorovně</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation type="unfinished">Překlopit svisle</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation type="unfinished">Formát objektu</translation>
+    </message>
+    <message>
+        <source>Format Painter</source>
+        <translation type="unfinished">Kopírovat formát</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation type="unfinished">Libovolné otočení</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation type="unfinished">Záře</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished">Skupina</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished">Výška</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished">Vodorovně</translation>
+    </message>
+    <message>
+        <source>Insert Shapes</source>
+        <translation type="unfinished">Vložit tvary</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation type="unfinished">Dlouhá čárka</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished">Dlouhá čárka tečka</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished">Dlouhá čárka tečka tečka</translation>
+    </message>
+    <message>
+        <source>More Arrows</source>
+        <translation type="unfinished">Více šipek</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation type="unfinished">Více barev výplně</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation type="unfinished">Více barev čáry</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation type="unfinished">Více řádek</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished">Čáry se vzorem</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished">Obrázek</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation type="unfinished">Odraz</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="unfinished">Otočit</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation type="unfinished">Otočit vlevo 90°</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation type="unfinished">Rotace vpravo 90°</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation type="unfinished">Kulatý bod</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation type="unfinished">Rychlý výběr</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation type="unfinished">Přenést dozadu</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished">Odeslat dozadu</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">Nastavení</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation type="unfinished">Stín</translation>
+    </message>
+    <message>
+        <source>Shape Effects</source>
+        <translation type="unfinished">Efekty tvarů</translation>
+    </message>
+    <message>
+        <source>Shape Fill</source>
+        <translation type="unfinished">Výplň tvaru</translation>
+    </message>
+    <message>
+        <source>Shape Outline</source>
+        <translation type="unfinished">Ohraničení tvaru</translation>
+    </message>
+    <message>
+        <source>Shape Size</source>
+        <translation type="unfinished">Velikost tvaru</translation>
+    </message>
+    <message>
+        <source>Shape Styles</source>
+        <translation type="unfinished">Styly tvarů</translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation type="unfinished">Zobrazit mřížku</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Velikost</translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation type="unfinished">Přichytit k mřížce</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation type="unfinished">Plný</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation type="unfinished">Čtvercový bod</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation type="unfinished">Textový rámeček</translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation type="unfinished">Rozdělit</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished">Svisle</translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation type="unfinished">Šířka</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished">Šířka</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_drawingtools_vml</name>
+    <message>
+        <source>0.25 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.5 pt.</source>
+        <translation type="unfinished">0,5 bodu</translation>
+    </message>
+    <message>
+        <source>0.75 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5 pt.</source>
+        <translation type="unfinished">1,5 bodu</translation>
+    </message>
+    <message>
+        <source>2.25 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4.5 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 pt.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Align</source>
@@ -3504,12 +4145,28 @@ On</source>
         <translation type="unfinished">Čárkovaná</translation>
     </message>
     <message>
-        <source>Dash Dot</source>
+        <source>Dash Style</source>
+        <translation type="unfinished">Styl čárkování</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Style</source>
-        <translation type="unfinished">Styl čárkování</translation>
+        <source>Dash-Dot-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation type="unfinished">Zmenšit písmo</translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation type="unfinished">Zmenšit odsazení</translation>
+    </message>
+    <message>
+        <source>Detailed Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -3524,6 +4181,10 @@ On</source>
         <translation type="unfinished">Upravit body</translation>
     </message>
     <message>
+        <source>Edit Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Height</source>
         <translation type="unfinished">Stejná výška</translation>
     </message>
@@ -3536,16 +4197,12 @@ On</source>
         <translation type="unfinished">Stejná šířka</translation>
     </message>
     <message>
-        <source>Fill</source>
-        <translation type="unfinished">Vyplnit</translation>
+        <source>Flip Horizontally</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flip Horizontal</source>
-        <translation type="unfinished">Překlopit vodorovně</translation>
-    </message>
-    <message>
-        <source>Flip Vertical</source>
-        <translation type="unfinished">Překlopit svisle</translation>
+        <source>Flip Vertically</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Font</source>
@@ -3564,36 +4221,48 @@ On</source>
         <translation type="unfinished">Libovolné otočení</translation>
     </message>
     <message>
-        <source>Gradient</source>
-        <translation type="unfinished">Přechod</translation>
-    </message>
-    <message>
         <source>Group</source>
         <translation type="unfinished">Skupina</translation>
     </message>
     <message>
-        <source>Horizontal</source>
-        <translation type="unfinished">Vodorovně</translation>
+        <source>Height</source>
+        <translation type="unfinished">Výška</translation>
     </message>
     <message>
-        <source>Insert Shapes</source>
-        <translation type="unfinished">Vložit tvary</translation>
+        <source>Horizontal Text Box</source>
+        <translation type="unfinished">Vodorovný textový rámeček</translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation type="unfinished">Zvětšit písmo</translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation type="unfinished">Zvětšit odsazení</translation>
+    </message>
+    <message>
+        <source>Insert Shape</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Italic</source>
         <translation type="unfinished">Zkosené</translation>
     </message>
     <message>
+        <source>Line Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash</source>
         <translation type="unfinished">Dlouhá čárka</translation>
     </message>
     <message>
-        <source>Long Dash Dot</source>
-        <translation type="unfinished">Dlouhá čárka tečka</translation>
-    </message>
-    <message>
-        <source>Long Dash Dot Dot</source>
-        <translation type="unfinished">Dlouhá čárka tečka tečka</translation>
+        <source>Long Dash-Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -3612,16 +4281,8 @@ On</source>
         <translation type="unfinished">Více řádek</translation>
     </message>
     <message>
-        <source>Outline</source>
-        <translation type="unfinished">Ohraničení</translation>
-    </message>
-    <message>
-        <source>Pattern</source>
-        <translation type="unfinished">Vzor</translation>
-    </message>
-    <message>
-        <source>Patterned Lines</source>
-        <translation type="unfinished">Čáry se vzorem</translation>
+        <source>Object Select</source>
+        <translation type="unfinished">Výběr objektu</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -3644,10 +4305,6 @@ On</source>
         <translation type="unfinished">Kulatý bod</translation>
     </message>
     <message>
-        <source>Selection Pane</source>
-        <translation type="unfinished">Rychlý výběr</translation>
-    </message>
-    <message>
         <source>Send Backward</source>
         <translation type="unfinished">Přenést dozadu</translation>
     </message>
@@ -3656,18 +4313,12 @@ On</source>
         <translation type="unfinished">Odeslat dozadu</translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation type="unfinished">Nastavení</translation>
+        <source>Shape Fill</source>
+        <translation type="unfinished">Výplň tvaru</translation>
     </message>
     <message>
-        <source>Shadow
-On/Off</source>
-        <translation type="unfinished">Stín
-Zap/Vyp</translation>
-    </message>
-    <message>
-        <source>Shape Size</source>
-        <translation type="unfinished">Velikost tvaru</translation>
+        <source>Shape Outline</source>
+        <translation type="unfinished">Ohraničení tvaru</translation>
     </message>
     <message>
         <source>Shape Styles</source>
@@ -3678,8 +4329,16 @@ Zap/Vyp</translation>
         <translation type="unfinished">Zobrazit mřížku</translation>
     </message>
     <message>
+        <source>Size</source>
+        <translation type="unfinished">Velikost</translation>
+    </message>
+    <message>
         <source>Snap to Grid</source>
         <translation type="unfinished">Přichytit k mřížce</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -3694,12 +4353,8 @@ Zap/Vyp</translation>
         <translation type="unfinished">Textový rámeček</translation>
     </message>
     <message>
-        <source>Text Color</source>
-        <translation type="unfinished">Barva textu</translation>
-    </message>
-    <message>
-        <source>Texture</source>
-        <translation type="unfinished">Textura</translation>
+        <source>Text Fill</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Underline</source>
@@ -3710,15 +4365,15 @@ Zap/Vyp</translation>
         <translation type="unfinished">Rozdělit</translation>
     </message>
     <message>
-        <source>Vertical</source>
-        <translation type="unfinished">Svisle</translation>
-    </message>
-    <message>
         <source>Vertical Center</source>
         <translation type="unfinished">Svisle na střed</translation>
     </message>
     <message>
-        <source>Weight</source>
+        <source>Vertical Text Box</source>
+        <translation type="unfinished">TextBox svisle</translation>
+    </message>
+    <message>
+        <source>Width</source>
         <translation type="unfinished">Šířka</translation>
     </message>
 </context>
@@ -3763,6 +4418,14 @@ Zap/Vyp</translation>
     <message>
         <source>Enter Activation Code</source>
         <translation type="unfinished">Zadat aktivační kód</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation type="unfinished">Konec</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -3818,19 +4481,23 @@ Zap/Vyp</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished">Nový dokument z výchozí šablony</translation>
+        <translation type="unfinished">Nový z výchozí šablony</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished">Nový dokument z online šablony</translation>
+        <translation type="unfinished">Nový z online šablon</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished">Nový dokument z dalších šablon</translation>
+        <translation type="unfinished">Nový z dalších šablon</translation>
     </message>
     <message>
         <source>Open</source>
         <translation type="unfinished">Otevřít</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Možnosti</translation>
     </message>
     <message>
         <source>Other Formats</source>
@@ -3891,6 +4558,10 @@ Zap/Vyp</translation>
     <message>
         <source>Study Online</source>
         <translation type="unfinished">Studovat online</translation>
+    </message>
+    <message>
+        <source>Support WPS</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
@@ -4030,7 +4701,7 @@ Time</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Informační</translation>
+        <translation type="unfinished">Informace</translation>
     </message>
     <message>
         <source>Insert
@@ -4121,6 +4792,14 @@ Used</source>
         <translation type="unfinished">Zarovnat dolů</translation>
     </message>
     <message>
+        <source>Align Distributed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Align Left</source>
         <translation type="unfinished">Zarovnat vlevo</translation>
     </message>
@@ -4203,6 +4882,10 @@ Used</source>
     <message>
         <source>Bottom Double Border</source>
         <translation type="unfinished">Spodní okraj dvojitě</translation>
+    </message>
+    <message>
+        <source>Cell Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cells</source>
@@ -4373,18 +5056,16 @@ Used</source>
         <translation type="unfinished">Najít</translation>
     </message>
     <message>
-        <source>Find and 
-Replace</source>
-        <translation type="unfinished">Najít a 
-nahradit</translation>
-    </message>
-    <message>
         <source>Find and Replace</source>
         <translation type="unfinished">Najít a nahradit</translation>
     </message>
     <message>
         <source>Font</source>
         <translation type="unfinished">Písmo</translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation type="unfinished">Barva písma</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -4401,12 +5082,20 @@ Painter</source>
 formát</translation>
     </message>
     <message>
+        <source>Format as Table</source>
+        <translation type="unfinished">Formátovat jako tabulku</translation>
+    </message>
+    <message>
         <source>Formats</source>
         <translation type="unfinished">Formáty</translation>
     </message>
     <message>
         <source>Formulas</source>
         <translation type="unfinished">Vzorce</translation>
+    </message>
+    <message>
+        <source>Freeze</source>
+        <translation type="unfinished">Uzamknout</translation>
     </message>
     <message>
         <source>Go to</source>
@@ -4542,16 +5231,36 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>More Border Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Borders</source>
         <translation type="unfinished">Více okajů</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation type="unfinished">Více barev výplně</translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation type="unfinished">Více barev písma</translation>
     </message>
     <message>
         <source>More Functions</source>
         <translation type="unfinished">Další funkce</translation>
     </message>
     <message>
+        <source>More Symbols</source>
+        <translation type="unfinished">Více symbolů</translation>
+    </message>
+    <message>
         <source>Move or Copy Sheet</source>
         <translation type="unfinished">Přesunout nebo kopírovat list</translation>
+    </message>
+    <message>
+        <source>New Table Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Next month</source>
@@ -4628,8 +5337,16 @@ Columns</source>
 sloupce</translation>
     </message>
     <message>
+        <source>Scientific</source>
+        <translation type="unfinished">Vědecké</translation>
+    </message>
+    <message>
         <source>Select Objects</source>
         <translation type="unfinished">Výběr objektů</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation type="unfinished">Rychlý výběr</translation>
     </message>
     <message>
         <source>Series</source>
@@ -4656,12 +5373,12 @@ sloupce</translation>
         <translation type="unfinished">Standardní šířka</translation>
     </message>
     <message>
-        <source>Styles</source>
-        <translation type="unfinished">Styly</translation>
-    </message>
-    <message>
         <source>Sum</source>
         <translation type="unfinished">Suma</translation>
+    </message>
+    <message>
+        <source>Symbol</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tab Color</source>
@@ -4670,10 +5387,6 @@ sloupce</translation>
     <message>
         <source>Text</source>
         <translation type="unfinished">Text</translation>
-    </message>
-    <message>
-        <source>Text Color</source>
-        <translation type="unfinished">Barva textu</translation>
     </message>
     <message>
         <source>Thick Bottom Border</source>
@@ -4730,6 +5443,10 @@ sloupce</translation>
     <message>
         <source>Underline</source>
         <translation type="unfinished">Podtržení</translation>
+    </message>
+    <message>
+        <source>Unfreeze</source>
+        <translation type="unfinished">Odemknout</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
@@ -4901,6 +5618,10 @@ patička</translation>
         <translation type="unfinished">Vložit online obrázek</translation>
     </message>
     <message>
+        <source>InsertNewChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Label</source>
         <translation type="unfinished">Jmenovka</translation>
     </message>
@@ -4971,16 +5692,8 @@ výběr</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Symbols</source>
-        <translation type="unfinished">Symboly</translation>
-    </message>
-    <message>
         <source>Tables</source>
         <translation type="unfinished">Tabulky</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation type="unfinished">Text</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -5052,6 +5765,10 @@ dopředu</translation>
         <translation type="unfinished">Zrušit oblast tisku</translation>
     </message>
     <message>
+        <source>Colors</source>
+        <translation type="unfinished">Barvy</translation>
+    </message>
+    <message>
         <source>Custom Zoom</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5066,6 +5783,14 @@ dopředu</translation>
     <message>
         <source>Distribute Vertically</source>
         <translation type="unfinished">Rozložit svisle</translation>
+    </message>
+    <message>
+        <source>Edit Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished">Efekty</translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -5098,6 +5823,10 @@ dopředu</translation>
     <message>
         <source>Flip Vertical</source>
         <translation type="unfinished">Překlopit svisle</translation>
+    </message>
+    <message>
+        <source>Fonts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -5191,6 +5920,10 @@ dozadu</translation>
     <message>
         <source>Snap to Grid</source>
         <translation type="unfinished">Přichytit k mřížce</translation>
+    </message>
+    <message>
+        <source>Themes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -5340,10 +6073,6 @@ obrázky</translation>
         <translation type="unfinished">Stejná šířka</translation>
     </message>
     <message>
-        <source>Fill</source>
-        <translation type="unfinished">Vyplnit</translation>
-    </message>
-    <message>
         <source>Flip Horizontal</source>
         <translation type="unfinished">Překlopit vodorovně</translation>
     </message>
@@ -5352,20 +6081,20 @@ obrázky</translation>
         <translation type="unfinished">Překlopit svisle</translation>
     </message>
     <message>
-        <source>Format Object</source>
-        <translation type="unfinished">Formát objektu</translation>
-    </message>
-    <message>
         <source>Free Rotate</source>
         <translation type="unfinished">Libovolné otočení</translation>
     </message>
     <message>
-        <source>Gradient</source>
-        <translation type="unfinished">Přechod</translation>
+        <source>Glow</source>
+        <translation type="unfinished">Záře</translation>
     </message>
     <message>
         <source>Group</source>
         <translation type="unfinished">Skupina</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished">Výška</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -5380,12 +6109,24 @@ obrázky</translation>
         <translation type="unfinished">Vložit obrázek online</translation>
     </message>
     <message>
+        <source>Insert Picture</source>
+        <translation type="unfinished">Vložit obrázek</translation>
+    </message>
+    <message>
         <source>Less Brightness</source>
         <translation type="unfinished">Méně jasu</translation>
     </message>
     <message>
         <source>Less Contrast</source>
         <translation type="unfinished">Méně kontrastu</translation>
+    </message>
+    <message>
+        <source>Line Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -5420,44 +6161,8 @@ obrázky</translation>
         <translation type="unfinished">Více řádek</translation>
     </message>
     <message>
-        <source>More Shadow Colors</source>
-        <translation type="unfinished">Více barev stínu</translation>
-    </message>
-    <message>
-        <source>No Shadow</source>
-        <translation type="unfinished">Bez stínu</translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Online Picture</source>
         <translation type="unfinished">Obrázek online</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation type="unfinished">Ohraničení</translation>
-    </message>
-    <message>
-        <source>Pattern</source>
-        <translation type="unfinished">Vzor</translation>
-    </message>
-    <message>
-        <source>Patterned Lines</source>
-        <translation type="unfinished">Čáry se vzorem</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -5470,14 +6175,388 @@ Size</source>
 obrázku</translation>
     </message>
     <message>
-        <source>Picture Styles</source>
-        <translation type="unfinished">Styly obrázků</translation>
+        <source>Picture Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation type="unfinished">Odraz</translation>
     </message>
     <message>
         <source>Reset
 Picture</source>
         <translation type="unfinished">Resetovat
 obrázek</translation>
+    </message>
+    <message>
+        <source>Reset Picture</source>
+        <translation type="unfinished">Resetovat obrázes</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="unfinished">Otočit</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation type="unfinished">Otočit vlevo 90°</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation type="unfinished">Rotace vpravo 90°</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation type="unfinished">Kulatý bod</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation type="unfinished">Rychlý výběr</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation type="unfinished">Přenést dozadu</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished">Odeslat dozadu</translation>
+    </message>
+    <message>
+        <source>Set Transparent Color</source>
+        <translation type="unfinished">Nastavit průhlednou barvu</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation type="unfinished">Stín</translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation type="unfinished">Zobrazit mřížku</translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation type="unfinished">Přichytit k mřížce</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation type="unfinished">Plný</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation type="unfinished">Čtvercový bod</translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation type="unfinished">Rozdělit</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished">Šířka</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_picturetool.PictureColor</name>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">Automaticky</translation>
+    </message>
+    <message>
+        <source>Black and White</source>
+        <translation type="unfinished">Černá a bílá</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished">Barva</translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <translation type="unfinished">Stupně šedi</translation>
+    </message>
+    <message>
+        <source>Washout</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_picturetool_vml</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished">0,25 bodu</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished">0,5 bodu</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished">0,75 bodu</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished">1 bod</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished">1,5 bodu</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished">2,25 bodu</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished">3 body</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished">4,5 bodu</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished">6 bodů</translation>
+    </message>
+    <message>
+        <source>Adjust</source>
+        <translation type="unfinished">Vyladit</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation type="unfinished">Zarovnat</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="unfinished">Zarovnat dolů</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation type="unfinished">Zarovnat na střed</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished">Zarovnat vlevo</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation type="unfinished">Zarovnat na střed</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished">Zarovnat vpravo</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation type="unfinished">Zarovnat nahoru</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation type="unfinished">Rozvrhnout</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation type="unfinished">Přenést dopředu</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation type="unfinished">Přenést dopředu</translation>
+    </message>
+    <message>
+        <source>Change Picture</source>
+        <translation type="unfinished">Změnit obrázek</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compress Pictures</source>
+        <translation type="unfinished">Komprimovat obrázky</translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation type="unfinished">Ořez</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="unfinished">Čárkovaná</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation type="unfinished">Styl čárkování</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detailed Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation type="unfinished">Rozložit vodorovně</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation type="unfinished">Rozložit svisle</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation type="unfinished">Stejná výška</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation type="unfinished">Stejná velikost</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation type="unfinished">Stejná šířka</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation type="unfinished">Překlopit vodorovně</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation type="unfinished">Překlopit svisle</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation type="unfinished">Formát objektu</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation type="unfinished">Libovolné otočení</translation>
+    </message>
+    <message>
+        <source>Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished">Skupina</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished">Výška</translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation type="unfinished">Vložit</translation>
+    </message>
+    <message>
+        <source>Insert Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less Brightness</source>
+        <translation type="unfinished">Méně jasu</translation>
+    </message>
+    <message>
+        <source>Less Contrast</source>
+        <translation type="unfinished">Méně kontrastu</translation>
+    </message>
+    <message>
+        <source>Line Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation type="unfinished">Dlouhá čárka</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Brightness</source>
+        <translation type="unfinished">Více jasu</translation>
+    </message>
+    <message>
+        <source>More Contrast</source>
+        <translation type="unfinished">Více kontrastu</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation type="unfinished">Více barev výplně</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation type="unfinished">Více barev čáry</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation type="unfinished">Více řádek</translation>
+    </message>
+    <message>
+        <source>More Shadow Colors</source>
+        <translation type="unfinished">Více barev stínu</translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation type="unfinished">Bez stínu</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished">Obrázek</translation>
+    </message>
+    <message>
+        <source>Picture Adjust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Size</source>
+        <translation type="unfinished">Velikost obrázku</translation>
+    </message>
+    <message>
+        <source>Picture Styles</source>
+        <translation type="unfinished">Styly obrázků</translation>
+    </message>
+    <message>
+        <source>Reset Picture</source>
+        <translation type="unfinished">Resetovat obrázes</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -5516,10 +6595,6 @@ obrázek</translation>
         <translation type="unfinished">Nastavit průhlednou barvu</translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation type="unfinished">Nastavení</translation>
-    </message>
-    <message>
         <source>Shadow
 On/Off</source>
         <translation type="unfinished">Stín
@@ -5530,7 +6605,27 @@ Zap/Vyp</translation>
         <translation type="unfinished">Barva stínu</translation>
     </message>
     <message>
-        <source>Shadow Effects</source>
+        <source>Shadow On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5542,6 +6637,10 @@ Zap/Vyp</translation>
         <translation type="unfinished">Přichytit k mřížce</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation type="unfinished">Plný</translation>
     </message>
@@ -5550,22 +6649,18 @@ Zap/Vyp</translation>
         <translation type="unfinished">Čtvercový bod</translation>
     </message>
     <message>
-        <source>Texture</source>
-        <translation type="unfinished">Textura</translation>
-    </message>
-    <message>
         <source>Ungroup</source>
         <translation type="unfinished">Rozdělit</translation>
     </message>
     <message>
-        <source>Weight</source>
+        <source>Width</source>
         <translation type="unfinished">Šířka</translation>
     </message>
 </context>
 <context>
-    <name>ongmani.ct_picturetool.PictureColor</name>
+    <name>ongmani.ct_picturetool_vml.PictureColor</name>
     <message>
-        <source>Automatic</source>
+        <source>Auto</source>
         <translation type="unfinished">Automaticky</translation>
     </message>
     <message>
@@ -5625,7 +6720,7 @@ Field List</source>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished">Rozložení</translation>
+        <translation type="unfinished">Rozvržení</translation>
     </message>
     <message>
         <source>Modify
@@ -5902,11 +6997,6 @@ sešit</translation>
     </message>
     <message>
         <source>3-D
-Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
 On/Off</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5926,6 +7016,10 @@ Effects</source>
     <message>
         <source>Bright</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished">Barva</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -6013,11 +7107,6 @@ Effects</source>
     </message>
     <message>
         <source>Shadow
-Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
 On/Off</source>
         <translation type="unfinished">Stín
 Zap/Vyp</translation>
@@ -6026,6 +7115,14 @@ Zap/Vyp</translation>
         <source>Shadow 
 Effects</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow Color</source>
+        <translation type="unfinished">Barva stínu</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -6050,6 +7147,503 @@ Effects</source>
     <message>
         <source>Wire Frame</source>
         <translation type="unfinished">Drátěný model</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_shadowdrawingtools_vml</name>
+    <message>
+        <source>0 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>144 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>288 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D Color</source>
+        <translation type="unfinished">3-D barva</translation>
+    </message>
+    <message>
+        <source>3-D On/Off</source>
+        <translation type="unfinished">3-D zap/vyp</translation>
+    </message>
+    <message>
+        <source>3-D Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>36 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>72 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bright</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished">Vlastní</translation>
+    </message>
+    <message>
+        <source>Depth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dim</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direction</source>
+        <translation type="unfinished">Směr</translation>
+    </message>
+    <message>
+        <source>Infinity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lighting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matte</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More 3D Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Shadow Colors</source>
+        <translation type="unfinished">Více barev stínu</translation>
+    </message>
+    <message>
+        <source>No 3-D</source>
+        <translation type="unfinished">Ne 3-D</translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation type="unfinished">Bez stínu</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished">Normální</translation>
+    </message>
+    <message>
+        <source>Parallel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plastic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Semitransparent Shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation type="unfinished">Stín
+Zap/Vyp</translation>
+    </message>
+    <message>
+        <source>Shadow Color</source>
+        <translation type="unfinished">Barva stínu</translation>
+    </message>
+    <message>
+        <source>Shadow On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
+        <source>Surface</source>
+        <translation type="unfinished">Povrch</translation>
+    </message>
+    <message>
+        <source>Tilt Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tilt Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tilt Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tilt Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wire Frame</source>
+        <translation type="unfinished">Drátěný model</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_tabletool</name>
+    <message>
+        <source>Convert to Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Range Properties</source>
+        <translation type="unfinished">Vlastnosti datové řady</translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation type="unfinished">Upravit
+OLE DB dotaz</translation>
+    </message>
+    <message>
+        <source>Edit Query</source>
+        <translation type="unfinished">Upravit dotaz</translation>
+    </message>
+    <message>
+        <source>Export Table to SharePoint List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>External Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished">Vlastnosti</translation>
+    </message>
+    <message>
+        <source>Refresh All</source>
+        <translation type="unfinished">Obnovit vše</translation>
+    </message>
+    <message>
+        <source>Refresh Data</source>
+        <translation type="unfinished">Obnovit data</translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished">Odstranit duplicitu</translation>
+    </message>
+    <message>
+        <source>Resize Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation type="unfinished">Nástroje</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_texttool</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished">0,25 bodu</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished">0,5 bodu</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished">0,75 bodu</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished">1 bod</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished">1,5 bodu</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished">2,25 bodu</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished">3 body</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished">4,5 bodu</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished">6 bodů</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="unfinished">Zarovnat dolů</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished">Zarovnat vlevo</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished">Zarovnat vpravo</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation type="unfinished">Zarovnat nahoru</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">Vše</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished">Tučné</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">Střed</translation>
+    </message>
+    <message>
+        <source>Change Case</source>
+        <translation type="unfinished">Změnit velká/malá</translation>
+    </message>
+    <message>
+        <source>Character Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation type="unfinished">Komentáře</translation>
+    </message>
+    <message>
+        <source>Contents</source>
+        <translation type="unfinished">Obsah</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="unfinished">Čárkovaná</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation type="unfinished">Styl čárkování</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation type="unfinished">Zmenšit písmo</translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation type="unfinished">Zmenšit odsazení</translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished">Písmo</translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation type="unfinished">Barva písma</translation>
+    </message>
+    <message>
+        <source>Font Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation type="unfinished">Velikost písma</translation>
+    </message>
+    <message>
+        <source>Formats</source>
+        <translation type="unfinished">Formáty</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation type="unfinished">Záře</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished">Přechod</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished">Vodorovně</translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation type="unfinished">Zvětšit písmo</translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation type="unfinished">Zvětšit odsazení</translation>
+    </message>
+    <message>
+        <source>Insert Textbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished">Zkosené</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation type="unfinished">Dlouhá čárka</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation type="unfinished">Více barev výplně</translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation type="unfinished">Více barev písma</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation type="unfinished">Více barev čáry</translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation type="unfinished">Vzor</translation>
+    </message>
+    <message>
+        <source>Phonetic Guide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phonetic Guide...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PicOrTexture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation type="unfinished">Odraz</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation type="unfinished">Kulatý bod</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <translation type="unfinished">Řady</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation type="unfinished">Stín</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation type="unfinished">Plný</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation type="unfinished">Čtvercový bod</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation type="unfinished">Textový rámeček</translation>
+    </message>
+    <message>
+        <source>Text Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished">Podtržení</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished">Svisle</translation>
+    </message>
+    <message>
+        <source>Vertical Center</source>
+        <translation type="unfinished">Svisle na střed</translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation type="unfinished">Šířka</translation>
+    </message>
+    <message>
+        <source>WordArt Styles</source>
+        <translation type="unfinished">WordArt styly</translation>
     </message>
 </context>
 <context>
@@ -6116,6 +7710,10 @@ obrazovku</translation>
         <source>New
 Window</source>
         <translation type="unfinished">Nové okno</translation>
+    </message>
+    <message>
+        <source>Night Mode</source>
+        <translation type="unfinished">Noční režim</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -6230,11 +7828,6 @@ COM</translation>
     </message>
     <message>
         <source>3-D
-Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D
 Effects</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6254,6 +7847,10 @@ On/Off</source>
     <message>
         <source>Bright</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished">Barva</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -6341,11 +7938,6 @@ On/Off</source>
     </message>
     <message>
         <source>Shadow
-Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shadow
 On/Off</source>
         <translation type="unfinished">Stín
 Zap/Vyp</translation>
@@ -6354,6 +7946,14 @@ Zap/Vyp</translation>
         <source>Shadow 
 Effects</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow Color</source>
+        <translation type="unfinished">Barva stínu</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -6629,10 +8229,6 @@ Spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fill</source>
-        <translation type="unfinished">Vyplnit</translation>
-    </message>
-    <message>
         <source>Flip Horizontal</source>
         <translation type="unfinished">Překlopit vodorovně</translation>
     </message>
@@ -6647,10 +8243,6 @@ Spacing</source>
     <message>
         <source>Free Rotate</source>
         <translation type="unfinished">Libovolné otočení</translation>
-    </message>
-    <message>
-        <source>Gradient</source>
-        <translation type="unfinished">Přechod</translation>
     </message>
     <message>
         <source>Group</source>
@@ -6674,6 +8266,14 @@ Spacing</source>
     </message>
     <message>
         <source>Letter Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6703,18 +8303,6 @@ Spacing</source>
     <message>
         <source>More Lines</source>
         <translation type="unfinished">Více řádek</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation type="unfinished">Ohraničení</translation>
-    </message>
-    <message>
-        <source>Pattern</source>
-        <translation type="unfinished">Vzor</translation>
-    </message>
-    <message>
-        <source>Patterned Lines</source>
-        <translation type="unfinished">Čáry se vzorem</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -6793,6 +8381,10 @@ Spacing</source>
         <translation type="unfinished">Přichytit k mřížce</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation type="unfinished">Plný</translation>
     </message>
@@ -6807,10 +8399,6 @@ Spacing</source>
     <message>
         <source>Stretch Justify</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Texture</source>
-        <translation type="unfinished">Textura</translation>
     </message>
     <message>
         <source>Triangle Down</source>
@@ -6845,10 +8433,6 @@ Spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Weight</source>
-        <translation type="unfinished">Šířka</translation>
-    </message>
-    <message>
         <source>Word Justify</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6869,6 +8453,14 @@ Gallery</source>
     <message>
         <source>WordArt 
 Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArt Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArt Outline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6906,12 +8498,20 @@ Shape</source>
         <translation type="unfinished">Vstup do Doceru</translation>
     </message>
     <message>
+        <source>Donate</source>
+        <translation type="unfinished">Přispět</translation>
+    </message>
+    <message>
         <source>Enable AutoBackup</source>
         <translation type="unfinished">Zapnout automatickou zálohu</translation>
     </message>
     <message>
         <source>Export to PDF</source>
         <translation type="unfinished">Eport do PDF</translation>
+    </message>
+    <message>
+        <source>Feedback and Support</source>
+        <translation type="unfinished">Zpětná vazba a podpora</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -6960,10 +8560,6 @@ Shape</source>
     <message>
         <source>Special Features</source>
         <translation type="unfinished">Speciální vlastnosti</translation>
-    </message>
-    <message>
-        <source>Text Speech</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -7016,52 +8612,56 @@ Shape</source>
 <context>
     <name>popupmenu</name>
     <message>
-        <source>0.25 pt</source>
-        <translation type="unfinished">0,25 bodu</translation>
+        <source>0.25 pt.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.5 pt</source>
+        <source>0.5 pt.</source>
         <translation type="unfinished">0,5 bodu</translation>
     </message>
     <message>
-        <source>0.75 pt</source>
-        <translation type="unfinished">0,75 bodu</translation>
+        <source>0.75 pt.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1 pt</source>
-        <translation type="unfinished">1 bod</translation>
+        <source>1 pt.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1.5 pt</source>
+        <source>1.5 pt.</source>
         <translation type="unfinished">1,5 bodu</translation>
     </message>
     <message>
-        <source>2.25 pt</source>
-        <translation type="unfinished">2,25 bodu</translation>
+        <source>2.25 pt.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3 pt</source>
-        <translation type="unfinished">3 body</translation>
+        <source>3 pt.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>4.5 pt</source>
-        <translation type="unfinished">4,5 bodu</translation>
+        <source>4.5 pt.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>6 pt</source>
-        <translation type="unfinished">6 bodů</translation>
+        <source>6 pt.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Accept Changes</source>
-        <translation type="unfinished">Přijmout změny</translation>
+        <source>Above</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Accounting</source>
-        <translation type="unfinished">Účetní</translation>
+        <source>Above Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accept Changes</source>
+        <translation type="unfinished">Přijmout změny</translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -7070,6 +8670,22 @@ Shape</source>
     <message>
         <source>Activate WPS Office</source>
         <translation type="unfinished">Aktivovat WPS Office</translation>
+    </message>
+    <message>
+        <source>Add Axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add DataLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add MajorGridline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add MinorGridline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add Point</source>
@@ -7086,6 +8702,10 @@ Shape</source>
     <message>
         <source>Add-Ins</source>
         <translation type="unfinished">Doplňky</translation>
+    </message>
+    <message>
+        <source>AddChartElements</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Advanced Filter</source>
@@ -7112,12 +8732,36 @@ Shape</source>
         <translation type="unfinished">Zarovnat na střed</translation>
     </message>
     <message>
+        <source>Align RCenter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align RLeft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align RRight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Align Right</source>
         <translation type="unfinished">Zarovnat vpravo</translation>
     </message>
     <message>
         <source>Align Top</source>
         <translation type="unfinished">Zarovnat nahoru</translation>
+    </message>
+    <message>
+        <source>Align VBottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align VCenter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align VTop</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All</source>
@@ -7204,12 +8848,32 @@ Shape</source>
         <translation type="unfinished">Průměr</translation>
     </message>
     <message>
+        <source>Axes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Axis Title</source>
+        <translation type="unfinished">Název osy</translation>
+    </message>
+    <message>
         <source>Backup Management</source>
         <translation type="unfinished">Správa zálohování</translation>
     </message>
     <message>
+        <source>Below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BestFit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bold</source>
         <translation type="unfinished">Tučné</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Dole</translation>
     </message>
     <message>
         <source>Bottom Double Border</source>
@@ -7218,10 +8882,6 @@ Shape</source>
     <message>
         <source>Bring Forward</source>
         <translation type="unfinished">Přenést dopředu</translation>
-    </message>
-    <message>
-        <source>Bring To Front</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -7258,8 +8918,24 @@ COM</translation>
         <translation type="unfinished">Vystředit napříč</translation>
     </message>
     <message>
+        <source>Centered Overlay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Chart Type</source>
+        <translation type="unfinished">Změnit typ grafu</translation>
+    </message>
+    <message>
+        <source>Change DataLabel Geometry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Picture</source>
         <translation type="unfinished">Změnit obrázek</translation>
+    </message>
+    <message>
+        <source>Change Series Chart Type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Shapes</source>
@@ -7274,8 +8950,28 @@ COM</translation>
         <translation type="unfinished">Graf</translation>
     </message>
     <message>
+        <source>Chart Elements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Filters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Chart Options</source>
         <translation type="unfinished">Možnosti grafu</translation>
+    </message>
+    <message>
+        <source>Chart Styles</source>
+        <translation type="unfinished">Styly grafu</translation>
+    </message>
+    <message>
+        <source>Chart Title</source>
+        <translation type="unfinished">Název grafu</translation>
     </message>
     <message>
         <source>Chart Type</source>
@@ -7296,10 +8992,6 @@ COM</translation>
     <message>
         <source>Circular References</source>
         <translation type="unfinished">Cyklické odkazy</translation>
-    </message>
-    <message>
-        <source>Clear</source>
-        <translation type="unfinished">Vyprázdnit</translation>
     </message>
     <message>
         <source>Clear Contents</source>
@@ -7346,10 +9038,6 @@ COM</translation>
         <translation type="unfinished">Sloupce</translation>
     </message>
     <message>
-        <source>Comma Style</source>
-        <translation type="unfinished">Styl oddělovače</translation>
-    </message>
-    <message>
         <source>Comments</source>
         <translation type="unfinished">Komentáře</translation>
     </message>
@@ -7372,6 +9060,10 @@ COM</translation>
     <message>
         <source>Convert Text to Number</source>
         <translation type="unfinished">Převést text na číslo</translation>
+    </message>
+    <message>
+        <source>Convert To Range</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy</source>
@@ -7442,8 +9134,16 @@ COM</translation>
         <translation type="unfinished">Styl čárkování</translation>
     </message>
     <message>
-        <source>Decrease Decimal</source>
-        <translation type="unfinished">Snížit počet desetinných míst</translation>
+        <source>Data Callout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Table</source>
+        <translation type="unfinished">Tabulka dat</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -7474,6 +9174,10 @@ COM</translation>
         <translation type="unfinished">Smazat segment</translation>
     </message>
     <message>
+        <source>Delete Series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete Sheet</source>
         <translation type="unfinished">Smazat list</translation>
     </message>
@@ -7488,6 +9192,10 @@ COM</translation>
     <message>
         <source>Distribute Vertically</source>
         <translation type="unfinished">Rozložit svisle</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation type="unfinished">Přispět</translation>
     </message>
     <message>
         <source>Edit Comment</source>
@@ -7530,6 +9238,10 @@ COM</translation>
         <translation type="unfinished">Zadat aktivační kód</translation>
     </message>
     <message>
+        <source>Entire Table Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Height</source>
         <translation type="unfinished">Stejná výška</translation>
     </message>
@@ -7550,6 +9262,10 @@ COM</translation>
         <translation type="unfinished">Vymazat</translation>
     </message>
     <message>
+        <source>Error Bars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error Checking</source>
         <translation type="unfinished">Kontrola chyb</translation>
     </message>
@@ -7562,7 +9278,23 @@ COM</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Exit Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Exit Edit Points</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exit Edit Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exponential</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7572,10 +9304,6 @@ COM</translation>
     <message>
         <source>Eye Protection Mode</source>
         <translation type="unfinished">Režim ochrany zraku</translation>
-    </message>
-    <message>
-        <source>Eyedropper</source>
-        <translation type="unfinished">Kapátko</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
@@ -7599,6 +9327,10 @@ COM</translation>
     </message>
     <message>
         <source>Fill Formatting Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fill Left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7655,12 +9387,20 @@ COM</translation>
         <translation type="unfinished">Formulář</translation>
     </message>
     <message>
+        <source>Format Accounting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format Axis</source>
         <translation type="unfinished">Formátovat osy</translation>
     </message>
     <message>
         <source>Format Axis Title</source>
         <translation type="unfinished">Formátovat popisek osy</translation>
+    </message>
+    <message>
+        <source>Format Category Label</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Format Cells</source>
@@ -7675,8 +9415,12 @@ COM</translation>
         <translation type="unfinished">Formátovat nadpis grafu</translation>
     </message>
     <message>
-        <source>Format Data Labels</source>
-        <translation type="unfinished">Formátovat popisky dat</translation>
+        <source>Format Comma Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Currency</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Format Data Point</source>
@@ -7691,6 +9435,14 @@ COM</translation>
         <translation type="unfinished">Formát tabulky dat</translation>
     </message>
     <message>
+        <source>Format DataLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Decrease Decimal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format Down Bars</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7699,7 +9451,7 @@ COM</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Format Error Bars</source>
+        <source>Format ErrorBars</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7711,8 +9463,8 @@ COM</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Format Label</source>
-        <translation type="unfinished">Formátovat jmenovku</translation>
+        <source>Format Increase Decimal</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Format Leader Lines</source>
@@ -7727,7 +9479,11 @@ COM</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Format Legend Key</source>
+        <source>Format MajorGridline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format MinorGridline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7739,6 +9495,10 @@ COM</translation>
         <translation type="unfinished">Kopírovat formát</translation>
     </message>
     <message>
+        <source>Format Percent Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format Plot Area</source>
         <translation type="unfinished">Formátovat oblast čáry</translation>
     </message>
@@ -7747,8 +9507,16 @@ COM</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Format TrendLine Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format Trendline</source>
         <translation type="unfinished">Formátovat čáru trendu</translation>
+    </message>
+    <message>
+        <source>Format UnitLabel</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Format Up Bars</source>
@@ -7799,8 +9567,8 @@ COM</translation>
         <translation type="unfinished">Snímek obrazovky</translation>
     </message>
     <message>
-        <source>Gradient</source>
-        <translation type="unfinished">Přechod</translation>
+        <source>Gridlines</source>
+        <translation type="unfinished">Linky mřížky</translation>
     </message>
     <message>
         <source>Group</source>
@@ -7847,10 +9615,6 @@ COM</translation>
         <translation type="unfinished">Import externích dat</translation>
     </message>
     <message>
-        <source>Increase Decimal</source>
-        <translation type="unfinished">Zvýšit počet desetinných míst</translation>
-    </message>
-    <message>
         <source>Increase Font Size</source>
         <translation type="unfinished">Zvětšit písmo</translation>
     </message>
@@ -7887,6 +9651,14 @@ COM</translation>
         <translation type="unfinished">Vložit list</translation>
     </message>
     <message>
+        <source>Inside Base</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Italic</source>
         <translation type="unfinished">Zkosené</translation>
     </message>
@@ -7899,12 +9671,32 @@ COM</translation>
         <translation type="unfinished">Levý okraj</translation>
     </message>
     <message>
-        <source>Line Style</source>
-        <translation type="unfinished">Styl čáry</translation>
+        <source>Legend</source>
+        <translation type="unfinished">Legenda</translation>
+    </message>
+    <message>
+        <source>Line Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation type="unfinished">Lineární</translation>
+    </message>
+    <message>
+        <source>Linear Forecast</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Linear Trend</source>
         <translation type="unfinished">Lineární trend</translation>
+    </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -7967,8 +9759,17 @@ COM</translation>
         <translation type="unfinished">Více barev</translation>
     </message>
     <message>
+        <source>More Colors</source>
+        <comment>ReadingLayoutMoreColor</comment>
+        <translation type="unfinished">Více barev</translation>
+    </message>
+    <message>
         <source>More Fill Colors</source>
         <translation type="unfinished">Více barev výplně</translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation type="unfinished">Více barev písma</translation>
     </message>
     <message>
         <source>More Historical Records</source>
@@ -7981,6 +9782,14 @@ COM</translation>
     <message>
         <source>More Lines</source>
         <translation type="unfinished">Více řádek</translation>
+    </message>
+    <message>
+        <source>More Option...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Chart</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
@@ -7997,6 +9806,10 @@ COM</translation>
     <message>
         <source>No Border</source>
         <translation type="unfinished">Bez okraje</translation>
+    </message>
+    <message>
+        <source>No Legend Keys</source>
+        <translation type="unfinished">Nezobrazovat legendu</translation>
     </message>
     <message>
         <source>None</source>
@@ -8059,8 +9872,16 @@ COM</translation>
         <translation type="unfinished">Vnější okraje</translation>
     </message>
     <message>
+        <source>Outside End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Page Break</source>
         <translation type="unfinished">Zalomení stránky</translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation type="unfinished">Odstavec</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -8079,16 +9900,8 @@ COM</translation>
         <translation type="unfinished">Vložit bez formátování</translation>
     </message>
     <message>
-        <source>Pattern</source>
-        <translation type="unfinished">Vzor</translation>
-    </message>
-    <message>
-        <source>Patterned Lines</source>
-        <translation type="unfinished">Čáry se vzorem</translation>
-    </message>
-    <message>
-        <source>Percent Style</source>
-        <translation type="unfinished">Styl procent</translation>
+        <source>Percentage</source>
+        <translation type="unfinished">Procenta</translation>
     </message>
     <message>
         <source>Personal Center</source>
@@ -8105,6 +9918,30 @@ COM</translation>
     <message>
         <source>PivotTable</source>
         <translation type="unfinished">Kontingenční tabulka</translation>
+    </message>
+    <message>
+        <source>Primary Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Primary Major Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Primary Major Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Primary Minor Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Primary Minor Vertial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Primary Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Print Area</source>
@@ -8183,12 +10020,24 @@ COM</translation>
         <translation type="unfinished">Reset zalomení stránky</translation>
     </message>
     <message>
+        <source>Reset To Fit Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Restrict Permission by People</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restricted Access</source>
         <translation type="unfinished">Omezený přístup</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished">Vpravo</translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -8235,8 +10084,40 @@ COM</translation>
         <translation type="unfinished">Uložit do souboru</translation>
     </message>
     <message>
+        <source>Scientific</source>
+        <translation type="unfinished">Vědecké</translation>
+    </message>
+    <message>
+        <source>Secondary Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secondary Major Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secondary Major Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secondary Minor Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secondary Minor Vertial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secondary Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Security</source>
         <translation type="unfinished">Zabezpečení</translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished">Vybrat</translation>
     </message>
     <message>
         <source>Select All Sheets</source>
@@ -8312,6 +10193,10 @@ COM</translation>
         <translation type="unfinished">List</translation>
     </message>
     <message>
+        <source>Show</source>
+        <translation type="unfinished">Ukázat</translation>
+    </message>
+    <message>
         <source>Show All</source>
         <translation type="unfinished">Zobrazit vše</translation>
     </message>
@@ -8344,6 +10229,10 @@ COM</translation>
         <translation type="unfinished">Přichytit k mřížce</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation type="unfinished">Plný</translation>
     </message>
@@ -8362,6 +10251,18 @@ COM</translation>
     <message>
         <source>Square Dot</source>
         <translation type="unfinished">Čtvercový bod</translation>
+    </message>
+    <message>
+        <source>Stacking Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard Deviation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard Error</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Standard Width</source>
@@ -8404,20 +10305,44 @@ COM</translation>
         <translation type="unfinished">Suma</translation>
     </message>
     <message>
-        <source>Symbol</source>
+        <source>Support WPS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Synonyms</source>
-        <translation type="unfinished">Synonyma</translation>
+        <source>Symbol</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tab Color</source>
         <translation type="unfinished">Barva záložky</translation>
     </message>
     <message>
-        <source>Table Style</source>
-        <translation type="unfinished">Styl tabulky</translation>
+        <source>Table</source>
+        <translation type="unfinished">Tabulka</translation>
+    </message>
+    <message>
+        <source>Table Column Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Column to the Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Columns to the Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Row Above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Row Below</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ten Thousand Separator</source>
@@ -8426,10 +10351,6 @@ COM</translation>
     <message>
         <source>Text to Columns</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Texture</source>
-        <translation type="unfinished">Textura</translation>
     </message>
     <message>
         <source>Thick Bottom Border</source>
@@ -8442,6 +10363,10 @@ COM</translation>
     <message>
         <source>Thousand Separator</source>
         <translation type="unfinished">Oddělovač tisíců</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -8460,11 +10385,23 @@ COM</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Total Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Track Changes</source>
         <translation type="unfinished">Sledování změn</translation>
     </message>
     <message>
         <source>Transpose</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TrendLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Two Period Moving Average</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8502,6 +10439,10 @@ COM</translation>
     <message>
         <source>Up</source>
         <translation type="unfinished">Nahoru</translation>
+    </message>
+    <message>
+        <source>Up/Down Bars</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -8564,6 +10505,10 @@ COM</translation>
         <translation type="unfinished">Produktové centrum WPS Office</translation>
     </message>
     <message>
+        <source>With Legend Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8573,6 +10518,16 @@ COM</translation>
     </message>
     <message>
         <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>table</source>
+        <comment>Delete Columns</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>table</source>
+        <comment>Delete Rows</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8618,16 +10573,91 @@ COM</translation>
 <context>
     <name>rainbow.ct_charttools</name>
     <message>
-        <source>Change
-Chart Type</source>
+        <source>Above</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change Chart Type</source>
-        <translation type="unfinished">Změnit typ grafu</translation>
+        <source>AboveChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddAxisTitle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddChartElements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddChartLines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddChartTitle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddDataLabels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddDataTable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddErrorBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddGridLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddLegend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddTrendLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddUpDownBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BestFit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Dole</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">Střed</translation>
+    </message>
+    <message>
+        <source>CenteredOverlay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ChangeChartType</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chart Elements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ChartStyle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8635,40 +10665,185 @@ Chart Type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Data</source>
+        <source>DataCallout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Data Table</source>
-        <translation type="unfinished">Tabulka dat</translation>
-    </message>
-    <message>
-        <source>Format Selection</source>
+        <source>DataSection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Label</source>
-        <translation type="unfinished">Jmenovka</translation>
+        <source>DropLines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Legend</source>
-        <translation type="unfinished">Legenda</translation>
+        <source>DropLinesAndHighLowLines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exponential</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <comment>Chart Element Format</comment>
+        <translation type="unfinished">Formát</translation>
+    </message>
+    <message>
+        <source>HighLowLines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsideBase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsideEnd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished">Vlevo</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation type="unfinished">Lineární</translation>
+    </message>
+    <message>
+        <source>Linear Forecast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoveChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Moving Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NoLegendKeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Žádný</translation>
+    </message>
+    <message>
+        <source>OutsideEnd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <translation type="unfinished">Procenta</translation>
+    </message>
+    <message>
+        <source>Position</source>
+        <translation type="unfinished">Pozice</translation>
+    </message>
+    <message>
+        <source>PrimaryHorizontalAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryMajorHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryMajorVertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryMinorHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryMinorVertial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryVerticalAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished">Vpravo</translation>
+    </message>
+    <message>
+        <source>SecondaryHorizontalAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryMajorHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryMajorVertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryMinorHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryMinorVertial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryVerticalAxis</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Data</source>
         <translation type="unfinished">Vybrat data</translation>
     </message>
     <message>
-        <source>Switch Column</source>
+        <source>SeriesLines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Switch Row</source>
+        <source>Show</source>
+        <translation type="unfinished">Ukázat</translation>
+    </message>
+    <message>
+        <source>StandardDeviation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <source>StandardError</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SwitchRowCol</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TypeSection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WithLegendKeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>changeColor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>layoutSection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>speedLayout</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9085,6 +11260,10 @@ COM</translation>
         <translation type="unfinished">Upravit body</translation>
     </message>
     <message>
+        <source>Edit Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Height</source>
         <translation type="unfinished">Stejná výška</translation>
     </message>
@@ -9095,10 +11274,6 @@ COM</translation>
     <message>
         <source>Equal Width</source>
         <translation type="unfinished">Stejná šířka</translation>
-    </message>
-    <message>
-        <source>Fill</source>
-        <translation type="unfinished">Vyplnit</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -9113,16 +11288,24 @@ COM</translation>
         <translation type="unfinished">Formát objektu</translation>
     </message>
     <message>
+        <source>Format Painter</source>
+        <translation type="unfinished">Kopírovat formát</translation>
+    </message>
+    <message>
         <source>Free Rotate</source>
         <translation type="unfinished">Libovolné otočení</translation>
     </message>
     <message>
-        <source>Gradient</source>
-        <translation type="unfinished">Přechod</translation>
+        <source>Glow</source>
+        <translation type="unfinished">Záře</translation>
     </message>
     <message>
         <source>Group</source>
         <translation type="unfinished">Skupina</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished">Výška</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -9161,20 +11344,16 @@ COM</translation>
         <translation type="unfinished">Více řádek</translation>
     </message>
     <message>
-        <source>Outline</source>
-        <translation type="unfinished">Ohraničení</translation>
-    </message>
-    <message>
-        <source>Pattern</source>
-        <translation type="unfinished">Vzor</translation>
-    </message>
-    <message>
         <source>Patterned Lines</source>
         <translation type="unfinished">Čáry se vzorem</translation>
     </message>
     <message>
         <source>Picture</source>
         <translation type="unfinished">Obrázek</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation type="unfinished">Odraz</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -9209,20 +11388,48 @@ COM</translation>
         <translation type="unfinished">Nastavení</translation>
     </message>
     <message>
+        <source>Shadow</source>
+        <translation type="unfinished">Stín</translation>
+    </message>
+    <message>
         <source>Shape Effects</source>
         <translation type="unfinished">Efekty tvarů</translation>
+    </message>
+    <message>
+        <source>Shape Fill</source>
+        <translation type="unfinished">Výplň tvaru</translation>
+    </message>
+    <message>
+        <source>Shape Outline</source>
+        <translation type="unfinished">Ohraničení tvaru</translation>
     </message>
     <message>
         <source>Shape Size</source>
         <translation type="unfinished">Velikost tvaru</translation>
     </message>
     <message>
+        <source>Shape Styles</source>
+        <translation type="unfinished">Styly tvarů</translation>
+    </message>
+    <message>
         <source>Show Grid</source>
         <translation type="unfinished">Zobrazit mřížku</translation>
     </message>
     <message>
+        <source>Size</source>
+        <translation type="unfinished">Velikost</translation>
+    </message>
+    <message>
         <source>Snap to Grid</source>
         <translation type="unfinished">Přichytit k mřížce</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Solid</source>
@@ -9237,12 +11444,8 @@ COM</translation>
         <translation type="unfinished">Textový rámeček</translation>
     </message>
     <message>
-        <source>Text Color</source>
-        <translation type="unfinished">Barva textu</translation>
-    </message>
-    <message>
-        <source>Texture</source>
-        <translation type="unfinished">Textura</translation>
+        <source>ThreeDRotation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -9254,6 +11457,397 @@ COM</translation>
     </message>
     <message>
         <source>Weight</source>
+        <translation type="unfinished">Šířka</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished">Šířka</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_drawingtools_vml</name>
+    <message>
+        <source>0.25 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.5 pt.</source>
+        <translation type="unfinished">0,5 bodu</translation>
+    </message>
+    <message>
+        <source>0.75 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5 pt.</source>
+        <translation type="unfinished">1,5 bodu</translation>
+    </message>
+    <message>
+        <source>2.25 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4.5 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation type="unfinished">Zarovnat</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="unfinished">Zarovnat dolů</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation type="unfinished">Zarovnat na střed</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished">Zarovnat vlevo</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation type="unfinished">Zarovnat na střed</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished">Zarovnat vpravo</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation type="unfinished">Zarovnat nahoru</translation>
+    </message>
+    <message>
+        <source>Alignment</source>
+        <translation type="unfinished">Zarovnání</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation type="unfinished">Rozvrhnout</translation>
+    </message>
+    <message>
+        <source>Arrow Style</source>
+        <translation type="unfinished">Styl šipek</translation>
+    </message>
+    <message>
+        <source>Arrow Style 1</source>
+        <translation type="unfinished">Šipka styl 1</translation>
+    </message>
+    <message>
+        <source>Arrow Style 10</source>
+        <translation type="unfinished">Šipka styl 10</translation>
+    </message>
+    <message>
+        <source>Arrow Style 11</source>
+        <translation type="unfinished">Šipka styl 11</translation>
+    </message>
+    <message>
+        <source>Arrow Style 2</source>
+        <translation type="unfinished">Šipka styl 2</translation>
+    </message>
+    <message>
+        <source>Arrow Style 3</source>
+        <translation type="unfinished">Šipka styl 3</translation>
+    </message>
+    <message>
+        <source>Arrow Style 4</source>
+        <translation type="unfinished">Šipka styl 4</translation>
+    </message>
+    <message>
+        <source>Arrow Style 5</source>
+        <translation type="unfinished">Šipka styl 5</translation>
+    </message>
+    <message>
+        <source>Arrow Style 6</source>
+        <translation type="unfinished">Šipka styl 6</translation>
+    </message>
+    <message>
+        <source>Arrow Style 7</source>
+        <translation type="unfinished">Šipka styl 7</translation>
+    </message>
+    <message>
+        <source>Arrow Style 8</source>
+        <translation type="unfinished">Šipka styl 8</translation>
+    </message>
+    <message>
+        <source>Arrow Style 9</source>
+        <translation type="unfinished">Šipka styl 9</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished">Tučné</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation type="unfinished">Přenést dopředu</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation type="unfinished">Přenést dopředu</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">Střed</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished">Změnit tvary</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished">Vyprázdnit</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="unfinished">Čárkovaná</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation type="unfinished">Styl čárkování</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation type="unfinished">Zmenšit písmo</translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation type="unfinished">Zmenšit odsazení</translation>
+    </message>
+    <message>
+        <source>Detailed Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation type="unfinished">Rozložit vodorovně</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation type="unfinished">Rozložit svisle</translation>
+    </message>
+    <message>
+        <source>Edit Points</source>
+        <translation type="unfinished">Upravit body</translation>
+    </message>
+    <message>
+        <source>Edit Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation type="unfinished">Stejná výška</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation type="unfinished">Stejná velikost</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation type="unfinished">Stejná šířka</translation>
+    </message>
+    <message>
+        <source>Flip Horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished">Písmo</translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation type="unfinished">Velikost písma</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation type="unfinished">Formát objektu</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation type="unfinished">Libovolné otočení</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished">Skupina</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished">Výška</translation>
+    </message>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation type="unfinished">Vodorovný textový rámeček</translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation type="unfinished">Zvětšit písmo</translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation type="unfinished">Zvětšit odsazení</translation>
+    </message>
+    <message>
+        <source>Insert Shapes</source>
+        <translation type="unfinished">Vložit tvary</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished">Zkosené</translation>
+    </message>
+    <message>
+        <source>Line Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation type="unfinished">Dlouhá čárka</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Arrows</source>
+        <translation type="unfinished">Více šipek</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation type="unfinished">Více barev výplně</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation type="unfinished">Více barev čáry</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation type="unfinished">Více řádek</translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation type="unfinished">Výběr objektu</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished">Obrázek</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="unfinished">Otočit</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation type="unfinished">Otočit vlevo 90°</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation type="unfinished">Rotace vpravo 90°</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation type="unfinished">Kulatý bod</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation type="unfinished">Přenést dozadu</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished">Odeslat dozadu</translation>
+    </message>
+    <message>
+        <source>Shape Fill</source>
+        <translation type="unfinished">Výplň tvaru</translation>
+    </message>
+    <message>
+        <source>Shape Outline</source>
+        <translation type="unfinished">Ohraničení tvaru</translation>
+    </message>
+    <message>
+        <source>Shape Size</source>
+        <translation type="unfinished">Velikost tvaru</translation>
+    </message>
+    <message>
+        <source>Shape Styles</source>
+        <translation type="unfinished">Styly tvarů</translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation type="unfinished">Zobrazit mřížku</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Velikost</translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation type="unfinished">Přichytit k mřížce</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation type="unfinished">Plný</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation type="unfinished">Čtvercový bod</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation type="unfinished">Textový rámeček</translation>
+    </message>
+    <message>
+        <source>Text Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished">Podtržení</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation type="unfinished">Rozdělit</translation>
+    </message>
+    <message>
+        <source>Vertical Center</source>
+        <translation type="unfinished">Svisle na střed</translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation type="unfinished">TextBox svisle</translation>
+    </message>
+    <message>
+        <source>Width</source>
         <translation type="unfinished">Šířka</translation>
     </message>
 </context>
@@ -9298,6 +11892,10 @@ COM</translation>
     <message>
         <source>Enter Activation Code</source>
         <translation type="unfinished">Zadat aktivační kód</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -9353,15 +11951,15 @@ COM</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished">Nový dokument z výchozí šablony</translation>
+        <translation type="unfinished">Nový z výchozí šablony</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished">Nový dokument z online šablony</translation>
+        <translation type="unfinished">Nový z online šablon</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished">Nový dokument z dalších šablon</translation>
+        <translation type="unfinished">Nový z dalších šablon</translation>
     </message>
     <message>
         <source>Open</source>
@@ -9426,6 +12024,10 @@ COM</translation>
     <message>
         <source>Study Online</source>
         <translation type="unfinished">Studovat online</translation>
+    </message>
+    <message>
+        <source>Support WPS</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
@@ -9569,7 +12171,7 @@ Time</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Informační</translation>
+        <translation type="unfinished">Informace</translation>
     </message>
     <message>
         <source>Insert Function</source>
@@ -9736,6 +12338,10 @@ Trig</source>
     <message>
         <source>Bottom Double Border</source>
         <translation type="unfinished">Spodní okraj dvojitě</translation>
+    </message>
+    <message>
+        <source>Cell Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cells</source>
@@ -9910,6 +12516,10 @@ Trig</source>
         <translation type="unfinished">Písmo</translation>
     </message>
     <message>
+        <source>Font Color</source>
+        <translation type="unfinished">Barva písma</translation>
+    </message>
+    <message>
         <source>Font Size</source>
         <translation type="unfinished">Velikost písma</translation>
     </message>
@@ -9920,6 +12530,10 @@ Trig</source>
     <message>
         <source>Format Painter</source>
         <translation type="unfinished">Kopírovat formát</translation>
+    </message>
+    <message>
+        <source>Format as Table</source>
+        <translation type="unfinished">Formátovat jako tabulku</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -10059,8 +12673,20 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>More Border Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Borders</source>
         <translation type="unfinished">Více okajů</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation type="unfinished">Více barev výplně</translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation type="unfinished">Více barev písma</translation>
     </message>
     <message>
         <source>More Functions</source>
@@ -10069,6 +12695,10 @@ Center</source>
     <message>
         <source>Move or Copy Sheet</source>
         <translation type="unfinished">Přesunout nebo kopírovat list</translation>
+    </message>
+    <message>
+        <source>New Table Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Next month</source>
@@ -10171,10 +12801,6 @@ Center</source>
         <translation type="unfinished">Standardní šířka</translation>
     </message>
     <message>
-        <source>Styles</source>
-        <translation type="unfinished">Styly</translation>
-    </message>
-    <message>
         <source>Sum</source>
         <translation type="unfinished">Suma</translation>
     </message>
@@ -10185,10 +12811,6 @@ Center</source>
     <message>
         <source>Text</source>
         <translation type="unfinished">Text</translation>
-    </message>
-    <message>
-        <source>Text Color</source>
-        <translation type="unfinished">Barva textu</translation>
     </message>
     <message>
         <source>Thick Bottom Border</source>
@@ -10400,6 +13022,10 @@ Center</source>
         <translation type="unfinished">Vložit obrázek online</translation>
     </message>
     <message>
+        <source>InsertNewChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Label</source>
         <translation type="unfinished">Jmenovka</translation>
     </message>
@@ -10527,6 +13153,10 @@ Center</source>
         <translation type="unfinished">Zrušit oblast tisku</translation>
     </message>
     <message>
+        <source>Colors</source>
+        <translation type="unfinished">Barvy</translation>
+    </message>
+    <message>
         <source>Custom Zoom</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10541,6 +13171,14 @@ Center</source>
     <message>
         <source>Distribute Vertically</source>
         <translation type="unfinished">Rozložit svisle</translation>
+    </message>
+    <message>
+        <source>Edit Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished">Efekty</translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -10577,6 +13215,10 @@ Center</source>
     <message>
         <source>Flip Vertical</source>
         <translation type="unfinished">Překlopit svisle</translation>
+    </message>
+    <message>
+        <source>Fonts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -10667,6 +13309,10 @@ Center</source>
         <translation type="unfinished">Přichytit k mřížce</translation>
     </message>
     <message>
+        <source>Themes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Ungroup</source>
         <translation type="unfinished">Rozdělit</translation>
     </message>
@@ -10700,6 +13346,10 @@ Center</source>
     <message>
         <source>3 pt</source>
         <translation type="unfinished">3 body</translation>
+    </message>
+    <message>
+        <source>3-D Rotation</source>
+        <translation type="unfinished">3D rotace</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -10806,10 +13456,6 @@ Center</source>
         <translation type="unfinished">Stejná šířka</translation>
     </message>
     <message>
-        <source>Fill</source>
-        <translation type="unfinished">Vyplnit</translation>
-    </message>
-    <message>
         <source>Flip Horizontal</source>
         <translation type="unfinished">Překlopit vodorovně</translation>
     </message>
@@ -10822,16 +13468,24 @@ Center</source>
         <translation type="unfinished">Formát objektu</translation>
     </message>
     <message>
+        <source>Format Painter</source>
+        <translation type="unfinished">Kopírovat formát</translation>
+    </message>
+    <message>
         <source>Free Rotate</source>
         <translation type="unfinished">Libovolné otočení</translation>
     </message>
     <message>
-        <source>Gradient</source>
-        <translation type="unfinished">Přechod</translation>
+        <source>Glow</source>
+        <translation type="unfinished">Záře</translation>
     </message>
     <message>
         <source>Group</source>
         <translation type="unfinished">Skupina</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished">Výška</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -10852,6 +13506,14 @@ Center</source>
     <message>
         <source>Less Contrast</source>
         <translation type="unfinished">Méně kontrastu</translation>
+    </message>
+    <message>
+        <source>Line Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -10886,6 +13548,362 @@ Center</source>
         <translation type="unfinished">Více řádek</translation>
     </message>
     <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished">Obrázky online</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished">Obrázek</translation>
+    </message>
+    <message>
+        <source>Picture
+Size</source>
+        <translation type="unfinished">Velikost
+obrázku</translation>
+    </message>
+    <message>
+        <source>Picture Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Styles</source>
+        <translation type="unfinished">Styly obrázků</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation type="unfinished">Odraz</translation>
+    </message>
+    <message>
+        <source>Reset Picture</source>
+        <translation type="unfinished">Resetovat obrázes</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="unfinished">Otočit</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation type="unfinished">Otočit vlevo 90°</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation type="unfinished">Rotace vpravo 90°</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation type="unfinished">Kulatý bod</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation type="unfinished">Rychlý výběr</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation type="unfinished">Přenést dozadu</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished">Odeslat dozadu</translation>
+    </message>
+    <message>
+        <source>Set Transparent Color</source>
+        <translation type="unfinished">Nastavit průhlednou barvu</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">Nastavení</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation type="unfinished">Stín</translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation type="unfinished">Zobrazit mřížku</translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation type="unfinished">Přichytit k mřížce</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation type="unfinished">Plný</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation type="unfinished">Čtvercový bod</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation type="unfinished">Rozdělit</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished">Šířka</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_picturetool.PictureColor</name>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished">Automaticky</translation>
+    </message>
+    <message>
+        <source>Black and White</source>
+        <translation type="unfinished">Černá a bílá</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished">Barva</translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <translation type="unfinished">Stupně šedi</translation>
+    </message>
+    <message>
+        <source>Washout</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_picturetool_Vml</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished">0,25 bodu</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished">0,5 bodu</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished">0,75 bodu</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished">1 bod</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished">1,5 bodu</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished">2,25 bodu</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished">3 body</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished">4,5 bodu</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished">6 bodů</translation>
+    </message>
+    <message>
+        <source>Adjust</source>
+        <translation type="unfinished">Vyladit</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation type="unfinished">Zarovnat</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="unfinished">Zarovnat dolů</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation type="unfinished">Zarovnat na střed</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished">Zarovnat vlevo</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation type="unfinished">Zarovnat na střed</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished">Zarovnat vpravo</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation type="unfinished">Zarovnat nahoru</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation type="unfinished">Rozvrhnout</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation type="unfinished">Přenést dopředu</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation type="unfinished">Přenést dopředu</translation>
+    </message>
+    <message>
+        <source>Change Picture</source>
+        <translation type="unfinished">Změnit obrázek</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compress Pictures</source>
+        <translation type="unfinished">Komprimovat obrázky</translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation type="unfinished">Ořez</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="unfinished">Čárkovaná</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation type="unfinished">Styl čárkování</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detailed Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation type="unfinished">Rozložit vodorovně</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation type="unfinished">Rozložit svisle</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation type="unfinished">Stejná výška</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation type="unfinished">Stejná velikost</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation type="unfinished">Stejná šířka</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation type="unfinished">Překlopit vodorovně</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation type="unfinished">Překlopit svisle</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation type="unfinished">Formát objektu</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation type="unfinished">Libovolné otočení</translation>
+    </message>
+    <message>
+        <source>Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished">Skupina</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished">Výška</translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation type="unfinished">Vložit</translation>
+    </message>
+    <message>
+        <source>Insert Atristic Clip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less Brightness</source>
+        <translation type="unfinished">Méně jasu</translation>
+    </message>
+    <message>
+        <source>Less Contrast</source>
+        <translation type="unfinished">Méně kontrastu</translation>
+    </message>
+    <message>
+        <source>Line Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation type="unfinished">Dlouhá čárka</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Brightness</source>
+        <translation type="unfinished">Více jasu</translation>
+    </message>
+    <message>
+        <source>More Contrast</source>
+        <translation type="unfinished">Více kontrastu</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation type="unfinished">Více barev výplně</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation type="unfinished">Více barev čáry</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation type="unfinished">Více řádek</translation>
+    </message>
+    <message>
         <source>More Shadow Colors</source>
         <translation type="unfinished">Více barev stínu</translation>
     </message>
@@ -10894,40 +13912,20 @@ Center</source>
         <translation type="unfinished">Bez stínu</translation>
     </message>
     <message>
-        <source>Nudge Shadow Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished">Obrázky online</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation type="unfinished">Ohraničení</translation>
-    </message>
-    <message>
-        <source>Pattern</source>
-        <translation type="unfinished">Vzor</translation>
-    </message>
-    <message>
-        <source>Patterned Lines</source>
-        <translation type="unfinished">Čáry se vzorem</translation>
-    </message>
-    <message>
         <source>Picture</source>
         <translation type="unfinished">Obrázek</translation>
+    </message>
+    <message>
+        <source>Picture Adjust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Outline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture Size</source>
@@ -10940,6 +13938,10 @@ Center</source>
     <message>
         <source>Reset Picture</source>
         <translation type="unfinished">Resetovat obrázes</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -10978,19 +13980,31 @@ Center</source>
         <translation type="unfinished">Nastavit průhlednou barvu</translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation type="unfinished">Nastavení</translation>
-    </message>
-    <message>
         <source>Shadow Color</source>
         <translation type="unfinished">Barva stínu</translation>
     </message>
     <message>
-        <source>Shadow Effects</source>
+        <source>Shadow On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shadow On/Off</source>
+        <source>Shadow Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11002,6 +14016,10 @@ Center</source>
         <translation type="unfinished">Přichytit k mřížce</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation type="unfinished">Plný</translation>
     </message>
@@ -11010,20 +14028,16 @@ Center</source>
         <translation type="unfinished">Čtvercový bod</translation>
     </message>
     <message>
-        <source>Texture</source>
-        <translation type="unfinished">Textura</translation>
-    </message>
-    <message>
         <source>Ungroup</source>
         <translation type="unfinished">Rozdělit</translation>
     </message>
     <message>
-        <source>Weight</source>
+        <source>Width</source>
         <translation type="unfinished">Šířka</translation>
     </message>
 </context>
 <context>
-    <name>rainbow.ct_picturetool.PictureColor</name>
+    <name>rainbow.ct_picturetool_Vml.PictureColor</name>
     <message>
         <source>Auto</source>
         <translation type="unfinished">Automaticky</translation>
@@ -11415,20 +14429,175 @@ Item Labels</source>
         <translation type="unfinished">Normální</translation>
     </message>
     <message>
-        <source>Nudge Shadow Down</source>
+        <source>Parallel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Nudge Shadow Left</source>
+        <source>Perspective</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Nudge Shadow Right</source>
+        <source>Plastic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Nudge Shadow Up</source>
+        <source>Semitransparent Shadow</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow Color</source>
+        <translation type="unfinished">Barva stínu</translation>
+    </message>
+    <message>
+        <source>Shadow Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
+        <source>Surface</source>
+        <translation type="unfinished">Povrch</translation>
+    </message>
+    <message>
+        <source>Tilt Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tilt Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tilt Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tilt Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wire Frame</source>
+        <translation type="unfinished">Drátěný model</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_shadowdrawingtools_vml</name>
+    <message>
+        <source>0 pt</source>
+        <translation type="unfinished">0 bodů</translation>
+    </message>
+    <message>
+        <source>144 pt</source>
+        <translation type="unfinished">144 bodů</translation>
+    </message>
+    <message>
+        <source>288 pt</source>
+        <translation type="unfinished">288 bodů</translation>
+    </message>
+    <message>
+        <source>3-D Color</source>
+        <translation type="unfinished">3-D barva</translation>
+    </message>
+    <message>
+        <source>3-D Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D On/Off</source>
+        <translation type="unfinished">3-D zap/vyp</translation>
+    </message>
+    <message>
+        <source>3-D Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>36 pt</source>
+        <translation type="unfinished">36 bodů</translation>
+    </message>
+    <message>
+        <source>72 pt</source>
+        <translation type="unfinished">72 bodů</translation>
+    </message>
+    <message>
+        <source>Bright</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished">Vlastní</translation>
+    </message>
+    <message>
+        <source>Depth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dim</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direction</source>
+        <translation type="unfinished">Směr</translation>
+    </message>
+    <message>
+        <source>Infinity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lighting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matte</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More 3-D Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Shadow Colors</source>
+        <translation type="unfinished">Více barev stínu</translation>
+    </message>
+    <message>
+        <source>No 3-D</source>
+        <translation type="unfinished">Ne 3-D</translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation type="unfinished">Bez stínu</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished">Normální</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -11463,6 +14632,26 @@ Item Labels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Shift Shadow Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift Shadow Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
         <source>Surface</source>
         <translation type="unfinished">Povrch</translation>
     </message>
@@ -11485,6 +14674,338 @@ Item Labels</source>
     <message>
         <source>Wire Frame</source>
         <translation type="unfinished">Drátěný model</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_tabletool</name>
+    <message>
+        <source>Banded Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Banded Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Range Properties</source>
+        <translation type="unfinished">Vlastnosti datové řady</translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation type="unfinished">Upravit
+OLE DB dotaz</translation>
+    </message>
+    <message>
+        <source>Edit Query</source>
+        <translation type="unfinished">Upravit dotaz</translation>
+    </message>
+    <message>
+        <source>Export Table to SharePoint List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>External Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Column</source>
+        <translation type="unfinished">První sloupec</translation>
+    </message>
+    <message>
+        <source>Header Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation type="unfinished">Poslední sloupec</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished">Vlastnosti</translation>
+    </message>
+    <message>
+        <source>Refresh All</source>
+        <translation type="unfinished">Obnovit vše</translation>
+    </message>
+    <message>
+        <source>Refresh Data</source>
+        <translation type="unfinished">Obnovit data</translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished">Odstranit duplicitu</translation>
+    </message>
+    <message>
+        <source>Resize Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Style Options</source>
+        <translation type="unfinished">Možnosti stylu tabulky</translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation type="unfinished">Nástroje</translation>
+    </message>
+    <message>
+        <source>Total Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_texttool</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished">0,25 bodu</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished">0,5 bodu</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished">0,75 bodu</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished">1 bod</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished">1,5 bodu</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished">2,25 bodu</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished">3 body</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished">4,5 bodu</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished">6 bodů</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="unfinished">Zarovnat dolů</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished">Zarovnat vlevo</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished">Zarovnat vpravo</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation type="unfinished">Zarovnat nahoru</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">Vše</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished">Tučné</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">Střed</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished">Vyprázdnit</translation>
+    </message>
+    <message>
+        <source>Clear WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation type="unfinished">Komentáře</translation>
+    </message>
+    <message>
+        <source>Contents</source>
+        <translation type="unfinished">Obsah</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="unfinished">Čárkovaná</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation type="unfinished">Styl čárkování</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation type="unfinished">Zmenšit písmo</translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation type="unfinished">Zmenšit odsazení</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished">Písmo</translation>
+    </message>
+    <message>
+        <source>Font Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation type="unfinished">Velikost písma</translation>
+    </message>
+    <message>
+        <source>Formats</source>
+        <translation type="unfinished">Formáty</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation type="unfinished">Záře</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished">Přechod</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished">Vodorovně</translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation type="unfinished">Zvětšit písmo</translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation type="unfinished">Zvětšit odsazení</translation>
+    </message>
+    <message>
+        <source>Insert Textbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished">Zkosené</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation type="unfinished">Dlouhá čárka</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation type="unfinished">Více barev výplně</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation type="unfinished">Více barev čáry</translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation type="unfinished">Vzor</translation>
+    </message>
+    <message>
+        <source>PicOrTexture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation type="unfinished">Odraz</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation type="unfinished">Kulatý bod</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <translation type="unfinished">Řady</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation type="unfinished">Stín</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation type="unfinished">Plný</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation type="unfinished">Čtvercový bod</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation type="unfinished">Textový rámeček</translation>
+    </message>
+    <message>
+        <source>Text Color</source>
+        <translation type="unfinished">Barva textu</translation>
+    </message>
+    <message>
+        <source>Text Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished">Podtržení</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished">Svisle</translation>
+    </message>
+    <message>
+        <source>Vertical Center</source>
+        <translation type="unfinished">Svisle na střed</translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation type="unfinished">Šířka</translation>
+    </message>
+    <message>
+        <source>WordArt Styles</source>
+        <translation type="unfinished">WordArt styly</translation>
     </message>
 </context>
 <context>
@@ -11751,9 +15272,8 @@ ostatní okna</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shadow
-Color</source>
-        <translation type="unfinished"></translation>
+        <source>Shadow Color</source>
+        <translation type="unfinished">Barva stínu</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
@@ -11762,6 +15282,10 @@ Color</source>
     <message>
         <source>Shadow Settings</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -12039,10 +15563,6 @@ Color</source>
         <translation type="unfinished">Libovolné otočení</translation>
     </message>
     <message>
-        <source>Gradient</source>
-        <translation type="unfinished">Přechod</translation>
-    </message>
-    <message>
         <source>Group</source>
         <translation type="unfinished">Skupina</translation>
     </message>
@@ -12064,6 +15584,14 @@ Color</source>
     </message>
     <message>
         <source>Letter Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12093,14 +15621,6 @@ Color</source>
     <message>
         <source>More Lines</source>
         <translation type="unfinished">Více řádek</translation>
-    </message>
-    <message>
-        <source>Pattern</source>
-        <translation type="unfinished">Vzor</translation>
-    </message>
-    <message>
-        <source>Patterned Lines</source>
-        <translation type="unfinished">Čáry se vzorem</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -12175,6 +15695,10 @@ Color</source>
         <translation type="unfinished">Přichytit k mřížce</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished">Kapátko</translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation type="unfinished">Plný</translation>
     </message>
@@ -12189,10 +15713,6 @@ Color</source>
     <message>
         <source>Stretch Justify</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Texture</source>
-        <translation type="unfinished">Textura</translation>
     </message>
     <message>
         <source>Triangle Down</source>
@@ -12223,10 +15743,6 @@ Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Weight</source>
-        <translation type="unfinished">Šířka</translation>
-    </message>
-    <message>
         <source>Word Justify</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12244,19 +15760,19 @@ Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WordArt Fill</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WordArt Gallery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WordArt Outline</source>
+        <source>WordArt Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WordArt Shape</source>
+        <source>WordArt Shape Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArt Shape Outline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12298,12 +15814,20 @@ Color</source>
         <translation type="unfinished">Vstup do Doceru</translation>
     </message>
     <message>
+        <source>Donate</source>
+        <translation type="unfinished">Přispět</translation>
+    </message>
+    <message>
         <source>Enable AutoBackup</source>
         <translation type="unfinished">Zapnout automatickou zálohu</translation>
     </message>
     <message>
         <source>Export to PDF</source>
         <translation type="unfinished">Eport do PDF</translation>
+    </message>
+    <message>
+        <source>Feedback and Support</source>
+        <translation type="unfinished">Zpětná vazba a podpora</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -12352,10 +15876,6 @@ Color</source>
     <message>
         <source>Special Features</source>
         <translation type="unfinished">Speciální vlastnosti</translation>
-    </message>
-    <message>
-        <source>Text Speech</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -12482,10 +16002,6 @@ Color</source>
     <message>
         <source>Stop Reading Layout</source>
         <translation type="unfinished">Ukončit rozložení pro čtení</translation>
-    </message>
-    <message>
-        <source>User Feedback</source>
-        <translation type="unfinished">Odezva od uživatelů</translation>
     </message>
     <message>
         <source>View File Safe </source>

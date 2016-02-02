@@ -342,209 +342,6 @@
     </message>
 </context>
 <context>
-    <name>DlgKxAdvancedLayout</name>
-    <message>
-        <source>&amp;Alignment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Behind text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;In line with text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Left only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Lock anchor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Move object with text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Right only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Tight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;relative to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;to the right of</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Absolute &amp;position</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Absolute po&amp;sition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Advanced Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Al&amp;ignment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow o&amp;verlap</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Both &amp;sides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Botto&amp;m</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bottom</source>
-        <translation type="unfinished">Dole</translation>
-    </message>
-    <message>
-        <source>Centered</source>
-        <translation type="unfinished">Vystředěný</translation>
-    </message>
-    <message>
-        <source>Character</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Column</source>
-        <translation type="unfinished">Sloupec</translation>
-    </message>
-    <message>
-        <source>Distance from text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Horizontal</source>
-        <translation type="unfinished">Vodorovně</translation>
-    </message>
-    <message>
-        <source>In fro&amp;nt of text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inside</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>L&amp;argest only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>L&amp;eft</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation type="unfinished">Vlevo</translation>
-    </message>
-    <message>
-        <source>Line</source>
-        <translation type="unfinished">Čára</translation>
-    </message>
-    <message>
-        <source>Margin</source>
-        <translation type="unfinished">Okraj</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation type="unfinished">Možnosti</translation>
-    </message>
-    <message>
-        <source>Outside</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page</source>
-        <translation type="unfinished">Stránka</translation>
-    </message>
-    <message>
-        <source>Paragraph</source>
-        <translation type="unfinished">Odstavec</translation>
-    </message>
-    <message>
-        <source>Picture Position</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ri&amp;ght</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <translation type="unfinished">Vpravo</translation>
-    </message>
-    <message>
-        <source>S&amp;quare</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>T&amp;hrough</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>T&amp;op and bottom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text wrapping</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>To&amp;p</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Top</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation type="unfinished">Svisle</translation>
-    </message>
-    <message>
-        <source>Wrap text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Wrapping style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>belo&amp;w</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>pt, 2, -1596, 1596, 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>pt, 2, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>r&amp;elative to</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>DlgKxColumns</name>
     <message>
         <source>&amp;Apply to:</source>
@@ -725,17 +522,17 @@
     <message>
         <source>&amp;Begin style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl na začátku:</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Přerušování:</translation>
     </message>
     <message>
         <source>&amp;End style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl na konci:</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
@@ -784,6 +581,13 @@
     <message>
         <source>Words only</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KWpsStylesGalleryModel</name>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished">Styl</translation>
     </message>
 </context>
 <context>
@@ -970,6 +774,100 @@
     </message>
 </context>
 <context>
+    <name>KxContentControlDlg</name>
+    <message>
+        <source>Group Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bounding Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start/End Tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Žádný</translation>
+    </message>
+    <message>
+        <source>(All Categories)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Western</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text (same as display)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date (xsd:date)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date and Time (xsd:dateTime)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (Taiwan)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English (United States)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Japanese (Japan)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vietnamese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (PRC)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxContentListEntriesDlg</name>
+    <message>
+        <source>Add Choice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify Choice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display &amp;Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Value:</source>
+        <translation type="unfinished">Hodnota:</translation>
+    </message>
+    <message>
+        <source>Display name cannot be blank.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An entry with the same value already exists - each entry must spacify a unique value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An entry with the same display name already exists - each entry must spacify a display name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxContentsDlg</name>
     <message>
         <source>Do you want to replace the selected table of contents?</source>
@@ -1144,7 +1042,7 @@
     </message>
     <message>
         <source>&amp;Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Vlastní</translation>
     </message>
     <message>
         <source>&amp;Default</source>
@@ -1514,10 +1412,6 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>M&amp;ore Colors...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Patterns</source>
         <translation type="unfinished">Vzory</translation>
     </message>
@@ -1608,7 +1502,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Bullets and Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odrážky a číslování</translation>
     </message>
     <message>
         <source>Cu&amp;stom list:</source>
@@ -1760,7 +1654,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Změnit</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -1768,7 +1662,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Ignorovat</translation>
     </message>
     <message>
         <source>&amp;Options</source>
@@ -1776,11 +1670,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Paragraph:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Odstavec:</translation>
     </message>
     <message>
         <source>&amp;Set Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavit jazyk</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
@@ -1792,7 +1686,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Change A&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Změnit &amp;vše</translation>
     </message>
     <message>
         <source>Cu&amp;stom Dictionaries...</source>
@@ -1808,11 +1702,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Suggestio&amp;ns:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Návrhy:</translation>
     </message>
     <message>
         <source>The word is not in the dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slovo není ve slovníku</translation>
     </message>
 </context>
 <context>
@@ -1982,6 +1876,165 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Combine Characters</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgContentControl</name>
+    <message>
+        <source>Content Control Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Hlavní</translation>
+    </message>
+    <message>
+        <source>&amp;Title:</source>
+        <translation type="unfinished">Nadpis:</translation>
+    </message>
+    <message>
+        <source>T&amp;ag:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Show as:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color:</source>
+        <translation type="unfinished">&amp;Barva:</translation>
+    </message>
+    <message>
+        <source>&amp;Use a style to format text typed into the empty control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Style:</source>
+        <translation type="unfinished">&amp;Styl:</translation>
+    </message>
+    <message>
+        <source>&amp;New Style...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove content control when contents are edited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Locking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content control cannot be &amp;deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contents cannot be &amp;edited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plain Text Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow &amp;carriage returns (multiple paragraphs)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Building Block Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Category:</source>
+        <translation type="unfinished">Kategorie</translation>
+    </message>
+    <message>
+        <source>&amp;Gallery:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check Box Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checked symbol:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Change...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unchecked symbol:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cha&amp;nge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drop-Down &amp;List Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation type="unfinished">&amp;Přidat</translation>
+    </message>
+    <message>
+        <source>&amp;Modify...</source>
+        <translation type="unfinished">Upravit...</translation>
+    </message>
+    <message>
+        <source>Rem&amp;ove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move U&amp;p</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Do&amp;wn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date Picker Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Displa&amp;y the date like this:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Locale:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Calendar type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Store &amp;XML contents in the following format when mapped:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeating Section Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow users to add and remove &amp;sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section tit&amp;le:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2460,6 +2513,85 @@ use buttons to apply borders</source>
     </message>
 </context>
 <context>
+    <name>KxDlgDocumentFields</name>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document&amp;Field Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Rename</source>
+        <translation type="unfinished">Přejmenovat</translation>
+    </message>
+    <message>
+        <source>&amp;Go To</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished">&amp;Smazat</translation>
+    </message>
+    <message>
+        <source>&amp;Marks Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DocumentField Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Hidden</source>
+        <translation type="unfinished">Skrýt vzorce</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="unfinished">&amp;Tisk</translation>
+    </message>
+    <message>
+        <source>Read &amp;Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Apply All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insertion Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When inserted at beginning and end, then &amp;counted in. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgDrawingGrid</name>
     <message>
         <source>&amp;Horizontal every:</source>
@@ -2771,140 +2903,6 @@ If unnecessary, please click Cancel.</source>
     </message>
 </context>
 <context>
-    <name>KxDlgEnvelopeOption</name>
-    <message>
-        <source>Envelope Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Envelope size:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delivery address</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From top:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From left:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto</source>
-        <translation type="unfinished">Automaticky</translation>
-    </message>
-    <message>
-        <source>Return address</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preview</source>
-        <translation type="unfinished">Náhled</translation>
-    </message>
-    <message>
-        <source>Printing Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Printer:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Feed method</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Face up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Face down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clockwise rotation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Feed from:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reset</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgEnvelopesAndLabels</name>
-    <message>
-        <source>Envelopes and Labels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Envelopes</source>
-        <translation type="unfinished">Obálky</translation>
-    </message>
-    <message>
-        <source>Delivery address:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add electronic postage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Return address:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Omit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preview</source>
-        <translation type="unfinished">Náhled</translation>
-    </message>
-    <message>
-        <source>Feed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify that an envelopes is loaded before printing:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use printer setting</source>
-        <translation type="unfinished">Použít nastavení tiskárny</translation>
-    </message>
-    <message>
-        <source>Print</source>
-        <translation type="unfinished">Tisk</translation>
-    </message>
-    <message>
-        <source>Add Document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation type="unfinished">Možnosti</translation>
-    </message>
-    <message>
-        <source>E-postage Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Labels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished">Zavřít</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgField</name>
     <message>
         <source>&amp;Field names:</source>
@@ -3136,7 +3134,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Najít další</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
@@ -3188,7 +3186,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Co &amp;najít:</translation>
     </message>
     <message>
         <source>Field</source>
@@ -3292,7 +3290,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahradit všechny</translation>
     </message>
     <message>
         <source>Replace w&amp;ith:</source>
@@ -3415,7 +3413,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>B&amp;y:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Od:</translation>
     </message>
     <message>
         <source>Complex scripts</source>
@@ -3531,6 +3529,10 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Cha&amp;racter Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text &amp;Effects...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3872,7 +3874,7 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgInsertDateTime</name>
     <message>
         <source>&amp;Available formats:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Dostupné formáty:</translation>
     </message>
     <message>
         <source>&amp;Default...</source>
@@ -3884,7 +3886,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Update automatically</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Automaticky aktualizovat</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -4350,7 +4352,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;to:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;do:</translation>
     </message>
     <message>
         <source>As new documents&apos; filename</source>
@@ -4484,7 +4486,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;to:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;do:</translation>
     </message>
     <message>
         <source>Curr&amp;ent record</source>
@@ -4863,7 +4865,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Standard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Standardní</translation>
     </message>
     <message>
         <source>&amp;Tab characters</source>
@@ -4975,7 +4977,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Cann&amp;ot end line:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Řádek nelze ukončit:</translation>
     </message>
     <message>
         <source>Capitalize first letter of &amp;sentences</source>
@@ -5035,7 +5037,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Custo&amp;m</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">V&amp;lastní</translation>
     </message>
     <message>
         <source>Custom &amp;Dictionaries...</source>
@@ -5135,7 +5137,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>First and last characters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">První a poslední znak</translation>
     </message>
     <message>
         <source>Fixed ta&amp;b width</source>
@@ -5172,6 +5174,10 @@ Example: +4 will move forward four items:</source>
     <message>
         <source>H&amp;idden text:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help us to improve WPS Office</source>
+        <translation type="unfinished">Pomozte nám vylepšit WPS Office</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -5279,7 +5285,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Match &amp;case</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozlišovat velikost písmen</translation>
     </message>
     <message>
         <source>Match &amp;full/half width form</source>
@@ -5662,10 +5668,6 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished">Stiskem Ctrl+Tab se přepnete mezi záložkami</translation>
     </message>
     <message>
-        <source>&amp;Font Preview Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show Mini Toolbar on rig&amp;ht click</source>
         <translation type="unfinished">Zobrazit mini nástrojovou lištu na pravoklik</translation>
     </message>
@@ -5674,12 +5676,24 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished">Zobrazit mini nástrojovou lištu při výběru (&amp;D)</translation>
     </message>
     <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation type="unfinished">Zobrazit okna v hlavní liště na ploše</translation>
+    </message>
+    <message>
+        <source>F&amp;onts Preview Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Subscribe WPS Minisite</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show E&amp;veryday</source>
         <translation type="unfinished">Zobrazit denně</translation>
+    </message>
+    <message>
+        <source>D&amp;ocument fields</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show After One Week (&amp;Y)</source>
@@ -5715,7 +5729,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Umístění souborů služby AutoRecover:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -5746,6 +5760,18 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Compatibility options</source>
+        <translation type="unfinished">Možnosti kompatibility</translation>
+    </message>
+    <message>
+        <source>Split &amp;apart page break and paragraph mark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compatibilit&amp;y options for:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Password protect</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5764,42 +5790,6 @@ Example: +4 will move forward four items:</source>
     <message>
         <source>Feedback</source>
         <translation type="unfinished">Zpětná vazba</translation>
-    </message>
-    <message>
-        <source>Show &amp;windows in taskbar</source>
-        <translation type="unfinished">Zobrazit okna v hlavní liště na ploše</translation>
-    </message>
-    <message>
-        <source>Compatibility options</source>
-        <translation type="unfinished">Možnosti kompatibility</translation>
-    </message>
-    <message>
-        <source>Compatibilit&amp;y options for:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Split &amp;apart page break and paragraph mark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Language</source>
-        <translation type="unfinished">Jazyk</translation>
-    </message>
-    <message>
-        <source>Automatically download and update language packages</source>
-        <translation type="unfinished">Automaticky stahovat a aktualizovat jazykové balíčky</translation>
-    </message>
-    <message>
-        <source>Choose Display and Help Languages</source>
-        <translation type="unfinished">Vybrat jazyk pro zobrazení a pro nápovědu</translation>
-    </message>
-    <message>
-        <source>Choose...</source>
-        <translation type="unfinished">Vyberte...</translation>
     </message>
 </context>
 <context>
@@ -6121,7 +6111,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished">Rozložení</translation>
+        <translation type="unfinished">Rozvržení</translation>
     </message>
     <message>
         <source>Left</source>
@@ -6356,7 +6346,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>B&amp;y:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Od:</translation>
     </message>
     <message>
         <source>Baseline</source>
@@ -7298,6 +7288,17 @@ Example: +4 will move forward four items:</source>
     </message>
 </context>
 <context>
+    <name>KxDlgTextEffects</name>
+    <message>
+        <source>Format Text Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgTextFormField</name>
     <message>
         <source>&amp;Bookmark:</source>
@@ -7429,6 +7430,24 @@ Example: +4 will move forward four items:</source>
     </message>
 </context>
 <context>
+    <name>KxDlgWpsConvertPrompt</name>
+    <message>
+        <source>Convert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your document will be upgraded to newest file format.
+
+While you&apos;ll get to use all the new features in Word, this may cause minor layout changes. If you prefer not to upgrade, press cancel.
+Converting allows you to use all the new features of Word and reduces the size of your file. This document will be replaced by the converted version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not ask me again about converting documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
         <source>Header Record Delimiters</source>
@@ -7436,6 +7455,10 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Data fields must be separated from each other by a character called a field delimiter. Similarly, data records must be separated by a record delimiter. Use the lists below to select the appropriate delimiter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Field delimiter:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7570,8 +7593,23 @@ Example: +4 will move forward four items:</source>
         <source>&amp;Record delimiter:</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>KxDlgWpsMaintainCmptPrompt</name>
     <message>
-        <source>&amp;Field delimiter:</source>
+        <source>MaintainCompatibilityPrompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your document will be upgraded to the newest file format.
+
+While you&apos;ll get to use all the new features in Word, some minor layout
+changes are possible. If you prefer not to upgrade, press cancel an
+check the maintain compatibility checkbox.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not ask me again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7673,6 +7711,29 @@ Example: +4 will move forward four items:</source>
     </message>
 </context>
 <context>
+    <name>KxDocumentFieldsDlg</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Zavřít</translation>
+    </message>
+    <message>
+        <source>The document field with this name has already existed. Do you want to cover it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name of the document field is illegal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name of the document field has already existed, please rename it!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDropCapDlg</name>
     <message>
         <source>Number must be between %1 and %2.</source>
@@ -7701,6 +7762,22 @@ Example: +4 will move forward four items:</source>
     <message>
         <source>pt</source>
         <translation type="unfinished">bod</translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7749,28 +7826,6 @@ Example: +4 will move forward four items:</source>
     </message>
 </context>
 <context>
-    <name>KxEnvelopeOptionDlg</name>
-    <message>
-        <source>Ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
-    </message>
-    <message>
-        <source>Use printer setting</source>
-        <translation type="unfinished">Použít nastavení tiskárny</translation>
-    </message>
-</context>
-<context>
-    <name>KxEnvelopesAndLabelsDlg</name>
-    <message>
-        <source>Change Document</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxExpUserListPanel</name>
     <message>
         <source>&amp;Find Next Region This User Can Edit</source>
@@ -7786,10 +7841,100 @@ Example: +4 will move forward four items:</source>
     </message>
 </context>
 <context>
+    <name>KxExportToOFDDlg</name>
+    <message>
+        <source>Please input the password of permission setting!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">Potvrzení hesla neodpovídá.</translation>
+    </message>
+    <message>
+        <source>Permission Password and Document Open Password must be different.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please specify the file name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation type="unfinished">Stejný název už má existující adresář.</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished">Vybraný adresář neexistuje.</translation>
+    </message>
+    <message>
+        <source>You have no permission to write files into this directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save OFD File As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd|All File(*.*)|*.*</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Are you sure to replace the existing file?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is not a valid page range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error while trying exporting to OFD.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Zavřít</translation>
+    </message>
+    <message>
+        <source>Exporting summary information...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting page %1...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="unfinished">Export popisků...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxExportToPDFDlg</name>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potvrzení hesla neodpovídá.</translation>
     </message>
     <message>
         <source>PDF File(*.pdf)|*.pdf|All File(*.*)|*.*</source>
@@ -7809,11 +7954,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>The directory you specified does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vybraný adresář neexistuje.</translation>
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stejný název už má existující adresář.</translation>
     </message>
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing file?</source>
@@ -7960,10 +8105,6 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open and activate the file KingSoft.wps under the C drive.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open and jump to the specified file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7976,15 +8117,7 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Presume it is August 8 of 2008. Field code:Time \@ yyyy-M-d</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK C:\\KingSoft.wps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8081,7 +8214,39 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Presume a file&apos;s url is &quot;d:\\wps.doc&quot;. Field code: INCLUDETEXT &quot;d:\\wps.doc&quot;</source>
+        <source>/</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>root directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D:\\</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D drive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the KingSoft.wps is in %1. Field code:HYPERLINK %2KingSoft.wps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open and activate the file KingSoft.wps under the %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the Kingsoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE Kingsoft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a picture&apos;s url is &quot;%1WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;. Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8105,15 +8270,27 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Presume the file path of this document is</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert part of a file by using OLE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Forma&amp;t:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document &amp;property:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Presume the Kingsoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE Kingsoft</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8405,7 +8582,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Replace Font</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahradit písmo</translation>
     </message>
     <message>
         <source>Replace Paragraph</source>
@@ -8522,93 +8699,12 @@ Example: +4 will move forward four items:</source>
 <context>
     <name>KxFontDlg</name>
     <message>
-        <source>(None)</source>
-        <translation type="unfinished">(Žádný)</translation>
-    </message>
-    <message>
         <source>(Use Asian Text Font)</source>
         <translation type="obsolete">(None)</translation>
     </message>
     <message>
         <source>(Use Asian text font)</source>
-        <translation>(None)</translation>
-    </message>
-    <message>
-        <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished">5 5,5 6,5 7,5 8 9 10 10,5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
-    </message>
-    <message>
-        <source>Asian text fo&amp;nt:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation type="unfinished">Tučné</translation>
-    </message>
-    <message>
-        <source>Bold Italic</source>
-        <translation type="unfinished">Tučné zkosené</translation>
-    </message>
-    <message>
-        <source>Do you want to change the default settings for font?
-This change will affect all new documents based on the %1 template.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation type="unfinished">Zkosené</translation>
-    </message>
-    <message>
-        <source>Latin text &amp;font:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Measurement must be between %1 pt and %2 pt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Not Bold</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Not Italic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Regular</source>
-        <translation type="unfinished">Normání</translation>
-    </message>
-    <message>
-        <source>Save failed. Normal Template is occupied.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The number must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This font style is not available.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is not a valid measurement.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is not a valid number.</source>
-        <translation type="unfinished">Toto není platné číslo</translation>
-    </message>
-    <message>
-        <source>This font has not been installed. The most similar available font will be printed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">(None)</translation>
     </message>
 </context>
 <context>
@@ -8675,6 +8771,20 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
 </context>
 <context>
+    <name>KxFormatProperty</name>
+    <message>
+        <source>TRANSFORM</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_SizePro</name>
+    <message>
+        <source>PROPERTY</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxFormatRestrictionsDlg</name>
     <message>
         <source>All styles</source>
@@ -8695,6 +8805,17 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>This document may contain formatting or styles that are not allowed. Do you want to remove them?</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormattingTp</name>
+    <message>
+        <source>Format Text</source>
+        <translation type="unfinished">Formátovat text</translation>
+    </message>
+    <message>
+        <source>Format Shape</source>
+        <translation type="unfinished">Formát tvaru</translation>
     </message>
 </context>
 <context>
@@ -9226,6 +9347,22 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Italic, </source>
         <translation type="unfinished"></translation>
     </message>
@@ -9287,6 +9424,10 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Chinese Bahao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text &amp;Effects...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9449,6 +9590,22 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Italic, </source>
         <translation type="unfinished"></translation>
     </message>
@@ -9516,6 +9673,10 @@ Cancel:	Return to the dialog.</source>
         <source>Chinese Bahao</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Text &amp;Effects...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOptionsDlg</name>
@@ -9529,7 +9690,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potvrzení hesla neodpovídá.</translation>
     </message>
     <message>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
@@ -9560,16 +9721,16 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>No Documents Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
         <translation type="unfinished">Adresář &quot;%1&quot; není platný.</translation>
-    </message>
-    <message>
-        <source>No Documents Open</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9827,13 +9988,6 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
 </context>
 <context>
-    <name>KxParagraphDlg</name>
-    <message>
-        <source>This is not a valid measurement.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxPhoneticGuideDlg</name>
     <message>
         <source>Please select the base text for the Phonetic Guide.</source>
@@ -9879,7 +10033,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxProtectDocumentDlg</name>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potvrzení hesla neodpovídá.</translation>
     </message>
 </context>
 <context>
@@ -10011,13 +10165,6 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>Row %1</source>
         <translation type="unfinished">Řádek %1</translation>
-    </message>
-</context>
-<context>
-    <name>KxTabsDlg</name>
-    <message>
-        <source>All</source>
-        <translation type="unfinished">Vše</translation>
     </message>
 </context>
 <context>
@@ -10309,6 +10456,89 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxTpWpsXMLMappingWidget</name>
+    <message>
+        <source>(add customXmlparts...)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This XML file could not be used to create a new part in the document because it&apos;s not valid XML.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Insert Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Repeat</source>
+        <translation type="unfinished">Opakovat</translation>
+    </message>
+    <message>
+        <source>&amp;Rich Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plain &amp;Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comno &amp;Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Dropdown List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Pic&amp;ker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Map to Selected Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Files</source>
+        <translation type="unfinished">XML soubory</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation type="unfinished">Všechny soubory</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Otevřít</translation>
+    </message>
+    <message>
+        <source>Rich text content controls cannot be mapped to built-in document properties.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rich text content controls cannot be mapped when they are nested within other mapped rich text content controls.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The custom XML node is already mapped to a plain text Content control, so it can&apos;t be mapped to a rich text content control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The custom XML node is already mapped to a rich text Content control, so it can&apos;t be mapped to a plain text content control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(empty namespaceURI)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxTpXMLStructureWidget</name>
     <message>
         <source>Templates And AddIns...</source>
@@ -10392,10 +10622,6 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Drawing Grid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Horizontal alignment</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10408,11 +10634,34 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>To&amp;p and bottom</source>
+        <source>Wrapping style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Wrapping style</source>
+        <source>rbHorizontalCenter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>rbHorizontalLeft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>rbHorizontalOther</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>rbHorizontalRight</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpXMLMapping</name>
+    <message>
+        <source>XmlMapping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>custom xmlparts:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10509,13 +10758,6 @@ to a Word XML document.</source>
     <message>
         <source>Words</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWps3DColorModel</name>
-    <message>
-        <source>Automatic</source>
-        <translation type="unfinished">Automaticky</translation>
     </message>
 </context>
 <context>
@@ -10756,6 +10998,20 @@ to a Word XML document.</source>
     <message>
         <source>Column</source>
         <translation type="unfinished">Sloupec</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsCompatibilityModeCommand</name>
+    <message>
+        <source>Compatibility Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsContentButtonMgr</name>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished">Obrázek</translation>
     </message>
 </context>
 <context>
@@ -11245,6 +11501,20 @@ to a Word XML document.</source>
     </message>
 </context>
 <context>
+    <name>KxWpsDlgHorizontalLine</name>
+    <message>
+        <source>Format Horizontal Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgShapeLayout</name>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished">Rozvržení</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsDlgTemplateAndAddin</name>
     <message>
         <source> Full path: </source>
@@ -11461,6 +11731,13 @@ to a Word XML document.</source>
     </message>
 </context>
 <context>
+    <name>KxWpsDropDownButton</name>
+    <message>
+        <source>(No entry)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsFieldNameDelimiterDlg</name>
     <message>
         <source>The field delimiter cannot be the same as the record delimiter.</source>
@@ -11470,22 +11747,239 @@ to a Word XML document.</source>
 <context>
     <name>KxWpsFillColorModel</name>
     <message>
-        <source>No Fill</source>
-        <translation type="unfinished">Bez výplně</translation>
+        <source>No Color</source>
+        <translation type="unfinished">Bez barvy</translation>
     </message>
 </context>
 <context>
-    <name>KxWpsFillColorModel2</name>
+    <name>KxWpsFillColorRainbowModel</name>
     <message>
-        <source>No Fill</source>
-        <translation type="unfinished">Bez výplně</translation>
+        <source>No Color</source>
+        <translation type="unfinished">Bez barvy</translation>
     </message>
 </context>
 <context>
-    <name>KxWpsFontColorModel</name>
+    <name>KxWpsFontDlg</name>
     <message>
-        <source>Automatic</source>
-        <translation type="unfinished">Automaticky</translation>
+        <source>(Use Asian text font)</source>
+        <translation type="unfinished">(None)</translation>
+    </message>
+    <message>
+        <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
+        <translation type="unfinished">5 5,5 6,5 7,5 8 9 10 10,5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+    </message>
+    <message>
+        <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This font has not been installed. The most similar available font will be printed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Latin text &amp;font:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Asian text fo&amp;nt:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Regular</source>
+        <translation type="unfinished">Normání</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished">Zkosené</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished">Tučné</translation>
+    </message>
+    <message>
+        <source>Bold Italic</source>
+        <translation type="unfinished">Tučné zkosené</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation type="unfinished">(Žádný)</translation>
+    </message>
+    <message>
+        <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number must be between %1 and %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is not a valid number.</source>
+        <translation type="unfinished">Toto není platné číslo</translation>
+    </message>
+    <message>
+        <source>This font style is not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for font?
+This change will affect all new documents based on the %1 template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save failed. Normal Template is occupied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is not a valid measurement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Measurement must be between %1 pt and %2 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFontOutlineColorModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatGroupContent_TextBox</name>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Dole</translation>
+    </message>
+    <message>
+        <source>Top Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished">Vpravo</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">Střed</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished">Vlevo</translation>
+    </message>
+    <message>
+        <source>Right Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatProperty_Effects</name>
+    <message>
+        <source>SHADOW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>REFLECTION</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GLOW</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatProperty_FillAndLine</name>
+    <message>
+        <source>TEXT FILL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FILL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TEXT OUTLINE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LINE</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11536,6 +12030,17 @@ to a Word XML document.</source>
     <message>
         <source>Show Header Line Color</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsHorizontalLineDlg</name>
+    <message>
+        <source>Horizontal Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished">Obrázek</translation>
     </message>
 </context>
 <context>
@@ -11907,6 +12412,13 @@ to a Word XML document.</source>
     </message>
 </context>
 <context>
+    <name>KxWpsParagraphDlg</name>
+    <message>
+        <source>This is not a valid measurement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsPermissionInformationDlg</name>
     <message>
         <source>My Permission</source>
@@ -11970,6 +12482,13 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Request additional permissions…</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPictureButton</name>
+    <message>
+        <source>Click here to insert pictures.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12095,6 +12614,21 @@ to a Word XML document.</source>
     <message>
         <source>Table of Contents (None)</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsShapeLayoutDlg</name>
+    <message>
+        <source>Position</source>
+        <translation type="unfinished">Pozice</translation>
+    </message>
+    <message>
+        <source>Text Wrapping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Velikost</translation>
     </message>
 </context>
 <context>
@@ -12288,6 +12822,13 @@ to a Word XML document.</source>
     </message>
 </context>
 <context>
+    <name>KxWpsSpinboxCommand</name>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsStatusColumnInfoCommand</name>
     <message>
         <source>Column: %1</source>
@@ -12382,17 +12923,24 @@ to a Word XML document.</source>
     </message>
 </context>
 <context>
-    <name>KxWpsTableBorderColorModel</name>
+    <name>KxWpsSubWindow</name>
     <message>
-        <source>Automatic</source>
-        <translation type="unfinished">Automaticky</translation>
+        <source>Compatibility Mode</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWpsTableFillColorModel</name>
     <message>
-        <source>No Fill</source>
-        <translation type="unfinished">Bez výplně</translation>
+        <source>No Color</source>
+        <translation type="unfinished">Bez barvy</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsTabsDlg</name>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">Vše</translation>
     </message>
 </context>
 <context>
@@ -12438,15 +12986,15 @@ to a Word XML document.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Word Templates(*.wpt);;Word Add-Ins(*.wll);;All Files(*.*)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>XML Files</source>
         <translation type="unfinished">XML soubory</translation>
     </message>
     <message>
-        <source>Common Template Normal.WPT has opened to load.</source>
+        <source>Word Templates(*.dotx; *.dotm; *.dot; *.wpt);;Word Add-Ins(*.wll);;All Files(*.*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Template Normal.dotm has opened to load.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12529,10 +13077,14 @@ to a Word XML document.</source>
     </message>
 </context>
 <context>
-    <name>KxWpsUnderlineColorModel</name>
+    <name>KxWpsTpFormatting</name>
     <message>
-        <source>Automatic</source>
-        <translation type="unfinished">Automaticky</translation>
+        <source>Format Ink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Picture</source>
+        <translation type="unfinished">Formát obrázku</translation>
     </message>
 </context>
 <context>
@@ -12558,6 +13110,480 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Edit Watermark</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetChildShapePosition</name>
+    <message>
+        <source>Position</source>
+        <translation type="unfinished">Pozice</translation>
+    </message>
+    <message>
+        <source>&amp;Horizontal:</source>
+        <translation type="unfinished">Vodorovně:</translation>
+    </message>
+    <message>
+        <source>pt, 2, -1584, 1584, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;From:</source>
+        <translation type="unfinished">&amp;Od:</translation>
+    </message>
+    <message>
+        <source>Top Left Corner</source>
+        <translation type="unfinished">Levý horní roh</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">Střed</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical:</source>
+        <translation type="unfinished">Svisle:</translation>
+    </message>
+    <message>
+        <source>F&amp;rom:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetHorizontalLine</name>
+    <message>
+        <source>%, 1, 1, 100, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0.05, 1584, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alignment</source>
+        <translation type="unfinished">Zarovnání</translation>
+    </message>
+    <message>
+        <source>&amp;Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;enter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <translation type="unfinished">Procent</translation>
+    </message>
+    <message>
+        <source>&amp;Measure in:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Use solid color(no shade)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetPosition</name>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished">Vlevo</translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation type="unfinished">Vystředěný</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished">Vpravo</translation>
+    </message>
+    <message>
+        <source>&amp;Book layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>r&amp;elative to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Relative position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ali&amp;gnment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Margin</source>
+        <translation type="unfinished">Okraj</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <translation type="unfinished">Stránka</translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation type="unfinished">Odstavec</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished">Čára</translation>
+    </message>
+    <message>
+        <source>Top Margin</source>
+        <translation type="unfinished">Horní okraj</translation>
+    </message>
+    <message>
+        <source>Bottom Margin</source>
+        <translation type="unfinished">Dolní okraj</translation>
+    </message>
+    <message>
+        <source>Inside Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, -1584, 1584, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Možnosti</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished">Vodorovně</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished">Svisle</translation>
+    </message>
+    <message>
+        <source>relative t&amp;o</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Absolute po&amp;sition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>belo&amp;w</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Absolute &amp;position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;to the right of</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>o&amp;f</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;relative to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Margin</source>
+        <translation type="unfinished">Levý okraj</translation>
+    </message>
+    <message>
+        <source>Right Margin</source>
+        <translation type="unfinished">Pravý okraj</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <translation type="unfinished">Sloupec</translation>
+    </message>
+    <message>
+        <source>Character</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relat&amp;ive position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Dole</translation>
+    </message>
+    <message>
+        <source>&amp;Alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow o&amp;verlap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Layout in table &amp;cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%, 1, -1000, 1000, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Move object with text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lock anchor</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetSize</name>
+    <message>
+        <source>Absolut&amp;e</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Re&amp;lative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>degree, 0, -3600, 3600, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished">Šířka</translation>
+    </message>
+    <message>
+        <source>%, 0, 0, 10675, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished">Výška:</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock &amp;aspect ratio</source>
+        <translation type="unfinished">Zchovat poměr stran</translation>
+    </message>
+    <message>
+        <source>&amp;Relative to original picture size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 168480, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Height:</source>
+        <translation type="unfinished">Výška:</translation>
+    </message>
+    <message>
+        <source>&amp;Width:</source>
+        <translation type="unfinished">Šířka:</translation>
+    </message>
+    <message>
+        <source>Ro&amp;tation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relat&amp;ive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;bsolute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>relative &amp;to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>r&amp;elative to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Margin</source>
+        <translation type="unfinished">Okraj</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <translation type="unfinished">Stránka</translation>
+    </message>
+    <message>
+        <source>Top Margin</source>
+        <translation type="unfinished">Horní okraj</translation>
+    </message>
+    <message>
+        <source>Bottom Margin</source>
+        <translation type="unfinished">Dolní okraj</translation>
+    </message>
+    <message>
+        <source>Inside Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Margin</source>
+        <translation type="unfinished">Levý okraj</translation>
+    </message>
+    <message>
+        <source>Right Margin</source>
+        <translation type="unfinished">Pravý okraj</translation>
+    </message>
+    <message>
+        <source>%, 1, 1, 1000, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished">Výška</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished">Šířka</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="unfinished">Otočit</translation>
+    </message>
+    <message>
+        <source>Scale</source>
+        <translation type="unfinished">Měřítko</translation>
+    </message>
+    <message>
+        <source>Original size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Re&amp;set</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetTextWrapping</name>
+    <message>
+        <source>Wrapping style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;quare</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Tight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>T&amp;hrough</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>T&amp;op and bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Behind text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In fro&amp;nt of text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;In line with text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Both &amp;sides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Left only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Right only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>L&amp;argest only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distance from text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To&amp;p</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>L&amp;eft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Botto&amp;m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ri&amp;ght</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWordArtInsertCommand</name>
+    <message>
+        <source>Your text here</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12671,15 +13697,11 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>OFD Format(*.ofd)|*.ofd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No macro is currently recording. Click to begin recording a new macro.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have changed WPS&apos;s default envelope handing method for this printer. These changes could be incorrect. Choose Reset to return to WPS defaults.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12717,10 +13739,315 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
 </context>
 <context>
+    <name>WpsContentTextbox</name>
+    <message>
+        <source>&amp;Vertical alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Dole</translation>
+    </message>
+    <message>
+        <source>Te&amp;xt direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished">Vodorovně</translation>
+    </message>
+    <message>
+        <source>Vertical from Right to Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical from Left to Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation type="unfinished">Otočit veškerý text o 90°</translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation type="unfinished">Otočit veškerý text o 270°</translation>
+    </message>
+    <message>
+        <source>Rotate Asian Charaters 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Borderless</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Narrow Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wide Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Widening Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text c&amp;ustom angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Left Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter 0 to 55.88 cm of value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Right margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Top margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Bottom margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not rotate text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize shape to fit text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Wrap text in shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>dialogstestClass</name>
     <message>
         <source>dialogstest</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Hlavní</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation type="unfinished">Uložit &amp;do</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">Procházet...</translation>
+    </message>
+    <message>
+        <source>Page range</source>
+        <translation type="unfinished">Rozsah stránek</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">Vše</translation>
+    </message>
+    <message>
+        <source>Current page</source>
+        <translation type="unfinished">Aktuální stránku</translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Výběr</translation>
+    </message>
+    <message>
+        <source>Page(s)</source>
+        <translation type="unfinished">Strana(y)</translation>
+    </message>
+    <message>
+        <source>From:</source>
+        <translation type="unfinished">Od:</translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation type="unfinished">Do:</translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished">Možnosti exportu</translation>
+    </message>
+    <message>
+        <source>Summar&amp;y information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New &amp;Comment</source>
+        <translation type="unfinished">Nový komentář</translation>
+    </message>
+    <message>
+        <source>&amp;Hyperlink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Li&amp;nks of footnotes and endnotes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Placeholder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Boo&amp;kmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Revision</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Con&amp;vert title styles to bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert other &amp;styles to bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert c&amp;ustom styles to bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select OFD Service Provider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suwell&amp;K</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Foxit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation type="unfinished">Nastavení zabezpečení</translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation type="unfinished">Heslo:</translation>
+    </message>
+    <message>
+        <source>Con&amp;firm:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to mo&amp;dify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to c&amp;opy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permit to &amp;add comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P&amp;rinting permission:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation type="unfinished">Tisk není povolený</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished">Tisk v nízké kvalitě</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pass&amp;word:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Conf&amp;irm:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close when e&amp;xport completes</source>
+        <translation type="unfinished">Po dokončení e&amp;xportu zavřít</translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
     </message>
 </context>
 <context>
@@ -12838,14 +14165,6 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <translation type="unfinished">Export do PDF souboru</translation>
     </message>
     <message>
-        <source>Password to prot&amp;ect permission settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Page range</source>
         <translation type="unfinished">Rozsah stránek</translation>
     </message>
@@ -12873,6 +14192,14 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <source>To:</source>
         <translation type="unfinished">Do:</translation>
     </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
@@ -12887,29 +14214,6 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <message>
         <source>Export to PDF File</source>
         <translation type="unfinished">Export do PDF</translation>
-    </message>
-</context>
-<context>
-    <name>kxDlgThesaurus</name>
-    <message>
-        <source>Thesaurus</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current word:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Alternatives:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Replace</source>
-        <translation type="unfinished">Nahradit</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
     </message>
 </context>
 <context>
