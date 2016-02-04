@@ -3,17 +3,19 @@
 LNG=`basename "$PWD"`
 ICO=`cat lang.conf | sed -n '/Icon=/ s/Icon=//p'`
 
+source "$(dirname $0)/funcs.sh"
+
 if [ "x$USER" == "xroot" ]; then
-	DEST=/opt/kingsoft/wps-office/office6/mui/$LNG
+	DEST="$(root_install_path)/$LNG"
 else
-	DEST=$HOME/.kingsoft/office6/mui/$LNG
+	DEST="$(user_install_path)/$LNG"
 fi
-	
 
 function install_file
 {
 	ls $1 >/dev/null 2>&1 && cp $1 "$DEST" && echo "Install" $1 "Succeed." 
 }
+
 function install_dir
 {
 	[ -d "$1" ] && cp -r "$1" "$DEST" && echo "Install" $1 "Succeed."
