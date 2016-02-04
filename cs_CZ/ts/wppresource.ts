@@ -168,7 +168,7 @@
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>Label</source>
@@ -204,7 +204,7 @@
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přepínací tlačítko</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -1619,7 +1619,7 @@ Master</source>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished">Spojit buňky</translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -2406,7 +2406,7 @@ ovl. prvku</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>Label</source>
@@ -2446,7 +2446,7 @@ ovl. prvku</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přepínací tlačítko</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -8682,7 +8682,7 @@ Template</source>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished">Spojit buňky</translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message>
         <source>Minisite</source>
@@ -10057,7 +10057,7 @@ Template</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>Label</source>
@@ -10097,7 +10097,7 @@ Template</source>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přepínací tlačítko</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -13316,7 +13316,7 @@ Settings</source>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished">Spojit buňky</translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message>
         <source>More Options...</source>

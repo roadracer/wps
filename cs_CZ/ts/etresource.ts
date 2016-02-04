@@ -203,7 +203,7 @@
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>Label</source>
@@ -239,7 +239,7 @@
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přepínací tlačítko</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -850,7 +850,7 @@ OLE DB dotaz</translation>
     </message>
     <message>
         <source>Center Across</source>
-        <translation type="unfinished">Vystředit napříč</translation>
+        <translation type="unfinished">Spojit a vystředit napříč</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -903,11 +903,11 @@ Center</source>
     </message>
     <message>
         <source>Merge Across</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloučit přes</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished">Spojit buňky</translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message>
         <source>Merge and 
@@ -917,7 +917,7 @@ vystředit</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished">Spojit a vystředit</translation>
+        <translation type="unfinished">Sloučit a vystředit</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -3563,7 +3563,7 @@ režim návrhu</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>Label</source>
@@ -3611,7 +3611,7 @@ režim návrhu</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přepínací tlačítko</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -4897,7 +4897,7 @@ Used</source>
     </message>
     <message>
         <source>Center Across</source>
-        <translation type="unfinished">Vystředit napříč</translation>
+        <translation type="unfinished">Spojit a vystředit napříč</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -5216,15 +5216,15 @@ Center</source>
     </message>
     <message>
         <source>Merge Across</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloučit přes</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished">Spojit buňky</translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished">Spojit a vystředit</translation>
+        <translation type="unfinished">Sloučit a vystředit</translation>
     </message>
     <message>
         <source>Min</source>
@@ -8825,7 +8825,7 @@ Shape</source>
     </message>
     <message>
         <source>Assign Macro</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přiřadit makro</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -8915,7 +8915,7 @@ COM</translation>
     </message>
     <message>
         <source>Center Across</source>
-        <translation type="unfinished">Vystředit napříč</translation>
+        <translation type="unfinished">Spojit a vystředit napříč</translation>
     </message>
     <message>
         <source>Centered Overlay</source>
@@ -9732,7 +9732,7 @@ COM</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished">Spojit buňky</translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message>
         <source>Merge Columns</source>
@@ -9740,7 +9740,7 @@ COM</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished">Spojit a vystředit</translation>
+        <translation type="unfinished">Sloučit a vystředit</translation>
     </message>
     <message>
         <source>Min</source>
@@ -11022,11 +11022,11 @@ OLE DB dotaz</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukončit režim návrhu</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>Label</source>
@@ -11074,7 +11074,7 @@ OLE DB dotaz</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přepínací tlačítko</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -12353,7 +12353,7 @@ Trig</source>
     </message>
     <message>
         <source>Center Across</source>
-        <translation type="unfinished">Vystředit napříč</translation>
+        <translation type="unfinished">Spojit a vystředit napříč</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -12653,11 +12653,11 @@ Trig</source>
     </message>
     <message>
         <source>Merge Across</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloučit přes</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished">Spojit buňky</translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message>
         <source>Merge and
@@ -12666,7 +12666,7 @@ Center</source>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished">Spojit a vystředit</translation>
+        <translation type="unfinished">Sloučit a vystředit</translation>
     </message>
     <message>
         <source>Min</source>

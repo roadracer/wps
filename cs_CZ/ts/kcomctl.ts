@@ -590,7 +590,7 @@
     <name>KMainWindow</name>
     <message>
         <source>&amp;Exit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kon&amp;ec</translation>
     </message>
     <message>
         <source>&amp;Restore</source>

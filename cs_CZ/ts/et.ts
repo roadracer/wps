@@ -1172,7 +1172,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Center Across</source>
-        <translation type="unfinished">Vystředit napříč</translation>
+        <translation type="unfinished">Spojit a vystředit napříč</translation>
     </message>
     <message>
         <source>Center</source>
@@ -2396,7 +2396,7 @@ Use it when:
     </message>
     <message>
         <source>Assign Macro</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přiřadit makro</translation>
     </message>
     <message>
         <source>Description</source>
@@ -9998,7 +9998,7 @@ system will remind you to check the correctness of the contents.
     <name>KxStyleMergeLegacyTriggerCommand</name>
     <message>
         <source>Merge Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloučit styl</translation>
     </message>
 </context>
 <context>
@@ -11461,7 +11461,7 @@ t</source>
     </message>
     <message>
         <source>Center Across</source>
-        <translation type="unfinished">Vystředit napříč</translation>
+        <translation type="unfinished">Spojit a vystředit napříč</translation>
     </message>
     <message>
         <source>Change Constraint</source>

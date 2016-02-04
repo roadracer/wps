@@ -26,7 +26,7 @@
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Heslo:</translation>
     </message>
     <message>
         <source>Test</source>
@@ -99,7 +99,7 @@
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Heslo:</translation>
     </message>
     <message>
         <source>Port:</source>

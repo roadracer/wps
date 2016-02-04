@@ -296,7 +296,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <message id="ColumnsCenter.title">
         <source>Center Across</source>
         <extracomment>ColumnsCenter.title</extracomment>
-        <translation type="unfinished">Vystředit napříč</translation>
+        <translation type="unfinished">Spojit a vystředit napříč</translation>
     </message>
     <message id="ColumnsCenter.content">
         <source>Select continuous cells in one row or multiple rows, set the content of the cells to the center.</source>
@@ -1256,7 +1256,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="MergeCenter.title">
         <source>Merge and Center</source>
         <extracomment>MergeCenter.title</extracomment>
-        <translation type="unfinished">Spojit a vystředit</translation>
+        <translation type="unfinished">Sloučit a vystředit</translation>
     </message>
     <message id="MergeCenter.content">
         <source>Joins the selected cells into one larger cell and centers the contents in the new cell.</source>
@@ -1266,7 +1266,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="MergeCenter2.title">
         <source>Merge and Center</source>
         <extracomment>MergeCenter2.title</extracomment>
-        <translation type="unfinished">Spojit a vystředit</translation>
+        <translation type="unfinished">Sloučit a vystředit</translation>
     </message>
     <message id="MergeCenter2.content">
         <source>Joins the selected cells into one larger cell and centers the contents in the new cell.</source>
@@ -1276,7 +1276,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="MergeColumns.title">
         <source>Merge Across</source>
         <extracomment>MergeColumns.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloučit přes</translation>
     </message>
     <message id="MergeColumns.content">
         <source>Select and merge cells across one or multiple rows.</source>
@@ -1286,7 +1286,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="MergeSelection.title">
         <source>Merge Cells</source>
         <extracomment>MergeSelection.title</extracomment>
-        <translation type="unfinished">Spojit buňky</translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message id="MergeSelection.content">
         <source>Merge the selected cells into one cell.</source>

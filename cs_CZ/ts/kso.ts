@@ -1696,7 +1696,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Exit Design Mode</source>
         <comment>DgUil_OLEControl_ExitDesignMode</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukončit režim návrhu</translation>
     </message>
     <message>
         <source>Controls</source>

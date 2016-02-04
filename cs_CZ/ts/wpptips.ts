@@ -899,7 +899,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="MergeCells.title">
         <source>Merge Cells</source>
         <extracomment>MergeCells.title</extracomment>
-        <translation type="unfinished">Spojit buňky</translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message id="MergeCells.content">
         <source>Merge the selected cells into one cell.</source>

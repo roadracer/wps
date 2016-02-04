@@ -242,7 +242,7 @@
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Heslo:</translation>
     </message>
     <message>
         <source>king+5688</source>
@@ -394,7 +394,7 @@
     </message>
     <message>
         <source>Version details</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Detaily verze</translation>
     </message>
     <message>
         <source>This is already the latest version and do not need to be upgraded.</source>
@@ -402,11 +402,11 @@
     </message>
     <message>
         <source>Upgrading to new version...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upgraduji na novou verzi...</translation>
     </message>
     <message>
         <source>Upgrade failed. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upgrade selhal. Zkuste to prosím později.</translation>
     </message>
     <message>
         <source>Transfering file &lt;a href=&quot;viewtransferdetail&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;&lt;/a&gt;. Exiting the program will terminate the tansfer.</source>
@@ -414,7 +414,7 @@
     </message>
     <message>
         <source>Are you sure to exit?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opravdu ukončit ?</translation>
     </message>
     <message>
         <source>OK</source>
@@ -430,7 +430,7 @@
     </message>
     <message>
         <source>Are you sure to sign out?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opravdu se chcete odhlásit ?</translation>
     </message>
     <message>
         <source>Transfering file &lt;a href=&quot;viewtransferdetail&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;&lt;/a&gt;. Switch user will terminate the tansfer.</source>
@@ -438,7 +438,7 @@
     </message>
     <message>
         <source>Are you sure to switch user?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opravdu chcete přepnout uživatele ?</translation>
     </message>
     <message>
         <source>&amp;WPS Office Cloud</source>
@@ -474,7 +474,7 @@
     </message>
     <message>
         <source>&amp;Switch User</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Přepnout uživatele</translation>
     </message>
     <message>
         <source>&amp;Sign Out</source>
@@ -486,11 +486,11 @@
     </message>
     <message>
         <source>&amp;Exit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kon&amp;ec</translation>
     </message>
     <message>
         <source>Close the currently opened document before sign out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Před odhlášením zavřete aktuálně otevřený dokument</translation>
     </message>
     <message>
         <source>Enabling right-click upload function succeeded.</source>
@@ -553,7 +553,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Heslo:</translation>
     </message>
     <message>
         <source>Test</source>
@@ -994,7 +994,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Heslo:</translation>
     </message>
     <message>
         <source>Port:</source>

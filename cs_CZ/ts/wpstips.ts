@@ -1719,7 +1719,7 @@ For example, you can indicate that your custom field &quot;Zip&quot; is equivale
     <message id="MergeCells.title">
         <source>Merge Cells</source>
         <extracomment>MergeCells.title</extracomment>
-        <translation type="unfinished">Spojit buňky</translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message id="MergeCells.content">
         <source>Merge the selected cells into one cell.</source>
@@ -3523,7 +3523,7 @@ When grouped, a text range cannot be edited, except in regions containing editab
     </message>
     <message id="XmlMapping.title">
         <source>XML Mapping Pane</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Panel mapování XML</translation>
     </message>
     <message id="XmlMapping.content">
         <source>See the XML data stored in this document and create content controls that are linked to it.</source>

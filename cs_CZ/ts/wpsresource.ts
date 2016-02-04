@@ -254,7 +254,7 @@
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>Label</source>
@@ -290,7 +290,7 @@
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přepínací tlačítko</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -1917,7 +1917,7 @@
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished">Spojit buňky</translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message>
         <source>Min</source>
@@ -2731,7 +2731,7 @@ režim návrhu</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>Label</source>
@@ -2775,7 +2775,7 @@ režim návrhu</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přepínací tlačítko</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -2792,7 +2792,7 @@ Editor</source>
     </message>
     <message>
         <source>XML Mapping Pane</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Panel mapování XML</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
@@ -8102,7 +8102,7 @@ Effects</source>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished">Spojit buňky</translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message>
         <source>Min</source>
@@ -9399,7 +9399,7 @@ Shape</source>
     </message>
     <message>
         <source>Text Tools</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nástroje pro text</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -10758,7 +10758,7 @@ Painter</source>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished">Spojit buňky</translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message>
         <source>Min</source>
@@ -12189,11 +12189,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Exit Design Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukončit režim návrhu</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>Label</source>
@@ -12237,7 +12237,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přepínací tlačítko</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -12253,7 +12253,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>XML Mapping Pane</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Panel mapování XML</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
@@ -17318,7 +17318,7 @@ Zap/Vyp</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished">Spojit buňky</translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message>
         <source>Min</source>
@@ -19076,11 +19076,11 @@ efekty</translation>
     </message>
     <message>
         <source>Text Tools</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nástroje pro text</translation>
     </message>
     <message>
         <source>User Sign in</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přihlášení uživatele</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -20582,7 +20582,7 @@ Directly</source>
     </message>
     <message>
         <source>User Sign in</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přihlášení uživatele</translation>
     </message>
     <message>
         <source>View</source>

@@ -183,7 +183,7 @@
     <message>
         <source>Merge Cells</source>
         <comment>ObjTable_MergeCells</comment>
-        <translation type="unfinished">Spojit buňky</translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message>
         <source>Insert Rows Above</source>

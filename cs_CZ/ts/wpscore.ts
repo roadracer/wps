@@ -2167,7 +2167,7 @@ Do you want to replace it?</source>
     <message>
         <source>Image</source>
         <comment>_TxBuiltInCaptionLabelImage</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>%s is not a valid special character for the Replace With box.</source>
@@ -5575,7 +5575,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Merge Cells</source>
         <comment>TxVersion_MergeCells</comment>
-        <translation type="unfinished">Spojit buňky</translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message>
         <source>Repeat Heading</source>

@@ -9625,7 +9625,7 @@ Data</source>
     <message>
         <source>Assign Macro</source>
         <comment>TXShell_AssignMacro_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přiřadit makro</translation>
     </message>
     <message>
         <source>It&apos;s not allowed to open the file when editing the cell.</source>
@@ -14262,7 +14262,7 @@ There are several possible reasons:
     <message>
         <source>Merge and Center</source>
         <comment>TX_Undo_MergeCenter</comment>
-        <translation type="unfinished">Spojit a vystředit</translation>
+        <translation type="unfinished">Sloučit a vystředit</translation>
     </message>
     <message>
         <source>Currency</source>
@@ -16353,7 +16353,7 @@ tically, only keep one row.
     <message>
         <source>Center Across</source>
         <comment>et_sCenterAcross</comment>
-        <translation type="unfinished">Vystředit napříč</translation>
+        <translation type="unfinished">Spojit a vystředit napříč</translation>
     </message>
     <message>
         <source>An unexpected error has occurred, Changes to your data cannot be saved.</source>

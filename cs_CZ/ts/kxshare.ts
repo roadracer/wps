@@ -4396,23 +4396,23 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgHttpAuthentication</name>
     <message>
         <source>Require Http authentication</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyžadovat HTTP autentizaci</translation>
     </message>
     <message>
         <source>Connect to:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Připojit k:</translation>
     </message>
     <message>
         <source>Enter your username and password to sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zadejte uživatelské jméno a heslo pro přihlášení.</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uživatelské jméno:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Heslo:</translation>
     </message>
 </context>
 <context>
