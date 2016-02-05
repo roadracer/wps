@@ -1210,7 +1210,7 @@
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="unfinished">Resetovat obrázes</translation>
+        <translation type="unfinished">Resetovat obrázek</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -2522,7 +2522,7 @@ Editor</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished">Rozvrhnout</translation>
+        <translation type="unfinished">Pořadí</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -2957,7 +2957,7 @@ Editor</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished">Rozvrhnout</translation>
+        <translation type="unfinished">Pořadí</translation>
     </message>
     <message>
         <source>Arrow Style</source>
@@ -3854,7 +3854,7 @@ Effects</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished">Rozvrhnout</translation>
+        <translation type="unfinished">Pořadí</translation>
     </message>
     <message>
         <source>Arrow Style</source>
@@ -5041,7 +5041,7 @@ Number</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished">Rozvrhnout</translation>
+        <translation type="unfinished">Pořadí</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -5275,7 +5275,7 @@ obrázku</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="unfinished">Resetovat obrázes</translation>
+        <translation type="unfinished">Resetovat obrázek</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -6004,7 +6004,7 @@ Notes</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished">Rozvrhnout</translation>
+        <translation type="unfinished">Pořadí</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -7002,7 +7002,7 @@ On</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished">Rozvrhnout</translation>
+        <translation type="unfinished">Pořadí</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -10172,7 +10172,7 @@ Template</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished">Rozvrhnout</translation>
+        <translation type="unfinished">Pořadí</translation>
     </message>
     <message>
         <source>Arrow Style</source>
@@ -10635,7 +10635,7 @@ Template</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished">Rozvrhnout</translation>
+        <translation type="unfinished">Pořadí</translation>
     </message>
     <message>
         <source>Arrow Style</source>
@@ -11276,7 +11276,7 @@ Template</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished">Rozvrhnout</translation>
+        <translation type="unfinished">Pořadí</translation>
     </message>
     <message>
         <source>Arrow Style</source>
@@ -12401,7 +12401,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished">Rozvrhnout</translation>
+        <translation type="unfinished">Pořadí</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -12633,7 +12633,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="unfinished">Resetovat obrázes</translation>
+        <translation type="unfinished">Resetovat obrázek</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -13240,7 +13240,7 @@ Settings</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished">Rozvrhnout</translation>
+        <translation type="unfinished">Pořadí</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -14047,7 +14047,7 @@ efekty</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="unfinished">Rozvrhnout</translation>
+        <translation type="unfinished">Pořadí</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
@@ -15096,7 +15096,7 @@ snímku</translation>
     </message>
     <message>
         <source>MoreFill</source>
-        <translation type="unfinished">Výce výplní</translation>
+        <translation type="unfinished">Více výplní</translation>
     </message>
     <message>
         <source>MoreFontEffects</source>
