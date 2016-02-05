@@ -15,9 +15,19 @@ fi
 
 which zip || die "can not find zip"
 
-cd "$1"
+LNG=$1
 
-zip -r "$2".zip "$2/"
+source "$(dirname $0)/funcs.sh"
+
+if [ "x$USER" == "xroot" ]; then
+	DEST="$(root_install_path)"
+else
+	DEST="$(user_install_path)"
+fi
+
+cd "$DEST"
+
+zip -r "$LNG".zip "$LNG/"
 
 mv *.zip "$_last_pwd/../packages/"
 
