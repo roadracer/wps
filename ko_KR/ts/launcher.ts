@@ -10,23 +10,23 @@
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office에 오신 것을 환영합니다</translation>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>Create desktop shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">바로가기 만들기</translation>
     </message>
 </context>
 <context>
